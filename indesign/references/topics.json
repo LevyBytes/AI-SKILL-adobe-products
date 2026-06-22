@@ -1,0 +1,3308 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Whats New, Indesign Beta Overview, Indesign Server Overview",
+      "file": "references/help-whats-new.md",
+      "summary": "Desktop & Web Help: Whats New, Indesign Beta Overview, Indesign Server Overview.",
+      "keywords": [
+        "whats-new-indesign-beta-overview-indesign-server-overview",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Cloud Document Management Options, System And Product Info",
+      "file": "references/help-get-started.md",
+      "summary": "Desktop & Web Help: Cloud Document Management Options, System And Product Info.",
+      "keywords": [
+        "cloud-document-management-options-system-and-product-info",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create And Manage Workspaces, Keyboard Shortcuts, Customize Panels, Indesign Interface Preferences ...",
+      "file": "references/help-settings-and-preferences.md",
+      "summary": "Desktop & Web Help: Create And Manage Workspaces, Keyboard Shortcuts, Customize Panels, Indesign Interface Preferences ....",
+      "keywords": [
+        "create-and-manage-workspaces-keyboard-shortcuts-customize-panels-indesign-interface-preferences",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Scale User Interface",
+      "file": "references/help-scale-user-interface.md",
+      "summary": "Desktop & Web Help: Scale User Interface.",
+      "keywords": [
+        "scale-user-interface",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "View Select Tools, Change The Toolbox Layout, Use Contextual Task Bar, Create Layouts With Hand Gestures",
+      "file": "references/help-toolbox.md",
+      "summary": "Desktop & Web Help: View Select Tools, Change The Toolbox Layout, Use Contextual Task Bar, Create Layouts With Hand Gestures.",
+      "keywords": [
+        "view-select-tools-change-the-toolbox-layout-use-contextual-task-bar-create-layouts-with-hand-gestures",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Import And Convert File To Indesign",
+      "file": "references/help-create-and-organize-pages.md",
+      "summary": "Desktop & Web Help: Import And Convert File To Indesign.",
+      "keywords": [
+        "import-and-convert-file-to-indesign",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create New Documents, Open Indesign Documents, Create Documents With Presets, Create Multi Page Spreads ...",
+      "file": "references/help-create-documents.md",
+      "summary": "Desktop & Web Help: Create New Documents, Open Indesign Documents, Create Documents With Presets, Create Multi Page Spreads ....",
+      "keywords": [
+        "create-new-documents-open-indesign-documents-create-documents-with-presets-create-multi-page-spreads",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create And Manage Parent Pages, Create And Manage Book Files",
+      "file": "references/help-create-and-organize-pages-2.md",
+      "summary": "Desktop & Web Help: Create And Manage Parent Pages, Create And Manage Book Files.",
+      "keywords": [
+        "create-and-manage-parent-pages-create-and-manage-book-files",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Arrange And Order Pages, Manage Layers",
+      "file": "references/help-create-and-organize-pages-3.md",
+      "summary": "Desktop & Web Help: Arrange And Order Pages, Manage Layers.",
+      "keywords": [
+        "arrange-and-order-pages-manage-layers",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Add Page Numbers And Markers, Change Number Formatting, Switch Absolute Section Numbering, Document Numbering Options ...",
+      "file": "references/help-page-numbers-chapters-and-sections.md",
+      "summary": "Desktop & Web Help: Add Page Numbers And Markers, Change Number Formatting, Switch Absolute Section Numbering, Document Numbering Options ....",
+      "keywords": [
+        "add-page-numbers-and-markers-change-number-formatting-switch-absolute-section-numbering-document-numbering-options",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Apply Layout Adjustments",
+      "file": "references/help-layout-and-grid-tools.md",
+      "summary": "Desktop & Web Help: Apply Layout Adjustments.",
+      "keywords": [
+        "apply-layout-adjustments",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Ruler Guides, Show Hide Guides, Customize Ruler Guides, Manage Ruler Guides ...",
+      "file": "references/help-rulers-and-measure-tools.md",
+      "summary": "Desktop & Web Help: Create Ruler Guides, Show Hide Guides, Customize Ruler Guides, Manage Ruler Guides ....",
+      "keywords": [
+        "create-ruler-guides-show-hide-guides-customize-ruler-guides-manage-ruler-guides",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Customize Layout Grids, Use A Baseline Grid, Use A Document Grid, Convert Text Frames Grids ...",
+      "file": "references/help-grids.md",
+      "summary": "Desktop & Web Help: Create Customize Layout Grids, Use A Baseline Grid, Use A Document Grid, Convert Text Frames Grids ....",
+      "keywords": [
+        "create-customize-layout-grids-use-a-baseline-grid-use-a-document-grid-convert-text-frames-grids",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Gen Ai Features Overview, Generative Ai Faq, Use Ai Assistant, Ai Assistant Capabilities",
+      "file": "references/help-generative-ai-features.md",
+      "summary": "Desktop & Web Help: Gen Ai Features Overview, Generative Ai Faq, Use Ai Assistant, Ai Assistant Capabilities.",
+      "keywords": [
+        "gen-ai-features-overview-generative-ai-faq-use-ai-assistant-ai-assistant-capabilities",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Add And Manage Text Frames, Add And Import Text",
+      "file": "references/help-add-and-manage-text.md",
+      "summary": "Desktop & Web Help: Add And Manage Text Frames, Add And Import Text.",
+      "keywords": [
+        "add-and-manage-text-frames-add-and-import-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Type On A Path, Conditional And Variable Text",
+      "file": "references/help-add-and-manage-text-2.md",
+      "summary": "Desktop & Web Help: Type On A Path, Conditional And Variable Text.",
+      "keywords": [
+        "type-on-a-path-conditional-and-variable-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Format And Style Text",
+      "file": "references/help-format-and-style-text.md",
+      "summary": "Desktop & Web Help: Format And Style Text.",
+      "keywords": [
+        "format-and-style-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create And Edit Text Styles, Override Text Styles, Delete Text Styles, Add And Manage Text Styles From Cc Libraries ...",
+      "file": "references/help-text-styles.md",
+      "summary": "Desktop & Web Help: Create And Edit Text Styles, Override Text Styles, Delete Text Styles, Add And Manage Text Styles From Cc Libraries ....",
+      "keywords": [
+        "create-and-edit-text-styles-override-text-styles-delete-text-styles-add-and-manage-text-styles-from-cc-libraries",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Adjust Line Spacing With Leading, Change Text Color Gradient Or Stroke, Apply Transparency Effects, Type Scaling And Skewing ...",
+      "file": "references/help-character-formatting.md",
+      "summary": "Desktop & Web Help: Adjust Line Spacing With Leading, Change Text Color Gradient Or Stroke, Apply Transparency Effects, Type Scaling And Skewing ....",
+      "keywords": [
+        "adjust-line-spacing-with-leading-change-text-color-gradient-or-stroke-apply-transparency-effects-type-scaling-and-skewing",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Kerning And Tracking, Adjust Kerning, Adjust Tracking, Adjust Text Baseline ...",
+      "file": "references/help-tabs-indents-and-spacing.md",
+      "summary": "Desktop & Web Help: About Kerning And Tracking, Adjust Kerning, Adjust Tracking, Adjust Text Baseline ....",
+      "keywords": [
+        "about-kerning-and-tracking-adjust-kerning-adjust-tracking-adjust-text-baseline",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Set Text Composition, Control Hyphenation And Word Breaks, Apply And Manage Text Formatting, Apply Text Wrap ...",
+      "file": "references/help-composition-and-text-wrapping.md",
+      "summary": "Desktop & Web Help: Set Text Composition, Control Hyphenation And Word Breaks, Apply And Manage Text Formatting, Apply Text Wrap ....",
+      "keywords": [
+        "set-text-composition-control-hyphenation-and-word-breaks-apply-and-manage-text-formatting-apply-text-wrap",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Lists, Add Or Change Bullet Characters, Change Numbered List Options, Define And Manage List Options ...",
+      "file": "references/help-lists-and-numbering.md",
+      "summary": "Desktop & Web Help: Create Lists, Add Or Change Bullet Characters, Change Numbered List Options, Define And Manage List Options ....",
+      "keywords": [
+        "create-lists-add-or-change-bullet-characters-change-numbered-list-options-define-and-manage-list-options",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Fonts Overview, Apply And Format Fonts, Opentype Font Attributes, Preview And Explore Fonts ...",
+      "file": "references/help-fonts.md",
+      "summary": "Desktop & Web Help: Fonts Overview, Apply And Format Fonts, Opentype Font Attributes, Preview And Explore Fonts ....",
+      "keywords": [
+        "fonts-overview-apply-and-format-fonts-opentype-font-attributes-preview-and-explore-fonts",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Language Settings, Arabic And Hebrew",
+      "file": "references/help-language-and-proofing.md",
+      "summary": "Desktop & Web Help: Language Settings, Arabic And Hebrew.",
+      "keywords": [
+        "language-settings-arabic-and-hebrew",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Mojikumi And Yakumono In Japanese Layout, Spacing Classes And Yakumono Types, Apply Yakumono Character Types In Layout, Customize Mojikumi Spacing Sets ...",
+      "file": "references/help-chinese-japanese-and-korean.md",
+      "summary": "Desktop & Web Help: Mojikumi And Yakumono In Japanese Layout, Spacing Classes And Yakumono Types, Apply Yakumono Character Types In Layout, Customize Mojikumi Spacing Sets ....",
+      "keywords": [
+        "mojikumi-and-yakumono-in-japanese-layout-spacing-classes-and-yakumono-types-apply-yakumono-character-types-in-layout-customize-mojikumi-spacing-sets",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Add And Update Warichu Options, Apply Shatai To Text, Rotate Characters In East Asian Text, Adjust Aki Before And After Characters ...",
+      "file": "references/help-chinese-japanese-and-korean-2.md",
+      "summary": "Desktop & Web Help: Add And Update Warichu Options, Apply Shatai To Text, Rotate Characters In East Asian Text, Adjust Aki Before And After Characters ....",
+      "keywords": [
+        "add-and-update-warichu-options-apply-shatai-to-text-rotate-characters-in-east-asian-text-adjust-aki-before-and-after-characters",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Insert Glyphs And Special Characters, Open And View Glyphs, Replace Characters With Glyphs, Find And Replace Glyphs ...",
+      "file": "references/help-glyphs-characters-and-expressions.md",
+      "summary": "Desktop & Web Help: Insert Glyphs And Special Characters, Open And View Glyphs, Replace Characters With Glyphs, Find And Replace Glyphs ....",
+      "keywords": [
+        "insert-glyphs-and-special-characters-open-and-view-glyphs-replace-characters-with-glyphs-find-and-replace-glyphs",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Manage Language Dictionaries, Spell Check",
+      "file": "references/help-language-and-proofing-2.md",
+      "summary": "Desktop & Web Help: Manage Language Dictionaries, Spell Check.",
+      "keywords": [
+        "manage-language-dictionaries-spell-check",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Add A Table Of Contents, Footnotes And Endnotes",
+      "file": "references/help-indexes-and-references.md",
+      "summary": "Desktop & Web Help: Add A Table Of Contents, Footnotes And Endnotes.",
+      "keywords": [
+        "add-a-table-of-contents-footnotes-and-endnotes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create An Index, References And Bookmarks",
+      "file": "references/help-indexes-and-references-2.md",
+      "summary": "Desktop & Web Help: Create An Index, References And Bookmarks.",
+      "keywords": [
+        "create-an-index-references-and-bookmarks",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Add Graphics And Media",
+      "file": "references/help-add-graphics-and-media.md",
+      "summary": "Desktop & Web Help: Add Graphics And Media.",
+      "keywords": [
+        "add-graphics-and-media",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Generate Images With Text Prompts, Extend An Image Beyond Its Border, Apply Effects To Text And Shapes, Add Images ...",
+      "file": "references/help-add-edit-graphics.md",
+      "summary": "Desktop & Web Help: Generate Images With Text Prompts, Extend An Image Beyond Its Border, Apply Effects To Text And Shapes, Add Images ....",
+      "keywords": [
+        "generate-images-with-text-prompts-extend-an-image-beyond-its-border-apply-effects-to-text-and-shapes-add-images",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Manage Frames And Objects, Object Libraries And Snippets",
+      "file": "references/help-add-graphics-and-media-2.md",
+      "summary": "Desktop & Web Help: Manage Frames And Objects, Object Libraries And Snippets.",
+      "keywords": [
+        "manage-frames-and-objects-object-libraries-and-snippets",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Transform Objects, Transform Multiple Objects, Object Transformation Settings Options, About Anchored Objects ...",
+      "file": "references/help-transform-and-arrange-objects.md",
+      "summary": "Desktop & Web Help: Transform Objects, Transform Multiple Objects, Object Transformation Settings Options, About Anchored Objects ....",
+      "keywords": [
+        "transform-objects-transform-multiple-objects-object-transformation-settings-options-about-anchored-objects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Manage Links, Manage Object Styles, Movies And Sound",
+      "file": "references/help-add-graphics-and-media-3.md",
+      "summary": "Desktop & Web Help: Manage Links, Manage Object Styles, Movies And Sound.",
+      "keywords": [
+        "manage-links-manage-object-styles-movies-and-sound",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Animation, Page Transitions",
+      "file": "references/help-add-graphics-and-media-4.md",
+      "summary": "Desktop & Web Help: Animation, Page Transitions.",
+      "keywords": [
+        "animation-page-transitions",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Tables, Format Tables",
+      "file": "references/help-add-tables-and-data.md",
+      "summary": "Desktop & Web Help: Create Tables, Format Tables.",
+      "keywords": [
+        "create-tables-format-tables",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Table And Cell Styles, Strokes And Fills",
+      "file": "references/help-add-tables-and-data-2.md",
+      "summary": "Desktop & Web Help: Table And Cell Styles, Strokes And Fills.",
+      "keywords": [
+        "table-and-cell-styles-strokes-and-fills",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Buttons, Hyperlinks, Qr Codes",
+      "file": "references/help-interactive-elements-and-forms.md",
+      "summary": "Desktop & Web Help: Buttons, Hyperlinks, Qr Codes.",
+      "keywords": [
+        "buttons-hyperlinks-qr-codes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Interactive Pdf Options, Preview And Present Interactive Documents, Accessible Pdfs, Use Tags For Accessible Pdfs ...",
+      "file": "references/help-forms-and-pdfs.md",
+      "summary": "Desktop & Web Help: Interactive Pdf Options, Preview And Present Interactive Documents, Accessible Pdfs, Use Tags For Accessible Pdfs ....",
+      "keywords": [
+        "interactive-pdf-options-preview-and-present-interactive-documents-accessible-pdfs-use-tags-for-accessible-pdfs",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Drawing Tools, Draw Lines And Shapes, Edit And Style Paths",
+      "file": "references/help-create-lines-and-shapes.md",
+      "summary": "Desktop & Web Help: Drawing Tools, Draw Lines And Shapes, Edit And Style Paths.",
+      "keywords": [
+        "drawing-tools-draw-lines-and-shapes-edit-and-style-paths",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Paths From Text Outlines, Create Compound Paths, Fill Empty Spaces In Compound Paths, Break Out Compound Paths ...",
+      "file": "references/help-combine-and-convert-paths.md",
+      "summary": "Desktop & Web Help: Create Paths From Text Outlines, Create Compound Paths, Fill Empty Spaces In Compound Paths, Break Out Compound Paths ....",
+      "keywords": [
+        "create-paths-from-text-outlines-create-compound-paths-fill-empty-spaces-in-compound-paths-break-out-compound-paths",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Define And Manage Color Assets",
+      "file": "references/help-apply-color.md",
+      "summary": "Desktop & Web Help: Define And Manage Color Assets.",
+      "keywords": [
+        "define-and-manage-color-assets",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Apply Opacity And Transparency Effects, Transparency Effects Options And Settings, Change Transparency Display Settings, Apply Blending Modes ...",
+      "file": "references/help-advanced-color-techniques.md",
+      "summary": "Desktop & Web Help: Apply Opacity And Transparency Effects, Transparency Effects Options And Settings, Change Transparency Display Settings, Apply Blending Modes ....",
+      "keywords": [
+        "apply-opacity-and-transparency-effects-transparency-effects-options-and-settings-change-transparency-display-settings-apply-blending-modes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Track Changes And Review",
+      "file": "references/help-collaborate-and-review.md",
+      "summary": "Desktop & Web Help: Track Changes And Review.",
+      "keywords": [
+        "track-changes-and-review",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Share For Review Overview, Share Documents With Review Links, Review A Shared Document, Manage Feedback For Shared Documents ...",
+      "file": "references/help-share-and-collaborate.md",
+      "summary": "Desktop & Web Help: Share For Review Overview, Share Documents With Review Links, Review A Shared Document, Manage Feedback For Shared Documents ....",
+      "keywords": [
+        "share-for-review-overview-share-documents-with-review-links-review-a-shared-document-manage-feedback-for-shared-documents",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Assignment Files, Set User Identification, Set Up Assignment Packages, Create And Manage Assignments ...",
+      "file": "references/help-edit-with-incopy.md",
+      "summary": "Desktop & Web Help: About Assignment Files, Set User Identification, Set Up Assignment Packages, Create And Manage Assignments ....",
+      "keywords": [
+        "about-assignment-files-set-user-identification-set-up-assignment-packages-create-and-manage-assignments",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Save And Export",
+      "file": "references/help-save-export-and-publish.md",
+      "summary": "Desktop & Web Help: Save And Export.",
+      "keywords": [
+        "save-and-export",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Export To Epub, Export To Html And Web",
+      "file": "references/help-save-export-and-publish-2.md",
+      "summary": "Desktop & Web Help: Export To Epub, Export To Html And Web.",
+      "keywords": [
+        "export-to-epub-export-to-html-and-web",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Publish Indesign Documents Online, Set Up Google Analytics For Published Documents, Publish Online Faq",
+      "file": "references/help-publish-work-online.md",
+      "summary": "Desktop & Web Help: Publish Indesign Documents Online, Set Up Google Analytics For Published Documents, Publish Online Faq.",
+      "keywords": [
+        "publish-indesign-documents-online-set-up-google-analytics-for-published-documents-publish-online-faq",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Page Set Up And Printer Marks",
+      "file": "references/help-print.md",
+      "summary": "Desktop & Web Help: Page Set Up And Printer Marks.",
+      "keywords": [
+        "page-set-up-and-printer-marks",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Manage Inks For Separation, Customize Spot Color Appearance, Specify Halftone Frequency And Resolution, Use Spot Colors For Printing ...",
+      "file": "references/help-ink-and-color-management.md",
+      "summary": "Desktop & Web Help: Manage Inks For Separation, Customize Spot Color Appearance, Specify Halftone Frequency And Resolution, Use Spot Colors For Printing ....",
+      "keywords": [
+        "manage-inks-for-separation-customize-spot-color-appearance-specify-halftone-frequency-and-resolution-use-spot-colors-for-printing",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Color Separations, Prepare Documents For Color Separation, Create Color Separations, Save And Print Color Separations ...",
+      "file": "references/help-color-output-and-separations.md",
+      "summary": "Desktop & Web Help: About Color Separations, Prepare Documents For Color Separation, Create Color Separations, Save And Print Color Separations ....",
+      "keywords": [
+        "about-color-separations-prepare-documents-for-color-separation-create-color-separations-save-and-print-color-separations",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Trap A Document Or A Book, Trap Preset Options, Set The Trap Width For Colors Next To Black, Print A Composite ...",
+      "file": "references/help-color-output-and-separations-2.md",
+      "summary": "Desktop & Web Help: Trap A Document Or A Book, Trap Preset Options, Set The Trap Width For Colors Next To Black, Print A Composite ....",
+      "keywords": [
+        "trap-a-document-or-a-book-trap-preset-options-set-the-trap-width-for-colors-next-to-black-print-a-composite",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Overprint Strokes And Fills, Overprint Paragraph And Footnote Rules, Simulate Spot Ink Overprinting, Change The Black Overprint Setting ...",
+      "file": "references/help-color-output-and-separations-3.md",
+      "summary": "Desktop & Web Help: Overprint Strokes And Fills, Overprint Paragraph And Footnote Rules, Simulate Spot Ink Overprinting, Change The Black Overprint Setting ....",
+      "keywords": [
+        "overprint-strokes-and-fills-overprint-paragraph-and-footnote-rules-simulate-spot-ink-overprinting-change-the-black-overprint-setting",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Configure And Use The Preflight Panel, Create And Manage Preflight Profiles, View And Resolve Preflight Errors, Live Preflighting ...",
+      "file": "references/help-preflight.md",
+      "summary": "Desktop & Web Help: Configure And Use The Preflight Panel, Create And Manage Preflight Profiles, View And Resolve Preflight Errors, Live Preflighting ....",
+      "keywords": [
+        "configure-and-use-the-preflight-panel-create-and-manage-preflight-profiles-view-and-resolve-preflight-errors-live-preflighting",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Impose Documents For Booklet Printing, Booklet Types, Booklet Printing Settings, Adjust Creep Settings In Booklets ...",
+      "file": "references/help-print-booklets.md",
+      "summary": "Desktop & Web Help: Impose Documents For Booklet Printing, Booklet Types, Booklet Printing Settings, Adjust Creep Settings In Booklets ....",
+      "keywords": [
+        "impose-documents-for-booklet-printing-booklet-types-booklet-printing-settings-adjust-creep-settings-in-booklets",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Set Up A Printer, Print Documents And Books, Print As Bitmap, Create And Manage Print Presets ...",
+      "file": "references/help-print-production-and-file-creation.md",
+      "summary": "Desktop & Web Help: Set Up A Printer, Print Documents And Books, Print As Bitmap, Create And Manage Print Presets ....",
+      "keywords": [
+        "set-up-a-printer-print-documents-and-books-print-as-bitmap-create-and-manage-print-presets",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Merge Data",
+      "file": "references/help-automation-and-scripting.md",
+      "summary": "Desktop & Web Help: Merge Data.",
+      "keywords": [
+        "merge-data",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Link And Update Content Across Documents, Automate Workflows With Scripts, Structure And Tag Documents For Xml, Automated Workflows Overview ...",
+      "file": "references/help-document-automation.md",
+      "summary": "Desktop & Web Help: Link And Update Content Across Documents, Automate Workflows With Scripts, Structure And Tag Documents For Xml, Automated Workflows Overview ....",
+      "keywords": [
+        "link-and-update-content-across-documents-automate-workflows-with-scripts-structure-and-tag-documents-for-xml-automated-workflows-overview",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Access Adobe Express Templates, Adobe Capture Plugin, Create Indesign Plugins With Uxp, Use Adobe Bridge ...",
+      "file": "references/help-app-integrations.md",
+      "summary": "Desktop & Web Help: Access Adobe Express Templates, Adobe Capture Plugin, Create Indesign Plugins With Uxp, Use Adobe Bridge ....",
+      "keywords": [
+        "access-adobe-express-templates-adobe-capture-plugin-create-indesign-plugins-with-uxp-use-adobe-bridge",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Known And Fixed Issues",
+      "file": "references/help-troubleshoot.md",
+      "summary": "Desktop & Web Help: Known And Fixed Issues.",
+      "keywords": [
+        "known-and-fixed-issues",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Submit A Crash Report, Error 2 Or Crash For Save, Launch Issues Windows Update, Launch Issues With Rosetta ...",
+      "file": "references/help-launch-and-crash-issues.md",
+      "summary": "Desktop & Web Help: Submit A Crash Report, Error 2 Or Crash For Save, Launch Issues Windows Update, Launch Issues With Rosetta ....",
+      "keywords": [
+        "submit-a-crash-report-error-2-or-crash-for-save-launch-issues-windows-update-launch-issues-with-rosetta",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Gpu Driver Issue Macos, Issues On Startup, Authentication Failure, Fonts Issues ...",
+      "file": "references/help-launch-and-crash-issues-2.md",
+      "summary": "Desktop & Web Help: Gpu Driver Issue Macos, Issues On Startup, Authentication Failure, Fonts Issues ....",
+      "keywords": [
+        "gpu-driver-issue-macos-issues-on-startup-authentication-failure-fonts-issues",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Cant Exported Pdf In Acrobat, File Already Open Error, Damaged File Errors, Insufficient System Memory Errors ...",
+      "file": "references/help-file-and-output-issues.md",
+      "summary": "Desktop & Web Help: Cant Exported Pdf In Acrobat, File Already Open Error, Damaged File Errors, Insufficient System Memory Errors ....",
+      "keywords": [
+        "cant-exported-pdf-in-acrobat-file-already-open-error-damaged-file-errors-insufficient-system-memory-errors",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Pixelated Graphics, Heif Heic Error, Print Engine Failure, Postscript Print Issues On Macos ...",
+      "file": "references/help-file-and-output-issues-2.md",
+      "summary": "Desktop & Web Help: Pixelated Graphics, Heif Heic Error, Print Engine Failure, Postscript Print Issues On Macos ....",
+      "keywords": [
+        "pixelated-graphics-heif-heic-error-print-engine-failure-postscript-print-issues-on-macos",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Font And Plugin Issues, Settings Interface And Feature Issues, Cloud Collaboration And Web Issues",
+      "file": "references/help-troubleshoot-2.md",
+      "summary": "Desktop & Web Help: Font And Plugin Issues, Settings Interface And Feature Issues, Cloud Collaboration And Web Issues.",
+      "keywords": [
+        "font-and-plugin-issues-settings-interface-and-feature-issues-cloud-collaboration-and-web-issues",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Changelog",
+      "file": "references/uxp-changelog.md",
+      "summary": "UXP Plugins & API: Changelog.",
+      "keywords": [
+        "changelog",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Add Page Options, Adjust Layout Preference, Adornment Overprint, Align Distribute Bounds ...",
+      "file": "references/uxp-a.md",
+      "summary": "UXP Plugins & API: Add Page Options, Adjust Layout Preference, Adornment Overprint, Align Distribute Bounds ....",
+      "keywords": [
+        "add-page-options-adjust-layout-preference-adornment-overprint-align-distribute-bounds",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Angle Editbox, Angle Editboxes, Animation Behavior, Animation Behaviors ...",
+      "file": "references/uxp-a-2.md",
+      "summary": "UXP Plugins & API: Angle Editbox, Angle Editboxes, Animation Behavior, Animation Behaviors ....",
+      "keywords": [
+        "angle-editbox-angle-editboxes-animation-behavior-animation-behaviors",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Application (part 1)",
+      "file": "references/uxp-application.md",
+      "summary": "UXP Plugins & API: Application (part 1).",
+      "keywords": [
+        "application-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Application (part 2)",
+      "file": "references/uxp-application-2.md",
+      "summary": "UXP Plugins & API: Application (part 2).",
+      "keywords": [
+        "application-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Application (part 3)",
+      "file": "references/uxp-application-3.md",
+      "summary": "UXP Plugins & API: Application (part 3).",
+      "keywords": [
+        "application-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Arrange By, Arrow Head Alignment Enum, Arrow Head, Article Child ...",
+      "file": "references/uxp-a-3.md",
+      "summary": "UXP Plugins & API: Arrange By, Arrow Head Alignment Enum, Arrow Head, Article Child ....",
+      "keywords": [
+        "arrange-by-arrow-head-alignment-enum-arrow-head-article-child",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Assigned Stories, Assigned Story, Assignment Export Options, Assignment Status ...",
+      "file": "references/uxp-a-4.md",
+      "summary": "UXP Plugins & API: Assigned Stories, Assigned Story, Assignment Export Options, Assignment Status ....",
+      "keywords": [
+        "assigned-stories-assigned-story-assignment-export-options-assignment-status",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Background Task, Background Tasks, Balance Lines Style, Baseline Frame Grid Option ...",
+      "file": "references/uxp-b.md",
+      "summary": "UXP Plugins & API: Background Task, Background Tasks, Balance Lines Style, Baseline Frame Grid Option ....",
+      "keywords": [
+        "background-task-background-tasks-balance-lines-style-baseline-frame-grid-option",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Blending Setting, Blending Space, Book Content Status, Book Content ...",
+      "file": "references/uxp-b-2.md",
+      "summary": "UXP Plugins & API: Blending Setting, Blending Space, Book Content Status, Book Content ....",
+      "keywords": [
+        "blending-setting-blending-space-book-content-status-book-content",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Bookmarks, Books, Border Panel, Border Panels ...",
+      "file": "references/uxp-b-3.md",
+      "summary": "UXP Plugins & API: Bookmarks, Books, Border Panel, Border Panels ....",
+      "keywords": [
+        "bookmarks-books-border-panel-border-panels",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Button (part 1)",
+      "file": "references/uxp-button.md",
+      "summary": "UXP Plugins & API: Button (part 1).",
+      "keywords": [
+        "button-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Button (part 2)",
+      "file": "references/uxp-button-2.md",
+      "summary": "UXP Plugins & API: Button (part 2).",
+      "keywords": [
+        "button-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Buttons",
+      "file": "references/uxp-buttons.md",
+      "summary": "UXP Plugins & API: Buttons.",
+      "keywords": [
+        "buttons",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Capitalization, Caption Metadata Variable Preference, Cell Style Group, Cell Style Groups ...",
+      "file": "references/uxp-c.md",
+      "summary": "UXP Plugins & API: Capitalization, Caption Metadata Variable Preference, Cell Style Group, Cell Style Groups ....",
+      "keywords": [
+        "capitalization-caption-metadata-variable-preference-cell-style-group-cell-style-groups",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Cell Style, Cell Styles, Cell Type Enum",
+      "file": "references/uxp-c-2.md",
+      "summary": "UXP Plugins & API: Cell Style, Cell Styles, Cell Type Enum.",
+      "keywords": [
+        "cell-style-cell-styles-cell-type-enum",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Cell",
+      "file": "references/uxp-cell.md",
+      "summary": "UXP Plugins & API: Cell.",
+      "keywords": [
+        "cell",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Cells, Change Background Color Choices, Change Case Options, Change Color Preference ...",
+      "file": "references/uxp-c-3.md",
+      "summary": "UXP Plugins & API: Cells, Change Background Color Choices, Change Case Options, Change Color Preference ....",
+      "keywords": [
+        "cells-change-background-color-choices-change-case-options-change-color-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Grep Preference (part 1)",
+      "file": "references/uxp-change-grep-preference.md",
+      "summary": "UXP Plugins & API: Change Grep Preference (part 1).",
+      "keywords": [
+        "change-grep-preference-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Grep Preference (part 2)",
+      "file": "references/uxp-change-grep-preference-2.md",
+      "summary": "UXP Plugins & API: Change Grep Preference (part 2).",
+      "keywords": [
+        "change-grep-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Grep Preference (part 2) (part 2)",
+      "file": "references/uxp-change-grep-preference-2-2.md",
+      "summary": "UXP Plugins & API: Change Grep Preference (part 2).",
+      "keywords": [
+        "change-grep-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Grep Preference (part 3)",
+      "file": "references/uxp-change-grep-preference-3.md",
+      "summary": "UXP Plugins & API: Change Grep Preference (part 3).",
+      "keywords": [
+        "change-grep-preference-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Markings, Change Object Preference, Change Text Color Choices",
+      "file": "references/uxp-c-4.md",
+      "summary": "UXP Plugins & API: Change Markings, Change Object Preference, Change Text Color Choices.",
+      "keywords": [
+        "change-markings-change-object-preference-change-text-color-choices",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Text Preference (part 1)",
+      "file": "references/uxp-change-text-preference.md",
+      "summary": "UXP Plugins & API: Change Text Preference (part 1).",
+      "keywords": [
+        "change-text-preference-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Text Preference (part 2)",
+      "file": "references/uxp-change-text-preference-2.md",
+      "summary": "UXP Plugins & API: Change Text Preference (part 2).",
+      "keywords": [
+        "change-text-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Text Preference (part 2) (part 2)",
+      "file": "references/uxp-change-text-preference-2-2.md",
+      "summary": "UXP Plugins & API: Change Text Preference (part 2).",
+      "keywords": [
+        "change-text-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Text Preference (part 3)",
+      "file": "references/uxp-change-text-preference-3.md",
+      "summary": "UXP Plugins & API: Change Text Preference (part 3).",
+      "keywords": [
+        "change-text-preference-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Transliterate Preference (part 1)",
+      "file": "references/uxp-change-transliterate-preference.md",
+      "summary": "UXP Plugins & API: Change Transliterate Preference (part 1).",
+      "keywords": [
+        "change-transliterate-preference-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Transliterate Preference (part 2)",
+      "file": "references/uxp-change-transliterate-preference-2.md",
+      "summary": "UXP Plugins & API: Change Transliterate Preference (part 2).",
+      "keywords": [
+        "change-transliterate-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Transliterate Preference (part 2) (part 2)",
+      "file": "references/uxp-change-transliterate-preference-2-2.md",
+      "summary": "UXP Plugins & API: Change Transliterate Preference (part 2).",
+      "keywords": [
+        "change-transliterate-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Transliterate Preference (part 3)",
+      "file": "references/uxp-change-transliterate-preference-3.md",
+      "summary": "UXP Plugins & API: Change Transliterate Preference (part 3).",
+      "keywords": [
+        "change-transliterate-preference-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Change Types, Change, Changebar Locations, Changecase Mode ...",
+      "file": "references/uxp-c-5.md",
+      "summary": "UXP Plugins & API: Change Types, Change, Changebar Locations, Changecase Mode ....",
+      "keywords": [
+        "change-types-change-changebar-locations-changecase-mode",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Character Style (part 1)",
+      "file": "references/uxp-character-style.md",
+      "summary": "UXP Plugins & API: Character Style (part 1).",
+      "keywords": [
+        "character-style-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Character Style (part 2)",
+      "file": "references/uxp-character-style-2.md",
+      "summary": "UXP Plugins & API: Character Style (part 2).",
+      "keywords": [
+        "character-style-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Character Styles",
+      "file": "references/uxp-character-styles.md",
+      "summary": "UXP Plugins & API: Character Styles.",
+      "keywords": [
+        "character-styles",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Character (part 1)",
+      "file": "references/uxp-character.md",
+      "summary": "UXP Plugins & API: Character (part 1).",
+      "keywords": [
+        "character-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Character (part 2)",
+      "file": "references/uxp-character-2.md",
+      "summary": "UXP Plugins & API: Character (part 2).",
+      "keywords": [
+        "character-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Character (part 2) (cont. 1)",
+      "file": "references/uxp-character-2-b.md",
+      "summary": "Character (part 2) (cont. 1). Continuation of uxp-character-2.md.",
+      "keywords": [
+        "character-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Character (part 2) (cont. 2)",
+      "file": "references/uxp-character-2-c.md",
+      "summary": "Character (part 2) (cont. 2). Continuation of uxp-character-2.md.",
+      "keywords": [
+        "character-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Character (part 3)",
+      "file": "references/uxp-character-3.md",
+      "summary": "UXP Plugins & API: Character (part 3).",
+      "keywords": [
+        "character-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Characters",
+      "file": "references/uxp-characters.md",
+      "summary": "UXP Plugins & API: Characters.",
+      "keywords": [
+        "characters",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Check Box (part 1)",
+      "file": "references/uxp-check-box.md",
+      "summary": "UXP Plugins & API: Check Box (part 1).",
+      "keywords": [
+        "check-box-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Check Box (part 2)",
+      "file": "references/uxp-check-box-2.md",
+      "summary": "UXP Plugins & API: Check Box (part 2).",
+      "keywords": [
+        "check-box-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Check Boxes, Checkbox Control, Checkbox Controls, Cjk Grid Preference ...",
+      "file": "references/uxp-c-6.md",
+      "summary": "UXP Plugins & API: Check Boxes, Checkbox Control, Checkbox Controls, Cjk Grid Preference ....",
+      "keywords": [
+        "check-boxes-checkbox-control-checkbox-controls-cjk-grid-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Color Group Swatches, Color Group, Color Groups, Color Model ...",
+      "file": "references/uxp-c-7.md",
+      "summary": "UXP Plugins & API: Color Group Swatches, Color Group, Color Groups, Color Model ....",
+      "keywords": [
+        "color-group-swatches-color-group-color-groups-color-model",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Column, Columns",
+      "file": "references/uxp-c-8.md",
+      "summary": "UXP Plugins & API: Column, Columns.",
+      "keywords": [
+        "column-columns",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Combo Box (part 1)",
+      "file": "references/uxp-combo-box.md",
+      "summary": "UXP Plugins & API: Combo Box (part 1).",
+      "keywords": [
+        "combo-box-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Combo Box (part 2)",
+      "file": "references/uxp-combo-box-2.md",
+      "summary": "UXP Plugins & API: Combo Box (part 2).",
+      "keywords": [
+        "combo-box-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Combo Boxes, Comment Status Enum, Comment Type Enum, Compose Using ...",
+      "file": "references/uxp-c-9.md",
+      "summary": "UXP Plugins & API: Combo Boxes, Comment Status Enum, Comment Type Enum, Compose Using ....",
+      "keywords": [
+        "combo-boxes-comment-status-enum-comment-type-enum-compose-using",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Condition, Conditional Text Preference, Conditions, Container Type ...",
+      "file": "references/uxp-c-10.md",
+      "summary": "UXP Plugins & API: Condition, Conditional Text Preference, Conditions, Container Type ....",
+      "keywords": [
+        "condition-conditional-text-preference-conditions-container-type",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Cross Reference Formats, Cross Reference Source, Cross Reference Sources, Cross Reference Type ...",
+      "file": "references/uxp-c-11.md",
+      "summary": "UXP Plugins & API: Cross Reference Formats, Cross Reference Source, Cross Reference Sources, Cross Reference Type ....",
+      "keywords": [
+        "cross-reference-formats-cross-reference-source-cross-reference-sources-cross-reference-type",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Dashed Stroke Style, Dashed Stroke Styles, Data Format, Data Merge Field ...",
+      "file": "references/uxp-d.md",
+      "summary": "UXP Plugins & API: Dashed Stroke Style, Dashed Stroke Styles, Data Format, Data Merge Field ....",
+      "keywords": [
+        "dashed-stroke-style-dashed-stroke-styles-data-format-data-merge-field",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Data Merge Qrcode Placeholders, Data Merge Text Placeholder, Data Merge Text Placeholders, Data Merge ...",
+      "file": "references/uxp-d-2.md",
+      "summary": "UXP Plugins & API: Data Merge Qrcode Placeholders, Data Merge Text Placeholder, Data Merge Text Placeholders, Data Merge ....",
+      "keywords": [
+        "data-merge-qrcode-placeholders-data-merge-text-placeholder-data-merge-text-placeholders-data-merge",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Dialog Row, Dialog Rows, Dialog, Dialogs ...",
+      "file": "references/uxp-d-3.md",
+      "summary": "UXP Plugins & API: Dialog Row, Dialog Rows, Dialog, Dialogs ....",
+      "keywords": [
+        "dialog-row-dialog-rows-dialog-dialogs",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Display Settings, Distribute Options, Document Event, Document Intent Options ...",
+      "file": "references/uxp-d-4.md",
+      "summary": "UXP Plugins & API: Display Settings, Distribute Options, Document Event, Document Intent Options ....",
+      "keywords": [
+        "display-settings-distribute-options-document-event-document-intent-options",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Document (part 1)",
+      "file": "references/uxp-document.md",
+      "summary": "UXP Plugins & API: Document (part 1).",
+      "keywords": [
+        "document-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Document (part 2)",
+      "file": "references/uxp-document-2.md",
+      "summary": "UXP Plugins & API: Document (part 2).",
+      "keywords": [
+        "document-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Document (part 3)",
+      "file": "references/uxp-document-3.md",
+      "summary": "UXP Plugins & API: Document (part 3).",
+      "keywords": [
+        "document-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Documents, Dotted Stroke Style, Dotted Stroke Styles, Drop Shadow Setting ...",
+      "file": "references/uxp-d-5.md",
+      "summary": "UXP Plugins & API: Documents, Dotted Stroke Style, Dotted Stroke Styles, Drop Shadow Setting ....",
+      "keywords": [
+        "documents-dotted-stroke-style-dotted-stroke-styles-drop-shadow-setting",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "E Pub Export Preference, E Pub Export Preview App Preference, E Pub Fixed Layout Export Preference, E Pub Footnote Placement ...",
+      "file": "references/uxp-e.md",
+      "summary": "UXP Plugins & API: E Pub Export Preference, E Pub Export Preview App Preference, E Pub Fixed Layout Export Preference, E Pub Footnote Placement ....",
+      "keywords": [
+        "e-pub-export-preference-e-pub-export-preview-app-preference-e-pub-fixed-layout-export-preference-e-pub-footnote-placement",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Endnote Option, Endnote Range, Endnote Ranges, Endnote Restarting ...",
+      "file": "references/uxp-e-2.md",
+      "summary": "UXP Plugins & API: Endnote Option, Endnote Range, Endnote Ranges, Endnote Restarting ....",
+      "keywords": [
+        "endnote-option-endnote-range-endnote-ranges-endnote-restarting",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Endnote Text Frame (part 1)",
+      "file": "references/uxp-endnote-text-frame.md",
+      "summary": "UXP Plugins & API: Endnote Text Frame (part 1).",
+      "keywords": [
+        "endnote-text-frame-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Endnote Text Frame (part 2)",
+      "file": "references/uxp-endnote-text-frame-2.md",
+      "summary": "UXP Plugins & API: Endnote Text Frame (part 2).",
+      "keywords": [
+        "endnote-text-frame-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Endnote Text Frames, Endnote, Endnotes, Ep Ss ...",
+      "file": "references/uxp-e-3.md",
+      "summary": "UXP Plugins & API: Endnote Text Frames, Endnote, Endnotes, Ep Ss ....",
+      "keywords": [
+        "endnote-text-frames-endnote-endnotes-ep-ss",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Eps Text (part 1)",
+      "file": "references/uxp-eps-text.md",
+      "summary": "UXP Plugins & API: Eps Text (part 1).",
+      "keywords": [
+        "eps-text-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Eps Text (part 2)",
+      "file": "references/uxp-eps-text-2.md",
+      "summary": "UXP Plugins & API: Eps Text (part 2).",
+      "keywords": [
+        "eps-text-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Eps Texts",
+      "file": "references/uxp-eps-texts.md",
+      "summary": "UXP Plugins & API: Eps Texts.",
+      "keywords": [
+        "eps-texts",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Eps (part 1)",
+      "file": "references/uxp-eps.md",
+      "summary": "UXP Plugins & API: Eps (part 1).",
+      "keywords": [
+        "eps-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Eps (part 2)",
+      "file": "references/uxp-eps-2.md",
+      "summary": "UXP Plugins & API: Eps (part 2).",
+      "keywords": [
+        "eps-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Epub Cover, Epub Fixed Layout Spread Control, Epub Navigation Style, Epub Version ...",
+      "file": "references/uxp-e-4.md",
+      "summary": "UXP Plugins & API: Epub Cover, Epub Fixed Layout Spread Control, Epub Navigation Style, Epub Version ....",
+      "keywords": [
+        "epub-cover-epub-fixed-layout-spread-control-epub-navigation-style-epub-version",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Event, Events, Excel Import Preference, Export For Web Preference ...",
+      "file": "references/uxp-e-5.md",
+      "summary": "UXP Plugins & API: Event, Events, Excel Import Preference, Export For Web Preference ....",
+      "keywords": [
+        "event-events-excel-import-preference-export-for-web-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Feather Corner Type, Feather Mode, Feather Setting, Feature Set Options ...",
+      "file": "references/uxp-f.md",
+      "summary": "UXP Plugins & API: Feather Corner Type, Feather Mode, Feather Setting, Feature Set Options ....",
+      "keywords": [
+        "feather-corner-type-feather-mode-feather-setting-feature-set-options",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Change Drop Shadow Setting, Find Change Feather Setting, Find Change Fill Transparency Setting, Find Change Glyph Option ...",
+      "file": "references/uxp-f-2.md",
+      "summary": "UXP Plugins & API: Find Change Drop Shadow Setting, Find Change Feather Setting, Find Change Fill Transparency Setting, Find Change Glyph Option ....",
+      "keywords": [
+        "find-change-drop-shadow-setting-find-change-feather-setting-find-change-fill-transparency-setting-find-change-glyph-option",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Change Object Option, Find Change Outer Glow Setting, Find Change Satin Setting, Find Change Stroke Transparency Setting ...",
+      "file": "references/uxp-f-3.md",
+      "summary": "UXP Plugins & API: Find Change Object Option, Find Change Outer Glow Setting, Find Change Satin Setting, Find Change Stroke Transparency Setting ....",
+      "keywords": [
+        "find-change-object-option-find-change-outer-glow-setting-find-change-satin-setting-find-change-stroke-transparency-setting",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Glyph Preference",
+      "file": "references/uxp-find-glyph-preference.md",
+      "summary": "UXP Plugins & API: Find Glyph Preference.",
+      "keywords": [
+        "find-glyph-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Grep Preference (part 1)",
+      "file": "references/uxp-find-grep-preference.md",
+      "summary": "UXP Plugins & API: Find Grep Preference (part 1).",
+      "keywords": [
+        "find-grep-preference-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Grep Preference (part 2)",
+      "file": "references/uxp-find-grep-preference-2.md",
+      "summary": "UXP Plugins & API: Find Grep Preference (part 2).",
+      "keywords": [
+        "find-grep-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Grep Preference (part 2) (part 2)",
+      "file": "references/uxp-find-grep-preference-2-2.md",
+      "summary": "UXP Plugins & API: Find Grep Preference (part 2).",
+      "keywords": [
+        "find-grep-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Grep Preference (part 3)",
+      "file": "references/uxp-find-grep-preference-3.md",
+      "summary": "UXP Plugins & API: Find Grep Preference (part 3).",
+      "keywords": [
+        "find-grep-preference-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Object Preference",
+      "file": "references/uxp-find-object-preference.md",
+      "summary": "UXP Plugins & API: Find Object Preference.",
+      "keywords": [
+        "find-object-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Text Preference (part 1)",
+      "file": "references/uxp-find-text-preference.md",
+      "summary": "UXP Plugins & API: Find Text Preference (part 1).",
+      "keywords": [
+        "find-text-preference-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Text Preference (part 2)",
+      "file": "references/uxp-find-text-preference-2.md",
+      "summary": "UXP Plugins & API: Find Text Preference (part 2).",
+      "keywords": [
+        "find-text-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Text Preference (part 2) (part 2)",
+      "file": "references/uxp-find-text-preference-2-2.md",
+      "summary": "UXP Plugins & API: Find Text Preference (part 2).",
+      "keywords": [
+        "find-text-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Text Preference (part 3)",
+      "file": "references/uxp-find-text-preference-3.md",
+      "summary": "UXP Plugins & API: Find Text Preference (part 3).",
+      "keywords": [
+        "find-text-preference-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Transliterate Preference (part 1)",
+      "file": "references/uxp-find-transliterate-preference.md",
+      "summary": "UXP Plugins & API: Find Transliterate Preference (part 1).",
+      "keywords": [
+        "find-transliterate-preference-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Transliterate Preference (part 2)",
+      "file": "references/uxp-find-transliterate-preference-2.md",
+      "summary": "UXP Plugins & API: Find Transliterate Preference (part 2).",
+      "keywords": [
+        "find-transliterate-preference-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Find Transliterate Preference (part 3)",
+      "file": "references/uxp-find-transliterate-preference-3.md",
+      "summary": "UXP Plugins & API: Find Transliterate Preference (part 3).",
+      "keywords": [
+        "find-transliterate-preference-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "First Baseline, Fit Dimension, Fit Method Settings, Fit Options ...",
+      "file": "references/uxp-f-4.md",
+      "summary": "UXP Plugins & API: First Baseline, Fit Dimension, Fit Method Settings, Fit Options ....",
+      "keywords": [
+        "first-baseline-fit-dimension-fit-method-settings-fit-options",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Font Types, Font, Fonts, Footnote First Baseline ...",
+      "file": "references/uxp-f-5.md",
+      "summary": "UXP Plugins & API: Font Types, Font, Fonts, Footnote First Baseline ....",
+      "keywords": [
+        "font-types-font-fonts-footnote-first-baseline",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Footnotes",
+      "file": "references/uxp-footnotes.md",
+      "summary": "UXP Plugins & API: Footnotes.",
+      "keywords": [
+        "footnotes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Form Field (part 1)",
+      "file": "references/uxp-form-field.md",
+      "summary": "UXP Plugins & API: Form Field (part 1).",
+      "keywords": [
+        "form-field-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Form Field (part 2)",
+      "file": "references/uxp-form-field-2.md",
+      "summary": "UXP Plugins & API: Form Field (part 2).",
+      "keywords": [
+        "form-field-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Form Fields, Frame Fitting Option",
+      "file": "references/uxp-f-6.md",
+      "summary": "UXP Plugins & API: Form Fields, Frame Fitting Option.",
+      "keywords": [
+        "form-fields-frame-fitting-option",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Galley Preference, General Preference, Gif Options Palette, Global Clash Resolution Strategy For Master Page ...",
+      "file": "references/uxp-g.md",
+      "summary": "UXP Plugins & API: Galley Preference, General Preference, Gif Options Palette, Global Clash Resolution Strategy For Master Page ....",
+      "keywords": [
+        "galley-preference-general-preference-gif-options-palette-global-clash-resolution-strategy-for-master-page",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Goto Last Page Behavior, Goto Last Page Behaviors, Goto Next Page Behavior, Goto Next Page Behaviors ...",
+      "file": "references/uxp-g-2.md",
+      "summary": "UXP Plugins & API: Goto Last Page Behavior, Goto Last Page Behaviors, Goto Next Page Behavior, Goto Next Page Behaviors ....",
+      "keywords": [
+        "goto-last-page-behavior-goto-last-page-behaviors-goto-next-page-behavior-goto-next-page-behaviors",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Goto Page Behavior, Goto Page Behaviors, Goto Previous Page Behavior, Goto Previous Page Behaviors ...",
+      "file": "references/uxp-g-3.md",
+      "summary": "UXP Plugins & API: Goto Page Behavior, Goto Page Behaviors, Goto Previous Page Behavior, Goto Previous Page Behaviors ....",
+      "keywords": [
+        "goto-page-behavior-goto-page-behaviors-goto-previous-page-behavior-goto-previous-page-behaviors",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Goto State Behavior, Goto State Behaviors, Goto Url Behavior, Goto Url Behaviors ...",
+      "file": "references/uxp-g-4.md",
+      "summary": "UXP Plugins & API: Goto State Behavior, Goto State Behaviors, Goto Url Behavior, Goto Url Behaviors ....",
+      "keywords": [
+        "goto-state-behavior-goto-state-behaviors-goto-url-behavior-goto-url-behaviors",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Gradient, Gradients, Graphic Layer Option, Graphic Layer ...",
+      "file": "references/uxp-g-5.md",
+      "summary": "UXP Plugins & API: Gradient, Gradients, Graphic Layer Option, Graphic Layer ....",
+      "keywords": [
+        "gradient-gradients-graphic-layer-option-graphic-layer",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Graphic Line (part 1)",
+      "file": "references/uxp-graphic-line.md",
+      "summary": "UXP Plugins & API: Graphic Line (part 1).",
+      "keywords": [
+        "graphic-line-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Graphic Line (part 2)",
+      "file": "references/uxp-graphic-line-2.md",
+      "summary": "UXP Plugins & API: Graphic Line (part 2).",
+      "keywords": [
+        "graphic-line-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Graphic Lines",
+      "file": "references/uxp-graphic-lines.md",
+      "summary": "UXP Plugins & API: Graphic Lines.",
+      "keywords": [
+        "graphic-lines",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Graphic (part 1)",
+      "file": "references/uxp-graphic.md",
+      "summary": "UXP Plugins & API: Graphic (part 1).",
+      "keywords": [
+        "graphic-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Graphic (part 2)",
+      "file": "references/uxp-graphic-2.md",
+      "summary": "UXP Plugins & API: Graphic (part 2).",
+      "keywords": [
+        "graphic-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Graphics, Grid Alignment, Grid Data Information, Grid Preference ...",
+      "file": "references/uxp-g-6.md",
+      "summary": "UXP Plugins & API: Graphics, Grid Alignment, Grid Data Information, Grid Preference ....",
+      "keywords": [
+        "graphics-grid-alignment-grid-data-information-grid-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Group (part 1)",
+      "file": "references/uxp-group.md",
+      "summary": "UXP Plugins & API: Group (part 1).",
+      "keywords": [
+        "group-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Group (part 2)",
+      "file": "references/uxp-group-2.md",
+      "summary": "UXP Plugins & API: Group (part 2).",
+      "keywords": [
+        "group-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Groups, Guide Preference, Guide Type Options, Guide ...",
+      "file": "references/uxp-g-7.md",
+      "summary": "UXP Plugins & API: Groups, Guide Preference, Guide Type Options, Guide ....",
+      "keywords": [
+        "groups-guide-preference-guide-type-options-guide",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Header Footer Break Types, Header Types, Hidden Text, Hidden Texts ...",
+      "file": "references/uxp-h.md",
+      "summary": "UXP Plugins & API: Header Footer Break Types, Header Types, Hidden Text, Hidden Texts ....",
+      "keywords": [
+        "header-footer-break-types-header-types-hidden-text-hidden-texts",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Html Item (part 1)",
+      "file": "references/uxp-html-item.md",
+      "summary": "UXP Plugins & API: Html Item (part 1).",
+      "keywords": [
+        "html-item-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Html Item (part 2)",
+      "file": "references/uxp-html-item-2.md",
+      "summary": "UXP Plugins & API: Html Item (part 2).",
+      "keywords": [
+        "html-item-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Html Items, Htmlfxl Export Preference, Http Link Connection Manager Object, Hyperlink Appearance Highlight ...",
+      "file": "references/uxp-h-2.md",
+      "summary": "UXP Plugins & API: Html Items, Htmlfxl Export Preference, Http Link Connection Manager Object, Hyperlink Appearance Highlight ....",
+      "keywords": [
+        "html-items-htmlfxl-export-preference-http-link-connection-manager-object-hyperlink-appearance-highlight",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Hyperlink Page Item Source, Hyperlink Page Item Sources, Hyperlink Text Destination, Hyperlink Text Destinations ...",
+      "file": "references/uxp-h-3.md",
+      "summary": "UXP Plugins & API: Hyperlink Page Item Source, Hyperlink Page Item Sources, Hyperlink Text Destination, Hyperlink Text Destinations ....",
+      "keywords": [
+        "hyperlink-page-item-source-hyperlink-page-item-sources-hyperlink-text-destination-hyperlink-text-destinations",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Hyperlink, Hyperlinks, Hyphenation Exception, Hyphenation Exceptions ...",
+      "file": "references/uxp-h-4.md",
+      "summary": "UXP Plugins & API: Hyperlink, Hyperlinks, Hyphenation Exception, Hyphenation Exceptions ....",
+      "keywords": [
+        "hyperlink-hyperlinks-hyphenation-exception-hyphenation-exceptions",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Icc Profiles, Icon Sizes, Idle Event, Idle Task ...",
+      "file": "references/uxp-i.md",
+      "summary": "UXP Plugins & API: Icc Profiles, Icon Sizes, Idle Event, Idle Task ....",
+      "keywords": [
+        "icc-profiles-icon-sizes-idle-event-idle-task",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Image (part 1)",
+      "file": "references/uxp-image.md",
+      "summary": "UXP Plugins & API: Image (part 1).",
+      "keywords": [
+        "image-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Image (part 2)",
+      "file": "references/uxp-image-2.md",
+      "summary": "UXP Plugins & API: Image (part 2).",
+      "keywords": [
+        "image-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Images, Ime Preference, Import Export Event, Import Format ...",
+      "file": "references/uxp-i-2.md",
+      "summary": "UXP Plugins & API: Images, Ime Preference, Import Export Event, Import Format ....",
+      "keywords": [
+        "images-ime-preference-import-export-event-import-format",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Imported Page (part 1)",
+      "file": "references/uxp-imported-page.md",
+      "summary": "UXP Plugins & API: Imported Page (part 1).",
+      "keywords": [
+        "imported-page-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Imported Page (part 2)",
+      "file": "references/uxp-imported-page-2.md",
+      "summary": "UXP Plugins & API: Imported Page (part 2).",
+      "keywords": [
+        "imported-page-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Imported Pages, In Copy Export Option, In Copy Ui Colors, Index Capitalization Options ...",
+      "file": "references/uxp-i-3.md",
+      "summary": "UXP Plugins & API: Imported Pages, In Copy Export Option, In Copy Ui Colors, Index Capitalization Options ....",
+      "keywords": [
+        "imported-pages-in-copy-export-option-in-copy-ui-colors-index-capitalization-options",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Indexes, Indexing Sort Option, Indexing Sort Options, Ink Types ...",
+      "file": "references/uxp-i-4.md",
+      "summary": "UXP Plugins & API: Indexes, Indexing Sort Option, Indexing Sort Options, Ink Types ....",
+      "keywords": [
+        "indexes-indexing-sort-option-indexing-sort-options-ink-types",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Insertion Point (part 1)",
+      "file": "references/uxp-insertion-point.md",
+      "summary": "UXP Plugins & API: Insertion Point (part 1).",
+      "keywords": [
+        "insertion-point-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Insertion Point (part 2)",
+      "file": "references/uxp-insertion-point-2.md",
+      "summary": "UXP Plugins & API: Insertion Point (part 2).",
+      "keywords": [
+        "insertion-point-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Insertion Point (part 2) (cont. 1)",
+      "file": "references/uxp-insertion-point-2-b.md",
+      "summary": "Insertion Point (part 2) (cont. 1). Continuation of uxp-insertion-point-2.md.",
+      "keywords": [
+        "insertion-point-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Insertion Point (part 3)",
+      "file": "references/uxp-insertion-point-3.md",
+      "summary": "UXP Plugins & API: Insertion Point (part 3).",
+      "keywords": [
+        "insertion-point-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Insertion Points, Integer Combobox, Integer Comboboxes, Integer Editbox ...",
+      "file": "references/uxp-i-5.md",
+      "summary": "UXP Plugins & API: Insertion Points, Integer Combobox, Integer Comboboxes, Integer Editbox ....",
+      "keywords": [
+        "insertion-points-integer-combobox-integer-comboboxes-integer-editbox",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "J, K",
+      "file": "references/uxp-api.md",
+      "summary": "UXP Plugins & API: J, K.",
+      "keywords": [
+        "j-k",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Language And Region, Language With Vendors, Language, Languages With Vendors ...",
+      "file": "references/uxp-l.md",
+      "summary": "UXP Plugins & API: Language And Region, Language With Vendors, Language, Languages With Vendors ....",
+      "keywords": [
+        "language-and-region-language-with-vendors-language-languages-with-vendors",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Layout Grid Data Information, Layout Rule Options, Layout Window, Layout Windows ...",
+      "file": "references/uxp-l-2.md",
+      "summary": "UXP Plugins & API: Layout Grid Data Information, Layout Rule Options, Layout Window, Layout Windows ....",
+      "keywords": [
+        "layout-grid-data-information-layout-rule-options-layout-window-layout-windows",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Line (part 1)",
+      "file": "references/uxp-line.md",
+      "summary": "UXP Plugins & API: Line (part 1).",
+      "keywords": [
+        "line-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Line (part 2)",
+      "file": "references/uxp-line-2.md",
+      "summary": "UXP Plugins & API: Line (part 2).",
+      "keywords": [
+        "line-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Line (part 2) (cont. 1)",
+      "file": "references/uxp-line-2-b.md",
+      "summary": "Line (part 2) (cont. 1). Continuation of uxp-line-2.md.",
+      "keywords": [
+        "line-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Line (part 2) (cont. 2)",
+      "file": "references/uxp-line-2-c.md",
+      "summary": "Line (part 2) (cont. 2). Continuation of uxp-line-2.md.",
+      "keywords": [
+        "line-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Line (part 3)",
+      "file": "references/uxp-line-3.md",
+      "summary": "UXP Plugins & API: Line (part 3).",
+      "keywords": [
+        "line-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Lines, Link Metadata, Link Resource Rendition Type, Link Status ...",
+      "file": "references/uxp-l-3.md",
+      "summary": "UXP Plugins & API: Lines, Link Metadata, Link Resource Rendition Type, Link Status ....",
+      "keywords": [
+        "lines-link-metadata-link-resource-rendition-type-link-status",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "List Box (part 1)",
+      "file": "references/uxp-list-box.md",
+      "summary": "UXP Plugins & API: List Box (part 1).",
+      "keywords": [
+        "list-box-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "List Box (part 2)",
+      "file": "references/uxp-list-box-2.md",
+      "summary": "UXP Plugins & API: List Box (part 2).",
+      "keywords": [
+        "list-box-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "List Boxes, List Type, Live Drawing Options, Locale ...",
+      "file": "references/uxp-l-4.md",
+      "summary": "UXP Plugins & API: List Boxes, List Type, Live Drawing Options, Locale ....",
+      "keywords": [
+        "list-boxes-list-type-live-drawing-options-locale",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Map Type, Margin Preference, Mark Line Weight, Mark Types ...",
+      "file": "references/uxp-m.md",
+      "summary": "UXP Plugins & API: Map Type, Margin Preference, Mark Line Weight, Mark Types ....",
+      "keywords": [
+        "map-type-margin-preference-mark-line-weight-mark-types",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Measurement Combobox, Measurement Comboboxes, Measurement Editbox, Measurement Editboxes ...",
+      "file": "references/uxp-m-2.md",
+      "summary": "UXP Plugins & API: Measurement Combobox, Measurement Comboboxes, Measurement Editbox, Measurement Editboxes ....",
+      "keywords": [
+        "measurement-combobox-measurement-comboboxes-measurement-editbox-measurement-editboxes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Media Item (part 1)",
+      "file": "references/uxp-media-item.md",
+      "summary": "UXP Plugins & API: Media Item (part 1).",
+      "keywords": [
+        "media-item-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Media Item (part 2)",
+      "file": "references/uxp-media-item-2.md",
+      "summary": "UXP Plugins & API: Media Item (part 2).",
+      "keywords": [
+        "media-item-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Media Items, Menu Action, Menu Actions, Menu Element ...",
+      "file": "references/uxp-m-3.md",
+      "summary": "UXP Plugins & API: Media Items, Menu Action, Menu Actions, Menu Element ....",
+      "keywords": [
+        "media-items-menu-action-menu-actions-menu-element",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Menus, Metadata Preference, Mixed Ink Group, Mixed Ink Groups ...",
+      "file": "references/uxp-m-4.md",
+      "summary": "UXP Plugins & API: Menus, Metadata Preference, Mixed Ink Group, Mixed Ink Groups ....",
+      "keywords": [
+        "menus-metadata-preference-mixed-ink-group-mixed-ink-groups",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Mojikumi Table, Mojikumi Tables, Mojikumi Ui Preference, Mono Bitmap Compression ...",
+      "file": "references/uxp-m-5.md",
+      "summary": "UXP Plugins & API: Mojikumi Table, Mojikumi Tables, Mojikumi Ui Preference, Mono Bitmap Compression ....",
+      "keywords": [
+        "mojikumi-table-mojikumi-tables-mojikumi-ui-preference-mono-bitmap-compression",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Movie (part 1)",
+      "file": "references/uxp-movie.md",
+      "summary": "UXP Plugins & API: Movie (part 1).",
+      "keywords": [
+        "movie-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Movie (part 2)",
+      "file": "references/uxp-movie-2.md",
+      "summary": "UXP Plugins & API: Movie (part 2).",
+      "keywords": [
+        "movie-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Movies",
+      "file": "references/uxp-movies.md",
+      "summary": "UXP Plugins & API: Movies.",
+      "keywords": [
+        "movies",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Multi State Object (part 1)",
+      "file": "references/uxp-multi-state-object.md",
+      "summary": "UXP Plugins & API: Multi State Object (part 1).",
+      "keywords": [
+        "multi-state-object-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Multi State Object (part 2)",
+      "file": "references/uxp-multi-state-object-2.md",
+      "summary": "UXP Plugins & API: Multi State Object (part 2).",
+      "keywords": [
+        "multi-state-object-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Multi State Objects, Mutation Event",
+      "file": "references/uxp-m-6.md",
+      "summary": "UXP Plugins & API: Multi State Objects, Mutation Event.",
+      "keywords": [
+        "multi-state-objects-mutation-event",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Named Grid, Named Grids, Navigation Point, Navigation Points ...",
+      "file": "references/uxp-n.md",
+      "summary": "UXP Plugins & API: Named Grid, Named Grids, Navigation Point, Navigation Points ....",
+      "keywords": [
+        "named-grid-named-grids-navigation-point-navigation-points",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Nested Styles, Note Backgrounds, Note Color Choices, Note Preference ...",
+      "file": "references/uxp-n-2.md",
+      "summary": "UXP Plugins & API: Nested Styles, Note Backgrounds, Note Color Choices, Note Preference ....",
+      "keywords": [
+        "nested-styles-note-backgrounds-note-color-choices-note-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Object Export Option, Object Style Content Effects Category Settings, Object Style Export Tag Map, Object Style Export Tag Maps ...",
+      "file": "references/uxp-o.md",
+      "summary": "UXP Plugins & API: Object Export Option, Object Style Content Effects Category Settings, Object Style Export Tag Map, Object Style Export Tag Maps ....",
+      "keywords": [
+        "object-export-option-object-style-content-effects-category-settings-object-style-export-tag-map-object-style-export-tag-maps",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Object Style Stroke Effects Category Settings, Object Style, Object Styles, Object Types ...",
+      "file": "references/uxp-o-2.md",
+      "summary": "UXP Plugins & API: Object Style Stroke Effects Category Settings, Object Style, Object Styles, Object Types ....",
+      "keywords": [
+        "object-style-stroke-effects-category-settings-object-style-object-styles-object-types",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Open File Behavior, Open File Behaviors, Open Options, Open Type Feature ...",
+      "file": "references/uxp-o-3.md",
+      "summary": "UXP Plugins & API: Open File Behavior, Open File Behaviors, Open Options, Open Type Feature ....",
+      "keywords": [
+        "open-file-behavior-open-file-behaviors-open-options-open-type-feature",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Oval (part 1)",
+      "file": "references/uxp-oval.md",
+      "summary": "UXP Plugins & API: Oval (part 1).",
+      "keywords": [
+        "oval-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Oval (part 2)",
+      "file": "references/uxp-oval-2.md",
+      "summary": "UXP Plugins & API: Oval (part 2).",
+      "keywords": [
+        "oval-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Ovals, Override Type",
+      "file": "references/uxp-o-4.md",
+      "summary": "UXP Plugins & API: Ovals, Override Type.",
+      "keywords": [
+        "ovals-override-type",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Page Binding Options, Page Color Options, Page Item Default",
+      "file": "references/uxp-p.md",
+      "summary": "UXP Plugins & API: Page Binding Options, Page Color Options, Page Item Default.",
+      "keywords": [
+        "page-binding-options-page-color-options-page-item-default",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Page Item (part 1)",
+      "file": "references/uxp-page-item.md",
+      "summary": "UXP Plugins & API: Page Item (part 1).",
+      "keywords": [
+        "page-item-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Page Item (part 2)",
+      "file": "references/uxp-page-item-2.md",
+      "summary": "UXP Plugins & API: Page Item (part 2).",
+      "keywords": [
+        "page-item-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Page Items, Page Layout Options, Page Number Position, Page Number Style ...",
+      "file": "references/uxp-p-2.md",
+      "summary": "UXP Plugins & API: Page Items, Page Layout Options, Page Number Position, Page Number Style ....",
+      "keywords": [
+        "page-items-page-layout-options-page-number-position-page-number-style",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Page, Pages Panel, Pages, Panel Layout Resize ...",
+      "file": "references/uxp-p-3.md",
+      "summary": "UXP Plugins & API: Page, Pages Panel, Pages, Panel Layout Resize ....",
+      "keywords": [
+        "page-pages-panel-pages-panel-layout-resize",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Panels, Panning Types, Paper Size, Paper Sizes ...",
+      "file": "references/uxp-p-4.md",
+      "summary": "UXP Plugins & API: Panels, Panning Types, Paper Size, Paper Sizes ....",
+      "keywords": [
+        "panels-panning-types-paper-size-paper-sizes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraph Style (part 1)",
+      "file": "references/uxp-paragraph-style.md",
+      "summary": "UXP Plugins & API: Paragraph Style (part 1).",
+      "keywords": [
+        "paragraph-style-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraph Style (part 2)",
+      "file": "references/uxp-paragraph-style-2.md",
+      "summary": "UXP Plugins & API: Paragraph Style (part 2).",
+      "keywords": [
+        "paragraph-style-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraph Style (part 2) (part 2)",
+      "file": "references/uxp-paragraph-style-2-2.md",
+      "summary": "UXP Plugins & API: Paragraph Style (part 2).",
+      "keywords": [
+        "paragraph-style-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraph Style (part 3)",
+      "file": "references/uxp-paragraph-style-3.md",
+      "summary": "UXP Plugins & API: Paragraph Style (part 3).",
+      "keywords": [
+        "paragraph-style-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraph Styles",
+      "file": "references/uxp-paragraph-styles.md",
+      "summary": "UXP Plugins & API: Paragraph Styles.",
+      "keywords": [
+        "paragraph-styles",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraph (part 1)",
+      "file": "references/uxp-paragraph.md",
+      "summary": "UXP Plugins & API: Paragraph (part 1).",
+      "keywords": [
+        "paragraph-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraph (part 1) (cont. 1)",
+      "file": "references/uxp-paragraph-b.md",
+      "summary": "Paragraph (part 1) (cont. 1). Continuation of uxp-paragraph.md.",
+      "keywords": [
+        "paragraph-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraph (part 2)",
+      "file": "references/uxp-paragraph-2.md",
+      "summary": "UXP Plugins & API: Paragraph (part 2).",
+      "keywords": [
+        "paragraph-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Paragraphs, Pasteboard Preference, Path Point, Path Points ...",
+      "file": "references/uxp-p-5.md",
+      "summary": "UXP Plugins & API: Paragraphs, Pasteboard Preference, Path Point, Path Points ....",
+      "keywords": [
+        "paragraphs-pasteboard-preference-path-point-path-points",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Pdf Comments, Pdf Compression Type, Pdf Crop, Pdf Display Title Options ...",
+      "file": "references/uxp-p-6.md",
+      "summary": "UXP Plugins & API: Pdf Comments, Pdf Compression Type, Pdf Crop, Pdf Display Title Options ....",
+      "keywords": [
+        "pdf-comments-pdf-compression-type-pdf-crop-pdf-display-title-options",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Pdf Export Preset, Pdf Export Presets, Pdf Magnification Options, Pdf Mark Weight ...",
+      "file": "references/uxp-p-7.md",
+      "summary": "UXP Plugins & API: Pdf Export Preset, Pdf Export Presets, Pdf Magnification Options, Pdf Mark Weight ....",
+      "keywords": [
+        "pdf-export-preset-pdf-export-presets-pdf-magnification-options-pdf-mark-weight",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Pdf (part 1)",
+      "file": "references/uxp-pdf.md",
+      "summary": "UXP Plugins & API: Pdf (part 1).",
+      "keywords": [
+        "pdf-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Pdf (part 2)",
+      "file": "references/uxp-pdf-2.md",
+      "summary": "UXP Plugins & API: Pdf (part 2).",
+      "keywords": [
+        "pdf-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Pdfjpeg Quality Options, Pdfx Standards, Percent Combobox, Percent Comboboxes ...",
+      "file": "references/uxp-p-8.md",
+      "summary": "UXP Plugins & API: Pdfjpeg Quality Options, Pdfx Standards, Percent Combobox, Percent Comboboxes ....",
+      "keywords": [
+        "pdfjpeg-quality-options-pdfx-standards-percent-combobox-percent-comboboxes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Pict (part 1)",
+      "file": "references/uxp-pict.md",
+      "summary": "UXP Plugins & API: Pict (part 1).",
+      "keywords": [
+        "pict-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Pict (part 2)",
+      "file": "references/uxp-pict-2.md",
+      "summary": "UXP Plugins & API: Pict (part 2).",
+      "keywords": [
+        "pict-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Place Gun, Placed Vector Profile Policy, Play Operations, Png Color Space Enum ...",
+      "file": "references/uxp-p-9.md",
+      "summary": "UXP Plugins & API: Place Gun, Placed Vector Profile Policy, Play Operations, Png Color Space Enum ....",
+      "keywords": [
+        "place-gun-placed-vector-profile-policy-play-operations-png-color-space-enum",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Polygon (part 1)",
+      "file": "references/uxp-polygon.md",
+      "summary": "UXP Plugins & API: Polygon (part 1).",
+      "keywords": [
+        "polygon-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Polygon (part 2)",
+      "file": "references/uxp-polygon-2.md",
+      "summary": "UXP Plugins & API: Polygon (part 2).",
+      "keywords": [
+        "polygon-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Polygons, Position Attributes, Position, Positional Forms ...",
+      "file": "references/uxp-p-10.md",
+      "summary": "UXP Plugins & API: Polygons, Position Attributes, Position, Positional Forms ....",
+      "keywords": [
+        "polygons-position-attributes-position-positional-forms",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Preflight Profile Rules, Preflight Profile, Preflight Profiles, Preflight Rule Flag ...",
+      "file": "references/uxp-p-11.md",
+      "summary": "UXP Plugins & API: Preflight Profile Rules, Preflight Profile, Preflight Profiles, Preflight Rule Flag ....",
+      "keywords": [
+        "preflight-profile-rules-preflight-profile-preflight-profiles-preflight-rule-flag",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Print Booklet Option, Print Booklet Print Preference, Print Event, Print Form Behavior ...",
+      "file": "references/uxp-p-12.md",
+      "summary": "UXP Plugins & API: Print Booklet Option, Print Booklet Print Preference, Print Event, Print Form Behavior ....",
+      "keywords": [
+        "print-booklet-option-print-booklet-print-preference-print-event-print-form-behavior",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Print Preference, Printer Preset Types, Printer Preset",
+      "file": "references/uxp-p-13.md",
+      "summary": "UXP Plugins & API: Print Preference, Printer Preset Types, Printer Preset.",
+      "keywords": [
+        "print-preference-printer-preset-types-printer-preset",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Printer Presets, Printer, Profile, Proofing Type ...",
+      "file": "references/uxp-p-14.md",
+      "summary": "UXP Plugins & API: Printer Presets, Printer, Profile, Proofing Type ....",
+      "keywords": [
+        "printer-presets-printer-profile-proofing-type",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Radio Button (part 1)",
+      "file": "references/uxp-radio-button.md",
+      "summary": "UXP Plugins & API: Radio Button (part 1).",
+      "keywords": [
+        "radio-button-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Radio Button (part 2)",
+      "file": "references/uxp-radio-button-2.md",
+      "summary": "UXP Plugins & API: Radio Button (part 2).",
+      "keywords": [
+        "radio-button-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Radio Buttons, Radiobutton Control, Radiobutton Controls, Radiobutton Group ...",
+      "file": "references/uxp-r.md",
+      "summary": "UXP Plugins & API: Radio Buttons, Radiobutton Control, Radiobutton Controls, Radiobutton Group ....",
+      "keywords": [
+        "radio-buttons-radiobutton-control-radiobutton-controls-radiobutton-group",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Real Editboxes, Record Selection, Records Per Page",
+      "file": "references/uxp-r-2.md",
+      "summary": "UXP Plugins & API: Real Editboxes, Record Selection, Records Per Page.",
+      "keywords": [
+        "real-editboxes-record-selection-records-per-page",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Rectangle (part 1)",
+      "file": "references/uxp-rectangle.md",
+      "summary": "UXP Plugins & API: Rectangle (part 1).",
+      "keywords": [
+        "rectangle-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Rectangle (part 2)",
+      "file": "references/uxp-rectangle-2.md",
+      "summary": "UXP Plugins & API: Rectangle (part 2).",
+      "keywords": [
+        "rectangle-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Rectangles, Rendering Intent, Repaginate Option, Replies ...",
+      "file": "references/uxp-r-3.md",
+      "summary": "UXP Plugins & API: Rectangles, Rendering Intent, Repaginate Option, Replies ....",
+      "keywords": [
+        "rectangles-rendering-intent-repaginate-option-replies",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Row, Rows, Ruby Alignments, Ruby Kenten Position ...",
+      "file": "references/uxp-r-4.md",
+      "summary": "UXP Plugins & API: Row, Rows, Ruby Alignments, Ruby Kenten Position ....",
+      "keywords": [
+        "row-rows-ruby-alignments-ruby-kenten-position",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Rule Data Object, Rule Data Objects, Rule Data Type, Rule Width ...",
+      "file": "references/uxp-r-5.md",
+      "summary": "UXP Plugins & API: Rule Data Object, Rule Data Objects, Rule Data Type, Rule Width ....",
+      "keywords": [
+        "rule-data-object-rule-data-objects-rule-data-type-rule-width",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Sampling, Satin Setting, Save Options, Scale Modes ...",
+      "file": "references/uxp-s.md",
+      "summary": "UXP Plugins & API: Sampling, Satin Setting, Save Options, Scale Modes ....",
+      "keywords": [
+        "sampling-satin-setting-save-options-scale-modes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Shadow Mode, Show Hide Fields Behavior, Show Hide Fields Behaviors",
+      "file": "references/uxp-s-2.md",
+      "summary": "UXP Plugins & API: Shadow Mode, Show Hide Fields Behavior, Show Hide Fields Behaviors.",
+      "keywords": [
+        "shadow-mode-show-hide-fields-behavior-show-hide-fields-behaviors",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Signature Field (part 1)",
+      "file": "references/uxp-signature-field.md",
+      "summary": "UXP Plugins & API: Signature Field (part 1).",
+      "keywords": [
+        "signature-field-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Signature Field (part 2)",
+      "file": "references/uxp-signature-field-2.md",
+      "summary": "UXP Plugins & API: Signature Field (part 2).",
+      "keywords": [
+        "signature-field-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Signature Fields, Signature Size Options, Single Word Justification, Size Type Enum ...",
+      "file": "references/uxp-s-3.md",
+      "summary": "UXP Plugins & API: Signature Fields, Signature Size Options, Single Word Justification, Size Type Enum ....",
+      "keywords": [
+        "signature-fields-signature-size-options-single-word-justification-size-type-enum",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Sound (part 1)",
+      "file": "references/uxp-sound.md",
+      "summary": "UXP Plugins & API: Sound (part 1).",
+      "keywords": [
+        "sound-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Sound (part 2)",
+      "file": "references/uxp-sound-2.md",
+      "summary": "UXP Plugins & API: Sound (part 2).",
+      "keywords": [
+        "sound-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Sounds, Source Field Type, Source Spaces, Source Type ...",
+      "file": "references/uxp-s-4.md",
+      "summary": "UXP Plugins & API: Sounds, Source Field Type, Source Spaces, Source Type ....",
+      "keywords": [
+        "sounds-source-field-type-source-spaces-source-type",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Spline Item (part 1)",
+      "file": "references/uxp-spline-item.md",
+      "summary": "UXP Plugins & API: Spline Item (part 1).",
+      "keywords": [
+        "spline-item-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Spline Item (part 2)",
+      "file": "references/uxp-spline-item-2.md",
+      "summary": "UXP Plugins & API: Spline Item (part 2).",
+      "keywords": [
+        "spline-item-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Spline Items, Spread Flattener Level, Spread, Spreads ...",
+      "file": "references/uxp-s-5.md",
+      "summary": "UXP Plugins & API: Spline Items, Spread Flattener Level, Spread, Spreads ....",
+      "keywords": [
+        "spline-items-spread-flattener-level-spread-spreads",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "State, States, Static Alignment Options, Static Text ...",
+      "file": "references/uxp-s-6.md",
+      "summary": "UXP Plugins & API: State, States, Static Alignment Options, Static Text ....",
+      "keywords": [
+        "state-states-static-alignment-options-static-text",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Story Windows",
+      "file": "references/uxp-story-windows.md",
+      "summary": "UXP Plugins & API: Story Windows.",
+      "keywords": [
+        "story-windows",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Story (part 1)",
+      "file": "references/uxp-story.md",
+      "summary": "UXP Plugins & API: Story (part 1).",
+      "keywords": [
+        "story-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Story (part 2)",
+      "file": "references/uxp-story-2.md",
+      "summary": "UXP Plugins & API: Story (part 2).",
+      "keywords": [
+        "story-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Story (part 2) (cont. 1)",
+      "file": "references/uxp-story-2-b.md",
+      "summary": "Story (part 2) (cont. 1). Continuation of uxp-story-2.md.",
+      "keywords": [
+        "story-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Story (part 3)",
+      "file": "references/uxp-story-3.md",
+      "summary": "UXP Plugins & API: Story (part 3).",
+      "keywords": [
+        "story-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Striped Stroke Style, Striped Stroke Styles, Stroke Alignment, Stroke Corner Adjustment ...",
+      "file": "references/uxp-s-7.md",
+      "summary": "UXP Plugins & API: Striped Stroke Style, Striped Stroke Styles, Stroke Alignment, Stroke Corner Adjustment ....",
+      "keywords": [
+        "striped-stroke-style-striped-stroke-styles-stroke-alignment-stroke-corner-adjustment",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Submenu, Submenus, Submit Form Behavior, Submit Form Behaviors ...",
+      "file": "references/uxp-s-8.md",
+      "summary": "UXP Plugins & API: Submenu, Submenus, Submit Form Behavior, Submit Form Behaviors ....",
+      "keywords": [
+        "submenu-submenus-submit-form-behavior-submit-form-behaviors",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Svg (part 1)",
+      "file": "references/uxp-svg.md",
+      "summary": "UXP Plugins & API: Svg (part 1).",
+      "keywords": [
+        "svg-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Svg (part 2)",
+      "file": "references/uxp-svg-2.md",
+      "summary": "UXP Plugins & API: Svg (part 2).",
+      "keywords": [
+        "svg-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Swatch, Swatches, Sync Conflict Resolution",
+      "file": "references/uxp-s-9.md",
+      "summary": "UXP Plugins & API: Swatch, Swatches, Sync Conflict Resolution.",
+      "keywords": [
+        "swatch-swatches-sync-conflict-resolution",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Tab Stop Alignment, Tab Stop, Tab Stops, Table Direction Options ...",
+      "file": "references/uxp-t.md",
+      "summary": "UXP Plugins & API: Tab Stop Alignment, Tab Stop, Tab Stops, Table Direction Options ....",
+      "keywords": [
+        "tab-stop-alignment-tab-stop-tab-stops-table-direction-options",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Table Style, Table Styles",
+      "file": "references/uxp-t-2.md",
+      "summary": "UXP Plugins & API: Table Style, Table Styles.",
+      "keywords": [
+        "table-style-table-styles",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Table (part 1)",
+      "file": "references/uxp-table.md",
+      "summary": "UXP Plugins & API: Table (part 1).",
+      "keywords": [
+        "table-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Table (part 2)",
+      "file": "references/uxp-table-2.md",
+      "summary": "UXP Plugins & API: Table (part 2).",
+      "keywords": [
+        "table-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Tables, Tag Raster, Tag Text Export Character Set, Tag Text Form ...",
+      "file": "references/uxp-t-3.md",
+      "summary": "UXP Plugins & API: Tables, Tag Raster, Tag Text Export Character Set, Tag Text Form ....",
+      "keywords": [
+        "tables-tag-raster-tag-text-export-character-set-tag-text-form",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Box (part 1)",
+      "file": "references/uxp-text-box.md",
+      "summary": "UXP Plugins & API: Text Box (part 1).",
+      "keywords": [
+        "text-box-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Box (part 2)",
+      "file": "references/uxp-text-box-2.md",
+      "summary": "UXP Plugins & API: Text Box (part 2).",
+      "keywords": [
+        "text-box-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Boxes",
+      "file": "references/uxp-text-boxes.md",
+      "summary": "UXP Plugins & API: Text Boxes.",
+      "keywords": [
+        "text-boxes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Column (part 1)",
+      "file": "references/uxp-text-column.md",
+      "summary": "UXP Plugins & API: Text Column (part 1).",
+      "keywords": [
+        "text-column-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Column (part 2)",
+      "file": "references/uxp-text-column-2.md",
+      "summary": "UXP Plugins & API: Text Column (part 2).",
+      "keywords": [
+        "text-column-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Column (part 2) (cont. 1)",
+      "file": "references/uxp-text-column-2-b.md",
+      "summary": "Text Column (part 2) (cont. 1). Continuation of uxp-text-column-2.md.",
+      "keywords": [
+        "text-column-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Column (part 3)",
+      "file": "references/uxp-text-column-3.md",
+      "summary": "UXP Plugins & API: Text Column (part 3).",
+      "keywords": [
+        "text-column-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Columns",
+      "file": "references/uxp-text-columns.md",
+      "summary": "UXP Plugins & API: Text Columns.",
+      "keywords": [
+        "text-columns",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Default (part 1)",
+      "file": "references/uxp-text-default.md",
+      "summary": "UXP Plugins & API: Text Default (part 1).",
+      "keywords": [
+        "text-default-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Default (part 1) (part 2)",
+      "file": "references/uxp-text-default-3.md",
+      "summary": "UXP Plugins & API: Text Default (part 1).",
+      "keywords": [
+        "text-default-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Default (part 2)",
+      "file": "references/uxp-text-default-2.md",
+      "summary": "UXP Plugins & API: Text Default (part 2).",
+      "keywords": [
+        "text-default-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Direction, Text Editbox, Text Editboxes, Text Editing Preference ...",
+      "file": "references/uxp-t-4.md",
+      "summary": "UXP Plugins & API: Text Direction, Text Editbox, Text Editboxes, Text Editing Preference ....",
+      "keywords": [
+        "text-direction-text-editbox-text-editboxes-text-editing-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Frame (part 1)",
+      "file": "references/uxp-text-frame.md",
+      "summary": "UXP Plugins & API: Text Frame (part 1).",
+      "keywords": [
+        "text-frame-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Frame (part 2)",
+      "file": "references/uxp-text-frame-2.md",
+      "summary": "UXP Plugins & API: Text Frame (part 2).",
+      "keywords": [
+        "text-frame-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Frames, Text Import Character Set, Text Import Preference, Text Path Effects ...",
+      "file": "references/uxp-t-5.md",
+      "summary": "UXP Plugins & API: Text Frames, Text Import Character Set, Text Import Preference, Text Path Effects ....",
+      "keywords": [
+        "text-frames-text-import-character-set-text-import-preference-text-path-effects",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Preference, Text Stroke Align",
+      "file": "references/uxp-t-6.md",
+      "summary": "UXP Plugins & API: Text Preference, Text Stroke Align.",
+      "keywords": [
+        "text-preference-text-stroke-align",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Style Range (part 1)",
+      "file": "references/uxp-text-style-range.md",
+      "summary": "UXP Plugins & API: Text Style Range (part 1).",
+      "keywords": [
+        "text-style-range-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Style Range (part 2)",
+      "file": "references/uxp-text-style-range-2.md",
+      "summary": "UXP Plugins & API: Text Style Range (part 2).",
+      "keywords": [
+        "text-style-range-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Style Range (part 2) (cont. 1)",
+      "file": "references/uxp-text-style-range-2-b.md",
+      "summary": "Text Style Range (part 2) (cont. 1). Continuation of uxp-text-style-range-2.md.",
+      "keywords": [
+        "text-style-range-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Style Range (part 3)",
+      "file": "references/uxp-text-style-range-3.md",
+      "summary": "UXP Plugins & API: Text Style Range (part 3).",
+      "keywords": [
+        "text-style-range-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text Style Ranges, Text Type Alignments, Text Variable Instance, Text Variable Instances ...",
+      "file": "references/uxp-t-7.md",
+      "summary": "UXP Plugins & API: Text Style Ranges, Text Type Alignments, Text Variable Instance, Text Variable Instances ....",
+      "keywords": [
+        "text-style-ranges-text-type-alignments-text-variable-instance-text-variable-instances",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text (part 1)",
+      "file": "references/uxp-text.md",
+      "summary": "UXP Plugins & API: Text (part 1).",
+      "keywords": [
+        "text-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text (part 2)",
+      "file": "references/uxp-text-2.md",
+      "summary": "UXP Plugins & API: Text (part 2).",
+      "keywords": [
+        "text-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text (part 2) (cont. 1)",
+      "file": "references/uxp-text-2-b.md",
+      "summary": "Text (part 2) (cont. 1). Continuation of uxp-text-2.md.",
+      "keywords": [
+        "text-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text (part 2) (cont. 2)",
+      "file": "references/uxp-text-2-c.md",
+      "summary": "Text (part 2) (cont. 2). Continuation of uxp-text-2.md.",
+      "keywords": [
+        "text-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Text (part 3)",
+      "file": "references/uxp-text-3.md",
+      "summary": "UXP Plugins & API: Text (part 3).",
+      "keywords": [
+        "text-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Texts, Threaded Text Frame Text Options, Thumbs Per Page, Tiling Types ...",
+      "file": "references/uxp-t-8.md",
+      "summary": "UXP Plugins & API: Texts, Threaded Text Frame Text Options, Thumbs Per Page, Tiling Types ....",
+      "keywords": [
+        "texts-threaded-text-frame-text-options-thumbs-per-page-tiling-types",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Tints, Toc Style Entries, Toc Style Entry, Toc Style ...",
+      "file": "references/uxp-t-9.md",
+      "summary": "UXP Plugins & API: Tints, Toc Style Entries, Toc Style Entry, Toc Style ....",
+      "keywords": [
+        "tints-toc-style-entries-toc-style-entry-toc-style",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Track Changes Preference, Transform Attribute Option, Transform Position Reference, Transform Preference ...",
+      "file": "references/uxp-t-10.md",
+      "summary": "UXP Plugins & API: Track Changes Preference, Transform Attribute Option, Transform Position Reference, Transform Preference ....",
+      "keywords": [
+        "track-changes-preference-transform-attribute-option-transform-position-reference-transform-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Trap Preset, Trap Presets, Trapping, Type Contextual Ui Preference",
+      "file": "references/uxp-t-11.md",
+      "summary": "UXP Plugins & API: Trap Preset, Trap Presets, Trapping, Type Contextual Ui Preference.",
+      "keywords": [
+        "trap-preset-trap-presets-trapping-type-contextual-ui-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Ui Colors, Ui Tools, Undo Modes, Update Link Options ...",
+      "file": "references/uxp-u.md",
+      "summary": "UXP Plugins & API: Ui Colors, Ui Tools, Undo Modes, Update Link Options ....",
+      "keywords": [
+        "ui-colors-ui-tools-undo-modes-update-link-options",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Validation Error, Validation Errors, Variable Numbering Styles, Variable Scopes ...",
+      "file": "references/uxp-v.md",
+      "summary": "UXP Plugins & API: Validation Error, Validation Errors, Variable Numbering Styles, Variable Scopes ....",
+      "keywords": [
+        "validation-error-validation-errors-variable-numbering-styles-variable-scopes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Warichu Alignment, Watermark Horizontal Position Enum, Watermark Preference, Watermark Vertical Position Enum ...",
+      "file": "references/uxp-w.md",
+      "summary": "UXP Plugins & API: Warichu Alignment, Watermark Horizontal Position Enum, Watermark Preference, Watermark Vertical Position Enum ....",
+      "keywords": [
+        "warichu-alignment-watermark-horizontal-position-enum-watermark-preference-watermark-vertical-position-enum",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Wmf (part 1)",
+      "file": "references/uxp-wmf.md",
+      "summary": "UXP Plugins & API: Wmf (part 1).",
+      "keywords": [
+        "wmf-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Wmf (part 2)",
+      "file": "references/uxp-wmf-2.md",
+      "summary": "UXP Plugins & API: Wmf (part 2).",
+      "keywords": [
+        "wmf-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Word Rtf Import Preference",
+      "file": "references/uxp-word-rtf-import-preference.md",
+      "summary": "UXP Plugins & API: Word Rtf Import Preference.",
+      "keywords": [
+        "word-rtf-import-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Word (part 1)",
+      "file": "references/uxp-word.md",
+      "summary": "UXP Plugins & API: Word (part 1).",
+      "keywords": [
+        "word-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Word (part 1) (part 2)",
+      "file": "references/uxp-word-3.md",
+      "summary": "UXP Plugins & API: Word (part 1).",
+      "keywords": [
+        "word-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Word (part 2)",
+      "file": "references/uxp-word-2.md",
+      "summary": "UXP Plugins & API: Word (part 2).",
+      "keywords": [
+        "word-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Words",
+      "file": "references/uxp-words.md",
+      "summary": "UXP Plugins & API: Words.",
+      "keywords": [
+        "words",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Attribute, Xml Attributes, Xml Comment, Xml Comments ...",
+      "file": "references/uxp-x.md",
+      "summary": "UXP Plugins & API: Xml Attribute, Xml Attributes, Xml Comment, Xml Comments ....",
+      "keywords": [
+        "xml-attribute-xml-attributes-xml-comment-xml-comments",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Element, Xml Elements, Xml Export Map, Xml Export Maps",
+      "file": "references/uxp-x-2.md",
+      "summary": "UXP Plugins & API: Xml Element, Xml Elements, Xml Export Map, Xml Export Maps.",
+      "keywords": [
+        "xml-element-xml-elements-xml-export-map-xml-export-maps",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Export Preference, Xml Export Untagged Tables Format, Xml File Encoding, Xml Import Map ...",
+      "file": "references/uxp-x-3.md",
+      "summary": "UXP Plugins & API: Xml Export Preference, Xml Export Untagged Tables Format, Xml File Encoding, Xml Import Map ....",
+      "keywords": [
+        "xml-export-preference-xml-export-untagged-tables-format-xml-file-encoding-xml-import-map",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Preference, Xml Rule Match Data, Xml Rule Processor, Xml Rule Processors ...",
+      "file": "references/uxp-x-4.md",
+      "summary": "UXP Plugins & API: Xml Preference, Xml Rule Match Data, Xml Rule Processor, Xml Rule Processors ....",
+      "keywords": [
+        "xml-preference-xml-rule-match-data-xml-rule-processor-xml-rule-processors",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Story (part 1)",
+      "file": "references/uxp-xml-story.md",
+      "summary": "UXP Plugins & API: Xml Story (part 1).",
+      "keywords": [
+        "xml-story-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Story (part 2)",
+      "file": "references/uxp-xml-story-2.md",
+      "summary": "UXP Plugins & API: Xml Story (part 2).",
+      "keywords": [
+        "xml-story-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Story (part 2) (cont. 1)",
+      "file": "references/uxp-xml-story-2-b.md",
+      "summary": "Xml Story (part 2) (cont. 1). Continuation of uxp-xml-story-2.md.",
+      "keywords": [
+        "xml-story-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Story (part 3)",
+      "file": "references/uxp-xml-story-3.md",
+      "summary": "UXP Plugins & API: Xml Story (part 3).",
+      "keywords": [
+        "xml-story-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Tag, Xml Tags, Xml Transform File, Xml View Preference",
+      "file": "references/uxp-x-5.md",
+      "summary": "UXP Plugins & API: Xml Tag, Xml Tags, Xml Transform File, Xml View Preference.",
+      "keywords": [
+        "xml-tag-xml-tags-xml-transform-file-xml-view-preference",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Zoom Options",
+      "file": "references/uxp-zoom-options.md",
+      "summary": "UXP Plugins & API: Zoom Options.",
+      "keywords": [
+        "zoom-options",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Index, Introduction",
+      "file": "references/uxp-for-adobe-indesign.md",
+      "summary": "UXP Plugins & API: Index, Introduction.",
+      "keywords": [
+        "index-introduction",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Advanced, Concepts, Getting Started",
+      "file": "references/uxp-plugins.md",
+      "summary": "UXP Plugins & API: Advanced, Concepts, Getting Started.",
+      "keywords": [
+        "advanced-concepts-getting-started",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Adding Command Entrypoints, Importing Modules, Inter Plugin Comm, Plugin Lifecycle Hooks ...",
+      "file": "references/uxp-tutorials.md",
+      "summary": "UXP Plugins & API: Adding Command Entrypoints, Importing Modules, Inter Plugin Comm, Plugin Lifecycle Hooks ....",
+      "keywords": [
+        "adding-command-entrypoints-importing-modules-inter-plugin-comm-plugin-lifecycle-hooks",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Changelog3 P",
+      "file": "references/uxp-api-2.md",
+      "summary": "UXP Plugins & API: Changelog3 P.",
+      "keywords": [
+        "changelog3-p",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Known Issues",
+      "file": "references/uxp-known-issues.md",
+      "summary": "UXP Plugins & API: Known Issues.",
+      "keywords": [
+        "known-issues",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "General, Media Queries, Pseudo Classes, Pseudo Elements ...",
+      "file": "references/uxp-reference-css.md",
+      "summary": "UXP Plugins & API: General, Media Queries, Pseudo Classes, Pseudo Elements ....",
+      "keywords": [
+        "general-media-queries-pseudo-classes-pseudo-elements",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Align Content, Align Items, Align Self, Background Attachment ...",
+      "file": "references/uxp-styles.md",
+      "summary": "UXP Plugins & API: Align Content, Align Items, Align Self, Background Attachment ....",
+      "keywords": [
+        "align-content-align-items-align-self-background-attachment",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Overflow X, Overflow Y, Overflow, Padding Bottom ...",
+      "file": "references/uxp-styles-2.md",
+      "summary": "UXP Plugins & API: Overflow X, Overflow Y, Overflow, Padding Bottom ....",
+      "keywords": [
+        "overflow-x-overflow-y-overflow-padding-bottom",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "General, Hierarchy",
+      "file": "references/uxp-reference-html.md",
+      "summary": "UXP Plugins & API: General, Hierarchy.",
+      "keywords": [
+        "general-hierarchy",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Crypto, Data Storage, Data Transfers",
+      "file": "references/uxp-global-members.md",
+      "summary": "UXP Plugins & API: Crypto, Data Storage, Data Transfers.",
+      "keywords": [
+        "crypto-data-storage-data-transfers",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Html Dom, Html Elements, Html Events, Image Blob",
+      "file": "references/uxp-global-members-2.md",
+      "summary": "UXP Plugins & API: Html Dom, Html Elements, Html Events, Image Blob.",
+      "keywords": [
+        "html-dom-html-elements-html-events-image-blob",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Html Dom, Html Elements, Html Events, Image Blob (part 2)",
+      "file": "references/uxp-global-members-2-2.md",
+      "summary": "UXP Plugins & API: Html Dom, Html Elements, Html Events, Image Blob.",
+      "keywords": [
+        "html-dom-html-elements-html-events-image-blob",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Path, Streams",
+      "file": "references/uxp-global-members-3.md",
+      "summary": "UXP Plugins & API: Path, Streams.",
+      "keywords": [
+        "path-streams",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Reference Js",
+      "file": "references/uxp-reference-js.md",
+      "summary": "UXP Plugins & API: Reference Js.",
+      "keywords": [
+        "reference-js",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Fs, Os",
+      "file": "references/uxp-modules.md",
+      "summary": "UXP Plugins & API: Fs, Os.",
+      "keywords": [
+        "fs-os",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Entry Points, Host Information, Key Value Storage, Persistent File Storage ...",
+      "file": "references/uxp.md",
+      "summary": "UXP Plugins & API: Entry Points, Host Information, Key Value Storage, Persistent File Storage ....",
+      "keywords": [
+        "entry-points-host-information-key-value-storage-persistent-file-storage",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Reference Spectrum, Versions3 P",
+      "file": "references/uxp-api-3.md",
+      "summary": "UXP Plugins & API: Reference Spectrum, Versions3 P.",
+      "keywords": [
+        "reference-spectrum-versions3-p",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Fundamentals, Migration Guides",
+      "file": "references/uxp-resources.md",
+      "summary": "UXP Plugins & API: Fundamentals, Migration Guides.",
+      "keywords": [
+        "fundamentals-migration-guides",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Clipboard, Css Styling, Debug, Document Changes",
+      "file": "references/uxp-recipes.md",
+      "summary": "UXP Plugins & API: Clipboard, Css Styling, Debug, Document Changes.",
+      "keywords": [
+        "clipboard-css-styling-debug-document-changes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "File Operation, Flyout Menu, Host Info, Html Elements ...",
+      "file": "references/uxp-recipes-2.md",
+      "summary": "UXP Plugins & API: File Operation, Flyout Menu, Host Info, Html Elements ....",
+      "keywords": [
+        "file-operation-flyout-menu-host-info-html-elements",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Launch Process, Network, Persistent Storage Migration, Recipe Template",
+      "file": "references/uxp-recipes-3.md",
+      "summary": "UXP Plugins & API: Launch Process, Network, Persistent Storage Migration, Recipe Template.",
+      "keywords": [
+        "launch-process-network-persistent-storage-migration-recipe-template",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Rtl, Storage, Tbd Promise",
+      "file": "references/uxp-recipes-4.md",
+      "summary": "UXP Plugins & API: Rtl, Storage, Tbd Promise.",
+      "keywords": [
+        "rtl-storage-tbd-promise",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml",
+      "file": "references/uxp-xml.md",
+      "summary": "UXP Plugins & API: Xml.",
+      "keywords": [
+        "xml",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Starter Kits, Tbd Troubleshooting",
+      "file": "references/uxp-resources-2.md",
+      "summary": "UXP Plugins & API: Starter Kits, Tbd Troubleshooting.",
+      "keywords": [
+        "starter-kits-tbd-troubleshooting",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Scripts, Support",
+      "file": "references/uxp-advanced-topics.md",
+      "summary": "UXP Plugins & API: Scripts, Support.",
+      "keywords": [
+        "scripts-support",
+        "uxp"
+      ]
+    }
+  ]
+}

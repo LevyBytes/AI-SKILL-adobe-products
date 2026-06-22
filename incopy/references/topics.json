@@ -1,0 +1,428 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Whats New",
+      "file": "references/help-whats-new.md",
+      "summary": "Desktop & Web Help: Whats New.",
+      "keywords": [
+        "whats-new",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Earlier Versions",
+      "file": "references/help-earlier-versions.md",
+      "summary": "Desktop & Web Help: Earlier Versions.",
+      "keywords": [
+        "earlier-versions",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Workspace Basics",
+      "file": "references/help-workspace-basics.md",
+      "summary": "Desktop & Web Help: Workspace Basics.",
+      "keywords": [
+        "workspace-basics",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Customizing Preferences Defaults, Default Keyboard Shortcuts, Recovery Undo, Usability Productivity ...",
+      "file": "references/help-settings-and-preferences.md",
+      "summary": "Desktop & Web Help: Customizing Preferences Defaults, Default Keyboard Shortcuts, Recovery Undo, Usability Productivity ....",
+      "keywords": [
+        "customizing-preferences-defaults-default-keyboard-shortcuts-recovery-undo-usability-productivity",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Using Incopy Workflow, Collaboration, Basic Managed File Workflow",
+      "file": "references/help-incopy-workflow-overview.md",
+      "summary": "Desktop & Web Help: Using Incopy Workflow, Collaboration, Basic Managed File Workflow.",
+      "keywords": [
+        "using-incopy-workflow-collaboration-basic-managed-file-workflow",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Adjusting Workflow",
+      "file": "references/help-adjusting-workflow.md",
+      "summary": "Desktop & Web Help: Adjusting Workflow.",
+      "keywords": [
+        "adjusting-workflow",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Managed Files, Assignment Packages",
+      "file": "references/help-managed-files.md",
+      "summary": "Desktop & Web Help: Managed Files, Assignment Packages.",
+      "keywords": [
+        "managed-files-assignment-packages",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Sharing Content, Stand Alone Documents",
+      "file": "references/help-managed-files-2.md",
+      "summary": "Desktop & Web Help: Sharing Content, Stand Alone Documents.",
+      "keywords": [
+        "sharing-content-stand-alone-documents",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Adding Text",
+      "file": "references/help-adding-text.md",
+      "summary": "Desktop & Web Help: Adding Text.",
+      "keywords": [
+        "adding-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Editing Text (part 1)",
+      "file": "references/help-editing-text.md",
+      "summary": "Desktop & Web Help: Editing Text (part 1).",
+      "keywords": [
+        "editing-text-part-1",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Editing Text (part 2)",
+      "file": "references/help-editing-text-2.md",
+      "summary": "Desktop & Web Help: Editing Text (part 2).",
+      "keywords": [
+        "editing-text-part-2",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Viewing Stories, Moving Documents, Copyfitting Text",
+      "file": "references/help-add-and-edit-text.md",
+      "summary": "Desktop & Web Help: Viewing Stories, Moving Documents, Copyfitting Text.",
+      "keywords": [
+        "viewing-stories-moving-documents-copyfitting-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Find Change (part 1)",
+      "file": "references/help-find-change.md",
+      "summary": "Desktop & Web Help: Find Change (part 1).",
+      "keywords": [
+        "find-change-part-1",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Find Change (part 2)",
+      "file": "references/help-find-change-2.md",
+      "summary": "Desktop & Web Help: Find Change (part 2).",
+      "keywords": [
+        "find-change-part-2",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Checking Spelling",
+      "file": "references/help-checking-spelling.md",
+      "summary": "Desktop & Web Help: Checking Spelling.",
+      "keywords": [
+        "checking-spelling",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Using Thesaurus",
+      "file": "references/help-using-thesaurus.md",
+      "summary": "Desktop & Web Help: Using Thesaurus.",
+      "keywords": [
+        "using-thesaurus",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Text Changes, Tracking Reviewing Changes, Using Editorial Notes, Using Text Macros",
+      "file": "references/help-track-and-review-changes.md",
+      "summary": "Desktop & Web Help: Text Changes, Tracking Reviewing Changes, Using Editorial Notes, Using Text Macros.",
+      "keywords": [
+        "text-changes-tracking-reviewing-changes-using-editorial-notes-using-text-macros",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Text Variables",
+      "file": "references/help-text-variables.md",
+      "summary": "Desktop & Web Help: Text Variables.",
+      "keywords": [
+        "text-variables",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Formatting Text, Formatting Characters",
+      "file": "references/help-character-formatting.md",
+      "summary": "Desktop & Web Help: Formatting Text, Formatting Characters.",
+      "keywords": [
+        "formatting-text-formatting-characters",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Using Fonts",
+      "file": "references/help-using-fonts.md",
+      "summary": "Desktop & Web Help: Using Fonts.",
+      "keywords": [
+        "using-fonts",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Kerning Tracking, Leading",
+      "file": "references/help-character-formatting-2.md",
+      "summary": "Desktop & Web Help: Kerning Tracking, Leading.",
+      "keywords": [
+        "kerning-tracking-leading",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Glyphs Special Characters",
+      "file": "references/help-glyphs-special-characters.md",
+      "summary": "Desktop & Web Help: Glyphs Special Characters.",
+      "keywords": [
+        "glyphs-special-characters",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Formatting Paragraphs",
+      "file": "references/help-formatting-paragraphs.md",
+      "summary": "Desktop & Web Help: Formatting Paragraphs.",
+      "keywords": [
+        "formatting-paragraphs",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Tabs Indents",
+      "file": "references/help-tabs-indents.md",
+      "summary": "Desktop & Web Help: Tabs Indents.",
+      "keywords": [
+        "tabs-indents",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Aligning Text",
+      "file": "references/help-aligning-text.md",
+      "summary": "Desktop & Web Help: Aligning Text.",
+      "keywords": [
+        "aligning-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Bullets Numbering",
+      "file": "references/help-bullets-numbering.md",
+      "summary": "Desktop & Web Help: Bullets Numbering.",
+      "keywords": [
+        "bullets-numbering",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Drop Caps Nested Styles, Text Composition",
+      "file": "references/help-paragraph-formatting.md",
+      "summary": "Desktop & Web Help: Drop Caps Nested Styles, Text Composition.",
+      "keywords": [
+        "drop-caps-nested-styles-text-composition",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Styles",
+      "file": "references/help-styles.md",
+      "summary": "Desktop & Web Help: Styles.",
+      "keywords": [
+        "styles",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Paragraph Character Styles",
+      "file": "references/help-paragraph-character-styles.md",
+      "summary": "Desktop & Web Help: Paragraph Character Styles.",
+      "keywords": [
+        "paragraph-character-styles",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Swatches",
+      "file": "references/help-swatches.md",
+      "summary": "Desktop & Web Help: Swatches.",
+      "keywords": [
+        "swatches",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Composing Cjk Characters",
+      "file": "references/help-composing-cjk-characters.md",
+      "summary": "Desktop & Web Help: Composing Cjk Characters.",
+      "keywords": [
+        "composing-cjk-characters",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Formatting Cjk Characters, Changing Spacing Characters Cjk Text",
+      "file": "references/help-cjk-and-multilingual-text.md",
+      "summary": "Desktop & Web Help: Formatting Cjk Characters, Changing Spacing Characters Cjk Text.",
+      "keywords": [
+        "formatting-cjk-characters-changing-spacing-characters-cjk-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Creating Tables, Selecting Editing Tables",
+      "file": "references/help-add-tables.md",
+      "summary": "Desktop & Web Help: Creating Tables, Selecting Editing Tables.",
+      "keywords": [
+        "creating-tables-selecting-editing-tables",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Formatting Tables, Table Strokes Fills",
+      "file": "references/help-add-tables-2.md",
+      "summary": "Desktop & Web Help: Formatting Tables, Table Strokes Fills.",
+      "keywords": [
+        "formatting-tables-table-strokes-fills",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Table Cell Styles",
+      "file": "references/help-table-cell-styles.md",
+      "summary": "Desktop & Web Help: Table Cell Styles.",
+      "keywords": [
+        "table-cell-styles",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Importing Graphics (part 1)",
+      "file": "references/help-importing-graphics.md",
+      "summary": "Desktop & Web Help: Importing Graphics (part 1).",
+      "keywords": [
+        "importing-graphics-part-1",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Importing Graphics (part 2)",
+      "file": "references/help-importing-graphics-2.md",
+      "summary": "Desktop & Web Help: Importing Graphics (part 2).",
+      "keywords": [
+        "importing-graphics-part-2",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Controlling Graphics Display, Transforming Graphics",
+      "file": "references/help-add-graphics-and-frames.md",
+      "summary": "Desktop & Web Help: Controlling Graphics Display, Transforming Graphics.",
+      "keywords": [
+        "controlling-graphics-display-transforming-graphics",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Frames Grids Rulers Guides, Frame Grids",
+      "file": "references/help-add-graphics-and-frames-2.md",
+      "summary": "Desktop & Web Help: Frames Grids Rulers Guides, Frame Grids.",
+      "keywords": [
+        "frames-grids-rulers-guides-frame-grids",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Footnotes, Endnotes",
+      "file": "references/help-add-references-and-links.md",
+      "summary": "Desktop & Web Help: Footnotes, Endnotes.",
+      "keywords": [
+        "footnotes-endnotes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Cross References",
+      "file": "references/help-cross-references.md",
+      "summary": "Desktop & Web Help: Cross References.",
+      "keywords": [
+        "cross-references",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Hyperlinks, Including Metadata Story",
+      "file": "references/help-add-references-and-links-2.md",
+      "summary": "Desktop & Web Help: Hyperlinks, Including Metadata Story.",
+      "keywords": [
+        "hyperlinks-including-metadata-story",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Saving Exporting, Exporting Pdf, Pdf, Printing Stories",
+      "file": "references/help-save-export-and-print.md",
+      "summary": "Desktop & Web Help: Saving Exporting, Exporting Pdf, Pdf, Printing Stories.",
+      "keywords": [
+        "saving-exporting-exporting-pdf-pdf-printing-stories",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Setting Printer",
+      "file": "references/help-setting-printer.md",
+      "summary": "Desktop & Web Help: Setting Printer.",
+      "keywords": [
+        "setting-printer",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Xml, Structuring Documents Xml",
+      "file": "references/help-work-with-xml.md",
+      "summary": "Desktop & Web Help: Xml, Structuring Documents Xml.",
+      "keywords": [
+        "xml-structuring-documents-xml",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Tagging Content Xml, Using Xml Files, Exporting Xml",
+      "file": "references/help-work-with-xml-2.md",
+      "summary": "Desktop & Web Help: Tagging Content Xml, Using Xml Files, Exporting Xml.",
+      "keywords": [
+        "tagging-content-xml-using-xml-files-exporting-xml",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Troubleshoot Corrupt Incopy Documents, Unable To Open Icap Files",
+      "file": "references/help-troubleshooting.md",
+      "summary": "Desktop & Web Help: Troubleshoot Corrupt Incopy Documents, Unable To Open Icap Files.",
+      "keywords": [
+        "troubleshoot-corrupt-incopy-documents-unable-to-open-icap-files",
+        "desktop_help"
+      ]
+    }
+  ]
+}

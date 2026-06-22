@@ -1,0 +1,424 @@
+# Clipboard, Css Styling, Debug, Document Changes
+
+> Adobe InDesign reference. Original prose; identifiers preserved verbatim.
+
+## Overview
+
+Covers: Clipboard; CSS styling; Debugging; Document changes.
+
+## Clipboard
+
+Access clipboard data for both reading and writing.
+
+### System requirements
+
+Confirm that your local setup is running these application versions before you continue.
+
+- InDesign v18.5 or higher
+- UXP version v7.1 or higher
+- Manifest version v5 or higher
+
+Plugins and Scripts
+
+**In plugins**, request manifest permission before using `clipboard` access. IMPORTANT: Review [manifest permissions](uxp-plugins.md) before continuing.
+
+**In scripts**, `clipboard` permission is predefined. The manifest details in the examples below can be ignored. The [manifest fundamentals section](uxp-resources.md) explains these values.
+
+### Example
+
+### JavaScript
+
+```js
+async function foo() {
+  const clipboard = navigator.clipboard;
+
+  // Setting content for clipboard
+  clipboard.setContent({ "text/plain": "Test string to validate clipboard setContent" }).then(
+    () => {
+      console.log("Data successfully set on clipboard");
+    },
+    (error) => {
+      console.error("Error while setting data on clipboard:", error);
+    },
+  );
+
+  // Reading from clipboard and printing
+  clipboard.getContent().then(
+    (result) => {
+      console.log(`Data from clipboard: ${result["text/plain"]}`);
+    },
+    (error) => {
+      console.error("Error while reading data from clipboard:", error);
+    },
+  );
+}
+```
+
+### manifest
+
+```json
+{
+  "requiredPermissions": {
+    "clipboard": "readAndWrite"
+  }
+}
+```
+
+### Additional notes
+
+- Use "read" for the permission when the script or plugin only needs clipboard read access.
+
+### Reference material
+
+- [Clipboard](https://raw.githubusercontent.com/reference/uxp-api/reference-js/global-members/data-transfers/clipboard.md) APIs
+
+## CSS styling
+
+Adobe uses Spectrum as its design system across many applications. For UI consistency, prefer Spectrum-based controls whenever you can. UXP also includes a ready-made UI library styled with Spectrum.
+
+When importing a stylesheet or adjusting styles, remember that **UXP is not a browser**. Its architecture lacks support for some CSS properties and is not planned to support all of them. For example, UXP does not provide native support for grid layout. Documented supported properties appear under [API reference docs](uxp-recipes.md).
+
+Scripts and plugins
+
+**In scripts**, there is no separate HTML file, so styling has to be applied to UI components through JavaScript.
+
+**In plugins**, CSS styling can be managed more flexibly. You can use CSS classes, inline styling, or JavaScript-applied styling.
+
+### Example
+
+This example applies background color to divs using three approaches:
+
+- CSS class
+- Inline style
+- Via JavaScript
+
+### HTML
+
+```html
+<div class="green">
+  <h1>Styling from CSS class</h1>
+</div>
+
+<div style="background-color: yellow;">
+  <h1>Inline styling</h1>
+</div>
+
+<div id="exampleDiv">
+  <h1>Styling from JS</h1>
+</div>
+```
+
+### JavaScript
+
+```js
+const exampleDiv = document.getElementById("exampleDiv");
+exampleDiv.style.backgroundColor = "orange";
+```
+
+### CSS
+
+```css
+.green {
+  background-color: green;
+}
+```
+
+### Additional notes
+
+- **CSS preprocessors**: UXP can consume only plain CSS. SASS or SCSS may still be used if the code is transpiled to a CSS stylesheet before use. You will also need a tool such as Webpack so the plugin bundle is built correctly, along with a somewhat different workflow for [debug using UDT](uxp-tutorials.md), matching the React framework setup pattern.
+
+### Reference material
+
+- [CSS reference](https://raw.githubusercontent.com/reference/uxp-api/reference-css/index.md)
+- [Spectrum-styled components](https://raw.githubusercontent.com/reference/uxp-api/reference-spectrum/index.md)
+
+## Debugging
+
+During development of complex logic, repeated testing and debugging are often part of the workflow. UDT -> Debug can set breakpoints and debug code through Chrome Debug Tool, and the following techniques can also be useful.
+
+### Console logs
+
+### JavaScript
+
+```js
+async function foo() {
+  console.log("foo"); // writes "foo" to the UXP Developer Tool console.
+  console.error("foo error"); // does the same thing, but the text is shown in red so errors are more easily seen.
+}
+```
+
+### Alerts
+
+Use a modal dialog to stop script or plugin execution until the dialog is dismissed.
+
+### JavaScript
+
+```js
+function alert(msg) {
+  const { app } = require("indesign");
+  const dialog = app.dialogs.add();
+  const col = dialog.dialogColumns.add();
+  const colText = col.staticTexts.add();
+  colText.staticLabel = `${msg}`;
+
+  dialog.canCancel = false;
+  dialog.show();
+  dialog.destroy();
+  return;
+}
+
+async function foo() {
+  alert("foo");
+}
+```
+
+### Additional notes
+
+- InDesign does not currently support [UXP Alerts](https://raw.githubusercontent.com/reference/uxp-api/reference-js/global-members/html-dom/alert.md).
+
+## Document changes
+
+Add details to the InDesign document.
+
+The workflow creates a new document, sets page margins, then defines and applies master pages. This figure is a block diagram for the objects used in the example.
+
+[Figure: InDesign object model](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/main/src/pages/resources/recipes/document-changes/image2.png)
+
+The object model entries usually map to user-interface control names, as the next diagram shows:
+
+[Figure: InDesign object model](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/main/src/pages/resources/recipes/document-changes/image3.png)
+
+```js
+const { app } = require("indesign");
+let myDocument = app.documents.add();
+```
+
+### Setting up measurement units and master spread margins
+
+This script excerpt creates a document and configures margins on master spread 0.
+
+```js
+//Set the measurement units and ruler origin.
+const { MeasurementUnits, RulerOrigin } = require("indesign");
+myDocument.viewPreferences.horizontalMeasurementUnits = MeasurementUnits.points;
+myDocument.viewPreferences.verticalMeasurementUnits = MeasurementUnits.points;
+myDocument.viewPreferences.rulerOrigin = RulerOrigin.pageOrigin;
+
+//Get a reference to the first master spread.
+let myMasterSpread = myDocument.masterSpreads.item(0);
+
+//Get a reference to the margin preferences of the first page in the master spread.
+let myMarginPreferences = myMasterSpread.pages.item(0).marginPreferences;
+
+//Now set up the page margins and columns.
+myMarginPreferences.left = 84;
+myMarginPreferences.top = 70;
+myMarginPreferences.right = 70;
+myMarginPreferences.bottom = 78;
+myMarginPreferences.columnCount = 3;
+myMarginPreferences.columnGutter = 14;
+
+//Page margins and columns for the right-hand page.
+let myMarginPreferences = myMasterSpread.pages.item(1).marginPreferences;
+myMarginPreferences.left = 84;
+myMarginPreferences.top = 70;
+myMarginPreferences.right = 70;
+myMarginPreferences.bottom = 78;
+myMarginPreferences.columnCount = 3;
+myMarginPreferences.columnGutter = 14;
+```
+
+### Adding a baseline grid
+
+With the master spread in place, add a baseline grid. The diagram below maps the objects used in that setup:
+
+[Figure: InDesign object model](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/main/src/pages/resources/recipes/document-changes/image4.png)
+
+```js
+let myGridPreferences = myDocument.gridPreferences;
+myGridPreferences.baselineDivision = 14;
+myGridPreferences.baselineStart = 70;
+myGridPreferences.baselineGridShown = true;
+```
+
+### Adding master page items
+
+The next step creates two master-page text frames. They sit near the page bottom and hold the auto-page-number special character.
+
+In the "Hello World" sample, the text frame's size and placement came from the geometric bounds property, an array of top, left, bottom, and right frame coordinates. Those values align with the frame corners shown in the Control panel. For this footer setup, the bounds are top = 728, left = 70, bottom = 742, and right = 528, illustrated by the two figures that follow:
+
+[Figure: InDesign object model](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/main/src/pages/resources/recipes/document-changes/image5.png)
+
+```js
+const { FirstBaseline, SpecialCharacters, Justification } = require("indesign");
+let myMasterSpread = myDocument.masterSpreads.item(0);
+let myLeftPage = myMasterSpread.pages.item(0);
+let myRightPage = myMasterSpread.pages.item(1);
+let myLeftFooter = myLeftPage.textFrames.add();
+myLeftFooter.geometricBounds = [63, 3, 66, 9];
+myLeftFooter.textFramePreferences.firstBaselineOffset = FirstBaseline.leadingOffset;
+myLeftFooter.contents = SpecialCharacters.autoPageNumber;
+myLeftFooter.parentStory.characters.item(0).pointSize = 11;
+myLeftFooter.parentStory.characters.item(0).leading = 14;
+let myRightFooter = myRightPage.textFrames.add();
+myRightFooter.geometricBounds = [63, 92, 66, 99];
+myRightFooter.textFramePreferences.firstBaselineOffset = FirstBaseline.leadingOffset;
+myRightFooter.contents = SpecialCharacters.autoPageNumber;
+myRightFooter.parentStory.characters.item(0).pointSize = 11;
+myRightFooter.parentStory.characters.item(0).leading = 14;
+myRightFooter.parentStory.characters.item(0).justification = Justification.rightAlign;
+```
+
+### Adding master text frames
+
+Add the master text frames next. This diagram identifies the objects and properties used in the following code:
+
+[Figure: InDesign object model](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/main/src/pages/resources/recipes/document-changes/image6.png)
+
+```js
+const { FirstBaseline } = require("indesign");
+let myLeftPage = myMasterSpread.pages.item(0);
+let myRightPage = myMasterSpread.pages.item(1);
+let myLeftTextFrame = myLeftPage.textFrames.add();
+myLeftTextFrame.geometricBounds = [3, 3, 25, 43];
+myLeftTextFrame.textFramePreferences.firstBaselineOffset = FirstBaseline.leadingOffset;
+myLeftTextFrame.textFramePreferences.textColumnCount = 3;
+myLeftTextFrame.textFramePreferences.textColumnGutter = 14;
+//Add a label to make the frame easier to find later on.
+myLeftTextFrame.label = "BodyTextFrame";
+let myRightTextFrame = myRightPage.textFrames.add();
+myRightTextFrame.geometricBounds = [3, 54, 25, 91];
+myRightTextFrame.textFramePreferences.firstBaselineOffset = FirstBaseline.leadingOffset;
+myRightTextFrame.textFramePreferences.textColumnCount = 3;
+myRightTextFrame.textFramePreferences.textColumnGutter = 14;
+//Add a label to make the frame easier to find later on.
+myRightTextFrame.label = "BodyTextFrame";
+//Link the two frames using the nextTextFrame property.
+myLeftTextFrame.nextTextFrame = myRightTextFrame;
+```
+
+### Overriding master page items and adding text
+
+Override the previously created master text frame, then insert text into it.
+
+```js
+let myTextFrame = myDocument.masterSpreads
+  .item(0)
+  .pages.item(1)
+  .textFrames.item(0)
+  .override(myDocument.pages.item(0));
+//Add text by setting the contents of an insertion point to a string.
+//In JavaScript, "\r" is a return character.
+myTextFrame.insertionPoints.item(0).contents = "Headline!\r";
+```
+
+### Adding and applying a paragraph style
+
+The headline needs paragraph-style formatting, so create that style before applying it. The diagram below lays out the objects and properties touched by this step:
+
+[Figure: InDesign object model](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/main/src/pages/resources/recipes/document-changes/image7.png)
+
+```js
+const { ColorModel } = require("indesign");
+//First, check to see if the paragraph style already exists.
+let myParagraphStyle = myDocument.paragraphStyles.item("Heading 1");
+try {
+  let myName = myParagraphStyle.name;
+} catch (myError) {
+  //The paragraph style did not exist, so create it.
+  myParagraphStyle = myDocument.paragraphStyles.add({ name: "Heading 1" });
+}
+//We'll need to create a color. Check to see if the color already exists.
+let myColor = myDocument.colors.item("Red");
+try {
+  myName = myColor.name;
+} catch (myError) {
+  //The color did not exist, so create it.
+  myColor = myDocument.colors.add({
+    name: "Red",
+    model: ColorModel.process,
+    colorValue: [0, 100, 100, 0],
+  });
+}
+//Now set the formatting of the paragraph style.
+myParagraphStyle.appliedFont = "Arial";
+myParagraphStyle.fontStyle = "Bold";
+myParagraphStyle.pointSize = 24;
+myParagraphStyle.spaceAfter = 24;
+myParagraphStyle.spaceBefore = 24;
+myParagraphStyle.fillColor = myDocument.colors.item("Red");
+//Apply the style to the paragraph.
+myDocument.pages
+  .item(0)
+  .textFrames.item(0)
+  .paragraphs.item(0)
+  .applyParagraphStyle(myParagraphStyle, true);
+//You could also use:
+//myDocument.pages.item(0).textFrames.item(0).paragraphs.item(0).appliedParagraphStyle = myParagraphStyle;
+```
+
+### Placing a text file
+
+Import a text file after the headline in the first page's first text frame. The script opens a dialog for choosing the `.txt` content to place.
+
+```js
+//Display a standard open file dialog box to select a text file.
+let myTextFile = <File Path of txt file>
+ //Example : let myTextFile = "C://IDS/myText.txt";
+ //If a text file was selected, and if you didn't press Cancel,
+//place the text file at the first insertion point after the headline.
+if((myTextFile != "")&&(myTextFile != null)){
+    myTextFrame.insertionPoints.item(-1).place(myTextFile);
+}
+```
+
+### Place a graphic
+
+Graphic placement follows the same pattern as text import: a dialog lets the user choose the graphic. After placement, InDesign gives back the graphic object, not the containing frame. Use the graphic's parent property to reach that frame, then apply the object style to it.
+
+```js
+const { FitOptions, TextWrapModes } =  require("indesign");
+//Display a standard open file dialog box to select a graphic file.
+ let myGraphicFile = <File Path of graphic file>
+//Example : let myGraphicFile = "C://IDS/myImage.PNG";
+ //If a graphic file was selected, and if you didn't press Cancel,
+//place the graphic file on the page.
+if((myGraphicFile != "")&&(myGraphicFile != null)){
+    let myGraphic = myDocument.pages.item(0).place(myGraphicFile);
+    //Since you can place multiple graphics at once, the place method
+    //returns an array. To get the graphic you placed, get the first
+    //item in the array (JavaScript arrays start with item 0).
+    myGraphic = myGraphic[0];
+    //Create an object style to apply to the graphic frame.
+    let myObjectStyle = myDocument.objectStyles.item("GraphicFrame");
+    try {
+        let myName = myObjectStyle.name;
+    }
+    catch (myError){
+        //The object style did not exist, so create it.
+        myObjectStyle = myDocument.objectStyles.add({name:"GraphicFrame"});
+    }
+    myObjectStyle.enableStroke = true;
+    myObjectStyle.strokeWeight = 3;
+    myObjectStyle.strokeType = myDocument.strokeStyles.item("Solid");
+    myObjectStyle.strokeColor = myDocument.colors.item("Red");
+    //The frame containing the graphic is the parent of the graphic.
+    let myFrame = myGraphic.parent;
+    myFrame.applyObjectStyle(myObjectStyle, true);
+    //Resize the frame to a specific size.
+    myFrame.geometricBounds = [0,0,144,144];
+    //Fit the graphic to the frame proportionally.
+    myFrame.fit(FitOptions.proportionally);
+    //Next, fit frame to the resized graphic.
+    myFrame.fit(FitOptions.frameToContent);
+    let myBounds = myFrame.geometricBounds;
+    let myGraphicWidth = myBounds[3]-myBounds[1];
+    //Move the graphic frame.
+    let myPageWidth = myDocument.documentPreferences.pageWidth;
+    let myTopMargin = myDocument.pages.item(0).marginPreferences.top;
+    myFrame.move([myPageWidth-myGraphicWidth, myTopMargin]);
+    //Apply a text wrap to the graphic frame.
+    myFrame.textWrapPreferences.textWrapMode = TextWrapModes.BOUNDING_BOX_TEXT_WRAP;
+    myFrame.textWrapPreferences.textWrapOffset = [24, 12, 24, 12];
+}
+```

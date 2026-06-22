@@ -1,0 +1,1364 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Whats New, Beta Features",
+      "file": "references/help-whats-new.md",
+      "summary": "Desktop & Web Help: Whats New, Beta Features.",
+      "keywords": [
+        "whats-new-beta-features",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Technical Requirements",
+      "file": "references/help-get-started.md",
+      "summary": "Desktop & Web Help: Technical Requirements.",
+      "keywords": [
+        "technical-requirements",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Preferences Overview, General Preferences, Appearance Preferences, Ai Models Preferences ...",
+      "file": "references/help-preferences-and-settings.md",
+      "summary": "Desktop & Web Help: Preferences Overview, General Preferences, Appearance Preferences, Ai Models Preferences ....",
+      "keywords": [
+        "preferences-overview-general-preferences-appearance-preferences-ai-models-preferences",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Accessibility Overview, Screen Reader Screen Magnifier And Operating System Accessibility Support, Navigate Premiere Using The Keyboard",
+      "file": "references/help-set-up-accessibility-features.md",
+      "summary": "Desktop & Web Help: Accessibility Overview, Screen Reader Screen Magnifier And Operating System Accessibility Support, Navigate Premiere Using The Keyboard.",
+      "keywords": [
+        "accessibility-overview-screen-reader-screen-magnifier-and-operating-system-accessibility-support-navigate-premiere-using-the-keyboard",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Keyboard Shortcuts, Set Up Directx Hdr For Windows",
+      "file": "references/help-get-started-2.md",
+      "summary": "Desktop & Web Help: Keyboard Shortcuts, Set Up Directx Hdr For Windows.",
+      "keywords": [
+        "keyboard-shortcuts-set-up-directx-hdr-for-windows",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Use Touch And Gesture Controls, Tour The Workspace",
+      "file": "references/help-get-started-3.md",
+      "summary": "Desktop & Web Help: Use Touch And Gesture Controls, Tour The Workspace.",
+      "keywords": [
+        "use-touch-and-gesture-controls-tour-the-workspace",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Customization Options For The Project Panel, Customize Icon View In Project Panel, Customize Metadata In Freeform View In Project Panel, Customize Freeform View In Project Panel ...",
+      "file": "references/help-customize-the-project-panel.md",
+      "summary": "Desktop & Web Help: Customization Options For The Project Panel, Customize Icon View In Project Panel, Customize Metadata In Freeform View In Project Panel, Customize Freeform View In Project Panel ....",
+      "keywords": [
+        "customization-options-for-the-project-panel-customize-icon-view-in-project-panel-customize-metadata-in-freeform-view-in-project-panel-customize-freeform-view-in-project-panel",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Source Monitor And Program Monitor, Set Display Quality For The Source And Program Monitors, Adjust The Magnification For The Source And Program Monitors, Enable High Quality Playback ...",
+      "file": "references/help-source-and-program-monitor-adjustments.md",
+      "summary": "Desktop & Web Help: About Source Monitor And Program Monitor, Set Display Quality For The Source And Program Monitors, Adjust The Magnification For The Source And Program Monitors, Enable High Quality Playback ....",
+      "keywords": [
+        "about-source-monitor-and-program-monitor-set-display-quality-for-the-source-and-program-monitors-adjust-the-magnification-for-the-source-and-program-monitors-enable-high-quality-playback",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Set Overlay Settings, Set In And Out Points In The Source Monitor",
+      "file": "references/help-source-and-program-monitor-adjustments-2.md",
+      "summary": "Desktop & Web Help: Set Overlay Settings, Set In And Out Points In The Source Monitor.",
+      "keywords": [
+        "set-overlay-settings-set-in-and-out-points-in-the-source-monitor",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Adobe Premiere Copyright And Trademarks And Third Party Notices",
+      "file": "references/help-adobe-premiere-copyright-and-trademarks-and-third-party-notices.md",
+      "summary": "Desktop & Web Help: Adobe Premiere Copyright And Trademarks And Third Party Notices.",
+      "keywords": [
+        "adobe-premiere-copyright-and-trademarks-and-third-party-notices",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Organize Media",
+      "file": "references/help-organize-media.md",
+      "summary": "Desktop & Web Help: Organize Media.",
+      "keywords": [
+        "organize-media",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Start Projects, Create New Project, Open Projects, Copy Project ...",
+      "file": "references/help-create-projects.md",
+      "summary": "Desktop & Web Help: Start Projects, Create New Project, Open Projects, Copy Project ....",
+      "keywords": [
+        "start-projects-create-new-project-open-projects-copy-project",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Import Still Images, Import Images As Image Sequence, Import Photoshop And Illustrator Files, Resize Imported Images ...",
+      "file": "references/help-import-files.md",
+      "summary": "Desktop & Web Help: Import Still Images, Import Images As Image Sequence, Import Photoshop And Illustrator Files, Resize Imported Images ....",
+      "keywords": [
+        "import-still-images-import-images-as-image-sequence-import-photoshop-and-illustrator-files-resize-imported-images",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Import Media From Firefly Boards, Importing Digital Audio, Audio Sample Rates In Premiere, Audio Conforming Specifications ...",
+      "file": "references/help-import-files-2.md",
+      "summary": "Desktop & Web Help: Import Media From Firefly Boards, Importing Digital Audio, Audio Sample Rates In Premiere, Audio Conforming Specifications ....",
+      "keywords": [
+        "import-media-from-firefly-boards-importing-digital-audio-audio-sample-rates-in-premiere-audio-conforming-specifications",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Bins Overview, Add And Delete Bins, Open And Close Bins, Manage Bins ...",
+      "file": "references/help-file-organization.md",
+      "summary": "Desktop & Web Help: Bins Overview, Add And Delete Bins, Open And Close Bins, Manage Bins ....",
+      "keywords": [
+        "bins-overview-add-and-delete-bins-open-and-close-bins-manage-bins",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Relink Offline Media Automatically, Manually Locate And Relink Offline Media, Consolidate Duplicate Folders, Freeze A Frame For A Portion Of A Clip Using Time Remapping ...",
+      "file": "references/help-file-organization-2.md",
+      "summary": "Desktop & Web Help: Relink Offline Media Automatically, Manually Locate And Relink Offline Media, Consolidate Duplicate Folders, Freeze A Frame For A Portion Of A Clip Using Time Remapping ....",
+      "keywords": [
+        "relink-offline-media-automatically-manually-locate-and-relink-offline-media-consolidate-duplicate-folders-freeze-a-frame-for-a-portion-of-a-clip-using-time-remapping",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Overview Of Markers, Add A Marker To A Clip, Copy And Paste Sequence Markers, Find Move And Delete Markers ...",
+      "file": "references/help-apply-labeling.md",
+      "summary": "Desktop & Web Help: Overview Of Markers, Add A Marker To A Clip, Copy And Paste Sequence Markers, Find Move And Delete Markers ....",
+      "keywords": [
+        "overview-of-markers-add-a-marker-to-a-clip-copy-and-paste-sequence-markers-find-move-and-delete-markers",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Transfer Projects From One Computer To Another, Transfer Assets From File Based Media, Copy Transcode Or Archive Project, Supported Elements For Final Cut Pro X",
+      "file": "references/help-transfer-files.md",
+      "summary": "Desktop & Web Help: Transfer Projects From One Computer To Another, Transfer Assets From File Based Media, Copy Transcode Or Archive Project, Supported Elements For Final Cut Pro X.",
+      "keywords": [
+        "transfer-projects-from-one-computer-to-another-transfer-assets-from-file-based-media-copy-transcode-or-archive-project-supported-elements-for-final-cut-pro-x",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Ingest And Proxy Workflow, Configure Ingest Settings, Create Proxies, Attach Proxies To Full Resolution Media ...",
+      "file": "references/help-ingest-proxy-workflow.md",
+      "summary": "Desktop & Web Help: Ingest And Proxy Workflow, Configure Ingest Settings, Create Proxies, Attach Proxies To Full Resolution Media ....",
+      "keywords": [
+        "ingest-and-proxy-workflow-configure-ingest-settings-create-proxies-attach-proxies-to-full-resolution-media",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Metadata In Premiere, Edit Xmp Metadata, Search Xmp Metadata, Show Or Hide Metadata In Premiere ...",
+      "file": "references/help-edit-metadata.md",
+      "summary": "Desktop & Web Help: Metadata In Premiere, Edit Xmp Metadata, Search Xmp Metadata, Show Or Hide Metadata In Premiere ....",
+      "keywords": [
+        "metadata-in-premiere-edit-xmp-metadata-search-xmp-metadata-show-or-hide-metadata-in-premiere",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Overlay Settings, Overlay Settings Reference, Import Export Or Delete Overlay Settings",
+      "file": "references/help-edit-metadata-2.md",
+      "summary": "Desktop & Web Help: Create Overlay Settings, Overlay Settings Reference, Import Export Or Delete Overlay Settings.",
+      "keywords": [
+        "create-overlay-settings-overlay-settings-reference-import-export-or-delete-overlay-settings",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Edit Projects",
+      "file": "references/help-edit-projects.md",
+      "summary": "Desktop & Web Help: Edit Projects.",
+      "keywords": [
+        "edit-projects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Edit Video In Premiere, Add Or Remove Clips, Create A Subclip From The Project Panel, Create A Subclip From The Timeline ...",
+      "file": "references/help-intro-to-editing.md",
+      "summary": "Desktop & Web Help: Edit Video In Premiere, Add Or Remove Clips, Create A Subclip From The Project Panel, Create A Subclip From The Timeline ....",
+      "keywords": [
+        "edit-video-in-premiere-add-or-remove-clips-create-a-subclip-from-the-project-panel-create-a-subclip-from-the-timeline",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Creating Clips For Offline Editing, Create Low Resolution Clips For Offline Editing",
+      "file": "references/help-intro-to-editing-2.md",
+      "summary": "Desktop & Web Help: Creating Clips For Offline Editing, Create Low Resolution Clips For Offline Editing.",
+      "keywords": [
+        "creating-clips-for-offline-editing-create-low-resolution-clips-for-offline-editing",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Overview Of Text Based Editing, Add Clips To The Timeline Using Text Based Editing, Transcribe Video, Edit Transcripts Using Text Based Editing ...",
+      "file": "references/help-edit-video-using-text-based-editing.md",
+      "summary": "Desktop & Web Help: Overview Of Text Based Editing, Add Clips To The Timeline Using Text Based Editing, Transcribe Video, Edit Transcripts Using Text Based Editing ....",
+      "keywords": [
+        "overview-of-text-based-editing-add-clips-to-the-timeline-using-text-based-editing-transcribe-video-edit-transcripts-using-text-based-editing",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Trim Clips, Change Clip Speed",
+      "file": "references/help-edit-projects-2.md",
+      "summary": "Desktop & Web Help: Trim Clips, Change Clip Speed.",
+      "keywords": [
+        "trim-clips-change-clip-speed",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create A Sequence, Navigation Controls In The Timeline, Navigate Sequences In The Timeline, Change Sequence Settings ...",
+      "file": "references/help-change-clip-sequence.md",
+      "summary": "Desktop & Web Help: Create A Sequence, Navigation Controls In The Timeline, Navigate Sequences In The Timeline, Change Sequence Settings ....",
+      "keywords": [
+        "create-a-sequence-navigation-controls-in-the-timeline-navigate-sequences-in-the-timeline-change-sequence-settings",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Find Clips In A Sequence, Select Clips, Group Clips, Snap Clips ...",
+      "file": "references/help-change-clip-sequence-2.md",
+      "summary": "Desktop & Web Help: Find Clips In A Sequence, Select Clips, Group Clips, Snap Clips ....",
+      "keywords": [
+        "find-clips-in-a-sequence-select-clips-group-clips-snap-clips",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Modify Clip Properties, Set Up Multi Camera Sequences For Editing, Compare Edits To Source Clips",
+      "file": "references/help-edit-projects-3.md",
+      "summary": "Desktop & Web Help: Modify Clip Properties, Set Up Multi Camera Sequences For Editing, Compare Edits To Source Clips.",
+      "keywords": [
+        "modify-clip-properties-set-up-multi-camera-sequences-for-editing-compare-edits-to-source-clips",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Correct Mistakes, Edit Vr Content",
+      "file": "references/help-edit-projects-4.md",
+      "summary": "Desktop & Web Help: Correct Mistakes, Edit Vr Content.",
+      "keywords": [
+        "correct-mistakes-edit-vr-content",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Edit With Generative Ai, Edit Nested Sequences",
+      "file": "references/help-edit-projects-5.md",
+      "summary": "Desktop & Web Help: Edit With Generative Ai, Edit Nested Sequences.",
+      "keywords": [
+        "edit-with-generative-ai-edit-nested-sequences",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Use Motion Graphics Templates, Stylize Text",
+      "file": "references/help-add-text-images.md",
+      "summary": "Desktop & Web Help: Use Motion Graphics Templates, Stylize Text.",
+      "keywords": [
+        "use-motion-graphics-templates-stylize-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Responsive Graphics, Preserve Intro Outro Animations While Creating Responsive Design Graphics, Group Text And Graphic Layers, Create A Clip Layer ...",
+      "file": "references/help-insert-images-and-graphics.md",
+      "summary": "Desktop & Web Help: Create Responsive Graphics, Preserve Intro Outro Animations While Creating Responsive Design Graphics, Group Text And Graphic Layers, Create A Clip Layer ....",
+      "keywords": [
+        "create-responsive-graphics-preserve-intro-outro-animations-while-creating-responsive-design-graphics-group-text-and-graphic-layers-create-a-clip-layer",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Draw Objects, Align And Distribute Objects, Insert Captions",
+      "file": "references/help-add-text-images-2.md",
+      "summary": "Desktop & Web Help: Draw Objects, Align And Distribute Objects, Insert Captions.",
+      "keywords": [
+        "draw-objects-align-and-distribute-objects-insert-captions",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Types Of Effects",
+      "file": "references/help-add-video-effects.md",
+      "summary": "Desktop & Web Help: Types Of Effects.",
+      "keywords": [
+        "types-of-effects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Apply Effects, Remove Effects From A Clip, Copy And Paste Clip Effects, Find And Group Effects ...",
+      "file": "references/help-apply-video-effects.md",
+      "summary": "Desktop & Web Help: Apply Effects, Remove Effects From A Clip, Copy And Paste Clip Effects, Find And Group Effects ....",
+      "keywords": [
+        "apply-effects-remove-effects-from-a-clip-copy-and-paste-clip-effects-find-and-group-effects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "List Of Video Transitions, List Of Video Dissolve Transitions, Adjust Effects, Blur And Sharpen Effects ...",
+      "file": "references/help-effects-and-transitions-library.md",
+      "summary": "Desktop & Web Help: List Of Video Transitions, List Of Video Dissolve Transitions, Adjust Effects, Blur And Sharpen Effects ....",
+      "keywords": [
+        "list-of-video-transitions-list-of-video-dissolve-transitions-adjust-effects-blur-and-sharpen-effects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Adjust Effect Speed, About Keyframes, Add Keyframes, Select Keyframes ...",
+      "file": "references/help-control-effects-and-transitions-using-keyframes.md",
+      "summary": "Desktop & Web Help: Adjust Effect Speed, About Keyframes, Add Keyframes, Select Keyframes ....",
+      "keywords": [
+        "adjust-effect-speed-about-keyframes-add-keyframes-select-keyframes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Filter Properties In The Effect Controls Panel, Adjust Or Reset Controls In The Effect Controls Panel",
+      "file": "references/help-control-effects-and-transitions-using-keyframes-2.md",
+      "summary": "Desktop & Web Help: Filter Properties In The Effect Controls Panel, Adjust Or Reset Controls In The Effect Controls Panel.",
+      "keywords": [
+        "filter-properties-in-the-effect-controls-panel-adjust-or-reset-controls-in-the-effect-controls-panel",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Masks Using Shapes, Create Reveal Animations Using Masking Techniques",
+      "file": "references/help-create-masks-and-composites.md",
+      "summary": "Desktop & Web Help: Create Masks Using Shapes, Create Reveal Animations Using Masking Techniques.",
+      "keywords": [
+        "create-masks-using-shapes-create-reveal-animations-using-masking-techniques",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Auto Reframe Overview, Add Auto Reframe Effect To A Sequence, Add Auto Reframe Effect To A Clip, Apply Motion Effect ...",
+      "file": "references/help-commonly-used-effects.md",
+      "summary": "Desktop & Web Help: Auto Reframe Overview, Add Auto Reframe Effect To A Sequence, Add Auto Reframe Effect To A Clip, Apply Motion Effect ....",
+      "keywords": [
+        "auto-reframe-overview-add-auto-reframe-effect-to-a-sequence-add-auto-reframe-effect-to-a-clip-apply-motion-effect",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Transitions Overview, Set And Apply Default Transitions, Apply Single Sided Transitions, Copy And Paste Transitions ...",
+      "file": "references/help-apply-video-transitions.md",
+      "summary": "Desktop & Web Help: Transitions Overview, Set And Apply Default Transitions, Apply Single Sided Transitions, Copy And Paste Transitions ....",
+      "keywords": [
+        "transitions-overview-set-and-apply-default-transitions-apply-single-sided-transitions-copy-and-paste-transitions",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Rectangle Ellipse And Pen Masks, Object Masking, Create Masks Using Shapes, Refining And Combining Masks ...",
+      "file": "references/help-work-with-masks.md",
+      "summary": "Desktop & Web Help: Rectangle Ellipse And Pen Masks, Object Masking, Create Masks Using Shapes, Refining And Combining Masks ....",
+      "keywords": [
+        "rectangle-ellipse-and-pen-masks-object-masking-create-masks-using-shapes-refining-and-combining-masks",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Apply Sharp And Smooth Modes In Object Masking",
+      "file": "references/help-apply-sharp-and-smooth-modes-in-object-masking.md",
+      "summary": "Desktop & Web Help: Apply Sharp And Smooth Modes In Object Masking.",
+      "keywords": [
+        "apply-sharp-and-smooth-modes-in-object-masking",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Compositing Overview, Combine Multiple Videos Or Stil Images Using Blend Modes, Blend Mode Options, Specify Clip Opacity",
+      "file": "references/help-work-with-composites.md",
+      "summary": "Desktop & Web Help: Compositing Overview, Combine Multiple Videos Or Stil Images Using Blend Modes, Blend Mode Options, Specify Clip Opacity.",
+      "keywords": [
+        "compositing-overview-combine-multiple-videos-or-stil-images-using-blend-modes-blend-mode-options-specify-clip-opacity",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Basic Audio Editing",
+      "file": "references/help-add-audio-effects.md",
+      "summary": "Desktop & Web Help: Basic Audio Editing.",
+      "keywords": [
+        "basic-audio-editing",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Audio Channel Mapping, About Audio Track Mixer, Create A Submix, Map Source Audio Channels On Import ...",
+      "file": "references/help-advanced-audio-techniques.md",
+      "summary": "Desktop & Web Help: Audio Channel Mapping, About Audio Track Mixer, Create A Submix, Map Source Audio Channels On Import ....",
+      "keywords": [
+        "audio-channel-mapping-about-audio-track-mixer-create-a-submix-map-source-audio-channels-on-import",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Audio Category Tagging, Enhance Speech, Audio Editing With Essential Sound Panel, Improve Dialogue Clarity ...",
+      "file": "references/help-adjust-volume-and-levels.md",
+      "summary": "Desktop & Web Help: Audio Category Tagging, Enhance Speech, Audio Editing With Essential Sound Panel, Improve Dialogue Clarity ....",
+      "keywords": [
+        "audio-category-tagging-enhance-speech-audio-editing-with-essential-sound-panel-improve-dialogue-clarity",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Audio Effects Library (part 1)",
+      "file": "references/help-audio-effects-library.md",
+      "summary": "Desktop & Web Help: Audio Effects Library (part 1).",
+      "keywords": [
+        "audio-effects-library-part-1",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Audio Effects Library (part 2)",
+      "file": "references/help-audio-effects-library-2.md",
+      "summary": "Desktop & Web Help: Audio Effects Library (part 2).",
+      "keywords": [
+        "audio-effects-library-part-2",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Audio Effects Library (part 3)",
+      "file": "references/help-audio-effects-library-3.md",
+      "summary": "Desktop & Web Help: Audio Effects Library (part 3).",
+      "keywords": [
+        "audio-effects-library-part-3",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Loudness Meter, Apply Loudness Meter To A Track, Measure The Loudness Of Your Track, Edit Loudness Meter Settings ...",
+      "file": "references/help-apply-audio-effects.md",
+      "summary": "Desktop & Web Help: About Loudness Meter, Apply Loudness Meter To A Track, Measure The Loudness Of Your Track, Edit Loudness Meter Settings ....",
+      "keywords": [
+        "about-loudness-meter-apply-loudness-meter-to-a-track-measure-the-loudness-of-your-track-edit-loudness-meter-settings",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Designate A Track Effect As Pre Fade Or Post Fade, Channelize Effects, Copy And Move Effects In Audio Track Mixer, Audio Track Mixer Automation Modes ...",
+      "file": "references/help-apply-audio-effects-2.md",
+      "summary": "Desktop & Web Help: Designate A Track Effect As Pre Fade Or Post Fade, Channelize Effects, Copy And Move Effects In Audio Track Mixer, Audio Track Mixer Automation Modes ....",
+      "keywords": [
+        "designate-a-track-effect-as-pre-fade-or-post-fade-channelize-effects-copy-and-move-effects-in-audio-track-mixer-audio-track-mixer-automation-modes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Apply Audio Transitions, Use Adobe Stock Audio",
+      "file": "references/help-add-audio-effects-2.md",
+      "summary": "Desktop & Web Help: Apply Audio Transitions, Use Adobe Stock Audio.",
+      "keywords": [
+        "apply-audio-transitions-use-adobe-stock-audio",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Color Correction Fundamentals",
+      "file": "references/help-correct-color.md",
+      "summary": "Desktop & Web Help: Color Correction Fundamentals.",
+      "keywords": [
+        "color-correction-fundamentals",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Color Correction Effects, Available Color Correction Effects, Correct Color Using Rgb Curves, Correct Color Using Hue And Saturation Curves ...",
+      "file": "references/help-add-color-effects.md",
+      "summary": "Desktop & Web Help: About Color Correction Effects, Available Color Correction Effects, Correct Color Using Rgb Curves, Correct Color Using Hue And Saturation Curves ....",
+      "keywords": [
+        "about-color-correction-effects-available-color-correction-effects-correct-color-using-rgb-curves-correct-color-using-hue-and-saturation-curves",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Apply Lumetri Looks, Display Lumetri Scopes",
+      "file": "references/help-add-color-effects-2.md",
+      "summary": "Desktop & Web Help: Apply Lumetri Looks, Display Lumetri Scopes.",
+      "keywords": [
+        "apply-lumetri-looks-display-lumetri-scopes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Color Management, How Color Management Works, Lumetri Enhancements, Color Management Options ...",
+      "file": "references/help-set-up-color-management.md",
+      "summary": "Desktop & Web Help: About Color Management, How Color Management Works, Lumetri Enhancements, Color Management Options ....",
+      "keywords": [
+        "about-color-management-how-color-management-works-lumetri-enhancements-color-management-options",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Configuring Sequence Color Management, Color Management Using Clip Modify, Customize Color Setup Presets For New Or Existing Sequences, Configure Sequence Output Color Space ...",
+      "file": "references/help-set-up-color-management-2.md",
+      "summary": "Desktop & Web Help: Configuring Sequence Color Management, Color Management Using Clip Modify, Customize Color Setup Presets For New Or Existing Sequences, Configure Sequence Output Color Space ....",
+      "keywords": [
+        "configuring-sequence-color-management-color-management-using-clip-modify-customize-color-setup-presets-for-new-or-existing-sequences-configure-sequence-output-color-space",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Color Mode Basics, Using Color Mode With Color Management, Work In Color Mode, Open A Sequence In Color Mode ...",
+      "file": "references/help-color-mode-fundamentals.md",
+      "summary": "Desktop & Web Help: Color Mode Basics, Using Color Mode With Color Management, Work In Color Mode, Open A Sequence In Color Mode ....",
+      "keywords": [
+        "color-mode-basics-using-color-mode-with-color-management-work-in-color-mode-open-a-sequence-in-color-mode",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Working With The Clip Grid, Understanding Heads Up Displays",
+      "file": "references/help-color-mode-fundamentals-2.md",
+      "summary": "Desktop & Web Help: Working With The Clip Grid, Understanding Heads Up Displays.",
+      "keywords": [
+        "working-with-the-clip-grid-understanding-heads-up-displays",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Default Adjust Operation, Color Adjustment In Edit Mode",
+      "file": "references/help-color-mode-fundamentals-3.md",
+      "summary": "Desktop & Web Help: Default Adjust Operation, Color Adjustment In Edit Mode.",
+      "keywords": [
+        "default-adjust-operation-color-adjustment-in-edit-mode",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About The Clip Grid, Color Tools Panel Overview",
+      "file": "references/help-color-mode-fundamentals-4.md",
+      "summary": "Desktop & Web Help: About The Clip Grid, Color Tools Panel Overview.",
+      "keywords": [
+        "about-the-clip-grid-color-tools-panel-overview",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Color Monitor Overview, About Comparison View, Working With Video Scopes",
+      "file": "references/help-color-mode-fundamentals-5.md",
+      "summary": "Desktop & Web Help: Color Monitor Overview, About Comparison View, Working With Video Scopes.",
+      "keywords": [
+        "color-monitor-overview-about-comparison-view-working-with-video-scopes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Grading Clips Using Adjust",
+      "file": "references/help-grading-clips-using-adjust.md",
+      "summary": "Desktop & Web Help: Grading Clips Using Adjust.",
+      "keywords": [
+        "grading-clips-using-adjust",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Grading Clips Using Style",
+      "file": "references/help-grading-clips-using-style.md",
+      "summary": "Desktop & Web Help: Grading Clips Using Style.",
+      "keywords": [
+        "grading-clips-using-style",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Available Style Modules",
+      "file": "references/help-available-style-modules.md",
+      "summary": "Desktop & Web Help: Available Style Modules.",
+      "keywords": [
+        "available-style-modules",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Managing Multiple Color Operations, Applying Clip Operations, Applying Operations To The Sequence, Using Custom Groups",
+      "file": "references/help-color-mode-fundamentals-6.md",
+      "summary": "Desktop & Web Help: Managing Multiple Color Operations, Applying Clip Operations, Applying Operations To The Sequence, Using Custom Groups.",
+      "keywords": [
+        "managing-multiple-color-operations-applying-clip-operations-applying-operations-to-the-sequence-using-custom-groups",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Copy And Paste For Grade Management, Isolated Adjustments Using Masks",
+      "file": "references/help-color-mode-fundamentals-7.md",
+      "summary": "Desktop & Web Help: Copy And Paste For Grade Management, Isolated Adjustments Using Masks.",
+      "keywords": [
+        "copy-and-paste-for-grade-management-isolated-adjustments-using-masks",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Render Sequences For Playback",
+      "file": "references/help-render-and-export.md",
+      "summary": "Desktop & Web Help: Render Sequences For Playback.",
+      "keywords": [
+        "render-sequences-for-playback",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Export Video, Export A Still Frame, Export A Still Image, Export Transcripts ...",
+      "file": "references/help-export-files.md",
+      "summary": "Desktop & Web Help: Export Video, Export A Still Frame, Export A Still Image, Export Transcripts ....",
+      "keywords": [
+        "export-video-export-a-still-frame-export-a-still-image-export-transcripts",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Supported Features For Exporting Omf Files For Pro Tools, Quickly Export A Video File, Export Aaf Files, Supported Export File Formats ...",
+      "file": "references/help-export-files-2.md",
+      "summary": "Desktop & Web Help: Supported Features For Exporting Omf Files For Pro Tools, Quickly Export A Video File, Export Aaf Files, Supported Export File Formats ....",
+      "keywords": [
+        "supported-features-for-exporting-omf-files-for-pro-tools-quickly-export-a-video-file-export-aaf-files-supported-export-file-formats",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create And Save Custom Presets, Manage Presets, Export From Avid Media Composer To Premiere, Add Content Credentials To Exported Videos",
+      "file": "references/help-export-files-3.md",
+      "summary": "Desktop & Web Help: Create And Save Custom Presets, Manage Presets, Export From Avid Media Composer To Premiere, Add Content Credentials To Exported Videos.",
+      "keywords": [
+        "create-and-save-custom-presets-manage-presets-export-from-avid-media-composer-to-premiere-add-content-credentials-to-exported-videos",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Overview Of Secure Reliable Transport, Enable Secure Reliable Transport Stream, Secure Reliable Transport Modes, Srt Settings",
+      "file": "references/help-stream-video.md",
+      "summary": "Desktop & Web Help: Overview Of Secure Reliable Transport, Enable Secure Reliable Transport Stream, Secure Reliable Transport Modes, Srt Settings.",
+      "keywords": [
+        "overview-of-secure-reliable-transport-enable-secure-reliable-transport-stream-secure-reliable-transport-modes-srt-settings",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Collaborate With Others",
+      "file": "references/help-collaborate-with-others.md",
+      "summary": "Desktop & Web Help: Collaborate With Others.",
+      "keywords": [
+        "collaborate-with-others",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Team Projects, When To Use Team Projects And When To Use Productions, Collaboration Using Team Projects, Create Team Projects ...",
+      "file": "references/help-collaborate-using-team-projects.md",
+      "summary": "Desktop & Web Help: About Team Projects, When To Use Team Projects And When To Use Productions, Collaboration Using Team Projects, Create Team Projects ....",
+      "keywords": [
+        "about-team-projects-when-to-use-team-projects-and-when-to-use-productions-collaboration-using-team-projects-create-team-projects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Specify Auto Save Cache Location, Sequence Locking, Sequence Locking For Offline Editing, View Auto Saves ...",
+      "file": "references/help-collaborate-using-team-projects-2.md",
+      "summary": "Desktop & Web Help: Specify Auto Save Cache Location, Sequence Locking, Sequence Locking For Offline Editing, View Auto Saves ....",
+      "keywords": [
+        "specify-auto-save-cache-location-sequence-locking-sequence-locking-for-offline-editing-view-auto-saves",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Frameio, Upload Media To Frameio, Add Comments On Shared Projects, Add Collaborators Using The Frameio Panel ...",
+      "file": "references/help-share-for-review-using-frame-io.md",
+      "summary": "Desktop & Web Help: About Frameio, Upload Media To Frameio, Add Comments On Shared Projects, Add Collaborators Using The Frameio Panel ....",
+      "keywords": [
+        "about-frameio-upload-media-to-frameio-add-comments-on-shared-projects-add-collaborators-using-the-frameio-panel",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Invite Collaborators To Co Edit A Project",
+      "file": "references/help-invite-collaborators-to-co-edit-a-project.md",
+      "summary": "Desktop & Web Help: Invite Collaborators To Co Edit A Project.",
+      "keywords": [
+        "invite-collaborators-to-co-edit-a-project",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Creative Cloud Libraries, Add A Creative Cloud Library, Add Looks To A Creative Cloud Library, Add Assets From Adobe Stock To A Creative Cloud Library ...",
+      "file": "references/help-collaborate-using-creative-cloud-libraries.md",
+      "summary": "Desktop & Web Help: About Creative Cloud Libraries, Add A Creative Cloud Library, Add Looks To A Creative Cloud Library, Add Assets From Adobe Stock To A Creative Cloud Library ....",
+      "keywords": [
+        "about-creative-cloud-libraries-add-a-creative-cloud-library-add-looks-to-a-creative-cloud-library-add-assets-from-adobe-stock-to-a-creative-cloud-library",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "About Productions, Create A Production, Configure Productions Settings, Add Projects To A Production ...",
+      "file": "references/help-collaborate-using-productions.md",
+      "summary": "Desktop & Web Help: About Productions, Create A Production, Configure Productions Settings, Add Projects To A Production ....",
+      "keywords": [
+        "about-productions-create-a-production-configure-productions-settings-add-projects-to-a-production",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Productions Faq, Bring Media Into The Editing Application, Edit And Enhance Content, Incorporate Branded Graphics And Audio Elements ...",
+      "file": "references/help-collaborate-using-productions-2.md",
+      "summary": "Desktop & Web Help: Productions Faq, Bring Media Into The Editing Application, Edit And Enhance Content, Incorporate Branded Graphics And Audio Elements ....",
+      "keywords": [
+        "productions-faq-bring-media-into-the-editing-application-edit-and-enhance-content-incorporate-branded-graphics-and-audio-elements",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Collaboration In Premiere",
+      "file": "references/help-collaboration-in-premiere.md",
+      "summary": "Desktop & Web Help: Collaboration In Premiere.",
+      "keywords": [
+        "collaboration-in-premiere",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Troubleshooting",
+      "file": "references/help-troubleshooting.md",
+      "summary": "Desktop & Web Help: Troubleshooting.",
+      "keywords": [
+        "troubleshooting",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Known And Fixed Issues, Iphone Hdr Clips Are Unsupported, Unable To Send Media From Firefly To Premiere, Cannot Open 25 6 Projects In 25 X ...",
+      "file": "references/help-limitations-and-known-issues.md",
+      "summary": "Desktop & Web Help: Known And Fixed Issues, Iphone Hdr Clips Are Unsupported, Unable To Send Media From Firefly To Premiere, Cannot Open 25 6 Projects In 25 X ....",
+      "keywords": [
+        "known-and-fixed-issues-iphone-hdr-clips-are-unsupported-unable-to-send-media-from-firefly-to-premiere-cannot-open-25-6-projects-in-25-x",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Files Conformed Each Time Project Opens, Creative Cloud Synced Files End Of Life For Premiere, Networks And Removable Media With Digital Video, Common Issues In Premiere On Apple Silicon Macs",
+      "file": "references/help-limitations-and-known-issues-2.md",
+      "summary": "Desktop & Web Help: Files Conformed Each Time Project Opens, Creative Cloud Synced Files End Of Life For Premiere, Networks And Removable Media With Digital Video, Common Issues In Premiere On Apple Silicon Macs.",
+      "keywords": [
+        "files-conformed-each-time-project-opens-creative-cloud-synced-files-end-of-life-for-premiere-networks-and-removable-media-with-digital-video-common-issues-in-premiere-on-apple-silicon-macs",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Media Issues, Crash Issues, Preferences And Settings Issues, Export Issues",
+      "file": "references/help-troubleshooting-2.md",
+      "summary": "Desktop & Web Help: Media Issues, Crash Issues, Preferences And Settings Issues, Export Issues.",
+      "keywords": [
+        "media-issues-crash-issues-preferences-and-settings-issues-export-issues",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Audio Issues, Playback Issues",
+      "file": "references/help-troubleshooting-3.md",
+      "summary": "Desktop & Web Help: Audio Issues, Playback Issues.",
+      "keywords": [
+        "audio-issues-playback-issues",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Use Premiere With Other Apps",
+      "file": "references/help-use-premiere-with-other-apps.md",
+      "summary": "Desktop & Web Help: Use Premiere With Other Apps.",
+      "keywords": [
+        "use-premiere-with-other-apps",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Plug Ins (part 1)",
+      "file": "references/help-plug-ins.md",
+      "summary": "Desktop & Web Help: Plug Ins (part 1).",
+      "keywords": [
+        "plug-ins-part-1",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Plug Ins (part 2)",
+      "file": "references/help-plug-ins-2.md",
+      "summary": "Desktop & Web Help: Plug Ins (part 2).",
+      "keywords": [
+        "plug-ins-part-2",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Transfer Of Information From Premiere To Audition, Edit Premiere Sequences In Audition, Edit Premiere Audio Clips In Audition, Import After Effects Compositions ...",
+      "file": "references/help-working-with-other-adobe-applications.md",
+      "summary": "Desktop & Web Help: Transfer Of Information From Premiere To Audition, Edit Premiere Sequences In Audition, Edit Premiere Audio Clips In Audition, Import After Effects Compositions ....",
+      "keywords": [
+        "transfer-of-information-from-premiere-to-audition-edit-premiere-sequences-in-audition-edit-premiere-audio-clips-in-audition-import-after-effects-compositions",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Share Assets Between After Effects And Premiere Using Dynamic Link, Create A Dynamically Linked Composition, Import An After Effects Composition, Delete A Dynamicaly Linked Composition Or Clip ...",
+      "file": "references/help-working-with-other-adobe-applications-2.md",
+      "summary": "Desktop & Web Help: Share Assets Between After Effects And Premiere Using Dynamic Link, Create A Dynamically Linked Composition, Import An After Effects Composition, Delete A Dynamicaly Linked Composition Or Clip ....",
+      "keywords": [
+        "share-assets-between-after-effects-and-premiere-using-dynamic-link-create-a-dynamically-linked-composition-import-an-after-effects-composition-delete-a-dynamicaly-linked-composition-or-clip",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Premiere Pro Scripting Guide, 3Rd Party Scripting Has Moved To Uxp, Navigating The Guide, Contribution ...",
+      "file": "references/script-premiere-pro-scripting-guide.md",
+      "summary": "ExtendScript / Scripting: Premiere Pro Scripting Guide, 3Rd Party Scripting Has Moved To Uxp, Navigating The Guide, Contribution ....",
+      "keywords": [
+        "premiere-pro-scripting-guide-3rd-party-scripting-has-moved-to-uxp-navigating-the-guide-contribution",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": "Attributes (part 1)",
+      "file": "references/script-attributes.md",
+      "summary": "ExtendScript / Scripting: Attributes (part 1).",
+      "keywords": [
+        "attributes-part-1",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": "Attributes (part 2)",
+      "file": "references/script-attributes-2.md",
+      "summary": "ExtendScript / Scripting: Attributes (part 2).",
+      "keywords": [
+        "attributes-part-2",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": "Methods (part 1)",
+      "file": "references/script-methods.md",
+      "summary": "ExtendScript / Scripting: Methods (part 1).",
+      "keywords": [
+        "methods-part-1",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": "Methods (part 2)",
+      "file": "references/script-methods-2.md",
+      "summary": "ExtendScript / Scripting: Methods (part 2).",
+      "keywords": [
+        "methods-part-2",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": "Methods (part 3)",
+      "file": "references/script-methods-3.md",
+      "summary": "ExtendScript / Scripting: Methods (part 3).",
+      "keywords": [
+        "methods-part-3",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": "Methods (part 4)",
+      "file": "references/script-methods-4.md",
+      "summary": "ExtendScript / Scripting: Methods (part 4).",
+      "keywords": [
+        "methods-part-4",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": "Methods (part 5)",
+      "file": "references/script-methods-5.md",
+      "summary": "ExtendScript / Scripting: Methods (part 5).",
+      "keywords": [
+        "methods-part-5",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": "Anywhere, Encoder, Marker, Metadata ...",
+      "file": "references/script-anywhere.md",
+      "summary": "ExtendScript / Scripting: Anywhere, Encoder, Marker, Metadata ....",
+      "keywords": [
+        "anywhere-encoder-marker-metadata",
+        "extendscript"
+      ]
+    },
+    {
+      "topic": ".Github, Code Of Conduct, Readme",
+      "file": "references/sample-contributing.md",
+      "summary": "Plugin Samples: .Github, Code Of Conduct, Readme.",
+      "keywords": [
+        "github-code-of-conduct-readme",
+        "samples"
+      ]
+    },
+    {
+      "topic": "Metadata Handler, Oauth Workflow Sample, Premiere Api",
+      "file": "references/sample-panels.md",
+      "summary": "Plugin Samples: Metadata Handler, Oauth Workflow Sample, Premiere Api.",
+      "keywords": [
+        "metadata-handler-oauth-workflow-sample-premiere-api",
+        "samples"
+      ]
+    },
+    {
+      "topic": "Changelog, Index, Introduction",
+      "file": "references/uxp-changelog-premiere-pro-v26-2-0.md",
+      "summary": "UXP Plugins & API: Changelog, Index, Introduction.",
+      "keywords": [
+        "changelog-index-introduction",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Advanced",
+      "file": "references/uxp-advanced.md",
+      "summary": "UXP Plugins & API: Advanced.",
+      "keywords": [
+        "advanced",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Entrypoints",
+      "file": "references/uxp-concepts.md",
+      "summary": "UXP Plugins & API: Entrypoints.",
+      "keywords": [
+        "entrypoints",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Manifest (part 1)",
+      "file": "references/uxp-manifest.md",
+      "summary": "UXP Plugins & API: Manifest (part 1).",
+      "keywords": [
+        "manifest-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Manifest (part 2)",
+      "file": "references/uxp-manifest-2.md",
+      "summary": "UXP Plugins & API: Manifest (part 2).",
+      "keywords": [
+        "manifest-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Panels And Commands",
+      "file": "references/uxp-panels-and-commands.md",
+      "summary": "UXP Plugins & API: Panels And Commands.",
+      "keywords": [
+        "panels-and-commands",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Adobe Marketplace, Enterprise Distribution, Independent Distribution, Install ...",
+      "file": "references/uxp-distribution.md",
+      "summary": "UXP Plugins & API: Adobe Marketplace, Enterprise Distribution, Independent Distribution, Install ....",
+      "keywords": [
+        "adobe-marketplace-enterprise-distribution-independent-distribution-install",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Overview, Package, Review Guidelines",
+      "file": "references/uxp-distribution-2.md",
+      "summary": "UXP Plugins & API: Overview, Package, Review Guidelines.",
+      "keywords": [
+        "overview-package-review-guidelines",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Hybrid Plugins",
+      "file": "references/uxp-plugins.md",
+      "summary": "UXP Plugins & API: Hybrid Plugins.",
+      "keywords": [
+        "hybrid-plugins",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Add Commands, Add Lifecycle Hooks",
+      "file": "references/uxp-tutorials.md",
+      "summary": "UXP Plugins & API: Add Commands, Add Lifecycle Hooks.",
+      "keywords": [
+        "add-commands-add-lifecycle-hooks",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Add Modal Dialogs (part 1)",
+      "file": "references/uxp-add-modal-dialogs.md",
+      "summary": "UXP Plugins & API: Add Modal Dialogs (part 1).",
+      "keywords": [
+        "add-modal-dialogs-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Add Modal Dialogs (part 2)",
+      "file": "references/uxp-add-modal-dialogs-2.md",
+      "summary": "UXP Plugins & API: Add Modal Dialogs (part 2).",
+      "keywords": [
+        "add-modal-dialogs-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Add Panels, Inter Plugin Comm",
+      "file": "references/uxp-tutorials-2.md",
+      "summary": "UXP Plugins & API: Add Panels, Inter Plugin Comm.",
+      "keywords": [
+        "add-panels-inter-plugin-comm",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Playground, Plugin Management, Plugin Workflows",
+      "file": "references/uxp-udt-deep-dive.md",
+      "summary": "UXP Plugins & API: Playground, Plugin Management, Plugin Workflows.",
+      "keywords": [
+        "playground-plugin-management-plugin-workflows",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Addtransitionoptions, Application, Apppreference, Audiocliptrackitem ...",
+      "file": "references/uxp-classes.md",
+      "summary": "UXP Plugins & API: Addtransitionoptions, Application, Apppreference, Audiocliptrackitem ....",
+      "keywords": [
+        "addtransitionoptions-application-apppreference-audiocliptrackitem",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Clipprojectitem, Closeprojectoptions, Color, Component ...",
+      "file": "references/uxp-classes-2.md",
+      "summary": "UXP Plugins & API: Clipprojectitem, Closeprojectoptions, Color, Component ....",
+      "keywords": [
+        "clipprojectitem-closeprojectoptions-color-component",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Encodermanager, Eventmanager, Exporter, Folderitem ...",
+      "file": "references/uxp-classes-3.md",
+      "summary": "UXP Plugins & API: Encodermanager, Eventmanager, Exporter, Folderitem ....",
+      "keywords": [
+        "encodermanager-eventmanager-exporter-folderitem",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Metadata, Openprojectoptions, Pointf, Project ...",
+      "file": "references/uxp-classes-4.md",
+      "summary": "UXP Plugins & API: Metadata, Openprojectoptions, Pointf, Project ....",
+      "keywords": [
+        "metadata-openprojectoptions-pointf-project",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Scratchdisksettings, Sequence, Sequenceeditor, Sequencesettings ...",
+      "file": "references/uxp-classes-5.md",
+      "summary": "UXP Plugins & API: Scratchdisksettings, Sequence, Sequenceeditor, Sequencesettings ....",
+      "keywords": [
+        "scratchdisksettings-sequence-sequenceeditor-sequencesettings",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Ticktime, Timedisplay, Trackitemselection, Transcript ...",
+      "file": "references/uxp-classes-6.md",
+      "summary": "UXP Plugins & API: Ticktime, Timedisplay, Trackitemselection, Transcript ....",
+      "keywords": [
+        "ticktime-timedisplay-trackitemselection-transcript",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Constants, Events",
+      "file": "references/uxp-ppro-reference.md",
+      "summary": "UXP Plugins & API: Constants, Events.",
+      "keywords": [
+        "constants-events",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Faq",
+      "file": "references/uxp-faq.md",
+      "summary": "UXP Plugins & API: Faq.",
+      "keywords": [
+        "faq",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Apis, Dom Apis, Eslint Support, Typescript Support",
+      "file": "references/uxp-fundamentals.md",
+      "summary": "UXP Plugins & API: Apis, Dom Apis, Eslint Support, Typescript Support.",
+      "keywords": [
+        "apis-dom-apis-eslint-support-typescript-support",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "User Interfaces",
+      "file": "references/uxp-user-interfaces.md",
+      "summary": "UXP Plugins & API: User Interfaces.",
+      "keywords": [
+        "user-interfaces",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Migration Guides",
+      "file": "references/uxp-resources.md",
+      "summary": "UXP Plugins & API: Migration Guides.",
+      "keywords": [
+        "migration-guides",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Clipboard, Css Styling, Debug",
+      "file": "references/uxp-recipes.md",
+      "summary": "UXP Plugins & API: Clipboard, Css Styling, Debug.",
+      "keywords": [
+        "clipboard-css-styling-debug",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "External Process",
+      "file": "references/uxp-external-process.md",
+      "summary": "UXP Plugins & API: External Process.",
+      "keywords": [
+        "external-process",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Filesystem Operations",
+      "file": "references/uxp-filesystem-operations.md",
+      "summary": "UXP Plugins & API: Filesystem Operations.",
+      "keywords": [
+        "filesystem-operations",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Host Info, Html Elements, Html Events, Js Modules",
+      "file": "references/uxp-recipes-2.md",
+      "summary": "UXP Plugins & API: Host Info, Html Elements, Html Events, Js Modules.",
+      "keywords": [
+        "host-info-html-elements-html-events-js-modules",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Network, Recipe Template",
+      "file": "references/uxp-recipes-3.md",
+      "summary": "UXP Plugins & API: Network, Recipe Template.",
+      "keywords": [
+        "network-recipe-template",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Starters Samples",
+      "file": "references/uxp-starters-samples.md",
+      "summary": "UXP Plugins & API: Starters Samples.",
+      "keywords": [
+        "starters-samples",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Changelog3 P",
+      "file": "references/uxp-api.md",
+      "summary": "UXP Plugins & API: Changelog3 P.",
+      "keywords": [
+        "changelog3-p",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Known Issues",
+      "file": "references/uxp-known-issues.md",
+      "summary": "UXP Plugins & API: Known Issues.",
+      "keywords": [
+        "known-issues",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "General, Media Queries, Pseudo Classes, Pseudo Elements ...",
+      "file": "references/uxp-reference-css.md",
+      "summary": "UXP Plugins & API: General, Media Queries, Pseudo Classes, Pseudo Elements ....",
+      "keywords": [
+        "general-media-queries-pseudo-classes-pseudo-elements",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Align Content, Align Items, Align Self, Background Attachment ...",
+      "file": "references/uxp-styles.md",
+      "summary": "UXP Plugins & API: Align Content, Align Items, Align Self, Background Attachment ....",
+      "keywords": [
+        "align-content-align-items-align-self-background-attachment",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Max Width, Min Height, Min Width, Opacity ...",
+      "file": "references/uxp-styles-2.md",
+      "summary": "UXP Plugins & API: Max Width, Min Height, Min Width, Opacity ....",
+      "keywords": [
+        "max-width-min-height-min-width-opacity",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "General, Hierarchy",
+      "file": "references/uxp-reference-html.md",
+      "summary": "UXP Plugins & API: General, Hierarchy.",
+      "keywords": [
+        "general-hierarchy",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Crypto, Data Storage",
+      "file": "references/uxp-global-members.md",
+      "summary": "UXP Plugins & API: Crypto, Data Storage.",
+      "keywords": [
+        "crypto-data-storage",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Blob, Clipboard, Fetch, Headers ...",
+      "file": "references/uxp-data-transfers.md",
+      "summary": "UXP Plugins & API: Blob, Clipboard, Fetch, Headers ....",
+      "keywords": [
+        "blob-clipboard-fetch-headers",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xml Http Request",
+      "file": "references/uxp-xml-http-request.md",
+      "summary": "UXP Plugins & API: Xml Http Request.",
+      "keywords": [
+        "xml-http-request",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Abort Controller, Abort Signal, Alert, Attr ...",
+      "file": "references/uxp-html-dom.md",
+      "summary": "UXP Plugins & API: Abort Controller, Abort Signal, Alert, Attr ....",
+      "keywords": [
+        "abort-controller-abort-signal-alert-attr",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Intersection Observer Entry, Named Node Map, Node Filter, Node List ...",
+      "file": "references/uxp-html-dom-2.md",
+      "summary": "UXP Plugins & API: Intersection Observer Entry, Named Node Map, Node Filter, Node List ....",
+      "keywords": [
+        "intersection-observer-entry-named-node-map-node-filter-node-list",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Html Elements, Html Events, Image Blob, Path ...",
+      "file": "references/uxp-global-members-2.md",
+      "summary": "UXP Plugins & API: Html Elements, Html Events, Image Blob, Path ....",
+      "keywords": [
+        "html-elements-html-events-image-blob-path",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Reference Js",
+      "file": "references/uxp-reference-js.md",
+      "summary": "UXP Plugins & API: Reference Js.",
+      "keywords": [
+        "reference-js",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Fs, Os",
+      "file": "references/uxp-modules.md",
+      "summary": "UXP Plugins & API: Fs, Os.",
+      "keywords": [
+        "fs-os",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Entry Points, Host Information, Key Value Storage, Persistent File Storage ...",
+      "file": "references/uxp.md",
+      "summary": "UXP Plugins & API: Entry Points, Host Information, Key Value Storage, Persistent File Storage ....",
+      "keywords": [
+        "entry-points-host-information-key-value-storage-persistent-file-storage",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Reference Spectrum, Versions3 P",
+      "file": "references/uxp-api-2.md",
+      "summary": "UXP Plugins & API: Reference Spectrum, Versions3 P.",
+      "keywords": [
+        "reference-spectrum-versions3-p",
+        "uxp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1247 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Whats New In Adobe Photoshop On Desktop, Whats New In Photoshop Beta On Desktop, Photoshop Desktop Beta Overview, Ai Assistant Overview ...",
+      "file": "references/help-whats-new.md",
+      "summary": "Desktop & Web Help: Whats New In Adobe Photoshop On Desktop, Whats New In Photoshop Beta On Desktop, Photoshop Desktop Beta Overview, Ai Assistant Overview ....",
+      "keywords": [
+        "whats-new-in-adobe-photoshop-on-desktop-whats-new-in-photoshop-beta-on-desktop-photoshop-desktop-beta-overview-ai-assistant-overview",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Learn The Basics",
+      "file": "references/help-get-started.md",
+      "summary": "Desktop & Web Help: Learn The Basics.",
+      "keywords": [
+        "learn-the-basics",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Set Up Toolbars Panels, Settings And Preferences",
+      "file": "references/help-get-started-2.md",
+      "summary": "Desktop & Web Help: Set Up Toolbars Panels, Settings And Preferences.",
+      "keywords": [
+        "set-up-toolbars-panels-settings-and-preferences",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Generative Ai, Create Open Import Images",
+      "file": "references/help-desktop.md",
+      "summary": "Desktop & Web Help: Generative Ai, Create Open Import Images.",
+      "keywords": [
+        "generative-ai-create-open-import-images",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Get Started Layers, Transform Manipulate Layers",
+      "file": "references/help-create-manage-layers.md",
+      "summary": "Desktop & Web Help: Get Started Layers, Transform Manipulate Layers.",
+      "keywords": [
+        "get-started-layers-transform-manipulate-layers",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Color Adjustment Fill Layers, Apply Layer Effects",
+      "file": "references/help-create-manage-layers-2.md",
+      "summary": "Desktop & Web Help: Color Adjustment Fill Layers, Apply Layer Effects.",
+      "keywords": [
+        "color-adjustment-fill-layers-apply-layer-effects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Smart Objects, Create Layer Compositions",
+      "file": "references/help-create-manage-layers-3.md",
+      "summary": "Desktop & Web Help: Smart Objects, Create Layer Compositions.",
+      "keywords": [
+        "smart-objects-create-layer-compositions",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Get Started Artboards, Artboard Properties, Create Artboard Documents, Add Artboards Current Document ...",
+      "file": "references/help-layout-design-tools.md",
+      "summary": "Desktop & Web Help: Get Started Artboards, Artboard Properties, Create Artboard Documents, Add Artboards Current Document ....",
+      "keywords": [
+        "get-started-artboards-artboard-properties-create-artboard-documents-add-artboards-current-document",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Resize Adjust Resolution, Crop Straighten, Transform Manipulate Reshape",
+      "file": "references/help-crop-resize-transform.md",
+      "summary": "Desktop & Web Help: Resize Adjust Resolution, Crop Straighten, Transform Manipulate Reshape.",
+      "keywords": [
+        "resize-adjust-resolution-crop-straighten-transform-manipulate-reshape",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Get Started Selections, Automatic Color Based Selections, Freehand Selections",
+      "file": "references/help-make-selections.md",
+      "summary": "Desktop & Web Help: Get Started Selections, Automatic Color Based Selections, Freehand Selections.",
+      "keywords": [
+        "get-started-selections-automatic-color-based-selections-freehand-selections",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Move Selection Or Selection Border, Refine Your Selection And Mask, Hover Layer Bounds In The Move Tool, Copy And Paste Selections ...",
+      "file": "references/help-refine-modify-selections.md",
+      "summary": "Desktop & Web Help: Move Selection Or Selection Border, Refine Your Selection And Mask, Hover Layer Bounds In The Move Tool, Copy And Paste Selections ....",
+      "keywords": [
+        "move-selection-or-selection-border-refine-your-selection-and-mask-hover-layer-bounds-in-the-move-tool-copy-and-paste-selections",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Layer Masks, Blend Images",
+      "file": "references/help-create-masks.md",
+      "summary": "Desktop & Web Help: Layer Masks, Blend Images.",
+      "keywords": [
+        "layer-masks-blend-images",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Remove Objects Fill Space, Heal Clone, Adjust Light Tone",
+      "file": "references/help-repair-retouch.md",
+      "summary": "Desktop & Web Help: Remove Objects Fill Space, Heal Clone, Adjust Light Tone.",
+      "keywords": [
+        "remove-objects-fill-space-heal-clone-adjust-light-tone",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Enhance Image Quality With Generative Upscale, Define Planes To Adjust Perspective, Manipulate The Planes To Adjust Perspective, Edit Different Perspectives In The Same Image ...",
+      "file": "references/help-clean-restore-images.md",
+      "summary": "Desktop & Web Help: Enhance Image Quality With Generative Upscale, Define Planes To Adjust Perspective, Manipulate The Planes To Adjust Perspective, Edit Different Perspectives In The Same Image ....",
+      "keywords": [
+        "enhance-image-quality-with-generative-upscale-define-planes-to-adjust-perspective-manipulate-the-planes-to-adjust-perspective-edit-different-perspectives-in-the-same-image",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Color Profiles, Choose Colors, Color Modes",
+      "file": "references/help-adjust-color.md",
+      "summary": "Desktop & Web Help: Color Profiles, Choose Colors, Color Modes.",
+      "keywords": [
+        "color-profiles-choose-colors-color-modes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Color Corrections, Selective Color Adjustments, Color Effects Techniques",
+      "file": "references/help-adjust-color-2.md",
+      "summary": "Desktop & Web Help: Color Corrections, Selective Color Adjustments, Color Effects Techniques.",
+      "keywords": [
+        "color-corrections-selective-color-adjustments-color-effects-techniques",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Fill Objects Selections Layers, Create Fill With Patterns, Brushes Presets",
+      "file": "references/help-apply-painting-techniques.md",
+      "summary": "Desktop & Web Help: Fill Objects Selections Layers, Create Fill With Patterns, Brushes Presets.",
+      "keywords": [
+        "fill-objects-selections-layers-create-fill-with-patterns-brushes-presets",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Shapes, Draw Lines Curves",
+      "file": "references/help-draw-shapes-paths.md",
+      "summary": "Desktop & Web Help: Create Shapes, Draw Lines Curves.",
+      "keywords": [
+        "create-shapes-draw-lines-curves",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Get Started With Text, Select Manage Fonts, Type Layers Creation",
+      "file": "references/help-text-typography.md",
+      "summary": "Desktop & Web Help: Get Started With Text, Select Manage Fonts, Type Layers Creation.",
+      "keywords": [
+        "get-started-with-text-select-manage-fonts-type-layers-creation",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Text On Paths Shapes, Characters Glyphs, International Text Languages, Work With Dynamic Text",
+      "file": "references/help-text-typography-2.md",
+      "summary": "Desktop & Web Help: Text On Paths Shapes, Characters Glyphs, International Text Languages, Work With Dynamic Text.",
+      "keywords": [
+        "text-on-paths-shapes-characters-glyphs-international-text-languages-work-with-dynamic-text",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Get Started With Filters, Smart Filters, Blur Sharpen Filters",
+      "file": "references/help-effects-filters.md",
+      "summary": "Desktop & Web Help: Get Started With Filters, Smart Filters, Blur Sharpen Filters.",
+      "keywords": [
+        "get-started-with-filters-smart-filters-blur-sharpen-filters",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Artistic Stylize Filters, Neural Filters",
+      "file": "references/help-effects-filters-2.md",
+      "summary": "Desktop & Web Help: Artistic Stylize Filters, Neural Filters.",
+      "keywords": [
+        "artistic-stylize-filters-neural-filters",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Alignment Grids Guides, Measure Scale",
+      "file": "references/help-use-grids-measurement-guides.md",
+      "summary": "Desktop & Web Help: Alignment Grids Guides, Measure Scale.",
+      "keywords": [
+        "alignment-grids-guides-measure-scale",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Animation Frames, Use Keyframes",
+      "file": "references/help-add-video-and-animation.md",
+      "summary": "Desktop & Web Help: Create Animation Frames, Use Keyframes.",
+      "keywords": [
+        "create-animation-frames-use-keyframes",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Create Record Actions, Process A Batch Of Files, Automation Settings And Presets",
+      "file": "references/help-automate-tasks.md",
+      "summary": "Desktop & Web Help: Create Record Actions, Process A Batch Of Files, Automation Settings And Presets.",
+      "keywords": [
+        "create-record-actions-process-a-batch-of-files-automation-settings-and-presets",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Save Files",
+      "file": "references/help-save-and-export.md",
+      "summary": "Desktop & Web Help: Save Files.",
+      "keywords": [
+        "save-files",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Video And Animation Export Formats, Enhance Animation Frames, Flatten Frames Into Layers, Export Video Files Or Image Sequences ...",
+      "file": "references/help-export-files-to-different-formats.md",
+      "summary": "Desktop & Web Help: Video And Animation Export Formats, Enhance Animation Frames, Flatten Frames Into Layers, Export Video Files Or Image Sequences ....",
+      "keywords": [
+        "video-and-animation-export-formats-enhance-animation-frames-flatten-frames-into-layers-export-video-files-or-image-sequences",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Export To Cloud",
+      "file": "references/help-export-to-cloud.md",
+      "summary": "Desktop & Web Help: Export To Cloud.",
+      "keywords": [
+        "export-to-cloud",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Use Content Credentials, Preview Content Credentials, Export Your Work With Content Credentials",
+      "file": "references/help-metadata-content-credentials.md",
+      "summary": "Desktop & Web Help: Use Content Credentials, Preview Content Credentials, Export Your Work With Content Credentials.",
+      "keywords": [
+        "use-content-credentials-preview-content-credentials-export-your-work-with-content-credentials",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Share And Collaborate, App Integrations, Troubleshoot",
+      "file": "references/help-desktop-2.md",
+      "summary": "Desktop & Web Help: Share And Collaborate, App Integrations, Troubleshoot.",
+      "keywords": [
+        "share-and-collaborate-app-integrations-troubleshoot",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Concepts, Deprecation Announcement, Storage Solutions, Technical Usage Notes ...",
+      "file": "references/api-getting-started.md",
+      "summary": "REST API: Concepts, Deprecation Announcement, Storage Solutions, Technical Usage Notes ....",
+      "keywords": [
+        "concepts-deprecation-announcement-storage-solutions-technical-usage-notes",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "V2 Ga, Webhooks",
+      "file": "references/api-getting-started-2.md",
+      "summary": "REST API: V2 Ga, Webhooks.",
+      "keywords": [
+        "v2-ga-webhooks",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Actionjson Endpoint, Artboards, Create Mask, Depthblur ...",
+      "file": "references/api-guides.md",
+      "summary": "REST API: Actionjson Endpoint, Artboards, Create Mask, Depthblur ....",
+      "keywords": [
+        "actionjson-endpoint-artboards-create-mask-depthblur",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Edit Text, Get Job Status, Granular Labels, Layer Level Edits",
+      "file": "references/api-guides-2.md",
+      "summary": "REST API: Edit Text, Get Job Status, Granular Labels, Layer Level Edits.",
+      "keywords": [
+        "edit-text-get-job-status-granular-labels-layer-level-edits",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Photoshop Actions",
+      "file": "references/api-photoshop-actions.md",
+      "summary": "REST API: Photoshop Actions.",
+      "keywords": [
+        "photoshop-actions",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Photoshop V2",
+      "file": "references/api-photoshop-v2.md",
+      "summary": "REST API: Photoshop V2.",
+      "keywords": [
+        "photoshop-v2",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Actions Migration (part 1)",
+      "file": "references/api-actions-migration.md",
+      "summary": "REST API: Actions Migration (part 1).",
+      "keywords": [
+        "actions-migration-part-1",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Actions Migration (part 2)",
+      "file": "references/api-actions-migration-2.md",
+      "summary": "REST API: Actions Migration (part 2).",
+      "keywords": [
+        "actions-migration-part-2",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Artboard Migration, Composite Migration",
+      "file": "references/api-v1-to-v2.md",
+      "summary": "REST API: Artboard Migration, Composite Migration.",
+      "keywords": [
+        "artboard-migration-composite-migration",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Depth Blur, Product Crop",
+      "file": "references/api-convenience-apis.md",
+      "summary": "REST API: Depth Blur, Product Crop.",
+      "keywords": [
+        "depth-blur-product-crop",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Smart Object Replace",
+      "file": "references/api-smart-object-replace.md",
+      "summary": "REST API: Smart Object Replace.",
+      "keywords": [
+        "smart-object-replace",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Text Layer Operations",
+      "file": "references/api-text-layer-operations.md",
+      "summary": "REST API: Text Layer Operations.",
+      "keywords": [
+        "text-layer-operations",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Create Artboard V1 Reference",
+      "file": "references/api-create-artboard-v1-reference.md",
+      "summary": "REST API: Create Artboard V1 Reference.",
+      "keywords": [
+        "create-artboard-v1-reference",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Create Composite V1 Reference",
+      "file": "references/api-create-composite-v1-reference.md",
+      "summary": "REST API: Create Composite V1 Reference.",
+      "keywords": [
+        "create-composite-v1-reference",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Document Creation Migration",
+      "file": "references/api-document-creation-migration.md",
+      "summary": "REST API: Document Creation Migration.",
+      "keywords": [
+        "document-creation-migration",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Document Operations Migration",
+      "file": "references/api-document-operations-migration.md",
+      "summary": "REST API: Document Operations Migration.",
+      "keywords": [
+        "document-operations-migration",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Edit Operations",
+      "file": "references/api-edit-operations.md",
+      "summary": "REST API: Edit Operations.",
+      "keywords": [
+        "edit-operations",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Execute Actions V1 Reference, Export Layers Migration",
+      "file": "references/api-v1-to-v2-2.md",
+      "summary": "REST API: Execute Actions V1 Reference, Export Layers Migration.",
+      "keywords": [
+        "execute-actions-v1-reference-export-layers-migration",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Format Conversion Migration",
+      "file": "references/api-format-conversion-migration.md",
+      "summary": "REST API: Format Conversion Migration.",
+      "keywords": [
+        "format-conversion-migration",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Execute Actions, Pegasus Worker V2 Models, Smart Object Workflow",
+      "file": "references/api-guides-v2.md",
+      "summary": "REST API: Execute Actions, Pegasus Worker V2 Models, Smart Object Workflow.",
+      "keywords": [
+        "execute-actions-pegasus-worker-v2-models-smart-object-workflow",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "V2 Edit Api Benchmarking",
+      "file": "references/api-v2-edit-api-benchmarking.md",
+      "summary": "REST API: V2 Edit Api Benchmarking.",
+      "keywords": [
+        "v2-edit-api-benchmarking",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Icc Profile Migration, Key Improvements",
+      "file": "references/api-v1-to-v2-3.md",
+      "summary": "REST API: Icc Profile Migration, Key Improvements.",
+      "keywords": [
+        "icc-profile-migration-key-improvements",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Layer Operations Adjustments",
+      "file": "references/api-layer-operations-adjustments.md",
+      "summary": "REST API: Layer Operations Adjustments.",
+      "keywords": [
+        "layer-operations-adjustments",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Layer Operations Advanced",
+      "file": "references/api-layer-operations-advanced.md",
+      "summary": "REST API: Layer Operations Advanced.",
+      "keywords": [
+        "layer-operations-advanced",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Layer Operations Background",
+      "file": "references/api-layer-operations-background.md",
+      "summary": "REST API: Layer Operations Background.",
+      "keywords": [
+        "layer-operations-background",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Layer Operations Image, Layer Operations Overview",
+      "file": "references/api-v1-to-v2-4.md",
+      "summary": "REST API: Layer Operations Image, Layer Operations Overview.",
+      "keywords": [
+        "layer-operations-image-layer-operations-overview",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Layer Operations Smart Objects",
+      "file": "references/api-layer-operations-smart-objects.md",
+      "summary": "REST API: Layer Operations Smart Objects.",
+      "keywords": [
+        "layer-operations-smart-objects",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Layer Operations Text (part 1)",
+      "file": "references/api-layer-operations-text.md",
+      "summary": "REST API: Layer Operations Text (part 1).",
+      "keywords": [
+        "layer-operations-text-part-1",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Layer Operations Text (part 2)",
+      "file": "references/api-layer-operations-text-2.md",
+      "summary": "REST API: Layer Operations Text (part 2).",
+      "keywords": [
+        "layer-operations-text-part-2",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Llm Migration Reference (part 1)",
+      "file": "references/api-llm-migration-reference.md",
+      "summary": "REST API: Llm Migration Reference (part 1).",
+      "keywords": [
+        "llm-migration-reference-part-1",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Llm Migration Reference (part 2)",
+      "file": "references/api-llm-migration-reference-2.md",
+      "summary": "REST API: Llm Migration Reference (part 2).",
+      "keywords": [
+        "llm-migration-reference-part-2",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Llm Migration Reference (part 3)",
+      "file": "references/api-llm-migration-reference-3.md",
+      "summary": "REST API: Llm Migration Reference (part 3).",
+      "keywords": [
+        "llm-migration-reference-part-3",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Llm Migration Reference (part 4)",
+      "file": "references/api-llm-migration-reference-4.md",
+      "summary": "REST API: Llm Migration Reference (part 4).",
+      "keywords": [
+        "llm-migration-reference-part-4",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Llm Migration Reference (part 5)",
+      "file": "references/api-llm-migration-reference-5.md",
+      "summary": "REST API: Llm Migration Reference (part 5).",
+      "keywords": [
+        "llm-migration-reference-part-5",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Llm Migration Reference (part 6)",
+      "file": "references/api-llm-migration-reference-6.md",
+      "summary": "REST API: Llm Migration Reference (part 6).",
+      "keywords": [
+        "llm-migration-reference-part-6",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Llm Migration Reference (part 7)",
+      "file": "references/api-llm-migration-reference-7.md",
+      "summary": "REST API: Llm Migration Reference (part 7).",
+      "keywords": [
+        "llm-migration-reference-part-7",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Manifest Migration",
+      "file": "references/api-manifest-migration.md",
+      "summary": "REST API: Manifest Migration.",
+      "keywords": [
+        "manifest-migration",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Manifest Response Migration (part 1)",
+      "file": "references/api-manifest-response-migration.md",
+      "summary": "REST API: Manifest Response Migration (part 1).",
+      "keywords": [
+        "manifest-response-migration-part-1",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Manifest Response Migration (part 2)",
+      "file": "references/api-manifest-response-migration-2.md",
+      "summary": "REST API: Manifest Response Migration (part 2).",
+      "keywords": [
+        "manifest-response-migration-part-2",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Output Types Migration",
+      "file": "references/api-output-types-migration.md",
+      "summary": "REST API: Output Types Migration.",
+      "keywords": [
+        "output-types-migration",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Status Migration",
+      "file": "references/api-status-migration.md",
+      "summary": "REST API: Status Migration.",
+      "keywords": [
+        "status-migration",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "V2 Api Catalog",
+      "file": "references/api-v2-api-catalog.md",
+      "summary": "REST API: V2 Api Catalog.",
+      "keywords": [
+        "v2-api-catalog",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "V2 Whats New",
+      "file": "references/api-v2-whats-new.md",
+      "summary": "REST API: V2 Whats New.",
+      "keywords": [
+        "v2-whats-new",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Product Crop, Remove Background, Rendering And Conversions, Retrieve Manifest ...",
+      "file": "references/api-guides-3.md",
+      "summary": "REST API: Product Crop, Remove Background, Rendering And Conversions, Retrieve Manifest ....",
+      "keywords": [
+        "product-crop-remove-background-rendering-and-conversions-retrieve-manifest",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Using Refine Mask, V1",
+      "file": "references/api-guides-4.md",
+      "summary": "REST API: Using Refine Mask, V1.",
+      "keywords": [
+        "using-refine-mask-v1",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": "Rest Api — Index",
+      "file": "references/api-index.md",
+      "summary": "REST API: Rest Api — Index.",
+      "keywords": [
+        "rest-api-index",
+        "rest_api"
+      ]
+    },
+    {
+      "topic": ".Github, Readme, Cross Compatible Js Sample, Desktop Helper Sample ...",
+      "file": "references/sample-adobe-code-of-conduct-our-pledge.md",
+      "summary": "Plugin Samples: .Github, Readme, Cross Compatible Js Sample, Desktop Helper Sample ....",
+      "keywords": [
+        "github-readme-cross-compatible-js-sample-desktop-helper-sample",
+        "samples"
+      ]
+    },
+    {
+      "topic": "Jszip Sample, Layer Creation Js Sample, Oauth Workflow Sample, Secure Storage Sample ...",
+      "file": "references/sample-jszip-sample.md",
+      "summary": "Plugin Samples: Jszip Sample, Layer Creation Js Sample, Oauth Workflow Sample, Secure Storage Sample ....",
+      "keywords": [
+        "jszip-sample-layer-creation-js-sample-oauth-workflow-sample-secure-storage-sample",
+        "samples"
+      ]
+    },
+    {
+      "topic": "Wasm Rust Sample",
+      "file": "references/sample-wasm-rust-sample.md",
+      "summary": "Plugin Samples: Wasm Rust Sample.",
+      "keywords": [
+        "wasm-rust-sample",
+        "samples"
+      ]
+    },
+    {
+      "topic": "Community, Design",
+      "file": "references/uxp-raw-githubusercontent-com-adobedocs-uxp-photoshop-main-src-pages-community-index-md-join-the-community.md",
+      "summary": "UXP Plugins & API: Community, Design.",
+      "keywords": [
+        "community-design",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Code Samples, Debugging",
+      "file": "references/uxp-guides.md",
+      "summary": "UXP Plugins & API: Code Samples, Debugging.",
+      "keywords": [
+        "code-samples-debugging",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Devtool, Distribution",
+      "file": "references/uxp-guides-2.md",
+      "summary": "UXP Plugins & API: Devtool, Distribution.",
+      "keywords": [
+        "devtool-distribution",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Getting Started, How To",
+      "file": "references/uxp-guides-3.md",
+      "summary": "UXP Plugins & API: Getting Started, How To.",
+      "keywords": [
+        "getting-started-how-to",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Hybrid Plugins, Legacy Extensibility, Theme Awareness",
+      "file": "references/uxp-guides-4.md",
+      "summary": "UXP Plugins & API: Hybrid Plugins, Legacy Extensibility, Theme Awareness.",
+      "keywords": [
+        "hybrid-plugins-legacy-extensibility-theme-awareness",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Uxp For Cep Devs, Uxp For Extendscript Devs, Uxp For Newbies, Uxp For Web Devs ...",
+      "file": "references/uxp-for-you.md",
+      "summary": "UXP Plugins & API: Uxp For Cep Devs, Uxp For Extendscript Devs, Uxp For Newbies, Uxp For Web Devs ....",
+      "keywords": [
+        "uxp-for-cep-devs-uxp-for-extendscript-devs-uxp-for-newbies-uxp-for-web-devs",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Unsupported",
+      "file": "references/uxp-unsupported.md",
+      "summary": "UXP Plugins & API: Unsupported.",
+      "keywords": [
+        "unsupported",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "File Access, Flyout Menus, Localization And Platforms, Manifest V4",
+      "file": "references/uxp-misc.md",
+      "summary": "UXP Plugins & API: File Access, Flyout Menus, Localization And Platforms, Manifest V4.",
+      "keywords": [
+        "file-access-flyout-menus-localization-and-platforms-manifest-v4",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Manifest V5, Network Io, Plugin Icons, Spectrum Css ...",
+      "file": "references/uxp-misc-2.md",
+      "summary": "UXP Plugins & API: Manifest V5, Network Io, Plugin Icons, Spectrum Css ....",
+      "keywords": [
+        "manifest-v5-network-io-plugin-icons-spectrum-css",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Uxp — Index",
+      "file": "references/uxp-index.md",
+      "summary": "UXP Plugins & API: Uxp — Index.",
+      "keywords": [
+        "uxp-index",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Changelog (part 1)",
+      "file": "references/uxp-changelog.md",
+      "summary": "UXP Plugins & API: Changelog (part 1).",
+      "keywords": [
+        "changelog-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Changelog (part 2)",
+      "file": "references/uxp-changelog-2.md",
+      "summary": "UXP Plugins & API: Changelog (part 2).",
+      "keywords": [
+        "changelog-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Changelog (part 3)",
+      "file": "references/uxp-changelog-3.md",
+      "summary": "UXP Plugins & API: Changelog (part 3).",
+      "keywords": [
+        "changelog-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Action, Actionset, Channel, Channels ...",
+      "file": "references/uxp-classes.md",
+      "summary": "UXP Plugins & API: Action, Actionset, Channel, Channels ....",
+      "keywords": [
+        "action-actionset-channel-channels",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Document (part 1)",
+      "file": "references/uxp-document.md",
+      "summary": "UXP Plugins & API: Document (part 1).",
+      "keywords": [
+        "document-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Document (part 2)",
+      "file": "references/uxp-document-2.md",
+      "summary": "UXP Plugins & API: Document (part 2).",
+      "keywords": [
+        "document-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Documents, Guide, Guides, Historystate ...",
+      "file": "references/uxp-classes-2.md",
+      "summary": "UXP Plugins & API: Documents, Guide, Guides, Historystate ....",
+      "keywords": [
+        "documents-guide-guides-historystate",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Layer (part 1)",
+      "file": "references/uxp-layer.md",
+      "summary": "UXP Plugins & API: Layer (part 1).",
+      "keywords": [
+        "layer-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Layer (part 2)",
+      "file": "references/uxp-layer-2.md",
+      "summary": "UXP Plugins & API: Layer (part 2).",
+      "keywords": [
+        "layer-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Layercomp, Layercomps, Layers, Paragraphstyle ...",
+      "file": "references/uxp-classes-3.md",
+      "summary": "UXP Plugins & API: Layercomp, Layercomps, Layers, Paragraphstyle ....",
+      "keywords": [
+        "layercomp-layercomps-layers-paragraphstyle",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Photoshop, Preferences",
+      "file": "references/uxp-classes-4.md",
+      "summary": "UXP Plugins & API: Photoshop, Preferences.",
+      "keywords": [
+        "photoshop-preferences",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Selection, Solidcolor, Subpathinfo",
+      "file": "references/uxp-classes-5.md",
+      "summary": "UXP Plugins & API: Selection, Solidcolor, Subpathinfo.",
+      "keywords": [
+        "selection-solidcolor-subpathinfo",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Subpathitem, Subpathitems, Textfont, Textfonts ...",
+      "file": "references/uxp-classes-6.md",
+      "summary": "UXP Plugins & API: Subpathitem, Subpathitems, Textfont, Textfonts ....",
+      "keywords": [
+        "subpathitem-subpathitems-textfont-textfonts",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Colors, Known Issues",
+      "file": "references/uxp-ps-reference.md",
+      "summary": "UXP Plugins & API: Colors, Known Issues.",
+      "keywords": [
+        "colors-known-issues",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Action Recording, Batchplay",
+      "file": "references/uxp-media.md",
+      "summary": "UXP Plugins & API: Action Recording, Batchplay.",
+      "keywords": [
+        "action-recording-batchplay",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Cpp Pluginsdk, Displayunits, Eventcodes",
+      "file": "references/uxp-media-2.md",
+      "summary": "UXP Plugins & API: Cpp Pluginsdk, Displayunits, Eventcodes.",
+      "keywords": [
+        "cpp-pluginsdk-displayunits-eventcodes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Executeasmodal",
+      "file": "references/uxp-executeasmodal.md",
+      "summary": "UXP Plugins & API: Executeasmodal.",
+      "keywords": [
+        "executeasmodal",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Imaging",
+      "file": "references/uxp-media-3.md",
+      "summary": "UXP Plugins & API: Imaging.",
+      "keywords": [
+        "imaging",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Photoshopaction",
+      "file": "references/uxp-photoshopaction.md",
+      "summary": "UXP Plugins & API: Photoshopaction.",
+      "keywords": [
+        "photoshopaction",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Photoshopcore, Prototype",
+      "file": "references/uxp-media-4.md",
+      "summary": "UXP Plugins & API: Photoshopcore, Prototype.",
+      "keywords": [
+        "photoshopcore-prototype",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Uxpscripting",
+      "file": "references/uxp-uxpscripting.md",
+      "summary": "UXP Plugins & API: Uxpscripting.",
+      "keywords": [
+        "uxpscripting",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Constants (part 1)",
+      "file": "references/uxp-constants.md",
+      "summary": "UXP Plugins & API: Constants (part 1).",
+      "keywords": [
+        "constants-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Constants (part 2)",
+      "file": "references/uxp-constants-2.md",
+      "summary": "UXP Plugins & API: Constants (part 2).",
+      "keywords": [
+        "constants-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Constants (part 3)",
+      "file": "references/uxp-constants-3.md",
+      "summary": "UXP Plugins & API: Constants (part 3).",
+      "keywords": [
+        "constants-part-3",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Applyimagetypes, Calculationstypes, Generaltypes, Layercomptypes ...",
+      "file": "references/uxp-types.md",
+      "summary": "UXP Plugins & API: Applyimagetypes, Calculationstypes, Generaltypes, Layercomptypes ....",
+      "keywords": [
+        "applyimagetypes-calculationstypes-generaltypes-layercomptypes",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Bounds, Conversionoptions, Coremodulesobjects, Createoptions ...",
+      "file": "references/uxp-objects.md",
+      "summary": "UXP Plugins & API: Bounds, Conversionoptions, Coremodulesobjects, Createoptions ....",
+      "keywords": [
+        "bounds-conversionoptions-coremodulesobjects-createoptions",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Options, Otherobjects, Returnobjects, Saveoptions ...",
+      "file": "references/uxp-objects-2.md",
+      "summary": "UXP Plugins & API: Options, Otherobjects, Returnobjects, Saveoptions ....",
+      "keywords": [
+        "options-otherobjects-returnobjects-saveoptions",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Getting Started, How It Works, Reference, Samples",
+      "file": "references/uxp-scripting.md",
+      "summary": "UXP Plugins & API: Getting Started, How It Works, Reference, Samples.",
+      "keywords": [
+        "getting-started-how-it-works-reference-samples",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Changelog3 P",
+      "file": "references/uxp-api.md",
+      "summary": "UXP Plugins & API: Changelog3 P.",
+      "keywords": [
+        "changelog3-p",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Known Issues",
+      "file": "references/uxp-known-issues.md",
+      "summary": "UXP Plugins & API: Known Issues.",
+      "keywords": [
+        "known-issues",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "General, Media Queries, Pseudo Classes, Pseudo Elements ...",
+      "file": "references/uxp-reference-css.md",
+      "summary": "UXP Plugins & API: General, Media Queries, Pseudo Classes, Pseudo Elements ....",
+      "keywords": [
+        "general-media-queries-pseudo-classes-pseudo-elements",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Align Content, Align Items, Align Self, Background Attachment ...",
+      "file": "references/uxp-styles.md",
+      "summary": "UXP Plugins & API: Align Content, Align Items, Align Self, Background Attachment ....",
+      "keywords": [
+        "align-content-align-items-align-self-background-attachment",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Min Height, Min Width, Opacity, Overflow X ...",
+      "file": "references/uxp-styles-2.md",
+      "summary": "UXP Plugins & API: Min Height, Min Width, Opacity, Overflow X ....",
+      "keywords": [
+        "min-height-min-width-opacity-overflow-x",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "General, Hierarchy",
+      "file": "references/uxp-reference-html.md",
+      "summary": "UXP Plugins & API: General, Hierarchy.",
+      "keywords": [
+        "general-hierarchy",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Crypto, Data Storage",
+      "file": "references/uxp-global-members.md",
+      "summary": "UXP Plugins & API: Crypto, Data Storage.",
+      "keywords": [
+        "crypto-data-storage",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Blob, Clipboard, Fetch, Form Data ...",
+      "file": "references/uxp-data-transfers.md",
+      "summary": "UXP Plugins & API: Blob, Clipboard, Fetch, Form Data ....",
+      "keywords": [
+        "blob-clipboard-fetch-form-data",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Web Socket, Xml Http Request",
+      "file": "references/uxp-data-transfers-2.md",
+      "summary": "UXP Plugins & API: Web Socket, Xml Http Request.",
+      "keywords": [
+        "web-socket-xml-http-request",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Abort Controller, Abort Signal, Alert, Attr ...",
+      "file": "references/uxp-html-dom.md",
+      "summary": "UXP Plugins & API: Abort Controller, Abort Signal, Alert, Attr ....",
+      "keywords": [
+        "abort-controller-abort-signal-alert-attr",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Dom Token List, Element, Get Computed Style, Html Collection ...",
+      "file": "references/uxp-html-dom-2.md",
+      "summary": "UXP Plugins & API: Dom Token List, Element, Get Computed Style, Html Collection ....",
+      "keywords": [
+        "dom-token-list-element-get-computed-style-html-collection",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Html Elements, Html Events, Image Blob, Path ...",
+      "file": "references/uxp-global-members-2.md",
+      "summary": "UXP Plugins & API: Html Elements, Html Events, Image Blob, Path ....",
+      "keywords": [
+        "html-elements-html-events-image-blob-path",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Reference Js",
+      "file": "references/uxp-reference-js.md",
+      "summary": "UXP Plugins & API: Reference Js.",
+      "keywords": [
+        "reference-js",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Fs, Os",
+      "file": "references/uxp-modules.md",
+      "summary": "UXP Plugins & API: Fs, Os.",
+      "keywords": [
+        "fs-os",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Entry Points, Host Information, Key Value Storage, Persistent File Storage ...",
+      "file": "references/uxp.md",
+      "summary": "UXP Plugins & API: Entry Points, Host Information, Key Value Storage, Persistent File Storage ....",
+      "keywords": [
+        "entry-points-host-information-key-value-storage-persistent-file-storage",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Getting Started",
+      "file": "references/uxp-xmp.md",
+      "summary": "UXP Plugins & API: Getting Started.",
+      "keywords": [
+        "getting-started",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xmp Const, Xmp Date Time, Xmp File Info, Xmp Iterator",
+      "file": "references/uxp-xmp-classes.md",
+      "summary": "UXP Plugins & API: Xmp Const, Xmp Date Time, Xmp File Info, Xmp Iterator.",
+      "keywords": [
+        "xmp-const-xmp-date-time-xmp-file-info-xmp-iterator",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xmp Meta (part 1)",
+      "file": "references/uxp-xmp-meta.md",
+      "summary": "UXP Plugins & API: Xmp Meta (part 1).",
+      "keywords": [
+        "xmp-meta-part-1",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xmp Meta (part 2)",
+      "file": "references/uxp-xmp-meta-2.md",
+      "summary": "UXP Plugins & API: Xmp Meta (part 2).",
+      "keywords": [
+        "xmp-meta-part-2",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Xmp Packet Info, Xmp Property, Xmp Utils",
+      "file": "references/uxp-xmp-classes-2.md",
+      "summary": "UXP Plugins & API: Xmp Packet Info, Xmp Property, Xmp Utils.",
+      "keywords": [
+        "xmp-packet-info-xmp-property-xmp-utils",
+        "uxp"
+      ]
+    },
+    {
+      "topic": "Reference Spectrum, Versions3 P",
+      "file": "references/uxp-api-2.md",
+      "summary": "UXP Plugins & API: Reference Spectrum, Versions3 P.",
+      "keywords": [
+        "reference-spectrum-versions3-p",
+        "uxp"
+      ]
+    }
+  ]
+}

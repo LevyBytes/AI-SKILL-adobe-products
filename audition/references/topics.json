@@ -1,0 +1,230 @@
+{
+  "schema_version": 1,
+  "topics": [
+    {
+      "topic": "Whats New, Audition Releasenotes, Known Issues, Fixed Issues",
+      "file": "references/help-introduction.md",
+      "summary": "Desktop & Web Help: Whats New, Audition Releasenotes, Known Issues, Fixed Issues.",
+      "keywords": [
+        "whats-new-audition-releasenotes-known-issues-fixed-issues",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Control Surface Support, Viewing Zooming Navigating Audio, Customizing Workspaces, Connecting Audio Hardware",
+      "file": "references/help-workspace-and-setup.md",
+      "summary": "Desktop & Web Help: Control Surface Support, Viewing Zooming Navigating Audio, Customizing Workspaces, Connecting Audio Hardware.",
+      "keywords": [
+        "control-surface-support-viewing-zooming-navigating-audio-customizing-workspaces-connecting-audio-hardware",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Customizing Saving Application Settings, Finding Customizing Shortcuts, Perform Mic Check",
+      "file": "references/help-workspace-and-setup-2.md",
+      "summary": "Desktop & Web Help: Customizing Saving Application Settings, Finding Customizing Shortcuts, Perform Mic Check.",
+      "keywords": [
+        "customizing-saving-application-settings-finding-customizing-shortcuts-perform-mic-check",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Sound, Digitizing Audio",
+      "file": "references/help-digital-audio-fundamentals.md",
+      "summary": "Desktop & Web Help: Sound, Digitizing Audio.",
+      "keywords": [
+        "sound-digitizing-audio",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Multichannel Audio Workflow, Creating Opening Files, Importing Files Panel, Extracting Audio Cds ...",
+      "file": "references/help-importing-recording-and-playing.md",
+      "summary": "Desktop & Web Help: Multichannel Audio Workflow, Creating Opening Files, Importing Files Panel, Extracting Audio Cds ....",
+      "keywords": [
+        "multichannel-audio-workflow-creating-opening-files-importing-files-panel-extracting-audio-cds",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Monitoring Recording Playback Levels, Strip Silence",
+      "file": "references/help-importing-recording-and-playing-2.md",
+      "summary": "Desktop & Web Help: Monitoring Recording Playback Levels, Strip Silence.",
+      "keywords": [
+        "monitoring-recording-playback-levels-strip-silence",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Essential Sound Panel, Clip Markers For Multitrack In Audition, Match Loudness, Displaying Audio Waveform Editor",
+      "file": "references/help-editing-audio-files.md",
+      "summary": "Desktop & Web Help: Essential Sound Panel, Clip Markers For Multitrack In Audition, Match Loudness, Displaying Audio Waveform Editor.",
+      "keywords": [
+        "essential-sound-panel-clip-markers-for-multitrack-in-audition-match-loudness-displaying-audio-waveform-editor",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Selecting Audio, Copying Cutting Pasting Deleting Audio, Visually Fading Changing Amplitude, Markers ...",
+      "file": "references/help-editing-audio-files-2.md",
+      "summary": "Desktop & Web Help: Selecting Audio, Copying Cutting Pasting Deleting Audio, Visually Fading Changing Amplitude, Markers ....",
+      "keywords": [
+        "selecting-audio-copying-cutting-pasting-deleting-audio-visually-fading-changing-amplitude-markers",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Analyzing Phase Frequency Amplitude, Frequency Band Splitter, Undo Redo History, Converting Sample Types",
+      "file": "references/help-editing-audio-files-3.md",
+      "summary": "Desktop & Web Help: Analyzing Phase Frequency Amplitude, Frequency Band Splitter, Undo Redo History, Converting Sample Types.",
+      "keywords": [
+        "analyzing-phase-frequency-amplitude-frequency-band-splitter-undo-redo-history-converting-sample-types",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Creating Podcasts",
+      "file": "references/help-creating-podcasts.md",
+      "summary": "Desktop & Web Help: Creating Podcasts.",
+      "keywords": [
+        "creating-podcasts",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Enabling Cep Extensions, Effects Controls, Applying Effects Waveform Editor, Applying Effects Multitrack Editor ...",
+      "file": "references/help-applying-effects.md",
+      "summary": "Desktop & Web Help: Enabling Cep Extensions, Effects Controls, Applying Effects Waveform Editor, Applying Effects Multitrack Editor ....",
+      "keywords": [
+        "enabling-cep-extensions-effects-controls-applying-effects-waveform-editor-applying-effects-multitrack-editor",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Amplitude Compression Effects (part 1)",
+      "file": "references/help-amplitude-compression-effects.md",
+      "summary": "Desktop & Web Help: Amplitude Compression Effects (part 1).",
+      "keywords": [
+        "amplitude-compression-effects-part-1",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Amplitude Compression Effects (part 2)",
+      "file": "references/help-amplitude-compression-effects-2.md",
+      "summary": "Desktop & Web Help: Amplitude Compression Effects (part 2).",
+      "keywords": [
+        "amplitude-compression-effects-part-2",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Delay Echo Effects, Diagnostics Effects Waveform Editor Only, Filter Equalizer Effects",
+      "file": "references/help-effects-reference.md",
+      "summary": "Desktop & Web Help: Delay Echo Effects, Diagnostics Effects Waveform Editor Only, Filter Equalizer Effects.",
+      "keywords": [
+        "delay-echo-effects-diagnostics-effects-waveform-editor-only-filter-equalizer-effects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Modulation Effects",
+      "file": "references/help-modulation-effects.md",
+      "summary": "Desktop & Web Help: Modulation Effects.",
+      "keywords": [
+        "modulation-effects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Noise Reduction Restoration Effects (part 1)",
+      "file": "references/help-noise-reduction-restoration-effects.md",
+      "summary": "Desktop & Web Help: Noise Reduction Restoration Effects (part 1).",
+      "keywords": [
+        "noise-reduction-restoration-effects-part-1",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Noise Reduction Restoration Effects (part 2)",
+      "file": "references/help-noise-reduction-restoration-effects-2.md",
+      "summary": "Desktop & Web Help: Noise Reduction Restoration Effects (part 2).",
+      "keywords": [
+        "noise-reduction-restoration-effects-part-2",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Reverb Effects",
+      "file": "references/help-reverb-effects.md",
+      "summary": "Desktop & Web Help: Reverb Effects.",
+      "keywords": [
+        "reverb-effects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Special Effects, Stereo Imagery Effects",
+      "file": "references/help-effects-reference-2.md",
+      "summary": "Desktop & Web Help: Special Effects, Stereo Imagery Effects.",
+      "keywords": [
+        "special-effects-stereo-imagery-effects",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Time Pitch Manipulation Effects, Generate Tones Effect",
+      "file": "references/help-effects-reference-3.md",
+      "summary": "Desktop & Web Help: Time Pitch Manipulation Effects, Generate Tones Effect.",
+      "keywords": [
+        "time-pitch-manipulation-effects-generate-tones-effect",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Creating Remix, Multitrack Editor Overview, Basic Multitrack Controls, Multitrack Routing Eq Controls ...",
+      "file": "references/help-mixing-multitrack-sessions.md",
+      "summary": "Desktop & Web Help: Creating Remix, Multitrack Editor Overview, Basic Multitrack Controls, Multitrack Routing Eq Controls ....",
+      "keywords": [
+        "creating-remix-multitrack-editor-overview-basic-multitrack-controls-multitrack-routing-eq-controls",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Looping Clips, Clip Volume Matching Fading Mixing, Automating Mixes Envelopes1, Multitrack Clip Stretching",
+      "file": "references/help-mixing-multitrack-sessions-2.md",
+      "summary": "Desktop & Web Help: Looping Clips, Clip Volume Matching Fading Mixing, Automating Mixes Envelopes1, Multitrack Clip Stretching.",
+      "keywords": [
+        "looping-clips-clip-volume-matching-fading-mixing-automating-mixes-envelopes1-multitrack-clip-stretching",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Video And Surround Sound, Keyboard Shortcuts",
+      "file": "references/help-desktop.md",
+      "summary": "Desktop & Web Help: Video And Surround Sound, Keyboard Shortcuts.",
+      "keywords": [
+        "video-and-surround-sound-keyboard-shortcuts",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Saving Exporting Files1, Viewing Editing Xmp Metadata",
+      "file": "references/help-saving-and-exporting.md",
+      "summary": "Desktop & Web Help: Saving Exporting Files1, Viewing Editing Xmp Metadata.",
+      "keywords": [
+        "saving-exporting-files1-viewing-editing-xmp-metadata",
+        "desktop_help"
+      ]
+    },
+    {
+      "topic": "Using, User Guide",
+      "file": "references/help-desktop-2.md",
+      "summary": "Desktop & Web Help: Using, User Guide.",
+      "keywords": [
+        "using-user-guide",
+        "desktop_help"
+      ]
+    }
+  ]
+}

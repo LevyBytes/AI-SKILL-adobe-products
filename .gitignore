@@ -1,0 +1,9 @@
+# Keep this skill repo clean — build/cache and OS/editor clutter.
+__pycache__/
+*.py[cod]
+
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
