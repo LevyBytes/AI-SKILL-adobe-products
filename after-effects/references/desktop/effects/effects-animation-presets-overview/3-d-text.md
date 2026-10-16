@@ -1,0 +1,33 @@
+# 3D Text
+
+- 3D Basic Position Z Cascade
+- 3D Basic Position Z Typeon
+- 3D Basic Rotate X Cascade
+- 3D Basic Rotate Y Cascade
+- 3D Bouncing In Centered
+- 3D Fall Back Scale & Skew
+- 3D Fall Back Scramble & Blur
+- 3D Flip In Rotate X
+- 3D Flip Out Rotate X
+- 3D Flip Up Reflection
+- 3D Flutter In From Left
+- 3D Flutter In Random Order
+- 3D Flutter Out From Right
+- 3D Fly Down & Unfold
+- 3D Fly Down Behind Camera
+
+- 3D Fly Down Random & Rotate Y
+- 3D Lines Zoom In
+- 3D Rain Down Words & Colors
+- 3D Random Spike Tumble
+- 3D Resolve Position
+- 3D Rotate around Circle
+- 3D Rotate in by Character
+- 3D Rotate out by Word
+- 3D Scramble in Position Z
+- 3D Spiral Down & Unfold
+- 3D Spiral Rotate In by Line
+- 3D Spiral Rotate Out by Line
+- 3D Swing Around on Path
+- 3D Tumble Words Forward
+- 3D Twist & Color Characters

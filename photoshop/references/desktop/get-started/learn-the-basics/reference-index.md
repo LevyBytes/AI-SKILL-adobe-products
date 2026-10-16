@@ -1,0 +1,39 @@
+# Photoshop — Learn the basics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Access the Discover panel in Photoshop. [Access the Discover panel](access-the-discover-panel.md).
+- Open when looking up Add and remove panels in Photoshop. [Add and remove panels](add-and-remove-panels.md).
+- Open when looking up Add panels in Photoshop. [Add panels](add-panels.md).
+- Open when looking up Adobe Photoshop on desktop FAQ in Photoshop. [Adobe Photoshop on desktop FAQ](adobe-photoshop-on-desktop-faq.md).
+- Open when looking up Arrange and group panels in Photoshop. [Arrange and group panels](arrange-and-group-panels.md).
+- Open when looking up Boost workflows with the Contextual Task Bar in Photoshop. [Boost workflows with the Contextual Task Bar](boost-workflows-with-the-contextual-task-bar.md).
+- Open when looking up Change text size in panels and tooltips in Photoshop. [Change text size in panels and tooltips](change-text-size-in-panels-and-tooltips.md).
+- Open when looking up Common questions in Photoshop. [Common questions](common-questions.md).
+- Open when looking up Contextual Task Bar in Photoshop. [Contextual Task Bar](contextual-task-bar.md).
+- Open when looking up Delete workspaces in Photoshop. [Delete workspaces](delete-workspaces.md).
+- Open when looking up Dock or undock panels in Photoshop. [Dock or undock panels](dock-or-undock-panels.md).
+- Open when looking up Expand or collapse panel icons in Photoshop. [Expand or collapse panel icons](expand-or-collapse-panel-icons.md).
+- Open when looking up Hide or show all panels in Photoshop. [Hide or show all panels](hide-or-show-all-panels.md).
+- Open when looking up High-density monitor support and per-monitor scaling in Photoshop. [High-density monitor support and per-monitor scaling](high-density-monitor-support-and-per-monitor-scaling.md).
+- Open when looking up High-density monitors in Photoshop. [High-density monitors](high-density-monitors.md).
+- Open when looking up Home screen in Photoshop. [Home screen](home-screen.md).
+- Open when looking up Home screen overview in Photoshop. [Home screen overview](home-screen-overview.md).
+- Open when looking up Learn The Basics in Photoshop. [Learn The Basics](learn-the-basics.md).
+- Open when looking up Math expression examples in Photoshop. [Math expression examples](math-expression-examples.md).
+- Open when looking up Move panels in Photoshop. [Move panels](move-panels.md).
+- Open when looking up Per-monitor scaling in Photoshop. [Per-monitor scaling](per-monitor-scaling.md).
+- Open when looking up Photoshop UI scaling in Photoshop. [Photoshop UI scaling](photoshop-ui-scaling.md).
+- Open when looking up Rearrange document windows in Photoshop. [Rearrange document windows](rearrange-document-windows.md).
+- Open when looking up Remove panels in Photoshop. [Remove panels](remove-panels.md).
+- Open when looking up Restore saved workspaces in Photoshop. [Restore saved workspaces](restore-saved-workspaces.md).
+- Open when looking up Restore the default workspace in Photoshop. [Restore the default workspace](restore-the-default-workspace.md).
+- Open when looking up Restore workspaces in Photoshop. [Restore workspaces](restore-workspaces.md).
+- Open when looking up Save custom workspaces in Photoshop. [Save custom workspaces](save-custom-workspaces.md).
+- Open when looking up Set up toolbars and panels in Photoshop. [Set up toolbars and panels](set-up-toolbars-and-panels.md).
+- Open when looking up Settings and preferences in Photoshop. [Settings and preferences](settings-and-preferences.md).
+- Open when looking up Snap Layout support on Windows in Photoshop. [Snap Layout support on Windows](snap-layout-support-on-windows.md).
+- Open when looking up Stack floating panels in Photoshop. [Stack floating panels](stack-floating-panels.md).
+- Open when looking up Switch workspaces in Photoshop. [Switch workspaces](switch-workspaces.md).
+- Open when looking up Technical requirements and installation in Photoshop. [Technical requirements and installation](technical-requirements-and-installation.md).
+- Open when looking up Use simple math in number fields in Photoshop. [Use simple math in number fields](use-simple-math-in-number-fields.md).
+- Open when looking up Workspace overview in Photoshop. [Workspace overview](workspace-overview.md).

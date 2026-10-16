@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Creative Cloud storage", "file": "references/cloud-services/manifest-migration/output-options/creative-cloud-storage.md", "summary": "Open when looking up Creative Cloud storage in Photoshop.", "keywords": ["Creative Cloud storage"]},
+  {"topic": "Embedded storage", "file": "references/cloud-services/manifest-migration/output-options/embedded-storage.md", "summary": "Open when looking up Embedded storage in Photoshop.", "keywords": ["Embedded storage"]},
+  {"topic": "External storage", "file": "references/cloud-services/manifest-migration/output-options/external-storage.md", "summary": "Open when looking up External storage in Photoshop.", "keywords": ["External storage"]},
+  {"topic": "Hosted storage", "file": "references/cloud-services/manifest-migration/output-options/hosted-storage.md", "summary": "Open when looking up Hosted storage in Photoshop.", "keywords": ["Hosted storage"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

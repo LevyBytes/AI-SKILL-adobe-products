@@ -1,0 +1,52 @@
+# Shared Adobe platform — MasterSpread
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up MasterSpread declaration in Shared Adobe platform. [MasterSpread declaration](declaration.md).
+- Open when looking up MasterSpread event listeners in Shared Adobe platform. [MasterSpread event listeners](event-listeners.md).
+- Open when looking up MasterSpread identity and parent in Shared Adobe platform. [MasterSpread identity and parent](identity-and-parent.md).
+- Open when looking up MasterSpread labels and metadata in Shared Adobe platform. [MasterSpread labels and metadata](labels-and-metadata.md).
+- Open when looking up MasterSpread object lifecycle in Shared Adobe platform. [MasterSpread object lifecycle](object-lifecycle.md).
+- Open when looking up MasterSpread object resolution in Shared Adobe platform. [MasterSpread object resolution](object-resolution.md).
+- Open when looking up MasterSpread.allGraphics in Shared Adobe platform. [MasterSpread.allGraphics](all-graphics.md).
+- Open when looking up MasterSpread.allPageItems in Shared Adobe platform. [MasterSpread.allPageItems](all-page-items.md).
+- Open when looking up MasterSpread.appliedMaster in Shared Adobe platform. [MasterSpread.appliedMaster](applied-master.md).
+- Open when looking up MasterSpread.baseName in Shared Adobe platform. [MasterSpread.baseName](base-name.md).
+- Open when looking up MasterSpread.buttons in Shared Adobe platform. [MasterSpread.buttons](buttons.md).
+- Open when looking up MasterSpread.checkBoxes in Shared Adobe platform. [MasterSpread.checkBoxes](check-boxes.md).
+- Open when looking up MasterSpread.comboBoxes in Shared Adobe platform. [MasterSpread.comboBoxes](combo-boxes.md).
+- Open when looking up MasterSpread.contentPlace in Shared Adobe platform. [MasterSpread.contentPlace](content-place.md).
+- Open when looking up MasterSpread.createGuides in Shared Adobe platform. [MasterSpread.createGuides](create-guides.md).
+- Open when looking up MasterSpread.detach in Shared Adobe platform. [MasterSpread.detach](detach.md).
+- Open when looking up MasterSpread.endnoteTextFrames in Shared Adobe platform. [MasterSpread.endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up MasterSpread.epstexts in Shared Adobe platform. [MasterSpread.epstexts](epstexts.md).
+- Open when looking up MasterSpread.formFields in Shared Adobe platform. [MasterSpread.formFields](form-fields.md).
+- Open when looking up MasterSpread.graphicLines in Shared Adobe platform. [MasterSpread.graphicLines](graphic-lines.md).
+- Open when looking up MasterSpread.groups in Shared Adobe platform. [MasterSpread.groups](groups.md).
+- Open when looking up MasterSpread.guides in Shared Adobe platform. [MasterSpread.guides](guides.md).
+- Open when looking up MasterSpread.idmlComponentName in Shared Adobe platform. [MasterSpread.idmlComponentName](idml-component-name.md).
+- Open when looking up MasterSpread.listBoxes in Shared Adobe platform. [MasterSpread.listBoxes](list-boxes.md).
+- Open when looking up MasterSpread.multiStateObjects in Shared Adobe platform. [MasterSpread.multiStateObjects](multi-state-objects.md).
+- Open when looking up MasterSpread.namePrefix in Shared Adobe platform. [MasterSpread.namePrefix](name-prefix.md).
+- Open when looking up MasterSpread.ovals in Shared Adobe platform. [MasterSpread.ovals](ovals.md).
+- Open when looking up MasterSpread.pageColor in Shared Adobe platform. [MasterSpread.pageColor](page-color.md).
+- Open when looking up MasterSpread.pageItems in Shared Adobe platform. [MasterSpread.pageItems](page-items.md).
+- Open when looking up MasterSpread.pages in Shared Adobe platform. [MasterSpread.pages](pages.md).
+- Open when looking up MasterSpread.place in Shared Adobe platform. [MasterSpread.place](place.md).
+- Open when looking up MasterSpread.placeAndLink in Shared Adobe platform. [MasterSpread.placeAndLink](place-and-link.md).
+- Open when looking up MasterSpread.polygons in Shared Adobe platform. [MasterSpread.polygons](polygons.md).
+- Open when looking up MasterSpread.preferences in Shared Adobe platform. [MasterSpread.preferences](preferences.md).
+- Open when looking up MasterSpread.primaryTextFrame in Shared Adobe platform. [MasterSpread.primaryTextFrame](primary-text-frame.md).
+- Open when looking up MasterSpread.properties in Shared Adobe platform. [MasterSpread.properties](properties.md).
+- Open when looking up MasterSpread.radioButtons in Shared Adobe platform. [MasterSpread.radioButtons](radio-buttons.md).
+- Open when looking up MasterSpread.rectangles in Shared Adobe platform. [MasterSpread.rectangles](rectangles.md).
+- Open when looking up MasterSpread.removeOverride in Shared Adobe platform. [MasterSpread.removeOverride](remove-override.md).
+- Open when looking up MasterSpread.resolve in Shared Adobe platform. [MasterSpread.resolve](resolve.md).
+- Open when looking up MasterSpread.select in Shared Adobe platform. [MasterSpread.select](select.md).
+- Open when looking up MasterSpread.showMasterItems in Shared Adobe platform. [MasterSpread.showMasterItems](show-master-items.md).
+- Open when looking up MasterSpread.signatureFields in Shared Adobe platform. [MasterSpread.signatureFields](signature-fields.md).
+- Open when looking up MasterSpread.splineItems in Shared Adobe platform. [MasterSpread.splineItems](spline-items.md).
+- Open when looking up MasterSpread.textBoxes in Shared Adobe platform. [MasterSpread.textBoxes](text-boxes.md).
+- Open when looking up MasterSpread.textFrames in Shared Adobe platform. [MasterSpread.textFrames](text-frames.md).
+- Open when looking up MasterSpread.timingSettings in Shared Adobe platform. [MasterSpread.timingSettings](timing-settings.md).
+- Open when looking up MasterSpread.transform in Shared Adobe platform. [MasterSpread.transform](transform.md).
+- Open when looking up MasterSpread.transformValuesOf in Shared Adobe platform. [MasterSpread.transformValuesOf](transform-values-of.md).

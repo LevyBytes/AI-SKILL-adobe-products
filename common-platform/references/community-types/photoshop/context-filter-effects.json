@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CreateFields", "file": "references/community-types/photoshop/create-fields.md", "summary": "Open when looking up CreateFields in Shared Adobe platform.", "keywords": ["CreateFields"]},
+  {"topic": "DepthMapSource", "file": "references/community-types/photoshop/depth-map-source.md", "summary": "Open when looking up DepthMapSource in Shared Adobe platform.", "keywords": ["DepthMapSource"]},
+  {"topic": "DisplacementMapType", "file": "references/community-types/photoshop/displacement-map-type.md", "summary": "Open when looking up DisplacementMapType in Shared Adobe platform.", "keywords": ["DisplacementMapType"]},
+  {"topic": "EliminateFields", "file": "references/community-types/photoshop/eliminate-fields.md", "summary": "Open when looking up EliminateFields in Shared Adobe platform.", "keywords": ["EliminateFields"]},
+  {"topic": "LensType", "file": "references/community-types/photoshop/lens-type.md", "summary": "Open when looking up LensType in Shared Adobe platform.", "keywords": ["LensType"]},
+  {"topic": "NoiseDistribution", "file": "references/community-types/photoshop/noise-distribution.md", "summary": "Open when looking up NoiseDistribution in Shared Adobe platform.", "keywords": ["NoiseDistribution"]},
+  {"topic": "OffsetUndefinedAreas", "file": "references/community-types/photoshop/offset-undefined-areas.md", "summary": "Open when looking up OffsetUndefinedAreas in Shared Adobe platform.", "keywords": ["OffsetUndefinedAreas"]},
+  {"topic": "PolarConversionType", "file": "references/community-types/photoshop/polar-conversion-type.md", "summary": "Open when looking up PolarConversionType in Shared Adobe platform.", "keywords": ["PolarConversionType"]},
+  {"topic": "RadialBlurMethod", "file": "references/community-types/photoshop/radial-blur-method.md", "summary": "Open when looking up RadialBlurMethod in Shared Adobe platform.", "keywords": ["RadialBlurMethod"]},
+  {"topic": "RadialBlurQuality", "file": "references/community-types/photoshop/radial-blur-quality.md", "summary": "Open when looking up RadialBlurQuality in Shared Adobe platform.", "keywords": ["RadialBlurQuality"]},
+  {"topic": "RippleSize", "file": "references/community-types/photoshop/ripple-size.md", "summary": "Open when looking up RippleSize in Shared Adobe platform.", "keywords": ["RippleSize"]},
+  {"topic": "SmartBlurMode", "file": "references/community-types/photoshop/smart-blur-mode.md", "summary": "Open when looking up SmartBlurMode in Shared Adobe platform.", "keywords": ["SmartBlurMode"]},
+  {"topic": "SmartBlurQuality", "file": "references/community-types/photoshop/smart-blur-quality.md", "summary": "Open when looking up SmartBlurQuality in Shared Adobe platform.", "keywords": ["SmartBlurQuality"]},
+  {"topic": "SpherizeMode", "file": "references/community-types/photoshop/spherize-mode.md", "summary": "Open when looking up SpherizeMode in Shared Adobe platform.", "keywords": ["SpherizeMode"]},
+  {"topic": "TextureType", "file": "references/community-types/photoshop/texture-type.md", "summary": "Open when looking up TextureType in Shared Adobe platform.", "keywords": ["TextureType"]},
+  {"topic": "UndefinedAreas", "file": "references/community-types/photoshop/undefined-areas.md", "summary": "Open when looking up UndefinedAreas in Shared Adobe platform.", "keywords": ["UndefinedAreas"]},
+  {"topic": "WaveType", "file": "references/community-types/photoshop/wave-type.md", "summary": "Open when looking up WaveType in Shared Adobe platform.", "keywords": ["WaveType"]},
+  {"topic": "ZigZagType", "file": "references/community-types/photoshop/zig-zag-type.md", "summary": "Open when looking up ZigZagType in Shared Adobe platform.", "keywords": ["ZigZagType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

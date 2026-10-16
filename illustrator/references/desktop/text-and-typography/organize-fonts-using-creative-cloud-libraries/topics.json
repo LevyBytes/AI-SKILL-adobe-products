@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Add fonts to a new or existing Library", "file": "references/desktop/text-and-typography/organize-fonts-using-creative-cloud-libraries/add-fonts-to-a-new-or-existing-library.md", "summary": "Open when looking up Add fonts to a new or existing Library in Illustrator.", "keywords": ["Add fonts to a new or existing Library"]},
+  {"topic": "Create and manage font Libraries", "file": "references/desktop/text-and-typography/organize-fonts-using-creative-cloud-libraries/create-and-manage-font-libraries.md", "summary": "Open when looking up Create and manage font Libraries in Illustrator.", "keywords": ["Create and manage font Libraries"]},
+  {"topic": "Remove fonts from a Library", "file": "references/desktop/text-and-typography/organize-fonts-using-creative-cloud-libraries/remove-fonts-from-a-library.md", "summary": "Open when looking up Remove fonts from a Library in Illustrator.", "keywords": ["Remove fonts from a Library"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

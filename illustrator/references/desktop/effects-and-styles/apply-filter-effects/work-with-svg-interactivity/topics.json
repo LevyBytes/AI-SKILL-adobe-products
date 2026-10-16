@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Add SVG Interactivity to artwork", "file": "references/desktop/effects-and-styles/apply-filter-effects/work-with-svg-interactivity/add-svg-interactivity-to-artwork.md", "summary": "Open when looking up Add SVG Interactivity to artwork in Illustrator.", "keywords": ["Add SVG Interactivity to artwork"]},
+  {"topic": "Delete an event from the SVG Interactivity panel", "file": "references/desktop/effects-and-styles/apply-filter-effects/work-with-svg-interactivity/delete-an-event-from-the-svg-interactivity-panel.md", "summary": "Open when looking up Delete an event from the SVG Interactivity panel in Illustrator.", "keywords": ["Delete an event from the SVG Interactivity panel"]},
+  {"topic": "List, add, or remove events linked to a file", "file": "references/desktop/effects-and-styles/apply-filter-effects/work-with-svg-interactivity/list-add-or-remove-events-linked-to-a-file.md", "summary": "Open when looking up List, add, or remove events linked to a file in Illustrator.", "keywords": ["List, add, or remove events linked to a file"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Frequently asked questions about Adobe Firefly Creative Production for Creative Cloud", "file": "references/web/firefly-creative-production-faq/creative-production-faq.md", "summary": "Open when looking up Frequently asked questions about Adobe Firefly Creative Production for Creative Cloud in Firefly.", "keywords": ["Frequently asked questions about Adobe Firefly Creative Production for Creative Cloud"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

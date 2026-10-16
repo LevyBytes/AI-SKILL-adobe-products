@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Setting tag values", "file": "references/scripting/tags-example/setting-tag-values.md", "summary": "Open when looking up Setting tag values in Illustrator.", "keywords": ["Setting tag values"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

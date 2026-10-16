@@ -1,0 +1,30 @@
+# Illustrator — Learn the basics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Contextual Task Bar overview in Illustrator. [Contextual Task Bar overview](contextual-task-bar-overview.md).
+- Open when looking up Contextual Task Bar overview in Illustrator. [Contextual Task Bar overview references](contextual-task-bar-overview/reference-index.md).
+- Open when looking up Control panel overview in Illustrator. [Control panel overview](control-panel-overview.md).
+- Open when looking up Control panel overview in Illustrator. [Control panel overview references](control-panel-overview/reference-index.md).
+- Open when looking up Discover panel overview in Illustrator. [Discover panel overview](discover-panel-overview.md).
+- Open when looking up Discover panel overview in Illustrator. [Discover panel overview references](discover-panel-overview/reference-index.md).
+- Open when looking up Homescreen overview in Illustrator. [Homescreen overview](homescreen-overview.md).
+- Open when looking up Homescreen overview in Illustrator. [Homescreen overview references](homescreen-overview/reference-index.md).
+- Open when looking up Illustrator on desktop technical requirements in Illustrator. [Illustrator on desktop technical requirements](illustrator-on-desktop-technical-requirements.md).
+- Open when looking up Illustrator on desktop technical requirements in Illustrator. [Illustrator on desktop technical requirements references](illustrator-on-desktop-technical-requirements/reference-index.md).
+- Open when looking up Learn faster with the Discover panel in Illustrator. [Learn faster with the Discover panel](learn-faster-with-the-discover-panel.md).
+- Open when looking up Learn faster with the Discover panel in Illustrator. [Learn faster with the Discover panel references](learn-faster-with-the-discover-panel/reference-index.md).
+- Open when looking up Learn the basics in Illustrator. [Learn the basics](learn-the-basics.md).
+- Open when looking up Manage workspaces in Illustrator. [Manage workspaces](manage-workspaces.md).
+- Open when looking up Manage workspaces in Illustrator. [Manage workspaces references](manage-workspaces/reference-index.md).
+- Open when looking up Modify workspaces in Illustrator. [Modify workspaces](modify-workspaces.md).
+- Open when looking up Modify workspaces in Illustrator. [Modify workspaces references](modify-workspaces/reference-index.md).
+- Open when looking up Properties panel overview in Illustrator. [Properties panel overview](properties-panel-overview.md).
+- Open when looking up Properties panel overview in Illustrator. [Properties panel overview references](properties-panel-overview/reference-index.md).
+- Open when looking up Set properties with precise values in Illustrator. [Set properties with precise values](set-properties-with-precise-values.md).
+- Open when looking up Set properties with precise values in Illustrator. [Set properties with precise values references](set-properties-with-precise-values/reference-index.md).
+- Open when looking up Show or hide the homescreen in Illustrator. [Show or hide the homescreen](show-or-hide-the-homescreen.md).
+- Open when looking up Supported file formats in Illustrator. [Supported file formats](supported-file-formats.md).
+- Open when looking up Switch between the workspace and the homescreen in Illustrator. [Switch between the workspace and the homescreen](switch-between-the-workspace-and-the-homescreen.md).
+- Open when looking up Switch between the workspace and the homescreen in Illustrator. [Switch between the workspace and the homescreen references](switch-between-the-workspace-and-the-homescreen/reference-index.md).
+- Open when looking up Workspace overview in Illustrator. [Workspace overview](workspace-overview.md).
+- Open when looking up Workspace overview in Illustrator. [Workspace overview references](workspace-overview/reference-index.md).

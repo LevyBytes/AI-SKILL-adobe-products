@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "buttonPreferences", "file": "references/document-model/document/button-preferences.md", "summary": "Open when looking up buttonPreferences in InDesign.", "keywords": ["buttonPreferences"]},
+  {"topic": "buttons", "file": "references/document-model/document/buttons.md", "summary": "Open when looking up buttons in InDesign.", "keywords": ["buttons"]},
+  {"topic": "checkBoxes", "file": "references/document-model/document/check-boxes.md", "summary": "Open when looking up checkBoxes in InDesign.", "keywords": ["checkBoxes"]},
+  {"topic": "comboBoxes", "file": "references/document-model/document/combo-boxes.md", "summary": "Open when looking up comboBoxes in InDesign.", "keywords": ["comboBoxes"]},
+  {"topic": "formFields", "file": "references/document-model/document/form-fields.md", "summary": "Open when looking up formFields in InDesign.", "keywords": ["formFields"]},
+  {"topic": "listBoxes", "file": "references/document-model/document/list-boxes.md", "summary": "Open when looking up listBoxes in InDesign.", "keywords": ["listBoxes"]},
+  {"topic": "multiStateObjects", "file": "references/document-model/document/multi-state-objects.md", "summary": "Open when looking up multiStateObjects in InDesign.", "keywords": ["multiStateObjects"]},
+  {"topic": "radioButtons", "file": "references/document-model/document/radio-buttons.md", "summary": "Open when looking up radioButtons in InDesign.", "keywords": ["radioButtons"]},
+  {"topic": "resetAllButtons", "file": "references/document-model/document/reset-all-buttons.md", "summary": "Open when looking up resetAllButtons in InDesign.", "keywords": ["resetAllButtons"]},
+  {"topic": "resetAllMultiStateObjects", "file": "references/document-model/document/reset-all-multi-state-objects.md", "summary": "Open when looking up resetAllMultiStateObjects in InDesign.", "keywords": ["resetAllMultiStateObjects"]},
+  {"topic": "signatureFields", "file": "references/document-model/document/signature-fields.md", "summary": "Open when looking up signatureFields in InDesign.", "keywords": ["signatureFields"]},
+  {"topic": "textBoxes", "file": "references/document-model/document/text-boxes.md", "summary": "Open when looking up textBoxes in InDesign.", "keywords": ["textBoxes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

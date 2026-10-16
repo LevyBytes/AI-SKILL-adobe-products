@@ -1,0 +1,33 @@
+# InDesign — Chinese, Japanese, and Korean
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About Mojikumi and Yakumono in Japanese layout in InDesign. [About Mojikumi and Yakumono in Japanese layout](about-mojikumi-and-yakumono-in-japanese-layout.md).
+- Open when looking up About Mojikumi and Yakumono in Japanese layout in InDesign. [About Mojikumi and Yakumono in Japanese layout references](about-mojikumi-and-yakumono-in-japanese-layout/reference-index.md).
+- Open when looking up Add and format Ruby text annotations in InDesign. [Add and format Ruby text annotations](add-and-format-ruby-text-annotations.md).
+- Open when looking up Add and format Ruby text annotations in InDesign. [Add and format Ruby text annotations references](add-and-format-ruby-text-annotations/reference-index.md).
+- Open when looking up Add and update Warichu options in InDesign. [Add and update Warichu options](add-and-update-warichu-options.md).
+- Open when looking up Add and update Warichu options in InDesign. [Add and update Warichu options references](add-and-update-warichu-options/reference-index.md).
+- Open when looking up Adjust aki before and after characters in InDesign. [Adjust aki before and after characters](adjust-aki-before-and-after-characters.md).
+- Open when looking up Adjust spacing around Japanese punctuation in InDesign. [Adjust spacing around Japanese punctuation](adjust-spacing-around-japanese-punctuation.md).
+- Open when looking up Adjust spacing around Japanese punctuation in InDesign. [Adjust spacing around Japanese punctuation references](adjust-spacing-around-japanese-punctuation/reference-index.md).
+- Open when looking up Apply Kenten to text in InDesign. [Apply Kenten to text](apply-kenten-to-text.md).
+- Open when looking up Apply Kenten to text in InDesign. [Apply Kenten to text references](apply-kenten-to-text/reference-index.md).
+- Open when looking up Apply Shatai to text in InDesign. [Apply Shatai to text](apply-shatai-to-text.md).
+- Open when looking up Apply Tate‑chu‑yoko in vertical text in InDesign. [Apply Tate‑chu‑yoko in vertical text](apply-tate-chu-yoko-in-vertical-text.md).
+- Open when looking up Apply Tate‑chu‑yoko in vertical text in InDesign. [Apply Tate‑chu‑yoko in vertical text references](apply-tate-chu-yoko-in-vertical-text/reference-index.md).
+- Open when looking up Apply Yakumono character types in layout in InDesign. [Apply Yakumono character types in layout](apply-yakumono-character-types-in-layout.md).
+- Open when looking up Apply Yakumono character types in layout in InDesign. [Apply Yakumono character types in layout references](apply-yakumono-character-types-in-layout/reference-index.md).
+- Open when looking up Customize Mojikumi spacing sets in InDesign. [Customize Mojikumi spacing sets](customize-mojikumi-spacing-sets.md).
+- Open when looking up Customize Mojikumi spacing sets in InDesign. [Customize Mojikumi spacing sets references](customize-mojikumi-spacing-sets/reference-index.md).
+- Open when looking up Format CJK text in InDesign. [Format CJK text](format-cjk-text.md).
+- Open when looking up Format CJK text in InDesign. [Format CJK text references](format-cjk-text/reference-index.md).
+- Open when looking up Rotate characters in East Asian text in InDesign. [Rotate characters in East Asian text](rotate-characters-in-east-asian-text.md).
+- Open when looking up Rotate characters in East Asian text in InDesign. [Rotate characters in East Asian text references](rotate-characters-in-east-asian-text/reference-index.md).
+- Open when looking up Set Character Alignment for East Asian text in InDesign. [Set Character Alignment for East Asian text](set-character-alignment-for-east-asian-text.md).
+- Open when looking up Set Gyoudori for Japanese text in InDesign. [Set Gyoudori for Japanese text](set-gyoudori-for-japanese-text.md).
+- Open when looking up Set spacing priorities in Mojikumi character classes in InDesign. [Set spacing priorities in Mojikumi character classes](set-spacing-priorities-in-mojikumi-character-classes.md).
+- Open when looking up Set spacing priorities in Mojikumi character classes in InDesign. [Set spacing priorities in Mojikumi character classes references](mojikumi-spacing-priorities/reference-index.md).
+- Open when looking up Spacing classes and Yakumono types in InDesign. [Spacing classes and Yakumono types](spacing-classes-and-yakumono-types.md).
+- Open when looking up Spacing classes and Yakumono types in InDesign. [Spacing classes and Yakumono types references](spacing-classes-and-yakumono-types/reference-index.md).
+- Open when looking up Use Kinsoku settings in InDesign. [Use Kinsoku settings](use-kinsoku-settings.md).
+- Open when looking up Use Kinsoku settings in InDesign. [Use Kinsoku settings references](use-kinsoku-settings/reference-index.md).

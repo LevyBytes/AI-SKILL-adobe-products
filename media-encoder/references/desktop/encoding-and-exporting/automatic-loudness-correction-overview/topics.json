@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "Automatic loudness correction — Applying loudness correction", "file": "references/desktop/encoding-and-exporting/automatic-loudness-correction-overview/automatic-loudness-correction-applying-loudness-correction.md", "summary": "Open when looking up Automatic loudness correction — Applying loudness correction in Media Encoder.", "keywords": ["Automatic loudness correction — Applying loudness correction"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

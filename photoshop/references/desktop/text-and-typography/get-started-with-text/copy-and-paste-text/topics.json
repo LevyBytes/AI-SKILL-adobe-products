@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Copy and paste text from another Photoshop file", "file": "references/desktop/text-and-typography/get-started-with-text/copy-and-paste-text/copy-and-paste-text-from-another-photoshop-file.md", "summary": "Open when looking up Copy and paste text from another Photoshop file in Photoshop.", "keywords": ["Copy and paste text from another Photoshop file"]},
+  {"topic": "Copy and paste text from any source file", "file": "references/desktop/text-and-typography/get-started-with-text/copy-and-paste-text/copy-and-paste-text-from-any-source-file.md", "summary": "Open when looking up Copy and paste text from any source file in Photoshop.", "keywords": ["Copy and paste text from any source file"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

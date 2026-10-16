@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Resize an image in the Edit tab with Generative expand.", "file": "references/web/work-with-images/edit-images/expand-images/resize-an-image-in-the-edit-tab-with-generative-expand.md", "summary": "Open when looking up Resize an image in the Edit tab with Generative expand. in Firefly.", "keywords": ["Resize an image in the Edit tab with Generative expand."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

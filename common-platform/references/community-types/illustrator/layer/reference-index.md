@@ -1,0 +1,36 @@
+# Shared Adobe platform — Layer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Layer declaration in Shared Adobe platform. [Layer declaration](declaration.md).
+- Open when looking up Layer identity and parent in Shared Adobe platform. [Layer identity and parent](identity-and-parent.md).
+- Open when looking up Layer object lifecycle in Shared Adobe platform. [Layer object lifecycle](object-lifecycle.md).
+- Open when looking up Layer.absoluteZOrderPosition in Shared Adobe platform. [Layer.absoluteZOrderPosition](absolute-z-order-position.md).
+- Open when looking up Layer.artworkKnockout in Shared Adobe platform. [Layer.artworkKnockout](artwork-knockout.md).
+- Open when looking up Layer.blendingMode in Shared Adobe platform. [Layer.blendingMode](blending-mode.md).
+- Open when looking up Layer.color in Shared Adobe platform. [Layer.color](color.md).
+- Open when looking up Layer.compoundPathItems in Shared Adobe platform. [Layer.compoundPathItems](compound-path-items.md).
+- Open when looking up Layer.dimPlacedImages in Shared Adobe platform. [Layer.dimPlacedImages](dim-placed-images.md).
+- Open when looking up Layer.graphItems in Shared Adobe platform. [Layer.graphItems](graph-items.md).
+- Open when looking up Layer.groupItems in Shared Adobe platform. [Layer.groupItems](group-items.md).
+- Open when looking up Layer.hasSelectedArtwork in Shared Adobe platform. [Layer.hasSelectedArtwork](has-selected-artwork.md).
+- Open when looking up Layer.isIsolated in Shared Adobe platform. [Layer.isIsolated](is-isolated.md).
+- Open when looking up Layer.layers in Shared Adobe platform. [Layer.layers](layers.md).
+- Open when looking up Layer.legacyTextItems in Shared Adobe platform. [Layer.legacyTextItems](legacy-text-items.md).
+- Open when looking up Layer.locked in Shared Adobe platform. [Layer.locked](locked.md).
+- Open when looking up Layer.meshItems in Shared Adobe platform. [Layer.meshItems](mesh-items.md).
+- Open when looking up Layer.nonNativeItems in Shared Adobe platform. [Layer.nonNativeItems](non-native-items.md).
+- Open when looking up Layer.opacity in Shared Adobe platform. [Layer.opacity](opacity.md).
+- Open when looking up Layer.pageItems in Shared Adobe platform. [Layer.pageItems](page-items.md).
+- Open when looking up Layer.pathItems in Shared Adobe platform. [Layer.pathItems](path-items.md).
+- Open when looking up Layer.placedItems in Shared Adobe platform. [Layer.placedItems](placed-items.md).
+- Open when looking up Layer.pluginItems in Shared Adobe platform. [Layer.pluginItems](plugin-items.md).
+- Open when looking up Layer.preview in Shared Adobe platform. [Layer.preview](preview.md).
+- Open when looking up Layer.printable in Shared Adobe platform. [Layer.printable](printable.md).
+- Open when looking up Layer.rasterItems in Shared Adobe platform. [Layer.rasterItems](raster-items.md).
+- Open when looking up Layer.removeAll in Shared Adobe platform. [Layer.removeAll](remove-all.md).
+- Open when looking up Layer.sliced in Shared Adobe platform. [Layer.sliced](sliced.md).
+- Open when looking up Layer.symbolItems in Shared Adobe platform. [Layer.symbolItems](symbol-items.md).
+- Open when looking up Layer.textFrames in Shared Adobe platform. [Layer.textFrames](text-frames.md).
+- Open when looking up Layer.visible in Shared Adobe platform. [Layer.visible](visible.md).
+- Open when looking up Layer.zOrder in Shared Adobe platform. [Layer.zOrder](z-order.md).
+- Open when looking up Layer.zOrderPosition in Shared Adobe platform. [Layer.zOrderPosition](z-order-position.md).

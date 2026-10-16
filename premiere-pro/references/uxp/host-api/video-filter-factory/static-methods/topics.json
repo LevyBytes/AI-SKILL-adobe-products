@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "createComponent", "file": "references/uxp/host-api/video-filter-factory/static-methods/create-component.md", "summary": "Open when looking up createComponent in Premiere Pro.", "keywords": ["createComponent"]},
+  {"topic": "getDisplayNames", "file": "references/uxp/host-api/video-filter-factory/static-methods/get-display-names.md", "summary": "Open when looking up getDisplayNames in Premiere Pro.", "keywords": ["getDisplayNames"]},
+  {"topic": "getMatchNames", "file": "references/uxp/host-api/video-filter-factory/static-methods/get-match-names.md", "summary": "Open when looking up getMatchNames in Premiere Pro.", "keywords": ["getMatchNames"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

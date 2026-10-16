@@ -1,0 +1,49 @@
+# Premiere Pro — Css
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ::after in Premiere Pro. [::after](after.md).
+- Open when looking up ::before in Premiere Pro. [::before](before.md).
+- Open when looking up :active in Premiere Pro. [:active](active.md).
+- Open when looking up :active in Premiere Pro. [:active references](active/reference-index.md).
+- Open when looking up :checked in Premiere Pro. [:checked](checked.md).
+- Open when looking up :checked in Premiere Pro. [:checked references](checked/reference-index.md).
+- Open when looking up :defined in Premiere Pro. [:defined](defined.md).
+- Open when looking up :defined in Premiere Pro. [:defined references](defined/reference-index.md).
+- Open when looking up :disabled in Premiere Pro. [:disabled](disabled.md).
+- Open when looking up :disabled in Premiere Pro. [:disabled references](disabled/reference-index.md).
+- Open when looking up :empty in Premiere Pro. [:empty](empty.md).
+- Open when looking up :enabled in Premiere Pro. [:enabled](enabled.md).
+- Open when looking up :enabled in Premiere Pro. [:enabled references](enabled/reference-index.md).
+- Open when looking up :first-child in Premiere Pro. [:first-child](first-child.md).
+- Open when looking up :focus in Premiere Pro. [:focus](focus.md).
+- Open when looking up :focus in Premiere Pro. [:focus references](focus/reference-index.md).
+- Open when looking up :hover in Premiere Pro. [:hover](hover.md).
+- Open when looking up :last-child in Premiere Pro. [:last-child](last-child.md).
+- Open when looking up :nth-child in Premiere Pro. [:nth-child](nth-child.md).
+- Open when looking up :nth-last-child in Premiere Pro. [:nth-last-child](nth-last-child.md).
+- Open when looking up :nth-last-of-type in Premiere Pro. [:nth-last-of-type](nth-last-of-type.md).
+- Open when looking up :nth-of-type in Premiere Pro. [:nth-of-type](nth-of-type.md).
+- Open when looking up :only-child in Premiere Pro. [:only-child](only-child.md).
+- Open when looking up :root in Premiere Pro. [:root](root.md).
+- Open when looking up Adjacent Sibling combinator in Premiere Pro. [Adjacent Sibling combinator](adjacent-sibling-combinator.md).
+- Open when looking up Attribute selector in Premiere Pro. [Attribute selector](attribute-selector.md).
+- Open when looking up calc in Premiere Pro. [calc](calc.md).
+- Open when looking up calc in Premiere Pro. [calc references](calc/reference-index.md).
+- Open when looking up Child combinator in Premiere Pro. [Child combinator](child-combinator.md).
+- Open when looking up Class selector in Premiere Pro. [Class selector](class-selector.md).
+- Open when looking up CSS Reference in Premiere Pro. [CSS Reference](css-reference.md).
+- Open when looking up CSS Reference in Premiere Pro. [CSS Reference references](css-reference/reference-index.md).
+- Open when looking up CSS Units in Premiere Pro. [CSS Units](css-units.md).
+- Open when looking up CSS Variables in Premiere Pro. [CSS Variables](css-variables.md).
+- Open when looking up Descendant combinator in Premiere Pro. [Descendant combinator](descendant-combinator.md).
+- Open when looking up General in Premiere Pro. [General](css-feature-overview.md).
+- Open when looking up General Sibling combinator in Premiere Pro. [General Sibling combinator](general-sibling-combinator.md).
+- Open when looking up Identifier selector in Premiere Pro. [Identifier selector](identifier-selector.md).
+- Open when looking up Media Queries in Premiere Pro. [Media Queries](media-queries.md).
+- Open when looking up Media Queries in Premiere Pro. [Media Queries references](media-queries/reference-index.md).
+- Open when looking up Properties in Premiere Pro. [Properties references](properties/reference-index.md).
+- Open when looking up Pseudo-classes in Premiere Pro. [Pseudo-classes](pseudo-classes.md).
+- Open when looking up Pseudo-elements in Premiere Pro. [Pseudo-elements](pseudo-elements.md).
+- Open when looking up Selectors in Premiere Pro. [Selectors](selectors.md).
+- Open when looking up Type selector in Premiere Pro. [Type selector](type-selector.md).
+- Open when looking up Universal selector in Premiere Pro. [Universal selector](universal-selector.md).

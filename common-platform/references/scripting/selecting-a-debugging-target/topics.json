@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Debugging in the Toolkit — Selecting a debugging target", "file": "references/scripting/selecting-a-debugging-target/debugging-in-the-toolkit-selecting-a-debugging-target.md", "summary": "Open when looking up Debugging in the Toolkit — Selecting a debugging target in Shared Adobe platform.", "keywords": ["Debugging in the Toolkit — Selecting a debugging target"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

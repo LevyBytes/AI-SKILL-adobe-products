@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Navigate timelines with Sequence Index", "file": "references/desktop/edit-projects/timeline-navigation/navigate-timelines-with-sequence-index.md", "summary": "Open when looking up Navigate timelines with Sequence Index in Premiere Pro.", "keywords": ["Navigate timelines with Sequence Index"]},
+  {"topic": "Navigate timelines with Sequence Index references", "file": "references/desktop/edit-projects/timeline-navigation/navigate-timelines-with-sequence-index/reference-index.md", "summary": "Open when looking up Navigate timelines with Sequence Index in Premiere Pro.", "keywords": ["Navigate timelines with Sequence Index references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

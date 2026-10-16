@@ -1,0 +1,29 @@
+# Premiere Pro — Import files
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Audio conforming specifications in Premiere Pro. [Audio conforming specifications](audio-conforming-specifications.md).
+- Open when looking up Audio conforming specifications in Premiere Pro. [Audio conforming specifications references](audio-conforming-specifications/reference-index.md).
+- Open when looking up Audio sample rates in Premiere in Premiere Pro. [Audio sample rates in Premiere](audio-sample-rates-in-premiere.md).
+- Open when looking up Audio sample rates in Premiere in Premiere Pro. [Audio sample rates in Premiere references](audio-sample-rates-in-premiere/reference-index.md).
+- Open when looking up Import a Premiere Elements project in Premiere Pro. [Import a Premiere Elements project](import-a-premiere-elements-project.md).
+- Open when looking up Import and export presets in Premiere Pro. [Import and export presets](import-and-export-presets.md).
+- Open when looking up Import and export presets in Premiere Pro. [Import and export presets references](import-and-export-presets/reference-index.md).
+- Open when looking up Import Avid Media Composer project files in Premiere Pro. [Import Avid Media Composer project files](import-avid-media-composer-project-files.md).
+- Open when looking up Import images as an image sequence in Premiere Pro. [Import images as an image sequence](import-images-as-an-image-sequence.md).
+- Open when looking up Import media from Firefly Boards to Premiere on desktop in Premiere Pro. [Import media from Firefly Boards to Premiere on desktop](import-media-from-firefly-boards-to-premiere-on-desktop.md).
+- Open when looking up Import media from Firefly Boards to Premiere on desktop in Premiere Pro. [Import media from Firefly Boards to Premiere on desktop references](import-media-from-firefly-boards-to-premiere-on-desktop/reference-index.md).
+- Open when looking up Import media from Firefly to Premiere on desktop in Premiere Pro. [Import media from Firefly to Premiere on desktop](import-media-from-firefly-to-premiere-on-desktop.md).
+- Open when looking up Import projects as project shortcuts in Premiere Pro. [Import projects as project shortcuts](import-projects-as-project-shortcuts.md).
+- Open when looking up Import still images in Premiere Pro. [Import still images](import-still-images.md).
+- Open when looking up Import still images in Premiere Pro. [Import still images references](import-still-images/reference-index.md).
+- Open when looking up Import XML files from Final Cut Pro X in Premiere Pro. [Import XML files from Final Cut Pro X](import-xml-files-from-final-cut-pro-x.md).
+- Open when looking up Import XML files from Final Cut Pro X in Premiere Pro. [Import XML files from Final Cut Pro X references](import-xml-files-from-final-cut-pro-x/reference-index.md).
+- Open when looking up Importing digital audio in Premiere Pro. [Importing digital audio](importing-digital-audio.md).
+- Open when looking up Importing digital audio in Premiere Pro. [Importing digital audio references](importing-digital-audio/reference-index.md).
+- Open when looking up Record a voice-over on an audio track from the Timeline in Premiere Pro. [Record a voice-over on an audio track from the Timeline](record-a-voice-over-on-an-audio-track-from-the-timeline.md).
+- Open when looking up Record audio in Premiere Pro. [Record audio](record-audio.md).
+- Open when looking up Record audio in Premiere Pro. [Record audio references](record-audio/reference-index.md).
+- Open when looking up Record audio using the Audio Track Mixer in Premiere Pro. [Record audio using the Audio Track Mixer](record-audio-using-the-audio-track-mixer.md).
+- Open when looking up Resize imported images in Premiere Pro. [Resize imported images](resize-imported-images.md).
+- Open when looking up Supported file formats in Premiere Pro. [Supported file formats](supported-file-formats.md).
+- Open when looking up Supported file formats in Premiere Pro. [Supported file formats references](supported-file-formats/reference-index.md).

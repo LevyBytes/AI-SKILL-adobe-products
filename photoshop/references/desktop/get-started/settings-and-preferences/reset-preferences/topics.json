@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Manually reset preferences", "file": "references/desktop/get-started/settings-and-preferences/reset-preferences/manually-reset-preferences.md", "summary": "Open when looking up Manually reset preferences in Photoshop.", "keywords": ["Manually reset preferences"]},
+  {"topic": "Reset preferences using keyboard shortcut", "file": "references/desktop/get-started/settings-and-preferences/reset-preferences/reset-preferences-using-keyboard-shortcut.md", "summary": "Open when looking up Reset preferences using keyboard shortcut in Photoshop.", "keywords": ["Reset preferences using keyboard shortcut"]},
+  {"topic": "Reset preferences using the Preferences panel", "file": "references/desktop/get-started/settings-and-preferences/reset-preferences/reset-preferences-using-the-preferences-panel.md", "summary": "Open when looking up Reset preferences using the Preferences panel in Photoshop.", "keywords": ["Reset preferences using the Preferences panel"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Authentication of organizational policies", "file": "references/desktop/protect-documents/manage-security-policies/server-based-security-policies-overview/authentication-of-organizational-policies.md", "summary": "Open when looking up Authentication of organizational policies in Acrobat.", "keywords": ["Authentication of organizational policies"]},
+  {"topic": "Stages of server-based security policies", "file": "references/desktop/protect-documents/manage-security-policies/server-based-security-policies-overview/stages-of-server-based-security-policies.md", "summary": "Open when looking up Stages of server-based security policies in Acrobat.", "keywords": ["Stages of server-based security policies"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

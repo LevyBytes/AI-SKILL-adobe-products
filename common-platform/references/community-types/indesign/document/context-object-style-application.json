@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.allObjectStyles", "file": "references/community-types/indesign/document/all-object-styles.md", "summary": "Open when looking up Document.allObjectStyles in Shared Adobe platform.", "keywords": ["Document.allObjectStyles"]},
+  {"topic": "Document.objectStyleGroups", "file": "references/community-types/indesign/document/object-style-groups.md", "summary": "Open when looking up Document.objectStyleGroups in Shared Adobe platform.", "keywords": ["Document.objectStyleGroups"]},
+  {"topic": "Document.objectStyles", "file": "references/community-types/indesign/document/object-styles.md", "summary": "Open when looking up Document.objectStyles in Shared Adobe platform.", "keywords": ["Document.objectStyles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

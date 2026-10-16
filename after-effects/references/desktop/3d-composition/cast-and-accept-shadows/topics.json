@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Cast and accept shadows", "file": "references/desktop/3d-composition/cast-and-accept-shadows/cast-and-accept-shadows.md", "summary": "Open when looking up Cast and accept shadows in After Effects.", "keywords": ["Cast and accept shadows"]},
+  {"topic": "Enable lights to cast shadows", "file": "references/desktop/3d-composition/cast-and-accept-shadows/enable-lights-to-cast-shadows.md", "summary": "Open when looking up Enable lights to cast shadows in After Effects.", "keywords": ["Enable lights to cast shadows"]},
+  {"topic": "Shadow catchers", "file": "references/desktop/3d-composition/cast-and-accept-shadows/shadow-catchers.md", "summary": "Open when looking up Shadow catchers in After Effects.", "keywords": ["Shadow catchers"]},
+  {"topic": "Shadow catchers references", "file": "references/desktop/3d-composition/cast-and-accept-shadows/shadow-catchers/reference-index.md", "summary": "Open when looking up Shadow catchers in After Effects.", "keywords": ["Shadow catchers references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

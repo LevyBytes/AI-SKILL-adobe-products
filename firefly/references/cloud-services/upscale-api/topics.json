@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "What can the Upscale API do?", "file": "references/cloud-services/upscale-api/what-can-the-upscale-api-do.md", "summary": "Open when looking up What can the Upscale API do? in Firefly.", "keywords": ["What can the Upscale API do?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

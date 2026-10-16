@@ -1,0 +1,43 @@
+# `PF_InData`
+
+System, project, layer, and audio details are relayed from After Effects by way of `PF_InData`. Ahead of each command selector reaching a plug-in, this structure gets refreshed.
+
+Where a field only carries valid data during particular `PF_Cmds`, that's called out.
+
+And relax — `PF_InData` may look intimidatingly big, but committing every member's role to memory isn't necessary; only some of the fields will matter to you, and only some of the time.
+
+### `PF_InData` — `PF_InData` Members
+
+| Name | Description |
+| --- | --- |
+| `inter` | Callbacks covering user interaction, parameter addition, testing whether the user has interrupted the effect, showing a progress bar, and fetching source frames and parameter values at times apart from the one currently rendering. This thoroughly handy suite is covered in Interaction Callback Functions. |
+| `utils` | Callbacks for graphics and math. This pointer holds a value at every moment. |
+| `effect_ref` | Opaque data that has to be handed to most of the assorted callback routines. After Effects relies on it to recognize your plug-in. |
+| `quality` | Whichever quality is in force at the moment, either `PF_Quality_HI` or `PF_Quality_LO`. Effects ought to run quicker under LO and with greater precision under HI. Because the graphics utility callbacks behave differently across LO and HI quality, your effect should too. Every frame and sequence selector defines this field. |
+| `version` | Effects specification version. State the version you require to run properly during `PF_Cmd_GLOBAL_SETUP`. |
+| `serial_num` | The invoking application's serial number. |
+| `appl_id` | The invoking application's identifier. When After Effects hosts your plug-in, appl_id holds the application creator code 'FXTC'. Under Premiere Pro & Other Hosts it is 'PrMr' instead. Use it to check whether a plug-in licensed for one application is being run under another. |
+| `num_params` | Count of input parameters. |
+| `what_cpu` | On macOS this holds the Gestalt value identifying the CPU type (consult Inside Macintosh, volume 6). On Windows it has no defined value. |
+| `what_fpu` | On macOS this holds the Gestalt value identifying the FPU type. On Windows it has no defined value. |
+| `current_time` | Time of the frame currently rendering, valid throughout `PF_Cmd_RENDER`. This is current time within the layer rather than within any composition. Should a layer be time-stretched, or start at some point that isn't time 0, the layer's time parts ways with the composition's. Dividing current_time by time_step yields the current frame number. Dividing current_time by time_scale yields the current time in seconds. To cope with time stretching, shifts in composition frame rate, and time remapping, After Effects can request renders at non-integral times — partway between two frames. Stay ready for that; never take for granted that requests land only on frame boundaries.<br><br>Note<br><br>Since CS3 (8.0), a request to render at a negative current time is possible for effects. Deal! |
+| `time_step` | How long the source frame currently rendering lasts. Across several nested-composition cases, this source-frame duration can differ from the gap between frames in the layer (local_time_step). Divide by time_scale to express it in seconds. When you compute other source-frame times, such as for `PF_CHECKOUT_PARAM`, rely on this value in place of local_time_step. A time-reversed layer can make it negative. Time remapping on a nested composition can make it shift from one frame to the next. Stretched or remapped source material inside a nested composition can make it differ from local_time_step. As an illustration, that might arise where an inner composition sits within an outer one running at a different frame rate, or where time remapping applies to the outer composition. During `PF_Cmd_SEQUENCE_SETUP` this value reads 0 if it isn't constant across all frames. The `PF_Cmd_FRAME_SETUP` and `PF_Cmd_FRAME_SETDOWN` selectors set it properly.<br><br>Warning<br><br>Since it can be zero, test it ahead of dividing. |
+| `total_time` | How long the layer lasts. A layer time-stretched beyond 100% has the value adjusted to suit; a layer stretched shorter leaves the value untouched. With time remapping switched on, this becomes the composition's duration. Divide by time_scale to express it in seconds. |
+| `local_time_step` | The time gap separating frames in the layer. Any time stretch on a layer affects it. A time-reversed layer can make it negative. In contrast to time_step, it stays constant across consecutive frames. Divide by time_scale to express it in seconds. For a step value that holds steady over the whole frame range of the layer, use local_time_step, which derives from the composition's framerate together with layer stretch. |
+| `time_scale` | The number of units per second in which current_time, time_step, local_time_step and total_time are expressed. Where time_scale equals 30, those four values are counted in 30ths of a second. A time_step of 3 in that case would mean the sequence is in fact rendering at 10 frames per second. A total_time of 105 would mean the sequence runs 3.5 seconds. |
+| `field` | Valid solely when `PF_OutFlag_PIX_INDEPENDENT` was turned on during `PF_Cmd_GLOBAL_SETUP`. Inspect this field to learn whether processing just the upper or just the lower field is an option. |
+| `shutter_angle` | The shutter angle for motion blur. The range runs 0 to 1, standing for 360 degrees. It reads zero unless motion blur is both enabled and checked for the layer in question. A shutter angle of 180 degrees denotes the span between current_time and current_time + 1/2 time_step. Valid solely when `PF_OutFlag_I_USE_SHUTTER_ANGLE` was turned on during `PF_Cmd_GLOBAL_SETUP`. Consult the Motion Blur section for how to build motion blur into your effect. |
+| `width`, `height` | Size of the source layer, which need not equal the width and height fields of the input image parameter. That gap can come from buffer-resizing effects. Downsampling leaves it unaffected. |
+| `extent_hint` | Where the visible parts of the input and output layers overlap; it bounds the composition rectangle once that's transformed into layer coordinates. Looping over only this rectangle of pixels can accelerate your effect dramatically. Consult extent_hint Usage later in this chapter on using it correctly. |
+| `output_origin_x`, `output_origin_y` | Where the output buffer sits within the input buffer. It's non-zero only when the effect moves the origin. |
+| `downsample_x`, `downsample_y` | So that a user can tell After Effects to render just every nth pixel, point control parameters and layer parameter dimensions get adjusted automatically. Effects require the downsampling factors in order to read scalar parameters that stand for pixel distances within the image, such as sliders. A 4-pixel blur, for instance, should read as a 2-pixel blur when the downsample factor is 1/2 along each axis (downsample factors take the form of ratios). Valid only during: - `PF_Cmd_SEQUENCE_SETUP` - `PF_Cmd_SEQUENCE_RESETUP` - `PF_Cmd_FRAME_SETUP` - `PF_Cmd_RENDER` |
+| `pixel_aspect_ratio` | The pixel aspect ratio, that is width divided by height. |
+| `in_flags` | Unused. |
+| `global_data`, `sequence_data`, `frame_data` | Data your plug-in stored under other selectors. After Effects locks it before calling the plug-in and unlocks it afterward. |
+| `start_sampL` | The starting sample number, measured from the start of the audio layer. |
+| `dur_sampL` | How long the audio runs, given as a sample count. Audio-specific. |
+| `total_sampL` | The number of samples in the audio layer; the same as total_time stated in samples. |
+| `src_snd` | A `PF_SoundWorld` describing the incoming sound. Audio-specific. |
+| `pica_basicP` | A pointer to the PICA Basic suite, which is used to obtain other suites. |
+| `pre_effect_source_origin_x`, `pre_effect_source_origin_y` | Where the source image originates within the input buffer. Valid only when delivered with a frame selector. It's non-zero only when one or more effects ahead of this one on the same layer resized the output buffer and shifted the origin. Test for both the resize and the new origin to work out the output area. This helps effects that carry implicit spatial operations beyond point controls — flipping a file about an image's center, for one.<br><br>Note<br><br>Checked-out point parameters get adjusted for the pre-effect origin at the current time, not at the time being checked out. |
+| `shutter_phase` | The offset from frame time to the moment the shutter opens, given as a percentage of one frame's duration. |

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Views.index()", "file": "references/scripting/views/index.md", "summary": "Open when looking up Views.index() in Illustrator.", "keywords": ["Views.index()"]},
+  {"topic": "Views.length", "file": "references/scripting/views/length.md", "summary": "Open when looking up Views.length in Illustrator.", "keywords": ["Views.length"]},
+  {"topic": "Views.parent", "file": "references/scripting/views/parent.md", "summary": "Open when looking up Views.parent in Illustrator.", "keywords": ["Views.parent"]},
+  {"topic": "Views.typename", "file": "references/scripting/views/typename.md", "summary": "Open when looking up Views.typename in Illustrator.", "keywords": ["Views.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

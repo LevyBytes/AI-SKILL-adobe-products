@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Delete all unused styles", "file": "references/desktop/text-formatting/text-styles/delete-text-styles/delete-all-unused-styles.md", "summary": "Open when looking up Delete all unused styles in InDesign.", "keywords": ["Delete all unused styles"]},
+  {"topic": "Delete individual styles", "file": "references/desktop/text-formatting/text-styles/delete-text-styles/delete-individual-styles.md", "summary": "Open when looking up Delete individual styles in InDesign.", "keywords": ["Delete individual styles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

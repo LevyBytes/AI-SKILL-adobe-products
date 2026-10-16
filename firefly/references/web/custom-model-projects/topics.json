@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Create a custom model and save it in a project for easier management.", "file": "references/web/custom-model-projects/custom-model-project-management.md", "summary": "Open when looking up Create a custom model and save it in a project for easier management. in Firefly.", "keywords": ["Create a custom model and save it in a project for easier management."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

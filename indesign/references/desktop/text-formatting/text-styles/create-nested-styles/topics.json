@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create nested line styles", "file": "references/desktop/text-formatting/text-styles/create-nested-styles/create-nested-line-styles.md", "summary": "Open when looking up Create nested line styles in InDesign.", "keywords": ["Create nested line styles"]},
+  {"topic": "Create one or more nested styles", "file": "references/desktop/text-formatting/text-styles/create-nested-styles/create-one-or-more-nested-styles.md", "summary": "Open when looking up Create one or more nested styles in InDesign.", "keywords": ["Create one or more nested styles"]},
+  {"topic": "Loop through nested styles", "file": "references/desktop/text-formatting/text-styles/create-nested-styles/loop-through-nested-styles.md", "summary": "Open when looking up Loop through nested styles in InDesign.", "keywords": ["Loop through nested styles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

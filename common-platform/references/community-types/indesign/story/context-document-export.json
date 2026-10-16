@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Story.asynchronousExportFile", "file": "references/community-types/indesign/story/asynchronous-export-file.md", "summary": "Open when looking up Story.asynchronousExportFile in Shared Adobe platform.", "keywords": ["Story.asynchronousExportFile"]},
+  {"topic": "Story.exportFile", "file": "references/community-types/indesign/story/export-file.md", "summary": "Open when looking up Story.exportFile in Shared Adobe platform.", "keywords": ["Story.exportFile"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

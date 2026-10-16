@@ -1,0 +1,6 @@
+# PlayerInfoList
+
+
+**Methods:**
+
+- select

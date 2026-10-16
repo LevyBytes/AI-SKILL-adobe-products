@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CEP filesystem and process APIs", "file": "references/cep/cep-12/filesystem-process-apis.md", "summary": "Open when looking up CEP filesystem and process APIs in Shared Adobe platform.", "keywords": ["CEP filesystem and process APIs"]},
+  {"topic": "CEP filesystem reading and decoding", "file": "references/cep/cep-12/filesystem-read-examples.md", "summary": "Open when looking up CEP filesystem reading and decoding in Shared Adobe platform.", "keywords": ["CEP filesystem reading and decoding"]},
+  {"topic": "CEP filesystem writing and encoding", "file": "references/cep/cep-12/filesystem-write-examples.md", "summary": "Open when looking up CEP filesystem writing and encoding in Shared Adobe platform.", "keywords": ["CEP filesystem writing and encoding"]},
+  {"topic": "Limitation of cep.process.stdout/stderr", "file": "references/cep/cep-12/limitation-of-cep-process-stdout-stderr.md", "summary": "Open when looking up Limitation of cep.process.stdout/stderr in Shared Adobe platform.", "keywords": ["Limitation of cep.process.stdout/stderr"]},
+  {"topic": "CEP native process example", "file": "references/cep/cep-12/native-process-example.md", "summary": "Open when looking up CEP native process example in Shared Adobe platform.", "keywords": ["CEP native process example"]},
+  {"topic": "Use Environment Variables", "file": "references/cep/cep-12/use-environment-variables.md", "summary": "Open when looking up Use Environment Variables in Shared Adobe platform.", "keywords": ["Use Environment Variables"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

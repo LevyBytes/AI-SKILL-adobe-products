@@ -1,0 +1,21 @@
+# Shared Adobe platform — Language
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Language declaration in Shared Adobe platform. [Language declaration](declaration.md).
+- Open when looking up Language.BRAZILLIANPORTUGUESE in Shared Adobe platform. [Language.BRAZILLIANPORTUGUESE](brazillianportuguese.md).
+- Open when looking up Language.CANADIANFRENCH in Shared Adobe platform. [Language.CANADIANFRENCH](canadianfrench.md).
+- Open when looking up Language.DANISH in Shared Adobe platform. [Language.DANISH](danish.md).
+- Open when looking up Language.DUTCH in Shared Adobe platform. [Language.DUTCH](dutch.md).
+- Open when looking up Language.ENGLISHUK in Shared Adobe platform. [Language.ENGLISHUK](englishuk.md).
+- Open when looking up Language.ENGLISHUSA in Shared Adobe platform. [Language.ENGLISHUSA](englishusa.md).
+- Open when looking up Language.FINNISH in Shared Adobe platform. [Language.FINNISH](finnish.md).
+- Open when looking up Language.FRENCH in Shared Adobe platform. [Language.FRENCH](french.md).
+- Open when looking up Language.GERMAN in Shared Adobe platform. [Language.GERMAN](german.md).
+- Open when looking up Language.ITALIAN in Shared Adobe platform. [Language.ITALIAN](italian.md).
+- Open when looking up Language.NORWEGIAN in Shared Adobe platform. [Language.NORWEGIAN](norwegian.md).
+- Open when looking up Language.NYNORSKNORWEGIAN in Shared Adobe platform. [Language.NYNORSKNORWEGIAN](nynorsknorwegian.md).
+- Open when looking up Language.OLDGERMAN in Shared Adobe platform. [Language.OLDGERMAN](oldgerman.md).
+- Open when looking up Language.PORTUGUESE in Shared Adobe platform. [Language.PORTUGUESE](portuguese.md).
+- Open when looking up Language.SPANISH in Shared Adobe platform. [Language.SPANISH](spanish.md).
+- Open when looking up Language.SWEDISH in Shared Adobe platform. [Language.SWEDISH](swedish.md).
+- Open when looking up Language.SWISSGERMAN in Shared Adobe platform. [Language.SWISSGERMAN](swissgerman.md).

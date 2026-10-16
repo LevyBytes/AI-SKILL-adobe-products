@@ -1,0 +1,24 @@
+# InCopy — Checking Spelling
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Checking spelling — Add words to dictionaries in InCopy. [Checking spelling — Add words to dictionaries](checking-spelling-add-words-to-dictionaries.md).
+- Open when looking up Checking spelling — Assign a language dictionary to selected text in InCopy. [Checking spelling — Assign a language dictionary to selected text](assign-a-language-dictionary-to-selected-text.md).
+- Open when looking up Checking spelling — Change dictionary preferences in InCopy. [Checking spelling — Change dictionary preferences](checking-spelling-change-dictionary-preferences.md).
+- Open when looking up Checking spelling — Correct spelling errors as you type in InCopy. [Checking spelling — Correct spelling errors as you type](checking-spelling-correct-spelling-errors-as-you-type.md).
+- Open when looking up Checking spelling — Create or add user dictionaries in InCopy. [Checking spelling — Create or add user dictionaries](checking-spelling-create-or-add-user-dictionaries.md).
+- Open when looking up Checking spelling — Duden dictionary in InCopy. [Checking spelling — Duden dictionary](checking-spelling-duden-dictionary.md).
+- Open when looking up Checking spelling — Export a word list in InCopy. [Checking spelling — Export a word list](checking-spelling-export-a-word-list.md).
+- Open when looking up Checking spelling — Hyphenation in InCopy. [Checking spelling — Hyphenation](checking-spelling-hyphenation.md).
+- Open when looking up Checking spelling — Hyphenation and spelling dictionaries in InCopy. [Checking spelling — Hyphenation and spelling dictionaries](checking-spelling-hyphenation-and-spelling-dictionaries.md).
+- Open when looking up Checking spelling — Import a word list in InCopy. [Checking spelling — Import a word list](checking-spelling-import-a-word-list.md).
+- Open when looking up Checking spelling — Remove or edit words in dictionaries in InCopy. [Checking spelling — Remove or edit words in dictionaries](checking-spelling-remove-or-edit-words-in-dictionaries.md).
+- Open when looking up Checking spelling — Remove, relink, and reorder user dictionaries in InCopy. [Checking spelling — Remove, relink, and reorder user dictionaries](checking-spelling-remove-relink-and-reorder-user-dictionaries.md).
+- Open when looking up Checking spelling — Scripting in InCopy. [Checking spelling — Scripting](checking-spelling-scripting.md).
+- Open when looking up Checking spelling — Set spelling preferences in InCopy. [Checking spelling — Set spelling preferences](checking-spelling-set-spelling-preferences.md).
+- Open when looking up Checking spelling — Set the default language dictionary for all new documents in InCopy. [Checking spelling — Set the default language dictionary for all new documents](set-the-default-language-dictionary-for-all-new-documents.md).
+- Open when looking up Checking spelling — Set the default language dictionary for the current document in InCopy. [Checking spelling — Set the default language dictionary for the current document](set-the-default-language-dictionary-for-the-current-document.md).
+- Open when looking up Checking spelling — Spell-check in InCopy. [Checking spelling — Spell-check](checking-spelling-spell-check.md).
+- Open when looking up Checking spelling — Use dynamic spelling in InCopy. [Checking spelling — Use dynamic spelling](checking-spelling-use-dynamic-spelling.md).
+- Open when looking up Checking spelling — Using dictionaries in a workgroup in InCopy. [Checking spelling — Using dictionaries in a workgroup](checking-spelling-using-dictionaries-in-a-workgroup.md).
+- Open when looking up Duden hyphenation styles in InCopy. [Duden hyphenation styles](duden-hyphenation-styles.md).
+- Open when looking up Duden spell-check styles in InCopy. [Duden spell-check styles](duden-spell-check-styles.md).

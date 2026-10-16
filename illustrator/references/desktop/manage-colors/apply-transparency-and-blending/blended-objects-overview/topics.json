@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Blend between objects", "file": "references/desktop/manage-colors/apply-transparency-and-blending/blended-objects-overview/blend-between-objects.md", "summary": "Open when looking up Blend between objects in Illustrator.", "keywords": ["Blend between objects"]},
+  {"topic": "Rules to blend between different objects", "file": "references/desktop/manage-colors/apply-transparency-and-blending/blended-objects-overview/rules-to-blend-between-different-objects.md", "summary": "Open when looking up Rules to blend between different objects in Illustrator.", "keywords": ["Rules to blend between different objects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

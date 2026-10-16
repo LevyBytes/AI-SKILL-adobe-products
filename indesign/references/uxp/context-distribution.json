@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Distribution Options", "file": "references/uxp/distribution-options.md", "summary": "Open when looking up Distribution Options in InDesign.", "keywords": ["Distribution Options"]},
+  {"topic": "Distribution Options references", "file": "references/uxp/distribution-options/reference-index.md", "summary": "Open when looking up Distribution Options in InDesign.", "keywords": ["Distribution Options references"]},
+  {"topic": "Packaging", "file": "references/uxp/packaging.md", "summary": "Open when looking up Packaging in InDesign.", "keywords": ["Packaging"]},
+  {"topic": "Packaging references", "file": "references/uxp/packaging/reference-index.md", "summary": "Open when looking up Packaging in InDesign.", "keywords": ["Packaging references"]},
+  {"topic": "Plugin management", "file": "references/uxp/plugin-management.md", "summary": "Open when looking up Plugin management in InDesign.", "keywords": ["Plugin management"]},
+  {"topic": "Plugin management references", "file": "references/uxp/plugin-management/reference-index.md", "summary": "Open when looking up Plugin management in InDesign.", "keywords": ["Plugin management references"]},
+  {"topic": "Plugin Manager", "file": "references/uxp/plugin-manager.md", "summary": "Open when looking up Plugin Manager in InDesign.", "keywords": ["Plugin Manager"]},
+  {"topic": "Share your work with others", "file": "references/uxp/share-your-work-with-others.md", "summary": "Open when looking up Share your work with others in InDesign.", "keywords": ["Share your work with others"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

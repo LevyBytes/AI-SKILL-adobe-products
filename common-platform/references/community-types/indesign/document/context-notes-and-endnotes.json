@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.endnoteOptions", "file": "references/community-types/indesign/document/endnote-options.md", "summary": "Open when looking up Document.endnoteOptions in Shared Adobe platform.", "keywords": ["Document.endnoteOptions"]},
+  {"topic": "Document.footnoteOptions", "file": "references/community-types/indesign/document/footnote-options.md", "summary": "Open when looking up Document.footnoteOptions in Shared Adobe platform.", "keywords": ["Document.footnoteOptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

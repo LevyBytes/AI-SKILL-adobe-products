@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "LOCAL_NEWER", "file": "references/document-model/version-state/localnewer.md", "summary": "Open when looking up LOCAL_NEWER in InDesign.", "keywords": ["LOCAL_NEWER"]},
+  {"topic": "LOCAL_PROJECT_MATCH", "file": "references/document-model/version-state/localprojectmatch.md", "summary": "Open when looking up LOCAL_PROJECT_MATCH in InDesign.", "keywords": ["LOCAL_PROJECT_MATCH"]},
+  {"topic": "NO_RESOURCE", "file": "references/document-model/version-state/noresource.md", "summary": "Open when looking up NO_RESOURCE in InDesign.", "keywords": ["NO_RESOURCE"]},
+  {"topic": "PROJECT_FILE_NEWER", "file": "references/document-model/version-state/projectfilenewer.md", "summary": "Open when looking up PROJECT_FILE_NEWER in InDesign.", "keywords": ["PROJECT_FILE_NEWER"]},
+  {"topic": "VERSION_CONFLICT", "file": "references/document-model/version-state/versionconflict.md", "summary": "Open when looking up VERSION_CONFLICT in InDesign.", "keywords": ["VERSION_CONFLICT"]},
+  {"topic": "VERSION_UNKNOWN", "file": "references/document-model/version-state/versionunknown.md", "summary": "Open when looking up VERSION_UNKNOWN in InDesign.", "keywords": ["VERSION_UNKNOWN"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

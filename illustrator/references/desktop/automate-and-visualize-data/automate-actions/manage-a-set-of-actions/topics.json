@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Load a set of actions", "file": "references/desktop/automate-and-visualize-data/automate-actions/manage-a-set-of-actions/load-a-set-of-actions.md", "summary": "Open when looking up Load a set of actions in Illustrator.", "keywords": ["Load a set of actions"]},
+  {"topic": "Manage action sets", "file": "references/desktop/automate-and-visualize-data/automate-actions/manage-a-set-of-actions/manage-action-sets.md", "summary": "Open when looking up Manage action sets in Illustrator.", "keywords": ["Manage action sets"]},
+  {"topic": "Restore actions to the default set", "file": "references/desktop/automate-and-visualize-data/automate-actions/manage-a-set-of-actions/restore-actions-to-the-default-set.md", "summary": "Open when looking up Restore actions to the default set in Illustrator.", "keywords": ["Restore actions to the default set"]},
+  {"topic": "Save a set of actions", "file": "references/desktop/automate-and-visualize-data/automate-actions/manage-a-set-of-actions/save-a-set-of-actions.md", "summary": "Open when looking up Save a set of actions in Illustrator.", "keywords": ["Save a set of actions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

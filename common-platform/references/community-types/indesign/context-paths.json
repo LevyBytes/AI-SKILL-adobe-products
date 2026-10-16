@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ConvertShapeOptions", "file": "references/community-types/indesign/convert-shape-options.md", "summary": "Open when looking up ConvertShapeOptions in Shared Adobe platform.", "keywords": ["ConvertShapeOptions"]},
+  {"topic": "JoinOptions", "file": "references/community-types/indesign/join-options.md", "summary": "Open when looking up JoinOptions in Shared Adobe platform.", "keywords": ["JoinOptions"]},
+  {"topic": "OutlineJoin", "file": "references/community-types/indesign/outline-join.md", "summary": "Open when looking up OutlineJoin in Shared Adobe platform.", "keywords": ["OutlineJoin"]},
+  {"topic": "Oval", "file": "references/community-types/indesign/oval.md", "summary": "Open when looking up Oval in Shared Adobe platform.", "keywords": ["Oval"]},
+  {"topic": "Ovals references", "file": "references/community-types/indesign/ovals/reference-index.md", "summary": "Open when looking up Ovals in Shared Adobe platform.", "keywords": ["Ovals references"]},
+  {"topic": "Path references", "file": "references/community-types/indesign/path/reference-index.md", "summary": "Open when looking up Path in Shared Adobe platform.", "keywords": ["Path references"]},
+  {"topic": "PathPoint references", "file": "references/community-types/indesign/path-point/reference-index.md", "summary": "Open when looking up PathPoint in Shared Adobe platform.", "keywords": ["PathPoint references"]},
+  {"topic": "PathPoints", "file": "references/community-types/indesign/path-points.md", "summary": "Open when looking up PathPoints in Shared Adobe platform.", "keywords": ["PathPoints"]},
+  {"topic": "Paths", "file": "references/community-types/indesign/paths.md", "summary": "Open when looking up Paths in Shared Adobe platform.", "keywords": ["Paths"]},
+  {"topic": "PathType", "file": "references/community-types/indesign/path-type.md", "summary": "Open when looking up PathType in Shared Adobe platform.", "keywords": ["PathType"]},
+  {"topic": "PathTypeAlignments", "file": "references/community-types/indesign/path-type-alignments.md", "summary": "Open when looking up PathTypeAlignments in Shared Adobe platform.", "keywords": ["PathTypeAlignments"]},
+  {"topic": "PointType", "file": "references/community-types/indesign/point-type.md", "summary": "Open when looking up PointType in Shared Adobe platform.", "keywords": ["PointType"]},
+  {"topic": "Polygon", "file": "references/community-types/indesign/polygon.md", "summary": "Open when looking up Polygon in Shared Adobe platform.", "keywords": ["Polygon"]},
+  {"topic": "PolygonPreference", "file": "references/community-types/indesign/polygon-preference.md", "summary": "Open when looking up PolygonPreference in Shared Adobe platform.", "keywords": ["PolygonPreference"]},
+  {"topic": "Polygons references", "file": "references/community-types/indesign/polygons/reference-index.md", "summary": "Open when looking up Polygons in Shared Adobe platform.", "keywords": ["Polygons references"]},
+  {"topic": "Rectangle", "file": "references/community-types/indesign/rectangle.md", "summary": "Open when looking up Rectangle in Shared Adobe platform.", "keywords": ["Rectangle"]},
+  {"topic": "Rectangles references", "file": "references/community-types/indesign/rectangles/reference-index.md", "summary": "Open when looking up Rectangles in Shared Adobe platform.", "keywords": ["Rectangles references"]},
+  {"topic": "SplineItem references", "file": "references/community-types/indesign/spline-item/reference-index.md", "summary": "Open when looking up SplineItem in Shared Adobe platform.", "keywords": ["SplineItem references"]},
+  {"topic": "SplineItems references", "file": "references/community-types/indesign/spline-items/reference-index.md", "summary": "Open when looking up SplineItems in Shared Adobe platform.", "keywords": ["SplineItems references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

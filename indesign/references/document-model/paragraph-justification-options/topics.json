@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ARABIC_JUSTIFICATION", "file": "references/document-model/paragraph-justification-options/arabicjustification.md", "summary": "Open when looking up ARABIC_JUSTIFICATION in InDesign.", "keywords": ["ARABIC_JUSTIFICATION"]},
+  {"topic": "DEFAULT_JUSTIFICATION", "file": "references/document-model/paragraph-justification-options/defaultjustification.md", "summary": "Open when looking up DEFAULT_JUSTIFICATION in InDesign.", "keywords": ["DEFAULT_JUSTIFICATION"]},
+  {"topic": "NASKH_JUSTIFICATION", "file": "references/document-model/paragraph-justification-options/naskhjustification.md", "summary": "Open when looking up NASKH_JUSTIFICATION in InDesign.", "keywords": ["NASKH_JUSTIFICATION"]},
+  {"topic": "NASKH_KASHIDA_JUSTIFICATION", "file": "references/document-model/paragraph-justification-options/naskhkashidajustification.md", "summary": "Open when looking up NASKH_KASHIDA_JUSTIFICATION in InDesign.", "keywords": ["NASKH_KASHIDA_JUSTIFICATION"]},
+  {"topic": "NASKH_KASHIDA_JUSTIFICATION_FRAC", "file": "references/document-model/paragraph-justification-options/naskhkashidajustificationfrac.md", "summary": "Open when looking up NASKH_KASHIDA_JUSTIFICATION_FRAC in InDesign.", "keywords": ["NASKH_KASHIDA_JUSTIFICATION_FRAC"]},
+  {"topic": "NASKH_TATWEEL_JUSTIFICATION", "file": "references/document-model/paragraph-justification-options/naskhtatweeljustification.md", "summary": "Open when looking up NASKH_TATWEEL_JUSTIFICATION in InDesign.", "keywords": ["NASKH_TATWEEL_JUSTIFICATION"]},
+  {"topic": "NASKH_TATWEEL_JUSTIFICATION_FRAC", "file": "references/document-model/paragraph-justification-options/naskhtatweeljustificationfrac.md", "summary": "Open when looking up NASKH_TATWEEL_JUSTIFICATION_FRAC in InDesign.", "keywords": ["NASKH_TATWEEL_JUSTIFICATION_FRAC"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

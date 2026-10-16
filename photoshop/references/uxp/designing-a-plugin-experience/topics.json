@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Designing a plugin", "file": "references/uxp/designing-a-plugin-experience/designing-a-plugin.md", "summary": "Open when looking up Designing a plugin in Photoshop.", "keywords": ["Designing a plugin"]},
+  {"topic": "User interface", "file": "references/uxp/designing-a-plugin-experience/user-interface.md", "summary": "Open when looking up User interface in Photoshop.", "keywords": ["User interface"]},
+  {"topic": "UX patterns", "file": "references/uxp/designing-a-plugin-experience/ux-patterns.md", "summary": "Open when looking up UX patterns in Photoshop.", "keywords": ["UX patterns"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

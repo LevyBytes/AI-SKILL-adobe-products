@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Audio clip effects", "file": "references/desktop/interoperability/audition/transfer-of-information-from-premiere-to-audition/audio-clip-effects.md", "summary": "Open when looking up Audio clip effects in Premiere Pro.", "keywords": ["Audio clip effects"]},
+  {"topic": "Audio track effects", "file": "references/desktop/interoperability/audition/transfer-of-information-from-premiere-to-audition/audio-track-effects.md", "summary": "Open when looking up Audio track effects in Premiere Pro.", "keywords": ["Audio track effects"]},
+  {"topic": "Open in Audition", "file": "references/desktop/interoperability/audition/transfer-of-information-from-premiere-to-audition/open-in-audition.md", "summary": "Open when looking up Open in Audition in Premiere Pro.", "keywords": ["Open in Audition"]},
+  {"topic": "Pan and volume information", "file": "references/desktop/interoperability/audition/transfer-of-information-from-premiere-to-audition/pan-and-volume-information.md", "summary": "Open when looking up Pan and volume information in Premiere Pro.", "keywords": ["Pan and volume information"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

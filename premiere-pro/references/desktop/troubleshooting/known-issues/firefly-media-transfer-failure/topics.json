@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Browser blocking local network access", "file": "references/desktop/troubleshooting/known-issues/firefly-media-transfer-failure/browser-blocking-local-network-access.md", "summary": "Open when looking up Browser blocking local network access in Premiere Pro.", "keywords": ["Browser blocking local network access"]},
+  {"topic": "DNS rebind protection interrupts the Firefly transfer", "file": "references/desktop/troubleshooting/known-issues/firefly-media-transfer-failure/dns-rebind-protection-interrupts-the-firefly-transfer.md", "summary": "Open when looking up DNS rebind protection interrupts the Firefly transfer in Premiere Pro.", "keywords": ["DNS rebind protection interrupts the Firefly transfer"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

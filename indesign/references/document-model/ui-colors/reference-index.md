@@ -1,0 +1,40 @@
+# InDesign — UIColors
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up BLACK in InDesign. [BLACK](black.md).
+- Open when looking up BLUE in InDesign. [BLUE](blue.md).
+- Open when looking up BRICK_RED in InDesign. [BRICK_RED](brickred.md).
+- Open when looking up BROWN in InDesign. [BROWN](brown.md).
+- Open when looking up BURGUNDY in InDesign. [BURGUNDY](burgundy.md).
+- Open when looking up CHARCOAL in InDesign. [CHARCOAL](charcoal.md).
+- Open when looking up CUTE_TEAL in InDesign. [CUTE_TEAL](cuteteal.md).
+- Open when looking up CYAN in InDesign. [CYAN](cyan.md).
+- Open when looking up DARK_BLUE in InDesign. [DARK_BLUE](darkblue.md).
+- Open when looking up DARK_GREEN in InDesign. [DARK_GREEN](darkgreen.md).
+- Open when looking up FIESTA in InDesign. [FIESTA](fiesta.md).
+- Open when looking up GOLD in InDesign. [GOLD](gold.md).
+- Open when looking up GRASS_GREEN in InDesign. [GRASS_GREEN](grassgreen.md).
+- Open when looking up GRAY in InDesign. [GRAY](gray.md).
+- Open when looking up GREEN in InDesign. [GREEN](green.md).
+- Open when looking up GRID_BLUE in InDesign. [GRID_BLUE](gridblue.md).
+- Open when looking up GRID_GREEN in InDesign. [GRID_GREEN](gridgreen.md).
+- Open when looking up GRID_ORANGE in InDesign. [GRID_ORANGE](gridorange.md).
+- Open when looking up LAVENDER in InDesign. [LAVENDER](lavender.md).
+- Open when looking up LIGHT_BLUE in InDesign. [LIGHT_BLUE](lightblue.md).
+- Open when looking up LIGHT_GRAY in InDesign. [LIGHT_GRAY](lightgray.md).
+- Open when looking up LIGHT_OLIVE in InDesign. [LIGHT_OLIVE](lightolive.md).
+- Open when looking up LIPSTICK in InDesign. [LIPSTICK](lipstick.md).
+- Open when looking up MAGENTA in InDesign. [MAGENTA](magenta.md).
+- Open when looking up OCHRE in InDesign. [OCHRE](ochre.md).
+- Open when looking up OLIVE_GREEN in InDesign. [OLIVE_GREEN](olivegreen.md).
+- Open when looking up ORANGE in InDesign. [ORANGE](orange.md).
+- Open when looking up PEACH in InDesign. [PEACH](peach.md).
+- Open when looking up PINK in InDesign. [PINK](pink.md).
+- Open when looking up PURPLE in InDesign. [PURPLE](purple.md).
+- Open when looking up RED in InDesign. [RED](red.md).
+- Open when looking up SULPHUR in InDesign. [SULPHUR](sulphur.md).
+- Open when looking up TAN in InDesign. [TAN](tan.md).
+- Open when looking up TEAL in InDesign. [TEAL](teal.md).
+- Open when looking up VIOLET in InDesign. [VIOLET](violet.md).
+- Open when looking up WHITE in InDesign. [WHITE](white.md).
+- Open when looking up YELLOW in InDesign. [YELLOW](yellow.md).

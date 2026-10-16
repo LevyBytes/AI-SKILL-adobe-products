@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Using variables and datasets", "file": "references/scripting/dataset-example/using-variables-and-datasets.md", "summary": "Open when looking up Using variables and datasets in Illustrator.", "keywords": ["Using variables and datasets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "arcTo(x1, y1, x2, y2, radius)", "file": "references/uxp/arc-to-x1-y1-x2-y2-radius/arc-to.md", "summary": "Open when looking up arcTo(x1, y1, x2, y2, radius) in InDesign.", "keywords": ["arcTo(x1, y1, x2, y2, radius)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

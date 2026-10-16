@@ -1,0 +1,23 @@
+# Acrobat — Reading PDFs with reflow and accessibility features
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About operating system accessibility tools in Acrobat. [About operating system accessibility tools](about-operating-system-accessibility-tools.md).
+- Open when looking up Accessibility preferences in Acrobat. [Accessibility preferences](accessibility-preferences.md).
+- Open when looking up Activate or deactivate Read Out Loud in Acrobat. [Activate or deactivate Read Out Loud](activate-or-deactivate-read-out-loud.md).
+- Open when looking up Automatically scroll settings in Acrobat. [Automatically scroll settings](automatically-scroll-settings.md).
+- Open when looking up Enable single-key accelerators in Acrobat. [Enable single-key accelerators](enable-single-key-accelerators.md).
+- Open when looking up Interrupt reading out loud in Acrobat. [Interrupt reading out loud](interrupt-reading-out-loud.md).
+- Open when looking up Navigate and control the application with the keyboard in Acrobat. [Navigate and control the application with the keyboard](navigate-and-control-the-application-with-the-keyboard.md).
+- Open when looking up Read a PDF with Read Out Loud in Acrobat. [Read a PDF with Read Out Loud](read-a-pdf-with-read-out-loud.md).
+- Open when looking up Read PDF form fields out loud in Acrobat. [Read PDF form fields out loud](read-pdf-form-fields-out-loud.md).
+- Open when looking up Reading a PDF with a screen reader in Acrobat. [Reading a PDF with a screen reader](reading-a-pdf-with-a-screen-reader.md).
+- Open when looking up Reading accessibility preferences in Acrobat. [Reading accessibility preferences](reading-accessibility-preferences.md).
+- Open when looking up Reflow a PDF in Acrobat. [Reflow a PDF](reflow-a-pdf.md).
+- Open when looking up Reflow a tagged PDF in Acrobat. [Reflow a tagged PDF](reflow-a-tagged-pdf.md).
+- Open when looking up Return to unreflowed view in Acrobat. [Return to unreflowed view](return-to-unreflowed-view.md).
+- Open when looking up Save as accessible text for a braille printer in Acrobat. [Save as accessible text for a braille printer](save-as-accessible-text-for-a-braille-printer.md).
+- Open when looking up Scroll automatically in Acrobat. [Scroll automatically](scroll-automatically.md).
+- Open when looking up Set accessibility preferences with the Accessibility Setup Assistant in Acrobat. [Set accessibility preferences with the Accessibility Setup Assistant](accessibility-setup-assistant.md).
+- Open when looking up Set accessibility preferences with the Preferences dialog box in Acrobat. [Set accessibility preferences with the Preferences dialog box](set-accessibility-preferences-with-the-preferences-dialog-box.md).
+- Open when looking up Setting accessibility preferences in Acrobat. [Setting accessibility preferences](setting-accessibility-preferences.md).
+- Open when looking up Stop automatic scroll in Acrobat. [Stop automatic scroll](stop-automatic-scroll.md).

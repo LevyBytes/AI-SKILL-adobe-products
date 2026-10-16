@@ -1,0 +1,32 @@
+# Shared Adobe platform — Selection
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Selection declaration in Shared Adobe platform. [Selection declaration](declaration.md).
+- Open when looking up Selection identity and parent in Shared Adobe platform. [Selection identity and parent](identity-and-parent.md).
+- Open when looking up Selection.bounds in Shared Adobe platform. [Selection.bounds](bounds.md).
+- Open when looking up Selection.clear in Shared Adobe platform. [Selection.clear](clear.md).
+- Open when looking up Selection.contract in Shared Adobe platform. [Selection.contract](contract.md).
+- Open when looking up Selection.copy in Shared Adobe platform. [Selection.copy](copy.md).
+- Open when looking up Selection.cut in Shared Adobe platform. [Selection.cut](cut.md).
+- Open when looking up Selection.deselect in Shared Adobe platform. [Selection.deselect](deselect.md).
+- Open when looking up Selection.expand in Shared Adobe platform. [Selection.expand](expand.md).
+- Open when looking up Selection.feather in Shared Adobe platform. [Selection.feather](feather.md).
+- Open when looking up Selection.fill in Shared Adobe platform. [Selection.fill](fill.md).
+- Open when looking up Selection.grow in Shared Adobe platform. [Selection.grow](grow.md).
+- Open when looking up Selection.invert in Shared Adobe platform. [Selection.invert](invert.md).
+- Open when looking up Selection.load in Shared Adobe platform. [Selection.load](load.md).
+- Open when looking up Selection.makeWorkPath in Shared Adobe platform. [Selection.makeWorkPath](make-work-path.md).
+- Open when looking up Selection.resize in Shared Adobe platform. [Selection.resize](resize.md).
+- Open when looking up Selection.resizeBoundary in Shared Adobe platform. [Selection.resizeBoundary](resize-boundary.md).
+- Open when looking up Selection.rotate in Shared Adobe platform. [Selection.rotate](rotate.md).
+- Open when looking up Selection.rotateBoundary in Shared Adobe platform. [Selection.rotateBoundary](rotate-boundary.md).
+- Open when looking up Selection.select in Shared Adobe platform. [Selection.select](select.md).
+- Open when looking up Selection.selectAll in Shared Adobe platform. [Selection.selectAll](select-all.md).
+- Open when looking up Selection.selectBorder in Shared Adobe platform. [Selection.selectBorder](select-border.md).
+- Open when looking up Selection.similar in Shared Adobe platform. [Selection.similar](similar.md).
+- Open when looking up Selection.smooth in Shared Adobe platform. [Selection.smooth](smooth.md).
+- Open when looking up Selection.solid in Shared Adobe platform. [Selection.solid](solid.md).
+- Open when looking up Selection.store in Shared Adobe platform. [Selection.store](store.md).
+- Open when looking up Selection.stroke in Shared Adobe platform. [Selection.stroke](stroke.md).
+- Open when looking up Selection.translate in Shared Adobe platform. [Selection.translate](translate.md).
+- Open when looking up Selection.translateBoundary in Shared Adobe platform. [Selection.translateBoundary](translate-boundary.md).

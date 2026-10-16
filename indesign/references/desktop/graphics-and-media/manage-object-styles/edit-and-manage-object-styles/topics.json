@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Delete an object style", "file": "references/desktop/graphics-and-media/manage-object-styles/edit-and-manage-object-styles/delete-an-object-style.md", "summary": "Open when looking up Delete an object style in InDesign.", "keywords": ["Delete an object style"]},
+  {"topic": "Edit object style properties", "file": "references/desktop/graphics-and-media/manage-object-styles/edit-and-manage-object-styles/edit-object-style-properties.md", "summary": "Open when looking up Edit object style properties in InDesign.", "keywords": ["Edit object style properties"]},
+  {"topic": "Redefine an object style", "file": "references/desktop/graphics-and-media/manage-object-styles/edit-and-manage-object-styles/redefine-an-object-style.md", "summary": "Open when looking up Redefine an object style in InDesign.", "keywords": ["Redefine an object style"]},
+  {"topic": "Rename an object style", "file": "references/desktop/graphics-and-media/manage-object-styles/edit-and-manage-object-styles/rename-an-object-style.md", "summary": "Open when looking up Rename an object style in InDesign.", "keywords": ["Rename an object style"]},
+  {"topic": "Set default object styles", "file": "references/desktop/graphics-and-media/manage-object-styles/edit-and-manage-object-styles/set-default-object-styles.md", "summary": "Open when looking up Set default object styles in InDesign.", "keywords": ["Set default object styles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

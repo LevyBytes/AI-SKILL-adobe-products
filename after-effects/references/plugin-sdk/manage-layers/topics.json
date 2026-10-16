@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP Suites — Manage Layers", "file": "references/plugin-sdk/manage-layers/aegp-suites-manage-layers.md", "summary": "Open when looking up AEGP Suites — Manage Layers in After Effects.", "keywords": ["AEGP Suites — Manage Layers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

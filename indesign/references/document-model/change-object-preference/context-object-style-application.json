@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "appliedObjectStyles", "file": "references/document-model/change-object-preference/applied-object-styles.md", "summary": "Open when looking up appliedObjectStyles in InDesign.", "keywords": ["appliedObjectStyles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

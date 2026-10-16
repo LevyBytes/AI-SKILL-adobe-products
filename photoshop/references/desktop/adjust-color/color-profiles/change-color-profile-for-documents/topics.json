@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Assign a different color profile", "file": "references/desktop/adjust-color/color-profiles/change-color-profile-for-documents/assign-a-different-color-profile.md", "summary": "Open when looking up Assign a different color profile in Photoshop.", "keywords": ["Assign a different color profile"]},
+  {"topic": "Convert document colors to another profile", "file": "references/desktop/adjust-color/color-profiles/change-color-profile-for-documents/convert-document-colors-to-another-profile.md", "summary": "Open when looking up Convert document colors to another profile in Photoshop.", "keywords": ["Convert document colors to another profile"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "API version", "file": "references/cep/cep-9-0/api-version.md", "summary": "Open when looking up API version in Shared Adobe platform.", "keywords": ["API version"]},
+  {"topic": "Applications Integrated with CEP", "file": "references/cep/cep-9-0/applications-integrated-with-cep.md", "summary": "Open when looking up Applications Integrated with CEP in Shared Adobe platform.", "keywords": ["Applications Integrated with CEP"]},
+  {"topic": "CEP 9 HTML Extension Cookbook", "file": "references/cep/cep-9-0/cep-9-html-extension-cookbook.md", "summary": "Open when looking up CEP 9 HTML Extension Cookbook in Shared Adobe platform.", "keywords": ["CEP 9 HTML Extension Cookbook"]},
+  {"topic": "CEP Extensions", "file": "references/cep/cep-9-0/cep-extensions.md", "summary": "Open when looking up CEP Extensions in Shared Adobe platform.", "keywords": ["CEP Extensions"]},
+  {"topic": "CEP HTML Test Extensions", "file": "references/cep/cep-9-0/cep-html-test-extensions.md", "summary": "Open when looking up CEP HTML Test Extensions in Shared Adobe platform.", "keywords": ["CEP HTML Test Extensions"]},
+  {"topic": "CEP JavaScript Libraries", "file": "references/cep/cep-9-0/cep-java-script-libraries.md", "summary": "Open when looking up CEP JavaScript Libraries in Shared Adobe platform.", "keywords": ["CEP JavaScript Libraries"]},
+  {"topic": "Contexts in CEP", "file": "references/cep/cep-9-0/contexts-in-cep.md", "summary": "Open when looking up Contexts in CEP in Shared Adobe platform.", "keywords": ["Contexts in CEP"]},
+  {"topic": "Development Machine Setup", "file": "references/cep/cep-9-0/development-machine-setup.md", "summary": "Open when looking up Development Machine Setup in Shared Adobe platform.", "keywords": ["Development Machine Setup"]},
+  {"topic": "Extension Folders", "file": "references/cep/cep-9-0/extension-folders.md", "summary": "Open when looking up Extension Folders in Shared Adobe platform.", "keywords": ["Extension Folders"]},
+  {"topic": "Extension Types", "file": "references/cep/cep-9-0/extension-types.md", "summary": "Open when looking up Extension Types in Shared Adobe platform.", "keywords": ["Extension Types"]},
+  {"topic": "HTML Extension Builder", "file": "references/cep/cep-9-0/html-extension-builder.md", "summary": "Open when looking up HTML Extension Builder in Shared Adobe platform.", "keywords": ["HTML Extension Builder"]},
+  {"topic": "Multi-process Architecture", "file": "references/cep/cep-9-0/multi-process-architecture.md", "summary": "Open when looking up Multi-process Architecture in Shared Adobe platform.", "keywords": ["Multi-process Architecture"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

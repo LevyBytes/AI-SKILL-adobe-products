@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Choosing a default namespace", "file": "references/scripting/creating-and-accessing-namespaces/choosing-a-default-namespace.md", "summary": "Open when looking up Choosing a default namespace in Shared Adobe platform.", "keywords": ["Choosing a default namespace"]},
+  {"topic": "Defining a namespace within the tree", "file": "references/scripting/creating-and-accessing-namespaces/defining-a-namespace-within-the-tree.md", "summary": "Open when looking up Defining a namespace within the tree in Shared Adobe platform.", "keywords": ["Defining a namespace within the tree"]},
+  {"topic": "Reading elements in namespaces", "file": "references/scripting/creating-and-accessing-namespaces/reading-elements-in-namespaces.md", "summary": "Open when looking up Reading elements in namespaces in Shared Adobe platform.", "keywords": ["Reading elements in namespaces"]},
+  {"topic": "The XML Object — Creating and accessing namespaces", "file": "references/scripting/creating-and-accessing-namespaces/the-xml-object-creating-and-accessing-namespaces.md", "summary": "Open when looking up The XML Object — Creating and accessing namespaces in Shared Adobe platform.", "keywords": ["The XML Object — Creating and accessing namespaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

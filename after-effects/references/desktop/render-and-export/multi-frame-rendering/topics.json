@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Preview and render with Multi-Frame Rendering", "file": "references/desktop/render-and-export/multi-frame-rendering/preview-and-render-with-multi-frame-rendering.md", "summary": "Open when looking up Preview and render with Multi-Frame Rendering in After Effects.", "keywords": ["Preview and render with Multi-Frame Rendering"]},
+  {"topic": "Preview and render with Multi-Frame Rendering references", "file": "references/desktop/render-and-export/multi-frame-rendering/multi-frame-workflows/reference-index.md", "summary": "Open when looking up Preview and render with Multi-Frame Rendering in After Effects.", "keywords": ["Preview and render with Multi-Frame Rendering references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

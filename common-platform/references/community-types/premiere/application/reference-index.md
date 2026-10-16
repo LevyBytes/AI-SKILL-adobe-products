@@ -1,0 +1,49 @@
+# Shared Adobe platform — Application
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Application declaration in Shared Adobe platform. [Application declaration](declaration.md).
+- Open when looking up Application.addEventListener in Shared Adobe platform. [Application.addEventListener](add-event-listener.md).
+- Open when looking up Application.anywhere in Shared Adobe platform. [Application.anywhere](anywhere.md).
+- Open when looking up Application.bind in Shared Adobe platform. [Application.bind](bind.md).
+- Open when looking up Application.broadcastPrefsChanged in Shared Adobe platform. [Application.broadcastPrefsChanged](broadcast-prefs-changed.md).
+- Open when looking up Application.build in Shared Adobe platform. [Application.build](build.md).
+- Open when looking up Application.csxs in Shared Adobe platform. [Application.csxs](csxs.md).
+- Open when looking up Application.enableQE in Shared Adobe platform. [Application.enableQE](enable-qe.md).
+- Open when looking up Application.encoder in Shared Adobe platform. [Application.encoder](encoder.md).
+- Open when looking up Application.getAppPrefPath in Shared Adobe platform. [Application.getAppPrefPath](get-app-pref-path.md).
+- Open when looking up Application.getAppSystemPrefPath in Shared Adobe platform. [Application.getAppSystemPrefPath](get-app-system-pref-path.md).
+- Open when looking up Application.getEnableProxies in Shared Adobe platform. [Application.getEnableProxies](get-enable-proxies.md).
+- Open when looking up Application.getPProPrefPath in Shared Adobe platform. [Application.getPProPrefPath](get-p-pro-pref-path.md).
+- Open when looking up Application.getPProSystemPrefPath in Shared Adobe platform. [Application.getPProSystemPrefPath](get-p-pro-system-pref-path.md).
+- Open when looking up Application.getProjectFromViewID in Shared Adobe platform. [Application.getProjectFromViewID](get-project-from-view-id.md).
+- Open when looking up Application.getProjectViewIDs in Shared Adobe platform. [Application.getProjectViewIDs](get-project-view-i-ds.md).
+- Open when looking up Application.getProjectViewSelection in Shared Adobe platform. [Application.getProjectViewSelection](get-project-view-selection.md).
+- Open when looking up Application.getWorkspaces in Shared Adobe platform. [Application.getWorkspaces](get-workspaces.md).
+- Open when looking up Application.isDocument in Shared Adobe platform. [Application.isDocument](is-document.md).
+- Open when looking up Application.isDocumentOpen in Shared Adobe platform. [Application.isDocumentOpen](is-document-open.md).
+- Open when looking up Application.metadata in Shared Adobe platform. [Application.metadata](metadata.md).
+- Open when looking up Application.newProject in Shared Adobe platform. [Application.newProject](new-project.md).
+- Open when looking up Application.onItemAddedToProjectSuccess in Shared Adobe platform. [Application.onItemAddedToProjectSuccess](on-item-added-to-project-success.md).
+- Open when looking up Application.openDocument in Shared Adobe platform. [Application.openDocument](open-document.md).
+- Open when looking up Application.openFCPXML in Shared Adobe platform. [Application.openFCPXML](open-fcpxml.md).
+- Open when looking up Application.openPrProduction in Shared Adobe platform. [Application.openPrProduction](open-pr-production.md).
+- Open when looking up Application.production in Shared Adobe platform. [Application.production](production.md).
+- Open when looking up Application.project in Shared Adobe platform. [Application.project](project.md).
+- Open when looking up Application.projectManager in Shared Adobe platform. [Application.projectManager](project-manager.md).
+- Open when looking up Application.projects in Shared Adobe platform. [Application.projects](projects.md).
+- Open when looking up Application.properties in Shared Adobe platform. [Application.properties](properties.md).
+- Open when looking up Application.quit in Shared Adobe platform. [Application.quit](quit.md).
+- Open when looking up Application.setEnableProxies in Shared Adobe platform. [Application.setEnableProxies](set-enable-proxies.md).
+- Open when looking up Application.setEnableTranscodeOnIngest in Shared Adobe platform. [Application.setEnableTranscodeOnIngest](set-enable-transcode-on-ingest.md).
+- Open when looking up Application.setExtensionPersistent in Shared Adobe platform. [Application.setExtensionPersistent](set-extension-persistent.md).
+- Open when looking up Application.setProjectViewSelection in Shared Adobe platform. [Application.setProjectViewSelection](set-project-view-selection.md).
+- Open when looking up Application.setScratchDiskPath in Shared Adobe platform. [Application.setScratchDiskPath](set-scratch-disk-path.md).
+- Open when looking up Application.setSDKEventMessage in Shared Adobe platform. [Application.setSDKEventMessage](set-sdk-event-message.md).
+- Open when looking up Application.setTimeout in Shared Adobe platform. [Application.setTimeout](set-timeout.md).
+- Open when looking up Application.setWorkspace in Shared Adobe platform. [Application.setWorkspace](set-workspace.md).
+- Open when looking up Application.showCursor in Shared Adobe platform. [Application.showCursor](show-cursor.md).
+- Open when looking up Application.sourceMonitor in Shared Adobe platform. [Application.sourceMonitor](source-monitor.md).
+- Open when looking up Application.trace in Shared Adobe platform. [Application.trace](trace.md).
+- Open when looking up Application.unbind in Shared Adobe platform. [Application.unbind](unbind.md).
+- Open when looking up Application.userGuid in Shared Adobe platform. [Application.userGuid](user-guid.md).
+- Open when looking up Application.version in Shared Adobe platform. [Application.version](version.md).

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Group", "file": "references/scripting/containers/group.md", "summary": "Open when looking up Group in Shared Adobe platform.", "keywords": ["Group"]},
+  {"topic": "Panel", "file": "references/scripting/containers/panel.md", "summary": "Open when looking up Panel in Shared Adobe platform.", "keywords": ["Panel"]},
+  {"topic": "Tab", "file": "references/scripting/containers/tab.md", "summary": "Open when looking up Tab in Shared Adobe platform.", "keywords": ["Tab"]},
+  {"topic": "TabbedPanel", "file": "references/scripting/containers/tabbed-panel.md", "summary": "Open when looking up TabbedPanel in Shared Adobe platform.", "keywords": ["TabbedPanel"]},
+  {"topic": "Types of controls — Containers", "file": "references/scripting/containers/types-of-controls-containers.md", "summary": "Open when looking up Types of controls — Containers in Shared Adobe platform.", "keywords": ["Types of controls — Containers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BOTH_X_Y_ATTRIBUTE", "file": "references/document-model/position-attributes/bothxyattribute.md", "summary": "Open when looking up BOTH_X_Y_ATTRIBUTE in InDesign.", "keywords": ["BOTH_X_Y_ATTRIBUTE"]},
+  {"topic": "X_ATTRIBUTE", "file": "references/document-model/position-attributes/xattribute.md", "summary": "Open when looking up X_ATTRIBUTE in InDesign.", "keywords": ["X_ATTRIBUTE"]},
+  {"topic": "Y_ATTRIBUTE", "file": "references/document-model/position-attributes/yattribute.md", "summary": "Open when looking up Y_ATTRIBUTE in InDesign.", "keywords": ["Y_ATTRIBUTE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CONTINUE_FROM_PREVIOUS_DOCUMENT", "file": "references/document-model/chapter-number-sources/continuefrompreviousdocument.md", "summary": "Open when looking up CONTINUE_FROM_PREVIOUS_DOCUMENT in InDesign.", "keywords": ["CONTINUE_FROM_PREVIOUS_DOCUMENT"]},
+  {"topic": "SAME_AS_PREVIOUS_DOCUMENT", "file": "references/document-model/chapter-number-sources/sameaspreviousdocument.md", "summary": "Open when looking up SAME_AS_PREVIOUS_DOCUMENT in InDesign.", "keywords": ["SAME_AS_PREVIOUS_DOCUMENT"]},
+  {"topic": "USER_DEFINED", "file": "references/document-model/chapter-number-sources/userdefined.md", "summary": "Open when looking up USER_DEFINED in InDesign.", "keywords": ["USER_DEFINED"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,44 @@
+# After Effects — Av layer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AE Properties in After Effects. [AE Properties](ae-properties.md).
+- Open when looking up AVLayer object in After Effects. [AVLayer object](av-layer-object.md).
+- Open when looking up AVLayer.addToMotionGraphicsTemplate() in After Effects. [AVLayer.addToMotionGraphicsTemplate()](add-to-motion-graphics-template.md).
+- Open when looking up AVLayer.addToMotionGraphicsTemplateAs() in After Effects. [AVLayer.addToMotionGraphicsTemplateAs()](add-to-motion-graphics-template-as.md).
+- Open when looking up AVLayer.adjustmentLayer in After Effects. [AVLayer.adjustmentLayer](adjustment-layer.md).
+- Open when looking up AVLayer.audioActive in After Effects. [AVLayer.audioActive](audio-active.md).
+- Open when looking up AVLayer.audioActiveAtTime() in After Effects. [AVLayer.audioActiveAtTime()](audio-active-at-time.md).
+- Open when looking up AVLayer.audioEnabled in After Effects. [AVLayer.audioEnabled](audio-enabled.md).
+- Open when looking up AVLayer.blendingMode in After Effects. [AVLayer.blendingMode](blending-mode.md).
+- Open when looking up AVLayer.calculateTransformFromPoints() in After Effects. [AVLayer.calculateTransformFromPoints()](calculate-transform-from-points.md).
+- Open when looking up AVLayer.canAddToMotionGraphicsTemplate() in After Effects. [AVLayer.canAddToMotionGraphicsTemplate()](can-add-to-motion-graphics-template.md).
+- Open when looking up AVLayer.canSetCollapseTransformation in After Effects. [AVLayer.canSetCollapseTransformation](can-set-collapse-transformation.md).
+- Open when looking up AVLayer.canSetTimeRemapEnabled in After Effects. [AVLayer.canSetTimeRemapEnabled](can-set-time-remap-enabled.md).
+- Open when looking up AVLayer.collapseTransformation in After Effects. [AVLayer.collapseTransformation](collapse-transformation.md).
+- Open when looking up AVLayer.compPointToSource() in After Effects. [AVLayer.compPointToSource()](comp-point-to-source.md).
+- Open when looking up AVLayer.effectsActive in After Effects. [AVLayer.effectsActive](effects-active.md).
+- Open when looking up AVLayer.environmentLayer in After Effects. [AVLayer.environmentLayer](environment-layer.md).
+- Open when looking up AVLayer.frameBlending in After Effects. [AVLayer.frameBlending](frame-blending.md).
+- Open when looking up AVLayer.frameBlendingType in After Effects. [AVLayer.frameBlendingType](frame-blending-type.md).
+- Open when looking up AVLayer.guideLayer in After Effects. [AVLayer.guideLayer](guide-layer.md).
+- Open when looking up AVLayer.hasAudio in After Effects. [AVLayer.hasAudio](has-audio.md).
+- Open when looking up AVLayer.hasTrackMatte in After Effects. [AVLayer.hasTrackMatte](has-track-matte.md).
+- Open when looking up AVLayer.height in After Effects. [AVLayer.height](height.md).
+- Open when looking up AVLayer.isNameFromSource in After Effects. [AVLayer.isNameFromSource](is-name-from-source.md).
+- Open when looking up AVLayer.isTrackMatte in After Effects. [AVLayer.isTrackMatte](is-track-matte.md).
+- Open when looking up AVLayer.motionBlur in After Effects. [AVLayer.motionBlur](motion-blur.md).
+- Open when looking up AVLayer.openInViewer() in After Effects. [AVLayer.openInViewer()](open-in-viewer.md).
+- Open when looking up AVLayer.preserveTransparency in After Effects. [AVLayer.preserveTransparency](preserve-transparency.md).
+- Open when looking up AVLayer.quality in After Effects. [AVLayer.quality](quality.md).
+- Open when looking up AVLayer.removeTrackMatte() in After Effects. [AVLayer.removeTrackMatte()](remove-track-matte.md).
+- Open when looking up AVLayer.replaceSource() in After Effects. [AVLayer.replaceSource()](replace-source.md).
+- Open when looking up AVLayer.samplingQuality in After Effects. [AVLayer.samplingQuality](sampling-quality.md).
+- Open when looking up AVLayer.setTrackMatte() in After Effects. [AVLayer.setTrackMatte()](set-track-matte.md).
+- Open when looking up AVLayer.source in After Effects. [AVLayer.source](source.md).
+- Open when looking up AVLayer.sourceRectAtTime() in After Effects. [AVLayer.sourceRectAtTime()](source-rect-at-time.md).
+- Open when looking up AVLayer.threeDLayer in After Effects. [AVLayer.threeDLayer](three-d-layer.md).
+- Open when looking up AVLayer.threeDPerChar in After Effects. [AVLayer.threeDPerChar](three-d-per-char.md).
+- Open when looking up AVLayer.timeRemapEnabled in After Effects. [AVLayer.timeRemapEnabled](time-remap-enabled.md).
+- Open when looking up AVLayer.trackMatteLayer in After Effects. [AVLayer.trackMatteLayer](track-matte-layer.md).
+- Open when looking up AVLayer.trackMatteType in After Effects. [AVLayer.trackMatteType](track-matte-type.md).
+- Open when looking up AVLayer.width in After Effects. [AVLayer.width](width.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Your stuff", "file": "references/web/app-integrations/figma/your-stuff.md", "summary": "Open when looking up Your stuff in Firefly.", "keywords": ["Your stuff"]},
+  {"topic": "Your stuff references", "file": "references/web/app-integrations/figma/your-stuff/reference-index.md", "summary": "Open when looking up Your stuff in Firefly.", "keywords": ["Your stuff references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

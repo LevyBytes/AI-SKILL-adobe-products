@@ -1,0 +1,22 @@
+# InCopy — Structuring documents for XML — Structure pane overview
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Structuring documents for XML — Add a comment in InCopy. [Structuring documents for XML — Add a comment](structuring-documents-for-xml-add-a-comment.md).
+- Open when looking up Structuring documents for XML — Add a processing instruction in InCopy. [Structuring documents for XML — Add a processing instruction](structuring-documents-for-xml-add-a-processing-instruction.md).
+- Open when looking up Structuring documents for XML — Add an attribute in InCopy. [Structuring documents for XML — Add an attribute](structuring-documents-for-xml-add-an-attribute.md).
+- Open when looking up Structuring documents for XML — Add comments and processing instructions in InCopy. [Structuring documents for XML — Add comments and processing instructions](add-comments-and-processing-instructions.md).
+- Open when looking up Structuring documents for XML — Delete a DTD file in InCopy. [Structuring documents for XML — Delete a DTD file](structuring-documents-for-xml-delete-a-dtd-file.md).
+- Open when looking up Structuring documents for XML — Edit comments and processing instructions in InCopy. [Structuring documents for XML — Edit comments and processing instructions](edit-comments-and-processing-instructions.md).
+- Open when looking up Structuring documents for XML — Edit href attributes in InCopy. [Structuring documents for XML — Edit href attributes](structuring-documents-for-xml-edit-href-attributes.md).
+- Open when looking up Structuring documents for XML — Edit or delete an attribute in InCopy. [Structuring documents for XML — Edit or delete an attribute](structuring-documents-for-xml-edit-or-delete-an-attribute.md).
+- Open when looking up Structuring documents for XML — Insert a parent element in InCopy. [Structuring documents for XML — Insert a parent element](structuring-documents-for-xml-insert-a-parent-element.md).
+- Open when looking up Structuring documents for XML — Load a DTD file in InCopy. [Structuring documents for XML — Load a DTD file](structuring-documents-for-xml-load-a-dtd-file.md).
+- Open when looking up Structuring documents for XML — Rearrange structured elements in InCopy. [Structuring documents for XML — Rearrange structured elements](structuring-documents-for-xml-rearrange-structured-elements.md).
+- Open when looking up Structuring documents for XML — Show or hide attributes in the Structure pane in InCopy. [Structuring documents for XML — Show or hide attributes in the Structure pane](show-or-hide-attributes-in-the-structure-pane.md).
+- Open when looking up Structuring documents for XML — Structure pane icons in InCopy. [Structuring documents for XML — Structure pane icons](structuring-documents-for-xml-structure-pane-icons.md).
+- Open when looking up Structuring documents for XML — Use DTD files to validate XML in InCopy. [Structuring documents for XML — Use DTD files to validate XML](structuring-documents-for-xml-use-dtd-files-to-validate-xml.md).
+- Open when looking up Structuring documents for XML — Use the Structure pane in InCopy. [Structuring documents for XML — Use the Structure pane](structuring-documents-for-xml-use-the-structure-pane.md).
+- Open when looking up Structuring documents for XML — Validate XML structure in InCopy. [Structuring documents for XML — Validate XML structure](structuring-documents-for-xml-validate-xml-structure.md).
+- Open when looking up Structuring documents for XML — View a DTD file in InCopy. [Structuring documents for XML — View a DTD file](structuring-documents-for-xml-view-a-dtd-file.md).
+- Open when looking up Structuring documents for XML — View comments and processing instructions in InCopy. [Structuring documents for XML — View comments and processing instructions](view-comments-and-processing-instructions.md).
+- Open when looking up Structuring documents for XML — Work with attributes in InCopy. [Structuring documents for XML — Work with attributes](structuring-documents-for-xml-work-with-attributes.md).

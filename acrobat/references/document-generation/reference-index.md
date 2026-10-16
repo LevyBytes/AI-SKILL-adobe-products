@@ -1,0 +1,45 @@
+# Acrobat — Document Generation API
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Acrobat services security in Acrobat. [Acrobat services security references](acrobat-services-security/reference-index.md).
+- Open when looking up Apply styling and formatting in Acrobat. [Apply styling and formatting](apply-styling-and-formatting.md).
+- Open when looking up Apply styling and formatting in Acrobat. [Apply styling and formatting references](apply-styling-and-formatting/reference-index.md).
+- Open when looking up Change history in Acrobat. [Change history](change-history.md).
+- Open when looking up Change history in Acrobat. [Change history references](change-history/reference-index.md).
+- Open when looking up Charts in Acrobat. [Charts](charts.md).
+- Open when looking up Charts in Acrobat. [Charts references](charts/reference-index.md).
+- Open when looking up Complex Table Constructs in Acrobat. [Complex Table Constructs](complex-table-constructs.md).
+- Open when looking up Complex Table Constructs in Acrobat. [Complex Table Constructs references](complex-table-constructs/reference-index.md).
+- Open when looking up DocGen Beta in Acrobat. [DocGen Beta](doc-gen-beta.md).
+- Open when looking up DocGen Beta in Acrobat. [DocGen Beta references](doc-gen-beta/reference-index.md).
+- Open when looking up Document Generation Api — Gettingstarted in Acrobat. [Document Generation Api — Gettingstarted](document-generation-api-gettingstarted.md).
+- Open when looking up Document Transaction Definitions in Acrobat. [Document Transaction Definitions](document-transaction-definitions.md).
+- Open when looking up Examples in Acrobat. [Examples references](examples/reference-index.md).
+- Open when looking up Fragments in Acrobat. [Fragments](fragments.md).
+- Open when looking up Fragments in Acrobat. [Fragments references](fragments/reference-index.md).
+- Open when looking up Generate PDF or Word documents in Acrobat. [Generate PDF or Word documents](generate-pdf-or-word-documents.md).
+- Open when looking up Generate PDF or Word documents in Acrobat. [Generate PDF or Word documents references](generate-pdf-or-word-documents/reference-index.md).
+- Open when looking up Generate PDF or Word documents with fragments in Acrobat. [Generate PDF or Word documents with fragments](generate-pdf-or-word-documents-with-fragments.md).
+- Open when looking up Generate PDF or Word documents with fragments in Acrobat. [Generate PDF or Word documents with fragments references](generate-pdf-or-word-documents-with-fragments/reference-index.md).
+- Open when looking up How It Works in Acrobat. [How It Works](how-it-works.md).
+- Open when looking up How It Works in Acrobat. [How It Works references](how-it-works/reference-index.md).
+- Open when looking up Hyperlink in Acrobat. [Hyperlink](hyperlink.md).
+- Open when looking up Hyperlink in Acrobat. [Hyperlink references](hyperlink/reference-index.md).
+- Open when looking up Inline Images in Acrobat. [Inline Images](inline-images.md).
+- Open when looking up Inline Images in Acrobat. [Inline Images references](inline-images/reference-index.md).
+- Open when looking up Introduction what are acrobat services apis in Acrobat. [Introduction what are acrobat services apis references](introduction-what-are-acrobat-services-apis/reference-index.md).
+- Open when looking up Licensing Metrics & Free Tier in Acrobat. [Licensing Metrics & Free Tier](licensing-metrics-free-tier.md).
+- Open when looking up Live Demo in Acrobat. [Live Demo](live-demo.md).
+- Open when looking up Overview — What is Document Generation? in Acrobat. [Overview — What is Document Generation?](overview-what-is-document-generation.md).
+- Open when looking up Overview — What is Document Generation? in Acrobat. [Overview — What is Document Generation? references](overview-what-is-document-generation/reference-index.md).
+- Open when looking up Quickstart for Adobe Document Generation API (.NET) in Acrobat. [Quickstart for Adobe Document Generation API (.NET)](quickstart-for-adobe-document-generation-api-net.md).
+- Open when looking up Quickstart for Adobe Document Generation API (.NET) in Acrobat. [Quickstart for Adobe Document Generation API (.NET) references](quickstart-for-adobe-document-generation-api-net/reference-index.md).
+- Open when looking up Releases in Acrobat. [Releases references](releases/reference-index.md).
+- Open when looking up Table Tag with Markers in Acrobat. [Table Tag with Markers](table-tag-with-markers.md).
+- Open when looking up Table Tag with Markers in Acrobat. [Table Tag with Markers references](table-tag-with-markers/reference-index.md).
+- Open when looking up Template Tags in Acrobat. [Template Tags](template-tags.md).
+- Open when looking up Template Tags in Acrobat. [Template Tags references](template-tags/reference-index.md).
+- Open when looking up Usage Limits in Acrobat. [Usage Limits](usage-limits.md).
+- Open when looking up Version support policy change history in Acrobat. [Version support policy change history references](version-support-policy-change-history/reference-index.md).
+- Open when looking up Word Add-in in Acrobat. [Word Add-in](word-add-in.md).
+- Open when looking up Word Add-in in Acrobat. [Word Add-in references](word-add-in/reference-index.md).

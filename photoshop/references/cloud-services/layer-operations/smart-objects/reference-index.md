@@ -1,0 +1,24 @@
+# Photoshop — Smart objects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adding smart object layers in Photoshop. [Adding smart object layers references](adding-smart-object-layers/reference-index.md).
+- Open when looking up Common migration issues in Photoshop. [Common migration issues references](common-migration-issues/reference-index.md).
+- Open when looking up Creating documents with smart objects in Photoshop. [Creating documents with smart objects references](creating-documents-with-smart-objects/reference-index.md).
+- Open when looking up Editing existing smart objects in Photoshop. [Editing existing smart objects references](editing-existing-smart-objects/reference-index.md).
+- Open when looking up Feature availability in Photoshop. [Feature availability references](feature-availability/reference-index.md).
+- Open when looking up Key migration changes in Photoshop. [Key migration changes references](key-migration-changes/reference-index.md).
+- Open when looking up Layer Operations Smart Objects in Photoshop. [Layer Operations Smart Objects](layer-operations-smart-objects.md).
+- Open when looking up Layer Properties in Photoshop. [Layer Properties](layer-properties.md).
+- Open when looking up Migration Checklist in Photoshop. [Migration Checklist](migration-checklist.md).
+- Open when looking up New features in V2 in Photoshop. [New features in V2](new-features-in-v2.md).
+- Open when looking up New features in V2 in Photoshop. [New features in V2 references](new-features-in-v2/reference-index.md).
+- Open when looking up Next steps in Photoshop. [Next steps](next-steps.md).
+- Open when looking up Placement Options in Photoshop. [Placement Options](placement-options.md).
+- Open when looking up Placement Options in Photoshop. [Placement Options references](placement-options/reference-index.md).
+- Open when looking up Replacing smart object content in Photoshop. [Replacing smart object content references](replacing-smart-object-content/reference-index.md).
+- Open when looking up Smart Object Types in Photoshop. [Smart Object Types](smart-object-types.md).
+- Open when looking up Smart object with transformations in Photoshop. [Smart object with transformations references](smart-object-with-transformations/reference-index.md).
+- Open when looking up Smart-object layer migration: V1 payload in Photoshop. [Smart-object layer migration: V1 payload](smart-object-layer-migration.md).
+- Open when looking up Smart-object layer migration: V2 payload in Photoshop. [Smart-object layer migration: V2 payload](v2-smart-object-layer-request.md).
+- Open when looking up Supported Source File Types in Photoshop. [Supported Source File Types](supported-source-file-types.md).
+- Open when looking up Transform Mode in Photoshop. [Transform Mode](transform-mode.md).

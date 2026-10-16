@@ -1,0 +1,82 @@
+# Shared Adobe platform — Animate
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up _Math in Shared Adobe platform. [_Math](math.md).
+- Open when looking up ActionsPanel in Shared Adobe platform. [ActionsPanel](actions-panel.md).
+- Open when looking up activate in Shared Adobe platform. [activate](activate.md).
+- Open when looking up alert in Shared Adobe platform. [alert](alert.md).
+- Open when looking up BitMap in Shared Adobe platform. [BitMap](bit-map.md).
+- Open when looking up BitmapInstance in Shared Adobe platform. [BitmapInstance](bitmap-instance.md).
+- Open when looking up BitmapItem in Shared Adobe platform. [BitmapItem](bitmap-item.md).
+- Open when looking up CompiledClipInstance in Shared Adobe platform. [CompiledClipInstance references](compiled-clip-instance/reference-index.md).
+- Open when looking up CompilerErrors in Shared Adobe platform. [CompilerErrors](compiler-errors.md).
+- Open when looking up ComponentInstance in Shared Adobe platform. [ComponentInstance](component-instance.md).
+- Open when looking up ComponentsPanel in Shared Adobe platform. [ComponentsPanel](components-panel.md).
+- Open when looking up configureTool in Shared Adobe platform. [configureTool](configure-tool.md).
+- Open when looking up confirm in Shared Adobe platform. [confirm](confirm.md).
+- Open when looking up Contour in Shared Adobe platform. [Contour](contour.md).
+- Open when looking up deactivate in Shared Adobe platform. [deactivate](deactivate.md).
+- Open when looking up declare const document: Document in Shared Adobe platform. [declare const document: Document](declare-const-document-document.md).
+- Open when looking up declare const fl: Flash in Shared Adobe platform. [declare const fl: Flash](declare-const-fl-flash.md).
+- Open when looking up declare const flash: Flash in Shared Adobe platform. [declare const flash: Flash](declare-const-flash-flash.md).
+- Open when looking up declare const FLfile: FLfileClass in Shared Adobe platform. [declare const FLfile: FLfileClass](declare-const-f-lfile-f-lfile-class.md).
+- Open when looking up Document in Shared Adobe platform. [Document references](document/reference-index.md).
+- Open when looking up DrawingLayer in Shared Adobe platform. [DrawingLayer references](drawing-layer/reference-index.md).
+- Open when looking up Edge in Shared Adobe platform. [Edge](edge.md).
+- Open when looking up Element in Shared Adobe platform. [Element references](element/reference-index.md).
+- Open when looking up Fill in Shared Adobe platform. [Fill](fill.md).
+- Open when looking up Filter in Shared Adobe platform. [Filter references](filter/reference-index.md).
+- Open when looking up fl in Shared Adobe platform. [fl](fl.md).
+- Open when looking up Flash in Shared Adobe platform. [Flash references](flash/reference-index.md).
+- Open when looking up FLfileClass in Shared Adobe platform. [FLfileClass references](f-lfile-class/reference-index.md).
+- Open when looking up FolderItem in Shared Adobe platform. [FolderItem](folder-item.md).
+- Open when looking up FontItem in Shared Adobe platform. [FontItem](font-item.md).
+- Open when looking up Frame in Shared Adobe platform. [Frame references](frame/reference-index.md).
+- Open when looking up HalfEdge in Shared Adobe platform. [HalfEdge](half-edge.md).
+- Open when looking up ImageFormat in Shared Adobe platform. [ImageFormat](image-format.md).
+- Open when looking up InstalledPlayer in Shared Adobe platform. [InstalledPlayer](installed-player.md).
+- Open when looking up Instance in Shared Adobe platform. [Instance](instance.md).
+- Open when looking up Item in Shared Adobe platform. [Item references](item/reference-index.md).
+- Open when looking up keydown in Shared Adobe platform. [keydown](keydown.md).
+- Open when looking up keyup in Shared Adobe platform. [keyup](keyup.md).
+- Open when looking up Layer in Shared Adobe platform. [Layer](layer.md).
+- Open when looking up Library in Shared Adobe platform. [Library references](library/reference-index.md).
+- Open when looking up Limits in Shared Adobe platform. [Limits](limits.md).
+- Open when looking up Matrix in Shared Adobe platform. [Matrix](matrix.md).
+- Open when looking up mouseDoubleClick in Shared Adobe platform. [mouseDoubleClick](mouse-double-click.md).
+- Open when looking up mouseDown in Shared Adobe platform. [mouseDown](mouse-down.md).
+- Open when looking up mouseMove in Shared Adobe platform. [mouseMove](mouse-move.md).
+- Open when looking up mouseUp in Shared Adobe platform. [mouseUp](mouse-up.md).
+- Open when looking up notifySettingsChanged in Shared Adobe platform. [notifySettingsChanged](notify-settings-changed.md).
+- Open when looking up ObjectInDoc in Shared Adobe platform. [ObjectInDoc](object-in-doc.md).
+- Open when looking up OutputPanel in Shared Adobe platform. [OutputPanel](output-panel.md).
+- Open when looking up Oval in Shared Adobe platform. [Oval](oval.md).
+- Open when looking up Parameter in Shared Adobe platform. [Parameter](parameter.md).
+- Open when looking up Path in Shared Adobe platform. [Path](path.md).
+- Open when looking up Point in Shared Adobe platform. [Point](point.md).
+- Open when looking up Point3D in Shared Adobe platform. [Point3D](point3-d.md).
+- Open when looking up PresetItem in Shared Adobe platform. [PresetItem](preset-item.md).
+- Open when looking up PresetPanel in Shared Adobe platform. [PresetPanel references](preset-panel/reference-index.md).
+- Open when looking up prompt in Shared Adobe platform. [prompt](prompt.md).
+- Open when looking up Rectangle in Shared Adobe platform. [Rectangle](rectangle.md).
+- Open when looking up setCursor in Shared Adobe platform. [setCursor](set-cursor.md).
+- Open when looking up Shape in Shared Adobe platform. [Shape](shape.md).
+- Open when looking up SimpleShape in Shared Adobe platform. [SimpleShape](simple-shape.md).
+- Open when looking up SoundItem in Shared Adobe platform. [SoundItem](sound-item.md).
+- Open when looking up SpriteSheetExporter in Shared Adobe platform. [SpriteSheetExporter references](sprite-sheet-exporter/reference-index.md).
+- Open when looking up Stroke in Shared Adobe platform. [Stroke references](stroke/reference-index.md).
+- Open when looking up SWFPanel in Shared Adobe platform. [SWFPanel references](swf-panel/reference-index.md).
+- Open when looking up SymbolInstance in Shared Adobe platform. [SymbolInstance references](symbol-instance/reference-index.md).
+- Open when looking up SymbolItem in Shared Adobe platform. [SymbolItem](symbol-item.md).
+- Open when looking up Text in Shared Adobe platform. [Text references](text/reference-index.md).
+- Open when looking up TextAttrs in Shared Adobe platform. [TextAttrs](text-attrs.md).
+- Open when looking up TextRun in Shared Adobe platform. [TextRun](text-run.md).
+- Open when looking up Timeline in Shared Adobe platform. [Timeline references](timeline/reference-index.md).
+- Open when looking up ToolObj in Shared Adobe platform. [ToolObj references](tool-obj/reference-index.md).
+- Open when looking up Tools in Shared Adobe platform. [Tools](tools.md).
+- Open when looking up Tween in Shared Adobe platform. [Tween](tween.md).
+- Open when looking up TweenColor in Shared Adobe platform. [TweenColor](tween-color.md).
+- Open when looking up Vertex in Shared Adobe platform. [Vertex](vertex.md).
+- Open when looking up VideoItem in Shared Adobe platform. [VideoItem](video-item.md).
+- Open when looking up XMLUI in Shared Adobe platform. [XMLUI](xmlui.md).
+- Open when looking up XMLUIObj in Shared Adobe platform. [XMLUIObj](xmlui-obj.md).

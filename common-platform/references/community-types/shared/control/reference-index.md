@@ -1,0 +1,24 @@
+# Shared Adobe platform — _Control
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up _Control declaration in Shared Adobe platform. [_Control declaration](declaration.md).
+- Open when looking up _Control event listeners in Shared Adobe platform. [_Control event listeners](event-listeners.md).
+- Open when looking up _Control.alignment in Shared Adobe platform. [_Control.alignment](alignment.md).
+- Open when looking up _Control.bounds in Shared Adobe platform. [_Control.bounds](bounds.md).
+- Open when looking up _Control.dispatchEvent in Shared Adobe platform. [_Control.dispatchEvent](dispatch-event.md).
+- Open when looking up _Control.enabled in Shared Adobe platform. [_Control.enabled](enabled.md).
+- Open when looking up _Control.findElement in Shared Adobe platform. [_Control.findElement](find-element.md).
+- Open when looking up _Control.helpTip in Shared Adobe platform. [_Control.helpTip](help-tip.md).
+- Open when looking up _Control.hide in Shared Adobe platform. [_Control.hide](hide.md).
+- Open when looking up _Control.indent in Shared Adobe platform. [_Control.indent](indent.md).
+- Open when looking up _Control.location in Shared Adobe platform. [_Control.location](location.md).
+- Open when looking up _Control.maximumSize in Shared Adobe platform. [_Control.maximumSize](maximum-size.md).
+- Open when looking up _Control.minimumSize in Shared Adobe platform. [_Control.minimumSize](minimum-size.md).
+- Open when looking up _Control.parent in Shared Adobe platform. [_Control.parent](parent.md).
+- Open when looking up _Control.preferredSize in Shared Adobe platform. [_Control.preferredSize](preferred-size.md).
+- Open when looking up _Control.show in Shared Adobe platform. [_Control.show](show.md).
+- Open when looking up _Control.size in Shared Adobe platform. [_Control.size](size.md).
+- Open when looking up _Control.type in Shared Adobe platform. [_Control.type](type.md).
+- Open when looking up _Control.visible in Shared Adobe platform. [_Control.visible](visible.md).
+- Open when looking up _Control.window in Shared Adobe platform. [_Control.window](window.md).
+- Open when looking up _Control.windowBounds in Shared Adobe platform. [_Control.windowBounds](window-bounds.md).

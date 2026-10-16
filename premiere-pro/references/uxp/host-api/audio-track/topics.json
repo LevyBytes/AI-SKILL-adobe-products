@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "AudioTrack — Events", "file": "references/uxp/host-api/audio-track/audio-track-events.md", "summary": "Open when looking up AudioTrack — Events in Premiere Pro.", "keywords": ["AudioTrack — Events"]},
+  {"topic": "AudioTrack — Properties", "file": "references/uxp/host-api/audio-track/audio-track-properties.md", "summary": "Open when looking up AudioTrack — Properties in Premiere Pro.", "keywords": ["AudioTrack — Properties"]},
+  {"topic": "getIndex", "file": "references/uxp/host-api/audio-track/get-index.md", "summary": "Open when looking up getIndex in Premiere Pro.", "keywords": ["getIndex"]},
+  {"topic": "getMediaType", "file": "references/uxp/host-api/audio-track/get-media-type.md", "summary": "Open when looking up getMediaType in Premiere Pro.", "keywords": ["getMediaType"]},
+  {"topic": "getTrackItems", "file": "references/uxp/host-api/audio-track/get-track-items.md", "summary": "Open when looking up getTrackItems in Premiere Pro.", "keywords": ["getTrackItems"]},
+  {"topic": "isMuted", "file": "references/uxp/host-api/audio-track/is-muted.md", "summary": "Open when looking up isMuted in Premiere Pro.", "keywords": ["isMuted"]},
+  {"topic": "setMute", "file": "references/uxp/host-api/audio-track/set-mute.md", "summary": "Open when looking up setMute in Premiere Pro.", "keywords": ["setMute"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

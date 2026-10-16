@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Application example references", "file": "references/scripting/application-example/reference-index.md", "summary": "Open when looking up Application example in Illustrator.", "keywords": ["Application example references"]},
+  {"topic": "Application references", "file": "references/scripting/application/reference-index.md", "summary": "Open when looking up Application in Illustrator.", "keywords": ["Application references"]},
+  {"topic": "Preferences", "file": "references/scripting/preferences.md", "summary": "Open when looking up Preferences in Illustrator.", "keywords": ["Preferences"]},
+  {"topic": "Preferences references", "file": "references/scripting/preferences/reference-index.md", "summary": "Open when looking up Preferences in Illustrator.", "keywords": ["Preferences references"]},
+  {"topic": "Java script execution mode references", "file": "references/scripting/java-script-execution-mode/reference-index.md", "summary": "Open when looking up Java script execution mode in Illustrator.", "keywords": ["Java script execution mode references"]},
+  {"topic": "User interaction level references", "file": "references/scripting/user-interaction-level/reference-index.md", "summary": "Open when looking up User interaction level in Illustrator.", "keywords": ["User interaction level references"]},
+  {"topic": "User-interaction levels", "file": "references/scripting/user-interaction-levels.md", "summary": "Open when looking up User-interaction levels in Illustrator.", "keywords": ["User-interaction levels"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

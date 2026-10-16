@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Marker object", "file": "references/scripting/marker/marker-object.md", "summary": "Open when looking up Marker object in Premiere Pro.", "keywords": ["Marker object"]},
+  {"topic": "Marker.comments", "file": "references/scripting/marker/comments.md", "summary": "Open when looking up Marker.comments in Premiere Pro.", "keywords": ["Marker.comments"]},
+  {"topic": "Marker.end", "file": "references/scripting/marker/end.md", "summary": "Open when looking up Marker.end in Premiere Pro.", "keywords": ["Marker.end"]},
+  {"topic": "Marker.getColorByIndex()", "file": "references/scripting/marker/get-color-by-index.md", "summary": "Open when looking up Marker.getColorByIndex() in Premiere Pro.", "keywords": ["Marker.getColorByIndex()"]},
+  {"topic": "Marker.getWebLinkFrameTarget()", "file": "references/scripting/marker/get-web-link-frame-target.md", "summary": "Open when looking up Marker.getWebLinkFrameTarget() in Premiere Pro.", "keywords": ["Marker.getWebLinkFrameTarget()"]},
+  {"topic": "Marker.getWebLinkURL()", "file": "references/scripting/marker/get-web-link-url.md", "summary": "Open when looking up Marker.getWebLinkURL() in Premiere Pro.", "keywords": ["Marker.getWebLinkURL()"]},
+  {"topic": "Marker.guid", "file": "references/scripting/marker/guid.md", "summary": "Open when looking up Marker.guid in Premiere Pro.", "keywords": ["Marker.guid"]},
+  {"topic": "Marker.name", "file": "references/scripting/marker/name.md", "summary": "Open when looking up Marker.name in Premiere Pro.", "keywords": ["Marker.name"]},
+  {"topic": "Marker.setColorByIndex()", "file": "references/scripting/marker/set-color-by-index.md", "summary": "Open when looking up Marker.setColorByIndex() in Premiere Pro.", "keywords": ["Marker.setColorByIndex()"]},
+  {"topic": "Marker.setTypeAsChapter()", "file": "references/scripting/marker/set-type-as-chapter.md", "summary": "Open when looking up Marker.setTypeAsChapter() in Premiere Pro.", "keywords": ["Marker.setTypeAsChapter()"]},
+  {"topic": "Marker.setTypeAsComment()", "file": "references/scripting/marker/set-type-as-comment.md", "summary": "Open when looking up Marker.setTypeAsComment() in Premiere Pro.", "keywords": ["Marker.setTypeAsComment()"]},
+  {"topic": "Marker.setTypeAsSegmentation()", "file": "references/scripting/marker/set-type-as-segmentation.md", "summary": "Open when looking up Marker.setTypeAsSegmentation() in Premiere Pro.", "keywords": ["Marker.setTypeAsSegmentation()"]},
+  {"topic": "Marker.setTypeAsWebLink()", "file": "references/scripting/marker/set-type-as-web-link.md", "summary": "Open when looking up Marker.setTypeAsWebLink() in Premiere Pro.", "keywords": ["Marker.setTypeAsWebLink()"]},
+  {"topic": "Marker.start", "file": "references/scripting/marker/start.md", "summary": "Open when looking up Marker.start in Premiere Pro.", "keywords": ["Marker.start"]},
+  {"topic": "Marker.type", "file": "references/scripting/marker/type.md", "summary": "Open when looking up Marker.type in Premiere Pro.", "keywords": ["Marker.type"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

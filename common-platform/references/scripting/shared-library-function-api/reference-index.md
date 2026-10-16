@@ -1,0 +1,27 @@
+# Shared Adobe platform — Shared library function api
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addClass() in Shared Adobe platform. [addClass()](add-class.md).
+- Open when looking up addMethod() in Shared Adobe platform. [addMethod()](add-method.md).
+- Open when looking up addMethods() in Shared Adobe platform. [addMethods()](add-methods.md).
+- Open when looking up addProperties() in Shared Adobe platform. [addProperties()](add-properties.md).
+- Open when looking up addProperty() in Shared Adobe platform. [addProperty()](add-property.md).
+- Open when looking up call() in Shared Adobe platform. [call()](call.md).
+- Open when looking up Defining entry points for indirect access — Shared-library function API in Shared Adobe platform. [Defining entry points for indirect access — Shared-library function API](shared-library-function-api.md).
+- Open when looking up dumpObject() in Shared Adobe platform. [dumpObject()](dump-object.md).
+- Open when looking up dumpServer() in Shared Adobe platform. [dumpServer()](dump-server.md).
+- Open when looking up eval() in Shared Adobe platform. [eval()](eval.md).
+- Open when looking up finalize() in Shared Adobe platform. [finalize()](finalize.md).
+- Open when looking up get() in Shared Adobe platform. [get()](get.md).
+- Open when looking up getClass() in Shared Adobe platform. [getClass()](get-class.md).
+- Open when looking up getClientData() in Shared Adobe platform. [getClientData()](get-client-data.md).
+- Open when looking up getServer() in Shared Adobe platform. [getServer()](get-server.md).
+- Open when looking up initialize() in Shared Adobe platform. [initialize()](initialize.md).
+- Open when looking up put() in Shared Adobe platform. [put()](put.md).
+- Open when looking up setClientData() in Shared Adobe platform. [setClientData()](set-client-data.md).
+- Open when looking up SoObjectInterface in Shared Adobe platform. [SoObjectInterface](so-object-interface.md).
+- Open when looking up SoServerInterface in Shared Adobe platform. [SoServerInterface](so-server-interface.md).
+- Open when looking up taggedDataFree() in Shared Adobe platform. [taggedDataFree()](tagged-data-free.md).
+- Open when looking up taggedDataInit() in Shared Adobe platform. [taggedDataInit()](tagged-data-init.md).
+- Open when looking up toString() in Shared Adobe platform. [toString()](to-string.md).
+- Open when looking up valueOf() in Shared Adobe platform. [valueOf()](value-of.md).

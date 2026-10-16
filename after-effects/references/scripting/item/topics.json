@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Item object", "file": "references/scripting/item/item-object.md", "summary": "Open when looking up Item object in After Effects.", "keywords": ["Item object"]},
+  {"topic": "Item.addGuide()", "file": "references/scripting/item/add-guide.md", "summary": "Open when looking up Item.addGuide() in After Effects.", "keywords": ["Item.addGuide()"]},
+  {"topic": "Item.comment", "file": "references/scripting/item/comment.md", "summary": "Open when looking up Item.comment in After Effects.", "keywords": ["Item.comment"]},
+  {"topic": "Item.dynamicLinkGUID", "file": "references/scripting/item/dynamic-link-guid.md", "summary": "Open when looking up Item.dynamicLinkGUID in After Effects.", "keywords": ["Item.dynamicLinkGUID"]},
+  {"topic": "Item.guides", "file": "references/scripting/item/guides.md", "summary": "Open when looking up Item.guides in After Effects.", "keywords": ["Item.guides"]},
+  {"topic": "Item.id", "file": "references/scripting/item/id.md", "summary": "Open when looking up Item.id in After Effects.", "keywords": ["Item.id"]},
+  {"topic": "Item.label", "file": "references/scripting/item/label.md", "summary": "Open when looking up Item.label in After Effects.", "keywords": ["Item.label"]},
+  {"topic": "Item.name", "file": "references/scripting/item/name.md", "summary": "Open when looking up Item.name in After Effects.", "keywords": ["Item.name"]},
+  {"topic": "Item.parentFolder", "file": "references/scripting/item/parent-folder.md", "summary": "Open when looking up Item.parentFolder in After Effects.", "keywords": ["Item.parentFolder"]},
+  {"topic": "Item.remove()", "file": "references/scripting/item/remove.md", "summary": "Open when looking up Item.remove() in After Effects.", "keywords": ["Item.remove()"]},
+  {"topic": "Item.removeGuide()", "file": "references/scripting/item/remove-guide.md", "summary": "Open when looking up Item.removeGuide() in After Effects.", "keywords": ["Item.removeGuide()"]},
+  {"topic": "Item.selected", "file": "references/scripting/item/selected.md", "summary": "Open when looking up Item.selected in After Effects.", "keywords": ["Item.selected"]},
+  {"topic": "Item.setGuide()", "file": "references/scripting/item/set-guide.md", "summary": "Open when looking up Item.setGuide() in After Effects.", "keywords": ["Item.setGuide()"]},
+  {"topic": "Item.typeName", "file": "references/scripting/item/type-name.md", "summary": "Open when looking up Item.typeName in After Effects.", "keywords": ["Item.typeName"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

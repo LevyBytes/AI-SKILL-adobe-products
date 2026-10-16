@@ -1,0 +1,17 @@
+# Export brochure docx example setup
+
+Open when running or adapting the linked export brochure docx example.
+
+Use the dependencies and resource layout from the [captured source project](https://raw.githubusercontent.com/AdobeDocs/pdfservices-api-documentation/53d3c2030c0371e95a2edca19b888c4656140eb5/src/pages/overview/pdf-services-api/quickstarts/dotnet/index.md). Copy the linked modules together into that project’s matching example/package directory. Run from its project root so relative resource and output paths resolve as documented.
+
+Supply your own PDF Services credentials through the environment variables or credentials object used by the example. The SDK, service access and input documents are external prerequisites; no credentials or sample binaries are bundled here.
+
+These files illustrate source-backed API calls and recorded repairs. Local checks cover syntax and isolated mocks; they do not claim a successful live service request or native Java/.NET build.
+
+## Example files
+
+- [Program.cs](Program.cs)
+
+## Source licensing
+
+- [Captured pdfservices-dotnet license](../../../../../assets/licenses/pdfservices-dotnet-license.txt)

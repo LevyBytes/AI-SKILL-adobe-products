@@ -1,0 +1,44 @@
+# Shared Adobe platform — TextPath
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextPath declaration in Shared Adobe platform. [TextPath declaration](declaration.md).
+- Open when looking up TextPath event listeners in Shared Adobe platform. [TextPath event listeners](event-listeners.md).
+- Open when looking up TextPath identity and parent in Shared Adobe platform. [TextPath identity and parent](identity-and-parent.md).
+- Open when looking up TextPath labels and metadata in Shared Adobe platform. [TextPath labels and metadata](labels-and-metadata.md).
+- Open when looking up TextPath object resolution in Shared Adobe platform. [TextPath object resolution](object-resolution.md).
+- Open when looking up TextPath.AFTER_PLACE in Shared Adobe platform. [TextPath.AFTER_PLACE](afterplace.md).
+- Open when looking up TextPath.BEFORE_PLACE in Shared Adobe platform. [TextPath.BEFORE_PLACE](beforeplace.md).
+- Open when looking up TextPath.centerBracket in Shared Adobe platform. [TextPath.centerBracket](center-bracket.md).
+- Open when looking up TextPath.changeGlyph in Shared Adobe platform. [TextPath.changeGlyph](change-glyph.md).
+- Open when looking up TextPath.changeGrep in Shared Adobe platform. [TextPath.changeGrep](change-grep.md).
+- Open when looking up TextPath.changeText in Shared Adobe platform. [TextPath.changeText](change-text.md).
+- Open when looking up TextPath.changeTransliterate in Shared Adobe platform. [TextPath.changeTransliterate](change-transliterate.md).
+- Open when looking up TextPath.characters in Shared Adobe platform. [TextPath.characters](characters.md).
+- Open when looking up TextPath.contents in Shared Adobe platform. [TextPath.contents](contents.md).
+- Open when looking up TextPath.endBracket in Shared Adobe platform. [TextPath.endBracket](end-bracket.md).
+- Open when looking up TextPath.endTextFrame in Shared Adobe platform. [TextPath.endTextFrame](end-text-frame.md).
+- Open when looking up TextPath.findGlyph in Shared Adobe platform. [TextPath.findGlyph](find-glyph.md).
+- Open when looking up TextPath.findGrep in Shared Adobe platform. [TextPath.findGrep](find-grep.md).
+- Open when looking up TextPath.findText in Shared Adobe platform. [TextPath.findText](find-text.md).
+- Open when looking up TextPath.findTransliterate in Shared Adobe platform. [TextPath.findTransliterate](find-transliterate.md).
+- Open when looking up TextPath.flipPathEffect in Shared Adobe platform. [TextPath.flipPathEffect](flip-path-effect.md).
+- Open when looking up TextPath.insertionPoints in Shared Adobe platform. [TextPath.insertionPoints](insertion-points.md).
+- Open when looking up TextPath.lines in Shared Adobe platform. [TextPath.lines](lines.md).
+- Open when looking up TextPath.nextTextFrame in Shared Adobe platform. [TextPath.nextTextFrame](next-text-frame.md).
+- Open when looking up TextPath.overflows in Shared Adobe platform. [TextPath.overflows](overflows.md).
+- Open when looking up TextPath.paragraphs in Shared Adobe platform. [TextPath.paragraphs](paragraphs.md).
+- Open when looking up TextPath.parentStory in Shared Adobe platform. [TextPath.parentStory](parent-story.md).
+- Open when looking up TextPath.pathAlignment in Shared Adobe platform. [TextPath.pathAlignment](path-alignment.md).
+- Open when looking up TextPath.pathEffect in Shared Adobe platform. [TextPath.pathEffect](path-effect.md).
+- Open when looking up TextPath.pathSpacing in Shared Adobe platform. [TextPath.pathSpacing](path-spacing.md).
+- Open when looking up TextPath.previousTextFrame in Shared Adobe platform. [TextPath.previousTextFrame](previous-text-frame.md).
+- Open when looking up TextPath.properties in Shared Adobe platform. [TextPath.properties](properties.md).
+- Open when looking up TextPath.remove in Shared Adobe platform. [TextPath.remove](remove.md).
+- Open when looking up TextPath.startBracket in Shared Adobe platform. [TextPath.startBracket](start-bracket.md).
+- Open when looking up TextPath.startTextFrame in Shared Adobe platform. [TextPath.startTextFrame](start-text-frame.md).
+- Open when looking up TextPath.textAlignment in Shared Adobe platform. [TextPath.textAlignment](text-alignment.md).
+- Open when looking up TextPath.textColumns in Shared Adobe platform. [TextPath.textColumns](text-columns.md).
+- Open when looking up TextPath.textFrameIndex in Shared Adobe platform. [TextPath.textFrameIndex](text-frame-index.md).
+- Open when looking up TextPath.texts in Shared Adobe platform. [TextPath.texts](texts.md).
+- Open when looking up TextPath.textStyleRanges in Shared Adobe platform. [TextPath.textStyleRanges](text-style-ranges.md).
+- Open when looking up TextPath.words in Shared Adobe platform. [TextPath.words](words.md).

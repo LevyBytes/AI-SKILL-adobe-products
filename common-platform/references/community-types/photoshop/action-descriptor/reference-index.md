@@ -1,0 +1,43 @@
+# Shared Adobe platform — ActionDescriptor
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ActionDescriptor declaration in Shared Adobe platform. [ActionDescriptor declaration](declaration.md).
+- Open when looking up ActionDescriptor.clear in Shared Adobe platform. [ActionDescriptor.clear](clear.md).
+- Open when looking up ActionDescriptor.count in Shared Adobe platform. [ActionDescriptor.count](count.md).
+- Open when looking up ActionDescriptor.erase in Shared Adobe platform. [ActionDescriptor.erase](erase.md).
+- Open when looking up ActionDescriptor.fromStream in Shared Adobe platform. [ActionDescriptor.fromStream](from-stream.md).
+- Open when looking up ActionDescriptor.getBoolean in Shared Adobe platform. [ActionDescriptor.getBoolean](get-boolean.md).
+- Open when looking up ActionDescriptor.getClass in Shared Adobe platform. [ActionDescriptor.getClass](get-class.md).
+- Open when looking up ActionDescriptor.getData in Shared Adobe platform. [ActionDescriptor.getData](get-data.md).
+- Open when looking up ActionDescriptor.getDouble in Shared Adobe platform. [ActionDescriptor.getDouble](get-double.md).
+- Open when looking up ActionDescriptor.getEnumerationType in Shared Adobe platform. [ActionDescriptor.getEnumerationType](get-enumeration-type.md).
+- Open when looking up ActionDescriptor.getEnumerationValue in Shared Adobe platform. [ActionDescriptor.getEnumerationValue](get-enumeration-value.md).
+- Open when looking up ActionDescriptor.getInteger in Shared Adobe platform. [ActionDescriptor.getInteger](get-integer.md).
+- Open when looking up ActionDescriptor.getKey in Shared Adobe platform. [ActionDescriptor.getKey](get-key.md).
+- Open when looking up ActionDescriptor.getLargeInteger in Shared Adobe platform. [ActionDescriptor.getLargeInteger](get-large-integer.md).
+- Open when looking up ActionDescriptor.getList in Shared Adobe platform. [ActionDescriptor.getList](get-list.md).
+- Open when looking up ActionDescriptor.getObjectType in Shared Adobe platform. [ActionDescriptor.getObjectType](get-object-type.md).
+- Open when looking up ActionDescriptor.getObjectValue in Shared Adobe platform. [ActionDescriptor.getObjectValue](get-object-value.md).
+- Open when looking up ActionDescriptor.getPath in Shared Adobe platform. [ActionDescriptor.getPath](get-path.md).
+- Open when looking up ActionDescriptor.getReference in Shared Adobe platform. [ActionDescriptor.getReference](get-reference.md).
+- Open when looking up ActionDescriptor.getString in Shared Adobe platform. [ActionDescriptor.getString](get-string.md).
+- Open when looking up ActionDescriptor.getType in Shared Adobe platform. [ActionDescriptor.getType](get-type.md).
+- Open when looking up ActionDescriptor.getUnitDoubleType in Shared Adobe platform. [ActionDescriptor.getUnitDoubleType](get-unit-double-type.md).
+- Open when looking up ActionDescriptor.getUnitDoubleValue in Shared Adobe platform. [ActionDescriptor.getUnitDoubleValue](get-unit-double-value.md).
+- Open when looking up ActionDescriptor.hasKey in Shared Adobe platform. [ActionDescriptor.hasKey](has-key.md).
+- Open when looking up ActionDescriptor.isEqual in Shared Adobe platform. [ActionDescriptor.isEqual](is-equal.md).
+- Open when looking up ActionDescriptor.putBoolean in Shared Adobe platform. [ActionDescriptor.putBoolean](put-boolean.md).
+- Open when looking up ActionDescriptor.putClass in Shared Adobe platform. [ActionDescriptor.putClass](put-class.md).
+- Open when looking up ActionDescriptor.putData in Shared Adobe platform. [ActionDescriptor.putData](put-data.md).
+- Open when looking up ActionDescriptor.putDouble in Shared Adobe platform. [ActionDescriptor.putDouble](put-double.md).
+- Open when looking up ActionDescriptor.putEnumerated in Shared Adobe platform. [ActionDescriptor.putEnumerated](put-enumerated.md).
+- Open when looking up ActionDescriptor.putInteger in Shared Adobe platform. [ActionDescriptor.putInteger](put-integer.md).
+- Open when looking up ActionDescriptor.putLargeInteger in Shared Adobe platform. [ActionDescriptor.putLargeInteger](put-large-integer.md).
+- Open when looking up ActionDescriptor.putList in Shared Adobe platform. [ActionDescriptor.putList](put-list.md).
+- Open when looking up ActionDescriptor.putObject in Shared Adobe platform. [ActionDescriptor.putObject](put-object.md).
+- Open when looking up ActionDescriptor.putPath in Shared Adobe platform. [ActionDescriptor.putPath](put-path.md).
+- Open when looking up ActionDescriptor.putReference in Shared Adobe platform. [ActionDescriptor.putReference](put-reference.md).
+- Open when looking up ActionDescriptor.putString in Shared Adobe platform. [ActionDescriptor.putString](put-string.md).
+- Open when looking up ActionDescriptor.putUnitDouble in Shared Adobe platform. [ActionDescriptor.putUnitDouble](put-unit-double.md).
+- Open when looking up ActionDescriptor.toStream in Shared Adobe platform. [ActionDescriptor.toStream](to-stream.md).
+- Open when looking up ActionDescriptor.typename in Shared Adobe platform. [ActionDescriptor.typename](typename.md).

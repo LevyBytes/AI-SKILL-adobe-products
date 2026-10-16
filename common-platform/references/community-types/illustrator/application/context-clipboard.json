@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.copy", "file": "references/community-types/illustrator/application/copy.md", "summary": "Open when looking up Application.copy in Shared Adobe platform.", "keywords": ["Application.copy"]},
+  {"topic": "Application.cut", "file": "references/community-types/illustrator/application/cut.md", "summary": "Open when looking up Application.cut in Shared Adobe platform.", "keywords": ["Application.cut"]},
+  {"topic": "Application.paste", "file": "references/community-types/illustrator/application/paste.md", "summary": "Open when looking up Application.paste in Shared Adobe platform.", "keywords": ["Application.paste"]},
+  {"topic": "Application.pasteRemembersLayers", "file": "references/community-types/illustrator/application/paste-remembers-layers.md", "summary": "Open when looking up Application.pasteRemembersLayers in Shared Adobe platform.", "keywords": ["Application.pasteRemembersLayers"]},
+  {"topic": "Application.selection", "file": "references/community-types/illustrator/application/selection.md", "summary": "Open when looking up Application.selection in Shared Adobe platform.", "keywords": ["Application.selection"]},
+  {"topic": "Application.undo", "file": "references/community-types/illustrator/application/undo.md", "summary": "Open when looking up Application.undo in Shared Adobe platform.", "keywords": ["Application.undo"]},
+  {"topic": "Application.redo", "file": "references/community-types/illustrator/application/redo.md", "summary": "Open when looking up Application.redo in Shared Adobe platform.", "keywords": ["Application.redo"]},
+  {"topic": "Application.redraw", "file": "references/community-types/illustrator/application/redraw.md", "summary": "Open when looking up Application.redraw in Shared Adobe platform.", "keywords": ["Application.redraw"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,21 @@
+# Acrobat — Tts
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up available in Acrobat. [available](available.md).
+- Open when looking up getNthSpeakerName in Acrobat. [getNthSpeakerName](get-nth-speaker-name.md).
+- Open when looking up JavaScript APIs — TTS in Acrobat. [JavaScript APIs — TTS](java-script-apis-tts.md).
+- Open when looking up numSpeakers in Acrobat. [numSpeakers](num-speakers.md).
+- Open when looking up pause in Acrobat. [pause](pause.md).
+- Open when looking up pitch in Acrobat. [pitch](pitch.md).
+- Open when looking up qSilence in Acrobat. [qSilence](q-silence.md).
+- Open when looking up qSound in Acrobat. [qSound](q-sound.md).
+- Open when looking up qText in Acrobat. [qText](q-text.md).
+- Open when looking up reset in Acrobat. [reset](reset.md).
+- Open when looking up resume in Acrobat. [resume](resume.md).
+- Open when looking up soundCues in Acrobat. [soundCues](sound-cues.md).
+- Open when looking up speaker in Acrobat. [speaker](speaker.md).
+- Open when looking up speechCues in Acrobat. [speechCues](speech-cues.md).
+- Open when looking up speechRate in Acrobat. [speechRate](speech-rate.md).
+- Open when looking up stop in Acrobat. [stop](stop.md).
+- Open when looking up talk in Acrobat. [talk](talk.md).
+- Open when looking up volume in Acrobat. [volume](volume.md).

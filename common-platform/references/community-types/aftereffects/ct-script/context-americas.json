@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CTScript.CT_CHEROKEE_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctcherokeescript.md", "summary": "Open when looking up CTScript.CT_CHEROKEE_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_CHEROKEE_SCRIPT"]},
+  {"topic": "CTScript.CT_OSAGE_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctosagescript.md", "summary": "Open when looking up CTScript.CT_OSAGE_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_OSAGE_SCRIPT"]},
+  {"topic": "CTScript.CT_UCAS_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctucasscript.md", "summary": "Open when looking up CTScript.CT_UCAS_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_UCAS_SCRIPT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

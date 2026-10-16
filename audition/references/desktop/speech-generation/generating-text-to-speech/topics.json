@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Generate speech", "file": "references/desktop/speech-generation/generating-text-to-speech/generate-speech.md", "summary": "Open when looking up Generate speech in Audition.", "keywords": ["Generate speech"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

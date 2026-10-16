@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Beta SDK", "file": "references/document-generation/doc-gen-beta/beta-sdk.md", "summary": "Open when looking up Beta SDK in Acrobat.", "keywords": ["Beta SDK"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

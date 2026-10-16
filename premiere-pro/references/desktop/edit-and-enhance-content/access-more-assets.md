@@ -1,0 +1,3 @@
+# Access more assets
+
+Editors may still lack needed shots even when they can access production rushes and an archive. Adobe Stock addresses that gap. Unlike many stock-content sites, Adobe Stock is available inside Adobe applications. Users can search more than 90 million stock images, videos, and graphics, including MOGRTs, to complete their creative idea. In comparison, the Adobe Stock workflow takes just 16 seconds. Adobe Stock footage does not have to be licensed before use: save the watermarked preview footage to Creative Cloud, then import it into the timeline. After approval, click download, and the licensed clip replaces the preview while keeping all adjustments.

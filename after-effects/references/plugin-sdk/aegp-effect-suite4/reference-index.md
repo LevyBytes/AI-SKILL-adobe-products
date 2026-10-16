@@ -1,0 +1,25 @@
+# After Effects — AEGP_EffectSuite4
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_AddEffectMask in After Effects. [AEGP_AddEffectMask](aegp-add-effect-mask.md).
+- Open when looking up AEGP_ApplyEffect in After Effects. [AEGP_ApplyEffect](aegp-apply-effect.md).
+- Open when looking up AEGP_DeleteLayerEffect in After Effects. [AEGP_DeleteLayerEffect](aegp-delete-layer-effect.md).
+- Open when looking up AEGP_DisposeEffect in After Effects. [AEGP_DisposeEffect](aegp-dispose-effect.md).
+- Open when looking up AEGP_DuplicateEffect in After Effects. [AEGP_DuplicateEffect](aegp-duplicate-effect.md).
+- Open when looking up AEGP_EffectCallGeneric in After Effects. [AEGP_EffectCallGeneric](aegp-effect-call-generic.md).
+- Open when looking up AEGP_GetEffectCategory in After Effects. [AEGP_GetEffectCategory](aegp-get-effect-category.md).
+- Open when looking up AEGP_GetEffectFlags in After Effects. [AEGP_GetEffectFlags](aegp-get-effect-flags.md).
+- Open when looking up AEGP_GetEffectMaskID in After Effects. [AEGP_GetEffectMaskID](aegp-get-effect-mask-id.md).
+- Open when looking up AEGP_GetEffectMatchName in After Effects. [AEGP_GetEffectMatchName](aegp-get-effect-match-name.md).
+- Open when looking up AEGP_GetEffectName in After Effects. [AEGP_GetEffectName](aegp-get-effect-name.md).
+- Open when looking up AEGP_GetEffectParamUnionByIndex in After Effects. [AEGP_GetEffectParamUnionByIndex](aegp-get-effect-param-union-by-index.md).
+- Open when looking up AEGP_GetInstalledKeyFromLayerEffect in After Effects. [AEGP_GetInstalledKeyFromLayerEffect](aegp-get-installed-key-from-layer-effect.md).
+- Open when looking up AEGP_GetLayerEffectByIndex in After Effects. [AEGP_GetLayerEffectByIndex](aegp-get-layer-effect-by-index.md).
+- Open when looking up AEGP_GetLayerNumEffects in After Effects. [AEGP_GetLayerNumEffects](aegp-get-layer-num-effects.md).
+- Open when looking up AEGP_GetNextInstalledEffect in After Effects. [AEGP_GetNextInstalledEffect](aegp-get-next-installed-effect.md).
+- Open when looking up AEGP_GetNumInstalledEffects in After Effects. [AEGP_GetNumInstalledEffects](aegp-get-num-installed-effects.md).
+- Open when looking up AEGP_NumEffectMask in After Effects. [AEGP_NumEffectMask](aegp-num-effect-mask.md).
+- Open when looking up AEGP_RemoveEffectMask in After Effects. [AEGP_RemoveEffectMask](aegp-remove-effect-mask.md).
+- Open when looking up AEGP_ReorderEffect in After Effects. [AEGP_ReorderEffect](aegp-reorder-effect.md).
+- Open when looking up AEGP_SetEffectFlags in After Effects. [AEGP_SetEffectFlags](aegp-set-effect-flags.md).
+- Open when looking up AEGP_SetEffectMask in After Effects. [AEGP_SetEffectMask](aegp-set-effect-mask.md).

@@ -1,0 +1,23 @@
+# Shared Adobe platform — ListBox
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ListBox declaration in Shared Adobe platform. [ListBox declaration](declaration.md).
+- Open when looking up ListBox.active in Shared Adobe platform. [ListBox.active](active.md).
+- Open when looking up ListBox.add in Shared Adobe platform. [ListBox.add](add.md).
+- Open when looking up ListBox.children in Shared Adobe platform. [ListBox.children](children.md).
+- Open when looking up ListBox.columns in Shared Adobe platform. [ListBox.columns](columns.md).
+- Open when looking up ListBox.find in Shared Adobe platform. [ListBox.find](find.md).
+- Open when looking up ListBox.graphics in Shared Adobe platform. [ListBox.graphics](graphics.md).
+- Open when looking up ListBox.items in Shared Adobe platform. [ListBox.items](items.md).
+- Open when looking up ListBox.itemSize in Shared Adobe platform. [ListBox.itemSize](item-size.md).
+- Open when looking up ListBox.notify in Shared Adobe platform. [ListBox.notify](notify.md).
+- Open when looking up ListBox.onActivate in Shared Adobe platform. [ListBox.onActivate](on-activate.md).
+- Open when looking up ListBox.onChange in Shared Adobe platform. [ListBox.onChange](on-change.md).
+- Open when looking up ListBox.onDeactivate in Shared Adobe platform. [ListBox.onDeactivate](on-deactivate.md).
+- Open when looking up ListBox.onDoubleClick in Shared Adobe platform. [ListBox.onDoubleClick](on-double-click.md).
+- Open when looking up ListBox.onDraw in Shared Adobe platform. [ListBox.onDraw](on-draw.md).
+- Open when looking up ListBox.onShortcutKey in Shared Adobe platform. [ListBox.onShortcutKey](on-shortcut-key.md).
+- Open when looking up ListBox.remove in Shared Adobe platform. [ListBox.remove](remove.md).
+- Open when looking up ListBox.removeAll in Shared Adobe platform. [ListBox.removeAll](remove-all.md).
+- Open when looking up ListBox.selection in Shared Adobe platform. [ListBox.selection](selection.md).
+- Open when looking up ListBox.shortcutKey in Shared Adobe platform. [ListBox.shortcutKey](shortcut-key.md).

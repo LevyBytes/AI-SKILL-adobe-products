@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Multi-Frame Rendering in AE — How to locate the static and global variables in your effects", "file": "references/plugin-sdk/locate-static-and-global-state/how-to-locate-the-static-and-global-variables-in-your-effects.md", "summary": "Open when looking up Multi-Frame Rendering in AE — How to locate the static and global variables in your effects in After Effects.", "keywords": ["Multi-Frame Rendering in AE — How to locate the static and global variables in your effects"]},
+  {"topic": "On MacOS", "file": "references/plugin-sdk/locate-static-and-global-state/on-mac-os.md", "summary": "Open when looking up On MacOS in After Effects.", "keywords": ["On MacOS"]},
+  {"topic": "Preparation", "file": "references/plugin-sdk/locate-static-and-global-state/preparation.md", "summary": "Open when looking up Preparation in After Effects.", "keywords": ["Preparation"]},
+  {"topic": "Using the Windows Static Analyzer", "file": "references/plugin-sdk/locate-static-and-global-state/using-the-windows-static-analyzer.md", "summary": "Open when looking up Using the Windows Static Analyzer in After Effects.", "keywords": ["Using the Windows Static Analyzer"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

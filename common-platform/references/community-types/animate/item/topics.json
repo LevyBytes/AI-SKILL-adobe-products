@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Item declaration", "file": "references/community-types/animate/item/declaration.md", "summary": "Open when looking up Item declaration in Shared Adobe platform.", "keywords": ["Item declaration"]},
+  {"topic": "Item.addData", "file": "references/community-types/animate/item/add-data.md", "summary": "Open when looking up Item.addData in Shared Adobe platform.", "keywords": ["Item.addData"]},
+  {"topic": "Item.getData", "file": "references/community-types/animate/item/get-data.md", "summary": "Open when looking up Item.getData in Shared Adobe platform.", "keywords": ["Item.getData"]},
+  {"topic": "Item.getPublishData", "file": "references/community-types/animate/item/get-publish-data.md", "summary": "Open when looking up Item.getPublishData in Shared Adobe platform.", "keywords": ["Item.getPublishData"]},
+  {"topic": "Item.hasData", "file": "references/community-types/animate/item/has-data.md", "summary": "Open when looking up Item.hasData in Shared Adobe platform.", "keywords": ["Item.hasData"]},
+  {"topic": "Item.itemType", "file": "references/community-types/animate/item/item-type.md", "summary": "Open when looking up Item.itemType in Shared Adobe platform.", "keywords": ["Item.itemType"]},
+  {"topic": "Item.linkageBaseClass", "file": "references/community-types/animate/item/linkage-base-class.md", "summary": "Open when looking up Item.linkageBaseClass in Shared Adobe platform.", "keywords": ["Item.linkageBaseClass"]},
+  {"topic": "Item.linkageClassName", "file": "references/community-types/animate/item/linkage-class-name.md", "summary": "Open when looking up Item.linkageClassName in Shared Adobe platform.", "keywords": ["Item.linkageClassName"]},
+  {"topic": "Item.linkageExportForAS", "file": "references/community-types/animate/item/linkage-export-for-as.md", "summary": "Open when looking up Item.linkageExportForAS in Shared Adobe platform.", "keywords": ["Item.linkageExportForAS"]},
+  {"topic": "Item.linkageExportForRS", "file": "references/community-types/animate/item/linkage-export-for-rs.md", "summary": "Open when looking up Item.linkageExportForRS in Shared Adobe platform.", "keywords": ["Item.linkageExportForRS"]},
+  {"topic": "Item.linkageExportInFirstFrame", "file": "references/community-types/animate/item/linkage-export-in-first-frame.md", "summary": "Open when looking up Item.linkageExportInFirstFrame in Shared Adobe platform.", "keywords": ["Item.linkageExportInFirstFrame"]},
+  {"topic": "Item.linkageIdentifier", "file": "references/community-types/animate/item/linkage-identifier.md", "summary": "Open when looking up Item.linkageIdentifier in Shared Adobe platform.", "keywords": ["Item.linkageIdentifier"]},
+  {"topic": "Item.linkageImportForRS", "file": "references/community-types/animate/item/linkage-import-for-rs.md", "summary": "Open when looking up Item.linkageImportForRS in Shared Adobe platform.", "keywords": ["Item.linkageImportForRS"]},
+  {"topic": "Item.linkageURL", "file": "references/community-types/animate/item/linkage-url.md", "summary": "Open when looking up Item.linkageURL in Shared Adobe platform.", "keywords": ["Item.linkageURL"]},
+  {"topic": "Item.name", "file": "references/community-types/animate/item/name.md", "summary": "Open when looking up Item.name in Shared Adobe platform.", "keywords": ["Item.name"]},
+  {"topic": "Item.removeData", "file": "references/community-types/animate/item/remove-data.md", "summary": "Open when looking up Item.removeData in Shared Adobe platform.", "keywords": ["Item.removeData"]},
+  {"topic": "Item.setPublishData", "file": "references/community-types/animate/item/set-publish-data.md", "summary": "Open when looking up Item.setPublishData in Shared Adobe platform.", "keywords": ["Item.setPublishData"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

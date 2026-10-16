@@ -1,0 +1,37 @@
+# Acrobat — Change history
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 1.0.0 (March, 2020; First major release) in Acrobat. [1.0.0 (March, 2020; First major release)](1-0-0-march-2020-first-major-release.md).
+- Open when looking up 1.1.0 (June, 2020; minor release) in Acrobat. [1.1.0 (June, 2020; minor release)](1-1-0-june-2020-minor-release.md).
+- Open when looking up 1.2.0 (September, 2020; minor release) in Acrobat. [1.2.0 (September, 2020; minor release)](1-2-0-september-2020-minor-release.md).
+- Open when looking up 2.0.0 (May, 2021; major release) in Acrobat. [2.0.0 (May, 2021; major release)](2-0-0-may-2021-major-release.md).
+- Open when looking up 2.1.0 (September, 2021; minor release) in Acrobat. [2.1.0 (September, 2021; minor release)](2-1-0-september-2021-minor-release.md).
+- Open when looking up 2.2.0 (January, 2022; minor release) in Acrobat. [2.2.0 (January, 2022; minor release)](2-2-0-january-2022-minor-release.md).
+- Open when looking up 2.2.1 (February, 2022; patch release) in Acrobat. [2.2.1 (February, 2022; patch release)](2-2-1-february-2022-patch-release.md).
+- Open when looking up 2.2.1 (January, 2022; patch release) in Acrobat. [2.2.1 (January, 2022; patch release)](2-2-1-january-2022-patch-release.md).
+- Open when looking up 2.2.1 (March, 2022; patch release) in Acrobat. [2.2.1 (March, 2022; patch release)](2-2-1-march-2022-patch-release.md).
+- Open when looking up 2.2.2 (May, 2022; patch release) in Acrobat. [2.2.2 (May, 2022; patch release)](2-2-2-may-2022-patch-release.md).
+- Open when looking up 2.2.3 (July, 2022; patch release) in Acrobat. [2.2.3 (July, 2022; patch release)](2-2-3-july-2022-patch-release.md).
+- Open when looking up 2.3.0 (February, 2023, minor release) in Acrobat. [2.3.0 (February, 2023, minor release)](2-3-0-february-2023-minor-release.md).
+- Open when looking up 3.0.0 (September, 2022; major release) in Acrobat. [3.0.0 (September, 2022; major release)](3-0-0-september-2022-major-release.md).
+- Open when looking up 3.3.0 (May, 2023; minor release) in Acrobat. [3.3.0 (May, 2023; minor release)](3-3-0-may-2023-minor-release.md).
+- Open when looking up 3.4.0 (January, 2023; minor release) in Acrobat. [3.4.0 (January, 2023; minor release)](3-4-0-january-2023-minor-release.md).
+- Open when looking up 3.4.0 (June, 2023; minor release) in Acrobat. [3.4.0 (June, 2023; minor release)](3-4-0-june-2023-minor-release.md).
+- Open when looking up 3.4.1 (July, 2023, minor release) in Acrobat. [3.4.1 (July, 2023, minor release)](3-4-1-july-2023-minor-release.md).
+- Open when looking up 3.4.2 (August, 2023, minor release) in Acrobat. [3.4.2 (August, 2023, minor release)](3-4-2-august-2023-minor-release.md).
+- Open when looking up 3.5.0 (October, 2023: minor release) in Acrobat. [3.5.0 (October, 2023: minor release)](3-5-0-october-2023-minor-release.md).
+- Open when looking up 3.5.1 (December, 2023: patch release) in Acrobat. [3.5.1 (December, 2023: patch release)](3-5-1-december-2023-patch-release.md).
+- Open when looking up Create PDF Server Side Release (6 April, 2022; server side release) in Acrobat. [Create PDF Server Side Release (6 April, 2022; server side release)](create-pdf-server-release-2022-04-06.md).
+- Open when looking up Extract PDF Server Side Release (05 April, 2022; server side release) in Acrobat. [Extract PDF Server Side Release (05 April, 2022; server side release)](extract-pdf-server-release-2022-04-05.md).
+- Open when looking up Extract PDF Server Side Release (06 March, 2023; server side release) in Acrobat. [Extract PDF Server Side Release (06 March, 2023; server side release)](extract-pdf-server-release-2023-03-06.md).
+- Open when looking up Extract PDF Server Side Release (15 November, 2021; server side release) in Acrobat. [Extract PDF Server Side Release (15 November, 2021; server side release)](extract-pdf-server-release-2021-11-15.md).
+- Open when looking up Extract PDF Server Side Release (16 May, 2022; server side release) in Acrobat. [Extract PDF Server Side Release (16 May, 2022; server side release)](extract-pdf-server-release-2022-05-16.md).
+- Open when looking up Extract PDF Server Side Release (21 June, 2022; server side release) in Acrobat. [Extract PDF Server Side Release (21 June, 2022; server side release)](extract-pdf-server-release-2022-06-21.md).
+- Open when looking up Extract PDF Server Side Release (22 February, 2022; server side release) in Acrobat. [Extract PDF Server Side Release (22 February, 2022; server side release)](extract-pdf-server-release-2022-02-22.md).
+- Open when looking up Extract PDF Server Side Release (26 Aug, 2021; server side release) in Acrobat. [Extract PDF Server Side Release (26 Aug, 2021; server side release)](extract-pdf-server-release-2021-08-26.md).
+- Open when looking up Extract PDF Server Side Release (29 September, 2021; server side release) in Acrobat. [Extract PDF Server Side Release (29 September, 2021; server side release)](extract-pdf-server-release-2021-09-29.md).
+- Open when looking up Python SDK 2.0.0 (December, 2022, major release) in Acrobat. [Python SDK 2.0.0 (December, 2022, major release)](python-sdk-2-0-0-december-2022-major-release.md).
+- Open when looking up Python SDK 2.1.2 (January, 2023, minor release) in Acrobat. [Python SDK 2.1.2 (January, 2023, minor release)](python-sdk-2-1-2-january-2023-minor-release.md).
+- Open when looking up Python SDK 2.2.0 (May, 2023; minor release) in Acrobat. [Python SDK 2.2.0 (May, 2023; minor release)](python-sdk-2-2-0-may-2023-minor-release.md).
+- Open when looking up Python SDK 2.3.0 (June, 2023; minor release) in Acrobat. [Python SDK 2.3.0 (June, 2023; minor release)](python-sdk-2-3-0-june-2023-minor-release.md).
+- Open when looking up Server Side Release (August, 2023; server side release) in Acrobat. [Server Side Release (August, 2023; server side release)](server-side-release-august-2023-server-side-release.md).

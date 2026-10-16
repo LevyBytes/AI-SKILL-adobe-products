@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "Audio formats", "file": "references/desktop/encoding-quick-start-and-basics/file-formats-supported-for-import-with-media-encoder/audio-formats.md", "summary": "Open when looking up Audio formats in Media Encoder.", "keywords": ["Audio formats"]},
+  {"topic": "Closed captioning formats", "file": "references/desktop/encoding-quick-start-and-basics/file-formats-supported-for-import-with-media-encoder/closed-captioning-formats.md", "summary": "Open when looking up Closed captioning formats in Media Encoder.", "keywords": ["Closed captioning formats"]},
+  {"topic": "Project file formats", "file": "references/desktop/encoding-quick-start-and-basics/file-formats-supported-for-import-with-media-encoder/project-file-formats.md", "summary": "Open when looking up Project file formats in Media Encoder.", "keywords": ["Project file formats"]},
+  {"topic": "Still-image formats", "file": "references/desktop/encoding-quick-start-and-basics/file-formats-supported-for-import-with-media-encoder/still-image-formats.md", "summary": "Open when looking up Still-image formats in Media Encoder.", "keywords": ["Still-image formats"]},
+  {"topic": "Video and animation formats", "file": "references/desktop/encoding-quick-start-and-basics/file-formats-supported-for-import-with-media-encoder/video-and-animation-formats.md", "summary": "Open when looking up Video and animation formats in Media Encoder.", "keywords": ["Video and animation formats"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

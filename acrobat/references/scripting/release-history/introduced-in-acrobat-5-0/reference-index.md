@@ -1,0 +1,25 @@
+# Acrobat — Introduced in acrobat 5 0
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ADBC in Acrobat. [ADBC](adbc.md).
+- Open when looking up AlternatePresentation in Acrobat. [AlternatePresentation](alternate-presentation.md).
+- Open when looking up app in Acrobat. [app](app.md).
+- Open when looking up Bookmark in Acrobat. [Bookmark](bookmark.md).
+- Open when looking up color in Acrobat. [color](color.md).
+- Open when looking up console in Acrobat. [console](console.md).
+- Open when looking up Data in Acrobat. [Data](data.md).
+- Open when looking up Doc in Acrobat. [Doc](doc.md).
+- Open when looking up event in Acrobat. [event](event.md).
+- Open when looking up Field in Acrobat. [Field](field.md).
+- Open when looking up FullScreen in Acrobat. [FullScreen](full-screen.md).
+- Open when looking up global in Acrobat. [global](global.md).
+- Open when looking up identity in Acrobat. [identity](identity.md).
+- Open when looking up Index in Acrobat. [Index](index.md).
+- Open when looking up PlayerInfo in Acrobat. [PlayerInfo](player-info.md).
+- Open when looking up Report in Acrobat. [Report](report.md).
+- Open when looking up search in Acrobat. [search](search.md).
+- Open when looking up security in Acrobat. [security](security.md).
+- Open when looking up SecurityHandler in Acrobat. [SecurityHandler](security-handler.md).
+- Open when looking up spell in Acrobat. [spell](spell.md).
+- Open when looking up TableInfo in Acrobat. [TableInfo](table-info.md).
+- Open when looking up Template in Acrobat. [Template](template.md).

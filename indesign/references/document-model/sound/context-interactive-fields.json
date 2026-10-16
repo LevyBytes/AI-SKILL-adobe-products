@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "description", "file": "references/document-model/sound/description.md", "summary": "Open when looking up description in InDesign.", "keywords": ["description"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,38 @@
+# Premiere Pro — Basic audio editing
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust audio clip properties in Premiere Pro. [Adjust audio clip properties](adjust-audio-clip-properties.md).
+- Open when looking up Adjust volume and levels in Premiere Pro. [Adjust volume and levels](adjust-volume-and-levels.md).
+- Open when looking up Advanced audio techniques in Premiere Pro. [Advanced audio techniques](advanced-audio-techniques.md).
+- Open when looking up Apply audio effects in Premiere Pro. [Apply audio effects](apply-audio-effects.md).
+- Open when looking up Apply audio transitions in Premiere Pro. [Apply audio transitions](apply-audio-transitions.md).
+- Open when looking up Audio editing concepts in Premiere Pro. [Audio editing concepts](audio-editing-concepts.md).
+- Open when looking up Audio effects in Premiere Pro. [Audio effects](audio-effects.md).
+- Open when looking up Audio tracks in Premiere Pro. [Audio tracks](audio-tracks.md).
+- Open when looking up Audio waveforms in Premiere Pro. [Audio waveforms](audio-waveforms.md).
+- Open when looking up Basic Audio Editing in Premiere Pro. [Basic Audio Editing](basic-audio-editing.md).
+- Open when looking up Edit audio clips in the Source Monitor in Premiere Pro. [Edit audio clips in the Source Monitor](edit-audio-clips-in-the-source-monitor.md).
+- Open when looking up Edit audio using the Properties panel in Premiere Pro. [Edit audio using the Properties panel](edit-audio-using-the-properties-panel.md).
+- Open when looking up Edit merged clips in Premiere Pro. [Edit merged clips](edit-merged-clips.md).
+- Open when looking up Edit merged clips with gaps into the Timeline panel in Premiere Pro. [Edit merged clips with gaps into the Timeline panel](edit-merged-clips-with-gaps-into-the-timeline-panel.md).
+- Open when looking up Edit metadata of merged clips in Premiere Pro. [Edit metadata of merged clips](edit-metadata-of-merged-clips.md).
+- Open when looking up Edit multiple clips simultaneously in Premiere Pro. [Edit multiple clips simultaneously](edit-multiple-clips-simultaneously.md).
+- Open when looking up Extract audio from clips in Premiere Pro. [Extract audio from clips](extract-audio-from-clips.md).
+- Open when looking up Limitations of merged clips in Premiere Pro. [Limitations of merged clips](limitations-of-merged-clips.md).
+- Open when looking up Link audio and video clips in Premiere Pro. [Link audio and video clips](link-audio-and-video-clips.md).
+- Open when looking up Manually synchronize clips in the Timeline panel in Premiere Pro. [Manually synchronize clips in the Timeline panel](manually-synchronize-clips-in-the-timeline-panel.md).
+- Open when looking up Merge an audio clip with a video clip from the Timeline panel. in Premiere Pro. [Merge an audio clip with a video clip from the Timeline panel.](merge-an-audio-clip-with-a-video-clip-from-the-timeline-panel.md).
+- Open when looking up Merge clips in the Project panel in Premiere Pro. [Merge clips in the Project panel](merge-clips-in-the-project-panel.md).
+- Open when looking up Multichannel audio in Premiere Pro. [Multichannel audio](multichannel-audio.md).
+- Open when looking up Navigate audio using scrubbing in Premiere Pro. [Navigate audio using scrubbing](navigate-audio-using-scrubbing.md).
+- Open when looking up Quick audio adjustments in Premiere Pro. [Quick audio adjustments](quick-audio-adjustments.md).
+- Open when looking up Synchronize audio and video in Premiere Pro. [Synchronize audio and video](synchronize-audio-and-video.md).
+- Open when looking up Synchronize clips in the Timeline panel before creating a merged clip. in Premiere Pro. [Synchronize clips in the Timeline panel before creating a merged clip.](synchronize-clips-before-merging.md).
+- Open when looking up Synchronize clips using the Synchronize function in Premiere Pro. [Synchronize clips using the Synchronize function](synchronize-clips-using-the-synchronize-function.md).
+- Open when looking up Trim merged clips in Premiere Pro. [Trim merged clips](trim-merged-clips.md).
+- Open when looking up Use Adobe Stock audio in Premiere Pro. [Use Adobe Stock audio](use-adobe-stock-audio.md).
+- Open when looking up Use an audio primary clip's timecode while creating a merged clip. in Premiere Pro. [Use an audio primary clip's timecode while creating a merged clip.](merged-clip-audio-timecode.md).
+- Open when looking up View audio and video waveforms in the Source Monitor in Premiere Pro. [View audio and video waveforms in the Source Monitor](view-audio-and-video-waveforms-in-the-source-monitor.md).
+- Open when looking up View audio waveforms in the Source Monitor in Premiere Pro. [View audio waveforms in the Source Monitor](view-audio-waveforms-in-the-source-monitor.md).
+- Open when looking up Volume control in Premiere Pro. [Volume control](volume-control.md).
+- Open when looking up Zoom to locate precise edit points in Premiere Pro. [Zoom to locate precise edit points](zoom-to-locate-precise-edit-points.md).

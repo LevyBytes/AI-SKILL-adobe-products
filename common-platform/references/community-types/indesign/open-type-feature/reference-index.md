@@ -1,0 +1,25 @@
+# Shared Adobe platform — OpenTypeFeature
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up OpenTypeFeature declaration in Shared Adobe platform. [OpenTypeFeature declaration](declaration.md).
+- Open when looking up OpenTypeFeature.ALL_SMALL_CAPS_FEATURE in Shared Adobe platform. [OpenTypeFeature.ALL_SMALL_CAPS_FEATURE](allsmallcapsfeature.md).
+- Open when looking up OpenTypeFeature.CONTEXTUAL_ALTERNATES_FEATURE in Shared Adobe platform. [OpenTypeFeature.CONTEXTUAL_ALTERNATES_FEATURE](contextualalternatesfeature.md).
+- Open when looking up OpenTypeFeature.DEFAULT_FIGURE_STYLE_FEATURE in Shared Adobe platform. [OpenTypeFeature.DEFAULT_FIGURE_STYLE_FEATURE](defaultfigurestylefeature.md).
+- Open when looking up OpenTypeFeature.DENOMINATOR_FEATURE in Shared Adobe platform. [OpenTypeFeature.DENOMINATOR_FEATURE](denominatorfeature.md).
+- Open when looking up OpenTypeFeature.DISCRETIONARY_LIGATURES_FEATURE in Shared Adobe platform. [OpenTypeFeature.DISCRETIONARY_LIGATURES_FEATURE](discretionaryligaturesfeature.md).
+- Open when looking up OpenTypeFeature.FRACTIONS_FEATURE in Shared Adobe platform. [OpenTypeFeature.FRACTIONS_FEATURE](fractionsfeature.md).
+- Open when looking up OpenTypeFeature.JUSTIFICATION_ALTERNATE in Shared Adobe platform. [OpenTypeFeature.JUSTIFICATION_ALTERNATE](justificationalternate.md).
+- Open when looking up OpenTypeFeature.LOW in Shared Adobe platform. [OpenTypeFeature.LOW](low.md).
+- Open when looking up OpenTypeFeature.NUMERATOR_FEATURE in Shared Adobe platform. [OpenTypeFeature.NUMERATOR_FEATURE](numeratorfeature.md).
+- Open when looking up OpenTypeFeature.ORDINAL_FEATURE in Shared Adobe platform. [OpenTypeFeature.ORDINAL_FEATURE](ordinalfeature.md).
+- Open when looking up OpenTypeFeature.OVERLAP_SWASH in Shared Adobe platform. [OpenTypeFeature.OVERLAP_SWASH](overlapswash.md).
+- Open when looking up OpenTypeFeature.PROPORTIONAL_LINING_FEATURE in Shared Adobe platform. [OpenTypeFeature.PROPORTIONAL_LINING_FEATURE](proportionalliningfeature.md).
+- Open when looking up OpenTypeFeature.PROPORTIONAL_OLDSTYLE_FEATURE in Shared Adobe platform. [OpenTypeFeature.PROPORTIONAL_OLDSTYLE_FEATURE](proportionaloldstylefeature.md).
+- Open when looking up OpenTypeFeature.STRETCHED_ALTERNATE in Shared Adobe platform. [OpenTypeFeature.STRETCHED_ALTERNATE](stretchedalternate.md).
+- Open when looking up OpenTypeFeature.STYLISTIC_ALTERNATE in Shared Adobe platform. [OpenTypeFeature.STYLISTIC_ALTERNATE](stylisticalternate.md).
+- Open when looking up OpenTypeFeature.SUBSCRIPT_FEATURE in Shared Adobe platform. [OpenTypeFeature.SUBSCRIPT_FEATURE](subscriptfeature.md).
+- Open when looking up OpenTypeFeature.SUPERSCRIPT_FEATURE in Shared Adobe platform. [OpenTypeFeature.SUPERSCRIPT_FEATURE](superscriptfeature.md).
+- Open when looking up OpenTypeFeature.SWASH_FEATURE in Shared Adobe platform. [OpenTypeFeature.SWASH_FEATURE](swashfeature.md).
+- Open when looking up OpenTypeFeature.TABULAR_LINING_FEATURE in Shared Adobe platform. [OpenTypeFeature.TABULAR_LINING_FEATURE](tabularliningfeature.md).
+- Open when looking up OpenTypeFeature.TABULAR_OLDSTYLE_FEATURE in Shared Adobe platform. [OpenTypeFeature.TABULAR_OLDSTYLE_FEATURE](tabularoldstylefeature.md).
+- Open when looking up OpenTypeFeature.TITLING_FEATURE in Shared Adobe platform. [OpenTypeFeature.TITLING_FEATURE](titlingfeature.md).

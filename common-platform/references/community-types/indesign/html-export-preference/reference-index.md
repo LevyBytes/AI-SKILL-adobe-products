@@ -1,0 +1,31 @@
+# Shared Adobe platform — HTMLExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up HTMLExportPreference declaration in Shared Adobe platform. [HTMLExportPreference declaration](declaration.md).
+- Open when looking up HTMLExportPreference.bulletExportOption in Shared Adobe platform. [HTMLExportPreference.bulletExportOption](bullet-export-option.md).
+- Open when looking up HTMLExportPreference.customImageSizeOption in Shared Adobe platform. [HTMLExportPreference.customImageSizeOption](custom-image-size-option.md).
+- Open when looking up HTMLExportPreference.exportOrder in Shared Adobe platform. [HTMLExportPreference.exportOrder](export-order.md).
+- Open when looking up HTMLExportPreference.exportSelection in Shared Adobe platform. [HTMLExportPreference.exportSelection](export-selection.md).
+- Open when looking up HTMLExportPreference.externalStyleSheets in Shared Adobe platform. [HTMLExportPreference.externalStyleSheets](external-style-sheets.md).
+- Open when looking up HTMLExportPreference.generateCascadeStyleSheet in Shared Adobe platform. [HTMLExportPreference.generateCascadeStyleSheet](generate-cascade-style-sheet.md).
+- Open when looking up HTMLExportPreference.gifOptionsInterlaced in Shared Adobe platform. [HTMLExportPreference.gifOptionsInterlaced](gif-options-interlaced.md).
+- Open when looking up HTMLExportPreference.gifOptionsPalette in Shared Adobe platform. [HTMLExportPreference.gifOptionsPalette](gif-options-palette.md).
+- Open when looking up HTMLExportPreference.ignoreObjectConversionSettings in Shared Adobe platform. [HTMLExportPreference.ignoreObjectConversionSettings](ignore-object-conversion-settings.md).
+- Open when looking up HTMLExportPreference.imageAlignment in Shared Adobe platform. [HTMLExportPreference.imageAlignment](image-alignment.md).
+- Open when looking up HTMLExportPreference.imageConversion in Shared Adobe platform. [HTMLExportPreference.imageConversion](image-conversion.md).
+- Open when looking up HTMLExportPreference.imageExportOption in Shared Adobe platform. [HTMLExportPreference.imageExportOption](image-export-option.md).
+- Open when looking up HTMLExportPreference.imageExportResolution in Shared Adobe platform. [HTMLExportPreference.imageExportResolution](image-export-resolution.md).
+- Open when looking up HTMLExportPreference.imageExtension in Shared Adobe platform. [HTMLExportPreference.imageExtension](image-extension.md).
+- Open when looking up HTMLExportPreference.imageSpaceAfter in Shared Adobe platform. [HTMLExportPreference.imageSpaceAfter](image-space-after.md).
+- Open when looking up HTMLExportPreference.imageSpaceBefore in Shared Adobe platform. [HTMLExportPreference.imageSpaceBefore](image-space-before.md).
+- Open when looking up HTMLExportPreference.includeClassesInHTML in Shared Adobe platform. [HTMLExportPreference.includeClassesInHTML](include-classes-in-html.md).
+- Open when looking up HTMLExportPreference.javascripts in Shared Adobe platform. [HTMLExportPreference.javascripts](javascripts.md).
+- Open when looking up HTMLExportPreference.jpegOptionsFormat in Shared Adobe platform. [HTMLExportPreference.jpegOptionsFormat](jpeg-options-format.md).
+- Open when looking up HTMLExportPreference.jpegOptionsQuality in Shared Adobe platform. [HTMLExportPreference.jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up HTMLExportPreference.level in Shared Adobe platform. [HTMLExportPreference.level](level.md).
+- Open when looking up HTMLExportPreference.numberedListExportOption in Shared Adobe platform. [HTMLExportPreference.numberedListExportOption](numbered-list-export-option.md).
+- Open when looking up HTMLExportPreference.preserveLayoutAppearence in Shared Adobe platform. [HTMLExportPreference.preserveLayoutAppearence](preserve-layout-appearence.md).
+- Open when looking up HTMLExportPreference.preserveLocalOverride in Shared Adobe platform. [HTMLExportPreference.preserveLocalOverride](preserve-local-override.md).
+- Open when looking up HTMLExportPreference.serverPath in Shared Adobe platform. [HTMLExportPreference.serverPath](server-path.md).
+- Open when looking up HTMLExportPreference.useSVGAs in Shared Adobe platform. [HTMLExportPreference.useSVGAs](use-svg-as.md).
+- Open when looking up HTMLExportPreference.viewDocumentAfterExport in Shared Adobe platform. [HTMLExportPreference.viewDocumentAfterExport](view-document-after-export.md).

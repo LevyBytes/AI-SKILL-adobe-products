@@ -1,0 +1,3 @@
+# Use Case: Localization
+
+CEP uses manifest-provided host-environment information to load and refresh the extension. The [CEP support](https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_9.x/Documentation/CEP%209.0%20HTML%20Extension%20Cookbook.md#localization) notes cover localization on that platform. In UXP, read host-environment [locale info](https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/localization-and-platforms/) and use the returned string to adjust plugin behavior. Manifest configuration also supports localized [plugin menu item labels and panel labels](https://developer.adobe.com/photoshop/uxp/2022/guides/uxp_guide/uxp-misc/localization-and-platforms/).

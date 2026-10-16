@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CopyrightStatus", "file": "references/document-model/copyright-status.md", "summary": "Open when looking up CopyrightStatus in InDesign.", "keywords": ["CopyrightStatus"]},
+  {"topic": "CopyrightStatus references", "file": "references/document-model/copyright-status/reference-index.md", "summary": "Open when looking up CopyrightStatus in InDesign.", "keywords": ["CopyrightStatus references"]},
+  {"topic": "Metadata preference references", "file": "references/document-model/metadata-preference/reference-index.md", "summary": "Open when looking up Metadata preference in InDesign.", "keywords": ["Metadata preference references"]},
+  {"topic": "ObjectExportOption", "file": "references/document-model/object-export-option.md", "summary": "Open when looking up ObjectExportOption in InDesign.", "keywords": ["ObjectExportOption"]},
+  {"topic": "ObjectExportOption references", "file": "references/document-model/object-export-option/reference-index.md", "summary": "Open when looking up ObjectExportOption in InDesign.", "keywords": ["ObjectExportOption references"]},
+  {"topic": "SourceType", "file": "references/document-model/source-type.md", "summary": "Open when looking up SourceType in InDesign.", "keywords": ["SourceType"]},
+  {"topic": "SourceType references", "file": "references/document-model/source-type/reference-index.md", "summary": "Open when looking up SourceType in InDesign.", "keywords": ["SourceType references"]},
+  {"topic": "TaggedPDFPreference", "file": "references/document-model/tagged-pdf-preference.md", "summary": "Open when looking up TaggedPDFPreference in InDesign.", "keywords": ["TaggedPDFPreference"]},
+  {"topic": "TaggedPDFPreference references", "file": "references/document-model/tagged-pdf-preference/reference-index.md", "summary": "Open when looking up TaggedPDFPreference in InDesign.", "keywords": ["TaggedPDFPreference references"]},
+  {"topic": "TaggedPDFStructureOrderOptions", "file": "references/document-model/tagged-pdf-structure-order-options.md", "summary": "Open when looking up TaggedPDFStructureOrderOptions in InDesign.", "keywords": ["TaggedPDFStructureOrderOptions"]},
+  {"topic": "TaggedPDFStructureOrderOptions references", "file": "references/document-model/tagged-pdf-structure-order-options/reference-index.md", "summary": "Open when looking up TaggedPDFStructureOrderOptions in InDesign.", "keywords": ["TaggedPDFStructureOrderOptions references"]},
+  {"topic": "TagType", "file": "references/document-model/tag-type.md", "summary": "Open when looking up TagType in InDesign.", "keywords": ["TagType"]},
+  {"topic": "TagType references", "file": "references/document-model/tag-type/reference-index.md", "summary": "Open when looking up TagType in InDesign.", "keywords": ["TagType references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

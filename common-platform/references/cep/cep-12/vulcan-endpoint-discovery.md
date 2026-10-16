@@ -1,0 +1,53 @@
+# CEP Vulcan endpoint discovery
+
+For point-to-point Vulcan messaging, use the `getEndPoints` and `getSelfEndPoint` APIs. Their definitions follow; see Vulcan.js for additional details.
+
+```text
+/**
+ * Gets all available endpoints of the running Vulcan-enabled applications.
+ *
+ * Since 7.0.0
+ *
+ * @return                The array of all available endpoints.
+ * An example endpoint string:
+ * <endPoint>
+ *   <appId>PHXS</appId>
+ *   <appVersion>16.1.0</appVersion>
+ * </endPoint>
+ */
+```
+
+Signature: `Vulcan.prototype.getEndPoints = function()`.
+
+```text
+/**
+ * Gets the endpoint for itself.
+ *
+ * Since 7.0.0
+ *
+ * @return                The endpoint string for itself.
+ */
+```
+
+Signature: `Vulcan.prototype.getSelfEndPoint = function()`.
+
+Use this sequence for sending a point-to-point Vulcan message:
+
+- Retrieve the full endpoint list.
+- Choose the destination endpoint, then read its appId and appVersion.
+- Build a Vulcan message with the destination `appId` and `appVersion`.
+- Dispatch the Vulcan message.
+
+```javascript
+// Supply GetValueByKey to read an XML endpoint value by its tag name.
+var endPointList = VulcanInterface.getEndPoints();
+if (!endPointList.length) throw new Error("No Vulcan endpoint is available");
+var destIndex = 0;
+var appId = GetValueByKey(endPointList[destIndex], "appId");
+var appVersion = GetValueByKey(endPointList[destIndex], "appVersion");
+var message = new VulcanMessage(VulcanMessage.TYPE_PREFIX + "test", appId, appVersion);
+message.setPayload("blablabla...");
+VulcanInterface.dispatchMessage(message);
+```
+
+Related: [CEP Vulcan messages and listeners](vulcan-messaging.md).

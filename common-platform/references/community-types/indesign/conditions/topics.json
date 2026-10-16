@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Conditions collection iteration", "file": "references/community-types/indesign/conditions/collection-iteration.md", "summary": "Open when looking up Conditions collection iteration in Shared Adobe platform.", "keywords": ["Conditions collection iteration"]},
+  {"topic": "Conditions declaration", "file": "references/community-types/indesign/conditions/declaration.md", "summary": "Open when looking up Conditions declaration in Shared Adobe platform.", "keywords": ["Conditions declaration"]},
+  {"topic": "Conditions named and indexed items", "file": "references/community-types/indesign/conditions/named-and-indexed-items.md", "summary": "Open when looking up Conditions named and indexed items in Shared Adobe platform.", "keywords": ["Conditions named and indexed items"]},
+  {"topic": "Conditions.add", "file": "references/community-types/indesign/conditions/add.md", "summary": "Open when looking up Conditions.add in Shared Adobe platform.", "keywords": ["Conditions.add"]},
+  {"topic": "Conditions.count", "file": "references/community-types/indesign/conditions/count.md", "summary": "Open when looking up Conditions.count in Shared Adobe platform.", "keywords": ["Conditions.count"]},
+  {"topic": "Conditions.IndexSignature", "file": "references/community-types/indesign/conditions/index-signature.md", "summary": "Open when looking up Conditions.IndexSignature in Shared Adobe platform.", "keywords": ["Conditions.IndexSignature"]},
+  {"topic": "Conditions.itemByRange", "file": "references/community-types/indesign/conditions/item-by-range.md", "summary": "Open when looking up Conditions.itemByRange in Shared Adobe platform.", "keywords": ["Conditions.itemByRange"]},
+  {"topic": "Conditions.length", "file": "references/community-types/indesign/conditions/length.md", "summary": "Open when looking up Conditions.length in Shared Adobe platform.", "keywords": ["Conditions.length"]},
+  {"topic": "Conditions.toSource", "file": "references/community-types/indesign/conditions/to-source.md", "summary": "Open when looking up Conditions.toSource in Shared Adobe platform.", "keywords": ["Conditions.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

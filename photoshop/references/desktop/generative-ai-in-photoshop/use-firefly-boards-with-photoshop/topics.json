@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Open a Board variation in Photoshop", "file": "references/desktop/generative-ai-in-photoshop/use-firefly-boards-with-photoshop/open-a-board-variation-in-photoshop.md", "summary": "Open when looking up Open a Board variation in Photoshop in Photoshop.", "keywords": ["Open a Board variation in Photoshop"]},
+  {"topic": "Send a cloud document to Firefly Boards", "file": "references/desktop/generative-ai-in-photoshop/use-firefly-boards-with-photoshop/send-a-cloud-document-to-firefly-boards.md", "summary": "Open when looking up Send a cloud document to Firefly Boards in Photoshop.", "keywords": ["Send a cloud document to Firefly Boards"]},
+  {"topic": "Send a local PSD file to Firefly Boards", "file": "references/desktop/generative-ai-in-photoshop/use-firefly-boards-with-photoshop/send-a-local-psd-file-to-firefly-boards.md", "summary": "Open when looking up Send a local PSD file to Firefly Boards in Photoshop.", "keywords": ["Send a local PSD file to Firefly Boards"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

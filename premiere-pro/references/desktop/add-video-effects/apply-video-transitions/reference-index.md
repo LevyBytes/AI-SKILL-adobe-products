@@ -1,0 +1,24 @@
+# Premiere Pro — Apply video transitions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Align and reposition transitions in Premiere Pro. [Align and reposition transitions](align-and-reposition-transitions.md).
+- Open when looking up Align and reposition transitions in Premiere Pro. [Align and reposition transitions references](align-and-reposition-transitions/reference-index.md).
+- Open when looking up Apply morph cut to smoothen jump cuts in Premiere Pro. [Apply morph cut to smoothen jump cuts](apply-morph-cut-to-smoothen-jump-cuts.md).
+- Open when looking up Apply single-sided transitions in Premiere Pro. [Apply single-sided transitions](apply-single-sided-transitions.md).
+- Open when looking up Change transition duration using the Effect Controls panel in Premiere Pro. [Change transition duration using the Effect Controls panel](change-transition-duration-using-the-effect-controls-panel.md).
+- Open when looking up Change transition duration using the Effect Controls panel in Premiere Pro. [Change transition duration using the Effect Controls panel references](transition-duration/reference-index.md).
+- Open when looking up Change transition settings in Premiere Pro. [Change transition settings](change-transition-settings.md).
+- Open when looking up Clip handles settings in Premiere Pro. [Clip handles settings](clip-handles-settings.md).
+- Open when looking up Copy and paste transitions in Premiere Pro. [Copy and paste transitions](copy-and-paste-transitions.md).
+- Open when looking up Morph Cut overview in Premiere Pro. [Morph Cut overview](morph-cut-overview.md).
+- Open when looking up Morph Cut overview in Premiere Pro. [Morph Cut overview references](morph-cut-overview/reference-index.md).
+- Open when looking up Morph Cut transition options in Premiere Pro. [Morph Cut transition options](morph-cut-transition-options.md).
+- Open when looking up Morph Cut transition options in Premiere Pro. [Morph Cut transition options references](morph-cut-transition-options/reference-index.md).
+- Open when looking up Move cuts and transitions simultaneously in Premiere Pro. [Move cuts and transitions simultaneously](move-cuts-and-transitions-simultaneously.md).
+- Open when looking up Replace transitions in Premiere Pro. [Replace transitions](replace-transitions.md).
+- Open when looking up Reposition the center of a transition in Premiere Pro. [Reposition the center of a transition](reposition-the-center-of-a-transition.md).
+- Open when looking up Set and apply default transitions in Premiere Pro. [Set and apply default transitions](set-and-apply-default-transitions.md).
+- Open when looking up Set and apply default transitions in Premiere Pro. [Set and apply default transitions references](set-and-apply-default-transitions/reference-index.md).
+- Open when looking up Transitions overview in Premiere Pro. [Transitions overview](transitions-overview.md).
+- Open when looking up Video transitions using clip handles in Premiere Pro. [Video transitions using clip handles](video-transitions-using-clip-handles.md).
+- Open when looking up Video transitions using clip handles in Premiere Pro. [Video transitions using clip handles references](video-transitions-using-clip-handles/reference-index.md).

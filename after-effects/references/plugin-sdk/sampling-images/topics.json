@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "area_sample", "file": "references/plugin-sdk/sampling-images/areasample.md", "summary": "Open when looking up area_sample in After Effects.", "keywords": ["area_sample"]},
+  {"topic": "area_sample16", "file": "references/plugin-sdk/sampling-images/areasample16.md", "summary": "Open when looking up area_sample16 in After Effects.", "keywords": ["area_sample16"]},
+  {"topic": "Graphics Utility Suites — Sampling Images", "file": "references/plugin-sdk/sampling-images/graphics-utility-suites-sampling-images.md", "summary": "Open when looking up Graphics Utility Suites — Sampling Images in After Effects.", "keywords": ["Graphics Utility Suites — Sampling Images"]},
+  {"topic": "nn_sample", "file": "references/plugin-sdk/sampling-images/nnsample.md", "summary": "Open when looking up nn_sample in After Effects.", "keywords": ["nn_sample"]},
+  {"topic": "nn_sample16", "file": "references/plugin-sdk/sampling-images/nnsample16.md", "summary": "Open when looking up nn_sample16 in After Effects.", "keywords": ["nn_sample16"]},
+  {"topic": "nn_sample_float", "file": "references/plugin-sdk/sampling-images/nnsamplefloat.md", "summary": "Open when looking up nn_sample_float in After Effects.", "keywords": ["nn_sample_float"]},
+  {"topic": "PF_SamplingSuite Functions (Multiple Suites)", "file": "references/plugin-sdk/sampling-images/pf-sampling-suite-functions-multiple-suites.md", "summary": "Open when looking up PF_SamplingSuite Functions (Multiple Suites) in After Effects.", "keywords": ["PF_SamplingSuite Functions (Multiple Suites)"]},
+  {"topic": "subpixel_sample", "file": "references/plugin-sdk/sampling-images/subpixelsample.md", "summary": "Open when looking up subpixel_sample in After Effects.", "keywords": ["subpixel_sample"]},
+  {"topic": "subpixel_sample16", "file": "references/plugin-sdk/sampling-images/subpixelsample16.md", "summary": "Open when looking up subpixel_sample16 in After Effects.", "keywords": ["subpixel_sample16"]},
+  {"topic": "subpixel_sample_float", "file": "references/plugin-sdk/sampling-images/subpixelsamplefloat.md", "summary": "Open when looking up subpixel_sample_float in After Effects.", "keywords": ["subpixel_sample_float"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

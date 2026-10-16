@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "XMP", "file": "references/uxp/xmp.md", "summary": "Open when looking up XMP in InDesign.", "keywords": ["XMP"]},
+  {"topic": "XMP Classes", "file": "references/uxp/xmp-classes.md", "summary": "Open when looking up XMP Classes in InDesign.", "keywords": ["XMP Classes"]},
+  {"topic": "XMP references", "file": "references/uxp/xmp/reference-index.md", "summary": "Open when looking up XMP in InDesign.", "keywords": ["XMP references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

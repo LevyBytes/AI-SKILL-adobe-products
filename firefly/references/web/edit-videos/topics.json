@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Automatically split scenes in videos", "file": "references/web/edit-videos/automatically-split-scenes-in-videos.md", "summary": "Open when looking up Automatically split scenes in videos in Firefly.", "keywords": ["Automatically split scenes in videos"]},
+  {"topic": "Automatically split scenes in videos references", "file": "references/web/edit-videos/automatically-split-scenes-in-videos/reference-index.md", "summary": "Open when looking up Automatically split scenes in videos in Firefly.", "keywords": ["Automatically split scenes in videos references"]},
+  {"topic": "Create a timeline in a project", "file": "references/web/edit-videos/create-a-timeline-in-a-project.md", "summary": "Open when looking up Create a timeline in a project in Firefly.", "keywords": ["Create a timeline in a project"]},
+  {"topic": "Share projects to troubleshoot timeline issues", "file": "references/web/edit-videos/share-projects-to-troubleshoot-timeline-issues.md", "summary": "Open when looking up Share projects to troubleshoot timeline issues in Firefly.", "keywords": ["Share projects to troubleshoot timeline issues"]},
+  {"topic": "Share projects to troubleshoot timeline issues references", "file": "references/web/edit-videos/share-projects-to-troubleshoot-timeline-issues/reference-index.md", "summary": "Open when looking up Share projects to troubleshoot timeline issues in Firefly.", "keywords": ["Share projects to troubleshoot timeline issues references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

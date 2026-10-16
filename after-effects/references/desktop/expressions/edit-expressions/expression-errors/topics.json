@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Errors caused by precomposing layers", "file": "references/desktop/expressions/edit-expressions/expression-errors/errors-caused-by-precomposing-layers.md", "summary": "Open when looking up Errors caused by precomposing layers in After Effects.", "keywords": ["Errors caused by precomposing layers"]},
+  {"topic": "Reveal expression errors", "file": "references/desktop/expressions/edit-expressions/expression-errors/reveal-expression-errors.md", "summary": "Open when looking up Reveal expression errors in After Effects.", "keywords": ["Reveal expression errors"]},
+  {"topic": "The expression error UI", "file": "references/desktop/expressions/edit-expressions/expression-errors/the-expression-error-ui.md", "summary": "Open when looking up The expression error UI in After Effects.", "keywords": ["The expression error UI"]},
+  {"topic": "To hide the warning banner", "file": "references/desktop/expressions/edit-expressions/expression-errors/to-hide-the-warning-banner.md", "summary": "Open when looking up To hide the warning banner in After Effects.", "keywords": ["To hide the warning banner"]},
+  {"topic": "To see the full expression error text", "file": "references/desktop/expressions/edit-expressions/expression-errors/to-see-the-full-expression-error-text.md", "summary": "Open when looking up To see the full expression error text in After Effects.", "keywords": ["To see the full expression error text"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

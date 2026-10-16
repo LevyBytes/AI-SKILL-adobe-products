@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Adjust alignment", "file": "references/desktop/design-with-text/edit-and-format-text/adjust-text-alignment-and-spacing-on-paths/adjust-alignment.md", "summary": "Open when looking up Adjust alignment in Illustrator.", "keywords": ["Adjust alignment"]},
+  {"topic": "Adjust spacing", "file": "references/desktop/design-with-text/edit-and-format-text/adjust-text-alignment-and-spacing-on-paths/adjust-spacing.md", "summary": "Open when looking up Adjust spacing in Illustrator.", "keywords": ["Adjust spacing"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

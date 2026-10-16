@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "How trapping works", "file": "references/desktop/print/color-output-and-separations/about-ink-trapping/how-trapping-works.md", "summary": "Open when looking up How trapping works in InDesign.", "keywords": ["How trapping works"]},
+  {"topic": "The spreading principle", "file": "references/desktop/print/color-output-and-separations/about-ink-trapping/the-spreading-principle.md", "summary": "Open when looking up The spreading principle in InDesign.", "keywords": ["The spreading principle"]},
+  {"topic": "Trapping considerations for your workflow", "file": "references/desktop/print/color-output-and-separations/about-ink-trapping/trapping-considerations-for-your-workflow.md", "summary": "Open when looking up Trapping considerations for your workflow in InDesign.", "keywords": ["Trapping considerations for your workflow"]},
+  {"topic": "When trapping matters most", "file": "references/desktop/print/color-output-and-separations/about-ink-trapping/when-trapping-matters-most.md", "summary": "Open when looking up When trapping matters most in InDesign.", "keywords": ["When trapping matters most"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

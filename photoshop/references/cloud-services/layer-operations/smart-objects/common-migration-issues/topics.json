@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Issue: Linked smart objects", "file": "references/cloud-services/layer-operations/smart-objects/common-migration-issues/issue-linked-smart-objects.md", "summary": "Open when looking up Issue: Linked smart objects in Photoshop.", "keywords": ["Issue: Linked smart objects"]},
+  {"topic": "Issue: Missing operation block", "file": "references/cloud-services/layer-operations/smart-objects/common-migration-issues/issue-missing-operation-block.md", "summary": "Open when looking up Issue: Missing operation block in Photoshop.", "keywords": ["Issue: Missing operation block"]},
+  {"topic": "Issue: Source file type support", "file": "references/cloud-services/layer-operations/smart-objects/common-migration-issues/issue-source-file-type-support.md", "summary": "Open when looking up Issue: Source file type support in Photoshop.", "keywords": ["Issue: Source file type support"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

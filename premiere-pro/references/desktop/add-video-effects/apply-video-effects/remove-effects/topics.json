@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Remove all effects", "file": "references/desktop/add-video-effects/apply-video-effects/remove-effects/remove-all-effects.md", "summary": "Open when looking up Remove all effects in Premiere Pro.", "keywords": ["Remove all effects"]},
+  {"topic": "Remove selected effects", "file": "references/desktop/add-video-effects/apply-video-effects/remove-effects/remove-selected-effects.md", "summary": "Open when looking up Remove selected effects in Premiere Pro.", "keywords": ["Remove selected effects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

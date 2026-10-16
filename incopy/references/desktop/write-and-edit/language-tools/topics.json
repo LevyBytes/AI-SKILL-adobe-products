@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "incopy", "topics": [
+  {"topic": "Using Thesaurus", "file": "references/desktop/write-and-edit/language-tools/using-thesaurus.md", "summary": "Open when looking up Using Thesaurus in InCopy.", "keywords": ["Using Thesaurus"]},
+  {"topic": "Using Thesaurus references", "file": "references/desktop/write-and-edit/language-tools/using-thesaurus/reference-index.md", "summary": "Open when looking up Using Thesaurus in InCopy.", "keywords": ["Using Thesaurus references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

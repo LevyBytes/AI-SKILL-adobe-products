@@ -1,0 +1,77 @@
+# Photoshop — Host api
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Action in Photoshop. [Action](action.md).
+- Open when looking up Action in Photoshop. [Action references](action/reference-index.md).
+- Open when looking up ActionSet in Photoshop. [ActionSet](action-set.md).
+- Open when looking up ActionSet in Photoshop. [ActionSet references](action-set/reference-index.md).
+- Open when looking up Application in Photoshop. [Application references](application/reference-index.md).
+- Open when looking up Channel in Photoshop. [Channel](channel.md).
+- Open when looking up Channel in Photoshop. [Channel references](channel/reference-index.md).
+- Open when looking up Channels in Photoshop. [Channels](channels.md).
+- Open when looking up Channels in Photoshop. [Channels references](channels/reference-index.md).
+- Open when looking up CharacterStyle in Photoshop. [CharacterStyle](character-style.md).
+- Open when looking up CharacterStyle in Photoshop. [CharacterStyle references](character-style/reference-index.md).
+- Open when looking up ColorSampler in Photoshop. [ColorSampler](color-sampler.md).
+- Open when looking up ColorSampler in Photoshop. [ColorSampler references](color-sampler/reference-index.md).
+- Open when looking up ColorSamplers in Photoshop. [ColorSamplers](color-samplers.md).
+- Open when looking up ColorSamplers in Photoshop. [ColorSamplers references](color-samplers/reference-index.md).
+- Open when looking up Count item in Photoshop. [Count item references](count-item/reference-index.md).
+- Open when looking up CountItems in Photoshop. [CountItems](count-items.md).
+- Open when looking up CountItems in Photoshop. [CountItems references](count-items/reference-index.md).
+- Open when looking up Documents in Photoshop. [Documents](documents.md).
+- Open when looking up Documents in Photoshop. [Documents references](documents/reference-index.md).
+- Open when looking up Guide in Photoshop. [Guide](guide.md).
+- Open when looking up Guide in Photoshop. [Guide references](guide/reference-index.md).
+- Open when looking up Guides in Photoshop. [Guides](guides.md).
+- Open when looking up Guides in Photoshop. [Guides references](guides/reference-index.md).
+- Open when looking up HistoryState in Photoshop. [HistoryState](history-state.md).
+- Open when looking up HistoryStates in Photoshop. [HistoryStates](history-states.md).
+- Open when looking up HistoryStates in Photoshop. [HistoryStates references](history-states/reference-index.md).
+- Open when looking up LayerComp in Photoshop. [LayerComp](layer-comp.md).
+- Open when looking up LayerComp in Photoshop. [LayerComp references](layer-comp/reference-index.md).
+- Open when looking up LayerComps in Photoshop. [LayerComps](layer-comps.md).
+- Open when looking up LayerComps in Photoshop. [LayerComps references](layer-comps/reference-index.md).
+- Open when looking up Layers in Photoshop. [Layers](layers.md).
+- Open when looking up Layers in Photoshop. [Layers references](layers/reference-index.md).
+- Open when looking up Objects in Photoshop. [Objects references](objects/reference-index.md).
+- Open when looking up ParagraphStyle in Photoshop. [ParagraphStyle](paragraph-style.md).
+- Open when looking up ParagraphStyle in Photoshop. [ParagraphStyle references](paragraph-style/reference-index.md).
+- Open when looking up Path Point Info in Photoshop. [Path Point Info](path-point-info.md).
+- Open when looking up Path Point Info in Photoshop. [Path Point Info references](path-point-info/reference-index.md).
+- Open when looking up PathItem in Photoshop. [PathItem](path-item.md).
+- Open when looking up PathItem in Photoshop. [PathItem references](path-item/reference-index.md).
+- Open when looking up PathItems in Photoshop. [PathItems](path-items.md).
+- Open when looking up PathItems in Photoshop. [PathItems references](path-items/reference-index.md).
+- Open when looking up PathPoint in Photoshop. [PathPoint](path-point.md).
+- Open when looking up PathPoints in Photoshop. [PathPoints](path-points.md).
+- Open when looking up PathPoints in Photoshop. [PathPoints references](path-points/reference-index.md).
+- Open when looking up Photoshop module in Photoshop. [Photoshop module](photoshop-module.md).
+- Open when looking up Preferences in Photoshop. [Preferences](preferences.md).
+- Open when looking up Preferences general in Photoshop. [Preferences general references](preferences-general/reference-index.md).
+- Open when looking up Preferences tools in Photoshop. [Preferences tools references](preferences-tools/reference-index.md).
+- Open when looking up PreferencesCursors in Photoshop. [PreferencesCursors](preferences-cursors.md).
+- Open when looking up PreferencesFileHandling in Photoshop. [PreferencesFileHandling](preferences-file-handling.md).
+- Open when looking up PreferencesGuidesGridsAndSlices in Photoshop. [PreferencesGuidesGridsAndSlices](preferences-guides-grids-and-slices.md).
+- Open when looking up PreferencesHistory in Photoshop. [PreferencesHistory](preferences-history.md).
+- Open when looking up PreferencesInterface in Photoshop. [PreferencesInterface](preferences-interface.md).
+- Open when looking up PreferencesNotifications in Photoshop. [PreferencesNotifications](preferences-notifications.md).
+- Open when looking up PreferencesPerformance in Photoshop. [PreferencesPerformance](preferences-performance.md).
+- Open when looking up PreferencesTransparencyAndGamut in Photoshop. [PreferencesTransparencyAndGamut](preferences-transparency-and-gamut.md).
+- Open when looking up PreferencesType in Photoshop. [PreferencesType](preferences-type.md).
+- Open when looking up PreferencesUnitsAndRulers in Photoshop. [PreferencesUnitsAndRulers](preferences-units-and-rulers.md).
+- Open when looking up Selection in Photoshop. [Selection](selection.md).
+- Open when looking up Selection in Photoshop. [Selection references](selection/reference-index.md).
+- Open when looking up Solid Color in Photoshop. [Solid Color](solid-color.md).
+- Open when looking up Solid Color in Photoshop. [Solid Color references](solid-color/reference-index.md).
+- Open when looking up Sub Path Info in Photoshop. [Sub Path Info](sub-path-info.md).
+- Open when looking up SubPathItem in Photoshop. [SubPathItem](sub-path-item.md).
+- Open when looking up SubPathItems in Photoshop. [SubPathItems](sub-path-items.md).
+- Open when looking up SubPathItems in Photoshop. [SubPathItems references](sub-path-items/reference-index.md).
+- Open when looking up Text Font in Photoshop. [Text Font](text-font.md).
+- Open when looking up TextFonts in Photoshop. [TextFonts](text-fonts.md).
+- Open when looking up TextFonts in Photoshop. [TextFonts references](text-fonts/reference-index.md).
+- Open when looking up TextItem in Photoshop. [TextItem](text-item.md).
+- Open when looking up TextItem in Photoshop. [TextItem references](text-item/reference-index.md).
+- Open when looking up WarpStyle in Photoshop. [WarpStyle](warp-style.md).
+- Open when looking up WarpStyle in Photoshop. [WarpStyle references](warp-style/reference-index.md).

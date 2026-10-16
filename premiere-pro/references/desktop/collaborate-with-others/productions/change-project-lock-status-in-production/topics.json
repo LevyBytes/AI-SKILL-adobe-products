@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Change a project lock status", "file": "references/desktop/collaborate-with-others/productions/change-project-lock-status-in-production/change-a-project-lock-status.md", "summary": "Open when looking up Change a project lock status in Premiere Pro.", "keywords": ["Change a project lock status"]},
+  {"topic": "Closed", "file": "references/desktop/collaborate-with-others/productions/change-project-lock-status-in-production/closed.md", "summary": "Open when looking up Closed in Premiere Pro.", "keywords": ["Closed"]},
+  {"topic": "Open, Read Only", "file": "references/desktop/collaborate-with-others/productions/change-project-lock-status-in-production/open-read-only.md", "summary": "Open when looking up Open, Read Only in Premiere Pro.", "keywords": ["Open, Read Only"]},
+  {"topic": "Open, Read/Write", "file": "references/desktop/collaborate-with-others/productions/change-project-lock-status-in-production/open-read-write.md", "summary": "Open when looking up Open, Read/Write in Premiere Pro.", "keywords": ["Open, Read/Write"]},
+  {"topic": "Project lock status", "file": "references/desktop/collaborate-with-others/productions/change-project-lock-status-in-production/project-lock-status.md", "summary": "Open when looking up Project lock status in Premiere Pro.", "keywords": ["Project lock status"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

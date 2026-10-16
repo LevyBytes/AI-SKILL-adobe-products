@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Corrupted or outdated installation files", "file": "references/desktop/troubleshoot/performance-issues/acrobat-crashes-on-mac-os/corrupted-or-outdated-installation-files.md", "summary": "Open when looking up Corrupted or outdated installation files in Acrobat.", "keywords": ["Corrupted or outdated installation files"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

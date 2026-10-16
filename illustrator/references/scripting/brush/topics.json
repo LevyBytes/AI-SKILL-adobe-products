@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Brush.applyTo()", "file": "references/scripting/brush/apply-to.md", "summary": "Open when looking up Brush.applyTo() in Illustrator.", "keywords": ["Brush.applyTo()"]},
+  {"topic": "Brush.name", "file": "references/scripting/brush/name.md", "summary": "Open when looking up Brush.name in Illustrator.", "keywords": ["Brush.name"]},
+  {"topic": "Brush.parent", "file": "references/scripting/brush/parent.md", "summary": "Open when looking up Brush.parent in Illustrator.", "keywords": ["Brush.parent"]},
+  {"topic": "Brush.typename", "file": "references/scripting/brush/typename.md", "summary": "Open when looking up Brush.typename in Illustrator.", "keywords": ["Brush.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

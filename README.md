@@ -1,50 +1,69 @@
-# Adobe Products Skill
+# Adobe Products
 
-> _A router that resolves Adobe documentation, workflow, scripting, plugin, SDK, and service-API questions to the right Adobe product sub-skill._
-
-Part of **[Agent Kaizen](https://github.com/DirectorGunner/agent-kaizen)** — Agent Kaizen is designed to support reliable AI agent workflows, context engineering, and AI systems engineering in VS Code, Codex, and Claude Code. Build reusable agent skills, reduce unnecessary context loading, add validation loops, and apply Spec → Verifier → Environment scaffolding to new and existing projects.
-
-This repository is the `adobe-products` skill: a reusable, trigger-rich task handbook that an AI coding agent (OpenAI Codex, Claude Code) loads on demand when a task matches its triggers.
-
-## What this skill covers
-
-This skill is the entry point for Adobe Creative Cloud and Adobe developer documentation, routing across eleven product areas: Acrobat (PDF creation, signing, security, JavaScript automation, PDF Services API), Photoshop (raster editing, layers, UXP plugins, batchPlay), Illustrator (vector artwork, paths, ExtendScript), InDesign (page layout, UXP scripting), InCopy (editorial and track-changes workflows), Premiere Pro (timelines, captions, UXP panels), After Effects (compositing, expressions, C++ SDK plugins), Audition (waveform and multitrack audio), Media Encoder (encoding, watch folders, presets), Firefly (generative imaging and Firefly Services REST APIs), and the shared Common Platform (CEP, ExtendScript/ScriptUI, TypeScript definitions). It spans documentation, workflow, scripting (ExtendScript, UXP, batchPlay), plugin and SDK development, and authenticated service APIs. Rather than a global corpus, it routes each task to a focused product sub-skill — each a direct subdirectory with its own `SKILL.md` task router and a flat `references/` folder of readable subject files with identifiers preserved verbatim. One notable pitfall it flags: keep product scope narrow, since UXP, ExtendScript, and REST surfaces share concepts but expose product-specific objects and behavior.
-
-## What's inside
-
-- `SKILL.md` — the router frontmatter (`name` + trigger-rich `description`) that routes to sub-skills.
-- sub-skill folders — each a focused area with its own `SKILL.md`, `references/`, and `GOTCHA.md`.
-- `GOTCHA.md` — known pitfalls and edge cases.
-
-## Use it
-
-This skill is one git repo inside the Agent Kaizen **skills store**. The store nests two folders on purpose: the outer **`SKILLS\`** is a VS Code project for building and maintaining skills (its own workspace + tooling), and the inner lowercase **`skills\`** holds every skill as its own repo. That split lets a project pull skills two ways — the **whole `skills\` folder at once** (loads everything — **not recommended**) or **one skill at a time** (recommended: load only what a task needs and stay under Claude Code's skill-listing budget).
-
-Paths below use **`%DEVROOT%`** — the `DEVROOT` environment variable pointing at the folder that contains `SKILLS\`. Set it once by running **`SetDevRoot.cmd`** in the SKILLS repo root (no admin); a new shell then resolves `%DEVROOT%` automatically.
-
-Link **just this skill** (recommended) — a Windows directory junction, no admin:
-
-```cmd
-mklink /J .agents\skills\adobe-products  "%DEVROOT%\SKILLS\skills\adobe-products"
-mklink /J .claude\skills\adobe-products  "%DEVROOT%\SKILLS\skills\adobe-products"
+```mermaid
+---
+config:
+  flowchart:
+    wrappingWidth: 400
+---
+flowchart LR
+    brand["KAIZEN<br/>SKILL LIBRARY"]:::brand
+    skill("Adobe Products"):::skill
+    first(["Creative Workflows"]):::topic
+    second(["Scripting + Plugins"]):::topic
+    third(["Cloud + APIs"]):::accent
+    brand --- skill
+    skill --- first
+    skill --- second
+    skill --- third
+    classDef brand fill:#0f172a,color:#67e8f9,stroke:#22d3ee,stroke-width:2px,font-family:monospace
+    classDef skill fill:#172554,color:#eff6ff,stroke:#60a5fa,stroke-width:2px,font-size:20px
+    classDef topic fill:#0c4a6e,color:#bae6fd,stroke:#38bdf8,stroke-width:1px
+    classDef accent fill:#1e293b,color:#fcd34d,stroke:#f59e0b,stroke-width:1px
+    linkStyle default stroke:#38bdf8,stroke-width:1px
 ```
 
-Or link the **whole store** at once (loads every skill — not recommended outside a skills-dev project):
+A coordinated library of Adobe product references for creative work, automation and integration. Product-specific entrypoints keep desktop workflows, scripting environments, plug-in APIs and cloud services in their proper host and version context.
 
-```cmd
-mklink /J .agents\skills  "%DEVROOT%\SKILLS\skills"
-mklink /J .claude\skills  "%DEVROOT%\SKILLS\skills"
-```
+Use when a task needs Adobe product documentation, workflows, scripting, plugins, SDKs, or service APIs for Acrobat, Photoshop, Illustrator, InDesign, InCopy, Premiere Pro, After Effects, Audition, Media Encoder, Firefly, or shared CEP, ExtendScript, and ScriptUI. Routes to the bundled product skill; excludes unrelated creative software and generic image or PDF tasks without an Adobe product context.
 
-Remove a link (the store copy is untouched):
+## What this skill helps with
 
-```cmd
-rmdir .agents\skills\adobe-products
-rmdir .claude\skills\adobe-products
-```
+| Task | Useful reference material |
+| --- | --- |
+| [Work on documents and layouts](acrobat/README.md) | Start with PDF workflows, then select the separate InDesign or InCopy skill for publishing work. |
+| [Create and automate artwork](photoshop/README.md) | Use Photoshop references or select Illustrator and Firefly for their distinct workflows and APIs. |
+| [Edit moving images and sound](premiere-pro/README.md) | Navigate Premiere Pro alongside dedicated After Effects, Audition and Media Encoder material. |
+| [Develop Adobe integrations](common-platform/README.md) | Consult shared ExtendScript, ScriptUI and CEP material, retaining each product API's separate conditions. |
 
-The agent (OpenAI Codex, Claude Code) then auto-loads this skill whenever a task matches its triggers. Built and validated with **[skill-drafting](https://github.com/DirectorGunner/AI-skill-drafting)** to the Agent Kaizen gold standard.
+## Included product and platform subskills
 
-## License
+| Subskill | Use it for |
+| --- | --- |
+| [Acrobat](acrobat/README.md) | PDF workflows, JavaScript and document service integrations. |
+| [After Effects](after-effects/README.md) | Compositing, animation, expressions, scripting and native plug-in APIs. |
+| [Audition](audition/README.md) | Recording, audio editing, restoration, analysis and mixing. |
+| [Shared Adobe platform](common-platform/README.md) | ExtendScript, ScriptUI, BridgeTalk, CEP and attributed community declarations. |
+| [Firefly](firefly/README.md) | Generative media workflows, enterprise features and service APIs. |
+| [Illustrator](illustrator/README.md) | Vector artwork, typography, scripting and cloud automation. |
+| [InCopy](incopy/README.md) | Editorial stories, assignments, collaboration and publishing content. |
+| [InDesign](indesign/README.md) | Page layout, publishing, DOM automation and UXP development. |
+| [Media Encoder](media-encoder/README.md) | Encoding queues, presets, formats, export and scripting. |
+| [Photoshop](photoshop/README.md) | Image workflows, UXP development and cloud-service APIs. |
+| [Premiere Pro](premiere-pro/README.md) | Editing, media workflows, audio, export, scripting and UXP. |
 
-Licensed under **AGPL-3.0**, matching the [Agent Kaizen](https://github.com/DirectorGunner/agent-kaizen) project.
+## The work behind the references
+
+Desktop help and developer material are interpreted into product-owned reference trees, with focused catalogs and descriptive filenames. Source review and repair addressed identified code, literal, prerequisite and routing defects while preserving API identifiers, host conditions and source-specific notices.
+
+## Start here
+
+Start with [SKILL.md](SKILL.md) and follow its context routes.
+
+Keep the complete product bundle together. Select the product entrypoint before using an example, and preserve its host, platform, runtime and version requirements. Desktop scripting, UXP and cloud APIs can expose different operations even within one product.
+
+## Sources and license
+
+Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://developer.adobe.com/) when dealing with defects or issues that may come up from interpreting this skill's references.
+
+Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

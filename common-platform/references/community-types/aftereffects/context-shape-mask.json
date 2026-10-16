@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Shape", "file": "references/community-types/aftereffects/shape.md", "summary": "Open when looking up Shape in Shared Adobe platform.", "keywords": ["Shape"]},
+  {"topic": "LineJoinType", "file": "references/community-types/aftereffects/line-join-type.md", "summary": "Open when looking up LineJoinType in Shared Adobe platform.", "keywords": ["LineJoinType"]},
+  {"topic": "MaskFeatherFalloff", "file": "references/community-types/aftereffects/mask-feather-falloff.md", "summary": "Open when looking up MaskFeatherFalloff in Shared Adobe platform.", "keywords": ["MaskFeatherFalloff"]},
+  {"topic": "MaskMode", "file": "references/community-types/aftereffects/mask-mode.md", "summary": "Open when looking up MaskMode in Shared Adobe platform.", "keywords": ["MaskMode"]},
+  {"topic": "MaskMotionBlur", "file": "references/community-types/aftereffects/mask-motion-blur.md", "summary": "Open when looking up MaskMotionBlur in Shared Adobe platform.", "keywords": ["MaskMotionBlur"]},
+  {"topic": "MaskPropertyGroup", "file": "references/community-types/aftereffects/mask-property-group.md", "summary": "Open when looking up MaskPropertyGroup in Shared Adobe platform.", "keywords": ["MaskPropertyGroup"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

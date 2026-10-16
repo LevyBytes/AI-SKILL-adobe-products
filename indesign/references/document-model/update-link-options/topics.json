@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "APPLICATION_SETTINGS", "file": "references/document-model/update-link-options/applicationsettings.md", "summary": "Open when looking up APPLICATION_SETTINGS in InDesign.", "keywords": ["APPLICATION_SETTINGS"]},
+  {"topic": "KEEP_OVERRIDES", "file": "references/document-model/update-link-options/keepoverrides.md", "summary": "Open when looking up KEEP_OVERRIDES in InDesign.", "keywords": ["KEEP_OVERRIDES"]},
+  {"topic": "UNKNOWN", "file": "references/document-model/update-link-options/unknown.md", "summary": "Open when looking up UNKNOWN in InDesign.", "keywords": ["UNKNOWN"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

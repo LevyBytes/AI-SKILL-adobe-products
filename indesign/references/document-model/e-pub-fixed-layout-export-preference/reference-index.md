@@ -1,0 +1,37 @@
+# InDesign — EPubFixedLayoutExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up coverImageFile in InDesign. [coverImageFile](cover-image-file.md).
+- Open when looking up epubCover in InDesign. [epubCover](epub-cover.md).
+- Open when looking up epubCreator in InDesign. [epubCreator](epub-creator.md).
+- Open when looking up epubDate in InDesign. [epubDate](epub-date.md).
+- Open when looking up epubDescription in InDesign. [epubDescription](epub-description.md).
+- Open when looking up epubNavigationStyles in InDesign. [epubNavigationStyles](epub-navigation-styles.md).
+- Open when looking up epubPageRange in InDesign. [epubPageRange](epub-page-range.md).
+- Open when looking up epubPageRangeFormat in InDesign. [epubPageRangeFormat](epub-page-range-format.md).
+- Open when looking up epubPublisher in InDesign. [epubPublisher](epub-publisher.md).
+- Open when looking up epubRights in InDesign. [epubRights](epub-rights.md).
+- Open when looking up epubSpreadControlOptions in InDesign. [epubSpreadControlOptions](epub-spread-control-options.md).
+- Open when looking up epubSubject in InDesign. [epubSubject](epub-subject.md).
+- Open when looking up epubTitle in InDesign. [epubTitle](epub-title.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up externalStyleSheets in InDesign. [externalStyleSheets](external-style-sheets.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up gifOptionsInterlaced in InDesign. [gifOptionsInterlaced](gif-options-interlaced.md).
+- Open when looking up gifOptionsPalette in InDesign. [gifOptionsPalette](gif-options-palette.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up imageConversion in InDesign. [imageConversion](image-conversion.md).
+- Open when looking up imageExportResolution in InDesign. [imageExportResolution](image-export-resolution.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up javascripts in InDesign. [javascripts](javascripts.md).
+- Open when looking up jpegOptionsFormat in InDesign. [jpegOptionsFormat](jpeg-options-format.md).
+- Open when looking up jpegOptionsQuality in InDesign. [jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up level in InDesign. [level](level.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up tocStyleName in InDesign. [tocStyleName](toc-style-name.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

@@ -1,0 +1,23 @@
+# Shared Adobe platform — BorderPanel
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up BorderPanel declaration in Shared Adobe platform. [BorderPanel declaration](declaration.md).
+- Open when looking up BorderPanel.angleComboboxes in Shared Adobe platform. [BorderPanel.angleComboboxes](angle-comboboxes.md).
+- Open when looking up BorderPanel.angleEditboxes in Shared Adobe platform. [BorderPanel.angleEditboxes](angle-editboxes.md).
+- Open when looking up BorderPanel.borderPanels in Shared Adobe platform. [BorderPanel.borderPanels](border-panels.md).
+- Open when looking up BorderPanel.checkboxControls in Shared Adobe platform. [BorderPanel.checkboxControls](checkbox-controls.md).
+- Open when looking up BorderPanel.dialogColumns in Shared Adobe platform. [BorderPanel.dialogColumns](dialog-columns.md).
+- Open when looking up BorderPanel.dropdowns in Shared Adobe platform. [BorderPanel.dropdowns](dropdowns.md).
+- Open when looking up BorderPanel.enablingGroups in Shared Adobe platform. [BorderPanel.enablingGroups](enabling-groups.md).
+- Open when looking up BorderPanel.integerComboboxes in Shared Adobe platform. [BorderPanel.integerComboboxes](integer-comboboxes.md).
+- Open when looking up BorderPanel.integerEditboxes in Shared Adobe platform. [BorderPanel.integerEditboxes](integer-editboxes.md).
+- Open when looking up BorderPanel.measurementComboboxes in Shared Adobe platform. [BorderPanel.measurementComboboxes](measurement-comboboxes.md).
+- Open when looking up BorderPanel.measurementEditboxes in Shared Adobe platform. [BorderPanel.measurementEditboxes](measurement-editboxes.md).
+- Open when looking up BorderPanel.percentComboboxes in Shared Adobe platform. [BorderPanel.percentComboboxes](percent-comboboxes.md).
+- Open when looking up BorderPanel.percentEditboxes in Shared Adobe platform. [BorderPanel.percentEditboxes](percent-editboxes.md).
+- Open when looking up BorderPanel.radiobuttonGroups in Shared Adobe platform. [BorderPanel.radiobuttonGroups](radiobutton-groups.md).
+- Open when looking up BorderPanel.realComboboxes in Shared Adobe platform. [BorderPanel.realComboboxes](real-comboboxes.md).
+- Open when looking up BorderPanel.realEditboxes in Shared Adobe platform. [BorderPanel.realEditboxes](real-editboxes.md).
+- Open when looking up BorderPanel.staticTexts in Shared Adobe platform. [BorderPanel.staticTexts](static-texts.md).
+- Open when looking up BorderPanel.textEditboxes in Shared Adobe platform. [BorderPanel.textEditboxes](text-editboxes.md).
+- Open when looking up BorderPanel.widgets in Shared Adobe platform. [BorderPanel.widgets](widgets.md).

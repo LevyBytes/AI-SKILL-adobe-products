@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Download font and spelling packs", "file": "references/desktop/get-started/access-the-app/download-font-and-spelling-packs.md", "summary": "Open when looking up Download font and spelling packs in Acrobat.", "keywords": ["Download font and spelling packs"]},
+  {"topic": "Install Acrobat", "file": "references/desktop/get-started/access-the-app/install-acrobat.md", "summary": "Open when looking up Install Acrobat in Acrobat.", "keywords": ["Install Acrobat"]},
+  {"topic": "Update Adobe Acrobat manually", "file": "references/desktop/get-started/access-the-app/update-adobe-acrobat-manually.md", "summary": "Open when looking up Update Adobe Acrobat manually in Acrobat.", "keywords": ["Update Adobe Acrobat manually"]},
+  {"topic": "Update Adobe Acrobat manually references", "file": "references/desktop/get-started/access-the-app/update-adobe-acrobat-manually/reference-index.md", "summary": "Open when looking up Update Adobe Acrobat manually in Acrobat.", "keywords": ["Update Adobe Acrobat manually references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

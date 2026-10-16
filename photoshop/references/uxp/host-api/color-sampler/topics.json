@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "move", "file": "references/uxp/host-api/color-sampler/move.md", "summary": "Open when looking up move in Photoshop.", "keywords": ["move"]},
+  {"topic": "remove", "file": "references/uxp/host-api/color-sampler/remove.md", "summary": "Open when looking up remove in Photoshop.", "keywords": ["remove"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Apply leading to whole paragraphs", "file": "references/desktop/text-formatting/character-formatting/adjust-line-spacing-with-leading/apply-leading-to-whole-paragraphs.md", "summary": "Open when looking up Apply leading to whole paragraphs in InDesign.", "keywords": ["Apply leading to whole paragraphs"]},
+  {"topic": "Change leading of selected text", "file": "references/desktop/text-formatting/character-formatting/adjust-line-spacing-with-leading/change-leading-of-selected-text.md", "summary": "Open when looking up Change leading of selected text in InDesign.", "keywords": ["Change leading of selected text"]},
+  {"topic": "Change the default leading percentage", "file": "references/desktop/text-formatting/character-formatting/adjust-line-spacing-with-leading/change-the-default-leading-percentage.md", "summary": "Open when looking up Change the default leading percentage in InDesign.", "keywords": ["Change the default leading percentage"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

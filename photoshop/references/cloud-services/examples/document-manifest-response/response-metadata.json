@@ -1,0 +1,21 @@
+{
+  "jobId": "63c6e812-6cb8-43de-8a60-3681a9ec6feb",
+  "outputs": [
+    {
+      "input": "<SIGNED_GET_URL>",
+      "status": "succeeded",
+      "created": "2018-08-24T23:07:36.8Z",
+      "modified": "2018-08-24T23:07:37.688Z",
+      "document": {
+        "height": 600,
+        "name": "Example.psd",
+        "width": 300
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "https://image.adobe.io/pie/psdService/status/8ec6e4f5-b580-41ac-b693-a72f150fec59"
+    }
+  }
+}

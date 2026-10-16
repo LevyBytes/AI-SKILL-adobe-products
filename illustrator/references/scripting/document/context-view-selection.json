@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Document.activeLayer", "file": "references/scripting/document/active-layer.md", "summary": "Open when looking up Document.activeLayer in Illustrator.", "keywords": ["Document.activeLayer"]},
+  {"topic": "Document.activeView", "file": "references/scripting/document/active-view.md", "summary": "Open when looking up Document.activeView in Illustrator.", "keywords": ["Document.activeView"]},
+  {"topic": "Document.arrange()", "file": "references/scripting/document/arrange.md", "summary": "Open when looking up Document.arrange() in Illustrator.", "keywords": ["Document.arrange()"]},
+  {"topic": "Document.selection", "file": "references/scripting/document/selection.md", "summary": "Open when looking up Document.selection in Illustrator.", "keywords": ["Document.selection"]},
+  {"topic": "Document.selectObjectsOnActiveArtboard()", "file": "references/scripting/document/select-objects-on-active-artboard.md", "summary": "Open when looking up Document.selectObjectsOnActiveArtboard() in Illustrator.", "keywords": ["Document.selectObjectsOnActiveArtboard()"]},
+  {"topic": "Document.views", "file": "references/scripting/document/views.md", "summary": "Open when looking up Document.views in Illustrator.", "keywords": ["Document.views"]},
+  {"topic": "Document.windowCapture()", "file": "references/scripting/document/window-capture.md", "summary": "Open when looking up Document.windowCapture() in Illustrator.", "keywords": ["Document.windowCapture()"]},
+  {"topic": "Document.showPlacedImages", "file": "references/scripting/document/show-placed-images.md", "summary": "Open when looking up Document.showPlacedImages in Illustrator.", "keywords": ["Document.showPlacedImages"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

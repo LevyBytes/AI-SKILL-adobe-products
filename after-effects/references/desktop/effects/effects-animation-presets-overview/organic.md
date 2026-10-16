@@ -1,0 +1,36 @@
+# ORGANIC
+
+- Autumn
+- Boiling
+- Boomerang
+- Bounce Diagonal
+- Chewing Gum
+- Climber
+- Dip-Bounce
+- Double-Helix
+- Drop Bounce
+- Fish Bait
+- Flutter
+- Flying Formation
+- Horsefly
+- Hummingbird
+- Insect Wipe
+- Insects
+- Labrador
+
+- Leapfrog
+- Loose Line
+- Ocean Tide
+- Quiver
+- Ripple
+- Rubber Floor
+- Rubber
+- Sea-Sick
+- Shuffle
+- Simmer
+- Slice And Dice
+- Sprouts
+- Tag Team
+- Wheatfield
+- Wind Current
+- Wobble

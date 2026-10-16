@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Host Application API", "file": "references/uxp/uxp-in-photoshop-vs-other-creative-cloud-applications/host-application-api.md", "summary": "Open when looking up Host Application API in Photoshop.", "keywords": ["Host Application API"]},
+  {"topic": "Manifest JSON", "file": "references/uxp/uxp-in-photoshop-vs-other-creative-cloud-applications/manifest-json.md", "summary": "Open when looking up Manifest JSON in Photoshop.", "keywords": ["Manifest JSON"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

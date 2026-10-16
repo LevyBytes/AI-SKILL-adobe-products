@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "For ParametricMeshType.CONE", "file": "references/scripting/parametric-mesh-layer-object/for-parametric-mesh-type-cone.md", "summary": "Open when looking up For ParametricMeshType.CONE in After Effects.", "keywords": ["For ParametricMeshType.CONE"]},
+  {"topic": "For ParametricMeshType.CUBE", "file": "references/scripting/parametric-mesh-layer-object/for-parametric-mesh-type-cube.md", "summary": "Open when looking up For ParametricMeshType.CUBE in After Effects.", "keywords": ["For ParametricMeshType.CUBE"]},
+  {"topic": "For ParametricMeshType.CYLINDER", "file": "references/scripting/parametric-mesh-layer-object/for-parametric-mesh-type-cylinder.md", "summary": "Open when looking up For ParametricMeshType.CYLINDER in After Effects.", "keywords": ["For ParametricMeshType.CYLINDER"]},
+  {"topic": "For ParametricMeshType.PLANE", "file": "references/scripting/parametric-mesh-layer-object/for-parametric-mesh-type-plane.md", "summary": "Open when looking up For ParametricMeshType.PLANE in After Effects.", "keywords": ["For ParametricMeshType.PLANE"]},
+  {"topic": "For ParametricMeshType.SPHERE", "file": "references/scripting/parametric-mesh-layer-object/for-parametric-mesh-type-sphere.md", "summary": "Open when looking up For ParametricMeshType.SPHERE in After Effects.", "keywords": ["For ParametricMeshType.SPHERE"]},
+  {"topic": "For ParametricMeshType.TORUS", "file": "references/scripting/parametric-mesh-layer-object/for-parametric-mesh-type-torus.md", "summary": "Open when looking up For ParametricMeshType.TORUS in After Effects.", "keywords": ["For ParametricMeshType.TORUS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "PF_EffectIsActiveOrEnabled", "file": "references/plugin-sdk/pf-adv-item-suite1/pf-effect-is-active-or-enabled.md", "summary": "Open when looking up PF_EffectIsActiveOrEnabled in After Effects.", "keywords": ["PF_EffectIsActiveOrEnabled"]},
+  {"topic": "PF_ForceRerender", "file": "references/plugin-sdk/pf-adv-item-suite1/pf-force-rerender.md", "summary": "Open when looking up PF_ForceRerender in After Effects.", "keywords": ["PF_ForceRerender"]},
+  {"topic": "PF_MoveTimeStep", "file": "references/plugin-sdk/pf-adv-item-suite1/pf-move-time-step.md", "summary": "Open when looking up PF_MoveTimeStep in After Effects.", "keywords": ["PF_MoveTimeStep"]},
+  {"topic": "PF_MoveTimeStepActiveItem", "file": "references/plugin-sdk/pf-adv-item-suite1/pf-move-time-step-active-item.md", "summary": "Open when looking up PF_MoveTimeStepActiveItem in After Effects.", "keywords": ["PF_MoveTimeStepActiveItem"]},
+  {"topic": "PF_TouchActiveItem", "file": "references/plugin-sdk/pf-adv-item-suite1/pf-touch-active-item.md", "summary": "Open when looking up PF_TouchActiveItem in After Effects.", "keywords": ["PF_TouchActiveItem"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

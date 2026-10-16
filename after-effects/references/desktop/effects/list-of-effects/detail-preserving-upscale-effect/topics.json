@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Effect controls", "file": "references/desktop/effects/list-of-effects/detail-preserving-upscale-effect/effect-controls.md", "summary": "Open when looking up Effect controls in After Effects.", "keywords": ["Effect controls"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

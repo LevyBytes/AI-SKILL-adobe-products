@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BOTH", "file": "references/document-model/flip/both.md", "summary": "Open when looking up BOTH in InDesign.", "keywords": ["BOTH"]},
+  {"topic": "HORIZONTAL", "file": "references/document-model/flip/horizontal.md", "summary": "Open when looking up HORIZONTAL in InDesign.", "keywords": ["HORIZONTAL"]},
+  {"topic": "HORIZONTAL_AND_VERTICAL", "file": "references/document-model/flip/horizontalandvertical.md", "summary": "Open when looking up HORIZONTAL_AND_VERTICAL in InDesign.", "keywords": ["HORIZONTAL_AND_VERTICAL"]},
+  {"topic": "NONE", "file": "references/document-model/flip/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "VERTICAL", "file": "references/document-model/flip/vertical.md", "summary": "Open when looking up VERTICAL in InDesign.", "keywords": ["VERTICAL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

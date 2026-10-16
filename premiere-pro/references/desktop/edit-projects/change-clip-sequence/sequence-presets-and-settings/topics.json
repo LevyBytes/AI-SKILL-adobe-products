@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Selecting a Sequence Presets", "file": "references/desktop/edit-projects/change-clip-sequence/sequence-presets-and-settings/selecting-a-sequence-presets.md", "summary": "Open when looking up Selecting a Sequence Presets in Premiere Pro.", "keywords": ["Selecting a Sequence Presets"]},
+  {"topic": "Sequence Presets options", "file": "references/desktop/edit-projects/change-clip-sequence/sequence-presets-and-settings/sequence-presets-options.md", "summary": "Open when looking up Sequence Presets options in Premiere Pro.", "keywords": ["Sequence Presets options"]},
+  {"topic": "Using multiple sequences", "file": "references/desktop/edit-projects/change-clip-sequence/sequence-presets-and-settings/using-multiple-sequences.md", "summary": "Open when looking up Using multiple sequences in Premiere Pro.", "keywords": ["Using multiple sequences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

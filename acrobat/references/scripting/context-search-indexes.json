@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "available", "file": "references/scripting/available.md", "summary": "Open when looking up available in Acrobat.", "keywords": ["available"]},
+  {"topic": "build", "file": "references/scripting/build.md", "summary": "Open when looking up build in Acrobat.", "keywords": ["build"]},
+  {"topic": "Catalog job references", "file": "references/scripting/catalog-job/reference-index.md", "summary": "Open when looking up Catalog job in Acrobat.", "keywords": ["Catalog job references"]},
+  {"topic": "Catalog references", "file": "references/scripting/catalog/reference-index.md", "summary": "Open when looking up Catalog in Acrobat.", "keywords": ["Catalog references"]},
+  {"topic": "Index references", "file": "references/scripting/index/reference-index.md", "summary": "Open when looking up Index in Acrobat.", "keywords": ["Index references"]},
+  {"topic": "name", "file": "references/scripting/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "path", "file": "references/scripting/path.md", "summary": "Open when looking up path in Acrobat.", "keywords": ["path"]},
+  {"topic": "Search references", "file": "references/scripting/search/reference-index.md", "summary": "Open when looking up Search in Acrobat.", "keywords": ["Search references"]},
+  {"topic": "selected", "file": "references/scripting/selected.md", "summary": "Open when looking up selected in Acrobat.", "keywords": ["selected"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

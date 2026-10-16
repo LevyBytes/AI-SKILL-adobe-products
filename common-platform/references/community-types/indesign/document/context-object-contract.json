@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document declaration", "file": "references/community-types/indesign/document/declaration.md", "summary": "Open when looking up Document declaration in Shared Adobe platform.", "keywords": ["Document declaration"]},
+  {"topic": "Document identity and parent", "file": "references/community-types/indesign/document/identity-and-parent.md", "summary": "Open when looking up Document identity and parent in Shared Adobe platform.", "keywords": ["Document identity and parent"]},
+  {"topic": "Document labels and metadata", "file": "references/community-types/indesign/document/labels-and-metadata.md", "summary": "Open when looking up Document labels and metadata in Shared Adobe platform.", "keywords": ["Document labels and metadata"]},
+  {"topic": "Document object resolution", "file": "references/community-types/indesign/document/object-resolution.md", "summary": "Open when looking up Document object resolution in Shared Adobe platform.", "keywords": ["Document object resolution"]},
+  {"topic": "Document.properties", "file": "references/community-types/indesign/document/properties.md", "summary": "Open when looking up Document.properties in Shared Adobe platform.", "keywords": ["Document.properties"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

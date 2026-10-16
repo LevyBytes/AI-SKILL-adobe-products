@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Adobe InDesign (Beta) overview", "file": "references/desktop/what-s-new/adobe-in-design-beta-overview.md", "summary": "Open when looking up Adobe InDesign (Beta) overview in InDesign.", "keywords": ["Adobe InDesign (Beta) overview"]},
+  {"topic": "Adobe InDesign Server overview", "file": "references/desktop/what-s-new/adobe-in-design-server-overview.md", "summary": "Open when looking up Adobe InDesign Server overview in InDesign.", "keywords": ["Adobe InDesign Server overview"]},
+  {"topic": "Adobe InDesign Server overview references", "file": "references/desktop/what-s-new/adobe-in-design-server-overview/reference-index.md", "summary": "Open when looking up Adobe InDesign Server overview in InDesign.", "keywords": ["Adobe InDesign Server overview references"]},
+  {"topic": "What's new", "file": "references/desktop/what-s-new/what-s-new.md", "summary": "Open when looking up What's new in InDesign.", "keywords": ["What's new"]},
+  {"topic": "What’s new in Adobe InDesign", "file": "references/desktop/what-s-new/what-s-new-in-adobe-in-design.md", "summary": "Open when looking up What’s new in Adobe InDesign in InDesign.", "keywords": ["What’s new in Adobe InDesign"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

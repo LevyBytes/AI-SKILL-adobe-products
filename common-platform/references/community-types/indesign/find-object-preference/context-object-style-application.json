@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "FindObjectPreference.appliedObjectStyles", "file": "references/community-types/indesign/find-object-preference/applied-object-styles.md", "summary": "Open when looking up FindObjectPreference.appliedObjectStyles in Shared Adobe platform.", "keywords": ["FindObjectPreference.appliedObjectStyles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

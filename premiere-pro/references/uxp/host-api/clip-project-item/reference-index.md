@@ -1,0 +1,42 @@
+# Premiere Pro — Clip project item
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up attachProxy in Premiere Pro. [attachProxy](attach-proxy.md).
+- Open when looking up canChangeMediaPath in Premiere Pro. [canChangeMediaPath](can-change-media-path.md).
+- Open when looking up canProxy in Premiere Pro. [canProxy](can-proxy.md).
+- Open when looking up cast in Premiere Pro. [cast](cast.md).
+- Open when looking up changeMediaFilePath in Premiere Pro. [changeMediaFilePath](change-media-file-path.md).
+- Open when looking up ClipProjectItem — Properties in Premiere Pro. [ClipProjectItem — Properties](clip-project-item-properties.md).
+- Open when looking up createClearInOutPointsAction in Premiere Pro. [createClearInOutPointsAction](create-clear-in-out-points-action.md).
+- Open when looking up createSetColorLabelAction in Premiere Pro. [createSetColorLabelAction](create-set-color-label-action.md).
+- Open when looking up createSetFootageInterpretationAction in Premiere Pro. [createSetFootageInterpretationAction](create-set-footage-interpretation-action.md).
+- Open when looking up createSetInOutPointsAction in Premiere Pro. [createSetInOutPointsAction](create-set-in-out-points-action.md).
+- Open when looking up createSetInPointAction in Premiere Pro. [createSetInPointAction](create-set-in-point-action.md).
+- Open when looking up createSetInputLUTIDAction in Premiere Pro. [createSetInputLUTIDAction](create-set-input-lutid-action.md).
+- Open when looking up createSetNameAction in Premiere Pro. [createSetNameAction](create-set-name-action.md).
+- Open when looking up createSetOfflineAction in Premiere Pro. [createSetOfflineAction](create-set-offline-action.md).
+- Open when looking up createSetOutPointAction in Premiere Pro. [createSetOutPointAction](create-set-out-point-action.md).
+- Open when looking up createSetOverrideFrameRateAction in Premiere Pro. [createSetOverrideFrameRateAction](create-set-override-frame-rate-action.md).
+- Open when looking up createSetOverridePixelAspectRatioAction in Premiere Pro. [createSetOverridePixelAspectRatioAction](create-set-override-pixel-aspect-ratio-action.md).
+- Open when looking up createSetScaleToFrameSizeAction in Premiere Pro. [createSetScaleToFrameSizeAction](create-set-scale-to-frame-size-action.md).
+- Open when looking up findItemsMatchingMediaPath in Premiere Pro. [findItemsMatchingMediaPath](find-items-matching-media-path.md).
+- Open when looking up getColorLabelIndex in Premiere Pro. [getColorLabelIndex](get-color-label-index.md).
+- Open when looking up getComponentChain in Premiere Pro. [getComponentChain](get-component-chain.md).
+- Open when looking up getContentType in Premiere Pro. [getContentType](get-content-type.md).
+- Open when looking up getEmbeddedLUTID in Premiere Pro. [getEmbeddedLUTID](get-embedded-lutid.md).
+- Open when looking up getFootageInterpretation in Premiere Pro. [getFootageInterpretation](get-footage-interpretation.md).
+- Open when looking up getInPoint in Premiere Pro. [getInPoint](get-in-point.md).
+- Open when looking up getInputLUTID in Premiere Pro. [getInputLUTID](get-input-lutid.md).
+- Open when looking up getMedia in Premiere Pro. [getMedia](get-media.md).
+- Open when looking up getMediaFilePath in Premiere Pro. [getMediaFilePath](get-media-file-path.md).
+- Open when looking up getOriginatingProjectPath in Premiere Pro. [getOriginatingProjectPath](get-originating-project-path.md).
+- Open when looking up getOutPoint in Premiere Pro. [getOutPoint](get-out-point.md).
+- Open when looking up getProject in Premiere Pro. [getProject](get-project.md).
+- Open when looking up getProxyPath in Premiere Pro. [getProxyPath](get-proxy-path.md).
+- Open when looking up getSequence in Premiere Pro. [getSequence](get-sequence.md).
+- Open when looking up hasProxy in Premiere Pro. [hasProxy](has-proxy.md).
+- Open when looking up isMergedClip in Premiere Pro. [isMergedClip](is-merged-clip.md).
+- Open when looking up isMulticamClip in Premiere Pro. [isMulticamClip](is-multicam-clip.md).
+- Open when looking up isOffline in Premiere Pro. [isOffline](is-offline.md).
+- Open when looking up isSequence in Premiere Pro. [isSequence](is-sequence.md).
+- Open when looking up refreshMedia in Premiere Pro. [refreshMedia](refresh-media.md).

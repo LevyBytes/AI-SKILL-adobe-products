@@ -1,0 +1,23 @@
+# After Effects — AEGP_KeyframeSuite4
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_AddKeyframes in After Effects. [AEGP_AddKeyframes](aegp-add-keyframes.md).
+- Open when looking up AEGP_DeleteKeyframe in After Effects. [AEGP_DeleteKeyframe](aegp-delete-keyframe.md).
+- Open when looking up AEGP_EndAddKeyframes in After Effects. [AEGP_EndAddKeyframes](aegp-end-add-keyframes.md).
+- Open when looking up AEGP_GetKeyframeFlags in After Effects. [AEGP_GetKeyframeFlags](aegp-get-keyframe-flags.md).
+- Open when looking up AEGP_GetKeyframeInterpolation in After Effects. [AEGP_GetKeyframeInterpolation](aegp-get-keyframe-interpolation.md).
+- Open when looking up AEGP_GetKeyframeTemporalEase in After Effects. [AEGP_GetKeyframeTemporalEase](aegp-get-keyframe-temporal-ease.md).
+- Open when looking up AEGP_GetKeyframeTime in After Effects. [AEGP_GetKeyframeTime](aegp-get-keyframe-time.md).
+- Open when looking up AEGP_GetNewKeyframeSpatialTangents in After Effects. [AEGP_GetNewKeyframeSpatialTangents](aegp-get-new-keyframe-spatial-tangents.md).
+- Open when looking up AEGP_GetNewKeyframeValue in After Effects. [AEGP_GetNewKeyframeValue](aegp-get-new-keyframe-value.md).
+- Open when looking up AEGP_GetStreamNumKFs in After Effects. [AEGP_GetStreamNumKFs](aegp-get-stream-num-k-fs.md).
+- Open when looking up AEGP_GetStreamTemporalDimensionality in After Effects. [AEGP_GetStreamTemporalDimensionality](aegp-get-stream-temporal-dimensionality.md).
+- Open when looking up AEGP_GetStreamValueDimensionality in After Effects. [AEGP_GetStreamValueDimensionality](aegp-get-stream-value-dimensionality.md).
+- Open when looking up AEGP_InsertKeyframe in After Effects. [AEGP_InsertKeyframe](aegp-insert-keyframe.md).
+- Open when looking up AEGP_SetAddKeyframe in After Effects. [AEGP_SetAddKeyframe](aegp-set-add-keyframe.md).
+- Open when looking up AEGP_SetKeyframeFlag in After Effects. [AEGP_SetKeyframeFlag](aegp-set-keyframe-flag.md).
+- Open when looking up AEGP_SetKeyframeInterpolation in After Effects. [AEGP_SetKeyframeInterpolation](aegp-set-keyframe-interpolation.md).
+- Open when looking up AEGP_SetKeyframeSpatialTangents in After Effects. [AEGP_SetKeyframeSpatialTangents](aegp-set-keyframe-spatial-tangents.md).
+- Open when looking up AEGP_SetKeyframeTemporalEase in After Effects. [AEGP_SetKeyframeTemporalEase](aegp-set-keyframe-temporal-ease.md).
+- Open when looking up AEGP_SetKeyframeValue in After Effects. [AEGP_SetKeyframeValue](aegp-set-keyframe-value.md).
+- Open when looking up AEGP_StartAddKeyframes in After Effects. [AEGP_StartAddKeyframes](aegp-start-add-keyframes.md).

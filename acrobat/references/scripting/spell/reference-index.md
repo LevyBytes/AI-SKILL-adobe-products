@@ -1,0 +1,24 @@
+# Acrobat — Spell
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addDictionary in Acrobat. [addDictionary](add-dictionary.md).
+- Open when looking up addWord in Acrobat. [addWord](add-word.md).
+- Open when looking up available in Acrobat. [available](available.md).
+- Open when looking up check in Acrobat. [check](check.md).
+- Open when looking up checkText in Acrobat. [checkText](check-text.md).
+- Open when looking up checkWord in Acrobat. [checkWord](check-word.md).
+- Open when looking up customDictionaryClose in Acrobat. [customDictionaryClose](custom-dictionary-close.md).
+- Open when looking up customDictionaryCreate in Acrobat. [customDictionaryCreate](custom-dictionary-create.md).
+- Open when looking up customDictionaryDelete in Acrobat. [customDictionaryDelete](custom-dictionary-delete.md).
+- Open when looking up customDictionaryExport in Acrobat. [customDictionaryExport](custom-dictionary-export.md).
+- Open when looking up customDictionaryOpen in Acrobat. [customDictionaryOpen](custom-dictionary-open.md).
+- Open when looking up dictionaryNames in Acrobat. [dictionaryNames](dictionary-names.md).
+- Open when looking up dictionaryOrder in Acrobat. [dictionaryOrder](dictionary-order.md).
+- Open when looking up domainNames in Acrobat. [domainNames](domain-names.md).
+- Open when looking up ignoreAll in Acrobat. [ignoreAll](ignore-all.md).
+- Open when looking up JavaScript APIs — spell in Acrobat. [JavaScript APIs — spell](java-script-apis-spell.md).
+- Open when looking up languageOrder in Acrobat. [languageOrder](language-order.md).
+- Open when looking up languages in Acrobat. [languages](languages.md).
+- Open when looking up removeDictionary in Acrobat. [removeDictionary](remove-dictionary.md).
+- Open when looking up removeWord in Acrobat. [removeWord](remove-word.md).
+- Open when looking up userWords in Acrobat. [userWords](user-words.md).

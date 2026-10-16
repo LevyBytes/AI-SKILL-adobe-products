@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "TAG_ARTIFACT", "file": "references/document-model/tag-type/tagartifact.md", "summary": "Open when looking up TAG_ARTIFACT in InDesign.", "keywords": ["TAG_ARTIFACT"]},
+  {"topic": "TAG_BASED_ON_OBJECT", "file": "references/document-model/tag-type/tagbasedonobject.md", "summary": "Open when looking up TAG_BASED_ON_OBJECT in InDesign.", "keywords": ["TAG_BASED_ON_OBJECT"]},
+  {"topic": "TAG_FROM_STRUCTURE", "file": "references/document-model/tag-type/tagfromstructure.md", "summary": "Open when looking up TAG_FROM_STRUCTURE in InDesign.", "keywords": ["TAG_FROM_STRUCTURE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

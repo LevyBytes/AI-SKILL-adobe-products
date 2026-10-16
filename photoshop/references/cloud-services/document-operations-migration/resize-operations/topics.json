@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Resize interpolation examples", "file": "references/cloud-services/document-operations-migration/resize-operations/resize-interpolation-examples.md", "summary": "Open when looking up Resize interpolation examples in Photoshop.", "keywords": ["Resize interpolation examples"]},
+  {"topic": "Resize parameter details", "file": "references/cloud-services/document-operations-migration/resize-operations/resize-parameter-details.md", "summary": "Open when looking up Resize parameter details in Photoshop.", "keywords": ["Resize parameter details"]},
+  {"topic": "Resize request dimensions and proportions", "file": "references/cloud-services/document-operations-migration/resize-operations/resize-request-examples.md", "summary": "Open when looking up Resize request dimensions and proportions in Photoshop.", "keywords": ["Resize request dimensions and proportions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

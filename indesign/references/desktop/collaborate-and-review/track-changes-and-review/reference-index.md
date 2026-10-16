@@ -1,0 +1,25 @@
+# InDesign — Track changes and review
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Accept or reject all changes at once in InDesign. [Accept or reject all changes at once](accept-or-reject-all-changes-at-once.md).
+- Open when looking up Add and manage editorial notes in InDesign. [Add and manage editorial notes](add-and-manage-editorial-notes.md).
+- Open when looking up Convert a note back to text in InDesign. [Convert a note back to text](convert-a-note-back-to-text.md).
+- Open when looking up Convert text to a note in InDesign. [Convert text to a note](convert-text-to-a-note.md).
+- Open when looking up Create a note using the Notes panel in InDesign. [Create a note using the Notes panel](create-a-note-using-the-notes-panel.md).
+- Open when looking up Create a note using the Story Editor in InDesign. [Create a note using the Story Editor](create-a-note-using-the-story-editor.md).
+- Open when looking up Edit preferences for Notes in InDesign. [Edit preferences for Notes](edit-preferences-for-notes.md).
+- Open when looking up Edit with InCopy in InDesign. [Edit with InCopy](edit-with-in-copy.md).
+- Open when looking up Filter changes by contributor in InDesign. [Filter changes by contributor](filter-changes-by-contributor.md).
+- Open when looking up Navigate and review individual changes in InDesign. [Navigate and review individual changes](navigate-and-review-individual-changes.md).
+- Open when looking up Navigate between notes in InDesign. [Navigate between notes](navigate-between-notes.md).
+- Open when looking up Review tracked text changes in InDesign. [Review tracked text changes](review-tracked-text-changes.md).
+- Open when looking up Set preferences for Track Changes in InDesign. [Set preferences for Track Changes](set-preferences-for-track-changes.md).
+- Open when looking up Set your user name for note attribution in InDesign. [Set your user name for note attribution](set-your-user-name-for-note-attribution.md).
+- Open when looking up Share and collaborate in InDesign. [Share and collaborate](share-and-collaborate.md).
+- Open when looking up Split a note into two notes in InDesign. [Split a note into two notes](split-a-note-into-two-notes.md).
+- Open when looking up Track Changes And Review in InDesign. [Track Changes And Review](track-changes-and-review.md).
+- Open when looking up Track text changes in InDesign. [Track text changes](track-text-changes.md).
+- Open when looking up Turn off Track Changes in InDesign. [Turn off Track Changes](turn-off-track-changes.md).
+- Open when looking up Turn on Track Changes in InDesign. [Turn on Track Changes](turn-on-track-changes.md).
+- Open when looking up View change details in InDesign. [View change details](view-change-details.md).
+- Open when looking up Working with Notes Mode in InDesign. [Working with Notes Mode](working-with-notes-mode.md).

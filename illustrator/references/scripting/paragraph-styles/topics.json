@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "ParagraphStyles.add()", "file": "references/scripting/paragraph-styles/add.md", "summary": "Open when looking up ParagraphStyles.add() in Illustrator.", "keywords": ["ParagraphStyles.add()"]},
+  {"topic": "ParagraphStyles.getByName()", "file": "references/scripting/paragraph-styles/get-by-name.md", "summary": "Open when looking up ParagraphStyles.getByName() in Illustrator.", "keywords": ["ParagraphStyles.getByName()"]},
+  {"topic": "ParagraphStyles.index()", "file": "references/scripting/paragraph-styles/index.md", "summary": "Open when looking up ParagraphStyles.index() in Illustrator.", "keywords": ["ParagraphStyles.index()"]},
+  {"topic": "ParagraphStyles.length", "file": "references/scripting/paragraph-styles/length.md", "summary": "Open when looking up ParagraphStyles.length in Illustrator.", "keywords": ["ParagraphStyles.length"]},
+  {"topic": "ParagraphStyles.parent", "file": "references/scripting/paragraph-styles/parent.md", "summary": "Open when looking up ParagraphStyles.parent in Illustrator.", "keywords": ["ParagraphStyles.parent"]},
+  {"topic": "ParagraphStyles.removeAll()", "file": "references/scripting/paragraph-styles/remove-all.md", "summary": "Open when looking up ParagraphStyles.removeAll() in Illustrator.", "keywords": ["ParagraphStyles.removeAll()"]},
+  {"topic": "ParagraphStyles.typename", "file": "references/scripting/paragraph-styles/typename.md", "summary": "Open when looking up ParagraphStyles.typename in Illustrator.", "keywords": ["ParagraphStyles.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Authentication", "file": "references/cloud-services/authentication.md", "summary": "Open when looking up Authentication in Photoshop.", "keywords": ["Authentication"]},
+  {"topic": "Authentication references", "file": "references/cloud-services/authentication/reference-index.md", "summary": "Open when looking up Authentication in Photoshop.", "keywords": ["Authentication references"]},
+  {"topic": "Storage Solutions", "file": "references/cloud-services/storage-solutions.md", "summary": "Open when looking up Storage Solutions in Photoshop.", "keywords": ["Storage Solutions"]},
+  {"topic": "Storage Solutions references", "file": "references/cloud-services/storage-solutions/reference-index.md", "summary": "Open when looking up Storage Solutions in Photoshop.", "keywords": ["Storage Solutions references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

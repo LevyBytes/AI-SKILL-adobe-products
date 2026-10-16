@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "DynamicMediaHandlingOptions", "file": "references/community-types/indesign/dynamic-media-handling-options.md", "summary": "Open when looking up DynamicMediaHandlingOptions in Shared Adobe platform.", "keywords": ["DynamicMediaHandlingOptions"]},
+  {"topic": "FloatingWindowPosition", "file": "references/community-types/indesign/floating-window-position.md", "summary": "Open when looking up FloatingWindowPosition in Shared Adobe platform.", "keywords": ["FloatingWindowPosition"]},
+  {"topic": "FloatingWindowSize", "file": "references/community-types/indesign/floating-window-size.md", "summary": "Open when looking up FloatingWindowSize in Shared Adobe platform.", "keywords": ["FloatingWindowSize"]},
+  {"topic": "MediaItem", "file": "references/community-types/indesign/media-item.md", "summary": "Open when looking up MediaItem in Shared Adobe platform.", "keywords": ["MediaItem"]},
+  {"topic": "MediaItems references", "file": "references/community-types/indesign/media-items/reference-index.md", "summary": "Open when looking up MediaItems in Shared Adobe platform.", "keywords": ["MediaItems references"]},
+  {"topic": "Movie references", "file": "references/community-types/indesign/movie/reference-index.md", "summary": "Open when looking up Movie in Shared Adobe platform.", "keywords": ["Movie references"]},
+  {"topic": "MovieBehavior", "file": "references/community-types/indesign/movie-behavior.md", "summary": "Open when looking up MovieBehavior in Shared Adobe platform.", "keywords": ["MovieBehavior"]},
+  {"topic": "MovieBehaviors references", "file": "references/community-types/indesign/movie-behaviors/reference-index.md", "summary": "Open when looking up MovieBehaviors in Shared Adobe platform.", "keywords": ["MovieBehaviors references"]},
+  {"topic": "MoviePlayOperations", "file": "references/community-types/indesign/movie-play-operations.md", "summary": "Open when looking up MoviePlayOperations in Shared Adobe platform.", "keywords": ["MoviePlayOperations"]},
+  {"topic": "MoviePosterTypes", "file": "references/community-types/indesign/movie-poster-types.md", "summary": "Open when looking up MoviePosterTypes in Shared Adobe platform.", "keywords": ["MoviePosterTypes"]},
+  {"topic": "Movies references", "file": "references/community-types/indesign/movies/reference-index.md", "summary": "Open when looking up Movies in Shared Adobe platform.", "keywords": ["Movies references"]},
+  {"topic": "NavigationPoint references", "file": "references/community-types/indesign/navigation-point/reference-index.md", "summary": "Open when looking up NavigationPoint in Shared Adobe platform.", "keywords": ["NavigationPoint references"]},
+  {"topic": "NavigationPoints references", "file": "references/community-types/indesign/navigation-points/reference-index.md", "summary": "Open when looking up NavigationPoints in Shared Adobe platform.", "keywords": ["NavigationPoints references"]},
+  {"topic": "PlayOperations", "file": "references/community-types/indesign/play-operations.md", "summary": "Open when looking up PlayOperations in Shared Adobe platform.", "keywords": ["PlayOperations"]},
+  {"topic": "Sound", "file": "references/community-types/indesign/sound.md", "summary": "Open when looking up Sound in Shared Adobe platform.", "keywords": ["Sound"]},
+  {"topic": "SoundBehavior", "file": "references/community-types/indesign/sound-behavior.md", "summary": "Open when looking up SoundBehavior in Shared Adobe platform.", "keywords": ["SoundBehavior"]},
+  {"topic": "SoundBehaviors references", "file": "references/community-types/indesign/sound-behaviors/reference-index.md", "summary": "Open when looking up SoundBehaviors in Shared Adobe platform.", "keywords": ["SoundBehaviors references"]},
+  {"topic": "SoundPosterTypes", "file": "references/community-types/indesign/sound-poster-types.md", "summary": "Open when looking up SoundPosterTypes in Shared Adobe platform.", "keywords": ["SoundPosterTypes"]},
+  {"topic": "Sounds references", "file": "references/community-types/indesign/sounds/reference-index.md", "summary": "Open when looking up Sounds in Shared Adobe platform.", "keywords": ["Sounds references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "reportProgress", "file": "references/uxp/progress-bar/report-progress.md", "summary": "Open when looking up reportProgress in Photoshop.", "keywords": ["reportProgress"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

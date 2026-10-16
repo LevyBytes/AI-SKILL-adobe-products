@@ -1,0 +1,27 @@
+# Premiere Pro — Edit metadata
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Create metadata schemas and properties in Premiere Pro. [Create metadata schemas and properties](create-metadata-schemas-and-properties.md).
+- Open when looking up Create metadata schemas and properties in Premiere Pro. [Create metadata schemas and properties references](create-metadata-schemas-and-properties/reference-index.md).
+- Open when looking up Create overlay settings in Premiere Pro. [Create overlay settings](create-overlay-settings.md).
+- Open when looking up Create overlay settings in Premiere Pro. [Create overlay settings references](create-overlay-settings/reference-index.md).
+- Open when looking up Display overlays in Multi-Camera View in Premiere Pro. [Display overlays in Multi-Camera View](display-overlays-in-multi-camera-view.md).
+- Open when looking up Display overlays in Multi-Camera View in Premiere Pro. [Display overlays in Multi-Camera View references](display-overlays-in-multi-camera-view/reference-index.md).
+- Open when looking up Edit XMP metadata in Premiere Pro. [Edit XMP metadata](edit-xmp-metadata.md).
+- Open when looking up Edit XMP metadata in Premiere Pro. [Edit XMP metadata references](edit-xmp-metadata/reference-index.md).
+- Open when looking up Import, export, or delete overlay settings in Premiere Pro. [Import, export, or delete overlay settings](import-export-or-delete-overlay-settings.md).
+- Open when looking up Import, export, or delete overlay settings in Premiere Pro. [Import, export, or delete overlay settings references](import-export-or-delete-overlay-settings/reference-index.md).
+- Open when looking up Link clip data to XMP metadata in Premiere Pro. [Link clip data to XMP metadata](link-clip-data-to-xmp-metadata.md).
+- Open when looking up Link clip data to XMP metadata in Premiere Pro. [Link clip data to XMP metadata references](link-clip-data-to-xmp-metadata/reference-index.md).
+- Open when looking up Metadata in Premiere in Premiere Pro. [Metadata in Premiere](metadata-in-premiere.md).
+- Open when looking up Metadata in Premiere in Premiere Pro. [Metadata in Premiere references](metadata-in-premiere/reference-index.md).
+- Open when looking up Overlay settings reference in Premiere Pro. [Overlay settings reference](overlay-settings-reference.md).
+- Open when looking up Overlay settings reference in Premiere Pro. [Overlay settings reference references](overlay-settings-reference/reference-index.md).
+- Open when looking up Save or delete metadata sets in Premiere Pro. [Save or delete metadata sets](save-or-delete-metadata-sets.md).
+- Open when looking up Save or delete metadata sets in Premiere Pro. [Save or delete metadata sets references](save-or-delete-metadata-sets/reference-index.md).
+- Open when looking up Search metadata in the Metadata panel in Premiere Pro. [Search metadata in the Metadata panel](search-metadata-in-the-metadata-panel.md).
+- Open when looking up Search metadata in the Metadata panel in Premiere Pro. [Search metadata in the Metadata panel references](search-metadata-in-the-metadata-panel/reference-index.md).
+- Open when looking up Show or hide metadata in Premiere in Premiere Pro. [Show or hide metadata in Premiere](show-or-hide-metadata-in-premiere.md).
+- Open when looking up Show or hide metadata in Premiere in Premiere Pro. [Show or hide metadata in Premiere references](show-or-hide-metadata-in-premiere/reference-index.md).
+- Open when looking up View clip data in the Metadata panel in Premiere Pro. [View clip data in the Metadata panel](view-clip-data-in-the-metadata-panel.md).
+- Open when looking up View clip data in the Metadata panel in Premiere Pro. [View clip data in the Metadata panel references](view-clip-data-in-the-metadata-panel/reference-index.md).

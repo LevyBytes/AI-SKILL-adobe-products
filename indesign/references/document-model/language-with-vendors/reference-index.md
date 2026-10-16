@@ -1,0 +1,31 @@
+# InDesign — LanguageWithVendors
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addDictionaryPath in InDesign. [addDictionaryPath](add-dictionary-path.md).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up dictionaryPaths in InDesign. [dictionaryPaths](dictionary-paths.md).
+- Open when looking up doubleQuotes in InDesign. [doubleQuotes](double-quotes.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up extractLabel in InDesign. [extractLabel](extract-label.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up hyphenationVendor in InDesign. [hyphenationVendor](hyphenation-vendor.md).
+- Open when looking up hyphenationVendorList in InDesign. [hyphenationVendorList](hyphenation-vendor-list.md).
+- Open when looking up icuLocaleName in InDesign. [icuLocaleName](icu-locale-name.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up insertLabel in InDesign. [insertLabel](insert-label.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up label in InDesign. [label](label.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeDictionaryPath in InDesign. [removeDictionaryPath](remove-dictionary-path.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up singleQuotes in InDesign. [singleQuotes](single-quotes.md).
+- Open when looking up spellingVendor in InDesign. [spellingVendor](spelling-vendor.md).
+- Open when looking up spellingVendorList in InDesign. [spellingVendorList](spelling-vendor-list.md).
+- Open when looking up thesaurusVendor in InDesign. [thesaurusVendor](thesaurus-vendor.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up untranslatedName in InDesign. [untranslatedName](untranslated-name.md).

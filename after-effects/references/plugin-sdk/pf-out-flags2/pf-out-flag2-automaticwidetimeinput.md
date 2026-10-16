@@ -1,0 +1,5 @@
+# PF_OutFlag2_AUTOMATIC_WIDE_TIME_INPUT
+
+`PF_OutFlag2_AUTOMATIC_WIDE_TIME_INPUT`
+
+Set during `PF_Cmd_GLOBAL_SETUP`. You still have to raise `PF_OutFlag_WIDE_TIME_INPUT` (which keeps support for old hosts working), but in practice this flag supersedes it. Once it's on, every parameter checkout gets tracked, so the host learns the over-time dependencies and runs far more efficiently. To illustrate: with only the older `PF_OutFlag_WIDE_TIME_INPUT` set, any change at any time upstream of your effect forces a re-render. With this flag instead, if frame 17 checked out data from times 0-17, AE understands that edits at frame 18 and beyond leave that cached frame untouched. Keep in mind that once you adopt this new flag, you must not stash any time-dependent data in your sequence data (or anywhere), unless you first confirm that cache with `PF_GetCurrentState`() / `PF_AreStatesIdentical`() from `PF_ParamUtilSuite3` before relying on the time-dependent data. This is limited to SmartFX (the ones raising `PF_OutFlag2_SUPPORTS_SMART_RENDER`). Without that, After Effects quietly downgrades this to `PF_OutFlag_WIDE_TIME_INPUT`.

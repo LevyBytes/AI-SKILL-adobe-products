@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Optional parameters", "file": "references/cloud-services/document-creation-migration/document-parameters/optional-parameters.md", "summary": "Open when looking up Optional parameters in Photoshop.", "keywords": ["Optional parameters"]},
+  {"topic": "Required parameters", "file": "references/cloud-services/document-creation-migration/document-parameters/required-parameters.md", "summary": "Open when looking up Required parameters in Photoshop.", "keywords": ["Required parameters"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

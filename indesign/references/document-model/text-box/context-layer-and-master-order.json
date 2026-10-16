@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "allowOverrides", "file": "references/document-model/text-box/allow-overrides.md", "summary": "Open when looking up allowOverrides in InDesign.", "keywords": ["allowOverrides"]},
+  {"topic": "bringForward", "file": "references/document-model/text-box/bring-forward.md", "summary": "Open when looking up bringForward in InDesign.", "keywords": ["bringForward"]},
+  {"topic": "bringToFront", "file": "references/document-model/text-box/bring-to-front.md", "summary": "Open when looking up bringToFront in InDesign.", "keywords": ["bringToFront"]},
+  {"topic": "detach", "file": "references/document-model/text-box/detach.md", "summary": "Open when looking up detach in InDesign.", "keywords": ["detach"]},
+  {"topic": "itemLayer", "file": "references/document-model/text-box/item-layer.md", "summary": "Open when looking up itemLayer in InDesign.", "keywords": ["itemLayer"]},
+  {"topic": "locked", "file": "references/document-model/text-box/locked.md", "summary": "Open when looking up locked in InDesign.", "keywords": ["locked"]},
+  {"topic": "nonprinting", "file": "references/document-model/text-box/nonprinting.md", "summary": "Open when looking up nonprinting in InDesign.", "keywords": ["nonprinting"]},
+  {"topic": "overridden", "file": "references/document-model/text-box/overridden.md", "summary": "Open when looking up overridden in InDesign.", "keywords": ["overridden"]},
+  {"topic": "overriddenMasterPageItem", "file": "references/document-model/text-box/overridden-master-page-item.md", "summary": "Open when looking up overriddenMasterPageItem in InDesign.", "keywords": ["overriddenMasterPageItem"]},
+  {"topic": "override", "file": "references/document-model/text-box/override.md", "summary": "Open when looking up override in InDesign.", "keywords": ["override"]},
+  {"topic": "parentPage", "file": "references/document-model/text-box/parent-page.md", "summary": "Open when looking up parentPage in InDesign.", "keywords": ["parentPage"]},
+  {"topic": "removeOverride", "file": "references/document-model/text-box/remove-override.md", "summary": "Open when looking up removeOverride in InDesign.", "keywords": ["removeOverride"]},
+  {"topic": "select", "file": "references/document-model/text-box/select.md", "summary": "Open when looking up select in InDesign.", "keywords": ["select"]},
+  {"topic": "sendBackward", "file": "references/document-model/text-box/send-backward.md", "summary": "Open when looking up sendBackward in InDesign.", "keywords": ["sendBackward"]},
+  {"topic": "sendToBack", "file": "references/document-model/text-box/send-to-back.md", "summary": "Open when looking up sendToBack in InDesign.", "keywords": ["sendToBack"]},
+  {"topic": "visible", "file": "references/document-model/text-box/visible.md", "summary": "Open when looking up visible in InDesign.", "keywords": ["visible"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

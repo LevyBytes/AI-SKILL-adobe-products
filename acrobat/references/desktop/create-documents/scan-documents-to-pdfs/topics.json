@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Edit scanned documents", "file": "references/desktop/create-documents/scan-documents-to-pdfs/edit-scanned-documents.md", "summary": "Open when looking up Edit scanned documents in Acrobat.", "keywords": ["Edit scanned documents"]},
+  {"topic": "Edit scanned documents references", "file": "references/desktop/create-documents/scan-documents-to-pdfs/edit-scanned-documents/reference-index.md", "summary": "Open when looking up Edit scanned documents in Acrobat.", "keywords": ["Edit scanned documents references"]},
+  {"topic": "Enhance images", "file": "references/desktop/create-documents/scan-documents-to-pdfs/enhance-images.md", "summary": "Open when looking up Enhance images in Acrobat.", "keywords": ["Enhance images"]},
+  {"topic": "Enhance scanned documents", "file": "references/desktop/create-documents/scan-documents-to-pdfs/enhance-scanned-documents.md", "summary": "Open when looking up Enhance scanned documents in Acrobat.", "keywords": ["Enhance scanned documents"]},
+  {"topic": "Fix text issues in scanned PDFs", "file": "references/desktop/create-documents/scan-documents-to-pdfs/fix-text-issues-in-scanned-pdfs.md", "summary": "Open when looking up Fix text issues in scanned PDFs in Acrobat.", "keywords": ["Fix text issues in scanned PDFs"]},
+  {"topic": "Scan documents", "file": "references/desktop/create-documents/scan-documents-to-pdfs/scan-documents.md", "summary": "Open when looking up Scan documents in Acrobat.", "keywords": ["Scan documents"]},
+  {"topic": "Scanned PDF settings", "file": "references/desktop/create-documents/scan-documents-to-pdfs/scanned-pdf-settings.md", "summary": "Open when looking up Scanned PDF settings in Acrobat.", "keywords": ["Scanned PDF settings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

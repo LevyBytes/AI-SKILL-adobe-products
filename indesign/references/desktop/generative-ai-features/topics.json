@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Generative AI features", "file": "references/desktop/generative-ai-features/generative-ai-features.md", "summary": "Open when looking up Generative AI features in InDesign.", "keywords": ["Generative AI features"]},
+  {"topic": "Generative AI features overview", "file": "references/desktop/generative-ai-features/generative-ai-features-overview.md", "summary": "Open when looking up Generative AI features overview in InDesign.", "keywords": ["Generative AI features overview"]},
+  {"topic": "Generative AI in InDesign FAQ", "file": "references/desktop/generative-ai-features/generative-ai-in-in-design-faq.md", "summary": "Open when looking up Generative AI in InDesign FAQ in InDesign.", "keywords": ["Generative AI in InDesign FAQ"]},
+  {"topic": "Use AI Assistant", "file": "references/desktop/generative-ai-features/use-ai-assistant.md", "summary": "Open when looking up Use AI Assistant in InDesign.", "keywords": ["Use AI Assistant"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

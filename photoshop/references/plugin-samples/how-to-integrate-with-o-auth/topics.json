@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "1. Add Node.js dependencies", "file": "references/plugin-samples/how-to-integrate-with-o-auth/add-node-js-dependencies.md", "summary": "Open when looking up 1. Add Node.js dependencies in Photoshop.", "keywords": ["1. Add Node.js dependencies"]},
+  {"topic": "2. Configure API credentials and the public URL", "file": "references/plugin-samples/how-to-integrate-with-o-auth/configure-api-credentials-and-the-public-url.md", "summary": "Open when looking up 2. Configure API credentials and the public URL in Photoshop.", "keywords": ["2. Configure API credentials and the public URL"]},
+  {"topic": "3. Launch the server", "file": "references/plugin-samples/how-to-integrate-with-o-auth/launch-the-server.md", "summary": "Open when looking up 3. Launch the server in Photoshop.", "keywords": ["3. Launch the server"]},
+  {"topic": "4. Start the plugin", "file": "references/plugin-samples/how-to-integrate-with-o-auth/start-the-plugin.md", "summary": "Open when looking up 4. Start the plugin in Photoshop.", "keywords": ["4. Start the plugin"]},
+  {"topic": "Configuration", "file": "references/plugin-samples/how-to-integrate-with-o-auth/configuration.md", "summary": "Open when looking up Configuration in Photoshop.", "keywords": ["Configuration"]},
+  {"topic": "Overview of the OAuth workflow", "file": "references/plugin-samples/how-to-integrate-with-o-auth/overview-of-the-o-auth-workflow.md", "summary": "Open when looking up Overview of the OAuth workflow in Photoshop.", "keywords": ["Overview of the OAuth workflow"]},
+  {"topic": "Prerequisites", "file": "references/plugin-samples/how-to-integrate-with-o-auth/prerequisites.md", "summary": "Open when looking up Prerequisites in Photoshop.", "keywords": ["Prerequisites"]},
+  {"topic": "Technology Used", "file": "references/plugin-samples/how-to-integrate-with-o-auth/technology-used.md", "summary": "Open when looking up Technology Used in Photoshop.", "keywords": ["Technology Used"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

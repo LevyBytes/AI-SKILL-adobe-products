@@ -1,0 +1,38 @@
+# After Effects — Noise Grain Effects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add Grain effect in After Effects. [Add Grain effect](add-grain-effect.md).
+- Open when looking up Add temporal filtering to a layer in After Effects. [Add temporal filtering to a layer](add-temporal-filtering-to-a-layer.md).
+- Open when looking up Adjusting tones of added or matched grain in After Effects. [Adjusting tones of added or matched grain](adjusting-tones-of-added-or-matched-grain.md).
+- Open when looking up Animating added or matched grain in After Effects. [Animating added or matched grain](animating-added-or-matched-grain.md).
+- Open when looking up Apply a grain effect in After Effects. [Apply a grain effect](apply-a-grain-effect.md).
+- Open when looking up Apply a grain effect to a selected area in After Effects. [Apply a grain effect to a selected area](apply-a-grain-effect-to-a-selected-area.md).
+- Open when looking up Blending and adjusting color of added or matched grain in After Effects. [Blending and adjusting color of added or matched grain](blending-and-adjusting-color-of-added-or-matched-grain.md).
+- Open when looking up Change the noise sample box color in After Effects. [Change the noise sample box color](change-the-noise-sample-box-color.md).
+- Open when looking up Change the sampling source frame in After Effects. [Change the sampling source frame](change-the-sampling-source-frame.md).
+- Open when looking up Compensate for existing noise when matching noise in After Effects. [Compensate for existing noise when matching noise](compensate-for-existing-noise-when-matching-noise.md).
+- Open when looking up Controls for Dust & Scratches effect in After Effects. [Controls for Dust & Scratches effect](controls-for-dust-scratches-effect.md).
+- Open when looking up Controls for Fractal Noise effect in After Effects. [Controls for Fractal Noise effect](controls-for-fractal-noise-effect.md).
+- Open when looking up Controls for Turbulent Noise effect in After Effects. [Controls for Turbulent Noise effect](controls-for-turbulent-noise-effect.md).
+- Open when looking up Create a seamless loop using Fractal Noise in After Effects. [Create a seamless loop using Fractal Noise](create-a-seamless-loop-using-fractal-noise.md).
+- Open when looking up Curl Noise effect in After Effects. [Curl Noise effect](curl-noise-effect.md).
+- Open when looking up Dust & Scratches effect in After Effects. [Dust & Scratches effect](dust-scratches-effect.md).
+- Open when looking up Fractal Noise effect in After Effects. [Fractal Noise effect](fractal-noise-effect.md).
+- Open when looking up Generate a color-matching matte in After Effects. [Generate a color-matching matte](generate-a-color-matching-matte.md).
+- Open when looking up Generate a layer matte in After Effects. [Generate a layer matte](generate-a-layer-matte.md).
+- Open when looking up Manually reposition noise samples in After Effects. [Manually reposition noise samples](manually-reposition-noise-samples.md).
+- Open when looking up Match Grain effect in After Effects. [Match Grain effect](match-grain-effect.md).
+- Open when looking up Match noise or grain between images in After Effects. [Match noise or grain between images](match-noise-or-grain-between-images.md).
+- Open when looking up Median (Legacy) effect in After Effects. [Median (Legacy) effect](median-legacy-effect.md).
+- Open when looking up Median effect in After Effects. [Median effect](median-effect.md).
+- Open when looking up Noise Alpha effect in After Effects. [Noise Alpha effect](noise-alpha-effect.md).
+- Open when looking up Noise effect in After Effects. [Noise effect](noise-effect.md).
+- Open when looking up Noise HLS effect and Noise HLS Auto effect in After Effects. [Noise HLS effect and Noise HLS Auto effect](noise-hls-effect-and-noise-hls-auto-effect.md).
+- Open when looking up Remove Grain effect in After Effects. [Remove Grain effect](remove-grain-effect.md).
+- Open when looking up Remove noise or grain from an image in After Effects. [Remove noise or grain from an image](remove-noise-or-grain-from-an-image.md).
+- Open when looking up Sharpen an image with Unsharp Mask controls in After Effects. [Sharpen an image with Unsharp Mask controls](sharpen-an-image-with-unsharp-mask-controls.md).
+- Open when looking up Turbulent Noise effect in After Effects. [Turbulent Noise effect](turbulent-noise-effect.md).
+- Open when looking up Tweaking controls for Grain effects in After Effects. [Tweaking controls for Grain effects](tweaking-controls-for-grain-effects.md).
+- Open when looking up Work with Grain effects in After Effects. [Work with Grain effects](work-with-grain-effects.md).
+- Open when looking up Work with noise samples in Grain effects in After Effects. [Work with noise samples in Grain effects](work-with-noise-samples-in-grain-effects.md).
+- Open when looking up Working with added or matched grain in After Effects. [Working with added or matched grain](working-with-added-or-matched-grain.md).

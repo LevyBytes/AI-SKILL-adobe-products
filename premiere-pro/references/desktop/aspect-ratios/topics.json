@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Anamorphic (2.40:1)", "file": "references/desktop/aspect-ratios/anamorphic-2-40-1.md", "summary": "Open when looking up Anamorphic (2.40:1) in Premiere Pro.", "keywords": ["Anamorphic (2.40:1)"]},
+  {"topic": "Fullscreen (4:3)", "file": "references/desktop/aspect-ratios/fullscreen-4-3.md", "summary": "Open when looking up Fullscreen (4:3) in Premiere Pro.", "keywords": ["Fullscreen (4:3)"]},
+  {"topic": "Square (1:1)", "file": "references/desktop/aspect-ratios/square-1-1.md", "summary": "Open when looking up Square (1:1) in Premiere Pro.", "keywords": ["Square (1:1)"]},
+  {"topic": "Understanding aspect ratios and their types", "file": "references/desktop/aspect-ratios/understanding-aspect-ratios-and-their-types.md", "summary": "Open when looking up Understanding aspect ratios and their types in Premiere Pro.", "keywords": ["Understanding aspect ratios and their types"]},
+  {"topic": "Vertical (9:16)", "file": "references/desktop/aspect-ratios/vertical-9-16.md", "summary": "Open when looking up Vertical (9:16) in Premiere Pro.", "keywords": ["Vertical (9:16)"]},
+  {"topic": "Widescreen (16:9)", "file": "references/desktop/aspect-ratios/widescreen-16-9.md", "summary": "Open when looking up Widescreen (16:9) in Premiere Pro.", "keywords": ["Widescreen (16:9)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

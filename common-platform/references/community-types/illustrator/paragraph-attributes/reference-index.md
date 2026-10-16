@@ -1,0 +1,40 @@
+# Shared Adobe platform — ParagraphAttributes
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ParagraphAttributes declaration in Shared Adobe platform. [ParagraphAttributes declaration](declaration.md).
+- Open when looking up ParagraphAttributes identity and parent in Shared Adobe platform. [ParagraphAttributes identity and parent](identity-and-parent.md).
+- Open when looking up ParagraphAttributes.autoLeadingAmount in Shared Adobe platform. [ParagraphAttributes.autoLeadingAmount](auto-leading-amount.md).
+- Open when looking up ParagraphAttributes.bunriKinshi in Shared Adobe platform. [ParagraphAttributes.bunriKinshi](bunri-kinshi.md).
+- Open when looking up ParagraphAttributes.burasagariType in Shared Adobe platform. [ParagraphAttributes.burasagariType](burasagari-type.md).
+- Open when looking up ParagraphAttributes.desiredGlyphScaling in Shared Adobe platform. [ParagraphAttributes.desiredGlyphScaling](desired-glyph-scaling.md).
+- Open when looking up ParagraphAttributes.desiredLetterSpacing in Shared Adobe platform. [ParagraphAttributes.desiredLetterSpacing](desired-letter-spacing.md).
+- Open when looking up ParagraphAttributes.desiredWordSpacing in Shared Adobe platform. [ParagraphAttributes.desiredWordSpacing](desired-word-spacing.md).
+- Open when looking up ParagraphAttributes.everyLineComposer in Shared Adobe platform. [ParagraphAttributes.everyLineComposer](every-line-composer.md).
+- Open when looking up ParagraphAttributes.firstLineIndent in Shared Adobe platform. [ParagraphAttributes.firstLineIndent](first-line-indent.md).
+- Open when looking up ParagraphAttributes.hyphenateCapitalizedWords in Shared Adobe platform. [ParagraphAttributes.hyphenateCapitalizedWords](hyphenate-capitalized-words.md).
+- Open when looking up ParagraphAttributes.hyphenation in Shared Adobe platform. [ParagraphAttributes.hyphenation](hyphenation.md).
+- Open when looking up ParagraphAttributes.hyphenationPreference in Shared Adobe platform. [ParagraphAttributes.hyphenationPreference](hyphenation-preference.md).
+- Open when looking up ParagraphAttributes.hyphenationZone in Shared Adobe platform. [ParagraphAttributes.hyphenationZone](hyphenation-zone.md).
+- Open when looking up ParagraphAttributes.justification in Shared Adobe platform. [ParagraphAttributes.justification](justification.md).
+- Open when looking up ParagraphAttributes.kinsoku in Shared Adobe platform. [ParagraphAttributes.kinsoku](kinsoku.md).
+- Open when looking up ParagraphAttributes.kinsokuOrder in Shared Adobe platform. [ParagraphAttributes.kinsokuOrder](kinsoku-order.md).
+- Open when looking up ParagraphAttributes.kurikaeshiMojiShori in Shared Adobe platform. [ParagraphAttributes.kurikaeshiMojiShori](kurikaeshi-moji-shori.md).
+- Open when looking up ParagraphAttributes.leadingType in Shared Adobe platform. [ParagraphAttributes.leadingType](leading-type.md).
+- Open when looking up ParagraphAttributes.leftIndent in Shared Adobe platform. [ParagraphAttributes.leftIndent](left-indent.md).
+- Open when looking up ParagraphAttributes.maximumConsecutiveHyphens in Shared Adobe platform. [ParagraphAttributes.maximumConsecutiveHyphens](maximum-consecutive-hyphens.md).
+- Open when looking up ParagraphAttributes.maximumGlyphScaling in Shared Adobe platform. [ParagraphAttributes.maximumGlyphScaling](maximum-glyph-scaling.md).
+- Open when looking up ParagraphAttributes.maximumLetterSpacing in Shared Adobe platform. [ParagraphAttributes.maximumLetterSpacing](maximum-letter-spacing.md).
+- Open when looking up ParagraphAttributes.maximumWordSpacing in Shared Adobe platform. [ParagraphAttributes.maximumWordSpacing](maximum-word-spacing.md).
+- Open when looking up ParagraphAttributes.minimumAfterHyphen in Shared Adobe platform. [ParagraphAttributes.minimumAfterHyphen](minimum-after-hyphen.md).
+- Open when looking up ParagraphAttributes.minimumBeforeHyphen in Shared Adobe platform. [ParagraphAttributes.minimumBeforeHyphen](minimum-before-hyphen.md).
+- Open when looking up ParagraphAttributes.minimumGlyphScaling in Shared Adobe platform. [ParagraphAttributes.minimumGlyphScaling](minimum-glyph-scaling.md).
+- Open when looking up ParagraphAttributes.minimumHyphenatedWordSize in Shared Adobe platform. [ParagraphAttributes.minimumHyphenatedWordSize](minimum-hyphenated-word-size.md).
+- Open when looking up ParagraphAttributes.minimumLetterSpacing in Shared Adobe platform. [ParagraphAttributes.minimumLetterSpacing](minimum-letter-spacing.md).
+- Open when looking up ParagraphAttributes.minimumWordSpacing in Shared Adobe platform. [ParagraphAttributes.minimumWordSpacing](minimum-word-spacing.md).
+- Open when looking up ParagraphAttributes.mojikumi in Shared Adobe platform. [ParagraphAttributes.mojikumi](mojikumi.md).
+- Open when looking up ParagraphAttributes.rightIndent in Shared Adobe platform. [ParagraphAttributes.rightIndent](right-indent.md).
+- Open when looking up ParagraphAttributes.romanHanging in Shared Adobe platform. [ParagraphAttributes.romanHanging](roman-hanging.md).
+- Open when looking up ParagraphAttributes.singleWordJustification in Shared Adobe platform. [ParagraphAttributes.singleWordJustification](single-word-justification.md).
+- Open when looking up ParagraphAttributes.spaceAfter in Shared Adobe platform. [ParagraphAttributes.spaceAfter](space-after.md).
+- Open when looking up ParagraphAttributes.spaceBefore in Shared Adobe platform. [ParagraphAttributes.spaceBefore](space-before.md).
+- Open when looking up ParagraphAttributes.tabStops in Shared Adobe platform. [ParagraphAttributes.tabStops](tab-stops.md).

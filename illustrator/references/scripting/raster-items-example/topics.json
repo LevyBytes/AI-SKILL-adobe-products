@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Creating a raster item", "file": "references/scripting/raster-items-example/creating-a-raster-item.md", "summary": "Open when looking up Creating a raster item in Illustrator.", "keywords": ["Creating a raster item"]},
+  {"topic": "Finding and examining a raster item", "file": "references/scripting/raster-items-example/finding-and-examining-a-raster-item.md", "summary": "Open when looking up Finding and examining a raster item in Illustrator.", "keywords": ["Finding and examining a raster item"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

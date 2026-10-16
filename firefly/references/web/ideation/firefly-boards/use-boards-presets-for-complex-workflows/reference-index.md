@@ -1,0 +1,31 @@
+# Firefly — Use Boards Presets for complex workflows
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 3D Illustration by Firefly Image 4 in Firefly. [3D Illustration by Firefly Image 4](3-d-illustration-by-firefly-image-4.md).
+- Open when looking up Add to scene by Gemini 2.5 Flash Image in Firefly. [Add to scene by Gemini 2.5 Flash Image](add-to-scene-by-gemini-2-5-flash-image.md).
+- Open when looking up Candid by Gemini 2.5 Flash Image in Firefly. [Candid by Gemini 2.5 Flash Image](candid-by-gemini-2-5-flash-image.md).
+- Open when looking up Cartoonify by FLUX Kontext Max in Firefly. [Cartoonify by FLUX Kontext Max](cartoonify-by-flux-kontext-max.md).
+- Open when looking up Change perspective by Gemini 2.5 Flash Image in Firefly. [Change perspective by Gemini 2.5 Flash Image](change-perspective-by-gemini-2-5-flash-image.md).
+- Open when looking up Change pose by Gemini 2.5 Flash Image in Firefly. [Change pose by Gemini 2.5 Flash Image](change-pose-by-gemini-2-5-flash-image.md).
+- Open when looking up Character and product by Gemini 2.5 Flash Image in Firefly. [Character and product by Gemini 2.5 Flash Image](character-and-product-by-gemini-2-5-flash-image.md).
+- Open when looking up Cinema by Gemini 2.5 Flash Image in Firefly. [Cinema by Gemini 2.5 Flash Image](cinema-by-gemini-2-5-flash-image.md).
+- Open when looking up Colorize by FLUX Kontext Max in Firefly. [Colorize by FLUX Kontext Max](colorize-by-flux-kontext-max.md).
+- Open when looking up Create a logo by Ideogram 3.0 in Firefly. [Create a logo by Ideogram 3.0](create-a-logo-by-ideogram-3-0.md).
+- Open when looking up Electric party by Gemini 2.5 Flash Image in Firefly. [Electric party by Gemini 2.5 Flash Image](electric-party-by-gemini-2-5-flash-image.md).
+- Open when looking up Groovy graphic by Firefly Image 4 in Firefly. [Groovy graphic by Firefly Image 4](groovy-graphic-by-firefly-image-4.md).
+- Open when looking up Impasto painting by Firefly Image 4 in Firefly. [Impasto painting by Firefly Image 4](impasto-painting-by-firefly-image-4.md).
+- Open when looking up In the meadows by Gemini 2.5 Flash Image in Firefly. [In the meadows by Gemini 2.5 Flash Image](in-the-meadows-by-gemini-2-5-flash-image.md).
+- Open when looking up Ink wash by Firefly Image 4 in Firefly. [Ink wash by Firefly Image 4](ink-wash-by-firefly-image-4.md).
+- Open when looking up Isometric 3D by GPT Image in Firefly. [Isometric 3D by GPT Image](isometric-3-d-by-gpt-image.md).
+- Open when looking up Jean dreams by Gemini 2.5 Flash Image in Firefly. [Jean dreams by Gemini 2.5 Flash Image](jean-dreams-by-gemini-2-5-flash-image.md).
+- Open when looking up Loose sketch by Firefly Image 3 in Firefly. [Loose sketch by Firefly Image 3](loose-sketch-by-firefly-image-3.md).
+- Open when looking up Mashup by Gemini 2.5 Flash Image in Firefly. [Mashup by Gemini 2.5 Flash Image](mashup-by-gemini-2-5-flash-image.md).
+- Open when looking up Outdoor club by Gemini 2.5 Flash Image in Firefly. [Outdoor club by Gemini 2.5 Flash Image](outdoor-club-by-gemini-2-5-flash-image.md).
+- Open when looking up Polished by Gemini 2.5 Flash Image in Firefly. [Polished by Gemini 2.5 Flash Image](polished-by-gemini-2-5-flash-image.md).
+- Open when looking up Product photo by FLUX Kontext Max in Firefly. [Product photo by FLUX Kontext Max](product-photo-by-flux-kontext-max.md).
+- Open when looking up Product swap by Gemini 2.5 Flash Image in Firefly. [Product swap by Gemini 2.5 Flash Image](product-swap-by-gemini-2-5-flash-image.md).
+- Open when looking up Remove text by FLUX Kontext Max in Firefly. [Remove text by FLUX Kontext Max](remove-text-by-flux-kontext-max.md).
+- Open when looking up Restyle by Firefly Image 4 in Firefly. [Restyle by Firefly Image 4](restyle-by-firefly-image-4.md).
+- Open when looking up Street style by Gemini 2.5 Flash Image in Firefly. [Street style by Gemini 2.5 Flash Image](street-style-by-gemini-2-5-flash-image.md).
+- Open when looking up Virtual try-on by Gemini 2.5 Flash Image in Firefly. [Virtual try-on by Gemini 2.5 Flash Image](virtual-try-on-by-gemini-2-5-flash-image.md).
+- Open when looking up Y2K by Gemini 2.5 Flash Image in Firefly. [Y2K by Gemini 2.5 Flash Image](y2-k-by-gemini-2-5-flash-image.md).

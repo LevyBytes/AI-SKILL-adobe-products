@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Add more artboards", "file": "references/desktop/layers/layout-and-design-tools/add-artboards-to-the-current-document/add-more-artboards.md", "summary": "Open when looking up Add more artboards in Photoshop.", "keywords": ["Add more artboards"]},
+  {"topic": "Draw new artboards", "file": "references/desktop/layers/layout-and-design-tools/add-artboards-to-the-current-document/draw-new-artboards.md", "summary": "Open when looking up Draw new artboards in Photoshop.", "keywords": ["Draw new artboards"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

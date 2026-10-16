@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ANY_CHARACTER", "file": "references/document-model/nested-style-delimiters/anycharacter.md", "summary": "Open when looking up ANY_CHARACTER in InDesign.", "keywords": ["ANY_CHARACTER"]},
+  {"topic": "ANY_WORD", "file": "references/document-model/nested-style-delimiters/anyword.md", "summary": "Open when looking up ANY_WORD in InDesign.", "keywords": ["ANY_WORD"]},
+  {"topic": "AUTO_PAGE_NUMBER", "file": "references/document-model/nested-style-delimiters/autopagenumber.md", "summary": "Open when looking up AUTO_PAGE_NUMBER in InDesign.", "keywords": ["AUTO_PAGE_NUMBER"]},
+  {"topic": "DIGITS", "file": "references/document-model/nested-style-delimiters/digits.md", "summary": "Open when looking up DIGITS in InDesign.", "keywords": ["DIGITS"]},
+  {"topic": "DROPCAP", "file": "references/document-model/nested-style-delimiters/dropcap.md", "summary": "Open when looking up DROPCAP in InDesign.", "keywords": ["DROPCAP"]},
+  {"topic": "EM_SPACE", "file": "references/document-model/nested-style-delimiters/emspace.md", "summary": "Open when looking up EM_SPACE in InDesign.", "keywords": ["EM_SPACE"]},
+  {"topic": "EN_SPACE", "file": "references/document-model/nested-style-delimiters/enspace.md", "summary": "Open when looking up EN_SPACE in InDesign.", "keywords": ["EN_SPACE"]},
+  {"topic": "END_NESTED_STYLE", "file": "references/document-model/nested-style-delimiters/endnestedstyle.md", "summary": "Open when looking up END_NESTED_STYLE in InDesign.", "keywords": ["END_NESTED_STYLE"]},
+  {"topic": "FORCED_LINE_BREAK", "file": "references/document-model/nested-style-delimiters/forcedlinebreak.md", "summary": "Open when looking up FORCED_LINE_BREAK in InDesign.", "keywords": ["FORCED_LINE_BREAK"]},
+  {"topic": "INDENT_HERE_TAB", "file": "references/document-model/nested-style-delimiters/indentheretab.md", "summary": "Open when looking up INDENT_HERE_TAB in InDesign.", "keywords": ["INDENT_HERE_TAB"]},
+  {"topic": "INLINE_GRAPHIC", "file": "references/document-model/nested-style-delimiters/inlinegraphic.md", "summary": "Open when looking up INLINE_GRAPHIC in InDesign.", "keywords": ["INLINE_GRAPHIC"]},
+  {"topic": "LETTERS", "file": "references/document-model/nested-style-delimiters/letters.md", "summary": "Open when looking up LETTERS in InDesign.", "keywords": ["LETTERS"]},
+  {"topic": "NONBREAKING_SPACE", "file": "references/document-model/nested-style-delimiters/nonbreakingspace.md", "summary": "Open when looking up NONBREAKING_SPACE in InDesign.", "keywords": ["NONBREAKING_SPACE"]},
+  {"topic": "REPEAT", "file": "references/document-model/nested-style-delimiters/repeat.md", "summary": "Open when looking up REPEAT in InDesign.", "keywords": ["REPEAT"]},
+  {"topic": "SECTION_MARKER", "file": "references/document-model/nested-style-delimiters/sectionmarker.md", "summary": "Open when looking up SECTION_MARKER in InDesign.", "keywords": ["SECTION_MARKER"]},
+  {"topic": "SENTENCE", "file": "references/document-model/nested-style-delimiters/sentence.md", "summary": "Open when looking up SENTENCE in InDesign.", "keywords": ["SENTENCE"]},
+  {"topic": "TABS", "file": "references/document-model/nested-style-delimiters/tabs.md", "summary": "Open when looking up TABS in InDesign.", "keywords": ["TABS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

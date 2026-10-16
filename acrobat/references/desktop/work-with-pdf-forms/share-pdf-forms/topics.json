@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Print PDF forms", "file": "references/desktop/work-with-pdf-forms/share-pdf-forms/print-pdf-forms.md", "summary": "Open when looking up Print PDF forms in Acrobat.", "keywords": ["Print PDF forms"]},
+  {"topic": "Share certified copies of PDF forms", "file": "references/desktop/work-with-pdf-forms/share-pdf-forms/share-certified-copies-of-pdf-forms.md", "summary": "Open when looking up Share certified copies of PDF forms in Acrobat.", "keywords": ["Share certified copies of PDF forms"]},
+  {"topic": "Share PDF forms", "file": "references/desktop/work-with-pdf-forms/share-pdf-forms/share-pdf-forms.md", "summary": "Open when looking up Share PDF forms in Acrobat.", "keywords": ["Share PDF forms"]},
+  {"topic": "Track shared PDF forms", "file": "references/desktop/work-with-pdf-forms/share-pdf-forms/track-shared-pdf-forms.md", "summary": "Open when looking up Track shared PDF forms in Acrobat.", "keywords": ["Track shared PDF forms"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

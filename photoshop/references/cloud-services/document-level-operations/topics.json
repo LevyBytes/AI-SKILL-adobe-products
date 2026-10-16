@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Resize (edits.document.imageSize)", "file": "references/cloud-services/document-level-operations/resize-edits-document-image-size.md", "summary": "Open when looking up Resize (edits.document.imageSize) in Photoshop.", "keywords": ["Resize (edits.document.imageSize)"]},
+  {"topic": "Trim (edits.document.trim)", "file": "references/cloud-services/document-level-operations/trim-edits-document-trim.md", "summary": "Open when looking up Trim (edits.document.trim) in Photoshop.", "keywords": ["Trim (edits.document.trim)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

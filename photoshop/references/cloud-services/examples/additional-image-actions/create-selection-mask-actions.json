@@ -1,0 +1,34 @@
+[
+  {
+    "_obj": "autoCutout",
+    "sampleAllLayers": false
+  },
+  {
+    "_obj": "make",
+    "at": {
+      "_enum": "channel",
+      "_ref": "channel",
+      "_value": "mask"
+    },
+    "new": {
+      "_class": "channel"
+    },
+    "using": {
+      "_enum": "userMaskEnabled",
+      "_value": "revealSelection"
+    }
+  },
+  {
+    "_obj": "set",
+    "_target": [
+      {
+        "_property": "selection",
+        "_ref": "channel"
+      }
+    ],
+    "to": {
+      "_enum": "ordinal",
+      "_value": "allEnum"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "OutputModule object", "file": "references/scripting/output-module/output-module-object.md", "summary": "Open when looking up OutputModule object in After Effects.", "keywords": ["OutputModule object"]},
+  {"topic": "OutputModule.applyTemplate()", "file": "references/scripting/output-module/apply-template.md", "summary": "Open when looking up OutputModule.applyTemplate() in After Effects.", "keywords": ["OutputModule.applyTemplate()"]},
+  {"topic": "OutputModule.file", "file": "references/scripting/output-module/file.md", "summary": "Open when looking up OutputModule.file in After Effects.", "keywords": ["OutputModule.file"]},
+  {"topic": "OutputModule.getSetting()", "file": "references/scripting/output-module/get-setting.md", "summary": "Open when looking up OutputModule.getSetting() in After Effects.", "keywords": ["OutputModule.getSetting()"]},
+  {"topic": "OutputModule.getSettings()", "file": "references/scripting/output-module/get-settings.md", "summary": "Open when looking up OutputModule.getSettings() in After Effects.", "keywords": ["OutputModule.getSettings()"]},
+  {"topic": "OutputModule.includeSourceXMP", "file": "references/scripting/output-module/include-source-xmp.md", "summary": "Open when looking up OutputModule.includeSourceXMP in After Effects.", "keywords": ["OutputModule.includeSourceXMP"]},
+  {"topic": "OutputModule.name", "file": "references/scripting/output-module/name.md", "summary": "Open when looking up OutputModule.name in After Effects.", "keywords": ["OutputModule.name"]},
+  {"topic": "OutputModule.postRenderAction", "file": "references/scripting/output-module/post-render-action.md", "summary": "Open when looking up OutputModule.postRenderAction in After Effects.", "keywords": ["OutputModule.postRenderAction"]},
+  {"topic": "OutputModule.remove()", "file": "references/scripting/output-module/remove.md", "summary": "Open when looking up OutputModule.remove() in After Effects.", "keywords": ["OutputModule.remove()"]},
+  {"topic": "OutputModule.saveAsTemplate()", "file": "references/scripting/output-module/save-as-template.md", "summary": "Open when looking up OutputModule.saveAsTemplate() in After Effects.", "keywords": ["OutputModule.saveAsTemplate()"]},
+  {"topic": "OutputModule.setSetting()", "file": "references/scripting/output-module/set-setting.md", "summary": "Open when looking up OutputModule.setSetting() in After Effects.", "keywords": ["OutputModule.setSetting()"]},
+  {"topic": "OutputModule.setSettings()", "file": "references/scripting/output-module/set-settings.md", "summary": "Open when looking up OutputModule.setSettings() in After Effects.", "keywords": ["OutputModule.setSettings()"]},
+  {"topic": "OutputModule.templates", "file": "references/scripting/output-module/templates.md", "summary": "Open when looking up OutputModule.templates in After Effects.", "keywords": ["OutputModule.templates"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

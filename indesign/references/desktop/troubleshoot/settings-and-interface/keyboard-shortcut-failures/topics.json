@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Shortcut set is modified", "file": "references/desktop/troubleshoot/settings-and-interface/keyboard-shortcut-failures/shortcut-set-is-modified.md", "summary": "Open when looking up Shortcut set is modified in InDesign.", "keywords": ["Shortcut set is modified"]},
+  {"topic": "Third-party security software turned on Secure Keyboard Entry", "file": "references/desktop/troubleshoot/settings-and-interface/keyboard-shortcut-failures/third-party-security-software-turned-on-secure-keyboard-entry.md", "summary": "Open when looking up Third-party security software turned on Secure Keyboard Entry in InDesign.", "keywords": ["Third-party security software turned on Secure Keyboard Entry"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Combine straight and curved segments", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/draw-paths-with-the-pen-tool/combine-straight-and-curved-segments.md", "summary": "Open when looking up Combine straight and curved segments in Photoshop.", "keywords": ["Combine straight and curved segments"]},
+  {"topic": "Draw curved segments", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/draw-paths-with-the-pen-tool/draw-curved-segments.md", "summary": "Open when looking up Draw curved segments in Photoshop.", "keywords": ["Draw curved segments"]},
+  {"topic": "Draw straight line segments", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/draw-paths-with-the-pen-tool/draw-straight-line-segments.md", "summary": "Open when looking up Draw straight line segments in Photoshop.", "keywords": ["Draw straight line segments"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

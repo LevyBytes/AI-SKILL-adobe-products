@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Ingest workflow", "file": "references/desktop/organize-media/ingest-proxy-workflow/ingest-and-proxy-workflow/ingest-workflow.md", "summary": "Open when looking up Ingest workflow in Premiere Pro.", "keywords": ["Ingest workflow"]},
+  {"topic": "Proxy workflow", "file": "references/desktop/organize-media/ingest-proxy-workflow/ingest-and-proxy-workflow/proxy-workflow.md", "summary": "Open when looking up Proxy workflow in Premiere Pro.", "keywords": ["Proxy workflow"]},
+  {"topic": "Unsupported features in proxy workflows", "file": "references/desktop/organize-media/ingest-proxy-workflow/ingest-and-proxy-workflow/unsupported-features-in-proxy-workflows.md", "summary": "Open when looking up Unsupported features in proxy workflows in Premiere Pro.", "keywords": ["Unsupported features in proxy workflows"]},
+  {"topic": "When to use each workflow", "file": "references/desktop/organize-media/ingest-proxy-workflow/ingest-and-proxy-workflow/when-to-use-each-workflow.md", "summary": "Open when looking up When to use each workflow in Premiere Pro.", "keywords": ["When to use each workflow"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,30 @@
+# InDesign — Settings and preferences
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust text display quality in InDesign. [Adjust text display quality](adjust-text-display-quality.md).
+- Open when looking up Adjust text display quality in InDesign. [Adjust text display quality references](adjust-text-display-quality/reference-index.md).
+- Open when looking up Change screen modes in InDesign. [Change screen modes](change-screen-modes.md).
+- Open when looking up Create and manage workspaces in InDesign. [Create and manage workspaces](create-and-manage-workspaces.md).
+- Open when looking up Create and manage workspaces in InDesign. [Create and manage workspaces references](create-and-manage-workspaces/reference-index.md).
+- Open when looking up Customize menus in InDesign. [Customize menus](customize-menus.md).
+- Open when looking up Customize menus in InDesign. [Customize menus references](customize-menus/reference-index.md).
+- Open when looking up Customize panels in InDesign. [Customize panels](customize-panels.md).
+- Open when looking up Customize panels in InDesign. [Customize panels references](customize-panels/reference-index.md).
+- Open when looking up Export and import user settings in InDesign. [Export and import user settings](export-and-import-user-settings.md).
+- Open when looking up Export and import user settings in InDesign. [Export and import user settings references](export-and-import-user-settings/reference-index.md).
+- Open when looking up Interface preferences in InDesign. [Interface preferences](interface-preferences.md).
+- Open when looking up Interface preferences in InDesign. [Interface preferences references](interface-preferences/reference-index.md).
+- Open when looking up Keyboard shortcuts in InDesign. [Keyboard shortcuts](keyboard-shortcuts.md).
+- Open when looking up Keyboard shortcuts in InDesign. [Keyboard shortcuts references](keyboard-shortcuts/reference-index.md).
+- Open when looking up Manage document states using History Panel in InDesign. [Manage document states using History Panel](manage-document-states-using-history-panel.md).
+- Open when looking up Manage document states using History Panel in InDesign. [Manage document states using History Panel references](manage-document-states-using-history-panel/reference-index.md).
+- Open when looking up Recover documents in InDesign. [Recover documents](recover-documents.md).
+- Open when looking up Recover documents in InDesign. [Recover documents references](recover-documents/reference-index.md).
+- Open when looking up Reset document settings and preferences in InDesign. [Reset document settings and preferences](reset-document-settings-and-preferences.md).
+- Open when looking up Reset document settings and preferences in InDesign. [Reset document settings and preferences references](reset-document-settings-and-preferences/reference-index.md).
+- Open when looking up Search options to find and replace in InDesign. [Search options to find and replace](search-options-to-find-and-replace.md).
+- Open when looking up Set general preferences in InDesign. [Set general preferences](set-general-preferences.md).
+- Open when looking up Undo and redo edits in InDesign. [Undo and redo edits](undo-and-redo-edits.md).
+- Open when looking up Undo and redo edits in InDesign. [Undo and redo edits references](undo-and-redo-edits/reference-index.md).
+- Open when looking up Zoom and view options in InDesign. [Zoom and view options](zoom-and-view-options.md).
+- Open when looking up Zoom and view options in InDesign. [Zoom and view options references](zoom-and-view-options/reference-index.md).

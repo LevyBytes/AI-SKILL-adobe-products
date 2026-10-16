@@ -1,0 +1,46 @@
+# Shared Adobe platform — CheckBox
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CheckBox declaration in Shared Adobe platform. [CheckBox declaration](declaration.md).
+- Open when looking up CheckBox.behaviors in Shared Adobe platform. [CheckBox.behaviors](behaviors.md).
+- Open when looking up CheckBox.bringForward in Shared Adobe platform. [CheckBox.bringForward](bring-forward.md).
+- Open when looking up CheckBox.bringToFront in Shared Adobe platform. [CheckBox.bringToFront](bring-to-front.md).
+- Open when looking up CheckBox.checkedByDefault in Shared Adobe platform. [CheckBox.checkedByDefault](checked-by-default.md).
+- Open when looking up CheckBox.clearFormBehaviors in Shared Adobe platform. [CheckBox.clearFormBehaviors](clear-form-behaviors.md).
+- Open when looking up CheckBox.convertToObject in Shared Adobe platform. [CheckBox.convertToObject](convert-to-object.md).
+- Open when looking up CheckBox.epss in Shared Adobe platform. [CheckBox.epss](epss.md).
+- Open when looking up CheckBox.epstexts in Shared Adobe platform. [CheckBox.epstexts](epstexts.md).
+- Open when looking up CheckBox.exportValue in Shared Adobe platform. [CheckBox.exportValue](export-value.md).
+- Open when looking up CheckBox.gotoAnchorBehaviors in Shared Adobe platform. [CheckBox.gotoAnchorBehaviors](goto-anchor-behaviors.md).
+- Open when looking up CheckBox.gotoFirstPageBehaviors in Shared Adobe platform. [CheckBox.gotoFirstPageBehaviors](goto-first-page-behaviors.md).
+- Open when looking up CheckBox.gotoLastPageBehaviors in Shared Adobe platform. [CheckBox.gotoLastPageBehaviors](goto-last-page-behaviors.md).
+- Open when looking up CheckBox.gotoNextPageBehaviors in Shared Adobe platform. [CheckBox.gotoNextPageBehaviors](goto-next-page-behaviors.md).
+- Open when looking up CheckBox.gotoNextViewBehaviors in Shared Adobe platform. [CheckBox.gotoNextViewBehaviors](goto-next-view-behaviors.md).
+- Open when looking up CheckBox.gotoPreviousPageBehaviors in Shared Adobe platform. [CheckBox.gotoPreviousPageBehaviors](goto-previous-page-behaviors.md).
+- Open when looking up CheckBox.gotoPreviousViewBehaviors in Shared Adobe platform. [CheckBox.gotoPreviousViewBehaviors](goto-previous-view-behaviors.md).
+- Open when looking up CheckBox.gotoURLBehaviors in Shared Adobe platform. [CheckBox.gotoURLBehaviors](goto-url-behaviors.md).
+- Open when looking up CheckBox.graphicLines in Shared Adobe platform. [CheckBox.graphicLines](graphic-lines.md).
+- Open when looking up CheckBox.groups in Shared Adobe platform. [CheckBox.groups](groups.md).
+- Open when looking up CheckBox.hiddenUntilTriggered in Shared Adobe platform. [CheckBox.hiddenUntilTriggered](hidden-until-triggered.md).
+- Open when looking up CheckBox.images in Shared Adobe platform. [CheckBox.images](images.md).
+- Open when looking up CheckBox.movieBehaviors in Shared Adobe platform. [CheckBox.movieBehaviors](movie-behaviors.md).
+- Open when looking up CheckBox.openFileBehaviors in Shared Adobe platform. [CheckBox.openFileBehaviors](open-file-behaviors.md).
+- Open when looking up CheckBox.ovals in Shared Adobe platform. [CheckBox.ovals](ovals.md).
+- Open when looking up CheckBox.pdfs in Shared Adobe platform. [CheckBox.pdfs](pdfs.md).
+- Open when looking up CheckBox.picts in Shared Adobe platform. [CheckBox.picts](picts.md).
+- Open when looking up CheckBox.polygons in Shared Adobe platform. [CheckBox.polygons](polygons.md).
+- Open when looking up CheckBox.printableInPdf in Shared Adobe platform. [CheckBox.printableInPdf](printable-in-pdf.md).
+- Open when looking up CheckBox.printFormBehaviors in Shared Adobe platform. [CheckBox.printFormBehaviors](print-form-behaviors.md).
+- Open when looking up CheckBox.readOnly in Shared Adobe platform. [CheckBox.readOnly](read-only.md).
+- Open when looking up CheckBox.rectangles in Shared Adobe platform. [CheckBox.rectangles](rectangles.md).
+- Open when looking up CheckBox.required in Shared Adobe platform. [CheckBox.required](required.md).
+- Open when looking up CheckBox.sendBackward in Shared Adobe platform. [CheckBox.sendBackward](send-backward.md).
+- Open when looking up CheckBox.sendToBack in Shared Adobe platform. [CheckBox.sendToBack](send-to-back.md).
+- Open when looking up CheckBox.showHideFieldsBehaviors in Shared Adobe platform. [CheckBox.showHideFieldsBehaviors](show-hide-fields-behaviors.md).
+- Open when looking up CheckBox.soundBehaviors in Shared Adobe platform. [CheckBox.soundBehaviors](sound-behaviors.md).
+- Open when looking up CheckBox.splineItems in Shared Adobe platform. [CheckBox.splineItems](spline-items.md).
+- Open when looking up CheckBox.states in Shared Adobe platform. [CheckBox.states](states.md).
+- Open when looking up CheckBox.submitFormBehaviors in Shared Adobe platform. [CheckBox.submitFormBehaviors](submit-form-behaviors.md).
+- Open when looking up CheckBox.textFrames in Shared Adobe platform. [CheckBox.textFrames](text-frames.md).
+- Open when looking up CheckBox.viewZoomBehaviors in Shared Adobe platform. [CheckBox.viewZoomBehaviors](view-zoom-behaviors.md).
+- Open when looking up CheckBox.wmfs in Shared Adobe platform. [CheckBox.wmfs](wmfs.md).

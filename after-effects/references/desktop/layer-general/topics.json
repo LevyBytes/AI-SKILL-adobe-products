@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "active", "file": "references/desktop/layer-general/active.md", "summary": "Open when looking up active in After Effects.", "keywords": ["active"]},
+  {"topic": "audioActive", "file": "references/desktop/layer-general/audio-active.md", "summary": "Open when looking up audioActive in After Effects.", "keywords": ["audioActive"]},
+  {"topic": "enabled", "file": "references/desktop/layer-general/enabled.md", "summary": "Open when looking up enabled in After Effects.", "keywords": ["enabled"]},
+  {"topic": "hasAudio", "file": "references/desktop/layer-general/has-audio.md", "summary": "Open when looking up hasAudio in After Effects.", "keywords": ["hasAudio"]},
+  {"topic": "hasParent", "file": "references/desktop/layer-general/has-parent.md", "summary": "Open when looking up hasParent in After Effects.", "keywords": ["hasParent"]},
+  {"topic": "hasVideo", "file": "references/desktop/layer-general/has-video.md", "summary": "Open when looking up hasVideo in After Effects.", "keywords": ["hasVideo"]},
+  {"topic": "height", "file": "references/desktop/layer-general/height.md", "summary": "Open when looking up height in After Effects.", "keywords": ["height"]},
+  {"topic": "inPoint", "file": "references/desktop/layer-general/in-point.md", "summary": "Open when looking up inPoint in After Effects.", "keywords": ["inPoint"]},
+  {"topic": "outPoint", "file": "references/desktop/layer-general/out-point.md", "summary": "Open when looking up outPoint in After Effects.", "keywords": ["outPoint"]},
+  {"topic": "parent", "file": "references/desktop/layer-general/parent.md", "summary": "Open when looking up parent in After Effects.", "keywords": ["parent"]},
+  {"topic": "sampleImage(point, radius = [.5, .5], postEffect=true, t=time)", "file": "references/desktop/layer-general/sample-image.md", "summary": "Open when looking up sampleImage(point, radius = [.5, .5], postEffect=true, t=time) in After Effects.", "keywords": ["sampleImage(point, radius = [.5, .5], postEffect=true, t=time)"]},
+  {"topic": "startTime", "file": "references/desktop/layer-general/start-time.md", "summary": "Open when looking up startTime in After Effects.", "keywords": ["startTime"]},
+  {"topic": "width", "file": "references/desktop/layer-general/width.md", "summary": "Open when looking up width in After Effects.", "keywords": ["width"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

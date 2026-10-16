@@ -1,0 +1,24 @@
+# Illustrator — Use swatches
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About Swatches in Illustrator. [About Swatches](about-swatches.md).
+- Open when looking up Add colors to swatches in Illustrator. [Add colors to swatches](add-colors-to-swatches.md).
+- Open when looking up Add colors to swatches in Illustrator. [Add colors to swatches references](add-colors-to-swatches/reference-index.md).
+- Open when looking up Create and open swatch libraries in Illustrator. [Create and open swatch libraries](create-and-open-swatch-libraries.md).
+- Open when looking up Create and open swatch libraries in Illustrator. [Create and open swatch libraries references](create-and-open-swatch-libraries/reference-index.md).
+- Open when looking up Create gradient swatches in Illustrator. [Create gradient swatches](create-gradient-swatches.md).
+- Open when looking up Create process color swatches in Illustrator. [Create process color swatches](create-process-color-swatches.md).
+- Open when looking up Create spot-color swatches in Illustrator. [Create spot-color swatches](create-spot-color-swatches.md).
+- Open when looking up Create swatches from the Color Guide panel in Illustrator. [Create swatches from the Color Guide panel](create-swatches-from-the-color-guide-panel.md).
+- Open when looking up Duplicate swatches in Illustrator. [Duplicate swatches](duplicate-swatches.md).
+- Open when looking up Edit swatch libraries in Illustrator. [Edit swatch libraries](edit-swatch-libraries.md).
+- Open when looking up Group swatches in Illustrator. [Group swatches](group-swatches.md).
+- Open when looking up Move colors into swatch groups in Illustrator. [Move colors into swatch groups](move-colors-into-swatch-groups.md).
+- Open when looking up Move swatches from swatch libraries to the swatches panel in Illustrator. [Move swatches from swatch libraries to the swatches panel](move-swatches-from-swatch-libraries-to-the-swatches-panel.md).
+- Open when looking up Reorder swatches in Illustrator. [Reorder swatches](reorder-swatches.md).
+- Open when looking up Replace, merge, or delete swatches in Illustrator. [Replace, merge, or delete swatches](replace-merge-or-delete-swatches.md).
+- Open when looking up Replace, merge, or delete swatches in Illustrator. [Replace, merge, or delete swatches references](replace-merge-or-delete-swatches/reference-index.md).
+- Open when looking up Share swatches between applications in Illustrator. [Share swatches between applications](share-swatches-between-applications.md).
+- Open when looking up Share swatches between applications in Illustrator. [Share swatches between applications references](share-swatches-between-applications/reference-index.md).
+- Open when looking up Swatches panel overview in Illustrator. [Swatches panel overview](swatches-panel-overview.md).
+- Open when looking up Swatches panel overview in Illustrator. [Swatches panel overview references](swatches-panel-overview/reference-index.md).

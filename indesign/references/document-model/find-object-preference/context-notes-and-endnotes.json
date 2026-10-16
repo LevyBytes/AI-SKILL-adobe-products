@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "footnotesEnableOverrides", "file": "references/document-model/find-object-preference/footnotes-enable-overrides.md", "summary": "Open when looking up footnotesEnableOverrides in InDesign.", "keywords": ["footnotesEnableOverrides"]},
+  {"topic": "footnotesMinimumSpacing", "file": "references/document-model/find-object-preference/footnotes-minimum-spacing.md", "summary": "Open when looking up footnotesMinimumSpacing in InDesign.", "keywords": ["footnotesMinimumSpacing"]},
+  {"topic": "footnotesSpaceBetween", "file": "references/document-model/find-object-preference/footnotes-space-between.md", "summary": "Open when looking up footnotesSpaceBetween in InDesign.", "keywords": ["footnotesSpaceBetween"]},
+  {"topic": "footnotesSpanAcrossColumns", "file": "references/document-model/find-object-preference/footnotes-span-across-columns.md", "summary": "Open when looking up footnotesSpanAcrossColumns in InDesign.", "keywords": ["footnotesSpanAcrossColumns"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

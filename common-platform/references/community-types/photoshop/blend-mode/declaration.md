@@ -1,0 +1,9 @@
+# BlendMode declaration
+
+Community declaration reference: Photoshop/2015.5.
+
+Determines pixel blending behavior in the image.
+
+Declaration: `declare enum BlendMode`.
+
+Source: [Photoshop/2015.5/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/Photoshop/2015.5/index.d.ts).

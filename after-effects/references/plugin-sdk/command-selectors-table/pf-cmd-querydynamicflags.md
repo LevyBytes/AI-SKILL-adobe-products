@@ -1,0 +1,5 @@
+# PF_Cmd_QUERY_DYNAMIC_FLAGS
+
+`PF_Cmd_QUERY_DYNAMIC_FLAGS`
+
+Goes only to plug-ins that have declared `PF_OutFlag2_SUPPORTS_QUERY_DYNAMIC_FLAGS` in `PF_OutFlags2`, both in their PiPL and during `PF_Cmd_GLOBAL_SETUP`. For every one of the dynamic flags, if there's any chance you'll alter it under this command, the flag must have been switched on during `PF_Cmd_GLOBAL_SETUP`. The timing of this selector is arbitrary. The proper reply is for the effect to reach its (non-layer) parameters through `PF_CHECKOUT_PARAM` and judge whether any flag that backs `PF_Cmd_QUERY_DYNAMIC_FLAGS` ought to be set, among them: - `PF_OutFlag_WIDE_TIME_INPUT` - `PF_OutFlag_NON_PARAM_VARY` - `PF_OutFlag_PIX_INDEPENDENT` - `PF_OutFlag_I_USE_SHUTTER_ANGLE` - `PF_OutFlag2_I_USE_3D_CAMERA` - `PF_OutFlag2_I_USE_3D_LIGHTS` - `PF_OutFlag2_DOESNT_NEED_EMPTY_PIXELS` - `PF_OutFlag2_REVEALS_ZERO_ALPHA` - `PF_OutFlag2_DEPENDS_ON_UNREFERENCED_MASKS` - `PF_OutFlag2_OUTPUT_IS_WATERMARKED` Because caching and optimization rely on this information, try to answer as fast as you can.

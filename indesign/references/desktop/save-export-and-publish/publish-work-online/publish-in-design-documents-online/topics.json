@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Advanced tab settings", "file": "references/desktop/save-export-and-publish/publish-work-online/publish-in-design-documents-online/advanced-tab-settings.md", "summary": "Open when looking up Advanced tab settings in InDesign.", "keywords": ["Advanced tab settings"]},
+  {"topic": "Export HTML5 Package option", "file": "references/desktop/save-export-and-publish/publish-work-online/publish-in-design-documents-online/export-html5-package-option.md", "summary": "Open when looking up Export HTML5 Package option in InDesign.", "keywords": ["Export HTML5 Package option"]},
+  {"topic": "General tab settings", "file": "references/desktop/save-export-and-publish/publish-work-online/publish-in-design-documents-online/general-tab-settings.md", "summary": "Open when looking up General tab settings in InDesign.", "keywords": ["General tab settings"]},
+  {"topic": "Limitations and special cases", "file": "references/desktop/save-export-and-publish/publish-work-online/publish-in-design-documents-online/limitations-and-special-cases.md", "summary": "Open when looking up Limitations and special cases in InDesign.", "keywords": ["Limitations and special cases"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

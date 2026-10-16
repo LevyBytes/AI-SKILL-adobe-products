@@ -1,0 +1,3 @@
+# Improved composition toolbar for 3D designing
+
+The reworked composition panel toolbar lets you move quickly and stay focused while you build and lay out 3D scenes inside After Effects. It keeps the same look and spot as the standard composition toolbar that runs along the bottom of the Composition panel during 2D work. The moment 3D content lands in your scene, the composition panel shows its 3D menu. After Effects then stacks extra 3D controls onto the composition panel toolbar, while anything your current workflow doesn't call for retreats into the Composition menu. Learn more about 3D Design space.

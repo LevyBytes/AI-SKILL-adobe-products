@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "AudioChannelMapping object", "file": "references/scripting/audio-channel-mapping/audio-channel-mapping-object.md", "summary": "Open when looking up AudioChannelMapping object in Premiere Pro.", "keywords": ["AudioChannelMapping object"]},
+  {"topic": "AudioChannelMapping.audioChannelsType", "file": "references/scripting/audio-channel-mapping/audio-channels-type.md", "summary": "Open when looking up AudioChannelMapping.audioChannelsType in Premiere Pro.", "keywords": ["AudioChannelMapping.audioChannelsType"]},
+  {"topic": "AudioChannelMapping.audioClipsNumber", "file": "references/scripting/audio-channel-mapping/audio-clips-number.md", "summary": "Open when looking up AudioChannelMapping.audioClipsNumber in Premiere Pro.", "keywords": ["AudioChannelMapping.audioClipsNumber"]},
+  {"topic": "AudioChannelMapping.setMappingForChannel()", "file": "references/scripting/audio-channel-mapping/set-mapping-for-channel.md", "summary": "Open when looking up AudioChannelMapping.setMappingForChannel() in Premiere Pro.", "keywords": ["AudioChannelMapping.setMappingForChannel()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

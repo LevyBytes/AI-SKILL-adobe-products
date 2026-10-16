@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "$.colorPicker()", "file": "references/scripting/color-picker.md", "summary": "Open when looking up $.colorPicker() in Shared Adobe platform.", "keywords": ["$.colorPicker()"]},
+  {"topic": "Global methods references", "file": "references/scripting/global-methods/reference-index.md", "summary": "Open when looking up Global methods in Shared Adobe platform.", "keywords": ["Global methods references"]},
+  {"topic": "Prompts and alerts references", "file": "references/scripting/prompts-and-alerts/reference-index.md", "summary": "Open when looking up Prompts and alerts in Shared Adobe platform.", "keywords": ["Prompts and alerts references"]},
+  {"topic": "User notification dialogs", "file": "references/scripting/user-notification-dialogs.md", "summary": "Open when looking up User notification dialogs in Shared Adobe platform.", "keywords": ["User notification dialogs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

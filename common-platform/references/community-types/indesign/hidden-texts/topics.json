@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "HiddenTexts collection iteration", "file": "references/community-types/indesign/hidden-texts/collection-iteration.md", "summary": "Open when looking up HiddenTexts collection iteration in Shared Adobe platform.", "keywords": ["HiddenTexts collection iteration"]},
+  {"topic": "HiddenTexts declaration", "file": "references/community-types/indesign/hidden-texts/declaration.md", "summary": "Open when looking up HiddenTexts declaration in Shared Adobe platform.", "keywords": ["HiddenTexts declaration"]},
+  {"topic": "HiddenTexts named and indexed items", "file": "references/community-types/indesign/hidden-texts/named-and-indexed-items.md", "summary": "Open when looking up HiddenTexts named and indexed items in Shared Adobe platform.", "keywords": ["HiddenTexts named and indexed items"]},
+  {"topic": "HiddenTexts.count", "file": "references/community-types/indesign/hidden-texts/count.md", "summary": "Open when looking up HiddenTexts.count in Shared Adobe platform.", "keywords": ["HiddenTexts.count"]},
+  {"topic": "HiddenTexts.IndexSignature", "file": "references/community-types/indesign/hidden-texts/index-signature.md", "summary": "Open when looking up HiddenTexts.IndexSignature in Shared Adobe platform.", "keywords": ["HiddenTexts.IndexSignature"]},
+  {"topic": "HiddenTexts.itemByRange", "file": "references/community-types/indesign/hidden-texts/item-by-range.md", "summary": "Open when looking up HiddenTexts.itemByRange in Shared Adobe platform.", "keywords": ["HiddenTexts.itemByRange"]},
+  {"topic": "HiddenTexts.length", "file": "references/community-types/indesign/hidden-texts/length.md", "summary": "Open when looking up HiddenTexts.length in Shared Adobe platform.", "keywords": ["HiddenTexts.length"]},
+  {"topic": "HiddenTexts.toSource", "file": "references/community-types/indesign/hidden-texts/to-source.md", "summary": "Open when looking up HiddenTexts.toSource in Shared Adobe platform.", "keywords": ["HiddenTexts.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

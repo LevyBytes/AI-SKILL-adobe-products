@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Find and redact hidden content", "file": "references/desktop/protect-documents/redact-pdfs/sanitize-pdfs-in-acrobat-pro/find-and-redact-hidden-content.md", "summary": "Open when looking up Find and redact hidden content in Acrobat.", "keywords": ["Find and redact hidden content"]},
+  {"topic": "Redact visible content", "file": "references/desktop/protect-documents/redact-pdfs/sanitize-pdfs-in-acrobat-pro/redact-visible-content.md", "summary": "Open when looking up Redact visible content in Acrobat.", "keywords": ["Redact visible content"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

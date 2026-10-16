@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Create a new pattern", "file": "references/desktop/apply-painting-techniques/create-and-fill-with-patterns/create-a-new-pattern.md", "summary": "Open when looking up Create a new pattern in Photoshop.", "keywords": ["Create a new pattern"]},
+  {"topic": "Pattern Preview best practices", "file": "references/desktop/apply-painting-techniques/create-and-fill-with-patterns/pattern-preview-best-practices.md", "summary": "Open when looking up Pattern Preview best practices in Photoshop.", "keywords": ["Pattern Preview best practices"]},
+  {"topic": "Pattern Preview best practices references", "file": "references/desktop/apply-painting-techniques/create-and-fill-with-patterns/pattern-preview-best-practices/reference-index.md", "summary": "Open when looking up Pattern Preview best practices in Photoshop.", "keywords": ["Pattern Preview best practices references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ContainerType", "file": "references/document-model/container-type.md", "summary": "Open when looking up ContainerType in InDesign.", "keywords": ["ContainerType"]},
+  {"topic": "ContainerType references", "file": "references/document-model/container-type/reference-index.md", "summary": "Open when looking up ContainerType in InDesign.", "keywords": ["ContainerType references"]},
+  {"topic": "ContentType", "file": "references/document-model/content-type.md", "summary": "Open when looking up ContentType in InDesign.", "keywords": ["ContentType"]},
+  {"topic": "ContentType references", "file": "references/document-model/content-type/reference-index.md", "summary": "Open when looking up ContentType in InDesign.", "keywords": ["ContentType references"]},
+  {"topic": "GlobalClashResolutionStrategyForMasterPage", "file": "references/document-model/global-clash-resolution-strategy-for-master-page.md", "summary": "Open when looking up GlobalClashResolutionStrategyForMasterPage in InDesign.", "keywords": ["GlobalClashResolutionStrategyForMasterPage"]},
+  {"topic": "GlobalClashResolutionStrategyForMasterPage references", "file": "references/document-model/global-clash-resolution-strategy-for-master-page/reference-index.md", "summary": "Open when looking up GlobalClashResolutionStrategyForMasterPage in InDesign.", "keywords": ["GlobalClashResolutionStrategyForMasterPage references"]},
+  {"topic": "Group references", "file": "references/document-model/group/reference-index.md", "summary": "Open when looking up Group in InDesign.", "keywords": ["Group references"]},
+  {"topic": "Groups", "file": "references/document-model/groups.md", "summary": "Open when looking up Groups in InDesign.", "keywords": ["Groups"]},
+  {"topic": "Groups references", "file": "references/document-model/groups/reference-index.md", "summary": "Open when looking up Groups in InDesign.", "keywords": ["Groups references"]},
+  {"topic": "Layer references", "file": "references/document-model/layer/reference-index.md", "summary": "Open when looking up Layer in InDesign.", "keywords": ["Layer references"]},
+  {"topic": "Layers", "file": "references/document-model/layers.md", "summary": "Open when looking up Layers in InDesign.", "keywords": ["Layers"]},
+  {"topic": "Layers references", "file": "references/document-model/layers/reference-index.md", "summary": "Open when looking up Layers in InDesign.", "keywords": ["Layers references"]},
+  {"topic": "OverrideType", "file": "references/document-model/override-type.md", "summary": "Open when looking up OverrideType in InDesign.", "keywords": ["OverrideType"]},
+  {"topic": "OverrideType references", "file": "references/document-model/override-type/reference-index.md", "summary": "Open when looking up OverrideType in InDesign.", "keywords": ["OverrideType references"]},
+  {"topic": "PageItem", "file": "references/document-model/page-item.md", "summary": "Open when looking up PageItem in InDesign.", "keywords": ["PageItem"]},
+  {"topic": "PageItem references", "file": "references/document-model/page-item/reference-index.md", "summary": "Open when looking up PageItem in InDesign.", "keywords": ["PageItem references"]},
+  {"topic": "PageItemDefault", "file": "references/document-model/page-item-default.md", "summary": "Open when looking up PageItemDefault in InDesign.", "keywords": ["PageItemDefault"]},
+  {"topic": "PageItemDefault references", "file": "references/document-model/page-item-default/reference-index.md", "summary": "Open when looking up PageItemDefault in InDesign.", "keywords": ["PageItemDefault references"]},
+  {"topic": "PageItems", "file": "references/document-model/page-items.md", "summary": "Open when looking up PageItems in InDesign.", "keywords": ["PageItems"]},
+  {"topic": "PageItems references", "file": "references/document-model/page-items/reference-index.md", "summary": "Open when looking up PageItems in InDesign.", "keywords": ["PageItems references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

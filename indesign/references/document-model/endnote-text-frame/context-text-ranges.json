@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "characters", "file": "references/document-model/endnote-text-frame/characters.md", "summary": "Open when looking up characters in InDesign.", "keywords": ["characters"]},
+  {"topic": "endnoteTextFrames", "file": "references/document-model/endnote-text-frame/endnote-text-frames.md", "summary": "Open when looking up endnoteTextFrames in InDesign.", "keywords": ["endnoteTextFrames"]},
+  {"topic": "endTextFrame", "file": "references/document-model/endnote-text-frame/end-text-frame.md", "summary": "Open when looking up endTextFrame in InDesign.", "keywords": ["endTextFrame"]},
+  {"topic": "footnotes", "file": "references/document-model/endnote-text-frame/footnotes.md", "summary": "Open when looking up footnotes in InDesign.", "keywords": ["footnotes"]},
+  {"topic": "insertionPoints", "file": "references/document-model/endnote-text-frame/insertion-points.md", "summary": "Open when looking up insertionPoints in InDesign.", "keywords": ["insertionPoints"]},
+  {"topic": "lines", "file": "references/document-model/endnote-text-frame/lines.md", "summary": "Open when looking up lines in InDesign.", "keywords": ["lines"]},
+  {"topic": "nextTextFrame", "file": "references/document-model/endnote-text-frame/next-text-frame.md", "summary": "Open when looking up nextTextFrame in InDesign.", "keywords": ["nextTextFrame"]},
+  {"topic": "notes", "file": "references/document-model/endnote-text-frame/notes.md", "summary": "Open when looking up notes in InDesign.", "keywords": ["notes"]},
+  {"topic": "paragraphs", "file": "references/document-model/endnote-text-frame/paragraphs.md", "summary": "Open when looking up paragraphs in InDesign.", "keywords": ["paragraphs"]},
+  {"topic": "parentStory", "file": "references/document-model/endnote-text-frame/parent-story.md", "summary": "Open when looking up parentStory in InDesign.", "keywords": ["parentStory"]},
+  {"topic": "previousTextFrame", "file": "references/document-model/endnote-text-frame/previous-text-frame.md", "summary": "Open when looking up previousTextFrame in InDesign.", "keywords": ["previousTextFrame"]},
+  {"topic": "startTextFrame", "file": "references/document-model/endnote-text-frame/start-text-frame.md", "summary": "Open when looking up startTextFrame in InDesign.", "keywords": ["startTextFrame"]},
+  {"topic": "textColumns", "file": "references/document-model/endnote-text-frame/text-columns.md", "summary": "Open when looking up textColumns in InDesign.", "keywords": ["textColumns"]},
+  {"topic": "textFrameIndex", "file": "references/document-model/endnote-text-frame/text-frame-index.md", "summary": "Open when looking up textFrameIndex in InDesign.", "keywords": ["textFrameIndex"]},
+  {"topic": "textFrames", "file": "references/document-model/endnote-text-frame/text-frames.md", "summary": "Open when looking up textFrames in InDesign.", "keywords": ["textFrames"]},
+  {"topic": "textPaths", "file": "references/document-model/endnote-text-frame/text-paths.md", "summary": "Open when looking up textPaths in InDesign.", "keywords": ["textPaths"]},
+  {"topic": "texts", "file": "references/document-model/endnote-text-frame/texts.md", "summary": "Open when looking up texts in InDesign.", "keywords": ["texts"]},
+  {"topic": "textStyleRanges", "file": "references/document-model/endnote-text-frame/text-style-ranges.md", "summary": "Open when looking up textStyleRanges in InDesign.", "keywords": ["textStyleRanges"]},
+  {"topic": "words", "file": "references/document-model/endnote-text-frame/words.md", "summary": "Open when looking up words in InDesign.", "keywords": ["words"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

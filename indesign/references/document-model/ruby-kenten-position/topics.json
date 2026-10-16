@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ABOVE_RIGHT", "file": "references/document-model/ruby-kenten-position/aboveright.md", "summary": "Open when looking up ABOVE_RIGHT in InDesign.", "keywords": ["ABOVE_RIGHT"]},
+  {"topic": "BELOW_LEFT", "file": "references/document-model/ruby-kenten-position/belowleft.md", "summary": "Open when looking up BELOW_LEFT in InDesign.", "keywords": ["BELOW_LEFT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

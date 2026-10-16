@@ -1,0 +1,26 @@
+# Shared Adobe platform — TextRange
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextRange declaration in Shared Adobe platform. [TextRange declaration](declaration.md).
+- Open when looking up TextRange identity and parent in Shared Adobe platform. [TextRange identity and parent](identity-and-parent.md).
+- Open when looking up TextRange object lifecycle in Shared Adobe platform. [TextRange object lifecycle](object-lifecycle.md).
+- Open when looking up TextRange.changeCaseTo in Shared Adobe platform. [TextRange.changeCaseTo](change-case-to.md).
+- Open when looking up TextRange.characterAttributes in Shared Adobe platform. [TextRange.characterAttributes](character-attributes.md).
+- Open when looking up TextRange.characterOffset in Shared Adobe platform. [TextRange.characterOffset](character-offset.md).
+- Open when looking up TextRange.characters in Shared Adobe platform. [TextRange.characters](characters.md).
+- Open when looking up TextRange.characterStyles in Shared Adobe platform. [TextRange.characterStyles](character-styles.md).
+- Open when looking up TextRange.contents in Shared Adobe platform. [TextRange.contents](contents.md).
+- Open when looking up TextRange.deSelect in Shared Adobe platform. [TextRange.deSelect](de-select.md).
+- Open when looking up TextRange.insertionPoints in Shared Adobe platform. [TextRange.insertionPoints](insertion-points.md).
+- Open when looking up TextRange.kerning in Shared Adobe platform. [TextRange.kerning](kerning.md).
+- Open when looking up TextRange.length in Shared Adobe platform. [TextRange.length](length.md).
+- Open when looking up TextRange.lines in Shared Adobe platform. [TextRange.lines](lines.md).
+- Open when looking up TextRange.paragraphAttributes in Shared Adobe platform. [TextRange.paragraphAttributes](paragraph-attributes.md).
+- Open when looking up TextRange.paragraphs in Shared Adobe platform. [TextRange.paragraphs](paragraphs.md).
+- Open when looking up TextRange.paragraphStyles in Shared Adobe platform. [TextRange.paragraphStyles](paragraph-styles.md).
+- Open when looking up TextRange.removeAll in Shared Adobe platform. [TextRange.removeAll](remove-all.md).
+- Open when looking up TextRange.select in Shared Adobe platform. [TextRange.select](select.md).
+- Open when looking up TextRange.story in Shared Adobe platform. [TextRange.story](story.md).
+- Open when looking up TextRange.textRanges in Shared Adobe platform. [TextRange.textRanges](text-ranges.md).
+- Open when looking up TextRange.textSelection in Shared Adobe platform. [TextRange.textSelection](text-selection.md).
+- Open when looking up TextRange.words in Shared Adobe platform. [TextRange.words](words.md).

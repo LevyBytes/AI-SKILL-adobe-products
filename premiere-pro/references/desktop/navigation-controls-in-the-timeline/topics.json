@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Navigation controls help you move through the frames in a sequence.", "file": "references/desktop/navigation-controls-in-the-timeline/timeline-frame-navigation.md", "summary": "Open when looking up Navigation controls help you move through the frames in a sequence. in Premiere Pro.", "keywords": ["Navigation controls help you move through the frames in a sequence."]},
+  {"topic": "Playhead", "file": "references/desktop/navigation-controls-in-the-timeline/playhead.md", "summary": "Open when looking up Playhead in Premiere Pro.", "keywords": ["Playhead"]},
+  {"topic": "Playhead position", "file": "references/desktop/navigation-controls-in-the-timeline/playhead-position.md", "summary": "Open when looking up Playhead position in Premiere Pro.", "keywords": ["Playhead position"]},
+  {"topic": "Time ruler", "file": "references/desktop/navigation-controls-in-the-timeline/time-ruler.md", "summary": "Open when looking up Time ruler in Premiere Pro.", "keywords": ["Time ruler"]},
+  {"topic": "Work Area Bar", "file": "references/desktop/navigation-controls-in-the-timeline/work-area-bar.md", "summary": "Open when looking up Work Area Bar in Premiere Pro.", "keywords": ["Work Area Bar"]},
+  {"topic": "Zoom scroll bar", "file": "references/desktop/navigation-controls-in-the-timeline/zoom-scroll-bar.md", "summary": "Open when looking up Zoom scroll bar in Premiere Pro.", "keywords": ["Zoom scroll bar"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

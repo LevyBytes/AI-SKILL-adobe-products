@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Required permissions for the Acrobat app", "file": "references/integrations/acrobat-for-microsoft-teams-overview/required-permissions-for-the-acrobat-app.md", "summary": "Open when looking up Required permissions for the Acrobat app in Acrobat.", "keywords": ["Required permissions for the Acrobat app"]},
+  {"topic": "Supported browsers", "file": "references/integrations/acrobat-for-microsoft-teams-overview/supported-browsers.md", "summary": "Open when looking up Supported browsers in Acrobat.", "keywords": ["Supported browsers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

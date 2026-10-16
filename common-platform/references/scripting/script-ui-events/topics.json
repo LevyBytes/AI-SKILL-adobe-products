@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ScriptUI.events.createEvent()", "file": "references/scripting/script-ui-events/create-event.md", "summary": "Open when looking up ScriptUI.events.createEvent() in Shared Adobe platform.", "keywords": ["ScriptUI.events.createEvent()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

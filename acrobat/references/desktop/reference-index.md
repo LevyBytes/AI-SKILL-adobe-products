@@ -1,0 +1,71 @@
+# Acrobat — Desktop workflows
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Accessibility in Acrobat. [Accessibility references](accessibility/reference-index.md).
+- Open when looking up Acrobat ai in Acrobat. [Acrobat ai references](acrobat-ai/reference-index.md).
+- Open when looking up Add comments to videos in acrobat pro in Acrobat. [Add comments to videos in acrobat pro references](add-comments-to-videos-in-acrobat-pro/reference-index.md).
+- Open when looking up Add digital signatures in Acrobat. [Add digital signatures references](add-digital-signatures/reference-index.md).
+- Open when looking up Add headers and footers to pdfs in Acrobat. [Add headers and footers to pdfs references](add-headers-and-footers-to-pdfs/reference-index.md).
+- Open when looking up Add images in Acrobat. [Add images references](add-images/reference-index.md).
+- Open when looking up Add page numbers to pdfs in Acrobat. [Add page numbers to pdfs references](add-page-numbers-to-pdfs/reference-index.md).
+- Open when looking up Add reactions to comments in Acrobat. [Add reactions to comments references](add-reactions-to-comments/reference-index.md).
+- Open when looking up Adjust page size for printing in Acrobat. [Adjust page size for printing references](adjust-page-size-for-printing/reference-index.md).
+- Open when looking up Adobe express in Acrobat. [Adobe express references](adobe-express/reference-index.md).
+- Open when looking up Change form field settings in Acrobat. [Change form field settings references](change-form-field-settings/reference-index.md).
+- Open when looking up Check for new comments in Acrobat. [Check for new comments references](check-for-new-comments/reference-index.md).
+- Open when looking up Check if a pdf form is fillable in Acrobat. [Check if a pdf form is fillable references](check-if-a-pdf-form-is-fillable/reference-index.md).
+- Open when looking up Check security settings in pdf forms in Acrobat. [Check security settings in pdf forms references](check-security-settings-in-pdf-forms/reference-index.md).
+- Open when looking up Combine files into one pdf in Acrobat. [Combine files into one pdf references](combine-files-into-one-pdf/reference-index.md).
+- Open when looking up Create custom stamps in Acrobat. [Create custom stamps references](create-custom-stamps/reference-index.md).
+- Open when looking up Create documents in Acrobat. [Create documents references](create-documents/reference-index.md).
+- Open when looking up Create pdfs using acrobat distiller in Acrobat. [Create pdfs using acrobat distiller references](create-pdfs-using-acrobat-distiller/reference-index.md).
+- Open when looking up Crop pages in pdfs in Acrobat. [Crop pages in pdfs references](crop-pages-in-pdfs/reference-index.md).
+- Open when looking up Delete comments in Acrobat. [Delete comments references](delete-comments/reference-index.md).
+- Open when looking up Delete custom stamps and categories in Acrobat. [Delete custom stamps and categories references](delete-custom-stamps-and-categories/reference-index.md).
+- Open when looking up Delete digital ids in Acrobat. [Delete digital ids references](delete-digital-ids/reference-index.md).
+- Open when looking up Digital id protection in Acrobat. [Digital id protection references](digital-id-protection/reference-index.md).
+- Open when looking up E sign agreements in Acrobat. [E sign agreements references](e-sign-agreements/reference-index.md).
+- Open when looking up E sign documents in Acrobat. [E sign documents references](e-sign-documents/reference-index.md).
+- Open when looking up Edit documents in Acrobat. [Edit documents references](edit-documents/reference-index.md).
+- Open when looking up Embed fonts using acrobat distiller in Acrobat. [Embed fonts using acrobat distiller references](embed-fonts-using-acrobat-distiller/reference-index.md).
+- Open when looking up Enable or disable protected view in Acrobat. [Enable or disable protected view references](enable-or-disable-protected-view/reference-index.md).
+- Open when looking up Error while printing pdfs in acrobat in Acrobat. [Error while printing pdfs in acrobat references](error-while-printing-pdfs-in-acrobat/reference-index.md).
+- Open when looking up Error while scanning files in acrobat in Acrobat. [Error while scanning files in acrobat references](error-while-scanning-files-in-acrobat/reference-index.md).
+- Open when looking up Explore pdf spaces in Acrobat. [Explore pdf spaces references](explore-pdf-spaces/reference-index.md).
+- Open when looking up Export documents in Acrobat. [Export documents references](export-documents/reference-index.md).
+- Open when looking up Find font names in pdfs in Acrobat. [Find font names in pdfs references](find-font-names-in-pdfs/reference-index.md).
+- Open when looking up Form fields general settings in Acrobat. [Form fields general settings references](form-fields-general-settings/reference-index.md).
+- Open when looking up Get started in Acrobat. [Get started references](get-started/reference-index.md).
+- Open when looking up Insert a blank page into a pdf in Acrobat. [Insert a blank page into a pdf references](insert-a-blank-page-into-a-pdf/reference-index.md).
+- Open when looking up Insert a clipboard selection into a pdf in Acrobat. [Insert a clipboard selection into a pdf references](insert-a-clipboard-selection-into-a-pdf/reference-index.md).
+- Open when looking up Insert one pdf into another in Acrobat. [Insert one pdf into another references](insert-one-pdf-into-another/reference-index.md).
+- Open when looking up Join pdf reviews in Acrobat. [Join pdf reviews references](join-pdf-reviews/reference-index.md).
+- Open when looking up Manage agreements in Acrobat. [Manage agreements references](manage-agreements/reference-index.md).
+- Open when looking up Manage shared files in Acrobat. [Manage shared files references](manage-shared-files/reference-index.md).
+- Open when looking up Print bookmarked pages in Acrobat. [Print bookmarked pages references](print-bookmarked-pages/reference-index.md).
+- Open when looking up Print documents in Acrobat. [Print documents references](print-documents/reference-index.md).
+- Open when looking up Print large documents in Acrobat. [Print large documents references](print-large-documents/reference-index.md).
+- Open when looking up Print on both sides of the paper in Acrobat. [Print on both sides of the paper references](print-on-both-sides-of-the-paper/reference-index.md).
+- Open when looking up Protect documents in Acrobat. [Protect documents references](protect-documents/reference-index.md).
+- Open when looking up Recognize text in scanned documents in Acrobat. [Recognize text in scanned documents references](recognize-text-in-scanned-documents/reference-index.md).
+- Open when looking up Redact images in pdfs in Acrobat. [Redact images in pdfs references](redact-images-in-pdfs/reference-index.md).
+- Open when looking up Regain access to locked pdfs in Acrobat. [Regain access to locked pdfs references](regain-access-to-locked-pdfs/reference-index.md).
+- Open when looking up Remove background from pdfs in Acrobat. [Remove background from pdfs references](remove-background-from-pdfs/reference-index.md).
+- Open when looking up Replace pages in pdfs in Acrobat. [Replace pages in pdfs references](replace-pages-in-pdfs/reference-index.md).
+- Open when looking up Reply to comments in Acrobat. [Reply to comments references](reply-to-comments/reference-index.md).
+- Open when looking up Resize form fields in Acrobat. [Resize form fields references](resize-form-fields/reference-index.md).
+- Open when looking up Restrict printing editing and copying pdfs in Acrobat. [Restrict printing editing and copying pdfs references](restrict-printing-editing-and-copying-pdfs/reference-index.md).
+- Open when looking up Save documents as post script files in Acrobat. [Save documents as post script files references](save-documents-as-post-script-files/reference-index.md).
+- Open when looking up Send pdf forms for e signature in Acrobat. [Send pdf forms for e signature references](send-pdf-forms-for-e-signature/reference-index.md).
+- Open when looking up Set up roaming id accounts in Acrobat. [Set up roaming id accounts references](set-up-roaming-id-accounts/reference-index.md).
+- Open when looking up Share and review documents in Acrobat. [Share and review documents references](share-and-review-documents/reference-index.md).
+- Open when looking up Share custom pdf settings in Acrobat. [Share custom pdf settings references](share-custom-pdf-settings/reference-index.md).
+- Open when looking up Spell check comments in Acrobat. [Spell check comments references](spell-check-comments/reference-index.md).
+- Open when looking up Track shared pdf reviews in Acrobat. [Track shared pdf reviews references](track-shared-pdf-reviews/reference-index.md).
+- Open when looking up Troubleshoot in Acrobat. [Troubleshoot references](troubleshoot/reference-index.md).
+- Open when looking up Unable to fill forms in acrobat in Acrobat. [Unable to fill forms in acrobat references](unable-to-fill-forms-in-acrobat/reference-index.md).
+- Open when looking up Unlock comments in Acrobat. [Unlock comments references](unlock-comments/reference-index.md).
+- Open when looking up Update acrobat automatically in Acrobat. [Update acrobat automatically references](update-acrobat-automatically/reference-index.md).
+- Open when looking up View document metadata in Acrobat. [View document metadata references](view-document-metadata/reference-index.md).
+- Open when looking up Whats new in Acrobat. [Whats new references](whats-new/reference-index.md).
+- Open when looking up Work with pdf forms in Acrobat. [Work with pdf forms references](work-with-pdf-forms/reference-index.md).

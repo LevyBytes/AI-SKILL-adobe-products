@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Create a Mask Reference", "file": "references/desktop/animation/track-mask/mask-reference/create-a-mask-reference.md", "summary": "Open when looking up Create a Mask Reference in After Effects.", "keywords": ["Create a Mask Reference"]},
+  {"topic": "Effect masks and layer masks", "file": "references/desktop/animation/track-mask/mask-reference/effect-masks-and-layer-masks.md", "summary": "Open when looking up Effect masks and layer masks in After Effects.", "keywords": ["Effect masks and layer masks"]},
+  {"topic": "Learn tutorial", "file": "references/desktop/animation/track-mask/mask-reference/learn-tutorial.md", "summary": "Open when looking up Learn tutorial in After Effects.", "keywords": ["Learn tutorial"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

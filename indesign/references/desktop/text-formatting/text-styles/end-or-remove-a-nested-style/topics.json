@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "End a nested style before its condition is met", "file": "references/desktop/text-formatting/text-styles/end-or-remove-a-nested-style/end-a-nested-style-before-its-condition-is-met.md", "summary": "Open when looking up End a nested style before its condition is met in InDesign.", "keywords": ["End a nested style before its condition is met"]},
+  {"topic": "Remove nested style formatting from a paragraph", "file": "references/desktop/text-formatting/text-styles/end-or-remove-a-nested-style/remove-nested-style-formatting-from-a-paragraph.md", "summary": "Open when looking up Remove nested style formatting from a paragraph in InDesign.", "keywords": ["Remove nested style formatting from a paragraph"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

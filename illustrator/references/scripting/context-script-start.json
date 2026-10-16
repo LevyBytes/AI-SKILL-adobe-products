@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Adobe Illustrator Scripting Guide", "file": "references/scripting/adobe-illustrator-scripting-guide.md", "summary": "Open when looking up Adobe Illustrator Scripting Guide in Illustrator.", "keywords": ["Adobe Illustrator Scripting Guide"]},
+  {"topic": "Scripting language support in Adobe Illustrator CC", "file": "references/scripting/scripting-language-support-in-adobe-illustrator-cc.md", "summary": "Open when looking up Scripting language support in Adobe Illustrator CC in Illustrator.", "keywords": ["Scripting language support in Adobe Illustrator CC"]},
+  {"topic": "What is Scripting?", "file": "references/scripting/what-is-scripting.md", "summary": "Open when looking up What is Scripting? in Illustrator.", "keywords": ["What is Scripting?"]},
+  {"topic": "Why use scripting references", "file": "references/scripting/why-use-scripting/reference-index.md", "summary": "Open when looking up Why use scripting in Illustrator.", "keywords": ["Why use scripting references"]},
+  {"topic": "Your first Illustrator script", "file": "references/scripting/your-first-illustrator-script.md", "summary": "Open when looking up Your first Illustrator script in Illustrator.", "keywords": ["Your first Illustrator script"]},
+  {"topic": "Adding features to hello world references", "file": "references/scripting/adding-features-to-hello-world/reference-index.md", "summary": "Open when looking up Adding features to hello world in Illustrator.", "keywords": ["Adding features to hello world references"]},
+  {"topic": "Navigating the guide references", "file": "references/scripting/navigating-the-guide/reference-index.md", "summary": "Open when looking up Navigating the guide in Illustrator.", "keywords": ["Navigating the guide references"]},
+  {"topic": "For more information", "file": "references/scripting/for-more-information.md", "summary": "Open when looking up For more information in Illustrator.", "keywords": ["For more information"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

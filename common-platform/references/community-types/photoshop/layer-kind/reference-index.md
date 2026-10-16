@@ -1,0 +1,28 @@
+# Shared Adobe platform — LayerKind
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up LayerKind declaration in Shared Adobe platform. [LayerKind declaration](declaration.md).
+- Open when looking up LayerKind.BLACKANDWHITE in Shared Adobe platform. [LayerKind.BLACKANDWHITE](blackandwhite.md).
+- Open when looking up LayerKind.BRIGHTNESSCONTRAST in Shared Adobe platform. [LayerKind.BRIGHTNESSCONTRAST](brightnesscontrast.md).
+- Open when looking up LayerKind.CHANNELMIXER in Shared Adobe platform. [LayerKind.CHANNELMIXER](channelmixer.md).
+- Open when looking up LayerKind.COLORBALANCE in Shared Adobe platform. [LayerKind.COLORBALANCE](colorbalance.md).
+- Open when looking up LayerKind.COLORLOOKUP in Shared Adobe platform. [LayerKind.COLORLOOKUP](colorlookup.md).
+- Open when looking up LayerKind.CURVES in Shared Adobe platform. [LayerKind.CURVES](curves.md).
+- Open when looking up LayerKind.EXPOSURE in Shared Adobe platform. [LayerKind.EXPOSURE](exposure.md).
+- Open when looking up LayerKind.GRADIENTFILL in Shared Adobe platform. [LayerKind.GRADIENTFILL](gradientfill.md).
+- Open when looking up LayerKind.GRADIENTMAP in Shared Adobe platform. [LayerKind.GRADIENTMAP](gradientmap.md).
+- Open when looking up LayerKind.HUESATURATION in Shared Adobe platform. [LayerKind.HUESATURATION](huesaturation.md).
+- Open when looking up LayerKind.INVERSION in Shared Adobe platform. [LayerKind.INVERSION](inversion.md).
+- Open when looking up LayerKind.LAYER3D in Shared Adobe platform. [LayerKind.LAYER3D](layer3-d.md).
+- Open when looking up LayerKind.LEVELS in Shared Adobe platform. [LayerKind.LEVELS](levels.md).
+- Open when looking up LayerKind.NORMAL in Shared Adobe platform. [LayerKind.NORMAL](normal.md).
+- Open when looking up LayerKind.PATTERNFILL in Shared Adobe platform. [LayerKind.PATTERNFILL](patternfill.md).
+- Open when looking up LayerKind.PHOTOFILTER in Shared Adobe platform. [LayerKind.PHOTOFILTER](photofilter.md).
+- Open when looking up LayerKind.POSTERIZE in Shared Adobe platform. [LayerKind.POSTERIZE](posterize.md).
+- Open when looking up LayerKind.SELECTIVECOLOR in Shared Adobe platform. [LayerKind.SELECTIVECOLOR](selectivecolor.md).
+- Open when looking up LayerKind.SMARTOBJECT in Shared Adobe platform. [LayerKind.SMARTOBJECT](smartobject.md).
+- Open when looking up LayerKind.SOLIDFILL in Shared Adobe platform. [LayerKind.SOLIDFILL](solidfill.md).
+- Open when looking up LayerKind.TEXT in Shared Adobe platform. [LayerKind.TEXT](text.md).
+- Open when looking up LayerKind.THRESHOLD in Shared Adobe platform. [LayerKind.THRESHOLD](threshold.md).
+- Open when looking up LayerKind.VIBRANCE in Shared Adobe platform. [LayerKind.VIBRANCE](vibrance.md).
+- Open when looking up LayerKind.VIDEO in Shared Adobe platform. [LayerKind.VIDEO](video.md).

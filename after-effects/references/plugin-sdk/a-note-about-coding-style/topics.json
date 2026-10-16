@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Coding Conventions", "file": "references/plugin-sdk/a-note-about-coding-style/coding-conventions.md", "summary": "Open when looking up Coding Conventions in After Effects.", "keywords": ["Coding Conventions"]},
+  {"topic": "Introduction — A Note About Coding Style", "file": "references/plugin-sdk/a-note-about-coding-style/introduction-a-note-about-coding-style.md", "summary": "Open when looking up Introduction — A Note About Coding Style in After Effects.", "keywords": ["Introduction — A Note About Coding Style"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

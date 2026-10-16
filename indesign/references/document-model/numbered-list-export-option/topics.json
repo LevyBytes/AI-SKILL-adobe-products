@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "AS_TEXT", "file": "references/document-model/numbered-list-export-option/astext.md", "summary": "Open when looking up AS_TEXT in InDesign.", "keywords": ["AS_TEXT"]},
+  {"topic": "ORDERED_LIST", "file": "references/document-model/numbered-list-export-option/orderedlist.md", "summary": "Open when looking up ORDERED_LIST in InDesign.", "keywords": ["ORDERED_LIST"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

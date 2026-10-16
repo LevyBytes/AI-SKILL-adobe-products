@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Add a bullet character", "file": "references/desktop/text-formatting/lists-and-numbering/add-or-change-bullet-characters/add-a-bullet-character.md", "summary": "Open when looking up Add a bullet character in InDesign.", "keywords": ["Add a bullet character"]},
+  {"topic": "Change a bullet character", "file": "references/desktop/text-formatting/lists-and-numbering/add-or-change-bullet-characters/change-a-bullet-character.md", "summary": "Open when looking up Change a bullet character in InDesign.", "keywords": ["Change a bullet character"]},
+  {"topic": "Remove a bullet character", "file": "references/desktop/text-formatting/lists-and-numbering/add-or-change-bullet-characters/remove-a-bullet-character.md", "summary": "Open when looking up Remove a bullet character in InDesign.", "keywords": ["Remove a bullet character"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

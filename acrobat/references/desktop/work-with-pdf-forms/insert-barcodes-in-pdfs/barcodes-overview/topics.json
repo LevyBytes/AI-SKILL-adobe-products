@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Benefits of using barcodes", "file": "references/desktop/work-with-pdf-forms/insert-barcodes-in-pdfs/barcodes-overview/benefits-of-using-barcodes.md", "summary": "Open when looking up Benefits of using barcodes in Acrobat.", "keywords": ["Benefits of using barcodes"]},
+  {"topic": "Designing barcodes for optimal performance", "file": "references/desktop/work-with-pdf-forms/insert-barcodes-in-pdfs/barcodes-overview/designing-barcodes-for-optimal-performance.md", "summary": "Open when looking up Designing barcodes for optimal performance in Acrobat.", "keywords": ["Designing barcodes for optimal performance"]},
+  {"topic": "Processing barcode data", "file": "references/desktop/work-with-pdf-forms/insert-barcodes-in-pdfs/barcodes-overview/processing-barcode-data.md", "summary": "Open when looking up Processing barcode data in Acrobat.", "keywords": ["Processing barcode data"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Importing and interpreting video and audio", "file": "references/desktop/import-files/interlacing/importing-and-interpreting-video-and-audio.md", "summary": "Open when looking up Importing and interpreting video and audio in After Effects.", "keywords": ["Importing and interpreting video and audio"]},
+  {"topic": "Importing and interpreting video and audio references", "file": "references/desktop/import-files/interlacing/importing-and-interpreting-video-and-audio/reference-index.md", "summary": "Open when looking up Importing and interpreting video and audio in After Effects.", "keywords": ["Importing and interpreting video and audio references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,31 @@
+# InDesign — Animation setting
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up designOption in InDesign. [designOption](design-option.md).
+- Open when looking up duration in InDesign. [duration](duration.md).
+- Open when looking up easeType in InDesign. [easeType](ease-type.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up hasCustomSettings in InDesign. [hasCustomSettings](has-custom-settings.md).
+- Open when looking up hiddenAfter in InDesign. [hiddenAfter](hidden-after.md).
+- Open when looking up initiallyHidden in InDesign. [initiallyHidden](initially-hidden.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up motionPath in InDesign. [motionPath](motion-path.md).
+- Open when looking up motionPathPoints in InDesign. [motionPathPoints](motion-path-points.md).
+- Open when looking up opacityArray in InDesign. [opacityArray](opacity-array.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up plays in InDesign. [plays](plays.md).
+- Open when looking up playsLoop in InDesign. [playsLoop](plays-loop.md).
+- Open when looking up preset in InDesign. [preset](preset.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up rotationArray in InDesign. [rotationArray](rotation-array.md).
+- Open when looking up save in InDesign. [save](save.md).
+- Open when looking up saveACopy in InDesign. [saveACopy](save-a-copy.md).
+- Open when looking up scaleXArray in InDesign. [scaleXArray](scale-x-array.md).
+- Open when looking up scaleYArray in InDesign. [scaleYArray](scale-y-array.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up transformOffsets in InDesign. [transformOffsets](transform-offsets.md).

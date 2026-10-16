@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Clip", "file": "references/plugin-sdk/drawbot-surface-suite1/clip.md", "summary": "Open when looking up Clip in After Effects.", "keywords": ["Clip"]},
+  {"topic": "DrawImage", "file": "references/plugin-sdk/drawbot-surface-suite1/draw-image.md", "summary": "Open when looking up DrawImage in After Effects.", "keywords": ["DrawImage"]},
+  {"topic": "DrawString", "file": "references/plugin-sdk/drawbot-surface-suite1/draw-string.md", "summary": "Open when looking up DrawString in After Effects.", "keywords": ["DrawString"]},
+  {"topic": "FillPath", "file": "references/plugin-sdk/drawbot-surface-suite1/fill-path.md", "summary": "Open when looking up FillPath in After Effects.", "keywords": ["FillPath"]},
+  {"topic": "Flush", "file": "references/plugin-sdk/drawbot-surface-suite1/flush.md", "summary": "Open when looking up Flush in After Effects.", "keywords": ["Flush"]},
+  {"topic": "GetAntiAliasPolicy", "file": "references/plugin-sdk/drawbot-surface-suite1/get-anti-alias-policy.md", "summary": "Open when looking up GetAntiAliasPolicy in After Effects.", "keywords": ["GetAntiAliasPolicy"]},
+  {"topic": "GetClipBounds", "file": "references/plugin-sdk/drawbot-surface-suite1/get-clip-bounds.md", "summary": "Open when looking up GetClipBounds in After Effects.", "keywords": ["GetClipBounds"]},
+  {"topic": "GetInterpolationPolicy", "file": "references/plugin-sdk/drawbot-surface-suite1/get-interpolation-policy.md", "summary": "Open when looking up GetInterpolationPolicy in After Effects.", "keywords": ["GetInterpolationPolicy"]},
+  {"topic": "IsWithinClipBounds", "file": "references/plugin-sdk/drawbot-surface-suite1/is-within-clip-bounds.md", "summary": "Open when looking up IsWithinClipBounds in After Effects.", "keywords": ["IsWithinClipBounds"]},
+  {"topic": "PaintRect", "file": "references/plugin-sdk/drawbot-surface-suite1/paint-rect.md", "summary": "Open when looking up PaintRect in After Effects.", "keywords": ["PaintRect"]},
+  {"topic": "PopStateStack", "file": "references/plugin-sdk/drawbot-surface-suite1/pop-state-stack.md", "summary": "Open when looking up PopStateStack in After Effects.", "keywords": ["PopStateStack"]},
+  {"topic": "PushStateStack", "file": "references/plugin-sdk/drawbot-surface-suite1/push-state-stack.md", "summary": "Open when looking up PushStateStack in After Effects.", "keywords": ["PushStateStack"]},
+  {"topic": "SetAntiAliasPolicy", "file": "references/plugin-sdk/drawbot-surface-suite1/set-anti-alias-policy.md", "summary": "Open when looking up SetAntiAliasPolicy in After Effects.", "keywords": ["SetAntiAliasPolicy"]},
+  {"topic": "SetInterpolationPolicy", "file": "references/plugin-sdk/drawbot-surface-suite1/set-interpolation-policy.md", "summary": "Open when looking up SetInterpolationPolicy in After Effects.", "keywords": ["SetInterpolationPolicy"]},
+  {"topic": "StrokePath", "file": "references/plugin-sdk/drawbot-surface-suite1/stroke-path.md", "summary": "Open when looking up StrokePath in After Effects.", "keywords": ["StrokePath"]},
+  {"topic": "Transform", "file": "references/plugin-sdk/drawbot-surface-suite1/transform.md", "summary": "Open when looking up Transform in After Effects.", "keywords": ["Transform"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "EXPORT_ALL_LAYERS", "file": "references/document-model/export-layer-options/exportalllayers.md", "summary": "Open when looking up EXPORT_ALL_LAYERS in InDesign.", "keywords": ["EXPORT_ALL_LAYERS"]},
+  {"topic": "EXPORT_VISIBLE_LAYERS", "file": "references/document-model/export-layer-options/exportvisiblelayers.md", "summary": "Open when looking up EXPORT_VISIBLE_LAYERS in InDesign.", "keywords": ["EXPORT_VISIBLE_LAYERS"]},
+  {"topic": "EXPORT_VISIBLE_PRINTABLE_LAYERS", "file": "references/document-model/export-layer-options/exportvisibleprintablelayers.md", "summary": "Open when looking up EXPORT_VISIBLE_PRINTABLE_LAYERS in InDesign.", "keywords": ["EXPORT_VISIBLE_PRINTABLE_LAYERS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

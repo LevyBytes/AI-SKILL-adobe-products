@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Transcription settings in Adobe Premiere", "file": "references/desktop/media-analysis-transcription-preferences/transcription-settings-in-adobe-premiere.md", "summary": "Open when looking up Transcription settings in Adobe Premiere in Premiere Pro.", "keywords": ["Transcription settings in Adobe Premiere"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

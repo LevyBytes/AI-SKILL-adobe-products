@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Creating paths and shapes", "file": "references/scripting/creating-paths-and-shapes.md", "summary": "Open when looking up Creating paths and shapes in Illustrator.", "keywords": ["Creating paths and shapes"]},
+  {"topic": "Paths and shapes", "file": "references/scripting/paths-and-shapes.md", "summary": "Open when looking up Paths and shapes in Illustrator.", "keywords": ["Paths and shapes"]},
+  {"topic": "Paths references", "file": "references/scripting/paths/reference-index.md", "summary": "Open when looking up Paths in Illustrator.", "keywords": ["Paths references"]},
+  {"topic": "Shapes references", "file": "references/scripting/shapes/reference-index.md", "summary": "Open when looking up Shapes in Illustrator.", "keywords": ["Shapes references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

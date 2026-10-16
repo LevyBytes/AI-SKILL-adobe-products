@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Dimension object", "file": "references/desktop/measure-and-align/plot-and-measure/about-dimension-objects/dimension-object.md", "summary": "Open when looking up Dimension object in Illustrator.", "keywords": ["Dimension object"]},
+  {"topic": "Dimension tool", "file": "references/desktop/measure-and-align/plot-and-measure/about-dimension-objects/dimension-tool.md", "summary": "Open when looking up Dimension tool in Illustrator.", "keywords": ["Dimension tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

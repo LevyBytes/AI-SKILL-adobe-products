@@ -1,0 +1,45 @@
+# InDesign — Define and manage color assets
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add a new swatch to an existing mixed ink group in InDesign. [Add a new swatch to an existing mixed ink group](add-a-new-swatch-to-an-existing-mixed-ink-group.md).
+- Open when looking up Add a swatch to an existing group in InDesign. [Add a swatch to an existing group](add-a-swatch-to-an-existing-group.md).
+- Open when looking up Add and manage colors from CC libraries in InDesign. [Add and manage colors from CC libraries](add-and-manage-colors-from-cc-libraries.md).
+- Open when looking up Advanced color techniques in InDesign. [Advanced color techniques](advanced-color-techniques.md).
+- Open when looking up Apply color to text, objects, and backgrounds in InDesign. [Apply color to text, objects, and backgrounds](apply-color-to-text-objects-and-backgrounds.md).
+- Open when looking up Apply colors to grayscale images in InDesign. [Apply colors to grayscale images](apply-colors-to-grayscale-images.md).
+- Open when looking up Change mixed inks into process colors in InDesign. [Change mixed inks into process colors](change-mixed-inks-into-process-colors.md).
+- Open when looking up Convert a single mixed ink swatch to process color in InDesign. [Convert a single mixed ink swatch to process color](convert-a-single-mixed-ink-swatch-to-process-color.md).
+- Open when looking up Convert all swatches in a mixed ink group to process in InDesign. [Convert all swatches in a mixed ink group to process](convert-all-swatches-in-a-mixed-ink-group-to-process.md).
+- Open when looking up Create a mixed ink group in InDesign. [Create a mixed ink group](create-a-mixed-ink-group.md).
+- Open when looking up Create a new color swatch in InDesign. [Create a new color swatch](create-a-new-color-swatch.md).
+- Open when looking up Create a single mixed ink swatch in InDesign. [Create a single mixed ink swatch](create-a-single-mixed-ink-swatch.md).
+- Open when looking up Create a swatch from an existing object in InDesign. [Create a swatch from an existing object](create-a-swatch-from-an-existing-object.md).
+- Open when looking up Create a tint swatch from the Color panel in InDesign. [Create a tint swatch from the Color panel](create-a-tint-swatch-from-the-color-panel.md).
+- Open when looking up Create a tint swatch from the Swatch panel in InDesign. [Create a tint swatch from the Swatch panel](create-a-tint-swatch-from-the-swatch-panel.md).
+- Open when looking up Create an unnamed tint for one-time use in InDesign. [Create an unnamed tint for one-time use](create-an-unnamed-tint-for-one-time-use.md).
+- Open when looking up Create and define new swatches in InDesign. [Create and define new swatches](create-and-define-new-swatches.md).
+- Open when looking up Create and edit tints in InDesign. [Create and edit tints](create-and-edit-tints.md).
+- Open when looking up Create mixed ink swatches and groups in InDesign. [Create mixed ink swatches and groups](create-mixed-ink-swatches-and-groups.md).
+- Open when looking up Define And Manage Color Assets in InDesign. [Define And Manage Color Assets](define-and-manage-color-assets.md).
+- Open when looking up Delete a mixed ink group in InDesign. [Delete a mixed ink group](delete-a-mixed-ink-group.md).
+- Open when looking up Delete individual swatches in InDesign. [Delete individual swatches](delete-individual-swatches.md).
+- Open when looking up Delete unused swatches in InDesign. [Delete unused swatches](delete-unused-swatches.md).
+- Open when looking up Duplicate swatches for color variations in InDesign. [Duplicate swatches for color variations](duplicate-swatches-for-color-variations.md).
+- Open when looking up Edit a mixed ink group's component inks in InDesign. [Edit a mixed ink group's component inks](edit-a-mixed-ink-group-s-component-inks.md).
+- Open when looking up Edit a tint or base color swatch in InDesign. [Edit a tint or base color swatch](edit-a-tint-or-base-color-swatch.md).
+- Open when looking up Edit an existing swatch in InDesign. [Edit an existing swatch](edit-an-existing-swatch.md).
+- Open when looking up Edit and convert mixed ink swatches in InDesign. [Edit and convert mixed ink swatches](edit-and-convert-mixed-ink-swatches.md).
+- Open when looking up Find and replace colors in InDesign. [Find and replace colors](find-and-replace-colors.md).
+- Open when looking up Import all swatches from a file in InDesign. [Import all swatches from a file](import-all-swatches-from-a-file.md).
+- Open when looking up Import and share swatch libraries in InDesign. [Import and share swatch libraries](import-and-share-swatch-libraries.md).
+- Open when looking up Import selected swatches from a file in InDesign. [Import selected swatches from a file](import-selected-swatches-from-a-file.md).
+- Open when looking up Load swatches from ASE files in InDesign. [Load swatches from ASE files](load-swatches-from-ase-files.md).
+- Open when looking up Manage mixed ink groups in InDesign. [Manage mixed ink groups](manage-mixed-ink-groups.md).
+- Open when looking up Manage unnamed colors in InDesign. [Manage unnamed colors](manage-unnamed-colors.md).
+- Open when looking up Mix and define custom colors in InDesign. [Mix and define custom colors](mix-and-define-custom-colors.md).
+- Open when looking up Modify and delete swatches in InDesign. [Modify and delete swatches](modify-and-delete-swatches.md).
+- Open when looking up Modify mixed ink swatches in InDesign. [Modify mixed ink swatches](modify-mixed-ink-swatches.md).
+- Open when looking up Organize and reuse color swatches in InDesign. [Organize and reuse color swatches](organize-and-reuse-color-swatches.md).
+- Open when looking up Sample colors from placed graphics in InDesign. [Sample colors from placed graphics](sample-colors-from-placed-graphics.md).
+- Open when looking up Save swatches as ASE files in InDesign. [Save swatches as ASE files](save-swatches-as-ase-files.md).
+- Open when looking up Swatch types in InDesign. [Swatch types](swatch-types.md).

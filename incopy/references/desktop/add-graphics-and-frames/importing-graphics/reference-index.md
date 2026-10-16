@@ -1,0 +1,40 @@
+# InCopy — Importing Graphics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Importing graphics — Acrobat (.pdf) and Illustrator (.ai) import options in InCopy. [Importing graphics — Acrobat (.pdf) and Illustrator (.ai) import options](acrobat-pdf-and-illustrator-ai-import-options.md).
+- Open when looking up Importing graphics — Bitmap import options in InCopy. [Importing graphics — Bitmap import options](importing-graphics-bitmap-import-options.md).
+- Open when looking up Importing graphics — Change the Links panel rows and thumbnails in InCopy. [Importing graphics — Change the Links panel rows and thumbnails](importing-graphics-change-the-links-panel-rows-and-thumbnails.md).
+- Open when looking up Importing graphics — Choose how relinked graphics are scaled in InCopy. [Importing graphics — Choose how relinked graphics are scaled](importing-graphics-choose-how-relinked-graphics-are-scaled.md).
+- Open when looking up Importing graphics — Control layer visibility in imported images in InCopy. [Importing graphics — Control layer visibility in imported images](control-layer-visibility-in-imported-images.md).
+- Open when looking up Importing graphics — Copy links to a different folder in InCopy. [Importing graphics — Copy links to a different folder](importing-graphics-copy-links-to-a-different-folder.md).
+- Open when looking up Importing graphics — Copy the link pathname in InCopy. [Importing graphics — Copy the link pathname](importing-graphics-copy-the-link-pathname.md).
+- Open when looking up Importing graphics — Create an inline graphic in InCopy. [Importing graphics — Create an inline graphic](importing-graphics-create-an-inline-graphic.md).
+- Open when looking up Importing graphics — Display link information in InCopy. [Importing graphics — Display link information](importing-graphics-display-link-information.md).
+- Open when looking up Importing graphics — Drag a graphic into a frame in InCopy. [Importing graphics — Drag a graphic into a frame](importing-graphics-drag-a-graphic-into-a-frame.md).
+- Open when looking up Importing graphics — Edit original artwork in InCopy. [Importing graphics — Edit original artwork](importing-graphics-edit-original-artwork.md).
+- Open when looking up Importing graphics — Edit original artwork using a different application in InCopy. [Importing graphics — Edit original artwork using a different application](edit-original-artwork-using-a-different-application.md).
+- Open when looking up Importing graphics — Edit original artwork using the default application in InCopy. [Importing graphics — Edit original artwork using the default application](edit-original-artwork-using-the-default-application.md).
+- Open when looking up Importing graphics — Encapsulated PostScript (.eps) import options in InCopy. [Importing graphics — Encapsulated PostScript (.eps) import options](encapsulated-postscript-eps-import-options.md).
+- Open when looking up Importing graphics — Find missing links in InCopy. [Importing graphics — Find missing links](importing-graphics-find-missing-links.md).
+- Open when looking up Importing graphics — Fit a graphic to its frame in InCopy. [Importing graphics — Fit a graphic to its frame](importing-graphics-fit-a-graphic-to-its-frame.md).
+- Open when looking up Importing graphics — Import options for graphics in InCopy. [Importing graphics — Import options for graphics](importing-graphics-import-options-for-graphics.md).
+- Open when looking up Importing graphics — Importing InDesign (.indd) pages in InCopy. [Importing graphics — Importing InDesign (.indd) pages](importing-graphics-importing-in-design-indd-pages.md).
+- Open when looking up Importing graphics — InDesign (.indd) import options in InCopy. [Importing graphics — InDesign (.indd) import options](importing-graphics-in-design-indd-import-options.md).
+- Open when looking up Importing graphics — Links panel overview in InCopy. [Importing graphics — Links panel overview](importing-graphics-links-panel-overview.md).
+- Open when looking up Importing graphics — Notes on placing graphics in InCopy in InCopy. [Importing graphics — Notes on placing graphics in InCopy](importing-graphics-notes-on-placing-graphics-in-in-copy.md).
+- Open when looking up Importing graphics — Paste a graphic into a frame in InCopy. [Importing graphics — Paste a graphic into a frame](importing-graphics-paste-a-graphic-into-a-frame.md).
+- Open when looking up Importing graphics — Place a graphic in an InCopy document in InCopy. [Importing graphics — Place a graphic in an InCopy document](importing-graphics-place-a-graphic-in-an-in-copy-document.md).
+- Open when looking up Importing graphics — Portable Network Graphics (.png) import options in InCopy. [Importing graphics — Portable Network Graphics (.png) import options](portable-network-graphics-png-import-options.md).
+- Open when looking up Importing graphics — Relink files with different file extensions in InCopy. [Importing graphics — Relink files with different file extensions](relink-files-with-different-file-extensions.md).
+- Open when looking up Importing graphics — Relink to a different folder in InCopy. [Importing graphics — Relink to a different folder](importing-graphics-relink-to-a-different-folder.md).
+- Open when looking up Importing graphics — Replace a link with a different source file in InCopy. [Importing graphics — Replace a link with a different source file](replace-a-link-with-a-different-source-file.md).
+- Open when looking up Importing graphics — Replace an imported file using the Place command in InCopy. [Importing graphics — Replace an imported file using the Place command](replace-an-imported-file-using-the-place-command.md).
+- Open when looking up Importing graphics — Restore missing links in InCopy. [Importing graphics — Restore missing links](importing-graphics-restore-missing-links.md).
+- Open when looking up Importing graphics — Set layer visibility in InCopy. [Importing graphics — Set layer visibility](importing-graphics-set-layer-visibility.md).
+- Open when looking up Importing graphics — Set layer visibility for placed AI, PSD, PDF, and INDD files in InCopy. [Importing graphics — Set layer visibility for placed AI, PSD, PDF, and INDD files](set-layer-visibility-for-placed-ai-psd-pdf-and-indd-files.md).
+- Open when looking up Importing graphics — Specify a default Relink folder in InCopy. [Importing graphics — Specify a default Relink folder](importing-graphics-specify-a-default-relink-folder.md).
+- Open when looking up Importing graphics — Update modified links in InCopy. [Importing graphics — Update modified links](importing-graphics-update-modified-links.md).
+- Open when looking up Importing graphics — Update, restore, and replace links in InCopy. [Importing graphics — Update, restore, and replace links](importing-graphics-update-restore-and-replace-links.md).
+- Open when looking up Importing graphics — Use the Links panel in InCopy. [Importing graphics — Use the Links panel](importing-graphics-use-the-links-panel.md).
+- Open when looking up Importing graphics — View metadata via the Links panel in InCopy. [Importing graphics — View metadata via the Links panel](importing-graphics-view-metadata-via-the-links-panel.md).
+- Open when looking up Importing graphics — Work with Links panel columns in InCopy. [Importing graphics — Work with Links panel columns](importing-graphics-work-with-links-panel-columns.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Apply Strip Silence to a track and edit the settings", "file": "references/desktop/importing-recording-and-playing/remove-silences-from-your-audio-recordings/apply-strip-silence-to-a-track-and-edit-the-settings.md", "summary": "Open when looking up Apply Strip Silence to a track and edit the settings in Audition.", "keywords": ["Apply Strip Silence to a track and edit the settings"]},
+  {"topic": "Edit effect parameters", "file": "references/desktop/importing-recording-and-playing/remove-silences-from-your-audio-recordings/edit-effect-parameters.md", "summary": "Open when looking up Edit effect parameters in Audition.", "keywords": ["Edit effect parameters"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

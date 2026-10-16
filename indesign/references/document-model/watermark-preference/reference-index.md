@@ -1,0 +1,27 @@
+# InDesign — Watermark preference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up watermarkDoPrint in InDesign. [watermarkDoPrint](watermark-do-print.md).
+- Open when looking up watermarkDrawInBack in InDesign. [watermarkDrawInBack](watermark-draw-in-back.md).
+- Open when looking up watermarkFontColor in InDesign. [watermarkFontColor](watermark-font-color.md).
+- Open when looking up watermarkFontFamily in InDesign. [watermarkFontFamily](watermark-font-family.md).
+- Open when looking up watermarkFontPointSize in InDesign. [watermarkFontPointSize](watermark-font-point-size.md).
+- Open when looking up watermarkFontStyle in InDesign. [watermarkFontStyle](watermark-font-style.md).
+- Open when looking up watermarkHorizontalOffset in InDesign. [watermarkHorizontalOffset](watermark-horizontal-offset.md).
+- Open when looking up watermarkHorizontalPosition in InDesign. [watermarkHorizontalPosition](watermark-horizontal-position.md).
+- Open when looking up watermarkOpacity in InDesign. [watermarkOpacity](watermark-opacity.md).
+- Open when looking up watermarkRotation in InDesign. [watermarkRotation](watermark-rotation.md).
+- Open when looking up watermarkText in InDesign. [watermarkText](watermark-text.md).
+- Open when looking up watermarkVerticalOffset in InDesign. [watermarkVerticalOffset](watermark-vertical-offset.md).
+- Open when looking up watermarkVerticalPosition in InDesign. [watermarkVerticalPosition](watermark-vertical-position.md).
+- Open when looking up watermarkVisibility in InDesign. [watermarkVisibility](watermark-visibility.md).

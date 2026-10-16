@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "How to use special effects with Audition", "file": "references/desktop/effects/special-effects/how-to-use-special-effects-with-audition.md", "summary": "Open when looking up How to use special effects with Audition in Audition.", "keywords": ["How to use special effects with Audition"]},
+  {"topic": "How to use special effects with Audition references", "file": "references/desktop/effects/special-effects/how-to-use-special-effects-with-audition/reference-index.md", "summary": "Open when looking up How to use special effects with Audition in Audition.", "keywords": ["How to use special effects with Audition references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

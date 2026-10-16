@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Changed", "file": "references/uxp/uxp-changelog-uxp-v7-0-0/changed.md", "summary": "Open when looking up Changed in Premiere Pro.", "keywords": ["Changed"]},
+  {"topic": "New", "file": "references/uxp/uxp-changelog-uxp-v7-0-0/new.md", "summary": "Open when looking up New in Premiere Pro.", "keywords": ["New"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

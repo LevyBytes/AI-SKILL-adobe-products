@@ -1,0 +1,81 @@
+# Shared Adobe platform — CellStyle
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CellStyle declaration in Shared Adobe platform. [CellStyle declaration](declaration.md).
+- Open when looking up CellStyle event listeners in Shared Adobe platform. [CellStyle event listeners](event-listeners.md).
+- Open when looking up CellStyle identity and parent in Shared Adobe platform. [CellStyle identity and parent](identity-and-parent.md).
+- Open when looking up CellStyle labels and metadata in Shared Adobe platform. [CellStyle labels and metadata](labels-and-metadata.md).
+- Open when looking up CellStyle object lifecycle in Shared Adobe platform. [CellStyle object lifecycle](object-lifecycle.md).
+- Open when looking up CellStyle object resolution in Shared Adobe platform. [CellStyle object resolution](object-resolution.md).
+- Open when looking up CellStyle.appliedParagraphStyle in Shared Adobe platform. [CellStyle.appliedParagraphStyle](applied-paragraph-style.md).
+- Open when looking up CellStyle.basedOn in Shared Adobe platform. [CellStyle.basedOn](based-on.md).
+- Open when looking up CellStyle.bottomEdgeStrokeColor in Shared Adobe platform. [CellStyle.bottomEdgeStrokeColor](bottom-edge-stroke-color.md).
+- Open when looking up CellStyle.bottomEdgeStrokeGapColor in Shared Adobe platform. [CellStyle.bottomEdgeStrokeGapColor](bottom-edge-stroke-gap-color.md).
+- Open when looking up CellStyle.bottomEdgeStrokeGapOverprint in Shared Adobe platform. [CellStyle.bottomEdgeStrokeGapOverprint](bottom-edge-stroke-gap-overprint.md).
+- Open when looking up CellStyle.bottomEdgeStrokeGapTint in Shared Adobe platform. [CellStyle.bottomEdgeStrokeGapTint](bottom-edge-stroke-gap-tint.md).
+- Open when looking up CellStyle.bottomEdgeStrokeOverprint in Shared Adobe platform. [CellStyle.bottomEdgeStrokeOverprint](bottom-edge-stroke-overprint.md).
+- Open when looking up CellStyle.bottomEdgeStrokeTint in Shared Adobe platform. [CellStyle.bottomEdgeStrokeTint](bottom-edge-stroke-tint.md).
+- Open when looking up CellStyle.bottomEdgeStrokeType in Shared Adobe platform. [CellStyle.bottomEdgeStrokeType](bottom-edge-stroke-type.md).
+- Open when looking up CellStyle.bottomEdgeStrokeWeight in Shared Adobe platform. [CellStyle.bottomEdgeStrokeWeight](bottom-edge-stroke-weight.md).
+- Open when looking up CellStyle.bottomInset in Shared Adobe platform. [CellStyle.bottomInset](bottom-inset.md).
+- Open when looking up CellStyle.clipContentToCell in Shared Adobe platform. [CellStyle.clipContentToCell](clip-content-to-cell.md).
+- Open when looking up CellStyle.clipContentToGraphicCell in Shared Adobe platform. [CellStyle.clipContentToGraphicCell](clip-content-to-graphic-cell.md).
+- Open when looking up CellStyle.clipContentToTextCell in Shared Adobe platform. [CellStyle.clipContentToTextCell](clip-content-to-text-cell.md).
+- Open when looking up CellStyle.diagonalLineInFront in Shared Adobe platform. [CellStyle.diagonalLineInFront](diagonal-line-in-front.md).
+- Open when looking up CellStyle.diagonalLineStrokeColor in Shared Adobe platform. [CellStyle.diagonalLineStrokeColor](diagonal-line-stroke-color.md).
+- Open when looking up CellStyle.diagonalLineStrokeGapColor in Shared Adobe platform. [CellStyle.diagonalLineStrokeGapColor](diagonal-line-stroke-gap-color.md).
+- Open when looking up CellStyle.diagonalLineStrokeGapOverprint in Shared Adobe platform. [CellStyle.diagonalLineStrokeGapOverprint](diagonal-line-stroke-gap-overprint.md).
+- Open when looking up CellStyle.diagonalLineStrokeGapTint in Shared Adobe platform. [CellStyle.diagonalLineStrokeGapTint](diagonal-line-stroke-gap-tint.md).
+- Open when looking up CellStyle.diagonalLineStrokeOverprint in Shared Adobe platform. [CellStyle.diagonalLineStrokeOverprint](diagonal-line-stroke-overprint.md).
+- Open when looking up CellStyle.diagonalLineStrokeTint in Shared Adobe platform. [CellStyle.diagonalLineStrokeTint](diagonal-line-stroke-tint.md).
+- Open when looking up CellStyle.diagonalLineStrokeType in Shared Adobe platform. [CellStyle.diagonalLineStrokeType](diagonal-line-stroke-type.md).
+- Open when looking up CellStyle.diagonalLineStrokeWeight in Shared Adobe platform. [CellStyle.diagonalLineStrokeWeight](diagonal-line-stroke-weight.md).
+- Open when looking up CellStyle.fillColor in Shared Adobe platform. [CellStyle.fillColor](fill-color.md).
+- Open when looking up CellStyle.fillTint in Shared Adobe platform. [CellStyle.fillTint](fill-tint.md).
+- Open when looking up CellStyle.firstBaselineOffset in Shared Adobe platform. [CellStyle.firstBaselineOffset](first-baseline-offset.md).
+- Open when looking up CellStyle.gradientFillAngle in Shared Adobe platform. [CellStyle.gradientFillAngle](gradient-fill-angle.md).
+- Open when looking up CellStyle.gradientFillLength in Shared Adobe platform. [CellStyle.gradientFillLength](gradient-fill-length.md).
+- Open when looking up CellStyle.gradientFillStart in Shared Adobe platform. [CellStyle.gradientFillStart](gradient-fill-start.md).
+- Open when looking up CellStyle.graphicBottomInset in Shared Adobe platform. [CellStyle.graphicBottomInset](graphic-bottom-inset.md).
+- Open when looking up CellStyle.graphicLeftInset in Shared Adobe platform. [CellStyle.graphicLeftInset](graphic-left-inset.md).
+- Open when looking up CellStyle.graphicRightInset in Shared Adobe platform. [CellStyle.graphicRightInset](graphic-right-inset.md).
+- Open when looking up CellStyle.graphicTopInset in Shared Adobe platform. [CellStyle.graphicTopInset](graphic-top-inset.md).
+- Open when looking up CellStyle.leftEdgeStrokeColor in Shared Adobe platform. [CellStyle.leftEdgeStrokeColor](left-edge-stroke-color.md).
+- Open when looking up CellStyle.leftEdgeStrokeGapColor in Shared Adobe platform. [CellStyle.leftEdgeStrokeGapColor](left-edge-stroke-gap-color.md).
+- Open when looking up CellStyle.leftEdgeStrokeGapOverprint in Shared Adobe platform. [CellStyle.leftEdgeStrokeGapOverprint](left-edge-stroke-gap-overprint.md).
+- Open when looking up CellStyle.leftEdgeStrokeGapTint in Shared Adobe platform. [CellStyle.leftEdgeStrokeGapTint](left-edge-stroke-gap-tint.md).
+- Open when looking up CellStyle.leftEdgeStrokeOverprint in Shared Adobe platform. [CellStyle.leftEdgeStrokeOverprint](left-edge-stroke-overprint.md).
+- Open when looking up CellStyle.leftEdgeStrokeTint in Shared Adobe platform. [CellStyle.leftEdgeStrokeTint](left-edge-stroke-tint.md).
+- Open when looking up CellStyle.leftEdgeStrokeType in Shared Adobe platform. [CellStyle.leftEdgeStrokeType](left-edge-stroke-type.md).
+- Open when looking up CellStyle.leftEdgeStrokeWeight in Shared Adobe platform. [CellStyle.leftEdgeStrokeWeight](left-edge-stroke-weight.md).
+- Open when looking up CellStyle.leftInset in Shared Adobe platform. [CellStyle.leftInset](left-inset.md).
+- Open when looking up CellStyle.minimumFirstBaselineOffset in Shared Adobe platform. [CellStyle.minimumFirstBaselineOffset](minimum-first-baseline-offset.md).
+- Open when looking up CellStyle.overprintFill in Shared Adobe platform. [CellStyle.overprintFill](overprint-fill.md).
+- Open when looking up CellStyle.paragraphSpacingLimit in Shared Adobe platform. [CellStyle.paragraphSpacingLimit](paragraph-spacing-limit.md).
+- Open when looking up CellStyle.properties in Shared Adobe platform. [CellStyle.properties](properties.md).
+- Open when looking up CellStyle.rightEdgeStrokeColor in Shared Adobe platform. [CellStyle.rightEdgeStrokeColor](right-edge-stroke-color.md).
+- Open when looking up CellStyle.rightEdgeStrokeGapColor in Shared Adobe platform. [CellStyle.rightEdgeStrokeGapColor](right-edge-stroke-gap-color.md).
+- Open when looking up CellStyle.rightEdgeStrokeGapOverprint in Shared Adobe platform. [CellStyle.rightEdgeStrokeGapOverprint](right-edge-stroke-gap-overprint.md).
+- Open when looking up CellStyle.rightEdgeStrokeGapTint in Shared Adobe platform. [CellStyle.rightEdgeStrokeGapTint](right-edge-stroke-gap-tint.md).
+- Open when looking up CellStyle.rightEdgeStrokeOverprint in Shared Adobe platform. [CellStyle.rightEdgeStrokeOverprint](right-edge-stroke-overprint.md).
+- Open when looking up CellStyle.rightEdgeStrokeTint in Shared Adobe platform. [CellStyle.rightEdgeStrokeTint](right-edge-stroke-tint.md).
+- Open when looking up CellStyle.rightEdgeStrokeType in Shared Adobe platform. [CellStyle.rightEdgeStrokeType](right-edge-stroke-type.md).
+- Open when looking up CellStyle.rightEdgeStrokeWeight in Shared Adobe platform. [CellStyle.rightEdgeStrokeWeight](right-edge-stroke-weight.md).
+- Open when looking up CellStyle.rightInset in Shared Adobe platform. [CellStyle.rightInset](right-inset.md).
+- Open when looking up CellStyle.rotationAngle in Shared Adobe platform. [CellStyle.rotationAngle](rotation-angle.md).
+- Open when looking up CellStyle.textBottomInset in Shared Adobe platform. [CellStyle.textBottomInset](text-bottom-inset.md).
+- Open when looking up CellStyle.textLeftInset in Shared Adobe platform. [CellStyle.textLeftInset](text-left-inset.md).
+- Open when looking up CellStyle.textRightInset in Shared Adobe platform. [CellStyle.textRightInset](text-right-inset.md).
+- Open when looking up CellStyle.textTopInset in Shared Adobe platform. [CellStyle.textTopInset](text-top-inset.md).
+- Open when looking up CellStyle.topEdgeStrokeColor in Shared Adobe platform. [CellStyle.topEdgeStrokeColor](top-edge-stroke-color.md).
+- Open when looking up CellStyle.topEdgeStrokeGapColor in Shared Adobe platform. [CellStyle.topEdgeStrokeGapColor](top-edge-stroke-gap-color.md).
+- Open when looking up CellStyle.topEdgeStrokeGapOverprint in Shared Adobe platform. [CellStyle.topEdgeStrokeGapOverprint](top-edge-stroke-gap-overprint.md).
+- Open when looking up CellStyle.topEdgeStrokeGapTint in Shared Adobe platform. [CellStyle.topEdgeStrokeGapTint](top-edge-stroke-gap-tint.md).
+- Open when looking up CellStyle.topEdgeStrokeOverprint in Shared Adobe platform. [CellStyle.topEdgeStrokeOverprint](top-edge-stroke-overprint.md).
+- Open when looking up CellStyle.topEdgeStrokeTint in Shared Adobe platform. [CellStyle.topEdgeStrokeTint](top-edge-stroke-tint.md).
+- Open when looking up CellStyle.topEdgeStrokeType in Shared Adobe platform. [CellStyle.topEdgeStrokeType](top-edge-stroke-type.md).
+- Open when looking up CellStyle.topEdgeStrokeWeight in Shared Adobe platform. [CellStyle.topEdgeStrokeWeight](top-edge-stroke-weight.md).
+- Open when looking up CellStyle.topInset in Shared Adobe platform. [CellStyle.topInset](top-inset.md).
+- Open when looking up CellStyle.topLeftDiagonalLine in Shared Adobe platform. [CellStyle.topLeftDiagonalLine](top-left-diagonal-line.md).
+- Open when looking up CellStyle.topRightDiagonalLine in Shared Adobe platform. [CellStyle.topRightDiagonalLine](top-right-diagonal-line.md).
+- Open when looking up CellStyle.verticalJustification in Shared Adobe platform. [CellStyle.verticalJustification](vertical-justification.md).

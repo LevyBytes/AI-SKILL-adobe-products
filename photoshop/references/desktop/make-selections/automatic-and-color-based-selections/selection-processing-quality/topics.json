@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Improve results with cloud processing", "file": "references/desktop/make-selections/automatic-and-color-based-selections/selection-processing-quality/improve-results-with-cloud-processing.md", "summary": "Open when looking up Improve results with cloud processing in Photoshop.", "keywords": ["Improve results with cloud processing"]},
+  {"topic": "Improve results with on-device processing", "file": "references/desktop/make-selections/automatic-and-color-based-selections/selection-processing-quality/improve-results-with-on-device-processing.md", "summary": "Open when looking up Improve results with on-device processing in Photoshop.", "keywords": ["Improve results with on-device processing"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

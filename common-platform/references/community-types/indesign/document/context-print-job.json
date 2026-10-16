@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.print", "file": "references/community-types/indesign/document/print.md", "summary": "Open when looking up Document.print in Shared Adobe platform.", "keywords": ["Document.print"]},
+  {"topic": "Document.printBooklet", "file": "references/community-types/indesign/document/print-booklet.md", "summary": "Open when looking up Document.printBooklet in Shared Adobe platform.", "keywords": ["Document.printBooklet"]},
+  {"topic": "Document.printBookletOptions", "file": "references/community-types/indesign/document/print-booklet-options.md", "summary": "Open when looking up Document.printBookletOptions in Shared Adobe platform.", "keywords": ["Document.printBookletOptions"]},
+  {"topic": "Document.printBookletPrintPreferences", "file": "references/community-types/indesign/document/print-booklet-print-preferences.md", "summary": "Open when looking up Document.printBookletPrintPreferences in Shared Adobe platform.", "keywords": ["Document.printBookletPrintPreferences"]},
+  {"topic": "Document.printPreferences", "file": "references/community-types/indesign/document/print-preferences.md", "summary": "Open when looking up Document.printPreferences in Shared Adobe platform.", "keywords": ["Document.printPreferences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

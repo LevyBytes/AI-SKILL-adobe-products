@@ -1,0 +1,26 @@
+# Shared Adobe platform — Movie
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Movie declaration in Shared Adobe platform. [Movie declaration](declaration.md).
+- Open when looking up Movie.bringForward in Shared Adobe platform. [Movie.bringForward](bring-forward.md).
+- Open when looking up Movie.bringToFront in Shared Adobe platform. [Movie.bringToFront](bring-to-front.md).
+- Open when looking up Movie.controllerSkin in Shared Adobe platform. [Movie.controllerSkin](controller-skin.md).
+- Open when looking up Movie.description in Shared Adobe platform. [Movie.description](description.md).
+- Open when looking up Movie.embedInPDF in Shared Adobe platform. [Movie.embedInPDF](embed-in-pdf.md).
+- Open when looking up Movie.filePath in Shared Adobe platform. [Movie.filePath](file-path.md).
+- Open when looking up Movie.floatingWindow in Shared Adobe platform. [Movie.floatingWindow](floating-window.md).
+- Open when looking up Movie.floatingWindowPosition in Shared Adobe platform. [Movie.floatingWindowPosition](floating-window-position.md).
+- Open when looking up Movie.floatingWindowSize in Shared Adobe platform. [Movie.floatingWindowSize](floating-window-size.md).
+- Open when looking up Movie.images in Shared Adobe platform. [Movie.images](images.md).
+- Open when looking up Movie.itemLink in Shared Adobe platform. [Movie.itemLink](item-link.md).
+- Open when looking up Movie.movieLoop in Shared Adobe platform. [Movie.movieLoop](movie-loop.md).
+- Open when looking up Movie.moviePosterType in Shared Adobe platform. [Movie.moviePosterType](movie-poster-type.md).
+- Open when looking up Movie.navigationPoints in Shared Adobe platform. [Movie.navigationPoints](navigation-points.md).
+- Open when looking up Movie.playOnPageTurn in Shared Adobe platform. [Movie.playOnPageTurn](play-on-page-turn.md).
+- Open when looking up Movie.posterFile in Shared Adobe platform. [Movie.posterFile](poster-file.md).
+- Open when looking up Movie.sendBackward in Shared Adobe platform. [Movie.sendBackward](send-backward.md).
+- Open when looking up Movie.sendToBack in Shared Adobe platform. [Movie.sendToBack](send-to-back.md).
+- Open when looking up Movie.showController in Shared Adobe platform. [Movie.showController](show-controller.md).
+- Open when looking up Movie.showControls in Shared Adobe platform. [Movie.showControls](show-controls.md).
+- Open when looking up Movie.url in Shared Adobe platform. [Movie.url](url.md).
+- Open when looking up Movie.verifyURL in Shared Adobe platform. [Movie.verifyURL](verify-url.md).

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Manage footage items references", "file": "references/desktop/work-with-footage-items/manage-footage-items/reference-index.md", "summary": "Open when looking up Manage footage items in After Effects.", "keywords": ["Manage footage items references"]},
+  {"topic": "Scene edit detection references", "file": "references/desktop/work-with-footage-items/scene-edit-detection/reference-index.md", "summary": "Open when looking up Scene edit detection in After Effects.", "keywords": ["Scene edit detection references"]},
+  {"topic": "Work with xmp metadata references", "file": "references/desktop/work-with-footage-items/work-with-xmp-metadata/reference-index.md", "summary": "Open when looking up Work with xmp metadata in After Effects.", "keywords": ["Work with xmp metadata references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

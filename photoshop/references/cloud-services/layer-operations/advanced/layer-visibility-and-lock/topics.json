@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Artboard visibility behavior differs between V1 and V2", "file": "references/cloud-services/layer-operations/advanced/layer-visibility-and-lock/artboard-visibility-behavior-differs-between-v1-and-v2.md", "summary": "Open when looking up Artboard visibility behavior differs between V1 and V2 in Photoshop.", "keywords": ["Artboard visibility behavior differs between V1 and V2"]},
+  {"topic": "Property name changes", "file": "references/cloud-services/layer-operations/advanced/layer-visibility-and-lock/property-name-changes.md", "summary": "Open when looking up Property name changes in Photoshop.", "keywords": ["Property name changes"]},
+  {"topic": "Protection array (all flag types)", "file": "references/cloud-services/layer-operations/advanced/layer-visibility-and-lock/protection-array-all-flag-types.md", "summary": "Open when looking up Protection array (all flag types) in Photoshop.", "keywords": ["Protection array (all flag types)"]},
+  {"topic": "V1 approach", "file": "references/cloud-services/layer-operations/advanced/layer-visibility-and-lock/v1-approach.md", "summary": "Open when looking up V1 approach in Photoshop.", "keywords": ["V1 approach"]},
+  {"topic": "V2 approach", "file": "references/cloud-services/layer-operations/advanced/layer-visibility-and-lock/v2-approach.md", "summary": "Open when looking up V2 approach in Photoshop.", "keywords": ["V2 approach"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

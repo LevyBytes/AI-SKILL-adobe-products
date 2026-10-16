@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Component object", "file": "references/scripting/component/component-object.md", "summary": "Open when looking up Component object in Premiere Pro.", "keywords": ["Component object"]},
+  {"topic": "Component.displayName", "file": "references/scripting/component/display-name.md", "summary": "Open when looking up Component.displayName in Premiere Pro.", "keywords": ["Component.displayName"]},
+  {"topic": "Component.matchName", "file": "references/scripting/component/match-name.md", "summary": "Open when looking up Component.matchName in Premiere Pro.", "keywords": ["Component.matchName"]},
+  {"topic": "Component.properties", "file": "references/scripting/component/properties.md", "summary": "Open when looking up Component.properties in Premiere Pro.", "keywords": ["Component.properties"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

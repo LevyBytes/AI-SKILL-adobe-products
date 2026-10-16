@@ -1,0 +1,43 @@
+# Shared Adobe platform — PageItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PageItem declaration in Shared Adobe platform. [PageItem declaration](declaration.md).
+- Open when looking up PageItem identity and parent in Shared Adobe platform. [PageItem identity and parent](identity-and-parent.md).
+- Open when looking up PageItem object lifecycle in Shared Adobe platform. [PageItem object lifecycle](object-lifecycle.md).
+- Open when looking up PageItem.absoluteZOrderPosition in Shared Adobe platform. [PageItem.absoluteZOrderPosition](absolute-z-order-position.md).
+- Open when looking up PageItem.applyEffect in Shared Adobe platform. [PageItem.applyEffect](apply-effect.md).
+- Open when looking up PageItem.artworkKnockout in Shared Adobe platform. [PageItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up PageItem.blendingMode in Shared Adobe platform. [PageItem.blendingMode](blending-mode.md).
+- Open when looking up PageItem.bringInPerspective in Shared Adobe platform. [PageItem.bringInPerspective](bring-in-perspective.md).
+- Open when looking up PageItem.controlBounds in Shared Adobe platform. [PageItem.controlBounds](control-bounds.md).
+- Open when looking up PageItem.editable in Shared Adobe platform. [PageItem.editable](editable.md).
+- Open when looking up PageItem.geometricBounds in Shared Adobe platform. [PageItem.geometricBounds](geometric-bounds.md).
+- Open when looking up PageItem.height in Shared Adobe platform. [PageItem.height](height.md).
+- Open when looking up PageItem.hidden in Shared Adobe platform. [PageItem.hidden](hidden.md).
+- Open when looking up PageItem.isIsolated in Shared Adobe platform. [PageItem.isIsolated](is-isolated.md).
+- Open when looking up PageItem.layer in Shared Adobe platform. [PageItem.layer](layer.md).
+- Open when looking up PageItem.left in Shared Adobe platform. [PageItem.left](left.md).
+- Open when looking up PageItem.locked in Shared Adobe platform. [PageItem.locked](locked.md).
+- Open when looking up PageItem.note in Shared Adobe platform. [PageItem.note](note.md).
+- Open when looking up PageItem.opacity in Shared Adobe platform. [PageItem.opacity](opacity.md).
+- Open when looking up PageItem.pixelAligned in Shared Adobe platform. [PageItem.pixelAligned](pixel-aligned.md).
+- Open when looking up PageItem.position in Shared Adobe platform. [PageItem.position](position.md).
+- Open when looking up PageItem.removeAll in Shared Adobe platform. [PageItem.removeAll](remove-all.md).
+- Open when looking up PageItem.resize in Shared Adobe platform. [PageItem.resize](resize.md).
+- Open when looking up PageItem.rotate in Shared Adobe platform. [PageItem.rotate](rotate.md).
+- Open when looking up PageItem.selected in Shared Adobe platform. [PageItem.selected](selected.md).
+- Open when looking up PageItem.sendScriptMessage in Shared Adobe platform. [PageItem.sendScriptMessage](send-script-message.md).
+- Open when looking up PageItem.sliced in Shared Adobe platform. [PageItem.sliced](sliced.md).
+- Open when looking up PageItem.tags in Shared Adobe platform. [PageItem.tags](tags.md).
+- Open when looking up PageItem.top in Shared Adobe platform. [PageItem.top](top.md).
+- Open when looking up PageItem.transform in Shared Adobe platform. [PageItem.transform](transform.md).
+- Open when looking up PageItem.translate in Shared Adobe platform. [PageItem.translate](translate.md).
+- Open when looking up PageItem.URL in Shared Adobe platform. [PageItem.URL](url.md).
+- Open when looking up PageItem.visibilityVariable in Shared Adobe platform. [PageItem.visibilityVariable](visibility-variable.md).
+- Open when looking up PageItem.visibleBounds in Shared Adobe platform. [PageItem.visibleBounds](visible-bounds.md).
+- Open when looking up PageItem.width in Shared Adobe platform. [PageItem.width](width.md).
+- Open when looking up PageItem.wrapInside in Shared Adobe platform. [PageItem.wrapInside](wrap-inside.md).
+- Open when looking up PageItem.wrapOffset in Shared Adobe platform. [PageItem.wrapOffset](wrap-offset.md).
+- Open when looking up PageItem.wrapped in Shared Adobe platform. [PageItem.wrapped](wrapped.md).
+- Open when looking up PageItem.zOrder in Shared Adobe platform. [PageItem.zOrder](z-order.md).
+- Open when looking up PageItem.zOrderPosition in Shared Adobe platform. [PageItem.zOrderPosition](z-order-position.md).

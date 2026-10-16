@@ -1,0 +1,27 @@
+# Layer operations specific
+
+- [ ] Use underscore layer type names: `text_layer`, `adjustment_layer`, `smart_object_layer`, `solid_color_layer`
+- [ ] Use `"group_layer"` for group layers, not `"layer_group"` or `"layerSection"`. V2 cannot yet create a brand-new document that already contains a group layer (upcoming feature), but it can edit an existing document by inserting a layer into a group with `into` + `referenceLayer`.
+- [ ] Provide the operation type (`add`, `edit`, `delete`); for edits, the `operation` field is **required** and is not inferred
+- [ ] Express moves as `operation.type: "move"` with `placement`, not as `move: {...}`
+- [ ] Convert V1 layers that have `edit: {}` and no add/delete into V2 layers with `operation.type: "edit"`
+- [ ] Use the `operation.placement` structure for placement
+- [ ] Use `referenceLayer` for relative placement instead of `relativeTo`
+- [ ] Order layers top-down in V2 rather than bottom-up; any layer used as `referenceLayer` must appear earlier in the array
+- [ ] Use `source` for layer source, not `input`
+- [ ] Represent layer lock as `"protection": ["all"]` / `["none"]`, not `"locked": true/false`
+- [ ] For clipping masks, set `"isClipped": true` on the layer, not `mask.clip`
+- [ ] Rename `mask` to `pixelMask`; write offsets as `offset.horizontal`/offset.vertical` rather than `offset.x`/offset.y`
+- [ ] To remove a pixel mask on edit operations, send `pixelMask: { "delete": true }`
+- [ ] Wrap text-layer characterStyles in a `characterStyle` object
+- [ ] Wrap text-layer paragraphStyles in a `paragraphStyle` object
+- [ ] Use `offset.horizontal`/offset.vertical` for pixel-mask offsets, not `offset.x`/offset.y`
+- [ ] Convert V1 `mask.linked`/mask.enabled` to V2 `mask.isLinked`/mask.isEnabled`; provide source at `mask.source.url` instead of `mask.input.href`
+- [ ] Rename `visible` to `isVisible`
+- [ ] For most layer types, put `opacity` and `blendMode` at the top level rather than in `blendOptions`; for `smart_object_layer`, keep `blendOptions.opacity` and `blendOptions.blendMode`
+- [ ] Convert layer transforms from V1 `bounds {left,top,width,height}` to V2 `transform {offset:{horizontal,vertical}, dimension:{width,height}}`; include `transformMode: "custom"` whenever `transform` is used
+- [ ] Omit the `transform` object when `transformMode` is `fit`, `fill`, or `none`; otherwise the service returns 400
+- [ ] `fit` and `fill` place content at (0,0); for another position, follow with a second request using `transformMode: "custom"` and the intended offset
+- [ ] For `custom` with dimension/angle/skew, run two passes: apply geometry first using the anchor as pivot with default `(0,0)`, then set position through `setOffset`; priority is explicit offset → alignment → fallback restore original x,y
+- [ ] When only geometry is supplied (dimension/angle/skew, no offset, no alignment), restore the original position silently for V1 parity so the layer does not drift
+- [ ] Move V1 layer-level `horizontalAlign`/verticalAlign` into V2 placement-level `horizontalAlignment`/verticalAlignment` under `placement: {type: "custom", ...}` for add/move operations

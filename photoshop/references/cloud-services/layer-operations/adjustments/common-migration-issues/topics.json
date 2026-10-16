@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Issue: Adjustment values out of range", "file": "references/cloud-services/layer-operations/adjustments/common-migration-issues/issue-adjustment-values-out-of-range.md", "summary": "Open when looking up Issue: Adjustment values out of range in Photoshop.", "keywords": ["Issue: Adjustment values out of range"]},
+  {"topic": "Issue: Forgetting operation block", "file": "references/cloud-services/layer-operations/adjustments/common-migration-issues/issue-forgetting-operation-block.md", "summary": "Open when looking up Issue: Forgetting operation block in Photoshop.", "keywords": ["Issue: Forgetting operation block"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

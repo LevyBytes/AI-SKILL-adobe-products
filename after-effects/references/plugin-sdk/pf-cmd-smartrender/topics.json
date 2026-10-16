@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "SmartFX — PF_Cmd_SMART_RENDER", "file": "references/plugin-sdk/pf-cmd-smartrender/smart-fx-pf-cmd-smartrender.md", "summary": "Open when looking up SmartFX — PF_Cmd_SMART_RENDER in After Effects.", "keywords": ["SmartFX — PF_Cmd_SMART_RENDER"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Ocr pdf with options example setup", "file": "references/pdf-services/examples/node/ocr-pdf-with-options/ocr-pdf-with-options-setup.md", "summary": "Open when looking up Ocr pdf with options example setup in Acrobat.", "keywords": ["Ocr pdf with options example setup"]},
+  {"topic": "ocr-pdf-with-options", "file": "references/pdf-services/examples/node/ocr-pdf-with-options/ocr-pdf-with-options.cjs", "summary": "Open when looking up ocr-pdf-with-options in Acrobat.", "keywords": ["ocr-pdf-with-options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

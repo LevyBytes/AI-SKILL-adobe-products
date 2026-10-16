@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DEFAULT_VALUE", "file": "references/document-model/otf-figure-style/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "PROPORTIONAL_LINING", "file": "references/document-model/otf-figure-style/proportionallining.md", "summary": "Open when looking up PROPORTIONAL_LINING in InDesign.", "keywords": ["PROPORTIONAL_LINING"]},
+  {"topic": "PROPORTIONAL_OLDSTYLE", "file": "references/document-model/otf-figure-style/proportionaloldstyle.md", "summary": "Open when looking up PROPORTIONAL_OLDSTYLE in InDesign.", "keywords": ["PROPORTIONAL_OLDSTYLE"]},
+  {"topic": "TABULAR_LINING", "file": "references/document-model/otf-figure-style/tabularlining.md", "summary": "Open when looking up TABULAR_LINING in InDesign.", "keywords": ["TABULAR_LINING"]},
+  {"topic": "TABULAR_OLDSTYLE", "file": "references/document-model/otf-figure-style/tabularoldstyle.md", "summary": "Open when looking up TABULAR_OLDSTYLE in InDesign.", "keywords": ["TABULAR_OLDSTYLE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,29 @@
+# InDesign — BevelAndEmbossSetting
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up altitude in InDesign. [altitude](altitude.md).
+- Open when looking up angle in InDesign. [angle](angle.md).
+- Open when looking up applied in InDesign. [applied](applied.md).
+- Open when looking up depth in InDesign. [depth](depth.md).
+- Open when looking up direction in InDesign. [direction](direction.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up highlightBlendMode in InDesign. [highlightBlendMode](highlight-blend-mode.md).
+- Open when looking up highlightColor in InDesign. [highlightColor](highlight-color.md).
+- Open when looking up highlightOpacity in InDesign. [highlightOpacity](highlight-opacity.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up shadowBlendMode in InDesign. [shadowBlendMode](shadow-blend-mode.md).
+- Open when looking up shadowColor in InDesign. [shadowColor](shadow-color.md).
+- Open when looking up shadowOpacity in InDesign. [shadowOpacity](shadow-opacity.md).
+- Open when looking up size in InDesign. [size](size.md).
+- Open when looking up soften in InDesign. [soften](soften.md).
+- Open when looking up style in InDesign. [style](style.md).
+- Open when looking up technique in InDesign. [technique](technique.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up useGlobalLight in InDesign. [useGlobalLight](use-global-light.md).

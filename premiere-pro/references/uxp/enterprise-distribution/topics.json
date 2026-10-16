@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "1. Deploy plugins through the Admin Console", "file": "references/uxp/enterprise-distribution/deploy-plugins-through-the-admin-console.md", "summary": "Open when looking up 1. Deploy plugins through the Admin Console in Premiere Pro.", "keywords": ["1. Deploy plugins through the Admin Console"]},
+  {"topic": "2. Bundle .ccx plugins in managed packages", "file": "references/uxp/enterprise-distribution/bundle-ccx-plugins-in-managed-packages.md", "summary": "Open when looking up 2. Bundle .ccx plugins in managed packages in Premiere Pro.", "keywords": ["2. Bundle .ccx plugins in managed packages"]},
+  {"topic": "Important Considerations", "file": "references/uxp/enterprise-distribution/important-considerations.md", "summary": "Open when looking up Important Considerations in Premiere Pro.", "keywords": ["Important Considerations"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

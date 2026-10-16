@@ -1,0 +1,32 @@
+# Shared Adobe platform — BlendMode
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up BlendMode declaration in Shared Adobe platform. [BlendMode declaration](declaration.md).
+- Open when looking up BlendMode.COLORBLEND in Shared Adobe platform. [BlendMode.COLORBLEND](colorblend.md).
+- Open when looking up BlendMode.COLORBURN in Shared Adobe platform. [BlendMode.COLORBURN](colorburn.md).
+- Open when looking up BlendMode.COLORDODGE in Shared Adobe platform. [BlendMode.COLORDODGE](colordodge.md).
+- Open when looking up BlendMode.DARKEN in Shared Adobe platform. [BlendMode.DARKEN](darken.md).
+- Open when looking up BlendMode.DARKERCOLOR in Shared Adobe platform. [BlendMode.DARKERCOLOR](darkercolor.md).
+- Open when looking up BlendMode.DIFFERENCE in Shared Adobe platform. [BlendMode.DIFFERENCE](difference.md).
+- Open when looking up BlendMode.DISSOLVE in Shared Adobe platform. [BlendMode.DISSOLVE](dissolve.md).
+- Open when looking up BlendMode.DIVIDE in Shared Adobe platform. [BlendMode.DIVIDE](divide.md).
+- Open when looking up BlendMode.EXCLUSION in Shared Adobe platform. [BlendMode.EXCLUSION](exclusion.md).
+- Open when looking up BlendMode.HARDLIGHT in Shared Adobe platform. [BlendMode.HARDLIGHT](hardlight.md).
+- Open when looking up BlendMode.HARDMIX in Shared Adobe platform. [BlendMode.HARDMIX](hardmix.md).
+- Open when looking up BlendMode.HUE in Shared Adobe platform. [BlendMode.HUE](hue.md).
+- Open when looking up BlendMode.LIGHTEN in Shared Adobe platform. [BlendMode.LIGHTEN](lighten.md).
+- Open when looking up BlendMode.LIGHTERCOLOR in Shared Adobe platform. [BlendMode.LIGHTERCOLOR](lightercolor.md).
+- Open when looking up BlendMode.LINEARBURN in Shared Adobe platform. [BlendMode.LINEARBURN](linearburn.md).
+- Open when looking up BlendMode.LINEARDODGE in Shared Adobe platform. [BlendMode.LINEARDODGE](lineardodge.md).
+- Open when looking up BlendMode.LINEARLIGHT in Shared Adobe platform. [BlendMode.LINEARLIGHT](linearlight.md).
+- Open when looking up BlendMode.LUMINOSITY in Shared Adobe platform. [BlendMode.LUMINOSITY](luminosity.md).
+- Open when looking up BlendMode.MULTIPLY in Shared Adobe platform. [BlendMode.MULTIPLY](multiply.md).
+- Open when looking up BlendMode.NORMAL in Shared Adobe platform. [BlendMode.NORMAL](normal.md).
+- Open when looking up BlendMode.OVERLAY in Shared Adobe platform. [BlendMode.OVERLAY](overlay.md).
+- Open when looking up BlendMode.PASSTHROUGH in Shared Adobe platform. [BlendMode.PASSTHROUGH](passthrough.md).
+- Open when looking up BlendMode.PINLIGHT in Shared Adobe platform. [BlendMode.PINLIGHT](pinlight.md).
+- Open when looking up BlendMode.SATURATION in Shared Adobe platform. [BlendMode.SATURATION](saturation.md).
+- Open when looking up BlendMode.SCREEN in Shared Adobe platform. [BlendMode.SCREEN](screen.md).
+- Open when looking up BlendMode.SOFTLIGHT in Shared Adobe platform. [BlendMode.SOFTLIGHT](softlight.md).
+- Open when looking up BlendMode.SUBTRACT in Shared Adobe platform. [BlendMode.SUBTRACT](subtract.md).
+- Open when looking up BlendMode.VIVIDLIGHT in Shared Adobe platform. [BlendMode.VIVIDLIGHT](vividlight.md).

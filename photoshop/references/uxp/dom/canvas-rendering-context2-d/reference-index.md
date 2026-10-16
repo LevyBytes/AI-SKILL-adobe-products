@@ -1,0 +1,27 @@
+# Photoshop — Canvas rendering context2 d
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up arc(x, y, radius, startAngle, endAngle, counterclockwise) in Photoshop. [arc(x, y, radius, startAngle, endAngle, counterclockwise)](arc.md).
+- Open when looking up arcTo(x1, y1, x2, y2, radius) in Photoshop. [arcTo(x1, y1, x2, y2, radius)](arc-to.md).
+- Open when looking up beginPath() in Photoshop. [beginPath()](begin-path.md).
+- Open when looking up bezierCurveTo(cp1x, cp1y, cp2x, cp2y, x, y) in Photoshop. [bezierCurveTo(cp1x, cp1y, cp2x, cp2y, x, y)](bezier-curve-to.md).
+- Open when looking up CanvasRenderingContext2D() in Photoshop. [CanvasRenderingContext2D()](canvas-rendering-context2-d.md).
+- Open when looking up clearRect(x, y, width, height) in Photoshop. [clearRect(x, y, width, height)](clear-rect.md).
+- Open when looking up closePath() in Photoshop. [closePath()](close-path.md).
+- Open when looking up createLinearGradient(x0, y0, x1, y1) in Photoshop. [createLinearGradient(x0, y0, x1, y1)](create-linear-gradient.md).
+- Open when looking up createRadialGradient(x0, y0, r0, x1, y1, r1) in Photoshop. [createRadialGradient(x0, y0, r0, x1, y1, r1)](create-radial-gradient.md).
+- Open when looking up fill(pathOrFillRule) in Photoshop. [fill(pathOrFillRule)](fill.md).
+- Open when looking up fillRect(x, y, width, height) in Photoshop. [fillRect(x, y, width, height)](fill-rect.md).
+- Open when looking up fillStyle : string \| CanvasGradient in Photoshop. [fillStyle : string \| CanvasGradient](fill-style-string-canvas-gradient.md).
+- Open when looking up globalAlpha : number in Photoshop. [globalAlpha : number](global-alpha-number.md).
+- Open when looking up lineCap : string in Photoshop. [lineCap : string](line-cap-string.md).
+- Open when looking up lineJoin : string in Photoshop. [lineJoin : string](line-join-string.md).
+- Open when looking up lineTo(x, y) in Photoshop. [lineTo(x, y)](line-to.md).
+- Open when looking up lineWidth : number in Photoshop. [lineWidth : number](line-width-number.md).
+- Open when looking up moveTo(x, y) in Photoshop. [moveTo(x, y)](move-to.md).
+- Open when looking up quadraticCurveTo(cpx, cpy, x, y) in Photoshop. [quadraticCurveTo(cpx, cpy, x, y)](quadratic-curve-to.md).
+- Open when looking up rect(x, y, width, height) in Photoshop. [rect(x, y, width, height)](rect.md).
+- Open when looking up stroke(path) in Photoshop. [stroke(path)](stroke.md).
+- Open when looking up strokeRect(x, y, width, height) in Photoshop. [strokeRect(x, y, width, height)](stroke-rect.md).
+- Open when looking up strokeStyle : string in Photoshop. [strokeStyle : string](stroke-style-string.md).
+- Open when looking up window.CanvasRenderingContext2D in Photoshop. [window.CanvasRenderingContext2D](overview.md).

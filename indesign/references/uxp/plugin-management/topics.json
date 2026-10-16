@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Adding an existing plugin", "file": "references/uxp/plugin-management/adding-an-existing-plugin.md", "summary": "Open when looking up Adding an existing plugin in InDesign.", "keywords": ["Adding an existing plugin"]},
+  {"topic": "Creating a new plugin", "file": "references/uxp/plugin-management/creating-a-new-plugin.md", "summary": "Open when looking up Creating a new plugin in InDesign.", "keywords": ["Creating a new plugin"]},
+  {"topic": "Removing a plugin", "file": "references/uxp/plugin-management/removing-a-plugin.md", "summary": "Open when looking up Removing a plugin in InDesign.", "keywords": ["Removing a plugin"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

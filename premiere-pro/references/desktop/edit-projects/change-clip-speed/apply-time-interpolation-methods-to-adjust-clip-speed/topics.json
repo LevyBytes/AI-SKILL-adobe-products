@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Frame Blending", "file": "references/desktop/edit-projects/change-clip-speed/apply-time-interpolation-methods-to-adjust-clip-speed/frame-blending.md", "summary": "Open when looking up Frame Blending in Premiere Pro.", "keywords": ["Frame Blending"]},
+  {"topic": "Frame Sampling", "file": "references/desktop/edit-projects/change-clip-speed/apply-time-interpolation-methods-to-adjust-clip-speed/frame-sampling.md", "summary": "Open when looking up Frame Sampling in Premiere Pro.", "keywords": ["Frame Sampling"]},
+  {"topic": "Optical Flow", "file": "references/desktop/edit-projects/change-clip-speed/apply-time-interpolation-methods-to-adjust-clip-speed/optical-flow.md", "summary": "Open when looking up Optical Flow in Premiere Pro.", "keywords": ["Optical Flow"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

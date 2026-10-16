@@ -1,0 +1,17 @@
+# 3d Layer Match Names — Materials
+
+| Match Name | Display Name (EN) |
+| --- | --- |
+| ADBE Material Options Group | Material Options |
+| ADBE Light Transmission | Light Transmission |
+| ADBE Ambient Coefficient | Ambient |
+| ADBE Diffuse Coefficient | Diffuse |
+| ADBE Specular Coefficient | Specular Intensity |
+| ADBE Shininess Coefficient | Specular Shininess |
+| ADBE Metal Coefficient | Metal |
+| ADBE Reflection Coefficient | Reflection Intensity |
+| ADBE Glossiness Coefficient | Reflection Sharpness |
+| ADBE Fresnel Coefficient | Reflection Rolloff |
+| ADBE Transparency Coefficient | Transparency |
+| ADBE Transp Rolloff | Transparency Rolloff |
+| ADBE Index of Refraction | Index of Refraction |

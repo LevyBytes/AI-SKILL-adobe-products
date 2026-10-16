@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ABSOLUTE", "file": "references/document-model/page-numbering-options/absolute.md", "summary": "Open when looking up ABSOLUTE in InDesign.", "keywords": ["ABSOLUTE"]},
+  {"topic": "SECTION", "file": "references/document-model/page-numbering-options/section.md", "summary": "Open when looking up SECTION in InDesign.", "keywords": ["SECTION"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

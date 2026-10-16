@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ContactSheetOptions", "file": "references/community-types/photoshop/contact-sheet-options.md", "summary": "Open when looking up ContactSheetOptions in Shared Adobe platform.", "keywords": ["ContactSheetOptions"]},
+  {"topic": "PicturePackageOptions", "file": "references/community-types/photoshop/picture-package-options.md", "summary": "Open when looking up PicturePackageOptions in Shared Adobe platform.", "keywords": ["PicturePackageOptions"]},
+  {"topic": "PicturePackageTextType", "file": "references/community-types/photoshop/picture-package-text-type.md", "summary": "Open when looking up PicturePackageTextType in Shared Adobe platform.", "keywords": ["PicturePackageTextType"]},
+  {"topic": "PresentationOptions", "file": "references/community-types/photoshop/presentation-options.md", "summary": "Open when looking up PresentationOptions in Shared Adobe platform.", "keywords": ["PresentationOptions"]},
+  {"topic": "TransitionType references", "file": "references/community-types/photoshop/transition-type/reference-index.md", "summary": "Open when looking up TransitionType in Shared Adobe platform.", "keywords": ["TransitionType references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Document.documentColorSpace", "file": "references/scripting/document/document-color-space.md", "summary": "Open when looking up Document.documentColorSpace in Illustrator.", "keywords": ["Document.documentColorSpace"]},
+  {"topic": "Document.exportFile()", "file": "references/scripting/document/export-file.md", "summary": "Open when looking up Document.exportFile() in Illustrator.", "keywords": ["Document.exportFile()"]},
+  {"topic": "Document.exportPDFPreset()", "file": "references/scripting/document/export-pdf-preset.md", "summary": "Open when looking up Document.exportPDFPreset() in Illustrator.", "keywords": ["Document.exportPDFPreset()"]},
+  {"topic": "Document.exportPrintPreset()", "file": "references/scripting/document/export-print-preset.md", "summary": "Open when looking up Document.exportPrintPreset() in Illustrator.", "keywords": ["Document.exportPrintPreset()"]},
+  {"topic": "Document.importPDFPreset()", "file": "references/scripting/document/import-pdf-preset.md", "summary": "Open when looking up Document.importPDFPreset() in Illustrator.", "keywords": ["Document.importPDFPreset()"]},
+  {"topic": "Document.importPrintPreset()", "file": "references/scripting/document/import-print-preset.md", "summary": "Open when looking up Document.importPrintPreset() in Illustrator.", "keywords": ["Document.importPrintPreset()"]},
+  {"topic": "Document.outputResolution", "file": "references/scripting/document/output-resolution.md", "summary": "Open when looking up Document.outputResolution in Illustrator.", "keywords": ["Document.outputResolution"]},
+  {"topic": "Document.print()", "file": "references/scripting/document/print.md", "summary": "Open when looking up Document.print() in Illustrator.", "keywords": ["Document.print()"]},
+  {"topic": "Document.printTiles", "file": "references/scripting/document/print-tiles.md", "summary": "Open when looking up Document.printTiles in Illustrator.", "keywords": ["Document.printTiles"]},
+  {"topic": "Document.splitLongPaths", "file": "references/scripting/document/split-long-paths.md", "summary": "Open when looking up Document.splitLongPaths in Illustrator.", "keywords": ["Document.splitLongPaths"]},
+  {"topic": "Document.tileFullPages", "file": "references/scripting/document/tile-full-pages.md", "summary": "Open when looking up Document.tileFullPages in Illustrator.", "keywords": ["Document.tileFullPages"]},
+  {"topic": "Document.useDefaultScreen", "file": "references/scripting/document/use-default-screen.md", "summary": "Open when looking up Document.useDefaultScreen in Illustrator.", "keywords": ["Document.useDefaultScreen"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

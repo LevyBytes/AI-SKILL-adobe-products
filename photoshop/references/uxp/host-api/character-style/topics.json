@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "reset", "file": "references/uxp/host-api/character-style/reset.md", "summary": "Open when looking up reset in Photoshop.", "keywords": ["reset"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

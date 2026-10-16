@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Troubleshooting references", "file": "references/desktop/troubleshooting/reference-index.md", "summary": "Open when looking up Troubleshooting in Premiere Pro.", "keywords": ["Troubleshooting references"]},
+  {"topic": "Known and fixed issues in adobe premiere references", "file": "references/desktop/known-and-fixed-issues-in-adobe-premiere/reference-index.md", "summary": "Open when looking up Known and fixed issues in adobe premiere in Premiere Pro.", "keywords": ["Known and fixed issues in adobe premiere references"]},
+  {"topic": "Common issues in premiere on apple silicon macs references", "file": "references/desktop/common-issues-in-premiere-on-apple-silicon-macs/reference-index.md", "summary": "Open when looking up Common issues in premiere on apple silicon macs in Premiere Pro.", "keywords": ["Common issues in premiere on apple silicon macs references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

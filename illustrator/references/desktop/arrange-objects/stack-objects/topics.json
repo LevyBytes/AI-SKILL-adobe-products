@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Add new objects in the stacking order", "file": "references/desktop/arrange-objects/stack-objects/add-new-objects-in-the-stacking-order.md", "summary": "Open when looking up Add new objects in the stacking order in Illustrator.", "keywords": ["Add new objects in the stacking order"]},
+  {"topic": "Change the stacking order using Arrange options", "file": "references/desktop/arrange-objects/stack-objects/change-the-stacking-order-using-arrange-options.md", "summary": "Open when looking up Change the stacking order using Arrange options in Illustrator.", "keywords": ["Change the stacking order using Arrange options"]},
+  {"topic": "Change the stacking order using the Layers panel", "file": "references/desktop/arrange-objects/stack-objects/change-the-stacking-order-using-the-layers-panel.md", "summary": "Open when looking up Change the stacking order using the Layers panel in Illustrator.", "keywords": ["Change the stacking order using the Layers panel"]},
+  {"topic": "Use Draw Behind mode", "file": "references/desktop/arrange-objects/stack-objects/use-draw-behind-mode.md", "summary": "Open when looking up Use Draw Behind mode in Illustrator.", "keywords": ["Use Draw Behind mode"]},
+  {"topic": "Use Draw Normal mode", "file": "references/desktop/arrange-objects/stack-objects/use-draw-normal-mode.md", "summary": "Open when looking up Use Draw Normal mode in Illustrator.", "keywords": ["Use Draw Normal mode"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

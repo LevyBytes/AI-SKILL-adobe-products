@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Edit workspaces", "file": "references/desktop/get-started/workflows-workspaces-and-panels/manage-workspaces/edit-workspaces.md", "summary": "Open when looking up Edit workspaces in Premiere Pro.", "keywords": ["Edit workspaces"]},
+  {"topic": "Reorder, hide, and delete workspaces", "file": "references/desktop/get-started/workflows-workspaces-and-panels/manage-workspaces/reorder-hide-and-delete-workspaces.md", "summary": "Open when looking up Reorder, hide, and delete workspaces in Premiere Pro.", "keywords": ["Reorder, hide, and delete workspaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

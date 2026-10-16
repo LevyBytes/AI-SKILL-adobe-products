@@ -1,0 +1,24 @@
+# Shared Adobe platform — Container attributes
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up alignChildren in Shared Adobe platform. [alignChildren](align-children.md).
+- Open when looking up alignment in Shared Adobe platform. [alignment](alignment.md).
+- Open when looking up bounds in Shared Adobe platform. [bounds](bounds.md).
+- Open when looking up children in Shared Adobe platform. [children](children.md).
+- Open when looking up graphics in Shared Adobe platform. [graphics](graphics.md).
+- Open when looking up layout in Shared Adobe platform. [layout](layout.md).
+- Open when looking up location in Shared Adobe platform. [location](location.md).
+- Open when looking up margins in Shared Adobe platform. [margins](margins.md).
+- Open when looking up maximumSize in Shared Adobe platform. [maximumSize](maximum-size.md).
+- Open when looking up minimumSize in Shared Adobe platform. [minimumSize](minimum-size.md).
+- Open when looking up orientation in Shared Adobe platform. [orientation](orientation.md).
+- Open when looking up parent in Shared Adobe platform. [parent](parent.md).
+- Open when looking up preferredSize in Shared Adobe platform. [preferredSize](preferred-size.md).
+- Open when looking up selection in Shared Adobe platform. [selection](selection.md).
+- Open when looking up size in Shared Adobe platform. [size](size.md).
+- Open when looking up spacing in Shared Adobe platform. [spacing](spacing.md).
+- Open when looking up text in Shared Adobe platform. [text](text.md).
+- Open when looking up visible in Shared Adobe platform. [visible](visible.md).
+- Open when looking up window in Shared Adobe platform. [window](window.md).
+- Open when looking up Window object — Container Attributes in Shared Adobe platform. [Window object — Container Attributes](window-object-container-attributes.md).
+- Open when looking up windowBounds in Shared Adobe platform. [windowBounds](window-bounds.md).

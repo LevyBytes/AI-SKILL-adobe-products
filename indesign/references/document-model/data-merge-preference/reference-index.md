@@ -1,0 +1,25 @@
+# InDesign — DataMergePreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up alertMissingImages in InDesign. [alertMissingImages](alert-missing-images.md).
+- Open when looking up arrangeBy in InDesign. [arrangeBy](arrange-by.md).
+- Open when looking up bottomMargin in InDesign. [bottomMargin](bottom-margin.md).
+- Open when looking up columnSpacing in InDesign. [columnSpacing](column-spacing.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up leftMargin in InDesign. [leftMargin](left-margin.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up recordNumber in InDesign. [recordNumber](record-number.md).
+- Open when looking up recordRange in InDesign. [recordRange](record-range.md).
+- Open when looking up recordSelection in InDesign. [recordSelection](record-selection.md).
+- Open when looking up recordsPerPage in InDesign. [recordsPerPage](records-per-page.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up rightMargin in InDesign. [rightMargin](right-margin.md).
+- Open when looking up rowSpacing in InDesign. [rowSpacing](row-spacing.md).
+- Open when looking up topMargin in InDesign. [topMargin](top-margin.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

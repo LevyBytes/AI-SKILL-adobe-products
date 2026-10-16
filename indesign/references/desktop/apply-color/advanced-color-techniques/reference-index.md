@@ -1,0 +1,27 @@
+# InDesign — Advanced color techniques
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Apply blending modes in InDesign. [Apply blending modes](apply-blending-modes.md).
+- Open when looking up Apply flattener presets for output in InDesign. [Apply flattener presets for output](apply-flattener-presets-for-output.md).
+- Open when looking up Apply flattener presets for output in InDesign. [Apply flattener presets for output references](apply-flattener-presets-for-output/reference-index.md).
+- Open when looking up Apply opacity and transparency effects in InDesign. [Apply opacity and transparency effects](apply-opacity-and-transparency-effects.md).
+- Open when looking up Apply opacity and transparency effects in InDesign. [Apply opacity and transparency effects references](apply-opacity-and-transparency-effects/reference-index.md).
+- Open when looking up Blending mode options in InDesign. [Blending mode options](blending-mode-options.md).
+- Open when looking up Change transparency display settings in InDesign. [Change transparency display settings](change-transparency-display-settings.md).
+- Open when looking up Change transparency display settings in InDesign. [Change transparency display settings references](transparency-display/reference-index.md).
+- Open when looking up Control blending with isolation and knockouts in InDesign. [Control blending with isolation and knockouts](control-blending-with-isolation-and-knockouts.md).
+- Open when looking up Control blending with isolation and knockouts in InDesign. [Control blending with isolation and knockouts references](control-blending-with-isolation-and-knockouts/reference-index.md).
+- Open when looking up Create and name gradient swatches in InDesign. [Create and name gradient swatches](create-and-name-gradient-swatches.md).
+- Open when looking up Create and name gradient swatches in InDesign. [Create and name gradient swatches references](create-and-name-gradient-swatches/reference-index.md).
+- Open when looking up Create custom transparency flattener presets in InDesign. [Create custom transparency flattener presets](create-custom-transparency-flattener-presets.md).
+- Open when looking up Create custom transparency flattener presets in InDesign. [Create custom transparency flattener presets references](create-custom-transparency-flattener-presets/reference-index.md).
+- Open when looking up Fix transparency flattener preview in InDesign. [Fix transparency flattener preview](fix-transparency-flattener-preview.md).
+- Open when looking up Fix transparency flattener preview in InDesign. [Fix transparency flattener preview references](fix-transparency-flattener-preview/reference-index.md).
+- Open when looking up Modify and adjust gradients in InDesign. [Modify and adjust gradients](modify-and-adjust-gradients.md).
+- Open when looking up Modify and adjust gradients in InDesign. [Modify and adjust gradients references](modify-and-adjust-gradients/reference-index.md).
+- Open when looking up Transparency effects options and settings in InDesign. [Transparency effects options and settings](transparency-effects-options-and-settings.md).
+- Open when looking up Transparency effects options and settings in InDesign. [Transparency effects options and settings references](transparency-effects-options-and-settings/reference-index.md).
+- Open when looking up Transparency Flattener preset options in InDesign. [Transparency Flattener preset options](transparency-flattener-preset-options.md).
+- Open when looking up Transparency Flattener preset options in InDesign. [Transparency Flattener preset options references](transparency-flattener-preset-options/reference-index.md).
+- Open when looking up Transparency flattening overview in InDesign. [Transparency flattening overview](transparency-flattening-overview.md).
+- Open when looking up Transparency flattening overview in InDesign. [Transparency flattening overview references](transparency-flattening-overview/reference-index.md).

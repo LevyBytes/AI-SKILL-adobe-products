@@ -1,0 +1,65 @@
+# Shared Adobe platform — Page
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Page declaration in Shared Adobe platform. [Page declaration](declaration.md).
+- Open when looking up Page event listeners in Shared Adobe platform. [Page event listeners](event-listeners.md).
+- Open when looking up Page identity and parent in Shared Adobe platform. [Page identity and parent](identity-and-parent.md).
+- Open when looking up Page labels and metadata in Shared Adobe platform. [Page labels and metadata](labels-and-metadata.md).
+- Open when looking up Page object lifecycle in Shared Adobe platform. [Page object lifecycle](object-lifecycle.md).
+- Open when looking up Page object resolution in Shared Adobe platform. [Page object resolution](object-resolution.md).
+- Open when looking up Page.adjustLayout in Shared Adobe platform. [Page.adjustLayout](adjust-layout.md).
+- Open when looking up Page.allGraphics in Shared Adobe platform. [Page.allGraphics](all-graphics.md).
+- Open when looking up Page.allPageItems in Shared Adobe platform. [Page.allPageItems](all-page-items.md).
+- Open when looking up Page.appliedAlternateLayout in Shared Adobe platform. [Page.appliedAlternateLayout](applied-alternate-layout.md).
+- Open when looking up Page.appliedMaster in Shared Adobe platform. [Page.appliedMaster](applied-master.md).
+- Open when looking up Page.appliedSection in Shared Adobe platform. [Page.appliedSection](applied-section.md).
+- Open when looking up Page.appliedTrapPreset in Shared Adobe platform. [Page.appliedTrapPreset](applied-trap-preset.md).
+- Open when looking up Page.bounds in Shared Adobe platform. [Page.bounds](bounds.md).
+- Open when looking up Page.buttons in Shared Adobe platform. [Page.buttons](buttons.md).
+- Open when looking up Page.checkBoxes in Shared Adobe platform. [Page.checkBoxes](check-boxes.md).
+- Open when looking up Page.comboBoxes in Shared Adobe platform. [Page.comboBoxes](combo-boxes.md).
+- Open when looking up Page.contentPlace in Shared Adobe platform. [Page.contentPlace](content-place.md).
+- Open when looking up Page.deleteAllLayoutSnapshots in Shared Adobe platform. [Page.deleteAllLayoutSnapshots](delete-all-layout-snapshots.md).
+- Open when looking up Page.deleteLayoutSnapshot in Shared Adobe platform. [Page.deleteLayoutSnapshot](delete-layout-snapshot.md).
+- Open when looking up Page.detach in Shared Adobe platform. [Page.detach](detach.md).
+- Open when looking up Page.documentOffset in Shared Adobe platform. [Page.documentOffset](document-offset.md).
+- Open when looking up Page.epstexts in Shared Adobe platform. [Page.epstexts](epstexts.md).
+- Open when looking up Page.formFields in Shared Adobe platform. [Page.formFields](form-fields.md).
+- Open when looking up Page.graphicLines in Shared Adobe platform. [Page.graphicLines](graphic-lines.md).
+- Open when looking up Page.gridData in Shared Adobe platform. [Page.gridData](grid-data.md).
+- Open when looking up Page.groups in Shared Adobe platform. [Page.groups](groups.md).
+- Open when looking up Page.guides in Shared Adobe platform. [Page.guides](guides.md).
+- Open when looking up Page.layoutRule in Shared Adobe platform. [Page.layoutRule](layout-rule.md).
+- Open when looking up Page.listBoxes in Shared Adobe platform. [Page.listBoxes](list-boxes.md).
+- Open when looking up Page.marginPreferences in Shared Adobe platform. [Page.marginPreferences](margin-preferences.md).
+- Open when looking up Page.masterPageItems in Shared Adobe platform. [Page.masterPageItems](master-page-items.md).
+- Open when looking up Page.masterPageTransform in Shared Adobe platform. [Page.masterPageTransform](master-page-transform.md).
+- Open when looking up Page.multiStateObjects in Shared Adobe platform. [Page.multiStateObjects](multi-state-objects.md).
+- Open when looking up Page.optionalPage in Shared Adobe platform. [Page.optionalPage](optional-page.md).
+- Open when looking up Page.ovals in Shared Adobe platform. [Page.ovals](ovals.md).
+- Open when looking up Page.pageColor in Shared Adobe platform. [Page.pageColor](page-color.md).
+- Open when looking up Page.pageItems in Shared Adobe platform. [Page.pageItems](page-items.md).
+- Open when looking up Page.place in Shared Adobe platform. [Page.place](place.md).
+- Open when looking up Page.placeAndLink in Shared Adobe platform. [Page.placeAndLink](place-and-link.md).
+- Open when looking up Page.placeXML in Shared Adobe platform. [Page.placeXML](place-xml.md).
+- Open when looking up Page.polygons in Shared Adobe platform. [Page.polygons](polygons.md).
+- Open when looking up Page.preferences in Shared Adobe platform. [Page.preferences](preferences.md).
+- Open when looking up Page.properties in Shared Adobe platform. [Page.properties](properties.md).
+- Open when looking up Page.radioButtons in Shared Adobe platform. [Page.radioButtons](radio-buttons.md).
+- Open when looking up Page.rectangles in Shared Adobe platform. [Page.rectangles](rectangles.md).
+- Open when looking up Page.reframe in Shared Adobe platform. [Page.reframe](reframe.md).
+- Open when looking up Page.removeOverride in Shared Adobe platform. [Page.removeOverride](remove-override.md).
+- Open when looking up Page.resize in Shared Adobe platform. [Page.resize](resize.md).
+- Open when looking up Page.resolve in Shared Adobe platform. [Page.resolve](resolve.md).
+- Open when looking up Page.select in Shared Adobe platform. [Page.select](select.md).
+- Open when looking up Page.setContent in Shared Adobe platform. [Page.setContent](set-content.md).
+- Open when looking up Page.side in Shared Adobe platform. [Page.side](side.md).
+- Open when looking up Page.signatureFields in Shared Adobe platform. [Page.signatureFields](signature-fields.md).
+- Open when looking up Page.snapshotBlendingMode in Shared Adobe platform. [Page.snapshotBlendingMode](snapshot-blending-mode.md).
+- Open when looking up Page.snapshotCurrentLayout in Shared Adobe platform. [Page.snapshotCurrentLayout](snapshot-current-layout.md).
+- Open when looking up Page.splineItems in Shared Adobe platform. [Page.splineItems](spline-items.md).
+- Open when looking up Page.tabOrder in Shared Adobe platform. [Page.tabOrder](tab-order.md).
+- Open when looking up Page.textBoxes in Shared Adobe platform. [Page.textBoxes](text-boxes.md).
+- Open when looking up Page.textFrames in Shared Adobe platform. [Page.textFrames](text-frames.md).
+- Open when looking up Page.transform in Shared Adobe platform. [Page.transform](transform.md).
+- Open when looking up Page.transformValuesOf in Shared Adobe platform. [Page.transformValuesOf](transform-values-of.md).

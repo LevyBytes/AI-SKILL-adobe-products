@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Code Editor", "file": "references/uxp/essential-development-tools-for-uxp/code-editor.md", "summary": "Open when looking up Code Editor in Premiere Pro.", "keywords": ["Code Editor"]},
+  {"topic": "First launch", "file": "references/uxp/essential-development-tools-for-uxp/first-launch.md", "summary": "Open when looking up First launch in Premiere Pro.", "keywords": ["First launch"]},
+  {"topic": "Installation", "file": "references/uxp/essential-development-tools-for-uxp/installation.md", "summary": "Open when looking up Installation in Premiere Pro.", "keywords": ["Installation"]},
+  {"topic": "UXP Developer Tool (UDT)", "file": "references/uxp/essential-development-tools-for-uxp/uxp-developer-tool-udt.md", "summary": "Open when looking up UXP Developer Tool (UDT) in Premiere Pro.", "keywords": ["UXP Developer Tool (UDT)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

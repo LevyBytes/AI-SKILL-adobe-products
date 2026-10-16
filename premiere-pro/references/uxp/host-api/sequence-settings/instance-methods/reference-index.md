@@ -1,0 +1,33 @@
+# Premiere Pro — Instance methods
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up getAudioChannelCount in Premiere Pro. [getAudioChannelCount](get-audio-channel-count.md).
+- Open when looking up getAudioChannelType in Premiere Pro. [getAudioChannelType](get-audio-channel-type.md).
+- Open when looking up getAudioDisplayFormat in Premiere Pro. [getAudioDisplayFormat](get-audio-display-format.md).
+- Open when looking up getAudioSampleRate in Premiere Pro. [getAudioSampleRate](get-audio-sample-rate.md).
+- Open when looking up getCompositeInLinearColor in Premiere Pro. [getCompositeInLinearColor](get-composite-in-linear-color.md).
+- Open when looking up getEditingMode in Premiere Pro. [getEditingMode](get-editing-mode.md).
+- Open when looking up getMaximumBitDepth in Premiere Pro. [getMaximumBitDepth](get-maximum-bit-depth.md).
+- Open when looking up getMaxRenderQuality in Premiere Pro. [getMaxRenderQuality](get-max-render-quality.md).
+- Open when looking up getPreviewCodec in Premiere Pro. [getPreviewCodec](get-preview-codec.md).
+- Open when looking up getPreviewFileFormat in Premiere Pro. [getPreviewFileFormat](get-preview-file-format.md).
+- Open when looking up getPreviewFrameRect in Premiere Pro. [getPreviewFrameRect](get-preview-frame-rect.md).
+- Open when looking up getVideoDisplayFormat in Premiere Pro. [getVideoDisplayFormat](get-video-display-format.md).
+- Open when looking up getVideoFieldType in Premiere Pro. [getVideoFieldType](get-video-field-type.md).
+- Open when looking up getVideoFrameRate in Premiere Pro. [getVideoFrameRate](get-video-frame-rate.md).
+- Open when looking up getVideoFrameRect in Premiere Pro. [getVideoFrameRect](get-video-frame-rect.md).
+- Open when looking up getVideoPixelAspectRatio in Premiere Pro. [getVideoPixelAspectRatio](get-video-pixel-aspect-ratio.md).
+- Open when looking up setAudioDisplayFormat in Premiere Pro. [setAudioDisplayFormat](set-audio-display-format.md).
+- Open when looking up setAudioSampleRate in Premiere Pro. [setAudioSampleRate](set-audio-sample-rate.md).
+- Open when looking up setCompositeInLinearColor in Premiere Pro. [setCompositeInLinearColor](set-composite-in-linear-color.md).
+- Open when looking up setEditingMode in Premiere Pro. [setEditingMode](set-editing-mode.md).
+- Open when looking up setMaximumBitDepth in Premiere Pro. [setMaximumBitDepth](set-maximum-bit-depth.md).
+- Open when looking up setMaxRenderQuality in Premiere Pro. [setMaxRenderQuality](set-max-render-quality.md).
+- Open when looking up setPreviewCodec in Premiere Pro. [setPreviewCodec](set-preview-codec.md).
+- Open when looking up setPreviewFileFormat in Premiere Pro. [setPreviewFileFormat](set-preview-file-format.md).
+- Open when looking up setPreviewFrameRect in Premiere Pro. [setPreviewFrameRect](set-preview-frame-rect.md).
+- Open when looking up setVideoDisplayFormat in Premiere Pro. [setVideoDisplayFormat](set-video-display-format.md).
+- Open when looking up setVideoFieldType in Premiere Pro. [setVideoFieldType](set-video-field-type.md).
+- Open when looking up setVideoFrameRate in Premiere Pro. [setVideoFrameRate](set-video-frame-rate.md).
+- Open when looking up setVideoFrameRect in Premiere Pro. [setVideoFrameRect](set-video-frame-rect.md).
+- Open when looking up setVideoPixelAspectRatio in Premiere Pro. [setVideoPixelAspectRatio](set-video-pixel-aspect-ratio.md).

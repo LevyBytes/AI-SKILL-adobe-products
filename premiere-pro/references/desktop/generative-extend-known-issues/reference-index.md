@@ -1,0 +1,23 @@
+# Premiere Pro — Generative extend known issues
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up After Effects composition replacement unsupported in Premiere Pro. [After Effects composition replacement unsupported](after-effects-composition-replacement-unsupported.md).
+- Open when looking up Edit in Audition unsupported in Premiere Pro. [Edit in Audition unsupported](edit-in-audition-unsupported.md).
+- Open when looking up Exchange formats require preparation in Premiere Pro. [Exchange formats require preparation](exchange-formats-require-preparation.md).
+- Open when looking up Generate Again creates new project items in Premiere Pro. [Generate Again creates new project items](generate-again-creates-new-project-items.md).
+- Open when looking up iPhone HDR clips unsupported in Premiere Pro. [iPhone HDR clips unsupported](i-phone-hdr-clips-unsupported.md).
+- Open when looking up Logging metadata not transferred in Premiere Pro. [Logging metadata not transferred](logging-metadata-not-transferred.md).
+- Open when looking up Markers not preserved in Premiere Pro. [Markers not preserved](markers-not-preserved.md).
+- Open when looking up Media Intelligence indexing excluded in Premiere Pro. [Media Intelligence indexing excluded](media-intelligence-indexing-excluded.md).
+- Open when looking up Modify clip properties unavailable in Premiere Pro. [Modify clip properties unavailable](modify-clip-properties-unavailable.md).
+- Open when looking up Multicam clips require flattening in Premiere Pro. [Multicam clips require flattening](multicam-clips-require-flattening.md).
+- Open when looking up Multichannel audio is not supported in Premiere Pro. [Multichannel audio is not supported](multichannel-audio-is-not-supported.md).
+- Open when looking up Music content unsupported in Premiere Pro. [Music content unsupported](music-content-unsupported.md).
+- Open when looking up Productions environment creates duplicates in Premiere Pro. [Productions environment creates duplicates](productions-environment-creates-duplicates.md).
+- Open when looking up Project Manager does not collect extensions in Premiere Pro. [Project Manager does not collect extensions](project-manager-does-not-collect-extensions.md).
+- Open when looking up Revert to Original unavailable in specific cases in Premiere Pro. [Revert to Original unavailable in specific cases](revert-to-original-unavailable-in-specific-cases.md).
+- Open when looking up Single-side extension limit in Premiere Pro. [Single-side extension limit](single-side-extension-limit.md).
+- Open when looking up Source clip color space not accessible in Premiere Pro. [Source clip color space not accessible](source-clip-color-space-not-accessible.md).
+- Open when looking up Speech to Text transcription is not supported in Premiere Pro. [Speech to Text transcription is not supported](speech-to-text-transcription-is-not-supported.md).
+- Open when looking up Speed adjustments not supported in Premiere Pro. [Speed adjustments not supported](speed-adjustments-not-supported.md).
+- Open when looking up Timecode reset to zero-based in Premiere Pro. [Timecode reset to zero-based](timecode-reset-to-zero-based.md).

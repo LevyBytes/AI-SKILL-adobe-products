@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "TextEditboxes collection iteration", "file": "references/community-types/indesign/text-editboxes/collection-iteration.md", "summary": "Open when looking up TextEditboxes collection iteration in Shared Adobe platform.", "keywords": ["TextEditboxes collection iteration"]},
+  {"topic": "TextEditboxes declaration", "file": "references/community-types/indesign/text-editboxes/declaration.md", "summary": "Open when looking up TextEditboxes declaration in Shared Adobe platform.", "keywords": ["TextEditboxes declaration"]},
+  {"topic": "TextEditboxes named and indexed items", "file": "references/community-types/indesign/text-editboxes/named-and-indexed-items.md", "summary": "Open when looking up TextEditboxes named and indexed items in Shared Adobe platform.", "keywords": ["TextEditboxes named and indexed items"]},
+  {"topic": "TextEditboxes.add", "file": "references/community-types/indesign/text-editboxes/add.md", "summary": "Open when looking up TextEditboxes.add in Shared Adobe platform.", "keywords": ["TextEditboxes.add"]},
+  {"topic": "TextEditboxes.count", "file": "references/community-types/indesign/text-editboxes/count.md", "summary": "Open when looking up TextEditboxes.count in Shared Adobe platform.", "keywords": ["TextEditboxes.count"]},
+  {"topic": "TextEditboxes.IndexSignature", "file": "references/community-types/indesign/text-editboxes/index-signature.md", "summary": "Open when looking up TextEditboxes.IndexSignature in Shared Adobe platform.", "keywords": ["TextEditboxes.IndexSignature"]},
+  {"topic": "TextEditboxes.itemByRange", "file": "references/community-types/indesign/text-editboxes/item-by-range.md", "summary": "Open when looking up TextEditboxes.itemByRange in Shared Adobe platform.", "keywords": ["TextEditboxes.itemByRange"]},
+  {"topic": "TextEditboxes.length", "file": "references/community-types/indesign/text-editboxes/length.md", "summary": "Open when looking up TextEditboxes.length in Shared Adobe platform.", "keywords": ["TextEditboxes.length"]},
+  {"topic": "TextEditboxes.toSource", "file": "references/community-types/indesign/text-editboxes/to-source.md", "summary": "Open when looking up TextEditboxes.toSource in Shared Adobe platform.", "keywords": ["TextEditboxes.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

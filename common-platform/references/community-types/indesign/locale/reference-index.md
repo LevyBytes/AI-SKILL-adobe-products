@@ -1,0 +1,28 @@
+# Shared Adobe platform — Locale
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Locale declaration in Shared Adobe platform. [Locale declaration](declaration.md).
+- Open when looking up Locale.ARABIC_LOCALE in Shared Adobe platform. [Locale.ARABIC_LOCALE](arabiclocale.md).
+- Open when looking up Locale.CZECH_LOCALE in Shared Adobe platform. [Locale.CZECH_LOCALE](czechlocale.md).
+- Open when looking up Locale.DANISH_LOCALE in Shared Adobe platform. [Locale.DANISH_LOCALE](danishlocale.md).
+- Open when looking up Locale.ENGLISH_LOCALE in Shared Adobe platform. [Locale.ENGLISH_LOCALE](englishlocale.md).
+- Open when looking up Locale.FINNISH_LOCALE in Shared Adobe platform. [Locale.FINNISH_LOCALE](finnishlocale.md).
+- Open when looking up Locale.FRENCH_LOCALE in Shared Adobe platform. [Locale.FRENCH_LOCALE](frenchlocale.md).
+- Open when looking up Locale.GERMAN_LOCALE in Shared Adobe platform. [Locale.GERMAN_LOCALE](germanlocale.md).
+- Open when looking up Locale.GREEK_LOCALE in Shared Adobe platform. [Locale.GREEK_LOCALE](greeklocale.md).
+- Open when looking up Locale.HEBREW_LOCALE in Shared Adobe platform. [Locale.HEBREW_LOCALE](hebrewlocale.md).
+- Open when looking up Locale.HUNGARIAN_LOCALE in Shared Adobe platform. [Locale.HUNGARIAN_LOCALE](hungarianlocale.md).
+- Open when looking up Locale.INTERNATIONAL_ENGLISH_LOCALE in Shared Adobe platform. [Locale.INTERNATIONAL_ENGLISH_LOCALE](internationalenglishlocale.md).
+- Open when looking up Locale.ITALIAN_LOCALE in Shared Adobe platform. [Locale.ITALIAN_LOCALE](italianlocale.md).
+- Open when looking up Locale.JAPANESE_LOCALE in Shared Adobe platform. [Locale.JAPANESE_LOCALE](japaneselocale.md).
+- Open when looking up Locale.KOREAN_LOCALE in Shared Adobe platform. [Locale.KOREAN_LOCALE](koreanlocale.md).
+- Open when looking up Locale.POLISH_LOCALE in Shared Adobe platform. [Locale.POLISH_LOCALE](polishlocale.md).
+- Open when looking up Locale.PORTUGUESE_LOCALE in Shared Adobe platform. [Locale.PORTUGUESE_LOCALE](portugueselocale.md).
+- Open when looking up Locale.ROMANIAN_LOCALE in Shared Adobe platform. [Locale.ROMANIAN_LOCALE](romanianlocale.md).
+- Open when looking up Locale.RUSSIAN_LOCALE in Shared Adobe platform. [Locale.RUSSIAN_LOCALE](russianlocale.md).
+- Open when looking up Locale.SIMPLIFIED_CHINESE_LOCALE in Shared Adobe platform. [Locale.SIMPLIFIED_CHINESE_LOCALE](simplifiedchineselocale.md).
+- Open when looking up Locale.SPANISH_LOCALE in Shared Adobe platform. [Locale.SPANISH_LOCALE](spanishlocale.md).
+- Open when looking up Locale.SWEDISH_LOCALE in Shared Adobe platform. [Locale.SWEDISH_LOCALE](swedishlocale.md).
+- Open when looking up Locale.TRADITIONAL_CHINESE_LOCALE in Shared Adobe platform. [Locale.TRADITIONAL_CHINESE_LOCALE](traditionalchineselocale.md).
+- Open when looking up Locale.TURKISH_LOCALE in Shared Adobe platform. [Locale.TURKISH_LOCALE](turkishlocale.md).
+- Open when looking up Locale.UKRAINIAN_LOCALE in Shared Adobe platform. [Locale.UKRAINIAN_LOCALE](ukrainianlocale.md).

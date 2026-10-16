@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Enable metadata field linking", "file": "references/desktop/organize-media/edit-metadata/link-clip-data-to-xmp-metadata/enable-metadata-field-linking.md", "summary": "Open when looking up Enable metadata field linking in Premiere Pro.", "keywords": ["Enable metadata field linking"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

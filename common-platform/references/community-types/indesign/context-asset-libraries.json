@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Asset references", "file": "references/community-types/indesign/asset/reference-index.md", "summary": "Open when looking up Asset in Shared Adobe platform.", "keywords": ["Asset references"]},
+  {"topic": "Assets references", "file": "references/community-types/indesign/assets/reference-index.md", "summary": "Open when looking up Assets in Shared Adobe platform.", "keywords": ["Assets references"]},
+  {"topic": "AssetType", "file": "references/community-types/indesign/asset-type.md", "summary": "Open when looking up AssetType in Shared Adobe platform.", "keywords": ["AssetType"]},
+  {"topic": "Libraries references", "file": "references/community-types/indesign/libraries/reference-index.md", "summary": "Open when looking up Libraries in Shared Adobe platform.", "keywords": ["Libraries references"]},
+  {"topic": "Library references", "file": "references/community-types/indesign/library/reference-index.md", "summary": "Open when looking up Library in Shared Adobe platform.", "keywords": ["Library references"]},
+  {"topic": "Snippet references", "file": "references/community-types/indesign/snippet/reference-index.md", "summary": "Open when looking up Snippet in Shared Adobe platform.", "keywords": ["Snippet references"]},
+  {"topic": "Snippets references", "file": "references/community-types/indesign/snippets/reference-index.md", "summary": "Open when looking up Snippets in Shared Adobe platform.", "keywords": ["Snippets references"]},
+  {"topic": "SortAssets", "file": "references/community-types/indesign/sort-assets.md", "summary": "Open when looking up SortAssets in Shared Adobe platform.", "keywords": ["SortAssets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

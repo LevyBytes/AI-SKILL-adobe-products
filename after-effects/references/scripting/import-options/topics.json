@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "ImportOptions object", "file": "references/scripting/import-options/import-options-object.md", "summary": "Open when looking up ImportOptions object in After Effects.", "keywords": ["ImportOptions object"]},
+  {"topic": "ImportOptions.canImportAs()", "file": "references/scripting/import-options/can-import-as.md", "summary": "Open when looking up ImportOptions.canImportAs() in After Effects.", "keywords": ["ImportOptions.canImportAs()"]},
+  {"topic": "ImportOptions.file", "file": "references/scripting/import-options/file.md", "summary": "Open when looking up ImportOptions.file in After Effects.", "keywords": ["ImportOptions.file"]},
+  {"topic": "ImportOptions.forceAlphabetical", "file": "references/scripting/import-options/force-alphabetical.md", "summary": "Open when looking up ImportOptions.forceAlphabetical in After Effects.", "keywords": ["ImportOptions.forceAlphabetical"]},
+  {"topic": "ImportOptions.importAs", "file": "references/scripting/import-options/import-as.md", "summary": "Open when looking up ImportOptions.importAs in After Effects.", "keywords": ["ImportOptions.importAs"]},
+  {"topic": "ImportOptions.isFileNameNumbered()", "file": "references/scripting/import-options/is-file-name-numbered.md", "summary": "Open when looking up ImportOptions.isFileNameNumbered() in After Effects.", "keywords": ["ImportOptions.isFileNameNumbered()"]},
+  {"topic": "ImportOptions.rangeEnd", "file": "references/scripting/import-options/range-end.md", "summary": "Open when looking up ImportOptions.rangeEnd in After Effects.", "keywords": ["ImportOptions.rangeEnd"]},
+  {"topic": "ImportOptions.rangeStart", "file": "references/scripting/import-options/range-start.md", "summary": "Open when looking up ImportOptions.rangeStart in After Effects.", "keywords": ["ImportOptions.rangeStart"]},
+  {"topic": "ImportOptions.sequence", "file": "references/scripting/import-options/sequence.md", "summary": "Open when looking up ImportOptions.sequence in After Effects.", "keywords": ["ImportOptions.sequence"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

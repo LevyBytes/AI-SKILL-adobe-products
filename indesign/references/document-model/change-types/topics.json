@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DELETED_TEXT", "file": "references/document-model/change-types/deletedtext.md", "summary": "Open when looking up DELETED_TEXT in InDesign.", "keywords": ["DELETED_TEXT"]},
+  {"topic": "INSERTED_TEXT", "file": "references/document-model/change-types/insertedtext.md", "summary": "Open when looking up INSERTED_TEXT in InDesign.", "keywords": ["INSERTED_TEXT"]},
+  {"topic": "MOVED_TEXT", "file": "references/document-model/change-types/movedtext.md", "summary": "Open when looking up MOVED_TEXT in InDesign.", "keywords": ["MOVED_TEXT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

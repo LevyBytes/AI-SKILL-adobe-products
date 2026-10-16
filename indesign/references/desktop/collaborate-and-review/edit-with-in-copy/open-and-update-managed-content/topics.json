@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Open shared content", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/open-and-update-managed-content/open-shared-content.md", "summary": "Open when looking up Open shared content in InDesign.", "keywords": ["Open shared content"]},
+  {"topic": "Update assignment files", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/open-and-update-managed-content/update-assignment-files.md", "summary": "Open when looking up Update assignment files in InDesign.", "keywords": ["Update assignment files"]},
+  {"topic": "Update content", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/open-and-update-managed-content/update-content.md", "summary": "Open when looking up Update content in InDesign.", "keywords": ["Update content"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

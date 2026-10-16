@@ -1,0 +1,23 @@
+# Firefly — Firefly video editor beta
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About Firefly video editor in Firefly. [About Firefly video editor](about-firefly-video-editor.md).
+- Open when looking up About Firefly video editor in Firefly. [About Firefly video editor references](about-firefly-video-editor/reference-index.md).
+- Open when looking up Add and organize media in Firefly. [Add and organize media](add-and-organize-media.md).
+- Open when looking up Add and organize media in Firefly. [Add and organize media references](add-and-organize-media/reference-index.md).
+- Open when looking up Create quick cut in Firefly. [Create quick cut](create-quick-cut.md).
+- Open when looking up Create quick cut in Firefly. [Create quick cut references](create-quick-cut/reference-index.md).
+- Open when looking up Finalize and export in Firefly. [Finalize and export](finalize-and-export.md).
+- Open when looking up Generate audio in Firefly. [Generate audio](generate-audio.md).
+- Open when looking up Generate audio in Firefly. [Generate audio references](generate-audio/reference-index.md).
+- Open when looking up Generate videos in Firefly. [Generate videos](generate-videos.md).
+- Open when looking up Generate videos in Firefly. [Generate videos references](generate-videos/reference-index.md).
+- Open when looking up Keyboard shortcuts in Firefly. [Keyboard shortcuts](keyboard-shortcuts.md).
+- Open when looking up Set up your project in Firefly. [Set up your project](set-up-your-project.md).
+- Open when looking up Set up your project in Firefly. [Set up your project references](set-up-your-project/reference-index.md).
+- Open when looking up Technical requirements in Firefly. [Technical requirements](technical-requirements.md).
+- Open when looking up Troubleshoot in Firefly. [Troubleshoot](troubleshoot.md).
+- Open when looking up Troubleshoot in Firefly. [Troubleshoot references](troubleshoot/reference-index.md).
+- Open when looking up Work with timeline in Firefly. [Work with timeline](work-with-timeline.md).
+- Open when looking up Work with timeline in Firefly. [Work with timeline references](work-with-timeline/reference-index.md).
+- Open when looking up Work with transcript in Firefly. [Work with transcript](work-with-transcript.md).

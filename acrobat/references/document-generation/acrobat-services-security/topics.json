@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Interacting with the API", "file": "references/document-generation/acrobat-services-security/interacting-with-the-api.md", "summary": "Open when looking up Interacting with the API in Acrobat.", "keywords": ["Interacting with the API"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

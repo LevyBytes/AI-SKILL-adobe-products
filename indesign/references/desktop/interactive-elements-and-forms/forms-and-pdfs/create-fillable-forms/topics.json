@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Add form fields to your document", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/create-fillable-forms/add-form-fields-to-your-document.md", "summary": "Open when looking up Add form fields to your document in InDesign.", "keywords": ["Add form fields to your document"]},
+  {"topic": "Customize form field appearance", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/create-fillable-forms/customize-form-field-appearance.md", "summary": "Open when looking up Customize form field appearance in InDesign.", "keywords": ["Customize form field appearance"]},
+  {"topic": "Set form field tab order", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/create-fillable-forms/set-form-field-tab-order.md", "summary": "Open when looking up Set form field tab order in InDesign.", "keywords": ["Set form field tab order"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Recolor using Color Library", "file": "references/desktop/manage-colors/modify-colors/recolor-artwork/recolor-using-color-library.md", "summary": "Open when looking up Recolor using Color Library in Illustrator.", "keywords": ["Recolor using Color Library"]},
+  {"topic": "Recolor using Color Theme Picker", "file": "references/desktop/manage-colors/modify-colors/recolor-artwork/recolor-using-color-theme-picker.md", "summary": "Open when looking up Recolor using Color Theme Picker in Illustrator.", "keywords": ["Recolor using Color Theme Picker"]},
+  {"topic": "Recolor using color wheel", "file": "references/desktop/manage-colors/modify-colors/recolor-artwork/recolor-using-color-wheel.md", "summary": "Open when looking up Recolor using color wheel in Illustrator.", "keywords": ["Recolor using color wheel"]},
+  {"topic": "Recolor using Generative Recolor", "file": "references/desktop/manage-colors/modify-colors/recolor-artwork/recolor-using-generative-recolor.md", "summary": "Open when looking up Recolor using Generative Recolor in Illustrator.", "keywords": ["Recolor using Generative Recolor"]},
+  {"topic": "Talk to us", "file": "references/desktop/manage-colors/modify-colors/recolor-artwork/talk-to-us.md", "summary": "Open when looking up Talk to us in Illustrator.", "keywords": ["Talk to us"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

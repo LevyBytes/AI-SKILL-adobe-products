@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Mapping V1 storage to destinations", "file": "references/cloud-services/create-artboard-v1-reference/destination-types-v2-new-capability/mapping-v1-storage-to-destinations.md", "summary": "Open when looking up Mapping V1 storage to destinations in Photoshop.", "keywords": ["Mapping V1 storage to destinations"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

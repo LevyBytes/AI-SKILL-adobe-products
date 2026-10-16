@@ -1,0 +1,75 @@
+# Acrobat — PDF Embed API
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Acrobat services security in Acrobat. [Acrobat services security references](acrobat-services-security/reference-index.md).
+- Open when looking up Analytics — Annotation events in Acrobat. [Analytics — Annotation events](analytics-annotation-events.md).
+- Open when looking up Analytics — Basic events in Acrobat. [Analytics — Basic events](analytics-basic-events.md).
+- Open when looking up Analytics — Control analytics collection in Acrobat. [Analytics — Control analytics collection](analytics-control-analytics-collection.md).
+- Open when looking up Analytics — Default analytics in Acrobat. [Analytics — Default analytics](analytics-default-analytics.md).
+- Open when looking up Analytics — Google Analytics in Acrobat. [Analytics — Google Analytics](analytics-google-analytics.md).
+- Open when looking up Analytics — Google Analytics in Acrobat. [Analytics — Google Analytics references](analytics-google-analytics/reference-index.md).
+- Open when looking up Annotation events in Acrobat. [Annotation events](annotation-events.md).
+- Open when looking up Annotation events in Acrobat. [Annotation events references](annotation-events/reference-index.md).
+- Open when looking up Annotation schema in Acrobat. [Annotation schema](annotation-schema.md).
+- Open when looking up Annotation schema in Acrobat. [Annotation schema references](annotation-schema/reference-index.md).
+- Open when looking up Annotations in Acrobat. [Annotations](annotations.md).
+- Open when looking up Annotations API overview in Acrobat. [Annotations API overview](annotations-api-overview.md).
+- Open when looking up Annotations interface in Acrobat. [Annotations interface](annotations-interface.md).
+- Open when looking up APIs to control UI configurations in Acrobat. [APIs to control UI configurations](apis-to-control-ui-configurations.md).
+- Open when looking up APIs to control UI configurations in Acrobat. [APIs to control UI configurations references](apis-to-control-ui-configurations/reference-index.md).
+- Open when looking up Basic APIs for commenting in Acrobat. [Basic APIs for commenting](basic-apis-for-commenting.md).
+- Open when looking up Basic APIs for commenting in Acrobat. [Basic APIs for commenting references](basic-apis-for-commenting/reference-index.md).
+- Open when looking up Callbacks & workflows in Acrobat. [Callbacks & workflows](callbacks-workflows.md).
+- Open when looking up Code Samples in Acrobat. [Code Samples](code-samples.md).
+- Open when looking up Commenting feature overview in Acrobat. [Commenting feature overview](commenting-feature-overview.md).
+- Open when looking up Commenting feature overview in Acrobat. [Commenting feature overview references](commenting-feature-overview/reference-index.md).
+- Open when looking up Configure Adobe Analytics in Acrobat. [Configure Adobe Analytics](configure-adobe-analytics.md).
+- Open when looking up Embed a PDF viewer in Acrobat. [Embed a PDF viewer](embed-a-pdf-viewer.md).
+- Open when looking up Embed modes in Acrobat. [Embed modes](embed-modes.md).
+- Open when looking up Embed modes in Acrobat. [Embed modes references](embed-modes/reference-index.md).
+- Open when looking up Examples in Acrobat. [Examples references](examples/reference-index.md).
+- Open when looking up Getting Started — Analytics in Acrobat. [Getting Started — Analytics](getting-started-analytics.md).
+- Open when looking up Getting Started — Copy it. Run it. in Acrobat. [Getting Started — Copy it. Run it.](getting-started-copy-it-run-it.md).
+- Open when looking up Getting Started — Feedback and forum in Acrobat. [Getting Started — Feedback and forum](getting-started-feedback-and-forum.md).
+- Open when looking up Getting Started — Live demo in Acrobat. [Getting Started — Live demo](getting-started-live-demo.md).
+- Open when looking up Getting Started — Mobile support in Acrobat. [Getting Started — Mobile support](getting-started-mobile-support.md).
+- Open when looking up Getting Started — Mobile support in Acrobat. [Getting Started — Mobile support references](getting-started-mobile-support/reference-index.md).
+- Open when looking up Getting Started — Run ready samples in Acrobat. [Getting Started — Run ready samples](getting-started-run-ready-samples.md).
+- Open when looking up Getting Started — Supported browsers in Acrobat. [Getting Started — Supported browsers](getting-started-supported-browsers.md).
+- Open when looking up Handle search engine indexing in Acrobat. [Handle search engine indexing](handle-search-engine-indexing.md).
+- Open when looking up Handle search engine indexing in Acrobat. [Handle search engine indexing references](handle-search-engine-indexing/reference-index.md).
+- Open when looking up Handling existing annotations in Acrobat. [Handling existing annotations](handling-existing-annotations.md).
+- Open when looking up Handling existing annotations in Acrobat. [Handling existing annotations references](handling-existing-annotations/reference-index.md).
+- Open when looking up Help, support, forum in Acrobat. [Help, support, forum](help-support-forum.md).
+- Open when looking up Howtodata in Acrobat. [Howtodata](howtodata.md).
+- Open when looking up Howtos in Acrobat. [Howtos](howtos.md).
+- Open when looking up Howtos Comments in Acrobat. [Howtos Comments](howtos-comments.md).
+- Open when looking up Howtos Ui in Acrobat. [Howtos Ui](howtos-ui.md).
+- Open when looking up Introduction — What are Acrobat Services APIs? in Acrobat. [Introduction — What are Acrobat Services APIs?](introduction-what-are-acrobat-services-apis.md).
+- Open when looking up Introduction — What are Acrobat Services APIs? in Acrobat. [Introduction — What are Acrobat Services APIs? references](introduction-what-are-acrobat-services-apis/reference-index.md).
+- Open when looking up Legacy to Modern Viewer in Acrobat. [Legacy to Modern Viewer](legacy-to-modern-viewer.md).
+- Open when looking up Legacy to Modern Viewer in Acrobat. [Legacy to Modern Viewer references](legacy-to-modern-viewer/reference-index.md).
+- Open when looking up Limits in Acrobat. [Limits](limits.md).
+- Open when looking up Mapping event attibutes in Acrobat. [Mapping event attibutes](mapping-event-attibutes.md).
+- Open when looking up Mapping events in Acrobat. [Mapping events](mapping-events.md).
+- Open when looking up Menu and tool options in Acrobat. [Menu and tool options](menu-and-tool-options.md).
+- Open when looking up Modernviewer in Acrobat. [Modernviewer](modernviewer.md).
+- Open when looking up Passing file content in Acrobat. [Passing file content](passing-file-content.md).
+- Open when looking up Passing file content in Acrobat. [Passing file content references](passing-file-content/reference-index.md).
+- Open when looking up Pdf Embed Api — Gettingstarted in Acrobat. [Pdf Embed Api — Gettingstarted](pdf-embed-api-gettingstarted.md).
+- Open when looking up PDF Linearization in Acrobat. [PDF Linearization](pdf-linearization.md).
+- Open when looking up PDF Linearization in Acrobat. [PDF Linearization references](pdf-linearization/reference-index.md).
+- Open when looking up Release Notes in Acrobat. [Release Notes](release-notes.md).
+- Open when looking up Release Notes in Acrobat. [Release Notes references](release-notes/reference-index.md).
+- Open when looking up Save a PDF in Acrobat. [Save a PDF](save-a-pdf.md).
+- Open when looking up Save a PDF in Acrobat. [Save a PDF references](save-a-pdf/reference-index.md).
+- Open when looking up Set up the PDF Viewer in Acrobat. [Set up the PDF Viewer](set-up-the-pdf-viewer.md).
+- Open when looking up Single line implementation in Acrobat. [Single line implementation](single-line-implementation.md).
+- Open when looking up Status callback in Acrobat. [Status callback](status-callback.md).
+- Open when looking up To allow byte-streaming and range support — Language support in Acrobat. [To allow byte-streaming and range support — Language support](to-allow-byte-streaming-and-range-support-language-support.md).
+- Open when looking up To allow byte-streaming and range support — Troubleshooting in Acrobat. [To allow byte-streaming and range support — Troubleshooting](to-allow-byte-streaming-and-range-support-troubleshooting.md).
+- Open when looking up User Profiles in Acrobat. [User Profiles](user-profiles.md).
+- Open when looking up User settings in Acrobat. [User settings](user-settings.md).
+- Open when looking up Viewer API in Acrobat. [Viewer API](viewer-api.md).
+- Open when looking up Viewer API in Acrobat. [Viewer API references](viewer-api/reference-index.md).
+- Open when looking up Viewing your data in Acrobat. [Viewing your data](viewing-your-data.md).

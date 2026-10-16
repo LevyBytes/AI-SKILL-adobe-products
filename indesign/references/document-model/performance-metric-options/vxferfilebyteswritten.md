@@ -1,0 +1,7 @@
+# VXFERFILEBYTESWRITTEN
+
+> _Read Only_
+>
+> Number **VXFERFILEBYTESWRITTEN** = 1447445111
+>
+> Tracks VXFerFileBytesWritten.

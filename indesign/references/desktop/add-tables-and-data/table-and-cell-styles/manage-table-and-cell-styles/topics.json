@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Clear table and cell formatting", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/manage-table-and-cell-styles/clear-table-and-cell-formatting.md", "summary": "Open when looking up Clear table and cell formatting in InDesign.", "keywords": ["Clear table and cell formatting"]},
+  {"topic": "Edit an existing style", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/manage-table-and-cell-styles/edit-an-existing-style.md", "summary": "Open when looking up Edit an existing style in InDesign.", "keywords": ["Edit an existing style"]},
+  {"topic": "Redefine a table and cell style", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/manage-table-and-cell-styles/redefine-a-table-and-cell-style.md", "summary": "Open when looking up Redefine a table and cell style in InDesign.", "keywords": ["Redefine a table and cell style"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

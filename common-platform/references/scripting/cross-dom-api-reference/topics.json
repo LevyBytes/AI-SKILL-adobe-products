@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Cross-DOM functions — Cross-DOM API reference", "file": "references/scripting/cross-dom-api-reference/cross-dom-functions-cross-dom-api-reference.md", "summary": "Open when looking up Cross-DOM functions — Cross-DOM API reference in Shared Adobe platform.", "keywords": ["Cross-DOM functions — Cross-DOM API reference"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,3 @@
+# Ingest, organize, and prepare media for broadcast editing
+
+Many broadcasters settle on specific capture formats and mezzanine codecs for post-production so their pipelines are predictable and can be tuned for those formats. Actual deliveries are less tidy, and media can arrive in almost any format. Landmark productions have asked for 25 fps and received 29.97 fps. 8 K rushes may arrive for an HD show, and a shooting ratio can run as much as 40% over plan, creating a large volume of material to sort, transcode, and prepare before editing. Adobe applications and third-party integrations help automate and simplify ingest so broadcasters can manage media more efficiently.

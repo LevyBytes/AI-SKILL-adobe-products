@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Action Events", "file": "references/uxp/event-codes/action-events.md", "summary": "Open when looking up Action Events in Photoshop.", "keywords": ["Action Events"]},
+  {"topic": "Artistic and rendering filter events", "file": "references/uxp/event-codes/artistic-filter-events.md", "summary": "Open when looking up Artistic and rendering filter events in Photoshop.", "keywords": ["Artistic and rendering filter events"]},
+  {"topic": "Blur, sharpening and cleanup events", "file": "references/uxp/event-codes/blur-sharpen-cleanup-events.md", "summary": "Open when looking up Blur, sharpening and cleanup events in Photoshop.", "keywords": ["Blur, sharpening and cleanup events"]},
+  {"topic": "Color adjustment events", "file": "references/uxp/event-codes/color-adjustment-events.md", "summary": "Open when looking up Color adjustment events in Photoshop.", "keywords": ["Color adjustment events"]},
+  {"topic": "Core Events", "file": "references/uxp/event-codes/core-events.md", "summary": "Open when looking up Core Events in Photoshop.", "keywords": ["Core Events"]},
+  {"topic": "Document and action-control events", "file": "references/uxp/event-codes/document-action-control-events.md", "summary": "Open when looking up Document and action-control events in Photoshop.", "keywords": ["Document and action-control events"]},
+  {"topic": "Geometry and transformation events", "file": "references/uxp/event-codes/geometry-transform-events.md", "summary": "Open when looking up Geometry and transformation events in Photoshop.", "keywords": ["Geometry and transformation events"]},
+  {"topic": "Layer, selection and editing events", "file": "references/uxp/event-codes/layer-selection-editing-events.md", "summary": "Open when looking up Layer, selection and editing events in Photoshop.", "keywords": ["Layer, selection and editing events"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

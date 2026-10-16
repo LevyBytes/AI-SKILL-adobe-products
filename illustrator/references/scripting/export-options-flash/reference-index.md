@@ -1,0 +1,29 @@
+# Illustrator — ExportOptionsFlash
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ExportOptionsFlash.artboardRange in Illustrator. [ExportOptionsFlash.artboardRange](artboard-range.md).
+- Open when looking up ExportOptionsFlash.artClipping in Illustrator. [ExportOptionsFlash.artClipping](art-clipping.md).
+- Open when looking up ExportOptionsFlash.backgroundColor in Illustrator. [ExportOptionsFlash.backgroundColor](background-color.md).
+- Open when looking up ExportOptionsFlash.backgroundLayers in Illustrator. [ExportOptionsFlash.backgroundLayers](background-layers.md).
+- Open when looking up ExportOptionsFlash.blendAnimation in Illustrator. [ExportOptionsFlash.blendAnimation](blend-animation.md).
+- Open when looking up ExportOptionsFlash.compressed in Illustrator. [ExportOptionsFlash.compressed](compressed.md).
+- Open when looking up ExportOptionsFlash.convertTextToOutlines in Illustrator. [ExportOptionsFlash.convertTextToOutlines](convert-text-to-outlines.md).
+- Open when looking up ExportOptionsFlash.curveQuality in Illustrator. [ExportOptionsFlash.curveQuality](curve-quality.md).
+- Open when looking up ExportOptionsFlash.exportAllSymbols in Illustrator. [ExportOptionsFlash.exportAllSymbols](export-all-symbols.md).
+- Open when looking up ExportOptionsFlash.exportStyle in Illustrator. [ExportOptionsFlash.exportStyle](export-style.md).
+- Open when looking up ExportOptionsFlash.exportVersion in Illustrator. [ExportOptionsFlash.exportVersion](export-version.md).
+- Open when looking up ExportOptionsFlash.frameRate in Illustrator. [ExportOptionsFlash.frameRate](frame-rate.md).
+- Open when looking up ExportOptionsFlash.ignoreTextKerning in Illustrator. [ExportOptionsFlash.ignoreTextKerning](ignore-text-kerning.md).
+- Open when looking up ExportOptionsFlash.imageFormat in Illustrator. [ExportOptionsFlash.imageFormat](image-format.md).
+- Open when looking up ExportOptionsFlash.includeMetadata in Illustrator. [ExportOptionsFlash.includeMetadata](include-metadata.md).
+- Open when looking up ExportOptionsFlash.jpegMethod in Illustrator. [ExportOptionsFlash.jpegMethod](jpeg-method.md).
+- Open when looking up ExportOptionsFlash.jpegQuality in Illustrator. [ExportOptionsFlash.jpegQuality](jpeg-quality.md).
+- Open when looking up ExportOptionsFlash.layerOrder in Illustrator. [ExportOptionsFlash.layerOrder](layer-order.md).
+- Open when looking up ExportOptionsFlash.looping in Illustrator. [ExportOptionsFlash.looping](looping.md).
+- Open when looking up ExportOptionsFlash.playbackAccess in Illustrator. [ExportOptionsFlash.playbackAccess](playback-access.md).
+- Open when looking up ExportOptionsFlash.preserveAppearance in Illustrator. [ExportOptionsFlash.preserveAppearance](preserve-appearance.md).
+- Open when looking up ExportOptionsFlash.readOnly in Illustrator. [ExportOptionsFlash.readOnly](read-only.md).
+- Open when looking up ExportOptionsFlash.replacing in Illustrator. [ExportOptionsFlash.replacing](replacing.md).
+- Open when looking up ExportOptionsFlash.resolution in Illustrator. [ExportOptionsFlash.resolution](resolution.md).
+- Open when looking up ExportOptionsFlash.saveMultipleArtboards in Illustrator. [ExportOptionsFlash.saveMultipleArtboards](save-multiple-artboards.md).
+- Open when looking up ExportOptionsFlash.typename in Illustrator. [ExportOptionsFlash.typename](typename.md).

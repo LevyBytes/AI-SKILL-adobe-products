@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "XMP", "file": "references/uxp/xmp.md", "summary": "Open when looking up XMP in Premiere Pro.", "keywords": ["XMP"]},
+  {"topic": "XMP Classes", "file": "references/uxp/xmp-classes.md", "summary": "Open when looking up XMP Classes in Premiere Pro.", "keywords": ["XMP Classes"]},
+  {"topic": "Xmp xmp const references", "file": "references/uxp/xmp-xmp-const/reference-index.md", "summary": "Open when looking up Xmp xmp const in Premiere Pro.", "keywords": ["Xmp xmp const references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

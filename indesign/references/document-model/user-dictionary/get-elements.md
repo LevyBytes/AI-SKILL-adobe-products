@@ -1,0 +1,5 @@
+# getElements
+
+> UserDictionary **getElements**()
+>
+> Produces an array of object references after resolving the object specifier.

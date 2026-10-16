@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Technology partner webinar recordings", "file": "references/desktop/storage-vendors-who-have-tested-productions/technology-partner-webinar-recordings.md", "summary": "Open when looking up Technology partner webinar recordings in Premiere Pro.", "keywords": ["Technology partner webinar recordings"]},
+  {"topic": "Tested shared-storage technology partners for Productions in Adobe Premiere", "file": "references/desktop/storage-vendors-who-have-tested-productions/productions-tested-storage-partners.md", "summary": "Open when looking up Tested shared-storage technology partners for Productions in Adobe Premiere in Premiere Pro.", "keywords": ["Tested shared-storage technology partners for Productions in Adobe Premiere"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,30 @@
+# Shared Adobe platform — Group
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Group declaration in Shared Adobe platform. [Group declaration](declaration.md).
+- Open when looking up Group.anchoredObjectSettings in Shared Adobe platform. [Group.anchoredObjectSettings](anchored-object-settings.md).
+- Open when looking up Group.articleChildren in Shared Adobe platform. [Group.articleChildren](article-children.md).
+- Open when looking up Group.bringForward in Shared Adobe platform. [Group.bringForward](bring-forward.md).
+- Open when looking up Group.bringToFront in Shared Adobe platform. [Group.bringToFront](bring-to-front.md).
+- Open when looking up Group.buttons in Shared Adobe platform. [Group.buttons](buttons.md).
+- Open when looking up Group.checkBoxes in Shared Adobe platform. [Group.checkBoxes](check-boxes.md).
+- Open when looking up Group.comboBoxes in Shared Adobe platform. [Group.comboBoxes](combo-boxes.md).
+- Open when looking up Group.endnoteTextFrames in Shared Adobe platform. [Group.endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up Group.epstexts in Shared Adobe platform. [Group.epstexts](epstexts.md).
+- Open when looking up Group.formFields in Shared Adobe platform. [Group.formFields](form-fields.md).
+- Open when looking up Group.graphicLines in Shared Adobe platform. [Group.graphicLines](graphic-lines.md).
+- Open when looking up Group.groups in Shared Adobe platform. [Group.groups](groups.md).
+- Open when looking up Group.listBoxes in Shared Adobe platform. [Group.listBoxes](list-boxes.md).
+- Open when looking up Group.multiStateObjects in Shared Adobe platform. [Group.multiStateObjects](multi-state-objects.md).
+- Open when looking up Group.objectExportOptions in Shared Adobe platform. [Group.objectExportOptions](object-export-options.md).
+- Open when looking up Group.ovals in Shared Adobe platform. [Group.ovals](ovals.md).
+- Open when looking up Group.polygons in Shared Adobe platform. [Group.polygons](polygons.md).
+- Open when looking up Group.radioButtons in Shared Adobe platform. [Group.radioButtons](radio-buttons.md).
+- Open when looking up Group.rectangles in Shared Adobe platform. [Group.rectangles](rectangles.md).
+- Open when looking up Group.sendBackward in Shared Adobe platform. [Group.sendBackward](send-backward.md).
+- Open when looking up Group.sendToBack in Shared Adobe platform. [Group.sendToBack](send-to-back.md).
+- Open when looking up Group.signatureFields in Shared Adobe platform. [Group.signatureFields](signature-fields.md).
+- Open when looking up Group.splineItems in Shared Adobe platform. [Group.splineItems](spline-items.md).
+- Open when looking up Group.textBoxes in Shared Adobe platform. [Group.textBoxes](text-boxes.md).
+- Open when looking up Group.textFrames in Shared Adobe platform. [Group.textFrames](text-frames.md).
+- Open when looking up Group.ungroup in Shared Adobe platform. [Group.ungroup](ungroup.md).

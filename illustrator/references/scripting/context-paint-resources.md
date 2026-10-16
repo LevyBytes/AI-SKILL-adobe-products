@@ -1,0 +1,81 @@
+# Illustrator — Scripting APIs: colors, brushes, patterns and artwork styles
+
+Open when working with colors, brushes, patterns and artwork styles in Illustrator — Scripting APIs.
+
+Open when selecting an exact reference: [Topic catalog](context-paint-resources.json).
+
+- Open when looking up Art styles in Illustrator [Art styles references](art-styles/reference-index.md).
+- Open when looking up Graphic style example in Illustrator [Graphic style example references](graphic-style-example/reference-index.md).
+- Open when looking up GraphicStyle in Illustrator [GraphicStyle](graphic-style.md).
+- Open when looking up GraphicStyle in Illustrator [GraphicStyle references](graphic-style/reference-index.md).
+- Open when looking up Graphic styles example in Illustrator [Graphic styles example references](graphic-styles-example/reference-index.md).
+- Open when looking up GraphicStyles in Illustrator [GraphicStyles](graphic-styles.md).
+- Open when looking up GraphicStyles in Illustrator [GraphicStyles references](graphic-styles/reference-index.md).
+- Open when looking up Brush in Illustrator [Brush](brush.md).
+- Open when looking up Brush example in Illustrator [Brush example references](brush-example/reference-index.md).
+- Open when looking up Brush in Illustrator [Brush references](brush/reference-index.md).
+- Open when looking up Brushes in Illustrator [Brushes](brushes.md).
+- Open when looking up Brushes example in Illustrator [Brushes example references](brushes-example/reference-index.md).
+- Open when looking up Brushes in Illustrator [Brushes references](brushes/reference-index.md).
+- Open when looking up Cmyk color example in Illustrator [Cmyk color example references](cmyk-color-example/reference-index.md).
+- Open when looking up CMYKColor in Illustrator [CMYKColor](cmyk-color.md).
+- Open when looking up CMYKColor in Illustrator [CMYKColor references](cmyk-color/reference-index.md).
+- Open when looking up Gray color example in Illustrator [Gray color example references](gray-color-example/reference-index.md).
+- Open when looking up GrayColor in Illustrator [GrayColor](gray-color.md).
+- Open when looking up GrayColor in Illustrator [GrayColor references](gray-color/reference-index.md).
+- Open when looking up LabColor in Illustrator [LabColor](lab-color.md).
+- Open when looking up LabColor in Illustrator [LabColor references](lab-color/reference-index.md).
+- Open when looking up Rgb color example in Illustrator [Rgb color example references](rgb-color-example/reference-index.md).
+- Open when looking up RGBColor in Illustrator [RGBColor](rgb-color.md).
+- Open when looking up RGBColor in Illustrator [RGBColor references](rgb-color/reference-index.md).
+- Open when looking up No color example in Illustrator [No color example references](no-color-example/reference-index.md).
+- Open when looking up NoColor in Illustrator [NoColor](no-color.md).
+- Open when looking up NoColor in Illustrator [NoColor references](no-color/reference-index.md).
+- Open when looking up Color objects in Illustrator [Color objects references](color-objects/reference-index.md).
+- Open when looking up Color type in Illustrator [Color type references](color-type/reference-index.md).
+- Open when looking up Color model in Illustrator [Color model references](color-model/reference-index.md).
+- Open when looking up Gradient in Illustrator [Gradient](gradient.md).
+- Open when looking up Gradient example in Illustrator [Gradient example references](gradient-example/reference-index.md).
+- Open when looking up Gradient in Illustrator [Gradient references](gradient/reference-index.md).
+- Open when looking up Gradient color example in Illustrator [Gradient color example references](gradient-color-example/reference-index.md).
+- Open when looking up GradientColor in Illustrator [GradientColor](gradient-color.md).
+- Open when looking up GradientColor in Illustrator [GradientColor references](gradient-color/reference-index.md).
+- Open when looking up Gradients in Illustrator [Gradients](gradients.md).
+- Open when looking up Gradients example in Illustrator [Gradients example references](gradients-example/reference-index.md).
+- Open when looking up Gradients in Illustrator [Gradients references](gradients/reference-index.md).
+- Open when looking up GradientStop in Illustrator [GradientStop](gradient-stop.md).
+- Open when looking up GradientStop in Illustrator [GradientStop references](gradient-stop/reference-index.md).
+- Open when looking up Gradient stops example in Illustrator [Gradient stops example references](gradient-stops-example/reference-index.md).
+- Open when looking up GradientStops in Illustrator [GradientStops](gradient-stops.md).
+- Open when looking up GradientStops in Illustrator [GradientStops references](gradient-stops/reference-index.md).
+- Open when looking up Gradient type in Illustrator [Gradient type references](gradient-type/reference-index.md).
+- Open when looking up Pattern in Illustrator [Pattern](pattern.md).
+- Open when looking up Pattern in Illustrator [Pattern references](pattern/reference-index.md).
+- Open when looking up Pattern color example in Illustrator [Pattern color example references](pattern-color-example/reference-index.md).
+- Open when looking up PatternColor in Illustrator [PatternColor](pattern-color.md).
+- Open when looking up PatternColor in Illustrator [PatternColor references](pattern-color/reference-index.md).
+- Open when looking up Patterns in Illustrator [Patterns](patterns.md).
+- Open when looking up Patterns example in Illustrator [Patterns example references](patterns-example/reference-index.md).
+- Open when looking up Patterns in Illustrator [Patterns references](patterns/reference-index.md).
+- Open when looking up Spot in Illustrator [Spot](spot.md).
+- Open when looking up Spot example in Illustrator [Spot example references](spot-example/reference-index.md).
+- Open when looking up Spot in Illustrator [Spot references](spot/reference-index.md).
+- Open when looking up SpotColor in Illustrator [SpotColor](spot-color.md).
+- Open when looking up SpotColor in Illustrator [SpotColor references](spot-color/reference-index.md).
+- Open when looking up Spot color kind in Illustrator [Spot color kind references](spot-color-kind/reference-index.md).
+- Open when looking up Spots in Illustrator [Spots](spots.md).
+- Open when looking up Spots example in Illustrator [Spots example references](spots-example/reference-index.md).
+- Open when looking up Spots in Illustrator [Spots references](spots/reference-index.md).
+- Open when looking up Swatch in Illustrator [Swatch](swatch.md).
+- Open when looking up Swatch example in Illustrator [Swatch example references](swatch-example/reference-index.md).
+- Open when looking up Swatch in Illustrator [Swatch references](swatch/reference-index.md).
+- Open when looking up Swatches in Illustrator [Swatches](swatches.md).
+- Open when looking up Swatches example in Illustrator [Swatches example references](swatches-example/reference-index.md).
+- Open when looking up Swatches in Illustrator [Swatches references](swatches/reference-index.md).
+- Open when looking up SwatchGroup in Illustrator [SwatchGroup](swatch-group.md).
+- Open when looking up SwatchGroup in Illustrator [SwatchGroup references](swatch-group/reference-index.md).
+- Open when looking up SwatchGroups in Illustrator [SwatchGroups](swatch-groups.md).
+- Open when looking up SwatchGroups in Illustrator [SwatchGroups references](swatch-groups/reference-index.md).
+- Open when looking up Library type in Illustrator [Library type references](library-type/reference-index.md).
+
+[Context index](reference-index.md)

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Aftereffects references", "file": "references/community-types/aftereffects/reference-index.md", "summary": "Open when looking up Aftereffects in Shared Adobe platform.", "keywords": ["Aftereffects references"]},
+  {"topic": "Animate references", "file": "references/community-types/animate/reference-index.md", "summary": "Open when looking up Animate in Shared Adobe platform.", "keywords": ["Animate references"]},
+  {"topic": "Audition references", "file": "references/community-types/audition/reference-index.md", "summary": "Open when looking up Audition in Shared Adobe platform.", "keywords": ["Audition references"]},
+  {"topic": "Illustrator references", "file": "references/community-types/illustrator/reference-index.md", "summary": "Open when looking up Illustrator in Shared Adobe platform.", "keywords": ["Illustrator references"]},
+  {"topic": "Indesign references", "file": "references/community-types/indesign/reference-index.md", "summary": "Open when looking up Indesign in Shared Adobe platform.", "keywords": ["Indesign references"]},
+  {"topic": "Mediaencoder references", "file": "references/community-types/mediaencoder/reference-index.md", "summary": "Open when looking up Mediaencoder in Shared Adobe platform.", "keywords": ["Mediaencoder references"]},
+  {"topic": "Photoshop references", "file": "references/community-types/photoshop/reference-index.md", "summary": "Open when looking up Photoshop in Shared Adobe platform.", "keywords": ["Photoshop references"]},
+  {"topic": "Premiere references", "file": "references/community-types/premiere/reference-index.md", "summary": "Open when looking up Premiere in Shared Adobe platform.", "keywords": ["Premiere references"]},
+  {"topic": "Shared references", "file": "references/community-types/shared/reference-index.md", "summary": "Open when looking up Shared in Shared Adobe platform.", "keywords": ["Shared references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

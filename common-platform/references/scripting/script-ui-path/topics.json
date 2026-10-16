@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Graphic customization objects — ScriptUIPath Object", "file": "references/scripting/script-ui-path/graphic-customization-objects-script-ui-path-object.md", "summary": "Open when looking up Graphic customization objects — ScriptUIPath Object in Shared Adobe platform.", "keywords": ["Graphic customization objects — ScriptUIPath Object"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

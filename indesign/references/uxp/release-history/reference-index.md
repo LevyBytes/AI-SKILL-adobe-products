@@ -1,0 +1,22 @@
+# InDesign — Release history
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Changelog in design v18 4 in InDesign. [Changelog in design v18 4 references](changelog-in-design-v18-4/reference-index.md).
+- Open when looking up Changelog in design v19 2 in InDesign. [Changelog in design v19 2 references](changelog-in-design-v19-2/reference-index.md).
+- Open when looking up Changelog — InDesign v18.5 in InDesign. [Changelog — InDesign v18.5](changelog-in-design-v18-5.md).
+- Open when looking up Changelog — InDesign v19.0 in InDesign. [Changelog — InDesign v19.0](changelog-in-design-v19-0.md).
+- Open when looking up Changelog — InDesign v19.0 in InDesign. [Changelog — InDesign v19.0 references](changelog-in-design-v19-0/reference-index.md).
+- Open when looking up In design v20 0 in InDesign. [In design v20 0 references](in-design-v20-0/reference-index.md).
+- Open when looking up Udt v2 0 in InDesign. [Udt v2 0 references](udt-v2-0/reference-index.md).
+- Open when looking up Uxp v6 3 in InDesign. [Uxp v6 3 references](uxp-v6-3/reference-index.md).
+- Open when looking up Uxp v6 4 in InDesign. [Uxp v6 4 references](uxp-v6-4/reference-index.md).
+- Open when looking up Uxp v6 5 0 in InDesign. [Uxp v6 5 0 references](uxp-v6-5-0/reference-index.md).
+- Open when looking up Uxp v7 0 0 in InDesign. [Uxp v7 0 0 references](uxp-v7-0-0/reference-index.md).
+- Open when looking up Uxp v7 0 in InDesign. [Uxp v7 0 references](uxp-v7-0/reference-index.md).
+- Open when looking up Uxp v7 1 0 in InDesign. [Uxp v7 1 0 references](uxp-v7-1-0/reference-index.md).
+- Open when looking up Uxp v7 1 in InDesign. [Uxp v7 1 references](uxp-v7-1/reference-index.md).
+- Open when looking up Uxp v7 2 0 in InDesign. [Uxp v7 2 0 references](uxp-v7-2-0/reference-index.md).
+- Open when looking up Uxp v7 3 0 in InDesign. [Uxp v7 3 0 references](uxp-v7-3-0/reference-index.md).
+- Open when looking up Uxp v7 3 0 uxp v7 2 in InDesign. [Uxp v7 3 0 uxp v7 2 references](uxp-v7-3-0-uxp-v7-2/reference-index.md).
+- Open when looking up Uxp v7 4 0 in InDesign. [Uxp v7 4 0 references](uxp-v7-4-0/reference-index.md).
+- Open when looking up Uxp v8 0 1 in InDesign. [Uxp v8 0 1 references](uxp-v8-0-1/reference-index.md).

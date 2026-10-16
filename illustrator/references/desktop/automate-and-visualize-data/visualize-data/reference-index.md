@@ -1,0 +1,22 @@
+# Illustrator — Visualize data
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add drop shadows to graphs in Illustrator. [Add drop shadows to graphs](add-drop-shadows-to-graphs.md).
+- Open when looking up Add graph data in Illustrator. [Add graph data](add-graph-data.md).
+- Open when looking up Add graph labels and data sets in Illustrator. [Add graph labels and data sets](add-graph-labels-and-data-sets.md).
+- Open when looking up Adjust decimal digits and column width in Illustrator. [Adjust decimal digits and column width](adjust-decimal-digits-and-column-width.md).
+- Open when looking up Apply marker designs to graphs in Illustrator. [Apply marker designs to graphs](apply-marker-designs-to-graphs.md).
+- Open when looking up Assign different scales to value axes in Illustrator. [Assign different scales to value axes](assign-different-scales-to-value-axes.md).
+- Open when looking up Change graph types in Illustrator. [Change graph types](change-graph-types.md).
+- Open when looking up Change graph value axes in Illustrator. [Change graph value axes](change-graph-value-axes.md).
+- Open when looking up Change the position of legend in graphs in Illustrator. [Change the position of legend in graphs](change-the-position-of-legend-in-graphs.md).
+- Open when looking up Combine different graph types in Illustrator. [Combine different graph types](combine-different-graph-types.md).
+- Open when looking up Create graphs in Illustrator. [Create graphs](create-graphs.md).
+- Open when looking up Data sets and label options in Illustrator. [Data sets and label options](data-sets-and-label-options.md).
+- Open when looking up Data sets and label options in Illustrator. [Data sets and label options references](data-sets-and-label-options/reference-index.md).
+- Open when looking up Format columns, bars, and lines in Illustrator. [Format columns, bars, and lines](format-columns-bars-and-lines.md).
+- Open when looking up Format columns, bars, and lines in Illustrator. [Format columns, bars, and lines references](format-columns-bars-and-lines/reference-index.md).
+- Open when looking up Format graph text in Illustrator. [Format graph text](format-graph-text.md).
+- Open when looking up Format pie graphs in Illustrator. [Format pie graphs](format-pie-graphs.md).
+- Open when looking up Reuse graph designs in Illustrator. [Reuse graph designs](reuse-graph-designs.md).
+- Open when looking up Select parts of a graph in Illustrator. [Select parts of a graph](select-parts-of-a-graph.md).

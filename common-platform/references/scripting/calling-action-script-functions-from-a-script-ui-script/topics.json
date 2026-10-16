@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Communicating with the Flash application — Calling ActionScript functions from a ScriptUI script", "file": "references/scripting/calling-action-script-functions-from-a-script-ui-script/calling-actionscript-functions-from-a-scriptui-script.md", "summary": "Open when looking up Communicating with the Flash application — Calling ActionScript functions from a ScriptUI script in Shared Adobe platform.", "keywords": ["Communicating with the Flash application — Calling ActionScript functions from a ScriptUI script"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

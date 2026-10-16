@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Add ARIA labels to objects in the Object Export Options panel", "file": "references/desktop/save-export-and-publish/export-to-epub/add-aria-labels-to-objects/add-aria-labels-to-objects-in-the-object-export-options-panel.md", "summary": "Open when looking up Add ARIA labels to objects in the Object Export Options panel in InDesign.", "keywords": ["Add ARIA labels to objects in the Object Export Options panel"]},
+  {"topic": "Add ARIA labels to objects in the Object Styles panel", "file": "references/desktop/save-export-and-publish/export-to-epub/add-aria-labels-to-objects/add-aria-labels-to-objects-in-the-object-styles-panel.md", "summary": "Open when looking up Add ARIA labels to objects in the Object Styles panel in InDesign.", "keywords": ["Add ARIA labels to objects in the Object Styles panel"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

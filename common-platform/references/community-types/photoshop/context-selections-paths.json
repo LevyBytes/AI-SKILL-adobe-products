@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Selection references", "file": "references/community-types/photoshop/selection/reference-index.md", "summary": "Open when looking up Selection in Shared Adobe platform.", "keywords": ["Selection references"]},
+  {"topic": "SelectionType", "file": "references/community-types/photoshop/selection-type.md", "summary": "Open when looking up SelectionType in Shared Adobe platform.", "keywords": ["SelectionType"]},
+  {"topic": "PathItem references", "file": "references/community-types/photoshop/path-item/reference-index.md", "summary": "Open when looking up PathItem in Shared Adobe platform.", "keywords": ["PathItem references"]},
+  {"topic": "PathItems", "file": "references/community-types/photoshop/path-items.md", "summary": "Open when looking up PathItems in Shared Adobe platform.", "keywords": ["PathItems"]},
+  {"topic": "PathKind", "file": "references/community-types/photoshop/path-kind.md", "summary": "Open when looking up PathKind in Shared Adobe platform.", "keywords": ["PathKind"]},
+  {"topic": "PathPoint", "file": "references/community-types/photoshop/path-point.md", "summary": "Open when looking up PathPoint in Shared Adobe platform.", "keywords": ["PathPoint"]},
+  {"topic": "PathPointInfo", "file": "references/community-types/photoshop/path-point-info.md", "summary": "Open when looking up PathPointInfo in Shared Adobe platform.", "keywords": ["PathPointInfo"]},
+  {"topic": "PathPoints", "file": "references/community-types/photoshop/path-points.md", "summary": "Open when looking up PathPoints in Shared Adobe platform.", "keywords": ["PathPoints"]},
+  {"topic": "SubPathInfo", "file": "references/community-types/photoshop/sub-path-info.md", "summary": "Open when looking up SubPathInfo in Shared Adobe platform.", "keywords": ["SubPathInfo"]},
+  {"topic": "SubPathItem", "file": "references/community-types/photoshop/sub-path-item.md", "summary": "Open when looking up SubPathItem in Shared Adobe platform.", "keywords": ["SubPathItem"]},
+  {"topic": "SubPathItems", "file": "references/community-types/photoshop/sub-path-items.md", "summary": "Open when looking up SubPathItems in Shared Adobe platform.", "keywords": ["SubPathItems"]},
+  {"topic": "PointKind", "file": "references/community-types/photoshop/point-kind.md", "summary": "Open when looking up PointKind in Shared Adobe platform.", "keywords": ["PointKind"]},
+  {"topic": "PointType", "file": "references/community-types/photoshop/point-type.md", "summary": "Open when looking up PointType in Shared Adobe platform.", "keywords": ["PointType"]},
+  {"topic": "ShapeOperation", "file": "references/community-types/photoshop/shape-operation.md", "summary": "Open when looking up ShapeOperation in Shared Adobe platform.", "keywords": ["ShapeOperation"]},
+  {"topic": "IllustratorPathType", "file": "references/community-types/photoshop/illustrator-path-type.md", "summary": "Open when looking up IllustratorPathType in Shared Adobe platform.", "keywords": ["IllustratorPathType"]},
+  {"topic": "StrokeLocation", "file": "references/community-types/photoshop/stroke-location.md", "summary": "Open when looking up StrokeLocation in Shared Adobe platform.", "keywords": ["StrokeLocation"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

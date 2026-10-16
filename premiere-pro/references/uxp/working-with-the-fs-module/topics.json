@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Example 5: Reading from the Sandbox", "file": "references/uxp/working-with-the-fs-module/example-5-reading-from-the-sandbox.md", "summary": "Open when looking up Example 5: Reading from the Sandbox in Premiere Pro.", "keywords": ["Example 5: Reading from the Sandbox"]},
+  {"topic": "Example 6: Writing to Arbitrary Locations", "file": "references/uxp/working-with-the-fs-module/example-6-writing-to-arbitrary-locations.md", "summary": "Open when looking up Example 6: Writing to Arbitrary Locations in Premiere Pro.", "keywords": ["Example 6: Writing to Arbitrary Locations"]},
+  {"topic": "fs module API Reference", "file": "references/uxp/working-with-the-fs-module/fs-module-api-reference.md", "summary": "Open when looking up fs module API Reference in Premiere Pro.", "keywords": ["fs module API Reference"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

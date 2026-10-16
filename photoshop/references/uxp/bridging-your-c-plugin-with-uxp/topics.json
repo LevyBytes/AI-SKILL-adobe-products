@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Acquiring the suites", "file": "references/uxp/bridging-your-c-plugin-with-uxp/acquiring-the-suites.md", "summary": "Open when looking up Acquiring the suites in Photoshop.", "keywords": ["Acquiring the suites"]},
+  {"topic": "Adding listener", "file": "references/uxp/bridging-your-c-plugin-with-uxp/adding-listener.md", "summary": "Open when looking up Adding listener in Photoshop.", "keywords": ["Adding listener"]},
+  {"topic": "Automation Plugins: AutoPluginMain", "file": "references/uxp/bridging-your-c-plugin-with-uxp/automation-plugins-auto-plugin-main.md", "summary": "Open when looking up Automation Plugins: AutoPluginMain in Photoshop.", "keywords": ["Automation Plugins: AutoPluginMain"]},
+  {"topic": "CSDK to UXP messaging", "file": "references/uxp/bridging-your-c-plugin-with-uxp/csdk-to-uxp-messaging.md", "summary": "Open when looking up CSDK to UXP messaging in Photoshop.", "keywords": ["CSDK to UXP messaging"]},
+  {"topic": "Filter plugins: PluginMain", "file": "references/uxp/bridging-your-c-plugin-with-uxp/filter-plugins-plugin-main.md", "summary": "Open when looking up Filter plugins: PluginMain in Photoshop.", "keywords": ["Filter plugins: PluginMain"]},
+  {"topic": "Includes and globals", "file": "references/uxp/bridging-your-c-plugin-with-uxp/includes-and-globals.md", "summary": "Open when looking up Includes and globals in Photoshop.", "keywords": ["Includes and globals"]},
+  {"topic": "Listener Callback", "file": "references/uxp/bridging-your-c-plugin-with-uxp/listener-callback.md", "summary": "Open when looking up Listener Callback in Photoshop.", "keywords": ["Listener Callback"]},
+  {"topic": "Obtain the Photoshop C++ SDK", "file": "references/uxp/bridging-your-c-plugin-with-uxp/obtain-the-photoshop-c-sdk.md", "summary": "Open when looking up Obtain the Photoshop C++ SDK in Photoshop.", "keywords": ["Obtain the Photoshop C++ SDK"]},
+  {"topic": "On your UXP plugin", "file": "references/uxp/bridging-your-c-plugin-with-uxp/on-your-uxp-plugin.md", "summary": "Open when looking up On your UXP plugin in Photoshop.", "keywords": ["On your UXP plugin"]},
+  {"topic": "PIUXPSuite", "file": "references/uxp/bridging-your-c-plugin-with-uxp/piuxp-suite.md", "summary": "Open when looking up PIUXPSuite in Photoshop.", "keywords": ["PIUXPSuite"]},
+  {"topic": "Removing listener", "file": "references/uxp/bridging-your-c-plugin-with-uxp/removing-listener.md", "summary": "Open when looking up Removing listener in Photoshop.", "keywords": ["Removing listener"]},
+  {"topic": "Sending the message from UXP", "file": "references/uxp/bridging-your-c-plugin-with-uxp/sending-the-message-from-uxp.md", "summary": "Open when looking up Sending the message from UXP in Photoshop.", "keywords": ["Sending the message from UXP"]},
+  {"topic": "UXP to CSDK messaging", "file": "references/uxp/bridging-your-c-plugin-with-uxp/uxp-to-csdk-messaging.md", "summary": "Open when looking up UXP to CSDK messaging in Photoshop.", "keywords": ["UXP to CSDK messaging"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

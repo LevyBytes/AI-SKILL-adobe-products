@@ -1,0 +1,34 @@
+# After Effects — Command selectors table
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Frame Selectors in After Effects. [Frame Selectors](frame-selectors.md).
+- Open when looking up Global Selectors in After Effects. [Global Selectors](global-selectors.md).
+- Open when looking up Messaging in After Effects. [Messaging](messaging.md).
+- Open when looking up PF_Cmd_ABOUT in After Effects. [PF_Cmd_ABOUT](pf-cmd-about.md).
+- Open when looking up PF_Cmd_ARBITRARY_CALLBACK in After Effects. [PF_Cmd_ARBITRARY_CALLBACK](pf-cmd-arbitrarycallback.md).
+- Open when looking up PF_Cmd_AUDIO_RENDER in After Effects. [PF_Cmd_AUDIO_RENDER](pf-cmd-audiorender.md).
+- Open when looking up PF_Cmd_AUDIO_SETDOWN in After Effects. [PF_Cmd_AUDIO_SETDOWN](pf-cmd-audiosetdown.md).
+- Open when looking up PF_Cmd_AUDIO_SETUP in After Effects. [PF_Cmd_AUDIO_SETUP](pf-cmd-audiosetup.md).
+- Open when looking up PF_Cmd_COMPLETELY_GENERAL in After Effects. [PF_Cmd_COMPLETELY_GENERAL](pf-cmd-completelygeneral.md).
+- Open when looking up PF_Cmd_DO_DIALOG in After Effects. [PF_Cmd_DO_DIALOG](pf-cmd-dodialog.md).
+- Open when looking up PF_Cmd_EVENT in After Effects. [PF_Cmd_EVENT](pf-cmd-event.md).
+- Open when looking up PF_Cmd_FRAME_SETDOWN in After Effects. [PF_Cmd_FRAME_SETDOWN](pf-cmd-framesetdown.md).
+- Open when looking up PF_Cmd_FRAME_SETUP in After Effects. [PF_Cmd_FRAME_SETUP](pf-cmd-framesetup.md).
+- Open when looking up PF_Cmd_GET_EXTERNAL_DEPENDENCIES in After Effects. [PF_Cmd_GET_EXTERNAL_DEPENDENCIES](pf-cmd-getexternaldependencies.md).
+- Open when looking up PF_Cmd_GLOBAL_SETDOWN in After Effects. [PF_Cmd_GLOBAL_SETDOWN](pf-cmd-globalsetdown.md).
+- Open when looking up PF_Cmd_GLOBAL_SETUP in After Effects. [PF_Cmd_GLOBAL_SETUP](pf-cmd-globalsetup.md).
+- Open when looking up PF_Cmd_GPU_DEVICE_SETDOWN in After Effects. [PF_Cmd_GPU_DEVICE_SETDOWN](pf-cmd-gpudevicesetdown.md).
+- Open when looking up PF_Cmd_GPU_DEVICE_SETUP in After Effects. [PF_Cmd_GPU_DEVICE_SETUP](pf-cmd-gpudevicesetup.md).
+- Open when looking up PF_Cmd_GPU_SMART_RENDER_GPU in After Effects. [PF_Cmd_GPU_SMART_RENDER_GPU](pf-cmd-gpusmartrendergpu.md).
+- Open when looking up PF_Cmd_PARAM_SETUP in After Effects. [PF_Cmd_PARAM_SETUP](pf-cmd-paramsetup.md).
+- Open when looking up PF_Cmd_QUERY_DYNAMIC_FLAGS in After Effects. [PF_Cmd_QUERY_DYNAMIC_FLAGS](pf-cmd-querydynamicflags.md).
+- Open when looking up PF_Cmd_RENDER in After Effects. [PF_Cmd_RENDER](pf-cmd-render.md).
+- Open when looking up PF_Cmd_SEQUENCE_FLATTEN in After Effects. [PF_Cmd_SEQUENCE_FLATTEN](pf-cmd-sequenceflatten.md).
+- Open when looking up PF_Cmd_SEQUENCE_RESETUP in After Effects. [PF_Cmd_SEQUENCE_RESETUP](pf-cmd-sequenceresetup.md).
+- Open when looking up PF_Cmd_SEQUENCE_SETDOWN in After Effects. [PF_Cmd_SEQUENCE_SETDOWN](pf-cmd-sequencesetdown.md).
+- Open when looking up PF_Cmd_SEQUENCE_SETUP in After Effects. [PF_Cmd_SEQUENCE_SETUP](pf-cmd-sequencesetup.md).
+- Open when looking up PF_Cmd_SMART_PRE_RENDER in After Effects. [PF_Cmd_SMART_PRE_RENDER](pf-cmd-smartprerender.md).
+- Open when looking up PF_Cmd_SMART_RENDER in After Effects. [PF_Cmd_SMART_RENDER](pf-cmd-smartrender.md).
+- Open when looking up PF_Cmd_UPDATE_PARAMS_UI in After Effects. [PF_Cmd_UPDATE_PARAMS_UI](pf-cmd-updateparamsui.md).
+- Open when looking up PF_Cmd_USER_CHANGED_PARAM in After Effects. [PF_Cmd_USER_CHANGED_PARAM](pf-cmd-userchangedparam.md).
+- Open when looking up Sequence Selectors in After Effects. [Sequence Selectors](sequence-selectors.md).

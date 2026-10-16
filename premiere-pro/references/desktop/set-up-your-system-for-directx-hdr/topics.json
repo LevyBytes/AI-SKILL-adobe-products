@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Verify DirectX HDR support on the system, then turn it on.", "file": "references/desktop/set-up-your-system-for-directx-hdr/verify-direct-x-hdr-support-on-the-system-then-turn-it-on.md", "summary": "Open when looking up Verify DirectX HDR support on the system, then turn it on. in Premiere Pro.", "keywords": ["Verify DirectX HDR support on the system, then turn it on."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

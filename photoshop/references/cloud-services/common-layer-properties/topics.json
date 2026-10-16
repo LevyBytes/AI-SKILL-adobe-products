@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Blend options", "file": "references/cloud-services/common-layer-properties/blend-options.md", "summary": "Open when looking up Blend options in Photoshop.", "keywords": ["Blend options"]},
+  {"topic": "fillToCanvas (missing feature)", "file": "references/cloud-services/common-layer-properties/fill-to-canvas-missing-feature.md", "summary": "Open when looking up fillToCanvas (missing feature) in Photoshop.", "keywords": ["fillToCanvas (missing feature)"]},
+  {"topic": "Lock / protection", "file": "references/cloud-services/common-layer-properties/lock-protection.md", "summary": "Open when looking up Lock / protection in Photoshop.", "keywords": ["Lock / protection"]},
+  {"topic": "Mask fields", "file": "references/cloud-services/common-layer-properties/mask-fields.md", "summary": "Open when looking up Mask fields in Photoshop.", "keywords": ["Mask fields"]},
+  {"topic": "Pixel layer bounds / transform", "file": "references/cloud-services/common-layer-properties/pixel-layer-bounds-transform.md", "summary": "Open when looking up Pixel layer bounds / transform in Photoshop.", "keywords": ["Pixel layer bounds / transform"]},
+  {"topic": "Visibility", "file": "references/cloud-services/common-layer-properties/visibility.md", "summary": "Open when looking up Visibility in Photoshop.", "keywords": ["Visibility"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

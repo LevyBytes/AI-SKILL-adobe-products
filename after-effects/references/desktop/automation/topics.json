@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Automate animation references", "file": "references/desktop/automation/automate-animation/reference-index.md", "summary": "Open when looking up Automate animation in After Effects.", "keywords": ["Automate animation references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

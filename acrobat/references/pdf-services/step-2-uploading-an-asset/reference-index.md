@@ -1,0 +1,4 @@
+# Acrobat — Step 2 : Uploading an asset
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up REST API in Acrobat. [REST API](rest-api.md).

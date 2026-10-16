@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Check common shortcuts", "file": "references/desktop/find-keyboard-shortcuts/check-common-shortcuts.md", "summary": "Open when looking up Check common shortcuts in Premiere Pro.", "keywords": ["Check common shortcuts"]},
+  {"topic": "Find shortcuts for tools or buttons", "file": "references/desktop/find-keyboard-shortcuts/find-shortcuts-for-tools-or-buttons.md", "summary": "Open when looking up Find shortcuts for tools or buttons in Premiere Pro.", "keywords": ["Find shortcuts for tools or buttons"]},
+  {"topic": "Locate shortcuts for menu commands", "file": "references/desktop/find-keyboard-shortcuts/locate-shortcuts-for-menu-commands.md", "summary": "Open when looking up Locate shortcuts for menu commands in Premiere Pro.", "keywords": ["Locate shortcuts for menu commands"]},
+  {"topic": "Search for specific commands", "file": "references/desktop/find-keyboard-shortcuts/search-for-specific-commands.md", "summary": "Open when looking up Search for specific commands in Premiere Pro.", "keywords": ["Search for specific commands"]},
+  {"topic": "View the list of default and custom shortcuts", "file": "references/desktop/find-keyboard-shortcuts/view-the-list-of-default-and-custom-shortcuts.md", "summary": "Open when looking up View the list of default and custom shortcuts in Premiere Pro.", "keywords": ["View the list of default and custom shortcuts"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

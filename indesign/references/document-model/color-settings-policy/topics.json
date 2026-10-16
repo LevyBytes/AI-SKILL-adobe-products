@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "COLOR_POLICY_OFF", "file": "references/document-model/color-settings-policy/colorpolicyoff.md", "summary": "Open when looking up COLOR_POLICY_OFF in InDesign.", "keywords": ["COLOR_POLICY_OFF"]},
+  {"topic": "COMBINATION_OF_PRESERVE_AND_SAFE_CMYK", "file": "references/document-model/color-settings-policy/combinationofpreserveandsafecmyk.md", "summary": "Open when looking up COMBINATION_OF_PRESERVE_AND_SAFE_CMYK in InDesign.", "keywords": ["COMBINATION_OF_PRESERVE_AND_SAFE_CMYK"]},
+  {"topic": "CONVERT_TO_WORKING_SPACE", "file": "references/document-model/color-settings-policy/converttoworkingspace.md", "summary": "Open when looking up CONVERT_TO_WORKING_SPACE in InDesign.", "keywords": ["CONVERT_TO_WORKING_SPACE"]},
+  {"topic": "PRESERVE_EMBEDDED_PROFILES", "file": "references/document-model/color-settings-policy/preserveembeddedprofiles.md", "summary": "Open when looking up PRESERVE_EMBEDDED_PROFILES in InDesign.", "keywords": ["PRESERVE_EMBEDDED_PROFILES"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

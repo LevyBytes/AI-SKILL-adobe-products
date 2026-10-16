@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "deleteUnusedTags", "file": "references/document-model/application/delete-unused-tags.md", "summary": "Open when looking up deleteUnusedTags in InDesign.", "keywords": ["deleteUnusedTags"]},
+  {"topic": "generateIDMLSchema", "file": "references/document-model/application/generate-idml-schema.md", "summary": "Open when looking up generateIDMLSchema in InDesign.", "keywords": ["generateIDMLSchema"]},
+  {"topic": "loadXMLTags", "file": "references/document-model/application/load-xml-tags.md", "summary": "Open when looking up loadXMLTags in InDesign.", "keywords": ["loadXMLTags"]},
+  {"topic": "saveXMLTags", "file": "references/document-model/application/save-xml-tags.md", "summary": "Open when looking up saveXMLTags in InDesign.", "keywords": ["saveXMLTags"]},
+  {"topic": "taggedPDFPreferences", "file": "references/document-model/application/tagged-pdf-preferences.md", "summary": "Open when looking up taggedPDFPreferences in InDesign.", "keywords": ["taggedPDFPreferences"]},
+  {"topic": "xmlExportMaps", "file": "references/document-model/application/xml-export-maps.md", "summary": "Open when looking up xmlExportMaps in InDesign.", "keywords": ["xmlExportMaps"]},
+  {"topic": "xmlExportPreferences", "file": "references/document-model/application/xml-export-preferences.md", "summary": "Open when looking up xmlExportPreferences in InDesign.", "keywords": ["xmlExportPreferences"]},
+  {"topic": "xmlImportMaps", "file": "references/document-model/application/xml-import-maps.md", "summary": "Open when looking up xmlImportMaps in InDesign.", "keywords": ["xmlImportMaps"]},
+  {"topic": "xmlImportPreferences", "file": "references/document-model/application/xml-import-preferences.md", "summary": "Open when looking up xmlImportPreferences in InDesign.", "keywords": ["xmlImportPreferences"]},
+  {"topic": "xmlPreferences", "file": "references/document-model/application/xml-preferences.md", "summary": "Open when looking up xmlPreferences in InDesign.", "keywords": ["xmlPreferences"]},
+  {"topic": "xmlRuleProcessors", "file": "references/document-model/application/xml-rule-processors.md", "summary": "Open when looking up xmlRuleProcessors in InDesign.", "keywords": ["xmlRuleProcessors"]},
+  {"topic": "xmlTags", "file": "references/document-model/application/xml-tags.md", "summary": "Open when looking up xmlTags in InDesign.", "keywords": ["xmlTags"]},
+  {"topic": "xmlViewPreferences", "file": "references/document-model/application/xml-view-preferences.md", "summary": "Open when looking up xmlViewPreferences in InDesign.", "keywords": ["xmlViewPreferences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "performSceneEditDetectionOnSelection", "file": "references/uxp/host-api/sequence-utils/static-methods/perform-scene-edit-detection-on-selection.md", "summary": "Open when looking up performSceneEditDetectionOnSelection in Premiere Pro.", "keywords": ["performSceneEditDetectionOnSelection"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DEFAULT_PLATFORM", "file": "references/document-model/text-export-character-set/defaultplatform.md", "summary": "Open when looking up DEFAULT_PLATFORM in InDesign.", "keywords": ["DEFAULT_PLATFORM"]},
+  {"topic": "UTF16", "file": "references/document-model/text-export-character-set/utf16.md", "summary": "Open when looking up UTF16 in InDesign.", "keywords": ["UTF16"]},
+  {"topic": "UTF8", "file": "references/document-model/text-export-character-set/utf8.md", "summary": "Open when looking up UTF8 in InDesign.", "keywords": ["UTF8"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

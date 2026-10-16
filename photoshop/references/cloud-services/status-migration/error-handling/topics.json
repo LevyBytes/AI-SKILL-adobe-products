@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Common error codes", "file": "references/cloud-services/status-migration/error-handling/common-error-codes.md", "summary": "Open when looking up Common error codes in Photoshop.", "keywords": ["Common error codes"]},
+  {"topic": "Error handling example", "file": "references/cloud-services/status-migration/error-handling/error-handling-example.md", "summary": "Open when looking up Error handling example in Photoshop.", "keywords": ["Error handling example"]},
+  {"topic": "Error response structure", "file": "references/cloud-services/status-migration/error-handling/error-response-structure.md", "summary": "Open when looking up Error response structure in Photoshop.", "keywords": ["Error response structure"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

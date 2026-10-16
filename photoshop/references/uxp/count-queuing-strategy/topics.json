@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "CountQueuingStrategy(init)", "file": "references/uxp/count-queuing-strategy/count-queuing-strategy.md", "summary": "Open when looking up CountQueuingStrategy(init) in Photoshop.", "keywords": ["CountQueuingStrategy(init)"]},
+  {"topic": "highWaterMark : number", "file": "references/uxp/count-queuing-strategy/high-water-mark-number.md", "summary": "Open when looking up highWaterMark : number in Photoshop.", "keywords": ["highWaterMark : number"]},
+  {"topic": "size()", "file": "references/uxp/count-queuing-strategy/size.md", "summary": "Open when looking up size() in Photoshop.", "keywords": ["size()"]},
+  {"topic": "window.CountQueuingStrategy", "file": "references/uxp/count-queuing-strategy/overview.md", "summary": "Open when looking up window.CountQueuingStrategy in Photoshop.", "keywords": ["window.CountQueuingStrategy"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

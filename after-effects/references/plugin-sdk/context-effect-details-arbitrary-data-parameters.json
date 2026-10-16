@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Arbitrary Data Parameters", "file": "references/plugin-sdk/arbitrary-data-parameters.md", "summary": "Open when looking up Arbitrary Data Parameters in After Effects.", "keywords": ["Arbitrary Data Parameters"]},
+  {"topic": "Arbitrary data re entrancy references", "file": "references/plugin-sdk/arbitrary-data-re-entrancy/reference-index.md", "summary": "Open when looking up Arbitrary data re entrancy in After Effects.", "keywords": ["Arbitrary data re entrancy references"]},
+  {"topic": "Arbitrary data selectors references", "file": "references/plugin-sdk/arbitrary-data-selectors/reference-index.md", "summary": "Open when looking up Arbitrary data selectors in After Effects.", "keywords": ["Arbitrary data selectors references"]},
+  {"topic": "Changes during dialogs references", "file": "references/plugin-sdk/changes-during-dialogs/reference-index.md", "summary": "Open when looking up Changes during dialogs in After Effects.", "keywords": ["Changes during dialogs references"]},
+  {"topic": "Implementing arbitrary data references", "file": "references/plugin-sdk/implementing-arbitrary-data/reference-index.md", "summary": "Open when looking up Implementing arbitrary data in After Effects.", "keywords": ["Implementing arbitrary data references"]},
+  {"topic": "When not to access arbitrary parameters references", "file": "references/plugin-sdk/when-not-to-access-arbitrary-parameters/reference-index.md", "summary": "Open when looking up When not to access arbitrary parameters in After Effects.", "keywords": ["When not to access arbitrary parameters references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

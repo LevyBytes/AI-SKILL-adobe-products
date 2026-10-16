@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "HARD_KINSOKU", "file": "references/document-model/kinsoku-set/hardkinsoku.md", "summary": "Open when looking up HARD_KINSOKU in InDesign.", "keywords": ["HARD_KINSOKU"]},
+  {"topic": "KOREAN_KINSOKU", "file": "references/document-model/kinsoku-set/koreankinsoku.md", "summary": "Open when looking up KOREAN_KINSOKU in InDesign.", "keywords": ["KOREAN_KINSOKU"]},
+  {"topic": "NOTHING", "file": "references/document-model/kinsoku-set/nothing.md", "summary": "Open when looking up NOTHING in InDesign.", "keywords": ["NOTHING"]},
+  {"topic": "SIMPLIFIED_CHINESE_KINSOKU", "file": "references/document-model/kinsoku-set/simplifiedchinesekinsoku.md", "summary": "Open when looking up SIMPLIFIED_CHINESE_KINSOKU in InDesign.", "keywords": ["SIMPLIFIED_CHINESE_KINSOKU"]},
+  {"topic": "SOFT_KINSOKU", "file": "references/document-model/kinsoku-set/softkinsoku.md", "summary": "Open when looking up SOFT_KINSOKU in InDesign.", "keywords": ["SOFT_KINSOKU"]},
+  {"topic": "TRADITIONAL_CHINESE_KINSOKU", "file": "references/document-model/kinsoku-set/traditionalchinesekinsoku.md", "summary": "Open when looking up TRADITIONAL_CHINESE_KINSOKU in InDesign.", "keywords": ["TRADITIONAL_CHINESE_KINSOKU"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

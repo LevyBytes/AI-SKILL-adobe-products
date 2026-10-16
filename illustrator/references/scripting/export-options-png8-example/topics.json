@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "PNG8 export example", "file": "references/scripting/export-options-png8-example/png8-export-example.md", "summary": "Open when looking up PNG8 export example in Illustrator.", "keywords": ["PNG8 export example"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

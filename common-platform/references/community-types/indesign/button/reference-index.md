@@ -1,0 +1,49 @@
+# Shared Adobe platform — Button
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Button declaration in Shared Adobe platform. [Button declaration](declaration.md).
+- Open when looking up Button.animationBehaviors in Shared Adobe platform. [Button.animationBehaviors](animation-behaviors.md).
+- Open when looking up Button.behaviors in Shared Adobe platform. [Button.behaviors](behaviors.md).
+- Open when looking up Button.bringForward in Shared Adobe platform. [Button.bringForward](bring-forward.md).
+- Open when looking up Button.bringToFront in Shared Adobe platform. [Button.bringToFront](bring-to-front.md).
+- Open when looking up Button.clearFormBehaviors in Shared Adobe platform. [Button.clearFormBehaviors](clear-form-behaviors.md).
+- Open when looking up Button.convertToObject in Shared Adobe platform. [Button.convertToObject](convert-to-object.md).
+- Open when looking up Button.endnoteTextFrames in Shared Adobe platform. [Button.endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up Button.epss in Shared Adobe platform. [Button.epss](epss.md).
+- Open when looking up Button.epstexts in Shared Adobe platform. [Button.epstexts](epstexts.md).
+- Open when looking up Button.gotoAnchorBehaviors in Shared Adobe platform. [Button.gotoAnchorBehaviors](goto-anchor-behaviors.md).
+- Open when looking up Button.gotoFirstPageBehaviors in Shared Adobe platform. [Button.gotoFirstPageBehaviors](goto-first-page-behaviors.md).
+- Open when looking up Button.gotoLastPageBehaviors in Shared Adobe platform. [Button.gotoLastPageBehaviors](goto-last-page-behaviors.md).
+- Open when looking up Button.gotoNextPageBehaviors in Shared Adobe platform. [Button.gotoNextPageBehaviors](goto-next-page-behaviors.md).
+- Open when looking up Button.gotoNextStateBehaviors in Shared Adobe platform. [Button.gotoNextStateBehaviors](goto-next-state-behaviors.md).
+- Open when looking up Button.gotoNextViewBehaviors in Shared Adobe platform. [Button.gotoNextViewBehaviors](goto-next-view-behaviors.md).
+- Open when looking up Button.gotoPageBehaviors in Shared Adobe platform. [Button.gotoPageBehaviors](goto-page-behaviors.md).
+- Open when looking up Button.gotoPreviousPageBehaviors in Shared Adobe platform. [Button.gotoPreviousPageBehaviors](goto-previous-page-behaviors.md).
+- Open when looking up Button.gotoPreviousStateBehaviors in Shared Adobe platform. [Button.gotoPreviousStateBehaviors](goto-previous-state-behaviors.md).
+- Open when looking up Button.gotoPreviousViewBehaviors in Shared Adobe platform. [Button.gotoPreviousViewBehaviors](goto-previous-view-behaviors.md).
+- Open when looking up Button.gotoStateBehaviors in Shared Adobe platform. [Button.gotoStateBehaviors](goto-state-behaviors.md).
+- Open when looking up Button.gotoURLBehaviors in Shared Adobe platform. [Button.gotoURLBehaviors](goto-url-behaviors.md).
+- Open when looking up Button.graphicLines in Shared Adobe platform. [Button.graphicLines](graphic-lines.md).
+- Open when looking up Button.groups in Shared Adobe platform. [Button.groups](groups.md).
+- Open when looking up Button.hiddenUntilTriggered in Shared Adobe platform. [Button.hiddenUntilTriggered](hidden-until-triggered.md).
+- Open when looking up Button.images in Shared Adobe platform. [Button.images](images.md).
+- Open when looking up Button.movieBehaviors in Shared Adobe platform. [Button.movieBehaviors](movie-behaviors.md).
+- Open when looking up Button.openFileBehaviors in Shared Adobe platform. [Button.openFileBehaviors](open-file-behaviors.md).
+- Open when looking up Button.ovals in Shared Adobe platform. [Button.ovals](ovals.md).
+- Open when looking up Button.paths in Shared Adobe platform. [Button.paths](paths.md).
+- Open when looking up Button.pdfs in Shared Adobe platform. [Button.pdfs](pdfs.md).
+- Open when looking up Button.picts in Shared Adobe platform. [Button.picts](picts.md).
+- Open when looking up Button.polygons in Shared Adobe platform. [Button.polygons](polygons.md).
+- Open when looking up Button.printableInPdf in Shared Adobe platform. [Button.printableInPdf](printable-in-pdf.md).
+- Open when looking up Button.printFormBehaviors in Shared Adobe platform. [Button.printFormBehaviors](print-form-behaviors.md).
+- Open when looking up Button.rectangles in Shared Adobe platform. [Button.rectangles](rectangles.md).
+- Open when looking up Button.sendBackward in Shared Adobe platform. [Button.sendBackward](send-backward.md).
+- Open when looking up Button.sendToBack in Shared Adobe platform. [Button.sendToBack](send-to-back.md).
+- Open when looking up Button.showHideFieldsBehaviors in Shared Adobe platform. [Button.showHideFieldsBehaviors](show-hide-fields-behaviors.md).
+- Open when looking up Button.soundBehaviors in Shared Adobe platform. [Button.soundBehaviors](sound-behaviors.md).
+- Open when looking up Button.splineItems in Shared Adobe platform. [Button.splineItems](spline-items.md).
+- Open when looking up Button.states in Shared Adobe platform. [Button.states](states.md).
+- Open when looking up Button.submitFormBehaviors in Shared Adobe platform. [Button.submitFormBehaviors](submit-form-behaviors.md).
+- Open when looking up Button.textFrames in Shared Adobe platform. [Button.textFrames](text-frames.md).
+- Open when looking up Button.viewZoomBehaviors in Shared Adobe platform. [Button.viewZoomBehaviors](view-zoom-behaviors.md).
+- Open when looking up Button.wmfs in Shared Adobe platform. [Button.wmfs](wmfs.md).

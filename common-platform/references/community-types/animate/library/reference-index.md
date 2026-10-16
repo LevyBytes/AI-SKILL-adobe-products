@@ -1,0 +1,24 @@
+# Shared Adobe platform — Library
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Library declaration in Shared Adobe platform. [Library declaration](declaration.md).
+- Open when looking up Library.addItemToDocument in Shared Adobe platform. [Library.addItemToDocument](add-item-to-document.md).
+- Open when looking up Library.addNewItem in Shared Adobe platform. [Library.addNewItem](add-new-item.md).
+- Open when looking up Library.deleteItem in Shared Adobe platform. [Library.deleteItem](delete-item.md).
+- Open when looking up Library.duplicateItem in Shared Adobe platform. [Library.duplicateItem](duplicate-item.md).
+- Open when looking up Library.editItem in Shared Adobe platform. [Library.editItem](edit-item.md).
+- Open when looking up Library.findItemIndex in Shared Adobe platform. [Library.findItemIndex](find-item-index.md).
+- Open when looking up Library.getItemProperty in Shared Adobe platform. [Library.getItemProperty](get-item-property.md).
+- Open when looking up Library.getItemType in Shared Adobe platform. [Library.getItemType](get-item-type.md).
+- Open when looking up Library.getSelectedItems in Shared Adobe platform. [Library.getSelectedItems](get-selected-items.md).
+- Open when looking up Library.itemExists in Shared Adobe platform. [Library.itemExists](item-exists.md).
+- Open when looking up Library.items in Shared Adobe platform. [Library.items](items.md).
+- Open when looking up Library.moveToFolder in Shared Adobe platform. [Library.moveToFolder](move-to-folder.md).
+- Open when looking up Library.newFolder in Shared Adobe platform. [Library.newFolder](new-folder.md).
+- Open when looking up Library.renameItem in Shared Adobe platform. [Library.renameItem](rename-item.md).
+- Open when looking up Library.selectAll in Shared Adobe platform. [Library.selectAll](select-all.md).
+- Open when looking up Library.selectItem in Shared Adobe platform. [Library.selectItem](select-item.md).
+- Open when looking up Library.selectNone in Shared Adobe platform. [Library.selectNone](select-none.md).
+- Open when looking up Library.setItemProperty in Shared Adobe platform. [Library.setItemProperty](set-item-property.md).
+- Open when looking up Library.unusedItems in Shared Adobe platform. [Library.unusedItems](unused-items.md).
+- Open when looking up Library.updateItem in Shared Adobe platform. [Library.updateItem](update-item.md).

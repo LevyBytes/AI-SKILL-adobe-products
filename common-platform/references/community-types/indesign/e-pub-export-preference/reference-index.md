@@ -1,0 +1,50 @@
+# Shared Adobe platform — EPubExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up EPubExportPreference declaration in Shared Adobe platform. [EPubExportPreference declaration](declaration.md).
+- Open when looking up EPubExportPreference.bottomMargin in Shared Adobe platform. [EPubExportPreference.bottomMargin](bottom-margin.md).
+- Open when looking up EPubExportPreference.breakDocument in Shared Adobe platform. [EPubExportPreference.breakDocument](break-document.md).
+- Open when looking up EPubExportPreference.bulletExportOption in Shared Adobe platform. [EPubExportPreference.bulletExportOption](bullet-export-option.md).
+- Open when looking up EPubExportPreference.coverImageFile in Shared Adobe platform. [EPubExportPreference.coverImageFile](cover-image-file.md).
+- Open when looking up EPubExportPreference.customImageSizeOption in Shared Adobe platform. [EPubExportPreference.customImageSizeOption](custom-image-size-option.md).
+- Open when looking up EPubExportPreference.embedFont in Shared Adobe platform. [EPubExportPreference.embedFont](embed-font.md).
+- Open when looking up EPubExportPreference.epubCover in Shared Adobe platform. [EPubExportPreference.epubCover](epub-cover.md).
+- Open when looking up EPubExportPreference.epubCreator in Shared Adobe platform. [EPubExportPreference.epubCreator](epub-creator.md).
+- Open when looking up EPubExportPreference.epubDate in Shared Adobe platform. [EPubExportPreference.epubDate](epub-date.md).
+- Open when looking up EPubExportPreference.epubDescription in Shared Adobe platform. [EPubExportPreference.epubDescription](epub-description.md).
+- Open when looking up EPubExportPreference.epubPublisher in Shared Adobe platform. [EPubExportPreference.epubPublisher](epub-publisher.md).
+- Open when looking up EPubExportPreference.epubRights in Shared Adobe platform. [EPubExportPreference.epubRights](epub-rights.md).
+- Open when looking up EPubExportPreference.epubSubject in Shared Adobe platform. [EPubExportPreference.epubSubject](epub-subject.md).
+- Open when looking up EPubExportPreference.epubTitle in Shared Adobe platform. [EPubExportPreference.epubTitle](epub-title.md).
+- Open when looking up EPubExportPreference.exportOrder in Shared Adobe platform. [EPubExportPreference.exportOrder](export-order.md).
+- Open when looking up EPubExportPreference.externalStyleSheets in Shared Adobe platform. [EPubExportPreference.externalStyleSheets](external-style-sheets.md).
+- Open when looking up EPubExportPreference.footnotePlacement in Shared Adobe platform. [EPubExportPreference.footnotePlacement](footnote-placement.md).
+- Open when looking up EPubExportPreference.generateCascadeStyleSheet in Shared Adobe platform. [EPubExportPreference.generateCascadeStyleSheet](generate-cascade-style-sheet.md).
+- Open when looking up EPubExportPreference.gifOptionsInterlaced in Shared Adobe platform. [EPubExportPreference.gifOptionsInterlaced](gif-options-interlaced.md).
+- Open when looking up EPubExportPreference.gifOptionsPalette in Shared Adobe platform. [EPubExportPreference.gifOptionsPalette](gif-options-palette.md).
+- Open when looking up EPubExportPreference.id in Shared Adobe platform. [EPubExportPreference.id](id.md).
+- Open when looking up EPubExportPreference.ignoreObjectConversionSettings in Shared Adobe platform. [EPubExportPreference.ignoreObjectConversionSettings](ignore-object-conversion-settings.md).
+- Open when looking up EPubExportPreference.imageAlignment in Shared Adobe platform. [EPubExportPreference.imageAlignment](image-alignment.md).
+- Open when looking up EPubExportPreference.imageConversion in Shared Adobe platform. [EPubExportPreference.imageConversion](image-conversion.md).
+- Open when looking up EPubExportPreference.imageExportResolution in Shared Adobe platform. [EPubExportPreference.imageExportResolution](image-export-resolution.md).
+- Open when looking up EPubExportPreference.imagePageBreak in Shared Adobe platform. [EPubExportPreference.imagePageBreak](image-page-break.md).
+- Open when looking up EPubExportPreference.imageSpaceAfter in Shared Adobe platform. [EPubExportPreference.imageSpaceAfter](image-space-after.md).
+- Open when looking up EPubExportPreference.imageSpaceBefore in Shared Adobe platform. [EPubExportPreference.imageSpaceBefore](image-space-before.md).
+- Open when looking up EPubExportPreference.includeClassesInHTML in Shared Adobe platform. [EPubExportPreference.includeClassesInHTML](include-classes-in-html.md).
+- Open when looking up EPubExportPreference.javascripts in Shared Adobe platform. [EPubExportPreference.javascripts](javascripts.md).
+- Open when looking up EPubExportPreference.jpegOptionsFormat in Shared Adobe platform. [EPubExportPreference.jpegOptionsFormat](jpeg-options-format.md).
+- Open when looking up EPubExportPreference.jpegOptionsQuality in Shared Adobe platform. [EPubExportPreference.jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up EPubExportPreference.leftMargin in Shared Adobe platform. [EPubExportPreference.leftMargin](left-margin.md).
+- Open when looking up EPubExportPreference.level in Shared Adobe platform. [EPubExportPreference.level](level.md).
+- Open when looking up EPubExportPreference.numberedListExportOption in Shared Adobe platform. [EPubExportPreference.numberedListExportOption](numbered-list-export-option.md).
+- Open when looking up EPubExportPreference.paragraphStyleName in Shared Adobe platform. [EPubExportPreference.paragraphStyleName](paragraph-style-name.md).
+- Open when looking up EPubExportPreference.preserveLayoutAppearence in Shared Adobe platform. [EPubExportPreference.preserveLayoutAppearence](preserve-layout-appearence.md).
+- Open when looking up EPubExportPreference.preserveLocalOverride in Shared Adobe platform. [EPubExportPreference.preserveLocalOverride](preserve-local-override.md).
+- Open when looking up EPubExportPreference.rightMargin in Shared Adobe platform. [EPubExportPreference.rightMargin](right-margin.md).
+- Open when looking up EPubExportPreference.stripSoftReturn in Shared Adobe platform. [EPubExportPreference.stripSoftReturn](strip-soft-return.md).
+- Open when looking up EPubExportPreference.tocStyleName in Shared Adobe platform. [EPubExportPreference.tocStyleName](toc-style-name.md).
+- Open when looking up EPubExportPreference.topMargin in Shared Adobe platform. [EPubExportPreference.topMargin](top-margin.md).
+- Open when looking up EPubExportPreference.useExistingImageOnExport in Shared Adobe platform. [EPubExportPreference.useExistingImageOnExport](use-existing-image-on-export.md).
+- Open when looking up EPubExportPreference.useImagePageBreak in Shared Adobe platform. [EPubExportPreference.useImagePageBreak](use-image-page-break.md).
+- Open when looking up EPubExportPreference.useSVGAs in Shared Adobe platform. [EPubExportPreference.useSVGAs](use-svg-as.md).
+- Open when looking up EPubExportPreference.version in Shared Adobe platform. [EPubExportPreference.version](version.md).

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CROP_BLEED", "file": "references/document-model/imported-page-crop-options/cropbleed.md", "summary": "Open when looking up CROP_BLEED in InDesign.", "keywords": ["CROP_BLEED"]},
+  {"topic": "CROP_CONTENT", "file": "references/document-model/imported-page-crop-options/cropcontent.md", "summary": "Open when looking up CROP_CONTENT in InDesign.", "keywords": ["CROP_CONTENT"]},
+  {"topic": "CROP_SLUG", "file": "references/document-model/imported-page-crop-options/cropslug.md", "summary": "Open when looking up CROP_SLUG in InDesign.", "keywords": ["CROP_SLUG"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

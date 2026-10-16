@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DONT_RESTART", "file": "references/document-model/footnote-restarting/dontrestart.md", "summary": "Open when looking up DONT_RESTART in InDesign.", "keywords": ["DONT_RESTART"]},
+  {"topic": "PAGE_RESTART", "file": "references/document-model/footnote-restarting/pagerestart.md", "summary": "Open when looking up PAGE_RESTART in InDesign.", "keywords": ["PAGE_RESTART"]},
+  {"topic": "SECTION_RESTART", "file": "references/document-model/footnote-restarting/sectionrestart.md", "summary": "Open when looking up SECTION_RESTART in InDesign.", "keywords": ["SECTION_RESTART"]},
+  {"topic": "SPREAD_RESTART", "file": "references/document-model/footnote-restarting/spreadrestart.md", "summary": "Open when looking up SPREAD_RESTART in InDesign.", "keywords": ["SPREAD_RESTART"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

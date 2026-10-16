@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Coming soon", "file": "references/cloud-services/document-operations-migration/feature-availability/coming-soon.md", "summary": "Open when looking up Coming soon in Photoshop.", "keywords": ["Coming soon"]},
+  {"topic": "Currently available", "file": "references/cloud-services/document-operations-migration/feature-availability/currently-available.md", "summary": "Open when looking up Currently available in Photoshop.", "keywords": ["Currently available"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

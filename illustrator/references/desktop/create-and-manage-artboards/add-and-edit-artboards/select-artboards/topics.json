@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "To select all the artboards", "file": "references/desktop/create-and-manage-artboards/add-and-edit-artboards/select-artboards/to-select-all-the-artboards.md", "summary": "Open when looking up To select all the artboards in Illustrator.", "keywords": ["To select all the artboards"]},
+  {"topic": "To select an artboard", "file": "references/desktop/create-and-manage-artboards/add-and-edit-artboards/select-artboards/to-select-an-artboard.md", "summary": "Open when looking up To select an artboard in Illustrator.", "keywords": ["To select an artboard"]},
+  {"topic": "To select multiple artboards", "file": "references/desktop/create-and-manage-artboards/add-and-edit-artboards/select-artboards/to-select-multiple-artboards.md", "summary": "Open when looking up To select multiple artboards in Illustrator.", "keywords": ["To select multiple artboards"]},
+  {"topic": "To select non-sequential artboards", "file": "references/desktop/create-and-manage-artboards/add-and-edit-artboards/select-artboards/to-select-non-sequential-artboards.md", "summary": "Open when looking up To select non-sequential artboards in Illustrator.", "keywords": ["To select non-sequential artboards"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

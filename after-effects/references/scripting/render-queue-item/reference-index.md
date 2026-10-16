@@ -1,0 +1,27 @@
+# After Effects — Render queue item
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up RenderQueueItem object in After Effects. [RenderQueueItem object](render-queue-item-object.md).
+- Open when looking up RenderQueueItem.applyTemplate() in After Effects. [RenderQueueItem.applyTemplate()](apply-template.md).
+- Open when looking up RenderQueueItem.comp in After Effects. [RenderQueueItem.comp](comp.md).
+- Open when looking up RenderQueueItem.duplicate() in After Effects. [RenderQueueItem.duplicate()](duplicate.md).
+- Open when looking up RenderQueueItem.elapsedSeconds in After Effects. [RenderQueueItem.elapsedSeconds](elapsed-seconds.md).
+- Open when looking up RenderQueueItem.getSetting() in After Effects. [RenderQueueItem.getSetting()](get-setting.md).
+- Open when looking up RenderQueueItem.getSettings() in After Effects. [RenderQueueItem.getSettings()](get-settings.md).
+- Open when looking up RenderQueueItem.logType in After Effects. [RenderQueueItem.logType](log-type.md).
+- Open when looking up RenderQueueItem.numOutputModules in After Effects. [RenderQueueItem.numOutputModules](num-output-modules.md).
+- Open when looking up RenderQueueItem.onStatusChanged in After Effects. [RenderQueueItem.onStatusChanged](on-status-changed.md).
+- Open when looking up RenderQueueItem.outputModule() in After Effects. [RenderQueueItem.outputModule()](output-module.md).
+- Open when looking up RenderQueueItem.outputModules in After Effects. [RenderQueueItem.outputModules](output-modules.md).
+- Open when looking up RenderQueueItem.queueItemNotify in After Effects. [RenderQueueItem.queueItemNotify](queue-item-notify.md).
+- Open when looking up RenderQueueItem.remove() in After Effects. [RenderQueueItem.remove()](remove.md).
+- Open when looking up RenderQueueItem.render in After Effects. [RenderQueueItem.render](render.md).
+- Open when looking up RenderQueueItem.saveAsTemplate() in After Effects. [RenderQueueItem.saveAsTemplate()](save-as-template.md).
+- Open when looking up RenderQueueItem.setSetting() in After Effects. [RenderQueueItem.setSetting()](set-setting.md).
+- Open when looking up RenderQueueItem.setSettings() in After Effects. [RenderQueueItem.setSettings()](set-settings.md).
+- Open when looking up RenderQueueItem.skipFrames in After Effects. [RenderQueueItem.skipFrames](skip-frames.md).
+- Open when looking up RenderQueueItem.startTime in After Effects. [RenderQueueItem.startTime](start-time.md).
+- Open when looking up RenderQueueItem.status in After Effects. [RenderQueueItem.status](status.md).
+- Open when looking up RenderQueueItem.templates in After Effects. [RenderQueueItem.templates](templates.md).
+- Open when looking up RenderQueueItem.timeSpanDuration in After Effects. [RenderQueueItem.timeSpanDuration](time-span-duration.md).
+- Open when looking up RenderQueueItem.timeSpanStart in After Effects. [RenderQueueItem.timeSpanStart](time-span-start.md).

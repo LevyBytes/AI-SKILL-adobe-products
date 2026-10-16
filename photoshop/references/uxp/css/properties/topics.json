@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Layout and positioning", "file": "references/uxp/css/properties/context-layout.md", "summary": "Open when working with layout and positioning in Photoshop — Properties.", "keywords": ["Layout and positioning"]},
+  {"topic": "Flex layout and alignment", "file": "references/uxp/css/properties/context-flex-layout.md", "summary": "Open when working with flex layout and alignment in Photoshop — Properties.", "keywords": ["Flex layout and alignment"]},
+  {"topic": "Box dimensions and spacing", "file": "references/uxp/css/properties/context-box-size-spacing.md", "summary": "Open when working with box dimensions and spacing in Photoshop — Properties.", "keywords": ["Box dimensions and spacing"]},
+  {"topic": "Border colors, styles and widths", "file": "references/uxp/css/properties/context-box-borders.md", "summary": "Open when working with border colors, styles and widths in Photoshop — Properties.", "keywords": ["Border colors, styles and widths"]},
+  {"topic": "Rounded border corners", "file": "references/uxp/css/properties/context-border-corners.md", "summary": "Open when working with rounded border corners in Photoshop — Properties.", "keywords": ["Rounded border corners"]},
+  {"topic": "Backgrounds and transparency", "file": "references/uxp/css/properties/context-backgrounds.md", "summary": "Open when working with backgrounds and transparency in Photoshop — Properties.", "keywords": ["Backgrounds and transparency"]},
+  {"topic": "Fonts and text layout", "file": "references/uxp/css/properties/context-text.md", "summary": "Open when working with fonts and text layout in Photoshop — Properties.", "keywords": ["Fonts and text layout"]},
+  {"topic": "Overflow and clipping", "file": "references/uxp/css/properties/context-overflow.md", "summary": "Open when working with overflow and clipping in Photoshop — Properties.", "keywords": ["Overflow and clipping"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

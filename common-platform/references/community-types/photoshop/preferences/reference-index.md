@@ -1,0 +1,59 @@
+# Shared Adobe platform — Preferences
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Preferences declaration in Shared Adobe platform. [Preferences declaration](declaration.md).
+- Open when looking up Preferences identity and parent in Shared Adobe platform. [Preferences identity and parent](identity-and-parent.md).
+- Open when looking up Preferences.additionalPluginFolder in Shared Adobe platform. [Preferences.additionalPluginFolder](additional-plugin-folder.md).
+- Open when looking up Preferences.appendExtension in Shared Adobe platform. [Preferences.appendExtension](append-extension.md).
+- Open when looking up Preferences.askBeforeSavingLayeredTIFF in Shared Adobe platform. [Preferences.askBeforeSavingLayeredTIFF](ask-before-saving-layered-tiff.md).
+- Open when looking up Preferences.autoUpdateOpenDocuments in Shared Adobe platform. [Preferences.autoUpdateOpenDocuments](auto-update-open-documents.md).
+- Open when looking up Preferences.beepWhenDone in Shared Adobe platform. [Preferences.beepWhenDone](beep-when-done.md).
+- Open when looking up Preferences.colorChannelsInColor in Shared Adobe platform. [Preferences.colorChannelsInColor](color-channels-in-color.md).
+- Open when looking up Preferences.colorPicker in Shared Adobe platform. [Preferences.colorPicker](color-picker.md).
+- Open when looking up Preferences.columnGutter in Shared Adobe platform. [Preferences.columnGutter](column-gutter.md).
+- Open when looking up Preferences.columnWidth in Shared Adobe platform. [Preferences.columnWidth](column-width.md).
+- Open when looking up Preferences.createFirstSnapshot in Shared Adobe platform. [Preferences.createFirstSnapshot](create-first-snapshot.md).
+- Open when looking up Preferences.dynamicColorSliders in Shared Adobe platform. [Preferences.dynamicColorSliders](dynamic-color-sliders.md).
+- Open when looking up Preferences.editLogItems in Shared Adobe platform. [Preferences.editLogItems](edit-log-items.md).
+- Open when looking up Preferences.exportClipboard in Shared Adobe platform. [Preferences.exportClipboard](export-clipboard.md).
+- Open when looking up Preferences.fontPreviewSize in Shared Adobe platform. [Preferences.fontPreviewSize](font-preview-size.md).
+- Open when looking up Preferences.fullSizePreview in Shared Adobe platform. [Preferences.fullSizePreview](full-size-preview.md).
+- Open when looking up Preferences.gamutWarningOpacity in Shared Adobe platform. [Preferences.gamutWarningOpacity](gamut-warning-opacity.md).
+- Open when looking up Preferences.gridSize in Shared Adobe platform. [Preferences.gridSize](grid-size.md).
+- Open when looking up Preferences.gridStyle in Shared Adobe platform. [Preferences.gridStyle](grid-style.md).
+- Open when looking up Preferences.gridSubDivisions in Shared Adobe platform. [Preferences.gridSubDivisions](grid-sub-divisions.md).
+- Open when looking up Preferences.guideStyle in Shared Adobe platform. [Preferences.guideStyle](guide-style.md).
+- Open when looking up Preferences.iconPreview in Shared Adobe platform. [Preferences.iconPreview](icon-preview.md).
+- Open when looking up Preferences.imageCacheForHistograms in Shared Adobe platform. [Preferences.imageCacheForHistograms](image-cache-for-histograms.md).
+- Open when looking up Preferences.imageCacheLevels in Shared Adobe platform. [Preferences.imageCacheLevels](image-cache-levels.md).
+- Open when looking up Preferences.imagePreviews in Shared Adobe platform. [Preferences.imagePreviews](image-previews.md).
+- Open when looking up Preferences.interpolation in Shared Adobe platform. [Preferences.interpolation](interpolation.md).
+- Open when looking up Preferences.keyboardZoomResizesWindows in Shared Adobe platform. [Preferences.keyboardZoomResizesWindows](keyboard-zoom-resizes-windows.md).
+- Open when looking up Preferences.macOSThumbnail in Shared Adobe platform. [Preferences.macOSThumbnail](mac-os-thumbnail.md).
+- Open when looking up Preferences.maximizeCompatibility in Shared Adobe platform. [Preferences.maximizeCompatibility](maximize-compatibility.md).
+- Open when looking up Preferences.maxRAMuse in Shared Adobe platform. [Preferences.maxRAMuse](max-ra-muse.md).
+- Open when looking up Preferences.nonLinearHistory in Shared Adobe platform. [Preferences.nonLinearHistory](non-linear-history.md).
+- Open when looking up Preferences.numberOfHistoryStates in Shared Adobe platform. [Preferences.numberOfHistoryStates](number-of-history-states.md).
+- Open when looking up Preferences.otherCursors in Shared Adobe platform. [Preferences.otherCursors](other-cursors.md).
+- Open when looking up Preferences.paintingCursors in Shared Adobe platform. [Preferences.paintingCursors](painting-cursors.md).
+- Open when looking up Preferences.pixelDoubling in Shared Adobe platform. [Preferences.pixelDoubling](pixel-doubling.md).
+- Open when looking up Preferences.pointSize in Shared Adobe platform. [Preferences.pointSize](point-size.md).
+- Open when looking up Preferences.recentFileListLength in Shared Adobe platform. [Preferences.recentFileListLength](recent-file-list-length.md).
+- Open when looking up Preferences.rulerUnits in Shared Adobe platform. [Preferences.rulerUnits](ruler-units.md).
+- Open when looking up Preferences.saveLogItems in Shared Adobe platform. [Preferences.saveLogItems](save-log-items.md).
+- Open when looking up Preferences.saveLogItemsFile in Shared Adobe platform. [Preferences.saveLogItemsFile](save-log-items-file.md).
+- Open when looking up Preferences.savePaletteLocations in Shared Adobe platform. [Preferences.savePaletteLocations](save-palette-locations.md).
+- Open when looking up Preferences.showAsianTextOptions in Shared Adobe platform. [Preferences.showAsianTextOptions](show-asian-text-options.md).
+- Open when looking up Preferences.showEnglishFontNames in Shared Adobe platform. [Preferences.showEnglishFontNames](show-english-font-names.md).
+- Open when looking up Preferences.showSliceNumber in Shared Adobe platform. [Preferences.showSliceNumber](show-slice-number.md).
+- Open when looking up Preferences.showToolTips in Shared Adobe platform. [Preferences.showToolTips](show-tool-tips.md).
+- Open when looking up Preferences.smartQuotes in Shared Adobe platform. [Preferences.smartQuotes](smart-quotes.md).
+- Open when looking up Preferences.textFontSize in Shared Adobe platform. [Preferences.textFontSize](text-font-size.md).
+- Open when looking up Preferences.typeUnits in Shared Adobe platform. [Preferences.typeUnits](type-units.md).
+- Open when looking up Preferences.useAdditionalPluginFolder in Shared Adobe platform. [Preferences.useAdditionalPluginFolder](use-additional-plugin-folder.md).
+- Open when looking up Preferences.useDiffusionDither in Shared Adobe platform. [Preferences.useDiffusionDither](use-diffusion-dither.md).
+- Open when looking up Preferences.useHistoryLog in Shared Adobe platform. [Preferences.useHistoryLog](use-history-log.md).
+- Open when looking up Preferences.useLowerCaseExtension in Shared Adobe platform. [Preferences.useLowerCaseExtension](use-lower-case-extension.md).
+- Open when looking up Preferences.useShiftKeyForToolSwitch in Shared Adobe platform. [Preferences.useShiftKeyForToolSwitch](use-shift-key-for-tool-switch.md).
+- Open when looking up Preferences.useVideoAlpha in Shared Adobe platform. [Preferences.useVideoAlpha](use-video-alpha.md).
+- Open when looking up Preferences.windowsThumbnail in Shared Adobe platform. [Preferences.windowsThumbnail](windows-thumbnail.md).

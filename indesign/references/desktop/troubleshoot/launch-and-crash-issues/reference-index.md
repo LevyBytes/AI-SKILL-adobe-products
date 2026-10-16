@@ -1,0 +1,37 @@
+# InDesign — Launch and crash issues
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Access denied errors in InDesign. [Access denied errors](access-denied-errors.md).
+- Open when looking up Access denied errors in InDesign. [Access denied errors references](access-denied-errors/reference-index.md).
+- Open when looking up App launch issues on Windows in InDesign. [App launch issues on Windows](app-launch-issues-on-windows.md).
+- Open when looking up App launch issues on Windows in InDesign. [App launch issues on Windows references](app-launch-issues-on-windows/reference-index.md).
+- Open when looking up App running slower than usual in InDesign. [App running slower than usual](app-running-slower-than-usual.md).
+- Open when looking up App running slower than usual in InDesign. [App running slower than usual references](app-running-slower-than-usual/reference-index.md).
+- Open when looking up Authentication failure in InDesign. [Authentication failure](authentication-failure.md).
+- Open when looking up Authentication failure in InDesign. [Authentication failure references](authentication-failure/reference-index.md).
+- Open when looking up Corrupt VCRuntime crash error in InDesign. [Corrupt VCRuntime crash error](corrupt-vc-runtime-crash-error.md).
+- Open when looking up Corrupt VCRuntime crash error in InDesign. [Corrupt VCRuntime crash error references](corrupt-vc-runtime-crash-error/reference-index.md).
+- Open when looking up Crash due to font issues in InDesign. [Crash due to font issues](crash-due-to-font-issues.md).
+- Open when looking up Crash during print setup on Windows in InDesign. [Crash during print setup on Windows](crash-during-print-setup-on-windows.md).
+- Open when looking up Crash on launch while recovering a damaged document in InDesign. [Crash on launch while recovering a damaged document](crash-on-launch-while-recovering-a-damaged-document.md).
+- Open when looking up Crash on launch while recovering a damaged document in InDesign. [Crash on launch while recovering a damaged document references](crash-on-launch-while-recovering-a-damaged-document/reference-index.md).
+- Open when looking up Crash on lost network connection in InDesign. [Crash on lost network connection](crash-on-lost-network-connection.md).
+- Open when looking up Crash on lost network connection in InDesign. [Crash on lost network connection references](crash-on-lost-network-connection/reference-index.md).
+- Open when looking up Crash or Error 2 when saving documents in InDesign. [Crash or Error 2 when saving documents](crash-or-error-2-when-saving-documents.md).
+- Open when looking up Crash or Error 2 when saving documents in InDesign. [Crash or Error 2 when saving documents references](crash-or-error-2-when-saving-documents/reference-index.md).
+- Open when looking up Crash while using GPU rendering on macOS in InDesign. [Crash while using GPU rendering on macOS](crash-while-using-gpu-rendering-on-mac-os.md).
+- Open when looking up Crash while using GPU rendering on macOS in InDesign. [Crash while using GPU rendering on macOS references](crash-while-using-gpu-rendering-on-mac-os/reference-index.md).
+- Open when looking up Crash while working with remote libraries in InDesign. [Crash while working with remote libraries](crash-while-working-with-remote-libraries.md).
+- Open when looking up Crash while working with remote libraries in InDesign. [Crash while working with remote libraries references](crash-while-working-with-remote-libraries/reference-index.md).
+- Open when looking up Crash, freeze, or app open issues at launch in InDesign. [Crash, freeze, or app open issues at launch](crash-freeze-or-app-open-issues-at-launch.md).
+- Open when looking up Crash, freeze, or app open issues at launch in InDesign. [Crash, freeze, or app open issues at launch references](crash-freeze-or-app-open-issues-at-launch/reference-index.md).
+- Open when looking up Damaged fonts crash errors in InDesign. [Damaged fonts crash errors](damaged-fonts-crash-errors.md).
+- Open when looking up Damaged fonts crash errors in InDesign. [Damaged fonts crash errors references](damaged-fonts-crash-errors/reference-index.md).
+- Open when looking up InDesign Rosetta version won’t open in future macOS releases in InDesign. [InDesign Rosetta version won’t open in future macOS releases](rosetta-macos-compatibility.md).
+- Open when looking up InDesign Rosetta version won’t open in future macOS releases in InDesign. [InDesign Rosetta version won’t open in future macOS releases references](rosetta-macos-compatibility/reference-index.md).
+- Open when looking up Launch issues after Windows update in InDesign. [Launch issues after Windows update](launch-issues-after-windows-update.md).
+- Open when looking up Launch issues after Windows update in InDesign. [Launch issues after Windows update references](launch-issues-after-windows-update/reference-index.md).
+- Open when looking up Startup crash loop in InDesign. [Startup crash loop](startup-crash-loop.md).
+- Open when looking up Startup crash loop in InDesign. [Startup crash loop references](startup-crash-loop/reference-index.md).
+- Open when looking up Submit a crash report in InDesign. [Submit a crash report](submit-a-crash-report.md).
+- Open when looking up Submit a crash report in InDesign. [Submit a crash report references](submit-a-crash-report/reference-index.md).

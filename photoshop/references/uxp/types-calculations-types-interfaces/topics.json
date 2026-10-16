@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "CalculationsChannelType", "file": "references/uxp/types-calculations-types-interfaces/calculations-channel-type.md", "summary": "Open when looking up CalculationsChannelType in Photoshop.", "keywords": ["CalculationsChannelType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

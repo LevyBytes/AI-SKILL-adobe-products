@@ -1,0 +1,43 @@
+# Shared Adobe platform — Control object properties
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up active in Shared Adobe platform. [active](active.md).
+- Open when looking up alignment in Shared Adobe platform. [alignment](alignment.md).
+- Open when looking up bounds in Shared Adobe platform. [bounds](bounds.md).
+- Open when looking up characters in Shared Adobe platform. [characters](characters.md).
+- Open when looking up checked in Shared Adobe platform. [checked](checked.md).
+- Open when looking up columns in Shared Adobe platform. [columns](columns.md).
+- Open when looking up Control objects — Control object properties in Shared Adobe platform. [Control objects — Control object properties](control-objects-control-object-properties.md).
+- Open when looking up enabled in Shared Adobe platform. [enabled](enabled.md).
+- Open when looking up expanded in Shared Adobe platform. [expanded](expanded.md).
+- Open when looking up function_name in Shared Adobe platform. [function_name](functionname.md).
+- Open when looking up graphics in Shared Adobe platform. [graphics](graphics.md).
+- Open when looking up helpTip in Shared Adobe platform. [helpTip](help-tip.md).
+- Open when looking up icon in Shared Adobe platform. [icon](icon.md).
+- Open when looking up image in Shared Adobe platform. [image](image.md).
+- Open when looking up indent in Shared Adobe platform. [indent](indent.md).
+- Open when looking up index in Shared Adobe platform. [index](index.md).
+- Open when looking up items in Shared Adobe platform. [items](items.md).
+- Open when looking up itemSize in Shared Adobe platform. [itemSize](item-size.md).
+- Open when looking up jumpdelta in Shared Adobe platform. [jumpdelta](jumpdelta.md).
+- Open when looking up justify in Shared Adobe platform. [justify](justify.md).
+- Open when looking up location in Shared Adobe platform. [location](location.md).
+- Open when looking up maximumSize in Shared Adobe platform. [maximumSize](maximum-size.md).
+- Open when looking up maxvalue in Shared Adobe platform. [maxvalue](maxvalue.md).
+- Open when looking up minimumSize in Shared Adobe platform. [minimumSize](minimum-size.md).
+- Open when looking up minvalue in Shared Adobe platform. [minvalue](minvalue.md).
+- Open when looking up parent in Shared Adobe platform. [parent](parent.md).
+- Open when looking up preferredSize in Shared Adobe platform. [preferredSize](preferred-size.md).
+- Open when looking up selected in Shared Adobe platform. [selected](selected.md).
+- Open when looking up selection in Shared Adobe platform. [selection](selection.md).
+- Open when looking up shortcutKey in Shared Adobe platform. [shortcutKey](shortcut-key.md).
+- Open when looking up size in Shared Adobe platform. [size](size.md).
+- Open when looking up stepdelta in Shared Adobe platform. [stepdelta](stepdelta.md).
+- Open when looking up subitems in Shared Adobe platform. [subitems](subitems.md).
+- Open when looking up text in Shared Adobe platform. [text](text.md).
+- Open when looking up textselection in Shared Adobe platform. [textselection](textselection.md).
+- Open when looking up title in Shared Adobe platform. [title](title.md).
+- Open when looking up titleLayout in Shared Adobe platform. [titleLayout](title-layout.md).
+- Open when looking up visible in Shared Adobe platform. [visible](visible.md).
+- Open when looking up window in Shared Adobe platform. [window](window.md).
+- Open when looking up windowBounds in Shared Adobe platform. [windowBounds](window-bounds.md).

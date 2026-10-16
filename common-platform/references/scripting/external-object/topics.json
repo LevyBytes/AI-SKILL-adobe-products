@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ExternalObject object", "file": "references/scripting/external-object/external-object-object.md", "summary": "Open when looking up ExternalObject object in Shared Adobe platform.", "keywords": ["ExternalObject object"]},
+  {"topic": "ExternalObject.log", "file": "references/scripting/external-object/log.md", "summary": "Open when looking up ExternalObject.log in Shared Adobe platform.", "keywords": ["ExternalObject.log"]},
+  {"topic": "ExternalObject.search()", "file": "references/scripting/external-object/search.md", "summary": "Open when looking up ExternalObject.search() in Shared Adobe platform.", "keywords": ["ExternalObject.search()"]},
+  {"topic": "ExternalObject.searchFolders", "file": "references/scripting/external-object/search-folders.md", "summary": "Open when looking up ExternalObject.searchFolders in Shared Adobe platform.", "keywords": ["ExternalObject.searchFolders"]},
+  {"topic": "ExternalObject.terminate()", "file": "references/scripting/external-object/terminate.md", "summary": "Open when looking up ExternalObject.terminate() in Shared Adobe platform.", "keywords": ["ExternalObject.terminate()"]},
+  {"topic": "ExternalObject.version", "file": "references/scripting/external-object/version.md", "summary": "Open when looking up ExternalObject.version in Shared Adobe platform.", "keywords": ["ExternalObject.version"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

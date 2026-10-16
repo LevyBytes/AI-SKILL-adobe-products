@@ -1,0 +1,22 @@
+# After Effects — Legacy And Extend Script Engine
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up .value is no longer required when linking to other properties from Source Text in After Effects. [.value is no longer required when linking to other properties from Source Text](source-text-property-links.md).
+- Open when looking up Ending an expression in an if statement without an else is not allowed in After Effects. [Ending an expression in an if statement without an else is not allowed](terminal-if-expression-requires-else.md).
+- Open when looking up Explicitly prefix native methods and attributes with thisLayer. or thisProperty. in After Effects. [Explicitly prefix native methods and attributes with thisLayer. or thisProperty.](thislayer-and-thisproperty-prefixes.md).
+- Open when looking up Expressions can use JavaScript syntax from ECMAScript 2018 in After Effects. [Expressions can use JavaScript syntax from ECMAScript 2018](expressions-can-use-java-script-syntax-from-ecma-script-2018.md).
+- Open when looking up Expressions cannot end in a function declaration in After Effects. [Expressions cannot end in a function declaration](expressions-cannot-end-in-a-function-declaration.md).
+- Open when looking up Freezing property values with posterizeTime in After Effects. [Freezing property values with posterizeTime](freezing-property-values-with-posterize-time.md).
+- Open when looking up if and else cannot be on the same line without brackets in After Effects. [if and else cannot be on the same line without brackets](if-and-else-cannot-be-on-the-same-line-without-brackets.md).
+- Open when looking up if...else syntax differences in After Effects. [if...else syntax differences](if-else-syntax-differences.md).
+- Open when looking up Incompatible Legacy Syntax in After Effects. [Incompatible Legacy Syntax](incompatible-legacy-syntax.md).
+- Open when looking up Legacy method names in After Effects. [Legacy method names](legacy-method-names.md).
+- Open when looking up Legacy property names in After Effects. [Legacy property names](legacy-property-names.md).
+- Open when looking up Limited support for the $. (Dollar) object in After Effects. [Limited support for the $. (Dollar) object](limited-support-for-the-dollar-object.md).
+- Open when looking up No support for ...reflect.properties, ...reflect.methods, and toSource() in After Effects. [No support for ...reflect.properties, ...reflect.methods, and toSource()](unsupported-reflection-and-tosource.md).
+- Open when looking up Replacing math operators with vector math functions in After Effects. [Replacing math operators with vector math functions](replacing-math-operators-with-vector-math-functions.md).
+- Open when looking up Snake case properties and methods are not allowed in After Effects. [Snake case properties and methods are not allowed](snake-case-properties-and-methods-are-not-allowed.md).
+- Open when looking up Source Text property array-index access to characters requires .value in After Effects. [Source Text property array-index access to characters requires .value](source-text-character-value-access.md).
+- Open when looking up Syntax Requirements for .jsx Expression Libraries and eval() with the JavaScript Engine in After Effects. [Syntax Requirements for .jsx Expression Libraries and eval() with the JavaScript Engine](jsx-library-and-eval-syntax.md).
+- Open when looking up this() shorthand syntax is not allowed; use thisLayer() instead in After Effects. [this() shorthand syntax is not allowed; use thisLayer() instead](this-shorthand-syntax-is-not-allowed-use-this-layer-instead.md).
+- Open when looking up Using eval() with binary-encoded (.jsxbin) expressions in After Effects. [Using eval() with binary-encoded (.jsxbin) expressions](using-eval-with-binary-encoded-jsxbin-expressions.md).

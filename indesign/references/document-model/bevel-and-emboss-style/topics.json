@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "EMBOSS", "file": "references/document-model/bevel-and-emboss-style/emboss.md", "summary": "Open when looking up EMBOSS in InDesign.", "keywords": ["EMBOSS"]},
+  {"topic": "INNER_BEVEL", "file": "references/document-model/bevel-and-emboss-style/innerbevel.md", "summary": "Open when looking up INNER_BEVEL in InDesign.", "keywords": ["INNER_BEVEL"]},
+  {"topic": "OUTER_BEVEL", "file": "references/document-model/bevel-and-emboss-style/outerbevel.md", "summary": "Open when looking up OUTER_BEVEL in InDesign.", "keywords": ["OUTER_BEVEL"]},
+  {"topic": "PILLOW_EMBOSS", "file": "references/document-model/bevel-and-emboss-style/pillowemboss.md", "summary": "Open when looking up PILLOW_EMBOSS in InDesign.", "keywords": ["PILLOW_EMBOSS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

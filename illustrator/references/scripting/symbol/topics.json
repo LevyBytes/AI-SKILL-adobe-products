@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Symbol.duplicate()", "file": "references/scripting/symbol/duplicate.md", "summary": "Open when looking up Symbol.duplicate() in Illustrator.", "keywords": ["Symbol.duplicate()"]},
+  {"topic": "Symbol.name", "file": "references/scripting/symbol/name.md", "summary": "Open when looking up Symbol.name in Illustrator.", "keywords": ["Symbol.name"]},
+  {"topic": "Symbol.parent", "file": "references/scripting/symbol/parent.md", "summary": "Open when looking up Symbol.parent in Illustrator.", "keywords": ["Symbol.parent"]},
+  {"topic": "Symbol.remove()", "file": "references/scripting/symbol/remove.md", "summary": "Open when looking up Symbol.remove() in Illustrator.", "keywords": ["Symbol.remove()"]},
+  {"topic": "Symbol.typename", "file": "references/scripting/symbol/typename.md", "summary": "Open when looking up Symbol.typename in Illustrator.", "keywords": ["Symbol.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

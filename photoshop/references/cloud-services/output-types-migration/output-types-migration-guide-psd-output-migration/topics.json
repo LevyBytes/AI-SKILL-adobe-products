@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Full PSD migration example", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-psd-output-migration/full-psd-migration-example.md", "summary": "Open when looking up Full PSD migration example in Photoshop.", "keywords": ["Full PSD migration example"]},
+  {"topic": "PSD format changes", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-psd-output-migration/psd-format-changes.md", "summary": "Open when looking up PSD format changes in Photoshop.", "keywords": ["PSD format changes"]},
+  {"topic": "Supported media types for PSD", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-psd-output-migration/supported-media-types-for-psd.md", "summary": "Open when looking up Supported media types for PSD in Photoshop.", "keywords": ["Supported media types for PSD"]},
+  {"topic": "V1 PSD output", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-psd-output-migration/v1-psd-output.md", "summary": "Open when looking up V1 PSD output in Photoshop.", "keywords": ["V1 PSD output"]},
+  {"topic": "V2 PSD output", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-psd-output-migration/v2-psd-output.md", "summary": "Open when looking up V2 PSD output in Photoshop.", "keywords": ["V2 PSD output"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

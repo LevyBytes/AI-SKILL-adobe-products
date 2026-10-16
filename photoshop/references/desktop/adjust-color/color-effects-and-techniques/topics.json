@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Apply a gradient fill", "file": "references/desktop/adjust-color/color-effects-and-techniques/apply-a-gradient-fill.md", "summary": "Open when looking up Apply a gradient fill in Photoshop.", "keywords": ["Apply a gradient fill"]},
+  {"topic": "Convert a color image to black and white", "file": "references/desktop/adjust-color/color-effects-and-techniques/convert-a-color-image-to-black-and-white.md", "summary": "Open when looking up Convert a color image to black and white in Photoshop.", "keywords": ["Convert a color image to black and white"]},
+  {"topic": "Edit a gradient", "file": "references/desktop/adjust-color/color-effects-and-techniques/edit-a-gradient.md", "summary": "Open when looking up Edit a gradient in Photoshop.", "keywords": ["Edit a gradient"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

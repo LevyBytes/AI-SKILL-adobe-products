@@ -1,0 +1,13 @@
+# PDFSaveOptions.artboardRange
+
+Community declaration reference: Illustrator/2022.
+
+For multi-asset extraction, this supplies the artboard range. Empty string means every artboard; Default is empty string.
+
+```typescript
+declare class PDFSaveOptions {
+    static artboardRange: string
+}
+```
+
+Source: [Illustrator/2022/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/Illustrator/2022/index.d.ts).

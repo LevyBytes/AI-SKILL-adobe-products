@@ -1,0 +1,23 @@
+# InDesign — Background task
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up alerts in InDesign. [alerts](alerts.md).
+- Open when looking up cancelTask in InDesign. [cancelTask](cancel-task.md).
+- Open when looking up documentName in InDesign. [documentName](document-name.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up percentDone in InDesign. [percentDone](percent-done.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up queryProperty in InDesign. [queryProperty](query-property.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up status in InDesign. [status](status.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up waitForTask in InDesign. [waitForTask](wait-for-task.md).

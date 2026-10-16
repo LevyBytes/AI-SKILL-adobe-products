@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create hyperlinks", "file": "references/desktop/interactive-elements-and-forms/hyperlinks/create-hyperlinks.md", "summary": "Open when looking up Create hyperlinks in InDesign.", "keywords": ["Create hyperlinks"]},
+  {"topic": "Create hyperlinks references", "file": "references/desktop/interactive-elements-and-forms/hyperlinks/create-hyperlinks/reference-index.md", "summary": "Open when looking up Create hyperlinks in InDesign.", "keywords": ["Create hyperlinks references"]},
+  {"topic": "Hyperlink appearance options", "file": "references/desktop/interactive-elements-and-forms/hyperlinks/hyperlink-appearance-options.md", "summary": "Open when looking up Hyperlink appearance options in InDesign.", "keywords": ["Hyperlink appearance options"]},
+  {"topic": "Hyperlink appearance options references", "file": "references/desktop/interactive-elements-and-forms/hyperlinks/hyperlink-appearance-options/reference-index.md", "summary": "Open when looking up Hyperlink appearance options in InDesign.", "keywords": ["Hyperlink appearance options references"]},
+  {"topic": "Manage hyperlinks", "file": "references/desktop/interactive-elements-and-forms/hyperlinks/manage-hyperlinks.md", "summary": "Open when looking up Manage hyperlinks in InDesign.", "keywords": ["Manage hyperlinks"]},
+  {"topic": "Manage hyperlinks references", "file": "references/desktop/interactive-elements-and-forms/hyperlinks/manage-hyperlinks/reference-index.md", "summary": "Open when looking up Manage hyperlinks in InDesign.", "keywords": ["Manage hyperlinks references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

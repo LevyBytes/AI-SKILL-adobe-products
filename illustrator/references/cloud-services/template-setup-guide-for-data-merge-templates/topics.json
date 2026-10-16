@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Edit dynamic objects", "file": "references/cloud-services/template-setup-guide-for-data-merge-templates/edit-dynamic-objects.md", "summary": "Open when looking up Edit dynamic objects in Illustrator.", "keywords": ["Edit dynamic objects"]},
+  {"topic": "Import data source files", "file": "references/cloud-services/template-setup-guide-for-data-merge-templates/import-data-source-files.md", "summary": "Open when looking up Import data source files in Illustrator.", "keywords": ["Import data source files"]},
+  {"topic": "Merge data", "file": "references/cloud-services/template-setup-guide-for-data-merge-templates/merge-data.md", "summary": "Open when looking up Merge data in Illustrator.", "keywords": ["Merge data"]},
+  {"topic": "Set up data source files", "file": "references/cloud-services/template-setup-guide-for-data-merge-templates/set-up-data-source-files.md", "summary": "Open when looking up Set up data source files in Illustrator.", "keywords": ["Set up data source files"]},
+  {"topic": "Variable panel overview", "file": "references/cloud-services/template-setup-guide-for-data-merge-templates/variable-panel-overview.md", "summary": "Open when looking up Variable panel overview in Illustrator.", "keywords": ["Variable panel overview"]},
+  {"topic": "When do API users need these instructions?", "file": "references/cloud-services/template-setup-guide-for-data-merge-templates/when-do-api-users-need-these-instructions.md", "summary": "Open when looking up When do API users need these instructions? in Illustrator.", "keywords": ["When do API users need these instructions?"]},
+  {"topic": "Work with variables", "file": "references/cloud-services/template-setup-guide-for-data-merge-templates/work-with-variables.md", "summary": "Open when looking up Work with variables in Illustrator.", "keywords": ["Work with variables"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,44 @@
+# Shared Adobe platform — Audition
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AMEAddMultitrackDocumentToQueueEvent in Shared Adobe platform. [AMEAddMultitrackDocumentToQueueEvent](ame-add-multitrack-document-to-queue-event.md).
+- Open when looking up AMEAudioChannelConfigurationEvent in Shared Adobe platform. [AMEAudioChannelConfigurationEvent](ame-audio-channel-configuration-event.md).
+- Open when looking up AMEExporterSettingsSummaryEvent in Shared Adobe platform. [AMEExporterSettingsSummaryEvent](ame-exporter-settings-summary-event.md).
+- Open when looking up AMEFormat in Shared Adobe platform. [AMEFormat](ame-format.md).
+- Open when looking up AMEFormatsEvent in Shared Adobe platform. [AMEFormatsEvent](ame-formats-event.md).
+- Open when looking up AMEPreset in Shared Adobe platform. [AMEPreset](ame-preset.md).
+- Open when looking up AMEPresetsEvent in Shared Adobe platform. [AMEPresetsEvent](ame-presets-event.md).
+- Open when looking up AMEServer in Shared Adobe platform. [AMEServer](ame-server.md).
+- Open when looking up Application in Shared Adobe platform. [Application references](application/reference-index.md).
+- Open when looking up AudioChannelLayout in Shared Adobe platform. [AudioChannelLayout references](audio-channel-layout/reference-index.md).
+- Open when looking up AudioClip in Shared Adobe platform. [AudioClip](audio-clip.md).
+- Open when looking up AudioClipCollection in Shared Adobe platform. [AudioClipCollection](audio-clip-collection.md).
+- Open when looking up AudioClipEvent in Shared Adobe platform. [AudioClipEvent](audio-clip-event.md).
+- Open when looking up AudioClipSelectionCollection in Shared Adobe platform. [AudioClipSelectionCollection](audio-clip-selection-collection.md).
+- Open when looking up AudioFormat in Shared Adobe platform. [AudioFormat](audio-format.md).
+- Open when looking up AudioTrack in Shared Adobe platform. [AudioTrack references](audio-track/reference-index.md).
+- Open when looking up AudioTrackCollection in Shared Adobe platform. [AudioTrackCollection](audio-track-collection.md).
+- Open when looking up AudioTrackEvent in Shared Adobe platform. [AudioTrackEvent](audio-track-event.md).
+- Open when looking up Clip in Shared Adobe platform. [Clip](clip.md).
+- Open when looking up CommandEvent in Shared Adobe platform. [CommandEvent](command-event.md).
+- Open when looking up Document in Shared Adobe platform. [Document](document.md).
+- Open when looking up DocumentEvent in Shared Adobe platform. [DocumentEvent](document-event.md).
+- Open when looking up DocumentOpenParameter in Shared Adobe platform. [DocumentOpenParameter](document-open-parameter.md).
+- Open when looking up DynamicLink in Shared Adobe platform. [DynamicLink](dynamic-link.md).
+- Open when looking up DynamicLinkConnectionEvent in Shared Adobe platform. [DynamicLinkConnectionEvent](dynamic-link-connection-event.md).
+- Open when looking up Effect in Shared Adobe platform. [Effect](effect.md).
+- Open when looking up EffectPreset in Shared Adobe platform. [EffectPreset](effect-preset.md).
+- Open when looking up EffectRack in Shared Adobe platform. [EffectRack](effect-rack.md).
+- Open when looking up EffectRackSlot in Shared Adobe platform. [EffectRackSlot](effect-rack-slot.md).
+- Open when looking up EffectRackSlotCollection in Shared Adobe platform. [EffectRackSlotCollection](effect-rack-slot-collection.md).
+- Open when looking up IndicatorOverlay in Shared Adobe platform. [IndicatorOverlay](indicator-overlay.md).
+- Open when looking up MD5 in Shared Adobe platform. [MD5](md5.md).
+- Open when looking up Metadata in Shared Adobe platform. [Metadata](metadata.md).
+- Open when looking up MixedAudioTrackCollection in Shared Adobe platform. [MixedAudioTrackCollection](mixed-audio-track-collection.md).
+- Open when looking up MultitrackDocument in Shared Adobe platform. [MultitrackDocument](multitrack-document.md).
+- Open when looking up OnboardingSupport in Shared Adobe platform. [OnboardingSupport](onboarding-support.md).
+- Open when looking up Preferences in Shared Adobe platform. [Preferences](preferences.md).
+- Open when looking up Transport in Shared Adobe platform. [Transport](transport.md).
+- Open when looking up TransportEvent in Shared Adobe platform. [TransportEvent](transport-event.md).
+- Open when looking up UIControlEvent in Shared Adobe platform. [UIControlEvent](ui-control-event.md).
+- Open when looking up WaveDocument in Shared Adobe platform. [WaveDocument references](wave-document/reference-index.md).

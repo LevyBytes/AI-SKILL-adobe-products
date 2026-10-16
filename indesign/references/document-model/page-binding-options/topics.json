@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DEFAULT_VALUE", "file": "references/document-model/page-binding-options/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "LEFT_TO_RIGHT", "file": "references/document-model/page-binding-options/lefttoright.md", "summary": "Open when looking up LEFT_TO_RIGHT in InDesign.", "keywords": ["LEFT_TO_RIGHT"]},
+  {"topic": "RIGHT_TO_LEFT", "file": "references/document-model/page-binding-options/righttoleft.md", "summary": "Open when looking up RIGHT_TO_LEFT in InDesign.", "keywords": ["RIGHT_TO_LEFT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

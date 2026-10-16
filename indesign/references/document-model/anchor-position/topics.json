@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ABOVE_LINE", "file": "references/document-model/anchor-position/aboveline.md", "summary": "Open when looking up ABOVE_LINE in InDesign.", "keywords": ["ABOVE_LINE"]},
+  {"topic": "ANCHORED", "file": "references/document-model/anchor-position/anchored.md", "summary": "Open when looking up ANCHORED in InDesign.", "keywords": ["ANCHORED"]},
+  {"topic": "INLINE_POSITION", "file": "references/document-model/anchor-position/inlineposition.md", "summary": "Open when looking up INLINE_POSITION in InDesign.", "keywords": ["INLINE_POSITION"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

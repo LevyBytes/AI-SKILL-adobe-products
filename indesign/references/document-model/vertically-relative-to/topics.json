@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CAPHEIGHT", "file": "references/document-model/vertically-relative-to/capheight.md", "summary": "Open when looking up CAPHEIGHT in InDesign.", "keywords": ["CAPHEIGHT"]},
+  {"topic": "COLUMN_EDGE", "file": "references/document-model/vertically-relative-to/columnedge.md", "summary": "Open when looking up COLUMN_EDGE in InDesign.", "keywords": ["COLUMN_EDGE"]},
+  {"topic": "EMBOX_BOTTOM", "file": "references/document-model/vertically-relative-to/emboxbottom.md", "summary": "Open when looking up EMBOX_BOTTOM in InDesign.", "keywords": ["EMBOX_BOTTOM"]},
+  {"topic": "EMBOX_MIDDLE", "file": "references/document-model/vertically-relative-to/emboxmiddle.md", "summary": "Open when looking up EMBOX_MIDDLE in InDesign.", "keywords": ["EMBOX_MIDDLE"]},
+  {"topic": "EMBOX_TOP", "file": "references/document-model/vertically-relative-to/emboxtop.md", "summary": "Open when looking up EMBOX_TOP in InDesign.", "keywords": ["EMBOX_TOP"]},
+  {"topic": "LINE_ASCENT", "file": "references/document-model/vertically-relative-to/lineascent.md", "summary": "Open when looking up LINE_ASCENT in InDesign.", "keywords": ["LINE_ASCENT"]},
+  {"topic": "LINE_BASELINE", "file": "references/document-model/vertically-relative-to/linebaseline.md", "summary": "Open when looking up LINE_BASELINE in InDesign.", "keywords": ["LINE_BASELINE"]},
+  {"topic": "LINE_XHEIGHT", "file": "references/document-model/vertically-relative-to/linexheight.md", "summary": "Open when looking up LINE_XHEIGHT in InDesign.", "keywords": ["LINE_XHEIGHT"]},
+  {"topic": "PAGE_EDGE", "file": "references/document-model/vertically-relative-to/pageedge.md", "summary": "Open when looking up PAGE_EDGE in InDesign.", "keywords": ["PAGE_EDGE"]},
+  {"topic": "PAGE_MARGINS", "file": "references/document-model/vertically-relative-to/pagemargins.md", "summary": "Open when looking up PAGE_MARGINS in InDesign.", "keywords": ["PAGE_MARGINS"]},
+  {"topic": "TEXT_FRAME", "file": "references/document-model/vertically-relative-to/textframe.md", "summary": "Open when looking up TEXT_FRAME in InDesign.", "keywords": ["TEXT_FRAME"]},
+  {"topic": "TOP_OF_LEADING", "file": "references/document-model/vertically-relative-to/topofleading.md", "summary": "Open when looking up TOP_OF_LEADING in InDesign.", "keywords": ["TOP_OF_LEADING"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

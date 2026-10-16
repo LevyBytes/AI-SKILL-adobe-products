@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "EIGHT_BIT", "file": "references/document-model/compression-quality/eightbit.md", "summary": "Open when looking up EIGHT_BIT in InDesign.", "keywords": ["EIGHT_BIT"]},
+  {"topic": "FOUR_BIT", "file": "references/document-model/compression-quality/fourbit.md", "summary": "Open when looking up FOUR_BIT in InDesign.", "keywords": ["FOUR_BIT"]},
+  {"topic": "HIGH", "file": "references/document-model/compression-quality/high.md", "summary": "Open when looking up HIGH in InDesign.", "keywords": ["HIGH"]},
+  {"topic": "LOW", "file": "references/document-model/compression-quality/low.md", "summary": "Open when looking up LOW in InDesign.", "keywords": ["LOW"]},
+  {"topic": "MAXIMUM", "file": "references/document-model/compression-quality/maximum.md", "summary": "Open when looking up MAXIMUM in InDesign.", "keywords": ["MAXIMUM"]},
+  {"topic": "MEDIUM", "file": "references/document-model/compression-quality/medium.md", "summary": "Open when looking up MEDIUM in InDesign.", "keywords": ["MEDIUM"]},
+  {"topic": "MINIMUM", "file": "references/document-model/compression-quality/minimum.md", "summary": "Open when looking up MINIMUM in InDesign.", "keywords": ["MINIMUM"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

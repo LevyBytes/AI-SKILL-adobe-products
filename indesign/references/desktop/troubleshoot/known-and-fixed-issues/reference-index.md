@@ -1,0 +1,21 @@
+# InDesign — Known And Fixed Issues
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Can't view the outdated Alt Text icon for cropped images in existing documents in InDesign. [Can't view the outdated Alt Text icon for cropped images in existing documents](cropped-image-alt-text-indicator.md).
+- Open when looking up Cloud collaboration and web issues in InDesign. [Cloud collaboration and web issues](cloud-collaboration-and-web-issues.md).
+- Open when looking up File and output issues in InDesign. [File and output issues](file-and-output-issues.md).
+- Open when looking up Font and plugin issues in InDesign. [Font and plugin issues](font-and-plugin-issues.md).
+- Open when looking up GIF item, when anchored to a text frame, the img.\_idGenObjectAttribute has a height value in px. in InDesign. [GIF item, when anchored to a text frame, the img.\_idGenObjectAttribute has a height value in px.](anchored-gif-epub-pixel-height.md).
+- Open when looking up InCopy 2025 (version 20.0) and later crashes when launched using Rosetta2. in InDesign. [InCopy 2025 (version 20.0) and later crashes when launched using Rosetta2.](incopy-20-rosetta2-crash.md).
+- Open when looking up InCopy crashes intermittently for InDesign and InCopy assignment workflow. in InDesign. [InCopy crashes intermittently for InDesign and InCopy assignment workflow.](incopy-assignment-workflow-crash.md).
+- Open when looking up InCopy crashes while working with Assignments. in InDesign. [InCopy crashes while working with Assignments.](in-copy-crashes-while-working-with-assignments.md).
+- Open when looking up InDesign 2024 and InDesign 2023 have the same GUID when installed in Windows. in InDesign. [InDesign 2024 and InDesign 2023 have the same GUID when installed in Windows.](indesign-2023-2024-windows-guid-collision.md).
+- Open when looking up InDesign 2025 (version 20.0) and later crashes when launched using Rosetta2. in InDesign. [InDesign 2025 (version 20.0) and later crashes when launched using Rosetta2.](indesign-20-rosetta2-crash.md).
+- Open when looking up InDesign crash issues with Egnyte on macos in InDesign. [InDesign crash issues with Egnyte on macos](in-design-crash-issues-with-egnyte-on-macos.md).
+- Open when looking up InDesign crashes intermittently when Story Editor is opened for a long text document. in InDesign. [InDesign crashes intermittently when Story Editor is opened for a long text document.](long-document-story-editor-crash.md).
+- Open when looking up InDesign crashes or encounters Error 2 on Windows in InDesign. [InDesign crashes or encounters Error 2 on Windows](in-design-crashes-or-encounters-error-2-on-windows.md).
+- Open when looking up InDesign crashes when text with paragraph style and shading attribute is viewed in Copy Editor. in InDesign. [InDesign crashes when text with paragraph style and shading attribute is viewed in Copy Editor.](paragraph-shading-copy-editor-crash.md).
+- Open when looking up Interactive elements are dropped from the EPUB Reflowable format for None object option. in InDesign. [Interactive elements are dropped from the EPUB Reflowable format for None object option.](reflowable-epub-dropped-interactivity.md).
+- Open when looking up Launch and crash issues in InDesign. [Launch and crash issues](launch-and-crash-issues.md).
+- Open when looking up Settings, interface, and feature issues in InDesign. [Settings, interface, and feature issues](settings-interface-and-feature-issues.md).
+- Open when looking up The screen turns white when selecting text in CPU Preview and Overprint Preview modes in macOS Sonoma. in InDesign. [The screen turns white when selecting text in CPU Preview and Overprint Preview modes in macOS Sonoma.](sonoma-text-selection-white-preview.md).

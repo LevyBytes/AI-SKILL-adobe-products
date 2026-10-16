@@ -1,0 +1,32 @@
+# Shared Adobe platform — Element
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Element declaration in Shared Adobe platform. [Element declaration](declaration.md).
+- Open when looking up Element.depth in Shared Adobe platform. [Element.depth](depth.md).
+- Open when looking up Element.elementType in Shared Adobe platform. [Element.elementType](element-type.md).
+- Open when looking up Element.getPersistentData in Shared Adobe platform. [Element.getPersistentData](get-persistent-data.md).
+- Open when looking up Element.getPublishPersistentData in Shared Adobe platform. [Element.getPublishPersistentData](get-publish-persistent-data.md).
+- Open when looking up Element.getTransformationPoint in Shared Adobe platform. [Element.getTransformationPoint](get-transformation-point.md).
+- Open when looking up Element.hasPersistentData in Shared Adobe platform. [Element.hasPersistentData](has-persistent-data.md).
+- Open when looking up Element.height in Shared Adobe platform. [Element.height](height.md).
+- Open when looking up Element.layer in Shared Adobe platform. [Element.layer](layer.md).
+- Open when looking up Element.left in Shared Adobe platform. [Element.left](left.md).
+- Open when looking up Element.locked in Shared Adobe platform. [Element.locked](locked.md).
+- Open when looking up Element.matrix in Shared Adobe platform. [Element.matrix](matrix.md).
+- Open when looking up Element.name in Shared Adobe platform. [Element.name](name.md).
+- Open when looking up Element.removePersistentData in Shared Adobe platform. [Element.removePersistentData](remove-persistent-data.md).
+- Open when looking up Element.rotation in Shared Adobe platform. [Element.rotation](rotation.md).
+- Open when looking up Element.scaleX in Shared Adobe platform. [Element.scaleX](scale-x.md).
+- Open when looking up Element.scaleY in Shared Adobe platform. [Element.scaleY](scale-y.md).
+- Open when looking up Element.selected in Shared Adobe platform. [Element.selected](selected.md).
+- Open when looking up Element.setPersistentData in Shared Adobe platform. [Element.setPersistentData](set-persistent-data.md).
+- Open when looking up Element.setPublishPersistentData in Shared Adobe platform. [Element.setPublishPersistentData](set-publish-persistent-data.md).
+- Open when looking up Element.setTransformationPoint in Shared Adobe platform. [Element.setTransformationPoint](set-transformation-point.md).
+- Open when looking up Element.skewX in Shared Adobe platform. [Element.skewX](skew-x.md).
+- Open when looking up Element.skewY in Shared Adobe platform. [Element.skewY](skew-y.md).
+- Open when looking up Element.top in Shared Adobe platform. [Element.top](top.md).
+- Open when looking up Element.transformX in Shared Adobe platform. [Element.transformX](transform-x.md).
+- Open when looking up Element.transformY in Shared Adobe platform. [Element.transformY](transform-y.md).
+- Open when looking up Element.width in Shared Adobe platform. [Element.width](width.md).
+- Open when looking up Element.x in Shared Adobe platform. [Element.x](x.md).
+- Open when looking up Element.y in Shared Adobe platform. [Element.y](y.md).

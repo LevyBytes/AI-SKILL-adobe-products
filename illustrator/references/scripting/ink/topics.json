@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Ink.inkInfo", "file": "references/scripting/ink/ink-info.md", "summary": "Open when looking up Ink.inkInfo in Illustrator.", "keywords": ["Ink.inkInfo"]},
+  {"topic": "Ink.name", "file": "references/scripting/ink/name.md", "summary": "Open when looking up Ink.name in Illustrator.", "keywords": ["Ink.name"]},
+  {"topic": "Ink.typename", "file": "references/scripting/ink/typename.md", "summary": "Open when looking up Ink.typename in Illustrator.", "keywords": ["Ink.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

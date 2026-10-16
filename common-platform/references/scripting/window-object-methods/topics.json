@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "add()", "file": "references/scripting/window-object-methods/add.md", "summary": "Open when looking up add() in Shared Adobe platform.", "keywords": ["add()"]},
+  {"topic": "addEventListener()", "file": "references/scripting/window-object-methods/add-event-listener.md", "summary": "Open when looking up addEventListener() in Shared Adobe platform.", "keywords": ["addEventListener()"]},
+  {"topic": "center()", "file": "references/scripting/window-object-methods/center.md", "summary": "Open when looking up center() in Shared Adobe platform.", "keywords": ["center()"]},
+  {"topic": "close()", "file": "references/scripting/window-object-methods/close.md", "summary": "Open when looking up close() in Shared Adobe platform.", "keywords": ["close()"]},
+  {"topic": "dispatchEvent()", "file": "references/scripting/window-object-methods/dispatch-event.md", "summary": "Open when looking up dispatchEvent() in Shared Adobe platform.", "keywords": ["dispatchEvent()"]},
+  {"topic": "findElement()", "file": "references/scripting/window-object-methods/find-element.md", "summary": "Open when looking up findElement() in Shared Adobe platform.", "keywords": ["findElement()"]},
+  {"topic": "hide()", "file": "references/scripting/window-object-methods/hide.md", "summary": "Open when looking up hide() in Shared Adobe platform.", "keywords": ["hide()"]},
+  {"topic": "notify()", "file": "references/scripting/window-object-methods/notify.md", "summary": "Open when looking up notify() in Shared Adobe platform.", "keywords": ["notify()"]},
+  {"topic": "remove()", "file": "references/scripting/window-object-methods/remove.md", "summary": "Open when looking up remove() in Shared Adobe platform.", "keywords": ["remove()"]},
+  {"topic": "removeEventListener()", "file": "references/scripting/window-object-methods/remove-event-listener.md", "summary": "Open when looking up removeEventListener() in Shared Adobe platform.", "keywords": ["removeEventListener()"]},
+  {"topic": "show()", "file": "references/scripting/window-object-methods/show.md", "summary": "Open when looking up show() in Shared Adobe platform.", "keywords": ["show()"]},
+  {"topic": "update()", "file": "references/scripting/window-object-methods/update.md", "summary": "Open when looking up update() in Shared Adobe platform.", "keywords": ["update()"]},
+  {"topic": "Window object — Window Object Methods", "file": "references/scripting/window-object-methods/window-object-window-object-methods.md", "summary": "Open when looking up Window object — Window Object Methods in Shared Adobe platform.", "keywords": ["Window object — Window Object Methods"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

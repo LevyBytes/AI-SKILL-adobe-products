@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PageItem.store", "file": "references/community-types/indesign/page-item/store.md", "summary": "Open when looking up PageItem.store in Shared Adobe platform.", "keywords": ["PageItem.store"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

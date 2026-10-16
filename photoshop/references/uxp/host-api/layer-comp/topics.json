@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "apply", "file": "references/uxp/host-api/layer-comp/apply.md", "summary": "Open when looking up apply in Photoshop.", "keywords": ["apply"]},
+  {"topic": "duplicate", "file": "references/uxp/host-api/layer-comp/duplicate.md", "summary": "Open when looking up duplicate in Photoshop.", "keywords": ["duplicate"]},
+  {"topic": "recapture", "file": "references/uxp/host-api/layer-comp/recapture.md", "summary": "Open when looking up recapture in Photoshop.", "keywords": ["recapture"]},
+  {"topic": "remove", "file": "references/uxp/host-api/layer-comp/remove.md", "summary": "Open when looking up remove in Photoshop.", "keywords": ["remove"]},
+  {"topic": "resetLayerComp", "file": "references/uxp/host-api/layer-comp/reset-layer-comp.md", "summary": "Open when looking up resetLayerComp in Photoshop.", "keywords": ["resetLayerComp"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

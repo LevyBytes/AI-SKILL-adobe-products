@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "GRAPHIC_TYPE_CELL", "file": "references/document-model/cell-type-enum/graphictypecell.md", "summary": "Open when looking up GRAPHIC_TYPE_CELL in InDesign.", "keywords": ["GRAPHIC_TYPE_CELL"]},
+  {"topic": "TEXT_TYPE_CELL", "file": "references/document-model/cell-type-enum/texttypecell.md", "summary": "Open when looking up TEXT_TYPE_CELL in InDesign.", "keywords": ["TEXT_TYPE_CELL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

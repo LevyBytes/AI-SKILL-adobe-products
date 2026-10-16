@@ -1,0 +1,33 @@
+# Photoshop — Refine and modify selections
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust a selection manually in Photoshop. [Adjust a selection manually](adjust-a-selection-manually.md).
+- Open when looking up Adjust a selection manually in Photoshop. [Adjust a selection manually references](adjust-a-selection-manually/reference-index.md).
+- Open when looking up Clean up stray pixels in a color-based selection in Photoshop. [Clean up stray pixels in a color-based selection](clean-up-stray-pixels-in-a-color-based-selection.md).
+- Open when looking up Control the movement of a selection in Photoshop. [Control the movement of a selection](control-the-movement-of-a-selection.md).
+- Open when looking up Copy and paste selections in Photoshop. [Copy and paste selections](copy-and-paste-selections.md).
+- Open when looking up Copy and paste selections in Photoshop. [Copy and paste selections references](copy-and-paste-selections/reference-index.md).
+- Open when looking up Create a selection around a selection border in Photoshop. [Create a selection around a selection border](create-a-selection-around-a-selection-border.md).
+- Open when looking up Create multiple copies of a selection within an image in Photoshop. [Create multiple copies of a selection within an image](create-multiple-copies-of-a-selection-within-an-image.md).
+- Open when looking up Decrease the fringe on a selection in Photoshop. [Decrease the fringe on a selection](decrease-the-fringe-on-a-selection.md).
+- Open when looking up Define a feathered edge for a selection tool in Photoshop. [Define a feathered edge for a selection tool](define-a-feathered-edge-for-a-selection-tool.md).
+- Open when looking up Define a feathered edge for a selection tool in Photoshop. [Define a feathered edge for a selection tool references](selection-edge-feathering/reference-index.md).
+- Open when looking up Delete or cut selected pixels in Photoshop. [Delete or cut selected pixels](delete-or-cut-selected-pixels.md).
+- Open when looking up Expand or contract a selection in Photoshop. [Expand or contract a selection](expand-or-contract-a-selection.md).
+- Open when looking up Expand or contract a selection in Photoshop. [Expand or contract a selection references](selection-expansion-contraction/reference-index.md).
+- Open when looking up Fringe pixels around a selection in Photoshop. [Fringe pixels around a selection](fringe-pixels-around-a-selection.md).
+- Open when looking up Fringe pixels around a selection in Photoshop. [Fringe pixels around a selection references](fringe-pixels-around-a-selection/reference-index.md).
+- Open when looking up Hide or show selection edges in Photoshop. [Hide or show selection edges](hide-or-show-selection-edges.md).
+- Open when looking up Hover layer bounds in the Move tool in Photoshop. [Hover layer bounds in the Move tool](hover-layer-bounds-in-the-move-tool.md).
+- Open when looking up Hover layer bounds in the Move tool in Photoshop. [Hover layer bounds in the Move tool references](hover-layer-bounds-in-the-move-tool/reference-index.md).
+- Open when looking up Inverse selection in Photoshop. [Inverse selection](inverse-selection.md).
+- Open when looking up Move a selection or selection border in Photoshop. [Move a selection or selection border](move-a-selection-or-selection-border.md).
+- Open when looking up Move a selection or selection border in Photoshop. [Move a selection or selection border references](move-a-selection-or-selection-border/reference-index.md).
+- Open when looking up Paste one selection into or outside another in Photoshop. [Paste one selection into or outside another](paste-one-selection-into-or-outside-another.md).
+- Open when looking up Refine and soften selection edges in Photoshop. [Refine and soften selection edges](refine-and-soften-selection-edges.md).
+- Open when looking up Refine and soften selection edges in Photoshop. [Refine and soften selection edges references](refine-and-soften-selection-edges/reference-index.md).
+- Open when looking up Refine your selection and mask in Photoshop. [Refine your selection and mask](refine-your-selection-and-mask.md).
+- Open when looking up Refine your selection and mask in Photoshop. [Refine your selection and mask references](refine-your-selection-and-mask/reference-index.md).
+- Open when looking up Remove a matte from a selection in Photoshop. [Remove a matte from a selection](remove-a-matte-from-a-selection.md).
+- Open when looking up Select only an area intersected by other selections in Photoshop. [Select only an area intersected by other selections](select-only-an-area-intersected-by-other-selections.md).
+- Open when looking up Select pixels using anti-aliasing in Photoshop. [Select pixels using anti-aliasing](select-pixels-using-anti-aliasing.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Transparency panel", "file": "references/desktop/manage-colors/apply-transparency-and-blending/transparency-panel-overview/transparency-panel.md", "summary": "Open when looking up Transparency panel in Illustrator.", "keywords": ["Transparency panel"]},
+  {"topic": "Transparency panel menu", "file": "references/desktop/manage-colors/apply-transparency-and-blending/transparency-panel-overview/transparency-panel-menu.md", "summary": "Open when looking up Transparency panel menu in Illustrator.", "keywords": ["Transparency panel menu"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

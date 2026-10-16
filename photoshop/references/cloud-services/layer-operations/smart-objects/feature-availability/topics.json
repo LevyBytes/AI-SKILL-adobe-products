@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Coming soon", "file": "references/cloud-services/layer-operations/smart-objects/feature-availability/coming-soon.md", "summary": "Open when looking up Coming soon in Photoshop.", "keywords": ["Coming soon"]},
+  {"topic": "Currently available in V2", "file": "references/cloud-services/layer-operations/smart-objects/feature-availability/currently-available-in-v2.md", "summary": "Open when looking up Currently available in V2 in Photoshop.", "keywords": ["Currently available in V2"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Save checked-out content", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/save-managed-layout-changes/save-checked-out-content.md", "summary": "Open when looking up Save checked-out content in InDesign.", "keywords": ["Save checked-out content"]},
+  {"topic": "Save document copy", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/save-managed-layout-changes/save-document-copy.md", "summary": "Open when looking up Save document copy in InDesign.", "keywords": ["Save document copy"]},
+  {"topic": "Save document with new name", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/save-managed-layout-changes/save-document-with-new-name.md", "summary": "Open when looking up Save document with new name in InDesign.", "keywords": ["Save document with new name"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

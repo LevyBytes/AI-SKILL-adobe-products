@@ -1,0 +1,5 @@
+# Documents
+
+Documents collection.
+
+### Instance

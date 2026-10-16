@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Build a workflow canvas", "file": "references/web/enterprise/creative-production/add-and-connect-nodes/build-a-workflow-canvas.md", "summary": "Open when looking up Build a workflow canvas in Firefly.", "keywords": ["Build a workflow canvas"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

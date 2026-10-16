@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "declare const Socket: SocketConstructor", "file": "references/community-types/shared/declare-const-socket-socket-constructor.md", "summary": "Open when looking up declare const Socket: SocketConstructor in Shared Adobe platform.", "keywords": ["declare const Socket: SocketConstructor"]},
+  {"topic": "Socket references", "file": "references/community-types/shared/socket/reference-index.md", "summary": "Open when looking up Socket in Shared Adobe platform.", "keywords": ["Socket references"]},
+  {"topic": "SocketConstructor", "file": "references/community-types/shared/socket-constructor.md", "summary": "Open when looking up SocketConstructor in Shared Adobe platform.", "keywords": ["SocketConstructor"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

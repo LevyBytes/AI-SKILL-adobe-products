@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Autotag pdf example setup", "file": "references/pdf-services/examples/node/autotag-pdf/autotag-pdf-setup.md", "summary": "Open when looking up Autotag pdf example setup in Acrobat.", "keywords": ["Autotag pdf example setup"]},
+  {"topic": "autotag-pdf", "file": "references/pdf-services/examples/node/autotag-pdf/autotag-pdf.cjs", "summary": "Open when looking up autotag-pdf in Acrobat.", "keywords": ["autotag-pdf"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

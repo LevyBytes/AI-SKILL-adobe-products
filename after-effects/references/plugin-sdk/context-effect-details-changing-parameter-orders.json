@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Change defaults change ids references", "file": "references/plugin-sdk/change-defaults-change-ids/reference-index.md", "summary": "Open when looking up Change defaults change ids in After Effects.", "keywords": ["Change defaults change ids references"]},
+  {"topic": "Changing Parameter Orders, the Nice Way", "file": "references/plugin-sdk/changing-parameter-orders-the-nice-way.md", "summary": "Open when looking up Changing Parameter Orders, the Nice Way in After Effects.", "keywords": ["Changing Parameter Orders, the Nice Way"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Integrate Adobe Asset link", "file": "references/desktop/get-started/settings-and-preferences/interface-preferences/integrate-adobe-asset-link.md", "summary": "Open when looking up Integrate Adobe Asset link in InDesign.", "keywords": ["Integrate Adobe Asset link"]},
+  {"topic": "Performance settings", "file": "references/desktop/get-started/settings-and-preferences/interface-preferences/performance-settings.md", "summary": "Open when looking up Performance settings in InDesign.", "keywords": ["Performance settings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

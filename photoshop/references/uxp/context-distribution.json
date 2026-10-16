@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Distribute", "file": "references/uxp/distribute.md", "summary": "Open when looking up Distribute in Photoshop.", "keywords": ["Distribute"]},
+  {"topic": "Distribution Options", "file": "references/uxp/distribution-options.md", "summary": "Open when looking up Distribution Options in Photoshop.", "keywords": ["Distribution Options"]},
+  {"topic": "Distribution Options references", "file": "references/uxp/distribution-options/reference-index.md", "summary": "Open when looking up Distribution Options in Photoshop.", "keywords": ["Distribution Options references"]},
+  {"topic": "Installation", "file": "references/uxp/installation.md", "summary": "Open when looking up Installation in Photoshop.", "keywords": ["Installation"]},
+  {"topic": "Installation references", "file": "references/uxp/installation/reference-index.md", "summary": "Open when looking up Installation in Photoshop.", "keywords": ["Installation references"]},
+  {"topic": "Packaging Your Plugin", "file": "references/uxp/packaging-your-plugin.md", "summary": "Open when looking up Packaging Your Plugin in Photoshop.", "keywords": ["Packaging Your Plugin"]},
+  {"topic": "Plugin management", "file": "references/uxp/plugin-management.md", "summary": "Open when looking up Plugin management in Photoshop.", "keywords": ["Plugin management"]},
+  {"topic": "Plugin management references", "file": "references/uxp/plugin-management/reference-index.md", "summary": "Open when looking up Plugin management in Photoshop.", "keywords": ["Plugin management references"]},
+  {"topic": "Plugin Manager", "file": "references/uxp/plugin-manager.md", "summary": "Open when looking up Plugin Manager in Photoshop.", "keywords": ["Plugin Manager"]},
+  {"topic": "Plugin Manager references", "file": "references/uxp/plugin-manager/reference-index.md", "summary": "Open when looking up Plugin Manager in Photoshop.", "keywords": ["Plugin Manager references"]},
+  {"topic": "Share your plugin", "file": "references/uxp/share-your-plugin.md", "summary": "Open when looking up Share your plugin in Photoshop.", "keywords": ["Share your plugin"]},
+  {"topic": "Sharing Your Plugin", "file": "references/uxp/sharing-your-plugin.md", "summary": "Open when looking up Sharing Your Plugin in Photoshop.", "keywords": ["Sharing Your Plugin"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

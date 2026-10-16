@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Setting where auto-save cache files are stored for Team Projects.", "file": "references/desktop/specify-auto-save-cache-location/team-project-auto-save-location.md", "summary": "Open when looking up Setting where auto-save cache files are stored for Team Projects. in Premiere Pro.", "keywords": ["Setting where auto-save cache files are stored for Team Projects."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

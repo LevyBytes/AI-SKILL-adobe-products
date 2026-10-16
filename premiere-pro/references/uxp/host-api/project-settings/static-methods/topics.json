@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "createSetIngestSettingsAction", "file": "references/uxp/host-api/project-settings/static-methods/create-set-ingest-settings-action.md", "summary": "Open when looking up createSetIngestSettingsAction in Premiere Pro.", "keywords": ["createSetIngestSettingsAction"]},
+  {"topic": "createSetScratchDiskSettingsAction", "file": "references/uxp/host-api/project-settings/static-methods/create-set-scratch-disk-settings-action.md", "summary": "Open when looking up createSetScratchDiskSettingsAction in Premiere Pro.", "keywords": ["createSetScratchDiskSettingsAction"]},
+  {"topic": "getIngestSettings", "file": "references/uxp/host-api/project-settings/static-methods/get-ingest-settings.md", "summary": "Open when looking up getIngestSettings in Premiere Pro.", "keywords": ["getIngestSettings"]},
+  {"topic": "getScratchDiskSettings", "file": "references/uxp/host-api/project-settings/static-methods/get-scratch-disk-settings.md", "summary": "Open when looking up getScratchDiskSettings in Premiere Pro.", "keywords": ["getScratchDiskSettings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

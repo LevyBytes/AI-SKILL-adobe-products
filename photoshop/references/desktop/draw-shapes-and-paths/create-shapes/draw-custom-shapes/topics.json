@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Draw and edit a custom shape", "file": "references/desktop/draw-shapes-and-paths/create-shapes/draw-custom-shapes/draw-and-edit-a-custom-shape.md", "summary": "Open when looking up Draw and edit a custom shape in Photoshop.", "keywords": ["Draw and edit a custom shape"]},
+  {"topic": "Save a shape or path as a custom shape", "file": "references/desktop/draw-shapes-and-paths/create-shapes/draw-custom-shapes/save-a-shape-or-path-as-a-custom-shape.md", "summary": "Open when looking up Save a shape or path as a custom shape in Photoshop.", "keywords": ["Save a shape or path as a custom shape"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

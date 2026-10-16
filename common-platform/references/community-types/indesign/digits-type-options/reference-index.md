@@ -1,0 +1,24 @@
+# Shared Adobe platform — DigitsTypeOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up DigitsTypeOptions declaration in Shared Adobe platform. [DigitsTypeOptions declaration](declaration.md).
+- Open when looking up DigitsTypeOptions.ARABIC_DIGITS in Shared Adobe platform. [DigitsTypeOptions.ARABIC_DIGITS](arabicdigits.md).
+- Open when looking up DigitsTypeOptions.BENGALI_DIGITS in Shared Adobe platform. [DigitsTypeOptions.BENGALI_DIGITS](bengalidigits.md).
+- Open when looking up DigitsTypeOptions.BURMESE_DIGITS in Shared Adobe platform. [DigitsTypeOptions.BURMESE_DIGITS](burmesedigits.md).
+- Open when looking up DigitsTypeOptions.DEFAULT_DIGITS in Shared Adobe platform. [DigitsTypeOptions.DEFAULT_DIGITS](defaultdigits.md).
+- Open when looking up DigitsTypeOptions.DEVANAGARI_DIGITS in Shared Adobe platform. [DigitsTypeOptions.DEVANAGARI_DIGITS](devanagaridigits.md).
+- Open when looking up DigitsTypeOptions.FARSI_DIGITS in Shared Adobe platform. [DigitsTypeOptions.FARSI_DIGITS](farsidigits.md).
+- Open when looking up DigitsTypeOptions.FULL_FARSI_DIGITS in Shared Adobe platform. [DigitsTypeOptions.FULL_FARSI_DIGITS](fullfarsidigits.md).
+- Open when looking up DigitsTypeOptions.GUJARATI_DIGITS in Shared Adobe platform. [DigitsTypeOptions.GUJARATI_DIGITS](gujaratidigits.md).
+- Open when looking up DigitsTypeOptions.GURMUKHI_DIGITS in Shared Adobe platform. [DigitsTypeOptions.GURMUKHI_DIGITS](gurmukhidigits.md).
+- Open when looking up DigitsTypeOptions.HINDI_DIGITS in Shared Adobe platform. [DigitsTypeOptions.HINDI_DIGITS](hindidigits.md).
+- Open when looking up DigitsTypeOptions.KANNADA_DIGITS in Shared Adobe platform. [DigitsTypeOptions.KANNADA_DIGITS](kannadadigits.md).
+- Open when looking up DigitsTypeOptions.KHMER_DIGITS in Shared Adobe platform. [DigitsTypeOptions.KHMER_DIGITS](khmerdigits.md).
+- Open when looking up DigitsTypeOptions.LAO_DIGITS in Shared Adobe platform. [DigitsTypeOptions.LAO_DIGITS](laodigits.md).
+- Open when looking up DigitsTypeOptions.MALAYALAM_DIGITS in Shared Adobe platform. [DigitsTypeOptions.MALAYALAM_DIGITS](malayalamdigits.md).
+- Open when looking up DigitsTypeOptions.NATIVE_DIGITS in Shared Adobe platform. [DigitsTypeOptions.NATIVE_DIGITS](nativedigits.md).
+- Open when looking up DigitsTypeOptions.ORIYA_DIGITS in Shared Adobe platform. [DigitsTypeOptions.ORIYA_DIGITS](oriyadigits.md).
+- Open when looking up DigitsTypeOptions.TAMIL_DIGITS in Shared Adobe platform. [DigitsTypeOptions.TAMIL_DIGITS](tamildigits.md).
+- Open when looking up DigitsTypeOptions.TELUGU_DIGITS in Shared Adobe platform. [DigitsTypeOptions.TELUGU_DIGITS](telugudigits.md).
+- Open when looking up DigitsTypeOptions.THAI_DIGITS in Shared Adobe platform. [DigitsTypeOptions.THAI_DIGITS](thaidigits.md).
+- Open when looking up DigitsTypeOptions.TIBETAN_DIGITS in Shared Adobe platform. [DigitsTypeOptions.TIBETAN_DIGITS](tibetandigits.md).

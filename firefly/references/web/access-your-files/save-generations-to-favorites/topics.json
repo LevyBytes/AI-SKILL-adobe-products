@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Save content to Favorites", "file": "references/web/access-your-files/save-generations-to-favorites/save-content-to-favorites.md", "summary": "Open when looking up Save content to Favorites in Firefly.", "keywords": ["Save content to Favorites"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

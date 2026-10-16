@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "_CommandID.PurgeAllMemory", "file": "references/community-types/aftereffects/command-id/purge-all-memory.md", "summary": "Open when looking up _CommandID.PurgeAllMemory in Shared Adobe platform.", "keywords": ["_CommandID.PurgeAllMemory"]},
+  {"topic": "_CommandID.PurgeAllMemoryAndDiskCache", "file": "references/community-types/aftereffects/command-id/purge-all-memory-and-disk-cache.md", "summary": "Open when looking up _CommandID.PurgeAllMemoryAndDiskCache in Shared Adobe platform.", "keywords": ["_CommandID.PurgeAllMemoryAndDiskCache"]},
+  {"topic": "_CommandID.PurgeImageCacheMemory", "file": "references/community-types/aftereffects/command-id/purge-image-cache-memory.md", "summary": "Open when looking up _CommandID.PurgeImageCacheMemory in Shared Adobe platform.", "keywords": ["_CommandID.PurgeImageCacheMemory"]},
+  {"topic": "_CommandID.PurgeSnapshot", "file": "references/community-types/aftereffects/command-id/purge-snapshot.md", "summary": "Open when looking up _CommandID.PurgeSnapshot in Shared Adobe platform.", "keywords": ["_CommandID.PurgeSnapshot"]},
+  {"topic": "_CommandID.PurgeUndo", "file": "references/community-types/aftereffects/command-id/purge-undo.md", "summary": "Open when looking up _CommandID.PurgeUndo in Shared Adobe platform.", "keywords": ["_CommandID.PurgeUndo"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

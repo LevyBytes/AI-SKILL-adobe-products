@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "AnchoredObjectDefault", "file": "references/community-types/indesign/anchored-object-default.md", "summary": "Open when looking up AnchoredObjectDefault in Shared Adobe platform.", "keywords": ["AnchoredObjectDefault"]},
+  {"topic": "AnchoredObjectSetting", "file": "references/community-types/indesign/anchored-object-setting.md", "summary": "Open when looking up AnchoredObjectSetting in Shared Adobe platform.", "keywords": ["AnchoredObjectSetting"]},
+  {"topic": "AnchoredRelativeTo", "file": "references/community-types/indesign/anchored-relative-to.md", "summary": "Open when looking up AnchoredRelativeTo in Shared Adobe platform.", "keywords": ["AnchoredRelativeTo"]},
+  {"topic": "AnchorPosition", "file": "references/community-types/indesign/anchor-position.md", "summary": "Open when looking up AnchorPosition in Shared Adobe platform.", "keywords": ["AnchorPosition"]},
+  {"topic": "HorizontalAlignment", "file": "references/community-types/indesign/horizontal-alignment.md", "summary": "Open when looking up HorizontalAlignment in Shared Adobe platform.", "keywords": ["HorizontalAlignment"]},
+  {"topic": "VerticalAlignment", "file": "references/community-types/indesign/vertical-alignment.md", "summary": "Open when looking up VerticalAlignment in Shared Adobe platform.", "keywords": ["VerticalAlignment"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

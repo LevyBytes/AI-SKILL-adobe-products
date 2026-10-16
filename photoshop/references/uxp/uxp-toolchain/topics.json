@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "A Basic Toolchain", "file": "references/uxp/uxp-toolchain/a-basic-toolchain.md", "summary": "Open when looking up A Basic Toolchain in Photoshop.", "keywords": ["A Basic Toolchain"]},
+  {"topic": "Advanced Toolchain", "file": "references/uxp/uxp-toolchain/advanced-toolchain.md", "summary": "Open when looking up Advanced Toolchain in Photoshop.", "keywords": ["Advanced Toolchain"]},
+  {"topic": "batchPlay Logger for ExtendScript developers", "file": "references/uxp/uxp-toolchain/batch-play-logger-for-extend-script-developers.md", "summary": "Open when looking up batchPlay Logger for ExtendScript developers in Photoshop.", "keywords": ["batchPlay Logger for ExtendScript developers"]},
+  {"topic": "HTML Playground", "file": "references/uxp/uxp-toolchain/html-playground.md", "summary": "Open when looking up HTML Playground in Photoshop.", "keywords": ["HTML Playground"]},
+  {"topic": "Installing the Tooling", "file": "references/uxp/uxp-toolchain/installing-the-tooling.md", "summary": "Open when looking up Installing the Tooling in Photoshop.", "keywords": ["Installing the Tooling"]},
+  {"topic": "Intellectual Toolchain", "file": "references/uxp/uxp-toolchain/intellectual-toolchain.md", "summary": "Open when looking up Intellectual Toolchain in Photoshop.", "keywords": ["Intellectual Toolchain"]},
+  {"topic": "Kitchen Sink Example", "file": "references/uxp/uxp-toolchain/kitchen-sink-example.md", "summary": "Open when looking up Kitchen Sink Example in Photoshop.", "keywords": ["Kitchen Sink Example"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

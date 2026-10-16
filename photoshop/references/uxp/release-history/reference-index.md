@@ -1,0 +1,46 @@
+# Photoshop — Release history
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Dialog lockDocumentFocus in Photoshop. [Dialog lockDocumentFocus](dialog-lock-document-focus.md).
+- Open when looking up Photoshop api changelog adobe photoshop beta build 64 aug 6 2021 23 0 in Photoshop. [Photoshop api changelog adobe photoshop beta build 64 aug 6 2021 23 0 references](beta-23-0-build-64-2021-08-06/reference-index.md).
+- Open when looking up Photoshop api changelog adobe photoshop beta build 65 sep 3 2021 23 0 in Photoshop. [Photoshop api changelog adobe photoshop beta build 65 sep 3 2021 23 0 references](beta-23-0-build-65-2021-09-03/reference-index.md).
+- Open when looking up Photoshop api changelog adobe photoshop prerelease build 61 jun 24 2021 22 5 in Photoshop. [Photoshop api changelog adobe photoshop prerelease build 61 jun 24 2021 22 5 references](prerelease-22-5-build-61-2021-06-24/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 23 0 october 2021 in Photoshop. [Photoshop api changelog photoshop 23 0 october 2021 references](photoshop-api-changelog-photoshop-23-0-october-2021/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 23 3 april 2022 in Photoshop. [Photoshop api changelog photoshop 23 3 april 2022 references](photoshop-api-changelog-photoshop-23-3-april-2022/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 23 4 july 2022 in Photoshop. [Photoshop api changelog photoshop 23 4 july 2022 references](photoshop-api-changelog-photoshop-23-4-july-2022/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 23 5 august 2022 in Photoshop. [Photoshop api changelog photoshop 23 5 august 2022 references](photoshop-api-changelog-photoshop-23-5-august-2022/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 24 0 october 2022 in Photoshop. [Photoshop api changelog photoshop 24 0 october 2022 references](photoshop-api-changelog-photoshop-24-0-october-2022/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 24 1 december 2022 in Photoshop. [Photoshop api changelog photoshop 24 1 december 2022 references](photoshop-api-changelog-photoshop-24-1-december-2022/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 24 2 february 2023 in Photoshop. [Photoshop api changelog photoshop 24 2 february 2023 references](photoshop-api-changelog-photoshop-24-2-february-2023/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 24 4 april 2023 in Photoshop. [Photoshop api changelog photoshop 24 4 april 2023 references](photoshop-api-changelog-photoshop-24-4-april-2023/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 24 5 may 2023 in Photoshop. [Photoshop api changelog photoshop 24 5 may 2023 references](photoshop-api-changelog-photoshop-24-5-may-2023/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 24 6 june 2023 in Photoshop. [Photoshop api changelog photoshop 24 6 june 2023 references](photoshop-api-changelog-photoshop-24-6-june-2023/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 25 0 september 2023 in Photoshop. [Photoshop api changelog photoshop 25 0 september 2023 references](photoshop-api-changelog-photoshop-25-0-september-2023/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 26 0 oct 2024 in Photoshop. [Photoshop api changelog photoshop 26 0 oct 2024 references](photoshop-api-changelog-photoshop-26-0-oct-2024/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 26 11 september 2025 in Photoshop. [Photoshop api changelog photoshop 26 11 september 2025 references](photoshop-api-changelog-photoshop-26-11-september-2025/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 27 2 december 2025 in Photoshop. [Photoshop api changelog photoshop 27 2 december 2025 references](photoshop-api-changelog-photoshop-27-2-december-2025/reference-index.md).
+- Open when looking up Photoshop api changelog photoshop 27 4 february 2026 in Photoshop. [Photoshop api changelog photoshop 27 4 february 2026 references](photoshop-api-changelog-photoshop-27-4-february-2026/reference-index.md).
+- Open when looking up Photoshop API Changelog — Adobe Photoshop Prerelease Build 60: Jun 10, 2021 (22.5) in Photoshop. [Photoshop API Changelog — Adobe Photoshop Prerelease Build 60: Jun 10, 2021 (22.5)](prerelease-22-5-build-60-2021-06-10.md).
+- Open when looking up Photoshop API Changelog — Adobe Photoshop Prerelease Build 60: Jun 10, 2021 (22.5) in Photoshop. [Photoshop API Changelog — Adobe Photoshop Prerelease Build 60: Jun 10, 2021 (22.5) references](prerelease-22-5-build-60-2021-06-10/reference-index.md).
+- Open when looking up Photoshop API Changelog — Documentation update (May 2025) in Photoshop. [Photoshop API Changelog — Documentation update (May 2025)](photoshop-api-changelog-documentation-update-may-2025.md).
+- Open when looking up Photoshop API Changelog — Photoshop 23.1 (December 2022) in Photoshop. [Photoshop API Changelog — Photoshop 23.1 (December 2022)](photoshop-api-changelog-photoshop-23-1-december-2022.md).
+- Open when looking up Photoshop API Changelog — Photoshop 23.2 (February 2022) in Photoshop. [Photoshop API Changelog — Photoshop 23.2 (February 2022)](photoshop-api-changelog-photoshop-23-2-february-2022.md).
+- Open when looking up Photoshop API Changelog — Photoshop 25.1 (October 2023) in Photoshop. [Photoshop API Changelog — Photoshop 25.1 (October 2023)](photoshop-api-changelog-photoshop-25-1-october-2023.md).
+- Open when looking up Photoshop API Changelog — Photoshop 25.1 (October 2023) in Photoshop. [Photoshop API Changelog — Photoshop 25.1 (October 2023) references](photoshop-api-changelog-photoshop-25-1-october-2023/reference-index.md).
+- Open when looking up Photoshop API Changelog — Photoshop 25.10 (May 2024) in Photoshop. [Photoshop API Changelog — Photoshop 25.10 (May 2024)](photoshop-api-changelog-photoshop-25-10-may-2024.md).
+- Open when looking up Photoshop API Changelog — Photoshop 26.9 (July 2025) in Photoshop. [Photoshop API Changelog — Photoshop 26.9 (July 2025)](photoshop-api-changelog-photoshop-26-9-july-2025.md).
+- Open when looking up UXP v6.4 Integration in Photoshop. [UXP v6.4 Integration](uxp-v6-4-integration.md).
+- Open when looking up UXP v6.5 Integration in Photoshop. [UXP v6.5 Integration](uxp-v6-5-integration.md).
+- Open when looking up UXP v7.0 Integration in Photoshop. [UXP v7.0 Integration](uxp-v7-0-integration.md).
+- Open when looking up UXP v7.1 Integration in Photoshop. [UXP v7.1 Integration](uxp-v7-1-integration.md).
+- Open when looking up UXP v7.2 Integration in Photoshop. [UXP v7.2 Integration](uxp-v7-2-integration.md).
+- Open when looking up UXP v7.3 Integration in Photoshop. [UXP v7.3 Integration](uxp-v7-3-integration.md).
+- Open when looking up UXP v7.4 Integration in Photoshop. [UXP v7.4 Integration](uxp-v7-4-integration.md).
+- Open when looking up UXP v8.0.1 Integration in Photoshop. [UXP v8.0.1 Integration](uxp-v8-0-1-integration.md).
+- Open when looking up UXP v8.1.0 Integration in Photoshop. [UXP v8.1.0 Integration](uxp-v8-1-0-integration.md).
+- Open when looking up UXP v8.2.0 Integration in Photoshop. [UXP v8.2.0 Integration](uxp-v8-2-0-integration.md).
+- Open when looking up UXP v8.3.0 Integration in Photoshop. [UXP v8.3.0 Integration](uxp-v8-3-0-integration.md).
+- Open when looking up UXP v8.4.0 Integration in Photoshop. [UXP v8.4.0 Integration](uxp-v8-4-0-integration.md).
+- Open when looking up UXP v9.0.0 Integration in Photoshop. [UXP v9.0.0 Integration](uxp-v9-0-0-integration.md).
+- Open when looking up UXP v9.1.0 Integration in Photoshop. [UXP v9.1.0 Integration](uxp-v9-1-0-integration.md).
+- Open when looking up UXP v9.2.0 Integration in Photoshop. [UXP v9.2.0 Integration](uxp-v9-2-0-integration.md).

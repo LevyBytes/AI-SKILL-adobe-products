@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Expand blended objects", "file": "references/desktop/manage-colors/apply-transparency-and-blending/release-or-expand-blended-objects/expand-blended-objects.md", "summary": "Open when looking up Expand blended objects in Illustrator.", "keywords": ["Expand blended objects"]},
+  {"topic": "Release blended objects", "file": "references/desktop/manage-colors/apply-transparency-and-blending/release-or-expand-blended-objects/release-blended-objects.md", "summary": "Open when looking up Release blended objects in Illustrator.", "keywords": ["Release blended objects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

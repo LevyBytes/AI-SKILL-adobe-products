@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "IMEPreference", "file": "references/community-types/indesign/ime-preference.md", "summary": "Open when looking up IMEPreference in Shared Adobe platform.", "keywords": ["IMEPreference"]},
+  {"topic": "KentenAlignment", "file": "references/community-types/indesign/kenten-alignment.md", "summary": "Open when looking up KentenAlignment in Shared Adobe platform.", "keywords": ["KentenAlignment"]},
+  {"topic": "KentenCharacter", "file": "references/community-types/indesign/kenten-character.md", "summary": "Open when looking up KentenCharacter in Shared Adobe platform.", "keywords": ["KentenCharacter"]},
+  {"topic": "KentenCharacterSet", "file": "references/community-types/indesign/kenten-character-set.md", "summary": "Open when looking up KentenCharacterSet in Shared Adobe platform.", "keywords": ["KentenCharacterSet"]},
+  {"topic": "KinsokuHangTypes", "file": "references/community-types/indesign/kinsoku-hang-types.md", "summary": "Open when looking up KinsokuHangTypes in Shared Adobe platform.", "keywords": ["KinsokuHangTypes"]},
+  {"topic": "KinsokuSet", "file": "references/community-types/indesign/kinsoku-set.md", "summary": "Open when looking up KinsokuSet in Shared Adobe platform.", "keywords": ["KinsokuSet"]},
+  {"topic": "KinsokuTable references", "file": "references/community-types/indesign/kinsoku-table/reference-index.md", "summary": "Open when looking up KinsokuTable in Shared Adobe platform.", "keywords": ["KinsokuTable references"]},
+  {"topic": "KinsokuTables references", "file": "references/community-types/indesign/kinsoku-tables/reference-index.md", "summary": "Open when looking up KinsokuTables in Shared Adobe platform.", "keywords": ["KinsokuTables references"]},
+  {"topic": "KinsokuType", "file": "references/community-types/indesign/kinsoku-type.md", "summary": "Open when looking up KinsokuType in Shared Adobe platform.", "keywords": ["KinsokuType"]},
+  {"topic": "MojikumiTable references", "file": "references/community-types/indesign/mojikumi-table/reference-index.md", "summary": "Open when looking up MojikumiTable in Shared Adobe platform.", "keywords": ["MojikumiTable references"]},
+  {"topic": "MojikumiTableDefaults references", "file": "references/community-types/indesign/mojikumi-table-defaults/reference-index.md", "summary": "Open when looking up MojikumiTableDefaults in Shared Adobe platform.", "keywords": ["MojikumiTableDefaults references"]},
+  {"topic": "MojikumiTables references", "file": "references/community-types/indesign/mojikumi-tables/reference-index.md", "summary": "Open when looking up MojikumiTables in Shared Adobe platform.", "keywords": ["MojikumiTables references"]},
+  {"topic": "MojikumiUiPreference", "file": "references/community-types/indesign/mojikumi-ui-preference.md", "summary": "Open when looking up MojikumiUiPreference in Shared Adobe platform.", "keywords": ["MojikumiUiPreference"]},
+  {"topic": "RubyAlignments", "file": "references/community-types/indesign/ruby-alignments.md", "summary": "Open when looking up RubyAlignments in Shared Adobe platform.", "keywords": ["RubyAlignments"]},
+  {"topic": "RubyKentenPosition", "file": "references/community-types/indesign/ruby-kenten-position.md", "summary": "Open when looking up RubyKentenPosition in Shared Adobe platform.", "keywords": ["RubyKentenPosition"]},
+  {"topic": "RubyOverhang", "file": "references/community-types/indesign/ruby-overhang.md", "summary": "Open when looking up RubyOverhang in Shared Adobe platform.", "keywords": ["RubyOverhang"]},
+  {"topic": "RubyParentSpacing", "file": "references/community-types/indesign/ruby-parent-spacing.md", "summary": "Open when looking up RubyParentSpacing in Shared Adobe platform.", "keywords": ["RubyParentSpacing"]},
+  {"topic": "RubyTypes", "file": "references/community-types/indesign/ruby-types.md", "summary": "Open when looking up RubyTypes in Shared Adobe platform.", "keywords": ["RubyTypes"]},
+  {"topic": "WarichuAlignment", "file": "references/community-types/indesign/warichu-alignment.md", "summary": "Open when looking up WarichuAlignment in Shared Adobe platform.", "keywords": ["WarichuAlignment"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

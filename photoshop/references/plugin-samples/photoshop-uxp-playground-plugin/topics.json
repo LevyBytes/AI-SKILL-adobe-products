@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "About", "file": "references/plugin-samples/photoshop-uxp-playground-plugin/about.md", "summary": "Open when looking up About in Photoshop.", "keywords": ["About"]},
+  {"topic": "Usage", "file": "references/plugin-samples/photoshop-uxp-playground-plugin/usage.md", "summary": "Open when looking up Usage in Photoshop.", "keywords": ["Usage"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "certified", "file": "references/scripting/plug-in/certified.md", "summary": "Open when looking up certified in Acrobat.", "keywords": ["certified"]},
+  {"topic": "JavaScript APIs — PlugIn", "file": "references/scripting/plug-in/java-script-apis-plug-in.md", "summary": "Open when looking up JavaScript APIs — PlugIn in Acrobat.", "keywords": ["JavaScript APIs — PlugIn"]},
+  {"topic": "loaded", "file": "references/scripting/plug-in/loaded.md", "summary": "Open when looking up loaded in Acrobat.", "keywords": ["loaded"]},
+  {"topic": "name", "file": "references/scripting/plug-in/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "path", "file": "references/scripting/plug-in/path.md", "summary": "Open when looking up path in Acrobat.", "keywords": ["path"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

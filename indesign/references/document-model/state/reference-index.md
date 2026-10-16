@@ -1,0 +1,39 @@
+# InDesign — State
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up active in InDesign. [active](active.md).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up addItemsToState in InDesign. [addItemsToState](add-items-to-state.md).
+- Open when looking up enabled in InDesign. [enabled](enabled.md).
+- Open when looking up endnoteTextFrames in InDesign. [endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up epss in InDesign. [epss](epss.md).
+- Open when looking up epstexts in InDesign. [epstexts](epstexts.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up graphicLines in InDesign. [graphicLines](graphic-lines.md).
+- Open when looking up graphics in InDesign. [graphics](graphics.md).
+- Open when looking up groups in InDesign. [groups](groups.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up images in InDesign. [images](images.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up move in InDesign. [move](move.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up ovals in InDesign. [ovals](ovals.md).
+- Open when looking up pageItems in InDesign. [pageItems](page-items.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up pdfs in InDesign. [pdfs](pdfs.md).
+- Open when looking up picts in InDesign. [picts](picts.md).
+- Open when looking up polygons in InDesign. [polygons](polygons.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up rectangles in InDesign. [rectangles](rectangles.md).
+- Open when looking up releaseAsObject in InDesign. [releaseAsObject](release-as-object.md).
+- Open when looking up remove in InDesign. [remove](remove.md).
+- Open when looking up splineItems in InDesign. [splineItems](spline-items.md).
+- Open when looking up statetype in InDesign. [statetype](statetype.md).
+- Open when looking up svgs in InDesign. [svgs](svgs.md).
+- Open when looking up textFrames in InDesign. [textFrames](text-frames.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up wmfs in InDesign. [wmfs](wmfs.md).

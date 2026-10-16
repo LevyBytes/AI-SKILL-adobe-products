@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Modify transition using the Effect Controls panel", "file": "references/desktop/add-video-effects/apply-video-transitions/morph-cut-transition-options/modify-transition-using-the-effect-controls-panel.md", "summary": "Open when looking up Modify transition using the Effect Controls panel in Premiere Pro.", "keywords": ["Modify transition using the Effect Controls panel"]},
+  {"topic": "Modify transition using the Timeline panel", "file": "references/desktop/add-video-effects/apply-video-transitions/morph-cut-transition-options/modify-transition-using-the-timeline-panel.md", "summary": "Open when looking up Modify transition using the Timeline panel in Premiere Pro.", "keywords": ["Modify transition using the Timeline panel"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,39 @@
+# Guides
+
+Community declaration reference: Photoshop/2015.5.
+
+Guide objects tied to the document.
+
+```typescript
+declare class Guides {
+    /**
+    - Element count for this collection.
+      */
+      readonly length: number
+    /**
+
+    - Container that owns this object.
+      */
+      readonly parent: object
+    /**
+
+    - Object class name.
+      */
+      readonly typename: string
+    /**
+
+    - Creates a guide.
+    - @param direction Whether the guide runs vertical or horizontal.
+    - @param coordinate Guide location measured from the image origin.
+      */
+      static add(direction: Direction, coordinate: UnitValue | number): Guide
+    /**
+
+    - Returns the first collection element matching the supplied name.
+    - @param name
+      */
+      getByName(name: string): Guide
+}
+```
+
+Source: [Photoshop/2015.5/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/Photoshop/2015.5/index.d.ts).

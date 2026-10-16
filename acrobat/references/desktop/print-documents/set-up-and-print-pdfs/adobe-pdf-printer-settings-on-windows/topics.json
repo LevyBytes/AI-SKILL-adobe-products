@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Accessing Adobe PDF Printer settings", "file": "references/desktop/print-documents/set-up-and-print-pdfs/adobe-pdf-printer-settings-on-windows/accessing-adobe-pdf-printer-settings.md", "summary": "Open when looking up Accessing Adobe PDF Printer settings in Acrobat.", "keywords": ["Accessing Adobe PDF Printer settings"]},
+  {"topic": "Adobe PDF conversion settings", "file": "references/desktop/print-documents/set-up-and-print-pdfs/adobe-pdf-printer-settings-on-windows/adobe-pdf-conversion-settings.md", "summary": "Open when looking up Adobe PDF conversion settings in Acrobat.", "keywords": ["Adobe PDF conversion settings"]},
+  {"topic": "Understanding the Settings tabs", "file": "references/desktop/print-documents/set-up-and-print-pdfs/adobe-pdf-printer-settings-on-windows/understanding-the-settings-tabs.md", "summary": "Open when looking up Understanding the Settings tabs in Acrobat.", "keywords": ["Understanding the Settings tabs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

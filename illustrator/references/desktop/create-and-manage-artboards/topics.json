@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Add and edit artboards", "file": "references/desktop/create-and-manage-artboards/add-and-edit-artboards.md", "summary": "Open when looking up Add and edit artboards in Illustrator.", "keywords": ["Add and edit artboards"]},
+  {"topic": "Add and edit artboards references", "file": "references/desktop/create-and-manage-artboards/add-and-edit-artboards/reference-index.md", "summary": "Open when looking up Add and edit artboards in Illustrator.", "keywords": ["Add and edit artboards references"]},
+  {"topic": "Organize and manage artboards", "file": "references/desktop/create-and-manage-artboards/organize-and-manage-artboards.md", "summary": "Open when looking up Organize and manage artboards in Illustrator.", "keywords": ["Organize and manage artboards"]},
+  {"topic": "Organize and manage artboards references", "file": "references/desktop/create-and-manage-artboards/organize-and-manage-artboards/reference-index.md", "summary": "Open when looking up Organize and manage artboards in Illustrator.", "keywords": ["Organize and manage artboards references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

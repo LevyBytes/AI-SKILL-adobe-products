@@ -1,0 +1,31 @@
+# InDesign — XMLExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up allowTransform in InDesign. [allowTransform](allow-transform.md).
+- Open when looking up characterReferences in InDesign. [characterReferences](character-references.md).
+- Open when looking up copyFormattedImages in InDesign. [copyFormattedImages](copy-formatted-images.md).
+- Open when looking up copyOptimizedImages in InDesign. [copyOptimizedImages](copy-optimized-images.md).
+- Open when looking up copyOriginalImages in InDesign. [copyOriginalImages](copy-original-images.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up excludeDtd in InDesign. [excludeDtd](exclude-dtd.md).
+- Open when looking up exportFromSelected in InDesign. [exportFromSelected](export-from-selected.md).
+- Open when looking up exportUntaggedTablesFormat in InDesign. [exportUntaggedTablesFormat](export-untagged-tables-format.md).
+- Open when looking up fileEncoding in InDesign. [fileEncoding](file-encoding.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up gifOptionsInterlaced in InDesign. [gifOptionsInterlaced](gif-options-interlaced.md).
+- Open when looking up gifOptionsPalette in InDesign. [gifOptionsPalette](gif-options-palette.md).
+- Open when looking up imageConversion in InDesign. [imageConversion](image-conversion.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up jpegOptionsFormat in InDesign. [jpegOptionsFormat](jpeg-options-format.md).
+- Open when looking up jpegOptionsQuality in InDesign. [jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preferredBrowser in InDesign. [preferredBrowser](preferred-browser.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up ruby in InDesign. [ruby](ruby.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up transformFilename in InDesign. [transformFilename](transform-filename.md).
+- Open when looking up viewAfterExport in InDesign. [viewAfterExport](view-after-export.md).

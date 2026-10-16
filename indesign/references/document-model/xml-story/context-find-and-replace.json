@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "changeGlyph", "file": "references/document-model/xml-story/change-glyph.md", "summary": "Open when looking up changeGlyph in InDesign.", "keywords": ["changeGlyph"]},
+  {"topic": "changeGrep", "file": "references/document-model/xml-story/change-grep.md", "summary": "Open when looking up changeGrep in InDesign.", "keywords": ["changeGrep"]},
+  {"topic": "changeText", "file": "references/document-model/xml-story/change-text.md", "summary": "Open when looking up changeText in InDesign.", "keywords": ["changeText"]},
+  {"topic": "changeTransliterate", "file": "references/document-model/xml-story/change-transliterate.md", "summary": "Open when looking up changeTransliterate in InDesign.", "keywords": ["changeTransliterate"]},
+  {"topic": "findGlyph", "file": "references/document-model/xml-story/find-glyph.md", "summary": "Open when looking up findGlyph in InDesign.", "keywords": ["findGlyph"]},
+  {"topic": "findGrep", "file": "references/document-model/xml-story/find-grep.md", "summary": "Open when looking up findGrep in InDesign.", "keywords": ["findGrep"]},
+  {"topic": "findText", "file": "references/document-model/xml-story/find-text.md", "summary": "Open when looking up findText in InDesign.", "keywords": ["findText"]},
+  {"topic": "findTransliterate", "file": "references/document-model/xml-story/find-transliterate.md", "summary": "Open when looking up findTransliterate in InDesign.", "keywords": ["findTransliterate"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

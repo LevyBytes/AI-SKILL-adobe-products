@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "macOS", "file": "references/plugin-sdk/debugging-plug-ins/mac-os.md", "summary": "Open when looking up macOS in After Effects.", "keywords": ["macOS"]},
+  {"topic": "Signing requirments and loading unsigned plug-ins", "file": "references/plugin-sdk/debugging-plug-ins/signing-requirments-and-loading-unsigned-plug-ins.md", "summary": "Open when looking up Signing requirments and loading unsigned plug-ins in After Effects.", "keywords": ["Signing requirments and loading unsigned plug-ins"]},
+  {"topic": "Windows", "file": "references/plugin-sdk/debugging-plug-ins/windows.md", "summary": "Open when looking up Windows in After Effects.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

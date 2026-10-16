@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PageItem.placeXML", "file": "references/community-types/indesign/page-item/place-xml.md", "summary": "Open when looking up PageItem.placeXML in Shared Adobe platform.", "keywords": ["PageItem.placeXML"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

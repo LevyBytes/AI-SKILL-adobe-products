@@ -1,0 +1,41 @@
+# InDesign — Document preference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up allowPageShuffle in InDesign. [allowPageShuffle](allow-page-shuffle.md).
+- Open when looking up columnDirection in InDesign. [columnDirection](column-direction.md).
+- Open when looking up columnGuideColor in InDesign. [columnGuideColor](column-guide-color.md).
+- Open when looking up columnGuideLocked in InDesign. [columnGuideLocked](column-guide-locked.md).
+- Open when looking up createPrimaryTextFrame in InDesign. [createPrimaryTextFrame](create-primary-text-frame.md).
+- Open when looking up documentBleedBottomOffset in InDesign. [documentBleedBottomOffset](document-bleed-bottom-offset.md).
+- Open when looking up documentBleedInsideOrLeftOffset in InDesign. [documentBleedInsideOrLeftOffset](document-bleed-inside-or-left-offset.md).
+- Open when looking up documentBleedOutsideOrRightOffset in InDesign. [documentBleedOutsideOrRightOffset](document-bleed-outside-or-right-offset.md).
+- Open when looking up documentBleedTopOffset in InDesign. [documentBleedTopOffset](document-bleed-top-offset.md).
+- Open when looking up documentBleedUniformSize in InDesign. [documentBleedUniformSize](document-bleed-uniform-size.md).
+- Open when looking up documentSlugUniformSize in InDesign. [documentSlugUniformSize](document-slug-uniform-size.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up facingPages in InDesign. [facingPages](facing-pages.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up intent in InDesign. [intent](intent.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up marginGuideColor in InDesign. [marginGuideColor](margin-guide-color.md).
+- Open when looking up overprintBlack in InDesign. [overprintBlack](overprint-black.md).
+- Open when looking up pageBinding in InDesign. [pageBinding](page-binding.md).
+- Open when looking up pageHeight in InDesign. [pageHeight](page-height.md).
+- Open when looking up pageOrientation in InDesign. [pageOrientation](page-orientation.md).
+- Open when looking up pageSize in InDesign. [pageSize](page-size.md).
+- Open when looking up pagesPerDocument in InDesign. [pagesPerDocument](pages-per-document.md).
+- Open when looking up pageWidth in InDesign. [pageWidth](page-width.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preserveLayoutWhenShuffling in InDesign. [preserveLayoutWhenShuffling](preserve-layout-when-shuffling.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up slugBottomOffset in InDesign. [slugBottomOffset](slug-bottom-offset.md).
+- Open when looking up slugInsideOrLeftOffset in InDesign. [slugInsideOrLeftOffset](slug-inside-or-left-offset.md).
+- Open when looking up slugRightOrOutsideOffset in InDesign. [slugRightOrOutsideOffset](slug-right-or-outside-offset.md).
+- Open when looking up slugTopOffset in InDesign. [slugTopOffset](slug-top-offset.md).
+- Open when looking up snippetImportUsesOriginalLocation in InDesign. [snippetImportUsesOriginalLocation](snippet-import-uses-original-location.md).
+- Open when looking up startPageNumber in InDesign. [startPageNumber](start-page-number.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

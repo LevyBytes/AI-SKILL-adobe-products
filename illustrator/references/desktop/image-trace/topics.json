@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Edit tracing results", "file": "references/desktop/image-trace/edit-tracing-results.md", "summary": "Open when looking up Edit tracing results in Illustrator.", "keywords": ["Edit tracing results"]},
+  {"topic": "Save custom tracing presets", "file": "references/desktop/image-trace/save-custom-tracing-presets.md", "summary": "Open when looking up Save custom tracing presets in Illustrator.", "keywords": ["Save custom tracing presets"]},
+  {"topic": "Vectorize images using Image Trace", "file": "references/desktop/image-trace/vectorize-images-using-image-trace.md", "summary": "Open when looking up Vectorize images using Image Trace in Illustrator.", "keywords": ["Vectorize images using Image Trace"]},
+  {"topic": "Vectorize images using Image Trace references", "file": "references/desktop/image-trace/vectorize-images-using-image-trace/reference-index.md", "summary": "Open when looking up Vectorize images using Image Trace in Illustrator.", "keywords": ["Vectorize images using Image Trace references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

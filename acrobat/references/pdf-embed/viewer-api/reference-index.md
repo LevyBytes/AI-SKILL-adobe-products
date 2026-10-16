@@ -1,0 +1,30 @@
+# Acrobat — Viewer API
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Attachment APIs in Acrobat. [Attachment APIs](attachment-apis.md).
+- Open when looking up Bookmark APIs in Acrobat. [Bookmark APIs](bookmark-apis.md).
+- Open when looking up clear in Acrobat. [clear](clear.md).
+- Open when looking up clearPageSelection in Acrobat. [clearPageSelection](clear-page-selection.md).
+- Open when looking up enableTextSelection in Acrobat. [enableTextSelection](enable-text-selection.md).
+- Open when looking up GetAPIs Interface in Acrobat. [GetAPIs Interface](get-ap-is-interface.md).
+- Open when looking up getAttachmentBuffer in Acrobat. [getAttachmentBuffer](get-attachment-buffer.md).
+- Open when looking up getAttachments in Acrobat. [getAttachments](get-attachments.md).
+- Open when looking up getBookmarks in Acrobat. [getBookmarks](get-bookmarks.md).
+- Open when looking up getCurrentPage in Acrobat. [getCurrentPage](get-current-page.md).
+- Open when looking up getPageZoom in Acrobat. [getPageZoom](get-page-zoom.md).
+- Open when looking up getPDFMetadata in Acrobat. [getPDFMetadata](get-pdf-metadata.md).
+- Open when looking up getSelectedContent in Acrobat. [getSelectedContent](get-selected-content.md).
+- Open when looking up getXMPMetadata in Acrobat. [getXMPMetadata](get-xmp-metadata.md).
+- Open when looking up getZoomLimits in Acrobat. [getZoomLimits](get-zoom-limits.md).
+- Open when looking up gotoLocation in Acrobat. [gotoLocation](goto-location.md).
+- Open when looking up next in Acrobat. [next](next.md).
+- Open when looking up onResultsUpdate in Acrobat. [onResultsUpdate](on-results-update.md).
+- Open when looking up openBookmark in Acrobat. [openBookmark](open-bookmark.md).
+- Open when looking up previous in Acrobat. [previous](previous.md).
+- Open when looking up resetCursor in Acrobat. [resetCursor](reset-cursor.md).
+- Open when looking up Search APIs in Acrobat. [Search APIs](search-apis.md).
+- Open when looking up setCursor in Acrobat. [setCursor](set-cursor.md).
+- Open when looking up setZoomLevel in Acrobat. [setZoomLevel](set-zoom-level.md).
+- Open when looking up Zoom APIs in Acrobat. [Zoom APIs](zoom-apis.md).
+- Open when looking up zoomIn in Acrobat. [zoomIn](zoom-in.md).
+- Open when looking up zoomOut in Acrobat. [zoomOut](zoom-out.md).

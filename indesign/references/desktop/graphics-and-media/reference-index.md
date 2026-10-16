@@ -1,0 +1,21 @@
+# InDesign — Add graphics and media
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and edit graphics in InDesign. [Add and edit graphics](add-and-edit-graphics.md).
+- Open when looking up Add and edit graphics in InDesign. [Add and edit graphics references](add-and-edit-graphics/reference-index.md).
+- Open when looking up Animation in InDesign. [Animation](animation.md).
+- Open when looking up Animation in InDesign. [Animation references](animation/reference-index.md).
+- Open when looking up Manage frames and objects in InDesign. [Manage frames and objects](manage-frames-and-objects.md).
+- Open when looking up Manage frames and objects in InDesign. [Manage frames and objects references](manage-frames-and-objects/reference-index.md).
+- Open when looking up Manage links in InDesign. [Manage links](manage-links.md).
+- Open when looking up Manage links in InDesign. [Manage links references](manage-links/reference-index.md).
+- Open when looking up Manage object styles in InDesign. [Manage object styles](manage-object-styles.md).
+- Open when looking up Manage object styles in InDesign. [Manage object styles references](manage-object-styles/reference-index.md).
+- Open when looking up Movies and sound in InDesign. [Movies and sound](movies-and-sound.md).
+- Open when looking up Movies and sound in InDesign. [Movies and sound references](movies-and-sound/reference-index.md).
+- Open when looking up Object libraries and snippets in InDesign. [Object libraries and snippets](object-libraries-and-snippets.md).
+- Open when looking up Object libraries and snippets in InDesign. [Object libraries and snippets references](object-libraries-and-snippets/reference-index.md).
+- Open when looking up Page transitions in InDesign. [Page transitions](page-transitions.md).
+- Open when looking up Page transitions in InDesign. [Page transitions references](page-transitions/reference-index.md).
+- Open when looking up Transform and arrange objects in InDesign. [Transform and arrange objects](transform-and-arrange-objects.md).
+- Open when looking up Transform and arrange objects in InDesign. [Transform and arrange objects references](object-transforms/reference-index.md).

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Additional contents in UXP scripts", "file": "references/cloud-services/actions-migration/uxp-scripts-limited-availability/additional-contents-in-uxp-scripts.md", "summary": "Open when looking up Additional contents in UXP scripts in Photoshop.", "keywords": ["Additional contents in UXP scripts"]},
+  {"topic": "UXP output configuration", "file": "references/cloud-services/actions-migration/uxp-scripts-limited-availability/uxp-output-configuration.md", "summary": "Open when looking up UXP output configuration in Photoshop.", "keywords": ["UXP output configuration"]},
+  {"topic": "UXP Script Basics", "file": "references/cloud-services/actions-migration/uxp-scripts-limited-availability/uxp-script-basics.md", "summary": "Open when looking up UXP Script Basics in Photoshop.", "keywords": ["UXP Script Basics"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

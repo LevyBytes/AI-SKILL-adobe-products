@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "EXCEL_FORMAT_ONLY_ONCE", "file": "references/document-model/table-formatting-options/excelformatonlyonce.md", "summary": "Open when looking up EXCEL_FORMAT_ONLY_ONCE in InDesign.", "keywords": ["EXCEL_FORMAT_ONLY_ONCE"]},
+  {"topic": "EXCEL_FORMATTED_TABLE", "file": "references/document-model/table-formatting-options/excelformattedtable.md", "summary": "Open when looking up EXCEL_FORMATTED_TABLE in InDesign.", "keywords": ["EXCEL_FORMATTED_TABLE"]},
+  {"topic": "EXCEL_UNFORMATTED_TABBED_TEXT", "file": "references/document-model/table-formatting-options/excelunformattedtabbedtext.md", "summary": "Open when looking up EXCEL_UNFORMATTED_TABBED_TEXT in InDesign.", "keywords": ["EXCEL_UNFORMATTED_TABBED_TEXT"]},
+  {"topic": "EXCEL_UNFORMATTED_TABLE", "file": "references/document-model/table-formatting-options/excelunformattedtable.md", "summary": "Open when looking up EXCEL_UNFORMATTED_TABLE in InDesign.", "keywords": ["EXCEL_UNFORMATTED_TABLE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,43 @@
+# Shared Adobe platform — Folder
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Folder Object in Shared Adobe platform. [Folder Object](folder-object.md).
+- Open when looking up Folder.absoluteURI in Shared Adobe platform. [Folder.absoluteURI](absolute-uri.md).
+- Open when looking up Folder.alias in Shared Adobe platform. [Folder.alias](alias.md).
+- Open when looking up Folder.appData in Shared Adobe platform. [Folder.appData](app-data.md).
+- Open when looking up Folder.appPackage in Shared Adobe platform. [Folder.appPackage](app-package.md).
+- Open when looking up Folder.changePath() in Shared Adobe platform. [Folder.changePath()](change-path.md).
+- Open when looking up Folder.commonFiles in Shared Adobe platform. [Folder.commonFiles](common-files.md).
+- Open when looking up Folder.create() in Shared Adobe platform. [Folder.create()](create.md).
+- Open when looking up Folder.created in Shared Adobe platform. [Folder.created](created.md).
+- Open when looking up Folder.current in Shared Adobe platform. [Folder.current](current.md).
+- Open when looking up Folder.decode() in Shared Adobe platform. [Folder.decode()](decode.md).
+- Open when looking up Folder.desktop in Shared Adobe platform. [Folder.desktop](desktop.md).
+- Open when looking up Folder.displayName in Shared Adobe platform. [Folder.displayName](display-name.md).
+- Open when looking up Folder.encode() in Shared Adobe platform. [Folder.encode()](encode.md).
+- Open when looking up Folder.error in Shared Adobe platform. [Folder.error](error.md).
+- Open when looking up Folder.execute() in Shared Adobe platform. [Folder.execute()](execute.md).
+- Open when looking up Folder.exists in Shared Adobe platform. [Folder.exists](exists.md).
+- Open when looking up Folder.fs in Shared Adobe platform. [Folder.fs](fs.md).
+- Open when looking up Folder.fsName in Shared Adobe platform. [Folder.fsName](fs-name.md).
+- Open when looking up Folder.fullName in Shared Adobe platform. [Folder.fullName](full-name.md).
+- Open when looking up Folder.getFiles() in Shared Adobe platform. [Folder.getFiles()](get-files.md).
+- Open when looking up Folder.getRelativeURI() in Shared Adobe platform. [Folder.getRelativeURI()](get-relative-uri.md).
+- Open when looking up Folder.isEncodingAvailable() in Shared Adobe platform. [Folder.isEncodingAvailable()](is-encoding-available.md).
+- Open when looking up Folder.localizedName in Shared Adobe platform. [Folder.localizedName](localized-name.md).
+- Open when looking up Folder.modified in Shared Adobe platform. [Folder.modified](modified.md).
+- Open when looking up Folder.myDocuments in Shared Adobe platform. [Folder.myDocuments](my-documents.md).
+- Open when looking up Folder.name in Shared Adobe platform. [Folder.name](name.md).
+- Open when looking up Folder.parent in Shared Adobe platform. [Folder.parent](parent.md).
+- Open when looking up Folder.path in Shared Adobe platform. [Folder.path](path.md).
+- Open when looking up Folder.relativeURI in Shared Adobe platform. [Folder.relativeURI](relative-uri.md).
+- Open when looking up Folder.remove() in Shared Adobe platform. [Folder.remove()](remove.md).
+- Open when looking up Folder.rename() in Shared Adobe platform. [Folder.rename()](rename.md).
+- Open when looking up Folder.resolve() in Shared Adobe platform. [Folder.resolve()](resolve.md).
+- Open when looking up Folder.selectDialog() in Shared Adobe platform. [Folder.selectDialog()](select-dialog.md).
+- Open when looking up Folder.selectDlg() in Shared Adobe platform. [Folder.selectDlg()](select-dlg.md).
+- Open when looking up Folder.startup in Shared Adobe platform. [Folder.startup](startup.md).
+- Open when looking up Folder.system in Shared Adobe platform. [Folder.system](system.md).
+- Open when looking up Folder.temp in Shared Adobe platform. [Folder.temp](temp.md).
+- Open when looking up Folder.trash in Shared Adobe platform. [Folder.trash](trash.md).
+- Open when looking up Folder.userData in Shared Adobe platform. [Folder.userData](user-data.md).

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "tables", "file": "references/document-model/line/tables.md", "summary": "Open when looking up tables in InDesign.", "keywords": ["tables"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

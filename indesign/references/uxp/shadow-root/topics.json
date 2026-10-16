@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "activeElement : Element", "file": "references/uxp/shadow-root/active-element-element.md", "summary": "Open when looking up activeElement : Element in InDesign.", "keywords": ["activeElement : Element"]},
+  {"topic": "cloneNode(deep)", "file": "references/uxp/shadow-root/clone-node.md", "summary": "Open when looking up cloneNode(deep) in InDesign.", "keywords": ["cloneNode(deep)"]},
+  {"topic": "host : Element", "file": "references/uxp/shadow-root/host-element.md", "summary": "Open when looking up host : Element in InDesign.", "keywords": ["host : Element"]},
+  {"topic": "innerHTML : string", "file": "references/uxp/shadow-root/inner-html-string.md", "summary": "Open when looking up innerHTML : string in InDesign.", "keywords": ["innerHTML : string"]},
+  {"topic": "mode : Element", "file": "references/uxp/shadow-root/mode-element.md", "summary": "Open when looking up mode : Element in InDesign.", "keywords": ["mode : Element"]},
+  {"topic": "window.ShadowRoot", "file": "references/uxp/shadow-root/overview.md", "summary": "Open when looking up window.ShadowRoot in InDesign.", "keywords": ["window.ShadowRoot"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

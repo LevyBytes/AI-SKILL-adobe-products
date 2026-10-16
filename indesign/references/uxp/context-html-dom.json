@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Base ui event references", "file": "references/uxp/base-ui-event/reference-index.md", "summary": "Open when looking up Base ui event in InDesign.", "keywords": ["Base ui event references"]},
+  {"topic": "Document fragment references", "file": "references/uxp/document-fragment/reference-index.md", "summary": "Open when looking up Document fragment in InDesign.", "keywords": ["Document fragment references"]},
+  {"topic": "Element references", "file": "references/uxp/element/reference-index.md", "summary": "Open when looking up Element in InDesign.", "keywords": ["Element references"]},
+  {"topic": "Examples references", "file": "references/uxp/examples/reference-index.md", "summary": "Open when looking up Examples in InDesign.", "keywords": ["Examples references"]},
+  {"topic": "Html anchor element references", "file": "references/uxp/html-anchor-element/reference-index.md", "summary": "Open when looking up Html anchor element in InDesign.", "keywords": ["Html anchor element references"]},
+  {"topic": "Html collection references", "file": "references/uxp/html-collection/reference-index.md", "summary": "Open when looking up Html collection in InDesign.", "keywords": ["Html collection references"]},
+  {"topic": "HTML DOM", "file": "references/uxp/html-dom.md", "summary": "Open when looking up HTML DOM in InDesign.", "keywords": ["HTML DOM"]},
+  {"topic": "Html Dom, Html Elements, Html Events, Image Blob", "file": "references/uxp/html-dom-html-elements-html-events-image-blob.md", "summary": "Open when looking up Html Dom, Html Elements, Html Events, Image Blob in InDesign.", "keywords": ["Html Dom, Html Elements, Html Events, Image Blob"]},
+  {"topic": "HTML events and event listeners", "file": "references/uxp/html-events-and-event-listeners.md", "summary": "Open when looking up HTML events and event listeners in InDesign.", "keywords": ["HTML events and event listeners"]},
+  {"topic": "HTML events and event listeners references", "file": "references/uxp/html-events-and-event-listeners/reference-index.md", "summary": "Open when looking up HTML events and event listeners in InDesign.", "keywords": ["HTML events and event listeners references"]},
+  {"topic": "Html references", "file": "references/uxp/html/reference-index.md", "summary": "Open when looking up Html in InDesign.", "keywords": ["Html references"]},
+  {"topic": "Named node map references", "file": "references/uxp/named-node-map/reference-index.md", "summary": "Open when looking up Named node map in InDesign.", "keywords": ["Named node map references"]},
+  {"topic": "Shadow root references", "file": "references/uxp/shadow-root/reference-index.md", "summary": "Open when looking up Shadow root in InDesign.", "keywords": ["Shadow root references"]},
+  {"topic": "User Interface (UI)", "file": "references/uxp/user-interface-ui.md", "summary": "Open when looking up User Interface (UI) in InDesign.", "keywords": ["User Interface (UI)"]},
+  {"topic": "User Interface (UI) references", "file": "references/uxp/user-interface-ui/reference-index.md", "summary": "Open when looking up User Interface (UI) in InDesign.", "keywords": ["User Interface (UI) references"]},
+  {"topic": "Window references", "file": "references/uxp/window/reference-index.md", "summary": "Open when looking up Window in InDesign.", "keywords": ["Window references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

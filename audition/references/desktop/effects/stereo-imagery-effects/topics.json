@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Center Channel Extractor effect", "file": "references/desktop/effects/stereo-imagery-effects/center-channel-extractor-effect.md", "summary": "Open when looking up Center Channel Extractor effect in Audition.", "keywords": ["Center Channel Extractor effect"]},
+  {"topic": "Graphic Phase Shifter effect", "file": "references/desktop/effects/stereo-imagery-effects/graphic-phase-shifter-effect.md", "summary": "Open when looking up Graphic Phase Shifter effect in Audition.", "keywords": ["Graphic Phase Shifter effect"]},
+  {"topic": "Stereo Expander effect", "file": "references/desktop/effects/stereo-imagery-effects/stereo-expander-effect.md", "summary": "Open when looking up Stereo Expander effect in Audition.", "keywords": ["Stereo Expander effect"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

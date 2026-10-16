@@ -1,0 +1,26 @@
+# After Effects — Font object
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up FontObject.designAxesData in After Effects. [FontObject.designAxesData](design-axes-data.md).
+- Open when looking up FontObject.designVector in After Effects. [FontObject.designVector](design-vector.md).
+- Open when looking up FontObject.familyName in After Effects. [FontObject.familyName](family-name.md).
+- Open when looking up FontObject.familyPrefix in After Effects. [FontObject.familyPrefix](family-prefix.md).
+- Open when looking up FontObject.fontID in After Effects. [FontObject.fontID](font-id.md).
+- Open when looking up FontObject.fullName in After Effects. [FontObject.fullName](full-name.md).
+- Open when looking up FontObject.hasDesignAxes in After Effects. [FontObject.hasDesignAxes](has-design-axes.md).
+- Open when looking up FontObject.hasGlyphsFor() in After Effects. [FontObject.hasGlyphsFor()](has-glyphs-for.md).
+- Open when looking up FontObject.hasSameDict() in After Effects. [FontObject.hasSameDict()](has-same-dict.md).
+- Open when looking up FontObject.isFromAdobeFonts in After Effects. [FontObject.isFromAdobeFonts](is-from-adobe-fonts.md).
+- Open when looking up FontObject.isSubstitute in After Effects. [FontObject.isSubstitute](is-substitute.md).
+- Open when looking up FontObject.location in After Effects. [FontObject.location](location.md).
+- Open when looking up FontObject.nativeFamilyName in After Effects. [FontObject.nativeFamilyName](native-family-name.md).
+- Open when looking up FontObject.nativeFullName in After Effects. [FontObject.nativeFullName](native-full-name.md).
+- Open when looking up FontObject.nativeStyleName in After Effects. [FontObject.nativeStyleName](native-style-name.md).
+- Open when looking up FontObject.otherFontsWithSameDict in After Effects. [FontObject.otherFontsWithSameDict](other-fonts-with-same-dict.md).
+- Open when looking up FontObject.postScriptName in After Effects. [FontObject.postScriptName](post-script-name.md).
+- Open when looking up FontObject.postScriptNameForDesignVector() in After Effects. [FontObject.postScriptNameForDesignVector()](post-script-name-for-design-vector.md).
+- Open when looking up FontObject.styleName in After Effects. [FontObject.styleName](style-name.md).
+- Open when looking up FontObject.technology in After Effects. [FontObject.technology](technology.md).
+- Open when looking up FontObject.type in After Effects. [FontObject.type](type.md).
+- Open when looking up FontObject.version in After Effects. [FontObject.version](version.md).
+- Open when looking up FontObject.writingScripts in After Effects. [FontObject.writingScripts](writing-scripts.md).

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "embed", "file": "references/document-model/document/embed.md", "summary": "Open when looking up embed in InDesign.", "keywords": ["embed"]},
+  {"topic": "importFormats", "file": "references/document-model/document/import-formats.md", "summary": "Open when looking up importFormats in InDesign.", "keywords": ["importFormats"]},
+  {"topic": "linkedPageItemOptions", "file": "references/document-model/document/linked-page-item-options.md", "summary": "Open when looking up linkedPageItemOptions in InDesign.", "keywords": ["linkedPageItemOptions"]},
+  {"topic": "linkedStoryOptions", "file": "references/document-model/document/linked-story-options.md", "summary": "Open when looking up linkedStoryOptions in InDesign.", "keywords": ["linkedStoryOptions"]},
+  {"topic": "links", "file": "references/document-model/document/links.md", "summary": "Open when looking up links in InDesign.", "keywords": ["links"]},
+  {"topic": "place", "file": "references/document-model/document/place.md", "summary": "Open when looking up place in InDesign.", "keywords": ["place"]},
+  {"topic": "placeAndLink", "file": "references/document-model/document/place-and-link.md", "summary": "Open when looking up placeAndLink in InDesign.", "keywords": ["placeAndLink"]},
+  {"topic": "placeGuns", "file": "references/document-model/document/place-guns.md", "summary": "Open when looking up placeGuns in InDesign.", "keywords": ["placeGuns"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

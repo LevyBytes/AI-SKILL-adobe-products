@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "basedOn", "file": "references/document-model/character-style/based-on.md", "summary": "Open when looking up basedOn in InDesign.", "keywords": ["basedOn"]},
+  {"topic": "createThumbnailWithProperties", "file": "references/document-model/character-style/create-thumbnail-with-properties.md", "summary": "Open when looking up createThumbnailWithProperties in InDesign.", "keywords": ["createThumbnailWithProperties"]},
+  {"topic": "emitCss", "file": "references/document-model/character-style/emit-css.md", "summary": "Open when looking up emitCss in InDesign.", "keywords": ["emitCss"]},
+  {"topic": "imported", "file": "references/document-model/character-style/imported.md", "summary": "Open when looking up imported in InDesign.", "keywords": ["imported"]},
+  {"topic": "includeClass", "file": "references/document-model/character-style/include-class.md", "summary": "Open when looking up includeClass in InDesign.", "keywords": ["includeClass"]},
+  {"topic": "previewColor", "file": "references/document-model/character-style/preview-color.md", "summary": "Open when looking up previewColor in InDesign.", "keywords": ["previewColor"]},
+  {"topic": "splitDocument", "file": "references/document-model/character-style/split-document.md", "summary": "Open when looking up splitDocument in InDesign.", "keywords": ["splitDocument"]},
+  {"topic": "styleExportTagMaps", "file": "references/document-model/character-style/style-export-tag-maps.md", "summary": "Open when looking up styleExportTagMaps in InDesign.", "keywords": ["styleExportTagMaps"]},
+  {"topic": "styleUniqueId", "file": "references/document-model/character-style/style-unique-id.md", "summary": "Open when looking up styleUniqueId in InDesign.", "keywords": ["styleUniqueId"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

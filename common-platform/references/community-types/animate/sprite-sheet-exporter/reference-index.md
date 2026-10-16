@@ -1,0 +1,33 @@
+# Shared Adobe platform — SpriteSheetExporter
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up SpriteSheetExporter declaration in Shared Adobe platform. [SpriteSheetExporter declaration](declaration.md).
+- Open when looking up SpriteSheetExporter.addBitmap in Shared Adobe platform. [SpriteSheetExporter.addBitmap](add-bitmap.md).
+- Open when looking up SpriteSheetExporter.addSymbol in Shared Adobe platform. [SpriteSheetExporter.addSymbol](add-symbol.md).
+- Open when looking up SpriteSheetExporter.algorithm in Shared Adobe platform. [SpriteSheetExporter.algorithm](algorithm.md).
+- Open when looking up SpriteSheetExporter.allowRotate in Shared Adobe platform. [SpriteSheetExporter.allowRotate](allow-rotate.md).
+- Open when looking up SpriteSheetExporter.allowTrimming in Shared Adobe platform. [SpriteSheetExporter.allowTrimming](allow-trimming.md).
+- Open when looking up SpriteSheetExporter.app in Shared Adobe platform. [SpriteSheetExporter.app](app.md).
+- Open when looking up SpriteSheetExporter.autoSize in Shared Adobe platform. [SpriteSheetExporter.autoSize](auto-size.md).
+- Open when looking up SpriteSheetExporter.beginExport in Shared Adobe platform. [SpriteSheetExporter.beginExport](begin-export.md).
+- Open when looking up SpriteSheetExporter.borderPadding in Shared Adobe platform. [SpriteSheetExporter.borderPadding](border-padding.md).
+- Open when looking up SpriteSheetExporter.canBorderPad in Shared Adobe platform. [SpriteSheetExporter.canBorderPad](can-border-pad.md).
+- Open when looking up SpriteSheetExporter.canRotate in Shared Adobe platform. [SpriteSheetExporter.canRotate](can-rotate.md).
+- Open when looking up SpriteSheetExporter.canShapePad in Shared Adobe platform. [SpriteSheetExporter.canShapePad](can-shape-pad.md).
+- Open when looking up SpriteSheetExporter.canStackDuplicateFrames in Shared Adobe platform. [SpriteSheetExporter.canStackDuplicateFrames](can-stack-duplicate-frames.md).
+- Open when looking up SpriteSheetExporter.canTrim in Shared Adobe platform. [SpriteSheetExporter.canTrim](can-trim.md).
+- Open when looking up SpriteSheetExporter.changeSymbol in Shared Adobe platform. [SpriteSheetExporter.changeSymbol](change-symbol.md).
+- Open when looking up SpriteSheetExporter.exportSpriteSheet in Shared Adobe platform. [SpriteSheetExporter.exportSpriteSheet](export-sprite-sheet.md).
+- Open when looking up SpriteSheetExporter.format in Shared Adobe platform. [SpriteSheetExporter.format](format.md).
+- Open when looking up SpriteSheetExporter.image in Shared Adobe platform. [SpriteSheetExporter.image](image.md).
+- Open when looking up SpriteSheetExporter.layoutFormat in Shared Adobe platform. [SpriteSheetExporter.layoutFormat](layout-format.md).
+- Open when looking up SpriteSheetExporter.maxSheetHeight in Shared Adobe platform. [SpriteSheetExporter.maxSheetHeight](max-sheet-height.md).
+- Open when looking up SpriteSheetExporter.maxSheetWidth in Shared Adobe platform. [SpriteSheetExporter.maxSheetWidth](max-sheet-width.md).
+- Open when looking up SpriteSheetExporter.overflowed in Shared Adobe platform. [SpriteSheetExporter.overflowed](overflowed.md).
+- Open when looking up SpriteSheetExporter.removeBitmap in Shared Adobe platform. [SpriteSheetExporter.removeBitmap](remove-bitmap.md).
+- Open when looking up SpriteSheetExporter.removeSymbol in Shared Adobe platform. [SpriteSheetExporter.removeSymbol](remove-symbol.md).
+- Open when looking up SpriteSheetExporter.shapePadding in Shared Adobe platform. [SpriteSheetExporter.shapePadding](shape-padding.md).
+- Open when looking up SpriteSheetExporter.sheetHeight in Shared Adobe platform. [SpriteSheetExporter.sheetHeight](sheet-height.md).
+- Open when looking up SpriteSheetExporter.sheetWidth in Shared Adobe platform. [SpriteSheetExporter.sheetWidth](sheet-width.md).
+- Open when looking up SpriteSheetExporter.stackDuplicateFrames in Shared Adobe platform. [SpriteSheetExporter.stackDuplicateFrames](stack-duplicate-frames.md).
+- Open when looking up SpriteSheetExporter.version in Shared Adobe platform. [SpriteSheetExporter.version](version.md).

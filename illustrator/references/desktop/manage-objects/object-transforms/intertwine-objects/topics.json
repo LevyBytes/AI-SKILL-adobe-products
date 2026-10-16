@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Edit intertwined objects", "file": "references/desktop/manage-objects/object-transforms/intertwine-objects/edit-intertwined-objects.md", "summary": "Open when looking up Edit intertwined objects in Illustrator.", "keywords": ["Edit intertwined objects"]},
+  {"topic": "Intertwine an area where multiple objects overlap", "file": "references/desktop/manage-objects/object-transforms/intertwine-objects/intertwine-an-area-where-multiple-objects-overlap.md", "summary": "Open when looking up Intertwine an area where multiple objects overlap in Illustrator.", "keywords": ["Intertwine an area where multiple objects overlap"]},
+  {"topic": "Intertwine an area where two objects overlap", "file": "references/desktop/manage-objects/object-transforms/intertwine-objects/intertwine-an-area-where-two-objects-overlap.md", "summary": "Open when looking up Intertwine an area where two objects overlap in Illustrator.", "keywords": ["Intertwine an area where two objects overlap"]},
+  {"topic": "Release intertwined objects", "file": "references/desktop/manage-objects/object-transforms/intertwine-objects/release-intertwined-objects.md", "summary": "Open when looking up Release intertwined objects in Illustrator.", "keywords": ["Release intertwined objects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

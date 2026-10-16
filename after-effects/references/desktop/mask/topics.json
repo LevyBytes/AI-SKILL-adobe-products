@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "invert", "file": "references/desktop/mask/invert.md", "summary": "Open when looking up invert in After Effects.", "keywords": ["invert"]},
+  {"topic": "maskExpansion", "file": "references/desktop/mask/mask-expansion.md", "summary": "Open when looking up maskExpansion in After Effects.", "keywords": ["maskExpansion"]},
+  {"topic": "maskFeather", "file": "references/desktop/mask/mask-feather.md", "summary": "Open when looking up maskFeather in After Effects.", "keywords": ["maskFeather"]},
+  {"topic": "maskOpacity", "file": "references/desktop/mask/mask-opacity.md", "summary": "Open when looking up maskOpacity in After Effects.", "keywords": ["maskOpacity"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

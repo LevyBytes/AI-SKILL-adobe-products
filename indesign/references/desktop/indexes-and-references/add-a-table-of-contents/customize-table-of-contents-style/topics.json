@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Configure advanced TOC style options", "file": "references/desktop/indexes-and-references/add-a-table-of-contents/customize-table-of-contents-style/configure-advanced-toc-style-options.md", "summary": "Open when looking up Configure advanced TOC style options in InDesign.", "keywords": ["Configure advanced TOC style options"]},
+  {"topic": "Create a new TOC style", "file": "references/desktop/indexes-and-references/add-a-table-of-contents/customize-table-of-contents-style/create-a-new-toc-style.md", "summary": "Open when looking up Create a new TOC style in InDesign.", "keywords": ["Create a new TOC style"]},
+  {"topic": "Customize entry formatting", "file": "references/desktop/indexes-and-references/add-a-table-of-contents/customize-table-of-contents-style/customize-entry-formatting.md", "summary": "Open when looking up Customize entry formatting in InDesign.", "keywords": ["Customize entry formatting"]},
+  {"topic": "Import TOC styles from another document", "file": "references/desktop/indexes-and-references/add-a-table-of-contents/customize-table-of-contents-style/import-toc-styles-from-another-document.md", "summary": "Open when looking up Import TOC styles from another document in InDesign.", "keywords": ["Import TOC styles from another document"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

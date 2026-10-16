@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Event", "file": "references/community-types/shared/event.md", "summary": "Open when looking up Event in Shared Adobe platform.", "keywords": ["Event"]},
+  {"topic": "Events", "file": "references/community-types/shared/events.md", "summary": "Open when looking up Events in Shared Adobe platform.", "keywords": ["Events"]},
+  {"topic": "KeyboardEvent", "file": "references/community-types/shared/keyboard-event.md", "summary": "Open when looking up KeyboardEvent in Shared Adobe platform.", "keywords": ["KeyboardEvent"]},
+  {"topic": "KeyboardState", "file": "references/community-types/shared/keyboard-state.md", "summary": "Open when looking up KeyboardState in Shared Adobe platform.", "keywords": ["KeyboardState"]},
+  {"topic": "UIEvent references", "file": "references/community-types/shared/ui-event/reference-index.md", "summary": "Open when looking up UIEvent in Shared Adobe platform.", "keywords": ["UIEvent references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

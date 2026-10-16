@@ -1,0 +1,24 @@
+# After Effects — Av item
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AVItem object in After Effects. [AVItem object](av-item-object.md).
+- Open when looking up AVItem.duration in After Effects. [AVItem.duration](duration.md).
+- Open when looking up AVItem.footageMissing in After Effects. [AVItem.footageMissing](footage-missing.md).
+- Open when looking up AVItem.frameDuration in After Effects. [AVItem.frameDuration](frame-duration.md).
+- Open when looking up AVItem.frameRate in After Effects. [AVItem.frameRate](frame-rate.md).
+- Open when looking up AVItem.hasAudio in After Effects. [AVItem.hasAudio](has-audio.md).
+- Open when looking up AVItem.hasVideo in After Effects. [AVItem.hasVideo](has-video.md).
+- Open when looking up AVItem.height in After Effects. [AVItem.height](height.md).
+- Open when looking up AVItem.isMediaReplacementCompatible in After Effects. [AVItem.isMediaReplacementCompatible](is-media-replacement-compatible.md).
+- Open when looking up AVItem.name in After Effects. [AVItem.name](name.md).
+- Open when looking up AVItem.pixelAspect in After Effects. [AVItem.pixelAspect](pixel-aspect.md).
+- Open when looking up AVItem.proxySource in After Effects. [AVItem.proxySource](proxy-source.md).
+- Open when looking up AVItem.setProxy() in After Effects. [AVItem.setProxy()](set-proxy.md).
+- Open when looking up AVItem.setProxyToNone() in After Effects. [AVItem.setProxyToNone()](set-proxy-to-none.md).
+- Open when looking up AVItem.setProxyWithPlaceholder() in After Effects. [AVItem.setProxyWithPlaceholder()](set-proxy-with-placeholder.md).
+- Open when looking up AVItem.setProxyWithSequence() in After Effects. [AVItem.setProxyWithSequence()](set-proxy-with-sequence.md).
+- Open when looking up AVItem.setProxyWithSolid() in After Effects. [AVItem.setProxyWithSolid()](set-proxy-with-solid.md).
+- Open when looking up AVItem.time in After Effects. [AVItem.time](time.md).
+- Open when looking up AVItem.usedIn in After Effects. [AVItem.usedIn](used-in.md).
+- Open when looking up AVItem.useProxy in After Effects. [AVItem.useProxy](use-proxy.md).
+- Open when looking up AVItem.width in After Effects. [AVItem.width](width.md).

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Automatic Kashida insertion", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/justify-text-using-kashida-and-hyphenation/automatic-kashida-insertion.md", "summary": "Open when looking up Automatic Kashida insertion in Illustrator.", "keywords": ["Automatic Kashida insertion"]},
+  {"topic": "Hebrew text", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/justify-text-using-kashida-and-hyphenation/hebrew-text.md", "summary": "Open when looking up Hebrew text in Illustrator.", "keywords": ["Hebrew text"]},
+  {"topic": "Hyphenation", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/justify-text-using-kashida-and-hyphenation/hyphenation.md", "summary": "Open when looking up Hyphenation in Illustrator.", "keywords": ["Hyphenation"]},
+  {"topic": "Mixed text", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/justify-text-using-kashida-and-hyphenation/mixed-text.md", "summary": "Open when looking up Mixed text in Illustrator.", "keywords": ["Mixed text"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

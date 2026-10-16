@@ -1,0 +1,30 @@
+# InDesign — Html
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up body in InDesign. [body](body.md).
+- Open when looking up footer in InDesign. [footer](footer.md).
+- Open when looking up General in InDesign. [General](html-feature-overview.md).
+- Open when looking up h1 in InDesign. [h1](h1.md).
+- Open when looking up h1 in InDesign. [h1 references](h1/reference-index.md).
+- Open when looking up h2 in InDesign. [h2](h2.md).
+- Open when looking up h2 in InDesign. [h2 references](h2/reference-index.md).
+- Open when looking up h3 in InDesign. [h3](h3.md).
+- Open when looking up h3 in InDesign. [h3 references](h3/reference-index.md).
+- Open when looking up h4 in InDesign. [h4](h4.md).
+- Open when looking up h5 in InDesign. [h5](h5.md).
+- Open when looking up h5 in InDesign. [h5 references](h5/reference-index.md).
+- Open when looking up h6 in InDesign. [h6](h6.md).
+- Open when looking up head in InDesign. [head](head.md).
+- Open when looking up Hierarchy in InDesign. [Hierarchy](hierarchy.md).
+- Open when looking up hr in InDesign. [hr](hr.md).
+- Open when looking up hr in InDesign. [hr references](hr/reference-index.md).
+- Open when looking up html in InDesign. [html](html.md).
+- Open when looking up HTML Reference in InDesign. [HTML Reference](html-reference.md).
+- Open when looking up HTML Reference in InDesign. [HTML Reference references](html-reference/reference-index.md).
+- Open when looking up link in InDesign. [link](link.md).
+- Open when looking up script in InDesign. [script](script.md).
+- Open when looking up script in InDesign. [script references](script/reference-index.md).
+- Open when looking up style in InDesign. [style](style.md).
+- Open when looking up Unsupported Attributes in InDesign. [Unsupported Attributes](unsupported-attributes.md).
+- Open when looking up Unsupported Elements in InDesign. [Unsupported Elements](unsupported-elements.md).
+- Open when looking up Unsupported Elements in InDesign. [Unsupported Elements references](unsupported-elements/reference-index.md).

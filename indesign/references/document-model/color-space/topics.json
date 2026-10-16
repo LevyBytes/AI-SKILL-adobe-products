@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CMYK", "file": "references/document-model/color-space/cmyk.md", "summary": "Open when looking up CMYK in InDesign.", "keywords": ["CMYK"]},
+  {"topic": "HSB", "file": "references/document-model/color-space/hsb.md", "summary": "Open when looking up HSB in InDesign.", "keywords": ["HSB"]},
+  {"topic": "LAB", "file": "references/document-model/color-space/lab.md", "summary": "Open when looking up LAB in InDesign.", "keywords": ["LAB"]},
+  {"topic": "MIXEDINK", "file": "references/document-model/color-space/mixedink.md", "summary": "Open when looking up MIXEDINK in InDesign.", "keywords": ["MIXEDINK"]},
+  {"topic": "RGB", "file": "references/document-model/color-space/rgb.md", "summary": "Open when looking up RGB in InDesign.", "keywords": ["RGB"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

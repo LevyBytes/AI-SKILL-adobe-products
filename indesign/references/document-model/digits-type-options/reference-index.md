@@ -1,0 +1,23 @@
+# InDesign — DigitsTypeOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ARABIC_DIGITS in InDesign. [ARABIC_DIGITS](arabicdigits.md).
+- Open when looking up BENGALI_DIGITS in InDesign. [BENGALI_DIGITS](bengalidigits.md).
+- Open when looking up BURMESE_DIGITS in InDesign. [BURMESE_DIGITS](burmesedigits.md).
+- Open when looking up DEFAULT_DIGITS in InDesign. [DEFAULT_DIGITS](defaultdigits.md).
+- Open when looking up DEVANAGARI_DIGITS in InDesign. [DEVANAGARI_DIGITS](devanagaridigits.md).
+- Open when looking up FARSI_DIGITS in InDesign. [FARSI_DIGITS](farsidigits.md).
+- Open when looking up FULL_FARSI_DIGITS in InDesign. [FULL_FARSI_DIGITS](fullfarsidigits.md).
+- Open when looking up GUJARATI_DIGITS in InDesign. [GUJARATI_DIGITS](gujaratidigits.md).
+- Open when looking up GURMUKHI_DIGITS in InDesign. [GURMUKHI_DIGITS](gurmukhidigits.md).
+- Open when looking up HINDI_DIGITS in InDesign. [HINDI_DIGITS](hindidigits.md).
+- Open when looking up KANNADA_DIGITS in InDesign. [KANNADA_DIGITS](kannadadigits.md).
+- Open when looking up KHMER_DIGITS in InDesign. [KHMER_DIGITS](khmerdigits.md).
+- Open when looking up LAO_DIGITS in InDesign. [LAO_DIGITS](laodigits.md).
+- Open when looking up MALAYALAM_DIGITS in InDesign. [MALAYALAM_DIGITS](malayalamdigits.md).
+- Open when looking up NATIVE_DIGITS in InDesign. [NATIVE_DIGITS](nativedigits.md).
+- Open when looking up ORIYA_DIGITS in InDesign. [ORIYA_DIGITS](oriyadigits.md).
+- Open when looking up TAMIL_DIGITS in InDesign. [TAMIL_DIGITS](tamildigits.md).
+- Open when looking up TELUGU_DIGITS in InDesign. [TELUGU_DIGITS](telugudigits.md).
+- Open when looking up THAI_DIGITS in InDesign. [THAI_DIGITS](thaidigits.md).
+- Open when looking up TIBETAN_DIGITS in InDesign. [TIBETAN_DIGITS](tibetandigits.md).

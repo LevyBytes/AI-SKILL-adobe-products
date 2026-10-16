@@ -1,0 +1,21 @@
+# After Effects — Creating Editing Text Layers
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Best practices for creating text and vector graphics for video in After Effects. [Best practices for creating text and vector graphics for video](video-text-and-vector-practices.md).
+- Open when looking up Change the direction of text in After Effects. [Change the direction of text](change-the-direction-of-text.md).
+- Open when looking up Convert point or paragraph text in After Effects. [Convert point or paragraph text](convert-point-or-paragraph-text.md).
+- Open when looking up Convert text from Photoshop to editable text in After Effects. [Convert text from Photoshop to editable text](convert-text-from-photoshop-to-editable-text.md).
+- Open when looking up Do more with After Effects in After Effects. [Do more with After Effects](do-more-with-after-effects.md).
+- Open when looking up Enter paragraph text in After Effects. [Enter paragraph text](enter-paragraph-text.md).
+- Open when looking up Enter point text in After Effects. [Enter point text](enter-point-text.md).
+- Open when looking up Expanded text support - Universal Text Engine in After Effects. [Expanded text support - Universal Text Engine](expanded-text-support-universal-text-engine.md).
+- Open when looking up Font ligatures in After Effects. [Font ligatures](font-ligatures.md).
+- Open when looking up Hindi digits in After Effects. [Hindi digits](hindi-digits.md).
+- Open when looking up Move a text layer in After Effects. [Move a text layer](move-a-text-layer.md).
+- Open when looking up Paste Text and Match Formatting in After Effects. [Paste Text and Match Formatting](paste-text-and-match-formatting.md).
+- Open when looking up Paste Text Formatting Only in After Effects. [Paste Text Formatting Only](paste-text-formatting-only.md).
+- Open when looking up Paste text from one text layer to another in After Effects. [Paste text from one text layer to another](paste-text-from-one-text-layer-to-another.md).
+- Open when looking up Resize a text bounding box in After Effects. [Resize a text bounding box](resize-a-text-bounding-box.md).
+- Open when looking up Scripting access to text baselines in After Effects. [Scripting access to text baselines](scripting-access-to-text-baselines.md).
+- Open when looking up Scripting improvements for text layers in After Effects. [Scripting improvements for text layers](scripting-improvements-for-text-layers.md).
+- Open when looking up Select and edit text in text layers in After Effects. [Select and edit text in text layers](select-and-edit-text-in-text-layers.md).

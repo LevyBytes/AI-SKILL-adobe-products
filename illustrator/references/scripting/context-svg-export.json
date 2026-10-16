@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Export options svg example references", "file": "references/scripting/export-options-svg-example/reference-index.md", "summary": "Open when looking up Export options svg example in Illustrator.", "keywords": ["Export options svg example references"]},
+  {"topic": "ExportOptionsSVG", "file": "references/scripting/export-options-svg.md", "summary": "Open when looking up ExportOptionsSVG in Illustrator.", "keywords": ["ExportOptionsSVG"]},
+  {"topic": "ExportOptionsSVG references", "file": "references/scripting/export-options-svg/reference-index.md", "summary": "Open when looking up ExportOptionsSVG in Illustrator.", "keywords": ["ExportOptionsSVG references"]},
+  {"topic": "Svgcss property location references", "file": "references/scripting/svgcss-property-location/reference-index.md", "summary": "Open when looking up Svgcss property location in Illustrator.", "keywords": ["Svgcss property location references"]},
+  {"topic": "Svg document encoding references", "file": "references/scripting/svg-document-encoding/reference-index.md", "summary": "Open when looking up Svg document encoding in Illustrator.", "keywords": ["Svg document encoding references"]},
+  {"topic": "Svgdtd version references", "file": "references/scripting/svgdtd-version/reference-index.md", "summary": "Open when looking up Svgdtd version in Illustrator.", "keywords": ["Svgdtd version references"]},
+  {"topic": "Svg font subsetting references", "file": "references/scripting/svg-font-subsetting/reference-index.md", "summary": "Open when looking up Svg font subsetting in Illustrator.", "keywords": ["Svg font subsetting references"]},
+  {"topic": "Svg font type references", "file": "references/scripting/svg-font-type/reference-index.md", "summary": "Open when looking up Svg font type in Illustrator.", "keywords": ["Svg font type references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

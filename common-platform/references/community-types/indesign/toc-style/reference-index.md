@@ -1,0 +1,21 @@
+# Shared Adobe platform — TOCStyle
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TOCStyle declaration in Shared Adobe platform. [TOCStyle declaration](declaration.md).
+- Open when looking up TOCStyle event listeners in Shared Adobe platform. [TOCStyle event listeners](event-listeners.md).
+- Open when looking up TOCStyle identity and parent in Shared Adobe platform. [TOCStyle identity and parent](identity-and-parent.md).
+- Open when looking up TOCStyle labels and metadata in Shared Adobe platform. [TOCStyle labels and metadata](labels-and-metadata.md).
+- Open when looking up TOCStyle object lifecycle in Shared Adobe platform. [TOCStyle object lifecycle](object-lifecycle.md).
+- Open when looking up TOCStyle object resolution in Shared Adobe platform. [TOCStyle object resolution](object-resolution.md).
+- Open when looking up TOCStyle.createBookmarks in Shared Adobe platform. [TOCStyle.createBookmarks](create-bookmarks.md).
+- Open when looking up TOCStyle.includeBookDocuments in Shared Adobe platform. [TOCStyle.includeBookDocuments](include-book-documents.md).
+- Open when looking up TOCStyle.includeHidden in Shared Adobe platform. [TOCStyle.includeHidden](include-hidden.md).
+- Open when looking up TOCStyle.makeAnchor in Shared Adobe platform. [TOCStyle.makeAnchor](make-anchor.md).
+- Open when looking up TOCStyle.numberedParagraphs in Shared Adobe platform. [TOCStyle.numberedParagraphs](numbered-paragraphs.md).
+- Open when looking up TOCStyle.properties in Shared Adobe platform. [TOCStyle.properties](properties.md).
+- Open when looking up TOCStyle.removeForcedLineBreak in Shared Adobe platform. [TOCStyle.removeForcedLineBreak](remove-forced-line-break.md).
+- Open when looking up TOCStyle.runIn in Shared Adobe platform. [TOCStyle.runIn](run-in.md).
+- Open when looking up TOCStyle.setStoryDirection in Shared Adobe platform. [TOCStyle.setStoryDirection](set-story-direction.md).
+- Open when looking up TOCStyle.title in Shared Adobe platform. [TOCStyle.title](title.md).
+- Open when looking up TOCStyle.titleStyle in Shared Adobe platform. [TOCStyle.titleStyle](title-style.md).
+- Open when looking up TOCStyle.tocStyleEntries in Shared Adobe platform. [TOCStyle.tocStyleEntries](toc-style-entries.md).

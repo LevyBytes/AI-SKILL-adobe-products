@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Search for Stock assets", "file": "references/web/firefly-video-editor-beta/add-and-organize-media/use-built-in-adobe-stock-panel/search-for-stock-assets.md", "summary": "Open when looking up Search for Stock assets in Firefly.", "keywords": ["Search for Stock assets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

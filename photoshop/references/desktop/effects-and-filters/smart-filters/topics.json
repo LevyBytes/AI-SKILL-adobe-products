@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Sharpen a selection", "file": "references/desktop/effects-and-filters/smart-filters/sharpen-a-selection.md", "summary": "Open when looking up Sharpen a selection in Photoshop.", "keywords": ["Sharpen a selection"]},
+  {"topic": "Sharpen controls with smart sharpen", "file": "references/desktop/effects-and-filters/smart-filters/sharpen-controls-with-smart-sharpen.md", "summary": "Open when looking up Sharpen controls with smart sharpen in Photoshop.", "keywords": ["Sharpen controls with smart sharpen"]},
+  {"topic": "Sharpen image using edge mask", "file": "references/desktop/effects-and-filters/smart-filters/sharpen-image-using-edge-mask.md", "summary": "Open when looking up Sharpen image using edge mask in Photoshop.", "keywords": ["Sharpen image using edge mask"]},
+  {"topic": "Sharpen images with the unsharp mask", "file": "references/desktop/effects-and-filters/smart-filters/sharpen-images-with-the-unsharp-mask.md", "summary": "Open when looking up Sharpen images with the unsharp mask in Photoshop.", "keywords": ["Sharpen images with the unsharp mask"]},
+  {"topic": "Sharpening overview", "file": "references/desktop/effects-and-filters/smart-filters/sharpening-overview.md", "summary": "Open when looking up Sharpening overview in Photoshop.", "keywords": ["Sharpening overview"]},
+  {"topic": "Sharpening overview references", "file": "references/desktop/effects-and-filters/smart-filters/sharpening-overview/reference-index.md", "summary": "Open when looking up Sharpening overview in Photoshop.", "keywords": ["Sharpening overview references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

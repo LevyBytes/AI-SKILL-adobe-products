@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Configure preflight options", "file": "references/desktop/print/preflight/configure-and-use-the-preflight-panel/configure-preflight-options.md", "summary": "Open when looking up Configure preflight options in InDesign.", "keywords": ["Configure preflight options"]},
+  {"topic": "Open a preflight panel", "file": "references/desktop/print/preflight/configure-and-use-the-preflight-panel/open-a-preflight-panel.md", "summary": "Open when looking up Open a preflight panel in InDesign.", "keywords": ["Open a preflight panel"]},
+  {"topic": "Specify a page range for preflight checking", "file": "references/desktop/print/preflight/configure-and-use-the-preflight-panel/specify-a-page-range-for-preflight-checking.md", "summary": "Open when looking up Specify a page range for preflight checking in InDesign.", "keywords": ["Specify a page range for preflight checking"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

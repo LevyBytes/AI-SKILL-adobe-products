@@ -1,0 +1,26 @@
+# Illustrator — Automate actions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Actions panel overview in Illustrator. [Actions panel overview](actions-panel-overview.md).
+- Open when looking up Add commands to actions in Illustrator. [Add commands to actions](add-commands-to-actions.md).
+- Open when looking up Batch options in Illustrator. [Batch options](batch-options.md).
+- Open when looking up Create new actions in Illustrator. [Create new actions](create-new-actions.md).
+- Open when looking up Edit dynamic objects in Illustrator. [Edit dynamic objects](edit-dynamic-objects.md).
+- Open when looking up Edit dynamic objects in Illustrator. [Edit dynamic objects references](edit-dynamic-objects/reference-index.md).
+- Open when looking up Exclude commands from actions in Illustrator. [Exclude commands from actions](exclude-commands-from-actions.md).
+- Open when looking up Import data source files in Illustrator. [Import data source files](import-data-source-files.md).
+- Open when looking up Insert non-recordable tasks into actions in Illustrator. [Insert non-recordable tasks into actions](insert-non-recordable-tasks-into-actions.md).
+- Open when looking up Insert non-recordable tasks into actions in Illustrator. [Insert non-recordable tasks into actions references](insert-non-recordable-tasks-into-actions/reference-index.md).
+- Open when looking up Insert stops in actions in Illustrator. [Insert stops in actions](insert-stops-in-actions.md).
+- Open when looking up Manage a set of actions in Illustrator. [Manage a set of actions](manage-a-set-of-actions.md).
+- Open when looking up Manage a set of actions in Illustrator. [Manage a set of actions references](manage-a-set-of-actions/reference-index.md).
+- Open when looking up Merge data in Illustrator. [Merge data](merge-data.md).
+- Open when looking up Merge data in Illustrator. [Merge data references](merge-data/reference-index.md).
+- Open when looking up Play actions on a batch of files in Illustrator. [Play actions on a batch of files](play-actions-on-a-batch-of-files.md).
+- Open when looking up Re-record actions in Illustrator. [Re-record actions](re-record-actions.md).
+- Open when looking up Set up data source files in Illustrator. [Set up data source files](set-up-data-source-files.md).
+- Open when looking up Set up data source files in Illustrator. [Set up data source files references](set-up-data-source-files/reference-index.md).
+- Open when looking up Specify playback speed in Illustrator. [Specify playback speed](specify-playback-speed.md).
+- Open when looking up Variable panel overview in Illustrator. [Variable panel overview](variable-panel-overview.md).
+- Open when looking up Work with variables in Illustrator. [Work with variables](work-with-variables.md).
+- Open when looking up Work with variables in Illustrator. [Work with variables references](work-with-variables/reference-index.md).

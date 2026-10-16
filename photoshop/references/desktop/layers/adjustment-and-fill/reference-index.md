@@ -1,0 +1,21 @@
+# Photoshop — Color adjustment and fill layers
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust contrast with Clarity and Dehaze in Photoshop. [Adjust contrast with Clarity and Dehaze](adjust-contrast-with-clarity-and-dehaze.md).
+- Open when looking up Adjust texture with Grain in Photoshop. [Adjust texture with Grain](adjust-texture-with-grain.md).
+- Open when looking up Adjustment and fill layers overview in Photoshop. [Adjustment and fill layers overview](adjustment-and-fill-layers-overview.md).
+- Open when looking up Adjustment and fill layers overview in Photoshop. [Adjustment and fill layers overview references](adjustment-and-fill-layers-overview/reference-index.md).
+- Open when looking up Adjustment layer options in Photoshop. [Adjustment layer options](adjustment-layer-options.md).
+- Open when looking up Adjustment presets overview in Photoshop. [Adjustment presets overview](adjustment-presets-overview.md).
+- Open when looking up Change adjustment and fill layer options in Photoshop. [Change adjustment and fill layer options](change-adjustment-and-fill-layer-options.md).
+- Open when looking up Change adjustment and fill layer options in Photoshop. [Change adjustment and fill layer options references](change-adjustment-and-fill-layer-options/reference-index.md).
+- Open when looking up Correct color balance with Color and vibrance in Photoshop. [Correct color balance with Color and vibrance](correct-color-balance-with-color-and-vibrance.md).
+- Open when looking up Create adjustment layers in Photoshop. [Create adjustment layers](create-adjustment-layers.md).
+- Open when looking up Create custom presets in Photoshop. [Create custom presets](create-custom-presets.md).
+- Open when looking up Create custom presets in Photoshop. [Create custom presets references](create-custom-presets/reference-index.md).
+- Open when looking up Create fill layers in Photoshop. [Create fill layers](create-fill-layers.md).
+- Open when looking up Merging adjustment or fill layers in Photoshop. [Merging adjustment or fill layers](merging-adjustment-or-fill-layers.md).
+- Open when looking up Use layer masks to target adjustment or fill layers in Photoshop. [Use layer masks to target adjustment or fill layers](use-layer-masks-to-target-adjustment-or-fill-layers.md).
+- Open when looking up Use layer masks to target adjustment or fill layers in Photoshop. [Use layer masks to target adjustment or fill layers references](use-layer-masks-to-target-adjustment-or-fill-layers/reference-index.md).
+- Open when looking up Work with adjustment layers in Photoshop. [Work with adjustment layers](work-with-adjustment-layers.md).
+- Open when looking up Work with adjustment layers in Photoshop. [Work with adjustment layers references](work-with-adjustment-layers/reference-index.md).

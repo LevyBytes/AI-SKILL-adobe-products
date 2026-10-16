@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Change units through preferences", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/change-ruler-measurement-units/change-units-through-preferences.md", "summary": "Open when looking up Change units through preferences in InDesign.", "keywords": ["Change units through preferences"]},
+  {"topic": "Override default units temporarily", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/change-ruler-measurement-units/override-default-units-temporarily.md", "summary": "Open when looking up Override default units temporarily in InDesign.", "keywords": ["Override default units temporarily"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

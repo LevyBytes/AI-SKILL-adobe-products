@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Launch process", "file": "references/uxp/launch-process.md", "summary": "Open when looking up Launch process in InDesign.", "keywords": ["Launch process"]},
+  {"topic": "Launch process references", "file": "references/uxp/launch-process/reference-index.md", "summary": "Open when looking up Launch process in InDesign.", "keywords": ["Launch process references"]},
+  {"topic": "Shell references", "file": "references/uxp/shell/reference-index.md", "summary": "Open when looking up Shell in InDesign.", "keywords": ["Shell references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

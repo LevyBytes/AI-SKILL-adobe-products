@@ -1,0 +1,23 @@
+# Photoshop — Adjustments
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adding adjustment layers in Photoshop. [Adding adjustment layers references](adding-adjustment-layers/reference-index.md).
+- Open when looking up Adjustment layer migration: V1 payload in Photoshop. [Adjustment layer migration: V1 payload](adjustment-layer-migration.md).
+- Open when looking up Adjustment layer migration: V2 payload in Photoshop. [Adjustment layer migration: V2 payload](v2-adjustment-layer-request.md).
+- Open when looking up Adjustment Types Supported in Photoshop. [Adjustment Types Supported](adjustment-types-supported.md).
+- Open when looking up Brightness/Contrast in Photoshop. [Brightness/Contrast](brightness-contrast.md).
+- Open when looking up Color Balance in Photoshop. [Color Balance](color-balance.md).
+- Open when looking up Common migration issues in Photoshop. [Common migration issues references](common-migration-issues/reference-index.md).
+- Open when looking up Creating documents with adjustment layers in Photoshop. [Creating documents with adjustment layers references](creating-documents-with-adjustment-layers/reference-index.md).
+- Open when looking up Editing existing adjustment layers in Photoshop. [Editing existing adjustment layers references](editing-existing-adjustment-layers/reference-index.md).
+- Open when looking up Exposure in Photoshop. [Exposure](exposure.md).
+- Open when looking up Feature availability in Photoshop. [Feature availability references](feature-availability/reference-index.md).
+- Open when looking up Hue/Saturation in Photoshop. [Hue/Saturation](hue-saturation.md).
+- Open when looking up Hue/Saturation in Photoshop. [Hue/Saturation references](hue-saturation/reference-index.md).
+- Open when looking up Key migration changes in Photoshop. [Key migration changes references](key-migration-changes/reference-index.md).
+- Open when looking up Layer Operations Adjustments in Photoshop. [Layer Operations Adjustments](layer-operations-adjustments.md).
+- Open when looking up Layer Properties in Photoshop. [Layer Properties](layer-properties.md).
+- Open when looking up Migration Checklist in Photoshop. [Migration Checklist](migration-checklist.md).
+- Open when looking up Multiple Adjustment Layers in Photoshop. [Multiple Adjustment Layers](multiple-adjustment-layers.md).
+- Open when looking up Next steps in Photoshop. [Next steps](next-steps.md).
+- Open when looking up Placement options in Photoshop. [Placement options references](placement-options/reference-index.md).

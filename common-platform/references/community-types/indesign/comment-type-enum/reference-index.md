@@ -1,0 +1,24 @@
+# Shared Adobe platform — CommentTypeEnum
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CommentTypeEnum declaration in Shared Adobe platform. [CommentTypeEnum declaration](declaration.md).
+- Open when looking up CommentTypeEnum.ARROW_TYPE in Shared Adobe platform. [CommentTypeEnum.ARROW_TYPE](arrowtype.md).
+- Open when looking up CommentTypeEnum.CLOUD_TYPE in Shared Adobe platform. [CommentTypeEnum.CLOUD_TYPE](cloudtype.md).
+- Open when looking up CommentTypeEnum.CONNECTED_LINES_TYPE in Shared Adobe platform. [CommentTypeEnum.CONNECTED_LINES_TYPE](connectedlinestype.md).
+- Open when looking up CommentTypeEnum.FREEFORM_DRAWING_TYPE in Shared Adobe platform. [CommentTypeEnum.FREEFORM_DRAWING_TYPE](freeformdrawingtype.md).
+- Open when looking up CommentTypeEnum.HIGHLIGHT_TEXT_TYPE in Shared Adobe platform. [CommentTypeEnum.HIGHLIGHT_TEXT_TYPE](highlighttexttype.md).
+- Open when looking up CommentTypeEnum.INSERT_TEXT_TYPE in Shared Adobe platform. [CommentTypeEnum.INSERT_TEXT_TYPE](inserttexttype.md).
+- Open when looking up CommentTypeEnum.INVALID_COMMENT_TYPE in Shared Adobe platform. [CommentTypeEnum.INVALID_COMMENT_TYPE](invalidcommenttype.md).
+- Open when looking up CommentTypeEnum.LINE_SEGMENT_TYPE in Shared Adobe platform. [CommentTypeEnum.LINE_SEGMENT_TYPE](linesegmenttype.md).
+- Open when looking up CommentTypeEnum.OVAL_TYPE in Shared Adobe platform. [CommentTypeEnum.OVAL_TYPE](ovaltype.md).
+- Open when looking up CommentTypeEnum.POLYGON_TYPE in Shared Adobe platform. [CommentTypeEnum.POLYGON_TYPE](polygontype.md).
+- Open when looking up CommentTypeEnum.RECTANGLE_TYPE in Shared Adobe platform. [CommentTypeEnum.RECTANGLE_TYPE](rectangletype.md).
+- Open when looking up CommentTypeEnum.REPLACE_TEXT_TYPE in Shared Adobe platform. [CommentTypeEnum.REPLACE_TEXT_TYPE](replacetexttype.md).
+- Open when looking up CommentTypeEnum.SQUIGGLY_TEXT_TYPE in Shared Adobe platform. [CommentTypeEnum.SQUIGGLY_TEXT_TYPE](squigglytexttype.md).
+- Open when looking up CommentTypeEnum.STAMP_TYPE in Shared Adobe platform. [CommentTypeEnum.STAMP_TYPE](stamptype.md).
+- Open when looking up CommentTypeEnum.STICKY_NOTE_TYPE in Shared Adobe platform. [CommentTypeEnum.STICKY_NOTE_TYPE](stickynotetype.md).
+- Open when looking up CommentTypeEnum.STRIKETHROUGH_TEXT_TYPE in Shared Adobe platform. [CommentTypeEnum.STRIKETHROUGH_TEXT_TYPE](strikethroughtexttype.md).
+- Open when looking up CommentTypeEnum.TEXT_BOX_TYPE in Shared Adobe platform. [CommentTypeEnum.TEXT_BOX_TYPE](textboxtype.md).
+- Open when looking up CommentTypeEnum.TEXT_CALLOUT_TYPE in Shared Adobe platform. [CommentTypeEnum.TEXT_CALLOUT_TYPE](textcallouttype.md).
+- Open when looking up CommentTypeEnum.TEXT_TYPEWRITER_TYPE in Shared Adobe platform. [CommentTypeEnum.TEXT_TYPEWRITER_TYPE](texttypewritertype.md).
+- Open when looking up CommentTypeEnum.UNDERLINE_TEXT_TYPE in Shared Adobe platform. [CommentTypeEnum.UNDERLINE_TEXT_TYPE](underlinetexttype.md).

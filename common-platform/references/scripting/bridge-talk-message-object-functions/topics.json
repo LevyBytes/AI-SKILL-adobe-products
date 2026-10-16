@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "send()", "file": "references/scripting/bridge-talk-message-object-functions/send.md", "summary": "Open when looking up send() in Shared Adobe platform.", "keywords": ["send()"]},
+  {"topic": "sendResult()", "file": "references/scripting/bridge-talk-message-object-functions/send-result.md", "summary": "Open when looking up sendResult() in Shared Adobe platform.", "keywords": ["sendResult()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

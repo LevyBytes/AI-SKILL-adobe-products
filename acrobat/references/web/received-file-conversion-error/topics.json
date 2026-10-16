@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Browser cache issues", "file": "references/web/received-file-conversion-error/browser-cache-issues.md", "summary": "Open when looking up Browser cache issues in Acrobat.", "keywords": ["Browser cache issues"]},
+  {"topic": "Browser not compatible", "file": "references/web/received-file-conversion-error/browser-not-compatible.md", "summary": "Open when looking up Browser not compatible in Acrobat.", "keywords": ["Browser not compatible"]},
+  {"topic": "File size and complexity", "file": "references/web/received-file-conversion-error/file-size-and-complexity.md", "summary": "Open when looking up File size and complexity in Acrobat.", "keywords": ["File size and complexity"]},
+  {"topic": "Incorrect firewall or proxy settings", "file": "references/web/received-file-conversion-error/incorrect-firewall-or-proxy-settings.md", "summary": "Open when looking up Incorrect firewall or proxy settings in Acrobat.", "keywords": ["Incorrect firewall or proxy settings"]},
+  {"topic": "Persistent browser issues", "file": "references/web/received-file-conversion-error/persistent-browser-issues.md", "summary": "Open when looking up Persistent browser issues in Acrobat.", "keywords": ["Persistent browser issues"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

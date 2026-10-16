@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Using File and Folder objects — Unicode I/O", "file": "references/scripting/unicode-i-o/using-file-and-folder-objects-unicode-i-o.md", "summary": "Open when looking up Using File and Folder objects — Unicode I/O in Shared Adobe platform.", "keywords": ["Using File and Folder objects — Unicode I/O"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

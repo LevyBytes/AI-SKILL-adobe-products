@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "FindTextPreference.appliedCharacterStyle", "file": "references/community-types/indesign/find-text-preference/applied-character-style.md", "summary": "Open when looking up FindTextPreference.appliedCharacterStyle in Shared Adobe platform.", "keywords": ["FindTextPreference.appliedCharacterStyle"]},
+  {"topic": "FindTextPreference.appliedParagraphStyle", "file": "references/community-types/indesign/find-text-preference/applied-paragraph-style.md", "summary": "Open when looking up FindTextPreference.appliedParagraphStyle in Shared Adobe platform.", "keywords": ["FindTextPreference.appliedParagraphStyle"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

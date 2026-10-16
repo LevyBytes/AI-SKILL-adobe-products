@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "PF_AppColorPickerDialog", "file": "references/plugin-sdk/pf-app-suite/pf-app-color-picker-dialog.md", "summary": "Open when looking up PF_AppColorPickerDialog in After Effects.", "keywords": ["PF_AppColorPickerDialog"]},
+  {"topic": "PF_AppGetBgColor", "file": "references/plugin-sdk/pf-app-suite/pf-app-get-bg-color.md", "summary": "Open when looking up PF_AppGetBgColor in After Effects.", "keywords": ["PF_AppGetBgColor"]},
+  {"topic": "PF_AppGetColor", "file": "references/plugin-sdk/pf-app-suite/pf-app-get-color.md", "summary": "Open when looking up PF_AppGetColor in After Effects.", "keywords": ["PF_AppGetColor"]},
+  {"topic": "PF_AppGetLanguage", "file": "references/plugin-sdk/pf-app-suite/pf-app-get-language.md", "summary": "Open when looking up PF_AppGetLanguage in After Effects.", "keywords": ["PF_AppGetLanguage"]},
+  {"topic": "PF_ConvertLocalToGlobal", "file": "references/plugin-sdk/pf-app-suite/pf-convert-local-to-global.md", "summary": "Open when looking up PF_ConvertLocalToGlobal in After Effects.", "keywords": ["PF_ConvertLocalToGlobal"]},
+  {"topic": "PF_GetFontStyleSheet", "file": "references/plugin-sdk/pf-app-suite/pf-get-font-style-sheet.md", "summary": "Open when looking up PF_GetFontStyleSheet in After Effects.", "keywords": ["PF_GetFontStyleSheet"]},
+  {"topic": "PF_GetMouse", "file": "references/plugin-sdk/pf-app-suite/pf-get-mouse.md", "summary": "Open when looking up PF_GetMouse in After Effects.", "keywords": ["PF_GetMouse"]},
+  {"topic": "PF_GetPersonalInfo", "file": "references/plugin-sdk/pf-app-suite/pf-get-personal-info.md", "summary": "Open when looking up PF_GetPersonalInfo in After Effects.", "keywords": ["PF_GetPersonalInfo"]},
+  {"topic": "PF_InvalidateRect", "file": "references/plugin-sdk/pf-app-suite/pf-invalidate-rect.md", "summary": "Open when looking up PF_InvalidateRect in After Effects.", "keywords": ["PF_InvalidateRect"]},
+  {"topic": "PF_IsRenderEngine", "file": "references/plugin-sdk/pf-app-suite/pf-is-render-engine.md", "summary": "Open when looking up PF_IsRenderEngine in After Effects.", "keywords": ["PF_IsRenderEngine"]},
+  {"topic": "PF_SetCursor", "file": "references/plugin-sdk/pf-app-suite/pf-set-cursor.md", "summary": "Open when looking up PF_SetCursor in After Effects.", "keywords": ["PF_SetCursor"]},
+  {"topic": "Useful Utility Functions — PF_AppSuite", "file": "references/plugin-sdk/pf-app-suite/useful-utility-functions-pf-app-suite.md", "summary": "Open when looking up Useful Utility Functions — PF_AppSuite in After Effects.", "keywords": ["Useful Utility Functions — PF_AppSuite"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,28 @@
+# After Effects — Keying Effects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Keying effects — Advanced Spill Suppressor effect in After Effects. [Keying effects — Advanced Spill Suppressor effect](keying-effects-advanced-spill-suppressor-effect.md).
+- Open when looking up Keying effects — Apply the Linear Color Key effect in After Effects. [Keying effects — Apply the Linear Color Key effect](keying-effects-apply-the-linear-color-key-effect.md).
+- Open when looking up Keying effects — Apply the Unmult effect in After Effects. [Keying effects — Apply the Unmult effect](keying-effects-apply-the-unmult-effect.md).
+- Open when looking up Keying effects — Color Key effect in After Effects. [Keying effects — Color Key effect](keying-effects-color-key-effect.md).
+- Open when looking up Keying effects — Color Range effect in After Effects. [Keying effects — Color Range effect](keying-effects-color-range-effect.md).
+- Open when looking up Keying effects — Difference Matte effect in After Effects. [Keying effects — Difference Matte effect](keying-effects-difference-matte-effect.md).
+- Open when looking up Keying effects — Extract effect in After Effects. [Keying effects — Extract effect](keying-effects-extract-effect.md).
+- Open when looking up Keying effects — Inner/Outer Key effect in After Effects. [Keying effects — Inner/Outer Key effect](keying-effects-inner-outer-key-effect.md).
+- Open when looking up Keying effects — Key Cleaner effect in After Effects. [Keying effects — Key Cleaner effect](keying-effects-key-cleaner-effect.md).
+- Open when looking up Keying effects — Key out a luminance value with the Luma Key effect in After Effects. [Keying effects — Key out a luminance value with the Luma Key effect](key-out-a-luminance-value-with-the-luma-key-effect.md).
+- Open when looking up Keying effects — Key out a single color with the Color Key effect in After Effects. [Keying effects — Key out a single color with the Color Key effect](key-out-a-single-color-with-the-color-key-effect.md).
+- Open when looking up Keying effects — Keylight effect in After Effects. [Keying effects — Keylight effect](keying-effects-keylight-effect.md).
+- Open when looking up Keying effects — Learn Tutorial in After Effects. [Keying effects — Learn Tutorial](keying-effects-learn-tutorial.md).
+- Open when looking up Keying effects — Linear Color Key effect in After Effects. [Keying effects — Linear Color Key effect](keying-effects-linear-color-key-effect.md).
+- Open when looking up Keying effects — Luma Key effect in After Effects. [Keying effects — Luma Key effect](keying-effects-luma-key-effect.md).
+- Open when looking up Keying effects — Preserve a color after applying Linear Color Key in After Effects. [Keying effects — Preserve a color after applying Linear Color Key](preserve-a-color-after-applying-linear-color-key.md).
+- Open when looking up Keying effects — Spill Suppressor effect in After Effects. [Keying effects — Spill Suppressor effect](keying-effects-spill-suppressor-effect.md).
+- Open when looking up Keying effects — Unmult effect in After Effects. [Keying effects — Unmult effect](keying-effects-unmult-effect.md).
+- Open when looking up Keying effects — Use the Color Difference Key effect in After Effects. [Keying effects — Use the Color Difference Key effect](keying-effects-use-the-color-difference-key-effect.md).
+- Open when looking up Keying effects — Use the Color Range effect in After Effects. [Keying effects — Use the Color Range effect](keying-effects-use-the-color-range-effect.md).
+- Open when looking up Keying effects — Use the Difference Matte effect in After Effects. [Keying effects — Use the Difference Matte effect](keying-effects-use-the-difference-matte-effect.md).
+- Open when looking up Keying effects — Use the Extract effect in After Effects. [Keying effects — Use the Extract effect](keying-effects-use-the-extract-effect.md).
+- Open when looking up Keying effects — Use the Inner/Outer Key effect in After Effects. [Keying effects — Use the Inner/Outer Key effect](keying-effects-use-the-inner-outer-key-effect.md).
+- Open when looking up Keying effects — Using Key Cleaner and Advanced Spill Suppressor effects with other keying effects in After Effects. [Keying effects — Using Key Cleaner and Advanced Spill Suppressor effects with other keying effects](key-cleaner-and-spill-suppression.md).
+- Open when looking up Keying effects — Using the Keylight + Key Cleaner + Advanced Spill Suppressor animation preset in After Effects. [Keying effects — Using the Keylight + Key Cleaner + Advanced Spill Suppressor animation preset](keylight-cleaner-spill-suppression-preset.md).

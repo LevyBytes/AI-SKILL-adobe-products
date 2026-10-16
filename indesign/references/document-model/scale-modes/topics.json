@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "SCALE_TO_FIT", "file": "references/document-model/scale-modes/scaletofit.md", "summary": "Open when looking up SCALE_TO_FIT in InDesign.", "keywords": ["SCALE_TO_FIT"]},
+  {"topic": "SCALE_WIDTH_HEIGHT", "file": "references/document-model/scale-modes/scalewidthheight.md", "summary": "Open when looking up SCALE_WIDTH_HEIGHT in InDesign.", "keywords": ["SCALE_WIDTH_HEIGHT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

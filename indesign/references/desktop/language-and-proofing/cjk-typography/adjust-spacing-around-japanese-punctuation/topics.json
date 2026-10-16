@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Access detailed Mojikumi settings", "file": "references/desktop/language-and-proofing/cjk-typography/adjust-spacing-around-japanese-punctuation/access-detailed-mojikumi-settings.md", "summary": "Open when looking up Access detailed Mojikumi settings in InDesign.", "keywords": ["Access detailed Mojikumi settings"]},
+  {"topic": "Configure spacing for punctuation characters", "file": "references/desktop/language-and-proofing/cjk-typography/adjust-spacing-around-japanese-punctuation/configure-spacing-for-punctuation-characters.md", "summary": "Open when looking up Configure spacing for punctuation characters in InDesign.", "keywords": ["Configure spacing for punctuation characters"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

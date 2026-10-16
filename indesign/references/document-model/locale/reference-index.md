@@ -1,0 +1,27 @@
+# InDesign — Locale
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ARABIC_LOCALE in InDesign. [ARABIC_LOCALE](arabiclocale.md).
+- Open when looking up CZECH_LOCALE in InDesign. [CZECH_LOCALE](czechlocale.md).
+- Open when looking up DANISH_LOCALE in InDesign. [DANISH_LOCALE](danishlocale.md).
+- Open when looking up ENGLISH_LOCALE in InDesign. [ENGLISH_LOCALE](englishlocale.md).
+- Open when looking up FINNISH_LOCALE in InDesign. [FINNISH_LOCALE](finnishlocale.md).
+- Open when looking up FRENCH_LOCALE in InDesign. [FRENCH_LOCALE](frenchlocale.md).
+- Open when looking up GERMAN_LOCALE in InDesign. [GERMAN_LOCALE](germanlocale.md).
+- Open when looking up GREEK_LOCALE in InDesign. [GREEK_LOCALE](greeklocale.md).
+- Open when looking up HEBREW_LOCALE in InDesign. [HEBREW_LOCALE](hebrewlocale.md).
+- Open when looking up HUNGARIAN_LOCALE in InDesign. [HUNGARIAN_LOCALE](hungarianlocale.md).
+- Open when looking up INTERNATIONAL_ENGLISH_LOCALE in InDesign. [INTERNATIONAL_ENGLISH_LOCALE](internationalenglishlocale.md).
+- Open when looking up ITALIAN_LOCALE in InDesign. [ITALIAN_LOCALE](italianlocale.md).
+- Open when looking up JAPANESE_LOCALE in InDesign. [JAPANESE_LOCALE](japaneselocale.md).
+- Open when looking up KOREAN_LOCALE in InDesign. [KOREAN_LOCALE](koreanlocale.md).
+- Open when looking up POLISH_LOCALE in InDesign. [POLISH_LOCALE](polishlocale.md).
+- Open when looking up PORTUGUESE_LOCALE in InDesign. [PORTUGUESE_LOCALE](portugueselocale.md).
+- Open when looking up ROMANIAN_LOCALE in InDesign. [ROMANIAN_LOCALE](romanianlocale.md).
+- Open when looking up RUSSIAN_LOCALE in InDesign. [RUSSIAN_LOCALE](russianlocale.md).
+- Open when looking up SIMPLIFIED_CHINESE_LOCALE in InDesign. [SIMPLIFIED_CHINESE_LOCALE](simplifiedchineselocale.md).
+- Open when looking up SPANISH_LOCALE in InDesign. [SPANISH_LOCALE](spanishlocale.md).
+- Open when looking up SWEDISH_LOCALE in InDesign. [SWEDISH_LOCALE](swedishlocale.md).
+- Open when looking up TRADITIONAL_CHINESE_LOCALE in InDesign. [TRADITIONAL_CHINESE_LOCALE](traditionalchineselocale.md).
+- Open when looking up TURKISH_LOCALE in InDesign. [TURKISH_LOCALE](turkishlocale.md).
+- Open when looking up UKRAINIAN_LOCALE in InDesign. [UKRAINIAN_LOCALE](ukrainianlocale.md).

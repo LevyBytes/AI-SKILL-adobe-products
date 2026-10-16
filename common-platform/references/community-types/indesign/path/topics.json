@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Path declaration", "file": "references/community-types/indesign/path/declaration.md", "summary": "Open when looking up Path declaration in Shared Adobe platform.", "keywords": ["Path declaration"]},
+  {"topic": "Path event listeners", "file": "references/community-types/indesign/path/event-listeners.md", "summary": "Open when looking up Path event listeners in Shared Adobe platform.", "keywords": ["Path event listeners"]},
+  {"topic": "Path identity and parent", "file": "references/community-types/indesign/path/identity-and-parent.md", "summary": "Open when looking up Path identity and parent in Shared Adobe platform.", "keywords": ["Path identity and parent"]},
+  {"topic": "Path object resolution", "file": "references/community-types/indesign/path/object-resolution.md", "summary": "Open when looking up Path object resolution in Shared Adobe platform.", "keywords": ["Path object resolution"]},
+  {"topic": "Path.entirePath", "file": "references/community-types/indesign/path/entire-path.md", "summary": "Open when looking up Path.entirePath in Shared Adobe platform.", "keywords": ["Path.entirePath"]},
+  {"topic": "Path.pathPoints", "file": "references/community-types/indesign/path/path-points.md", "summary": "Open when looking up Path.pathPoints in Shared Adobe platform.", "keywords": ["Path.pathPoints"]},
+  {"topic": "Path.pathType", "file": "references/community-types/indesign/path/path-type.md", "summary": "Open when looking up Path.pathType in Shared Adobe platform.", "keywords": ["Path.pathType"]},
+  {"topic": "Path.properties", "file": "references/community-types/indesign/path/properties.md", "summary": "Open when looking up Path.properties in Shared Adobe platform.", "keywords": ["Path.properties"]},
+  {"topic": "Path.remove", "file": "references/community-types/indesign/path/remove.md", "summary": "Open when looking up Path.remove in Shared Adobe platform.", "keywords": ["Path.remove"]},
+  {"topic": "Path.reverse", "file": "references/community-types/indesign/path/reverse.md", "summary": "Open when looking up Path.reverse in Shared Adobe platform.", "keywords": ["Path.reverse"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

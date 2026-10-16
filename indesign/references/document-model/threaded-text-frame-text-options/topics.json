@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "TEXT_FOR_COMPLETE_STORY", "file": "references/document-model/threaded-text-frame-text-options/textforcompletestory.md", "summary": "Open when looking up TEXT_FOR_COMPLETE_STORY in InDesign.", "keywords": ["TEXT_FOR_COMPLETE_STORY"]},
+  {"topic": "TEXT_WITHIN_TEXTFRAME", "file": "references/document-model/threaded-text-frame-text-options/textwithintextframe.md", "summary": "Open when looking up TEXT_WITHIN_TEXTFRAME in InDesign.", "keywords": ["TEXT_WITHIN_TEXTFRAME"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

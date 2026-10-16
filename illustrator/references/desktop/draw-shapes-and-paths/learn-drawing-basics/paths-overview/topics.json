@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Fill and Stroke properties of paths", "file": "references/desktop/draw-shapes-and-paths/learn-drawing-basics/paths-overview/fill-and-stroke-properties-of-paths.md", "summary": "Open when looking up Fill and Stroke properties of paths in Illustrator.", "keywords": ["Fill and Stroke properties of paths"]},
+  {"topic": "Paths and anchor points", "file": "references/desktop/draw-shapes-and-paths/learn-drawing-basics/paths-overview/paths-and-anchor-points.md", "summary": "Open when looking up Paths and anchor points in Illustrator.", "keywords": ["Paths and anchor points"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

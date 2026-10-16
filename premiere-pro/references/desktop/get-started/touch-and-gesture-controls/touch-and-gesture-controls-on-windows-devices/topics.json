@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "One-finger tap/drag", "file": "references/desktop/get-started/touch-and-gesture-controls/touch-and-gesture-controls-on-windows-devices/one-finger-tap-drag.md", "summary": "Open when looking up One-finger tap/drag in Premiere Pro.", "keywords": ["One-finger tap/drag"]},
+  {"topic": "Two-finger pinch to zoom", "file": "references/desktop/get-started/touch-and-gesture-controls/touch-and-gesture-controls-on-windows-devices/two-finger-pinch-to-zoom.md", "summary": "Open when looking up Two-finger pinch to zoom in Premiere Pro.", "keywords": ["Two-finger pinch to zoom"]},
+  {"topic": "Two-finger scroll", "file": "references/desktop/get-started/touch-and-gesture-controls/touch-and-gesture-controls-on-windows-devices/two-finger-scroll.md", "summary": "Open when looking up Two-finger scroll in Premiere Pro.", "keywords": ["Two-finger scroll"]},
+  {"topic": "Two-finger scrub", "file": "references/desktop/get-started/touch-and-gesture-controls/touch-and-gesture-controls-on-windows-devices/two-finger-scrub.md", "summary": "Open when looking up Two-finger scrub in Premiere Pro.", "keywords": ["Two-finger scrub"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

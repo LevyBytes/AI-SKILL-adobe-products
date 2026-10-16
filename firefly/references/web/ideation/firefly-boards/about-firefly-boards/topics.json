@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "What can I do with Firefly Boards?", "file": "references/web/ideation/firefly-boards/about-firefly-boards/what-can-i-do-with-firefly-boards.md", "summary": "Open when looking up What can I do with Firefly Boards? in Firefly.", "keywords": ["What can I do with Firefly Boards?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

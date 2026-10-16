@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Create a document with international text", "file": "references/desktop/text-and-typography/international-text/international-document-setup/create-a-document-with-international-text.md", "summary": "Open when looking up Create a document with international text in Photoshop.", "keywords": ["Create a document with international text"]},
+  {"topic": "Install language packs on Windows", "file": "references/desktop/text-and-typography/international-text/international-document-setup/install-language-packs-on-windows.md", "summary": "Open when looking up Install language packs on Windows in Photoshop.", "keywords": ["Install language packs on Windows"]},
+  {"topic": "Set language using the Properties panel", "file": "references/desktop/text-and-typography/international-text/international-document-setup/set-language-using-the-properties-panel.md", "summary": "Open when looking up Set language using the Properties panel in Photoshop.", "keywords": ["Set language using the Properties panel"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

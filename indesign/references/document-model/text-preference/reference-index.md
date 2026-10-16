@@ -1,0 +1,47 @@
+# InDesign — Text preference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up abutTextToTextWrap in InDesign. [abutTextToTextWrap](abut-text-to-text-wrap.md).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up addPages in InDesign. [addPages](add-pages.md).
+- Open when looking up baselineShiftKeyIncrement in InDesign. [baselineShiftKeyIncrement](baseline-shift-key-increment.md).
+- Open when looking up deleteEmptyPages in InDesign. [deleteEmptyPages](delete-empty-pages.md).
+- Open when looking up enableStylePreviewMode in InDesign. [enableStylePreviewMode](enable-style-preview-mode.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up highlightCustomSpacing in InDesign. [highlightCustomSpacing](highlight-custom-spacing.md).
+- Open when looking up highlightHjViolations in InDesign. [highlightHjViolations](highlight-hj-violations.md).
+- Open when looking up highlightKeeps in InDesign. [highlightKeeps](highlight-keeps.md).
+- Open when looking up highlightKinsoku in InDesign. [highlightKinsoku](highlight-kinsoku.md).
+- Open when looking up highlightSubstitutedFonts in InDesign. [highlightSubstitutedFonts](highlight-substituted-fonts.md).
+- Open when looking up highlightSubstitutedGlyphs in InDesign. [highlightSubstitutedGlyphs](highlight-substituted-glyphs.md).
+- Open when looking up honourTextIndentsWithTextWrap in InDesign. [honourTextIndentsWithTextWrap](honour-text-indents-with-text-wrap.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up justifyTextWraps in InDesign. [justifyTextWraps](justify-text-wraps.md).
+- Open when looking up kerningKeyIncrement in InDesign. [kerningKeyIncrement](kerning-key-increment.md).
+- Open when looking up leadingKeyIncrement in InDesign. [leadingKeyIncrement](leading-key-increment.md).
+- Open when looking up limitToMasterTextFrames in InDesign. [limitToMasterTextFrames](limit-to-master-text-frames.md).
+- Open when looking up linkTextFilesWhenImporting in InDesign. [linkTextFilesWhenImporting](link-text-files-when-importing.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preserveFacingPageSpreads in InDesign. [preserveFacingPageSpreads](preserve-facing-page-spreads.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up quoteCharactersRotatedInVertical in InDesign. [quoteCharactersRotatedInVertical](quote-characters-rotated-in-vertical.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up shapeIndicAndLatinWithHarbuzz in InDesign. [shapeIndicAndLatinWithHarbuzz](shape-indic-and-latin-with-harbuzz.md).
+- Open when looking up showInvisibles in InDesign. [showInvisibles](show-invisibles.md).
+- Open when looking up smallCap in InDesign. [smallCap](small-cap.md).
+- Open when looking up smartTextReflow in InDesign. [smartTextReflow](smart-text-reflow.md).
+- Open when looking up smartTextReflowSync in InDesign. [smartTextReflowSync](smart-text-reflow-sync.md).
+- Open when looking up subscriptPosition in InDesign. [subscriptPosition](subscript-position.md).
+- Open when looking up subscriptSize in InDesign. [subscriptSize](subscript-size.md).
+- Open when looking up superscriptPosition in InDesign. [superscriptPosition](superscript-position.md).
+- Open when looking up superscriptSize in InDesign. [superscriptSize](superscript-size.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up typographersQuotes in InDesign. [typographersQuotes](typographers-quotes.md).
+- Open when looking up useCidMojikumi in InDesign. [useCidMojikumi](use-cid-mojikumi.md).
+- Open when looking up useNewVerticalScaling in InDesign. [useNewVerticalScaling](use-new-vertical-scaling.md).
+- Open when looking up useOpticalSize in InDesign. [useOpticalSize](use-optical-size.md).
+- Open when looking up useParagraphLeading in InDesign. [useParagraphLeading](use-paragraph-leading.md).
+- Open when looking up zOrderTextWrap in InDesign. [zOrderTextWrap](z-order-text-wrap.md).

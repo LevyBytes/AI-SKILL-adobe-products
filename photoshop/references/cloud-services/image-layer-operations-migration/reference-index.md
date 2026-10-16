@@ -1,0 +1,24 @@
+# Photoshop — Image Layer Operations Migration
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 1. Add operation structure in Photoshop. [1. Add operation structure](add-operation-structure.md).
+- Open when looking up 2. Source image field in Photoshop. [2. Source image field](source-image-field.md).
+- Open when looking up 3. Placement field in Photoshop. [3. Placement field](placement-field.md).
+- Open when looking up Above-layer insertion in Photoshop. [Above-layer insertion](above-layer-insertion.md).
+- Open when looking up Alignment fields in Photoshop. [Alignment fields](alignment-fields.md).
+- Open when looking up Below-layer insertion in Photoshop. [Below-layer insertion](below-layer-insertion.md).
+- Open when looking up Bottom insertion in Photoshop. [Bottom insertion](bottom-insertion.md).
+- Open when looking up Bounds placement in Photoshop. [Bounds placement](bounds-placement.md).
+- Open when looking up Canvas fill in Photoshop. [Canvas fill](canvas-fill.md).
+- Open when looking up Currently Available in V2 in Photoshop. [Currently Available in V2](currently-available-in-v2.md).
+- Open when looking up Group insertion in Photoshop. [Group insertion](group-insertion.md).
+- Open when looking up Image-layer migration: V1 payload in Photoshop. [Image-layer migration: V1 payload](image-layer-migration.md).
+- Open when looking up Image-layer migration: V2 payload in Photoshop. [Image-layer migration: V2 payload](v2-image-layer-request.md).
+- Open when looking up Layer placement migration patterns in Photoshop. [Layer placement migration patterns](layer-placement-migration-patterns.md).
+- Open when looking up Migration checklist in Photoshop. [Migration checklist](migration-checklist.md).
+- Open when looking up Missing placement for an add operation in Photoshop. [Missing placement for an add operation](missing-placement-for-an-add-operation.md).
+- Open when looking up Next steps in Photoshop. [Next steps](next-steps.md).
+- Open when looking up Solid Color Layer Mapping in Photoshop. [Solid Color Layer Mapping](solid-color-layer-mapping.md).
+- Open when looking up Solid color structure in Photoshop. [Solid color structure](solid-color-structure.md).
+- Open when looking up Storage type changes in Photoshop. [Storage type changes](storage-type-changes.md).
+- Open when looking up Top insertion in Photoshop. [Top insertion](top-insertion.md).

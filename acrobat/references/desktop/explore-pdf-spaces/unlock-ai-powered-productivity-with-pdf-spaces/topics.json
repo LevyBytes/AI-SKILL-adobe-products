@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Adobe Express help topics", "file": "references/desktop/explore-pdf-spaces/unlock-ai-powered-productivity-with-pdf-spaces/adobe-express-help-topics.md", "summary": "Open when looking up Adobe Express help topics in Acrobat.", "keywords": ["Adobe Express help topics"]},
+  {"topic": "PDF Spaces help topics", "file": "references/desktop/explore-pdf-spaces/unlock-ai-powered-productivity-with-pdf-spaces/pdf-spaces-help-topics.md", "summary": "Open when looking up PDF Spaces help topics in Acrobat.", "keywords": ["PDF Spaces help topics"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,25 @@
+# Acrobat — Create pdfs
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 3D Files (Acrobat Pro only) in Acrobat. [3D Files (Acrobat Pro only)](3-d-files-acrobat-pro-only.md).
+- Open when looking up Adobe Photoshop, Illustrator, or InDesign files in Acrobat. [Adobe Photoshop, Illustrator, or InDesign files](adobe-photoshop-illustrator-or-in-design-files.md).
+- Open when looking up AutoCAD files (Windows only, Acrobat Pro) in Acrobat. [AutoCAD files (Windows only, Acrobat Pro)](auto-cad-files-windows-only-acrobat-pro.md).
+- Open when looking up Convert other file formats to PDFs in Acrobat. [Convert other file formats to PDFs](convert-other-file-formats-to-pdfs.md).
+- Open when looking up Convert web pages to PDFs in Acrobat. [Convert web pages to PDFs](convert-web-pages-to-pdfs.md).
+- Open when looking up Create a PDF from clipboard content in Acrobat. [Create a PDF from clipboard content](create-a-pdf-from-clipboard-content.md).
+- Open when looking up Create a PDF from scratch in Acrobat. [Create a PDF from scratch](create-a-pdf-from-scratch.md).
+- Open when looking up Create Pdfs in Acrobat. [Create Pdfs](create-pdfs.md).
+- Open when looking up Create PDFs by printing to file in Acrobat. [Create PDFs by printing to file](create-pdfs-by-printing-to-file.md).
+- Open when looking up Email messages (Windows only) in Acrobat. [Email messages (Windows only)](email-messages-windows-only.md).
+- Open when looking up Explore advanced conversion settings in Acrobat. [Explore advanced conversion settings](explore-advanced-conversion-settings.md).
+- Open when looking up General settings in Acrobat. [General settings](general-settings.md).
+- Open when looking up HTML conversion settings in Acrobat. [HTML conversion settings](html-conversion-settings.md).
+- Open when looking up macOS in Acrobat. [macOS](mac-os.md).
+- Open when looking up Optimize PDFs in Acrobat. [Optimize PDFs](optimize-pdfs.md).
+- Open when looking up Page layout settings in Acrobat. [Page layout settings](page-layout-settings.md).
+- Open when looking up PostScript files in Acrobat. [PostScript files](post-script-files.md).
+- Open when looking up Scan documents to PDFs in Acrobat. [Scan documents to PDFs](scan-documents-to-pdfs.md).
+- Open when looking up Supported file formats for PDF conversion in Acrobat. [Supported file formats for PDF conversion](supported-file-formats-for-pdf-conversion.md).
+- Open when looking up Text settings in Acrobat. [Text settings](text-settings.md).
+- Open when looking up Web page conversion settings in Acrobat. [Web page conversion settings](web-page-conversion-settings.md).
+- Open when looking up Windows in Acrobat. [Windows](windows.md).

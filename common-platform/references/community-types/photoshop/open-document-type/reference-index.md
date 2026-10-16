@@ -1,0 +1,36 @@
+# Shared Adobe platform — OpenDocumentType
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up OpenDocumentType declaration in Shared Adobe platform. [OpenDocumentType declaration](declaration.md).
+- Open when looking up OpenDocumentType.ALIASPIX in Shared Adobe platform. [OpenDocumentType.ALIASPIX](aliaspix.md).
+- Open when looking up OpenDocumentType.BMP in Shared Adobe platform. [OpenDocumentType.BMP](bmp.md).
+- Open when looking up OpenDocumentType.CAMERARAW in Shared Adobe platform. [OpenDocumentType.CAMERARAW](cameraraw.md).
+- Open when looking up OpenDocumentType.COMPUSERVEGIF in Shared Adobe platform. [OpenDocumentType.COMPUSERVEGIF](compuservegif.md).
+- Open when looking up OpenDocumentType.DICOM in Shared Adobe platform. [OpenDocumentType.DICOM](dicom.md).
+- Open when looking up OpenDocumentType.ELECTRICIMAGE in Shared Adobe platform. [OpenDocumentType.ELECTRICIMAGE](electricimage.md).
+- Open when looking up OpenDocumentType.EPS in Shared Adobe platform. [OpenDocumentType.EPS](eps.md).
+- Open when looking up OpenDocumentType.EPSPICTPREVIEW in Shared Adobe platform. [OpenDocumentType.EPSPICTPREVIEW](epspictpreview.md).
+- Open when looking up OpenDocumentType.EPSTIFFPREVIEW in Shared Adobe platform. [OpenDocumentType.EPSTIFFPREVIEW](epstiffpreview.md).
+- Open when looking up OpenDocumentType.FILMSTRIP in Shared Adobe platform. [OpenDocumentType.FILMSTRIP](filmstrip.md).
+- Open when looking up OpenDocumentType.JPEG in Shared Adobe platform. [OpenDocumentType.JPEG](jpeg.md).
+- Open when looking up OpenDocumentType.PCX in Shared Adobe platform. [OpenDocumentType.PCX](pcx.md).
+- Open when looking up OpenDocumentType.PDF in Shared Adobe platform. [OpenDocumentType.PDF](pdf.md).
+- Open when looking up OpenDocumentType.PHOTOCD in Shared Adobe platform. [OpenDocumentType.PHOTOCD](photocd.md).
+- Open when looking up OpenDocumentType.PHOTOSHOP in Shared Adobe platform. [OpenDocumentType.PHOTOSHOP](photoshop.md).
+- Open when looking up OpenDocumentType.PHOTOSHOPDCS_1 in Shared Adobe platform. [OpenDocumentType.PHOTOSHOPDCS_1](photoshopdcs1.md).
+- Open when looking up OpenDocumentType.PHOTOSHOPDCS_2 in Shared Adobe platform. [OpenDocumentType.PHOTOSHOPDCS_2](photoshopdcs2.md).
+- Open when looking up OpenDocumentType.PHOTOSHOPEPS in Shared Adobe platform. [OpenDocumentType.PHOTOSHOPEPS](photoshopeps.md).
+- Open when looking up OpenDocumentType.PHOTOSHOPPDF in Shared Adobe platform. [OpenDocumentType.PHOTOSHOPPDF](photoshoppdf.md).
+- Open when looking up OpenDocumentType.PICTFILEFORMAT in Shared Adobe platform. [OpenDocumentType.PICTFILEFORMAT](pictfileformat.md).
+- Open when looking up OpenDocumentType.PICTRESOURCEFORMAT in Shared Adobe platform. [OpenDocumentType.PICTRESOURCEFORMAT](pictresourceformat.md).
+- Open when looking up OpenDocumentType.PIXAR in Shared Adobe platform. [OpenDocumentType.PIXAR](pixar.md).
+- Open when looking up OpenDocumentType.PNG in Shared Adobe platform. [OpenDocumentType.PNG](png.md).
+- Open when looking up OpenDocumentType.PORTABLEBITMAP in Shared Adobe platform. [OpenDocumentType.PORTABLEBITMAP](portablebitmap.md).
+- Open when looking up OpenDocumentType.RAW in Shared Adobe platform. [OpenDocumentType.RAW](raw.md).
+- Open when looking up OpenDocumentType.SCITEXCT in Shared Adobe platform. [OpenDocumentType.SCITEXCT](scitexct.md).
+- Open when looking up OpenDocumentType.SGIRGB in Shared Adobe platform. [OpenDocumentType.SGIRGB](sgirgb.md).
+- Open when looking up OpenDocumentType.SOFTIMAGE in Shared Adobe platform. [OpenDocumentType.SOFTIMAGE](softimage.md).
+- Open when looking up OpenDocumentType.TARGA in Shared Adobe platform. [OpenDocumentType.TARGA](targa.md).
+- Open when looking up OpenDocumentType.TIFF in Shared Adobe platform. [OpenDocumentType.TIFF](tiff.md).
+- Open when looking up OpenDocumentType.WAVEFRONTRLA in Shared Adobe platform. [OpenDocumentType.WAVEFRONTRLA](wavefrontrla.md).
+- Open when looking up OpenDocumentType.WIRELESSBITMAP in Shared Adobe platform. [OpenDocumentType.WIRELESSBITMAP](wirelessbitmap.md).

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "OCR language selection", "file": "references/web/share-review-and-export/export-and-print/supported-languages-for-ocr/ocr-language-selection.md", "summary": "Open when looking up OCR language selection in Acrobat.", "keywords": ["OCR language selection"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

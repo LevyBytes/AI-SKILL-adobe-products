@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "StaticTexts collection iteration", "file": "references/community-types/indesign/static-texts/collection-iteration.md", "summary": "Open when looking up StaticTexts collection iteration in Shared Adobe platform.", "keywords": ["StaticTexts collection iteration"]},
+  {"topic": "StaticTexts declaration", "file": "references/community-types/indesign/static-texts/declaration.md", "summary": "Open when looking up StaticTexts declaration in Shared Adobe platform.", "keywords": ["StaticTexts declaration"]},
+  {"topic": "StaticTexts named and indexed items", "file": "references/community-types/indesign/static-texts/named-and-indexed-items.md", "summary": "Open when looking up StaticTexts named and indexed items in Shared Adobe platform.", "keywords": ["StaticTexts named and indexed items"]},
+  {"topic": "StaticTexts.add", "file": "references/community-types/indesign/static-texts/add.md", "summary": "Open when looking up StaticTexts.add in Shared Adobe platform.", "keywords": ["StaticTexts.add"]},
+  {"topic": "StaticTexts.count", "file": "references/community-types/indesign/static-texts/count.md", "summary": "Open when looking up StaticTexts.count in Shared Adobe platform.", "keywords": ["StaticTexts.count"]},
+  {"topic": "StaticTexts.IndexSignature", "file": "references/community-types/indesign/static-texts/index-signature.md", "summary": "Open when looking up StaticTexts.IndexSignature in Shared Adobe platform.", "keywords": ["StaticTexts.IndexSignature"]},
+  {"topic": "StaticTexts.itemByRange", "file": "references/community-types/indesign/static-texts/item-by-range.md", "summary": "Open when looking up StaticTexts.itemByRange in Shared Adobe platform.", "keywords": ["StaticTexts.itemByRange"]},
+  {"topic": "StaticTexts.length", "file": "references/community-types/indesign/static-texts/length.md", "summary": "Open when looking up StaticTexts.length in Shared Adobe platform.", "keywords": ["StaticTexts.length"]},
+  {"topic": "StaticTexts.toSource", "file": "references/community-types/indesign/static-texts/to-source.md", "summary": "Open when looking up StaticTexts.toSource in Shared Adobe platform.", "keywords": ["StaticTexts.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

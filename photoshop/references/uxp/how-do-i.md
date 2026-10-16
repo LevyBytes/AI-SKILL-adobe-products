@@ -1,0 +1,3 @@
+# How Do I...
+
+Use this section as a grab bag of HTML, CMS, and JavaScript snippets for common plugin tasks. It does not include complete plugins; paste the needed snippets into the relevant parts of your own plugin.

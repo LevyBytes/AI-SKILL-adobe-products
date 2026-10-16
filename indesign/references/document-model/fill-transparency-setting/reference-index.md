@@ -1,0 +1,24 @@
+# InDesign — FillTransparencySetting
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up bevelAndEmbossSettings in InDesign. [bevelAndEmbossSettings](bevel-and-emboss-settings.md).
+- Open when looking up blendingSettings in InDesign. [blendingSettings](blending-settings.md).
+- Open when looking up directionalFeatherSettings in InDesign. [directionalFeatherSettings](directional-feather-settings.md).
+- Open when looking up dropShadowSettings in InDesign. [dropShadowSettings](drop-shadow-settings.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up featherSettings in InDesign. [featherSettings](feather-settings.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up gradientFeatherSettings in InDesign. [gradientFeatherSettings](gradient-feather-settings.md).
+- Open when looking up innerGlowSettings in InDesign. [innerGlowSettings](inner-glow-settings.md).
+- Open when looking up innerShadowSettings in InDesign. [innerShadowSettings](inner-shadow-settings.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up outerGlowSettings in InDesign. [outerGlowSettings](outer-glow-settings.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preferences in InDesign. [preferences](preferences.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up satinSettings in InDesign. [satinSettings](satin-settings.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

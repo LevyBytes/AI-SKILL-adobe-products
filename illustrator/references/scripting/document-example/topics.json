@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Closing a document", "file": "references/scripting/document-example/closing-a-document.md", "summary": "Open when looking up Closing a document in Illustrator.", "keywords": ["Closing a document"]},
+  {"topic": "Creating a document with defaults", "file": "references/scripting/document-example/creating-a-document-with-defaults.md", "summary": "Open when looking up Creating a document with defaults in Illustrator.", "keywords": ["Creating a document with defaults"]},
+  {"topic": "Deselecting all objects in the current document", "file": "references/scripting/document-example/deselecting-all-objects-in-the-current-document.md", "summary": "Open when looking up Deselecting all objects in the current document in Illustrator.", "keywords": ["Deselecting all objects in the current document"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

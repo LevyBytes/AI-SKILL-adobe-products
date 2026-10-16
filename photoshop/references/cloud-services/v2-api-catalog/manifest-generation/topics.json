@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Behavioral changes", "file": "references/cloud-services/v2-api-catalog/manifest-generation/behavioral-changes.md", "summary": "Open when looking up Behavioral changes in Photoshop.", "keywords": ["Behavioral changes"]},
+  {"topic": "Guide", "file": "references/cloud-services/v2-api-catalog/manifest-generation/guide.md", "summary": "Open when looking up Guide in Photoshop.", "keywords": ["Guide"]},
+  {"topic": "Layer type renames", "file": "references/cloud-services/v2-api-catalog/manifest-generation/layer-type-renames.md", "summary": "Open when looking up Layer type renames in Photoshop.", "keywords": ["Layer type renames"]},
+  {"topic": "V1 behavior", "file": "references/cloud-services/v2-api-catalog/manifest-generation/v1-behavior.md", "summary": "Open when looking up V1 behavior in Photoshop.", "keywords": ["V1 behavior"]},
+  {"topic": "V2 behavior", "file": "references/cloud-services/v2-api-catalog/manifest-generation/v2-behavior.md", "summary": "Open when looking up V2 behavior in Photoshop.", "keywords": ["V2 behavior"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

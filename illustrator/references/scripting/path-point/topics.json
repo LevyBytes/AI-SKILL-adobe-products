@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "PathPoint.anchor", "file": "references/scripting/path-point/anchor.md", "summary": "Open when looking up PathPoint.anchor in Illustrator.", "keywords": ["PathPoint.anchor"]},
+  {"topic": "PathPoint.leftDirection", "file": "references/scripting/path-point/left-direction.md", "summary": "Open when looking up PathPoint.leftDirection in Illustrator.", "keywords": ["PathPoint.leftDirection"]},
+  {"topic": "PathPoint.parent", "file": "references/scripting/path-point/parent.md", "summary": "Open when looking up PathPoint.parent in Illustrator.", "keywords": ["PathPoint.parent"]},
+  {"topic": "PathPoint.pointType", "file": "references/scripting/path-point/point-type.md", "summary": "Open when looking up PathPoint.pointType in Illustrator.", "keywords": ["PathPoint.pointType"]},
+  {"topic": "PathPoint.remove()", "file": "references/scripting/path-point/remove.md", "summary": "Open when looking up PathPoint.remove() in Illustrator.", "keywords": ["PathPoint.remove()"]},
+  {"topic": "PathPoint.rightDirection", "file": "references/scripting/path-point/right-direction.md", "summary": "Open when looking up PathPoint.rightDirection in Illustrator.", "keywords": ["PathPoint.rightDirection"]},
+  {"topic": "PathPoint.selected", "file": "references/scripting/path-point/selected.md", "summary": "Open when looking up PathPoint.selected in Illustrator.", "keywords": ["PathPoint.selected"]},
+  {"topic": "PathPoint.typename", "file": "references/scripting/path-point/typename.md", "summary": "Open when looking up PathPoint.typename in Illustrator.", "keywords": ["PathPoint.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

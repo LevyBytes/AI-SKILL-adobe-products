@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CTScript.CT_ARMENIAN_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctarmenianscript.md", "summary": "Open when looking up CTScript.CT_ARMENIAN_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_ARMENIAN_SCRIPT"]},
+  {"topic": "CTScript.CT_CYRILLIC_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctcyrillicscript.md", "summary": "Open when looking up CTScript.CT_CYRILLIC_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_CYRILLIC_SCRIPT"]},
+  {"topic": "CTScript.CT_EASTEUROPEANROMAN_SCRIPT", "file": "references/community-types/aftereffects/ct-script/cteasteuropeanromanscript.md", "summary": "Open when looking up CTScript.CT_EASTEUROPEANROMAN_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_EASTEUROPEANROMAN_SCRIPT"]},
+  {"topic": "CTScript.CT_GEORGIAN_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctgeorgianscript.md", "summary": "Open when looking up CTScript.CT_GEORGIAN_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_GEORGIAN_SCRIPT"]},
+  {"topic": "CTScript.CT_GREEK_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctgreekscript.md", "summary": "Open when looking up CTScript.CT_GREEK_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_GREEK_SCRIPT"]},
+  {"topic": "CTScript.CT_ROMAN_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctromanscript.md", "summary": "Open when looking up CTScript.CT_ROMAN_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_ROMAN_SCRIPT"]},
+  {"topic": "CTScript.CT_SHAVIAN_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctshavianscript.md", "summary": "Open when looking up CTScript.CT_SHAVIAN_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_SHAVIAN_SCRIPT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Delete a marker", "file": "references/desktop/organize-media/apply-labeling/find-move-and-delete-markers/delete-a-marker.md", "summary": "Open when looking up Delete a marker in Premiere Pro.", "keywords": ["Delete a marker"]},
+  {"topic": "Find markers through the Search panel", "file": "references/desktop/organize-media/apply-labeling/find-move-and-delete-markers/find-markers-through-the-search-panel.md", "summary": "Open when looking up Find markers through the Search panel in Premiere Pro.", "keywords": ["Find markers through the Search panel"]},
+  {"topic": "Move a marker", "file": "references/desktop/organize-media/apply-labeling/find-move-and-delete-markers/move-a-marker.md", "summary": "Open when looking up Move a marker in Premiere Pro.", "keywords": ["Move a marker"]},
+  {"topic": "Navigate among markers", "file": "references/desktop/organize-media/apply-labeling/find-move-and-delete-markers/navigate-among-markers.md", "summary": "Open when looking up Navigate among markers in Premiere Pro.", "keywords": ["Navigate among markers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Static html to pdf example setup", "file": "references/pdf-services/examples/node/static-html-to-pdf/static-html-to-pdf-setup.md", "summary": "Open when looking up Static html to pdf example setup in Acrobat.", "keywords": ["Static html to pdf example setup"]},
+  {"topic": "static-html-to-pdf", "file": "references/pdf-services/examples/node/static-html-to-pdf/static-html-to-pdf.cjs", "summary": "Open when looking up static-html-to-pdf in Acrobat.", "keywords": ["static-html-to-pdf"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

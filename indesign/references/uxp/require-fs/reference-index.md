@@ -1,0 +1,21 @@
+# InDesign — Require fs
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up close(fd, callback) in InDesign. [close(fd, callback)](close.md).
+- Open when looking up copyFile(srcPath, destPath, flags, callback) in InDesign. [copyFile(srcPath, destPath, flags, callback)](copy-file.md).
+- Open when looking up lstat(path, callback) in InDesign. [lstat(path, callback)](lstat.md).
+- Open when looking up lstatSync(path) in InDesign. [lstatSync(path)](lstat-sync.md).
+- Open when looking up mkdir(path, options, callback) in InDesign. [mkdir(path, options, callback)](mkdir.md).
+- Open when looking up open(path, [flag], [mode], callback) in InDesign. [open(path, flag, mode, callback)](open.md).
+- Open when looking up read(fd, buffer, offset, length, position, callback) in InDesign. [read(fd, buffer, offset, length, position, callback)](read.md).
+- Open when looking up readdir(path, callback) in InDesign. [readdir(path, callback)](readdir.md).
+- Open when looking up readdirSync(path) in InDesign. [readdirSync(path)](readdir-sync.md).
+- Open when looking up readFile(path, options, callback) in InDesign. [readFile(path, options, callback)](read-file.md).
+- Open when looking up readFileSync(path, options) in InDesign. [readFileSync(path, options)](read-file-sync.md).
+- Open when looking up rename(oldPath, newPath, callback) in InDesign. [rename(oldPath, newPath, callback)](rename.md).
+- Open when looking up require('fs') in InDesign. [require('fs')](require.md).
+- Open when looking up rmdir(path, callback) in InDesign. [rmdir(path, callback)](rmdir.md).
+- Open when looking up unlink(path, callback) in InDesign. [unlink(path, callback)](unlink.md).
+- Open when looking up write(fd, buffer, offset, length, position, callback) in InDesign. [write(fd, buffer, offset, length, position, callback)](write.md).
+- Open when looking up writeFile(path, data, options, callback) in InDesign. [writeFile(path, data, options, callback)](write-file.md).
+- Open when looking up writeFileSync(path, data, options) in InDesign. [writeFileSync(path, data, options)](write-file-sync.md).

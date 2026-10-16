@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.print", "file": "references/community-types/indesign/application/print.md", "summary": "Open when looking up Application.print in Shared Adobe platform.", "keywords": ["Application.print"]},
+  {"topic": "Application.printerPresets", "file": "references/community-types/indesign/application/printer-presets.md", "summary": "Open when looking up Application.printerPresets in Shared Adobe platform.", "keywords": ["Application.printerPresets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

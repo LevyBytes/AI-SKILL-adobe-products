@@ -1,0 +1,50 @@
+# Shared Adobe platform — Document
+
+Open when selecting a task context: [Topic catalog](topics.json).
+
+- Open when checking object identity and lifecycle in Shared Adobe platform — Document. [Object identity and lifecycle](context-object-contract.md).
+- Open when checking application session and account in Shared Adobe platform — Document. [Application session and account](context-application-session.md).
+- Open when checking workspace, windows and menus in Shared Adobe platform — Document. [Workspace, windows and menus](context-workspace-controls.md).
+- Open when checking script execution, tasks and diagnostics in Shared Adobe platform — Document. [Script execution, tasks and diagnostics](context-scripts-and-tasks.md).
+- Open when checking create, open, save and recover documents in Shared Adobe platform — Document. [Create, open, save and recover documents](context-document-lifecycle.md).
+- Open when checking document pages, spreads and layers in Shared Adobe platform — Document. [Document pages, spreads and layers](context-document-layout.md).
+- Open when checking cloud documents, libraries and collaboration in Shared Adobe platform — Document. [Cloud documents, libraries and collaboration](context-cloud-and-collaboration.md).
+- Open when checking place and link external assets in Shared Adobe platform — Document. [Place and link external assets](context-asset-placement-and-links.md).
+- Open when checking clipboard and editing defaults in Shared Adobe platform — Document. [Clipboard and editing defaults](context-clipboard-editing.md).
+- Open when checking language, spelling and autocorrection in Shared Adobe platform — Document. [Language, spelling and autocorrection](context-language-and-dictionaries.md).
+- Open when checking colors, swatches, inks and stroke resources in Shared Adobe platform — Document. [Colors, swatches, inks and stroke resources](context-color-and-stroke-resources.md).
+- Open when checking color profiles and rendering in Shared Adobe platform — Document. [Color profiles and rendering](context-color-management.md).
+- Open when checking preflight and print packaging in Shared Adobe platform — Document. [Preflight and print packaging](context-preflight-and-packaging.md).
+- Open when checking export documents and select formats in Shared Adobe platform — Document. [Export documents and select formats](context-document-export.md).
+- Open when checking folio and digital publication apis in Shared Adobe platform — Document. [Folio and digital publication APIs](context-digital-publication.md).
+- Open when checking hyperlinks, indexes and cross-references in Shared Adobe platform — Document. [Hyperlinks, indexes and cross-references](context-navigation-and-cross-references.md).
+- Open when checking data merge placeholders and options in Shared Adobe platform — Document. [Data merge placeholders and options](context-data-merge.md).
+- Open when checking document metadata and imported review in Shared Adobe platform — Document. [Document metadata and imported review](context-review-and-interchange-metadata.md).
+- Open when checking read and edit text in Shared Adobe platform — Document. [Read and edit text](context-text-content.md).
+- Open when checking text ranges and containers in Shared Adobe platform — Document. [Text ranges and containers](context-text-ranges.md).
+- Open when checking fonts and character forms in Shared Adobe platform — Document. [Fonts and character forms](context-font-selection.md).
+- Open when checking line breaks and hyphenation in Shared Adobe platform — Document. [Line breaks and hyphenation](context-line-breaking.md).
+- Open when checking cjk grids and composition in Shared Adobe platform — Document. [CJK grids and composition](context-cjk-composition.md).
+- Open when checking writing direction and diacritics in Shared Adobe platform — Document. [Writing direction and diacritics](context-text-direction.md).
+- Open when checking lists, numbering and drop caps in Shared Adobe platform — Document. [Lists, numbering and drop caps](context-lists-and-drop-caps.md).
+- Open when checking apply and manage styles in Shared Adobe platform — Document. [Apply and manage styles](context-style-application.md).
+- Open when checking conditional text and editorial review in Shared Adobe platform — Document. [Conditional text and editorial review](context-conditions-and-review.md).
+- Open when checking find, replace and transliterate in Shared Adobe platform — Document. [Find, replace and transliterate](context-find-and-replace.md).
+- Open when checking table and cell styles in Shared Adobe platform — Document. [Table and cell styles](context-table-styles.md).
+- Open when checking page item collections in Shared Adobe platform — Document. [Page item collections](context-page-item-collections.md).
+- Open when checking interactive fields and behaviors in Shared Adobe platform — Document. [Interactive fields and behaviors](context-interactive-fields.md).
+- Open when checking object styles and enabled attributes in Shared Adobe platform — Document. [Object styles and enabled attributes](context-object-style-application.md).
+- Open when checking placement, bounds and transformations in Shared Adobe platform — Document. [Placement, bounds and transformations](context-object-layout.md).
+- Open when checking layers, stacking and master overrides in Shared Adobe platform — Document. [Layers, stacking and master overrides](context-layer-and-master-order.md).
+- Open when checking text frame columns and autosizing in Shared Adobe platform — Document. [Text frame columns and autosizing](context-text-frame-layout.md).
+- Open when checking anchored object placement in Shared Adobe platform — Document. [Anchored object placement](context-anchored-objects.md).
+- Open when checking baseline grids and layout guides in Shared Adobe platform — Document. [Baseline grids and layout guides](context-grids-and-guides.md).
+- Open when checking image fitting, cropping and resolution in Shared Adobe platform — Document. [Image fitting, cropping and resolution](context-frame-and-image-fitting.md).
+- Open when checking movie and sound playback in Shared Adobe platform — Document. [Movie and sound playback](context-media-playback.md).
+- Open when checking accessibility, tagging and xml in Shared Adobe platform — Document. [Accessibility, tagging and XML](context-accessibility-and-markup.md).
+- Open when checking footnotes and endnotes in Shared Adobe platform — Document. [Footnotes and endnotes](context-notes-and-endnotes.md).
+- Open when checking generate qr codes in Shared Adobe platform — Document. [Generate QR codes](context-qr-codes.md).
+- Open when checking image conversion and web export in Shared Adobe platform — Document. [Image conversion and web export](context-image-web-export.md).
+- Open when checking print job, printer and page selection in Shared Adobe platform — Document. [Print job, printer and page selection](context-print-job.md).
+- Open when checking output color, screening and overprint in Shared Adobe platform — Document. [Output color, screening and overprint](context-print-color.md).
+- Open when checking events and listeners in Shared Adobe platform — Document. [Events and listeners](context-event-delivery.md).

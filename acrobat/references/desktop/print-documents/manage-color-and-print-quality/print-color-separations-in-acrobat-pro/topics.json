@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "About color separations in Acrobat Pro", "file": "references/desktop/print-documents/manage-color-and-print-quality/print-color-separations-in-acrobat-pro/about-color-separations-in-acrobat-pro.md", "summary": "Open when looking up About color separations in Acrobat Pro in Acrobat.", "keywords": ["About color separations in Acrobat Pro"]},
+  {"topic": "Configure separation settings and print", "file": "references/desktop/print-documents/manage-color-and-print-quality/print-color-separations-in-acrobat-pro/configure-separation-settings-and-print.md", "summary": "Open when looking up Configure separation settings and print in Acrobat.", "keywords": ["Configure separation settings and print"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

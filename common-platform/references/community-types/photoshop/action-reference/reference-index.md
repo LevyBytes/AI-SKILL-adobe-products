@@ -1,0 +1,22 @@
+# Shared Adobe platform — ActionReference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ActionReference declaration in Shared Adobe platform. [ActionReference declaration](declaration.md).
+- Open when looking up ActionReference.getContainer in Shared Adobe platform. [ActionReference.getContainer](get-container.md).
+- Open when looking up ActionReference.getDesiredClass in Shared Adobe platform. [ActionReference.getDesiredClass](get-desired-class.md).
+- Open when looking up ActionReference.getEnumeratedType in Shared Adobe platform. [ActionReference.getEnumeratedType](get-enumerated-type.md).
+- Open when looking up ActionReference.getEnumeratedValue in Shared Adobe platform. [ActionReference.getEnumeratedValue](get-enumerated-value.md).
+- Open when looking up ActionReference.getForm in Shared Adobe platform. [ActionReference.getForm](get-form.md).
+- Open when looking up ActionReference.getIdentifier in Shared Adobe platform. [ActionReference.getIdentifier](get-identifier.md).
+- Open when looking up ActionReference.getIndex in Shared Adobe platform. [ActionReference.getIndex](get-index.md).
+- Open when looking up ActionReference.getName in Shared Adobe platform. [ActionReference.getName](get-name.md).
+- Open when looking up ActionReference.getOffset in Shared Adobe platform. [ActionReference.getOffset](get-offset.md).
+- Open when looking up ActionReference.getProperty in Shared Adobe platform. [ActionReference.getProperty](get-property.md).
+- Open when looking up ActionReference.putClass in Shared Adobe platform. [ActionReference.putClass](put-class.md).
+- Open when looking up ActionReference.putEnumerated in Shared Adobe platform. [ActionReference.putEnumerated](put-enumerated.md).
+- Open when looking up ActionReference.putIdentifier in Shared Adobe platform. [ActionReference.putIdentifier](put-identifier.md).
+- Open when looking up ActionReference.putIndex in Shared Adobe platform. [ActionReference.putIndex](put-index.md).
+- Open when looking up ActionReference.putName in Shared Adobe platform. [ActionReference.putName](put-name.md).
+- Open when looking up ActionReference.putOffset in Shared Adobe platform. [ActionReference.putOffset](put-offset.md).
+- Open when looking up ActionReference.putProperty in Shared Adobe platform. [ActionReference.putProperty](put-property.md).
+- Open when looking up ActionReference.typename in Shared Adobe platform. [ActionReference.typename](typename.md).

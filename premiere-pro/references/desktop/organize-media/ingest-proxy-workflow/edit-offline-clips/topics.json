@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Update offline clip settings", "file": "references/desktop/organize-media/ingest-proxy-workflow/edit-offline-clips/update-offline-clip-settings.md", "summary": "Open when looking up Update offline clip settings in Premiere Pro.", "keywords": ["Update offline clip settings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

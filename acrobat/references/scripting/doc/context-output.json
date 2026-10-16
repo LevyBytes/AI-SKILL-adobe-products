@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "colorConvertPage", "file": "references/scripting/doc/color-convert-page.md", "summary": "Open when looking up colorConvertPage in Acrobat.", "keywords": ["colorConvertPage"]},
+  {"topic": "embedOutputIntent", "file": "references/scripting/doc/embed-output-intent.md", "summary": "Open when looking up embedOutputIntent in Acrobat.", "keywords": ["embedOutputIntent"]},
+  {"topic": "getColorConvertAction", "file": "references/scripting/doc/get-color-convert-action.md", "summary": "Open when looking up getColorConvertAction in Acrobat.", "keywords": ["getColorConvertAction"]},
+  {"topic": "getPreflightAuditTrail", "file": "references/scripting/doc/get-preflight-audit-trail.md", "summary": "Open when looking up getPreflightAuditTrail in Acrobat.", "keywords": ["getPreflightAuditTrail"]},
+  {"topic": "getPrintParams", "file": "references/scripting/doc/get-print-params.md", "summary": "Open when looking up getPrintParams in Acrobat.", "keywords": ["getPrintParams"]},
+  {"topic": "preflight", "file": "references/scripting/doc/preflight.md", "summary": "Open when looking up preflight in Acrobat.", "keywords": ["preflight"]},
+  {"topic": "print", "file": "references/scripting/doc/print.md", "summary": "Open when looking up print in Acrobat.", "keywords": ["print"]},
+  {"topic": "removePreflightAuditTrail", "file": "references/scripting/doc/remove-preflight-audit-trail.md", "summary": "Open when looking up removePreflightAuditTrail in Acrobat.", "keywords": ["removePreflightAuditTrail"]},
+  {"topic": "validatePreflightAuditTrail", "file": "references/scripting/doc/validate-preflight-audit-trail.md", "summary": "Open when looking up validatePreflightAuditTrail in Acrobat.", "keywords": ["validatePreflightAuditTrail"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

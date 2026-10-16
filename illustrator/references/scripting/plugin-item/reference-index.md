@@ -1,0 +1,42 @@
+# Illustrator — PluginItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PluginItem.artworkKnockout in Illustrator. [PluginItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up PluginItem.blendingMode in Illustrator. [PluginItem.blendingMode](blending-mode.md).
+- Open when looking up PluginItem.controlBounds in Illustrator. [PluginItem.controlBounds](control-bounds.md).
+- Open when looking up PluginItem.duplicate() in Illustrator. [PluginItem.duplicate()](duplicate.md).
+- Open when looking up PluginItem.editable in Illustrator. [PluginItem.editable](editable.md).
+- Open when looking up PluginItem.geometricBounds in Illustrator. [PluginItem.geometricBounds](geometric-bounds.md).
+- Open when looking up PluginItem.height in Illustrator. [PluginItem.height](height.md).
+- Open when looking up PluginItem.hidden in Illustrator. [PluginItem.hidden](hidden.md).
+- Open when looking up PluginItem.isIsolated in Illustrator. [PluginItem.isIsolated](is-isolated.md).
+- Open when looking up PluginItem.isTracing in Illustrator. [PluginItem.isTracing](is-tracing.md).
+- Open when looking up PluginItem.layer in Illustrator. [PluginItem.layer](layer.md).
+- Open when looking up PluginItem.left in Illustrator. [PluginItem.left](left.md).
+- Open when looking up PluginItem.locked in Illustrator. [PluginItem.locked](locked.md).
+- Open when looking up PluginItem.move() in Illustrator. [PluginItem.move()](move.md).
+- Open when looking up PluginItem.name in Illustrator. [PluginItem.name](name.md).
+- Open when looking up PluginItem.note in Illustrator. [PluginItem.note](note.md).
+- Open when looking up PluginItem.opacity in Illustrator. [PluginItem.opacity](opacity.md).
+- Open when looking up PluginItem.parent in Illustrator. [PluginItem.parent](parent.md).
+- Open when looking up PluginItem.position in Illustrator. [PluginItem.position](position.md).
+- Open when looking up PluginItem.remove() in Illustrator. [PluginItem.remove()](remove.md).
+- Open when looking up PluginItem.resize() in Illustrator. [PluginItem.resize()](resize.md).
+- Open when looking up PluginItem.rotate() in Illustrator. [PluginItem.rotate()](rotate.md).
+- Open when looking up PluginItem.selected in Illustrator. [PluginItem.selected](selected.md).
+- Open when looking up PluginItem.sliced in Illustrator. [PluginItem.sliced](sliced.md).
+- Open when looking up PluginItem.tags in Illustrator. [PluginItem.tags](tags.md).
+- Open when looking up PluginItem.top in Illustrator. [PluginItem.top](top.md).
+- Open when looking up PluginItem.tracing in Illustrator. [PluginItem.tracing](tracing.md).
+- Open when looking up PluginItem.transform() in Illustrator. [PluginItem.transform()](transform.md).
+- Open when looking up PluginItem.translate() in Illustrator. [PluginItem.translate()](translate.md).
+- Open when looking up PluginItem.typename in Illustrator. [PluginItem.typename](typename.md).
+- Open when looking up PluginItem.uRL in Illustrator. [PluginItem.uRL](u-rl.md).
+- Open when looking up PluginItem.visibilityVariable in Illustrator. [PluginItem.visibilityVariable](visibility-variable.md).
+- Open when looking up PluginItem.visibleBounds in Illustrator. [PluginItem.visibleBounds](visible-bounds.md).
+- Open when looking up PluginItem.width in Illustrator. [PluginItem.width](width.md).
+- Open when looking up PluginItem.wrapInside in Illustrator. [PluginItem.wrapInside](wrap-inside.md).
+- Open when looking up PluginItem.wrapOffset in Illustrator. [PluginItem.wrapOffset](wrap-offset.md).
+- Open when looking up PluginItem.wrapped in Illustrator. [PluginItem.wrapped](wrapped.md).
+- Open when looking up PluginItem.zOrder() in Illustrator. [PluginItem.zOrder()](z-order.md).
+- Open when looking up PluginItem.zOrderPosition in Illustrator. [PluginItem.zOrderPosition](z-order-position.md).

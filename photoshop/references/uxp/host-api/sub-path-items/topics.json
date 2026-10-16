@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Indexable", "file": "references/uxp/host-api/sub-path-items/indexable.md", "summary": "Open when looking up Indexable in Photoshop.", "keywords": ["Indexable"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

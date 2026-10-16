@@ -1,0 +1,47 @@
+# After Effects — AEGP_CompSuite11
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_CreateBoxTextLayerInComp in After Effects. [AEGP_CreateBoxTextLayerInComp](aegp-create-box-text-layer-in-comp.md).
+- Open when looking up AEGP_CreateCameraInComp in After Effects. [AEGP_CreateCameraInComp](aegp-create-camera-in-comp.md).
+- Open when looking up AEGP_CreateComp in After Effects. [AEGP_CreateComp](aegp-create-comp.md).
+- Open when looking up AEGP_CreateLightInComp in After Effects. [AEGP_CreateLightInComp](aegp-create-light-in-comp.md).
+- Open when looking up AEGP_CreateNullInComp in After Effects. [AEGP_CreateNullInComp](aegp-create-null-in-comp.md).
+- Open when looking up AEGP_CreateSolidInComp in After Effects. [AEGP_CreateSolidInComp](aegp-create-solid-in-comp.md).
+- Open when looking up AEGP_CreateTextLayerInComp in After Effects. [AEGP_CreateTextLayerInComp](aegp-create-text-layer-in-comp.md).
+- Open when looking up AEGP_CreateVectorLayerInComp in After Effects. [AEGP_CreateVectorLayerInComp](aegp-create-vector-layer-in-comp.md).
+- Open when looking up AEGP_DuplicateComp in After Effects. [AEGP_DuplicateComp](aegp-duplicate-comp.md).
+- Open when looking up AEGP_GetCompBGColor in After Effects. [AEGP_GetCompBGColor](aegp-get-comp-bg-color.md).
+- Open when looking up AEGP_GetCompDisplayDropFrame in After Effects. [AEGP_GetCompDisplayDropFrame](aegp-get-comp-display-drop-frame.md).
+- Open when looking up AEGP_GetCompDisplayStartTime in After Effects. [AEGP_GetCompDisplayStartTime](aegp-get-comp-display-start-time.md).
+- Open when looking up AEGP_GetCompDownsampleFactor in After Effects. [AEGP_GetCompDownsampleFactor](aegp-get-comp-downsample-factor.md).
+- Open when looking up AEGP_GetCompFlags in After Effects. [AEGP_GetCompFlags](aegp-get-comp-flags.md).
+- Open when looking up AEGP_GetCompFrameDuration in After Effects. [AEGP_GetCompFrameDuration](aegp-get-comp-frame-duration.md).
+- Open when looking up AEGP_GetCompFramerate in After Effects. [AEGP_GetCompFramerate](aegp-get-comp-framerate.md).
+- Open when looking up AEGP_GetCompFromItem in After Effects. [AEGP_GetCompFromItem](aegp-get-comp-from-item.md).
+- Open when looking up AEGP_GetCompMotionBlurAdaptiveSampleLimit in After Effects. [AEGP_GetCompMotionBlurAdaptiveSampleLimit](aegp-get-comp-motion-blur-adaptive-sample-limit.md).
+- Open when looking up AEGP_GetCompShutterAnglePhase in After Effects. [AEGP_GetCompShutterAnglePhase](aegp-get-comp-shutter-angle-phase.md).
+- Open when looking up AEGP_GetCompShutterFrameRange in After Effects. [AEGP_GetCompShutterFrameRange](aegp-get-comp-shutter-frame-range.md).
+- Open when looking up AEGP_GetCompSuggestedMotionBlurSamples in After Effects. [AEGP_GetCompSuggestedMotionBlurSamples](aegp-get-comp-suggested-motion-blur-samples.md).
+- Open when looking up AEGP_GetCompWorkAreaDuration in After Effects. [AEGP_GetCompWorkAreaDuration](aegp-get-comp-work-area-duration.md).
+- Open when looking up AEGP_GetCompWorkAreaStart in After Effects. [AEGP_GetCompWorkAreaStart](aegp-get-comp-work-area-start.md).
+- Open when looking up AEGP_GetItemFromComp in After Effects. [AEGP_GetItemFromComp](aegp-get-item-from-comp.md).
+- Open when looking up AEGP_GetMostRecentlyUsedComp in After Effects. [AEGP_GetMostRecentlyUsedComp](aegp-get-most-recently-used-comp.md).
+- Open when looking up AEGP_GetNewCollectionFromCompSelection in After Effects. [AEGP_GetNewCollectionFromCompSelection](aegp-get-new-collection-from-comp-selection.md).
+- Open when looking up AEGP_GetNewCompMarkerStream in After Effects. [AEGP_GetNewCompMarkerStream](aegp-get-new-comp-marker-stream.md).
+- Open when looking up AEGP_GetShowBlendModes in After Effects. [AEGP_GetShowBlendModes](aegp-get-show-blend-modes.md).
+- Open when looking up AEGP_GetShowLayerNameOrSourceName in After Effects. [AEGP_GetShowLayerNameOrSourceName](aegp-get-show-layer-name-or-source-name.md).
+- Open when looking up AEGP_ReorderCompSelection in After Effects. [AEGP_ReorderCompSelection](aegp-reorder-comp-selection.md).
+- Open when looking up AEGP_SetCompBGColor in After Effects. [AEGP_SetCompBGColor](aegp-set-comp-bg-color.md).
+- Open when looking up AEGP_SetCompDimensions in After Effects. [AEGP_SetCompDimensions](aegp-set-comp-dimensions.md).
+- Open when looking up AEGP_SetCompDisplayDropFrame in After Effects. [AEGP_SetCompDisplayDropFrame](aegp-set-comp-display-drop-frame.md).
+- Open when looking up AEGP_SetCompDisplayStartTime in After Effects. [AEGP_SetCompDisplayStartTime](aegp-set-comp-display-start-time.md).
+- Open when looking up AEGP_SetCompDownsampleFactor in After Effects. [AEGP_SetCompDownsampleFactor](aegp-set-comp-downsample-factor.md).
+- Open when looking up AEGP_SetCompDuration in After Effects. [AEGP_SetCompDuration](aegp-set-comp-duration.md).
+- Open when looking up AEGP_SetCompFramerate in After Effects. [AEGP_SetCompFramerate](aegp-set-comp-framerate.md).
+- Open when looking up AEGP_SetCompMotionBlurAdaptiveSampleLimit in After Effects. [AEGP_SetCompMotionBlurAdaptiveSampleLimit](aegp-set-comp-motion-blur-adaptive-sample-limit.md).
+- Open when looking up AEGP_SetCompPixelAspectRatio in After Effects. [AEGP_SetCompPixelAspectRatio](aegp-set-comp-pixel-aspect-ratio.md).
+- Open when looking up AEGP_SetCompSuggestedMotionBlurSamples in After Effects. [AEGP_SetCompSuggestedMotionBlurSamples](aegp-set-comp-suggested-motion-blur-samples.md).
+- Open when looking up AEGP_SetCompWorkAreaStartAndDuration in After Effects. [AEGP_SetCompWorkAreaStartAndDuration](aegp-set-comp-work-area-start-and-duration.md).
+- Open when looking up AEGP_SetSelection in After Effects. [AEGP_SetSelection](aegp-set-selection.md).
+- Open when looking up AEGP_SetShowBlendModes in After Effects. [AEGP_SetShowBlendModes](aegp-set-show-blend-modes.md).
+- Open when looking up AEGP_SetShowLayerNameOrSourceName in After Effects. [AEGP_SetShowLayerNameOrSourceName](aegp-set-show-layer-name-or-source-name.md).

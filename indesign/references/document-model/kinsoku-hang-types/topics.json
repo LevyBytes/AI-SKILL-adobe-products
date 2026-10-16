@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "KINSOKU_HANG_FORCE", "file": "references/document-model/kinsoku-hang-types/kinsokuhangforce.md", "summary": "Open when looking up KINSOKU_HANG_FORCE in InDesign.", "keywords": ["KINSOKU_HANG_FORCE"]},
+  {"topic": "KINSOKU_HANG_REGULAR", "file": "references/document-model/kinsoku-hang-types/kinsokuhangregular.md", "summary": "Open when looking up KINSOKU_HANG_REGULAR in InDesign.", "keywords": ["KINSOKU_HANG_REGULAR"]},
+  {"topic": "NONE", "file": "references/document-model/kinsoku-hang-types/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

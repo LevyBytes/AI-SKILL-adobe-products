@@ -1,0 +1,21 @@
+# Shared Adobe platform — PageTransitionDirectionOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PageTransitionDirectionOptions declaration in Shared Adobe platform. [PageTransitionDirectionOptions declaration](declaration.md).
+- Open when looking up PageTransitionDirectionOptions.DOWN in Shared Adobe platform. [PageTransitionDirectionOptions.DOWN](down.md).
+- Open when looking up PageTransitionDirectionOptions.HORIZONTAL in Shared Adobe platform. [PageTransitionDirectionOptions.HORIZONTAL](horizontal.md).
+- Open when looking up PageTransitionDirectionOptions.HORIZONTAL_IN in Shared Adobe platform. [PageTransitionDirectionOptions.HORIZONTAL_IN](horizontalin.md).
+- Open when looking up PageTransitionDirectionOptions.HORIZONTAL_OUT in Shared Adobe platform. [PageTransitionDirectionOptions.HORIZONTAL_OUT](horizontalout.md).
+- Open when looking up PageTransitionDirectionOptions.IN in Shared Adobe platform. [PageTransitionDirectionOptions.IN](in.md).
+- Open when looking up PageTransitionDirectionOptions.LEFT_DOWN in Shared Adobe platform. [PageTransitionDirectionOptions.LEFT_DOWN](leftdown.md).
+- Open when looking up PageTransitionDirectionOptions.LEFT_TO_RIGHT in Shared Adobe platform. [PageTransitionDirectionOptions.LEFT_TO_RIGHT](lefttoright.md).
+- Open when looking up PageTransitionDirectionOptions.LEFT_UP in Shared Adobe platform. [PageTransitionDirectionOptions.LEFT_UP](leftup.md).
+- Open when looking up PageTransitionDirectionOptions.NOT_APPLICABLE in Shared Adobe platform. [PageTransitionDirectionOptions.NOT_APPLICABLE](notapplicable.md).
+- Open when looking up PageTransitionDirectionOptions.OUT in Shared Adobe platform. [PageTransitionDirectionOptions.OUT](out.md).
+- Open when looking up PageTransitionDirectionOptions.RIGHT_DOWN in Shared Adobe platform. [PageTransitionDirectionOptions.RIGHT_DOWN](rightdown.md).
+- Open when looking up PageTransitionDirectionOptions.RIGHT_TO_LEFT in Shared Adobe platform. [PageTransitionDirectionOptions.RIGHT_TO_LEFT](righttoleft.md).
+- Open when looking up PageTransitionDirectionOptions.RIGHT_UP in Shared Adobe platform. [PageTransitionDirectionOptions.RIGHT_UP](rightup.md).
+- Open when looking up PageTransitionDirectionOptions.UP in Shared Adobe platform. [PageTransitionDirectionOptions.UP](up.md).
+- Open when looking up PageTransitionDirectionOptions.VERTICAL in Shared Adobe platform. [PageTransitionDirectionOptions.VERTICAL](vertical.md).
+- Open when looking up PageTransitionDirectionOptions.VERTICAL_IN in Shared Adobe platform. [PageTransitionDirectionOptions.VERTICAL_IN](verticalin.md).
+- Open when looking up PageTransitionDirectionOptions.VERTICAL_OUT in Shared Adobe platform. [PageTransitionDirectionOptions.VERTICAL_OUT](verticalout.md).

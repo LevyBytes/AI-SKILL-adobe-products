@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Custom background color", "file": "references/cloud-services/document-creation-migration/background-fill-options/custom-background-color.md", "summary": "Open when looking up Custom background color in Photoshop.", "keywords": ["Custom background color"]},
+  {"topic": "Transparent background", "file": "references/cloud-services/document-creation-migration/background-fill-options/transparent-background.md", "summary": "Open when looking up Transparent background in Photoshop.", "keywords": ["Transparent background"]},
+  {"topic": "White background", "file": "references/cloud-services/document-creation-migration/background-fill-options/white-background.md", "summary": "Open when looking up White background in Photoshop.", "keywords": ["White background"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

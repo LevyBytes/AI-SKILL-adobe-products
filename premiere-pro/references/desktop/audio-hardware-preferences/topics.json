@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Configure audio inputs and outputs", "file": "references/desktop/audio-hardware-preferences/configure-audio-inputs-and-outputs.md", "summary": "Open when looking up Configure audio inputs and outputs in Premiere Pro.", "keywords": ["Configure audio inputs and outputs"]},
+  {"topic": "Premiere Audio Hardware preferences", "file": "references/desktop/audio-hardware-preferences/premiere-audio-hardware-preferences.md", "summary": "Open when looking up Premiere Audio Hardware preferences in Premiere Pro.", "keywords": ["Premiere Audio Hardware preferences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

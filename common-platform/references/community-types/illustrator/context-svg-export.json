@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ExportOptionsSVG references", "file": "references/community-types/illustrator/export-options-svg/reference-index.md", "summary": "Open when looking up ExportOptionsSVG in Shared Adobe platform.", "keywords": ["ExportOptionsSVG references"]},
+  {"topic": "ExportOptionsWebOptimizedSVG", "file": "references/community-types/illustrator/export-options-web-optimized-svg.md", "summary": "Open when looking up ExportOptionsWebOptimizedSVG in Shared Adobe platform.", "keywords": ["ExportOptionsWebOptimizedSVG"]},
+  {"topic": "SVGCSSPropertyLocation", "file": "references/community-types/illustrator/svgcss-property-location.md", "summary": "Open when looking up SVGCSSPropertyLocation in Shared Adobe platform.", "keywords": ["SVGCSSPropertyLocation"]},
+  {"topic": "SVGDocumentEncoding", "file": "references/community-types/illustrator/svg-document-encoding.md", "summary": "Open when looking up SVGDocumentEncoding in Shared Adobe platform.", "keywords": ["SVGDocumentEncoding"]},
+  {"topic": "SVGDTDVersion", "file": "references/community-types/illustrator/svgdtd-version.md", "summary": "Open when looking up SVGDTDVersion in Shared Adobe platform.", "keywords": ["SVGDTDVersion"]},
+  {"topic": "SVGFontSubsetting", "file": "references/community-types/illustrator/svg-font-subsetting.md", "summary": "Open when looking up SVGFontSubsetting in Shared Adobe platform.", "keywords": ["SVGFontSubsetting"]},
+  {"topic": "SVGFontType", "file": "references/community-types/illustrator/svg-font-type.md", "summary": "Open when looking up SVGFontType in Shared Adobe platform.", "keywords": ["SVGFontType"]},
+  {"topic": "SVGIdType", "file": "references/community-types/illustrator/svg-id-type.md", "summary": "Open when looking up SVGIdType in Shared Adobe platform.", "keywords": ["SVGIdType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,21 @@
+# Logging
+
+Error and exception specifics are covered in the API docs.
+
+To bridge across logging frameworks, the .NET SDK relies on [LibLog](https://github.com/damianh/LibLog). Within the sample projects, Log4net serves as the logging provider, and log4net.config carries those logging configurations. Drop in the configuration for whichever provider you prefer and wire up the appropriate appender to switch logging on.
+
+**log4net.config file**
+
+```html
+<log4net>
+  <root>
+    <level value="INFO" />
+    <appender-ref ref="console" />
+  </root>
+  <appender name="console" type="log4net.Appender.ConsoleAppender">
+    <layout type="log4net.Layout.PatternLayout">
+      <conversionPattern value="%date %level %logger - %message%newline" />
+    </layout>
+  </appender>
+</log4net>
+```

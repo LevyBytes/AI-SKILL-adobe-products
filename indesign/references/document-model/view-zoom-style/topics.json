@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ACTUAL_SIZE", "file": "references/document-model/view-zoom-style/actualsize.md", "summary": "Open when looking up ACTUAL_SIZE in InDesign.", "keywords": ["ACTUAL_SIZE"]},
+  {"topic": "FIT_PAGE", "file": "references/document-model/view-zoom-style/fitpage.md", "summary": "Open when looking up FIT_PAGE in InDesign.", "keywords": ["FIT_PAGE"]},
+  {"topic": "FIT_VISIBLE", "file": "references/document-model/view-zoom-style/fitvisible.md", "summary": "Open when looking up FIT_VISIBLE in InDesign.", "keywords": ["FIT_VISIBLE"]},
+  {"topic": "FIT_WIDTH", "file": "references/document-model/view-zoom-style/fitwidth.md", "summary": "Open when looking up FIT_WIDTH in InDesign.", "keywords": ["FIT_WIDTH"]},
+  {"topic": "FULL_SCREEN", "file": "references/document-model/view-zoom-style/fullscreen.md", "summary": "Open when looking up FULL_SCREEN in InDesign.", "keywords": ["FULL_SCREEN"]},
+  {"topic": "ONE_COLUMN", "file": "references/document-model/view-zoom-style/onecolumn.md", "summary": "Open when looking up ONE_COLUMN in InDesign.", "keywords": ["ONE_COLUMN"]},
+  {"topic": "SINGLE_PAGE", "file": "references/document-model/view-zoom-style/singlepage.md", "summary": "Open when looking up SINGLE_PAGE in InDesign.", "keywords": ["SINGLE_PAGE"]},
+  {"topic": "TWO_COLUMN", "file": "references/document-model/view-zoom-style/twocolumn.md", "summary": "Open when looking up TWO_COLUMN in InDesign.", "keywords": ["TWO_COLUMN"]},
+  {"topic": "ZOOM_IN", "file": "references/document-model/view-zoom-style/zoomin.md", "summary": "Open when looking up ZOOM_IN in InDesign.", "keywords": ["ZOOM_IN"]},
+  {"topic": "ZOOM_OUT", "file": "references/document-model/view-zoom-style/zoomout.md", "summary": "Open when looking up ZOOM_OUT in InDesign.", "keywords": ["ZOOM_OUT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

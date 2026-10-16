@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "getSelectedTextDirection", "file": "references/document-model/document/get-selected-text-direction.md", "summary": "Open when looking up getSelectedTextDirection in InDesign.", "keywords": ["getSelectedTextDirection"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

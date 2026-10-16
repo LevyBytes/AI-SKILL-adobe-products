@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Clipboard", "file": "references/uxp/clipboard.md", "summary": "Open when looking up Clipboard in InDesign.", "keywords": ["Clipboard"]},
+  {"topic": "Clipboard references", "file": "references/uxp/clipboard/reference-index.md", "summary": "Open when looking up Clipboard in InDesign.", "keywords": ["Clipboard references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

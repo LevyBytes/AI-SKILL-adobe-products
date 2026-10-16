@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "1. Assets", "file": "references/uxp/review-guidelines/assets.md", "summary": "Open when looking up 1. Assets in Premiere Pro.", "keywords": ["1. Assets"]},
+  {"topic": "10. Performance and Resource Usage", "file": "references/uxp/review-guidelines/performance-and-resource-usage.md", "summary": "Open when looking up 10. Performance and Resource Usage in Premiere Pro.", "keywords": ["10. Performance and Resource Usage"]},
+  {"topic": "2. Metadata", "file": "references/uxp/review-guidelines/metadata.md", "summary": "Open when looking up 2. Metadata in Premiere Pro.", "keywords": ["2. Metadata"]},
+  {"topic": "3. Legal", "file": "references/uxp/review-guidelines/legal.md", "summary": "Open when looking up 3. Legal in Premiere Pro.", "keywords": ["3. Legal"]},
+  {"topic": "4. Branding Guidelines", "file": "references/uxp/review-guidelines/branding-guidelines.md", "summary": "Open when looking up 4. Branding Guidelines in Premiere Pro.", "keywords": ["4. Branding Guidelines"]},
+  {"topic": "5. Platform Compatibility", "file": "references/uxp/review-guidelines/platform-compatibility.md", "summary": "Open when looking up 5. Platform Compatibility in Premiere Pro.", "keywords": ["5. Platform Compatibility"]},
+  {"topic": "6. Functional Requirements", "file": "references/uxp/review-guidelines/functional-requirements.md", "summary": "Open when looking up 6. Functional Requirements in Premiere Pro.", "keywords": ["6. Functional Requirements"]},
+  {"topic": "7. External Services Integration", "file": "references/uxp/review-guidelines/external-services-integration.md", "summary": "Open when looking up 7. External Services Integration in Premiere Pro.", "keywords": ["7. External Services Integration"]},
+  {"topic": "8. Companion Apps", "file": "references/uxp/review-guidelines/companion-apps.md", "summary": "Open when looking up 8. Companion Apps in Premiere Pro.", "keywords": ["8. Companion Apps"]},
+  {"topic": "9. Localization", "file": "references/uxp/review-guidelines/localization.md", "summary": "Open when looking up 9. Localization in Premiere Pro.", "keywords": ["9. Localization"]},
+  {"topic": "Common Rejections Causes", "file": "references/uxp/review-guidelines/common-rejections-causes.md", "summary": "Open when looking up Common Rejections Causes in Premiere Pro.", "keywords": ["Common Rejections Causes"]},
+  {"topic": "Content Requirements", "file": "references/uxp/review-guidelines/content-requirements.md", "summary": "Open when looking up Content Requirements in Premiere Pro.", "keywords": ["Content Requirements"]},
+  {"topic": "Generative AI Guidelines", "file": "references/uxp/review-guidelines/generative-ai-guidelines.md", "summary": "Open when looking up Generative AI Guidelines in Premiere Pro.", "keywords": ["Generative AI Guidelines"]},
+  {"topic": "Review Criteria", "file": "references/uxp/review-guidelines/review-criteria.md", "summary": "Open when looking up Review Criteria in Premiere Pro.", "keywords": ["Review Criteria"]},
+  {"topic": "Submission Checklist", "file": "references/uxp/review-guidelines/submission-checklist.md", "summary": "Open when looking up Submission Checklist in Premiere Pro.", "keywords": ["Submission Checklist"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

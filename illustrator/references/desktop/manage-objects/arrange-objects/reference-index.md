@@ -1,0 +1,22 @@
+# Illustrator — Arrange objects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Align or distribute selected objects in Illustrator. [Align or distribute selected objects](align-or-distribute-selected-objects.md).
+- Open when looking up Align or distribute selected objects in Illustrator. [Align or distribute selected objects references](align-or-distribute-selected-objects/reference-index.md).
+- Open when looking up Distribute objects by specific distances in Illustrator. [Distribute objects by specific distances](distribute-objects-by-specific-distances.md).
+- Open when looking up Expand objects in Illustrator. [Expand objects](expand-objects.md).
+- Open when looking up Move multiple objects at once in Illustrator. [Move multiple objects at once](move-multiple-objects-at-once.md).
+- Open when looking up Move objects in Illustrator. [Move objects](move-objects.md).
+- Open when looking up Move objects by specific distances in Illustrator. [Move objects by specific distances](move-objects-by-specific-distances.md).
+- Open when looking up Move objects in Illustrator. [Move objects references](move-objects/reference-index.md).
+- Open when looking up Move or duplicate an object by pasting in Illustrator. [Move or duplicate an object by pasting](move-or-duplicate-an-object-by-pasting.md).
+- Open when looking up Paste an object relative to other objects in Illustrator. [Paste an object relative to other objects](paste-an-object-relative-to-other-objects.md).
+- Open when looking up Paste an object relative to other objects in Illustrator. [Paste an object relative to other objects references](paste-an-object-relative-to-other-objects/reference-index.md).
+- Open when looking up Reflect objects along an axis in Illustrator. [Reflect objects along an axis](reflect-objects-along-an-axis.md).
+- Open when looking up Reflect or flip objects in Illustrator. [Reflect or flip objects](reflect-or-flip-objects.md).
+- Open when looking up Reflect or flip objects in Illustrator. [Reflect or flip objects references](reflect-or-flip-objects/reference-index.md).
+- Open when looking up Rotate multiple objects individually in Illustrator. [Rotate multiple objects individually](rotate-multiple-objects-individually.md).
+- Open when looking up Rotate objects in Illustrator. [Rotate objects](rotate-objects.md).
+- Open when looking up Rotate objects by specific angles in Illustrator. [Rotate objects by specific angles](rotate-objects-by-specific-angles.md).
+- Open when looking up Rotate objects by specific angles in Illustrator. [Rotate objects by specific angles references](rotate-objects-by-specific-angles/reference-index.md).
+- Open when looking up Rotate objects in Illustrator. [Rotate objects references](rotate-objects/reference-index.md).

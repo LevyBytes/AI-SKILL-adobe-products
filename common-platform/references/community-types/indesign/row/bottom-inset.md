@@ -1,0 +1,13 @@
+# Row.bottomInset
+
+Community declaration reference: InDesign/2023.
+
+Deprecated API for the cell's bottom inset. Use TextBottomInset or GraphicBottomInset instead.
+
+```typescript
+declare class Row {
+    bottomInset: number | string
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

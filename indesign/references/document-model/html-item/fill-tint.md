@@ -1,0 +1,5 @@
+# fillTint
+
+> Number **fillTint**
+>
+> Sets the tint percentage for the HtmlItem fill color. Use a number from 0 to 100 for an explicit tint percent; use -1 for the inherited or overridden value.

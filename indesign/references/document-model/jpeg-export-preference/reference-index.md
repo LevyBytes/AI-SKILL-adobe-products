@@ -1,0 +1,24 @@
+# InDesign — JPEGExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up antiAlias in InDesign. [antiAlias](anti-alias.md).
+- Open when looking up embedColorProfile in InDesign. [embedColorProfile](embed-color-profile.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up exportingSpread in InDesign. [exportingSpread](exporting-spread.md).
+- Open when looking up exportResolution in InDesign. [exportResolution](export-resolution.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up jpegColorSpace in InDesign. [jpegColorSpace](jpeg-color-space.md).
+- Open when looking up jpegExportRange in InDesign. [jpegExportRange](jpeg-export-range.md).
+- Open when looking up jpegQuality in InDesign. [jpegQuality](jpeg-quality.md).
+- Open when looking up jpegRenderingStyle in InDesign. [jpegRenderingStyle](jpeg-rendering-style.md).
+- Open when looking up pageString in InDesign. [pageString](page-string.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up simulateOverprint in InDesign. [simulateOverprint](simulate-overprint.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up useDocumentBleeds in InDesign. [useDocumentBleeds](use-document-bleeds.md).

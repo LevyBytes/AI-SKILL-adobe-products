@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Preview and apply colors with the Color Picker tool", "file": "references/desktop/manage-colors/select-and-adjust-colors/eyedropper-and-color-picker/preview-and-apply-colors-with-the-color-picker-tool.md", "summary": "Open when looking up Preview and apply colors with the Color Picker tool in Illustrator.", "keywords": ["Preview and apply colors with the Color Picker tool"]},
+  {"topic": "Select colors with the Eyedropper tool", "file": "references/desktop/manage-colors/select-and-adjust-colors/eyedropper-and-color-picker/select-colors-with-the-eyedropper-tool.md", "summary": "Open when looking up Select colors with the Eyedropper tool in Illustrator.", "keywords": ["Select colors with the Eyedropper tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

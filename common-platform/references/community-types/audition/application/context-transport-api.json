@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.transport", "file": "references/community-types/audition/application/transport.md", "summary": "Open when looking up Application.transport in Shared Adobe platform.", "keywords": ["Application.transport"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

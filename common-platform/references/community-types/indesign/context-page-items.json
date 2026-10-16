@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ContainerType", "file": "references/community-types/indesign/container-type.md", "summary": "Open when looking up ContainerType in Shared Adobe platform.", "keywords": ["ContainerType"]},
+  {"topic": "ContentType", "file": "references/community-types/indesign/content-type.md", "summary": "Open when looking up ContentType in Shared Adobe platform.", "keywords": ["ContentType"]},
+  {"topic": "GlobalClashResolutionStrategyForMasterPage", "file": "references/community-types/indesign/global-clash-resolution-strategy-for-master-page.md", "summary": "Open when looking up GlobalClashResolutionStrategyForMasterPage in Shared Adobe platform.", "keywords": ["GlobalClashResolutionStrategyForMasterPage"]},
+  {"topic": "Group references", "file": "references/community-types/indesign/group/reference-index.md", "summary": "Open when looking up Group in Shared Adobe platform.", "keywords": ["Group references"]},
+  {"topic": "Groups references", "file": "references/community-types/indesign/groups/reference-index.md", "summary": "Open when looking up Groups in Shared Adobe platform.", "keywords": ["Groups references"]},
+  {"topic": "Layer references", "file": "references/community-types/indesign/layer/reference-index.md", "summary": "Open when looking up Layer in Shared Adobe platform.", "keywords": ["Layer references"]},
+  {"topic": "Layers references", "file": "references/community-types/indesign/layers/reference-index.md", "summary": "Open when looking up Layers in Shared Adobe platform.", "keywords": ["Layers references"]},
+  {"topic": "OverrideType", "file": "references/community-types/indesign/override-type.md", "summary": "Open when looking up OverrideType in Shared Adobe platform.", "keywords": ["OverrideType"]},
+  {"topic": "PageItem references", "file": "references/community-types/indesign/page-item/reference-index.md", "summary": "Open when looking up PageItem in Shared Adobe platform.", "keywords": ["PageItem references"]},
+  {"topic": "PageItemDefault references", "file": "references/community-types/indesign/page-item-default/reference-index.md", "summary": "Open when looking up PageItemDefault in Shared Adobe platform.", "keywords": ["PageItemDefault references"]},
+  {"topic": "PageItems references", "file": "references/community-types/indesign/page-items/reference-index.md", "summary": "Open when looking up PageItems in Shared Adobe platform.", "keywords": ["PageItems references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Applying a Brush", "file": "references/scripting/brush-example/applying-a-brush.md", "summary": "Open when looking up Applying a Brush in Illustrator.", "keywords": ["Applying a Brush"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

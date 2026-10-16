@@ -1,0 +1,21 @@
+/* Everything is scoped for the modal dialog only */
+dialog.modal-dialog { padding: 0; }
+
+dialog.modal-dialog .wrapper {
+  min-height: 100vh; overflow: hidden;
+  padding: 10px 20px; display: flex; flex-direction: column;
+}
+
+dialog.modal-dialog .row {
+  display: flex; flex-direction: row; justify-content: space-between;
+}
+
+dialog.modal-dialog .spaced { margin-bottom: 16px; }
+
+dialog.modal-dialog sp-textfield {
+  display: flex; width: 92px; margin-bottom: 6px;
+}
+
+dialog.modal-dialog sp-button-group {
+  display: flex; flex-direction: row; justify-content: flex-end;
+}

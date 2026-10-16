@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BOTTOM_ALIGN", "file": "references/document-model/character-count-location/bottomalign.md", "summary": "Open when looking up BOTTOM_ALIGN in InDesign.", "keywords": ["BOTTOM_ALIGN"]},
+  {"topic": "LEFT_ALIGN", "file": "references/document-model/character-count-location/leftalign.md", "summary": "Open when looking up LEFT_ALIGN in InDesign.", "keywords": ["LEFT_ALIGN"]},
+  {"topic": "NONE", "file": "references/document-model/character-count-location/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "RIGHT_ALIGN", "file": "references/document-model/character-count-location/rightalign.md", "summary": "Open when looking up RIGHT_ALIGN in InDesign.", "keywords": ["RIGHT_ALIGN"]},
+  {"topic": "TOP_ALIGN", "file": "references/document-model/character-count-location/topalign.md", "summary": "Open when looking up TOP_ALIGN in InDesign.", "keywords": ["TOP_ALIGN"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

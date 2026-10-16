@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Change gradient settings", "file": "references/desktop/text-formatting/character-formatting/change-text-color-gradient-or-stroke/change-gradient-settings.md", "summary": "Open when looking up Change gradient settings in InDesign.", "keywords": ["Change gradient settings"]},
+  {"topic": "Change stroke settings", "file": "references/desktop/text-formatting/character-formatting/change-text-color-gradient-or-stroke/change-stroke-settings.md", "summary": "Open when looking up Change stroke settings in InDesign.", "keywords": ["Change stroke settings"]},
+  {"topic": "Change text fill, stroke, or apply a gradient", "file": "references/desktop/text-formatting/character-formatting/change-text-color-gradient-or-stroke/change-text-fill-stroke-or-apply-a-gradient.md", "summary": "Open when looking up Change text fill, stroke, or apply a gradient in InDesign.", "keywords": ["Change text fill, stroke, or apply a gradient"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

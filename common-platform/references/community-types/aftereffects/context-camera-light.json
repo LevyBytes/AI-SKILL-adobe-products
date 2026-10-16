@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "_CameraOptionsGroup", "file": "references/community-types/aftereffects/camera-options-group.md", "summary": "Open when looking up _CameraOptionsGroup in Shared Adobe platform.", "keywords": ["_CameraOptionsGroup"]},
+  {"topic": "_LightOptionsGroup", "file": "references/community-types/aftereffects/light-options-group.md", "summary": "Open when looking up _LightOptionsGroup in Shared Adobe platform.", "keywords": ["_LightOptionsGroup"]},
+  {"topic": "LightType", "file": "references/community-types/aftereffects/light-type.md", "summary": "Open when looking up LightType in Shared Adobe platform.", "keywords": ["LightType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

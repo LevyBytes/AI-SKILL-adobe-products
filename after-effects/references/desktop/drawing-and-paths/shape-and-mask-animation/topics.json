@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Animating Shape Paths Masks", "file": "references/desktop/drawing-and-paths/shape-and-mask-animation/animating-shape-paths-masks.md", "summary": "Open when looking up Animating Shape Paths Masks in After Effects.", "keywords": ["Animating Shape Paths Masks"]},
+  {"topic": "Animating Shape Paths Masks references", "file": "references/desktop/drawing-and-paths/shape-and-mask-animation/path-animation/reference-index.md", "summary": "Open when looking up Animating Shape Paths Masks in After Effects.", "keywords": ["Animating Shape Paths Masks references"]},
+  {"topic": "Creating Shapes Masks", "file": "references/desktop/drawing-and-paths/shape-and-mask-animation/creating-shapes-masks.md", "summary": "Open when looking up Creating Shapes Masks in After Effects.", "keywords": ["Creating Shapes Masks"]},
+  {"topic": "Creating Shapes Masks references", "file": "references/desktop/drawing-and-paths/shape-and-mask-animation/creating-shapes-masks/reference-index.md", "summary": "Open when looking up Creating Shapes Masks in After Effects.", "keywords": ["Creating Shapes Masks references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

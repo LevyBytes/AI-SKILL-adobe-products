@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.changeColor", "file": "references/community-types/indesign/document/change-color.md", "summary": "Open when looking up Document.changeColor in Shared Adobe platform.", "keywords": ["Document.changeColor"]},
+  {"topic": "Document.changeComposer", "file": "references/community-types/indesign/document/change-composer.md", "summary": "Open when looking up Document.changeComposer in Shared Adobe platform.", "keywords": ["Document.changeComposer"]},
+  {"topic": "Document.changeGlyph", "file": "references/community-types/indesign/document/change-glyph.md", "summary": "Open when looking up Document.changeGlyph in Shared Adobe platform.", "keywords": ["Document.changeGlyph"]},
+  {"topic": "Document.changeGrep", "file": "references/community-types/indesign/document/change-grep.md", "summary": "Open when looking up Document.changeGrep in Shared Adobe platform.", "keywords": ["Document.changeGrep"]},
+  {"topic": "Document.changeObject", "file": "references/community-types/indesign/document/change-object.md", "summary": "Open when looking up Document.changeObject in Shared Adobe platform.", "keywords": ["Document.changeObject"]},
+  {"topic": "Document.changeText", "file": "references/community-types/indesign/document/change-text.md", "summary": "Open when looking up Document.changeText in Shared Adobe platform.", "keywords": ["Document.changeText"]},
+  {"topic": "Document.changeTransliterate", "file": "references/community-types/indesign/document/change-transliterate.md", "summary": "Open when looking up Document.changeTransliterate in Shared Adobe platform.", "keywords": ["Document.changeTransliterate"]},
+  {"topic": "Document.findColor", "file": "references/community-types/indesign/document/find-color.md", "summary": "Open when looking up Document.findColor in Shared Adobe platform.", "keywords": ["Document.findColor"]},
+  {"topic": "Document.findGlyph", "file": "references/community-types/indesign/document/find-glyph.md", "summary": "Open when looking up Document.findGlyph in Shared Adobe platform.", "keywords": ["Document.findGlyph"]},
+  {"topic": "Document.findGrep", "file": "references/community-types/indesign/document/find-grep.md", "summary": "Open when looking up Document.findGrep in Shared Adobe platform.", "keywords": ["Document.findGrep"]},
+  {"topic": "Document.findObject", "file": "references/community-types/indesign/document/find-object.md", "summary": "Open when looking up Document.findObject in Shared Adobe platform.", "keywords": ["Document.findObject"]},
+  {"topic": "Document.findText", "file": "references/community-types/indesign/document/find-text.md", "summary": "Open when looking up Document.findText in Shared Adobe platform.", "keywords": ["Document.findText"]},
+  {"topic": "Document.findTransliterate", "file": "references/community-types/indesign/document/find-transliterate.md", "summary": "Open when looking up Document.findTransliterate in Shared Adobe platform.", "keywords": ["Document.findTransliterate"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

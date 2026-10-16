@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CANCELLED", "file": "references/document-model/task-state/cancelled.md", "summary": "Open when looking up CANCELLED in InDesign.", "keywords": ["CANCELLED"]},
+  {"topic": "CANCELLING", "file": "references/document-model/task-state/cancelling.md", "summary": "Open when looking up CANCELLING in InDesign.", "keywords": ["CANCELLING"]},
+  {"topic": "COMPLETED", "file": "references/document-model/task-state/completed.md", "summary": "Open when looking up COMPLETED in InDesign.", "keywords": ["COMPLETED"]},
+  {"topic": "QUEUED", "file": "references/document-model/task-state/queued.md", "summary": "Open when looking up QUEUED in InDesign.", "keywords": ["QUEUED"]},
+  {"topic": "RUNNING", "file": "references/document-model/task-state/running.md", "summary": "Open when looking up RUNNING in InDesign.", "keywords": ["RUNNING"]},
+  {"topic": "WAITING", "file": "references/document-model/task-state/waiting.md", "summary": "Open when looking up WAITING in InDesign.", "keywords": ["WAITING"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

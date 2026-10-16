@@ -1,0 +1,27 @@
+# InCopy — Editing Text
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Editing text — Add column, frame, and page breaks in InCopy. [Editing text — Add column, frame, and page breaks](editing-text-add-column-frame-and-page-breaks.md).
+- Open when looking up Editing text — Adjust spacing automatically when pasting text in InCopy. [Editing text — Adjust spacing automatically when pasting text](editing-text-adjust-spacing-automatically-when-pasting-text.md).
+- Open when looking up Editing text — Apply conditions to text in InCopy. [Editing text — Apply conditions to text](editing-text-apply-conditions-to-text.md).
+- Open when looking up Editing text — Apply grid format to text in InCopy. [Editing text — Apply grid format to text](editing-text-apply-grid-format-to-text.md).
+- Open when looking up Editing text — Break options in InCopy. [Editing text — Break options](editing-text-break-options.md).
+- Open when looking up Editing text — Change the text direction in InCopy. [Editing text — Change the text direction](editing-text-change-the-text-direction.md).
+- Open when looking up Editing text — Change what triple-clicking does in InCopy. [Editing text — Change what triple-clicking does](editing-text-change-what-triple-clicking-does.md).
+- Open when looking up Editing text — Create conditions in InCopy. [Editing text — Create conditions](editing-text-create-conditions.md).
+- Open when looking up Editing text — Drag and drop text in InCopy. [Editing text — Drag and drop text](editing-text-drag-and-drop-text.md).
+- Open when looking up Editing text — Edit text on a parent page in InCopy. [Editing text — Edit text on a parent page](editing-text-edit-text-on-a-parent-page.md).
+- Open when looking up Editing text — Find and change conditional text in InCopy. [Editing text — Find and change conditional text](editing-text-find-and-change-conditional-text.md).
+- Open when looking up Editing text — Jump to a position marker in InCopy. [Editing text — Jump to a position marker](editing-text-jump-to-a-position-marker.md).
+- Open when looking up Editing text — Manage conditions in InCopy. [Editing text — Manage conditions](editing-text-manage-conditions.md).
+- Open when looking up Editing text — Paste text in InCopy. [Editing text — Paste text](editing-text-paste-text.md).
+- Open when looking up Editing text — Paste text from another application in InCopy. [Editing text — Paste text from another application](editing-text-paste-text-from-another-application.md).
+- Open when looking up Editing text — Paste text to a frame grid in InCopy. [Editing text — Paste text to a frame grid](editing-text-paste-text-to-a-frame-grid.md).
+- Open when looking up Editing text — Planning conditional documents in InCopy. [Editing text — Planning conditional documents](editing-text-planning-conditional-documents.md).
+- Open when looking up Editing text — Select text in a frame that is covered in InCopy. [Editing text — Select text in a frame that is covered](editing-text-select-text-in-a-frame-that-is-covered.md).
+- Open when looking up Editing text — Show or hide conditions in InCopy. [Editing text — Show or hide conditions](editing-text-show-or-hide-conditions.md).
+- Open when looking up Editing text — Transpose characters in InCopy. [Editing text — Transpose characters](editing-text-transpose-characters.md).
+- Open when looking up Editing text — Undo actions in InCopy. [Editing text — Undo actions](editing-text-undo-actions.md).
+- Open when looking up Editing text — Use condition sets in InCopy. [Editing text — Use condition sets](editing-text-use-condition-sets.md).
+- Open when looking up Editing text — Use conditional text in InCopy. [Editing text — Use conditional text](editing-text-use-conditional-text.md).
+- Open when looking up Editing text — View hidden characters in InCopy. [Editing text — View hidden characters](editing-text-view-hidden-characters.md).

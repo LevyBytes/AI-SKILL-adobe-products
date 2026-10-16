@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "DocumentPreviewMode", "file": "references/community-types/illustrator/document-preview-mode.md", "summary": "Open when looking up DocumentPreviewMode in Shared Adobe platform.", "keywords": ["DocumentPreviewMode"]},
+  {"topic": "DocumentTransparencyGrid", "file": "references/community-types/illustrator/document-transparency-grid.md", "summary": "Open when looking up DocumentTransparencyGrid in Shared Adobe platform.", "keywords": ["DocumentTransparencyGrid"]},
+  {"topic": "PerspectiveGridPlaneType", "file": "references/community-types/illustrator/perspective-grid-plane-type.md", "summary": "Open when looking up PerspectiveGridPlaneType in Shared Adobe platform.", "keywords": ["PerspectiveGridPlaneType"]},
+  {"topic": "View", "file": "references/community-types/illustrator/view.md", "summary": "Open when looking up View in Shared Adobe platform.", "keywords": ["View"]},
+  {"topic": "Views", "file": "references/community-types/illustrator/views.md", "summary": "Open when looking up Views in Shared Adobe platform.", "keywords": ["Views"]},
+  {"topic": "ViewType", "file": "references/community-types/illustrator/view-type.md", "summary": "Open when looking up ViewType in Shared Adobe platform.", "keywords": ["ViewType"]},
+  {"topic": "ScreenMode", "file": "references/community-types/illustrator/screen-mode.md", "summary": "Open when looking up ScreenMode in Shared Adobe platform.", "keywords": ["ScreenMode"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "**Content**", "file": "references/uxp/onboarding/content.md", "summary": "Open when looking up **Content** in Photoshop.", "keywords": ["**Content**"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

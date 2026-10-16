@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "MarkLineWeight", "file": "references/community-types/indesign/mark-line-weight.md", "summary": "Open when looking up MarkLineWeight in Shared Adobe platform.", "keywords": ["MarkLineWeight"]},
+  {"topic": "MarkTypes", "file": "references/community-types/indesign/mark-types.md", "summary": "Open when looking up MarkTypes in Shared Adobe platform.", "keywords": ["MarkTypes"]},
+  {"topic": "Screeening", "file": "references/community-types/indesign/screeening.md", "summary": "Open when looking up Screeening in Shared Adobe platform.", "keywords": ["Screeening"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

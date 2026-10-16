@@ -1,0 +1,26 @@
+# InDesign — PublishExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up coverImageFile in InDesign. [coverImageFile](cover-image-file.md).
+- Open when looking up coverPage in InDesign. [coverPage](cover-page.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up gifOptionsPalette in InDesign. [gifOptionsPalette](gif-options-palette.md).
+- Open when looking up imageConversion in InDesign. [imageConversion](image-conversion.md).
+- Open when looking up imageExportResolution in InDesign. [imageExportResolution](image-export-resolution.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up jpegOptionsQuality in InDesign. [jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up publishCover in InDesign. [publishCover](publish-cover.md).
+- Open when looking up publishDescription in InDesign. [publishDescription](publish-description.md).
+- Open when looking up publishFileName in InDesign. [publishFileName](publish-file-name.md).
+- Open when looking up publishFormat in InDesign. [publishFormat](publish-format.md).
+- Open when looking up publishPageRange in InDesign. [publishPageRange](publish-page-range.md).
+- Open when looking up publishPageRangeFormat in InDesign. [publishPageRangeFormat](publish-page-range-format.md).
+- Open when looking up publishPdf in InDesign. [publishPdf](publish-pdf.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

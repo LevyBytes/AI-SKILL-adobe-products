@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Delete", "file": "references/desktop/layers/transform-and-manipulate-layers/clean-up-image-layers/delete.md", "summary": "Open when looking up Delete in Photoshop.", "keywords": ["Delete"]},
+  {"topic": "Rename", "file": "references/desktop/layers/transform-and-manipulate-layers/clean-up-image-layers/rename.md", "summary": "Open when looking up Rename in Photoshop.", "keywords": ["Rename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

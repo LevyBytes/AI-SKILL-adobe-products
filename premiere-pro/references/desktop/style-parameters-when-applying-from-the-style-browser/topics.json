@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "All parameters from the Align and Transform section (captions only)", "file": "references/desktop/style-parameters-when-applying-from-the-style-browser/caption-style-alignment-and-transforms.md", "summary": "Open when looking up All parameters from the Align and Transform section (captions only) in Premiere Pro.", "keywords": ["All parameters from the Align and Transform section (captions only)"]},
+  {"topic": "Style parameters in Adobe Premiere.", "file": "references/desktop/style-parameters-when-applying-from-the-style-browser/style-parameters-in-adobe-premiere.md", "summary": "Open when looking up Style parameters in Adobe Premiere. in Premiere Pro.", "keywords": ["Style parameters in Adobe Premiere."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Delete a bookmark", "file": "references/desktop/indexes-and-references/references-and-bookmarks/rename-or-delete-bookmarks/delete-a-bookmark.md", "summary": "Open when looking up Delete a bookmark in InDesign.", "keywords": ["Delete a bookmark"]},
+  {"topic": "Rename a bookmark", "file": "references/desktop/indexes-and-references/references-and-bookmarks/rename-or-delete-bookmarks/rename-a-bookmark.md", "summary": "Open when looking up Rename a bookmark in InDesign.", "keywords": ["Rename a bookmark"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

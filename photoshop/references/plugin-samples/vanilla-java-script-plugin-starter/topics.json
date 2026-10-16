@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Loading in Photoshop", "file": "references/plugin-samples/vanilla-java-script-plugin-starter/loading-in-photoshop.md", "summary": "Open when looking up Loading in Photoshop in Photoshop.", "keywords": ["Loading in Photoshop"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

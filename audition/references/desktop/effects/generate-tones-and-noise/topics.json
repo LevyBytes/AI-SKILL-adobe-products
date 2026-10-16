@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Generate Noise", "file": "references/desktop/effects/generate-tones-and-noise/generate-noise.md", "summary": "Open when looking up Generate Noise in Audition.", "keywords": ["Generate Noise"]},
+  {"topic": "Generate Speech", "file": "references/desktop/effects/generate-tones-and-noise/generate-speech.md", "summary": "Open when looking up Generate Speech in Audition.", "keywords": ["Generate Speech"]},
+  {"topic": "Generate Tones", "file": "references/desktop/effects/generate-tones-and-noise/generate-tones.md", "summary": "Open when looking up Generate Tones in Audition.", "keywords": ["Generate Tones"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

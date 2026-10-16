@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Change smart guide appearance", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/use-smart-guides/change-smart-guide-appearance.md", "summary": "Open when looking up Change smart guide appearance in InDesign.", "keywords": ["Change smart guide appearance"]},
+  {"topic": "Configure smart guide categories", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/use-smart-guides/configure-smart-guide-categories.md", "summary": "Open when looking up Configure smart guide categories in InDesign.", "keywords": ["Configure smart guide categories"]},
+  {"topic": "Turn smart guides on or off", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/use-smart-guides/turn-smart-guides-on-or-off.md", "summary": "Open when looking up Turn smart guides on or off in InDesign.", "keywords": ["Turn smart guides on or off"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

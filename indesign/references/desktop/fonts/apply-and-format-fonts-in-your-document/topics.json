@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Apply a font to text", "file": "references/desktop/fonts/apply-and-format-fonts-in-your-document/apply-a-font-to-text.md", "summary": "Open when looking up Apply a font to text in InDesign.", "keywords": ["Apply a font to text"]},
+  {"topic": "Apply OpenType font attributes", "file": "references/desktop/fonts/apply-and-format-fonts-in-your-document/apply-open-type-font-attributes.md", "summary": "Open when looking up Apply OpenType font attributes in InDesign.", "keywords": ["Apply OpenType font attributes"]},
+  {"topic": "Automatically map Optical Size in variable fonts", "file": "references/desktop/fonts/apply-and-format-fonts-in-your-document/automatically-map-optical-size-in-variable-fonts.md", "summary": "Open when looking up Automatically map Optical Size in variable fonts in InDesign.", "keywords": ["Automatically map Optical Size in variable fonts"]},
+  {"topic": "Make text superscript or subscript", "file": "references/desktop/fonts/apply-and-format-fonts-in-your-document/make-text-superscript-or-subscript.md", "summary": "Open when looking up Make text superscript or subscript in InDesign.", "keywords": ["Make text superscript or subscript"]},
+  {"topic": "Specify a typeface size", "file": "references/desktop/fonts/apply-and-format-fonts-in-your-document/specify-a-typeface-size.md", "summary": "Open when looking up Specify a typeface size in InDesign.", "keywords": ["Specify a typeface size"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

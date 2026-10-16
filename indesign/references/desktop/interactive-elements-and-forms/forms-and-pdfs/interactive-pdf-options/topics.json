@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Advanced tab options", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/interactive-pdf-options/advanced-tab-options.md", "summary": "Open when looking up Advanced tab options in InDesign.", "keywords": ["Advanced tab options"]},
+  {"topic": "Compression tab options", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/interactive-pdf-options/compression-tab-options.md", "summary": "Open when looking up Compression tab options in InDesign.", "keywords": ["Compression tab options"]},
+  {"topic": "General tab options", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/interactive-pdf-options/general-tab-options.md", "summary": "Open when looking up General tab options in InDesign.", "keywords": ["General tab options"]},
+  {"topic": "JPEG Quality", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/interactive-pdf-options/jpeg-quality.md", "summary": "Open when looking up JPEG Quality in InDesign.", "keywords": ["JPEG Quality"]},
+  {"topic": "Pages and layout", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/interactive-pdf-options/pages-and-layout.md", "summary": "Open when looking up Pages and layout in InDesign.", "keywords": ["Pages and layout"]},
+  {"topic": "Password protection", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/interactive-pdf-options/password-protection.md", "summary": "Open when looking up Password protection in InDesign.", "keywords": ["Password protection"]},
+  {"topic": "Security tab options", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/interactive-pdf-options/security-tab-options.md", "summary": "Open when looking up Security tab options in InDesign.", "keywords": ["Security tab options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

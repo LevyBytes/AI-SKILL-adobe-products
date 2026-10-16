@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Symbols.add()", "file": "references/scripting/symbols/add.md", "summary": "Open when looking up Symbols.add() in Illustrator.", "keywords": ["Symbols.add()"]},
+  {"topic": "Symbols.getByName()", "file": "references/scripting/symbols/get-by-name.md", "summary": "Open when looking up Symbols.getByName() in Illustrator.", "keywords": ["Symbols.getByName()"]},
+  {"topic": "Symbols.index()", "file": "references/scripting/symbols/index.md", "summary": "Open when looking up Symbols.index() in Illustrator.", "keywords": ["Symbols.index()"]},
+  {"topic": "Symbols.length", "file": "references/scripting/symbols/length.md", "summary": "Open when looking up Symbols.length in Illustrator.", "keywords": ["Symbols.length"]},
+  {"topic": "Symbols.parent", "file": "references/scripting/symbols/parent.md", "summary": "Open when looking up Symbols.parent in Illustrator.", "keywords": ["Symbols.parent"]},
+  {"topic": "Symbols.removeAll()", "file": "references/scripting/symbols/remove-all.md", "summary": "Open when looking up Symbols.removeAll() in Illustrator.", "keywords": ["Symbols.removeAll()"]},
+  {"topic": "Symbols.typename", "file": "references/scripting/symbols/typename.md", "summary": "Open when looking up Symbols.typename in Illustrator.", "keywords": ["Symbols.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

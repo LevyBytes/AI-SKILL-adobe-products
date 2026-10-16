@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "PNG chart", "file": "references/cloud-services/png-output-seconds/png-chart.md", "summary": "Open when looking up PNG chart in Photoshop.", "keywords": ["PNG chart"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

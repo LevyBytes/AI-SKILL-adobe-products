@@ -1,0 +1,43 @@
+# Shared Adobe platform — LanguageAndRegion
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up LanguageAndRegion declaration in Shared Adobe platform. [LanguageAndRegion declaration](declaration.md).
+- Open when looking up LanguageAndRegion.ALBANIA_ALBANIAN in Shared Adobe platform. [LanguageAndRegion.ALBANIA_ALBANIAN](albaniaalbanian.md).
+- Open when looking up LanguageAndRegion.BELARUS_BELARUSIAN in Shared Adobe platform. [LanguageAndRegion.BELARUS_BELARUSIAN](belarusbelarusian.md).
+- Open when looking up LanguageAndRegion.BRAZIL_PORTUGUESE in Shared Adobe platform. [LanguageAndRegion.BRAZIL_PORTUGUESE](brazilportuguese.md).
+- Open when looking up LanguageAndRegion.BULGARIA_BULGARIAN in Shared Adobe platform. [LanguageAndRegion.BULGARIA_BULGARIAN](bulgariabulgarian.md).
+- Open when looking up LanguageAndRegion.CROATIA_CROATIAN in Shared Adobe platform. [LanguageAndRegion.CROATIA_CROATIAN](croatiacroatian.md).
+- Open when looking up LanguageAndRegion.CZECH_REPUBLIC_CZECH in Shared Adobe platform. [LanguageAndRegion.CZECH_REPUBLIC_CZECH](czechrepublicczech.md).
+- Open when looking up LanguageAndRegion.DENMARK_DANISH in Shared Adobe platform. [LanguageAndRegion.DENMARK_DANISH](denmarkdanish.md).
+- Open when looking up LanguageAndRegion.ESTONIA_ESTONIAN in Shared Adobe platform. [LanguageAndRegion.ESTONIA_ESTONIAN](estoniaestonian.md).
+- Open when looking up LanguageAndRegion.FINLAND_FINNISH in Shared Adobe platform. [LanguageAndRegion.FINLAND_FINNISH](finlandfinnish.md).
+- Open when looking up LanguageAndRegion.FRANCE_FRENCH in Shared Adobe platform. [LanguageAndRegion.FRANCE_FRENCH](francefrench.md).
+- Open when looking up LanguageAndRegion.GERMANY_GERMAN in Shared Adobe platform. [LanguageAndRegion.GERMANY_GERMAN](germanygerman.md).
+- Open when looking up LanguageAndRegion.GREECE_GREEK in Shared Adobe platform. [LanguageAndRegion.GREECE_GREEK](greecegreek.md).
+- Open when looking up LanguageAndRegion.HUNGARY_HUNGARIAN in Shared Adobe platform. [LanguageAndRegion.HUNGARY_HUNGARIAN](hungaryhungarian.md).
+- Open when looking up LanguageAndRegion.INDIA_TAMIL in Shared Adobe platform. [LanguageAndRegion.INDIA_TAMIL](indiatamil.md).
+- Open when looking up LanguageAndRegion.INDIC in Shared Adobe platform. [LanguageAndRegion.INDIC](indic.md).
+- Open when looking up LanguageAndRegion.ISRAEL_HEBREW in Shared Adobe platform. [LanguageAndRegion.ISRAEL_HEBREW](israelhebrew.md).
+- Open when looking up LanguageAndRegion.ITALY_ITALIAN in Shared Adobe platform. [LanguageAndRegion.ITALY_ITALIAN](italyitalian.md).
+- Open when looking up LanguageAndRegion.JAPAN_JAPANESE in Shared Adobe platform. [LanguageAndRegion.JAPAN_JAPANESE](japanjapanese.md).
+- Open when looking up LanguageAndRegion.LATVIA_LATVIAN in Shared Adobe platform. [LanguageAndRegion.LATVIA_LATVIAN](latvialatvian.md).
+- Open when looking up LanguageAndRegion.LITUANIA_LITHUANIAN in Shared Adobe platform. [LanguageAndRegion.LITUANIA_LITHUANIAN](lituanialithuanian.md).
+- Open when looking up LanguageAndRegion.NETHERLANDS_DUTCH in Shared Adobe platform. [LanguageAndRegion.NETHERLANDS_DUTCH](netherlandsdutch.md).
+- Open when looking up LanguageAndRegion.NORWAY_NORWEGIAN in Shared Adobe platform. [LanguageAndRegion.NORWAY_NORWEGIAN](norwaynorwegian.md).
+- Open when looking up LanguageAndRegion.POLAND_POLISH in Shared Adobe platform. [LanguageAndRegion.POLAND_POLISH](polandpolish.md).
+- Open when looking up LanguageAndRegion.REPUBLIC_OF_KOREA_KOREAN in Shared Adobe platform. [LanguageAndRegion.REPUBLIC_OF_KOREA_KOREAN](republicofkoreakorean.md).
+- Open when looking up LanguageAndRegion.ROMANIA_ROMANIAN in Shared Adobe platform. [LanguageAndRegion.ROMANIA_ROMANIAN](romaniaromanian.md).
+- Open when looking up LanguageAndRegion.RUSSIAN_FEDERATION_RUSSIAN in Shared Adobe platform. [LanguageAndRegion.RUSSIAN_FEDERATION_RUSSIAN](russianfederationrussian.md).
+- Open when looking up LanguageAndRegion.SIMPLIFIED_CHINESE in Shared Adobe platform. [LanguageAndRegion.SIMPLIFIED_CHINESE](simplifiedchinese.md).
+- Open when looking up LanguageAndRegion.SLOVAKIA_SLOVAK in Shared Adobe platform. [LanguageAndRegion.SLOVAKIA_SLOVAK](slovakiaslovak.md).
+- Open when looking up LanguageAndRegion.SLOVENIA_SLOVENIAN in Shared Adobe platform. [LanguageAndRegion.SLOVENIA_SLOVENIAN](sloveniaslovenian.md).
+- Open when looking up LanguageAndRegion.SPAIN_SPANISH in Shared Adobe platform. [LanguageAndRegion.SPAIN_SPANISH](spainspanish.md).
+- Open when looking up LanguageAndRegion.STANDARD_ARABIC in Shared Adobe platform. [LanguageAndRegion.STANDARD_ARABIC](standardarabic.md).
+- Open when looking up LanguageAndRegion.SWEDEN_SWEDISH in Shared Adobe platform. [LanguageAndRegion.SWEDEN_SWEDISH](swedenswedish.md).
+- Open when looking up LanguageAndRegion.THAILAND_THAI in Shared Adobe platform. [LanguageAndRegion.THAILAND_THAI](thailandthai.md).
+- Open when looking up LanguageAndRegion.TRADITIONAL_CHINESE in Shared Adobe platform. [LanguageAndRegion.TRADITIONAL_CHINESE](traditionalchinese.md).
+- Open when looking up LanguageAndRegion.TURKEY_TURKISH in Shared Adobe platform. [LanguageAndRegion.TURKEY_TURKISH](turkeyturkish.md).
+- Open when looking up LanguageAndRegion.UKRAINE_UKRAINIAN in Shared Adobe platform. [LanguageAndRegion.UKRAINE_UKRAINIAN](ukraineukrainian.md).
+- Open when looking up LanguageAndRegion.UNITED_KINGDOM_ENGLISH in Shared Adobe platform. [LanguageAndRegion.UNITED_KINGDOM_ENGLISH](unitedkingdomenglish.md).
+- Open when looking up LanguageAndRegion.UNITED_STATES_ENGLISH in Shared Adobe platform. [LanguageAndRegion.UNITED_STATES_ENGLISH](unitedstatesenglish.md).
+- Open when looking up LanguageAndRegion.VIETNAM_VIETNAMESE in Shared Adobe platform. [LanguageAndRegion.VIETNAM_VIETNAMESE](vietnamvietnamese.md).

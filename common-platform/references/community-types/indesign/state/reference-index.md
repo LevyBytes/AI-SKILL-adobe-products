@@ -1,0 +1,31 @@
+# Shared Adobe platform — State
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up State declaration in Shared Adobe platform. [State declaration](declaration.md).
+- Open when looking up State event listeners in Shared Adobe platform. [State event listeners](event-listeners.md).
+- Open when looking up State identity and parent in Shared Adobe platform. [State identity and parent](identity-and-parent.md).
+- Open when looking up State object lifecycle in Shared Adobe platform. [State object lifecycle](object-lifecycle.md).
+- Open when looking up State object resolution in Shared Adobe platform. [State object resolution](object-resolution.md).
+- Open when looking up State.active in Shared Adobe platform. [State.active](active.md).
+- Open when looking up State.addItemsToState in Shared Adobe platform. [State.addItemsToState](add-items-to-state.md).
+- Open when looking up State.enabled in Shared Adobe platform. [State.enabled](enabled.md).
+- Open when looking up State.endnoteTextFrames in Shared Adobe platform. [State.endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up State.epss in Shared Adobe platform. [State.epss](epss.md).
+- Open when looking up State.epstexts in Shared Adobe platform. [State.epstexts](epstexts.md).
+- Open when looking up State.graphicLines in Shared Adobe platform. [State.graphicLines](graphic-lines.md).
+- Open when looking up State.graphics in Shared Adobe platform. [State.graphics](graphics.md).
+- Open when looking up State.groups in Shared Adobe platform. [State.groups](groups.md).
+- Open when looking up State.images in Shared Adobe platform. [State.images](images.md).
+- Open when looking up State.ovals in Shared Adobe platform. [State.ovals](ovals.md).
+- Open when looking up State.pageItems in Shared Adobe platform. [State.pageItems](page-items.md).
+- Open when looking up State.pdfs in Shared Adobe platform. [State.pdfs](pdfs.md).
+- Open when looking up State.picts in Shared Adobe platform. [State.picts](picts.md).
+- Open when looking up State.polygons in Shared Adobe platform. [State.polygons](polygons.md).
+- Open when looking up State.properties in Shared Adobe platform. [State.properties](properties.md).
+- Open when looking up State.rectangles in Shared Adobe platform. [State.rectangles](rectangles.md).
+- Open when looking up State.releaseAsObject in Shared Adobe platform. [State.releaseAsObject](release-as-object.md).
+- Open when looking up State.splineItems in Shared Adobe platform. [State.splineItems](spline-items.md).
+- Open when looking up State.statetype in Shared Adobe platform. [State.statetype](statetype.md).
+- Open when looking up State.svgs in Shared Adobe platform. [State.svgs](svgs.md).
+- Open when looking up State.textFrames in Shared Adobe platform. [State.textFrames](text-frames.md).
+- Open when looking up State.wmfs in Shared Adobe platform. [State.wmfs](wmfs.md).

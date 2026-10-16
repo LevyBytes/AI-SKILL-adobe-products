@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Versioning", "file": "references/pdf-services/version-support-policy-public-api/versioning.md", "summary": "Open when looking up Versioning in Acrobat.", "keywords": ["Versioning"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

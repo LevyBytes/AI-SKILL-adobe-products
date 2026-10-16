@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "MIXEDINKMODEL", "file": "references/document-model/color-model/mixedinkmodel.md", "summary": "Open when looking up MIXEDINKMODEL in InDesign.", "keywords": ["MIXEDINKMODEL"]},
+  {"topic": "PROCESS", "file": "references/document-model/color-model/process.md", "summary": "Open when looking up PROCESS in InDesign.", "keywords": ["PROCESS"]},
+  {"topic": "REGISTRATION", "file": "references/document-model/color-model/registration.md", "summary": "Open when looking up REGISTRATION in InDesign.", "keywords": ["REGISTRATION"]},
+  {"topic": "SPOT", "file": "references/document-model/color-model/spot.md", "summary": "Open when looking up SPOT in InDesign.", "keywords": ["SPOT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,24 @@
+# Photoshop — Set up toolbars and panels
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Create tool presets in Photoshop. [Create tool presets](create-tool-presets.md).
+- Open when looking up Create tool presets in Photoshop. [Create tool presets references](create-tool-presets/reference-index.md).
+- Open when looking up Customize toolbar in Photoshop. [Customize toolbar](customize-toolbar.md).
+- Open when looking up History panel settings in Photoshop. [History panel settings](history-panel-settings.md).
+- Open when looking up History panel settings in Photoshop. [History panel settings references](history-panel-settings/reference-index.md).
+- Open when looking up Manage image states in Photoshop. [Manage image states](manage-image-states.md).
+- Open when looking up Manage image states in Photoshop. [Manage image states references](manage-image-states/reference-index.md).
+- Open when looking up Paint with image states from the History panel in Photoshop. [Paint with image states from the History panel](paint-with-image-states-from-the-history-panel.md).
+- Open when looking up Restore parts of an image to a previous state in Photoshop. [Restore parts of an image to a previous state](restore-parts-of-an-image-to-a-previous-state.md).
+- Open when looking up Restore parts of an image to a previous state in Photoshop. [Restore parts of an image to a previous state references](restore-parts-of-an-image-to-a-previous-state/reference-index.md).
+- Open when looking up Set History Log preferences in Photoshop. [Set History Log preferences](set-history-log-preferences.md).
+- Open when looking up Set History Log preferences in Photoshop. [Set History Log preferences references](set-history-log-preferences/reference-index.md).
+- Open when looking up Tooltips overview in Photoshop. [Tooltips overview](tooltips-overview.md).
+- Open when looking up Tooltips overview in Photoshop. [Tooltips overview references](tooltips-overview/reference-index.md).
+- Open when looking up Use snapshots in the History panel in Photoshop. [Use snapshots in the History panel](use-snapshots-in-the-history-panel.md).
+- Open when looking up Use snapshots in the History panel in Photoshop. [Use snapshots in the History panel references](use-snapshots-in-the-history-panel/reference-index.md).
+- Open when looking up Use spring-loaded shortcuts in Photoshop. [Use spring-loaded shortcuts](use-spring-loaded-shortcuts.md).
+- Open when looking up Use spring-loaded shortcuts in Photoshop. [Use spring-loaded shortcuts references](use-spring-loaded-shortcuts/reference-index.md).
+- Open when looking up Use Undo and Redo commands in Photoshop. [Use Undo and Redo commands](use-undo-and-redo-commands.md).
+- Open when looking up Use Undo and Redo commands in Photoshop. [Use Undo and Redo commands references](use-undo-and-redo-commands/reference-index.md).
+- Open when looking up View history logs in Photoshop. [View history logs](view-history-logs.md).

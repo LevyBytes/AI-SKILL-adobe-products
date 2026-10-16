@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "TableStyle.spaceAfter", "file": "references/community-types/indesign/table-style/space-after.md", "summary": "Open when looking up TableStyle.spaceAfter in Shared Adobe platform.", "keywords": ["TableStyle.spaceAfter"]},
+  {"topic": "TableStyle.spaceBefore", "file": "references/community-types/indesign/table-style/space-before.md", "summary": "Open when looking up TableStyle.spaceBefore in Shared Adobe platform.", "keywords": ["TableStyle.spaceBefore"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

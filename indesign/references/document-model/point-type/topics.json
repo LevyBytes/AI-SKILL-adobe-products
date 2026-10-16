@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CORNER", "file": "references/document-model/point-type/corner.md", "summary": "Open when looking up CORNER in InDesign.", "keywords": ["CORNER"]},
+  {"topic": "PLAIN", "file": "references/document-model/point-type/plain.md", "summary": "Open when looking up PLAIN in InDesign.", "keywords": ["PLAIN"]},
+  {"topic": "SMOOTH", "file": "references/document-model/point-type/smooth.md", "summary": "Open when looking up SMOOTH in InDesign.", "keywords": ["SMOOTH"]},
+  {"topic": "SYMMETRICAL", "file": "references/document-model/point-type/symmetrical.md", "summary": "Open when looking up SYMMETRICAL in InDesign.", "keywords": ["SYMMETRICAL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

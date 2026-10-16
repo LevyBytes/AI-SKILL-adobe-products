@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "XMLAttribute declaration", "file": "references/community-types/indesign/xml-attribute/declaration.md", "summary": "Open when looking up XMLAttribute declaration in Shared Adobe platform.", "keywords": ["XMLAttribute declaration"]},
+  {"topic": "XMLAttribute event listeners", "file": "references/community-types/indesign/xml-attribute/event-listeners.md", "summary": "Open when looking up XMLAttribute event listeners in Shared Adobe platform.", "keywords": ["XMLAttribute event listeners"]},
+  {"topic": "XMLAttribute identity and parent", "file": "references/community-types/indesign/xml-attribute/identity-and-parent.md", "summary": "Open when looking up XMLAttribute identity and parent in Shared Adobe platform.", "keywords": ["XMLAttribute identity and parent"]},
+  {"topic": "XMLAttribute object resolution", "file": "references/community-types/indesign/xml-attribute/object-resolution.md", "summary": "Open when looking up XMLAttribute object resolution in Shared Adobe platform.", "keywords": ["XMLAttribute object resolution"]},
+  {"topic": "XMLAttribute.convertToElement", "file": "references/community-types/indesign/xml-attribute/convert-to-element.md", "summary": "Open when looking up XMLAttribute.convertToElement in Shared Adobe platform.", "keywords": ["XMLAttribute.convertToElement"]},
+  {"topic": "XMLAttribute.properties", "file": "references/community-types/indesign/xml-attribute/properties.md", "summary": "Open when looking up XMLAttribute.properties in Shared Adobe platform.", "keywords": ["XMLAttribute.properties"]},
+  {"topic": "XMLAttribute.remove", "file": "references/community-types/indesign/xml-attribute/remove.md", "summary": "Open when looking up XMLAttribute.remove in Shared Adobe platform.", "keywords": ["XMLAttribute.remove"]},
+  {"topic": "XMLAttribute.select", "file": "references/community-types/indesign/xml-attribute/select.md", "summary": "Open when looking up XMLAttribute.select in Shared Adobe platform.", "keywords": ["XMLAttribute.select"]},
+  {"topic": "XMLAttribute.value", "file": "references/community-types/indesign/xml-attribute/value.md", "summary": "Open when looking up XMLAttribute.value in Shared Adobe platform.", "keywords": ["XMLAttribute.value"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

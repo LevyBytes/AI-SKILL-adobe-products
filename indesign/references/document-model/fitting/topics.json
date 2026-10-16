@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CONTENT_AWARE_FITTING", "file": "references/document-model/fitting/contentawarefitting.md", "summary": "Open when looking up CONTENT_AWARE_FITTING in InDesign.", "keywords": ["CONTENT_AWARE_FITTING"]},
+  {"topic": "FILL_PROPORTIONAL", "file": "references/document-model/fitting/fillproportional.md", "summary": "Open when looking up FILL_PROPORTIONAL in InDesign.", "keywords": ["FILL_PROPORTIONAL"]},
+  {"topic": "FIT_CONTENT_TO_FRAME", "file": "references/document-model/fitting/fitcontenttoframe.md", "summary": "Open when looking up FIT_CONTENT_TO_FRAME in InDesign.", "keywords": ["FIT_CONTENT_TO_FRAME"]},
+  {"topic": "FIT_FRAME_TO_CONTENT", "file": "references/document-model/fitting/fitframetocontent.md", "summary": "Open when looking up FIT_FRAME_TO_CONTENT in InDesign.", "keywords": ["FIT_FRAME_TO_CONTENT"]},
+  {"topic": "HONOUR_EXISTING_STYLE", "file": "references/document-model/fitting/honourexistingstyle.md", "summary": "Open when looking up HONOUR_EXISTING_STYLE in InDesign.", "keywords": ["HONOUR_EXISTING_STYLE"]},
+  {"topic": "PRESERVE_SIZES", "file": "references/document-model/fitting/preservesizes.md", "summary": "Open when looking up PRESERVE_SIZES in InDesign.", "keywords": ["PRESERVE_SIZES"]},
+  {"topic": "PROPORTIONAL", "file": "references/document-model/fitting/proportional.md", "summary": "Open when looking up PROPORTIONAL in InDesign.", "keywords": ["PROPORTIONAL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

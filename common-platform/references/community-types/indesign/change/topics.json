@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Change declaration", "file": "references/community-types/indesign/change/declaration.md", "summary": "Open when looking up Change declaration in Shared Adobe platform.", "keywords": ["Change declaration"]},
+  {"topic": "Change event listeners", "file": "references/community-types/indesign/change/event-listeners.md", "summary": "Open when looking up Change event listeners in Shared Adobe platform.", "keywords": ["Change event listeners"]},
+  {"topic": "Change identity and parent", "file": "references/community-types/indesign/change/identity-and-parent.md", "summary": "Open when looking up Change identity and parent in Shared Adobe platform.", "keywords": ["Change identity and parent"]},
+  {"topic": "Change object resolution", "file": "references/community-types/indesign/change/object-resolution.md", "summary": "Open when looking up Change object resolution in Shared Adobe platform.", "keywords": ["Change object resolution"]},
+  {"topic": "Change.accept", "file": "references/community-types/indesign/change/accept.md", "summary": "Open when looking up Change.accept in Shared Adobe platform.", "keywords": ["Change.accept"]},
+  {"topic": "Change.changeType", "file": "references/community-types/indesign/change/change-type.md", "summary": "Open when looking up Change.changeType in Shared Adobe platform.", "keywords": ["Change.changeType"]},
+  {"topic": "Change.characters", "file": "references/community-types/indesign/change/characters.md", "summary": "Open when looking up Change.characters in Shared Adobe platform.", "keywords": ["Change.characters"]},
+  {"topic": "Change.date", "file": "references/community-types/indesign/change/date.md", "summary": "Open when looking up Change.date in Shared Adobe platform.", "keywords": ["Change.date"]},
+  {"topic": "Change.insertionPoints", "file": "references/community-types/indesign/change/insertion-points.md", "summary": "Open when looking up Change.insertionPoints in Shared Adobe platform.", "keywords": ["Change.insertionPoints"]},
+  {"topic": "Change.lines", "file": "references/community-types/indesign/change/lines.md", "summary": "Open when looking up Change.lines in Shared Adobe platform.", "keywords": ["Change.lines"]},
+  {"topic": "Change.paragraphs", "file": "references/community-types/indesign/change/paragraphs.md", "summary": "Open when looking up Change.paragraphs in Shared Adobe platform.", "keywords": ["Change.paragraphs"]},
+  {"topic": "Change.properties", "file": "references/community-types/indesign/change/properties.md", "summary": "Open when looking up Change.properties in Shared Adobe platform.", "keywords": ["Change.properties"]},
+  {"topic": "Change.reject", "file": "references/community-types/indesign/change/reject.md", "summary": "Open when looking up Change.reject in Shared Adobe platform.", "keywords": ["Change.reject"]},
+  {"topic": "Change.storyOffset", "file": "references/community-types/indesign/change/story-offset.md", "summary": "Open when looking up Change.storyOffset in Shared Adobe platform.", "keywords": ["Change.storyOffset"]},
+  {"topic": "Change.textColumns", "file": "references/community-types/indesign/change/text-columns.md", "summary": "Open when looking up Change.textColumns in Shared Adobe platform.", "keywords": ["Change.textColumns"]},
+  {"topic": "Change.texts", "file": "references/community-types/indesign/change/texts.md", "summary": "Open when looking up Change.texts in Shared Adobe platform.", "keywords": ["Change.texts"]},
+  {"topic": "Change.textStyleRanges", "file": "references/community-types/indesign/change/text-style-ranges.md", "summary": "Open when looking up Change.textStyleRanges in Shared Adobe platform.", "keywords": ["Change.textStyleRanges"]},
+  {"topic": "Change.textVariableInstances", "file": "references/community-types/indesign/change/text-variable-instances.md", "summary": "Open when looking up Change.textVariableInstances in Shared Adobe platform.", "keywords": ["Change.textVariableInstances"]},
+  {"topic": "Change.userName", "file": "references/community-types/indesign/change/user-name.md", "summary": "Open when looking up Change.userName in Shared Adobe platform.", "keywords": ["Change.userName"]},
+  {"topic": "Change.words", "file": "references/community-types/indesign/change/words.md", "summary": "Open when looking up Change.words in Shared Adobe platform.", "keywords": ["Change.words"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

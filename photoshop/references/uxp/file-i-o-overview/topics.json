@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "File I/O — Secure Storage", "file": "references/uxp/file-i-o-overview/file-i-o-secure-storage.md", "summary": "Open when looking up File I/O — Secure Storage in Photoshop.", "keywords": ["File I/O — Secure Storage"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Creating a Smart Object", "file": "references/cloud-services/getting-started-with-smart-objects/creating-a-smart-object.md", "summary": "Open when looking up Creating a Smart Object in Photoshop.", "keywords": ["Creating a Smart Object"]},
+  {"topic": "Known limitations", "file": "references/cloud-services/getting-started-with-smart-objects/known-limitations.md", "summary": "Open when looking up Known limitations in Photoshop.", "keywords": ["Known limitations"]},
+  {"topic": "Replacing the image used by a smart object layer", "file": "references/cloud-services/getting-started-with-smart-objects/replacing-the-image-used-by-a-smart-object-layer.md", "summary": "Open when looking up Replacing the image used by a smart object layer in Photoshop.", "keywords": ["Replacing the image used by a smart object layer"]},
+  {"topic": "Updating a layer's Smart Object", "file": "references/cloud-services/getting-started-with-smart-objects/updating-a-layer-s-smart-object.md", "summary": "Open when looking up Updating a layer's Smart Object in Photoshop.", "keywords": ["Updating a layer's Smart Object"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

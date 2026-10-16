@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "Behance", "file": "references/desktop/encoding-and-exporting/publish-settings-in-adobe-media-encoder/behance.md", "summary": "Open when looking up Behance in Media Encoder.", "keywords": ["Behance"]},
+  {"topic": "Facebook", "file": "references/desktop/encoding-and-exporting/publish-settings-in-adobe-media-encoder/facebook.md", "summary": "Open when looking up Facebook in Media Encoder.", "keywords": ["Facebook"]},
+  {"topic": "FTP", "file": "references/desktop/encoding-and-exporting/publish-settings-in-adobe-media-encoder/ftp.md", "summary": "Open when looking up FTP in Media Encoder.", "keywords": ["FTP"]},
+  {"topic": "Vimeo", "file": "references/desktop/encoding-and-exporting/publish-settings-in-adobe-media-encoder/vimeo.md", "summary": "Open when looking up Vimeo in Media Encoder.", "keywords": ["Vimeo"]},
+  {"topic": "X", "file": "references/desktop/encoding-and-exporting/publish-settings-in-adobe-media-encoder/x.md", "summary": "Open when looking up X in Media Encoder.", "keywords": ["X"]},
+  {"topic": "YouTube", "file": "references/desktop/encoding-and-exporting/publish-settings-in-adobe-media-encoder/you-tube.md", "summary": "Open when looking up YouTube in Media Encoder.", "keywords": ["YouTube"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

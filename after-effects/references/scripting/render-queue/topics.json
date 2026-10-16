@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "RenderQueue object", "file": "references/scripting/render-queue/render-queue-object.md", "summary": "Open when looking up RenderQueue object in After Effects.", "keywords": ["RenderQueue object"]},
+  {"topic": "RenderQueue.canQueueInAME", "file": "references/scripting/render-queue/can-queue-in-ame.md", "summary": "Open when looking up RenderQueue.canQueueInAME in After Effects.", "keywords": ["RenderQueue.canQueueInAME"]},
+  {"topic": "RenderQueue.item()", "file": "references/scripting/render-queue/item.md", "summary": "Open when looking up RenderQueue.item() in After Effects.", "keywords": ["RenderQueue.item()"]},
+  {"topic": "RenderQueue.items", "file": "references/scripting/render-queue/items.md", "summary": "Open when looking up RenderQueue.items in After Effects.", "keywords": ["RenderQueue.items"]},
+  {"topic": "RenderQueue.numItems", "file": "references/scripting/render-queue/num-items.md", "summary": "Open when looking up RenderQueue.numItems in After Effects.", "keywords": ["RenderQueue.numItems"]},
+  {"topic": "RenderQueue.pauseRendering()", "file": "references/scripting/render-queue/pause-rendering.md", "summary": "Open when looking up RenderQueue.pauseRendering() in After Effects.", "keywords": ["RenderQueue.pauseRendering()"]},
+  {"topic": "RenderQueue.queueInAME()", "file": "references/scripting/render-queue/queue-in-ame.md", "summary": "Open when looking up RenderQueue.queueInAME() in After Effects.", "keywords": ["RenderQueue.queueInAME()"]},
+  {"topic": "RenderQueue.queueNotify", "file": "references/scripting/render-queue/queue-notify.md", "summary": "Open when looking up RenderQueue.queueNotify in After Effects.", "keywords": ["RenderQueue.queueNotify"]},
+  {"topic": "RenderQueue.render()", "file": "references/scripting/render-queue/render.md", "summary": "Open when looking up RenderQueue.render() in After Effects.", "keywords": ["RenderQueue.render()"]},
+  {"topic": "RenderQueue.rendering", "file": "references/scripting/render-queue/rendering.md", "summary": "Open when looking up RenderQueue.rendering in After Effects.", "keywords": ["RenderQueue.rendering"]},
+  {"topic": "RenderQueue.showWindow()", "file": "references/scripting/render-queue/show-window.md", "summary": "Open when looking up RenderQueue.showWindow() in After Effects.", "keywords": ["RenderQueue.showWindow()"]},
+  {"topic": "RenderQueue.stopRendering()", "file": "references/scripting/render-queue/stop-rendering.md", "summary": "Open when looking up RenderQueue.stopRendering() in After Effects.", "keywords": ["RenderQueue.stopRendering()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.allCellStyles", "file": "references/community-types/indesign/document/all-cell-styles.md", "summary": "Open when looking up Document.allCellStyles in Shared Adobe platform.", "keywords": ["Document.allCellStyles"]},
+  {"topic": "Document.allTableStyles", "file": "references/community-types/indesign/document/all-table-styles.md", "summary": "Open when looking up Document.allTableStyles in Shared Adobe platform.", "keywords": ["Document.allTableStyles"]},
+  {"topic": "Document.cellStyleGroups", "file": "references/community-types/indesign/document/cell-style-groups.md", "summary": "Open when looking up Document.cellStyleGroups in Shared Adobe platform.", "keywords": ["Document.cellStyleGroups"]},
+  {"topic": "Document.cellStyleMappings", "file": "references/community-types/indesign/document/cell-style-mappings.md", "summary": "Open when looking up Document.cellStyleMappings in Shared Adobe platform.", "keywords": ["Document.cellStyleMappings"]},
+  {"topic": "Document.cellStyles", "file": "references/community-types/indesign/document/cell-styles.md", "summary": "Open when looking up Document.cellStyles in Shared Adobe platform.", "keywords": ["Document.cellStyles"]},
+  {"topic": "Document.tableStyleGroups", "file": "references/community-types/indesign/document/table-style-groups.md", "summary": "Open when looking up Document.tableStyleGroups in Shared Adobe platform.", "keywords": ["Document.tableStyleGroups"]},
+  {"topic": "Document.tableStyleMappings", "file": "references/community-types/indesign/document/table-style-mappings.md", "summary": "Open when looking up Document.tableStyleMappings in Shared Adobe platform.", "keywords": ["Document.tableStyleMappings"]},
+  {"topic": "Document.tableStyles", "file": "references/community-types/indesign/document/table-styles.md", "summary": "Open when looking up Document.tableStyles in Shared Adobe platform.", "keywords": ["Document.tableStyles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

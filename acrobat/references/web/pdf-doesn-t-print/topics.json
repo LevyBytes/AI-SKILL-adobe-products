@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "List of driver pages for some manufacturers", "file": "references/web/pdf-doesn-t-print/list-of-driver-pages-for-some-manufacturers.md", "summary": "Open when looking up List of driver pages for some manufacturers in Acrobat.", "keywords": ["List of driver pages for some manufacturers"]},
+  {"topic": "Printer drivers not updated", "file": "references/web/pdf-doesn-t-print/printer-drivers-not-updated.md", "summary": "Open when looking up Printer drivers not updated in Acrobat.", "keywords": ["Printer drivers not updated"]},
+  {"topic": "Printer not connected", "file": "references/web/pdf-doesn-t-print/printer-not-connected.md", "summary": "Open when looking up Printer not connected in Acrobat.", "keywords": ["Printer not connected"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

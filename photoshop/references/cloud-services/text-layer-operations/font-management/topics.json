@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Font option field mapping", "file": "references/cloud-services/text-layer-operations/font-management/font-option-field-mapping.md", "summary": "Open when looking up Font option field mapping in Photoshop.", "keywords": ["Font option field mapping"]},
+  {"topic": "V1 font options", "file": "references/cloud-services/text-layer-operations/font-management/v1-font-options.md", "summary": "Open when looking up V1 font options in Photoshop.", "keywords": ["V1 font options"]},
+  {"topic": "V2 font options", "file": "references/cloud-services/text-layer-operations/font-management/v2-font-options.md", "summary": "Open when looking up V2 font options in Photoshop.", "keywords": ["V2 font options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

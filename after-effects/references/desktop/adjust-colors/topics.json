@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Color basics references", "file": "references/desktop/adjust-colors/color-basics/reference-index.md", "summary": "Open when looking up Color basics in After Effects.", "keywords": ["Color basics references"]},
+  {"topic": "Color management references", "file": "references/desktop/adjust-colors/color-management/reference-index.md", "summary": "Open when looking up Color management in After Effects.", "keywords": ["Color management references"]},
+  {"topic": "Enhanced hdr support references", "file": "references/desktop/adjust-colors/enhanced-hdr-support/reference-index.md", "summary": "Open when looking up Enhanced hdr support in After Effects.", "keywords": ["Enhanced hdr support references"]},
+  {"topic": "Hdr import and export references", "file": "references/desktop/adjust-colors/hdr-import-and-export/reference-index.md", "summary": "Open when looking up Hdr import and export in After Effects.", "keywords": ["Hdr import and export references"]},
+  {"topic": "Open color io and aces color management references", "file": "references/desktop/adjust-colors/open-color-io-and-aces-color-management/reference-index.md", "summary": "Open when looking up Open color io and aces color management in After Effects.", "keywords": ["Open color io and aces color management references"]},
+  {"topic": "Work with color correction effects references", "file": "references/desktop/adjust-colors/color-correction/reference-index.md", "summary": "Open when looking up Work with color correction effects in After Effects.", "keywords": ["Work with color correction effects references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

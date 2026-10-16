@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BEST_JOINS", "file": "references/document-model/stroke-order-types/bestjoins.md", "summary": "Open when looking up BEST_JOINS in InDesign.", "keywords": ["BEST_JOINS"]},
+  {"topic": "COLUMN_ON_TOP", "file": "references/document-model/stroke-order-types/columnontop.md", "summary": "Open when looking up COLUMN_ON_TOP in InDesign.", "keywords": ["COLUMN_ON_TOP"]},
+  {"topic": "INDESIGN_2_COMPATIBILITY", "file": "references/document-model/stroke-order-types/indesign2-compatibility.md", "summary": "Open when looking up INDESIGN_2_COMPATIBILITY in InDesign.", "keywords": ["INDESIGN_2_COMPATIBILITY"]},
+  {"topic": "ROW_ON_TOP", "file": "references/document-model/stroke-order-types/rowontop.md", "summary": "Open when looking up ROW_ON_TOP in InDesign.", "keywords": ["ROW_ON_TOP"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Eps post script level enum references", "file": "references/scripting/eps-post-script-level-enum/reference-index.md", "summary": "Open when looking up Eps post script level enum in Illustrator.", "keywords": ["Eps post script level enum references"]},
+  {"topic": "Eps preview references", "file": "references/scripting/eps-preview/reference-index.md", "summary": "Open when looking up Eps preview in Illustrator.", "keywords": ["Eps preview references"]},
+  {"topic": "Eps save options example references", "file": "references/scripting/eps-save-options-example/reference-index.md", "summary": "Open when looking up Eps save options example in Illustrator.", "keywords": ["Eps save options example references"]},
+  {"topic": "EPSSaveOptions", "file": "references/scripting/eps-save-options.md", "summary": "Open when looking up EPSSaveOptions in Illustrator.", "keywords": ["EPSSaveOptions"]},
+  {"topic": "EPSSaveOptions references", "file": "references/scripting/eps-save-options/reference-index.md", "summary": "Open when looking up EPSSaveOptions in Illustrator.", "keywords": ["EPSSaveOptions references"]},
+  {"topic": "OpenOptionsPhotoshop", "file": "references/scripting/open-options-photoshop.md", "summary": "Open when looking up OpenOptionsPhotoshop in Illustrator.", "keywords": ["OpenOptionsPhotoshop"]},
+  {"topic": "OpenOptionsPhotoshop references", "file": "references/scripting/open-options-photoshop/reference-index.md", "summary": "Open when looking up OpenOptionsPhotoshop in Illustrator.", "keywords": ["OpenOptionsPhotoshop references"]},
+  {"topic": "Pdf box type references", "file": "references/scripting/pdf-box-type/reference-index.md", "summary": "Open when looking up Pdf box type in Illustrator.", "keywords": ["Pdf box type references"]},
+  {"topic": "Pdf changes allowed enum references", "file": "references/scripting/pdf-changes-allowed-enum/reference-index.md", "summary": "Open when looking up Pdf changes allowed enum in Illustrator.", "keywords": ["Pdf changes allowed enum references"]},
+  {"topic": "Pdf compatibility references", "file": "references/scripting/pdf-compatibility/reference-index.md", "summary": "Open when looking up Pdf compatibility in Illustrator.", "keywords": ["Pdf compatibility references"]},
+  {"topic": "Pdf overprint references", "file": "references/scripting/pdf-overprint/reference-index.md", "summary": "Open when looking up Pdf overprint in Illustrator.", "keywords": ["Pdf overprint references"]},
+  {"topic": "Pdf print allowed enum references", "file": "references/scripting/pdf-print-allowed-enum/reference-index.md", "summary": "Open when looking up Pdf print allowed enum in Illustrator.", "keywords": ["Pdf print allowed enum references"]},
+  {"topic": "Pdf save options example references", "file": "references/scripting/pdf-save-options-example/reference-index.md", "summary": "Open when looking up Pdf save options example in Illustrator.", "keywords": ["Pdf save options example references"]},
+  {"topic": "PDFSaveOptions", "file": "references/scripting/pdf-save-options.md", "summary": "Open when looking up PDFSaveOptions in Illustrator.", "keywords": ["PDFSaveOptions"]},
+  {"topic": "PDFSaveOptions references", "file": "references/scripting/pdf-save-options/reference-index.md", "summary": "Open when looking up PDFSaveOptions in Illustrator.", "keywords": ["PDFSaveOptions references"]},
+  {"topic": "Pdf trim mark weight references", "file": "references/scripting/pdf-trim-mark-weight/reference-index.md", "summary": "Open when looking up Pdf trim mark weight in Illustrator.", "keywords": ["Pdf trim mark weight references"]},
+  {"topic": "Pdfx standard references", "file": "references/scripting/pdfx-standard/reference-index.md", "summary": "Open when looking up Pdfx standard in Illustrator.", "keywords": ["Pdfx standard references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Fetch the status of a job", "file": "references/cloud-services/get-job-status/fetch-the-status-of-a-job.md", "summary": "Open when looking up Fetch the status of a job in Photoshop.", "keywords": ["Fetch the status of a job"]},
+  {"topic": "Poll for job status for all other APIs", "file": "references/cloud-services/get-job-status/poll-for-job-status-for-all-other-apis.md", "summary": "Open when looking up Poll for job status for all other APIs in Photoshop.", "keywords": ["Poll for job status for all other APIs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

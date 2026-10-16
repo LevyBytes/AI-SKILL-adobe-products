@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Add an endnote", "file": "references/desktop/indexes-and-references/footnotes-and-endnotes/create-endnotes/add-an-endnote.md", "summary": "Open when looking up Add an endnote in InDesign.", "keywords": ["Add an endnote"]},
+  {"topic": "Import endnotes from Word documents", "file": "references/desktop/indexes-and-references/footnotes-and-endnotes/create-endnotes/import-endnotes-from-word-documents.md", "summary": "Open when looking up Import endnotes from Word documents in InDesign.", "keywords": ["Import endnotes from Word documents"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

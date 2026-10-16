@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "absoluteFlip", "file": "references/document-model/combo-box/absolute-flip.md", "summary": "Open when looking up absoluteFlip in InDesign.", "keywords": ["absoluteFlip"]},
+  {"topic": "absoluteHorizontalScale", "file": "references/document-model/combo-box/absolute-horizontal-scale.md", "summary": "Open when looking up absoluteHorizontalScale in InDesign.", "keywords": ["absoluteHorizontalScale"]},
+  {"topic": "absoluteRotationAngle", "file": "references/document-model/combo-box/absolute-rotation-angle.md", "summary": "Open when looking up absoluteRotationAngle in InDesign.", "keywords": ["absoluteRotationAngle"]},
+  {"topic": "absoluteShearAngle", "file": "references/document-model/combo-box/absolute-shear-angle.md", "summary": "Open when looking up absoluteShearAngle in InDesign.", "keywords": ["absoluteShearAngle"]},
+  {"topic": "absoluteVerticalScale", "file": "references/document-model/combo-box/absolute-vertical-scale.md", "summary": "Open when looking up absoluteVerticalScale in InDesign.", "keywords": ["absoluteVerticalScale"]},
+  {"topic": "clearTransformations", "file": "references/document-model/combo-box/clear-transformations.md", "summary": "Open when looking up clearTransformations in InDesign.", "keywords": ["clearTransformations"]},
+  {"topic": "fit", "file": "references/document-model/combo-box/fit.md", "summary": "Open when looking up fit in InDesign.", "keywords": ["fit"]},
+  {"topic": "flipItem", "file": "references/document-model/combo-box/flip-item.md", "summary": "Open when looking up flipItem in InDesign.", "keywords": ["flipItem"]},
+  {"topic": "geometricBounds", "file": "references/document-model/combo-box/geometric-bounds.md", "summary": "Open when looking up geometricBounds in InDesign.", "keywords": ["geometricBounds"]},
+  {"topic": "horizontalLayoutConstraints", "file": "references/document-model/combo-box/horizontal-layout-constraints.md", "summary": "Open when looking up horizontalLayoutConstraints in InDesign.", "keywords": ["horizontalLayoutConstraints"]},
+  {"topic": "rotationAngle", "file": "references/document-model/combo-box/rotation-angle.md", "summary": "Open when looking up rotationAngle in InDesign.", "keywords": ["rotationAngle"]},
+  {"topic": "shearAngle", "file": "references/document-model/combo-box/shear-angle.md", "summary": "Open when looking up shearAngle in InDesign.", "keywords": ["shearAngle"]},
+  {"topic": "transform", "file": "references/document-model/combo-box/transform.md", "summary": "Open when looking up transform in InDesign.", "keywords": ["transform"]},
+  {"topic": "transformAgain", "file": "references/document-model/combo-box/transform-again.md", "summary": "Open when looking up transformAgain in InDesign.", "keywords": ["transformAgain"]},
+  {"topic": "transformAgainIndividually", "file": "references/document-model/combo-box/transform-again-individually.md", "summary": "Open when looking up transformAgainIndividually in InDesign.", "keywords": ["transformAgainIndividually"]},
+  {"topic": "transformSequenceAgain", "file": "references/document-model/combo-box/transform-sequence-again.md", "summary": "Open when looking up transformSequenceAgain in InDesign.", "keywords": ["transformSequenceAgain"]},
+  {"topic": "transformSequenceAgainIndividually", "file": "references/document-model/combo-box/transform-sequence-again-individually.md", "summary": "Open when looking up transformSequenceAgainIndividually in InDesign.", "keywords": ["transformSequenceAgainIndividually"]},
+  {"topic": "transformValuesOf", "file": "references/document-model/combo-box/transform-values-of.md", "summary": "Open when looking up transformValuesOf in InDesign.", "keywords": ["transformValuesOf"]},
+  {"topic": "verticalLayoutConstraints", "file": "references/document-model/combo-box/vertical-layout-constraints.md", "summary": "Open when looking up verticalLayoutConstraints in InDesign.", "keywords": ["verticalLayoutConstraints"]},
+  {"topic": "visibleBounds", "file": "references/document-model/combo-box/visible-bounds.md", "summary": "Open when looking up visibleBounds in InDesign.", "keywords": ["visibleBounds"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

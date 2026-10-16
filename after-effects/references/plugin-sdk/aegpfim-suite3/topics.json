@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP_RegisterImportFlavor", "file": "references/plugin-sdk/aegpfim-suite3/aegp-register-import-flavor.md", "summary": "Open when looking up AEGP_RegisterImportFlavor in After Effects.", "keywords": ["AEGP_RegisterImportFlavor"]},
+  {"topic": "AEGP_RegisterImportFlavorFileTypes", "file": "references/plugin-sdk/aegpfim-suite3/aegp-register-import-flavor-file-types.md", "summary": "Open when looking up AEGP_RegisterImportFlavorFileTypes in After Effects.", "keywords": ["AEGP_RegisterImportFlavorFileTypes"]},
+  {"topic": "AEGP_RegisterImportFlavorImportCallbacks", "file": "references/plugin-sdk/aegpfim-suite3/aegp-register-import-flavor-import-callbacks.md", "summary": "Open when looking up AEGP_RegisterImportFlavorImportCallbacks in After Effects.", "keywords": ["AEGP_RegisterImportFlavorImportCallbacks"]},
+  {"topic": "AEGP_SetImportedItem", "file": "references/plugin-sdk/aegpfim-suite3/aegp-set-imported-item.md", "summary": "Open when looking up AEGP_SetImportedItem in After Effects.", "keywords": ["AEGP_SetImportedItem"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Additional settings", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/shape-path-and-pixel-mode-options/additional-settings.md", "summary": "Open when looking up Additional settings in Photoshop.", "keywords": ["Additional settings"]},
+  {"topic": "Live Shapes controls", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/shape-path-and-pixel-mode-options/live-shapes-controls.md", "summary": "Open when looking up Live Shapes controls in Photoshop.", "keywords": ["Live Shapes controls"]},
+  {"topic": "Path mode options", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/shape-path-and-pixel-mode-options/path-mode-options.md", "summary": "Open when looking up Path mode options in Photoshop.", "keywords": ["Path mode options"]},
+  {"topic": "Pixel mode options", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/shape-path-and-pixel-mode-options/pixel-mode-options.md", "summary": "Open when looking up Pixel mode options in Photoshop.", "keywords": ["Pixel mode options"]},
+  {"topic": "Shape mode options", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/shape-path-and-pixel-mode-options/shape-mode-options.md", "summary": "Open when looking up Shape mode options in Photoshop.", "keywords": ["Shape mode options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

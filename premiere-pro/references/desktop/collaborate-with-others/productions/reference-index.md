@@ -1,0 +1,21 @@
+# Premiere Pro — Collaborate using Productions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About Productions in Premiere Pro. [About Productions](about-productions.md).
+- Open when looking up About Productions in Premiere Pro. [About Productions references](about-productions/reference-index.md).
+- Open when looking up Broadcast workflow lessons for individuals and small teams in Premiere Pro. [Broadcast workflow lessons for individuals and small teams](broadcast-workflow-lessons-for-individuals-and-small-teams.md).
+- Open when looking up Broadcast workflow lessons for individuals and small teams in Premiere Pro. [Broadcast workflow lessons for individuals and small teams references](small-team-broadcast-workflows/reference-index.md).
+- Open when looking up Build a Production in Premiere Pro. [Build a Production](build-a-production.md).
+- Open when looking up Build a Production in Premiere Pro. [Build a Production references](build-a-production/reference-index.md).
+- Open when looking up Change project lock status in Production in Premiere Pro. [Change project lock status in Production](change-project-lock-status-in-production.md).
+- Open when looking up Change project lock status in Production in Premiere Pro. [Change project lock status in Production references](change-project-lock-status-in-production/reference-index.md).
+- Open when looking up Collaborate with other teams and team members in Premiere Pro. [Collaborate with other teams and team members](collaborate-with-other-teams-and-team-members.md).
+- Open when looking up Collaborate with other teams and team members in Premiere Pro. [Collaborate with other teams and team members references](collaborate-with-other-teams-and-team-members/reference-index.md).
+- Open when looking up Configure Productions settings in Premiere Pro. [Configure Productions settings](configure-productions-settings.md).
+- Open when looking up Configure Productions settings in Premiere Pro. [Configure Productions settings references](configure-productions-settings/reference-index.md).
+- Open when looking up Copy clips across projects in Premiere Pro. [Copy clips across projects](copy-clips-across-projects.md).
+- Open when looking up Find and edit source clips in Premiere Pro. [Find and edit source clips](find-and-edit-source-clips.md).
+- Open when looking up Find and edit source clips in Premiere Pro. [Find and edit source clips references](find-and-edit-source-clips/reference-index.md).
+- Open when looking up How clips, markers, and labels work in a Production in Premiere Pro. [How clips, markers, and labels work in a Production](how-clips-markers-and-labels-work-in-a-production.md).
+- Open when looking up How clips, markers, and labels work in a Production in Premiere Pro. [How clips, markers, and labels work in a Production references](how-clips-markers-and-labels-work-in-a-production/reference-index.md).
+- Open when looking up Move clips and sequences between projects in a Production in Premiere Pro. [Move clips and sequences between projects in a Production](move-clips-and-sequences-between-projects-in-a-production.md).

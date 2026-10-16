@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "PF_SetOptionsButtonName", "file": "references/plugin-sdk/pf-effect-ui-suite/pf-set-options-button-name.md", "summary": "Open when looking up PF_SetOptionsButtonName in After Effects.", "keywords": ["PF_SetOptionsButtonName"]},
+  {"topic": "Useful Utility Functions — PF_EffectUISuite", "file": "references/plugin-sdk/pf-effect-ui-suite/useful-utility-functions-pf-effect-ui-suite.md", "summary": "Open when looking up Useful Utility Functions — PF_EffectUISuite in After Effects.", "keywords": ["Useful Utility Functions — PF_EffectUISuite"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

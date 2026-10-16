@@ -1,0 +1,38 @@
+# New
+
+- UXP Plugins now provide Web Components support. These HTML elements and methods were added for that capability.
+  - Classes
+    - [HTMLSlotElement](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/html-elements/html-slot-element.md)
+    - [HTMLTemplateElement](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/html-elements/html-template-element.md)
+  - Methods
+    - [Element.assignedSlot](../dom/element/assigned-slot.md)
+    - [Element.slot](../dom/element/slot.md)
+    - [Element.attachShadow](../dom/element/attach-shadow.md)
+    - [Element.shadowRoot](../dom/element/shadow-root.md)
+    - [CustomElementRegistry.upgrade](../dom/custom-element-registry/upgrade.md)
+    - [CustomElementRegistry.whenDefined](../dom/custom-element-registry/when-defined.md)
+- [Spectrum Web Components (Beta)](../spectrum-web-component.md) adds support for Adobe SWC.
+- The JS API set gained these additional surfaces
+  - Properties
+    - [HTMLElement.lang](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/html-elements/html-element.md#lang--string)
+  - Classes added to the global scope
+    - [TreeWalker](../dom/tree-walker/reference-index.md)
+    - [NodeFilter](../dom/node-filter/reference-index.md)
+  - Methods
+    - [Element.hasAttributes](../dom/element/has-attributes.md)
+    - [Element.getAttributeNames](../dom/element/get-attribute-names.md)
+    - [Event.composed](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/html-events/event.md#composed--boolean)
+    - [Event.composedPath](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/html-events/event.md#composedpath)
+    - [DocumentFragment.append](../dom/document-fragment/append.md)
+    - [DocumentFragment.querySelector](../dom/document-fragment/query-selector.md)
+    - [DocumentFragment.querySelectorAll](../dom/document-fragment/query-selector-all.md)
+- React 16 compatibility now includes these focus events
+  - [Focusin Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusin_event)
+  - [Focusout Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event)
+- HTML [2D Canvas Support](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/html-elements/html-canvas-element.md) now covers Basic Shapes and Styling.
+- Alerts
+  - [alert()](../dom/window/alert.md)
+  - [prompt()](../dom/window/prompt.md)
+  - [confirm()](../dom/window/confirm.md)
+- [ReadableStream](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/streams/readable-stream.md) now supports [pipeThrough](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/streams/readable-stream.md#pipeThroughtransform,-options) and [tee](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/uxp-api/reference-js/global-members/streams/readable-stream.md#tee). See [Streams](../streams.md) for more information.
+- [ImageBlob](../image-blob/reference-index.md) lets UXP render image buffers that are uncompressed.

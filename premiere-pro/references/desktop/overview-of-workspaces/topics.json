@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Navigate the Home screen", "file": "references/desktop/overview-of-workspaces/navigate-the-home-screen.md", "summary": "Open when looking up Navigate the Home screen in Premiere Pro.", "keywords": ["Navigate the Home screen"]},
+  {"topic": "Understand the Adobe Premiere home screen and workspace organization.", "file": "references/desktop/overview-of-workspaces/home-screen-and-workspace-organization.md", "summary": "Open when looking up Understand the Adobe Premiere home screen and workspace organization. in Premiere Pro.", "keywords": ["Understand the Adobe Premiere home screen and workspace organization."]},
+  {"topic": "Workspaces", "file": "references/desktop/overview-of-workspaces/workspaces.md", "summary": "Open when looking up Workspaces in Premiere Pro.", "keywords": ["Workspaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

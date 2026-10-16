@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Flatten layers", "file": "references/desktop/manage-layers/create-and-organize-layers/merge-and-flatten-layers/flatten-layers.md", "summary": "Open when looking up Flatten layers in Illustrator.", "keywords": ["Flatten layers"]},
+  {"topic": "Merge layers", "file": "references/desktop/manage-layers/create-and-organize-layers/merge-and-flatten-layers/merge-layers.md", "summary": "Open when looking up Merge layers in Illustrator.", "keywords": ["Merge layers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

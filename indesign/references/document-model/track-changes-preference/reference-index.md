@@ -1,0 +1,35 @@
+# InDesign — TrackChangesPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addedBackgroundColorChoice in InDesign. [addedBackgroundColorChoice](added-background-color-choice.md).
+- Open when looking up addedTextColorChoice in InDesign. [addedTextColorChoice](added-text-color-choice.md).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up backgroundColorForAddedText in InDesign. [backgroundColorForAddedText](background-color-for-added-text.md).
+- Open when looking up backgroundColorForDeletedText in InDesign. [backgroundColorForDeletedText](background-color-for-deleted-text.md).
+- Open when looking up backgroundColorForMovedText in InDesign. [backgroundColorForMovedText](background-color-for-moved-text.md).
+- Open when looking up changeBarColor in InDesign. [changeBarColor](change-bar-color.md).
+- Open when looking up deletedBackgroundColorChoice in InDesign. [deletedBackgroundColorChoice](deleted-background-color-choice.md).
+- Open when looking up deletedTextColorChoice in InDesign. [deletedTextColorChoice](deleted-text-color-choice.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up locationForChangeBar in InDesign. [locationForChangeBar](location-for-change-bar.md).
+- Open when looking up markingForAddedText in InDesign. [markingForAddedText](marking-for-added-text.md).
+- Open when looking up markingForDeletedText in InDesign. [markingForDeletedText](marking-for-deleted-text.md).
+- Open when looking up markingForMovedText in InDesign. [markingForMovedText](marking-for-moved-text.md).
+- Open when looking up movedBackgroundColorChoice in InDesign. [movedBackgroundColorChoice](moved-background-color-choice.md).
+- Open when looking up movedTextColorChoice in InDesign. [movedTextColorChoice](moved-text-color-choice.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preventDuplicateColor in InDesign. [preventDuplicateColor](prevent-duplicate-color.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up showAddedText in InDesign. [showAddedText](show-added-text.md).
+- Open when looking up showChangeBars in InDesign. [showChangeBars](show-change-bars.md).
+- Open when looking up showDeletedText in InDesign. [showDeletedText](show-deleted-text.md).
+- Open when looking up showMovedText in InDesign. [showMovedText](show-moved-text.md).
+- Open when looking up spellCheckDeletedText in InDesign. [spellCheckDeletedText](spell-check-deleted-text.md).
+- Open when looking up textColorForAddedText in InDesign. [textColorForAddedText](text-color-for-added-text.md).
+- Open when looking up textColorForDeletedText in InDesign. [textColorForDeletedText](text-color-for-deleted-text.md).
+- Open when looking up textColorForMovedText in InDesign. [textColorForMovedText](text-color-for-moved-text.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

@@ -1,0 +1,7 @@
+# Next, adjust Temperature or Balance
+
+When contrast and exposure feel right, move on to the overall color controls if the clip has a color cast, if the color temperature feels wrong, or if the shot needs to resemble another location or time of day with warmer, more orange light or cooler, more blue light. There are two available routes for this correction, and either one is acceptable; using both is not required.
+
+For images that already look basically correct but need a warmer or cooler feel, move the global Temperature control vertically to simulate lighting that is warmer or cooler. When the issue is more specific, such as inexpensive or specialized fixtures producing too much green or magenta, move the Temperature control horizontally with Tint to pull out green or magenta and neutralize the lighting. The two-dimensional Temperature control is meant to make these common corrections direct and manageable.
+
+If the needed change is harder to describe, or if it does not fall cleanly on the orange/blue or green/magenta axes, use Balance to freely mix the image's red, green, and blue channels and push the overall color in any direction. This helps with unusual tints by moving the control away from the unwanted cast and toward its complementary color, and it can also introduce a chosen lighting color by pushing toward that hue on the wheel. Temperature and Balance use the same chromatic-adaptation processing model, changing reflected colors to imitate the result of changing the color of the lights.

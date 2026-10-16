@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Video/Audio Playback", "file": "references/cep/cep-12/video-audio-playback.md", "summary": "Open when looking up Video/Audio Playback in Shared Adobe platform.", "keywords": ["Video/Audio Playback"]},
+  {"topic": "WebRTC", "file": "references/cep/cep-12/web-rtc.md", "summary": "Open when looking up WebRTC in Shared Adobe platform.", "keywords": ["WebRTC"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

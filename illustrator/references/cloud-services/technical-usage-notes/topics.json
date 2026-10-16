@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "About auto-mapping for Data Merge", "file": "references/cloud-services/technical-usage-notes/about-auto-mapping-for-data-merge.md", "summary": "Open when looking up About auto-mapping for Data Merge in Illustrator.", "keywords": ["About auto-mapping for Data Merge"]},
+  {"topic": "About retries", "file": "references/cloud-services/technical-usage-notes/about-retries.md", "summary": "Open when looking up About retries in Illustrator.", "keywords": ["About retries"]},
+  {"topic": "Illustrator API supported fonts", "file": "references/cloud-services/technical-usage-notes/illustrator-api-supported-fonts.md", "summary": "Open when looking up Illustrator API supported fonts in Illustrator.", "keywords": ["Illustrator API supported fonts"]},
+  {"topic": "Known limitations", "file": "references/cloud-services/technical-usage-notes/known-limitations.md", "summary": "Open when looking up Known limitations in Illustrator.", "keywords": ["Known limitations"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

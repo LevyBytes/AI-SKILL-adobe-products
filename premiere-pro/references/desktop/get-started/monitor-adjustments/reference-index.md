@@ -1,0 +1,23 @@
+# Premiere Pro — Source and program monitor adjustments
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add or remove guides in Premiere Pro. [Add or remove guides](add-or-remove-guides.md).
+- Open when looking up Add or remove guides in Premiere Pro. [Add or remove guides references](add-or-remove-guides/reference-index.md).
+- Open when looking up Adjust magnification for Source and Program Monitors in Premiere Pro. [Adjust magnification for Source and Program Monitors](adjust-magnification-for-source-and-program-monitors.md).
+- Open when looking up Change the unit of measurement in Premiere Pro. [Change the unit of measurement](change-the-unit-of-measurement.md).
+- Open when looking up Choose a display mode in Premiere Pro. [Choose a display mode](choose-a-display-mode.md).
+- Open when looking up Display controls in the Source and Program Monitors in Premiere Pro. [Display controls in the Source and Program Monitors](display-controls-in-the-source-and-program-monitors.md).
+- Open when looking up Enable Dropped Frame Indicator in Premiere Pro. [Enable Dropped Frame Indicator](enable-dropped-frame-indicator.md).
+- Open when looking up Gang Source and Program Monitor in Premiere Pro. [Gang Source and Program Monitor](gang-source-and-program-monitor.md).
+- Open when looking up Nudge clips in Program Monitor in Premiere Pro. [Nudge clips in Program Monitor](nudge-clips-in-program-monitor.md).
+- Open when looking up Overview of Source Monitor and Program Monitor in Premiere Pro. [Overview of Source Monitor and Program Monitor](overview-of-source-monitor-and-program-monitor.md).
+- Open when looking up Overview of Source Monitor and Program Monitor in Premiere Pro. [Overview of Source Monitor and Program Monitor references](overview-of-source-monitor-and-program-monitor/reference-index.md).
+- Open when looking up Save, export, and import custom guides in Premiere Pro. [Save, export, and import custom guides](save-export-and-import-custom-guides.md).
+- Open when looking up Save, export, and import custom guides in Premiere Pro. [Save, export, and import custom guides references](save-export-and-import-custom-guides/reference-index.md).
+- Open when looking up Set display quality for Source and Program Monitors in Premiere Pro. [Set display quality for Source and Program Monitors](set-display-quality-for-source-and-program-monitors.md).
+- Open when looking up Set In and Out points in the Source Monitor in Premiere Pro. [Set In and Out points in the Source Monitor](set-in-and-out-points-in-the-source-monitor.md).
+- Open when looking up Set In and Out points in the Source Monitor in Premiere Pro. [Set In and Out points in the Source Monitor references](set-in-and-out-points-in-the-source-monitor/reference-index.md).
+- Open when looking up Set overlay settings in Premiere Pro. [Set overlay settings](set-overlay-settings.md).
+- Open when looking up Time controls in the Source and Program Monitors in Premiere Pro. [Time controls in the Source and Program Monitors](time-controls-in-the-source-and-program-monitors.md).
+- Open when looking up Time controls in the Source and Program Monitors in Premiere Pro. [Time controls in the Source and Program Monitors references](time-controls-in-the-source-and-program-monitors/reference-index.md).
+- Open when looking up View safe zones in the monitors in Premiere Pro. [View safe zones in the monitors](view-safe-zones-in-the-monitors.md).

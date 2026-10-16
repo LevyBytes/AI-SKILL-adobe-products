@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Checking & Editing Logging Settings", "file": "references/cep/cep-12-debugging-on-mac-os/checking-editing-logging-settings.md", "summary": "Open when looking up Checking & Editing Logging Settings in Shared Adobe platform.", "keywords": ["Checking & Editing Logging Settings"]},
+  {"topic": "Crash Dump", "file": "references/cep/cep-12-debugging-on-mac-os/crash-dump.md", "summary": "Open when looking up Crash Dump in Shared Adobe platform.", "keywords": ["Crash Dump"]},
+  {"topic": "Extension Folders", "file": "references/cep/cep-12-debugging-on-mac-os/extension-folders.md", "summary": "Open when looking up Extension Folders in Shared Adobe platform.", "keywords": ["Extension Folders"]},
+  {"topic": "Logs Folder", "file": "references/cep/cep-12-debugging-on-mac-os/logs-folder.md", "summary": "Open when looking up Logs Folder in Shared Adobe platform.", "keywords": ["Logs Folder"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

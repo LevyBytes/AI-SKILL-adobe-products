@@ -1,0 +1,14 @@
+# LanguageWithVendors.addDictionaryPath
+
+Community declaration reference: InDesign/2023.
+
+Registers the specified user dictionary.
+@param filePath Path to the dictionary file.
+
+```typescript
+declare class LanguageWithVendors {
+    addDictionaryPath(filePath: string): string
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

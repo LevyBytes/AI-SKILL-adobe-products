@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Prompt is too short", "file": "references/web/troubleshoot/prompt-triggers-a-language-warning/prompt-is-too-short.md", "summary": "Open when looking up Prompt is too short in Firefly.", "keywords": ["Prompt is too short"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

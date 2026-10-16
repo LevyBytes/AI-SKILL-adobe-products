@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Additional resources", "file": "references/desktop/what-s-new/after-effects-beta/additional-resources.md", "summary": "Open when looking up Additional resources in After Effects.", "keywords": ["Additional resources"]},
+  {"topic": "Top features in beta", "file": "references/desktop/what-s-new/after-effects-beta/top-features-in-beta.md", "summary": "Open when looking up Top features in beta in After Effects.", "keywords": ["Top features in beta"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

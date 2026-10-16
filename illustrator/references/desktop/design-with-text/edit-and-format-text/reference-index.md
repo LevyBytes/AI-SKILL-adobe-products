@@ -1,0 +1,24 @@
+# Illustrator — Edit and format text
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust kerning and tracking in Illustrator. [Adjust kerning and tracking](adjust-kerning-and-tracking.md).
+- Open when looking up Adjust kerning and tracking in Illustrator. [Adjust kerning and tracking references](adjust-kerning-and-tracking/reference-index.md).
+- Open when looking up Adjust paragraph spacing in Illustrator. [Adjust paragraph spacing](adjust-paragraph-spacing.md).
+- Open when looking up Adjust text alignment and spacing on paths in Illustrator. [Adjust text alignment and spacing on paths](adjust-text-alignment-and-spacing-on-paths.md).
+- Open when looking up Adjust text alignment and spacing on paths in Illustrator. [Adjust text alignment and spacing on paths references](adjust-text-alignment-and-spacing-on-paths/reference-index.md).
+- Open when looking up Adjust word and letterspacing in justified text in Illustrator. [Adjust word and letterspacing in justified text](adjust-word-and-letterspacing-in-justified-text.md).
+- Open when looking up Align text in Illustrator. [Align text](align-text.md).
+- Open when looking up Align text in Illustrator. [Align text references](align-text/reference-index.md).
+- Open when looking up Change case and capitalization styles in Illustrator. [Change case and capitalization styles](change-case-and-capitalization-styles.md).
+- Open when looking up Change case and capitalization styles in Illustrator. [Change case and capitalization styles references](change-case-and-capitalization-styles/reference-index.md).
+- Open when looking up Character panel overview in Illustrator. [Character panel overview](character-panel-overview.md).
+- Open when looking up Create bulleted or numbered lists in Illustrator. [Create bulleted or numbered lists](create-bulleted-or-numbered-lists.md).
+- Open when looking up Indent text in Illustrator. [Indent text](indent-text.md).
+- Open when looking up Indent text in Illustrator. [Indent text references](indent-text/reference-index.md).
+- Open when looking up Paragraph panel overview in Illustrator. [Paragraph panel overview](paragraph-panel-overview.md).
+- Open when looking up Paragraph panel overview in Illustrator. [Paragraph panel overview references](paragraph-panel-overview/reference-index.md).
+- Open when looking up Transform text in Illustrator. [Transform text](transform-text.md).
+- Open when looking up Transform text in Illustrator. [Transform text references](transform-text/reference-index.md).
+- Open when looking up Turn fractional character widths off or on in Illustrator. [Turn fractional character widths off or on](turn-fractional-character-widths-off-or-on.md).
+- Open when looking up Underline or strikethrough text in Illustrator. [Underline or strikethrough text](underline-or-strikethrough-text.md).
+- Open when looking up Vary font height in Illustrator. [Vary font height](vary-font-height.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Build headers and footers on a parent page", "file": "references/desktop/pages-and-books/numbering-and-sections/create-running-headers-and-footers/build-headers-and-footers-on-a-parent-page.md", "summary": "Open when looking up Build headers and footers on a parent page in InDesign.", "keywords": ["Build headers and footers on a parent page"]},
+  {"topic": "Create variables for running headers and footers", "file": "references/desktop/pages-and-books/numbering-and-sections/create-running-headers-and-footers/create-variables-for-running-headers-and-footers.md", "summary": "Open when looking up Create variables for running headers and footers in InDesign.", "keywords": ["Create variables for running headers and footers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

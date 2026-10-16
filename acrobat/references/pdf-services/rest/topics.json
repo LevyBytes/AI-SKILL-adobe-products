@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Combine pdf references", "file": "references/pdf-services/rest/combine-pdf/reference-index.md", "summary": "Open when looking up Combine pdf in Acrobat.", "keywords": ["Combine pdf references"]},
+  {"topic": "Compress pdf references", "file": "references/pdf-services/rest/compress-pdf/reference-index.md", "summary": "Open when looking up Compress pdf in Acrobat.", "keywords": ["Compress pdf references"]},
+  {"topic": "Create pdf references", "file": "references/pdf-services/rest/create-pdf/reference-index.md", "summary": "Open when looking up Create pdf in Acrobat.", "keywords": ["Create pdf references"]},
+  {"topic": "Delete pages references", "file": "references/pdf-services/rest/delete-pages/reference-index.md", "summary": "Open when looking up Delete pages in Acrobat.", "keywords": ["Delete pages references"]},
+  {"topic": "Electronic seal references", "file": "references/pdf-services/rest/electronic-seal/reference-index.md", "summary": "Open when looking up Electronic seal in Acrobat.", "keywords": ["Electronic seal references"]},
+  {"topic": "Insert pages references", "file": "references/pdf-services/rest/insert-pages/reference-index.md", "summary": "Open when looking up Insert pages in Acrobat.", "keywords": ["Insert pages references"]},
+  {"topic": "Legacy references", "file": "references/pdf-services/rest/legacy/reference-index.md", "summary": "Open when looking up Legacy in Acrobat.", "keywords": ["Legacy references"]},
+  {"topic": "Linearize pdf references", "file": "references/pdf-services/rest/linearize-pdf/reference-index.md", "summary": "Open when looking up Linearize pdf in Acrobat.", "keywords": ["Linearize pdf references"]},
+  {"topic": "Ocr pdf references", "file": "references/pdf-services/rest/ocr-pdf/reference-index.md", "summary": "Open when looking up Ocr pdf in Acrobat.", "keywords": ["Ocr pdf references"]},
+  {"topic": "Pdf extract references", "file": "references/pdf-services/rest/pdf-extract/reference-index.md", "summary": "Open when looking up Pdf extract in Acrobat.", "keywords": ["Pdf extract references"]},
+  {"topic": "Pdf watermark api references", "file": "references/pdf-services/rest/pdf-watermark-api/reference-index.md", "summary": "Open when looking up Pdf watermark api in Acrobat.", "keywords": ["Pdf watermark api references"]},
+  {"topic": "Protect pdf references", "file": "references/pdf-services/rest/protect-pdf/reference-index.md", "summary": "Open when looking up Protect pdf in Acrobat.", "keywords": ["Protect pdf references"]},
+  {"topic": "Replace pages references", "file": "references/pdf-services/rest/replace-pages/reference-index.md", "summary": "Open when looking up Replace pages in Acrobat.", "keywords": ["Replace pages references"]},
+  {"topic": "Split pdf references", "file": "references/pdf-services/rest/split-pdf/reference-index.md", "summary": "Open when looking up Split pdf in Acrobat.", "keywords": ["Split pdf references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

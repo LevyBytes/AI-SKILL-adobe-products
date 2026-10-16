@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Application Bar", "file": "references/desktop/get-started/learn-the-basics/workspace-overview/application-bar.md", "summary": "Open when looking up Application Bar in Illustrator.", "keywords": ["Application Bar"]},
+  {"topic": "Application Frame", "file": "references/desktop/get-started/learn-the-basics/workspace-overview/application-frame.md", "summary": "Open when looking up Application Frame in Illustrator.", "keywords": ["Application Frame"]},
+  {"topic": "Document window", "file": "references/desktop/get-started/learn-the-basics/workspace-overview/document-window.md", "summary": "Open when looking up Document window in Illustrator.", "keywords": ["Document window"]},
+  {"topic": "Panels", "file": "references/desktop/get-started/learn-the-basics/workspace-overview/panels.md", "summary": "Open when looking up Panels in Illustrator.", "keywords": ["Panels"]},
+  {"topic": "Toolbar", "file": "references/desktop/get-started/learn-the-basics/workspace-overview/toolbar.md", "summary": "Open when looking up Toolbar in Illustrator.", "keywords": ["Toolbar"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

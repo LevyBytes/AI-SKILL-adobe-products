@@ -1,0 +1,50 @@
+# Shared Adobe platform — TextBox
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextBox declaration in Shared Adobe platform. [TextBox declaration](declaration.md).
+- Open when looking up TextBox.appliedFont in Shared Adobe platform. [TextBox.appliedFont](applied-font.md).
+- Open when looking up TextBox.behaviors in Shared Adobe platform. [TextBox.behaviors](behaviors.md).
+- Open when looking up TextBox.bringForward in Shared Adobe platform. [TextBox.bringForward](bring-forward.md).
+- Open when looking up TextBox.bringToFront in Shared Adobe platform. [TextBox.bringToFront](bring-to-front.md).
+- Open when looking up TextBox.clearFormBehaviors in Shared Adobe platform. [TextBox.clearFormBehaviors](clear-form-behaviors.md).
+- Open when looking up TextBox.convertToObject in Shared Adobe platform. [TextBox.convertToObject](convert-to-object.md).
+- Open when looking up TextBox.epss in Shared Adobe platform. [TextBox.epss](epss.md).
+- Open when looking up TextBox.epstexts in Shared Adobe platform. [TextBox.epstexts](epstexts.md).
+- Open when looking up TextBox.fontSize in Shared Adobe platform. [TextBox.fontSize](font-size.md).
+- Open when looking up TextBox.fontStyle in Shared Adobe platform. [TextBox.fontStyle](font-style.md).
+- Open when looking up TextBox.gotoAnchorBehaviors in Shared Adobe platform. [TextBox.gotoAnchorBehaviors](goto-anchor-behaviors.md).
+- Open when looking up TextBox.gotoFirstPageBehaviors in Shared Adobe platform. [TextBox.gotoFirstPageBehaviors](goto-first-page-behaviors.md).
+- Open when looking up TextBox.gotoLastPageBehaviors in Shared Adobe platform. [TextBox.gotoLastPageBehaviors](goto-last-page-behaviors.md).
+- Open when looking up TextBox.gotoNextPageBehaviors in Shared Adobe platform. [TextBox.gotoNextPageBehaviors](goto-next-page-behaviors.md).
+- Open when looking up TextBox.gotoNextViewBehaviors in Shared Adobe platform. [TextBox.gotoNextViewBehaviors](goto-next-view-behaviors.md).
+- Open when looking up TextBox.gotoPreviousPageBehaviors in Shared Adobe platform. [TextBox.gotoPreviousPageBehaviors](goto-previous-page-behaviors.md).
+- Open when looking up TextBox.gotoPreviousViewBehaviors in Shared Adobe platform. [TextBox.gotoPreviousViewBehaviors](goto-previous-view-behaviors.md).
+- Open when looking up TextBox.gotoURLBehaviors in Shared Adobe platform. [TextBox.gotoURLBehaviors](goto-url-behaviors.md).
+- Open when looking up TextBox.graphicLines in Shared Adobe platform. [TextBox.graphicLines](graphic-lines.md).
+- Open when looking up TextBox.groups in Shared Adobe platform. [TextBox.groups](groups.md).
+- Open when looking up TextBox.hiddenUntilTriggered in Shared Adobe platform. [TextBox.hiddenUntilTriggered](hidden-until-triggered.md).
+- Open when looking up TextBox.images in Shared Adobe platform. [TextBox.images](images.md).
+- Open when looking up TextBox.movieBehaviors in Shared Adobe platform. [TextBox.movieBehaviors](movie-behaviors.md).
+- Open when looking up TextBox.multiline in Shared Adobe platform. [TextBox.multiline](multiline.md).
+- Open when looking up TextBox.openFileBehaviors in Shared Adobe platform. [TextBox.openFileBehaviors](open-file-behaviors.md).
+- Open when looking up TextBox.ovals in Shared Adobe platform. [TextBox.ovals](ovals.md).
+- Open when looking up TextBox.password in Shared Adobe platform. [TextBox.password](password.md).
+- Open when looking up TextBox.pdfs in Shared Adobe platform. [TextBox.pdfs](pdfs.md).
+- Open when looking up TextBox.picts in Shared Adobe platform. [TextBox.picts](picts.md).
+- Open when looking up TextBox.polygons in Shared Adobe platform. [TextBox.polygons](polygons.md).
+- Open when looking up TextBox.printableInPdf in Shared Adobe platform. [TextBox.printableInPdf](printable-in-pdf.md).
+- Open when looking up TextBox.printFormBehaviors in Shared Adobe platform. [TextBox.printFormBehaviors](print-form-behaviors.md).
+- Open when looking up TextBox.readOnly in Shared Adobe platform. [TextBox.readOnly](read-only.md).
+- Open when looking up TextBox.rectangles in Shared Adobe platform. [TextBox.rectangles](rectangles.md).
+- Open when looking up TextBox.required in Shared Adobe platform. [TextBox.required](required.md).
+- Open when looking up TextBox.rightToLeftField in Shared Adobe platform. [TextBox.rightToLeftField](right-to-left-field.md).
+- Open when looking up TextBox.scrollable in Shared Adobe platform. [TextBox.scrollable](scrollable.md).
+- Open when looking up TextBox.sendBackward in Shared Adobe platform. [TextBox.sendBackward](send-backward.md).
+- Open when looking up TextBox.sendToBack in Shared Adobe platform. [TextBox.sendToBack](send-to-back.md).
+- Open when looking up TextBox.showHideFieldsBehaviors in Shared Adobe platform. [TextBox.showHideFieldsBehaviors](show-hide-fields-behaviors.md).
+- Open when looking up TextBox.soundBehaviors in Shared Adobe platform. [TextBox.soundBehaviors](sound-behaviors.md).
+- Open when looking up TextBox.splineItems in Shared Adobe platform. [TextBox.splineItems](spline-items.md).
+- Open when looking up TextBox.submitFormBehaviors in Shared Adobe platform. [TextBox.submitFormBehaviors](submit-form-behaviors.md).
+- Open when looking up TextBox.textFrames in Shared Adobe platform. [TextBox.textFrames](text-frames.md).
+- Open when looking up TextBox.viewZoomBehaviors in Shared Adobe platform. [TextBox.viewZoomBehaviors](view-zoom-behaviors.md).
+- Open when looking up TextBox.wmfs in Shared Adobe platform. [TextBox.wmfs](wmfs.md).

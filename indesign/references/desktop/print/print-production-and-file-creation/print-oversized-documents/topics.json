@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Tile a document automatically", "file": "references/desktop/print/print-production-and-file-creation/print-oversized-documents/tile-a-document-automatically.md", "summary": "Open when looking up Tile a document automatically in InDesign.", "keywords": ["Tile a document automatically"]},
+  {"topic": "Tile a document manually", "file": "references/desktop/print/print-production-and-file-creation/print-oversized-documents/tile-a-document-manually.md", "summary": "Open when looking up Tile a document manually in InDesign.", "keywords": ["Tile a document manually"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

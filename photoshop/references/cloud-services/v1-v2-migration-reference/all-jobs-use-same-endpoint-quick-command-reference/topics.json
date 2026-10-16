@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Full migration sample", "file": "references/cloud-services/v1-v2-migration-reference/all-jobs-use-same-endpoint-quick-command-reference/full-migration-sample.md", "summary": "Open when looking up Full migration sample in Photoshop.", "keywords": ["Full migration sample"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

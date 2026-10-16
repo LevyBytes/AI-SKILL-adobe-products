@@ -1,0 +1,51 @@
+# Shared Adobe platform — Link
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Link declaration in Shared Adobe platform. [Link declaration](declaration.md).
+- Open when looking up Link event listeners in Shared Adobe platform. [Link event listeners](event-listeners.md).
+- Open when looking up Link identity and parent in Shared Adobe platform. [Link identity and parent](identity-and-parent.md).
+- Open when looking up Link labels and metadata in Shared Adobe platform. [Link labels and metadata](labels-and-metadata.md).
+- Open when looking up Link object resolution in Shared Adobe platform. [Link object resolution](object-resolution.md).
+- Open when looking up Link.AFTER_ATTRIBUTE_CHANGED in Shared Adobe platform. [Link.AFTER_ATTRIBUTE_CHANGED](afterattributechanged.md).
+- Open when looking up Link.AFTER_DELETE in Shared Adobe platform. [Link.AFTER_DELETE](afterdelete.md).
+- Open when looking up Link.AFTER_EMBED in Shared Adobe platform. [Link.AFTER_EMBED](afterembed.md).
+- Open when looking up Link.AFTER_MOVE in Shared Adobe platform. [Link.AFTER_MOVE](aftermove.md).
+- Open when looking up Link.AFTER_NEW in Shared Adobe platform. [Link.AFTER_NEW](afternew.md).
+- Open when looking up Link.AFTER_UNEMBED in Shared Adobe platform. [Link.AFTER_UNEMBED](afterunembed.md).
+- Open when looking up Link.AFTER_UPDATE in Shared Adobe platform. [Link.AFTER_UPDATE](afterupdate.md).
+- Open when looking up Link.assetID in Shared Adobe platform. [Link.assetID](asset-id.md).
+- Open when looking up Link.assetURL in Shared Adobe platform. [Link.assetURL](asset-url.md).
+- Open when looking up Link.BEFORE_DELETE in Shared Adobe platform. [Link.BEFORE_DELETE](beforedelete.md).
+- Open when looking up Link.BEFORE_EMBED in Shared Adobe platform. [Link.BEFORE_EMBED](beforeembed.md).
+- Open when looking up Link.BEFORE_MOVE in Shared Adobe platform. [Link.BEFORE_MOVE](beforemove.md).
+- Open when looking up Link.BEFORE_UNEMBED in Shared Adobe platform. [Link.BEFORE_UNEMBED](beforeunembed.md).
+- Open when looking up Link.BEFORE_UPDATE in Shared Adobe platform. [Link.BEFORE_UPDATE](beforeupdate.md).
+- Open when looking up Link.checkIn in Shared Adobe platform. [Link.checkIn](check-in.md).
+- Open when looking up Link.copyLink in Shared Adobe platform. [Link.copyLink](copy-link.md).
+- Open when looking up Link.date in Shared Adobe platform. [Link.date](date.md).
+- Open when looking up Link.edited in Shared Adobe platform. [Link.edited](edited.md).
+- Open when looking up Link.editingState in Shared Adobe platform. [Link.editingState](editing-state.md).
+- Open when looking up Link.editOriginal in Shared Adobe platform. [Link.editOriginal](edit-original.md).
+- Open when looking up Link.filePath in Shared Adobe platform. [Link.filePath](file-path.md).
+- Open when looking up Link.goToSource in Shared Adobe platform. [Link.goToSource](go-to-source.md).
+- Open when looking up Link.linkResourceURI in Shared Adobe platform. [Link.linkResourceURI](link-resource-uri.md).
+- Open when looking up Link.links in Shared Adobe platform. [Link.links](links.md).
+- Open when looking up Link.linkType in Shared Adobe platform. [Link.linkType](link-type.md).
+- Open when looking up Link.linkXmp in Shared Adobe platform. [Link.linkXmp](link-xmp.md).
+- Open when looking up Link.needed in Shared Adobe platform. [Link.needed](needed.md).
+- Open when looking up Link.preferences in Shared Adobe platform. [Link.preferences](preferences.md).
+- Open when looking up Link.properties in Shared Adobe platform. [Link.properties](properties.md).
+- Open when looking up Link.reinitLink in Shared Adobe platform. [Link.reinitLink](reinit-link.md).
+- Open when looking up Link.relink in Shared Adobe platform. [Link.relink](relink.md).
+- Open when looking up Link.relinkTextFragmentLink in Shared Adobe platform. [Link.relinkTextFragmentLink](relink-text-fragment-link.md).
+- Open when looking up Link.renditionData in Shared Adobe platform. [Link.renditionData](rendition-data.md).
+- Open when looking up Link.replaceWithOriginal in Shared Adobe platform. [Link.replaceWithOriginal](replace-with-original.md).
+- Open when looking up Link.revealInBridge in Shared Adobe platform. [Link.revealInBridge](reveal-in-bridge.md).
+- Open when looking up Link.revealInSystem in Shared Adobe platform. [Link.revealInSystem](reveal-in-system.md).
+- Open when looking up Link.show in Shared Adobe platform. [Link.show](show.md).
+- Open when looking up Link.size in Shared Adobe platform. [Link.size](size.md).
+- Open when looking up Link.status in Shared Adobe platform. [Link.status](status.md).
+- Open when looking up Link.unembed in Shared Adobe platform. [Link.unembed](unembed.md).
+- Open when looking up Link.unlink in Shared Adobe platform. [Link.unlink](unlink.md).
+- Open when looking up Link.update in Shared Adobe platform. [Link.update](update.md).
+- Open when looking up Link.versionState in Shared Adobe platform. [Link.versionState](version-state.md).

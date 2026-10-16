@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "allPreflightObjectTypes", "file": "references/document-model/application/all-preflight-object-types.md", "summary": "Open when looking up allPreflightObjectTypes in InDesign.", "keywords": ["allPreflightObjectTypes"]},
+  {"topic": "allPreflightRuleCategories", "file": "references/document-model/application/all-preflight-rule-categories.md", "summary": "Open when looking up allPreflightRuleCategories in InDesign.", "keywords": ["allPreflightRuleCategories"]},
+  {"topic": "allPreflightRuleIDs", "file": "references/document-model/application/all-preflight-rule-i-ds.md", "summary": "Open when looking up allPreflightRuleIDs in InDesign.", "keywords": ["allPreflightRuleIDs"]},
+  {"topic": "flattenerPresets", "file": "references/document-model/application/flattener-presets.md", "summary": "Open when looking up flattenerPresets in InDesign.", "keywords": ["flattenerPresets"]},
+  {"topic": "gridPrintingPreferences", "file": "references/document-model/application/grid-printing-preferences.md", "summary": "Open when looking up gridPrintingPreferences in InDesign.", "keywords": ["gridPrintingPreferences"]},
+  {"topic": "loadPreflightProfile", "file": "references/document-model/application/load-preflight-profile.md", "summary": "Open when looking up loadPreflightProfile in InDesign.", "keywords": ["loadPreflightProfile"]},
+  {"topic": "preflightBookOptions", "file": "references/document-model/application/preflight-book-options.md", "summary": "Open when looking up preflightBookOptions in InDesign.", "keywords": ["preflightBookOptions"]},
+  {"topic": "preflightOptions", "file": "references/document-model/application/preflight-options.md", "summary": "Open when looking up preflightOptions in InDesign.", "keywords": ["preflightOptions"]},
+  {"topic": "preflightProcesses", "file": "references/document-model/application/preflight-processes.md", "summary": "Open when looking up preflightProcesses in InDesign.", "keywords": ["preflightProcesses"]},
+  {"topic": "preflightProfiles", "file": "references/document-model/application/preflight-profiles.md", "summary": "Open when looking up preflightProfiles in InDesign.", "keywords": ["preflightProfiles"]},
+  {"topic": "preflightRules", "file": "references/document-model/application/preflight-rules.md", "summary": "Open when looking up preflightRules in InDesign.", "keywords": ["preflightRules"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

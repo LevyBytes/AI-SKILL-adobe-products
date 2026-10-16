@@ -1,0 +1,23 @@
+# InDesign — PreflightProcess
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up aggregatedResults in InDesign. [aggregatedResults](aggregated-results.md).
+- Open when looking up appliedProfile in InDesign. [appliedProfile](applied-profile.md).
+- Open when looking up description in InDesign. [description](description.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up processInventory in InDesign. [processInventory](process-inventory.md).
+- Open when looking up processResults in InDesign. [processResults](process-results.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up remove in InDesign. [remove](remove.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up saveReport in InDesign. [saveReport](save-report.md).
+- Open when looking up targetObject in InDesign. [targetObject](target-object.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up waitForProcess in InDesign. [waitForProcess](wait-for-process.md).

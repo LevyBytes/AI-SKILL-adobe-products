@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Cut objects using the Knife tool", "file": "references/desktop/manage-objects/edit-objects/cut-objects-using-the-knife-and-scissors-tools/cut-objects-using-the-knife-tool.md", "summary": "Open when looking up Cut objects using the Knife tool in Illustrator.", "keywords": ["Cut objects using the Knife tool"]},
+  {"topic": "Cut paths with the Scissors tool", "file": "references/desktop/manage-objects/edit-objects/cut-objects-using-the-knife-and-scissors-tools/cut-paths-with-the-scissors-tool.md", "summary": "Open when looking up Cut paths with the Scissors tool in Illustrator.", "keywords": ["Cut paths with the Scissors tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

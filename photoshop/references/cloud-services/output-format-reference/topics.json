@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "JPEG quality", "file": "references/cloud-services/output-format-reference/jpeg-quality.md", "summary": "Open when looking up JPEG quality in Photoshop.", "keywords": ["JPEG quality"]},
+  {"topic": "Missing V2 features summary", "file": "references/cloud-services/output-format-reference/missing-v2-features-summary.md", "summary": "Open when looking up Missing V2 features summary in Photoshop.", "keywords": ["Missing V2 features summary"]},
+  {"topic": "New output features in V2", "file": "references/cloud-services/output-format-reference/new-output-features-in-v2.md", "summary": "Open when looking up New output features in V2 in Photoshop.", "keywords": ["New output features in V2"]},
+  {"topic": "PNG compression", "file": "references/cloud-services/output-format-reference/png-compression.md", "summary": "Open when looking up PNG compression in Photoshop.", "keywords": ["PNG compression"]},
+  {"topic": "Storage / destination mapping", "file": "references/cloud-services/output-format-reference/storage-destination-mapping.md", "summary": "Open when looking up Storage / destination mapping in Photoshop.", "keywords": ["Storage / destination mapping"]},
+  {"topic": "TIFF", "file": "references/cloud-services/output-format-reference/tiff.md", "summary": "Open when looking up TIFF in Photoshop.", "keywords": ["TIFF"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

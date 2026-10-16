@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Stylize PDFs using Adobe Express", "file": "references/desktop/adobe-express/image-and-document-editing/stylize-pdfs-using-adobe-express.md", "summary": "Open when looking up Stylize PDFs using Adobe Express in Acrobat.", "keywords": ["Stylize PDFs using Adobe Express"]},
+  {"topic": "Translate text using Adobe Express in Acrobat", "file": "references/desktop/adobe-express/image-and-document-editing/translate-text-using-adobe-express-in-acrobat.md", "summary": "Open when looking up Translate text using Adobe Express in Acrobat in Acrobat.", "keywords": ["Translate text using Adobe Express in Acrobat"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

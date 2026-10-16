@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Desktop requirements", "file": "references/web/video-editor/technical-requirements/desktop-requirements.md", "summary": "Open when looking up Desktop requirements in Firefly.", "keywords": ["Desktop requirements"]},
+  {"topic": "Supported languages for Text-based editing feature", "file": "references/web/video-editor/technical-requirements/supported-languages-for-text-based-editing-feature.md", "summary": "Open when looking up Supported languages for Text-based editing feature in Firefly.", "keywords": ["Supported languages for Text-based editing feature"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

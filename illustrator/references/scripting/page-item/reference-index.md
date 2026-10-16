@@ -1,0 +1,40 @@
+# Illustrator — PageItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PageItem.artworkKnockout in Illustrator. [PageItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up PageItem.blendingMode in Illustrator. [PageItem.blendingMode](blending-mode.md).
+- Open when looking up PageItem.bringInPerspective() in Illustrator. [PageItem.bringInPerspective()](bring-in-perspective.md).
+- Open when looking up PageItem.controlBounds in Illustrator. [PageItem.controlBounds](control-bounds.md).
+- Open when looking up PageItem.editable in Illustrator. [PageItem.editable](editable.md).
+- Open when looking up PageItem.geometricBounds in Illustrator. [PageItem.geometricBounds](geometric-bounds.md).
+- Open when looking up PageItem.height in Illustrator. [PageItem.height](height.md).
+- Open when looking up PageItem.hidden in Illustrator. [PageItem.hidden](hidden.md).
+- Open when looking up PageItem.isIsolated in Illustrator. [PageItem.isIsolated](is-isolated.md).
+- Open when looking up PageItem.layer in Illustrator. [PageItem.layer](layer.md).
+- Open when looking up PageItem.left in Illustrator. [PageItem.left](left.md).
+- Open when looking up PageItem.locked in Illustrator. [PageItem.locked](locked.md).
+- Open when looking up PageItem.name in Illustrator. [PageItem.name](name.md).
+- Open when looking up PageItem.note in Illustrator. [PageItem.note](note.md).
+- Open when looking up PageItem.opacity in Illustrator. [PageItem.opacity](opacity.md).
+- Open when looking up PageItem.parent in Illustrator. [PageItem.parent](parent.md).
+- Open when looking up PageItem.pixelAligned in Illustrator. [PageItem.pixelAligned](pixel-aligned.md).
+- Open when looking up PageItem.position in Illustrator. [PageItem.position](position.md).
+- Open when looking up PageItem.resize() in Illustrator. [PageItem.resize()](resize.md).
+- Open when looking up PageItem.rotate() in Illustrator. [PageItem.rotate()](rotate.md).
+- Open when looking up PageItem.selected in Illustrator. [PageItem.selected](selected.md).
+- Open when looking up PageItem.sliced in Illustrator. [PageItem.sliced](sliced.md).
+- Open when looking up PageItem.tags in Illustrator. [PageItem.tags](tags.md).
+- Open when looking up PageItem.top in Illustrator. [PageItem.top](top.md).
+- Open when looking up PageItem.transform() in Illustrator. [PageItem.transform()](transform.md).
+- Open when looking up PageItem.translate() in Illustrator. [PageItem.translate()](translate.md).
+- Open when looking up PageItem.typename in Illustrator. [PageItem.typename](typename.md).
+- Open when looking up PageItem.uRL in Illustrator. [PageItem.uRL](u-rl.md).
+- Open when looking up PageItem.uuid in Illustrator. [PageItem.uuid](uuid.md).
+- Open when looking up PageItem.visibilityVariable in Illustrator. [PageItem.visibilityVariable](visibility-variable.md).
+- Open when looking up PageItem.visibleBounds in Illustrator. [PageItem.visibleBounds](visible-bounds.md).
+- Open when looking up PageItem.width in Illustrator. [PageItem.width](width.md).
+- Open when looking up PageItem.wrapInside in Illustrator. [PageItem.wrapInside](wrap-inside.md).
+- Open when looking up PageItem.wrapOffset in Illustrator. [PageItem.wrapOffset](wrap-offset.md).
+- Open when looking up PageItem.wrapped in Illustrator. [PageItem.wrapped](wrapped.md).
+- Open when looking up PageItem.zOrder() in Illustrator. [PageItem.zOrder()](z-order.md).
+- Open when looking up PageItem.zOrderPosition in Illustrator. [PageItem.zOrderPosition](z-order-position.md).

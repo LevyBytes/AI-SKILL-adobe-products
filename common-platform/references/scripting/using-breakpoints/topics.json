@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Extendscript Breakpoints", "file": "references/scripting/using-breakpoints/extendscript-breakpoints.md", "summary": "Open when looking up Extendscript Breakpoints in Shared Adobe platform.", "keywords": ["Extendscript Breakpoints"]},
+  {"topic": "VS Code Breakpoints", "file": "references/scripting/using-breakpoints/vs-code-breakpoints.md", "summary": "Open when looking up VS Code Breakpoints in Shared Adobe platform.", "keywords": ["VS Code Breakpoints"]},
+  {"topic": "VS Code Extension Features — Using Breakpoints", "file": "references/scripting/using-breakpoints/vs-code-extension-features-using-breakpoints.md", "summary": "Open when looking up VS Code Extension Features — Using Breakpoints in Shared Adobe platform.", "keywords": ["VS Code Extension Features — Using Breakpoints"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "AutoCAD export options", "file": "references/desktop/save-and-export/export-artwork/auto-cad-export-options.md", "summary": "Open when looking up AutoCAD export options in Illustrator.", "keywords": ["AutoCAD export options"]},
+  {"topic": "Background export", "file": "references/desktop/save-and-export/export-artwork/background-export.md", "summary": "Open when looking up Background export in Illustrator.", "keywords": ["Background export"]},
+  {"topic": "BMP and TARGA export options", "file": "references/desktop/save-and-export/export-artwork/bmp-and-targa-export-options.md", "summary": "Open when looking up BMP and TARGA export options in Illustrator.", "keywords": ["BMP and TARGA export options"]},
+  {"topic": "Check progress", "file": "references/desktop/save-and-export/export-artwork/check-progress.md", "summary": "Open when looking up Check progress in Illustrator.", "keywords": ["Check progress"]},
+  {"topic": "File formats for exporting artwork", "file": "references/desktop/save-and-export/export-artwork/file-formats-for-exporting-artwork.md", "summary": "Open when looking up File formats for exporting artwork in Illustrator.", "keywords": ["File formats for exporting artwork"]},
+  {"topic": "JPEG export options", "file": "references/desktop/save-and-export/export-artwork/jpeg-export-options.md", "summary": "Open when looking up JPEG export options in Illustrator.", "keywords": ["JPEG export options"]},
+  {"topic": "Photoshop export options", "file": "references/desktop/save-and-export/export-artwork/photoshop-export-options.md", "summary": "Open when looking up Photoshop export options in Illustrator.", "keywords": ["Photoshop export options"]},
+  {"topic": "PNG export options", "file": "references/desktop/save-and-export/export-artwork/png-export-options.md", "summary": "Open when looking up PNG export options in Illustrator.", "keywords": ["PNG export options"]},
+  {"topic": "SVG export options", "file": "references/desktop/save-and-export/export-artwork/svg-export-options.md", "summary": "Open when looking up SVG export options in Illustrator.", "keywords": ["SVG export options"]},
+  {"topic": "TIFF export options", "file": "references/desktop/save-and-export/export-artwork/tiff-export-options.md", "summary": "Open when looking up TIFF export options in Illustrator.", "keywords": ["TIFF export options"]},
+  {"topic": "WebP export options", "file": "references/desktop/save-and-export/export-artwork/web-p-export-options.md", "summary": "Open when looking up WebP export options in Illustrator.", "keywords": ["WebP export options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

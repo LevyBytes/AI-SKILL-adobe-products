@@ -1,0 +1,5 @@
+# toSource
+
+> String **toSource**()
+>
+> Builds a source string that returns the Group when executed.

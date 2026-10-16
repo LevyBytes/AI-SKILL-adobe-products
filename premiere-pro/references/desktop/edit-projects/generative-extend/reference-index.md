@@ -1,0 +1,27 @@
+# Premiere Pro — Generative extend
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Choosing eight-bit Generative Extend output in Premiere Pro. [Choosing eight-bit Generative Extend output](choosing-eight-bit-generative-extend-output.md).
+- Open when looking up Generate alternative clip extensions in Premiere Pro. [Generate alternative clip extensions](generate-alternative-clip-extensions.md).
+- Open when looking up Generative Extend availability and duration in Premiere Pro. [Generative Extend availability and duration](generative-extend-availability-and-duration.md).
+- Open when looking up Generative Extend banding and source preservation in Premiere Pro. [Generative Extend banding and source preservation](generative-extend-banding-and-source-preservation.md).
+- Open when looking up Generative Extend bit-depth conversion in Premiere Pro. [Generative Extend bit-depth conversion](generative-extend-bit-depth-conversion.md).
+- Open when looking up Generative Extend camera motion in Premiere Pro. [Generative Extend camera motion](generative-extend-camera-motion.md).
+- Open when looking up Generative Extend cloud processing in Premiere Pro. [Generative Extend cloud processing](generative-extend-cloud-processing.md).
+- Open when looking up Generative Extend color depth in Premiere Pro. [Generative Extend color depth](generative-extend-color-depth.md).
+- Open when looking up Generative Extend credit usage in Premiere Pro. [Generative Extend credit usage](generative-extend-credit-usage.md).
+- Open when looking up Generative Extend dialogue handling in Premiere Pro. [Generative Extend dialogue handling](generative-extend-dialogue-handling.md).
+- Open when looking up Generative Extend duration limits in Premiere Pro. [Generative Extend duration limits](generative-extend-duration-limits.md).
+- Open when looking up Generative Extend feedback in Premiere Pro. [Generative Extend feedback](generative-extend-feedback.md).
+- Open when looking up Generative Extend format conversion in Premiere Pro. [Generative Extend format conversion](generative-extend-format-conversion.md).
+- Open when looking up Generative Extend frame-rate conversion in Premiere Pro. [Generative Extend frame-rate conversion](generative-extend-frame-rate-conversion.md).
+- Open when looking up Generative Extend HDR conversion in Premiere Pro. [Generative Extend HDR conversion](generative-extend-hdr-conversion.md).
+- Open when looking up Generative Extend media and model training in Premiere Pro. [Generative Extend media and model training](generative-extend-media-and-model-training.md).
+- Open when looking up Generative Extend media storage in Premiere Pro. [Generative Extend media storage](generative-extend-media-storage.md).
+- Open when looking up Generative Extend resolution conversion in Premiere Pro. [Generative Extend resolution conversion](generative-extend-resolution-conversion.md).
+- Open when looking up Generative Extend slow motion and time lapse in Premiere Pro. [Generative Extend slow motion and time lapse](generative-extend-slow-motion-and-time-lapse.md).
+- Open when looking up Generative Extend text overlays and graphics in Premiere Pro. [Generative Extend text overlays and graphics](generative-extend-text-overlays-and-graphics.md).
+- Open when looking up Regenerate a clip extension in Premiere Pro. [Regenerate a clip extension](regenerate-a-clip-extension.md).
+- Open when looking up Revert generated extensions to source media in Premiere Pro. [Revert generated extensions to source media](revert-generated-extensions-to-source-media.md).
+- Open when looking up Suitable clips for Generative Extend in Premiere Pro. [Suitable clips for Generative Extend](suitable-clips-for-generative-extend.md).
+- Open when looking up Unavailable Revert to Original control in Premiere Pro. [Unavailable Revert to Original control](unavailable-revert-to-original-control.md).

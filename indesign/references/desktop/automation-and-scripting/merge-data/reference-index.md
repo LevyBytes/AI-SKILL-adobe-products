@@ -1,0 +1,34 @@
+# InDesign — Merge data
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and edit data fields in InDesign. [Add and edit data fields](add-and-edit-data-fields.md).
+- Open when looking up Add image fields in the data source file in InDesign. [Add image fields in the data source file](add-image-fields-in-the-data-source-file.md).
+- Open when looking up Add QR codes to merged documents in InDesign. [Add QR codes to merged documents](add-qr-codes-to-merged-documents.md).
+- Open when looking up Blank lines during merge in InDesign. [Blank lines during merge](blank-lines-during-merge.md).
+- Open when looking up Configure parent page placeholders for enhanced workflow in InDesign. [Configure parent page placeholders for enhanced workflow](configure-parent-page-placeholders-for-enhanced-workflow.md).
+- Open when looking up Data Merge panel in InDesign. [Data Merge panel](data-merge-panel.md).
+- Open when looking up Data merging overview in InDesign. [Data merging overview](data-merging-overview.md).
+- Open when looking up Data source files overview in InDesign. [Data source files overview](data-source-files-overview.md).
+- Open when looking up Document automation in InDesign. [Document automation](document-automation.md).
+- Open when looking up Edit data field placeholders in InDesign. [Edit data field placeholders](edit-data-field-placeholders.md).
+- Open when looking up Edit or remove field placeholders in InDesign. [Edit or remove field placeholders](edit-or-remove-field-placeholders.md).
+- Open when looking up Fields and records in InDesign. [Fields and records](fields-and-records.md).
+- Open when looking up How data merge works in InDesign. [How data merge works](how-data-merge-works.md).
+- Open when looking up Insert image data fields in InDesign. [Insert image data fields](insert-image-data-fields.md).
+- Open when looking up Insert text data fields in InDesign. [Insert text data fields](insert-text-data-fields.md).
+- Open when looking up Limits when using multiple records in InDesign. [Limits when using multiple records](limits-when-using-multiple-records.md).
+- Open when looking up macOS in InDesign. [macOS](mac-os.md).
+- Open when looking up Merge Data in InDesign. [Merge Data](merge-data.md).
+- Open when looking up Merge records in InDesign. [Merge records](merge-records.md).
+- Open when looking up Preview and verify placeholder setup in InDesign. [Preview and verify placeholder setup](preview-and-verify-placeholder-setup.md).
+- Open when looking up Preview records in the target document in InDesign. [Preview records in the target document](preview-records-in-the-target-document.md).
+- Open when looking up Remove a data source connection in InDesign. [Remove a data source connection](remove-a-data-source-connection.md).
+- Open when looking up Replace with a different data source in InDesign. [Replace with a different data source](replace-with-a-different-data-source.md).
+- Open when looking up Select and load the data source in InDesign. [Select and load the data source](select-and-load-the-data-source.md).
+- Open when looking up Set content placement options in InDesign. [Set content placement options](set-content-placement-options.md).
+- Open when looking up Set up target documents in InDesign. [Set up target documents](set-up-target-documents.md).
+- Open when looking up Structure and format requirements in InDesign. [Structure and format requirements](structure-and-format-requirements.md).
+- Open when looking up Text data considerations in InDesign. [Text data considerations](text-data-considerations.md).
+- Open when looking up Update an existing data source in InDesign. [Update an existing data source](update-an-existing-data-source.md).
+- Open when looking up Update data fields in InDesign. [Update data fields](update-data-fields.md).
+- Open when looking up Update, remove, or replace data source files in InDesign. [Update, remove, or replace data source files](update-remove-or-replace-data-source-files.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DOCUMENT_SCOPE", "file": "references/document-model/variable-scopes/documentscope.md", "summary": "Open when looking up DOCUMENT_SCOPE in InDesign.", "keywords": ["DOCUMENT_SCOPE"]},
+  {"topic": "SECTION_SCOPE", "file": "references/document-model/variable-scopes/sectionscope.md", "summary": "Open when looking up SECTION_SCOPE in InDesign.", "keywords": ["SECTION_SCOPE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

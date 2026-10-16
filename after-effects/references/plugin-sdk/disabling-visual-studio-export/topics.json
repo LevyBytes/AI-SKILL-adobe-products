@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Exporting Symbols in Effects — Disabling Visual Studio Export", "file": "references/plugin-sdk/disabling-visual-studio-export/exporting-symbols-in-effects-disabling-visual-studio-export.md", "summary": "Open when looking up Exporting Symbols in Effects — Disabling Visual Studio Export in After Effects.", "keywords": ["Exporting Symbols in Effects — Disabling Visual Studio Export"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

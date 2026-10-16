@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Boolean attributes", "file": "references/uxp/using-with-react/boolean-attributes.md", "summary": "Open when looking up Boolean attributes in Photoshop.", "keywords": ["Boolean attributes"]},
+  {"topic": "Event Handling", "file": "references/uxp/using-with-react/event-handling.md", "summary": "Open when looking up Event Handling in Photoshop.", "keywords": ["Event Handling"]},
+  {"topic": "No self-closing tags", "file": "references/uxp/using-with-react/no-self-closing-tags.md", "summary": "Open when looking up No self-closing tags in Photoshop.", "keywords": ["No self-closing tags"]},
+  {"topic": "Use class instead of className", "file": "references/uxp/using-with-react/use-class-instead-of-class-name.md", "summary": "Open when looking up Use class instead of className in Photoshop.", "keywords": ["Use class instead of className"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

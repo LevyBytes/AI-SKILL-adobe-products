@@ -1,0 +1,35 @@
+# Premiere Pro — Technical requirements
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adobe Premiere 24.x technical requirements in Premiere Pro. [Adobe Premiere 24.x technical requirements](adobe-premiere-24-x-technical-requirements.md).
+- Open when looking up Adobe Premiere 25.x technical requirements in Premiere Pro. [Adobe Premiere 25.x technical requirements](adobe-premiere-25-x-technical-requirements.md).
+- Open when looking up Adobe Premiere technical requirements in Premiere Pro. [Adobe Premiere technical requirements](adobe-premiere-technical-requirements.md).
+- Open when looking up Best practices for storage management in Premiere Pro. [Best practices for storage management](best-practices-for-storage-management.md).
+- Open when looking up Customize the Project panel in Premiere Pro. [Customize the Project panel](customize-the-project-panel.md).
+- Open when looking up Download and install in Premiere Pro. [Download and install](download-and-install.md).
+- Open when looking up Enable hardware accelerated decoding support in Premiere Pro. [Enable hardware accelerated decoding support](enable-hardware-accelerated-decoding-support.md).
+- Open when looking up Enable Hardware Encoding in Premiere in Premiere Pro. [Enable Hardware Encoding in Premiere](enable-hardware-encoding-in-premiere.md).
+- Open when looking up Enable Mercury Playback Engine (GPU accelerated) renderer in Premiere Pro. [Enable Mercury Playback Engine (GPU accelerated) renderer](enable-mercury-playback-engine-gpu-accelerated-renderer.md).
+- Open when looking up GPU and GPU Driver requirements in Premiere Pro. [GPU and GPU Driver requirements](gpu-and-gpu-driver-requirements.md).
+- Open when looking up Hardware-accelerated decoding and encoding in Premiere Pro. [Hardware-accelerated decoding and encoding](hardware-accelerated-decoding-and-encoding.md).
+- Open when looking up Improve Premiere and Media Encoder performance with an accelerated renderer in Premiere Pro. [Improve Premiere and Media Encoder performance with an accelerated renderer](accelerated-renderer-performance.md).
+- Open when looking up Keyboard shortcuts in Premiere Pro. [Keyboard shortcuts](keyboard-shortcuts.md).
+- Open when looking up Language versions available for Premiere in Premiere Pro. [Language versions available for Premiere](language-versions-available-for-premiere.md).
+- Open when looking up Local storage setup in Premiere Pro. [Local storage setup](local-storage-setup.md).
+- Open when looking up Mercury Playback Engine (GPU accelerated) renderer for Premiere in Premiere Pro. [Mercury Playback Engine (GPU accelerated) renderer for Premiere](mercury-playback-engine-gpu-accelerated-renderer-for-premiere.md).
+- Open when looking up Mercury Playback Engine (GPU accelerated) renderer in Media Encoder in Premiere Pro. [Mercury Playback Engine (GPU accelerated) renderer in Media Encoder](media-encoder-mercury-gpu-renderer.md).
+- Open when looking up Minimum and recommended system requirements for macOS in Premiere Pro. [Minimum and recommended system requirements for macOS](minimum-and-recommended-system-requirements-for-mac-os.md).
+- Open when looking up Preferences and settings in Premiere Pro. [Preferences and settings](preferences-and-settings.md).
+- Open when looking up Processor, memory, and GPU recommendations in Premiere Pro. [Processor, memory, and GPU recommendations](processor-memory-and-gpu-recommendations.md).
+- Open when looking up Recommended Intel driver and processor versions in Premiere Pro. [Recommended Intel driver and processor versions](recommended-intel-driver-and-processor-versions.md).
+- Open when looking up Set up accessibility features in Premiere Pro. [Set up accessibility features](set-up-accessibility-features.md).
+- Open when looking up Set up Directx HDR for Windows in Premiere Pro. [Set up Directx HDR for Windows](set-up-directx-hdr-for-windows.md).
+- Open when looking up Source and Program Monitor adjustments in Premiere Pro. [Source and Program Monitor adjustments](source-and-program-monitor-adjustments.md).
+- Open when looking up Storage recommendations in Premiere Pro. [Storage recommendations](storage-recommendations.md).
+- Open when looking up Supported codec platforms in Premiere Pro. [Supported codec platforms](supported-codec-platforms.md).
+- Open when looking up Supported codecs and drivers for hardware-accelerated decoding in Premiere Pro. [Supported codecs and drivers for hardware-accelerated decoding](hardware-decoding-codecs-and-drivers.md).
+- Open when looking up Technical Requirements in Premiere Pro. [Technical Requirements](technical-requirements.md).
+- Open when looking up Updating video drivers on macOS in Premiere Pro. [Updating video drivers on macOS](updating-video-drivers-on-mac-os.md).
+- Open when looking up Updating video drivers on Windows in Premiere Pro. [Updating video drivers on Windows](updating-video-drivers-on-windows.md).
+- Open when looking up Use touch and gesture controls in Premiere Pro. [Use touch and gesture controls](use-touch-and-gesture-controls.md).
+- Open when looking up Workflows, workspaces, and panels in Premiere Pro. [Workflows, workspaces, and panels](workflows-workspaces-and-panels.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Assign licenses to users", "file": "references/ai-assistant/request-ai-assistant-access-as-teams-admins/assign-licenses-to-users.md", "summary": "Open when looking up Assign licenses to users in Acrobat.", "keywords": ["Assign licenses to users"]},
+  {"topic": "Purchase licenses", "file": "references/ai-assistant/request-ai-assistant-access-as-teams-admins/purchase-licenses.md", "summary": "Open when looking up Purchase licenses in Acrobat.", "keywords": ["Purchase licenses"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

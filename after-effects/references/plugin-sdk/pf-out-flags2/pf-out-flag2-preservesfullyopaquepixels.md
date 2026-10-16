@@ -1,0 +1,5 @@
+# PF_OutFlag2_PRESERVES_FULLY_OPAQUE_PIXELS
+
+`PF_OutFlag2_PRESERVES_FULLY_OPAQUE_PIXELS`
+
+Preserve those pixels!

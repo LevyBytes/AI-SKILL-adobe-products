@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Cinema 4 d compositions references", "file": "references/desktop/compositions/cinema-4-d-compositions/reference-index.md", "summary": "Open when looking up Cinema 4 d compositions in After Effects.", "keywords": ["Cinema 4 d compositions references"]},
+  {"topic": "Composition Basics", "file": "references/desktop/compositions/composition-basics.md", "summary": "Open when looking up Composition Basics in After Effects.", "keywords": ["Composition Basics"]},
+  {"topic": "Composition Basics references", "file": "references/desktop/compositions/composition-basics/reference-index.md", "summary": "Open when looking up Composition Basics in After Effects.", "keywords": ["Composition Basics references"]},
+  {"topic": "Composition profiler references", "file": "references/desktop/compositions/composition-profiler/reference-index.md", "summary": "Open when looking up Composition profiler in After Effects.", "keywords": ["Composition profiler references"]},
+  {"topic": "Precomposing and nesting references", "file": "references/desktop/compositions/precomposing-and-nesting/reference-index.md", "summary": "Open when looking up Precomposing and nesting in After Effects.", "keywords": ["Precomposing and nesting references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

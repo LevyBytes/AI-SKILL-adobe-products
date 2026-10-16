@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP_DeleteRQItem", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-delete-rq-item.md", "summary": "Open when looking up AEGP_DeleteRQItem in After Effects.", "keywords": ["AEGP_DeleteRQItem"]},
+  {"topic": "AEGP_GetComment", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-comment.md", "summary": "Open when looking up AEGP_GetComment in After Effects.", "keywords": ["AEGP_GetComment"]},
+  {"topic": "AEGP_GetCompFromRQItem", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-comp-from-rq-item.md", "summary": "Open when looking up AEGP_GetCompFromRQItem in After Effects.", "keywords": ["AEGP_GetCompFromRQItem"]},
+  {"topic": "AEGP_GetElapsedTime", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-elapsed-time.md", "summary": "Open when looking up AEGP_GetElapsedTime in After Effects.", "keywords": ["AEGP_GetElapsedTime"]},
+  {"topic": "AEGP_GetLogType", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-log-type.md", "summary": "Open when looking up AEGP_GetLogType in After Effects.", "keywords": ["AEGP_GetLogType"]},
+  {"topic": "AEGP_GetNextRQItem", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-next-rq-item.md", "summary": "Open when looking up AEGP_GetNextRQItem in After Effects.", "keywords": ["AEGP_GetNextRQItem"]},
+  {"topic": "AEGP_GetNumOutputModulesForRQItem", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-num-output-modules-for-rq-item.md", "summary": "Open when looking up AEGP_GetNumOutputModulesForRQItem in After Effects.", "keywords": ["AEGP_GetNumOutputModulesForRQItem"]},
+  {"topic": "AEGP_GetNumRQItems", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-num-rq-items.md", "summary": "Open when looking up AEGP_GetNumRQItems in After Effects.", "keywords": ["AEGP_GetNumRQItems"]},
+  {"topic": "AEGP_GetRenderState", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-render-state.md", "summary": "Open when looking up AEGP_GetRenderState in After Effects.", "keywords": ["AEGP_GetRenderState"]},
+  {"topic": "AEGP_GetRQItemByIndex", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-rq-item-by-index.md", "summary": "Open when looking up AEGP_GetRQItemByIndex in After Effects.", "keywords": ["AEGP_GetRQItemByIndex"]},
+  {"topic": "AEGP_GetStartedTime", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-get-started-time.md", "summary": "Open when looking up AEGP_GetStartedTime in After Effects.", "keywords": ["AEGP_GetStartedTime"]},
+  {"topic": "AEGP_RemoveOutputModule", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-remove-output-module.md", "summary": "Open when looking up AEGP_RemoveOutputModule in After Effects.", "keywords": ["AEGP_RemoveOutputModule"]},
+  {"topic": "AEGP_SetComment", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-set-comment.md", "summary": "Open when looking up AEGP_SetComment in After Effects.", "keywords": ["AEGP_SetComment"]},
+  {"topic": "AEGP_SetLogType", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-set-log-type.md", "summary": "Open when looking up AEGP_SetLogType in After Effects.", "keywords": ["AEGP_SetLogType"]},
+  {"topic": "AEGP_SetRenderState", "file": "references/plugin-sdk/aegprq-item-suite4/aegp-set-render-state.md", "summary": "Open when looking up AEGP_SetRenderState in After Effects.", "keywords": ["AEGP_SetRenderState"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

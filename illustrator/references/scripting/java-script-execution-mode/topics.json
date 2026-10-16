@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Scripting Constants — JavaScriptExecutionMode", "file": "references/scripting/java-script-execution-mode/scripting-constants-java-script-execution-mode.md", "summary": "Open when looking up Scripting Constants — JavaScriptExecutionMode in Illustrator.", "keywords": ["Scripting Constants — JavaScriptExecutionMode"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,22 @@
+# InDesign — Add and edit graphics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and manage graphics from CC libraries in InDesign. [Add and manage graphics from CC libraries](add-and-manage-graphics-from-cc-libraries.md).
+- Open when looking up Add and manage graphics from CC libraries in InDesign. [Add and manage graphics from CC libraries references](add-and-manage-graphics-from-cc-libraries/reference-index.md).
+- Open when looking up Add images to documents in InDesign. [Add images to documents](add-images-to-documents.md).
+- Open when looking up Add images to documents in InDesign. [Add images to documents references](add-images-to-documents/reference-index.md).
+- Open when looking up Create contact sheets in InDesign. [Create contact sheets](create-contact-sheets.md).
+- Open when looking up Edit images in InDesign. [Edit images](edit-images.md).
+- Open when looking up Extend images beyond borders in InDesign. [Extend images beyond borders](extend-images-beyond-borders.md).
+- Open when looking up Extend images beyond borders in InDesign. [Extend images beyond borders references](extend-images-beyond-borders/reference-index.md).
+- Open when looking up Generate alt text for images in InDesign. [Generate alt text for images](generate-alt-text-for-images.md).
+- Open when looking up Generate alt text for images in InDesign. [Generate alt text for images references](generate-alt-text-for-images/reference-index.md).
+- Open when looking up Generate images with text prompts in InDesign. [Generate images with text prompts](generate-images-with-text-prompts.md).
+- Open when looking up Import Firefly assets in InDesign. [Import Firefly assets](import-firefly-assets.md).
+- Open when looking up Import Illustrator graphics in InDesign. [Import Illustrator graphics](import-illustrator-graphics.md).
+- Open when looking up Import Illustrator graphics in InDesign. [Import Illustrator graphics references](import-illustrator-graphics/reference-index.md).
+- Open when looking up Import options for Adobe files in InDesign. [Import options for Adobe files](import-options-for-adobe-files.md).
+- Open when looking up Import options for image formats in InDesign. [Import options for image formats](import-options-for-image-formats.md).
+- Open when looking up Import options for image formats in InDesign. [Import options for image formats references](import-options-for-image-formats/reference-index.md).
+- Open when looking up Use Adobe Stock images in InDesign. [Use Adobe Stock images](use-adobe-stock-images.md).
+- Open when looking up Use Adobe Stock images in InDesign. [Use Adobe Stock images references](use-adobe-stock-images/reference-index.md).

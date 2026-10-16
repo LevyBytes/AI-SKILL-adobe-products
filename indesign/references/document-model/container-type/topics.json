@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ALT", "file": "references/document-model/container-type/alt.md", "summary": "Open when looking up ALT in InDesign.", "keywords": ["ALT"]},
+  {"topic": "BAG", "file": "references/document-model/container-type/bag.md", "summary": "Open when looking up BAG in InDesign.", "keywords": ["BAG"]},
+  {"topic": "SEQ", "file": "references/document-model/container-type/seq.md", "summary": "Open when looking up SEQ in InDesign.", "keywords": ["SEQ"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

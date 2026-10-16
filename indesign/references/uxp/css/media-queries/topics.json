@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "height", "file": "references/uxp/css/media-queries/height.md", "summary": "Open when looking up height in InDesign.", "keywords": ["height"]},
+  {"topic": "height references", "file": "references/uxp/css/media-queries/height/reference-index.md", "summary": "Open when looking up height in InDesign.", "keywords": ["height references"]},
+  {"topic": "prefers-color-scheme", "file": "references/uxp/css/media-queries/prefers-color-scheme.md", "summary": "Open when looking up prefers-color-scheme in InDesign.", "keywords": ["prefers-color-scheme"]},
+  {"topic": "prefers-color-scheme references", "file": "references/uxp/css/media-queries/prefers-color-scheme/reference-index.md", "summary": "Open when looking up prefers-color-scheme in InDesign.", "keywords": ["prefers-color-scheme references"]},
+  {"topic": "width", "file": "references/uxp/css/media-queries/width.md", "summary": "Open when looking up width in InDesign.", "keywords": ["width"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

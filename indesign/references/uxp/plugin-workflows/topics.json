@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Debug your plugin", "file": "references/uxp/plugin-workflows/debug-your-plugin.md", "summary": "Open when looking up Debug your plugin in InDesign.", "keywords": ["Debug your plugin"]},
+  {"topic": "Load plugin", "file": "references/uxp/plugin-workflows/load-plugin.md", "summary": "Open when looking up Load plugin in InDesign.", "keywords": ["Load plugin"]},
+  {"topic": "Package your plugins for distribution", "file": "references/uxp/plugin-workflows/package-your-plugins-for-distribution.md", "summary": "Open when looking up Package your plugins for distribution in InDesign.", "keywords": ["Package your plugins for distribution"]},
+  {"topic": "Watching and Reloading", "file": "references/uxp/plugin-workflows/watching-and-reloading.md", "summary": "Open when looking up Watching and Reloading in InDesign.", "keywords": ["Watching and Reloading"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

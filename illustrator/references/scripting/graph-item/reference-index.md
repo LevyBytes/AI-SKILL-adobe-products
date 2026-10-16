@@ -1,0 +1,41 @@
+# Illustrator — GraphItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up GraphItem.artworkKnockout in Illustrator. [GraphItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up GraphItem.blendingMode in Illustrator. [GraphItem.blendingMode](blending-mode.md).
+- Open when looking up GraphItem.contentVariable in Illustrator. [GraphItem.contentVariable](content-variable.md).
+- Open when looking up GraphItem.controlBounds in Illustrator. [GraphItem.controlBounds](control-bounds.md).
+- Open when looking up GraphItem.duplicate() in Illustrator. [GraphItem.duplicate()](duplicate.md).
+- Open when looking up GraphItem.editable in Illustrator. [GraphItem.editable](editable.md).
+- Open when looking up GraphItem.geometricBounds in Illustrator. [GraphItem.geometricBounds](geometric-bounds.md).
+- Open when looking up GraphItem.height in Illustrator. [GraphItem.height](height.md).
+- Open when looking up GraphItem.hidden in Illustrator. [GraphItem.hidden](hidden.md).
+- Open when looking up GraphItem.isIsolated in Illustrator. [GraphItem.isIsolated](is-isolated.md).
+- Open when looking up GraphItem.layer in Illustrator. [GraphItem.layer](layer.md).
+- Open when looking up GraphItem.left in Illustrator. [GraphItem.left](left.md).
+- Open when looking up GraphItem.locked in Illustrator. [GraphItem.locked](locked.md).
+- Open when looking up GraphItem.move() in Illustrator. [GraphItem.move()](move.md).
+- Open when looking up GraphItem.name in Illustrator. [GraphItem.name](name.md).
+- Open when looking up GraphItem.note in Illustrator. [GraphItem.note](note.md).
+- Open when looking up GraphItem.opacity in Illustrator. [GraphItem.opacity](opacity.md).
+- Open when looking up GraphItem.parent in Illustrator. [GraphItem.parent](parent.md).
+- Open when looking up GraphItem.position in Illustrator. [GraphItem.position](position.md).
+- Open when looking up GraphItem.remove() in Illustrator. [GraphItem.remove()](remove.md).
+- Open when looking up GraphItem.resize() in Illustrator. [GraphItem.resize()](resize.md).
+- Open when looking up GraphItem.rotate() in Illustrator. [GraphItem.rotate()](rotate.md).
+- Open when looking up GraphItem.selected in Illustrator. [GraphItem.selected](selected.md).
+- Open when looking up GraphItem.sliced in Illustrator. [GraphItem.sliced](sliced.md).
+- Open when looking up GraphItem.tags in Illustrator. [GraphItem.tags](tags.md).
+- Open when looking up GraphItem.top in Illustrator. [GraphItem.top](top.md).
+- Open when looking up GraphItem.transform() in Illustrator. [GraphItem.transform()](transform.md).
+- Open when looking up GraphItem.translate() in Illustrator. [GraphItem.translate()](translate.md).
+- Open when looking up GraphItem.typename in Illustrator. [GraphItem.typename](typename.md).
+- Open when looking up GraphItem.uRL in Illustrator. [GraphItem.uRL](u-rl.md).
+- Open when looking up GraphItem.visibilityVariable in Illustrator. [GraphItem.visibilityVariable](visibility-variable.md).
+- Open when looking up GraphItem.visibleBounds in Illustrator. [GraphItem.visibleBounds](visible-bounds.md).
+- Open when looking up GraphItem.width in Illustrator. [GraphItem.width](width.md).
+- Open when looking up GraphItem.wrapInside in Illustrator. [GraphItem.wrapInside](wrap-inside.md).
+- Open when looking up GraphItem.wrapOffset in Illustrator. [GraphItem.wrapOffset](wrap-offset.md).
+- Open when looking up GraphItem.wrapped in Illustrator. [GraphItem.wrapped](wrapped.md).
+- Open when looking up GraphItem.zOrder() in Illustrator. [GraphItem.zOrder()](z-order.md).
+- Open when looking up GraphItem.zOrderPosition in Illustrator. [GraphItem.zOrderPosition](z-order-position.md).

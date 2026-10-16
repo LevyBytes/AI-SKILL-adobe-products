@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Accessibility features in Premiere", "file": "references/desktop/accessibility-overview/accessibility-features-in-premiere.md", "summary": "Open when looking up Accessibility features in Premiere in Premiere Pro.", "keywords": ["Accessibility features in Premiere"]},
+  {"topic": "Accessibility support for editors", "file": "references/desktop/accessibility-overview/accessibility-support-for-editors.md", "summary": "Open when looking up Accessibility support for editors in Premiere Pro.", "keywords": ["Accessibility support for editors"]},
+  {"topic": "Built-in accessibility features", "file": "references/desktop/accessibility-overview/built-in-accessibility-features.md", "summary": "Open when looking up Built-in accessibility features in Premiere Pro.", "keywords": ["Built-in accessibility features"]},
+  {"topic": "Create accessible video content", "file": "references/desktop/accessibility-overview/create-accessible-video-content.md", "summary": "Open when looking up Create accessible video content in Premiere Pro.", "keywords": ["Create accessible video content"]},
+  {"topic": "User accessibility features", "file": "references/desktop/accessibility-overview/user-accessibility-features.md", "summary": "Open when looking up User accessibility features in Premiere Pro.", "keywords": ["User accessibility features"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

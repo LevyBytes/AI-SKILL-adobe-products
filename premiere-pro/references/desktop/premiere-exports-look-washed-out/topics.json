@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Best Practices", "file": "references/desktop/premiere-exports-look-washed-out/best-practices.md", "summary": "Open when looking up Best Practices in Premiere Pro.", "keywords": ["Best Practices"]},
+  {"topic": "Fixing washed-out color after video export from Adobe Premiere", "file": "references/desktop/premiere-exports-look-washed-out/washed-out-export-color.md", "summary": "Open when looking up Fixing washed-out color after video export from Adobe Premiere in Premiere Pro.", "keywords": ["Fixing washed-out color after video export from Adobe Premiere"]},
+  {"topic": "Grade for Your Audience", "file": "references/desktop/premiere-exports-look-washed-out/grade-for-your-audience.md", "summary": "Open when looking up Grade for Your Audience in Premiere Pro.", "keywords": ["Grade for Your Audience"]},
+  {"topic": "Using the Viewer Gamma Feature", "file": "references/desktop/premiere-exports-look-washed-out/using-the-viewer-gamma-feature.md", "summary": "Open when looking up Using the Viewer Gamma Feature in Premiere Pro.", "keywords": ["Using the Viewer Gamma Feature"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.activeLayer", "file": "references/community-types/illustrator/document/active-layer.md", "summary": "Open when looking up Document.activeLayer in Shared Adobe platform.", "keywords": ["Document.activeLayer"]},
+  {"topic": "Document.activeView", "file": "references/community-types/illustrator/document/active-view.md", "summary": "Open when looking up Document.activeView in Shared Adobe platform.", "keywords": ["Document.activeView"]},
+  {"topic": "Document.selection", "file": "references/community-types/illustrator/document/selection.md", "summary": "Open when looking up Document.selection in Shared Adobe platform.", "keywords": ["Document.selection"]},
+  {"topic": "Document.selectObjectsOnActiveArtboard", "file": "references/community-types/illustrator/document/select-objects-on-active-artboard.md", "summary": "Open when looking up Document.selectObjectsOnActiveArtboard in Shared Adobe platform.", "keywords": ["Document.selectObjectsOnActiveArtboard"]},
+  {"topic": "Document.views", "file": "references/community-types/illustrator/document/views.md", "summary": "Open when looking up Document.views in Shared Adobe platform.", "keywords": ["Document.views"]},
+  {"topic": "Document.windowCapture", "file": "references/community-types/illustrator/document/window-capture.md", "summary": "Open when looking up Document.windowCapture in Shared Adobe platform.", "keywords": ["Document.windowCapture"]},
+  {"topic": "Document.showPlacedImages", "file": "references/community-types/illustrator/document/show-placed-images.md", "summary": "Open when looking up Document.showPlacedImages in Shared Adobe platform.", "keywords": ["Document.showPlacedImages"]},
+  {"topic": "Document.processGesture", "file": "references/community-types/illustrator/document/process-gesture.md", "summary": "Open when looking up Document.processGesture in Shared Adobe platform.", "keywords": ["Document.processGesture"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

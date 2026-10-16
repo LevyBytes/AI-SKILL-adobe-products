@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "The XML Object — Mixing XML and JavaScript", "file": "references/scripting/mixing-xml-and-java-script/the-xml-object-mixing-xml-and-java-script.md", "summary": "Open when looking up The XML Object — Mixing XML and JavaScript in Shared Adobe platform.", "keywords": ["The XML Object — Mixing XML and JavaScript"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

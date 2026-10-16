@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "ErrorEvent(typeArg, [eventInit])", "file": "references/uxp/error-event/error-event.md", "summary": "Open when looking up ErrorEvent(typeArg, [eventInit]) in Premiere Pro.", "keywords": ["ErrorEvent(typeArg, [eventInit])"]},
+  {"topic": "window.ErrorEvent", "file": "references/uxp/error-event/overview.md", "summary": "Open when looking up window.ErrorEvent in Premiere Pro.", "keywords": ["window.ErrorEvent"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

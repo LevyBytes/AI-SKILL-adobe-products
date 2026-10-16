@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Current time displays", "file": "references/desktop/get-started/monitor-adjustments/time-controls-in-the-source-and-program-monitors/current-time-displays.md", "summary": "Open when looking up Current time displays in Premiere Pro.", "keywords": ["Current time displays"]},
+  {"topic": "Duration display", "file": "references/desktop/get-started/monitor-adjustments/time-controls-in-the-source-and-program-monitors/duration-display.md", "summary": "Open when looking up Duration display in Premiere Pro.", "keywords": ["Duration display"]},
+  {"topic": "Playhead", "file": "references/desktop/get-started/monitor-adjustments/time-controls-in-the-source-and-program-monitors/playhead.md", "summary": "Open when looking up Playhead in Premiere Pro.", "keywords": ["Playhead"]},
+  {"topic": "Time rulers", "file": "references/desktop/get-started/monitor-adjustments/time-controls-in-the-source-and-program-monitors/time-rulers.md", "summary": "Open when looking up Time rulers in Premiere Pro.", "keywords": ["Time rulers"]},
+  {"topic": "Zoom scroll bars", "file": "references/desktop/get-started/monitor-adjustments/time-controls-in-the-source-and-program-monitors/zoom-scroll-bars.md", "summary": "Open when looking up Zoom scroll bars in Premiere Pro.", "keywords": ["Zoom scroll bars"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

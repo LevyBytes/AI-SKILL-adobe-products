@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Cell.createOutlines", "file": "references/community-types/indesign/cell/create-outlines.md", "summary": "Open when looking up Cell.createOutlines in Shared Adobe platform.", "keywords": ["Cell.createOutlines"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

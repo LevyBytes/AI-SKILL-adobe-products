@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Tips for creating social videos", "file": "references/desktop/render-and-export/export-files/social-and-phone-export/tips-for-creating-social-videos.md", "summary": "Open when looking up Tips for creating social videos in Premiere Pro.", "keywords": ["Tips for creating social videos"]},
+  {"topic": "Tips for creating videos for mobile devices", "file": "references/desktop/render-and-export/export-files/social-and-phone-export/tips-for-creating-videos-for-mobile-devices.md", "summary": "Open when looking up Tips for creating videos for mobile devices in Premiere Pro.", "keywords": ["Tips for creating videos for mobile devices"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

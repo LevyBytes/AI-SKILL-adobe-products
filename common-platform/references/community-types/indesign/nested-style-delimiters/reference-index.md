@@ -1,0 +1,21 @@
+# Shared Adobe platform — NestedStyleDelimiters
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up NestedStyleDelimiters declaration in Shared Adobe platform. [NestedStyleDelimiters declaration](declaration.md).
+- Open when looking up NestedStyleDelimiters.ANY_CHARACTER in Shared Adobe platform. [NestedStyleDelimiters.ANY_CHARACTER](anycharacter.md).
+- Open when looking up NestedStyleDelimiters.ANY_WORD in Shared Adobe platform. [NestedStyleDelimiters.ANY_WORD](anyword.md).
+- Open when looking up NestedStyleDelimiters.AUTO_PAGE_NUMBER in Shared Adobe platform. [NestedStyleDelimiters.AUTO_PAGE_NUMBER](autopagenumber.md).
+- Open when looking up NestedStyleDelimiters.DIGITS in Shared Adobe platform. [NestedStyleDelimiters.DIGITS](digits.md).
+- Open when looking up NestedStyleDelimiters.DROPCAP in Shared Adobe platform. [NestedStyleDelimiters.DROPCAP](dropcap.md).
+- Open when looking up NestedStyleDelimiters.EM_SPACE in Shared Adobe platform. [NestedStyleDelimiters.EM_SPACE](emspace.md).
+- Open when looking up NestedStyleDelimiters.EN_SPACE in Shared Adobe platform. [NestedStyleDelimiters.EN_SPACE](enspace.md).
+- Open when looking up NestedStyleDelimiters.END_NESTED_STYLE in Shared Adobe platform. [NestedStyleDelimiters.END_NESTED_STYLE](endnestedstyle.md).
+- Open when looking up NestedStyleDelimiters.FORCED_LINE_BREAK in Shared Adobe platform. [NestedStyleDelimiters.FORCED_LINE_BREAK](forcedlinebreak.md).
+- Open when looking up NestedStyleDelimiters.INDENT_HERE_TAB in Shared Adobe platform. [NestedStyleDelimiters.INDENT_HERE_TAB](indentheretab.md).
+- Open when looking up NestedStyleDelimiters.INLINE_GRAPHIC in Shared Adobe platform. [NestedStyleDelimiters.INLINE_GRAPHIC](inlinegraphic.md).
+- Open when looking up NestedStyleDelimiters.LETTERS in Shared Adobe platform. [NestedStyleDelimiters.LETTERS](letters.md).
+- Open when looking up NestedStyleDelimiters.NONBREAKING_SPACE in Shared Adobe platform. [NestedStyleDelimiters.NONBREAKING_SPACE](nonbreakingspace.md).
+- Open when looking up NestedStyleDelimiters.REPEAT in Shared Adobe platform. [NestedStyleDelimiters.REPEAT](repeat.md).
+- Open when looking up NestedStyleDelimiters.SECTION_MARKER in Shared Adobe platform. [NestedStyleDelimiters.SECTION_MARKER](sectionmarker.md).
+- Open when looking up NestedStyleDelimiters.SENTENCE in Shared Adobe platform. [NestedStyleDelimiters.SENTENCE](sentence.md).
+- Open when looking up NestedStyleDelimiters.TABS in Shared Adobe platform. [NestedStyleDelimiters.TABS](tabs.md).

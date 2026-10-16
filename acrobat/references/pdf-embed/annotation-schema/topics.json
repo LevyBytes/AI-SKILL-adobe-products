@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Add text annotation data", "file": "references/pdf-embed/annotation-schema/add-text-annotation-data.md", "summary": "Open when looking up Add text annotation data in Acrobat.", "keywords": ["Add text annotation data"]},
+  {"topic": "Annotation data examples", "file": "references/pdf-embed/annotation-schema/annotation-data-examples.md", "summary": "Open when looking up Annotation data examples in Acrobat.", "keywords": ["Annotation data examples"]},
+  {"topic": "Note annotation data", "file": "references/pdf-embed/annotation-schema/note-annotation-data.md", "summary": "Open when looking up Note annotation data in Acrobat.", "keywords": ["Note annotation data"]},
+  {"topic": "Reply annotation data", "file": "references/pdf-embed/annotation-schema/reply-annotation-data.md", "summary": "Open when looking up Reply annotation data in Acrobat.", "keywords": ["Reply annotation data"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

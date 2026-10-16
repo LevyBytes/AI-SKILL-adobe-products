@@ -1,0 +1,9 @@
+# toSource
+
+> String **toSource**()
+>
+> Produces a string that can be executed to recreate the CharacterStyleGroup.
+
+## See also
+
+- [Owning API context](reference-index.md)

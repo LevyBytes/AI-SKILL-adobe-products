@@ -1,0 +1,22 @@
+# After Effects — Expression examples
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Control a wiggle with Slider controls in After Effects. [Control a wiggle with Slider controls](control-a-wiggle-with-slider-controls.md).
+- Open when looking up Create a trail of images in After Effects. [Create a trail of images](create-a-trail-of-images.md).
+- Open when looking up Delay a layer's Position from its parent in After Effects. [Delay a layer's Position from its parent](delay-a-layer-s-position-from-its-parent.md).
+- Open when looking up Download sample project in After Effects. [Download sample project](download-sample-project.md).
+- Open when looking up Expression example: Animate scale at each layer marker in After Effects. [Expression example: Animate scale at each layer marker](expression-example-animate-scale-at-each-layer-marker.md).
+- Open when looking up Expression example: Create a bulge between two layers in After Effects. [Expression example: Create a bulge between two layers](expression-example-create-a-bulge-between-two-layers.md).
+- Open when looking up Expression example: Fade opacity of a 3D layer based on distance from camera in After Effects. [Expression example: Fade opacity of a 3D layer based on distance from camera](camera-distance-opacity-expression.md).
+- Open when looking up Expression example: Flip layer horizontally if facing away from camera in After Effects. [Expression example: Flip layer horizontally if facing away from camera](camera-facing-horizontal-flip.md).
+- Open when looking up Expression example: Make a 3D layer invisible if facing away from camera in After Effects. [Expression example: Make a 3D layer invisible if facing away from camera](camera-facing-layer-visibility.md).
+- Open when looking up Expression example: Match camera focal plane to another layer in After Effects. [Expression example: Match camera focal plane to another layer](expression-example-match-camera-focal-plane-to-another-layer.md).
+- Open when looking up Expression example: Position one layer between two others in After Effects. [Expression example: Position one layer between two others](expression-example-position-one-layer-between-two-others.md).
+- Open when looking up Expression example: Start or stop wiggle at specific time in After Effects. [Expression example: Start or stop wiggle at specific time](expression-example-start-or-stop-wiggle-at-specific-time.md).
+- Open when looking up Get the true Position of a parented layer in After Effects. [Get the true Position of a parented layer](get-the-true-position-of-a-parented-layer.md).
+- Open when looking up Layer revolves in a circle in After Effects. [Layer revolves in a circle](layer-revolves-in-a-circle.md).
+- Open when looking up Loop in After Effects. [Loop](loop.md).
+- Open when looking up More Expression resources in After Effects. [More Expression resources](more-expression-resources.md).
+- Open when looking up Overshoot in After Effects. [Overshoot](overshoot.md).
+- Open when looking up Rotate with time in After Effects. [Rotate with time](rotate-with-time.md).
+- Open when looking up Wiggle randomly in After Effects. [Wiggle randomly](wiggle-randomly.md).

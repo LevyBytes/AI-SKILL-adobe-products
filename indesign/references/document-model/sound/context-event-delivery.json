@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/sound/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "AFTER_ATTRIBUTE_CHANGED", "file": "references/document-model/sound/afterattributechanged.md", "summary": "Open when looking up AFTER_ATTRIBUTE_CHANGED in InDesign.", "keywords": ["AFTER_ATTRIBUTE_CHANGED"]},
+  {"topic": "AFTER_PLACE", "file": "references/document-model/sound/afterplace.md", "summary": "Open when looking up AFTER_PLACE in InDesign.", "keywords": ["AFTER_PLACE"]},
+  {"topic": "BEFORE_PLACE", "file": "references/document-model/sound/beforeplace.md", "summary": "Open when looking up BEFORE_PLACE in InDesign.", "keywords": ["BEFORE_PLACE"]},
+  {"topic": "eventListeners", "file": "references/document-model/sound/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/sound/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "removeEventListener", "file": "references/document-model/sound/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

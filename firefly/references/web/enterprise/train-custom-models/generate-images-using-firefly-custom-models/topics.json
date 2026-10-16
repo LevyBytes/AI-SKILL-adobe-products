@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Before you begin", "file": "references/web/enterprise/train-custom-models/generate-images-using-firefly-custom-models/before-you-begin.md", "summary": "Open when looking up Before you begin in Firefly.", "keywords": ["Before you begin"]},
+  {"topic": "Image format for downloading", "file": "references/web/enterprise/train-custom-models/generate-images-using-firefly-custom-models/image-format-for-downloading.md", "summary": "Open when looking up Image format for downloading in Firefly.", "keywords": ["Image format for downloading"]},
+  {"topic": "Prompt Rewrite for Custom Models (beta)", "file": "references/web/enterprise/train-custom-models/generate-images-using-firefly-custom-models/prompt-rewrite-for-custom-models-beta.md", "summary": "Open when looking up Prompt Rewrite for Custom Models (beta) in Firefly.", "keywords": ["Prompt Rewrite for Custom Models (beta)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

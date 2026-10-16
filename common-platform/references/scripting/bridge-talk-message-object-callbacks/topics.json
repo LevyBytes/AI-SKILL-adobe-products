@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "BridgeTalk message object — BridgeTalk message object callbacks", "file": "references/scripting/bridge-talk-message-object-callbacks/bridgetalk-message-object-callbacks.md", "summary": "Open when looking up BridgeTalk message object — BridgeTalk message object callbacks in Shared Adobe platform.", "keywords": ["BridgeTalk message object — BridgeTalk message object callbacks"]},
+  {"topic": "onError()", "file": "references/scripting/bridge-talk-message-object-callbacks/on-error.md", "summary": "Open when looking up onError() in Shared Adobe platform.", "keywords": ["onError()"]},
+  {"topic": "onReceived()", "file": "references/scripting/bridge-talk-message-object-callbacks/on-received.md", "summary": "Open when looking up onReceived() in Shared Adobe platform.", "keywords": ["onReceived()"]},
+  {"topic": "onResult()", "file": "references/scripting/bridge-talk-message-object-callbacks/on-result.md", "summary": "Open when looking up onResult() in Shared Adobe platform.", "keywords": ["onResult()"]},
+  {"topic": "onTimeout()", "file": "references/scripting/bridge-talk-message-object-callbacks/on-timeout.md", "summary": "Open when looking up onTimeout() in Shared Adobe platform.", "keywords": ["onTimeout()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

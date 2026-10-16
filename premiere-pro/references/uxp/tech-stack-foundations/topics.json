@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Debugging", "file": "references/uxp/tech-stack-foundations/debugging.md", "summary": "Open when looking up Debugging in Premiere Pro.", "keywords": ["Debugging"]},
+  {"topic": "Frameworks", "file": "references/uxp/tech-stack-foundations/frameworks.md", "summary": "Open when looking up Frameworks in Premiere Pro.", "keywords": ["Frameworks"]},
+  {"topic": "Programming Languages", "file": "references/uxp/tech-stack-foundations/programming-languages.md", "summary": "Open when looking up Programming Languages in Premiere Pro.", "keywords": ["Programming Languages"]},
+  {"topic": "Reading Materials", "file": "references/uxp/tech-stack-foundations/reading-materials.md", "summary": "Open when looking up Reading Materials in Premiere Pro.", "keywords": ["Reading Materials"]},
+  {"topic": "Static Analysis Tooling", "file": "references/uxp/tech-stack-foundations/static-analysis-tooling.md", "summary": "Open when looking up Static Analysis Tooling in Premiere Pro.", "keywords": ["Static Analysis Tooling"]},
+  {"topic": "System Requirements", "file": "references/uxp/tech-stack-foundations/system-requirements.md", "summary": "Open when looking up System Requirements in Premiere Pro.", "keywords": ["System Requirements"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

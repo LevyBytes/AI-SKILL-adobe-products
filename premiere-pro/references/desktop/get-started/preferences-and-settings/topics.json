@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "General preferences", "file": "references/desktop/get-started/preferences-and-settings/general-preferences.md", "summary": "Open when looking up General preferences in Premiere Pro.", "keywords": ["General preferences"]},
+  {"topic": "Set Appearance preferences", "file": "references/desktop/get-started/preferences-and-settings/set-appearance-preferences.md", "summary": "Open when looking up Set Appearance preferences in Premiere Pro.", "keywords": ["Set Appearance preferences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

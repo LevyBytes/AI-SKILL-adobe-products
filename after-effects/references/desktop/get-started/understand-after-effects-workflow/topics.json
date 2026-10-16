@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "After Effects Workflows", "file": "references/desktop/get-started/understand-after-effects-workflow/after-effects-workflows.md", "summary": "Open when looking up After Effects Workflows in After Effects.", "keywords": ["After Effects Workflows"]},
+  {"topic": "After Effects Workflows references", "file": "references/desktop/get-started/understand-after-effects-workflow/after-effects-workflows/reference-index.md", "summary": "Open when looking up After Effects Workflows in After Effects.", "keywords": ["After Effects Workflows references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

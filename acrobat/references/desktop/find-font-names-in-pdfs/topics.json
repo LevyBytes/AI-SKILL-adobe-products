@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "How to discover which fonts a PDF relies on, using Adobe Acrobat.", "file": "references/desktop/find-font-names-in-pdfs/identify-pdf-fonts.md", "summary": "Open when looking up How to discover which fonts a PDF relies on, using Adobe Acrobat. in Acrobat.", "keywords": ["How to discover which fonts a PDF relies on, using Adobe Acrobat."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

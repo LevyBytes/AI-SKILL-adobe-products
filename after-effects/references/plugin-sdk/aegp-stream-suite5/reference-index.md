@@ -1,0 +1,26 @@
+# After Effects — AEGP_StreamSuite5
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_CanVaryOverTime in After Effects. [AEGP_CanVaryOverTime](aegp-can-vary-over-time.md).
+- Open when looking up AEGP_DisposeStream in After Effects. [AEGP_DisposeStream](aegp-dispose-stream.md).
+- Open when looking up AEGP_DisposeStreamValue in After Effects. [AEGP_DisposeStreamValue](aegp-dispose-stream-value.md).
+- Open when looking up AEGP_DuplicateStreamRef in After Effects. [AEGP_DuplicateStreamRef](aegp-duplicate-stream-ref.md).
+- Open when looking up AEGP_GetEffectNumParamStreams in After Effects. [AEGP_GetEffectNumParamStreams](aegp-get-effect-num-param-streams.md).
+- Open when looking up AEGP_GetExpression in After Effects. [AEGP_GetExpression](aegp-get-expression.md).
+- Open when looking up AEGP_GetExpressionState in After Effects. [AEGP_GetExpressionState](aegp-get-expression-state.md).
+- Open when looking up AEGP_GetLayerStreamValue in After Effects. [AEGP_GetLayerStreamValue](aegp-get-layer-stream-value.md).
+- Open when looking up AEGP_GetNewEffectStreamByIndex in After Effects. [AEGP_GetNewEffectStreamByIndex](aegp-get-new-effect-stream-by-index.md).
+- Open when looking up AEGP_GetNewLayerStream in After Effects. [AEGP_GetNewLayerStream](aegp-get-new-layer-stream.md).
+- Open when looking up AEGP_GetNewMaskOpacity in After Effects. [AEGP_GetNewMaskOpacity](aegp-get-new-mask-opacity.md).
+- Open when looking up AEGP_GetNewMaskStream in After Effects. [AEGP_GetNewMaskStream](aegp-get-new-mask-stream.md).
+- Open when looking up AEGP_GetNewStreamValue in After Effects. [AEGP_GetNewStreamValue](aegp-get-new-stream-value.md).
+- Open when looking up AEGP_GetStreamName in After Effects. [AEGP_GetStreamName](aegp-get-stream-name.md).
+- Open when looking up AEGP_GetStreamProperties in After Effects. [AEGP_GetStreamProperties](aegp-get-stream-properties.md).
+- Open when looking up AEGP_GetStreamType in After Effects. [AEGP_GetStreamType](aegp-get-stream-type.md).
+- Open when looking up AEGP_GetStreamUnitsText in After Effects. [AEGP_GetStreamUnitsText](aegp-get-stream-units-text.md).
+- Open when looking up AEGP_GetValidInterpolations in After Effects. [AEGP_GetValidInterpolations](aegp-get-valid-interpolations.md).
+- Open when looking up AEGP_IsStreamLegal in After Effects. [AEGP_IsStreamLegal](aegp-is-stream-legal.md).
+- Open when looking up AEGP_IsStreamTimevarying in After Effects. [AEGP_IsStreamTimevarying](aegp-is-stream-timevarying.md).
+- Open when looking up AEGP_SetExpression in After Effects. [AEGP_SetExpression](aegp-set-expression.md).
+- Open when looking up AEGP_SetExpressionState in After Effects. [AEGP_SetExpressionState](aegp-set-expression-state.md).
+- Open when looking up AEGP_SetStreamValue in After Effects. [AEGP_SetStreamValue](aegp-set-stream-value.md).

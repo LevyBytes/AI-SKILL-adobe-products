@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Gradients.add()", "file": "references/scripting/gradients/add.md", "summary": "Open when looking up Gradients.add() in Illustrator.", "keywords": ["Gradients.add()"]},
+  {"topic": "Gradients.getByName()", "file": "references/scripting/gradients/get-by-name.md", "summary": "Open when looking up Gradients.getByName() in Illustrator.", "keywords": ["Gradients.getByName()"]},
+  {"topic": "Gradients.index()", "file": "references/scripting/gradients/index.md", "summary": "Open when looking up Gradients.index() in Illustrator.", "keywords": ["Gradients.index()"]},
+  {"topic": "Gradients.length", "file": "references/scripting/gradients/length.md", "summary": "Open when looking up Gradients.length in Illustrator.", "keywords": ["Gradients.length"]},
+  {"topic": "Gradients.parent", "file": "references/scripting/gradients/parent.md", "summary": "Open when looking up Gradients.parent in Illustrator.", "keywords": ["Gradients.parent"]},
+  {"topic": "Gradients.removeAll()", "file": "references/scripting/gradients/remove-all.md", "summary": "Open when looking up Gradients.removeAll() in Illustrator.", "keywords": ["Gradients.removeAll()"]},
+  {"topic": "Gradients.typename", "file": "references/scripting/gradients/typename.md", "summary": "Open when looking up Gradients.typename in Illustrator.", "keywords": ["Gradients.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

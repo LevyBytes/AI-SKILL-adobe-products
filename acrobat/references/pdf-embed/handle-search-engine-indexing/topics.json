@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Alternative approaches", "file": "references/pdf-embed/handle-search-engine-indexing/alternative-approaches.md", "summary": "Open when looking up Alternative approaches in Acrobat.", "keywords": ["Alternative approaches"]},
+  {"topic": "Sitemap", "file": "references/pdf-embed/handle-search-engine-indexing/sitemap.md", "summary": "Open when looking up Sitemap in Acrobat.", "keywords": ["Sitemap"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

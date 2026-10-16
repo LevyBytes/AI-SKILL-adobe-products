@@ -1,0 +1,34 @@
+# InDesign — Apply layout adjustments
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Access Flex Layout options in InDesign. [Access Flex Layout options](access-flex-layout-options.md).
+- Open when looking up Adjust page or spread layout in InDesign. [Adjust page or spread layout](adjust-page-or-spread-layout.md).
+- Open when looking up Alternate layout options in InDesign. [Alternate layout options](alternate-layout-options.md).
+- Open when looking up Apply Flex Layout properties in InDesign. [Apply Flex Layout properties](apply-flex-layout-properties.md).
+- Open when looking up Apply Layout Adjustments in InDesign. [Apply Layout Adjustments](apply-layout-adjustments.md).
+- Open when looking up Change document layout settings in InDesign. [Change document layout settings](change-document-layout-settings.md).
+- Open when looking up Create a Flex Layout in InDesign. [Create a Flex Layout](create-a-flex-layout.md).
+- Open when looking up Create a Flex Layout in an existing document in InDesign. [Create a Flex Layout in an existing document](create-a-flex-layout-in-an-existing-document.md).
+- Open when looking up Create alternate layouts in InDesign. [Create alternate layouts](create-alternate-layouts.md).
+- Open when looking up Create an empty Flex layout in InDesign. [Create an empty Flex layout](create-an-empty-flex-layout.md).
+- Open when looking up Create team pages using Flex Layout in InDesign. [Create team pages using Flex Layout](create-team-pages-using-flex-layout.md).
+- Open when looking up Define Flex Layout child properties in styles in InDesign. [Define Flex Layout child properties in styles](define-flex-layout-child-properties-in-styles.md).
+- Open when looking up Flex Layout child in InDesign. [Flex Layout child](flex-layout-child.md).
+- Open when looking up Flex Layout conflicts in InDesign. [Flex Layout conflicts](flex-layout-conflicts.md).
+- Open when looking up Flex Layout container in InDesign. [Flex Layout container](flex-layout-container.md).
+- Open when looking up Flex Layout overview in InDesign. [Flex Layout overview](flex-layout-overview.md).
+- Open when looking up Flex Layout panel in InDesign. [Flex Layout panel](flex-layout-panel.md).
+- Open when looking up Grids in InDesign. [Grids](grids.md).
+- Open when looking up How conflicts are resolved in InDesign. [How conflicts are resolved](how-conflicts-are-resolved.md).
+- Open when looking up How liquid page rules work in InDesign. [How liquid page rules work](how-liquid-page-rules-work.md).
+- Open when looking up Liquid page rules and alternate layouts in InDesign. [Liquid page rules and alternate layouts](liquid-page-rules-and-alternate-layouts.md).
+- Open when looking up Liquid page rules overview in InDesign. [Liquid page rules overview](liquid-page-rules-overview.md).
+- Open when looking up On‑canvas padding and spacing controls in InDesign. [On‑canvas padding and spacing controls](on-canvas-padding-and-spacing-controls.md).
+- Open when looking up Rulers and measure tools in InDesign. [Rulers and measure tools](rulers-and-measure-tools.md).
+- Open when looking up Selection indicators in flex layouts in InDesign. [Selection indicators in flex layouts](selection-indicators-in-flex-layouts.md).
+- Open when looking up Set Flex Layout container styles in InDesign. [Set Flex Layout container styles](set-flex-layout-container-styles.md).
+- Open when looking up Special content considerations in InDesign. [Special content considerations](special-content-considerations.md).
+- Open when looking up Transform and shear Flex Layout frames in InDesign. [Transform and shear Flex Layout frames](transform-and-shear-flex-layout-frames.md).
+- Open when looking up Types of liquid page rules in InDesign. [Types of liquid page rules](types-of-liquid-page-rules.md).
+- Open when looking up What is a Flex layout? in InDesign. [What is a Flex layout?](what-is-a-flex-layout.md).
+- Open when looking up Work with nested Flex Layouts in InDesign. [Work with nested Flex Layouts](work-with-nested-flex-layouts.md).

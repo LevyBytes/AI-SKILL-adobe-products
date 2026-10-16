@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "deselect", "file": "references/uxp/host-api/path-item/deselect.md", "summary": "Open when looking up deselect in Photoshop.", "keywords": ["deselect"]},
+  {"topic": "duplicate", "file": "references/uxp/host-api/path-item/duplicate.md", "summary": "Open when looking up duplicate in Photoshop.", "keywords": ["duplicate"]},
+  {"topic": "fillPath", "file": "references/uxp/host-api/path-item/fill-path.md", "summary": "Open when looking up fillPath in Photoshop.", "keywords": ["fillPath"]},
+  {"topic": "makeClippingPath", "file": "references/uxp/host-api/path-item/make-clipping-path.md", "summary": "Open when looking up makeClippingPath in Photoshop.", "keywords": ["makeClippingPath"]},
+  {"topic": "makeSelection", "file": "references/uxp/host-api/path-item/make-selection.md", "summary": "Open when looking up makeSelection in Photoshop.", "keywords": ["makeSelection"]},
+  {"topic": "remove", "file": "references/uxp/host-api/path-item/remove.md", "summary": "Open when looking up remove in Photoshop.", "keywords": ["remove"]},
+  {"topic": "select", "file": "references/uxp/host-api/path-item/select.md", "summary": "Open when looking up select in Photoshop.", "keywords": ["select"]},
+  {"topic": "strokePath", "file": "references/uxp/host-api/path-item/stroke-path.md", "summary": "Open when looking up strokePath in Photoshop.", "keywords": ["strokePath"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

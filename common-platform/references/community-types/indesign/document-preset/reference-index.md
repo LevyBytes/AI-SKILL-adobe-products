@@ -1,0 +1,35 @@
+# Shared Adobe platform — DocumentPreset
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up DocumentPreset declaration in Shared Adobe platform. [DocumentPreset declaration](declaration.md).
+- Open when looking up DocumentPreset event listeners in Shared Adobe platform. [DocumentPreset event listeners](event-listeners.md).
+- Open when looking up DocumentPreset identity and parent in Shared Adobe platform. [DocumentPreset identity and parent](identity-and-parent.md).
+- Open when looking up DocumentPreset labels and metadata in Shared Adobe platform. [DocumentPreset labels and metadata](labels-and-metadata.md).
+- Open when looking up DocumentPreset object lifecycle in Shared Adobe platform. [DocumentPreset object lifecycle](object-lifecycle.md).
+- Open when looking up DocumentPreset object resolution in Shared Adobe platform. [DocumentPreset object resolution](object-resolution.md).
+- Open when looking up DocumentPreset.bottom in Shared Adobe platform. [DocumentPreset.bottom](bottom.md).
+- Open when looking up DocumentPreset.columnCount in Shared Adobe platform. [DocumentPreset.columnCount](column-count.md).
+- Open when looking up DocumentPreset.columnGutter in Shared Adobe platform. [DocumentPreset.columnGutter](column-gutter.md).
+- Open when looking up DocumentPreset.createPrimaryTextFrame in Shared Adobe platform. [DocumentPreset.createPrimaryTextFrame](create-primary-text-frame.md).
+- Open when looking up DocumentPreset.documentBleedBottomOffset in Shared Adobe platform. [DocumentPreset.documentBleedBottomOffset](document-bleed-bottom-offset.md).
+- Open when looking up DocumentPreset.documentBleedInsideOrLeftOffset in Shared Adobe platform. [DocumentPreset.documentBleedInsideOrLeftOffset](document-bleed-inside-or-left-offset.md).
+- Open when looking up DocumentPreset.documentBleedOutsideOrRightOffset in Shared Adobe platform. [DocumentPreset.documentBleedOutsideOrRightOffset](document-bleed-outside-or-right-offset.md).
+- Open when looking up DocumentPreset.documentBleedTopOffset in Shared Adobe platform. [DocumentPreset.documentBleedTopOffset](document-bleed-top-offset.md).
+- Open when looking up DocumentPreset.documentBleedUniformSize in Shared Adobe platform. [DocumentPreset.documentBleedUniformSize](document-bleed-uniform-size.md).
+- Open when looking up DocumentPreset.documentSlugUniformSize in Shared Adobe platform. [DocumentPreset.documentSlugUniformSize](document-slug-uniform-size.md).
+- Open when looking up DocumentPreset.facingPages in Shared Adobe platform. [DocumentPreset.facingPages](facing-pages.md).
+- Open when looking up DocumentPreset.intent in Shared Adobe platform. [DocumentPreset.intent](intent.md).
+- Open when looking up DocumentPreset.left in Shared Adobe platform. [DocumentPreset.left](left.md).
+- Open when looking up DocumentPreset.pageHeight in Shared Adobe platform. [DocumentPreset.pageHeight](page-height.md).
+- Open when looking up DocumentPreset.pageOrientation in Shared Adobe platform. [DocumentPreset.pageOrientation](page-orientation.md).
+- Open when looking up DocumentPreset.pageSize in Shared Adobe platform. [DocumentPreset.pageSize](page-size.md).
+- Open when looking up DocumentPreset.pagesPerDocument in Shared Adobe platform. [DocumentPreset.pagesPerDocument](pages-per-document.md).
+- Open when looking up DocumentPreset.pageWidth in Shared Adobe platform. [DocumentPreset.pageWidth](page-width.md).
+- Open when looking up DocumentPreset.properties in Shared Adobe platform. [DocumentPreset.properties](properties.md).
+- Open when looking up DocumentPreset.right in Shared Adobe platform. [DocumentPreset.right](right.md).
+- Open when looking up DocumentPreset.slugBottomOffset in Shared Adobe platform. [DocumentPreset.slugBottomOffset](slug-bottom-offset.md).
+- Open when looking up DocumentPreset.slugInsideOrLeftOffset in Shared Adobe platform. [DocumentPreset.slugInsideOrLeftOffset](slug-inside-or-left-offset.md).
+- Open when looking up DocumentPreset.slugRightOrOutsideOffset in Shared Adobe platform. [DocumentPreset.slugRightOrOutsideOffset](slug-right-or-outside-offset.md).
+- Open when looking up DocumentPreset.slugTopOffset in Shared Adobe platform. [DocumentPreset.slugTopOffset](slug-top-offset.md).
+- Open when looking up DocumentPreset.startPageNumber in Shared Adobe platform. [DocumentPreset.startPageNumber](start-page-number.md).
+- Open when looking up DocumentPreset.top in Shared Adobe platform. [DocumentPreset.top](top.md).

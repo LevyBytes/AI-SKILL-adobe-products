@@ -1,0 +1,41 @@
+# Shared Adobe platform — UIColors
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up UIColors declaration in Shared Adobe platform. [UIColors declaration](declaration.md).
+- Open when looking up UIColors.BLACK in Shared Adobe platform. [UIColors.BLACK](black.md).
+- Open when looking up UIColors.BLUE in Shared Adobe platform. [UIColors.BLUE](blue.md).
+- Open when looking up UIColors.BRICK_RED in Shared Adobe platform. [UIColors.BRICK_RED](brickred.md).
+- Open when looking up UIColors.BROWN in Shared Adobe platform. [UIColors.BROWN](brown.md).
+- Open when looking up UIColors.BURGUNDY in Shared Adobe platform. [UIColors.BURGUNDY](burgundy.md).
+- Open when looking up UIColors.CHARCOAL in Shared Adobe platform. [UIColors.CHARCOAL](charcoal.md).
+- Open when looking up UIColors.CUTE_TEAL in Shared Adobe platform. [UIColors.CUTE_TEAL](cuteteal.md).
+- Open when looking up UIColors.CYAN in Shared Adobe platform. [UIColors.CYAN](cyan.md).
+- Open when looking up UIColors.DARK_BLUE in Shared Adobe platform. [UIColors.DARK_BLUE](darkblue.md).
+- Open when looking up UIColors.DARK_GREEN in Shared Adobe platform. [UIColors.DARK_GREEN](darkgreen.md).
+- Open when looking up UIColors.FIESTA in Shared Adobe platform. [UIColors.FIESTA](fiesta.md).
+- Open when looking up UIColors.GOLD in Shared Adobe platform. [UIColors.GOLD](gold.md).
+- Open when looking up UIColors.GRASS_GREEN in Shared Adobe platform. [UIColors.GRASS_GREEN](grassgreen.md).
+- Open when looking up UIColors.GRAY in Shared Adobe platform. [UIColors.GRAY](gray.md).
+- Open when looking up UIColors.GREEN in Shared Adobe platform. [UIColors.GREEN](green.md).
+- Open when looking up UIColors.GRID_BLUE in Shared Adobe platform. [UIColors.GRID_BLUE](gridblue.md).
+- Open when looking up UIColors.GRID_GREEN in Shared Adobe platform. [UIColors.GRID_GREEN](gridgreen.md).
+- Open when looking up UIColors.GRID_ORANGE in Shared Adobe platform. [UIColors.GRID_ORANGE](gridorange.md).
+- Open when looking up UIColors.LAVENDER in Shared Adobe platform. [UIColors.LAVENDER](lavender.md).
+- Open when looking up UIColors.LIGHT_BLUE in Shared Adobe platform. [UIColors.LIGHT_BLUE](lightblue.md).
+- Open when looking up UIColors.LIGHT_GRAY in Shared Adobe platform. [UIColors.LIGHT_GRAY](lightgray.md).
+- Open when looking up UIColors.LIGHT_OLIVE in Shared Adobe platform. [UIColors.LIGHT_OLIVE](lightolive.md).
+- Open when looking up UIColors.LIPSTICK in Shared Adobe platform. [UIColors.LIPSTICK](lipstick.md).
+- Open when looking up UIColors.MAGENTA in Shared Adobe platform. [UIColors.MAGENTA](magenta.md).
+- Open when looking up UIColors.OCHRE in Shared Adobe platform. [UIColors.OCHRE](ochre.md).
+- Open when looking up UIColors.OLIVE_GREEN in Shared Adobe platform. [UIColors.OLIVE_GREEN](olivegreen.md).
+- Open when looking up UIColors.ORANGE in Shared Adobe platform. [UIColors.ORANGE](orange.md).
+- Open when looking up UIColors.PEACH in Shared Adobe platform. [UIColors.PEACH](peach.md).
+- Open when looking up UIColors.PINK in Shared Adobe platform. [UIColors.PINK](pink.md).
+- Open when looking up UIColors.PURPLE in Shared Adobe platform. [UIColors.PURPLE](purple.md).
+- Open when looking up UIColors.RED in Shared Adobe platform. [UIColors.RED](red.md).
+- Open when looking up UIColors.SULPHUR in Shared Adobe platform. [UIColors.SULPHUR](sulphur.md).
+- Open when looking up UIColors.TAN in Shared Adobe platform. [UIColors.TAN](tan.md).
+- Open when looking up UIColors.TEAL in Shared Adobe platform. [UIColors.TEAL](teal.md).
+- Open when looking up UIColors.VIOLET in Shared Adobe platform. [UIColors.VIOLET](violet.md).
+- Open when looking up UIColors.WHITE in Shared Adobe platform. [UIColors.WHITE](white.md).
+- Open when looking up UIColors.YELLOW in Shared Adobe platform. [UIColors.YELLOW](yellow.md).

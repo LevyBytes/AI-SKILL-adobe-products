@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DELAYED", "file": "references/document-model/live-drawing-options/delayed.md", "summary": "Open when looking up DELAYED in InDesign.", "keywords": ["DELAYED"]},
+  {"topic": "IMMEDIATELY", "file": "references/document-model/live-drawing-options/immediately.md", "summary": "Open when looking up IMMEDIATELY in InDesign.", "keywords": ["IMMEDIATELY"]},
+  {"topic": "NEVER", "file": "references/document-model/live-drawing-options/never.md", "summary": "Open when looking up NEVER in InDesign.", "keywords": ["NEVER"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

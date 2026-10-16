@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Preferences object", "file": "references/scripting/preferences/preferences-object.md", "summary": "Open when looking up Preferences object in After Effects.", "keywords": ["Preferences object"]},
+  {"topic": "Preferences.deletePref()", "file": "references/scripting/preferences/delete-pref.md", "summary": "Open when looking up Preferences.deletePref() in After Effects.", "keywords": ["Preferences.deletePref()"]},
+  {"topic": "Preferences.getPrefAsBool()", "file": "references/scripting/preferences/get-pref-as-bool.md", "summary": "Open when looking up Preferences.getPrefAsBool() in After Effects.", "keywords": ["Preferences.getPrefAsBool()"]},
+  {"topic": "Preferences.getPrefAsFloat()", "file": "references/scripting/preferences/get-pref-as-float.md", "summary": "Open when looking up Preferences.getPrefAsFloat() in After Effects.", "keywords": ["Preferences.getPrefAsFloat()"]},
+  {"topic": "Preferences.getPrefAsLong()", "file": "references/scripting/preferences/get-pref-as-long.md", "summary": "Open when looking up Preferences.getPrefAsLong() in After Effects.", "keywords": ["Preferences.getPrefAsLong()"]},
+  {"topic": "Preferences.getPrefAsString()", "file": "references/scripting/preferences/get-pref-as-string.md", "summary": "Open when looking up Preferences.getPrefAsString() in After Effects.", "keywords": ["Preferences.getPrefAsString()"]},
+  {"topic": "Preferences.havePref()", "file": "references/scripting/preferences/have-pref.md", "summary": "Open when looking up Preferences.havePref() in After Effects.", "keywords": ["Preferences.havePref()"]},
+  {"topic": "Preferences.reload()", "file": "references/scripting/preferences/reload.md", "summary": "Open when looking up Preferences.reload() in After Effects.", "keywords": ["Preferences.reload()"]},
+  {"topic": "Preferences.savePrefAsBool()", "file": "references/scripting/preferences/save-pref-as-bool.md", "summary": "Open when looking up Preferences.savePrefAsBool() in After Effects.", "keywords": ["Preferences.savePrefAsBool()"]},
+  {"topic": "Preferences.savePrefAsFloat()", "file": "references/scripting/preferences/save-pref-as-float.md", "summary": "Open when looking up Preferences.savePrefAsFloat() in After Effects.", "keywords": ["Preferences.savePrefAsFloat()"]},
+  {"topic": "Preferences.savePrefAsLong()", "file": "references/scripting/preferences/save-pref-as-long.md", "summary": "Open when looking up Preferences.savePrefAsLong() in After Effects.", "keywords": ["Preferences.savePrefAsLong()"]},
+  {"topic": "Preferences.savePrefAsString()", "file": "references/scripting/preferences/save-pref-as-string.md", "summary": "Open when looking up Preferences.savePrefAsString() in After Effects.", "keywords": ["Preferences.savePrefAsString()"]},
+  {"topic": "Preferences.saveToDisk()", "file": "references/scripting/preferences/save-to-disk.md", "summary": "Open when looking up Preferences.saveToDisk() in After Effects.", "keywords": ["Preferences.saveToDisk()"]},
+  {"topic": "PREFType Enum", "file": "references/scripting/preferences/pref-type-enum.md", "summary": "Open when looking up PREFType Enum in After Effects.", "keywords": ["PREFType Enum"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

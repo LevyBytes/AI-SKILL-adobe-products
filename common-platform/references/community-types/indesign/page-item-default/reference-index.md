@@ -1,0 +1,45 @@
+# Shared Adobe platform — PageItemDefault
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PageItemDefault declaration in Shared Adobe platform. [PageItemDefault declaration](declaration.md).
+- Open when looking up PageItemDefault.appliedGraphicObjectStyle in Shared Adobe platform. [PageItemDefault.appliedGraphicObjectStyle](applied-graphic-object-style.md).
+- Open when looking up PageItemDefault.appliedGridObjectStyle in Shared Adobe platform. [PageItemDefault.appliedGridObjectStyle](applied-grid-object-style.md).
+- Open when looking up PageItemDefault.appliedTextObjectStyle in Shared Adobe platform. [PageItemDefault.appliedTextObjectStyle](applied-text-object-style.md).
+- Open when looking up PageItemDefault.applyObjectStyle in Shared Adobe platform. [PageItemDefault.applyObjectStyle](apply-object-style.md).
+- Open when looking up PageItemDefault.arrowHeadAlignment in Shared Adobe platform. [PageItemDefault.arrowHeadAlignment](arrow-head-alignment.md).
+- Open when looking up PageItemDefault.bottomLeftCornerOption in Shared Adobe platform. [PageItemDefault.bottomLeftCornerOption](bottom-left-corner-option.md).
+- Open when looking up PageItemDefault.bottomLeftCornerRadius in Shared Adobe platform. [PageItemDefault.bottomLeftCornerRadius](bottom-left-corner-radius.md).
+- Open when looking up PageItemDefault.bottomRightCornerOption in Shared Adobe platform. [PageItemDefault.bottomRightCornerOption](bottom-right-corner-option.md).
+- Open when looking up PageItemDefault.bottomRightCornerRadius in Shared Adobe platform. [PageItemDefault.bottomRightCornerRadius](bottom-right-corner-radius.md).
+- Open when looking up PageItemDefault.clearObjectStyleOverrides in Shared Adobe platform. [PageItemDefault.clearObjectStyleOverrides](clear-object-style-overrides.md).
+- Open when looking up PageItemDefault.contentTransparencySettings in Shared Adobe platform. [PageItemDefault.contentTransparencySettings](content-transparency-settings.md).
+- Open when looking up PageItemDefault.endCap in Shared Adobe platform. [PageItemDefault.endCap](end-cap.md).
+- Open when looking up PageItemDefault.endJoin in Shared Adobe platform. [PageItemDefault.endJoin](end-join.md).
+- Open when looking up PageItemDefault.fillColor in Shared Adobe platform. [PageItemDefault.fillColor](fill-color.md).
+- Open when looking up PageItemDefault.fillTint in Shared Adobe platform. [PageItemDefault.fillTint](fill-tint.md).
+- Open when looking up PageItemDefault.fillTransparencySettings in Shared Adobe platform. [PageItemDefault.fillTransparencySettings](fill-transparency-settings.md).
+- Open when looking up PageItemDefault.gapColor in Shared Adobe platform. [PageItemDefault.gapColor](gap-color.md).
+- Open when looking up PageItemDefault.gapTint in Shared Adobe platform. [PageItemDefault.gapTint](gap-tint.md).
+- Open when looking up PageItemDefault.gradientFillAngle in Shared Adobe platform. [PageItemDefault.gradientFillAngle](gradient-fill-angle.md).
+- Open when looking up PageItemDefault.gradientStrokeAngle in Shared Adobe platform. [PageItemDefault.gradientStrokeAngle](gradient-stroke-angle.md).
+- Open when looking up PageItemDefault.leftArrowHeadScale in Shared Adobe platform. [PageItemDefault.leftArrowHeadScale](left-arrow-head-scale.md).
+- Open when looking up PageItemDefault.leftLineEnd in Shared Adobe platform. [PageItemDefault.leftLineEnd](left-line-end.md).
+- Open when looking up PageItemDefault.miterLimit in Shared Adobe platform. [PageItemDefault.miterLimit](miter-limit.md).
+- Open when looking up PageItemDefault.nonprinting in Shared Adobe platform. [PageItemDefault.nonprinting](nonprinting.md).
+- Open when looking up PageItemDefault.overprintFill in Shared Adobe platform. [PageItemDefault.overprintFill](overprint-fill.md).
+- Open when looking up PageItemDefault.overprintGap in Shared Adobe platform. [PageItemDefault.overprintGap](overprint-gap.md).
+- Open when looking up PageItemDefault.overprintStroke in Shared Adobe platform. [PageItemDefault.overprintStroke](overprint-stroke.md).
+- Open when looking up PageItemDefault.preferences in Shared Adobe platform. [PageItemDefault.preferences](preferences.md).
+- Open when looking up PageItemDefault.rightArrowHeadScale in Shared Adobe platform. [PageItemDefault.rightArrowHeadScale](right-arrow-head-scale.md).
+- Open when looking up PageItemDefault.rightLineEnd in Shared Adobe platform. [PageItemDefault.rightLineEnd](right-line-end.md).
+- Open when looking up PageItemDefault.strokeAlignment in Shared Adobe platform. [PageItemDefault.strokeAlignment](stroke-alignment.md).
+- Open when looking up PageItemDefault.strokeColor in Shared Adobe platform. [PageItemDefault.strokeColor](stroke-color.md).
+- Open when looking up PageItemDefault.strokeTint in Shared Adobe platform. [PageItemDefault.strokeTint](stroke-tint.md).
+- Open when looking up PageItemDefault.strokeTransparencySettings in Shared Adobe platform. [PageItemDefault.strokeTransparencySettings](stroke-transparency-settings.md).
+- Open when looking up PageItemDefault.strokeType in Shared Adobe platform. [PageItemDefault.strokeType](stroke-type.md).
+- Open when looking up PageItemDefault.strokeWeight in Shared Adobe platform. [PageItemDefault.strokeWeight](stroke-weight.md).
+- Open when looking up PageItemDefault.topLeftCornerOption in Shared Adobe platform. [PageItemDefault.topLeftCornerOption](top-left-corner-option.md).
+- Open when looking up PageItemDefault.topLeftCornerRadius in Shared Adobe platform. [PageItemDefault.topLeftCornerRadius](top-left-corner-radius.md).
+- Open when looking up PageItemDefault.topRightCornerOption in Shared Adobe platform. [PageItemDefault.topRightCornerOption](top-right-corner-option.md).
+- Open when looking up PageItemDefault.topRightCornerRadius in Shared Adobe platform. [PageItemDefault.topRightCornerRadius](top-right-corner-radius.md).
+- Open when looking up PageItemDefault.transparencySettings in Shared Adobe platform. [PageItemDefault.transparencySettings](transparency-settings.md).

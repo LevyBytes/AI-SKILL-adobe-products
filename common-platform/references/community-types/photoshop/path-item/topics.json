@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PathItem declaration", "file": "references/community-types/photoshop/path-item/declaration.md", "summary": "Open when looking up PathItem declaration in Shared Adobe platform.", "keywords": ["PathItem declaration"]},
+  {"topic": "PathItem identity and parent", "file": "references/community-types/photoshop/path-item/identity-and-parent.md", "summary": "Open when looking up PathItem identity and parent in Shared Adobe platform.", "keywords": ["PathItem identity and parent"]},
+  {"topic": "PathItem object lifecycle", "file": "references/community-types/photoshop/path-item/object-lifecycle.md", "summary": "Open when looking up PathItem object lifecycle in Shared Adobe platform.", "keywords": ["PathItem object lifecycle"]},
+  {"topic": "PathItem.add", "file": "references/community-types/photoshop/path-item/add.md", "summary": "Open when looking up PathItem.add in Shared Adobe platform.", "keywords": ["PathItem.add"]},
+  {"topic": "PathItem.deselect", "file": "references/community-types/photoshop/path-item/deselect.md", "summary": "Open when looking up PathItem.deselect in Shared Adobe platform.", "keywords": ["PathItem.deselect"]},
+  {"topic": "PathItem.fillPath", "file": "references/community-types/photoshop/path-item/fill-path.md", "summary": "Open when looking up PathItem.fillPath in Shared Adobe platform.", "keywords": ["PathItem.fillPath"]},
+  {"topic": "PathItem.kind", "file": "references/community-types/photoshop/path-item/kind.md", "summary": "Open when looking up PathItem.kind in Shared Adobe platform.", "keywords": ["PathItem.kind"]},
+  {"topic": "PathItem.makeClippingPath", "file": "references/community-types/photoshop/path-item/make-clipping-path.md", "summary": "Open when looking up PathItem.makeClippingPath in Shared Adobe platform.", "keywords": ["PathItem.makeClippingPath"]},
+  {"topic": "PathItem.makeSelection", "file": "references/community-types/photoshop/path-item/make-selection.md", "summary": "Open when looking up PathItem.makeSelection in Shared Adobe platform.", "keywords": ["PathItem.makeSelection"]},
+  {"topic": "PathItem.removeAll", "file": "references/community-types/photoshop/path-item/remove-all.md", "summary": "Open when looking up PathItem.removeAll in Shared Adobe platform.", "keywords": ["PathItem.removeAll"]},
+  {"topic": "PathItem.select", "file": "references/community-types/photoshop/path-item/select.md", "summary": "Open when looking up PathItem.select in Shared Adobe platform.", "keywords": ["PathItem.select"]},
+  {"topic": "PathItem.strokePath", "file": "references/community-types/photoshop/path-item/stroke-path.md", "summary": "Open when looking up PathItem.strokePath in Shared Adobe platform.", "keywords": ["PathItem.strokePath"]},
+  {"topic": "PathItem.subPathItems", "file": "references/community-types/photoshop/path-item/sub-path-items.md", "summary": "Open when looking up PathItem.subPathItems in Shared Adobe platform.", "keywords": ["PathItem.subPathItems"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

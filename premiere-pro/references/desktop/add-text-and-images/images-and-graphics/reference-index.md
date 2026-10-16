@@ -1,0 +1,23 @@
+# Premiere Pro — Insert images and graphics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add gradients in Premiere Pro. [Add gradients](add-gradients.md).
+- Open when looking up Animate layers using the Effect Controls panel in Premiere Pro. [Animate layers using the Effect Controls panel](animate-layers-using-the-effect-controls-panel.md).
+- Open when looking up Check spelling using the Graphics tab in Premiere Pro. [Check spelling using the Graphics tab](check-spelling-using-the-graphics-tab.md).
+- Open when looking up Check spelling using the Graphics tab in Premiere Pro. [Check spelling using the Graphics tab references](check-spelling-using-the-graphics-tab/reference-index.md).
+- Open when looking up Create credit rolls in Premiere Pro. [Create credit rolls](create-credit-rolls.md).
+- Open when looking up Create markers in the Effect Controls panel in Premiere Pro. [Create markers in the Effect Controls panel](create-markers-in-the-effect-controls-panel.md).
+- Open when looking up Create responsive graphics in Premiere Pro. [Create responsive graphics](create-responsive-graphics.md).
+- Open when looking up Create Source Graphics in Premiere Pro. [Create Source Graphics](create-source-graphics.md).
+- Open when looking up Different ways to work with graphics in Premiere Pro. [Different ways to work with graphics](different-ways-to-work-with-graphics.md).
+- Open when looking up Different ways to work with graphics in Premiere Pro. [Different ways to work with graphics references](different-ways-to-work-with-graphics/reference-index.md).
+- Open when looking up Export graphic as a Motion Graphics template in Premiere Pro. [Export graphic as a Motion Graphics template](export-graphic-as-a-motion-graphics-template.md).
+- Open when looking up Find and replace text using the Graphics tab in Premiere Pro. [Find and replace text using the Graphics tab](find-and-replace-text-using-the-graphics-tab.md).
+- Open when looking up Group text and graphic layers in Premiere Pro. [Group text and graphic layers](group-text-and-graphic-layers.md).
+- Open when looking up Mask with text or shape using Properties panel in Premiere Pro. [Mask with text or shape using Properties panel](mask-with-text-or-shape-using-properties-panel.md).
+- Open when looking up Preserve intro and outro animations while creating Responsive Design graphics in Premiere Pro. [Preserve intro and outro animations while creating Responsive Design graphics](responsive-design-animation.md).
+- Open when looking up Preserve intro and outro animations while creating Responsive Design graphics in Premiere Pro. [Preserve intro and outro animations while creating Responsive Design graphics references](responsive-design/reference-index.md).
+- Open when looking up Rename layers in Premiere Pro. [Rename layers](rename-layers.md).
+- Open when looking up Tips for authoring Motion Graphics templates in Premiere Pro. [Tips for authoring Motion Graphics templates](tips-for-authoring-motion-graphics-templates.md).
+- Open when looking up Tips for authoring Motion Graphics templates in Premiere Pro. [Tips for authoring Motion Graphics templates references](motion-template-authoring/reference-index.md).
+- Open when looking up Work with Motion Graphics templates in Premiere in Premiere Pro. [Work with Motion Graphics templates in Premiere](work-with-motion-graphics-templates-in-premiere.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Overview of shape layers, paths, and vector graphics", "file": "references/desktop/drawing-and-paths/vector-and-raster-graphics/overview-of-shape-layers-paths-and-vector-graphics.md", "summary": "Open when looking up Overview of shape layers, paths, and vector graphics in After Effects.", "keywords": ["Overview of shape layers, paths, and vector graphics"]},
+  {"topic": "Overview of shape layers, paths, and vector graphics references", "file": "references/desktop/drawing-and-paths/vector-and-raster-graphics/shape-and-vector-basics/reference-index.md", "summary": "Open when looking up Overview of shape layers, paths, and vector graphics in After Effects.", "keywords": ["Overview of shape layers, paths, and vector graphics references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

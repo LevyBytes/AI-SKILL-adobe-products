@@ -1,0 +1,28 @@
+# XMLComment
+
+Community declaration reference: InDesign/2023.
+
+Represents an XML comment.
+
+```typescript
+declare class XMLComment extends XMLItem {
+    /**
+    - Insertion point located before the table within the story that owns the table.
+      */
+      readonly storyOffset: InsertionPoint
+    /**
+
+    - Text stored in the XML comment.
+      */
+      value: string
+    /**
+
+    - Relocates the element to the requested position.
+    - @param to Location relative to the reference object or inside the containing object.
+    - @param reference Reference object; required when to requests before or after placement. .
+      */
+      move(to: LocationOptions, reference: XMLItem | Text): XMLComment
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

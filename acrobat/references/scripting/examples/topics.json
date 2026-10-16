@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "chapter-selection-dialog.js", "file": "references/scripting/examples/chapter-selection-dialog.js", "summary": "Open when looking up chapter-selection-dialog.js in Acrobat.", "keywords": ["chapter-selection-dialog.js"]},
+  {"topic": "chapter-selection-layout.js", "file": "references/scripting/examples/chapter-selection-layout.js", "summary": "Open when looking up chapter-selection-layout.js in Acrobat.", "keywords": ["chapter-selection-layout.js"]},
+  {"topic": "checkbox-radio-dialog.js", "file": "references/scripting/examples/checkbox-radio-dialog.js", "summary": "Open when looking up checkbox-radio-dialog.js in Acrobat.", "keywords": ["checkbox-radio-dialog.js"]},
+  {"topic": "checkbox-radio-layout.js", "file": "references/scripting/examples/checkbox-radio-layout.js", "summary": "Open when looking up checkbox-radio-layout.js in Acrobat.", "keywords": ["checkbox-radio-layout.js"]},
+  {"topic": "List-box dialog implementation", "file": "references/scripting/examples/listbox-selection-dialog.js", "summary": "Open when looking up List-box dialog implementation in Acrobat.", "keywords": ["List-box dialog implementation"]},
+  {"topic": "Personal-data dialog implementation", "file": "references/scripting/examples/personal-data-dialog.js", "summary": "Open when looking up Personal-data dialog implementation in Acrobat.", "keywords": ["Personal-data dialog implementation"]},
+  {"topic": "Trusted author dialog references", "file": "references/scripting/examples/trusted-author-dialog/reference-index.md", "summary": "Open when looking up Trusted author dialog in Acrobat.", "keywords": ["Trusted author dialog references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

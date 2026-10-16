@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "macOS", "file": "references/desktop/create-documents/scan-documents-to-pdfs/edit-scanned-documents/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Tips for editing scanned PDFs", "file": "references/desktop/create-documents/scan-documents-to-pdfs/edit-scanned-documents/tips-for-editing-scanned-pdfs.md", "summary": "Open when looking up Tips for editing scanned PDFs in Acrobat.", "keywords": ["Tips for editing scanned PDFs"]},
+  {"topic": "Windows", "file": "references/desktop/create-documents/scan-documents-to-pdfs/edit-scanned-documents/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

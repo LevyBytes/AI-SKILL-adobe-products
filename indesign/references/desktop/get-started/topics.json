@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Interface references", "file": "references/desktop/get-started/interface/reference-index.md", "summary": "Open when looking up Interface in InDesign.", "keywords": ["Interface references"]},
+  {"topic": "Settings and preferences", "file": "references/desktop/get-started/settings-and-preferences.md", "summary": "Open when looking up Settings and preferences in InDesign.", "keywords": ["Settings and preferences"]},
+  {"topic": "Settings and preferences references", "file": "references/desktop/get-started/settings-and-preferences/reference-index.md", "summary": "Open when looking up Settings and preferences in InDesign.", "keywords": ["Settings and preferences references"]},
+  {"topic": "System and product info", "file": "references/desktop/get-started/system-and-product-info.md", "summary": "Open when looking up System and product info in InDesign.", "keywords": ["System and product info"]},
+  {"topic": "System and product info references", "file": "references/desktop/get-started/system-and-product-info/reference-index.md", "summary": "Open when looking up System and product info in InDesign.", "keywords": ["System and product info references"]},
+  {"topic": "Toolbox", "file": "references/desktop/get-started/toolbox.md", "summary": "Open when looking up Toolbox in InDesign.", "keywords": ["Toolbox"]},
+  {"topic": "Toolbox references", "file": "references/desktop/get-started/toolbox/reference-index.md", "summary": "Open when looking up Toolbox in InDesign.", "keywords": ["Toolbox references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

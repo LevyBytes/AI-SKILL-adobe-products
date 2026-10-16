@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Control objects — FlashPlayer control functions", "file": "references/scripting/flash-player-control-functions/control-objects-flash-player-control-functions.md", "summary": "Open when looking up Control objects — FlashPlayer control functions in Shared Adobe platform.", "keywords": ["Control objects — FlashPlayer control functions"]},
+  {"topic": "invokePlayerFunction()", "file": "references/scripting/flash-player-control-functions/invoke-player-function.md", "summary": "Open when looking up invokePlayerFunction() in Shared Adobe platform.", "keywords": ["invokePlayerFunction()"]},
+  {"topic": "Limitations", "file": "references/scripting/flash-player-control-functions/limitations.md", "summary": "Open when looking up Limitations in Shared Adobe platform.", "keywords": ["Limitations"]},
+  {"topic": "loadMovie()", "file": "references/scripting/flash-player-control-functions/load-movie.md", "summary": "Open when looking up loadMovie() in Shared Adobe platform.", "keywords": ["loadMovie()"]},
+  {"topic": "playMovie()", "file": "references/scripting/flash-player-control-functions/play-movie.md", "summary": "Open when looking up playMovie() in Shared Adobe platform.", "keywords": ["playMovie()"]},
+  {"topic": "stopMovie()", "file": "references/scripting/flash-player-control-functions/stop-movie.md", "summary": "Open when looking up stopMovie() in Shared Adobe platform.", "keywords": ["stopMovie()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

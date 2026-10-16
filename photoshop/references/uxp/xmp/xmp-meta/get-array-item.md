@@ -1,0 +1,18 @@
+# getArrayItem(schemaNS, arrayName, itemIndex)
+
+Reads one item from an array-type metadata property.
+The result is [XMPProperty](../../xmp-property-xmp-property/reference-index.md).
+
+**Returns**: `XMPProperty` \| `undefined` - file contents.
+
+| Param | Type | Description |
+| --- | --- | --- |
+| schemaNS | `string` | Namespace URI value; reference <../../../../modules/uxp/xmp/xmp-classes/xmp-const.md#schema-namespace-string-constants> for values. |
+| arrayName | `string` | String name for the array; a general path expression is allowed. |
+| itemIndex | `number` | 1-based item position. XMPConst.`ARRAY_LAST_ITEM` targets the final item currently in the array. |
+
+**Example**
+
+```js
+XMPMetaObj.getArrayItem(schemaNS, arrayName, itemIndex);
+```

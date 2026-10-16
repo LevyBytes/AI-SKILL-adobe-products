@@ -1,0 +1,5 @@
+# PF_OutFlag_AUDIO_IIR
+
+`PF_OutFlag_AUDIO_IIR`
+
+Set during `PF_Cmd_GLOBAL_SETUP` where the (audio) effect is an Infinite Impulse Response filter. That holds when output at one time hinges on output from earlier times. As an IIR filter takes `PF_Cmd_AUDIO_RENDER`, the input audio span matches the output audio span (where these meet the output span asked for in `PF_Cmd_AUDIO_SETUP`). Replying to `PF_Cmd_AUDIO_SETUP`, the filter is able to ask for audio from earlier times (the case for delay effects). It can reach parameters from that earlier time, and ought to cache them — along with interim audio — within sequence data. Where the audio produced doesn't match the requested output audio's time, set the output audio duration to zero. Drawing on the parameters and the input audio, the filter can refresh its delay line. With its delay line cached, ask for more input audio during `PF_Cmd_AUDIO_SETUP` based on that last cached delay line. Lean on `PF_HasParamChanged` to judge whether your cache still holds.

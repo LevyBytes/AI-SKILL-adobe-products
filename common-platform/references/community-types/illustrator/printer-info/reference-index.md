@@ -1,0 +1,22 @@
+# Shared Adobe platform — PrinterInfo
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PrinterInfo declaration in Shared Adobe platform. [PrinterInfo declaration](declaration.md).
+- Open when looking up PrinterInfo.binaryPrintingSupport in Shared Adobe platform. [PrinterInfo.binaryPrintingSupport](binary-printing-support.md).
+- Open when looking up PrinterInfo.colorSupport in Shared Adobe platform. [PrinterInfo.colorSupport](color-support.md).
+- Open when looking up PrinterInfo.customPaperSupport in Shared Adobe platform. [PrinterInfo.customPaperSupport](custom-paper-support.md).
+- Open when looking up PrinterInfo.customPaperTransverseSupport in Shared Adobe platform. [PrinterInfo.customPaperTransverseSupport](custom-paper-transverse-support.md).
+- Open when looking up PrinterInfo.deviceResolution in Shared Adobe platform. [PrinterInfo.deviceResolution](device-resolution.md).
+- Open when looking up PrinterInfo.inRIPSeparationSupport in Shared Adobe platform. [PrinterInfo.inRIPSeparationSupport](in-rip-separation-support.md).
+- Open when looking up PrinterInfo.maxDeviceResolution in Shared Adobe platform. [PrinterInfo.maxDeviceResolution](max-device-resolution.md).
+- Open when looking up PrinterInfo.maxPaperHeight in Shared Adobe platform. [PrinterInfo.maxPaperHeight](max-paper-height.md).
+- Open when looking up PrinterInfo.maxPaperHeightOffset in Shared Adobe platform. [PrinterInfo.maxPaperHeightOffset](max-paper-height-offset.md).
+- Open when looking up PrinterInfo.maxPaperWidth in Shared Adobe platform. [PrinterInfo.maxPaperWidth](max-paper-width.md).
+- Open when looking up PrinterInfo.maxPaperWidthOffset in Shared Adobe platform. [PrinterInfo.maxPaperWidthOffset](max-paper-width-offset.md).
+- Open when looking up PrinterInfo.minPaperHeight in Shared Adobe platform. [PrinterInfo.minPaperHeight](min-paper-height.md).
+- Open when looking up PrinterInfo.minPaperHeightOffset in Shared Adobe platform. [PrinterInfo.minPaperHeightOffset](min-paper-height-offset.md).
+- Open when looking up PrinterInfo.minPaperWidth in Shared Adobe platform. [PrinterInfo.minPaperWidth](min-paper-width.md).
+- Open when looking up PrinterInfo.minPaperWidthOffset in Shared Adobe platform. [PrinterInfo.minPaperWidthOffset](min-paper-width-offset.md).
+- Open when looking up PrinterInfo.paperSizes in Shared Adobe platform. [PrinterInfo.paperSizes](paper-sizes.md).
+- Open when looking up PrinterInfo.postScriptLevel in Shared Adobe platform. [PrinterInfo.postScriptLevel](post-script-level.md).
+- Open when looking up PrinterInfo.printerType in Shared Adobe platform. [PrinterInfo.printerType](printer-type.md).

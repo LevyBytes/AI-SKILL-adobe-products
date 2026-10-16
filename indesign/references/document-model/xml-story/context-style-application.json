@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "appliedCharacterStyle", "file": "references/document-model/xml-story/applied-character-style.md", "summary": "Open when looking up appliedCharacterStyle in InDesign.", "keywords": ["appliedCharacterStyle"]},
+  {"topic": "appliedNestedStyles", "file": "references/document-model/xml-story/applied-nested-styles.md", "summary": "Open when looking up appliedNestedStyles in InDesign.", "keywords": ["appliedNestedStyles"]},
+  {"topic": "appliedParagraphStyle", "file": "references/document-model/xml-story/applied-paragraph-style.md", "summary": "Open when looking up appliedParagraphStyle in InDesign.", "keywords": ["appliedParagraphStyle"]},
+  {"topic": "charStyleMappings", "file": "references/document-model/xml-story/char-style-mappings.md", "summary": "Open when looking up charStyleMappings in InDesign.", "keywords": ["charStyleMappings"]},
+  {"topic": "nestedGrepStyles", "file": "references/document-model/xml-story/nested-grep-styles.md", "summary": "Open when looking up nestedGrepStyles in InDesign.", "keywords": ["nestedGrepStyles"]},
+  {"topic": "nestedLineStyles", "file": "references/document-model/xml-story/nested-line-styles.md", "summary": "Open when looking up nestedLineStyles in InDesign.", "keywords": ["nestedLineStyles"]},
+  {"topic": "nestedStyles", "file": "references/document-model/xml-story/nested-styles.md", "summary": "Open when looking up nestedStyles in InDesign.", "keywords": ["nestedStyles"]},
+  {"topic": "paraStyleMappings", "file": "references/document-model/xml-story/para-style-mappings.md", "summary": "Open when looking up paraStyleMappings in InDesign.", "keywords": ["paraStyleMappings"]},
+  {"topic": "styleOverridden", "file": "references/document-model/xml-story/style-overridden.md", "summary": "Open when looking up styleOverridden in InDesign.", "keywords": ["styleOverridden"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

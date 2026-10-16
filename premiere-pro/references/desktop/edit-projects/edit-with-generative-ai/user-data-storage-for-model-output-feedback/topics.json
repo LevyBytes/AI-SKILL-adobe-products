@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Privacy and Data Usage", "file": "references/desktop/edit-projects/edit-with-generative-ai/user-data-storage-for-model-output-feedback/privacy-and-data-usage.md", "summary": "Open when looking up Privacy and Data Usage in Premiere Pro.", "keywords": ["Privacy and Data Usage"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

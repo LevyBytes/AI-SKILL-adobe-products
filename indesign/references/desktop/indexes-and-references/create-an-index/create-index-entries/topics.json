@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Add a basic index entry", "file": "references/desktop/indexes-and-references/create-an-index/create-index-entries/add-a-basic-index-entry.md", "summary": "Open when looking up Add a basic index entry in InDesign.", "keywords": ["Add a basic index entry"]},
+  {"topic": "Add a cross-reference entry", "file": "references/desktop/indexes-and-references/create-an-index/create-index-entries/add-a-cross-reference-entry.md", "summary": "Open when looking up Add a cross-reference entry in InDesign.", "keywords": ["Add a cross-reference entry"]},
+  {"topic": "Create a new entry from an existing one", "file": "references/desktop/indexes-and-references/create-an-index/create-index-entries/create-a-new-entry-from-an-existing-one.md", "summary": "Open when looking up Create a new entry from an existing one in InDesign.", "keywords": ["Create a new entry from an existing one"]},
+  {"topic": "Index all occurrences of selected text", "file": "references/desktop/indexes-and-references/create-an-index/create-index-entries/index-all-occurrences-of-selected-text.md", "summary": "Open when looking up Index all occurrences of selected text in InDesign.", "keywords": ["Index all occurrences of selected text"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

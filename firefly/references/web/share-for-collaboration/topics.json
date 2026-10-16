@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Share mood boards and invite collaborators to participate.", "file": "references/web/share-for-collaboration/share-mood-boards-and-invite-collaborators-to-participate.md", "summary": "Open when looking up Share mood boards and invite collaborators to participate. in Firefly.", "keywords": ["Share mood boards and invite collaborators to participate."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

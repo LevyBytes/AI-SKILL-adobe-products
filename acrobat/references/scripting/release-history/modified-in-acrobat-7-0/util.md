@@ -1,0 +1,6 @@
+# util
+
+
+**Methods:**
+
+- printd

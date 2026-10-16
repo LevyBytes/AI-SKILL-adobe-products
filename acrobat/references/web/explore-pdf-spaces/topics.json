@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Create PDF Spaces in Acrobat web", "file": "references/web/explore-pdf-spaces/create-pdf-spaces-in-acrobat-web.md", "summary": "Open when looking up Create PDF Spaces in Acrobat web in Acrobat.", "keywords": ["Create PDF Spaces in Acrobat web"]},
+  {"topic": "Create PDF Spaces in Acrobat web references", "file": "references/web/explore-pdf-spaces/create-pdf-spaces-in-acrobat-web/reference-index.md", "summary": "Open when looking up Create PDF Spaces in Acrobat web in Acrobat.", "keywords": ["Create PDF Spaces in Acrobat web references"]},
+  {"topic": "Explore PDF Spaces", "file": "references/web/explore-pdf-spaces/explore-pdf-spaces.md", "summary": "Open when looking up Explore PDF Spaces in Acrobat.", "keywords": ["Explore PDF Spaces"]},
+  {"topic": "Interactive experience sharing with PDF Spaces", "file": "references/web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces.md", "summary": "Open when looking up Interactive experience sharing with PDF Spaces in Acrobat.", "keywords": ["Interactive experience sharing with PDF Spaces"]},
+  {"topic": "Interactive experience sharing with PDF Spaces references", "file": "references/web/explore-pdf-spaces/interactive-experience-sharing-with-pdf-spaces/reference-index.md", "summary": "Open when looking up Interactive experience sharing with PDF Spaces in Acrobat.", "keywords": ["Interactive experience sharing with PDF Spaces references"]},
+  {"topic": "Review PDF Spaces", "file": "references/web/explore-pdf-spaces/review-pdf-spaces.md", "summary": "Open when looking up Review PDF Spaces in Acrobat.", "keywords": ["Review PDF Spaces"]},
+  {"topic": "Share PDF Spaces", "file": "references/web/explore-pdf-spaces/share-pdf-spaces.md", "summary": "Open when looking up Share PDF Spaces in Acrobat.", "keywords": ["Share PDF Spaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

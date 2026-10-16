@@ -1,0 +1,22 @@
+# Shared Adobe platform — TransitionType
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TransitionType declaration in Shared Adobe platform. [TransitionType declaration](declaration.md).
+- Open when looking up TransitionType.BLINDSHORIZONTAL in Shared Adobe platform. [TransitionType.BLINDSHORIZONTAL](blindshorizontal.md).
+- Open when looking up TransitionType.BLINDSVERTICAL in Shared Adobe platform. [TransitionType.BLINDSVERTICAL](blindsvertical.md).
+- Open when looking up TransitionType.BOXIN in Shared Adobe platform. [TransitionType.BOXIN](boxin.md).
+- Open when looking up TransitionType.BOXOUT in Shared Adobe platform. [TransitionType.BOXOUT](boxout.md).
+- Open when looking up TransitionType.DISSOLVE in Shared Adobe platform. [TransitionType.DISSOLVE](dissolve.md).
+- Open when looking up TransitionType.GLITTERDOWN in Shared Adobe platform. [TransitionType.GLITTERDOWN](glitterdown.md).
+- Open when looking up TransitionType.GLITTERRIGHT in Shared Adobe platform. [TransitionType.GLITTERRIGHT](glitterright.md).
+- Open when looking up TransitionType.GLITTERRIGHTDOWN in Shared Adobe platform. [TransitionType.GLITTERRIGHTDOWN](glitterrightdown.md).
+- Open when looking up TransitionType.NONE in Shared Adobe platform. [TransitionType.NONE](none.md).
+- Open when looking up TransitionType.RANDOM in Shared Adobe platform. [TransitionType.RANDOM](random.md).
+- Open when looking up TransitionType.SPLITHORIZONTALIN in Shared Adobe platform. [TransitionType.SPLITHORIZONTALIN](splithorizontalin.md).
+- Open when looking up TransitionType.SPLITHORIZONTALOUT in Shared Adobe platform. [TransitionType.SPLITHORIZONTALOUT](splithorizontalout.md).
+- Open when looking up TransitionType.SPLITVERTICALIN in Shared Adobe platform. [TransitionType.SPLITVERTICALIN](splitverticalin.md).
+- Open when looking up TransitionType.SPLITVERTICALOUT in Shared Adobe platform. [TransitionType.SPLITVERTICALOUT](splitverticalout.md).
+- Open when looking up TransitionType.WIPEDOWN in Shared Adobe platform. [TransitionType.WIPEDOWN](wipedown.md).
+- Open when looking up TransitionType.WIPELEFT in Shared Adobe platform. [TransitionType.WIPELEFT](wipeleft.md).
+- Open when looking up TransitionType.WIPERIGHT in Shared Adobe platform. [TransitionType.WIPERIGHT](wiperight.md).
+- Open when looking up TransitionType.WIPEUP in Shared Adobe platform. [TransitionType.WIPEUP](wipeup.md).

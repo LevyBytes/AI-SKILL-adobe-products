@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "XML Object Reference — XML Class Methods", "file": "references/scripting/xml-class-methods/xml-object-reference-xml-class-methods.md", "summary": "Open when looking up XML Object Reference — XML Class Methods in Shared Adobe platform.", "keywords": ["XML Object Reference — XML Class Methods"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

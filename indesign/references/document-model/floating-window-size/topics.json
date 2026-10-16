@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "FULL", "file": "references/document-model/floating-window-size/full.md", "summary": "Open when looking up FULL in InDesign.", "keywords": ["FULL"]},
+  {"topic": "MAX", "file": "references/document-model/floating-window-size/max.md", "summary": "Open when looking up MAX in InDesign.", "keywords": ["MAX"]},
+  {"topic": "ONE_FIFTH", "file": "references/document-model/floating-window-size/onefifth.md", "summary": "Open when looking up ONE_FIFTH in InDesign.", "keywords": ["ONE_FIFTH"]},
+  {"topic": "ONE_FOURTH", "file": "references/document-model/floating-window-size/onefourth.md", "summary": "Open when looking up ONE_FOURTH in InDesign.", "keywords": ["ONE_FOURTH"]},
+  {"topic": "ONE_HALF", "file": "references/document-model/floating-window-size/onehalf.md", "summary": "Open when looking up ONE_HALF in InDesign.", "keywords": ["ONE_HALF"]},
+  {"topic": "QUADRUPLE", "file": "references/document-model/floating-window-size/quadruple.md", "summary": "Open when looking up QUADRUPLE in InDesign.", "keywords": ["QUADRUPLE"]},
+  {"topic": "TRIPLE", "file": "references/document-model/floating-window-size/triple.md", "summary": "Open when looking up TRIPLE in InDesign.", "keywords": ["TRIPLE"]},
+  {"topic": "TWICE", "file": "references/document-model/floating-window-size/twice.md", "summary": "Open when looking up TWICE in InDesign.", "keywords": ["TWICE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

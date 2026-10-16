@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Receive events", "file": "references/cloud-services/triggering-an-event/receive-events.md", "summary": "Open when looking up Receive events in Photoshop.", "keywords": ["Receive events"]},
+  {"topic": "Receive the job's status on the webhook application", "file": "references/cloud-services/triggering-an-event/receive-the-job-s-status-on-the-webhook-application.md", "summary": "Open when looking up Receive the job's status on the webhook application in Photoshop.", "keywords": ["Receive the job's status on the webhook application"]},
+  {"topic": "Retrieving a PSD manifest", "file": "references/cloud-services/triggering-an-event/retrieving-a-psd-manifest.md", "summary": "Open when looking up Retrieving a PSD manifest in Photoshop.", "keywords": ["Retrieving a PSD manifest"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

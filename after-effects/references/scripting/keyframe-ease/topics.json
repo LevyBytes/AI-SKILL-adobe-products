@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "KeyframeEase object", "file": "references/scripting/keyframe-ease/keyframe-ease-object.md", "summary": "Open when looking up KeyframeEase object in After Effects.", "keywords": ["KeyframeEase object"]},
+  {"topic": "KeyframeEase.influence", "file": "references/scripting/keyframe-ease/influence.md", "summary": "Open when looking up KeyframeEase.influence in After Effects.", "keywords": ["KeyframeEase.influence"]},
+  {"topic": "KeyframeEase.speed", "file": "references/scripting/keyframe-ease/speed.md", "summary": "Open when looking up KeyframeEase.speed in After Effects.", "keywords": ["KeyframeEase.speed"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

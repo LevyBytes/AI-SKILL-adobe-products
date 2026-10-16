@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Add Scopes", "file": "references/desktop/correct-color/color-mode-fundamentals/working-with-video-scopes/add-scopes.md", "summary": "Open when looking up Add Scopes in Premiere Pro.", "keywords": ["Add Scopes"]},
+  {"topic": "Layout options", "file": "references/desktop/correct-color/color-mode-fundamentals/working-with-video-scopes/layout-options.md", "summary": "Open when looking up Layout options in Premiere Pro.", "keywords": ["Layout options"]},
+  {"topic": "Using the Video Scopes panel", "file": "references/desktop/correct-color/color-mode-fundamentals/working-with-video-scopes/using-the-video-scopes-panel.md", "summary": "Open when looking up Using the Video Scopes panel in Premiere Pro.", "keywords": ["Using the Video Scopes panel"]},
+  {"topic": "Video Scope scales and graticules", "file": "references/desktop/correct-color/color-mode-fundamentals/working-with-video-scopes/video-scope-scales-and-graticules.md", "summary": "Open when looking up Video Scope scales and graticules in Premiere Pro.", "keywords": ["Video Scope scales and graticules"]},
+  {"topic": "Video Scope Settings", "file": "references/desktop/correct-color/color-mode-fundamentals/working-with-video-scopes/video-scope-settings.md", "summary": "Open when looking up Video Scope Settings in Premiere Pro.", "keywords": ["Video Scope Settings"]},
+  {"topic": "Video Scopes layout", "file": "references/desktop/correct-color/color-mode-fundamentals/working-with-video-scopes/video-scopes-layout.md", "summary": "Open when looking up Video Scopes layout in Premiere Pro.", "keywords": ["Video Scopes layout"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "overflow", "file": "references/uxp/css/properties/overflow.md", "summary": "Open when looking up overflow in Premiere Pro.", "keywords": ["overflow"]},
+  {"topic": "overflow-x", "file": "references/uxp/css/properties/overflow-x.md", "summary": "Open when looking up overflow-x in Premiere Pro.", "keywords": ["overflow-x"]},
+  {"topic": "overflow-y", "file": "references/uxp/css/properties/overflow-y.md", "summary": "Open when looking up overflow-y in Premiere Pro.", "keywords": ["overflow-y"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

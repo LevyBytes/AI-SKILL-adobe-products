@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "1. Install Node.js packages", "file": "references/plugin-samples/how-to-integrate-with-o-auth/install-node-js-packages.md", "summary": "Open when looking up 1. Install Node.js packages in Premiere Pro.", "keywords": ["1. Install Node.js packages"]},
+  {"topic": "2. Configure API credentials and public URL", "file": "references/plugin-samples/how-to-integrate-with-o-auth/configure-api-credentials-and-public-url.md", "summary": "Open when looking up 2. Configure API credentials and public URL in Premiere Pro.", "keywords": ["2. Configure API credentials and public URL"]},
+  {"topic": "3. Start the server", "file": "references/plugin-samples/how-to-integrate-with-o-auth/start-the-server.md", "summary": "Open when looking up 3. Start the server in Premiere Pro.", "keywords": ["3. Start the server"]},
+  {"topic": "4. Running the plugin", "file": "references/plugin-samples/how-to-integrate-with-o-auth/running-the-plugin.md", "summary": "Open when looking up 4. Running the plugin in Premiere Pro.", "keywords": ["4. Running the plugin"]},
+  {"topic": "Configuration", "file": "references/plugin-samples/how-to-integrate-with-o-auth/configuration.md", "summary": "Open when looking up Configuration in Premiere Pro.", "keywords": ["Configuration"]},
+  {"topic": "Overview of the OAuth workflow", "file": "references/plugin-samples/how-to-integrate-with-o-auth/overview-of-the-o-auth-workflow.md", "summary": "Open when looking up Overview of the OAuth workflow in Premiere Pro.", "keywords": ["Overview of the OAuth workflow"]},
+  {"topic": "Prerequisites", "file": "references/plugin-samples/how-to-integrate-with-o-auth/prerequisites.md", "summary": "Open when looking up Prerequisites in Premiere Pro.", "keywords": ["Prerequisites"]},
+  {"topic": "Technology Used", "file": "references/plugin-samples/how-to-integrate-with-o-auth/technology-used.md", "summary": "Open when looking up Technology Used in Premiere Pro.", "keywords": ["Technology Used"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

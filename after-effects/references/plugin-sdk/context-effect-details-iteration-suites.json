@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Iteration Suites", "file": "references/plugin-sdk/iteration-suites.md", "summary": "Open when looking up Iteration Suites in After Effects.", "keywords": ["Iteration Suites"]},
+  {"topic": "Iteration Suites — PF_Iterate8Suite1, PF_Iterate16Suite1, PF_IterateFloatSuite1", "file": "references/plugin-sdk/pixel-iteration-suites.md", "summary": "Open when looking up Iteration Suites — PF_Iterate8Suite1, PF_Iterate16Suite1, PF_IterateFloatSuite1 in After Effects.", "keywords": ["Iteration Suites — PF_Iterate8Suite1, PF_Iterate16Suite1, PF_IterateFloatSuite1"]},
+  {"topic": "Iteration Suites — PF_Iterate8Suite1, PF_Iterate16Suite1, PF_IterateFloatSuite1 references", "file": "references/plugin-sdk/pixel-iteration-suites/reference-index.md", "summary": "Open when looking up Iteration Suites — PF_Iterate8Suite1, PF_Iterate16Suite1, PF_IterateFloatSuite1 in After Effects.", "keywords": ["Iteration Suites — PF_Iterate8Suite1, PF_Iterate16Suite1, PF_IterateFloatSuite1 references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

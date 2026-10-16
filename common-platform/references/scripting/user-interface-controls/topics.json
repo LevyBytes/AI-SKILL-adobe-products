@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Button", "file": "references/scripting/user-interface-controls/button.md", "summary": "Open when looking up Button in Shared Adobe platform.", "keywords": ["Button"]},
+  {"topic": "Checkbox", "file": "references/scripting/user-interface-controls/checkbox.md", "summary": "Open when looking up Checkbox in Shared Adobe platform.", "keywords": ["Checkbox"]},
+  {"topic": "EditNumber", "file": "references/scripting/user-interface-controls/edit-number.md", "summary": "Open when looking up EditNumber in Shared Adobe platform.", "keywords": ["EditNumber"]},
+  {"topic": "EditText", "file": "references/scripting/user-interface-controls/edit-text.md", "summary": "Open when looking up EditText in Shared Adobe platform.", "keywords": ["EditText"]},
+  {"topic": "FlashPlayer", "file": "references/scripting/user-interface-controls/flash-player.md", "summary": "Open when looking up FlashPlayer in Shared Adobe platform.", "keywords": ["FlashPlayer"]},
+  {"topic": "IconButton", "file": "references/scripting/user-interface-controls/icon-button.md", "summary": "Open when looking up IconButton in Shared Adobe platform.", "keywords": ["IconButton"]},
+  {"topic": "Image", "file": "references/scripting/user-interface-controls/image.md", "summary": "Open when looking up Image in Shared Adobe platform.", "keywords": ["Image"]},
+  {"topic": "ListBox, DropDownList and TreeView", "file": "references/scripting/user-interface-controls/list-box-drop-down-list-and-tree-view.md", "summary": "Open when looking up ListBox, DropDownList and TreeView in Shared Adobe platform.", "keywords": ["ListBox, DropDownList and TreeView"]},
+  {"topic": "ListItem", "file": "references/scripting/user-interface-controls/list-item.md", "summary": "Open when looking up ListItem in Shared Adobe platform.", "keywords": ["ListItem"]},
+  {"topic": "Progressbar", "file": "references/scripting/user-interface-controls/progressbar.md", "summary": "Open when looking up Progressbar in Shared Adobe platform.", "keywords": ["Progressbar"]},
+  {"topic": "RadioButton", "file": "references/scripting/user-interface-controls/radio-button.md", "summary": "Open when looking up RadioButton in Shared Adobe platform.", "keywords": ["RadioButton"]},
+  {"topic": "Scrollbar", "file": "references/scripting/user-interface-controls/scrollbar.md", "summary": "Open when looking up Scrollbar in Shared Adobe platform.", "keywords": ["Scrollbar"]},
+  {"topic": "Slider", "file": "references/scripting/user-interface-controls/slider.md", "summary": "Open when looking up Slider in Shared Adobe platform.", "keywords": ["Slider"]},
+  {"topic": "StaticText", "file": "references/scripting/user-interface-controls/static-text.md", "summary": "Open when looking up StaticText in Shared Adobe platform.", "keywords": ["StaticText"]},
+  {"topic": "Types of controls — User-interface controls", "file": "references/scripting/user-interface-controls/types-of-controls-user-interface-controls.md", "summary": "Open when looking up Types of controls — User-interface controls in Shared Adobe platform.", "keywords": ["Types of controls — User-interface controls"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

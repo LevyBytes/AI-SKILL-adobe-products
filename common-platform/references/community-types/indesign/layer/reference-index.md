@@ -1,0 +1,40 @@
+# Shared Adobe platform — Layer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Layer declaration in Shared Adobe platform. [Layer declaration](declaration.md).
+- Open when looking up Layer event listeners in Shared Adobe platform. [Layer event listeners](event-listeners.md).
+- Open when looking up Layer identity and parent in Shared Adobe platform. [Layer identity and parent](identity-and-parent.md).
+- Open when looking up Layer labels and metadata in Shared Adobe platform. [Layer labels and metadata](labels-and-metadata.md).
+- Open when looking up Layer object lifecycle in Shared Adobe platform. [Layer object lifecycle](object-lifecycle.md).
+- Open when looking up Layer object resolution in Shared Adobe platform. [Layer object resolution](object-resolution.md).
+- Open when looking up Layer.allGraphics in Shared Adobe platform. [Layer.allGraphics](all-graphics.md).
+- Open when looking up Layer.allPageItems in Shared Adobe platform. [Layer.allPageItems](all-page-items.md).
+- Open when looking up Layer.buttons in Shared Adobe platform. [Layer.buttons](buttons.md).
+- Open when looking up Layer.checkBoxes in Shared Adobe platform. [Layer.checkBoxes](check-boxes.md).
+- Open when looking up Layer.comboBoxes in Shared Adobe platform. [Layer.comboBoxes](combo-boxes.md).
+- Open when looking up Layer.endnoteTextFrames in Shared Adobe platform. [Layer.endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up Layer.epstexts in Shared Adobe platform. [Layer.epstexts](epstexts.md).
+- Open when looking up Layer.formFields in Shared Adobe platform. [Layer.formFields](form-fields.md).
+- Open when looking up Layer.graphicLines in Shared Adobe platform. [Layer.graphicLines](graphic-lines.md).
+- Open when looking up Layer.groups in Shared Adobe platform. [Layer.groups](groups.md).
+- Open when looking up Layer.guides in Shared Adobe platform. [Layer.guides](guides.md).
+- Open when looking up Layer.ignoreWrap in Shared Adobe platform. [Layer.ignoreWrap](ignore-wrap.md).
+- Open when looking up Layer.layerColor in Shared Adobe platform. [Layer.layerColor](layer-color.md).
+- Open when looking up Layer.listBoxes in Shared Adobe platform. [Layer.listBoxes](list-boxes.md).
+- Open when looking up Layer.locked in Shared Adobe platform. [Layer.locked](locked.md).
+- Open when looking up Layer.lockGuides in Shared Adobe platform. [Layer.lockGuides](lock-guides.md).
+- Open when looking up Layer.merge in Shared Adobe platform. [Layer.merge](merge.md).
+- Open when looking up Layer.multiStateObjects in Shared Adobe platform. [Layer.multiStateObjects](multi-state-objects.md).
+- Open when looking up Layer.ovals in Shared Adobe platform. [Layer.ovals](ovals.md).
+- Open when looking up Layer.pageItems in Shared Adobe platform. [Layer.pageItems](page-items.md).
+- Open when looking up Layer.polygons in Shared Adobe platform. [Layer.polygons](polygons.md).
+- Open when looking up Layer.printable in Shared Adobe platform. [Layer.printable](printable.md).
+- Open when looking up Layer.properties in Shared Adobe platform. [Layer.properties](properties.md).
+- Open when looking up Layer.radioButtons in Shared Adobe platform. [Layer.radioButtons](radio-buttons.md).
+- Open when looking up Layer.rectangles in Shared Adobe platform. [Layer.rectangles](rectangles.md).
+- Open when looking up Layer.showGuides in Shared Adobe platform. [Layer.showGuides](show-guides.md).
+- Open when looking up Layer.signatureFields in Shared Adobe platform. [Layer.signatureFields](signature-fields.md).
+- Open when looking up Layer.splineItems in Shared Adobe platform. [Layer.splineItems](spline-items.md).
+- Open when looking up Layer.textBoxes in Shared Adobe platform. [Layer.textBoxes](text-boxes.md).
+- Open when looking up Layer.textFrames in Shared Adobe platform. [Layer.textFrames](text-frames.md).
+- Open when looking up Layer.visible in Shared Adobe platform. [Layer.visible](visible.md).

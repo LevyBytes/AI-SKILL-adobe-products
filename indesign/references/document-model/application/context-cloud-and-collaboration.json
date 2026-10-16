@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "deleteCloudDocument", "file": "references/document-model/application/delete-cloud-document.md", "summary": "Open when looking up deleteCloudDocument in InDesign.", "keywords": ["deleteCloudDocument"]},
+  {"topic": "exportSelectionForCloudLibrary", "file": "references/document-model/application/export-selection-for-cloud-library.md", "summary": "Open when looking up exportSelectionForCloudLibrary in InDesign.", "keywords": ["exportSelectionForCloudLibrary"]},
+  {"topic": "getUserChoiceForCloudTextAddition", "file": "references/document-model/application/get-user-choice-for-cloud-text-addition.md", "summary": "Open when looking up getUserChoiceForCloudTextAddition in InDesign.", "keywords": ["getUserChoiceForCloudTextAddition"]},
+  {"topic": "libraries", "file": "references/document-model/application/libraries.md", "summary": "Open when looking up libraries in InDesign.", "keywords": ["libraries"]},
+  {"topic": "mountProject", "file": "references/document-model/application/mount-project.md", "summary": "Open when looking up mountProject in InDesign.", "keywords": ["mountProject"]},
+  {"topic": "openCloudAssetForEdit", "file": "references/document-model/application/open-cloud-asset-for-edit.md", "summary": "Open when looking up openCloudAssetForEdit in InDesign.", "keywords": ["openCloudAssetForEdit"]},
+  {"topic": "openCloudDocument", "file": "references/document-model/application/open-cloud-document.md", "summary": "Open when looking up openCloudDocument in InDesign.", "keywords": ["openCloudDocument"]},
+  {"topic": "setCloudLibraryCollection", "file": "references/document-model/application/set-cloud-library-collection.md", "summary": "Open when looking up setCloudLibraryCollection in InDesign.", "keywords": ["setCloudLibraryCollection"]},
+  {"topic": "setCloudLibraryOptions", "file": "references/document-model/application/set-cloud-library-options.md", "summary": "Open when looking up setCloudLibraryOptions in InDesign.", "keywords": ["setCloudLibraryOptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

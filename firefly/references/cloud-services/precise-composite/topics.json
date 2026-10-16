@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "cURL", "file": "references/cloud-services/precise-composite/c-url.md", "summary": "Open when looking up cURL in Firefly.", "keywords": ["cURL"]},
+  {"topic": "JavaScript", "file": "references/cloud-services/precise-composite/java-script.md", "summary": "Open when looking up JavaScript in Firefly.", "keywords": ["JavaScript"]},
+  {"topic": "Python", "file": "references/cloud-services/precise-composite/python.md", "summary": "Open when looking up Python in Firefly.", "keywords": ["Python"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

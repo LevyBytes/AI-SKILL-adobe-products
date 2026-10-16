@@ -1,0 +1,48 @@
+# Acrobat — Node
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Autotag pdf parameterised in Acrobat. [Autotag pdf parameterised references](autotag-pdf-parameterised/reference-index.md).
+- Open when looking up Autotag pdf in Acrobat. [Autotag pdf references](autotag-pdf/reference-index.md).
+- Open when looking up Combine pdf in Acrobat. [Combine pdf references](combine-pdf/reference-index.md).
+- Open when looking up Combine pdf with page ranges in Acrobat. [Combine pdf with page ranges references](combine-pdf-with-page-ranges/reference-index.md).
+- Open when looking up Compress pdf in Acrobat. [Compress pdf references](compress-pdf/reference-index.md).
+- Open when looking up Compress pdf with options in Acrobat. [Compress pdf with options references](compress-pdf-with-options/reference-index.md).
+- Open when looking up Create pdf from docx in Acrobat. [Create pdf from docx references](create-pdf-from-docx/reference-index.md).
+- Open when looking up Create pdf from docx with options in Acrobat. [Create pdf from docx with options references](create-pdf-from-docx-with-options/reference-index.md).
+- Open when looking up Delete pdf pages in Acrobat. [Delete pdf pages references](delete-pdf-pages/reference-index.md).
+- Open when looking up Dynamic html to pdf in Acrobat. [Dynamic html to pdf references](dynamic-html-to-pdf/reference-index.md).
+- Open when looking up Electronic seal in Acrobat. [Electronic seal references](electronic-seal/reference-index.md).
+- Open when looking up Electronic seal with appearance options in Acrobat. [Electronic seal with appearance options references](electronic-seal-with-appearance-options/reference-index.md).
+- Open when looking up Electronic seal with stamp authority in Acrobat. [Electronic seal with stamp authority references](electronic-seal-with-stamp-authority/reference-index.md).
+- Open when looking up Export brochure docx in Acrobat. [Export brochure docx references](export-brochure-docx/reference-index.md).
+- Open when looking up Extract text info from pdf in Acrobat. [Extract text info from pdf references](extract-text-info-from-pdf/reference-index.md).
+- Open when looking up Extract text table info from pdf in Acrobat. [Extract text table info from pdf references](extract-text-table-info-from-pdf/reference-index.md).
+- Open when looking up Extract text table info with char bounds from pdf in Acrobat. [Extract text table info with char bounds from pdf references](extract-text-table-info-with-char-bounds-from-pdf/reference-index.md).
+- Open when looking up Extract text table info with figures tables renditions from pdf in Acrobat. [Extract text table info with figures tables renditions from pdf references](extract-figure-table-renditions/reference-index.md).
+- Open when looking up Extract text table info with styling info from pdf in Acrobat. [Extract text table info with styling info from pdf references](extract-text-table-info-with-styling-info-from-pdf/reference-index.md).
+- Open when looking up Extract text table info with tables renditions from pdf in Acrobat. [Extract text table info with tables renditions from pdf references](extract-table-renditions/reference-index.md).
+- Open when looking up Extract text table info with tables structure from pdf in Acrobat. [Extract text table info with tables structure from pdf references](extract-table-structure/reference-index.md).
+- Open when looking up Get pdf properties in Acrobat. [Get pdf properties references](get-pdf-properties/reference-index.md).
+- Open when looking up Html to pdf from url in Acrobat. [Html to pdf from url references](html-to-pdf-from-url/reference-index.md).
+- Open when looking up Html with inline css to pdf in Acrobat. [Html with inline css to pdf references](html-with-inline-css-to-pdf/reference-index.md).
+- Open when looking up Insert pdf pages in Acrobat. [Insert pdf pages references](insert-pdf-pages/reference-index.md).
+- Open when looking up Linearize pdf in Acrobat. [Linearize pdf references](linearize-pdf/reference-index.md).
+- Open when looking up Merge customer data in Acrobat. [Merge customer data references](merge-customer-data/reference-index.md).
+- Open when looking up Merge customer fragments in Acrobat. [Merge customer fragments references](merge-customer-fragments/reference-index.md).
+- Open when looking up Merge document to docx fragments in Acrobat. [Merge document to docx fragments references](merge-document-to-docx-fragments/reference-index.md).
+- Open when looking up Merge document to pdf in Acrobat. [Merge document to pdf references](merge-document-to-pdf/reference-index.md).
+- Open when looking up Ocr pdf in Acrobat. [Ocr pdf references](ocr-pdf/reference-index.md).
+- Open when looking up Ocr pdf with options in Acrobat. [Ocr pdf with options references](ocr-pdf-with-options/reference-index.md).
+- Open when looking up Pdf watermark in Acrobat. [Pdf watermark references](pdf-watermark/reference-index.md).
+- Open when looking up Pdf watermark with options in Acrobat. [Pdf watermark with options references](pdf-watermark-with-options/reference-index.md).
+- Open when looking up Protect pdf in Acrobat. [Protect pdf references](protect-pdf/reference-index.md).
+- Open when looking up Protect pdf with owner password in Acrobat. [Protect pdf with owner password references](protect-pdf-with-owner-password/reference-index.md).
+- Open when looking up Remove protection in Acrobat. [Remove protection references](remove-protection/reference-index.md).
+- Open when looking up Reorder pdf pages in Acrobat. [Reorder pdf pages references](reorder-pdf-pages/reference-index.md).
+- Open when looking up Replace pdf pages in Acrobat. [Replace pdf pages references](replace-pdf-pages/reference-index.md).
+- Open when looking up Rotate pdf pages in Acrobat. [Rotate pdf pages references](rotate-pdf-pages/reference-index.md).
+- Open when looking up Split pdf by number of pages in Acrobat. [Split pdf by number of pages references](split-pdf-by-number-of-pages/reference-index.md).
+- Open when looking up Split pdf by page ranges in Acrobat. [Split pdf by page ranges references](split-pdf-by-page-ranges/reference-index.md).
+- Open when looking up Split pdf into number of files in Acrobat. [Split pdf into number of files references](split-pdf-into-number-of-files/reference-index.md).
+- Open when looking up Static html to pdf in Acrobat. [Static html to pdf references](static-html-to-pdf/reference-index.md).
+- Open when looking up Watermark selected ranges in Acrobat. [Watermark selected ranges references](watermark-selected-ranges/reference-index.md).

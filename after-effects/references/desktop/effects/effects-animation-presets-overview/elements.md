@@ -1,0 +1,29 @@
+# ELEMENTS
+
+- 2D Text Box
+- 60s Text Bar
+- Analogue Clock
+- Bouncing Map Icons
+- Burst Pop
+- Chasing Line - Boxes
+- Chasing Line - Dots
+- DNA Helix
+- Grid of Crosses
+- Marquee Chasers
+- Mod Boxes
+- Popping Map Pin
+- Repeating Lines
+- Ring Chart
+- Simple Map Marker
+- Wireframe Worm
+- Write on Arrow
+- Bounding Box
+- Crinkle Cut Sticker
+- Postage Stamp
+- Scalloped Frame
+- 2D Text Box (Shape)
+- Switchable Cursor Element
+- Vintage Star
+- Bar Graph
+- Line Graph
+- Radial Graph

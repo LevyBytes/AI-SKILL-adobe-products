@@ -1,0 +1,47 @@
+# Shared Adobe platform — Event
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Event declaration in Shared Adobe platform. [Event declaration](declaration.md).
+- Open when looking up Event identity and parent in Shared Adobe platform. [Event identity and parent](identity-and-parent.md).
+- Open when looking up Event object resolution in Shared Adobe platform. [Event object resolution](object-resolution.md).
+- Open when looking up Event.AFTER_ACTIVATE in Shared Adobe platform. [Event.AFTER_ACTIVATE](afteractivate.md).
+- Open when looking up Event.AFTER_CLOSE in Shared Adobe platform. [Event.AFTER_CLOSE](afterclose.md).
+- Open when looking up Event.AFTER_CONTEXT_CHANGED in Shared Adobe platform. [Event.AFTER_CONTEXT_CHANGED](aftercontextchanged.md).
+- Open when looking up Event.AFTER_DELETE in Shared Adobe platform. [Event.AFTER_DELETE](afterdelete.md).
+- Open when looking up Event.AFTER_EMBED in Shared Adobe platform. [Event.AFTER_EMBED](afterembed.md).
+- Open when looking up Event.AFTER_INVOKE in Shared Adobe platform. [Event.AFTER_INVOKE](afterinvoke.md).
+- Open when looking up Event.AFTER_LINKS_CHANGED in Shared Adobe platform. [Event.AFTER_LINKS_CHANGED](afterlinkschanged.md).
+- Open when looking up Event.AFTER_MOVE in Shared Adobe platform. [Event.AFTER_MOVE](aftermove.md).
+- Open when looking up Event.AFTER_NEW in Shared Adobe platform. [Event.AFTER_NEW](afternew.md).
+- Open when looking up Event.AFTER_OPEN in Shared Adobe platform. [Event.AFTER_OPEN](afteropen.md).
+- Open when looking up Event.AFTER_PLACE in Shared Adobe platform. [Event.AFTER_PLACE](afterplace.md).
+- Open when looking up Event.AFTER_QUIT in Shared Adobe platform. [Event.AFTER_QUIT](afterquit.md).
+- Open when looking up Event.AFTER_SELECTION_ATTRIBUTE_CHANGED in Shared Adobe platform. [Event.AFTER_SELECTION_ATTRIBUTE_CHANGED](afterselectionattributechanged.md).
+- Open when looking up Event.AFTER_SELECTION_CHANGED in Shared Adobe platform. [Event.AFTER_SELECTION_CHANGED](afterselectionchanged.md).
+- Open when looking up Event.AFTER_UNEMBED in Shared Adobe platform. [Event.AFTER_UNEMBED](afterunembed.md).
+- Open when looking up Event.AFTER_UPDATE in Shared Adobe platform. [Event.AFTER_UPDATE](afterupdate.md).
+- Open when looking up Event.BEFORE_CLOSE in Shared Adobe platform. [Event.BEFORE_CLOSE](beforeclose.md).
+- Open when looking up Event.BEFORE_DEACTIVATE in Shared Adobe platform. [Event.BEFORE_DEACTIVATE](beforedeactivate.md).
+- Open when looking up Event.BEFORE_DELETE in Shared Adobe platform. [Event.BEFORE_DELETE](beforedelete.md).
+- Open when looking up Event.BEFORE_DISPLAY in Shared Adobe platform. [Event.BEFORE_DISPLAY](beforedisplay.md).
+- Open when looking up Event.BEFORE_EMBED in Shared Adobe platform. [Event.BEFORE_EMBED](beforeembed.md).
+- Open when looking up Event.BEFORE_INVOKE in Shared Adobe platform. [Event.BEFORE_INVOKE](beforeinvoke.md).
+- Open when looking up Event.BEFORE_MOVE in Shared Adobe platform. [Event.BEFORE_MOVE](beforemove.md).
+- Open when looking up Event.BEFORE_PLACE in Shared Adobe platform. [Event.BEFORE_PLACE](beforeplace.md).
+- Open when looking up Event.BEFORE_QUIT in Shared Adobe platform. [Event.BEFORE_QUIT](beforequit.md).
+- Open when looking up Event.BEFORE_UNEMBED in Shared Adobe platform. [Event.BEFORE_UNEMBED](beforeunembed.md).
+- Open when looking up Event.BEFORE_UPDATE in Shared Adobe platform. [Event.BEFORE_UPDATE](beforeupdate.md).
+- Open when looking up Event.bubbles in Shared Adobe platform. [Event.bubbles](bubbles.md).
+- Open when looking up Event.cancelable in Shared Adobe platform. [Event.cancelable](cancelable.md).
+- Open when looking up Event.currentTarget in Shared Adobe platform. [Event.currentTarget](current-target.md).
+- Open when looking up Event.defaultPrevented in Shared Adobe platform. [Event.defaultPrevented](default-prevented.md).
+- Open when looking up Event.eventPhase in Shared Adobe platform. [Event.eventPhase](event-phase.md).
+- Open when looking up Event.eventType in Shared Adobe platform. [Event.eventType](event-type.md).
+- Open when looking up Event.HOME_SCREEN_VISIBILITY_CHANGE in Shared Adobe platform. [Event.HOME_SCREEN_VISIBILITY_CHANGE](homescreenvisibilitychange.md).
+- Open when looking up Event.ON_INVOKE in Shared Adobe platform. [Event.ON_INVOKE](oninvoke.md).
+- Open when looking up Event.preventDefault in Shared Adobe platform. [Event.preventDefault](prevent-default.md).
+- Open when looking up Event.propagationStopped in Shared Adobe platform. [Event.propagationStopped](propagation-stopped.md).
+- Open when looking up Event.properties in Shared Adobe platform. [Event.properties](properties.md).
+- Open when looking up Event.stopPropagation in Shared Adobe platform. [Event.stopPropagation](stop-propagation.md).
+- Open when looking up Event.target in Shared Adobe platform. [Event.target](target.md).
+- Open when looking up Event.timeStamp in Shared Adobe platform. [Event.timeStamp](time-stamp.md).

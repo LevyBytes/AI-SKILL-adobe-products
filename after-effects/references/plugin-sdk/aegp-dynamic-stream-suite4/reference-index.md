@@ -1,0 +1,29 @@
+# After Effects — AEGP_DynamicStreamSuite4
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_AddStream in After Effects. [AEGP_AddStream](aegp-add-stream.md).
+- Open when looking up AEGP_AreDimensionsSeparated in After Effects. [AEGP_AreDimensionsSeparated](aegp-are-dimensions-separated.md).
+- Open when looking up AEGP_CanAddStream in After Effects. [AEGP_CanAddStream](aegp-can-add-stream.md).
+- Open when looking up AEGP_DeleteStream in After Effects. [AEGP_DeleteStream](aegp-delete-stream.md).
+- Open when looking up AEGP_DuplicateStream in After Effects. [AEGP_DuplicateStream](aegp-duplicate-stream.md).
+- Open when looking up AEGP_GetDynamicStreamFlags in After Effects. [AEGP_GetDynamicStreamFlags](aegp-get-dynamic-stream-flags.md).
+- Open when looking up AEGP_GetMatchName in After Effects. [AEGP_GetMatchName](aegp-get-match-name.md).
+- Open when looking up AEGP_GetNewParentStreamRef in After Effects. [AEGP_GetNewParentStreamRef](aegp-get-new-parent-stream-ref.md).
+- Open when looking up AEGP_GetNewStreamRefByIndex in After Effects. [AEGP_GetNewStreamRefByIndex](aegp-get-new-stream-ref-by-index.md).
+- Open when looking up AEGP_GetNewStreamRefByMatchname in After Effects. [AEGP_GetNewStreamRefByMatchname](aegp-get-new-stream-ref-by-matchname.md).
+- Open when looking up AEGP_GetNewStreamRefForLayer in After Effects. [AEGP_GetNewStreamRefForLayer](aegp-get-new-stream-ref-for-layer.md).
+- Open when looking up AEGP_GetNewStreamRefForMask in After Effects. [AEGP_GetNewStreamRefForMask](aegp-get-new-stream-ref-for-mask.md).
+- Open when looking up AEGP_GetNumStreamsInGroup in After Effects. [AEGP_GetNumStreamsInGroup](aegp-get-num-streams-in-group.md).
+- Open when looking up AEGP_GetSeparationDimension in After Effects. [AEGP_GetSeparationDimension](aegp-get-separation-dimension.md).
+- Open when looking up AEGP_GetSeparationFollower in After Effects. [AEGP_GetSeparationFollower](aegp-get-separation-follower.md).
+- Open when looking up AEGP_GetSeparationLeader in After Effects. [AEGP_GetSeparationLeader](aegp-get-separation-leader.md).
+- Open when looking up AEGP_GetStreamDepth in After Effects. [AEGP_GetStreamDepth](aegp-get-stream-depth.md).
+- Open when looking up AEGP_GetStreamGroupingType in After Effects. [AEGP_GetStreamGroupingType](aegp-get-stream-grouping-type.md).
+- Open when looking up AEGP_GetStreamIndexInParent in After Effects. [AEGP_GetStreamIndexInParent](aegp-get-stream-index-in-parent.md).
+- Open when looking up AEGP_GetStreamIsModified in After Effects. [AEGP_GetStreamIsModified](aegp-get-stream-is-modified.md).
+- Open when looking up AEGP_IsSeparationFollower in After Effects. [AEGP_IsSeparationFollower](aegp-is-separation-follower.md).
+- Open when looking up AEGP_IsSeparationLeader in After Effects. [AEGP_IsSeparationLeader](aegp-is-separation-leader.md).
+- Open when looking up AEGP_ReorderStream in After Effects. [AEGP_ReorderStream](aegp-reorder-stream.md).
+- Open when looking up AEGP_SetDimensionsSeparated in After Effects. [AEGP_SetDimensionsSeparated](aegp-set-dimensions-separated.md).
+- Open when looking up AEGP_SetDynamicStreamFlag in After Effects. [AEGP_SetDynamicStreamFlag](aegp-set-dynamic-stream-flag.md).
+- Open when looking up AEGP_SetStreamName in After Effects. [AEGP_SetStreamName](aegp-set-stream-name.md).

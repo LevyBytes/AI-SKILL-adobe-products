@@ -1,0 +1,22 @@
+# InCopy — Formatting characters — Apply baseline shift
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Formatting characters — Add transparency effects to text in InCopy. [Formatting characters — Add transparency effects to text](formatting-characters-add-transparency-effects-to-text.md).
+- Open when looking up Formatting characters — Adjust vertical or horizontal scaling in InCopy. [Formatting characters — Adjust vertical or horizontal scaling](formatting-characters-adjust-vertical-or-horizontal-scaling.md).
+- Open when looking up Formatting characters — Apply ligatures to letter pairs in InCopy. [Formatting characters — Apply ligatures to letter pairs](formatting-characters-apply-ligatures-to-letter-pairs.md).
+- Open when looking up Formatting characters — Apply underline or strikethrough in InCopy. [Formatting characters — Apply underline or strikethrough](formatting-characters-apply-underline-or-strikethrough.md).
+- Open when looking up Formatting characters — Assign a language to text in InCopy. [Formatting characters — Assign a language to text](formatting-characters-assign-a-language-to-text.md).
+- Open when looking up Formatting characters — Change capitalization in InCopy. [Formatting characters — Change capitalization](formatting-characters-change-capitalization.md).
+- Open when looking up Formatting characters — Change text to All Caps or Small Caps in InCopy. [Formatting characters — Change text to All Caps or Small Caps](formatting-characters-change-text-to-all-caps-or-small-caps.md).
+- Open when looking up Formatting characters — Change the case of type in InCopy. [Formatting characters — Change the case of type](formatting-characters-change-the-case-of-type.md).
+- Open when looking up Formatting characters — Change the color and gradient of text in InCopy. [Formatting characters — Change the color and gradient of text](formatting-characters-change-the-color-and-gradient-of-text.md).
+- Open when looking up Formatting characters — Change the color of text in InCopy. [Formatting characters — Change the color of text](formatting-characters-change-the-color-of-text.md).
+- Open when looking up Formatting characters — Change the color, gradient, or stroke of text in InCopy. [Formatting characters — Change the color, gradient, or stroke of text](change-the-color-gradient-or-stroke-of-text.md).
+- Open when looking up Formatting characters — Change underline or strikethrough options in InCopy. [Formatting characters — Change underline or strikethrough options](change-underline-or-strikethrough-options.md).
+- Open when looking up Formatting characters — Determine the appearance of scaled text values in InCopy. [Formatting characters — Determine the appearance of scaled text values](determine-the-appearance-of-scaled-text-values.md).
+- Open when looking up Formatting characters — Make characters superscript or subscript in a non-OpenType font in InCopy. [Formatting characters — Make characters superscript or subscript in a non-OpenType font](non-opentype-superscript-and-subscript.md).
+- Open when looking up Formatting characters — Scale text by resizing the text frame in InDesign in InCopy. [Formatting characters — Scale text by resizing the text frame in InDesign](scale-text-by-resizing-the-text-frame-in-indesign.md).
+- Open when looking up Formatting characters — Scale type in InCopy. [Formatting characters — Scale type](formatting-characters-scale-type.md).
+- Open when looking up Formatting characters — Skew type in InCopy. [Formatting characters — Skew type](formatting-characters-skew-type.md).
+- Open when looking up Formatting characters — Specify the size for small caps in InCopy. [Formatting characters — Specify the size for small caps](formatting-characters-specify-the-size-for-small-caps.md).
+- Open when looking up Formatting characters — Specify the type of swatches to display in InCopy. [Formatting characters — Specify the type of swatches to display](formatting-characters-specify-the-type-of-swatches-to-display.md).

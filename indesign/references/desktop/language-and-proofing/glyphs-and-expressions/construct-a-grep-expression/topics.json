@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Find and change text using GREP expressions", "file": "references/desktop/language-and-proofing/glyphs-and-expressions/construct-a-grep-expression/find-and-change-text-using-grep-expressions.md", "summary": "Open when looking up Find and change text using GREP expressions in InDesign.", "keywords": ["Find and change text using GREP expressions"]},
+  {"topic": "Find text within quotation marks and reformat", "file": "references/desktop/language-and-proofing/glyphs-and-expressions/construct-a-grep-expression/find-text-within-quotation-marks-and-reformat.md", "summary": "Open when looking up Find text within quotation marks and reformat in InDesign.", "keywords": ["Find text within quotation marks and reformat"]},
+  {"topic": "Sample GREP expressions", "file": "references/desktop/language-and-proofing/glyphs-and-expressions/construct-a-grep-expression/sample-grep-expressions.md", "summary": "Open when looking up Sample GREP expressions in InDesign.", "keywords": ["Sample GREP expressions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Amazon S3", "file": "references/pdf-services/overview-external-storage-for-adobe-pdf-services-apis/amazon-s3.md", "summary": "Open when looking up Amazon S3 in Acrobat.", "keywords": ["Amazon S3"]},
+  {"topic": "Azure Blob", "file": "references/pdf-services/overview-external-storage-for-adobe-pdf-services-apis/azure-blob.md", "summary": "Open when looking up Azure Blob in Acrobat.", "keywords": ["Azure Blob"]},
+  {"topic": "Dropbox", "file": "references/pdf-services/overview-external-storage-for-adobe-pdf-services-apis/dropbox.md", "summary": "Open when looking up Dropbox in Acrobat.", "keywords": ["Dropbox"]},
+  {"topic": "Overview — Limitation", "file": "references/pdf-services/overview-external-storage-for-adobe-pdf-services-apis/overview-limitation.md", "summary": "Open when looking up Overview — Limitation in Acrobat.", "keywords": ["Overview — Limitation"]},
+  {"topic": "Overview — Supported External Storage Solutions", "file": "references/pdf-services/overview-external-storage-for-adobe-pdf-services-apis/overview-supported-external-storage-solutions.md", "summary": "Open when looking up Overview — Supported External Storage Solutions in Acrobat.", "keywords": ["Overview — Supported External Storage Solutions"]},
+  {"topic": "SharePoint", "file": "references/pdf-services/overview-external-storage-for-adobe-pdf-services-apis/share-point.md", "summary": "Open when looking up SharePoint in Acrobat.", "keywords": ["SharePoint"]},
+  {"topic": "Supported URL Prefixes", "file": "references/pdf-services/overview-external-storage-for-adobe-pdf-services-apis/supported-url-prefixes.md", "summary": "Open when looking up Supported URL Prefixes in Acrobat.", "keywords": ["Supported URL Prefixes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

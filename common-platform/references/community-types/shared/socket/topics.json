@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Socket declaration", "file": "references/community-types/shared/socket/declaration.md", "summary": "Open when looking up Socket declaration in Shared Adobe platform.", "keywords": ["Socket declaration"]},
+  {"topic": "Socket.close", "file": "references/community-types/shared/socket/close.md", "summary": "Open when looking up Socket.close in Shared Adobe platform.", "keywords": ["Socket.close"]},
+  {"topic": "Socket.connected", "file": "references/community-types/shared/socket/connected.md", "summary": "Open when looking up Socket.connected in Shared Adobe platform.", "keywords": ["Socket.connected"]},
+  {"topic": "Socket.encoding", "file": "references/community-types/shared/socket/encoding.md", "summary": "Open when looking up Socket.encoding in Shared Adobe platform.", "keywords": ["Socket.encoding"]},
+  {"topic": "Socket.eof", "file": "references/community-types/shared/socket/eof.md", "summary": "Open when looking up Socket.eof in Shared Adobe platform.", "keywords": ["Socket.eof"]},
+  {"topic": "Socket.error", "file": "references/community-types/shared/socket/error.md", "summary": "Open when looking up Socket.error in Shared Adobe platform.", "keywords": ["Socket.error"]},
+  {"topic": "Socket.host", "file": "references/community-types/shared/socket/host.md", "summary": "Open when looking up Socket.host in Shared Adobe platform.", "keywords": ["Socket.host"]},
+  {"topic": "Socket.listen", "file": "references/community-types/shared/socket/listen.md", "summary": "Open when looking up Socket.listen in Shared Adobe platform.", "keywords": ["Socket.listen"]},
+  {"topic": "Socket.open", "file": "references/community-types/shared/socket/open.md", "summary": "Open when looking up Socket.open in Shared Adobe platform.", "keywords": ["Socket.open"]},
+  {"topic": "Socket.poll", "file": "references/community-types/shared/socket/poll.md", "summary": "Open when looking up Socket.poll in Shared Adobe platform.", "keywords": ["Socket.poll"]},
+  {"topic": "Socket.read", "file": "references/community-types/shared/socket/read.md", "summary": "Open when looking up Socket.read in Shared Adobe platform.", "keywords": ["Socket.read"]},
+  {"topic": "Socket.readln", "file": "references/community-types/shared/socket/readln.md", "summary": "Open when looking up Socket.readln in Shared Adobe platform.", "keywords": ["Socket.readln"]},
+  {"topic": "Socket.timeout", "file": "references/community-types/shared/socket/timeout.md", "summary": "Open when looking up Socket.timeout in Shared Adobe platform.", "keywords": ["Socket.timeout"]},
+  {"topic": "Socket.write", "file": "references/community-types/shared/socket/write.md", "summary": "Open when looking up Socket.write in Shared Adobe platform.", "keywords": ["Socket.write"]},
+  {"topic": "Socket.writeln", "file": "references/community-types/shared/socket/writeln.md", "summary": "Open when looking up Socket.writeln in Shared Adobe platform.", "keywords": ["Socket.writeln"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

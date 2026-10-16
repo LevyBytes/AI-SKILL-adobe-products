@@ -1,0 +1,61 @@
+# Shared Adobe platform — Project
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Project declaration in Shared Adobe platform. [Project declaration](declaration.md).
+- Open when looking up Project named and indexed items in Shared Adobe platform. [Project named and indexed items](named-and-indexed-items.md).
+- Open when looking up Project.activeItem in Shared Adobe platform. [Project.activeItem](active-item.md).
+- Open when looking up Project.autoFixExpressions in Shared Adobe platform. [Project.autoFixExpressions](auto-fix-expressions.md).
+- Open when looking up Project.bitsPerChannel in Shared Adobe platform. [Project.bitsPerChannel](bits-per-channel.md).
+- Open when looking up Project.close in Shared Adobe platform. [Project.close](close.md).
+- Open when looking up Project.closeTeamProject in Shared Adobe platform. [Project.closeTeamProject](close-team-project.md).
+- Open when looking up Project.compensateForSceneReferredProfiles in Shared Adobe platform. [Project.compensateForSceneReferredProfiles](compensate-for-scene-referred-profiles.md).
+- Open when looking up Project.consolidateFootage in Shared Adobe platform. [Project.consolidateFootage](consolidate-footage.md).
+- Open when looking up Project.convertTeamProjectToProject in Shared Adobe platform. [Project.convertTeamProjectToProject](convert-team-project-to-project.md).
+- Open when looking up Project.dirty in Shared Adobe platform. [Project.dirty](dirty.md).
+- Open when looking up Project.displayStartFrame in Shared Adobe platform. [Project.displayStartFrame](display-start-frame.md).
+- Open when looking up Project.expressionEngine in Shared Adobe platform. [Project.expressionEngine](expression-engine.md).
+- Open when looking up Project.feetFramesFilmType in Shared Adobe platform. [Project.feetFramesFilmType](feet-frames-film-type.md).
+- Open when looking up Project.file in Shared Adobe platform. [Project.file](file.md).
+- Open when looking up Project.footageTimecodeDisplayStartType in Shared Adobe platform. [Project.footageTimecodeDisplayStartType](footage-timecode-display-start-type.md).
+- Open when looking up Project.framesCountType in Shared Adobe platform. [Project.framesCountType](frames-count-type.md).
+- Open when looking up Project.framesUseFeetFrames in Shared Adobe platform. [Project.framesUseFeetFrames](frames-use-feet-frames.md).
+- Open when looking up Project.gpuAccelType in Shared Adobe platform. [Project.gpuAccelType](gpu-accel-type.md).
+- Open when looking up Project.importFile in Shared Adobe platform. [Project.importFile](import-file.md).
+- Open when looking up Project.importFileWithDialog in Shared Adobe platform. [Project.importFileWithDialog](import-file-with-dialog.md).
+- Open when looking up Project.importPlaceholder in Shared Adobe platform. [Project.importPlaceholder](import-placeholder.md).
+- Open when looking up Project.isAnyTeamProjectOpen in Shared Adobe platform. [Project.isAnyTeamProjectOpen](is-any-team-project-open.md).
+- Open when looking up Project.isLoggedInToTeamProject in Shared Adobe platform. [Project.isLoggedInToTeamProject](is-logged-in-to-team-project.md).
+- Open when looking up Project.isResolveCommandEnabled in Shared Adobe platform. [Project.isResolveCommandEnabled](is-resolve-command-enabled.md).
+- Open when looking up Project.isShareCommandEnabled in Shared Adobe platform. [Project.isShareCommandEnabled](is-share-command-enabled.md).
+- Open when looking up Project.isSyncCommandEnabled in Shared Adobe platform. [Project.isSyncCommandEnabled](is-sync-command-enabled.md).
+- Open when looking up Project.isTeamProjectEnabled in Shared Adobe platform. [Project.isTeamProjectEnabled](is-team-project-enabled.md).
+- Open when looking up Project.isTeamProjectOpen in Shared Adobe platform. [Project.isTeamProjectOpen](is-team-project-open.md).
+- Open when looking up Project.items in Shared Adobe platform. [Project.items](items.md).
+- Open when looking up Project.layerByID in Shared Adobe platform. [Project.layerByID](layer-by-id.md).
+- Open when looking up Project.linearBlending in Shared Adobe platform. [Project.linearBlending](linear-blending.md).
+- Open when looking up Project.linearizeWorkingSpace in Shared Adobe platform. [Project.linearizeWorkingSpace](linearize-working-space.md).
+- Open when looking up Project.listColorProfiles in Shared Adobe platform. [Project.listColorProfiles](list-color-profiles.md).
+- Open when looking up Project.listTeamProjects in Shared Adobe platform. [Project.listTeamProjects](list-team-projects.md).
+- Open when looking up Project.newTeamProject in Shared Adobe platform. [Project.newTeamProject](new-team-project.md).
+- Open when looking up Project.numItems in Shared Adobe platform. [Project.numItems](num-items.md).
+- Open when looking up Project.openTeamProject in Shared Adobe platform. [Project.openTeamProject](open-team-project.md).
+- Open when looking up Project.reduceProject in Shared Adobe platform. [Project.reduceProject](reduce-project.md).
+- Open when looking up Project.removeUnusedFootage in Shared Adobe platform. [Project.removeUnusedFootage](remove-unused-footage.md).
+- Open when looking up Project.renderQueue in Shared Adobe platform. [Project.renderQueue](render-queue.md).
+- Open when looking up Project.replaceFont in Shared Adobe platform. [Project.replaceFont](replace-font.md).
+- Open when looking up Project.resolveConflict in Shared Adobe platform. [Project.resolveConflict](resolve-conflict.md).
+- Open when looking up Project.rootFolder in Shared Adobe platform. [Project.rootFolder](root-folder.md).
+- Open when looking up Project.save in Shared Adobe platform. [Project.save](save.md).
+- Open when looking up Project.saveWithDialog in Shared Adobe platform. [Project.saveWithDialog](save-with-dialog.md).
+- Open when looking up Project.selection in Shared Adobe platform. [Project.selection](selection.md).
+- Open when looking up Project.setDefaultImportFolder in Shared Adobe platform. [Project.setDefaultImportFolder](set-default-import-folder.md).
+- Open when looking up Project.shareTeamProject in Shared Adobe platform. [Project.shareTeamProject](share-team-project.md).
+- Open when looking up Project.showWindow in Shared Adobe platform. [Project.showWindow](show-window.md).
+- Open when looking up Project.syncTeamProject in Shared Adobe platform. [Project.syncTeamProject](sync-team-project.md).
+- Open when looking up Project.timeDisplayType in Shared Adobe platform. [Project.timeDisplayType](time-display-type.md).
+- Open when looking up Project.toolType in Shared Adobe platform. [Project.toolType](tool-type.md).
+- Open when looking up Project.transparencyGridThumbnails in Shared Adobe platform. [Project.transparencyGridThumbnails](transparency-grid-thumbnails.md).
+- Open when looking up Project.usedFonts in Shared Adobe platform. [Project.usedFonts](used-fonts.md).
+- Open when looking up Project.workingGamma in Shared Adobe platform. [Project.workingGamma](working-gamma.md).
+- Open when looking up Project.workingSpace in Shared Adobe platform. [Project.workingSpace](working-space.md).
+- Open when looking up Project.xmpPacket in Shared Adobe platform. [Project.xmpPacket](xmp-packet.md).

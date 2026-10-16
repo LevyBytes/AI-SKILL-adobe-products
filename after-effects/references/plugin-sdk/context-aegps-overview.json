@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Aegp communication with after effects references", "file": "references/plugin-sdk/aegp-communication-with-after-effects/reference-index.md", "summary": "Open when looking up Aegp communication with after effects in After Effects.", "keywords": ["Aegp communication with after effects references"]},
+  {"topic": "Different tasks same api references", "file": "references/plugin-sdk/different-tasks-same-api/reference-index.md", "summary": "Open when looking up Different tasks same api in After Effects.", "keywords": ["Different tasks same api references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

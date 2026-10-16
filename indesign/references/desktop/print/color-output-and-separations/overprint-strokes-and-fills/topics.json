@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Overprint strokes or fills", "file": "references/desktop/print/color-output-and-separations/overprint-strokes-and-fills/overprint-strokes-or-fills.md", "summary": "Open when looking up Overprint strokes or fills in InDesign.", "keywords": ["Overprint strokes or fills"]},
+  {"topic": "Preview overprint effects", "file": "references/desktop/print/color-output-and-separations/overprint-strokes-and-fills/preview-overprint-effects.md", "summary": "Open when looking up Preview overprint effects in InDesign.", "keywords": ["Preview overprint effects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

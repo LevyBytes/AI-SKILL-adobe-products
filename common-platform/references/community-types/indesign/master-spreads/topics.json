@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "MasterSpreads collection iteration", "file": "references/community-types/indesign/master-spreads/collection-iteration.md", "summary": "Open when looking up MasterSpreads collection iteration in Shared Adobe platform.", "keywords": ["MasterSpreads collection iteration"]},
+  {"topic": "MasterSpreads declaration", "file": "references/community-types/indesign/master-spreads/declaration.md", "summary": "Open when looking up MasterSpreads declaration in Shared Adobe platform.", "keywords": ["MasterSpreads declaration"]},
+  {"topic": "MasterSpreads named and indexed items", "file": "references/community-types/indesign/master-spreads/named-and-indexed-items.md", "summary": "Open when looking up MasterSpreads named and indexed items in Shared Adobe platform.", "keywords": ["MasterSpreads named and indexed items"]},
+  {"topic": "MasterSpreads.add", "file": "references/community-types/indesign/master-spreads/add.md", "summary": "Open when looking up MasterSpreads.add in Shared Adobe platform.", "keywords": ["MasterSpreads.add"]},
+  {"topic": "MasterSpreads.count", "file": "references/community-types/indesign/master-spreads/count.md", "summary": "Open when looking up MasterSpreads.count in Shared Adobe platform.", "keywords": ["MasterSpreads.count"]},
+  {"topic": "MasterSpreads.IndexSignature", "file": "references/community-types/indesign/master-spreads/index-signature.md", "summary": "Open when looking up MasterSpreads.IndexSignature in Shared Adobe platform.", "keywords": ["MasterSpreads.IndexSignature"]},
+  {"topic": "MasterSpreads.itemByRange", "file": "references/community-types/indesign/master-spreads/item-by-range.md", "summary": "Open when looking up MasterSpreads.itemByRange in Shared Adobe platform.", "keywords": ["MasterSpreads.itemByRange"]},
+  {"topic": "MasterSpreads.length", "file": "references/community-types/indesign/master-spreads/length.md", "summary": "Open when looking up MasterSpreads.length in Shared Adobe platform.", "keywords": ["MasterSpreads.length"]},
+  {"topic": "MasterSpreads.toSource", "file": "references/community-types/indesign/master-spreads/to-source.md", "summary": "Open when looking up MasterSpreads.toSource in Shared Adobe platform.", "keywords": ["MasterSpreads.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ChangeObjectPreference.applyToMasterPageOnly", "file": "references/community-types/indesign/change-object-preference/apply-to-master-page-only.md", "summary": "Open when looking up ChangeObjectPreference.applyToMasterPageOnly in Shared Adobe platform.", "keywords": ["ChangeObjectPreference.applyToMasterPageOnly"]},
+  {"topic": "ChangeObjectPreference.nonprinting", "file": "references/community-types/indesign/change-object-preference/nonprinting.md", "summary": "Open when looking up ChangeObjectPreference.nonprinting in Shared Adobe platform.", "keywords": ["ChangeObjectPreference.nonprinting"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

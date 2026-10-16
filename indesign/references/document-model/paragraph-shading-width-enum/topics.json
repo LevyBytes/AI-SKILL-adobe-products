@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "COLUMN_WIDTH", "file": "references/document-model/paragraph-shading-width-enum/columnwidth.md", "summary": "Open when looking up COLUMN_WIDTH in InDesign.", "keywords": ["COLUMN_WIDTH"]},
+  {"topic": "TEXT_WIDTH", "file": "references/document-model/paragraph-shading-width-enum/textwidth.md", "summary": "Open when looking up TEXT_WIDTH in InDesign.", "keywords": ["TEXT_WIDTH"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

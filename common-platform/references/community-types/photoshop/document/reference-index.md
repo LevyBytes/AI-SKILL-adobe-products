@@ -1,0 +1,66 @@
+# Shared Adobe platform — Document
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Document declaration in Shared Adobe platform. [Document declaration](declaration.md).
+- Open when looking up Document identity and parent in Shared Adobe platform. [Document identity and parent](identity-and-parent.md).
+- Open when looking up Document.activeChannels in Shared Adobe platform. [Document.activeChannels](active-channels.md).
+- Open when looking up Document.activeHistoryBrushSource in Shared Adobe platform. [Document.activeHistoryBrushSource](active-history-brush-source.md).
+- Open when looking up Document.activeHistoryState in Shared Adobe platform. [Document.activeHistoryState](active-history-state.md).
+- Open when looking up Document.activeLayer in Shared Adobe platform. [Document.activeLayer](active-layer.md).
+- Open when looking up Document.artLayers in Shared Adobe platform. [Document.artLayers](art-layers.md).
+- Open when looking up Document.autoCount in Shared Adobe platform. [Document.autoCount](auto-count.md).
+- Open when looking up Document.backgroundLayer in Shared Adobe platform. [Document.backgroundLayer](background-layer.md).
+- Open when looking up Document.bitsPerChannel in Shared Adobe platform. [Document.bitsPerChannel](bits-per-channel.md).
+- Open when looking up Document.changeMode in Shared Adobe platform. [Document.changeMode](change-mode.md).
+- Open when looking up Document.channels in Shared Adobe platform. [Document.channels](channels.md).
+- Open when looking up Document.close in Shared Adobe platform. [Document.close](close.md).
+- Open when looking up Document.colorProfileName in Shared Adobe platform. [Document.colorProfileName](color-profile-name.md).
+- Open when looking up Document.colorProfileType in Shared Adobe platform. [Document.colorProfileType](color-profile-type.md).
+- Open when looking up Document.colorSamplers in Shared Adobe platform. [Document.colorSamplers](color-samplers.md).
+- Open when looking up Document.componentChannels in Shared Adobe platform. [Document.componentChannels](component-channels.md).
+- Open when looking up Document.convertProfile in Shared Adobe platform. [Document.convertProfile](convert-profile.md).
+- Open when looking up Document.countItems in Shared Adobe platform. [Document.countItems](count-items.md).
+- Open when looking up Document.crop in Shared Adobe platform. [Document.crop](crop.md).
+- Open when looking up Document.duplicate in Shared Adobe platform. [Document.duplicate](duplicate.md).
+- Open when looking up Document.exportDocument in Shared Adobe platform. [Document.exportDocument](export-document.md).
+- Open when looking up Document.flatten in Shared Adobe platform. [Document.flatten](flatten.md).
+- Open when looking up Document.flipCanvas in Shared Adobe platform. [Document.flipCanvas](flip-canvas.md).
+- Open when looking up Document.fullName in Shared Adobe platform. [Document.fullName](full-name.md).
+- Open when looking up Document.guides in Shared Adobe platform. [Document.guides](guides.md).
+- Open when looking up Document.height in Shared Adobe platform. [Document.height](height.md).
+- Open when looking up Document.histogram in Shared Adobe platform. [Document.histogram](histogram.md).
+- Open when looking up Document.historyStates in Shared Adobe platform. [Document.historyStates](history-states.md).
+- Open when looking up Document.importAnnotations in Shared Adobe platform. [Document.importAnnotations](import-annotations.md).
+- Open when looking up Document.info in Shared Adobe platform. [Document.info](info.md).
+- Open when looking up Document.layerComps in Shared Adobe platform. [Document.layerComps](layer-comps.md).
+- Open when looking up Document.layers in Shared Adobe platform. [Document.layers](layers.md).
+- Open when looking up Document.layerSets in Shared Adobe platform. [Document.layerSets](layer-sets.md).
+- Open when looking up Document.managed in Shared Adobe platform. [Document.managed](managed.md).
+- Open when looking up Document.measurementScale in Shared Adobe platform. [Document.measurementScale](measurement-scale.md).
+- Open when looking up Document.mergeVisibleLayers in Shared Adobe platform. [Document.mergeVisibleLayers](merge-visible-layers.md).
+- Open when looking up Document.mode in Shared Adobe platform. [Document.mode](mode.md).
+- Open when looking up Document.paste in Shared Adobe platform. [Document.paste](paste.md).
+- Open when looking up Document.path in Shared Adobe platform. [Document.path](path.md).
+- Open when looking up Document.pathItems in Shared Adobe platform. [Document.pathItems](path-items.md).
+- Open when looking up Document.pixelAspectRatio in Shared Adobe platform. [Document.pixelAspectRatio](pixel-aspect-ratio.md).
+- Open when looking up Document.print in Shared Adobe platform. [Document.print](print.md).
+- Open when looking up Document.printOneCopy in Shared Adobe platform. [Document.printOneCopy](print-one-copy.md).
+- Open when looking up Document.printSettings in Shared Adobe platform. [Document.printSettings](print-settings.md).
+- Open when looking up Document.quickMaskMode in Shared Adobe platform. [Document.quickMaskMode](quick-mask-mode.md).
+- Open when looking up Document.rasterizeAllLayers in Shared Adobe platform. [Document.rasterizeAllLayers](rasterize-all-layers.md).
+- Open when looking up Document.recordMeasurements in Shared Adobe platform. [Document.recordMeasurements](record-measurements.md).
+- Open when looking up Document.resizeCanvas in Shared Adobe platform. [Document.resizeCanvas](resize-canvas.md).
+- Open when looking up Document.resizeImage in Shared Adobe platform. [Document.resizeImage](resize-image.md).
+- Open when looking up Document.resolution in Shared Adobe platform. [Document.resolution](resolution.md).
+- Open when looking up Document.revealAll in Shared Adobe platform. [Document.revealAll](reveal-all.md).
+- Open when looking up Document.rotateCanvas in Shared Adobe platform. [Document.rotateCanvas](rotate-canvas.md).
+- Open when looking up Document.save in Shared Adobe platform. [Document.save](save.md).
+- Open when looking up Document.saveAs in Shared Adobe platform. [Document.saveAs](save-as.md).
+- Open when looking up Document.saved in Shared Adobe platform. [Document.saved](saved.md).
+- Open when looking up Document.selection in Shared Adobe platform. [Document.selection](selection.md).
+- Open when looking up Document.splitChannels in Shared Adobe platform. [Document.splitChannels](split-channels.md).
+- Open when looking up Document.suspendHistory in Shared Adobe platform. [Document.suspendHistory](suspend-history.md).
+- Open when looking up Document.trap in Shared Adobe platform. [Document.trap](trap.md).
+- Open when looking up Document.trim in Shared Adobe platform. [Document.trim](trim.md).
+- Open when looking up Document.width in Shared Adobe platform. [Document.width](width.md).
+- Open when looking up Document.xmpMetadata in Shared Adobe platform. [Document.xmpMetadata](xmp-metadata.md).

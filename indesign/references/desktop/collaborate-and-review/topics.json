@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Edit with in copy references", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/reference-index.md", "summary": "Open when looking up Edit with in copy in InDesign.", "keywords": ["Edit with in copy references"]},
+  {"topic": "Share and collaborate references", "file": "references/desktop/collaborate-and-review/share-and-collaborate/reference-index.md", "summary": "Open when looking up Share and collaborate in InDesign.", "keywords": ["Share and collaborate references"]},
+  {"topic": "Track changes and review references", "file": "references/desktop/collaborate-and-review/track-changes-and-review/reference-index.md", "summary": "Open when looking up Track changes and review in InDesign.", "keywords": ["Track changes and review references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

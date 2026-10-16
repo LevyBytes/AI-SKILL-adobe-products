@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Configure Google Analytics", "file": "references/pdf-embed/analytics-google-analytics/configure-google-analytics.md", "summary": "Open when looking up Configure Google Analytics in Acrobat.", "keywords": ["Configure Google Analytics"]},
+  {"topic": "Custom Dimensions", "file": "references/pdf-embed/analytics-google-analytics/custom-dimensions.md", "summary": "Open when looking up Custom Dimensions in Acrobat.", "keywords": ["Custom Dimensions"]},
+  {"topic": "Set up the PDF Viewer", "file": "references/pdf-embed/analytics-google-analytics/set-up-the-pdf-viewer.md", "summary": "Open when looking up Set up the PDF Viewer in Acrobat.", "keywords": ["Set up the PDF Viewer"]},
+  {"topic": "Viewing your data in Google Analytics 4", "file": "references/pdf-embed/analytics-google-analytics/viewing-your-data-in-google-analytics-4.md", "summary": "Open when looking up Viewing your data in Google Analytics 4 in Acrobat.", "keywords": ["Viewing your data in Google Analytics 4"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

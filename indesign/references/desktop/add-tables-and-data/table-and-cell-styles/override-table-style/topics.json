@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Apply formatting to create an override", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/override-table-style/apply-formatting-to-create-an-override.md", "summary": "Open when looking up Apply formatting to create an override in InDesign.", "keywords": ["Apply formatting to create an override"]},
+  {"topic": "Break the link between formatting and styles", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/override-table-style/break-the-link-between-formatting-and-styles.md", "summary": "Open when looking up Break the link between formatting and styles in InDesign.", "keywords": ["Break the link between formatting and styles"]},
+  {"topic": "Clear overrides while applying a table style", "file": "references/desktop/add-tables-and-data/table-and-cell-styles/override-table-style/clear-overrides-while-applying-a-table-style.md", "summary": "Open when looking up Clear overrides while applying a table style in InDesign.", "keywords": ["Clear overrides while applying a table style"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

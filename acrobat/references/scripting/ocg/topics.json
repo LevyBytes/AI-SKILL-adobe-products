@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "constants", "file": "references/scripting/ocg/constants.md", "summary": "Open when looking up constants in Acrobat.", "keywords": ["constants"]},
+  {"topic": "getIntent", "file": "references/scripting/ocg/get-intent.md", "summary": "Open when looking up getIntent in Acrobat.", "keywords": ["getIntent"]},
+  {"topic": "initState", "file": "references/scripting/ocg/init-state.md", "summary": "Open when looking up initState in Acrobat.", "keywords": ["initState"]},
+  {"topic": "JavaScript APIs — OCG", "file": "references/scripting/ocg/java-script-apis-ocg.md", "summary": "Open when looking up JavaScript APIs — OCG in Acrobat.", "keywords": ["JavaScript APIs — OCG"]},
+  {"topic": "locked", "file": "references/scripting/ocg/locked.md", "summary": "Open when looking up locked in Acrobat.", "keywords": ["locked"]},
+  {"topic": "name", "file": "references/scripting/ocg/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "setAction", "file": "references/scripting/ocg/set-action.md", "summary": "Open when looking up setAction in Acrobat.", "keywords": ["setAction"]},
+  {"topic": "setIntent", "file": "references/scripting/ocg/set-intent.md", "summary": "Open when looking up setIntent in Acrobat.", "keywords": ["setIntent"]},
+  {"topic": "state", "file": "references/scripting/ocg/state.md", "summary": "Open when looking up state in Acrobat.", "keywords": ["state"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

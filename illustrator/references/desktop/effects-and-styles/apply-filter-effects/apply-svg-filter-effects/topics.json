@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Apply a custom effect", "file": "references/desktop/effects-and-styles/apply-filter-effects/apply-svg-filter-effects/apply-a-custom-effect.md", "summary": "Open when looking up Apply a custom effect in Illustrator.", "keywords": ["Apply a custom effect"]},
+  {"topic": "Apply a default effect", "file": "references/desktop/effects-and-styles/apply-filter-effects/apply-svg-filter-effects/apply-a-default-effect.md", "summary": "Open when looking up Apply a default effect in Illustrator.", "keywords": ["Apply a default effect"]},
+  {"topic": "Create and apply a new effect", "file": "references/desktop/effects-and-styles/apply-filter-effects/apply-svg-filter-effects/create-and-apply-a-new-effect.md", "summary": "Open when looking up Create and apply a new effect in Illustrator.", "keywords": ["Create and apply a new effect"]},
+  {"topic": "Import effects from an SVG file", "file": "references/desktop/effects-and-styles/apply-filter-effects/apply-svg-filter-effects/import-effects-from-an-svg-file.md", "summary": "Open when looking up Import effects from an SVG file in Illustrator.", "keywords": ["Import effects from an SVG file"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

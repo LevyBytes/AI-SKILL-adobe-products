@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Color Space Conversion — Pixel Types For Different Color Spaces", "file": "references/plugin-sdk/pixel-types-for-different-color-spaces/color-space-conversion-pixel-types-for-different-color-spaces.md", "summary": "Open when looking up Color Space Conversion — Pixel Types For Different Color Spaces in After Effects.", "keywords": ["Color Space Conversion — Pixel Types For Different Color Spaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

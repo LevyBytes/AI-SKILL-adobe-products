@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Preview printer spreads visually", "file": "references/desktop/print/print-booklets/preview-booklet-printing/preview-printer-spreads-visually.md", "summary": "Open when looking up Preview printer spreads visually in InDesign.", "keywords": ["Preview printer spreads visually"]},
+  {"topic": "View a summary of booklet settings", "file": "references/desktop/print/print-booklets/preview-booklet-printing/view-a-summary-of-booklet-settings.md", "summary": "Open when looking up View a summary of booklet settings in InDesign.", "keywords": ["View a summary of booklet settings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

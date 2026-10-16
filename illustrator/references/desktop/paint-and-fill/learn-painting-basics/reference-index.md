@@ -1,0 +1,46 @@
+# Illustrator — Learn painting basics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About fills and strokes in Illustrator. [About fills and strokes](about-fills-and-strokes.md).
+- Open when looking up About Live Paint in Illustrator. [About Live Paint](about-live-paint.md).
+- Open when looking up Add paths to a Live Paint group in Illustrator. [Add paths to a Live Paint group](add-paths-to-a-live-paint-group.md).
+- Open when looking up Adjust or resize paths in a Live Paint group in Illustrator. [Adjust or resize paths in a Live Paint group](adjust-or-resize-paths-in-a-live-paint-group.md).
+- Open when looking up Apply and edit strokes in Illustrator. [Apply and edit strokes](apply-and-edit-strokes.md).
+- Open when looking up Apply fill colors to objects in Adobe Illustrator. in Illustrator. [Apply fill colors to objects in Adobe Illustrator.](apply-fill-colors-to-objects-in-adobe-illustrator.md).
+- Open when looking up Apply same object selection options using a new object in Illustrator. [Apply same object selection options using a new object](apply-same-object-selection-options-using-a-new-object.md).
+- Open when looking up Apply stroke colors to objects in Adobe Illustrator. in Illustrator. [Apply stroke colors to objects in Adobe Illustrator.](apply-stroke-colors-to-objects-in-adobe-illustrator.md).
+- Open when looking up Blob brush options and best practices in Illustrator. [Blob brush options and best practices](blob-brush-options-and-best-practices.md).
+- Open when looking up Blob Brush tool guidelines in Illustrator. [Blob Brush tool guidelines](blob-brush-tool-guidelines.md).
+- Open when looking up Choose the appropriate selection tool in Illustrator. [Choose the appropriate selection tool](choose-the-appropriate-selection-tool.md).
+- Open when looking up Convert objects to regular paths and create a Live Paint group in Illustrator. [Convert objects to regular paths and create a Live Paint group](path-conversion-for-live-paint.md).
+- Open when looking up Convert strokes to compound paths in Illustrator. [Convert strokes to compound paths](convert-strokes-to-compound-paths.md).
+- Open when looking up Copy color values instantly in Illustrator. [Copy color values instantly](copy-color-values-instantly.md).
+- Open when looking up Create a Live Paint group in Illustrator. [Create a Live Paint group](create-a-live-paint-group.md).
+- Open when looking up Create and edit gradients in Illustrator. [Create and edit gradients](create-and-edit-gradients.md).
+- Open when looking up Create and edit meshes in Illustrator. [Create and edit meshes](create-and-edit-meshes.md).
+- Open when looking up Create and edit patterns in Illustrator. [Create and edit patterns](create-and-edit-patterns.md).
+- Open when looking up Create Live Paint groups in Illustrator. [Create Live Paint groups](create-live-paint-groups.md).
+- Open when looking up Create multiple fills and strokes in Illustrator. [Create multiple fills and strokes](create-multiple-fills-and-strokes.md).
+- Open when looking up Edges and faces of Live Paint groups in Illustrator. [Edges and faces of Live Paint groups](edges-and-faces-of-live-paint-groups.md).
+- Open when looking up Expand or release a Live Paint group in Illustrator. [Expand or release a Live Paint group](expand-or-release-a-live-paint-group.md).
+- Open when looking up Fill in Illustrator. [Fill](fill.md).
+- Open when looking up Fill and stroke controls in Illustrator. [Fill and stroke controls](fill-and-stroke-controls.md).
+- Open when looking up Find and close gaps in Live Paint groups in Illustrator. [Find and close gaps in Live Paint groups](find-and-close-gaps-in-live-paint-groups.md).
+- Open when looking up Highlight gaps in a Live Paint group in Illustrator. [Highlight gaps in a Live Paint group](highlight-gaps-in-a-live-paint-group.md).
+- Open when looking up Learn Painting Basics in Illustrator. [Learn Painting Basics](learn-painting-basics.md).
+- Open when looking up Live Paint Bucket tool options in Illustrator. [Live Paint Bucket tool options](live-paint-bucket-tool-options.md).
+- Open when looking up Live Paint limitations in Illustrator. [Live Paint limitations](live-paint-limitations.md).
+- Open when looking up Merge paths using the Blob Brush tool in Illustrator. [Merge paths using the Blob Brush tool](merge-paths-using-the-blob-brush-tool.md).
+- Open when looking up Modify faces and edges in Illustrator. [Modify faces and edges](modify-faces-and-edges.md).
+- Open when looking up Modify Live Paint group components in Illustrator. [Modify Live Paint group components](modify-live-paint-group-components.md).
+- Open when looking up Modify Live Paint groups in Illustrator. [Modify Live Paint groups](modify-live-paint-groups.md).
+- Open when looking up Paint faces and edges in Illustrator. [Paint faces and edges](paint-faces-and-edges.md).
+- Open when looking up Paint tools overview in Illustrator. [Paint tools overview](paint-tools-overview.md).
+- Open when looking up Paint with the Live Paint Bucket tool in Illustrator. [Paint with the Live Paint Bucket tool](paint-with-the-live-paint-bucket-tool.md).
+- Open when looking up Path editing within Live Paint groups in Illustrator. [Path editing within Live Paint groups](path-editing-within-live-paint-groups.md).
+- Open when looking up Remove fills or strokes in Illustrator. [Remove fills or strokes](remove-fills-or-strokes.md).
+- Open when looking up Select objects with same fill and stroke in Illustrator. [Select objects with same fill and stroke](select-objects-with-same-fill-and-stroke.md).
+- Open when looking up Select objects with same Fill or Stroke color in Illustrator. [Select objects with same Fill or Stroke color](select-objects-with-same-fill-or-stroke-color.md).
+- Open when looking up Select objects with same Stroke Weight in Illustrator. [Select objects with same Stroke Weight](select-objects-with-same-stroke-weight.md).
+- Open when looking up Set Live Paint gap options in Illustrator. [Set Live Paint gap options](set-live-paint-gap-options.md).
+- Open when looking up Stroke in Illustrator. [Stroke](stroke.md).

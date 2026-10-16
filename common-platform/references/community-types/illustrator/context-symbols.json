@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Symbol", "file": "references/community-types/illustrator/symbol.md", "summary": "Open when looking up Symbol in Shared Adobe platform.", "keywords": ["Symbol"]},
+  {"topic": "SymbolItem", "file": "references/community-types/illustrator/symbol-item.md", "summary": "Open when looking up SymbolItem in Shared Adobe platform.", "keywords": ["SymbolItem"]},
+  {"topic": "SymbolItems", "file": "references/community-types/illustrator/symbol-items.md", "summary": "Open when looking up SymbolItems in Shared Adobe platform.", "keywords": ["SymbolItems"]},
+  {"topic": "SymbolRegistrationPoint", "file": "references/community-types/illustrator/symbol-registration-point.md", "summary": "Open when looking up SymbolRegistrationPoint in Shared Adobe platform.", "keywords": ["SymbolRegistrationPoint"]},
+  {"topic": "Symbols", "file": "references/community-types/illustrator/symbols.md", "summary": "Open when looking up Symbols in Shared Adobe platform.", "keywords": ["Symbols"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

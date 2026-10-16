@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "add()", "file": "references/scripting/control-object-constructors/add.md", "summary": "Open when looking up add() in Shared Adobe platform.", "keywords": ["add()"]},
+  {"topic": "Control objects — Control object constructors", "file": "references/scripting/control-object-constructors/control-objects-control-object-constructors.md", "summary": "Open when looking up Control objects — Control object constructors in Shared Adobe platform.", "keywords": ["Control objects — Control object constructors"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

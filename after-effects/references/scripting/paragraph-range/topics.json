@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "ParagraphRange object", "file": "references/scripting/paragraph-range/paragraph-range-object.md", "summary": "Open when looking up ParagraphRange object in After Effects.", "keywords": ["ParagraphRange object"]},
+  {"topic": "ParagraphRange.characterEnd", "file": "references/scripting/paragraph-range/character-end.md", "summary": "Open when looking up ParagraphRange.characterEnd in After Effects.", "keywords": ["ParagraphRange.characterEnd"]},
+  {"topic": "ParagraphRange.characterRange()", "file": "references/scripting/paragraph-range/character-range.md", "summary": "Open when looking up ParagraphRange.characterRange() in After Effects.", "keywords": ["ParagraphRange.characterRange()"]},
+  {"topic": "ParagraphRange.characterStart", "file": "references/scripting/paragraph-range/character-start.md", "summary": "Open when looking up ParagraphRange.characterStart in After Effects.", "keywords": ["ParagraphRange.characterStart"]},
+  {"topic": "ParagraphRange.isRangeValid", "file": "references/scripting/paragraph-range/is-range-valid.md", "summary": "Open when looking up ParagraphRange.isRangeValid in After Effects.", "keywords": ["ParagraphRange.isRangeValid"]},
+  {"topic": "ParagraphRange.toString()", "file": "references/scripting/paragraph-range/to-string.md", "summary": "Open when looking up ParagraphRange.toString() in After Effects.", "keywords": ["ParagraphRange.toString()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

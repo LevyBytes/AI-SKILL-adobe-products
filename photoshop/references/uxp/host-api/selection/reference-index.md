@@ -1,0 +1,24 @@
+# Photoshop — Selection
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up contract in Photoshop. [contract](contract.md).
+- Open when looking up deselect in Photoshop. [deselect](deselect.md).
+- Open when looking up expand in Photoshop. [expand](expand.md).
+- Open when looking up feather in Photoshop. [feather](feather.md).
+- Open when looking up grow in Photoshop. [grow](grow.md).
+- Open when looking up inverse in Photoshop. [inverse](inverse.md).
+- Open when looking up load in Photoshop. [load](load.md).
+- Open when looking up makeWorkPath in Photoshop. [makeWorkPath](make-work-path.md).
+- Open when looking up resizeBoundary in Photoshop. [resizeBoundary](resize-boundary.md).
+- Open when looking up rotateBoundary in Photoshop. [rotateBoundary](rotate-boundary.md).
+- Open when looking up save in Photoshop. [save](save.md).
+- Open when looking up saveTo in Photoshop. [saveTo](save-to.md).
+- Open when looking up selectAll in Photoshop. [selectAll](select-all.md).
+- Open when looking up selectBorder in Photoshop. [selectBorder](select-border.md).
+- Open when looking up selectColumn in Photoshop. [selectColumn](select-column.md).
+- Open when looking up selectEllipse in Photoshop. [selectEllipse](select-ellipse.md).
+- Open when looking up selectPolygon in Photoshop. [selectPolygon](select-polygon.md).
+- Open when looking up selectRectangle in Photoshop. [selectRectangle](select-rectangle.md).
+- Open when looking up selectRow in Photoshop. [selectRow](select-row.md).
+- Open when looking up smooth in Photoshop. [smooth](smooth.md).
+- Open when looking up translateBoundary in Photoshop. [translateBoundary](translate-boundary.md).

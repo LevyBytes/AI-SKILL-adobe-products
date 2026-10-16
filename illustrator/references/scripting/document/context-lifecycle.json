@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Document.activate()", "file": "references/scripting/document/activate.md", "summary": "Open when looking up Document.activate() in Illustrator.", "keywords": ["Document.activate()"]},
+  {"topic": "Document.close()", "file": "references/scripting/document/close.md", "summary": "Open when looking up Document.close() in Illustrator.", "keywords": ["Document.close()"]},
+  {"topic": "Document.closeNoUI()", "file": "references/scripting/document/close-no-ui.md", "summary": "Open when looking up Document.closeNoUI() in Illustrator.", "keywords": ["Document.closeNoUI()"]},
+  {"topic": "Document.save()", "file": "references/scripting/document/save.md", "summary": "Open when looking up Document.save() in Illustrator.", "keywords": ["Document.save()"]},
+  {"topic": "Document.saveAs()", "file": "references/scripting/document/save-as.md", "summary": "Open when looking up Document.saveAs() in Illustrator.", "keywords": ["Document.saveAs()"]},
+  {"topic": "Document.saveNoUI()", "file": "references/scripting/document/save-no-ui.md", "summary": "Open when looking up Document.saveNoUI() in Illustrator.", "keywords": ["Document.saveNoUI()"]},
+  {"topic": "Document.fullName", "file": "references/scripting/document/full-name.md", "summary": "Open when looking up Document.fullName in Illustrator.", "keywords": ["Document.fullName"]},
+  {"topic": "Document.name", "file": "references/scripting/document/name.md", "summary": "Open when looking up Document.name in Illustrator.", "keywords": ["Document.name"]},
+  {"topic": "Document.parent", "file": "references/scripting/document/parent.md", "summary": "Open when looking up Document.parent in Illustrator.", "keywords": ["Document.parent"]},
+  {"topic": "Document.path", "file": "references/scripting/document/path.md", "summary": "Open when looking up Document.path in Illustrator.", "keywords": ["Document.path"]},
+  {"topic": "Document.saved", "file": "references/scripting/document/saved.md", "summary": "Open when looking up Document.saved in Illustrator.", "keywords": ["Document.saved"]},
+  {"topic": "Document.stationery", "file": "references/scripting/document/stationery.md", "summary": "Open when looking up Document.stationery in Illustrator.", "keywords": ["Document.stationery"]},
+  {"topic": "Document.typename", "file": "references/scripting/document/typename.md", "summary": "Open when looking up Document.typename in Illustrator.", "keywords": ["Document.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

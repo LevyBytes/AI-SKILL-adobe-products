@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Reset Premiere from the preferences folder as a troubleshooting step.", "file": "references/desktop/reset-preferences-using-the-preferences-folder/preferences-folder-reset.md", "summary": "Open when looking up Reset Premiere from the preferences folder as a troubleshooting step. in Premiere Pro.", "keywords": ["Reset Premiere from the preferences folder as a troubleshooting step."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

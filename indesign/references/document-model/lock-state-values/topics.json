@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CHECKED_IN_STORY", "file": "references/document-model/lock-state-values/checkedinstory.md", "summary": "Open when looking up CHECKED_IN_STORY in InDesign.", "keywords": ["CHECKED_IN_STORY"]},
+  {"topic": "CHECKED_OUT_STORY", "file": "references/document-model/lock-state-values/checkedoutstory.md", "summary": "Open when looking up CHECKED_OUT_STORY in InDesign.", "keywords": ["CHECKED_OUT_STORY"]},
+  {"topic": "EMBEDDED_STORY", "file": "references/document-model/lock-state-values/embeddedstory.md", "summary": "Open when looking up EMBEDDED_STORY in InDesign.", "keywords": ["EMBEDDED_STORY"]},
+  {"topic": "LOCKED_STORY", "file": "references/document-model/lock-state-values/lockedstory.md", "summary": "Open when looking up LOCKED_STORY in InDesign.", "keywords": ["LOCKED_STORY"]},
+  {"topic": "MISSING_LOCK_STATE", "file": "references/document-model/lock-state-values/missinglockstate.md", "summary": "Open when looking up MISSING_LOCK_STATE in InDesign.", "keywords": ["MISSING_LOCK_STATE"]},
+  {"topic": "MIXED_LOCK_STATE", "file": "references/document-model/lock-state-values/mixedlockstate.md", "summary": "Open when looking up MIXED_LOCK_STATE in InDesign.", "keywords": ["MIXED_LOCK_STATE"]},
+  {"topic": "NONE", "file": "references/document-model/lock-state-values/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "UNMANAGED_STORY", "file": "references/document-model/lock-state-values/unmanagedstory.md", "summary": "Open when looking up UNMANAGED_STORY in InDesign.", "keywords": ["UNMANAGED_STORY"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

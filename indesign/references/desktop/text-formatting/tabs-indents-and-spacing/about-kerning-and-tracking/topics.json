@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "How kerning and tracking are measured", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/about-kerning-and-tracking/how-kerning-and-tracking-are-measured.md", "summary": "Open when looking up How kerning and tracking are measured in InDesign.", "keywords": ["How kerning and tracking are measured"]},
+  {"topic": "Kerning vs. word spacing", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/about-kerning-and-tracking/kerning-vs-word-spacing.md", "summary": "Open when looking up Kerning vs. word spacing in InDesign.", "keywords": ["Kerning vs. word spacing"]},
+  {"topic": "Manual kerning", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/about-kerning-and-tracking/manual-kerning.md", "summary": "Open when looking up Manual kerning in InDesign.", "keywords": ["Manual kerning"]},
+  {"topic": "Metrics kerning", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/about-kerning-and-tracking/metrics-kerning.md", "summary": "Open when looking up Metrics kerning in InDesign.", "keywords": ["Metrics kerning"]},
+  {"topic": "Optical kerning", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/about-kerning-and-tracking/optical-kerning.md", "summary": "Open when looking up Optical kerning in InDesign.", "keywords": ["Optical kerning"]},
+  {"topic": "Types of kerning", "file": "references/desktop/text-formatting/tabs-indents-and-spacing/about-kerning-and-tracking/types-of-kerning.md", "summary": "Open when looking up Types of kerning in InDesign.", "keywords": ["Types of kerning"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,40 @@
+# Firefly — Creative Production
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and connect nodes in Firefly. [Add and connect nodes](add-and-connect-nodes.md).
+- Open when looking up Add and connect nodes in Firefly. [Add and connect nodes references](add-and-connect-nodes/reference-index.md).
+- Open when looking up Adobe Firefly Creative Production for Enterprise FAQ in Firefly. [Adobe Firefly Creative Production for Enterprise FAQ](adobe-firefly-creative-production-for-enterprise-faq.md).
+- Open when looking up Apply masks in compositing workflows in Firefly. [Apply masks in compositing workflows](apply-masks-in-compositing-workflows.md).
+- Open when looking up Apply masks in compositing workflows in Firefly. [Apply masks in compositing workflows references](apply-masks-in-compositing-workflows/reference-index.md).
+- Open when looking up Best practices for background removal in Creative Production in Firefly. [Best practices for background removal in Creative Production](best-practices-for-background-removal-in-creative-production.md).
+- Open when looking up Best practices for background removal in Creative Production in Firefly. [Best practices for background removal in Creative Production references](background-removal-practices/reference-index.md).
+- Open when looking up Best practices for Reframe Videos in Creative Production in Firefly. [Best practices for Reframe Videos in Creative Production](best-practices-for-reframe-videos-in-creative-production.md).
+- Open when looking up Best practices for Reframe Videos in Creative Production in Firefly. [Best practices for Reframe Videos in Creative Production references](video-reframing-practices/reference-index.md).
+- Open when looking up Bulk Actions Overview in Firefly. [Bulk Actions Overview](bulk-actions-overview.md).
+- Open when looking up Bulk Actions Overview in Firefly. [Bulk Actions Overview references](bulk-actions-overview/reference-index.md).
+- Open when looking up Color grade multiple images simultaneously in Firefly. [Color grade multiple images simultaneously](color-grade-multiple-images-simultaneously.md).
+- Open when looking up Color grade multiple images simultaneously in Firefly. [Color grade multiple images simultaneously references](color-grade-multiple-images-simultaneously/reference-index.md).
+- Open when looking up Crop multiple images simultaneously in Firefly. [Crop multiple images simultaneously](crop-multiple-images-simultaneously.md).
+- Open when looking up Firefly Creative Production for Enterprise overview in Firefly. [Firefly Creative Production for Enterprise overview](firefly-creative-production-for-enterprise-overview.md).
+- Open when looking up Firefly Creative Production for Enterprise overview in Firefly. [Firefly Creative Production for Enterprise overview references](enterprise-overview/reference-index.md).
+- Open when looking up Merge InDesign data in Firefly. [Merge InDesign data](merge-in-design-data.md).
+- Open when looking up Merge InDesign data in Firefly. [Merge InDesign data references](merge-in-design-data/reference-index.md).
+- Open when looking up Merge Photoshop data in Firefly. [Merge Photoshop data](merge-photoshop-data.md).
+- Open when looking up Merge Photoshop data in Firefly. [Merge Photoshop data references](merge-photoshop-data/reference-index.md).
+- Open when looking up Partner models in Firefly Creative Production for Enterprise in Firefly. [Partner models in Firefly Creative Production for Enterprise](partner-models-in-firefly-creative-production-for-enterprise.md).
+- Open when looking up Partner models in Firefly Creative Production for Enterprise in Firefly. [Partner models in Firefly Creative Production for Enterprise references](partner-models-in-firefly-creative-production-for-enterprise/reference-index.md).
+- Open when looking up Publish workflows in Firefly. [Publish workflows](publish-workflows.md).
+- Open when looking up Publish workflows in Firefly. [Publish workflows references](publish-workflows/reference-index.md).
+- Open when looking up Reframe multiple videos simultaneously in Firefly. [Reframe multiple videos simultaneously](reframe-multiple-videos-simultaneously.md).
+- Open when looking up Remove or replace backgrounds on multiple images in Firefly. [Remove or replace backgrounds on multiple images](remove-or-replace-backgrounds-on-multiple-images.md).
+- Open when looking up Remove or replace backgrounds on multiple images in Firefly. [Remove or replace backgrounds on multiple images references](remove-or-replace-backgrounds-on-multiple-images/reference-index.md).
+- Open when looking up Resize multiple images simultaneously in Firefly. [Resize multiple images simultaneously](resize-multiple-images-simultaneously.md).
+- Open when looking up Run workflows in Firefly. [Run workflows](run-workflows.md).
+- Open when looking up Run workflows in Firefly. [Run workflows references](run-workflows/reference-index.md).
+- Open when looking up Technical specifications for Creative Production preset workflows in Firefly. [Technical specifications for Creative Production preset workflows](creative-production-workflow-specifications.md).
+- Open when looking up Use 3D digital twin workflows in Firefly. [Use 3D digital twin workflows](use-3-d-digital-twin-workflows.md).
+- Open when looking up Use 3D digital twin workflows in Firefly. [Use 3D digital twin workflows references](use-3-d-digital-twin-workflows/reference-index.md).
+- Open when looking up Use input and output nodes in Firefly. [Use input and output nodes](use-input-and-output-nodes.md).
+- Open when looking up Use input and output nodes in Firefly. [Use input and output nodes references](use-input-and-output-nodes/reference-index.md).
+- Open when looking up Use template and data merge nodes in Firefly. [Use template and data merge nodes](use-template-and-data-merge-nodes.md).
+- Open when looking up Use template and data merge nodes in Firefly. [Use template and data merge nodes references](use-template-and-data-merge-nodes/reference-index.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "Additional resources", "file": "references/desktop/beta/media-encoder-beta/additional-resources.md", "summary": "Open when looking up Additional resources in Media Encoder.", "keywords": ["Additional resources"]},
+  {"topic": "Top features in beta", "file": "references/desktop/beta/media-encoder-beta/top-features-in-beta.md", "summary": "Open when looking up Top features in beta in Media Encoder.", "keywords": ["Top features in beta"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

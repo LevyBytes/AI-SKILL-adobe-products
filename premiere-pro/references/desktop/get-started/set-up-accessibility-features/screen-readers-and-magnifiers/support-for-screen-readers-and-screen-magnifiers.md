@@ -1,0 +1,3 @@
+# Support for screen readers and screen magnifiers
+
+Premiere has limited compatibility with assistive technologies such as screen readers and screen magnifiers. A screen reader reads aloud text shown on the computer display. It may also report non-text interface content, including button labels and image descriptions, when those elements include the right accessibility attributes. These tools can reach some parts of Premiere, especially alongside operating system-level accessibility settings, but complete functionality is not guaranteed. For current support details, see Accessibility Conformance Reports.

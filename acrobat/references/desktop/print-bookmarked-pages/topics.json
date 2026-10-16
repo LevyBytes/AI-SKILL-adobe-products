@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Learn how to print bookmarked pages in a PDF using Adobe Acrobat.", "file": "references/desktop/print-bookmarked-pages/bookmarked-page-printing.md", "summary": "Open when looking up Learn how to print bookmarked pages in a PDF using Adobe Acrobat. in Acrobat.", "keywords": ["Learn how to print bookmarked pages in a PDF using Adobe Acrobat."]},
+  {"topic": "macOS", "file": "references/desktop/print-bookmarked-pages/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Windows", "file": "references/desktop/print-bookmarked-pages/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

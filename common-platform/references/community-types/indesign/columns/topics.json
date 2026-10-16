@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Columns collection iteration", "file": "references/community-types/indesign/columns/collection-iteration.md", "summary": "Open when looking up Columns collection iteration in Shared Adobe platform.", "keywords": ["Columns collection iteration"]},
+  {"topic": "Columns declaration", "file": "references/community-types/indesign/columns/declaration.md", "summary": "Open when looking up Columns declaration in Shared Adobe platform.", "keywords": ["Columns declaration"]},
+  {"topic": "Columns named and indexed items", "file": "references/community-types/indesign/columns/named-and-indexed-items.md", "summary": "Open when looking up Columns named and indexed items in Shared Adobe platform.", "keywords": ["Columns named and indexed items"]},
+  {"topic": "Columns.add", "file": "references/community-types/indesign/columns/add.md", "summary": "Open when looking up Columns.add in Shared Adobe platform.", "keywords": ["Columns.add"]},
+  {"topic": "Columns.count", "file": "references/community-types/indesign/columns/count.md", "summary": "Open when looking up Columns.count in Shared Adobe platform.", "keywords": ["Columns.count"]},
+  {"topic": "Columns.IndexSignature", "file": "references/community-types/indesign/columns/index-signature.md", "summary": "Open when looking up Columns.IndexSignature in Shared Adobe platform.", "keywords": ["Columns.IndexSignature"]},
+  {"topic": "Columns.itemByRange", "file": "references/community-types/indesign/columns/item-by-range.md", "summary": "Open when looking up Columns.itemByRange in Shared Adobe platform.", "keywords": ["Columns.itemByRange"]},
+  {"topic": "Columns.length", "file": "references/community-types/indesign/columns/length.md", "summary": "Open when looking up Columns.length in Shared Adobe platform.", "keywords": ["Columns.length"]},
+  {"topic": "Columns.toSource", "file": "references/community-types/indesign/columns/to-source.md", "summary": "Open when looking up Columns.toSource in Shared Adobe platform.", "keywords": ["Columns.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

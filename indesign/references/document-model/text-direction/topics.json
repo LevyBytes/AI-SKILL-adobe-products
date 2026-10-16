@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "HORIZONTAL_TYPE", "file": "references/document-model/text-direction/horizontaltype.md", "summary": "Open when looking up HORIZONTAL_TYPE in InDesign.", "keywords": ["HORIZONTAL_TYPE"]},
+  {"topic": "MIXED_TYPE", "file": "references/document-model/text-direction/mixedtype.md", "summary": "Open when looking up MIXED_TYPE in InDesign.", "keywords": ["MIXED_TYPE"]},
+  {"topic": "UNKNOWN_TYPE", "file": "references/document-model/text-direction/unknowntype.md", "summary": "Open when looking up UNKNOWN_TYPE in InDesign.", "keywords": ["UNKNOWN_TYPE"]},
+  {"topic": "VERTICAL_TYPE", "file": "references/document-model/text-direction/verticaltype.md", "summary": "Open when looking up VERTICAL_TYPE in InDesign.", "keywords": ["VERTICAL_TYPE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

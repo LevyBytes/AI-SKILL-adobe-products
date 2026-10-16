@@ -1,0 +1,28 @@
+# Shared Adobe platform — EPubFixedLayoutExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up EPubFixedLayoutExportPreference declaration in Shared Adobe platform. [EPubFixedLayoutExportPreference declaration](declaration.md).
+- Open when looking up EPubFixedLayoutExportPreference.coverImageFile in Shared Adobe platform. [EPubFixedLayoutExportPreference.coverImageFile](cover-image-file.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubCover in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubCover](epub-cover.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubCreator in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubCreator](epub-creator.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubDate in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubDate](epub-date.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubDescription in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubDescription](epub-description.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubNavigationStyles in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubNavigationStyles](epub-navigation-styles.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubPageRange in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubPageRange](epub-page-range.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubPageRangeFormat in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubPageRangeFormat](epub-page-range-format.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubPublisher in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubPublisher](epub-publisher.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubRights in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubRights](epub-rights.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubSpreadControlOptions in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubSpreadControlOptions](epub-spread-control-options.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubSubject in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubSubject](epub-subject.md).
+- Open when looking up EPubFixedLayoutExportPreference.epubTitle in Shared Adobe platform. [EPubFixedLayoutExportPreference.epubTitle](epub-title.md).
+- Open when looking up EPubFixedLayoutExportPreference.externalStyleSheets in Shared Adobe platform. [EPubFixedLayoutExportPreference.externalStyleSheets](external-style-sheets.md).
+- Open when looking up EPubFixedLayoutExportPreference.gifOptionsInterlaced in Shared Adobe platform. [EPubFixedLayoutExportPreference.gifOptionsInterlaced](gif-options-interlaced.md).
+- Open when looking up EPubFixedLayoutExportPreference.gifOptionsPalette in Shared Adobe platform. [EPubFixedLayoutExportPreference.gifOptionsPalette](gif-options-palette.md).
+- Open when looking up EPubFixedLayoutExportPreference.id in Shared Adobe platform. [EPubFixedLayoutExportPreference.id](id.md).
+- Open when looking up EPubFixedLayoutExportPreference.imageConversion in Shared Adobe platform. [EPubFixedLayoutExportPreference.imageConversion](image-conversion.md).
+- Open when looking up EPubFixedLayoutExportPreference.imageExportResolution in Shared Adobe platform. [EPubFixedLayoutExportPreference.imageExportResolution](image-export-resolution.md).
+- Open when looking up EPubFixedLayoutExportPreference.javascripts in Shared Adobe platform. [EPubFixedLayoutExportPreference.javascripts](javascripts.md).
+- Open when looking up EPubFixedLayoutExportPreference.jpegOptionsFormat in Shared Adobe platform. [EPubFixedLayoutExportPreference.jpegOptionsFormat](jpeg-options-format.md).
+- Open when looking up EPubFixedLayoutExportPreference.jpegOptionsQuality in Shared Adobe platform. [EPubFixedLayoutExportPreference.jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up EPubFixedLayoutExportPreference.level in Shared Adobe platform. [EPubFixedLayoutExportPreference.level](level.md).
+- Open when looking up EPubFixedLayoutExportPreference.tocStyleName in Shared Adobe platform. [EPubFixedLayoutExportPreference.tocStyleName](toc-style-name.md).

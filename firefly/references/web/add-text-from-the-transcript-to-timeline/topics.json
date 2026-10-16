@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Insert transcript text into the timeline as a text layer", "file": "references/web/add-text-from-the-transcript-to-timeline/insert-transcript-text-into-the-timeline-as-a-text-layer.md", "summary": "Open when looking up Insert transcript text into the timeline as a text layer in Firefly.", "keywords": ["Insert transcript text into the timeline as a text layer"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

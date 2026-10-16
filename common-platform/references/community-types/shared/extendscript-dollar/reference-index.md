@@ -1,0 +1,35 @@
+# Shared Adobe platform — $
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up $ declaration in Shared Adobe platform. [$ declaration](declaration.md).
+- Open when looking up $.about in Shared Adobe platform. [$.about](about.md).
+- Open when looking up $.bp in Shared Adobe platform. [$.bp](bp.md).
+- Open when looking up $.build in Shared Adobe platform. [$.build](build.md).
+- Open when looking up $.buildDate in Shared Adobe platform. [$.buildDate](build-date.md).
+- Open when looking up $.colorPicker in Shared Adobe platform. [$.colorPicker](color-picker.md).
+- Open when looking up $.decimalPoint in Shared Adobe platform. [$.decimalPoint](decimal-point.md).
+- Open when looking up $.engineName in Shared Adobe platform. [$.engineName](engine-name.md).
+- Open when looking up $.error in Shared Adobe platform. [$.error](error.md).
+- Open when looking up $.evalFile in Shared Adobe platform. [$.evalFile](eval-file.md).
+- Open when looking up $.fileName in Shared Adobe platform. [$.fileName](file-name.md).
+- Open when looking up $.flags in Shared Adobe platform. [$.flags](flags.md).
+- Open when looking up $.gc in Shared Adobe platform. [$.gc](gc.md).
+- Open when looking up $.getenv in Shared Adobe platform. [$.getenv](getenv.md).
+- Open when looking up $.global in Shared Adobe platform. [$.global](global.md).
+- Open when looking up $.hiresTimer in Shared Adobe platform. [$.hiresTimer](hires-timer.md).
+- Open when looking up $.includePath in Shared Adobe platform. [$.includePath](include-path.md).
+- Open when looking up $.level in Shared Adobe platform. [$.level](level.md).
+- Open when looking up $.line in Shared Adobe platform. [$.line](line.md).
+- Open when looking up $.locale in Shared Adobe platform. [$.locale](locale.md).
+- Open when looking up $.localize in Shared Adobe platform. [$.localize](localize.md).
+- Open when looking up $.memCache in Shared Adobe platform. [$.memCache](mem-cache.md).
+- Open when looking up $.os in Shared Adobe platform. [$.os](os.md).
+- Open when looking up $.screens in Shared Adobe platform. [$.screens](screens.md).
+- Open when looking up $.setenv in Shared Adobe platform. [$.setenv](setenv.md).
+- Open when looking up $.sleep in Shared Adobe platform. [$.sleep](sleep.md).
+- Open when looking up $.stack in Shared Adobe platform. [$.stack](stack.md).
+- Open when looking up $.strict in Shared Adobe platform. [$.strict](strict.md).
+- Open when looking up $.toString in Shared Adobe platform. [$.toString](to-string.md).
+- Open when looking up $.version in Shared Adobe platform. [$.version](version.md).
+- Open when looking up $.write in Shared Adobe platform. [$.write](write.md).
+- Open when looking up $.writeln in Shared Adobe platform. [$.writeln](writeln.md).

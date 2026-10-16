@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Quirks and Exceptions", "file": "references/uxp/css/disabled/quirks-and-exceptions.md", "summary": "Open when looking up Quirks and Exceptions in InDesign.", "keywords": ["Quirks and Exceptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

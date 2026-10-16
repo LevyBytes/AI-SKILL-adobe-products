@@ -1,0 +1,36 @@
+# InDesign — Color output and separations
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About color separations in InDesign. [About color separations](about-color-separations.md).
+- Open when looking up About color separations in InDesign. [About color separations references](about-color-separations/reference-index.md).
+- Open when looking up About ink trapping in InDesign. [About ink trapping](about-ink-trapping.md).
+- Open when looking up About ink trapping in InDesign. [About ink trapping references](about-ink-trapping/reference-index.md).
+- Open when looking up About overprinting in InDesign. [About overprinting](about-overprinting.md).
+- Open when looking up About overprinting in InDesign. [About overprinting references](about-overprinting/reference-index.md).
+- Open when looking up Change the black overprint setting in InDesign. [Change the black overprint setting](change-the-black-overprint-setting.md).
+- Open when looking up Color output options in InDesign. [Color output options](color-output-options.md).
+- Open when looking up Create color separations in InDesign. [Create color separations](create-color-separations.md).
+- Open when looking up Create color separations in InDesign. [Create color separations references](create-color-separations/reference-index.md).
+- Open when looking up Overprint paragraph and footnote rules in InDesign. [Overprint paragraph and footnote rules](overprint-paragraph-and-footnote-rules.md).
+- Open when looking up Overprint paragraph and footnote rules in InDesign. [Overprint paragraph and footnote rules references](overprint-paragraph-and-footnote-rules/reference-index.md).
+- Open when looking up Overprint strokes and fills in InDesign. [Overprint strokes and fills](overprint-strokes-and-fills.md).
+- Open when looking up Overprint strokes and fills in InDesign. [Overprint strokes and fills references](overprint-strokes-and-fills/reference-index.md).
+- Open when looking up Prepare documents for color separation in InDesign. [Prepare documents for color separation](prepare-documents-for-color-separation.md).
+- Open when looking up Prepare documents for color separation in InDesign. [Prepare documents for color separation references](prepare-documents-for-color-separation/reference-index.md).
+- Open when looking up Preview color separations and ink coverage in InDesign. [Preview color separations and ink coverage](preview-color-separations-and-ink-coverage.md).
+- Open when looking up Preview color separations and ink coverage in InDesign. [Preview color separations and ink coverage references](preview-color-separations-and-ink-coverage/reference-index.md).
+- Open when looking up Print a composite in InDesign. [Print a composite](print-a-composite.md).
+- Open when looking up Print a composite in InDesign. [Print a composite references](print-a-composite/reference-index.md).
+- Open when looking up Print gradients as separations in InDesign. [Print gradients as separations](print-gradients-as-separations.md).
+- Open when looking up Print gradients as separations in InDesign. [Print gradients as separations references](print-gradients-as-separations/reference-index.md).
+- Open when looking up Print objects on all color plates in InDesign. [Print objects on all color plates](print-objects-on-all-color-plates.md).
+- Open when looking up Print objects on all color plates in InDesign. [Print objects on all color plates references](print-objects-on-all-color-plates/reference-index.md).
+- Open when looking up Save and print color separations in InDesign. [Save and print color separations](save-and-print-color-separations.md).
+- Open when looking up Save and print color separations in InDesign. [Save and print color separations references](save-and-print-color-separations/reference-index.md).
+- Open when looking up Set the trap width for colors next to black in InDesign. [Set the trap width for colors next to black](set-the-trap-width-for-colors-next-to-black.md).
+- Open when looking up Simulate spot ink overprinting in InDesign. [Simulate spot ink overprinting](simulate-spot-ink-overprinting.md).
+- Open when looking up Trap a document or a book in InDesign. [Trap a document or a book](trap-a-document-or-a-book.md).
+- Open when looking up Trap a document or a book in InDesign. [Trap a document or a book references](trap-a-document-or-a-book/reference-index.md).
+- Open when looking up Trap preset options in InDesign. [Trap preset options](trap-preset-options.md).
+- Open when looking up Trap preset options in InDesign. [Trap preset options references](trap-preset-options/reference-index.md).
+- Open when looking up Use color management when printing in InDesign. [Use color management when printing](use-color-management-when-printing.md).

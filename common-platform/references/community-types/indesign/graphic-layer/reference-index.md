@@ -1,0 +1,22 @@
+# Shared Adobe platform — GraphicLayer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up GraphicLayer declaration in Shared Adobe platform. [GraphicLayer declaration](declaration.md).
+- Open when looking up GraphicLayer event listeners in Shared Adobe platform. [GraphicLayer event listeners](event-listeners.md).
+- Open when looking up GraphicLayer identity and parent in Shared Adobe platform. [GraphicLayer identity and parent](identity-and-parent.md).
+- Open when looking up GraphicLayer object resolution in Shared Adobe platform. [GraphicLayer object resolution](object-resolution.md).
+- Open when looking up GraphicLayer.adjustmentLayer in Shared Adobe platform. [GraphicLayer.adjustmentLayer](adjustment-layer.md).
+- Open when looking up GraphicLayer.currentVisibility in Shared Adobe platform. [GraphicLayer.currentVisibility](current-visibility.md).
+- Open when looking up GraphicLayer.exportState in Shared Adobe platform. [GraphicLayer.exportState](export-state.md).
+- Open when looking up GraphicLayer.fxLayer in Shared Adobe platform. [GraphicLayer.fxLayer](fx-layer.md).
+- Open when looking up GraphicLayer.graphicLayers in Shared Adobe platform. [GraphicLayer.graphicLayers](graphic-layers.md).
+- Open when looking up GraphicLayer.hasExportState in Shared Adobe platform. [GraphicLayer.hasExportState](has-export-state.md).
+- Open when looking up GraphicLayer.hasPrintState in Shared Adobe platform. [GraphicLayer.hasPrintState](has-print-state.md).
+- Open when looking up GraphicLayer.hasViewState in Shared Adobe platform. [GraphicLayer.hasViewState](has-view-state.md).
+- Open when looking up GraphicLayer.locked in Shared Adobe platform. [GraphicLayer.locked](locked.md).
+- Open when looking up GraphicLayer.originalVisibility in Shared Adobe platform. [GraphicLayer.originalVisibility](original-visibility.md).
+- Open when looking up GraphicLayer.printState in Shared Adobe platform. [GraphicLayer.printState](print-state.md).
+- Open when looking up GraphicLayer.properties in Shared Adobe platform. [GraphicLayer.properties](properties.md).
+- Open when looking up GraphicLayer.sectionDividerLayer in Shared Adobe platform. [GraphicLayer.sectionDividerLayer](section-divider-layer.md).
+- Open when looking up GraphicLayer.separatorLayer in Shared Adobe platform. [GraphicLayer.separatorLayer](separator-layer.md).
+- Open when looking up GraphicLayer.viewState in Shared Adobe platform. [GraphicLayer.viewState](view-state.md).

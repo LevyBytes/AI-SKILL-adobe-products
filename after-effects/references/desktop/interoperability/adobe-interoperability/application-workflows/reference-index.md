@@ -1,0 +1,23 @@
+# After Effects — Working with After Effects and other applications
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Browse animation presets using Adobe Bridge in After Effects. [Browse animation presets using Adobe Bridge](browse-animation-presets-using-adobe-bridge.md).
+- Open when looking up Color in After Effects. [Color](color.md).
+- Open when looking up Comparative advantages for specific tasks in After Effects. [Comparative advantages for specific tasks](comparative-advantages-for-specific-tasks.md).
+- Open when looking up Composite graphics, animation, and video in After Effects. [Composite graphics, animation, and video](composite-graphics-animation-and-video.md).
+- Open when looking up Exchanging movies in After Effects. [Exchanging movies](exchanging-movies.md).
+- Open when looking up Exchanging still images in After Effects. [Exchanging still images](exchanging-still-images.md).
+- Open when looking up Exporting QuickTime video from Animate in After Effects. [Exporting QuickTime video from Animate](exporting-quick-time-video-from-animate.md).
+- Open when looking up Importing and publishing video in Animate in After Effects. [Importing and publishing video in Animate](importing-and-publishing-video-in-animate.md).
+- Open when looking up Importing FLA files into After Effects in After Effects. [Importing FLA files into After Effects](importing-fla-files-into-after-effects.md).
+- Open when looking up Importing SWF files into After Effects in After Effects. [Importing SWF files into After Effects](importing-swf-files-into-after-effects.md).
+- Open when looking up List of supported XD features in After Effects. [List of supported XD features](list-of-supported-xd-features.md).
+- Open when looking up Open Adobe Bridge from After Effects in After Effects. [Open Adobe Bridge from After Effects](open-adobe-bridge-from-after-effects.md).
+- Open when looking up Reveal a file in Adobe Bridge in After Effects. [Reveal a file in Adobe Bridge](reveal-a-file-in-adobe-bridge.md).
+- Open when looking up Working with Adobe Animate and After Effects in After Effects. [Working with Adobe Animate and After Effects](working-with-adobe-animate-and-after-effects.md).
+- Open when looking up Working with Adobe Audition and After Effects in After Effects. [Working with Adobe Audition and After Effects](working-with-adobe-audition-and-after-effects.md).
+- Open when looking up Working with Adobe Bridge and After Effects in After Effects. [Working with Adobe Bridge and After Effects](working-with-adobe-bridge-and-after-effects.md).
+- Open when looking up Working with Adobe Media Encoder and After Effects in After Effects. [Working with Adobe Media Encoder and After Effects](working-with-adobe-media-encoder-and-after-effects.md).
+- Open when looking up Working with Adobe Photoshop and After Effects in After Effects. [Working with Adobe Photoshop and After Effects](working-with-adobe-photoshop-and-after-effects.md).
+- Open when looking up Working with Adobe Premiere and After Effects in After Effects. [Working with Adobe Premiere and After Effects](working-with-adobe-premiere-and-after-effects.md).
+- Open when looking up Working with Adobe XD and After Effects in After Effects. [Working with Adobe XD and After Effects](working-with-adobe-xd-and-after-effects.md).

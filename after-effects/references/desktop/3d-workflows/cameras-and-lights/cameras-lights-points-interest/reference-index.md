@@ -1,0 +1,23 @@
+# After Effects — Cameras Lights Points Interest
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust a 3D view or move a camera, light, or point of interest in After Effects. [Adjust a 3D view or move a camera, light, or point of interest](adjust-a-3-d-view-or-move-a-camera-light-or-point-of-interest.md).
+- Open when looking up Camera Commands in After Effects. [Camera Commands](camera-commands.md).
+- Open when looking up Camera settings in After Effects. [Camera settings](camera-settings.md).
+- Open when looking up Change camera settings in After Effects. [Change camera settings](change-camera-settings.md).
+- Open when looking up Change light settings in After Effects. [Change light settings](change-light-settings.md).
+- Open when looking up Create a camera layer in After Effects. [Create a camera layer](create-a-camera-layer.md).
+- Open when looking up Create a camera layer and change camera settings in After Effects. [Create a camera layer and change camera settings](create-a-camera-layer-and-change-camera-settings.md).
+- Open when looking up Create a camera linked to a light in After Effects. [Create a camera linked to a light](create-a-camera-linked-to-a-light.md).
+- Open when looking up Create a light in After Effects. [Create a light](create-a-light.md).
+- Open when looking up Create a light and change light settings in After Effects. [Create a light and change light settings](create-a-light-and-change-light-settings.md).
+- Open when looking up Enable lights to cast shadows in After Effects. [Enable lights to cast shadows](enable-lights-to-cast-shadows.md).
+- Open when looking up Getting started with stereoscopic 3D in After Effects. [Getting started with stereoscopic 3D](getting-started-with-stereoscopic-3-d.md).
+- Open when looking up Light settings in After Effects. [Light settings](light-settings.md).
+- Open when looking up Material Options properties in After Effects. [Material Options properties](material-options-properties.md).
+- Open when looking up Move a camera, light, or point of interest with the Selection and Rotation tools in After Effects. [Move a camera, light, or point of interest with the Selection and Rotation tools](move-cameras-lights-and-interest-points.md).
+- Open when looking up Move or adjust a camera or working 3D view to look at layers in After Effects. [Move or adjust a camera or working 3D view to look at layers](move-or-adjust-a-camera-or-working-3-d-view-to-look-at-layers.md).
+- Open when looking up Move or adjust a camera or working 3D view with the Camera tools in After Effects. [Move or adjust a camera or working 3D view with the Camera tools](camera-tools-and-working-3d-view.md).
+- Open when looking up Specify resolution to use for rendering shadows in After Effects. [Specify resolution to use for rendering shadows](specify-resolution-to-use-for-rendering-shadows.md).
+- Open when looking up Stereoscopic 3D in After Effects. [Stereoscopic 3D](stereoscopic-3-d.md).
+- Open when looking up Stereoscopic 3D camera rig in After Effects. [Stereoscopic 3D camera rig](stereoscopic-3-d-camera-rig.md).

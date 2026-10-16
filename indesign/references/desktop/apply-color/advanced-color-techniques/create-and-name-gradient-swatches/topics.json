@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create a new gradient swatch", "file": "references/desktop/apply-color/advanced-color-techniques/create-and-name-gradient-swatches/create-a-new-gradient-swatch.md", "summary": "Open when looking up Create a new gradient swatch in InDesign.", "keywords": ["Create a new gradient swatch"]},
+  {"topic": "Edit an existing gradient swatch", "file": "references/desktop/apply-color/advanced-color-techniques/create-and-name-gradient-swatches/edit-an-existing-gradient-swatch.md", "summary": "Open when looking up Edit an existing gradient swatch in InDesign.", "keywords": ["Edit an existing gradient swatch"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

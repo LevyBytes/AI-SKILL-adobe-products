@@ -1,0 +1,56 @@
+# After Effects 24.0 (October 2023)
+
+- Added: getEnumAsString()
+- Added: app.fonts
+- Added: Fonts object
+- Added: FontsObject.allFonts
+- Added: FontsObject.fontsWithDefaultDesignAxes
+- Added: FontsObject.getFontsByFamilyNameAndStyleName()
+- Added: FontsObject.getFontsByPostScriptName()
+- Added: FontsObject.missingOrSubstitutedFonts
+- Added: Font object
+- Added: FontObject.designAxesData
+- Added: FontObject.designVector
+- Added: FontObject.familyPrefix
+- Added: FontObject.hasDesignAxes
+- Added: FontObject.hasSameDict()
+- Added: FontObject.postScriptNameForDesignVector()
+- Added: FontObject.familyName
+- Added: FontObject.fullName
+- Added: FontObject.isFromAdobeFonts
+- Added: FontObject.isSubstitute
+- Added: FontObject.location
+- Added: FontObject.nativeFamilyName
+- Added: FontObject.nativeFullName
+- Added: FontObject.nativeStyleName
+- Added: FontObject.postScriptName
+- Added: FontObject.styleName
+- Added: FontObject.technology
+- Added: FontObject.type
+- Added: FontObject.version
+- Added: FontObject.writingScripts
+- Added: TextDocument.autoHyphenate
+- Added: TextDocument.autoKernType
+- Added: TextDocument.baselineDirection
+- Added: TextDocument.composerEngine
+- Added: TextDocument.digitSet
+- Added: TextDocument.direction
+- Added: TextDocument.endIndent
+- Added: TextDocument.everyLineComposer
+- Added: TextDocument.firstLineIndent
+- Added: TextDocument.fontBaselineOption
+- Added: TextDocument.fontCapsOption
+- Added: TextDocument.fontObject
+- Added: TextDocument.hangingRoman
+- Added: TextDocument.kerning
+- Added: TextDocument.leadingType
+- Added: TextDocument.ligature
+- Added: TextDocument.lineJoinType
+- Added: TextDocument.noBreak
+- Added: TextDocument.spaceAfter
+- Added: TextDocument.spaceBefore
+- Added: TextDocument.startIndent
+
+- Updated: TextDocument.fauxBold
+- Updated: TextDocument.fauxItalic
+- Updated: TextDocument.justification

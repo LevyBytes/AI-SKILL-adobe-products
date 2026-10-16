@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "addGlobalEventListener", "file": "references/uxp/host-api/event-manager/static-methods/add-global-event-listener.md", "summary": "Open when looking up addGlobalEventListener in Premiere Pro.", "keywords": ["addGlobalEventListener"]},
+  {"topic": "removeGlobalEventListener", "file": "references/uxp/host-api/event-manager/static-methods/remove-global-event-listener.md", "summary": "Open when looking up removeGlobalEventListener in Premiere Pro.", "keywords": ["removeGlobalEventListener"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

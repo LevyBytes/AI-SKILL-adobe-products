@@ -1,0 +1,46 @@
+# Shared Adobe platform — Frame
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Frame declaration in Shared Adobe platform. [Frame declaration](declaration.md).
+- Open when looking up Frame.actionScript in Shared Adobe platform. [Frame.actionScript](action-script.md).
+- Open when looking up Frame.convertMotionObjectTo2D in Shared Adobe platform. [Frame.convertMotionObjectTo2D](convert-motion-object-to2-d.md).
+- Open when looking up Frame.convertMotionObjectTo3D in Shared Adobe platform. [Frame.convertMotionObjectTo3D](convert-motion-object-to3-d.md).
+- Open when looking up Frame.convertToFrameByFrameAnimation in Shared Adobe platform. [Frame.convertToFrameByFrameAnimation](convert-to-frame-by-frame-animation.md).
+- Open when looking up Frame.duration in Shared Adobe platform. [Frame.duration](duration.md).
+- Open when looking up Frame.elements in Shared Adobe platform. [Frame.elements](elements.md).
+- Open when looking up Frame.getCustomEase in Shared Adobe platform. [Frame.getCustomEase](get-custom-ease.md).
+- Open when looking up Frame.getMotionObjectXML in Shared Adobe platform. [Frame.getMotionObjectXML](get-motion-object-xml.md).
+- Open when looking up Frame.getSoundEnvelope in Shared Adobe platform. [Frame.getSoundEnvelope](get-sound-envelope.md).
+- Open when looking up Frame.getSoundEnvelopeLimits in Shared Adobe platform. [Frame.getSoundEnvelopeLimits](get-sound-envelope-limits.md).
+- Open when looking up Frame.hasCustomEase in Shared Adobe platform. [Frame.hasCustomEase](has-custom-ease.md).
+- Open when looking up Frame.hasMotionPath in Shared Adobe platform. [Frame.hasMotionPath](has-motion-path.md).
+- Open when looking up Frame.is3DMotionObject in Shared Adobe platform. [Frame.is3DMotionObject](is3-d-motion-object.md).
+- Open when looking up Frame.isEmpty in Shared Adobe platform. [Frame.isEmpty](is-empty.md).
+- Open when looking up Frame.isMotionObject in Shared Adobe platform. [Frame.isMotionObject](is-motion-object.md).
+- Open when looking up Frame.labelType in Shared Adobe platform. [Frame.labelType](label-type.md).
+- Open when looking up Frame.motionTweenOrientToPath in Shared Adobe platform. [Frame.motionTweenOrientToPath](motion-tween-orient-to-path.md).
+- Open when looking up Frame.motionTweenRotate in Shared Adobe platform. [Frame.motionTweenRotate](motion-tween-rotate.md).
+- Open when looking up Frame.motionTweenRotateTimes in Shared Adobe platform. [Frame.motionTweenRotateTimes](motion-tween-rotate-times.md).
+- Open when looking up Frame.motionTweenScale in Shared Adobe platform. [Frame.motionTweenScale](motion-tween-scale.md).
+- Open when looking up Frame.motionTweenSnap in Shared Adobe platform. [Frame.motionTweenSnap](motion-tween-snap.md).
+- Open when looking up Frame.motionTweenSync in Shared Adobe platform. [Frame.motionTweenSync](motion-tween-sync.md).
+- Open when looking up Frame.name in Shared Adobe platform. [Frame.name](name.md).
+- Open when looking up Frame.selectMotionPath in Shared Adobe platform. [Frame.selectMotionPath](select-motion-path.md).
+- Open when looking up Frame.setCustomEase in Shared Adobe platform. [Frame.setCustomEase](set-custom-ease.md).
+- Open when looking up Frame.setMotionObjectDuration in Shared Adobe platform. [Frame.setMotionObjectDuration](set-motion-object-duration.md).
+- Open when looking up Frame.setMotionObjectXML in Shared Adobe platform. [Frame.setMotionObjectXML](set-motion-object-xml.md).
+- Open when looking up Frame.setSoundEnvelope in Shared Adobe platform. [Frame.setSoundEnvelope](set-sound-envelope.md).
+- Open when looking up Frame.setSoundEnvelopeLimits in Shared Adobe platform. [Frame.setSoundEnvelopeLimits](set-sound-envelope-limits.md).
+- Open when looking up Frame.shapeTweenBlend in Shared Adobe platform. [Frame.shapeTweenBlend](shape-tween-blend.md).
+- Open when looking up Frame.soundEffect in Shared Adobe platform. [Frame.soundEffect](sound-effect.md).
+- Open when looking up Frame.soundLibraryItem in Shared Adobe platform. [Frame.soundLibraryItem](sound-library-item.md).
+- Open when looking up Frame.soundLoop in Shared Adobe platform. [Frame.soundLoop](sound-loop.md).
+- Open when looking up Frame.soundLoopMode in Shared Adobe platform. [Frame.soundLoopMode](sound-loop-mode.md).
+- Open when looking up Frame.soundName in Shared Adobe platform. [Frame.soundName](sound-name.md).
+- Open when looking up Frame.soundSync in Shared Adobe platform. [Frame.soundSync](sound-sync.md).
+- Open when looking up Frame.startFrame in Shared Adobe platform. [Frame.startFrame](start-frame.md).
+- Open when looking up Frame.tweenEasing in Shared Adobe platform. [Frame.tweenEasing](tween-easing.md).
+- Open when looking up Frame.tweenInstanceName in Shared Adobe platform. [Frame.tweenInstanceName](tween-instance-name.md).
+- Open when looking up Frame.tweenObj in Shared Adobe platform. [Frame.tweenObj](tween-obj.md).
+- Open when looking up Frame.tweenType in Shared Adobe platform. [Frame.tweenType](tween-type.md).
+- Open when looking up Frame.useSingleEaseCurve in Shared Adobe platform. [Frame.useSingleEaseCurve](use-single-ease-curve.md).

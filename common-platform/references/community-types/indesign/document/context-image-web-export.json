@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.exportForWebPreferences", "file": "references/community-types/indesign/document/export-for-web-preferences.md", "summary": "Open when looking up Document.exportForWebPreferences in Shared Adobe platform.", "keywords": ["Document.exportForWebPreferences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

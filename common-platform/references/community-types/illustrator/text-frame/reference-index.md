@@ -1,0 +1,38 @@
+# Shared Adobe platform — TextFrame
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextFrame declaration in Shared Adobe platform. [TextFrame declaration](declaration.md).
+- Open when looking up TextFrame.anchor in Shared Adobe platform. [TextFrame.anchor](anchor.md).
+- Open when looking up TextFrame.antialias in Shared Adobe platform. [TextFrame.antialias](antialias.md).
+- Open when looking up TextFrame.characters in Shared Adobe platform. [TextFrame.characters](characters.md).
+- Open when looking up TextFrame.columnCount in Shared Adobe platform. [TextFrame.columnCount](column-count.md).
+- Open when looking up TextFrame.columnGutter in Shared Adobe platform. [TextFrame.columnGutter](column-gutter.md).
+- Open when looking up TextFrame.contents in Shared Adobe platform. [TextFrame.contents](contents.md).
+- Open when looking up TextFrame.contentVariable in Shared Adobe platform. [TextFrame.contentVariable](content-variable.md).
+- Open when looking up TextFrame.convertAreaObjectToPointObject in Shared Adobe platform. [TextFrame.convertAreaObjectToPointObject](convert-area-object-to-point-object.md).
+- Open when looking up TextFrame.convertPointObjectToAreaObject in Shared Adobe platform. [TextFrame.convertPointObjectToAreaObject](convert-point-object-to-area-object.md).
+- Open when looking up TextFrame.createOutline in Shared Adobe platform. [TextFrame.createOutline](create-outline.md).
+- Open when looking up TextFrame.endTValue in Shared Adobe platform. [TextFrame.endTValue](end-t-value.md).
+- Open when looking up TextFrame.firstBaseline in Shared Adobe platform. [TextFrame.firstBaseline](first-baseline.md).
+- Open when looking up TextFrame.firstBaselineMin in Shared Adobe platform. [TextFrame.firstBaselineMin](first-baseline-min.md).
+- Open when looking up TextFrame.flowLinksHorizontally in Shared Adobe platform. [TextFrame.flowLinksHorizontally](flow-links-horizontally.md).
+- Open when looking up TextFrame.generateThumbnailWithTextFrameProperties in Shared Adobe platform. [TextFrame.generateThumbnailWithTextFrameProperties](generate-thumbnail-with-text-frame-properties.md).
+- Open when looking up TextFrame.insertionPoints in Shared Adobe platform. [TextFrame.insertionPoints](insertion-points.md).
+- Open when looking up TextFrame.kind in Shared Adobe platform. [TextFrame.kind](kind.md).
+- Open when looking up TextFrame.lines in Shared Adobe platform. [TextFrame.lines](lines.md).
+- Open when looking up TextFrame.matrix in Shared Adobe platform. [TextFrame.matrix](matrix.md).
+- Open when looking up TextFrame.nextFrame in Shared Adobe platform. [TextFrame.nextFrame](next-frame.md).
+- Open when looking up TextFrame.opticalAlignment in Shared Adobe platform. [TextFrame.opticalAlignment](optical-alignment.md).
+- Open when looking up TextFrame.orientation in Shared Adobe platform. [TextFrame.orientation](orientation.md).
+- Open when looking up TextFrame.paragraphs in Shared Adobe platform. [TextFrame.paragraphs](paragraphs.md).
+- Open when looking up TextFrame.previousFrame in Shared Adobe platform. [TextFrame.previousFrame](previous-frame.md).
+- Open when looking up TextFrame.rowCount in Shared Adobe platform. [TextFrame.rowCount](row-count.md).
+- Open when looking up TextFrame.rowGutter in Shared Adobe platform. [TextFrame.rowGutter](row-gutter.md).
+- Open when looking up TextFrame.spacing in Shared Adobe platform. [TextFrame.spacing](spacing.md).
+- Open when looking up TextFrame.startTValue in Shared Adobe platform. [TextFrame.startTValue](start-t-value.md).
+- Open when looking up TextFrame.story in Shared Adobe platform. [TextFrame.story](story.md).
+- Open when looking up TextFrame.textPath in Shared Adobe platform. [TextFrame.textPath](text-path.md).
+- Open when looking up TextFrame.textRange in Shared Adobe platform. [TextFrame.textRange](text-range.md).
+- Open when looking up TextFrame.textRanges in Shared Adobe platform. [TextFrame.textRanges](text-ranges.md).
+- Open when looking up TextFrame.textSelection in Shared Adobe platform. [TextFrame.textSelection](text-selection.md).
+- Open when looking up TextFrame.words in Shared Adobe platform. [TextFrame.words](words.md).

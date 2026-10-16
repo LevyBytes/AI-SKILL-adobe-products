@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "MarkerCollection object", "file": "references/scripting/marker-collection/marker-collection-object.md", "summary": "Open when looking up MarkerCollection object in Premiere Pro.", "keywords": ["MarkerCollection object"]},
+  {"topic": "MarkerCollection.createMarker()", "file": "references/scripting/marker-collection/create-marker.md", "summary": "Open when looking up MarkerCollection.createMarker() in Premiere Pro.", "keywords": ["MarkerCollection.createMarker()"]},
+  {"topic": "MarkerCollection.deleteMarker()", "file": "references/scripting/marker-collection/delete-marker.md", "summary": "Open when looking up MarkerCollection.deleteMarker() in Premiere Pro.", "keywords": ["MarkerCollection.deleteMarker()"]},
+  {"topic": "MarkerCollection.getFirstMarker()", "file": "references/scripting/marker-collection/get-first-marker.md", "summary": "Open when looking up MarkerCollection.getFirstMarker() in Premiere Pro.", "keywords": ["MarkerCollection.getFirstMarker()"]},
+  {"topic": "MarkerCollection.getLastMarker()", "file": "references/scripting/marker-collection/get-last-marker.md", "summary": "Open when looking up MarkerCollection.getLastMarker() in Premiere Pro.", "keywords": ["MarkerCollection.getLastMarker()"]},
+  {"topic": "MarkerCollection.getNextMarker()", "file": "references/scripting/marker-collection/get-next-marker.md", "summary": "Open when looking up MarkerCollection.getNextMarker() in Premiere Pro.", "keywords": ["MarkerCollection.getNextMarker()"]},
+  {"topic": "MarkerCollection.getPrevMarker()", "file": "references/scripting/marker-collection/get-prev-marker.md", "summary": "Open when looking up MarkerCollection.getPrevMarker() in Premiere Pro.", "keywords": ["MarkerCollection.getPrevMarker()"]},
+  {"topic": "MarkerCollection.numMarkers", "file": "references/scripting/marker-collection/num-markers.md", "summary": "Open when looking up MarkerCollection.numMarkers in Premiere Pro.", "keywords": ["MarkerCollection.numMarkers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

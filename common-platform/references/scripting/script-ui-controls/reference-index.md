@@ -1,0 +1,24 @@
+# Shared Adobe platform — Script ui controls
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up button in Shared Adobe platform. [button](button.md).
+- Open when looking up checkbox in Shared Adobe platform. [checkbox](checkbox.md).
+- Open when looking up Control objects — Control types and creation parameters in Shared Adobe platform. [Control objects — Control types and creation parameters](control-objects-control-types-and-creation-parameters.md).
+- Open when looking up dropdownlist in Shared Adobe platform. [dropdownlist](dropdownlist.md).
+- Open when looking up editnumber in Shared Adobe platform. [editnumber](editnumber.md).
+- Open when looking up edittext in Shared Adobe platform. [edittext](edittext.md).
+- Open when looking up flashplayer in Shared Adobe platform. [flashplayer](flashplayer.md).
+- Open when looking up group in Shared Adobe platform. [group](group.md).
+- Open when looking up iconbutton in Shared Adobe platform. [iconbutton](iconbutton.md).
+- Open when looking up image in Shared Adobe platform. [image](image.md).
+- Open when looking up item in Shared Adobe platform. [item](item.md).
+- Open when looking up listbox in Shared Adobe platform. [listbox](listbox.md).
+- Open when looking up panel in Shared Adobe platform. [panel](panel.md).
+- Open when looking up progressbar in Shared Adobe platform. [progressbar](progressbar.md).
+- Open when looking up radiobutton in Shared Adobe platform. [radiobutton](radiobutton.md).
+- Open when looking up scrollbar in Shared Adobe platform. [scrollbar](scrollbar.md).
+- Open when looking up slider in Shared Adobe platform. [slider](slider.md).
+- Open when looking up statictext in Shared Adobe platform. [statictext](statictext.md).
+- Open when looking up tab in Shared Adobe platform. [tab](tab.md).
+- Open when looking up tabbedpanel in Shared Adobe platform. [tabbedpanel](tabbedpanel.md).
+- Open when looking up treeview in Shared Adobe platform. [treeview](treeview.md).

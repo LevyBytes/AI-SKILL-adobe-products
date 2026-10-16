@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "1. Install Node.js dependencies", "file": "references/plugin-samples/desktop-helper-example/install-node-js-dependencies.md", "summary": "Open when looking up 1. Install Node.js dependencies in Photoshop.", "keywords": ["1. Install Node.js dependencies"]},
+  {"topic": "2. Run helper app", "file": "references/plugin-samples/desktop-helper-example/run-helper-app.md", "summary": "Open when looking up 2. Run helper app in Photoshop.", "keywords": ["2. Run helper app"]},
+  {"topic": "2. Run plugin in watch or build mode", "file": "references/plugin-samples/desktop-helper-example/run-plugin-in-watch-or-build-mode.md", "summary": "Open when looking up 2. Run plugin in watch or build mode in Photoshop.", "keywords": ["2. Run plugin in watch or build mode"]},
+  {"topic": "3. (Optional) Build the helper app", "file": "references/plugin-samples/desktop-helper-example/optional-build-the-helper-app.md", "summary": "Open when looking up 3. (Optional) Build the helper app in Photoshop.", "keywords": ["3. (Optional) Build the helper app"]},
+  {"topic": "Configuration", "file": "references/plugin-samples/desktop-helper-example/configuration.md", "summary": "Open when looking up Configuration in Photoshop.", "keywords": ["Configuration"]},
+  {"topic": "Load the Plugin", "file": "references/plugin-samples/desktop-helper-example/load-the-plugin.md", "summary": "Open when looking up Load the Plugin in Photoshop.", "keywords": ["Load the Plugin"]},
+  {"topic": "Using the Plugin", "file": "references/plugin-samples/desktop-helper-example/using-the-plugin.md", "summary": "Open when looking up Using the Plugin in Photoshop.", "keywords": ["Using the Plugin"]},
+  {"topic": "Using the Plugin — Note On socket.io", "file": "references/plugin-samples/desktop-helper-example/using-the-plugin-note-on-socket-io.md", "summary": "Open when looking up Using the Plugin — Note On socket.io in Photoshop.", "keywords": ["Using the Plugin — Note On socket.io"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

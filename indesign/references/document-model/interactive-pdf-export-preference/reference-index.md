@@ -1,0 +1,34 @@
+# InDesign — InteractivePDFExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up defaultDocumentLanguage in InDesign. [defaultDocumentLanguage](default-document-language.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up exportAsSinglePages in InDesign. [exportAsSinglePages](export-as-single-pages.md).
+- Open when looking up exportLayers in InDesign. [exportLayers](export-layers.md).
+- Open when looking up exportReaderSpreads in InDesign. [exportReaderSpreads](export-reader-spreads.md).
+- Open when looking up flipPages in InDesign. [flipPages](flip-pages.md).
+- Open when looking up flipPagesSpeed in InDesign. [flipPagesSpeed](flip-pages-speed.md).
+- Open when looking up generateThumbnails in InDesign. [generateThumbnails](generate-thumbnails.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up includeStructure in InDesign. [includeStructure](include-structure.md).
+- Open when looking up interactivePDFInteractiveElementsOption in InDesign. [interactivePDFInteractiveElementsOption](interactive-pdf-interactive-elements-option.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up openInFullScreen in InDesign. [openInFullScreen](open-in-full-screen.md).
+- Open when looking up pageRange in InDesign. [pageRange](page-range.md).
+- Open when looking up pageTransitionOverride in InDesign. [pageTransitionOverride](page-transition-override.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up pdfDisplayTitle in InDesign. [pdfDisplayTitle](pdf-display-title.md).
+- Open when looking up pdfJPEGQuality in InDesign. [pdfJPEGQuality](pdf-jpeg-quality.md).
+- Open when looking up pdfMagnification in InDesign. [pdfMagnification](pdf-magnification.md).
+- Open when looking up pdfPageLayout in InDesign. [pdfPageLayout](pdf-page-layout.md).
+- Open when looking up pdfRasterCompression in InDesign. [pdfRasterCompression](pdf-raster-compression.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up rasterResolution in InDesign. [rasterResolution](raster-resolution.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up singlePagesPDFSuffix in InDesign. [singlePagesPDFSuffix](single-pages-pdf-suffix.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up usePDFStructureForTabOrder in InDesign. [usePDFStructureForTabOrder](use-pdf-structure-for-tab-order.md).
+- Open when looking up viewPDF in InDesign. [viewPDF](view-pdf.md).

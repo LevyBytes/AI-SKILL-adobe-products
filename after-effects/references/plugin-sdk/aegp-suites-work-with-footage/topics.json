@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP_FootageInterp Structure", "file": "references/plugin-sdk/aegp-suites-work-with-footage/aegp-footage-interp-structure.md", "summary": "Open when looking up AEGP_FootageInterp Structure in After Effects.", "keywords": ["AEGP_FootageInterp Structure"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

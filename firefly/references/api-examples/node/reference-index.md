@@ -1,0 +1,32 @@
+# Firefly — Node
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up async function generateImagesWithCustomModel in Firefly. [async function generateImagesWithCustomModel](generate-custom-model-images.cjs).
+- Open when looking up async function listCustomModels in Firefly. [async function listCustomModels](list-custom-models.cjs).
+- Open when looking up async function retrieveAccessToken in Firefly. [async function retrieveAccessToken](retrieve-custom-model-token.cjs).
+- Open when looking up async-expand-request.cjs in Firefly. [async-expand-request.cjs](async-expand-request.cjs).
+- Open when looking up async-text-request.cjs in Firefly. [async-text-request.cjs](async-text-request.cjs).
+- Open when looking up axios-authentication.cjs in Firefly. [axios-authentication.cjs](axios-authentication.cjs).
+- Open when looking up axios-image-upload.cjs in Firefly. [axios-image-upload.cjs](axios-image-upload.cjs).
+- Open when looking up axios-job-status.cjs in Firefly. [axios-job-status.cjs](axios-job-status.cjs).
+- Open when looking up create-localized-images.cjs in Firefly. [create-localized-images.cjs](create-localized-images.cjs).
+- Open when looking up create-social-media-images.cjs in Firefly. [create-social-media-images.cjs](create-social-media-images.cjs).
+- Open when looking up Custom Model example setup in Firefly. [Custom Model example setup](custom-model-setup.md).
+- Open when looking up custom-model-authentication.cjs in Firefly. [custom-model-authentication.cjs](custom-model-authentication.cjs).
+- Open when looking up custom-model-discovery.cjs in Firefly. [custom-model-discovery.cjs](custom-model-discovery.cjs).
+- Open when looking up custom-model-generation.cjs in Firefly. [custom-model-generation.cjs](custom-model-generation.cjs).
+- Open when looking up download-expanded-images.cjs in Firefly. [download-expanded-images.cjs](download-expanded-images.cjs).
+- Open when looking up download-generated-images.cjs in Firefly. [download-generated-images.cjs](download-generated-images.cjs).
+- Open when looking up Employee Background example setup in Firefly. [Employee Background example setup](employee-background-setup.md).
+- Open when looking up expand-image-request.cjs in Firefly. [expand-image-request.cjs](expand-image-request.cjs).
+- Open when looking up Expanded Download example setup in Firefly. [Expanded Download example setup](expanded-download-setup.md).
+- Open when looking up fetch-authentication.cjs in Firefly. [fetch-authentication.cjs](fetch-authentication.cjs).
+- Open when looking up fetch-image-transfer.cjs in Firefly. [fetch-image-transfer.cjs](fetch-image-transfer.cjs).
+- Open when looking up fetch-job-status.cjs in Firefly. [fetch-job-status.cjs](fetch-job-status.cjs).
+- Open when looking up fill-image-request.cjs in Firefly. [fill-image-request.cjs](fill-image-request.cjs).
+- Open when looking up generate-custom-images.cjs in Firefly. [generate-custom-images.cjs](generate-custom-images.cjs).
+- Open when looking up generate-image-request.cjs in Firefly. [generate-image-request.cjs](generate-image-request.cjs).
+- Open when looking up Generated Download example setup in Firefly. [Generated Download example setup](generated-download-setup.md).
+- Open when looking up Localized Image example setup in Firefly. [Localized Image example setup](localized-image-setup.md).
+- Open when looking up Social Image example setup in Firefly. [Social Image example setup](social-image-setup.md).
+- Open when looking up update-employee-backgrounds.cjs in Firefly. [update-employee-backgrounds.cjs](update-employee-backgrounds.cjs).

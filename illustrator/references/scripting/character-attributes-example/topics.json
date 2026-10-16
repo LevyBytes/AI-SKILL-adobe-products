@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Setting character attributes", "file": "references/scripting/character-attributes-example/setting-character-attributes.md", "summary": "Open when looking up Setting character attributes in Illustrator.", "keywords": ["Setting character attributes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

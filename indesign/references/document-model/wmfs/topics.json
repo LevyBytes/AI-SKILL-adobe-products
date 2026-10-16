@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "anyItem", "file": "references/document-model/wmfs/any-item.md", "summary": "Open when looking up anyItem in InDesign.", "keywords": ["anyItem"]},
+  {"topic": "count", "file": "references/document-model/wmfs/count.md", "summary": "Open when looking up count in InDesign.", "keywords": ["count"]},
+  {"topic": "everyItem", "file": "references/document-model/wmfs/every-item.md", "summary": "Open when looking up everyItem in InDesign.", "keywords": ["everyItem"]},
+  {"topic": "firstItem", "file": "references/document-model/wmfs/first-item.md", "summary": "Open when looking up firstItem in InDesign.", "keywords": ["firstItem"]},
+  {"topic": "item", "file": "references/document-model/wmfs/item.md", "summary": "Open when looking up item in InDesign.", "keywords": ["item"]},
+  {"topic": "itemByID", "file": "references/document-model/wmfs/item-by-id.md", "summary": "Open when looking up itemByID in InDesign.", "keywords": ["itemByID"]},
+  {"topic": "itemByName", "file": "references/document-model/wmfs/item-by-name.md", "summary": "Open when looking up itemByName in InDesign.", "keywords": ["itemByName"]},
+  {"topic": "itemByRange", "file": "references/document-model/wmfs/item-by-range.md", "summary": "Open when looking up itemByRange in InDesign.", "keywords": ["itemByRange"]},
+  {"topic": "lastItem", "file": "references/document-model/wmfs/last-item.md", "summary": "Open when looking up lastItem in InDesign.", "keywords": ["lastItem"]},
+  {"topic": "length", "file": "references/document-model/wmfs/length.md", "summary": "Open when looking up length in InDesign.", "keywords": ["length"]},
+  {"topic": "middleItem", "file": "references/document-model/wmfs/middle-item.md", "summary": "Open when looking up middleItem in InDesign.", "keywords": ["middleItem"]},
+  {"topic": "nextItem", "file": "references/document-model/wmfs/next-item.md", "summary": "Open when looking up nextItem in InDesign.", "keywords": ["nextItem"]},
+  {"topic": "previousItem", "file": "references/document-model/wmfs/previous-item.md", "summary": "Open when looking up previousItem in InDesign.", "keywords": ["previousItem"]},
+  {"topic": "toSource", "file": "references/document-model/wmfs/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

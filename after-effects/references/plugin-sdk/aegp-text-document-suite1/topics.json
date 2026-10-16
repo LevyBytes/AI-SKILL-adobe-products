@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP_GetNewText", "file": "references/plugin-sdk/aegp-text-document-suite1/aegp-get-new-text.md", "summary": "Open when looking up AEGP_GetNewText in After Effects.", "keywords": ["AEGP_GetNewText"]},
+  {"topic": "AEGP_SetText", "file": "references/plugin-sdk/aegp-text-document-suite1/aegp-set-text.md", "summary": "Open when looking up AEGP_SetText in After Effects.", "keywords": ["AEGP_SetText"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+# PF_Err_UNRECOGNIZED_PARAM_TYPE
+
+`PF_Err_UNRECOGNIZED_PARAM_TYPE`
+
+Problem with parameter data.

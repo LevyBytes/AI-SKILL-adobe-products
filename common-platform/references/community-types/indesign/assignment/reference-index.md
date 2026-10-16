@@ -1,0 +1,23 @@
+# Shared Adobe platform — Assignment
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Assignment declaration in Shared Adobe platform. [Assignment declaration](declaration.md).
+- Open when looking up Assignment event listeners in Shared Adobe platform. [Assignment event listeners](event-listeners.md).
+- Open when looking up Assignment identity and parent in Shared Adobe platform. [Assignment identity and parent](identity-and-parent.md).
+- Open when looking up Assignment labels and metadata in Shared Adobe platform. [Assignment labels and metadata](labels-and-metadata.md).
+- Open when looking up Assignment object resolution in Shared Adobe platform. [Assignment object resolution](object-resolution.md).
+- Open when looking up Assignment.assignedStories in Shared Adobe platform. [Assignment.assignedStories](assigned-stories.md).
+- Open when looking up Assignment.assignmentFileStatus in Shared Adobe platform. [Assignment.assignmentFileStatus](assignment-file-status.md).
+- Open when looking up Assignment.cancelPackage in Shared Adobe platform. [Assignment.cancelPackage](cancel-package.md).
+- Open when looking up Assignment.createPackage in Shared Adobe platform. [Assignment.createPackage](create-package.md).
+- Open when looking up Assignment.documentPath in Shared Adobe platform. [Assignment.documentPath](document-path.md).
+- Open when looking up Assignment.exportOptions in Shared Adobe platform. [Assignment.exportOptions](export-options.md).
+- Open when looking up Assignment.filePath in Shared Adobe platform. [Assignment.filePath](file-path.md).
+- Open when looking up Assignment.frameColor in Shared Adobe platform. [Assignment.frameColor](frame-color.md).
+- Open when looking up Assignment.includeLinksWhenPackage in Shared Adobe platform. [Assignment.includeLinksWhenPackage](include-links-when-package.md).
+- Open when looking up Assignment.packaged in Shared Adobe platform. [Assignment.packaged](packaged.md).
+- Open when looking up Assignment.packageUpToDate in Shared Adobe platform. [Assignment.packageUpToDate](package-up-to-date.md).
+- Open when looking up Assignment.properties in Shared Adobe platform. [Assignment.properties](properties.md).
+- Open when looking up Assignment.remove in Shared Adobe platform. [Assignment.remove](remove.md).
+- Open when looking up Assignment.update in Shared Adobe platform. [Assignment.update](update.md).
+- Open when looking up Assignment.userName in Shared Adobe platform. [Assignment.userName](user-name.md).

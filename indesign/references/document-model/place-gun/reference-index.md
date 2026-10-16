@@ -1,0 +1,44 @@
+# InDesign — PlaceGun
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up abortPlaceGun in InDesign. [abortPlaceGun](abort-place-gun.md).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up buttons in InDesign. [buttons](buttons.md).
+- Open when looking up checkBoxes in InDesign. [checkBoxes](check-boxes.md).
+- Open when looking up comboBoxes in InDesign. [comboBoxes](combo-boxes.md).
+- Open when looking up epss in InDesign. [epss](epss.md).
+- Open when looking up epstexts in InDesign. [epstexts](epstexts.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up formFields in InDesign. [formFields](form-fields.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up graphicLines in InDesign. [graphicLines](graphic-lines.md).
+- Open when looking up graphics in InDesign. [graphics](graphics.md).
+- Open when looking up groups in InDesign. [groups](groups.md).
+- Open when looking up images in InDesign. [images](images.md).
+- Open when looking up importedPages in InDesign. [importedPages](imported-pages.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up listBoxes in InDesign. [listBoxes](list-boxes.md).
+- Open when looking up loaded in InDesign. [loaded](loaded.md).
+- Open when looking up loadPlaceGun in InDesign. [loadPlaceGun](load-place-gun.md).
+- Open when looking up multiStateObjects in InDesign. [multiStateObjects](multi-state-objects.md).
+- Open when looking up ovals in InDesign. [ovals](ovals.md).
+- Open when looking up pageItems in InDesign. [pageItems](page-items.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up pdfs in InDesign. [pdfs](pdfs.md).
+- Open when looking up picts in InDesign. [picts](picts.md).
+- Open when looking up polygons in InDesign. [polygons](polygons.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up radioButtons in InDesign. [radioButtons](radio-buttons.md).
+- Open when looking up rectangles in InDesign. [rectangles](rectangles.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up rotate in InDesign. [rotate](rotate.md).
+- Open when looking up signatureFields in InDesign. [signatureFields](signature-fields.md).
+- Open when looking up snippets in InDesign. [snippets](snippets.md).
+- Open when looking up splineItems in InDesign. [splineItems](spline-items.md).
+- Open when looking up svgs in InDesign. [svgs](svgs.md).
+- Open when looking up textBoxes in InDesign. [textBoxes](text-boxes.md).
+- Open when looking up textFrames in InDesign. [textFrames](text-frames.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up wmfs in InDesign. [wmfs](wmfs.md).

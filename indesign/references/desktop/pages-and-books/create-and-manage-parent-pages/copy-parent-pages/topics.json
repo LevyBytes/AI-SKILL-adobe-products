@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Copy a parent within a document", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/copy-parent-pages/copy-a-parent-within-a-document.md", "summary": "Open when looking up Copy a parent within a document in InDesign.", "keywords": ["Copy a parent within a document"]},
+  {"topic": "Copy or move a parent to another document", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/copy-parent-pages/copy-or-move-a-parent-to-another-document.md", "summary": "Open when looking up Copy or move a parent to another document in InDesign.", "keywords": ["Copy or move a parent to another document"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

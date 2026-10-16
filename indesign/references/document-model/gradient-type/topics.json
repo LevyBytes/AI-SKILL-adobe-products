@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "LINEAR", "file": "references/document-model/gradient-type/linear.md", "summary": "Open when looking up LINEAR in InDesign.", "keywords": ["LINEAR"]},
+  {"topic": "RADIAL", "file": "references/document-model/gradient-type/radial.md", "summary": "Open when looking up RADIAL in InDesign.", "keywords": ["RADIAL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

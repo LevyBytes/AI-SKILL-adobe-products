@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "dictionaryPreferences", "file": "references/document-model/document/dictionary-preferences.md", "summary": "Open when looking up dictionaryPreferences in InDesign.", "keywords": ["dictionaryPreferences"]},
+  {"topic": "languages", "file": "references/document-model/document/languages.md", "summary": "Open when looking up languages in InDesign.", "keywords": ["languages"]},
+  {"topic": "mojikumiTables", "file": "references/document-model/document/mojikumi-tables.md", "summary": "Open when looking up mojikumiTables in InDesign.", "keywords": ["mojikumiTables"]},
+  {"topic": "mojikumiUIPreferences", "file": "references/document-model/document/mojikumi-ui-preferences.md", "summary": "Open when looking up mojikumiUIPreferences in InDesign.", "keywords": ["mojikumiUIPreferences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

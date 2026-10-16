@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Create documents from Generation history", "file": "references/web/access-your-files/access-your-generation-history-in-other-adobe-apps/create-documents-from-generation-history.md", "summary": "Open when looking up Create documents from Generation history in Firefly.", "keywords": ["Create documents from Generation history"]},
+  {"topic": "Place generations using the file picker", "file": "references/web/access-your-files/access-your-generation-history-in-other-adobe-apps/place-generations-using-the-file-picker.md", "summary": "Open when looking up Place generations using the file picker in Firefly.", "keywords": ["Place generations using the file picker"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

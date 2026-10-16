@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Add columns", "file": "references/desktop/get-started/customize-the-project-panel/customize-list-view-in-project-panel/add-columns.md", "summary": "Open when looking up Add columns in Premiere Pro.", "keywords": ["Add columns"]},
+  {"topic": "Customize List View columns", "file": "references/desktop/get-started/customize-the-project-panel/customize-list-view-in-project-panel/customize-list-view-columns.md", "summary": "Open when looking up Customize List View columns in Premiere Pro.", "keywords": ["Customize List View columns"]},
+  {"topic": "Rearrange columns", "file": "references/desktop/get-started/customize-the-project-panel/customize-list-view-in-project-panel/rearrange-columns.md", "summary": "Open when looking up Rearrange columns in Premiere Pro.", "keywords": ["Rearrange columns"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

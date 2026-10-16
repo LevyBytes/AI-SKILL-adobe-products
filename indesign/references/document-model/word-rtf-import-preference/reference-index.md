@@ -1,0 +1,29 @@
+# InDesign — WordRTFImportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up convertBulletsAndNumbersToText in InDesign. [convertBulletsAndNumbersToText](convert-bullets-and-numbers-to-text.md).
+- Open when looking up convertPageBreaks in InDesign. [convertPageBreaks](convert-page-breaks.md).
+- Open when looking up convertTablesTo in InDesign. [convertTablesTo](convert-tables-to.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up importAsStaticEndnotes in InDesign. [importAsStaticEndnotes](import-as-static-endnotes.md).
+- Open when looking up importEndnotes in InDesign. [importEndnotes](import-endnotes.md).
+- Open when looking up importFootnotes in InDesign. [importFootnotes](import-footnotes.md).
+- Open when looking up importIndex in InDesign. [importIndex](import-index.md).
+- Open when looking up importTOC in InDesign. [importTOC](import-toc.md).
+- Open when looking up importUnusedStyles in InDesign. [importUnusedStyles](import-unused-styles.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preserveGraphics in InDesign. [preserveGraphics](preserve-graphics.md).
+- Open when looking up preserveLocalOverrides in InDesign. [preserveLocalOverrides](preserve-local-overrides.md).
+- Open when looking up preserveTrackChanges in InDesign. [preserveTrackChanges](preserve-track-changes.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up removeFormatting in InDesign. [removeFormatting](remove-formatting.md).
+- Open when looking up resolveCharacterStyleClash in InDesign. [resolveCharacterStyleClash](resolve-character-style-clash.md).
+- Open when looking up resolveParagraphStyleClash in InDesign. [resolveParagraphStyleClash](resolve-paragraph-style-clash.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up useTypographersQuotes in InDesign. [useTypographersQuotes](use-typographers-quotes.md).

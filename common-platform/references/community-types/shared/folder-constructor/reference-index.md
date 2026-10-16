@@ -1,0 +1,23 @@
+# Shared Adobe platform — FolderConstructor
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up FolderConstructor declaration in Shared Adobe platform. [FolderConstructor declaration](declaration.md).
+- Open when looking up FolderConstructor.appData in Shared Adobe platform. [FolderConstructor.appData](app-data.md).
+- Open when looking up FolderConstructor.appPackage in Shared Adobe platform. [FolderConstructor.appPackage](app-package.md).
+- Open when looking up FolderConstructor.CallSignature in Shared Adobe platform. [FolderConstructor.CallSignature](call-signature.md).
+- Open when looking up FolderConstructor.commonFiles in Shared Adobe platform. [FolderConstructor.commonFiles](common-files.md).
+- Open when looking up FolderConstructor.ConstructSignature in Shared Adobe platform. [FolderConstructor.ConstructSignature](construct-signature.md).
+- Open when looking up FolderConstructor.current in Shared Adobe platform. [FolderConstructor.current](current.md).
+- Open when looking up FolderConstructor.decode in Shared Adobe platform. [FolderConstructor.decode](decode.md).
+- Open when looking up FolderConstructor.desktop in Shared Adobe platform. [FolderConstructor.desktop](desktop.md).
+- Open when looking up FolderConstructor.encode in Shared Adobe platform. [FolderConstructor.encode](encode.md).
+- Open when looking up FolderConstructor.fs in Shared Adobe platform. [FolderConstructor.fs](fs.md).
+- Open when looking up FolderConstructor.isEncodingAvailable in Shared Adobe platform. [FolderConstructor.isEncodingAvailable](is-encoding-available.md).
+- Open when looking up FolderConstructor.myDocuments in Shared Adobe platform. [FolderConstructor.myDocuments](my-documents.md).
+- Open when looking up FolderConstructor.prototype in Shared Adobe platform. [FolderConstructor.prototype](prototype.md).
+- Open when looking up FolderConstructor.selectDialog in Shared Adobe platform. [FolderConstructor.selectDialog](select-dialog.md).
+- Open when looking up FolderConstructor.startup in Shared Adobe platform. [FolderConstructor.startup](startup.md).
+- Open when looking up FolderConstructor.system in Shared Adobe platform. [FolderConstructor.system](system.md).
+- Open when looking up FolderConstructor.temp in Shared Adobe platform. [FolderConstructor.temp](temp.md).
+- Open when looking up FolderConstructor.trash in Shared Adobe platform. [FolderConstructor.trash](trash.md).
+- Open when looking up FolderConstructor.userData in Shared Adobe platform. [FolderConstructor.userData](user-data.md).

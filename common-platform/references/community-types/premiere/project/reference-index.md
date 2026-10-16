@@ -1,0 +1,40 @@
+# Shared Adobe platform — Project
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Project declaration in Shared Adobe platform. [Project declaration](declaration.md).
+- Open when looking up Project.activeSequence in Shared Adobe platform. [Project.activeSequence](active-sequence.md).
+- Open when looking up Project.addPropertyToProjectMetadataSchema in Shared Adobe platform. [Project.addPropertyToProjectMetadataSchema](add-property-to-project-metadata-schema.md).
+- Open when looking up Project.bind in Shared Adobe platform. [Project.bind](bind.md).
+- Open when looking up Project.closeDocument in Shared Adobe platform. [Project.closeDocument](close-document.md).
+- Open when looking up Project.consolidateDuplicates in Shared Adobe platform. [Project.consolidateDuplicates](consolidate-duplicates.md).
+- Open when looking up Project.createNewSequence in Shared Adobe platform. [Project.createNewSequence](create-new-sequence.md).
+- Open when looking up Project.createNewSequenceFromClips in Shared Adobe platform. [Project.createNewSequenceFromClips](create-new-sequence-from-clips.md).
+- Open when looking up Project.deleteAsset in Shared Adobe platform. [Project.deleteAsset](delete-asset.md).
+- Open when looking up Project.deleteSequence in Shared Adobe platform. [Project.deleteSequence](delete-sequence.md).
+- Open when looking up Project.documentID in Shared Adobe platform. [Project.documentID](document-id.md).
+- Open when looking up Project.exportAAF in Shared Adobe platform. [Project.exportAAF](export-aaf.md).
+- Open when looking up Project.exportFinalCutProXML in Shared Adobe platform. [Project.exportFinalCutProXML](export-final-cut-pro-xml.md).
+- Open when looking up Project.exportOMF in Shared Adobe platform. [Project.exportOMF](export-omf.md).
+- Open when looking up Project.exportTimeline in Shared Adobe platform. [Project.exportTimeline](export-timeline.md).
+- Open when looking up Project.getGraphicsWhiteLuminance in Shared Adobe platform. [Project.getGraphicsWhiteLuminance](get-graphics-white-luminance.md).
+- Open when looking up Project.getInsertionBin in Shared Adobe platform. [Project.getInsertionBin](get-insertion-bin.md).
+- Open when looking up Project.getProjectPanelMetadata in Shared Adobe platform. [Project.getProjectPanelMetadata](get-project-panel-metadata.md).
+- Open when looking up Project.getSupportedGraphicsWhiteLuminances in Shared Adobe platform. [Project.getSupportedGraphicsWhiteLuminances](get-supported-graphics-white-luminances.md).
+- Open when looking up Project.importAEComps in Shared Adobe platform. [Project.importAEComps](import-ae-comps.md).
+- Open when looking up Project.importAllAEComps in Shared Adobe platform. [Project.importAllAEComps](import-all-ae-comps.md).
+- Open when looking up Project.importFiles in Shared Adobe platform. [Project.importFiles](import-files.md).
+- Open when looking up Project.importSequences in Shared Adobe platform. [Project.importSequences](import-sequences.md).
+- Open when looking up Project.name in Shared Adobe platform. [Project.name](name.md).
+- Open when looking up Project.newBarsAndTone in Shared Adobe platform. [Project.newBarsAndTone](new-bars-and-tone.md).
+- Open when looking up Project.openSequence in Shared Adobe platform. [Project.openSequence](open-sequence.md).
+- Open when looking up Project.path in Shared Adobe platform. [Project.path](path.md).
+- Open when looking up Project.pauseGrowing in Shared Adobe platform. [Project.pauseGrowing](pause-growing.md).
+- Open when looking up Project.placeAsset in Shared Adobe platform. [Project.placeAsset](place-asset.md).
+- Open when looking up Project.rootItem in Shared Adobe platform. [Project.rootItem](root-item.md).
+- Open when looking up Project.save in Shared Adobe platform. [Project.save](save.md).
+- Open when looking up Project.saveAs in Shared Adobe platform. [Project.saveAs](save-as.md).
+- Open when looking up Project.sequences in Shared Adobe platform. [Project.sequences](sequences.md).
+- Open when looking up Project.setGraphicsWhiteLuminance in Shared Adobe platform. [Project.setGraphicsWhiteLuminance](set-graphics-white-luminance.md).
+- Open when looking up Project.setProjectPanelMetadata in Shared Adobe platform. [Project.setProjectPanelMetadata](set-project-panel-metadata.md).
+- Open when looking up Project.setTimeout in Shared Adobe platform. [Project.setTimeout](set-timeout.md).
+- Open when looking up Project.unbind in Shared Adobe platform. [Project.unbind](unbind.md).

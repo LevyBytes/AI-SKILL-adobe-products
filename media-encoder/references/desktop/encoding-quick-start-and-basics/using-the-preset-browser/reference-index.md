@@ -1,0 +1,21 @@
+# Media Encoder — Using the Preset Browser
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adding Metadata to Files During Ingest in Media Encoder. [Adding Metadata to Files During Ingest](adding-metadata-to-files-during-ingest.md).
+- Open when looking up Adding Visual Analysis to an Ingest Preset in Media Encoder. [Adding Visual Analysis to an Ingest Preset](adding-visual-analysis-to-an-ingest-preset.md).
+- Open when looking up Adding Visual Analysis to an Ingest Preset — Working with Ingest Outputs in the Queue Panel in Media Encoder. [Adding Visual Analysis to an Ingest Preset — Working with Ingest Outputs in the Queue Panel](working-with-ingest-outputs-in-the-queue-panel.md).
+- Open when looking up Apply presets or preset groups to the Queue in Media Encoder. [Apply presets or preset groups to the Queue](apply-presets-or-preset-groups-to-the-queue.md).
+- Open when looking up Apply presets or preset groups to Watch Folders in Media Encoder. [Apply presets or preset groups to Watch Folders](apply-presets-or-preset-groups-to-watch-folders.md).
+- Open when looking up Apply presets to After Effects compositions in Media Encoder. [Apply presets to After Effects compositions](apply-presets-to-after-effects-compositions.md).
+- Open when looking up Apply presets to Premiere sequences, After Effects compositions, and media assets during import in Media Encoder. [Apply presets to Premiere sequences, After Effects compositions, and media assets during import](import-presets-for-sequences-and-compositions.md).
+- Open when looking up Apply presets to video and audio assets in Media Encoder. [Apply presets to video and audio assets](apply-presets-to-video-and-audio-assets.md).
+- Open when looking up Custom presets, preset groups, and aliases in Media Encoder. [Custom presets, preset groups, and aliases](custom-presets-preset-groups-and-aliases.md).
+- Open when looking up Import and export presets in Media Encoder. [Import and export presets](import-and-export-presets.md).
+- Open when looking up Important considerations when applying presets in Media Encoder. [Important considerations when applying presets](important-considerations-when-applying-presets.md).
+- Open when looking up Managing Presets in Media Encoder. [Managing Presets](managing-presets.md).
+- Open when looking up Modify user presets in Media Encoder. [Modify user presets](modify-user-presets.md).
+- Open when looking up Quickly find a preset in the browser in Media Encoder. [Quickly find a preset in the browser](quickly-find-a-preset-in-the-browser.md).
+- Open when looking up Renaming files during ingest in Media Encoder. [Renaming files during ingest](renaming-files-during-ingest.md).
+- Open when looking up Show the location of a preset in Finder or Explorer in Media Encoder. [Show the location of a preset in Finder or Explorer](show-the-location-of-a-preset-in-finder-or-explorer.md).
+- Open when looking up System presets in Media Encoder. [System presets](system-presets.md).
+- Open when looking up Using Ingest Presets with Media Encoder in Media Encoder. [Using Ingest Presets with Media Encoder](using-ingest-presets-with-media-encoder.md).

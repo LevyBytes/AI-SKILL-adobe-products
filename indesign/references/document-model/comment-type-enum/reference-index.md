@@ -1,0 +1,23 @@
+# InDesign — CommentTypeEnum
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ARROW_TYPE in InDesign. [ARROW_TYPE](arrowtype.md).
+- Open when looking up CLOUD_TYPE in InDesign. [CLOUD_TYPE](cloudtype.md).
+- Open when looking up CONNECTED_LINES_TYPE in InDesign. [CONNECTED_LINES_TYPE](connectedlinestype.md).
+- Open when looking up FREEFORM_DRAWING_TYPE in InDesign. [FREEFORM_DRAWING_TYPE](freeformdrawingtype.md).
+- Open when looking up HIGHLIGHT_TEXT_TYPE in InDesign. [HIGHLIGHT_TEXT_TYPE](highlighttexttype.md).
+- Open when looking up INSERT_TEXT_TYPE in InDesign. [INSERT_TEXT_TYPE](inserttexttype.md).
+- Open when looking up INVALID_COMMENT_TYPE in InDesign. [INVALID_COMMENT_TYPE](invalidcommenttype.md).
+- Open when looking up LINE_SEGMENT_TYPE in InDesign. [LINE_SEGMENT_TYPE](linesegmenttype.md).
+- Open when looking up OVAL_TYPE in InDesign. [OVAL_TYPE](ovaltype.md).
+- Open when looking up POLYGON_TYPE in InDesign. [POLYGON_TYPE](polygontype.md).
+- Open when looking up RECTANGLE_TYPE in InDesign. [RECTANGLE_TYPE](rectangletype.md).
+- Open when looking up REPLACE_TEXT_TYPE in InDesign. [REPLACE_TEXT_TYPE](replacetexttype.md).
+- Open when looking up SQUIGGLY_TEXT_TYPE in InDesign. [SQUIGGLY_TEXT_TYPE](squigglytexttype.md).
+- Open when looking up STAMP_TYPE in InDesign. [STAMP_TYPE](stamptype.md).
+- Open when looking up STICKY_NOTE_TYPE in InDesign. [STICKY_NOTE_TYPE](stickynotetype.md).
+- Open when looking up STRIKETHROUGH_TEXT_TYPE in InDesign. [STRIKETHROUGH_TEXT_TYPE](strikethroughtexttype.md).
+- Open when looking up TEXT_BOX_TYPE in InDesign. [TEXT_BOX_TYPE](textboxtype.md).
+- Open when looking up TEXT_CALLOUT_TYPE in InDesign. [TEXT_CALLOUT_TYPE](textcallouttype.md).
+- Open when looking up TEXT_TYPEWRITER_TYPE in InDesign. [TEXT_TYPEWRITER_TYPE](texttypewritertype.md).
+- Open when looking up UNDERLINE_TEXT_TYPE in InDesign. [UNDERLINE_TEXT_TYPE](underlinetexttype.md).

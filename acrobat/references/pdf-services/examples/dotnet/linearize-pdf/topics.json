@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Linearize pdf example setup", "file": "references/pdf-services/examples/dotnet/linearize-pdf/linearize-pdf-setup.md", "summary": "Open when looking up Linearize pdf example setup in Acrobat.", "keywords": ["Linearize pdf example setup"]},
+  {"topic": "LinearizePDF", "file": "references/pdf-services/examples/dotnet/linearize-pdf/Program.cs", "summary": "Open when looking up LinearizePDF in Acrobat.", "keywords": ["LinearizePDF"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

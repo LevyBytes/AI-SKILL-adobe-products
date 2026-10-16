@@ -1,0 +1,81 @@
+/*
+ * Copyright 2024 Adobe
+ * All Rights Reserved.
+ *
+ * NOTICE: Adobe permits you to use, modify, and distribute this file in
+ * accordance with the terms of the Adobe license agreement accompanying
+ * it. If you have received this file from a source other than Adobe,
+ * then your use, modification, or distribution of it requires the prior
+ * written permission of Adobe.
+ */
+package com.adobe.pdfservices.operation.samples.splitpdf;
+import com.adobe.pdfservices.operation.PDFServices;
+import com.adobe.pdfservices.operation.PDFServicesMediaType;
+import com.adobe.pdfservices.operation.PDFServicesResponse;
+import com.adobe.pdfservices.operation.auth.Credentials;
+import com.adobe.pdfservices.operation.auth.ServicePrincipalCredentials;
+import com.adobe.pdfservices.operation.exception.SDKException;
+import com.adobe.pdfservices.operation.exception.ServiceApiException;
+import com.adobe.pdfservices.operation.exception.ServiceUsageException;
+import com.adobe.pdfservices.operation.io.Asset;
+import com.adobe.pdfservices.operation.io.StreamAsset;
+import com.adobe.pdfservices.operation.pdfjobs.jobs.SplitPDFJob;
+import com.adobe.pdfservices.operation.pdfjobs.params.PageRanges;
+import com.adobe.pdfservices.operation.pdfjobs.params.splitpdf.SplitPDFParams;
+import com.adobe.pdfservices.operation.pdfjobs.result.SplitPDFResult;
+import org.apache.commons.io.IOUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.List;
+public class SplitPDFByPageRanges {
+    private static final Logger LOGGER = LoggerFactory.getLogger(SplitPDFByPageRanges.class);
+    public static void main(String[] args) {
+        try (
+                InputStream inputStream = Files.newInputStream(new File("src/main/resources/splitPDFInput.pdf").toPath())) {
+            Credentials credentials = new ServicePrincipalCredentials(System.getenv("PDF_SERVICES_CLIENT_ID"), System.getenv("PDF_SERVICES_CLIENT_SECRET"));
+            PDFServices pdfServices = new PDFServices(credentials);
+            Asset asset = pdfServices.upload(inputStream, PDFServicesMediaType.PDF.getMediaType());
+            PageRanges pageRanges = getPageRanges();
+            SplitPDFParams splitPDFParams = new SplitPDFParams();
+            splitPDFParams.setPageRanges(pageRanges);
+            SplitPDFJob splitPDFJob = new SplitPDFJob(asset, splitPDFParams);
+            String location = pdfServices.submit(splitPDFJob);
+            PDFServicesResponse<SplitPDFResult> pdfServicesResponse = pdfServices.getJobResult(location, SplitPDFResult.class);
+            List<Asset> resultAssets = pdfServicesResponse.getResult().getAssets();
+            String outputFilePath = createOutputFilePath();
+            int index = 0;
+            for (Asset resultAsset : resultAssets) {
+                StreamAsset streamAsset = pdfServices.getContent(resultAsset);
+                String saveOutputFilePath = String.format(outputFilePath, index);
+                LOGGER.info(String.format("Saving asset at %s", saveOutputFilePath));
+                OutputStream outputStream = Files.newOutputStream(new File(saveOutputFilePath).toPath());
+                IOUtils.copy(streamAsset.getInputStream(), outputStream);
+                outputStream.close();
+                index++;
+            }
+        } catch (IOException | ServiceApiException | SDKException | ServiceUsageException e) {
+            LOGGER.error("Exception encountered while executing operation", e);
+        }
+    }
+    private static PageRanges getPageRanges() {
+        PageRanges pageRanges = new PageRanges();
+        pageRanges.addSinglePage(1);
+        pageRanges.addRange(3, 4);
+        return pageRanges;
+    }
+    public static String createOutputFilePath() throws IOException {
+        DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd'T'HH-mm-ss");
+        LocalDateTime now = LocalDateTime.now();
+        String timeStamp = dateTimeFormatter.format(now);
+        Files.createDirectories(Paths.get("output/SplitPDFByPageRanges"));
+        return ("output/SplitPDFByPageRanges/split" + timeStamp + "_%s.pdf");
+    }
+}

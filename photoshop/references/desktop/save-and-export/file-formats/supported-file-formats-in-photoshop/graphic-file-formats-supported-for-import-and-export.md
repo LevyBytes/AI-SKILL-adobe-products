@@ -1,0 +1,32 @@
+# Graphic file formats supported for import and export
+
+- WebP
+- BMP
+- Cineon
+- CompuServe GIF
+- DICOM
+- HEIF/HEIC
+- IFF format
+- JPEG
+- JPEG2000
+- Large Document Format PSB
+- OpenEXR (enhanced support for multi-part/multi-view files, high-bit-depth pixels, and advanced alpha/channel handling)
+- PCX
+- Photoshop DCS 1.0
+- Photoshop DCS 2.0
+- Photoshop EPS
+- Photoshop PDF
+- Photoshop PSD
+- Photoshop Cloud Document (PSDC)
+- Photoshop Raw
+- PICT (read only)
+- PICT Resource (supported only on Mac for viewing, not saving)
+- Pixar
+- PNG
+- Portable Bit Map
+- Radiance
+- Scitex CT
+- Targa
+- TIFF
+- Wireless Bitmap
+- AVIF

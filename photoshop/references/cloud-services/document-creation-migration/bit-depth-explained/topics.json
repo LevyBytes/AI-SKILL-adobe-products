@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "1-bit", "file": "references/cloud-services/document-creation-migration/bit-depth-explained/1-bit.md", "summary": "Open when looking up 1-bit in Photoshop.", "keywords": ["1-bit"]},
+  {"topic": "16-bit", "file": "references/cloud-services/document-creation-migration/bit-depth-explained/16-bit.md", "summary": "Open when looking up 16-bit in Photoshop.", "keywords": ["16-bit"]},
+  {"topic": "32-bit", "file": "references/cloud-services/document-creation-migration/bit-depth-explained/32-bit.md", "summary": "Open when looking up 32-bit in Photoshop.", "keywords": ["32-bit"]},
+  {"topic": "8-bit", "file": "references/cloud-services/document-creation-migration/bit-depth-explained/8-bit.md", "summary": "Open when looking up 8-bit in Photoshop.", "keywords": ["8-bit"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

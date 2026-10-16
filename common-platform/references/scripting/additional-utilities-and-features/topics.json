@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ExtendScript overview — Additional utilities and features", "file": "references/scripting/additional-utilities-and-features/extend-script-overview-additional-utilities-and-features.md", "summary": "Open when looking up ExtendScript overview — Additional utilities and features in Shared Adobe platform.", "keywords": ["ExtendScript overview — Additional utilities and features"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

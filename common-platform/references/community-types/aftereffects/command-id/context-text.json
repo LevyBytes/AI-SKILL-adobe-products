@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "_CommandID.ConvertToEditableText", "file": "references/community-types/aftereffects/command-id/convert-to-editable-text.md", "summary": "Open when looking up _CommandID.ConvertToEditableText in Shared Adobe platform.", "keywords": ["_CommandID.ConvertToEditableText"]},
+  {"topic": "_CommandID.RemoveAllTextAnimators", "file": "references/community-types/aftereffects/command-id/remove-all-text-animators.md", "summary": "Open when looking up _CommandID.RemoveAllTextAnimators in Shared Adobe platform.", "keywords": ["_CommandID.RemoveAllTextAnimators"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

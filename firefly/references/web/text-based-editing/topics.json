@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Key features of Text-based editing", "file": "references/web/text-based-editing/key-features-of-text-based-editing.md", "summary": "Open when looking up Key features of Text-based editing in Firefly.", "keywords": ["Key features of Text-based editing"]},
+  {"topic": "Text-based editing overview for transcript-driven video edits", "file": "references/web/text-based-editing/text-based-editing-overview-for-transcript-driven-video-edits.md", "summary": "Open when looking up Text-based editing overview for transcript-driven video edits in Firefly.", "keywords": ["Text-based editing overview for transcript-driven video edits"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

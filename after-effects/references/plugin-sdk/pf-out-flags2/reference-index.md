@@ -1,0 +1,58 @@
+# After Effects — Pf out flags2
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Parameters — Parameter Types in After Effects. [Parameters — Parameter Types](parameters-parameter-types.md).
+- Open when looking up Parameters — Point Parameter Origin in After Effects. [Parameters — Point Parameter Origin](parameters-point-parameter-origin.md).
+- Open when looking up Parameters — Slider Range Issues? in After Effects. [Parameters — Slider Range Issues?](parameters-slider-range-issues.md).
+- Open when looking up PF_AngleDef in After Effects. [PF_AngleDef](pf-angle-def.md).
+- Open when looking up PF_ArbitraryDef in After Effects. [PF_ArbitraryDef](pf-arbitrary-def.md).
+- Open when looking up PF_Boolean in After Effects. [PF_Boolean](pf-boolean.md).
+- Open when looking up PF_Button in After Effects. [PF_Button](pf-button.md).
+- Open when looking up PF_CheckBoxDef in After Effects. [PF_CheckBoxDef](pf-check-box-def.md).
+- Open when looking up PF_ColorDef in After Effects. [PF_ColorDef](pf-color-def.md).
+- Open when looking up PF_Fixed in After Effects. [PF_Fixed](pf-fixed.md).
+- Open when looking up PF_FixedSliderDef in After Effects. [PF_FixedSliderDef](pf-fixed-slider-def.md).
+- Open when looking up PF_FloatSliderDef in After Effects. [PF_FloatSliderDef](pf-float-slider-def.md).
+- Open when looking up PF_FPLong in After Effects. [PF_FPLong](pffp-long.md).
+- Open when looking up PF_LayerDef in After Effects. [PF_LayerDef](pf-layer-def.md).
+- Open when looking up PF_OutData — PF_OutFlags2 in After Effects. [PF_OutData — PF_OutFlags2](pf-out-data-pf-out-flags2.md).
+- Open when looking up PF_OutFlag2_AUTOMATIC_WIDE_TIME_INPUT in After Effects. [PF_OutFlag2_AUTOMATIC_WIDE_TIME_INPUT](pf-out-flag2-automaticwidetimeinput.md).
+- Open when looking up PF_OutFlag2_CAN_COMBINE_WITH_DESTINATION in After Effects. [PF_OutFlag2_CAN_COMBINE_WITH_DESTINATION](pf-out-flag2-cancombinewithdestination.md).
+- Open when looking up PF_OutFlag2_DEPENDS_ON_UNREFERENCED_MASKS in After Effects. [PF_OutFlag2_DEPENDS_ON_UNREFERENCED_MASKS](pf-out-flag2-dependsonunreferencedmasks.md).
+- Open when looking up PF_OutFlag2_DOESNT_NEED_EMPTY_PIXELS in After Effects. [PF_OutFlag2_DOESNT_NEED_EMPTY_PIXELS](pf-out-flag2-doesntneedemptypixels.md).
+- Open when looking up PF_OutFlag2_FLOAT_COLOR_AWARE in After Effects. [PF_OutFlag2_FLOAT_COLOR_AWARE](pf-out-flag2-floatcoloraware.md).
+- Open when looking up PF_OutFlag2_I_AM_DEPRECATED in After Effects. [PF_OutFlag2_I_AM_DEPRECATED](pf-out-flag2-iamdeprecated.md).
+- Open when looking up PF_OutFlag2_I_AM_THREADSAFE in After Effects. [PF_OutFlag2_I_AM_THREADSAFE](pf-out-flag2-iamthreadsafe.md).
+- Open when looking up PF_OutFlag2_I_USE_3D_CAMERA in After Effects. [PF_OutFlag2_I_USE_3D_CAMERA](pf-out-flag2-iuse3-dcamera.md).
+- Open when looking up PF_OutFlag2_I_USE_3D_LIGHTS in After Effects. [PF_OutFlag2_I_USE_3D_LIGHTS](pf-out-flag2-iuse3-dlights.md).
+- Open when looking up PF_OutFlag2_I_USE_COLORSPACE_ENUMERATION in After Effects. [PF_OutFlag2_I_USE_COLORSPACE_ENUMERATION](pf-out-flag2-iusecolorspaceenumeration.md).
+- Open when looking up PF_OutFlag2_I_USE_COMP_TIMECODE in After Effects. [PF_OutFlag2_I_USE_COMP_TIMECODE](pf-out-flag2-iusecomptimecode.md).
+- Open when looking up PF_OutFlag2_MUTABLE_RENDER_SEQUENCE_DATA_SLOWER in After Effects. [PF_OutFlag2_MUTABLE_RENDER_SEQUENCE_DATA_SLOWER](pf-out-flag2-mutablerendersequencedataslower.md).
+- Open when looking up PF_OutFlag2_NONE in After Effects. [PF_OutFlag2_NONE](pf-out-flag2-none.md).
+- Open when looking up PF_OutFlag2_OUTPUT_IS_WATERMARKED in After Effects. [PF_OutFlag2_OUTPUT_IS_WATERMARKED](pf-out-flag2-outputiswatermarked.md).
+- Open when looking up PF_OutFlag2_PARAM_GROUP_START_COLLAPSED_FLAG in After Effects. [PF_OutFlag2_PARAM_GROUP_START_COLLAPSED_FLAG](pf-out-flag2-paramgroupstartcollapsedflag.md).
+- Open when looking up PF_OutFlag2_PPRO_DO_NOT_CLONE_SEQUENCE_DATA_FOR_RENDER in After Effects. [PF_OutFlag2_PPRO_DO_NOT_CLONE_SEQUENCE_DATA_FOR_RENDER](pf-out-flag2-pprodonotclonesequencedataforrender.md).
+- Open when looking up PF_OutFlag2_PRESERVES_FULLY_OPAQUE_PIXELS in After Effects. [PF_OutFlag2_PRESERVES_FULLY_OPAQUE_PIXELS](pf-out-flag2-preservesfullyopaquepixels.md).
+- Open when looking up PF_OutFlag2_REVEALS_ZERO_ALPHA in After Effects. [PF_OutFlag2_REVEALS_ZERO_ALPHA](pf-out-flag2-revealszeroalpha.md).
+- Open when looking up PF_OutFlag2_SUPPORTS_GPU_RENDER_F32 in After Effects. [PF_OutFlag2_SUPPORTS_GPU_RENDER_F32](pf-out-flag2-supportsgpurenderf32.md).
+- Open when looking up PF_OutFlag2_SUPPORTS_QUERY_DYNAMIC_FLAGS in After Effects. [PF_OutFlag2_SUPPORTS_QUERY_DYNAMIC_FLAGS](pf-out-flag2-supportsquerydynamicflags.md).
+- Open when looking up PF_OutFlag2_SUPPORTS_SMART_RENDER in After Effects. [PF_OutFlag2_SUPPORTS_SMART_RENDER](pf-out-flag2-supportssmartrender.md).
+- Open when looking up PF_OutFlag2_SUPPORTS_THREADED_RENDERING in After Effects. [PF_OutFlag2_SUPPORTS_THREADED_RENDERING](pf-out-flag2-supportsthreadedrendering.md).
+- Open when looking up PF_Param_ANGLE in After Effects. [PF_Param_ANGLE](pf-param-angle.md).
+- Open when looking up PF_Param_ARBITRARY_DATA in After Effects. [PF_Param_ARBITRARY_DATA](pf-param-arbitrarydata.md).
+- Open when looking up PF_Param_BUTTON in After Effects. [PF_Param_BUTTON](pf-param-button.md).
+- Open when looking up PF_Param_CHECKBOX in After Effects. [PF_Param_CHECKBOX](pf-param-checkbox.md).
+- Open when looking up PF_Param_COLOR in After Effects. [PF_Param_COLOR](pf-param-color.md).
+- Open when looking up PF_Param_FIX_SLIDER in After Effects. [PF_Param_FIX_SLIDER](pf-param-fixslider.md).
+- Open when looking up PF_Param_FLOAT_SLIDER in After Effects. [PF_Param_FLOAT_SLIDER](pf-param-floatslider.md).
+- Open when looking up PF_Param_LAYER in After Effects. [PF_Param_LAYER](pf-param-layer.md).
+- Open when looking up PF_Param_PATH in After Effects. [PF_Param_PATH](pf-param-path.md).
+- Open when looking up PF_Param_POINT in After Effects. [PF_Param_POINT](pf-param-point.md).
+- Open when looking up PF_Param_POPUP in After Effects. [PF_Param_POPUP](pf-param-popup.md).
+- Open when looking up PF_Param_SLIDER in After Effects. [PF_Param_SLIDER](pf-param-slider.md).
+- Open when looking up PF_PathDef in After Effects. [PF_PathDef](pf-path-def.md).
+- Open when looking up PF_PathID in After Effects. [PF_PathID](pf-path-id.md).
+- Open when looking up PF_Pixel in After Effects. [PF_Pixel](pf-pixel.md).
+- Open when looking up PF_PointDef in After Effects. [PF_PointDef](pf-point-def.md).
+- Open when looking up PF_PopupDef in After Effects. [PF_PopupDef](pf-popup-def.md).
+- Open when looking up PF_SliderDef in After Effects. [PF_SliderDef](pf-slider-def.md).

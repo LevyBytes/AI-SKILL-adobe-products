@@ -1,0 +1,21 @@
+# Shared Adobe platform — PDFComment
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PDFComment declaration in Shared Adobe platform. [PDFComment declaration](declaration.md).
+- Open when looking up PDFComment event listeners in Shared Adobe platform. [PDFComment event listeners](event-listeners.md).
+- Open when looking up PDFComment identity and parent in Shared Adobe platform. [PDFComment identity and parent](identity-and-parent.md).
+- Open when looking up PDFComment labels and metadata in Shared Adobe platform. [PDFComment labels and metadata](labels-and-metadata.md).
+- Open when looking up PDFComment object resolution in Shared Adobe platform. [PDFComment object resolution](object-resolution.md).
+- Open when looking up PDFComment.changeStatus in Shared Adobe platform. [PDFComment.changeStatus](change-status.md).
+- Open when looking up PDFComment.commentContent in Shared Adobe platform. [PDFComment.commentContent](comment-content.md).
+- Open when looking up PDFComment.commentDate in Shared Adobe platform. [PDFComment.commentDate](comment-date.md).
+- Open when looking up PDFComment.commentFilePath in Shared Adobe platform. [PDFComment.commentFilePath](comment-file-path.md).
+- Open when looking up PDFComment.commentIsApplied in Shared Adobe platform. [PDFComment.commentIsApplied](comment-is-applied.md).
+- Open when looking up PDFComment.commentIsOrphan in Shared Adobe platform. [PDFComment.commentIsOrphan](comment-is-orphan.md).
+- Open when looking up PDFComment.commentPathGeometry in Shared Adobe platform. [PDFComment.commentPathGeometry](comment-path-geometry.md).
+- Open when looking up PDFComment.commentReviewer in Shared Adobe platform. [PDFComment.commentReviewer](comment-reviewer.md).
+- Open when looking up PDFComment.commentStatus in Shared Adobe platform. [PDFComment.commentStatus](comment-status.md).
+- Open when looking up PDFComment.commentType in Shared Adobe platform. [PDFComment.commentType](comment-type.md).
+- Open when looking up PDFComment.properties in Shared Adobe platform. [PDFComment.properties](properties.md).
+- Open when looking up PDFComment.remove in Shared Adobe platform. [PDFComment.remove](remove.md).
+- Open when looking up PDFComment.replies in Shared Adobe platform. [PDFComment.replies](replies.md).

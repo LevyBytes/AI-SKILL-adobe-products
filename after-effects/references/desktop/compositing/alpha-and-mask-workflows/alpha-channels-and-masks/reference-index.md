@@ -1,0 +1,27 @@
+# After Effects — Alpha channels and masks
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About masks in After Effects. [About masks](about-masks.md).
+- Open when looking up Adjust the tension (smoothness or curvature) of a feather boundary through a feather point in After Effects. [Adjust the tension (smoothness or curvature) of a feather boundary through a feather point](feather-boundary-tension.md).
+- Open when looking up Change mask path color in After Effects. [Change mask path color](change-mask-path-color.md).
+- Open when looking up Control mask path color in After Effects. [Control mask path color](control-mask-path-color.md).
+- Open when looking up Control the falloff of the feather in After Effects. [Control the falloff of the feather](control-the-falloff-of-the-feather.md).
+- Open when looking up Copy, cut, duplicate, or paste a mask in After Effects. [Copy, cut, duplicate, or paste a mask](copy-cut-duplicate-or-paste-a-mask.md).
+- Open when looking up Copy, cut, save, reuse, and delete masks in After Effects. [Copy, cut, save, reuse, and delete masks](copy-cut-save-reuse-and-delete-masks.md).
+- Open when looking up Create a feather point in After Effects. [Create a feather point](create-a-feather-point.md).
+- Open when looking up Cycle through colors for mask paths in After Effects. [Cycle through colors for mask paths](cycle-through-colors-for-mask-paths.md).
+- Open when looking up Delete a feather point in After Effects. [Delete a feather point](delete-a-feather-point.md).
+- Open when looking up Delete masks in After Effects. [Delete masks](delete-masks.md).
+- Open when looking up Expand or contract the edges of a mask in After Effects. [Expand or contract the edges of a mask](expand-or-contract-the-edges-of-a-mask.md).
+- Open when looking up Hold interpolation for a feather point (for constant feather radius up to the next feather point) in After Effects. [Hold interpolation for a feather point (for constant feather radius up to the next feather point)](feather-point-hold-interpolation.md).
+- Open when looking up Mask modes in After Effects. [Mask modes](mask-modes.md).
+- Open when looking up Move a feather point in After Effects. [Move a feather point](move-a-feather-point.md).
+- Open when looking up Quickly create a feathered edge for a specific mask segment in After Effects. [Quickly create a feathered edge for a specific mask segment](quickly-create-a-feathered-edge-for-a-specific-mask-segment.md).
+- Open when looking up Reuse a mask in After Effects. [Reuse a mask](reuse-a-mask.md).
+- Open when looking up Save a mask in After Effects. [Save a mask](save-a-mask.md).
+- Open when looking up Select multiple feather points in After Effects. [Select multiple feather points](select-multiple-feather-points.md).
+- Open when looking up Snap a feather point to the mask path in After Effects. [Snap a feather point to the mask path](snap-a-feather-point-to-the-mask-path.md).
+- Open when looking up Soften (feather) the edges of a mask in After Effects. [Soften (feather) the edges of a mask](soften-feather-the-edges-of-a-mask.md).
+- Open when looking up Tips for variable-width mask feathering (Mask Feather tool) in After Effects. [Tips for variable-width mask feathering (Mask Feather tool)](tips-for-variable-width-mask-feathering-mask-feather-tool.md).
+- Open when looking up Toggle the selection of a feather point in After Effects. [Toggle the selection of a feather point](toggle-the-selection-of-a-feather-point.md).
+- Open when looking up Variable-width mask feathering in After Effects. [Variable-width mask feathering](variable-width-mask-feathering.md).

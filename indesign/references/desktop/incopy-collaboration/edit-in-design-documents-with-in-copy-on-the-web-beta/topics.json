@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Edit text in the browser", "file": "references/desktop/incopy-collaboration/edit-in-design-documents-with-in-copy-on-the-web-beta/edit-text-in-the-browser.md", "summary": "Open when looking up Edit text in the browser in InDesign.", "keywords": ["Edit text in the browser"]},
+  {"topic": "Limitations of InCopy on the web (beta)", "file": "references/desktop/incopy-collaboration/edit-in-design-documents-with-in-copy-on-the-web-beta/limitations-of-in-copy-on-the-web-beta.md", "summary": "Open when looking up Limitations of InCopy on the web (beta) in InDesign.", "keywords": ["Limitations of InCopy on the web (beta)"]},
+  {"topic": "Share your InDesign document for text editing", "file": "references/desktop/incopy-collaboration/edit-in-design-documents-with-in-copy-on-the-web-beta/share-your-in-design-document-for-text-editing.md", "summary": "Open when looking up Share your InDesign document for text editing in InDesign.", "keywords": ["Share your InDesign document for text editing"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,22 @@
+# Premiere Pro — Working with the Clip Grid
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Clip Grid layout in Premiere Pro. [Clip Grid layout](clip-grid-layout.md).
+- Open when looking up Clip Grid options in Premiere Pro. [Clip Grid options](clip-grid-options.md).
+- Open when looking up Clip Grid overview in Premiere Pro. [Clip Grid overview](clip-grid-overview.md).
+- Open when looking up Color & Contrast controls overview in Premiere Pro. [Color & Contrast controls overview](color-contrast-controls-overview.md).
+- Open when looking up Color Controls overview in Premiere Pro. [Color Controls overview](color-controls-overview.md).
+- Open when looking up Color monitor overview in Premiere Pro. [Color monitor overview](color-monitor-overview.md).
+- Open when looking up Composite or Color Channel monitoring in Premiere Pro. [Composite or Color Channel monitoring](composite-or-color-channel-monitoring.md).
+- Open when looking up Constraining 2D controls in Premiere Pro. [Constraining 2D controls](constraining-2-d-controls.md).
+- Open when looking up Dragging Color Controls both vertically and horizontally in Premiere Pro. [Dragging Color Controls both vertically and horizontally](dragging-color-controls-both-vertically-and-horizontally.md).
+- Open when looking up Flattened thumbnail arrangement in Premiere Pro. [Flattened thumbnail arrangement](flattened-thumbnail-arrangement.md).
+- Open when looking up Heads Up Displays (HUDs) in Premiere Pro. [Heads Up Displays (HUDs)](heads-up-displays-huds.md).
+- Open when looking up Making precision adjustments in Premiere Pro. [Making precision adjustments](making-precision-adjustments.md).
+- Open when looking up Next or Ppevious clip in Premiere Pro. [Next or Ppevious clip](next-or-ppevious-clip.md).
+- Open when looking up RGBA Channels in Premiere Pro. [RGBA Channels](rgba-channels.md).
+- Open when looking up Saturation, Hue, and Lum Shift controls overview in Premiere Pro. [Saturation, Hue, and Lum Shift controls overview](saturation-hue-and-lum-shift-controls-overview.md).
+- Open when looking up Sequence or Clip mode in Premiere Pro. [Sequence or Clip mode](sequence-or-clip-mode.md).
+- Open when looking up Solo mode in Premiere Pro. [Solo mode](solo-mode.md).
+- Open when looking up Texture controls overview in Premiere Pro. [Texture controls overview](texture-controls-overview.md).
+- Open when looking up The current clip in Premiere Pro. [The current clip](the-current-clip.md).

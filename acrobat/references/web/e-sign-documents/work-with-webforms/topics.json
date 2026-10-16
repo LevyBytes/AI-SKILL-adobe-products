@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Create web forms", "file": "references/web/e-sign-documents/work-with-webforms/create-web-forms.md", "summary": "Open when looking up Create web forms in Acrobat.", "keywords": ["Create web forms"]},
+  {"topic": "Hide web forms", "file": "references/web/e-sign-documents/work-with-webforms/hide-web-forms.md", "summary": "Open when looking up Hide web forms in Acrobat.", "keywords": ["Hide web forms"]},
+  {"topic": "Reactivate web forms", "file": "references/web/e-sign-documents/work-with-webforms/reactivate-web-forms.md", "summary": "Open when looking up Reactivate web forms in Acrobat.", "keywords": ["Reactivate web forms"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

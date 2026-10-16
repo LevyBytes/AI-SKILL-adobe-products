@@ -1,0 +1,49 @@
+# Shared Adobe platform — Date
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Date declaration in Shared Adobe platform. [Date declaration](declaration.md).
+- Open when looking up Date.getDate in Shared Adobe platform. [Date.getDate](get-date.md).
+- Open when looking up Date.getDay in Shared Adobe platform. [Date.getDay](get-day.md).
+- Open when looking up Date.getFullYear in Shared Adobe platform. [Date.getFullYear](get-full-year.md).
+- Open when looking up Date.getHours in Shared Adobe platform. [Date.getHours](get-hours.md).
+- Open when looking up Date.getMilliseconds in Shared Adobe platform. [Date.getMilliseconds](get-milliseconds.md).
+- Open when looking up Date.getMinutes in Shared Adobe platform. [Date.getMinutes](get-minutes.md).
+- Open when looking up Date.getMonth in Shared Adobe platform. [Date.getMonth](get-month.md).
+- Open when looking up Date.getSeconds in Shared Adobe platform. [Date.getSeconds](get-seconds.md).
+- Open when looking up Date.getTime in Shared Adobe platform. [Date.getTime](get-time.md).
+- Open when looking up Date.getTimezoneOffset in Shared Adobe platform. [Date.getTimezoneOffset](get-timezone-offset.md).
+- Open when looking up Date.getUTCDate in Shared Adobe platform. [Date.getUTCDate](get-utc-date.md).
+- Open when looking up Date.getUTCDay in Shared Adobe platform. [Date.getUTCDay](get-utc-day.md).
+- Open when looking up Date.getUTCFullYear in Shared Adobe platform. [Date.getUTCFullYear](get-utc-full-year.md).
+- Open when looking up Date.getUTCHours in Shared Adobe platform. [Date.getUTCHours](get-utc-hours.md).
+- Open when looking up Date.getUTCMilliseconds in Shared Adobe platform. [Date.getUTCMilliseconds](get-utc-milliseconds.md).
+- Open when looking up Date.getUTCMinutes in Shared Adobe platform. [Date.getUTCMinutes](get-utc-minutes.md).
+- Open when looking up Date.getUTCMonth in Shared Adobe platform. [Date.getUTCMonth](get-utc-month.md).
+- Open when looking up Date.getUTCSeconds in Shared Adobe platform. [Date.getUTCSeconds](get-utc-seconds.md).
+- Open when looking up Date.getYear in Shared Adobe platform. [Date.getYear](get-year.md).
+- Open when looking up Date.setDate in Shared Adobe platform. [Date.setDate](set-date.md).
+- Open when looking up Date.setFullYear in Shared Adobe platform. [Date.setFullYear](set-full-year.md).
+- Open when looking up Date.setHours in Shared Adobe platform. [Date.setHours](set-hours.md).
+- Open when looking up Date.setMilliseconds in Shared Adobe platform. [Date.setMilliseconds](set-milliseconds.md).
+- Open when looking up Date.setMinutes in Shared Adobe platform. [Date.setMinutes](set-minutes.md).
+- Open when looking up Date.setMonth in Shared Adobe platform. [Date.setMonth](set-month.md).
+- Open when looking up Date.setSeconds in Shared Adobe platform. [Date.setSeconds](set-seconds.md).
+- Open when looking up Date.setTime in Shared Adobe platform. [Date.setTime](set-time.md).
+- Open when looking up Date.setUTCDate in Shared Adobe platform. [Date.setUTCDate](set-utc-date.md).
+- Open when looking up Date.setUTCFullYear in Shared Adobe platform. [Date.setUTCFullYear](set-utc-full-year.md).
+- Open when looking up Date.setUTCHours in Shared Adobe platform. [Date.setUTCHours](set-utc-hours.md).
+- Open when looking up Date.setUTCMilliseconds in Shared Adobe platform. [Date.setUTCMilliseconds](set-utc-milliseconds.md).
+- Open when looking up Date.setUTCMinutes in Shared Adobe platform. [Date.setUTCMinutes](set-utc-minutes.md).
+- Open when looking up Date.setUTCMonth in Shared Adobe platform. [Date.setUTCMonth](set-utc-month.md).
+- Open when looking up Date.setUTCSeconds in Shared Adobe platform. [Date.setUTCSeconds](set-utc-seconds.md).
+- Open when looking up Date.setYear in Shared Adobe platform. [Date.setYear](set-year.md).
+- Open when looking up Date.toDateString in Shared Adobe platform. [Date.toDateString](to-date-string.md).
+- Open when looking up Date.toGMTString in Shared Adobe platform. [Date.toGMTString](to-gmt-string.md).
+- Open when looking up Date.toLocaleDateString in Shared Adobe platform. [Date.toLocaleDateString](to-locale-date-string.md).
+- Open when looking up Date.toLocaleString in Shared Adobe platform. [Date.toLocaleString](to-locale-string.md).
+- Open when looking up Date.toLocaleTimeString in Shared Adobe platform. [Date.toLocaleTimeString](to-locale-time-string.md).
+- Open when looking up Date.toSource in Shared Adobe platform. [Date.toSource](to-source.md).
+- Open when looking up Date.toString in Shared Adobe platform. [Date.toString](to-string.md).
+- Open when looking up Date.toTimeString in Shared Adobe platform. [Date.toTimeString](to-time-string.md).
+- Open when looking up Date.toUTCString in Shared Adobe platform. [Date.toUTCString](to-utc-string.md).
+- Open when looking up Date.valueOf in Shared Adobe platform. [Date.valueOf](value-of.md).

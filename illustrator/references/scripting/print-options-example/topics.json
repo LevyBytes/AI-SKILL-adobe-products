@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Print option setup example", "file": "references/scripting/print-options-example/print-option-setup-example.md", "summary": "Open when looking up Print option setup example in Illustrator.", "keywords": ["Print option setup example"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

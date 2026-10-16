@@ -1,0 +1,25 @@
+# InDesign — XMLImportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up allowTransform in InDesign. [allowTransform](allow-transform.md).
+- Open when looking up createLinkToXML in InDesign. [createLinkToXML](create-link-to-xml.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up ignoreUnmatchedIncoming in InDesign. [ignoreUnmatchedIncoming](ignore-unmatched-incoming.md).
+- Open when looking up ignoreWhitespace in InDesign. [ignoreWhitespace](ignore-whitespace.md).
+- Open when looking up importCALSTables in InDesign. [importCALSTables](import-cals-tables.md).
+- Open when looking up importStyle in InDesign. [importStyle](import-style.md).
+- Open when looking up importTextIntoTables in InDesign. [importTextIntoTables](import-text-into-tables.md).
+- Open when looking up importToSelected in InDesign. [importToSelected](import-to-selected.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up removeUnmatchedExisting in InDesign. [removeUnmatchedExisting](remove-unmatched-existing.md).
+- Open when looking up repeatTextElements in InDesign. [repeatTextElements](repeat-text-elements.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up transformFilename in InDesign. [transformFilename](transform-filename.md).
+- Open when looking up transformParameters in InDesign. [transformParameters](transform-parameters.md).

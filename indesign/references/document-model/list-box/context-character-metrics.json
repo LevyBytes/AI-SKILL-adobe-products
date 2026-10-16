@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "horizontalScale", "file": "references/document-model/list-box/horizontal-scale.md", "summary": "Open when looking up horizontalScale in InDesign.", "keywords": ["horizontalScale"]},
+  {"topic": "verticalScale", "file": "references/document-model/list-box/vertical-scale.md", "summary": "Open when looking up verticalScale in InDesign.", "keywords": ["verticalScale"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

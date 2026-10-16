@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Adjust masks at the clip or frame level", "file": "references/desktop/add-video-effects/work-with-masks/mask-tracking-tools-in-premiere/adjust-masks-at-the-clip-or-frame-level.md", "summary": "Open when looking up Adjust masks at the clip or frame level in Premiere Pro.", "keywords": ["Adjust masks at the clip or frame level"]},
+  {"topic": "Tracker options", "file": "references/desktop/add-video-effects/work-with-masks/mask-tracking-tools-in-premiere/tracker-options.md", "summary": "Open when looking up Tracker options in Premiere Pro.", "keywords": ["Tracker options"]},
+  {"topic": "Vector mask tracking", "file": "references/desktop/add-video-effects/work-with-masks/mask-tracking-tools-in-premiere/vector-mask-tracking.md", "summary": "Open when looking up Vector mask tracking in Premiere Pro.", "keywords": ["Vector mask tracking"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

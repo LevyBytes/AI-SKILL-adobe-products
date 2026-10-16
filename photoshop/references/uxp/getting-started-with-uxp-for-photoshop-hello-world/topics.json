@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Design guides", "file": "references/uxp/getting-started-with-uxp-for-photoshop-hello-world/design-guides.md", "summary": "Open when looking up Design guides in Photoshop.", "keywords": ["Design guides"]},
+  {"topic": "Must Reads", "file": "references/uxp/getting-started-with-uxp-for-photoshop-hello-world/must-reads.md", "summary": "Open when looking up Must Reads in Photoshop.", "keywords": ["Must Reads"]},
+  {"topic": "Plugin Samples", "file": "references/uxp/getting-started-with-uxp-for-photoshop-hello-world/plugin-samples.md", "summary": "Open when looking up Plugin Samples in Photoshop.", "keywords": ["Plugin Samples"]},
+  {"topic": "The Basics", "file": "references/uxp/getting-started-with-uxp-for-photoshop-hello-world/the-basics.md", "summary": "Open when looking up The Basics in Photoshop.", "keywords": ["The Basics"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

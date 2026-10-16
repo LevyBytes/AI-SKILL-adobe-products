@@ -1,0 +1,4 @@
+# DNxHR/DNxHD MXF OP1a
+
+- DNxHD
+- DNxHR

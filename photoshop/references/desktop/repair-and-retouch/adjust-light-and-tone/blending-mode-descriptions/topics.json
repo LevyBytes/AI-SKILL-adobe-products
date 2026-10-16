@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Blending modes availability", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions/blending-modes-availability.md", "summary": "Open when looking up Blending modes availability in Photoshop.", "keywords": ["Blending modes availability"]},
+  {"topic": "Comparative group", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions/comparative-group.md", "summary": "Open when looking up Comparative group in Photoshop.", "keywords": ["Comparative group"]},
+  {"topic": "Contrast group", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions/contrast-group.md", "summary": "Open when looking up Contrast group in Photoshop.", "keywords": ["Contrast group"]},
+  {"topic": "Darken group", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions/darken-group.md", "summary": "Open when looking up Darken group in Photoshop.", "keywords": ["Darken group"]},
+  {"topic": "HSL group", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions/hsl-group.md", "summary": "Open when looking up HSL group in Photoshop.", "keywords": ["HSL group"]},
+  {"topic": "Lighten group", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions/lighten-group.md", "summary": "Open when looking up Lighten group in Photoshop.", "keywords": ["Lighten group"]},
+  {"topic": "Normal group", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone/blending-mode-descriptions/normal-group.md", "summary": "Open when looking up Normal group in Photoshop.", "keywords": ["Normal group"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

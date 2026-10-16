@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "gifOptionsInterlaced", "file": "references/document-model/change-object-preference/gif-options-interlaced.md", "summary": "Open when looking up gifOptionsInterlaced in InDesign.", "keywords": ["gifOptionsInterlaced"]},
+  {"topic": "gifOptionsPalette", "file": "references/document-model/change-object-preference/gif-options-palette.md", "summary": "Open when looking up gifOptionsPalette in InDesign.", "keywords": ["gifOptionsPalette"]},
+  {"topic": "imageAlignment", "file": "references/document-model/change-object-preference/image-alignment.md", "summary": "Open when looking up imageAlignment in InDesign.", "keywords": ["imageAlignment"]},
+  {"topic": "imageConversionType", "file": "references/document-model/change-object-preference/image-conversion-type.md", "summary": "Open when looking up imageConversionType in InDesign.", "keywords": ["imageConversionType"]},
+  {"topic": "imageExportResolution", "file": "references/document-model/change-object-preference/image-export-resolution.md", "summary": "Open when looking up imageExportResolution in InDesign.", "keywords": ["imageExportResolution"]},
+  {"topic": "imagePageBreak", "file": "references/document-model/change-object-preference/image-page-break.md", "summary": "Open when looking up imagePageBreak in InDesign.", "keywords": ["imagePageBreak"]},
+  {"topic": "imageSpaceAfter", "file": "references/document-model/change-object-preference/image-space-after.md", "summary": "Open when looking up imageSpaceAfter in InDesign.", "keywords": ["imageSpaceAfter"]},
+  {"topic": "imageSpaceBefore", "file": "references/document-model/change-object-preference/image-space-before.md", "summary": "Open when looking up imageSpaceBefore in InDesign.", "keywords": ["imageSpaceBefore"]},
+  {"topic": "jpegOptionsFormat", "file": "references/document-model/change-object-preference/jpeg-options-format.md", "summary": "Open when looking up jpegOptionsFormat in InDesign.", "keywords": ["jpegOptionsFormat"]},
+  {"topic": "jpegOptionsQuality", "file": "references/document-model/change-object-preference/jpeg-options-quality.md", "summary": "Open when looking up jpegOptionsQuality in InDesign.", "keywords": ["jpegOptionsQuality"]},
+  {"topic": "preserveAppearanceFromLayout", "file": "references/document-model/change-object-preference/preserve-appearance-from-layout.md", "summary": "Open when looking up preserveAppearanceFromLayout in InDesign.", "keywords": ["preserveAppearanceFromLayout"]},
+  {"topic": "useImagePageBreak", "file": "references/document-model/change-object-preference/use-image-page-break.md", "summary": "Open when looking up useImagePageBreak in InDesign.", "keywords": ["useImagePageBreak"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

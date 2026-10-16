@@ -1,0 +1,30 @@
+# After Effects — Generate Effects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 4-Color Gradient effect in After Effects. [4-Color Gradient effect](4-color-gradient-effect.md).
+- Open when looking up Advanced Lightning obstacles, turbulence and forks in After Effects. [Advanced Lightning obstacles, turbulence and forks](lightning-obstacles-and-forks.md).
+- Open when looking up Advanced Lightning type and appearance in After Effects. [Advanced Lightning type and appearance](advanced-lightning-effect.md).
+- Open when looking up Audio Spectrum effect in After Effects. [Audio Spectrum effect](audio-spectrum-effect.md).
+- Open when looking up Audio Waveform effect in After Effects. [Audio Waveform effect](audio-waveform-effect.md).
+- Open when looking up Beam effect in After Effects. [Beam effect](beam-effect.md).
+- Open when looking up Cell Pattern effect in After Effects. [Cell Pattern effect](cell-pattern-effect.md).
+- Open when looking up Checkerboard effect in After Effects. [Checkerboard effect](checkerboard-effect.md).
+- Open when looking up Circle effect in After Effects. [Circle effect](circle-effect.md).
+- Open when looking up Ellipse effect in After Effects. [Ellipse effect](ellipse-effect.md).
+- Open when looking up Eyedropper Fill effect in After Effects. [Eyedropper Fill effect](eyedropper-fill-effect.md).
+- Open when looking up Fill effect in After Effects. [Fill effect](fill-effect.md).
+- Open when looking up Fractal effect in After Effects. [Fractal effect](fractal-effect.md).
+- Open when looking up Gradient Ramp effect in After Effects. [Gradient Ramp effect](gradient-ramp-effect.md).
+- Open when looking up Grid effect in After Effects. [Grid effect](grid-effect.md).
+- Open when looking up Image Contour controls in After Effects. [Image Contour controls](image-contour-controls.md).
+- Open when looking up Lens Flare effect in After Effects. [Lens Flare effect](lens-flare-effect.md).
+- Open when looking up Paint Bucket effect in After Effects. [Paint Bucket effect](paint-bucket-effect.md).
+- Open when looking up Radio Waves effect in After Effects. [Radio Waves effect](radio-waves-effect.md).
+- Open when looking up Scribble effect in After Effects. [Scribble effect](scribble-effect.md).
+- Open when looking up Stroke controls in After Effects. [Stroke controls](stroke-controls.md).
+- Open when looking up Stroke effect in After Effects. [Stroke effect](stroke-effect.md).
+- Open when looking up Use tools with the Fractal effect in After Effects. [Use tools with the Fractal effect](use-tools-with-the-fractal-effect.md).
+- Open when looking up Vegas effect and image contours in After Effects. [Vegas effect and image contours](vegas-effect.md).
+- Open when looking up Vegas path segments and stroke appearance in After Effects. [Vegas path segments and stroke appearance](vegas-segments-and-stroke.md).
+- Open when looking up Wave Motion controls in After Effects. [Wave Motion controls](wave-motion-controls.md).
+- Open when looking up Write-on effect in After Effects. [Write-on effect](write-on-effect.md).

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Import from other apps", "file": "references/desktop/add-and-import-files/import-from-other-apps.md", "summary": "Open when looking up Import from other apps in Illustrator.", "keywords": ["Import from other apps"]},
+  {"topic": "Import from other apps references", "file": "references/desktop/add-and-import-files/import-from-other-apps/reference-index.md", "summary": "Open when looking up Import from other apps in Illustrator.", "keywords": ["Import from other apps references"]},
+  {"topic": "Import other file types", "file": "references/desktop/add-and-import-files/import-other-file-types.md", "summary": "Open when looking up Import other file types in Illustrator.", "keywords": ["Import other file types"]},
+  {"topic": "Import other file types references", "file": "references/desktop/add-and-import-files/import-other-file-types/reference-index.md", "summary": "Open when looking up Import other file types in Illustrator.", "keywords": ["Import other file types references"]},
+  {"topic": "Manage project files", "file": "references/desktop/add-and-import-files/manage-project-files.md", "summary": "Open when looking up Manage project files in Illustrator.", "keywords": ["Manage project files"]},
+  {"topic": "Start new files", "file": "references/desktop/add-and-import-files/start-new-files.md", "summary": "Open when looking up Start new files in Illustrator.", "keywords": ["Start new files"]},
+  {"topic": "Start new files references", "file": "references/desktop/add-and-import-files/start-new-files/reference-index.md", "summary": "Open when looking up Start new files in Illustrator.", "keywords": ["Start new files references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

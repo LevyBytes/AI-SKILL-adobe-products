@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "The fs module", "file": "references/uxp/choosing-the-right-api/the-fs-module.md", "summary": "Open when looking up The fs module in Premiere Pro.", "keywords": ["The fs module"]},
+  {"topic": "The LocalFileSystem API", "file": "references/uxp/choosing-the-right-api/the-local-file-system-api.md", "summary": "Open when looking up The LocalFileSystem API in Premiere Pro.", "keywords": ["The LocalFileSystem API"]},
+  {"topic": "Understanding Entries", "file": "references/uxp/choosing-the-right-api/understanding-entries.md", "summary": "Open when looking up Understanding Entries in Premiere Pro.", "keywords": ["Understanding Entries"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

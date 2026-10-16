@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "RQItemCollection object", "file": "references/scripting/rq-item-collection/rq-item-collection-object.md", "summary": "Open when looking up RQItemCollection object in After Effects.", "keywords": ["RQItemCollection object"]},
+  {"topic": "RQItemCollection.add()", "file": "references/scripting/rq-item-collection/add.md", "summary": "Open when looking up RQItemCollection.add() in After Effects.", "keywords": ["RQItemCollection.add()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

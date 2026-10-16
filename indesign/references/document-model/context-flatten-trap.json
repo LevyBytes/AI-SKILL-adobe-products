@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Flattener level references", "file": "references/document-model/flattener-level/reference-index.md", "summary": "Open when looking up Flattener level in InDesign.", "keywords": ["Flattener level references"]},
+  {"topic": "FlattenerPreference", "file": "references/document-model/flattener-preference.md", "summary": "Open when looking up FlattenerPreference in InDesign.", "keywords": ["FlattenerPreference"]},
+  {"topic": "FlattenerPreference references", "file": "references/document-model/flattener-preference/reference-index.md", "summary": "Open when looking up FlattenerPreference in InDesign.", "keywords": ["FlattenerPreference references"]},
+  {"topic": "FlattenerPreset", "file": "references/document-model/flattener-preset.md", "summary": "Open when looking up FlattenerPreset in InDesign.", "keywords": ["FlattenerPreset"]},
+  {"topic": "FlattenerPreset references", "file": "references/document-model/flattener-preset/reference-index.md", "summary": "Open when looking up FlattenerPreset in InDesign.", "keywords": ["FlattenerPreset references"]},
+  {"topic": "FlattenerPresets", "file": "references/document-model/flattener-presets.md", "summary": "Open when looking up FlattenerPresets in InDesign.", "keywords": ["FlattenerPresets"]},
+  {"topic": "FlattenerPresets references", "file": "references/document-model/flattener-presets/reference-index.md", "summary": "Open when looking up FlattenerPresets in InDesign.", "keywords": ["FlattenerPresets references"]},
+  {"topic": "SpreadFlattenerLevel", "file": "references/document-model/spread-flattener-level.md", "summary": "Open when looking up SpreadFlattenerLevel in InDesign.", "keywords": ["SpreadFlattenerLevel"]},
+  {"topic": "SpreadFlattenerLevel references", "file": "references/document-model/spread-flattener-level/reference-index.md", "summary": "Open when looking up SpreadFlattenerLevel in InDesign.", "keywords": ["SpreadFlattenerLevel references"]},
+  {"topic": "TrapEndTypes", "file": "references/document-model/trap-end-types.md", "summary": "Open when looking up TrapEndTypes in InDesign.", "keywords": ["TrapEndTypes"]},
+  {"topic": "TrapEndTypes references", "file": "references/document-model/trap-end-types/reference-index.md", "summary": "Open when looking up TrapEndTypes in InDesign.", "keywords": ["TrapEndTypes references"]},
+  {"topic": "TrapImagePlacementTypes", "file": "references/document-model/trap-image-placement-types.md", "summary": "Open when looking up TrapImagePlacementTypes in InDesign.", "keywords": ["TrapImagePlacementTypes"]},
+  {"topic": "TrapImagePlacementTypes references", "file": "references/document-model/trap-image-placement-types/reference-index.md", "summary": "Open when looking up TrapImagePlacementTypes in InDesign.", "keywords": ["TrapImagePlacementTypes references"]},
+  {"topic": "Trapping references", "file": "references/document-model/trapping/reference-index.md", "summary": "Open when looking up Trapping in InDesign.", "keywords": ["Trapping references"]},
+  {"topic": "TrapPreset", "file": "references/document-model/trap-preset.md", "summary": "Open when looking up TrapPreset in InDesign.", "keywords": ["TrapPreset"]},
+  {"topic": "TrapPreset references", "file": "references/document-model/trap-preset/reference-index.md", "summary": "Open when looking up TrapPreset in InDesign.", "keywords": ["TrapPreset references"]},
+  {"topic": "TrapPresets", "file": "references/document-model/trap-presets.md", "summary": "Open when looking up TrapPresets in InDesign.", "keywords": ["TrapPresets"]},
+  {"topic": "TrapPresets references", "file": "references/document-model/trap-presets/reference-index.md", "summary": "Open when looking up TrapPresets in InDesign.", "keywords": ["TrapPresets references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

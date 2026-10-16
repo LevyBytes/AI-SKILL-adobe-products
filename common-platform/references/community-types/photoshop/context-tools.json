@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ToolType references", "file": "references/community-types/photoshop/tool-type/reference-index.md", "summary": "Open when looking up ToolType in Shared Adobe platform.", "keywords": ["ToolType references"]},
+  {"topic": "OtherPaintingCursors", "file": "references/community-types/photoshop/other-painting-cursors.md", "summary": "Open when looking up OtherPaintingCursors in Shared Adobe platform.", "keywords": ["OtherPaintingCursors"]},
+  {"topic": "PaintingCursors", "file": "references/community-types/photoshop/painting-cursors.md", "summary": "Open when looking up PaintingCursors in Shared Adobe platform.", "keywords": ["PaintingCursors"]},
+  {"topic": "MagnificationType", "file": "references/community-types/photoshop/magnification-type.md", "summary": "Open when looking up MagnificationType in Shared Adobe platform.", "keywords": ["MagnificationType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

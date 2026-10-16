@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ASCENT_TOP_ORIGIN", "file": "references/document-model/paragraph-shading-top-origin-enum/ascenttoporigin.md", "summary": "Open when looking up ASCENT_TOP_ORIGIN in InDesign.", "keywords": ["ASCENT_TOP_ORIGIN"]},
+  {"topic": "BASELINE_TOP_ORIGIN", "file": "references/document-model/paragraph-shading-top-origin-enum/baselinetoporigin.md", "summary": "Open when looking up BASELINE_TOP_ORIGIN in InDesign.", "keywords": ["BASELINE_TOP_ORIGIN"]},
+  {"topic": "LEADING_TOP_ORIGIN", "file": "references/document-model/paragraph-shading-top-origin-enum/leadingtoporigin.md", "summary": "Open when looking up LEADING_TOP_ORIGIN in InDesign.", "keywords": ["LEADING_TOP_ORIGIN"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

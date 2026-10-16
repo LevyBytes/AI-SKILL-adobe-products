@@ -1,0 +1,23 @@
+# InDesign — TOCStyleEntry
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up formatStyle in InDesign. [formatStyle](format-style.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up level in InDesign. [level](level.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up pageNumberPosition in InDesign. [pageNumberPosition](page-number-position.md).
+- Open when looking up pageNumberStyle in InDesign. [pageNumberStyle](page-number-style.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up remove in InDesign. [remove](remove.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up separator in InDesign. [separator](separator.md).
+- Open when looking up separatorStyle in InDesign. [separatorStyle](separator-style.md).
+- Open when looking up sortAlphabet in InDesign. [sortAlphabet](sort-alphabet.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

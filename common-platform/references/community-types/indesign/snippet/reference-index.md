@@ -1,0 +1,36 @@
+# Shared Adobe platform — Snippet
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Snippet declaration in Shared Adobe platform. [Snippet declaration](declaration.md).
+- Open when looking up Snippet event listeners in Shared Adobe platform. [Snippet event listeners](event-listeners.md).
+- Open when looking up Snippet identity and parent in Shared Adobe platform. [Snippet identity and parent](identity-and-parent.md).
+- Open when looking up Snippet labels and metadata in Shared Adobe platform. [Snippet labels and metadata](labels-and-metadata.md).
+- Open when looking up Snippet object resolution in Shared Adobe platform. [Snippet object resolution](object-resolution.md).
+- Open when looking up Snippet.BEFORE_PLACE in Shared Adobe platform. [Snippet.BEFORE_PLACE](beforeplace.md).
+- Open when looking up Snippet.buttons in Shared Adobe platform. [Snippet.buttons](buttons.md).
+- Open when looking up Snippet.checkBoxes in Shared Adobe platform. [Snippet.checkBoxes](check-boxes.md).
+- Open when looking up Snippet.comboBoxes in Shared Adobe platform. [Snippet.comboBoxes](combo-boxes.md).
+- Open when looking up Snippet.epss in Shared Adobe platform. [Snippet.epss](epss.md).
+- Open when looking up Snippet.epstexts in Shared Adobe platform. [Snippet.epstexts](epstexts.md).
+- Open when looking up Snippet.formFields in Shared Adobe platform. [Snippet.formFields](form-fields.md).
+- Open when looking up Snippet.graphicLines in Shared Adobe platform. [Snippet.graphicLines](graphic-lines.md).
+- Open when looking up Snippet.graphics in Shared Adobe platform. [Snippet.graphics](graphics.md).
+- Open when looking up Snippet.groups in Shared Adobe platform. [Snippet.groups](groups.md).
+- Open when looking up Snippet.images in Shared Adobe platform. [Snippet.images](images.md).
+- Open when looking up Snippet.listBoxes in Shared Adobe platform. [Snippet.listBoxes](list-boxes.md).
+- Open when looking up Snippet.multiStateObjects in Shared Adobe platform. [Snippet.multiStateObjects](multi-state-objects.md).
+- Open when looking up Snippet.ovals in Shared Adobe platform. [Snippet.ovals](ovals.md).
+- Open when looking up Snippet.pageItems in Shared Adobe platform. [Snippet.pageItems](page-items.md).
+- Open when looking up Snippet.pdfs in Shared Adobe platform. [Snippet.pdfs](pdfs.md).
+- Open when looking up Snippet.picts in Shared Adobe platform. [Snippet.picts](picts.md).
+- Open when looking up Snippet.polygons in Shared Adobe platform. [Snippet.polygons](polygons.md).
+- Open when looking up Snippet.properties in Shared Adobe platform. [Snippet.properties](properties.md).
+- Open when looking up Snippet.radioButtons in Shared Adobe platform. [Snippet.radioButtons](radio-buttons.md).
+- Open when looking up Snippet.rectangles in Shared Adobe platform. [Snippet.rectangles](rectangles.md).
+- Open when looking up Snippet.remove in Shared Adobe platform. [Snippet.remove](remove.md).
+- Open when looking up Snippet.signatureFields in Shared Adobe platform. [Snippet.signatureFields](signature-fields.md).
+- Open when looking up Snippet.splineItems in Shared Adobe platform. [Snippet.splineItems](spline-items.md).
+- Open when looking up Snippet.svgs in Shared Adobe platform. [Snippet.svgs](svgs.md).
+- Open when looking up Snippet.textBoxes in Shared Adobe platform. [Snippet.textBoxes](text-boxes.md).
+- Open when looking up Snippet.textFrames in Shared Adobe platform. [Snippet.textFrames](text-frames.md).
+- Open when looking up Snippet.wmfs in Shared Adobe platform. [Snippet.wmfs](wmfs.md).

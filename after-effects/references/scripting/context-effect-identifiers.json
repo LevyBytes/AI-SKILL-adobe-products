@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "3 d channel references", "file": "references/scripting/3-d-channel/reference-index.md", "summary": "Open when looking up 3 d channel in After Effects.", "keywords": ["3 d channel references"]},
+  {"topic": "Audio references", "file": "references/scripting/audio/reference-index.md", "summary": "Open when looking up Audio in After Effects.", "keywords": ["Audio references"]},
+  {"topic": "Blur sharpen references", "file": "references/scripting/blur-sharpen/reference-index.md", "summary": "Open when looking up Blur sharpen in After Effects.", "keywords": ["Blur sharpen references"]},
+  {"topic": "Channel references", "file": "references/scripting/channel/reference-index.md", "summary": "Open when looking up Channel in After Effects.", "keywords": ["Channel references"]},
+  {"topic": "Color correction references", "file": "references/scripting/color-correction/reference-index.md", "summary": "Open when looking up Color correction in After Effects.", "keywords": ["Color correction references"]},
+  {"topic": "Distort references", "file": "references/scripting/distort/reference-index.md", "summary": "Open when looking up Distort in After Effects.", "keywords": ["Distort references"]},
+  {"topic": "Expression controls references", "file": "references/scripting/expression-controls/reference-index.md", "summary": "Open when looking up Expression controls in After Effects.", "keywords": ["Expression controls references"]},
+  {"topic": "First-Party Effect Match Names", "file": "references/scripting/first-party-effect-match-names.md", "summary": "Open when looking up First-Party Effect Match Names in After Effects.", "keywords": ["First-Party Effect Match Names"]},
+  {"topic": "Generate references", "file": "references/scripting/generate/reference-index.md", "summary": "Open when looking up Generate in After Effects.", "keywords": ["Generate references"]},
+  {"topic": "Keying references", "file": "references/scripting/keying/reference-index.md", "summary": "Open when looking up Keying in After Effects.", "keywords": ["Keying references"]},
+  {"topic": "Matte references", "file": "references/scripting/matte/reference-index.md", "summary": "Open when looking up Matte in After Effects.", "keywords": ["Matte references"]},
+  {"topic": "Noise grain references", "file": "references/scripting/noise-grain/reference-index.md", "summary": "Open when looking up Noise grain in After Effects.", "keywords": ["Noise grain references"]},
+  {"topic": "Obsolete references", "file": "references/scripting/obsolete/reference-index.md", "summary": "Open when looking up Obsolete in After Effects.", "keywords": ["Obsolete references"]},
+  {"topic": "Perspective references", "file": "references/scripting/perspective/reference-index.md", "summary": "Open when looking up Perspective in After Effects.", "keywords": ["Perspective references"]},
+  {"topic": "Simulation references", "file": "references/scripting/simulation/reference-index.md", "summary": "Open when looking up Simulation in After Effects.", "keywords": ["Simulation references"]},
+  {"topic": "Stylize references", "file": "references/scripting/stylize/reference-index.md", "summary": "Open when looking up Stylize in After Effects.", "keywords": ["Stylize references"]},
+  {"topic": "Synthetic aperture references", "file": "references/scripting/synthetic-aperture/reference-index.md", "summary": "Open when looking up Synthetic aperture in After Effects.", "keywords": ["Synthetic aperture references"]},
+  {"topic": "Time references", "file": "references/scripting/time/reference-index.md", "summary": "Open when looking up Time in After Effects.", "keywords": ["Time references"]},
+  {"topic": "Transition references", "file": "references/scripting/transition/reference-index.md", "summary": "Open when looking up Transition in After Effects.", "keywords": ["Transition references"]},
+  {"topic": "Utility references", "file": "references/scripting/utility/reference-index.md", "summary": "Open when looking up Utility in After Effects.", "keywords": ["Utility references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

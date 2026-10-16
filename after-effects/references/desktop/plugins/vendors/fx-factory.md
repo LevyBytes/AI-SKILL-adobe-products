@@ -1,0 +1,79 @@
+# FxFactory
+
+FxFactory drives a huge lineup of visual effects, audio plugins, and apps built for video editors.
+
+- FxFactory Pro
+- Photo Montage
+- Light Show
+- Caption Burner
+- Caption Converter
+- Wipology
+- Block Party
+- Pan and Zoom
+- Manifesto
+- Star Titler
+- Storm
+- Nodes 3
+- Mosaic
+- Motype
+- Moods
+- Barcode
+- Hawaiki Analyzer
+- Hawaiki AutoGrade
+- Hawaiki AutoMatch
+- Hawaiki AutoSplit
+- Hawaiki Keyer 4.5
+- Hawaiki Super Glow
+- Film Leaders 2
+- Grunge Effects
+- Light Kit 2
+- Light Leaks
+- Lo-Fi Look
+- Random Text
+- Spectrum
+- Sprocket Slip
+- Decimal Counter
+- ParticleMetrix
+- Volumetrix
+- SupaWipe
+- Light Pack
+- MagiMoto
+- Revolve 360
+- Rolling Credits
+- Subtitles
+- ViewFinder HUD
+- Artitude
+- Cinemage
+- Look Sweet
+- Makeup Artist 3
+- Movie Color
+- Vintage
+- Bounce
+- Contrast
+- Film Transitions
+- Levels and Curves
+- Shatter
+- Video Scrapbook
+- Z DFISH
+- Z Flow
+- Z Fold
+- Z Geode
+- Z Halo Bender
+- Z PATTR
+- Z Painterly Transition
+- Z COLR
+- Z Multi View
+- Blaster Bolt
+- Blaster Bolt FREE
+- Saber Blade
+- Saber Blade FREE
+- Space Wipes
+- 1 Matte Mask
+- 9 Slice Scale
+- FxTiles
+- Andy's Better 3D
+- Andy's Elastic Aspect
+- Andy's Gradient Filter
+- Andy's Region Tool
+- Andy's Safe Guides
+- Andy's Swish Transistions

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "exportAsText", "file": "references/scripting/doc/export-as-text.md", "summary": "Open when looking up exportAsText in Acrobat.", "keywords": ["exportAsText"]},
+  {"topic": "getPageNthWord", "file": "references/scripting/doc/get-page-nth-word.md", "summary": "Open when looking up getPageNthWord in Acrobat.", "keywords": ["getPageNthWord"]},
+  {"topic": "getPageNthWordQuads", "file": "references/scripting/doc/get-page-nth-word-quads.md", "summary": "Open when looking up getPageNthWordQuads in Acrobat.", "keywords": ["getPageNthWordQuads"]},
+  {"topic": "getPageNumWords", "file": "references/scripting/doc/get-page-num-words.md", "summary": "Open when looking up getPageNumWords in Acrobat.", "keywords": ["getPageNumWords"]},
+  {"topic": "selectPageNthWord", "file": "references/scripting/doc/select-page-nth-word.md", "summary": "Open when looking up selectPageNthWord in Acrobat.", "keywords": ["selectPageNthWord"]},
+  {"topic": "spellDictionaryOrder", "file": "references/scripting/doc/spell-dictionary-order.md", "summary": "Open when looking up spellDictionaryOrder in Acrobat.", "keywords": ["spellDictionaryOrder"]},
+  {"topic": "spellLanguageOrder", "file": "references/scripting/doc/spell-language-order.md", "summary": "Open when looking up spellLanguageOrder in Acrobat.", "keywords": ["spellLanguageOrder"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

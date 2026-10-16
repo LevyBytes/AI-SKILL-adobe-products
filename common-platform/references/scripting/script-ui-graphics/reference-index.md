@@ -1,0 +1,31 @@
+# Shared Adobe platform — Script ui graphics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up backgroundColor in Shared Adobe platform. [backgroundColor](background-color.md).
+- Open when looking up BrushType in Shared Adobe platform. [BrushType](brush-type.md).
+- Open when looking up closePath() in Shared Adobe platform. [closePath()](close-path.md).
+- Open when looking up currentPath in Shared Adobe platform. [currentPath](current-path.md).
+- Open when looking up currentPoint in Shared Adobe platform. [currentPoint](current-point.md).
+- Open when looking up disabledBackgroundColor in Shared Adobe platform. [disabledBackgroundColor](disabled-background-color.md).
+- Open when looking up disabledForegroundColor in Shared Adobe platform. [disabledForegroundColor](disabled-foreground-color.md).
+- Open when looking up drawFocusRing() in Shared Adobe platform. [drawFocusRing()](draw-focus-ring.md).
+- Open when looking up drawImage() in Shared Adobe platform. [drawImage()](draw-image.md).
+- Open when looking up drawOSControl() in Shared Adobe platform. [drawOSControl()](draw-os-control.md).
+- Open when looking up drawString() in Shared Adobe platform. [drawString()](draw-string.md).
+- Open when looking up ellipsePath() in Shared Adobe platform. [ellipsePath()](ellipse-path.md).
+- Open when looking up fillPath() in Shared Adobe platform. [fillPath()](fill-path.md).
+- Open when looking up font in Shared Adobe platform. [font](font.md).
+- Open when looking up foregroundColor in Shared Adobe platform. [foregroundColor](foreground-color.md).
+- Open when looking up Graphic customization objects — ScriptUIGraphics Object in Shared Adobe platform. [Graphic customization objects — ScriptUIGraphics Object](graphic-customization-objects-script-ui-graphics-object.md).
+- Open when looking up lineto() in Shared Adobe platform. [lineto()](lineto.md).
+- Open when looking up measureString() in Shared Adobe platform. [measureString()](measure-string.md).
+- Open when looking up moveto() in Shared Adobe platform. [moveto()](moveto.md).
+- Open when looking up newBrush() in Shared Adobe platform. [newBrush()](new-brush.md).
+- Open when looking up newPath() in Shared Adobe platform. [newPath()](new-path.md).
+- Open when looking up newPen() in Shared Adobe platform. [newPen()](new-pen.md).
+- Open when looking up PenType in Shared Adobe platform. [PenType](pen-type.md).
+- Open when looking up rectPath() in Shared Adobe platform. [rectPath()](rect-path.md).
+- Open when looking up ScriptUIGraphics Class Attributes in Shared Adobe platform. [ScriptUIGraphics Class Attributes](script-ui-graphics-class-attributes.md).
+- Open when looking up ScriptUIGraphics Object Attributes in Shared Adobe platform. [ScriptUIGraphics Object Attributes](script-ui-graphics-object-attributes.md).
+- Open when looking up ScriptUIGraphics Object Methods in Shared Adobe platform. [ScriptUIGraphics Object Methods](script-ui-graphics-object-methods.md).
+- Open when looking up strokePath() in Shared Adobe platform. [strokePath()](stroke-path.md).

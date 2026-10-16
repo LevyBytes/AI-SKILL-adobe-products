@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Spots.add()", "file": "references/scripting/spots/add.md", "summary": "Open when looking up Spots.add() in Illustrator.", "keywords": ["Spots.add()"]},
+  {"topic": "Spots.getByName()", "file": "references/scripting/spots/get-by-name.md", "summary": "Open when looking up Spots.getByName() in Illustrator.", "keywords": ["Spots.getByName()"]},
+  {"topic": "Spots.index()", "file": "references/scripting/spots/index.md", "summary": "Open when looking up Spots.index() in Illustrator.", "keywords": ["Spots.index()"]},
+  {"topic": "Spots.length", "file": "references/scripting/spots/length.md", "summary": "Open when looking up Spots.length in Illustrator.", "keywords": ["Spots.length"]},
+  {"topic": "Spots.parent", "file": "references/scripting/spots/parent.md", "summary": "Open when looking up Spots.parent in Illustrator.", "keywords": ["Spots.parent"]},
+  {"topic": "Spots.removeAll()", "file": "references/scripting/spots/remove-all.md", "summary": "Open when looking up Spots.removeAll() in Illustrator.", "keywords": ["Spots.removeAll()"]},
+  {"topic": "Spots.typename", "file": "references/scripting/spots/typename.md", "summary": "Open when looking up Spots.typename in Illustrator.", "keywords": ["Spots.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

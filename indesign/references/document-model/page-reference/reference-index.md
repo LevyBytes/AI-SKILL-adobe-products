@@ -1,0 +1,24 @@
+# InDesign — PageReference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up extractLabel in InDesign. [extractLabel](extract-label.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up insertLabel in InDesign. [insertLabel](insert-label.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up label in InDesign. [label](label.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up pageNumberStyleOverride in InDesign. [pageNumberStyleOverride](page-number-style-override.md).
+- Open when looking up pageReferenceLimit in InDesign. [pageReferenceLimit](page-reference-limit.md).
+- Open when looking up pageReferenceType in InDesign. [pageReferenceType](page-reference-type.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up remove in InDesign. [remove](remove.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up sourceText in InDesign. [sourceText](source-text.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

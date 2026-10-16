@@ -1,0 +1,21 @@
+# MECHANICAL
+
+- Algorithm Loop
+- Algorithm
+- Automation
+- Bad Reception
+- Doppler
+- Electro Magnet
+- Helicopter
+- Insert Text
+- Kinematic
+- Mechanical
+- Pistons
+- Rack & Pinion
+- Roadtrip
+- Scale Bounce
+- Screen Roll
+- Stairstep
+- Submarine
+- Underscore
+- Warp 9.8

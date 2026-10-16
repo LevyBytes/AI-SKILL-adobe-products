@@ -1,0 +1,5 @@
+# fillTint
+
+> Number **fillTint**
+>
+> Tint percentage for the CheckBox fill color. Use a number from 0 to 100 for a tint percent, or -1 for the inherited or overridden value.

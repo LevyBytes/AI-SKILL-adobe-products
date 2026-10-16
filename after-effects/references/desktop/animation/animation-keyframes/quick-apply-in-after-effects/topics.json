@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Animation Presets", "file": "references/desktop/animation/animation-keyframes/quick-apply-in-after-effects/animation-presets.md", "summary": "Open when looking up Animation Presets in After Effects.", "keywords": ["Animation Presets"]},
+  {"topic": "Effects", "file": "references/desktop/animation/animation-keyframes/quick-apply-in-after-effects/effects.md", "summary": "Open when looking up Effects in After Effects.", "keywords": ["Effects"]},
+  {"topic": "Menu Commands", "file": "references/desktop/animation/animation-keyframes/quick-apply-in-after-effects/menu-commands.md", "summary": "Open when looking up Menu Commands in After Effects.", "keywords": ["Menu Commands"]},
+  {"topic": "Quick Apply overview", "file": "references/desktop/animation/animation-keyframes/quick-apply-in-after-effects/quick-apply-overview.md", "summary": "Open when looking up Quick Apply overview in After Effects.", "keywords": ["Quick Apply overview"]},
+  {"topic": "Search and apply using Quick Apply", "file": "references/desktop/animation/animation-keyframes/quick-apply-in-after-effects/search-and-apply-using-quick-apply.md", "summary": "Open when looking up Search and apply using Quick Apply in After Effects.", "keywords": ["Search and apply using Quick Apply"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

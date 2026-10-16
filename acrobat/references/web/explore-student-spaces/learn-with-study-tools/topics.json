@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Multimedia study tools", "file": "references/web/explore-student-spaces/learn-with-study-tools/multimedia-study-tools.md", "summary": "Open when looking up Multimedia study tools in Acrobat.", "keywords": ["Multimedia study tools"]},
+  {"topic": "Multimedia study tools references", "file": "references/web/explore-student-spaces/learn-with-study-tools/multimedia-study-tools/reference-index.md", "summary": "Open when looking up Multimedia study tools in Acrobat.", "keywords": ["Multimedia study tools references"]},
+  {"topic": "Text-based study tools", "file": "references/web/explore-student-spaces/learn-with-study-tools/text-based-study-tools.md", "summary": "Open when looking up Text-based study tools in Acrobat.", "keywords": ["Text-based study tools"]},
+  {"topic": "Text-based study tools references", "file": "references/web/explore-student-spaces/learn-with-study-tools/text-based-study-tools/reference-index.md", "summary": "Open when looking up Text-based study tools in Acrobat.", "keywords": ["Text-based study tools references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

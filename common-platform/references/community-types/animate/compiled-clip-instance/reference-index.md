@@ -1,0 +1,28 @@
+# Shared Adobe platform — CompiledClipInstance
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CompiledClipInstance declaration in Shared Adobe platform. [CompiledClipInstance declaration](declaration.md).
+- Open when looking up CompiledClipInstance.accName in Shared Adobe platform. [CompiledClipInstance.accName](acc-name.md).
+- Open when looking up CompiledClipInstance.backgroundColor in Shared Adobe platform. [CompiledClipInstance.backgroundColor](background-color.md).
+- Open when looking up CompiledClipInstance.blendMode in Shared Adobe platform. [CompiledClipInstance.blendMode](blend-mode.md).
+- Open when looking up CompiledClipInstance.brightness in Shared Adobe platform. [CompiledClipInstance.brightness](brightness.md).
+- Open when looking up CompiledClipInstance.cacheAsBitmap in Shared Adobe platform. [CompiledClipInstance.cacheAsBitmap](cache-as-bitmap.md).
+- Open when looking up CompiledClipInstance.colorAlphaAmount in Shared Adobe platform. [CompiledClipInstance.colorAlphaAmount](color-alpha-amount.md).
+- Open when looking up CompiledClipInstance.colorAlphaPercent in Shared Adobe platform. [CompiledClipInstance.colorAlphaPercent](color-alpha-percent.md).
+- Open when looking up CompiledClipInstance.colorBlueAmount in Shared Adobe platform. [CompiledClipInstance.colorBlueAmount](color-blue-amount.md).
+- Open when looking up CompiledClipInstance.colorBluePercent in Shared Adobe platform. [CompiledClipInstance.colorBluePercent](color-blue-percent.md).
+- Open when looking up CompiledClipInstance.colorGreenAmount in Shared Adobe platform. [CompiledClipInstance.colorGreenAmount](color-green-amount.md).
+- Open when looking up CompiledClipInstance.colorGreenPercent in Shared Adobe platform. [CompiledClipInstance.colorGreenPercent](color-green-percent.md).
+- Open when looking up CompiledClipInstance.colorMode in Shared Adobe platform. [CompiledClipInstance.colorMode](color-mode.md).
+- Open when looking up CompiledClipInstance.colorRedAmount in Shared Adobe platform. [CompiledClipInstance.colorRedAmount](color-red-amount.md).
+- Open when looking up CompiledClipInstance.colorRedPercent in Shared Adobe platform. [CompiledClipInstance.colorRedPercent](color-red-percent.md).
+- Open when looking up CompiledClipInstance.description in Shared Adobe platform. [CompiledClipInstance.description](description.md).
+- Open when looking up CompiledClipInstance.filters in Shared Adobe platform. [CompiledClipInstance.filters](filters.md).
+- Open when looking up CompiledClipInstance.forceSimple in Shared Adobe platform. [CompiledClipInstance.forceSimple](force-simple.md).
+- Open when looking up CompiledClipInstance.shortcut in Shared Adobe platform. [CompiledClipInstance.shortcut](shortcut.md).
+- Open when looking up CompiledClipInstance.silent in Shared Adobe platform. [CompiledClipInstance.silent](silent.md).
+- Open when looking up CompiledClipInstance.tabIndex in Shared Adobe platform. [CompiledClipInstance.tabIndex](tab-index.md).
+- Open when looking up CompiledClipInstance.tintColor in Shared Adobe platform. [CompiledClipInstance.tintColor](tint-color.md).
+- Open when looking up CompiledClipInstance.tintPercent in Shared Adobe platform. [CompiledClipInstance.tintPercent](tint-percent.md).
+- Open when looking up CompiledClipInstance.useBackgroundColor in Shared Adobe platform. [CompiledClipInstance.useBackgroundColor](use-background-color.md).
+- Open when looking up CompiledClipInstance.visible in Shared Adobe platform. [CompiledClipInstance.visible](visible.md).

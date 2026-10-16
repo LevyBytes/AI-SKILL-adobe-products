@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Generate QR codes", "file": "references/desktop/interactive-elements-and-forms/qr-codes/generate-qr-codes.md", "summary": "Open when looking up Generate QR codes in InDesign.", "keywords": ["Generate QR codes"]},
+  {"topic": "Modify and style QR codes", "file": "references/desktop/interactive-elements-and-forms/qr-codes/modify-and-style-qr-codes.md", "summary": "Open when looking up Modify and style QR codes in InDesign.", "keywords": ["Modify and style QR codes"]},
+  {"topic": "Modify and style QR codes references", "file": "references/desktop/interactive-elements-and-forms/qr-codes/modify-and-style-qr-codes/reference-index.md", "summary": "Open when looking up Modify and style QR codes in InDesign.", "keywords": ["Modify and style QR codes references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

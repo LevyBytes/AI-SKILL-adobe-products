@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Enhancements and limitations", "file": "references/desktop/save-export-and-publish/export-to-epub/adjust-text-resizing-for-accessibility/enhancements-and-limitations.md", "summary": "Open when looking up Enhancements and limitations in InDesign.", "keywords": ["Enhancements and limitations"]},
+  {"topic": "Prevent text clipping across the document", "file": "references/desktop/save-export-and-publish/export-to-epub/adjust-text-resizing-for-accessibility/prevent-text-clipping-across-the-document.md", "summary": "Open when looking up Prevent text clipping across the document in InDesign.", "keywords": ["Prevent text clipping across the document"]},
+  {"topic": "Prevent text clipping for the selected frame", "file": "references/desktop/save-export-and-publish/export-to-epub/adjust-text-resizing-for-accessibility/prevent-text-clipping-for-the-selected-frame.md", "summary": "Open when looking up Prevent text clipping for the selected frame in InDesign.", "keywords": ["Prevent text clipping for the selected frame"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

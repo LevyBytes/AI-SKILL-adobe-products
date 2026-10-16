@@ -1,0 +1,22 @@
+# Photoshop — Validation checklist
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Action operations specific in Photoshop. [Action operations specific](action-operations-specific.md).
+- Open when looking up Adjustment layer operations specific in Photoshop. [Adjustment layer operations specific](adjustment-layer-operations-specific.md).
+- Open when looking up Artboard operations specific in Photoshop. [Artboard operations specific](artboard-operations-specific.md).
+- Open when looking up Authentication in Photoshop. [Authentication](authentication.md).
+- Open when looking up Document creation specific in Photoshop. [Document creation specific](document-creation-specific.md).
+- Open when looking up Edit operations specific in Photoshop. [Edit operations specific](edit-operations-specific.md).
+- Open when looking up Export layers specific in Photoshop. [Export layers specific](export-layers-specific.md).
+- Open when looking up ICC profile specific in Photoshop. [ICC profile specific](icc-profile-specific.md).
+- Open when looking up Layer operations specific in Photoshop. [Layer operations specific](layer-operations-specific.md).
+- Open when looking up Output configuration in Photoshop. [Output configuration](output-configuration.md).
+- Open when looking up Output configuration: JPEG specific in Photoshop. [Output configuration: JPEG specific](output-configuration-jpeg-specific.md).
+- Open when looking up Output configuration: PNG specific in Photoshop. [Output configuration: PNG specific](output-configuration-png-specific.md).
+- Open when looking up Output configuration: PSD/TIFF specific in Photoshop. [Output configuration: PSD/TIFF specific](output-configuration-psd-tiff-specific.md).
+- Open when looking up Request structure in Photoshop. [Request structure](request-structure.md).
+- Open when looking up Smart object layer operations specific in Photoshop. [Smart object layer operations specific](smart-object-layer-operations-specific.md).
+- Open when looking up Status checking in Photoshop. [Status checking](status-checking.md).
+- Open when looking up Storage configuration in Photoshop. [Storage configuration](storage-configuration.md).
+- Open when looking up Text endpoint migration specific (/pie/psdService/text) in Photoshop. [Text endpoint migration specific (/pie/psdService/text)](text-endpoint-migration-specific-pie-psd-service-text.md).
+- Open when looking up Text layer operations specific in Photoshop. [Text layer operations specific](text-layer-operations-specific.md).

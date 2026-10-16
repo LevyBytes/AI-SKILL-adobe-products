@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BULLET_LIST", "file": "references/document-model/list-type/bulletlist.md", "summary": "Open when looking up BULLET_LIST in InDesign.", "keywords": ["BULLET_LIST"]},
+  {"topic": "NO_LIST", "file": "references/document-model/list-type/nolist.md", "summary": "Open when looking up NO_LIST in InDesign.", "keywords": ["NO_LIST"]},
+  {"topic": "NUMBERED_LIST", "file": "references/document-model/list-type/numberedlist.md", "summary": "Open when looking up NUMBERED_LIST in InDesign.", "keywords": ["NUMBERED_LIST"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

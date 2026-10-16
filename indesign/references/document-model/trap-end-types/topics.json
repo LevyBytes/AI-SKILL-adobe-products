@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "MITER_TRAP_ENDS", "file": "references/document-model/trap-end-types/mitertrapends.md", "summary": "Open when looking up MITER_TRAP_ENDS in InDesign.", "keywords": ["MITER_TRAP_ENDS"]},
+  {"topic": "OVERLAP_TRAP_ENDS", "file": "references/document-model/trap-end-types/overlaptrapends.md", "summary": "Open when looking up OVERLAP_TRAP_ENDS in InDesign.", "keywords": ["OVERLAP_TRAP_ENDS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

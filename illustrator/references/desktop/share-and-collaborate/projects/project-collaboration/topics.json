@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Add and manage Illustrator cloud documents in a project", "file": "references/desktop/share-and-collaborate/projects/project-collaboration/add-and-manage-illustrator-cloud-documents-in-a-project.md", "summary": "Open when looking up Add and manage Illustrator cloud documents in a project in Illustrator.", "keywords": ["Add and manage Illustrator cloud documents in a project"]},
+  {"topic": "Create a project and invite collaborators", "file": "references/desktop/share-and-collaborate/projects/project-collaboration/create-a-project-and-invite-collaborators.md", "summary": "Open when looking up Create a project and invite collaborators in Illustrator.", "keywords": ["Create a project and invite collaborators"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

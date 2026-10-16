@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Components of a project folder", "file": "references/desktop/overview-of-projects/components-of-a-project-folder.md", "summary": "Open when looking up Components of a project folder in Premiere Pro.", "keywords": ["Components of a project folder"]},
+  {"topic": "Name a file", "file": "references/desktop/overview-of-projects/name-a-file.md", "summary": "Open when looking up Name a file in Premiere Pro.", "keywords": ["Name a file"]},
+  {"topic": "Premiere project file", "file": "references/desktop/overview-of-projects/premiere-project-file.md", "summary": "Open when looking up Premiere project file in Premiere Pro.", "keywords": ["Premiere project file"]},
+  {"topic": "Project panel", "file": "references/desktop/overview-of-projects/project-panel.md", "summary": "Open when looking up Project panel in Premiere Pro.", "keywords": ["Project panel"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

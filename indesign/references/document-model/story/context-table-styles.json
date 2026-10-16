@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "cellStyleMappings", "file": "references/document-model/story/cell-style-mappings.md", "summary": "Open when looking up cellStyleMappings in InDesign.", "keywords": ["cellStyleMappings"]},
+  {"topic": "tableStyleMappings", "file": "references/document-model/story/table-style-mappings.md", "summary": "Open when looking up tableStyleMappings in InDesign.", "keywords": ["tableStyleMappings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

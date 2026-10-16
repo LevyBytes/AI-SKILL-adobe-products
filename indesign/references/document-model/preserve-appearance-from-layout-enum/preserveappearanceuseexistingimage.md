@@ -1,0 +1,7 @@
+# PRESERVE_APPEARANCE_USE_EXISTING_IMAGE
+
+> _Read Only_
+>
+> Number `PRESERVE_APPEARANCE_USE_EXISTING_IMAGE` = 1349670245
+>
+> Uses the existing image.

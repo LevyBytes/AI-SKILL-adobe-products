@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "bottomCrop", "file": "references/document-model/change-object-preference/bottom-crop.md", "summary": "Open when looking up bottomCrop in InDesign.", "keywords": ["bottomCrop"]},
+  {"topic": "contourType", "file": "references/document-model/change-object-preference/contour-type.md", "summary": "Open when looking up contourType in InDesign.", "keywords": ["contourType"]},
+  {"topic": "fittingAlignment", "file": "references/document-model/change-object-preference/fitting-alignment.md", "summary": "Open when looking up fittingAlignment in InDesign.", "keywords": ["fittingAlignment"]},
+  {"topic": "fittingOnEmptyFrame", "file": "references/document-model/change-object-preference/fitting-on-empty-frame.md", "summary": "Open when looking up fittingOnEmptyFrame in InDesign.", "keywords": ["fittingOnEmptyFrame"]},
+  {"topic": "includeInsideEdges", "file": "references/document-model/change-object-preference/include-inside-edges.md", "summary": "Open when looking up includeInsideEdges in InDesign.", "keywords": ["includeInsideEdges"]},
+  {"topic": "inverse", "file": "references/document-model/change-object-preference/inverse.md", "summary": "Open when looking up inverse in InDesign.", "keywords": ["inverse"]},
+  {"topic": "leftCrop", "file": "references/document-model/change-object-preference/left-crop.md", "summary": "Open when looking up leftCrop in InDesign.", "keywords": ["leftCrop"]},
+  {"topic": "rightCrop", "file": "references/document-model/change-object-preference/right-crop.md", "summary": "Open when looking up rightCrop in InDesign.", "keywords": ["rightCrop"]},
+  {"topic": "topCrop", "file": "references/document-model/change-object-preference/top-crop.md", "summary": "Open when looking up topCrop in InDesign.", "keywords": ["topCrop"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

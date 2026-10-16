@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Before you begin", "file": "references/web/edit-videos-using-text-prompts/before-you-begin.md", "summary": "Open when looking up Before you begin in Firefly.", "keywords": ["Before you begin"]},
+  {"topic": "Edit video using Kling 3.0 Omni", "file": "references/web/edit-videos-using-text-prompts/edit-video-using-kling-3-0-omni.md", "summary": "Open when looking up Edit video using Kling 3.0 Omni in Firefly.", "keywords": ["Edit video using Kling 3.0 Omni"]},
+  {"topic": "Edit video using Ray3 Modify", "file": "references/web/edit-videos-using-text-prompts/edit-video-using-ray3-modify.md", "summary": "Open when looking up Edit video using Ray3 Modify in Firefly.", "keywords": ["Edit video using Ray3 Modify"]},
+  {"topic": "Edit video using Ray3.14 Modify", "file": "references/web/edit-videos-using-text-prompts/edit-video-using-ray3-14-modify.md", "summary": "Open when looking up Edit video using Ray3.14 Modify in Firefly.", "keywords": ["Edit video using Ray3.14 Modify"]},
+  {"topic": "Edit video using Runway Gen-4 Aleph", "file": "references/web/edit-videos-using-text-prompts/edit-video-using-runway-gen-4-aleph.md", "summary": "Open when looking up Edit video using Runway Gen-4 Aleph in Firefly.", "keywords": ["Edit video using Runway Gen-4 Aleph"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

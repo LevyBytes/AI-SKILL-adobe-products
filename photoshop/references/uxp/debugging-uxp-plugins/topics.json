@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "CSS Problems", "file": "references/uxp/debugging-uxp-plugins/css-problems.md", "summary": "Open when looking up CSS Problems in Photoshop.", "keywords": ["CSS Problems"]},
+  {"topic": "Debugging Tools", "file": "references/uxp/debugging-uxp-plugins/debugging-tools.md", "summary": "Open when looking up Debugging Tools in Photoshop.", "keywords": ["Debugging Tools"]},
+  {"topic": "Gremlins", "file": "references/uxp/debugging-uxp-plugins/gremlins.md", "summary": "Open when looking up Gremlins in Photoshop.", "keywords": ["Gremlins"]},
+  {"topic": "Installation Problems", "file": "references/uxp/debugging-uxp-plugins/installation-problems.md", "summary": "Open when looking up Installation Problems in Photoshop.", "keywords": ["Installation Problems"]},
+  {"topic": "JavaScript Problems", "file": "references/uxp/debugging-uxp-plugins/java-script-problems.md", "summary": "Open when looking up JavaScript Problems in Photoshop.", "keywords": ["JavaScript Problems"]},
+  {"topic": "Manifest Problems", "file": "references/uxp/debugging-uxp-plugins/manifest-problems.md", "summary": "Open when looking up Manifest Problems in Photoshop.", "keywords": ["Manifest Problems"]},
+  {"topic": "Not Watching", "file": "references/uxp/debugging-uxp-plugins/not-watching.md", "summary": "Open when looking up Not Watching in Photoshop.", "keywords": ["Not Watching"]},
+  {"topic": "Why Doesn't My Plugin Work?", "file": "references/uxp/debugging-uxp-plugins/why-doesn-t-my-plugin-work.md", "summary": "Open when looking up Why Doesn't My Plugin Work? in Photoshop.", "keywords": ["Why Doesn't My Plugin Work?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

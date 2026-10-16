@@ -1,0 +1,25 @@
+# Illustrator — Apply transparency and blending
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust transparency using opacity masks in Illustrator. [Adjust transparency using opacity masks](adjust-transparency-using-opacity-masks.md).
+- Open when looking up Adjust transparency using opacity masks in Illustrator. [Adjust transparency using opacity masks references](opacity-masks/reference-index.md).
+- Open when looking up Blend Options overview in Illustrator. [Blend Options overview](blend-options-overview.md).
+- Open when looking up Blended objects overview in Illustrator. [Blended objects overview](blended-objects-overview.md).
+- Open when looking up Blended objects overview in Illustrator. [Blended objects overview references](blended-objects-overview/reference-index.md).
+- Open when looking up Blending mode types in Illustrator. [Blending mode types](blending-mode-types.md).
+- Open when looking up Change and manage blending modes in Illustrator. [Change and manage blending modes](change-and-manage-blending-modes.md).
+- Open when looking up Clip and invert opacity masks in Illustrator. [Clip and invert opacity masks](clip-and-invert-opacity-masks.md).
+- Open when looking up Create blends in Illustrator. [Create blends](create-blends.md).
+- Open when looking up Create blends in Illustrator. [Create blends references](create-blends/reference-index.md).
+- Open when looking up Create knockout shapes in Illustrator. [Create knockout shapes](create-knockout-shapes.md).
+- Open when looking up Create transparency knockout groups in Illustrator. [Create transparency knockout groups](create-transparency-knockout-groups.md).
+- Open when looking up Deactivate, reactivate, or remove opacity masks in Illustrator. [Deactivate, reactivate, or remove opacity masks](deactivate-reactivate-or-remove-opacity-masks.md).
+- Open when looking up Deactivate, reactivate, or remove opacity masks in Illustrator. [Deactivate, reactivate, or remove opacity masks references](deactivate-reactivate-or-remove-opacity-masks/reference-index.md).
+- Open when looking up Modify the spine of blended objects in Illustrator. [Modify the spine of blended objects](modify-the-spine-of-blended-objects.md).
+- Open when looking up Modify the spine of blended objects in Illustrator. [Modify the spine of blended objects references](modify-the-spine-of-blended-objects/reference-index.md).
+- Open when looking up Release or expand blended objects in Illustrator. [Release or expand blended objects](release-or-expand-blended-objects.md).
+- Open when looking up Release or expand blended objects in Illustrator. [Release or expand blended objects references](release-or-expand-blended-objects/reference-index.md).
+- Open when looking up Reverse the stacking order in blended objects in Illustrator. [Reverse the stacking order in blended objects](reverse-the-stacking-order-in-blended-objects.md).
+- Open when looking up Transparency panel overview in Illustrator. [Transparency panel overview](transparency-panel-overview.md).
+- Open when looking up Transparency panel overview in Illustrator. [Transparency panel overview references](transparency-panel-overview/reference-index.md).
+- Open when looking up View transparency in the artwork in Illustrator. [View transparency in the artwork](view-transparency-in-the-artwork.md).

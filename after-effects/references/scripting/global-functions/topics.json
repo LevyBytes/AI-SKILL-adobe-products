@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "clearOutput()", "file": "references/scripting/global-functions/clear-output.md", "summary": "Open when looking up clearOutput() in After Effects.", "keywords": ["clearOutput()"]},
+  {"topic": "currentFormatToTime()", "file": "references/scripting/global-functions/current-format-to-time.md", "summary": "Open when looking up currentFormatToTime() in After Effects.", "keywords": ["currentFormatToTime()"]},
+  {"topic": "generateRandomNumber()", "file": "references/scripting/global-functions/generate-random-number.md", "summary": "Open when looking up generateRandomNumber() in After Effects.", "keywords": ["generateRandomNumber()"]},
+  {"topic": "getEnumAsString()", "file": "references/scripting/global-functions/get-enum-as-string.md", "summary": "Open when looking up getEnumAsString() in After Effects.", "keywords": ["getEnumAsString()"]},
+  {"topic": "isValid()", "file": "references/scripting/global-functions/is-valid.md", "summary": "Open when looking up isValid() in After Effects.", "keywords": ["isValid()"]},
+  {"topic": "write()", "file": "references/scripting/global-functions/write.md", "summary": "Open when looking up write() in After Effects.", "keywords": ["write()"]},
+  {"topic": "writeLn()", "file": "references/scripting/global-functions/write-ln.md", "summary": "Open when looking up writeLn() in After Effects.", "keywords": ["writeLn()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

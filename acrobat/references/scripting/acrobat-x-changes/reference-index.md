@@ -1,0 +1,21 @@
+# Acrobat — Acrobat x changes
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ADBC Support Removed from Documentation in Acrobat. [ADBC Support Removed from Documentation](adbc-support-removed-from-documentation.md).
+- Open when looking up Adding an invisible Certification in Acrobat. [Adding an invisible Certification](adding-an-invisible-certification.md).
+- Open when looking up Adding an invisible timestamp in Acrobat. [Adding an invisible timestamp](adding-an-invisible-timestamp.md).
+- Open when looking up Changes Across Versions — Acrobat X changes in Acrobat. [Changes Across Versions — Acrobat X changes](changes-across-versions-acrobat-x-changes.md).
+- Open when looking up Changes to search object in Acrobat. [Changes to search object](changes-to-search-object.md).
+- Open when looking up Changes to SearchExecuteQuery in Acrobat. [Changes to SearchExecuteQuery](changes-to-search-execute-query.md).
+- Open when looking up Deprecated Values of cConvID in Acrobat. [Deprecated Values of cConvID](deprecated-values-of-c-conv-id.md).
+- Open when looking up Enhancements to Doc object in Acrobat. [Enhancements to Doc object](enhancements-to-doc-object.md).
+- Open when looking up Enhancements to PDFOptPDFVersion in Acrobat. [Enhancements to PDFOptPDFVersion](enhancements-to-pdf-opt-pdf-version.md).
+- Open when looking up Enhancements to the getDataObjectContents method in Acrobat. [Enhancements to the getDataObjectContents method](enhancements-to-the-get-data-object-contents-method.md).
+- Open when looking up Enhancements to the SaveAs Method in Acrobat. [Enhancements to the SaveAs Method](enhancements-to-the-save-as-method.md).
+- Open when looking up Function SearchIsLegacySearchAvailable deprecated in Acrobat. [Function SearchIsLegacySearchAvailable deprecated](function-search-is-legacy-search-available-deprecated.md).
+- Open when looking up Impact of Acrobat menu restructuring on JavaScript APIs in Acrobat. [Impact of Acrobat menu restructuring on JavaScript APIs](impact-of-acrobat-menu-restructuring-on-java-script-apis.md).
+- Open when looking up New JavaScript version in Acrobat. [New JavaScript version](new-java-script-version.md).
+- Open when looking up New timestampSign and certifyInvisibleSign Doc methods in Acrobat. [New timestampSign and certifyInvisibleSign Doc methods](new-timestamp-sign-and-certify-invisible-sign-doc-methods.md).
+- Open when looking up New util method in Acrobat. [New util method](new-util-method.md).
+- Open when looking up New Values of cConvID in Acrobat. [New Values of cConvID](new-values-of-c-conv-id.md).
+- Open when looking up Signature support for Emerging PAdES ETSI ESI standard in Acrobat. [Signature support for Emerging PAdES ETSI ESI standard](signature-support-for-emerging-p-ad-es-etsi-esi-standard.md).

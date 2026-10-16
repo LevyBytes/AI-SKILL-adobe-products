@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Apply sequential styles to existing text", "file": "references/desktop/text-formatting/text-styles/apply-sequential-text-styles-to-multiple-paragraphs/apply-sequential-styles-to-existing-text.md", "summary": "Open when looking up Apply sequential styles to existing text in InDesign.", "keywords": ["Apply sequential styles to existing text"]},
+  {"topic": "Define Next Style in Paragraph Style Options", "file": "references/desktop/text-formatting/text-styles/apply-sequential-text-styles-to-multiple-paragraphs/define-next-style-in-paragraph-style-options.md", "summary": "Open when looking up Define Next Style in Paragraph Style Options in InDesign.", "keywords": ["Define Next Style in Paragraph Style Options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

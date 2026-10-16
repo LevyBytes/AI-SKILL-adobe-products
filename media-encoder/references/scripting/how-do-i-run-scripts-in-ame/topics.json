@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "AME Scripting Guide — How do I run scripts in AME?", "file": "references/scripting/how-do-i-run-scripts-in-ame/ame-scripting-guide-how-do-i-run-scripts-in-ame.md", "summary": "Open when looking up AME Scripting Guide — How do I run scripts in AME? in Media Encoder.", "keywords": ["AME Scripting Guide — How do I run scripts in AME?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Rearrange combined files", "file": "references/desktop/edit-documents/combine-files/rearrange-or-resize-combined-files/rearrange-combined-files.md", "summary": "Open when looking up Rearrange combined files in Acrobat.", "keywords": ["Rearrange combined files"]},
+  {"topic": "Resize the combined file", "file": "references/desktop/edit-documents/combine-files/rearrange-or-resize-combined-files/resize-the-combined-file.md", "summary": "Open when looking up Resize the combined file in Acrobat.", "keywords": ["Resize the combined file"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

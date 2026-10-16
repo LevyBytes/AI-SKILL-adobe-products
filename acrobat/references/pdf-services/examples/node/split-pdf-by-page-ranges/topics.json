@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Split pdf by page ranges example setup", "file": "references/pdf-services/examples/node/split-pdf-by-page-ranges/split-pdf-by-page-ranges-setup.md", "summary": "Open when looking up Split pdf by page ranges example setup in Acrobat.", "keywords": ["Split pdf by page ranges example setup"]},
+  {"topic": "split-pdf-by-page-ranges", "file": "references/pdf-services/examples/node/split-pdf-by-page-ranges/split-pdf-by-page-ranges.cjs", "summary": "Open when looking up split-pdf-by-page-ranges in Acrobat.", "keywords": ["split-pdf-by-page-ranges"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

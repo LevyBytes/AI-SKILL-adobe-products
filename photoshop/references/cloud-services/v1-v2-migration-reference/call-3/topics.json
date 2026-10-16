@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Example 3: Format conversion (PSD to JPEG)", "file": "references/cloud-services/v1-v2-migration-reference/call-3/example-3-format-conversion-psd-to-jpeg.md", "summary": "Open when looking up Example 3: Format conversion (PSD to JPEG) in Photoshop.", "keywords": ["Example 3: Format conversion (PSD to JPEG)"]},
+  {"topic": "Example 4: Layer addition", "file": "references/cloud-services/v1-v2-migration-reference/call-3/example-4-layer-addition.md", "summary": "Open when looking up Example 4: Layer addition in Photoshop.", "keywords": ["Example 4: Layer addition"]},
+  {"topic": "Example 4b: Layer edit operation", "file": "references/cloud-services/v1-v2-migration-reference/call-3/example-4b-layer-edit-operation.md", "summary": "Open when looking up Example 4b: Layer edit operation in Photoshop.", "keywords": ["Example 4b: Layer edit operation"]},
+  {"topic": "Example 5: Action execution", "file": "references/cloud-services/v1-v2-migration-reference/call-3/example-5-action-execution.md", "summary": "Open when looking up Example 5: Action execution in Photoshop.", "keywords": ["Example 5: Action execution"]},
+  {"topic": "Example 6: Status checking", "file": "references/cloud-services/v1-v2-migration-reference/call-3/example-6-status-checking.md", "summary": "Open when looking up Example 6: Status checking in Photoshop.", "keywords": ["Example 6: Status checking"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

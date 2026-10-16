@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/story/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "AFTER_PLACE", "file": "references/document-model/story/afterplace.md", "summary": "Open when looking up AFTER_PLACE in InDesign.", "keywords": ["AFTER_PLACE"]},
+  {"topic": "BEFORE_PLACE", "file": "references/document-model/story/beforeplace.md", "summary": "Open when looking up BEFORE_PLACE in InDesign.", "keywords": ["BEFORE_PLACE"]},
+  {"topic": "eventListeners", "file": "references/document-model/story/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/story/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "removeEventListener", "file": "references/document-model/story/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

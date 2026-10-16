@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Audio Track Mixer panel", "file": "references/desktop/default-keyboard-shortcuts/audio-track-mixer-panel.md", "summary": "Open when looking up Audio Track Mixer panel in Premiere Pro.", "keywords": ["Audio Track Mixer panel"]},
+  {"topic": "Clip menu", "file": "references/desktop/default-keyboard-shortcuts/clip-menu.md", "summary": "Open when looking up Clip menu in Premiere Pro.", "keywords": ["Clip menu"]},
+  {"topic": "Edit menu", "file": "references/desktop/default-keyboard-shortcuts/edit-menu.md", "summary": "Open when looking up Edit menu in Premiere Pro.", "keywords": ["Edit menu"]},
+  {"topic": "Effect Controls panel", "file": "references/desktop/default-keyboard-shortcuts/effect-controls-panel.md", "summary": "Open when looking up Effect Controls panel in Premiere Pro.", "keywords": ["Effect Controls panel"]},
+  {"topic": "Effects panel", "file": "references/desktop/default-keyboard-shortcuts/effects-panel.md", "summary": "Open when looking up Effects panel in Premiere Pro.", "keywords": ["Effects panel"]},
+  {"topic": "File menu", "file": "references/desktop/default-keyboard-shortcuts/file-menu.md", "summary": "Open when looking up File menu in Premiere Pro.", "keywords": ["File menu"]},
+  {"topic": "Graphics and Titles menu", "file": "references/desktop/default-keyboard-shortcuts/graphics-and-titles-menu.md", "summary": "Open when looking up Graphics and Titles menu in Premiere Pro.", "keywords": ["Graphics and Titles menu"]},
+  {"topic": "History panel", "file": "references/desktop/default-keyboard-shortcuts/history-panel.md", "summary": "Open when looking up History panel in Premiere Pro.", "keywords": ["History panel"]},
+  {"topic": "Markers menu", "file": "references/desktop/default-keyboard-shortcuts/markers-menu.md", "summary": "Open when looking up Markers menu in Premiere Pro.", "keywords": ["Markers menu"]},
+  {"topic": "Media Browser panel", "file": "references/desktop/default-keyboard-shortcuts/media-browser-panel.md", "summary": "Open when looking up Media Browser panel in Premiere Pro.", "keywords": ["Media Browser panel"]},
+  {"topic": "Metadata panel", "file": "references/desktop/default-keyboard-shortcuts/metadata-panel.md", "summary": "Open when looking up Metadata panel in Premiere Pro.", "keywords": ["Metadata panel"]},
+  {"topic": "Premiere keyboard shortcuts can improve editing efficiency.", "file": "references/desktop/default-keyboard-shortcuts/premiere-keyboard-shortcuts-can-improve-editing-efficiency.md", "summary": "Open when looking up Premiere keyboard shortcuts can improve editing efficiency. in Premiere Pro.", "keywords": ["Premiere keyboard shortcuts can improve editing efficiency."]},
+  {"topic": "Program Monitor panel", "file": "references/desktop/default-keyboard-shortcuts/program-monitor-panel.md", "summary": "Open when looking up Program Monitor panel in Premiere Pro.", "keywords": ["Program Monitor panel"]},
+  {"topic": "Project panel", "file": "references/desktop/default-keyboard-shortcuts/project-panel.md", "summary": "Open when looking up Project panel in Premiere Pro.", "keywords": ["Project panel"]},
+  {"topic": "Sequence menu", "file": "references/desktop/default-keyboard-shortcuts/sequence-menu.md", "summary": "Open when looking up Sequence menu in Premiere Pro.", "keywords": ["Sequence menu"]},
+  {"topic": "Timeline panel", "file": "references/desktop/default-keyboard-shortcuts/timeline-panel.md", "summary": "Open when looking up Timeline panel in Premiere Pro.", "keywords": ["Timeline panel"]},
+  {"topic": "Window menu", "file": "references/desktop/default-keyboard-shortcuts/window-menu.md", "summary": "Open when looking up Window menu in Premiere Pro.", "keywords": ["Window menu"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

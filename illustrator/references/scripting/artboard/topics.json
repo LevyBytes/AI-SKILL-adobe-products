@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Artboard.artboardRect", "file": "references/scripting/artboard/artboard-rect.md", "summary": "Open when looking up Artboard.artboardRect in Illustrator.", "keywords": ["Artboard.artboardRect"]},
+  {"topic": "Artboard.name", "file": "references/scripting/artboard/name.md", "summary": "Open when looking up Artboard.name in Illustrator.", "keywords": ["Artboard.name"]},
+  {"topic": "Artboard.parent", "file": "references/scripting/artboard/parent.md", "summary": "Open when looking up Artboard.parent in Illustrator.", "keywords": ["Artboard.parent"]},
+  {"topic": "Artboard.remove()", "file": "references/scripting/artboard/remove.md", "summary": "Open when looking up Artboard.remove() in Illustrator.", "keywords": ["Artboard.remove()"]},
+  {"topic": "Artboard.rulerOrigin", "file": "references/scripting/artboard/ruler-origin.md", "summary": "Open when looking up Artboard.rulerOrigin in Illustrator.", "keywords": ["Artboard.rulerOrigin"]},
+  {"topic": "Artboard.rulerPAR", "file": "references/scripting/artboard/ruler-par.md", "summary": "Open when looking up Artboard.rulerPAR in Illustrator.", "keywords": ["Artboard.rulerPAR"]},
+  {"topic": "Artboard.showCenter", "file": "references/scripting/artboard/show-center.md", "summary": "Open when looking up Artboard.showCenter in Illustrator.", "keywords": ["Artboard.showCenter"]},
+  {"topic": "Artboard.showCrossHairs", "file": "references/scripting/artboard/show-cross-hairs.md", "summary": "Open when looking up Artboard.showCrossHairs in Illustrator.", "keywords": ["Artboard.showCrossHairs"]},
+  {"topic": "Artboard.showSafeAreas", "file": "references/scripting/artboard/show-safe-areas.md", "summary": "Open when looking up Artboard.showSafeAreas in Illustrator.", "keywords": ["Artboard.showSafeAreas"]},
+  {"topic": "Artboard.typename", "file": "references/scripting/artboard/typename.md", "summary": "Open when looking up Artboard.typename in Illustrator.", "keywords": ["Artboard.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

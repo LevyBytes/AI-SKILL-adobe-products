@@ -1,0 +1,37 @@
+# Shared Adobe platform — Draw state
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up altKey in Shared Adobe platform. [altKey](alt-key.md).
+- Open when looking up bubbles in Shared Adobe platform. [bubbles](bubbles.md).
+- Open when looking up button in Shared Adobe platform. [button](button.md).
+- Open when looking up cancelable in Shared Adobe platform. [cancelable](cancelable.md).
+- Open when looking up clientX and clientY in Shared Adobe platform. [clientX and clientY](client-x-and-client-y.md).
+- Open when looking up Control objects — DrawState object in Shared Adobe platform. [Control objects — DrawState object](control-objects-draw-state-object.md).
+- Open when looking up ctrlKey in Shared Adobe platform. [ctrlKey](ctrl-key.md).
+- Open when looking up currentTarget in Shared Adobe platform. [currentTarget](current-target.md).
+- Open when looking up detail in Shared Adobe platform. [detail](detail.md).
+- Open when looking up DrawState object properties in Shared Adobe platform. [DrawState object properties](draw-state-object-properties.md).
+- Open when looking up Event handling in Shared Adobe platform. [Event handling](event-handling.md).
+- Open when looking up Event handling — KeyboardEvent Object in Shared Adobe platform. [Event handling — KeyboardEvent Object](event-handling-keyboard-event-object.md).
+- Open when looking up Event handling — MouseEvent Object in Shared Adobe platform. [Event handling — MouseEvent Object](event-handling-mouse-event-object.md).
+- Open when looking up Event handling — UIEvent Base Class in Shared Adobe platform. [Event handling — UIEvent Base Class](event-handling-ui-event-base-class.md).
+- Open when looking up eventPhase in Shared Adobe platform. [eventPhase](event-phase.md).
+- Open when looking up getModifierState() in Shared Adobe platform. [getModifierState()](get-modifier-state.md).
+- Open when looking up initKeyboardEvent() in Shared Adobe platform. [initKeyboardEvent()](init-keyboard-event.md).
+- Open when looking up initMouseEvent() in Shared Adobe platform. [initMouseEvent()](init-mouse-event.md).
+- Open when looking up initUIEvent() in Shared Adobe platform. [initUIEvent()](init-ui-event.md).
+- Open when looking up KeyboardEvent Object Methods in Shared Adobe platform. [KeyboardEvent Object Methods](keyboard-event-object-methods.md).
+- Open when looking up keyIdentifier in Shared Adobe platform. [keyIdentifier](key-identifier.md).
+- Open when looking up keyLocation in Shared Adobe platform. [keyLocation](key-location.md).
+- Open when looking up keyName in Shared Adobe platform. [keyName](key-name.md).
+- Open when looking up metaKey in Shared Adobe platform. [metaKey](meta-key.md).
+- Open when looking up MouseEvent Object Attributes in Shared Adobe platform. [MouseEvent Object Attributes](mouse-event-object-attributes.md).
+- Open when looking up MouseEvent Object Methods in Shared Adobe platform. [MouseEvent Object Methods](mouse-event-object-methods.md).
+- Open when looking up preventDefault() in Shared Adobe platform. [preventDefault()](prevent-default.md).
+- Open when looking up screenX and screenY in Shared Adobe platform. [screenX and screenY](screen-x-and-screen-y.md).
+- Open when looking up shiftKey in Shared Adobe platform. [shiftKey](shift-key.md).
+- Open when looking up stopPropagation() in Shared Adobe platform. [stopPropagation()](stop-propagation.md).
+- Open when looking up target in Shared Adobe platform. [target](target.md).
+- Open when looking up timeStamp in Shared Adobe platform. [timeStamp](time-stamp.md).
+- Open when looking up UIEvent Object Attributes in Shared Adobe platform. [UIEvent Object Attributes](ui-event-object-attributes.md).
+- Open when looking up view in Shared Adobe platform. [view](view.md).

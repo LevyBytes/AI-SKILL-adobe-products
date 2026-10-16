@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "OpenProjectOptions — Properties", "file": "references/uxp/host-api/open-project-options/open-project-options-properties.md", "summary": "Open when looking up OpenProjectOptions — Properties in Premiere Pro.", "keywords": ["OpenProjectOptions — Properties"]},
+  {"topic": "setAddToMRUList", "file": "references/uxp/host-api/open-project-options/set-add-to-mru-list.md", "summary": "Open when looking up setAddToMRUList in Premiere Pro.", "keywords": ["setAddToMRUList"]},
+  {"topic": "setShowConvertProjectDialog", "file": "references/uxp/host-api/open-project-options/set-show-convert-project-dialog.md", "summary": "Open when looking up setShowConvertProjectDialog in Premiere Pro.", "keywords": ["setShowConvertProjectDialog"]},
+  {"topic": "setShowLocateFileDialog", "file": "references/uxp/host-api/open-project-options/set-show-locate-file-dialog.md", "summary": "Open when looking up setShowLocateFileDialog in Premiere Pro.", "keywords": ["setShowLocateFileDialog"]},
+  {"topic": "setShowWarningDialog", "file": "references/uxp/host-api/open-project-options/set-show-warning-dialog.md", "summary": "Open when looking up setShowWarningDialog in Premiere Pro.", "keywords": ["setShowWarningDialog"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

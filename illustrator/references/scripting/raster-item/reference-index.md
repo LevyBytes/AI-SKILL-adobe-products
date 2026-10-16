@@ -1,0 +1,56 @@
+# Illustrator — RasterItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up RasterItem — Methods in Illustrator. [RasterItem — Methods](raster-item-methods.md).
+- Open when looking up RasterItem.artworkKnockout in Illustrator. [RasterItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up RasterItem.bitsPerChannel in Illustrator. [RasterItem.bitsPerChannel](bits-per-channel.md).
+- Open when looking up RasterItem.blendingMode in Illustrator. [RasterItem.blendingMode](blending-mode.md).
+- Open when looking up RasterItem.boundingBox in Illustrator. [RasterItem.boundingBox](bounding-box.md).
+- Open when looking up RasterItem.channels in Illustrator. [RasterItem.channels](channels.md).
+- Open when looking up RasterItem.colorants in Illustrator. [RasterItem.colorants](colorants.md).
+- Open when looking up RasterItem.colorize() in Illustrator. [RasterItem.colorize()](colorize.md).
+- Open when looking up RasterItem.colorizedGrayscale in Illustrator. [RasterItem.colorizedGrayscale](colorized-grayscale.md).
+- Open when looking up RasterItem.contentVariable in Illustrator. [RasterItem.contentVariable](content-variable.md).
+- Open when looking up RasterItem.controlBounds in Illustrator. [RasterItem.controlBounds](control-bounds.md).
+- Open when looking up RasterItem.duplicate() in Illustrator. [RasterItem.duplicate()](duplicate.md).
+- Open when looking up RasterItem.editable in Illustrator. [RasterItem.editable](editable.md).
+- Open when looking up RasterItem.embedded in Illustrator. [RasterItem.embedded](embedded.md).
+- Open when looking up RasterItem.file in Illustrator. [RasterItem.file](file.md).
+- Open when looking up RasterItem.geometricBounds in Illustrator. [RasterItem.geometricBounds](geometric-bounds.md).
+- Open when looking up RasterItem.height in Illustrator. [RasterItem.height](height.md).
+- Open when looking up RasterItem.hidden in Illustrator. [RasterItem.hidden](hidden.md).
+- Open when looking up RasterItem.imageColorSpace in Illustrator. [RasterItem.imageColorSpace](image-color-space.md).
+- Open when looking up RasterItem.isIsolated in Illustrator. [RasterItem.isIsolated](is-isolated.md).
+- Open when looking up RasterItem.layer in Illustrator. [RasterItem.layer](layer.md).
+- Open when looking up RasterItem.left in Illustrator. [RasterItem.left](left.md).
+- Open when looking up RasterItem.locked in Illustrator. [RasterItem.locked](locked.md).
+- Open when looking up RasterItem.matrix in Illustrator. [RasterItem.matrix](matrix.md).
+- Open when looking up RasterItem.move() in Illustrator. [RasterItem.move()](move.md).
+- Open when looking up RasterItem.name in Illustrator. [RasterItem.name](name.md).
+- Open when looking up RasterItem.note in Illustrator. [RasterItem.note](note.md).
+- Open when looking up RasterItem.opacity in Illustrator. [RasterItem.opacity](opacity.md).
+- Open when looking up RasterItem.overprint in Illustrator. [RasterItem.overprint](overprint.md).
+- Open when looking up RasterItem.parent in Illustrator. [RasterItem.parent](parent.md).
+- Open when looking up RasterItem.position in Illustrator. [RasterItem.position](position.md).
+- Open when looking up RasterItem.remove() in Illustrator. [RasterItem.remove()](remove.md).
+- Open when looking up RasterItem.resize() in Illustrator. [RasterItem.resize()](resize.md).
+- Open when looking up RasterItem.rotate() in Illustrator. [RasterItem.rotate()](rotate.md).
+- Open when looking up RasterItem.selected in Illustrator. [RasterItem.selected](selected.md).
+- Open when looking up RasterItem.sliced in Illustrator. [RasterItem.sliced](sliced.md).
+- Open when looking up RasterItem.status in Illustrator. [RasterItem.status](status.md).
+- Open when looking up RasterItem.tags in Illustrator. [RasterItem.tags](tags.md).
+- Open when looking up RasterItem.top in Illustrator. [RasterItem.top](top.md).
+- Open when looking up RasterItem.trace() in Illustrator. [RasterItem.trace()](trace.md).
+- Open when looking up RasterItem.transform() in Illustrator. [RasterItem.transform()](transform.md).
+- Open when looking up RasterItem.translate() in Illustrator. [RasterItem.translate()](translate.md).
+- Open when looking up RasterItem.transparent in Illustrator. [RasterItem.transparent](transparent.md).
+- Open when looking up RasterItem.typename in Illustrator. [RasterItem.typename](typename.md).
+- Open when looking up RasterItem.uRL in Illustrator. [RasterItem.uRL](u-rl.md).
+- Open when looking up RasterItem.visibilityVariable in Illustrator. [RasterItem.visibilityVariable](visibility-variable.md).
+- Open when looking up RasterItem.visibleBounds in Illustrator. [RasterItem.visibleBounds](visible-bounds.md).
+- Open when looking up RasterItem.width in Illustrator. [RasterItem.width](width.md).
+- Open when looking up RasterItem.wrapInside in Illustrator. [RasterItem.wrapInside](wrap-inside.md).
+- Open when looking up RasterItem.wrapOffset in Illustrator. [RasterItem.wrapOffset](wrap-offset.md).
+- Open when looking up RasterItem.wrapped in Illustrator. [RasterItem.wrapped](wrapped.md).
+- Open when looking up RasterItem.zOrder() in Illustrator. [RasterItem.zOrder()](z-order.md).
+- Open when looking up RasterItem.zOrderPosition in Illustrator. [RasterItem.zOrderPosition](z-order-position.md).

@@ -1,0 +1,23 @@
+# InDesign — Grids
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Convert between text frames and frame grids in InDesign. [Convert between text frames and frame grids](convert-between-text-frames-and-frame-grids.md).
+- Open when looking up Convert between text frames and frame grids in InDesign. [Convert between text frames and frame grids references](convert-between-text-frames-and-frame-grids/reference-index.md).
+- Open when looking up Create and apply named grids to frames in InDesign. [Create and apply named grids to frames](create-and-apply-named-grids-to-frames.md).
+- Open when looking up Create and apply named grids to frames in InDesign. [Create and apply named grids to frames references](create-and-apply-named-grids-to-frames/reference-index.md).
+- Open when looking up Create and customize layout grids in InDesign. [Create and customize layout grids](create-and-customize-layout-grids.md).
+- Open when looking up Create and customize layout grids in InDesign. [Create and customize layout grids references](create-and-customize-layout-grids/reference-index.md).
+- Open when looking up Edit or delete named grids in InDesign. [Edit or delete named grids](edit-or-delete-named-grids.md).
+- Open when looking up Edit or delete named grids in InDesign. [Edit or delete named grids references](edit-or-delete-named-grids/reference-index.md).
+- Open when looking up Import grid formats from other documents in InDesign. [Import grid formats from other documents](import-grid-formats-from-other-documents.md).
+- Open when looking up Set frame grid properties in InDesign. [Set frame grid properties](set-frame-grid-properties.md).
+- Open when looking up Set frame grid properties in InDesign. [Set frame grid properties references](set-frame-grid-properties/reference-index.md).
+- Open when looking up Show or hide frame grid character count in InDesign. [Show or hide frame grid character count](show-or-hide-frame-grid-character-count.md).
+- Open when looking up Show or hide frame grid character count in InDesign. [Show or hide frame grid character count references](show-or-hide-frame-grid-character-count/reference-index.md).
+- Open when looking up Show or hide grids in InDesign. [Show or hide grids](show-or-hide-grids.md).
+- Open when looking up Show or hide grids in InDesign. [Show or hide grids references](show-or-hide-grids/reference-index.md).
+- Open when looking up Snap objects to grids in InDesign. [Snap objects to grids](snap-objects-to-grids.md).
+- Open when looking up Snap objects to grids in InDesign. [Snap objects to grids references](snap-objects-to-grids/reference-index.md).
+- Open when looking up Use a baseline grid in InDesign. [Use a baseline grid](use-a-baseline-grid.md).
+- Open when looking up Use a baseline grid in InDesign. [Use a baseline grid references](use-a-baseline-grid/reference-index.md).
+- Open when looking up Use a document grid in InDesign. [Use a document grid](use-a-document-grid.md).

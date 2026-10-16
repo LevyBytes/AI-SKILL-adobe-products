@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Errors — Dig In!", "file": "references/plugin-sdk/dig-in/errors-dig-in.md", "summary": "Open when looking up Errors — Dig In! in After Effects.", "keywords": ["Errors — Dig In!"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,21 @@
+# After Effects — Property base
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PropertyBase.active in After Effects. [PropertyBase.active](active.md).
+- Open when looking up PropertyBase.canSetEnabled in After Effects. [PropertyBase.canSetEnabled](can-set-enabled.md).
+- Open when looking up PropertyBase.duplicate() in After Effects. [PropertyBase.duplicate()](duplicate.md).
+- Open when looking up PropertyBase.elided in After Effects. [PropertyBase.elided](elided.md).
+- Open when looking up PropertyBase.enabled in After Effects. [PropertyBase.enabled](enabled.md).
+- Open when looking up PropertyBase.isEffect in After Effects. [PropertyBase.isEffect](is-effect.md).
+- Open when looking up PropertyBase.isMask in After Effects. [PropertyBase.isMask](is-mask.md).
+- Open when looking up PropertyBase.isModified in After Effects. [PropertyBase.isModified](is-modified.md).
+- Open when looking up PropertyBase.matchName in After Effects. [PropertyBase.matchName](match-name.md).
+- Open when looking up PropertyBase.moveTo() in After Effects. [PropertyBase.moveTo()](move-to.md).
+- Open when looking up PropertyBase.name in After Effects. [PropertyBase.name](name.md).
+- Open when looking up PropertyBase.parentProperty in After Effects. [PropertyBase.parentProperty](parent-property.md).
+- Open when looking up PropertyBase.propertyDepth in After Effects. [PropertyBase.propertyDepth](property-depth.md).
+- Open when looking up PropertyBase.propertyGroup() in After Effects. [PropertyBase.propertyGroup()](property-group.md).
+- Open when looking up PropertyBase.propertyIndex in After Effects. [PropertyBase.propertyIndex](property-index.md).
+- Open when looking up PropertyBase.propertyType in After Effects. [PropertyBase.propertyType](property-type.md).
+- Open when looking up PropertyBase.remove() in After Effects. [PropertyBase.remove()](remove.md).
+- Open when looking up PropertyBase.selected in After Effects. [PropertyBase.selected](selected.md).

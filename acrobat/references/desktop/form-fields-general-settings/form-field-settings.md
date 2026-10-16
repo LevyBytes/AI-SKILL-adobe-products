@@ -1,0 +1,3 @@
+# Dig into PDF form field settings in Adobe Acrobat to make forms work better and feel smoother
+
+The general settings inside the Form Field Properties dialog box let you tailor how a field looks and how it behaves. The properties sit on tabs: General and Actions show up no matter the field type, whereas others — Options among them — depend on the field. Every tab carries Locked and Close, so you can either freeze edits or leave the dialog. Whatever you change takes hold the moment you move to a different property. Working across several fields means keeping the dialog open and clicking from one field to the next.

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Incompatible Acrobat version", "file": "references/desktop/troubleshoot/pdf-viewing-and-editing-issues/can-t-enable-forms-for-acrobat-reader-users/incompatible-acrobat-version.md", "summary": "Open when looking up Incompatible Acrobat version in Acrobat.", "keywords": ["Incompatible Acrobat version"]},
+  {"topic": "macOS", "file": "references/desktop/troubleshoot/pdf-viewing-and-editing-issues/can-t-enable-forms-for-acrobat-reader-users/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Windows", "file": "references/desktop/troubleshoot/pdf-viewing-and-editing-issues/can-t-enable-forms-for-acrobat-reader-users/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

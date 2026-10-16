@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "LANDSCAPE", "file": "references/document-model/print-page-orientation/landscape.md", "summary": "Open when looking up LANDSCAPE in InDesign.", "keywords": ["LANDSCAPE"]},
+  {"topic": "PORTRAIT", "file": "references/document-model/print-page-orientation/portrait.md", "summary": "Open when looking up PORTRAIT in InDesign.", "keywords": ["PORTRAIT"]},
+  {"topic": "REVERSE_LANDSCAPE", "file": "references/document-model/print-page-orientation/reverselandscape.md", "summary": "Open when looking up REVERSE_LANDSCAPE in InDesign.", "keywords": ["REVERSE_LANDSCAPE"]},
+  {"topic": "REVERSE_PORTRAIT", "file": "references/document-model/print-page-orientation/reverseportrait.md", "summary": "Open when looking up REVERSE_PORTRAIT in InDesign.", "keywords": ["REVERSE_PORTRAIT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

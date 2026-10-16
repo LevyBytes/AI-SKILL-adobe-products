@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Package linked Smart Objects", "file": "references/desktop/layers/smart-objects/package-and-locate-linked-smart-objects/package-linked-smart-objects.md", "summary": "Open when looking up Package linked Smart Objects in Photoshop.", "keywords": ["Package linked Smart Objects"]},
+  {"topic": "Relink Smart Objects", "file": "references/desktop/layers/smart-objects/package-and-locate-linked-smart-objects/relink-smart-objects.md", "summary": "Open when looking up Relink Smart Objects in Photoshop.", "keywords": ["Relink Smart Objects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

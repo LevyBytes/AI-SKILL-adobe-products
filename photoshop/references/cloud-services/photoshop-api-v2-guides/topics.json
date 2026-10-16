@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Available guides", "file": "references/cloud-services/photoshop-api-v2-guides/available-guides.md", "summary": "Open when looking up Available guides in Photoshop.", "keywords": ["Available guides"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

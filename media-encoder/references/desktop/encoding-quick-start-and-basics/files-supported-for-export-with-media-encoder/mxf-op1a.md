@@ -1,0 +1,13 @@
+# MXF OP1a
+
+- AVC-Intra
+- AVC-LongG
+- DV
+- DVCPRO50
+- DVCPRO HD
+- IMX
+- XAVC Intra
+- XAVC Long GOP
+- XDCAMEX 18/35
+- XDCAMHD 18/25/35
+- XDCAMHD 50

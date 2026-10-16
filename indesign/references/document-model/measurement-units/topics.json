@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "AGATES", "file": "references/document-model/measurement-units/agates.md", "summary": "Open when looking up AGATES in InDesign.", "keywords": ["AGATES"]},
+  {"topic": "AMERICAN_POINTS", "file": "references/document-model/measurement-units/americanpoints.md", "summary": "Open when looking up AMERICAN_POINTS in InDesign.", "keywords": ["AMERICAN_POINTS"]},
+  {"topic": "BAI", "file": "references/document-model/measurement-units/bai.md", "summary": "Open when looking up BAI in InDesign.", "keywords": ["BAI"]},
+  {"topic": "CENTIMETERS", "file": "references/document-model/measurement-units/centimeters.md", "summary": "Open when looking up CENTIMETERS in InDesign.", "keywords": ["CENTIMETERS"]},
+  {"topic": "CICEROS", "file": "references/document-model/measurement-units/ciceros.md", "summary": "Open when looking up CICEROS in InDesign.", "keywords": ["CICEROS"]},
+  {"topic": "CUSTOM", "file": "references/document-model/measurement-units/custom.md", "summary": "Open when looking up CUSTOM in InDesign.", "keywords": ["CUSTOM"]},
+  {"topic": "HA", "file": "references/document-model/measurement-units/ha.md", "summary": "Open when looking up HA in InDesign.", "keywords": ["HA"]},
+  {"topic": "INCHES", "file": "references/document-model/measurement-units/inches.md", "summary": "Open when looking up INCHES in InDesign.", "keywords": ["INCHES"]},
+  {"topic": "INCHES_DECIMAL", "file": "references/document-model/measurement-units/inchesdecimal.md", "summary": "Open when looking up INCHES_DECIMAL in InDesign.", "keywords": ["INCHES_DECIMAL"]},
+  {"topic": "MILLIMETERS", "file": "references/document-model/measurement-units/millimeters.md", "summary": "Open when looking up MILLIMETERS in InDesign.", "keywords": ["MILLIMETERS"]},
+  {"topic": "MILS", "file": "references/document-model/measurement-units/mils.md", "summary": "Open when looking up MILS in InDesign.", "keywords": ["MILS"]},
+  {"topic": "PICAS", "file": "references/document-model/measurement-units/picas.md", "summary": "Open when looking up PICAS in InDesign.", "keywords": ["PICAS"]},
+  {"topic": "PIXELS", "file": "references/document-model/measurement-units/pixels.md", "summary": "Open when looking up PIXELS in InDesign.", "keywords": ["PIXELS"]},
+  {"topic": "POINTS", "file": "references/document-model/measurement-units/points.md", "summary": "Open when looking up POINTS in InDesign.", "keywords": ["POINTS"]},
+  {"topic": "Q", "file": "references/document-model/measurement-units/q.md", "summary": "Open when looking up Q in InDesign.", "keywords": ["Q"]},
+  {"topic": "U", "file": "references/document-model/measurement-units/u.md", "summary": "Open when looking up U in InDesign.", "keywords": ["U"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "cast", "file": "references/uxp/host-api/unique-serializeable/static-methods/cast.md", "summary": "Open when looking up cast in Premiere Pro.", "keywords": ["cast"]},
+  {"topic": "getUniqueID", "file": "references/uxp/host-api/unique-serializeable/static-methods/get-unique-id.md", "summary": "Open when looking up getUniqueID in Premiere Pro.", "keywords": ["getUniqueID"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

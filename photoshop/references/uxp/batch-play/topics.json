@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Accepted action descriptors", "file": "references/uxp/batch-play/accepted-action-descriptors.md", "summary": "Open when looking up Accepted action descriptors in Photoshop.", "keywords": ["Accepted action descriptors"]},
+  {"topic": "Action references", "file": "references/uxp/batch-play/action-references.md", "summary": "Open when looking up Action references in Photoshop.", "keywords": ["Action references"]},
+  {"topic": "Command execution options", "file": "references/uxp/batch-play/command-execution-options.md", "summary": "Open when looking up Command execution options in Photoshop.", "keywords": ["Command execution options"]},
+  {"topic": "continueOnError (default: false)", "file": "references/uxp/batch-play/continue-on-error-default-false.md", "summary": "Open when looking up continueOnError (default: false) in Photoshop.", "keywords": ["continueOnError (default: false)"]},
+  {"topic": "Descriptors", "file": "references/uxp/batch-play/descriptors.md", "summary": "Open when looking up Descriptors in Photoshop.", "keywords": ["Descriptors"]},
+  {"topic": "Getting state from Photoshop", "file": "references/uxp/batch-play/getting-state-from-photoshop.md", "summary": "Open when looking up Getting state from Photoshop in Photoshop.", "keywords": ["Getting state from Photoshop"]},
+  {"topic": "historyStateInfo (default: none)", "file": "references/uxp/batch-play/history-state-info-default-none.md", "summary": "Open when looking up historyStateInfo (default: none) in Photoshop.", "keywords": ["historyStateInfo (default: none)"]},
+  {"topic": "immediateRedraw (default: false)", "file": "references/uxp/batch-play/immediate-redraw-default-false.md", "summary": "Open when looking up immediateRedraw (default: false) in Photoshop.", "keywords": ["immediateRedraw (default: false)"]},
+  {"topic": "Legacy notes", "file": "references/uxp/batch-play/legacy-notes.md", "summary": "Open when looking up Legacy notes in Photoshop.", "keywords": ["Legacy notes"]},
+  {"topic": "options", "file": "references/uxp/batch-play/options.md", "summary": "Open when looking up options in Photoshop.", "keywords": ["options"]},
+  {"topic": "Reading every layer name", "file": "references/uxp/batch-play/multi-get-all-layer-names.md", "summary": "Open when looking up Reading every layer name in Photoshop.", "keywords": ["Reading every layer name"]},
+  {"topic": "Reading multiple active-layer properties", "file": "references/uxp/batch-play/multi-get.md", "summary": "Open when looking up Reading multiple active-layer properties in Photoshop.", "keywords": ["Reading multiple active-layer properties"]},
+  {"topic": "Reading properties from a layer range", "file": "references/uxp/batch-play/multi-get-layer-range.md", "summary": "Open when looking up Reading properties from a layer range in Photoshop.", "keywords": ["Reading properties from a layer range"]},
+  {"topic": "Result value", "file": "references/uxp/batch-play/result-value.md", "summary": "Open when looking up Result value in Photoshop.", "keywords": ["Result value"]},
+  {"topic": "synchronousExecution (default: false)", "file": "references/uxp/batch-play/synchronous-execution-default-false.md", "summary": "Open when looking up synchronousExecution (default: false) in Photoshop.", "keywords": ["synchronousExecution (default: false)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

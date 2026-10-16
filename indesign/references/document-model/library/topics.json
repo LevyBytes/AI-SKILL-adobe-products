@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/library/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "assets", "file": "references/document-model/library/assets.md", "summary": "Open when looking up assets in InDesign.", "keywords": ["assets"]},
+  {"topic": "associatedPanel", "file": "references/document-model/library/associated-panel.md", "summary": "Open when looking up associatedPanel in InDesign.", "keywords": ["associatedPanel"]},
+  {"topic": "close", "file": "references/document-model/library/close.md", "summary": "Open when looking up close in InDesign.", "keywords": ["close"]},
+  {"topic": "eventListeners", "file": "references/document-model/library/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/library/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "filePath", "file": "references/document-model/library/file-path.md", "summary": "Open when looking up filePath in InDesign.", "keywords": ["filePath"]},
+  {"topic": "fullName", "file": "references/document-model/library/full-name.md", "summary": "Open when looking up fullName in InDesign.", "keywords": ["fullName"]},
+  {"topic": "getElements", "file": "references/document-model/library/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "index", "file": "references/document-model/library/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "references/document-model/library/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "name", "file": "references/document-model/library/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "parent", "file": "references/document-model/library/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "references/document-model/library/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "references/document-model/library/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "store", "file": "references/document-model/library/store.md", "summary": "Open when looking up store in InDesign.", "keywords": ["store"]},
+  {"topic": "toSource", "file": "references/document-model/library/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/library/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

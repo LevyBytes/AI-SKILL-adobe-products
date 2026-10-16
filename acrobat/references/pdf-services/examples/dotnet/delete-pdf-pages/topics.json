@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Delete pdf pages example setup", "file": "references/pdf-services/examples/dotnet/delete-pdf-pages/delete-pdf-pages-setup.md", "summary": "Open when looking up Delete pdf pages example setup in Acrobat.", "keywords": ["Delete pdf pages example setup"]},
+  {"topic": "DeletePDFPages", "file": "references/pdf-services/examples/dotnet/delete-pdf-pages/Program.cs", "summary": "Open when looking up DeletePDFPages in Acrobat.", "keywords": ["DeletePDFPages"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Go to a Page", "file": "references/pdf-embed/getting-started-mobile-support/go-to-a-page.md", "summary": "Open when looking up Go to a Page in Acrobat.", "keywords": ["Go to a Page"]},
+  {"topic": "View modes in mobile browsers", "file": "references/pdf-embed/getting-started-mobile-support/view-modes-in-mobile-browsers.md", "summary": "Open when looking up View modes in mobile browsers in Acrobat.", "keywords": ["View modes in mobile browsers"]},
+  {"topic": "Zoom in", "file": "references/pdf-embed/getting-started-mobile-support/zoom-in.md", "summary": "Open when looking up Zoom in in Acrobat.", "keywords": ["Zoom in"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

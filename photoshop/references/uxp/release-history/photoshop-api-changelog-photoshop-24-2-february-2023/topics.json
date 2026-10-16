@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Imaging API Beta", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-24-2-february-2023/imaging-api-beta.md", "summary": "Open when looking up Imaging API Beta in Photoshop.", "keywords": ["Imaging API Beta"]},
+  {"topic": "Other fixes", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-24-2-february-2023/other-fixes.md", "summary": "Open when looking up Other fixes in Photoshop.", "keywords": ["Other fixes"]},
+  {"topic": "Text support", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-24-2-february-2023/text-support.md", "summary": "Open when looking up Text support in Photoshop.", "keywords": ["Text support"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

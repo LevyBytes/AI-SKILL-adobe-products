@@ -1,0 +1,21 @@
+# Acrobat — Soap
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Authenticated SOAP request example in Acrobat. [Authenticated SOAP request example](authenticated-request-example.md).
+- Open when looking up JavaScript APIs — SOAP in Acrobat. [JavaScript APIs — SOAP](java-script-apis-soap.md).
+- Open when looking up oResult parameter in Acrobat. [oResult parameter](o-result-parameter.md).
+- Open when looking up queryServices in Acrobat. [queryServices](query-services.md).
+- Open when looking up resolveService in Acrobat. [resolveService](resolve-service.md).
+- Open when looking up response in Acrobat. [response](response.md).
+- Open when looking up SOAP echo-header request example in Acrobat. [SOAP echo-header request example](echo-header-request-example.md).
+- Open when looking up SOAP echo-service connection example in Acrobat. [SOAP echo-service connection example](connect-echo-service-example.md).
+- Open when looking up SOAP echo-value request example in Acrobat. [SOAP echo-value request example](echo-value-request-example.md).
+- Open when looking up SOAP request-object contract in Acrobat. [SOAP request-object contract](request-object-contract.md).
+- Open when looking up SOAP.connect in Acrobat. [SOAP.connect](connect.md).
+- Open when looking up SOAP.request in Acrobat. [SOAP.request](request.md).
+- Open when looking up streamDecode in Acrobat. [streamDecode](stream-decode.md).
+- Open when looking up streamDigest in Acrobat. [streamDigest](stream-digest.md).
+- Open when looking up streamEncode in Acrobat. [streamEncode](stream-encode.md).
+- Open when looking up streamFromString in Acrobat. [streamFromString](stream-from-string.md).
+- Open when looking up stringFromStream in Acrobat. [stringFromStream](string-from-stream.md).
+- Open when looking up wireDump in Acrobat. [wireDump](wire-dump.md).

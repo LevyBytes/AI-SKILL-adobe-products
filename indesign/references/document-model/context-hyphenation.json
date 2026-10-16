@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DictionaryPreference", "file": "references/document-model/dictionary-preference.md", "summary": "Open when looking up DictionaryPreference in InDesign.", "keywords": ["DictionaryPreference"]},
+  {"topic": "DictionaryPreference references", "file": "references/document-model/dictionary-preference/reference-index.md", "summary": "Open when looking up DictionaryPreference in InDesign.", "keywords": ["DictionaryPreference references"]},
+  {"topic": "HyphenationException", "file": "references/document-model/hyphenation-exception.md", "summary": "Open when looking up HyphenationException in InDesign.", "keywords": ["HyphenationException"]},
+  {"topic": "HyphenationException references", "file": "references/document-model/hyphenation-exception/reference-index.md", "summary": "Open when looking up HyphenationException in InDesign.", "keywords": ["HyphenationException references"]},
+  {"topic": "HyphenationExceptions", "file": "references/document-model/hyphenation-exceptions.md", "summary": "Open when looking up HyphenationExceptions in InDesign.", "keywords": ["HyphenationExceptions"]},
+  {"topic": "HyphenationExceptions references", "file": "references/document-model/hyphenation-exceptions/reference-index.md", "summary": "Open when looking up HyphenationExceptions in InDesign.", "keywords": ["HyphenationExceptions references"]},
+  {"topic": "HyphenationStyleEnum", "file": "references/document-model/hyphenation-style-enum.md", "summary": "Open when looking up HyphenationStyleEnum in InDesign.", "keywords": ["HyphenationStyleEnum"]},
+  {"topic": "HyphenationStyleEnum references", "file": "references/document-model/hyphenation-style-enum/reference-index.md", "summary": "Open when looking up HyphenationStyleEnum in InDesign.", "keywords": ["HyphenationStyleEnum references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

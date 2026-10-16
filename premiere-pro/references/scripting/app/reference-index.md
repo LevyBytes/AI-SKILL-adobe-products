@@ -1,0 +1,42 @@
+# Premiere Pro — App
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up app.anywhere in Premiere Pro. [app.anywhere](anywhere.md).
+- Open when looking up app.bind in Premiere Pro. [app.bind](bind.md).
+- Open when looking up app.broadcastPrefsChanged() in Premiere Pro. [app.broadcastPrefsChanged()](broadcast-prefs-changed.md).
+- Open when looking up app.build in Premiere Pro. [app.build](build.md).
+- Open when looking up app.enableQE() in Premiere Pro. [app.enableQE()](enable-qe.md).
+- Open when looking up app.encoder in Premiere Pro. [app.encoder](encoder.md).
+- Open when looking up app.getAppPrefPath in Premiere Pro. [app.getAppPrefPath](get-app-pref-path.md).
+- Open when looking up app.getAppSystemPrefPath in Premiere Pro. [app.getAppSystemPrefPath](get-app-system-pref-path.md).
+- Open when looking up app.getCurrentProjectViewSelection() in Premiere Pro. [app.getCurrentProjectViewSelection()](get-current-project-view-selection.md).
+- Open when looking up app.getEnableProxies() in Premiere Pro. [app.getEnableProxies()](get-enable-proxies.md).
+- Open when looking up app.getPProPrefPath in Premiere Pro. [app.getPProPrefPath](get-p-pro-pref-path.md).
+- Open when looking up app.getPProSystemPrefPath in Premiere Pro. [app.getPProSystemPrefPath](get-p-pro-system-pref-path.md).
+- Open when looking up app.getProjectFromViewID() in Premiere Pro. [app.getProjectFromViewID()](get-project-from-view-id.md).
+- Open when looking up app.getProjectViewIDs() in Premiere Pro. [app.getProjectViewIDs()](get-project-view-i-ds.md).
+- Open when looking up app.getWorkspaces() in Premiere Pro. [app.getWorkspaces()](get-workspaces.md).
+- Open when looking up app.isDocument() in Premiere Pro. [app.isDocument()](is-document.md).
+- Open when looking up app.isDocumentOpen() in Premiere Pro. [app.isDocumentOpen()](is-document-open.md).
+- Open when looking up app.learnPanelContentDirPath in Premiere Pro. [app.learnPanelContentDirPath](learn-panel-content-dir-path.md).
+- Open when looking up app.learnPanelExampleProjectDirPath in Premiere Pro. [app.learnPanelExampleProjectDirPath](learn-panel-example-project-dir-path.md).
+- Open when looking up app.metadata in Premiere Pro. [app.metadata](metadata.md).
+- Open when looking up app.newProject() in Premiere Pro. [app.newProject()](new-project.md).
+- Open when looking up app.openDocument() in Premiere Pro. [app.openDocument()](open-document.md).
+- Open when looking up app.openFCPXML() in Premiere Pro. [app.openFCPXML()](open-fcpxml.md).
+- Open when looking up app.path in Premiere Pro. [app.path](path.md).
+- Open when looking up app.production in Premiere Pro. [app.production](production.md).
+- Open when looking up app.project in Premiere Pro. [app.project](project.md).
+- Open when looking up app.projectManager in Premiere Pro. [app.projectManager](project-manager.md).
+- Open when looking up app.projects in Premiere Pro. [app.projects](projects.md).
+- Open when looking up app.properties in Premiere Pro. [app.properties](properties.md).
+- Open when looking up app.quit() in Premiere Pro. [app.quit()](quit.md).
+- Open when looking up app.setEnableProxies() in Premiere Pro. [app.setEnableProxies()](set-enable-proxies.md).
+- Open when looking up app.setExtensionPersistent() in Premiere Pro. [app.setExtensionPersistent()](set-extension-persistent.md).
+- Open when looking up app.setScratchDiskPath() in Premiere Pro. [app.setScratchDiskPath()](set-scratch-disk-path.md).
+- Open when looking up app.setSDKEventMessage() in Premiere Pro. [app.setSDKEventMessage()](set-sdk-event-message.md).
+- Open when looking up app.setWorkspace() in Premiere Pro. [app.setWorkspace()](set-workspace.md).
+- Open when looking up app.sourceMonitor in Premiere Pro. [app.sourceMonitor](source-monitor.md).
+- Open when looking up app.trace() in Premiere Pro. [app.trace()](trace.md).
+- Open when looking up app.userGuid in Premiere Pro. [app.userGuid](user-guid.md).
+- Open when looking up app.version in Premiere Pro. [app.version](version.md).

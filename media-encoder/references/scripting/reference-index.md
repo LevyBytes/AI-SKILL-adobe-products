@@ -1,0 +1,22 @@
+# Media Encoder — Scripting APIs
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z)](adobe-media-encoder-ame-scripting-api-reference-a-z.md).
+- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject](exporter-script-object.md).
+- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject references](exporter-examples/reference-index.md).
+- Open when looking up Ame batch item creation failed event in Media Encoder. [Ame batch item creation failed event references](ame-batch-item-creation-failed-event/reference-index.md).
+- Open when looking up Ame export event in Media Encoder. [Ame export event references](ame-export-event/reference-index.md).
+- Open when looking up Ame frontend event in Media Encoder. [Ame frontend event references](ame-frontend-event/reference-index.md).
+- Open when looking up AME Scripting Guide in Media Encoder. [AME Scripting Guide](ame-scripting-guide.md).
+- Open when looking up Application in Media Encoder. [Application references](application/reference-index.md).
+- Open when looking up Encoder host script object in Media Encoder. [Encoder host script object references](encoder-host-script-object/reference-index.md).
+- Open when looking up Encoder host wrapper event in Media Encoder. [Encoder host wrapper event references](encoder-host-wrapper-event/reference-index.md).
+- Open when looking up Encoder wrapper event in Media Encoder. [Encoder wrapper event references](encoder-wrapper-event/reference-index.md).
+- Open when looking up Encoder wrapper in Media Encoder. [Encoder wrapper references](encoder-wrapper/reference-index.md).
+- Open when looking up Frontend script object in Media Encoder. [Frontend script object references](frontend-script-object/reference-index.md).
+- Open when looking up How do i run scripts in ame in Media Encoder. [How do i run scripts in ame references](how-do-i-run-scripts-in-ame/reference-index.md).
+- Open when looking up Source media info in Media Encoder. [Source media info references](source-media-info/reference-index.md).
+- Open when looking up Watch folder script event in Media Encoder. [Watch folder script event references](watch-folder-script-event/reference-index.md).
+- Open when looking up Watch folder script object in Media Encoder. [Watch folder script object references](watch-folder-script-object/reference-index.md).
+- Open when looking up What is a good starting point to understand the scripting objects in Media Encoder. [What is a good starting point to understand the scripting objects references](scripting-object-overview/reference-index.md).
+- Open when looking up Where can i ask more questions and get help in Media Encoder. [Where can i ask more questions and get help references](where-can-i-ask-more-questions-and-get-help/reference-index.md).

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "frame", "file": "references/scripting/marker/frame.md", "summary": "Open when looking up frame in Acrobat.", "keywords": ["frame"]},
+  {"topic": "index", "file": "references/scripting/marker/index.md", "summary": "Open when looking up index in Acrobat.", "keywords": ["index"]},
+  {"topic": "Media and Marker APIs — Marker", "file": "references/scripting/marker/media-and-marker-apis-marker.md", "summary": "Open when looking up Media and Marker APIs — Marker in Acrobat.", "keywords": ["Media and Marker APIs — Marker"]},
+  {"topic": "name", "file": "references/scripting/marker/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "time", "file": "references/scripting/marker/time.md", "summary": "Open when looking up time in Acrobat.", "keywords": ["time"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "SVGs collection iteration", "file": "references/community-types/indesign/sv-gs/collection-iteration.md", "summary": "Open when looking up SVGs collection iteration in Shared Adobe platform.", "keywords": ["SVGs collection iteration"]},
+  {"topic": "SVGs declaration", "file": "references/community-types/indesign/sv-gs/declaration.md", "summary": "Open when looking up SVGs declaration in Shared Adobe platform.", "keywords": ["SVGs declaration"]},
+  {"topic": "SVGs named and indexed items", "file": "references/community-types/indesign/sv-gs/named-and-indexed-items.md", "summary": "Open when looking up SVGs named and indexed items in Shared Adobe platform.", "keywords": ["SVGs named and indexed items"]},
+  {"topic": "SVGs.add", "file": "references/community-types/indesign/sv-gs/add.md", "summary": "Open when looking up SVGs.add in Shared Adobe platform.", "keywords": ["SVGs.add"]},
+  {"topic": "SVGs.count", "file": "references/community-types/indesign/sv-gs/count.md", "summary": "Open when looking up SVGs.count in Shared Adobe platform.", "keywords": ["SVGs.count"]},
+  {"topic": "SVGs.IndexSignature", "file": "references/community-types/indesign/sv-gs/index-signature.md", "summary": "Open when looking up SVGs.IndexSignature in Shared Adobe platform.", "keywords": ["SVGs.IndexSignature"]},
+  {"topic": "SVGs.itemByRange", "file": "references/community-types/indesign/sv-gs/item-by-range.md", "summary": "Open when looking up SVGs.itemByRange in Shared Adobe platform.", "keywords": ["SVGs.itemByRange"]},
+  {"topic": "SVGs.length", "file": "references/community-types/indesign/sv-gs/length.md", "summary": "Open when looking up SVGs.length in Shared Adobe platform.", "keywords": ["SVGs.length"]},
+  {"topic": "SVGs.toSource", "file": "references/community-types/indesign/sv-gs/to-source.md", "summary": "Open when looking up SVGs.toSource in Shared Adobe platform.", "keywords": ["SVGs.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "V1 edit-block form", "file": "references/cloud-services/editing-existing-layers/v1-edit-block-form.md", "summary": "Open when looking up V1 edit-block form in Photoshop.", "keywords": ["V1 edit-block form"]},
+  {"topic": "V2 edit form", "file": "references/cloud-services/editing-existing-layers/v2-edit-form.md", "summary": "Open when looking up V2 edit form in Photoshop.", "keywords": ["V2 edit form"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

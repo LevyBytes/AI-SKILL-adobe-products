@@ -1,0 +1,32 @@
+# Animate In
+
+- Center Spiral
+- Characters Shuffle In
+- Decoder Fade In
+- Drop In By Character
+- Espresso Eye Chart
+- Fade Up And Flip
+- Fade Up Characters
+- Fade Up Lines
+- Fade Up Words
+- Fly In From Bottom
+- Fly In With A Twist
+- Pop Buzz Words
+- Raining Characters In
+- Random Fade Up
+- Random Shuffle In
+
+- Random Word Shuffle In
+- Slow Fade On
+- Smooth Move In
+- Spin In By Character
+- Spin In By Word
+- Straight In By Character
+- Straight In By Word
+- Straight In Multi-Line
+- Stretch In Each Line
+- Stretch In Each Word
+- Twirl On Each Line
+- Twirl On Each Word
+- Typewriter
+- Wipe In To Center

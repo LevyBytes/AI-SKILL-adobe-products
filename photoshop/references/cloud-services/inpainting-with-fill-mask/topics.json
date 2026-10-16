@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "About the Fill Masked Areas API", "file": "references/cloud-services/inpainting-with-fill-mask/about-the-fill-masked-areas-api.md", "summary": "Open when looking up About the Fill Masked Areas API in Photoshop.", "keywords": ["About the Fill Masked Areas API"]},
+  {"topic": "Calling the Fill Masked Areas API", "file": "references/cloud-services/inpainting-with-fill-mask/calling-the-fill-masked-areas-api.md", "summary": "Open when looking up Calling the Fill Masked Areas API in Photoshop.", "keywords": ["Calling the Fill Masked Areas API"]},
+  {"topic": "Complete JavaScript listing", "file": "references/cloud-services/inpainting-with-fill-mask/complete-java-script-listing.md", "summary": "Open when looking up Complete JavaScript listing in Photoshop.", "keywords": ["Complete JavaScript listing"]},
+  {"topic": "Complete sample code", "file": "references/cloud-services/inpainting-with-fill-mask/complete-sample-code.md", "summary": "Open when looking up Complete sample code in Photoshop.", "keywords": ["Complete sample code"]},
+  {"topic": "Generated result", "file": "references/cloud-services/inpainting-with-fill-mask/generated-result.md", "summary": "Open when looking up Generated result in Photoshop.", "keywords": ["Generated result"]},
+  {"topic": "Mask image", "file": "references/cloud-services/inpainting-with-fill-mask/mask-image.md", "summary": "Open when looking up Mask image in Photoshop.", "keywords": ["Mask image"]},
+  {"topic": "Prerequisites", "file": "references/cloud-services/inpainting-with-fill-mask/prerequisites.md", "summary": "Open when looking up Prerequisites in Photoshop.", "keywords": ["Prerequisites"]},
+  {"topic": "Source image", "file": "references/cloud-services/inpainting-with-fill-mask/source-image.md", "summary": "Open when looking up Source image in Photoshop.", "keywords": ["Source image"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

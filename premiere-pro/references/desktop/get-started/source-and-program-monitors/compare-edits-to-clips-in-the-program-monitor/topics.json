@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Frame Comparison", "file": "references/desktop/get-started/source-and-program-monitors/compare-edits-to-clips-in-the-program-monitor/frame-comparison.md", "summary": "Open when looking up Frame Comparison in Premiere Pro.", "keywords": ["Frame Comparison"]},
+  {"topic": "Shot Comparison", "file": "references/desktop/get-started/source-and-program-monitors/compare-edits-to-clips-in-the-program-monitor/shot-comparison.md", "summary": "Open when looking up Shot Comparison in Premiere Pro.", "keywords": ["Shot Comparison"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

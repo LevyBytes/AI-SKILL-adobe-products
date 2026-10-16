@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Action types", "file": "references/desktop/edit-documents/apply-pdf-actions/pdf-actions-overview/action-types.md", "summary": "Open when looking up Action types in Acrobat.", "keywords": ["Action types"]},
+  {"topic": "Actions", "file": "references/desktop/edit-documents/apply-pdf-actions/pdf-actions-overview/actions.md", "summary": "Open when looking up Actions in Acrobat.", "keywords": ["Actions"]},
+  {"topic": "Form and media triggers", "file": "references/desktop/edit-documents/apply-pdf-actions/pdf-actions-overview/form-and-media-triggers.md", "summary": "Open when looking up Form and media triggers in Acrobat.", "keywords": ["Form and media triggers"]},
+  {"topic": "Triggers", "file": "references/desktop/edit-documents/apply-pdf-actions/pdf-actions-overview/triggers.md", "summary": "Open when looking up Triggers in Acrobat.", "keywords": ["Triggers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

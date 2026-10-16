@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Comments and Forms", "file": "references/desktop/print-documents/set-up-and-print-pdfs/print-settings/comments-and-forms.md", "summary": "Open when looking up Comments and Forms in Acrobat.", "keywords": ["Comments and Forms"]},
+  {"topic": "More Print options", "file": "references/desktop/print-documents/set-up-and-print-pdfs/print-settings/more-print-options.md", "summary": "Open when looking up More Print options in Acrobat.", "keywords": ["More Print options"]},
+  {"topic": "Orientation", "file": "references/desktop/print-documents/set-up-and-print-pdfs/print-settings/orientation.md", "summary": "Open when looking up Orientation in Acrobat.", "keywords": ["Orientation"]},
+  {"topic": "Pages to Print", "file": "references/desktop/print-documents/set-up-and-print-pdfs/print-settings/pages-to-print.md", "summary": "Open when looking up Pages to Print in Acrobat.", "keywords": ["Pages to Print"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

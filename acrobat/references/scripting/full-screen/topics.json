@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "backgroundColor", "file": "references/scripting/full-screen/background-color.md", "summary": "Open when looking up backgroundColor in Acrobat.", "keywords": ["backgroundColor"]},
+  {"topic": "clickAdvances", "file": "references/scripting/full-screen/click-advances.md", "summary": "Open when looking up clickAdvances in Acrobat.", "keywords": ["clickAdvances"]},
+  {"topic": "cursor", "file": "references/scripting/full-screen/cursor.md", "summary": "Open when looking up cursor in Acrobat.", "keywords": ["cursor"]},
+  {"topic": "defaultTransition", "file": "references/scripting/full-screen/default-transition.md", "summary": "Open when looking up defaultTransition in Acrobat.", "keywords": ["defaultTransition"]},
+  {"topic": "escapeExits", "file": "references/scripting/full-screen/escape-exits.md", "summary": "Open when looking up escapeExits in Acrobat.", "keywords": ["escapeExits"]},
+  {"topic": "isFullScreen", "file": "references/scripting/full-screen/is-full-screen.md", "summary": "Open when looking up isFullScreen in Acrobat.", "keywords": ["isFullScreen"]},
+  {"topic": "JavaScript APIs — FullScreen", "file": "references/scripting/full-screen/java-script-apis-full-screen.md", "summary": "Open when looking up JavaScript APIs — FullScreen in Acrobat.", "keywords": ["JavaScript APIs — FullScreen"]},
+  {"topic": "loop", "file": "references/scripting/full-screen/loop.md", "summary": "Open when looking up loop in Acrobat.", "keywords": ["loop"]},
+  {"topic": "timeDelay", "file": "references/scripting/full-screen/time-delay.md", "summary": "Open when looking up timeDelay in Acrobat.", "keywords": ["timeDelay"]},
+  {"topic": "transitions", "file": "references/scripting/full-screen/transitions.md", "summary": "Open when looking up transitions in Acrobat.", "keywords": ["transitions"]},
+  {"topic": "usePageTiming", "file": "references/scripting/full-screen/use-page-timing.md", "summary": "Open when looking up usePageTiming in Acrobat.", "keywords": ["usePageTiming"]},
+  {"topic": "useTimer", "file": "references/scripting/full-screen/use-timer.md", "summary": "Open when looking up useTimer in Acrobat.", "keywords": ["useTimer"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

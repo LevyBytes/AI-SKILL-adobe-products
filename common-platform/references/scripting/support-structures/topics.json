@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Defining entry points for indirect access — Support structures", "file": "references/scripting/support-structures/defining-entry-points-for-indirect-access-support-structures.md", "summary": "Open when looking up Defining entry points for indirect access — Support structures in Shared Adobe platform.", "keywords": ["Defining entry points for indirect access — Support structures"]},
+  {"topic": "SoCClientName", "file": "references/scripting/support-structures/so-c-client-name.md", "summary": "Open when looking up SoCClientName in Shared Adobe platform.", "keywords": ["SoCClientName"]},
+  {"topic": "TaggedData", "file": "references/scripting/support-structures/tagged-data.md", "summary": "Open when looking up TaggedData in Shared Adobe platform.", "keywords": ["TaggedData"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

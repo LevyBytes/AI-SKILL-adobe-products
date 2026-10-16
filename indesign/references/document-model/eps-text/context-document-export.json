@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "asynchronousExportFile", "file": "references/document-model/eps-text/asynchronous-export-file.md", "summary": "Open when looking up asynchronousExportFile in InDesign.", "keywords": ["asynchronousExportFile"]},
+  {"topic": "exportFile", "file": "references/document-model/eps-text/export-file.md", "summary": "Open when looking up exportFile in InDesign.", "keywords": ["exportFile"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

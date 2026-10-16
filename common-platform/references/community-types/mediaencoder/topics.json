@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "App", "file": "references/community-types/mediaencoder/app.md", "summary": "Open when looking up App in Shared Adobe platform.", "keywords": ["App"]},
+  {"topic": "FrontEnd references", "file": "references/community-types/mediaencoder/front-end/reference-index.md", "summary": "Open when looking up FrontEnd in Shared Adobe platform.", "keywords": ["FrontEnd references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

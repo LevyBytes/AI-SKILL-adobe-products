@@ -1,0 +1,30 @@
+# Shared Adobe platform — Guide
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Guide declaration in Shared Adobe platform. [Guide declaration](declaration.md).
+- Open when looking up Guide event listeners in Shared Adobe platform. [Guide event listeners](event-listeners.md).
+- Open when looking up Guide identity and parent in Shared Adobe platform. [Guide identity and parent](identity-and-parent.md).
+- Open when looking up Guide labels and metadata in Shared Adobe platform. [Guide labels and metadata](labels-and-metadata.md).
+- Open when looking up Guide object lifecycle in Shared Adobe platform. [Guide object lifecycle](object-lifecycle.md).
+- Open when looking up Guide object resolution in Shared Adobe platform. [Guide object resolution](object-resolution.md).
+- Open when looking up Guide.AFTER_PLACE in Shared Adobe platform. [Guide.AFTER_PLACE](afterplace.md).
+- Open when looking up Guide.allowOverrides in Shared Adobe platform. [Guide.allowOverrides](allow-overrides.md).
+- Open when looking up Guide.detach in Shared Adobe platform. [Guide.detach](detach.md).
+- Open when looking up Guide.fitToPage in Shared Adobe platform. [Guide.fitToPage](fit-to-page.md).
+- Open when looking up Guide.guideColor in Shared Adobe platform. [Guide.guideColor](guide-color.md).
+- Open when looking up Guide.guideType in Shared Adobe platform. [Guide.guideType](guide-type.md).
+- Open when looking up Guide.guideZone in Shared Adobe platform. [Guide.guideZone](guide-zone.md).
+- Open when looking up Guide.itemLayer in Shared Adobe platform. [Guide.itemLayer](item-layer.md).
+- Open when looking up Guide.location in Shared Adobe platform. [Guide.location](location.md).
+- Open when looking up Guide.locked in Shared Adobe platform. [Guide.locked](locked.md).
+- Open when looking up Guide.orientation in Shared Adobe platform. [Guide.orientation](orientation.md).
+- Open when looking up Guide.overridden in Shared Adobe platform. [Guide.overridden](overridden.md).
+- Open when looking up Guide.overriddenMasterPageItem in Shared Adobe platform. [Guide.overriddenMasterPageItem](overridden-master-page-item.md).
+- Open when looking up Guide.override in Shared Adobe platform. [Guide.override](override.md).
+- Open when looking up Guide.parentPage in Shared Adobe platform. [Guide.parentPage](parent-page.md).
+- Open when looking up Guide.properties in Shared Adobe platform. [Guide.properties](properties.md).
+- Open when looking up Guide.removeOverride in Shared Adobe platform. [Guide.removeOverride](remove-override.md).
+- Open when looking up Guide.resolve in Shared Adobe platform. [Guide.resolve](resolve.md).
+- Open when looking up Guide.select in Shared Adobe platform. [Guide.select](select.md).
+- Open when looking up Guide.transformValuesOf in Shared Adobe platform. [Guide.transformValuesOf](transform-values-of.md).
+- Open when looking up Guide.viewThreshold in Shared Adobe platform. [Guide.viewThreshold](view-threshold.md).

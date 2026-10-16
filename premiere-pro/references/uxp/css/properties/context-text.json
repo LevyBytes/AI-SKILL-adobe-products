@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "color", "file": "references/uxp/css/properties/color.md", "summary": "Open when looking up color in Premiere Pro.", "keywords": ["color"]},
+  {"topic": "font-family", "file": "references/uxp/css/properties/font-family.md", "summary": "Open when looking up font-family in Premiere Pro.", "keywords": ["font-family"]},
+  {"topic": "font-family references", "file": "references/uxp/css/properties/font-family/reference-index.md", "summary": "Open when looking up font-family in Premiere Pro.", "keywords": ["font-family references"]},
+  {"topic": "font-size", "file": "references/uxp/css/properties/font-size.md", "summary": "Open when looking up font-size in Premiere Pro.", "keywords": ["font-size"]},
+  {"topic": "font-size references", "file": "references/uxp/css/properties/font-size/reference-index.md", "summary": "Open when looking up font-size in Premiere Pro.", "keywords": ["font-size references"]},
+  {"topic": "font-style", "file": "references/uxp/css/properties/font-style.md", "summary": "Open when looking up font-style in Premiere Pro.", "keywords": ["font-style"]},
+  {"topic": "font-style references", "file": "references/uxp/css/properties/font-style/reference-index.md", "summary": "Open when looking up font-style in Premiere Pro.", "keywords": ["font-style references"]},
+  {"topic": "font-weight", "file": "references/uxp/css/properties/font-weight.md", "summary": "Open when looking up font-weight in Premiere Pro.", "keywords": ["font-weight"]},
+  {"topic": "font-weight references", "file": "references/uxp/css/properties/font-weight/reference-index.md", "summary": "Open when looking up font-weight in Premiere Pro.", "keywords": ["font-weight references"]},
+  {"topic": "letter-spacing", "file": "references/uxp/css/properties/letter-spacing.md", "summary": "Open when looking up letter-spacing in Premiere Pro.", "keywords": ["letter-spacing"]},
+  {"topic": "letter-spacing references", "file": "references/uxp/css/properties/letter-spacing/reference-index.md", "summary": "Open when looking up letter-spacing in Premiere Pro.", "keywords": ["letter-spacing references"]},
+  {"topic": "text-align", "file": "references/uxp/css/properties/text-align.md", "summary": "Open when looking up text-align in Premiere Pro.", "keywords": ["text-align"]},
+  {"topic": "text-align references", "file": "references/uxp/css/properties/text-align/reference-index.md", "summary": "Open when looking up text-align in Premiere Pro.", "keywords": ["text-align references"]},
+  {"topic": "text-overflow", "file": "references/uxp/css/properties/text-overflow.md", "summary": "Open when looking up text-overflow in Premiere Pro.", "keywords": ["text-overflow"]},
+  {"topic": "text-overflow references", "file": "references/uxp/css/properties/text-overflow/reference-index.md", "summary": "Open when looking up text-overflow in Premiere Pro.", "keywords": ["text-overflow references"]},
+  {"topic": "white-space", "file": "references/uxp/css/properties/white-space.md", "summary": "Open when looking up white-space in Premiere Pro.", "keywords": ["white-space"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

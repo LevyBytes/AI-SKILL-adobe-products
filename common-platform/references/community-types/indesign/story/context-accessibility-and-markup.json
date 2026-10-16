@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Story.associatedXMLElement", "file": "references/community-types/indesign/story/associated-xml-element.md", "summary": "Open when looking up Story.associatedXMLElement in Shared Adobe platform.", "keywords": ["Story.associatedXMLElement"]},
+  {"topic": "Story.autoTag", "file": "references/community-types/indesign/story/auto-tag.md", "summary": "Open when looking up Story.autoTag in Shared Adobe platform.", "keywords": ["Story.autoTag"]},
+  {"topic": "Story.markup", "file": "references/community-types/indesign/story/markup.md", "summary": "Open when looking up Story.markup in Shared Adobe platform.", "keywords": ["Story.markup"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

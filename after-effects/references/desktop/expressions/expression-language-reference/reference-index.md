@@ -1,0 +1,30 @@
+# After Effects — Expression Language Reference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Camera attributes and methods (expression reference) in After Effects. [Camera attributes and methods (expression reference)](camera-attributes-and-methods-expression-reference.md).
+- Open when looking up Composition marker protected region attribute in After Effects. [Composition marker protected region attribute](composition-marker-protected-region-attribute.md).
+- Open when looking up Data-driven animation (expression reference) in After Effects. [Data-driven animation (expression reference)](data-driven-animation-expression-reference.md).
+- Open when looking up Differences between the JavaScript engine and ExtendScript in After Effects. [Differences between the JavaScript engine and ExtendScript](differences-between-the-java-script-engine-and-extend-script.md).
+- Open when looking up Dropdown Menu attributes (expression reference) in After Effects. [Dropdown Menu attributes (expression reference)](dropdown-menu-attributes-expression-reference.md).
+- Open when looking up Expression access to paths points on shapes, masks, and brush strokes (expression reference) in After Effects. [Expression access to paths points on shapes, masks, and brush strokes (expression reference)](path-point-expression-reference.md).
+- Open when looking up Expressions: JavaScript Engine in After Effects. [Expressions: JavaScript Engine](expressions-java-script-engine.md).
+- Open when looking up Footage attributes and methods (expression reference) in After Effects. [Footage attributes and methods (expression reference)](footage-attributes-and-methods-expression-reference.md).
+- Open when looking up Hex to RGB color conversion method (expression reference) in After Effects. [Hex to RGB color conversion method (expression reference)](hex-to-rgb-color-conversion-method-expression-reference.md).
+- Open when looking up Improvements provided by the JavaScript engine in After Effects. [Improvements provided by the JavaScript engine](improvements-provided-by-the-java-script-engine.md).
+- Open when looking up index in After Effects. [index](index.md).
+- Open when looking up Interpolation methods (expression reference) in After Effects. [Interpolation methods (expression reference)](interpolation-methods-expression-reference.md).
+- Open when looking up Key attributes and methods (expression reference) in After Effects. [Key attributes and methods (expression reference)](key-attributes-and-methods-expression-reference.md).
+- Open when looking up Layer Properties attributes and methods (expression reference) in After Effects. [Layer Properties attributes and methods (expression reference)](layer-properties-attributes-and-methods-expression-reference.md).
+- Open when looking up Layer Space Transforms methods (expression reference) in After Effects. [Layer Space Transforms methods (expression reference)](layer-space-transforms-methods-expression-reference.md).
+- Open when looking up Light attributes and methods (expression reference) in After Effects. [Light attributes and methods (expression reference)](light-attributes-and-methods-expression-reference.md).
+- Open when looking up Looping Keyframes with Expressions in After Effects in After Effects. [Looping Keyframes with Expressions in After Effects](looping-keyframes-with-expressions-in-after-effects.md).
+- Open when looking up MarkerKey attributes (expression reference) in After Effects. [MarkerKey attributes (expression reference)](marker-key-attributes-expression-reference.md).
+- Open when looking up MarkerValue.protectedRegion (expression reference) in After Effects. [MarkerValue.protectedRegion (expression reference)](marker-value-protected-region-expression-reference.md).
+- Open when looking up Mask attributes and methods (expression reference) in After Effects. [Mask attributes and methods (expression reference)](mask-attributes-and-methods-expression-reference.md).
+- Open when looking up Path point-and-tangent report in After Effects. [Path point-and-tangent report](path-point-and-tangent-report.md).
+- Open when looking up Project properties (expression reference) in After Effects. [Project properties (expression reference)](project-properties-expression-reference.md).
+- Open when looking up Property attributes and methods (expression reference) in After Effects. [Property attributes and methods (expression reference)](property-attributes-and-methods-expression-reference.md).
+- Open when looking up Random Numbers methods (expression reference) in After Effects. [Random Numbers methods (expression reference)](random-numbers-methods-expression-reference.md).
+- Open when looking up Text attributes (expression reference) in After Effects. [Text attributes (expression reference)](text-attributes-expression-reference.md).
+- Open when looking up Track a mask vertex in composition space in After Effects. [Track a mask vertex in composition space](track-a-mask-vertex-in-composition-space.md).
+- Open when looking up Vector Math methods (expression reference) in After Effects. [Vector Math methods (expression reference)](vector-math-methods-expression-reference.md).

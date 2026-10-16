@@ -1,0 +1,25 @@
+# Shared Adobe platform — Window
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Window declaration in Shared Adobe platform. [Window declaration](declaration.md).
+- Open when looking up Window event listeners in Shared Adobe platform. [Window event listeners](event-listeners.md).
+- Open when looking up Window identity and parent in Shared Adobe platform. [Window identity and parent](identity-and-parent.md).
+- Open when looking up Window object resolution in Shared Adobe platform. [Window object resolution](object-resolution.md).
+- Open when looking up Window.AFTER_ACTIVATE in Shared Adobe platform. [Window.AFTER_ACTIVATE](afteractivate.md).
+- Open when looking up Window.AFTER_ATTRIBUTE_CHANGED in Shared Adobe platform. [Window.AFTER_ATTRIBUTE_CHANGED](afterattributechanged.md).
+- Open when looking up Window.AFTER_CLOSE in Shared Adobe platform. [Window.AFTER_CLOSE](afterclose.md).
+- Open when looking up Window.AFTER_OPEN in Shared Adobe platform. [Window.AFTER_OPEN](afteropen.md).
+- Open when looking up Window.AFTER_SELECTION_ATTRIBUTE_CHANGED in Shared Adobe platform. [Window.AFTER_SELECTION_ATTRIBUTE_CHANGED](afterselectionattributechanged.md).
+- Open when looking up Window.AFTER_SELECTION_CHANGED in Shared Adobe platform. [Window.AFTER_SELECTION_CHANGED](afterselectionchanged.md).
+- Open when looking up Window.BEFORE_CLOSE in Shared Adobe platform. [Window.BEFORE_CLOSE](beforeclose.md).
+- Open when looking up Window.BEFORE_DEACTIVATE in Shared Adobe platform. [Window.BEFORE_DEACTIVATE](beforedeactivate.md).
+- Open when looking up Window.bounds in Shared Adobe platform. [Window.bounds](bounds.md).
+- Open when looking up Window.bringToFront in Shared Adobe platform. [Window.bringToFront](bring-to-front.md).
+- Open when looking up Window.close in Shared Adobe platform. [Window.close](close.md).
+- Open when looking up Window.maximize in Shared Adobe platform. [Window.maximize](maximize.md).
+- Open when looking up Window.minimize in Shared Adobe platform. [Window.minimize](minimize.md).
+- Open when looking up Window.properties in Shared Adobe platform. [Window.properties](properties.md).
+- Open when looking up Window.restore in Shared Adobe platform. [Window.restore](restore.md).
+- Open when looking up Window.select in Shared Adobe platform. [Window.select](select.md).
+- Open when looking up Window.selection in Shared Adobe platform. [Window.selection](selection.md).
+- Open when looking up Window.selectionKeyObject in Shared Adobe platform. [Window.selectionKeyObject](selection-key-object.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "getGraphicsWhiteLuminance", "file": "references/uxp/host-api/project-color-settings/instance-methods/get-graphics-white-luminance.md", "summary": "Open when looking up getGraphicsWhiteLuminance in Premiere Pro.", "keywords": ["getGraphicsWhiteLuminance"]},
+  {"topic": "getSupportedGraphicsWhiteLuminances", "file": "references/uxp/host-api/project-color-settings/instance-methods/get-supported-graphics-white-luminances.md", "summary": "Open when looking up getSupportedGraphicsWhiteLuminances in Premiere Pro.", "keywords": ["getSupportedGraphicsWhiteLuminances"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

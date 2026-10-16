@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Directory and File I/O Operations (File APIs)", "file": "references/cep/migrating-native-cep-functions/directory-and-file-i-o-operations-file-apis.md", "summary": "Open when looking up Directory and File I/O Operations (File APIs) in Shared Adobe platform.", "keywords": ["Directory and File I/O Operations (File APIs)"]},
+  {"topic": "Encoding API", "file": "references/cep/migrating-native-cep-functions/encoding-api.md", "summary": "Open when looking up Encoding API in Shared Adobe platform.", "keywords": ["Encoding API"]},
+  {"topic": "Opening Remote Resources", "file": "references/cep/migrating-native-cep-functions/opening-remote-resources.md", "summary": "Open when looking up Opening Remote Resources in Shared Adobe platform.", "keywords": ["Opening Remote Resources"]},
+  {"topic": "Process APIs", "file": "references/cep/migrating-native-cep-functions/process-apis.md", "summary": "Open when looking up Process APIs in Shared Adobe platform.", "keywords": ["Process APIs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

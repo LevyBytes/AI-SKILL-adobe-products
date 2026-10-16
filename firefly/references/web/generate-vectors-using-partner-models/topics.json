@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Generate a vector file using GPT Image", "file": "references/web/generate-vectors-using-partner-models/generate-a-vector-file-using-gpt-image.md", "summary": "Open when looking up Generate a vector file using GPT Image in Firefly.", "keywords": ["Generate a vector file using GPT Image"]},
+  {"topic": "Generate a vector file using Ideogram 3.0", "file": "references/web/generate-vectors-using-partner-models/generate-a-vector-file-using-ideogram-3-0.md", "summary": "Open when looking up Generate a vector file using Ideogram 3.0 in Firefly.", "keywords": ["Generate a vector file using Ideogram 3.0"]},
+  {"topic": "Use partner models with Text to vector to generate vector files.", "file": "references/web/generate-vectors-using-partner-models/partner-model-vector-generation.md", "summary": "Open when looking up Use partner models with Text to vector to generate vector files. in Firefly.", "keywords": ["Use partner models with Text to vector to generate vector files."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,16 @@
+# GrabberPreference
+
+Community declaration reference: InDesign/2023.
+
+Grabber-related preferences.
+
+```typescript
+declare class GrabberPreference extends Preference {
+    /**
+    - Display-performance quality used during scrolling.
+      */
+      grabberPanning: PanningTypes
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

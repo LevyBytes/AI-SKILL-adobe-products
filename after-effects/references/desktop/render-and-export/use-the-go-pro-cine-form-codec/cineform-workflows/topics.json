@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "About the GoPro CineForm codec", "file": "references/desktop/render-and-export/use-the-go-pro-cine-form-codec/cineform-workflows/about-the-go-pro-cine-form-codec.md", "summary": "Open when looking up About the GoPro CineForm codec in After Effects.", "keywords": ["About the GoPro CineForm codec"]},
+  {"topic": "GoPro CineForm codec settings", "file": "references/desktop/render-and-export/use-the-go-pro-cine-form-codec/cineform-workflows/go-pro-cine-form-codec-settings.md", "summary": "Open when looking up GoPro CineForm codec settings in After Effects.", "keywords": ["GoPro CineForm codec settings"]},
+  {"topic": "GoPro CineForm settings in Adobe Media Encoder", "file": "references/desktop/render-and-export/use-the-go-pro-cine-form-codec/cineform-workflows/go-pro-cine-form-settings-in-adobe-media-encoder.md", "summary": "Open when looking up GoPro CineForm settings in Adobe Media Encoder in After Effects.", "keywords": ["GoPro CineForm settings in Adobe Media Encoder"]},
+  {"topic": "Other considerations", "file": "references/desktop/render-and-export/use-the-go-pro-cine-form-codec/cineform-workflows/other-considerations.md", "summary": "Open when looking up Other considerations in After Effects.", "keywords": ["Other considerations"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

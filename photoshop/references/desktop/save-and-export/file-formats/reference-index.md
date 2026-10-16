@@ -1,0 +1,23 @@
+# Photoshop — Export files to different formats
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Enhance animation frames in Photoshop. [Enhance animation frames](enhance-animation-frames.md).
+- Open when looking up Export artboards as files in Photoshop. [Export artboards as files](export-artboards-as-files.md).
+- Open when looking up Export artboards as PDF in Photoshop. [Export artboards as PDF](export-artboards-as-pdf.md).
+- Open when looking up Export files in different sizes in Photoshop. [Export files in different sizes](export-files-in-different-sizes.md).
+- Open when looking up Export layers as files in Photoshop. [Export layers as files](export-layers-as-files.md).
+- Open when looking up Export settings and export location preferences in Photoshop. [Export settings and export location preferences](export-settings-and-export-location-preferences.md).
+- Open when looking up Export settings and export location preferences in Photoshop. [Export settings and export location preferences references](export-settings-and-export-location-preferences/reference-index.md).
+- Open when looking up Export video files or image sequences in Photoshop. [Export video files or image sequences](export-video-files-or-image-sequences.md).
+- Open when looking up Export your work using the Quick Export as option in Photoshop. [Export your work using the Quick Export as option](export-your-work-using-the-quick-export-as-option.md).
+- Open when looking up Export your work using the Quick Export as option in Photoshop. [Export your work using the Quick Export as option references](export-your-work-using-the-quick-export-as-option/reference-index.md).
+- Open when looking up File compression in Photoshop in Photoshop. [File compression in Photoshop](file-compression-in-photoshop.md).
+- Open when looking up File compression in Photoshop in Photoshop. [File compression in Photoshop references](file-compression-in-photoshop/reference-index.md).
+- Open when looking up Fine-tune export settings with Export As in Photoshop. [Fine-tune export settings with Export As](fine-tune-export-settings-with-export-as.md).
+- Open when looking up Flatten frames into layers in Photoshop. [Flatten frames into layers](flatten-frames-into-layers.md).
+- Open when looking up Image file formats supported in Photoshop in Photoshop. [Image file formats supported in Photoshop](image-file-formats-supported-in-photoshop.md).
+- Open when looking up Image file formats supported in Photoshop in Photoshop. [Image file formats supported in Photoshop references](image-file-formats-supported-in-photoshop/reference-index.md).
+- Open when looking up Photoshop file formats overview in Photoshop. [Photoshop file formats overview](photoshop-file-formats-overview.md).
+- Open when looking up Supported file formats in Photoshop in Photoshop. [Supported file formats in Photoshop](supported-file-formats-in-photoshop.md).
+- Open when looking up Supported file formats in Photoshop in Photoshop. [Supported file formats in Photoshop references](supported-file-formats-in-photoshop/reference-index.md).
+- Open when looking up Video and animation export formats in Photoshop. [Video and animation export formats](video-and-animation-export-formats.md).

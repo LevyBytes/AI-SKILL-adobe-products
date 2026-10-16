@@ -1,0 +1,7 @@
+# XMLData
+
+
+**Methods:**
+
+- applyXPath
+- parse

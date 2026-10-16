@@ -1,0 +1,43 @@
+[
+  {
+    "_obj": "align",
+    "_target": [
+      {
+        "_enum": "ordinal",
+        "_ref": "layer"
+      }
+    ],
+    "alignToCanvas": false,
+    "using": {
+      "_enum": "alignDistributeSelector",
+      "_value": "ADSBottoms"
+    }
+  },
+  {
+    "_obj": "align",
+    "_target": [
+      {
+        "_enum": "ordinal",
+        "_ref": "layer"
+      }
+    ],
+    "alignToCanvas": false,
+    "using": {
+      "_enum": "alignDistributeSelector",
+      "_value": "ADSRights"
+    }
+  },
+  {
+    "_obj": "set",
+    "_target": [
+      {
+        "_property": "selection",
+        "_ref": "channel"
+      }
+    ],
+    "to": {
+      "_enum": "ordinal",
+      "_value": "none"
+    }
+  }
+]

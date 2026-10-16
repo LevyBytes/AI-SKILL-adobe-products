@@ -1,0 +1,22 @@
+# Photoshop — Actions migration
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Actions Migration in Photoshop. [Actions Migration](actions-migration.md).
+- Open when looking up Additional contents in actions in Photoshop. [Additional contents in actions](additional-contents-in-actions.md).
+- Open when looking up Additional resources in Photoshop. [Additional resources](additional-resources.md).
+- Open when looking up Benefits of the unified endpoint in Photoshop. [Benefits of the unified endpoint](benefits-of-the-unified-endpoint.md).
+- Open when looking up Common migration issues in Photoshop. [Common migration issues references](common-migration-issues/reference-index.md).
+- Open when looking up Complete V1 parity reference in Photoshop. [Complete V1 parity reference](complete-v1-parity-reference.md).
+- Open when looking up Inline content usage in Photoshop. [Inline content usage](inline-content-usage.md).
+- Open when looking up Inline content usage in Photoshop. [Inline content usage references](inline-content-usage/reference-index.md).
+- Open when looking up JPEG quality and pixel fidelity in Photoshop. [JPEG quality and pixel fidelity](jpeg-quality-and-pixel-fidelity.md).
+- Open when looking up Migrating Convenience APIs in Photoshop. [Migrating Convenience APIs](migrating-convenience-apis.md).
+- Open when looking up Migrating Convenience APIs in Photoshop. [Migrating Convenience APIs references](migrating-convenience-apis/reference-index.md).
+- Open when looking up Multiple outputs in Photoshop. [Multiple outputs](multiple-outputs.md).
+- Open when looking up Next steps in Photoshop. [Next steps](next-steps.md).
+- Open when looking up Script-based output discovery in Photoshop. [Script-based output discovery](script-based-output-discovery.md).
+- Open when looking up Traditional photoshop actions in Photoshop. [Traditional photoshop actions references](traditional-photoshop-actions/reference-index.md).
+- Open when looking up Using inline ActionJSON in Photoshop. [Using inline ActionJSON](using-inline-action-json.md).
+- Open when looking up UXP scripts (limited availability) in Photoshop. [UXP scripts (limited availability)](uxp-scripts-limited-availability.md).
+- Open when looking up UXP scripts (limited availability) in Photoshop. [UXP scripts (limited availability) references](uxp-scripts-limited-availability/reference-index.md).
+- Open when looking up Validation caveats: stochastic filters in Photoshop. [Validation caveats: stochastic filters](validation-caveats-stochastic-filters.md).

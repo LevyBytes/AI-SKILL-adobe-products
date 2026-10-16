@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.close", "file": "references/community-types/indesign/document/close.md", "summary": "Open when looking up Document.close in Shared Adobe platform.", "keywords": ["Document.close"]},
+  {"topic": "Document.converted", "file": "references/community-types/indesign/document/converted.md", "summary": "Open when looking up Document.converted in Shared Adobe platform.", "keywords": ["Document.converted"]},
+  {"topic": "Document.editingState", "file": "references/community-types/indesign/document/editing-state.md", "summary": "Open when looking up Document.editingState in Shared Adobe platform.", "keywords": ["Document.editingState"]},
+  {"topic": "Document.modified", "file": "references/community-types/indesign/document/modified.md", "summary": "Open when looking up Document.modified in Shared Adobe platform.", "keywords": ["Document.modified"]},
+  {"topic": "Document.readOnly", "file": "references/community-types/indesign/document/read-only.md", "summary": "Open when looking up Document.readOnly in Shared Adobe platform.", "keywords": ["Document.readOnly"]},
+  {"topic": "Document.recovered", "file": "references/community-types/indesign/document/recovered.md", "summary": "Open when looking up Document.recovered in Shared Adobe platform.", "keywords": ["Document.recovered"]},
+  {"topic": "Document.redo", "file": "references/community-types/indesign/document/redo.md", "summary": "Open when looking up Document.redo in Shared Adobe platform.", "keywords": ["Document.redo"]},
+  {"topic": "Document.redoHistory", "file": "references/community-types/indesign/document/redo-history.md", "summary": "Open when looking up Document.redoHistory in Shared Adobe platform.", "keywords": ["Document.redoHistory"]},
+  {"topic": "Document.redoName", "file": "references/community-types/indesign/document/redo-name.md", "summary": "Open when looking up Document.redoName in Shared Adobe platform.", "keywords": ["Document.redoName"]},
+  {"topic": "Document.revert", "file": "references/community-types/indesign/document/revert.md", "summary": "Open when looking up Document.revert in Shared Adobe platform.", "keywords": ["Document.revert"]},
+  {"topic": "Document.save", "file": "references/community-types/indesign/document/save.md", "summary": "Open when looking up Document.save in Shared Adobe platform.", "keywords": ["Document.save"]},
+  {"topic": "Document.saveACopy", "file": "references/community-types/indesign/document/save-a-copy.md", "summary": "Open when looking up Document.saveACopy in Shared Adobe platform.", "keywords": ["Document.saveACopy"]},
+  {"topic": "Document.saved", "file": "references/community-types/indesign/document/saved.md", "summary": "Open when looking up Document.saved in Shared Adobe platform.", "keywords": ["Document.saved"]},
+  {"topic": "Document.undo", "file": "references/community-types/indesign/document/undo.md", "summary": "Open when looking up Document.undo in Shared Adobe platform.", "keywords": ["Document.undo"]},
+  {"topic": "Document.undoHistory", "file": "references/community-types/indesign/document/undo-history.md", "summary": "Open when looking up Document.undoHistory in Shared Adobe platform.", "keywords": ["Document.undoHistory"]},
+  {"topic": "Document.undoName", "file": "references/community-types/indesign/document/undo-name.md", "summary": "Open when looking up Document.undoName in Shared Adobe platform.", "keywords": ["Document.undoName"]},
+  {"topic": "Document.versionState", "file": "references/community-types/indesign/document/version-state.md", "summary": "Open when looking up Document.versionState in Shared Adobe platform.", "keywords": ["Document.versionState"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

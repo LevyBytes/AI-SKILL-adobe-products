@@ -1,0 +1,38 @@
+# New
+
+- UXP Plugins now include Web Components support, with added HTML elements and methods for that capability.
+  - Classes
+    - [HTMLSlotElement](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-elements/html-slot-element.md)
+    - [HTMLTemplateElement](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-elements/html-template-element.md)
+  - Methods
+    - [Element.assignedSlot](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/element.md#assignedslot--htmlslotelement)
+    - [Element.slot](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/element.md#slot--string)
+    - [Element.attachShadow](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/element.md#attachshadowinit)
+    - [Element.shadowRoot](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/element.md#shadowroot--shadowroot)
+    - [CustomElementRegistry.upgrade](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/custom-element-registry.md#upgraderoot)
+    - [CustomElementRegistry.whenDefined](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/custom-element-registry.md#whendefinedname)
+- [Spectrum Web Components (Beta)](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-spectrum/swc/index.md) adds Adobe SWC support.
+- The JS API set gains several additions.
+  - Properties
+    - [HTMLElement.lang](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-elements/html-element.md#lang--string)
+  - Global-scope classes
+    - [TreeWalker](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/tree-walker.md)
+    - [NodeFilter](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/node-filter.md)
+  - Methods
+    - [Element.hasAttributes](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/element.md#hasattributes)
+    - [Element.getAttributeNames](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/element.md#getattributenames)
+    - [Event.composed](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-events/event.md#composed--boolean)
+    - [Event.composedPath](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-events/event.md#composedpath)
+    - [DocumentFragment.append](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/document-fragment.md#appendargs)
+    - [DocumentFragment.querySelector](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/document-fragment.md#queryselectorselector)
+    - [DocumentFragment.querySelectorAll](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/document-fragment.md#queryselectorallselector)
+- New focus events are present for React 16.
+  - [Focusin Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusin_event)
+  - [Focusout Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event)
+- HTML [2D Canvas Support](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-elements/html-canvas-element.md) covers simple shape drawing and style work.
+- Alerts
+  - [alert()](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/alert.md)
+  - [prompt()](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/prompt.md)
+  - [confirm()](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/html-dom/confirm.md)
+- [ReadableStream](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/streams/readable-stream.md) supports [pipeThrough](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/streams/readable-stream.md#pipeThroughtransform-options) and [tee](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/streams/readable-stream.md#tee). See [Streams](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/streams/index.md) for details.
+- [ImageBlob](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/cba672dce97bcb5805baaa7558d83abbabd825f6/src/pages/reference/uxp-api/reference-js/global-members/image-blob/index.md) renders an image buffer without compression in UXP.

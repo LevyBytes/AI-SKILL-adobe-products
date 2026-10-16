@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "How filters work", "file": "references/desktop/effects-and-filters/get-started-with-filters/filters-overview/how-filters-work.md", "summary": "Open when looking up How filters work in Photoshop.", "keywords": ["How filters work"]},
+  {"topic": "Things to know about filters", "file": "references/desktop/effects-and-filters/get-started-with-filters/filters-overview/things-to-know-about-filters.md", "summary": "Open when looking up Things to know about filters in Photoshop.", "keywords": ["Things to know about filters"]},
+  {"topic": "What are filters?", "file": "references/desktop/effects-and-filters/get-started-with-filters/filters-overview/what-are-filters.md", "summary": "Open when looking up What are filters? in Photoshop.", "keywords": ["What are filters?"]},
+  {"topic": "When to use filters", "file": "references/desktop/effects-and-filters/get-started-with-filters/filters-overview/when-to-use-filters.md", "summary": "Open when looking up When to use filters in Photoshop.", "keywords": ["When to use filters"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

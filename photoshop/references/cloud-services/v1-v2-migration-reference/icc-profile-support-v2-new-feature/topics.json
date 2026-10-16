@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Conversion behavior with ICC profile", "file": "references/cloud-services/v1-v2-migration-reference/icc-profile-support-v2-new-feature/conversion-behavior-with-icc-profile.md", "summary": "Open when looking up Conversion behavior with ICC profile in Photoshop.", "keywords": ["Conversion behavior with ICC profile"]},
+  {"topic": "Custom profiles (enables CMYK)", "file": "references/cloud-services/v1-v2-migration-reference/icc-profile-support-v2-new-feature/custom-profiles-enables-cmyk.md", "summary": "Open when looking up Custom profiles (enables CMYK) in Photoshop.", "keywords": ["Custom profiles (enables CMYK)"]},
+  {"topic": "Format support table", "file": "references/cloud-services/v1-v2-migration-reference/icc-profile-support-v2-new-feature/format-support-table.md", "summary": "Open when looking up Format support table in Photoshop.", "keywords": ["Format support table"]},
+  {"topic": "Output migration checklist", "file": "references/cloud-services/v1-v2-migration-reference/icc-profile-support-v2-new-feature/output-migration-checklist.md", "summary": "Open when looking up Output migration checklist in Photoshop.", "keywords": ["Output migration checklist"]},
+  {"topic": "Standard profiles", "file": "references/cloud-services/v1-v2-migration-reference/icc-profile-support-v2-new-feature/standard-profiles.md", "summary": "Open when looking up Standard profiles in Photoshop.", "keywords": ["Standard profiles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,13 @@
+# ParagraphStyle.paragraphBorderDisplayIfSplits
+
+Community declaration reference: InDesign/2023.
+
+True also shows paragraph border segments where the paragraph splits across frames or columns.
+
+```typescript
+declare class ParagraphStyle {
+    paragraphBorderDisplayIfSplits: boolean
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

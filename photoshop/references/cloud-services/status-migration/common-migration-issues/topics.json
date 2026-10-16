@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Issue: Incorrect status value handling", "file": "references/cloud-services/status-migration/common-migration-issues/issue-incorrect-status-value-handling.md", "summary": "Open when looking up Issue: Incorrect status value handling in Photoshop.", "keywords": ["Issue: Incorrect status value handling"]},
+  {"topic": "Issue: Not handling error details array", "file": "references/cloud-services/status-migration/common-migration-issues/issue-not-handling-error-details-array.md", "summary": "Open when looking up Issue: Not handling error details array in Photoshop.", "keywords": ["Issue: Not handling error details array"]},
+  {"topic": "Issue: Using service-specific endpoint", "file": "references/cloud-services/status-migration/common-migration-issues/issue-using-service-specific-endpoint.md", "summary": "Open when looking up Issue: Using service-specific endpoint in Photoshop.", "keywords": ["Issue: Using service-specific endpoint"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

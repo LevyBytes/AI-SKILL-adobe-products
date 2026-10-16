@@ -1,0 +1,54 @@
+# Shared Adobe platform — ProjectItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ProjectItem declaration in Shared Adobe platform. [ProjectItem declaration](declaration.md).
+- Open when looking up ProjectItem.attachProxy in Shared Adobe platform. [ProjectItem.attachProxy](attach-proxy.md).
+- Open when looking up ProjectItem.bind in Shared Adobe platform. [ProjectItem.bind](bind.md).
+- Open when looking up ProjectItem.canChangeMediaPath in Shared Adobe platform. [ProjectItem.canChangeMediaPath](can-change-media-path.md).
+- Open when looking up ProjectItem.canProxy in Shared Adobe platform. [ProjectItem.canProxy](can-proxy.md).
+- Open when looking up ProjectItem.changeMediaPath in Shared Adobe platform. [ProjectItem.changeMediaPath](change-media-path.md).
+- Open when looking up ProjectItem.children in Shared Adobe platform. [ProjectItem.children](children.md).
+- Open when looking up ProjectItem.clearInPoint in Shared Adobe platform. [ProjectItem.clearInPoint](clear-in-point.md).
+- Open when looking up ProjectItem.clearOutPoint in Shared Adobe platform. [ProjectItem.clearOutPoint](clear-out-point.md).
+- Open when looking up ProjectItem.createBin in Shared Adobe platform. [ProjectItem.createBin](create-bin.md).
+- Open when looking up ProjectItem.createSmartBin in Shared Adobe platform. [ProjectItem.createSmartBin](create-smart-bin.md).
+- Open when looking up ProjectItem.createSubClip in Shared Adobe platform. [ProjectItem.createSubClip](create-sub-clip.md).
+- Open when looking up ProjectItem.deleteBin in Shared Adobe platform. [ProjectItem.deleteBin](delete-bin.md).
+- Open when looking up ProjectItem.detachProxy in Shared Adobe platform. [ProjectItem.detachProxy](detach-proxy.md).
+- Open when looking up ProjectItem.findItemsMatchingMediaPath in Shared Adobe platform. [ProjectItem.findItemsMatchingMediaPath](find-items-matching-media-path.md).
+- Open when looking up ProjectItem.getColorLabel in Shared Adobe platform. [ProjectItem.getColorLabel](get-color-label.md).
+- Open when looking up ProjectItem.getColorSpace in Shared Adobe platform. [ProjectItem.getColorSpace](get-color-space.md).
+- Open when looking up ProjectItem.getInPoint in Shared Adobe platform. [ProjectItem.getInPoint](get-in-point.md).
+- Open when looking up ProjectItem.getMarkers in Shared Adobe platform. [ProjectItem.getMarkers](get-markers.md).
+- Open when looking up ProjectItem.getMediaPath in Shared Adobe platform. [ProjectItem.getMediaPath](get-media-path.md).
+- Open when looking up ProjectItem.getOutPoint in Shared Adobe platform. [ProjectItem.getOutPoint](get-out-point.md).
+- Open when looking up ProjectItem.getProjectMetadata in Shared Adobe platform. [ProjectItem.getProjectMetadata](get-project-metadata.md).
+- Open when looking up ProjectItem.getProxyPath in Shared Adobe platform. [ProjectItem.getProxyPath](get-proxy-path.md).
+- Open when looking up ProjectItem.getXMPMetadata in Shared Adobe platform. [ProjectItem.getXMPMetadata](get-xmp-metadata.md).
+- Open when looking up ProjectItem.hasProxy in Shared Adobe platform. [ProjectItem.hasProxy](has-proxy.md).
+- Open when looking up ProjectItem.isMergedClip in Shared Adobe platform. [ProjectItem.isMergedClip](is-merged-clip.md).
+- Open when looking up ProjectItem.isMultiCamClip in Shared Adobe platform. [ProjectItem.isMultiCamClip](is-multi-cam-clip.md).
+- Open when looking up ProjectItem.isSequence in Shared Adobe platform. [ProjectItem.isSequence](is-sequence.md).
+- Open when looking up ProjectItem.moveBin in Shared Adobe platform. [ProjectItem.moveBin](move-bin.md).
+- Open when looking up ProjectItem.name in Shared Adobe platform. [ProjectItem.name](name.md).
+- Open when looking up ProjectItem.nodeId in Shared Adobe platform. [ProjectItem.nodeId](node-id.md).
+- Open when looking up ProjectItem.refreshMedia in Shared Adobe platform. [ProjectItem.refreshMedia](refresh-media.md).
+- Open when looking up ProjectItem.renameBin in Shared Adobe platform. [ProjectItem.renameBin](rename-bin.md).
+- Open when looking up ProjectItem.select in Shared Adobe platform. [ProjectItem.select](select.md).
+- Open when looking up ProjectItem.setColorLabel in Shared Adobe platform. [ProjectItem.setColorLabel](set-color-label.md).
+- Open when looking up ProjectItem.setInPoint in Shared Adobe platform. [ProjectItem.setInPoint](set-in-point.md).
+- Open when looking up ProjectItem.setOutPoint in Shared Adobe platform. [ProjectItem.setOutPoint](set-out-point.md).
+- Open when looking up ProjectItem.setOverrideColorSpace in Shared Adobe platform. [ProjectItem.setOverrideColorSpace](set-override-color-space.md).
+- Open when looking up ProjectItem.setOverrideFrameRate in Shared Adobe platform. [ProjectItem.setOverrideFrameRate](set-override-frame-rate.md).
+- Open when looking up ProjectItem.setOverridePixelAspectRatio in Shared Adobe platform. [ProjectItem.setOverridePixelAspectRatio](set-override-pixel-aspect-ratio.md).
+- Open when looking up ProjectItem.setProjectMetadata in Shared Adobe platform. [ProjectItem.setProjectMetadata](set-project-metadata.md).
+- Open when looking up ProjectItem.setScaleToFrameSize in Shared Adobe platform. [ProjectItem.setScaleToFrameSize](set-scale-to-frame-size.md).
+- Open when looking up ProjectItem.setStartTime in Shared Adobe platform. [ProjectItem.setStartTime](set-start-time.md).
+- Open when looking up ProjectItem.setTimeout in Shared Adobe platform. [ProjectItem.setTimeout](set-timeout.md).
+- Open when looking up ProjectItem.setXMPMetadata in Shared Adobe platform. [ProjectItem.setXMPMetadata](set-xmp-metadata.md).
+- Open when looking up ProjectItem.startTime in Shared Adobe platform. [ProjectItem.startTime](start-time.md).
+- Open when looking up ProjectItem.timeDisplayFormat in Shared Adobe platform. [ProjectItem.timeDisplayFormat](time-display-format.md).
+- Open when looking up ProjectItem.treePath in Shared Adobe platform. [ProjectItem.treePath](tree-path.md).
+- Open when looking up ProjectItem.type in Shared Adobe platform. [ProjectItem.type](type.md).
+- Open when looking up ProjectItem.unbind in Shared Adobe platform. [ProjectItem.unbind](unbind.md).
+- Open when looking up ProjectItem.videoComponents in Shared Adobe platform. [ProjectItem.videoComponents](video-components.md).

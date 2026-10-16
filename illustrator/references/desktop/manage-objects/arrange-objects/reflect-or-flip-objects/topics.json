@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Reflect an object with the Free Transform tool", "file": "references/desktop/manage-objects/arrange-objects/reflect-or-flip-objects/reflect-an-object-with-the-free-transform-tool.md", "summary": "Open when looking up Reflect an object with the Free Transform tool in Illustrator.", "keywords": ["Reflect an object with the Free Transform tool"]},
+  {"topic": "Reflect or flip object with the Reflect tool", "file": "references/desktop/manage-objects/arrange-objects/reflect-or-flip-objects/reflect-or-flip-object-with-the-reflect-tool.md", "summary": "Open when looking up Reflect or flip object with the Reflect tool in Illustrator.", "keywords": ["Reflect or flip object with the Reflect tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

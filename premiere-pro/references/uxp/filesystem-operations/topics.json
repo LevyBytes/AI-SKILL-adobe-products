@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Reference Material", "file": "references/uxp/filesystem-operations/reference-material.md", "summary": "Open when looking up Reference Material in Premiere Pro.", "keywords": ["Reference Material"]},
+  {"topic": "Summary", "file": "references/uxp/filesystem-operations/summary.md", "summary": "Open when looking up Summary in Premiere Pro.", "keywords": ["Summary"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

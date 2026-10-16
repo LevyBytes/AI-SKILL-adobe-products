@@ -1,0 +1,23 @@
+# Photoshop — Xmp date time
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up require('uxp').xmp.XMPDateTime — compareTo(dateTime) in Photoshop. [require('uxp').xmp.XMPDateTime — compareTo(dateTime)](compare-to.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — convertToLocalTime() in Photoshop. [require('uxp').xmp.XMPDateTime — convertToLocalTime()](convert-to-local-time.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — convertToUTCTime() in Photoshop. [require('uxp').xmp.XMPDateTime — convertToUTCTime()](convert-to-utc-time.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — day : number in Photoshop. [require('uxp').xmp.XMPDateTime — day : number](day.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — getDate() in Photoshop. [require('uxp').xmp.XMPDateTime — getDate()](get-date.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — hasDate() in Photoshop. [require('uxp').xmp.XMPDateTime — hasDate()](has-date.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — hasTime() in Photoshop. [require('uxp').xmp.XMPDateTime — hasTime()](has-time.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — hasTimeZone() in Photoshop. [require('uxp').xmp.XMPDateTime — hasTimeZone()](has-time-zone.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — hour : number in Photoshop. [require('uxp').xmp.XMPDateTime — hour : number](hour.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — minute : number in Photoshop. [require('uxp').xmp.XMPDateTime — minute : number](minute.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — month : number in Photoshop. [require('uxp').xmp.XMPDateTime — month : number](month.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — nanosecond : number in Photoshop. [require('uxp').xmp.XMPDateTime — nanosecond : number](nanosecond.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — second : number in Photoshop. [require('uxp').xmp.XMPDateTime — second : number](second.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — setLocalTimeZone() in Photoshop. [require('uxp').xmp.XMPDateTime — setLocalTimeZone()](set-local-time-zone.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — toString() in Photoshop. [require('uxp').xmp.XMPDateTime — toString()](to-string.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — tzHour : number in Photoshop. [require('uxp').xmp.XMPDateTime — tzHour : number](tz-hour.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — tzMinute : number in Photoshop. [require('uxp').xmp.XMPDateTime — tzMinute : number](tz-minute.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — tzSign : number in Photoshop. [require('uxp').xmp.XMPDateTime — tzSign : number](tz-sign.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — XMPDateTime() in Photoshop. [require('uxp').xmp.XMPDateTime — XMPDateTime()](xmp-date-time.md).
+- Open when looking up require('uxp').xmp.XMPDateTime — year : number in Photoshop. [require('uxp').xmp.XMPDateTime — year : number](year.md).

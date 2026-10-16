@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Keying Effects", "file": "references/desktop/animation/work-with-keying-effects/keying-effects.md", "summary": "Open when looking up Keying Effects in After Effects.", "keywords": ["Keying Effects"]},
+  {"topic": "Keying Effects references", "file": "references/desktop/animation/work-with-keying-effects/keying-effects/reference-index.md", "summary": "Open when looking up Keying Effects in After Effects.", "keywords": ["Keying Effects references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

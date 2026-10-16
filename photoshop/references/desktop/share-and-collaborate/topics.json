@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Collaborate and edit", "file": "references/desktop/share-and-collaborate/collaborate-and-edit.md", "summary": "Open when looking up Collaborate and edit in Photoshop.", "keywords": ["Collaborate and edit"]},
+  {"topic": "Collaborate and edit references", "file": "references/desktop/share-and-collaborate/collaborate-and-edit/reference-index.md", "summary": "Open when looking up Collaborate and edit in Photoshop.", "keywords": ["Collaborate and edit references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

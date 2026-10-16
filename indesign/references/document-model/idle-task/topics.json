@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/idle-task/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "eventListeners", "file": "references/document-model/idle-task/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/idle-task/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "extractLabel", "file": "references/document-model/idle-task/extract-label.md", "summary": "Open when looking up extractLabel in InDesign.", "keywords": ["extractLabel"]},
+  {"topic": "getElements", "file": "references/document-model/idle-task/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "references/document-model/idle-task/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "references/document-model/idle-task/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "insertLabel", "file": "references/document-model/idle-task/insert-label.md", "summary": "Open when looking up insertLabel in InDesign.", "keywords": ["insertLabel"]},
+  {"topic": "isValid", "file": "references/document-model/idle-task/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "label", "file": "references/document-model/idle-task/label.md", "summary": "Open when looking up label in InDesign.", "keywords": ["label"]},
+  {"topic": "name", "file": "references/document-model/idle-task/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "ON_IDLE", "file": "references/document-model/idle-task/onidle.md", "summary": "Open when looking up ON_IDLE in InDesign.", "keywords": ["ON_IDLE"]},
+  {"topic": "parent", "file": "references/document-model/idle-task/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "references/document-model/idle-task/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "references/document-model/idle-task/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "references/document-model/idle-task/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "sleep", "file": "references/document-model/idle-task/sleep.md", "summary": "Open when looking up sleep in InDesign.", "keywords": ["sleep"]},
+  {"topic": "toSource", "file": "references/document-model/idle-task/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/idle-task/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "How compositing works in Premiere", "file": "references/desktop/compositing-overview/how-compositing-works-in-premiere.md", "summary": "Open when looking up How compositing works in Premiere in Premiere Pro.", "keywords": ["How compositing works in Premiere"]},
+  {"topic": "Learn about compositing and how it works in Premiere.", "file": "references/desktop/compositing-overview/learn-about-compositing-and-how-it-works-in-premiere.md", "summary": "Open when looking up Learn about compositing and how it works in Premiere. in Premiere Pro.", "keywords": ["Learn about compositing and how it works in Premiere."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

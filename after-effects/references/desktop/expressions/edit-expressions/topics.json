@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Editing expressions", "file": "references/desktop/expressions/edit-expressions/editing-expressions.md", "summary": "Open when looking up Editing expressions in After Effects.", "keywords": ["Editing expressions"]},
+  {"topic": "Editing expressions references", "file": "references/desktop/expressions/edit-expressions/editing-expressions/reference-index.md", "summary": "Open when looking up Editing expressions in After Effects.", "keywords": ["Editing expressions references"]},
+  {"topic": "Expression errors", "file": "references/desktop/expressions/edit-expressions/expression-errors.md", "summary": "Open when looking up Expression errors in After Effects.", "keywords": ["Expression errors"]},
+  {"topic": "Expression errors references", "file": "references/desktop/expressions/edit-expressions/expression-errors/reference-index.md", "summary": "Open when looking up Expression errors in After Effects.", "keywords": ["Expression errors references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

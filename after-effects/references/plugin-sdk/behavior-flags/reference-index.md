@@ -1,0 +1,35 @@
+# After Effects — Behavior flags
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEIO_MFlag_AUDIO in After Effects. [AEIO_MFlag_AUDIO](aeiom-flag-audio.md).
+- Open when looking up AEIO_MFlag_CAN_ADD_FRAMES_NON_LINEAR in After Effects. [AEIO_MFlag_CAN_ADD_FRAMES_NON_LINEAR](aeiom-flag-canaddframesnonlinear.md).
+- Open when looking up AEIO_MFlag_CAN_DO_MARKERS in After Effects. [AEIO_MFlag_CAN_DO_MARKERS](aeiom-flag-candomarkers.md).
+- Open when looking up AEIO_MFlag_CAN_DRAW_DEEP in After Effects. [AEIO_MFlag_CAN_DRAW_DEEP](aeiom-flag-candrawdeep.md).
+- Open when looking up AEIO_MFlag_CANT_CLIP in After Effects. [AEIO_MFlag_CANT_CLIP](aeiom-flag-cantclip.md).
+- Open when looking up AEIO_MFlag_CANT_SOUND_INTERLEAVE in After Effects. [AEIO_MFlag_CANT_SOUND_INTERLEAVE](aeiom-flag-cantsoundinterleave.md).
+- Open when looking up AEIO_MFlag_FILE in After Effects. [AEIO_MFlag_FILE](aeiom-flag-file.md).
+- Open when looking up AEIO_MFlag_HAS_AUX_DATA in After Effects. [AEIO_MFlag_HAS_AUX_DATA](aeiom-flag-hasauxdata.md).
+- Open when looking up AEIO_MFlag_HAS_LAYERS in After Effects. [AEIO_MFlag_HAS_LAYERS](aeiom-flag-haslayers.md).
+- Open when looking up AEIO_MFlag_HAS_META_DATA in After Effects. [AEIO_MFlag_HAS_META_DATA](aeiom-flag-hasmetadata.md).
+- Open when looking up AEIO_MFlag_HOST_DEPTH_DIALOG in After Effects. [AEIO_MFlag_HOST_DEPTH_DIALOG](aeiom-flag-hostdepthdialog.md).
+- Open when looking up AEIO_MFlag_HOST_FRAME_START_DIALOG in After Effects. [AEIO_MFlag_HOST_FRAME_START_DIALOG](aeiom-flag-hostframestartdialog.md).
+- Open when looking up AEIO_MFlag_HSF_AWARE in After Effects. [AEIO_MFlag_HSF_AWARE](aeiom-flag-hsfaware.md).
+- Open when looking up AEIO_MFlag_INPUT in After Effects. [AEIO_MFlag_INPUT](aeiom-flag-input.md).
+- Open when looking up AEIO_MFlag_INPUT_OPTIONS in After Effects. [AEIO_MFlag_INPUT_OPTIONS](aeiom-flag-inputoptions.md).
+- Open when looking up AEIO_MFlag_INTERACTIVE_GET in After Effects. [AEIO_MFlag_INTERACTIVE_GET](aeiom-flag-interactiveget.md).
+- Open when looking up AEIO_MFlag_INTERACTIVE_PUT in After Effects. [AEIO_MFlag_INTERACTIVE_PUT](aeiom-flag-interactiveput.md).
+- Open when looking up AEIO_MFlag_MUST_INTERACT_PUT in After Effects. [AEIO_MFlag_MUST_INTERACT_PUT](aeiom-flag-mustinteractput.md).
+- Open when looking up AEIO_MFlag_NO_OPTIONS in After Effects. [AEIO_MFlag_NO_OPTIONS](aeiom-flag-nooptions.md).
+- Open when looking up AEIO_MFlag_NO_PIXELS in After Effects. [AEIO_MFlag_NO_PIXELS](aeiom-flag-nopixels.md).
+- Open when looking up AEIO_MFlag_NO_TIME in After Effects. [AEIO_MFlag_NO_TIME](aeiom-flag-notime.md).
+- Open when looking up AEIO_MFlag_NO_UI in After Effects. [AEIO_MFlag_NO_UI](aeiom-flag-noui.md).
+- Open when looking up AEIO_MFlag_OUTPUT in After Effects. [AEIO_MFlag_OUTPUT](aeiom-flag-output.md).
+- Open when looking up AEIO_MFlag_RESERVED4 in After Effects. [AEIO_MFlag_RESERVED4](aeiom-flag-reserved4.md).
+- Open when looking up AEIO_MFlag_SCRAP in After Effects. [AEIO_MFlag_SCRAP](aeiom-flag-scrap.md).
+- Open when looking up AEIO_MFlag_SEQ_OPTIONS_DLG in After Effects. [AEIO_MFlag_SEQ_OPTIONS_DLG](aeiom-flag-seqoptionsdlg.md).
+- Open when looking up AEIO_MFlag_SEQUENCE_OPTIONS_OK in After Effects. [AEIO_MFlag_SEQUENCE_OPTIONS_OK](aeiom-flag-sequenceoptionsok.md).
+- Open when looking up AEIO_MFlag_STILL in After Effects. [AEIO_MFlag_STILL](aeiom-flag-still.md).
+- Open when looking up AEIO_MFlag_VIDEO in After Effects. [AEIO_MFlag_VIDEO](aeiom-flag-video.md).
+- Open when looking up AEIO_ModuleFlags in After Effects. [AEIO_ModuleFlags](aeio-module-flags.md).
+- Open when looking up AEIO_ModuleFlags2 in After Effects. [AEIO_ModuleFlags2](aeio-module-flags2.md).
+- Open when looking up AEIO_ModuleInfo — Behavior Flags in After Effects. [AEIO_ModuleInfo — Behavior Flags](aeio-module-info-behavior-flags.md).

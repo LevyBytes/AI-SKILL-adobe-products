@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.compositeFonts", "file": "references/community-types/indesign/application/composite-fonts.md", "summary": "Open when looking up Application.compositeFonts in Shared Adobe platform.", "keywords": ["Application.compositeFonts"]},
+  {"topic": "Application.fontLockingPreferences", "file": "references/community-types/indesign/application/font-locking-preferences.md", "summary": "Open when looking up Application.fontLockingPreferences in Shared Adobe platform.", "keywords": ["Application.fontLockingPreferences"]},
+  {"topic": "Application.fonts", "file": "references/community-types/indesign/application/fonts.md", "summary": "Open when looking up Application.fonts in Shared Adobe platform.", "keywords": ["Application.fonts"]},
+  {"topic": "Application.fontSyncPreferences", "file": "references/community-types/indesign/application/font-sync-preferences.md", "summary": "Open when looking up Application.fontSyncPreferences in Shared Adobe platform.", "keywords": ["Application.fontSyncPreferences"]},
+  {"topic": "Application.updateFonts", "file": "references/community-types/indesign/application/update-fonts.md", "summary": "Open when looking up Application.updateFonts in Shared Adobe platform.", "keywords": ["Application.updateFonts"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

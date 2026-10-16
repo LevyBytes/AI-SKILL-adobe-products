@@ -1,0 +1,28 @@
+# Shared Adobe platform — ScriptUIGraphics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ScriptUIGraphics declaration in Shared Adobe platform. [ScriptUIGraphics declaration](declaration.md).
+- Open when looking up ScriptUIGraphics.backgroundColor in Shared Adobe platform. [ScriptUIGraphics.backgroundColor](background-color.md).
+- Open when looking up ScriptUIGraphics.BrushType in Shared Adobe platform. [ScriptUIGraphics.BrushType](brush-type.md).
+- Open when looking up ScriptUIGraphics.closePath in Shared Adobe platform. [ScriptUIGraphics.closePath](close-path.md).
+- Open when looking up ScriptUIGraphics.currentPath in Shared Adobe platform. [ScriptUIGraphics.currentPath](current-path.md).
+- Open when looking up ScriptUIGraphics.currentPoint in Shared Adobe platform. [ScriptUIGraphics.currentPoint](current-point.md).
+- Open when looking up ScriptUIGraphics.disabledBackgroundColor in Shared Adobe platform. [ScriptUIGraphics.disabledBackgroundColor](disabled-background-color.md).
+- Open when looking up ScriptUIGraphics.disabledForegroundColor in Shared Adobe platform. [ScriptUIGraphics.disabledForegroundColor](disabled-foreground-color.md).
+- Open when looking up ScriptUIGraphics.drawFocusRing in Shared Adobe platform. [ScriptUIGraphics.drawFocusRing](draw-focus-ring.md).
+- Open when looking up ScriptUIGraphics.drawImage in Shared Adobe platform. [ScriptUIGraphics.drawImage](draw-image.md).
+- Open when looking up ScriptUIGraphics.drawOSControl in Shared Adobe platform. [ScriptUIGraphics.drawOSControl](draw-os-control.md).
+- Open when looking up ScriptUIGraphics.drawString in Shared Adobe platform. [ScriptUIGraphics.drawString](draw-string.md).
+- Open when looking up ScriptUIGraphics.ellipsePath in Shared Adobe platform. [ScriptUIGraphics.ellipsePath](ellipse-path.md).
+- Open when looking up ScriptUIGraphics.fillPath in Shared Adobe platform. [ScriptUIGraphics.fillPath](fill-path.md).
+- Open when looking up ScriptUIGraphics.font in Shared Adobe platform. [ScriptUIGraphics.font](font.md).
+- Open when looking up ScriptUIGraphics.foregroundColor in Shared Adobe platform. [ScriptUIGraphics.foregroundColor](foreground-color.md).
+- Open when looking up ScriptUIGraphics.lineTo in Shared Adobe platform. [ScriptUIGraphics.lineTo](line-to.md).
+- Open when looking up ScriptUIGraphics.measureString in Shared Adobe platform. [ScriptUIGraphics.measureString](measure-string.md).
+- Open when looking up ScriptUIGraphics.moveTo in Shared Adobe platform. [ScriptUIGraphics.moveTo](move-to.md).
+- Open when looking up ScriptUIGraphics.newBrush in Shared Adobe platform. [ScriptUIGraphics.newBrush](new-brush.md).
+- Open when looking up ScriptUIGraphics.newPath in Shared Adobe platform. [ScriptUIGraphics.newPath](new-path.md).
+- Open when looking up ScriptUIGraphics.newPen in Shared Adobe platform. [ScriptUIGraphics.newPen](new-pen.md).
+- Open when looking up ScriptUIGraphics.PenType in Shared Adobe platform. [ScriptUIGraphics.PenType](pen-type.md).
+- Open when looking up ScriptUIGraphics.rectPath in Shared Adobe platform. [ScriptUIGraphics.rectPath](rect-path.md).
+- Open when looking up ScriptUIGraphics.strokePath in Shared Adobe platform. [ScriptUIGraphics.strokePath](stroke-path.md).

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Insert pdf pages example setup", "file": "references/pdf-services/examples/java/insert-pdf-pages/insert-pdf-pages-setup.md", "summary": "Open when looking up Insert pdf pages example setup in Acrobat.", "keywords": ["Insert pdf pages example setup"]},
+  {"topic": "InsertPDFPages", "file": "references/pdf-services/examples/java/insert-pdf-pages/InsertPDFPages.java", "summary": "Open when looking up InsertPDFPages in Acrobat.", "keywords": ["InsertPDFPages"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

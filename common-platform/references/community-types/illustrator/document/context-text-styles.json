@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.characterStyles", "file": "references/community-types/illustrator/document/character-styles.md", "summary": "Open when looking up Document.characterStyles in Shared Adobe platform.", "keywords": ["Document.characterStyles"]},
+  {"topic": "Document.importCharacterStyles", "file": "references/community-types/illustrator/document/import-character-styles.md", "summary": "Open when looking up Document.importCharacterStyles in Shared Adobe platform.", "keywords": ["Document.importCharacterStyles"]},
+  {"topic": "Document.importParagraphStyles", "file": "references/community-types/illustrator/document/import-paragraph-styles.md", "summary": "Open when looking up Document.importParagraphStyles in Shared Adobe platform.", "keywords": ["Document.importParagraphStyles"]},
+  {"topic": "Document.kinsokuSet", "file": "references/community-types/illustrator/document/kinsoku-set.md", "summary": "Open when looking up Document.kinsokuSet in Shared Adobe platform.", "keywords": ["Document.kinsokuSet"]},
+  {"topic": "Document.legacyTextItems", "file": "references/community-types/illustrator/document/legacy-text-items.md", "summary": "Open when looking up Document.legacyTextItems in Shared Adobe platform.", "keywords": ["Document.legacyTextItems"]},
+  {"topic": "Document.mojikumiSet", "file": "references/community-types/illustrator/document/mojikumi-set.md", "summary": "Open when looking up Document.mojikumiSet in Shared Adobe platform.", "keywords": ["Document.mojikumiSet"]},
+  {"topic": "Document.paragraphStyles", "file": "references/community-types/illustrator/document/paragraph-styles.md", "summary": "Open when looking up Document.paragraphStyles in Shared Adobe platform.", "keywords": ["Document.paragraphStyles"]},
+  {"topic": "Document.stories", "file": "references/community-types/illustrator/document/stories.md", "summary": "Open when looking up Document.stories in Shared Adobe platform.", "keywords": ["Document.stories"]},
+  {"topic": "Document.textFrames", "file": "references/community-types/illustrator/document/text-frames.md", "summary": "Open when looking up Document.textFrames in Shared Adobe platform.", "keywords": ["Document.textFrames"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

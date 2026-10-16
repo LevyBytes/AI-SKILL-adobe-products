@@ -1,0 +1,36 @@
+# Photoshop — Document
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up calculations in Photoshop. [calculations](calculations.md).
+- Open when looking up changeMode in Photoshop. [changeMode](change-mode.md).
+- Open when looking up close in Photoshop. [close](close.md).
+- Open when looking up closeWithoutSaving in Photoshop. [closeWithoutSaving](close-without-saving.md).
+- Open when looking up convertProfile in Photoshop. [convertProfile](convert-profile.md).
+- Open when looking up createLayer in Photoshop. [createLayer](create-layer.md).
+- Open when looking up createLayerGroup in Photoshop. [createLayerGroup](create-layer-group.md).
+- Open when looking up createPixelLayer in Photoshop. [createPixelLayer](create-pixel-layer.md).
+- Open when looking up createTextLayer in Photoshop. [createTextLayer](create-text-layer.md).
+- Open when looking up crop in Photoshop. [crop](crop.md).
+- Open when looking up Document properties in Photoshop. [Document properties](document-properties.md).
+- Open when looking up duplicate in Photoshop. [duplicate](duplicate.md).
+- Open when looking up duplicateLayers in Photoshop. [duplicateLayers](duplicate-layers.md).
+- Open when looking up flatten in Photoshop. [flatten](flatten.md).
+- Open when looking up generativeUpscale in Photoshop. [generativeUpscale](generative-upscale.md).
+- Open when looking up groupLayers in Photoshop. [groupLayers](group-layers.md).
+- Open when looking up linkLayers in Photoshop. [linkLayers](link-layers.md).
+- Open when looking up mergeVisibleLayers in Photoshop. [mergeVisibleLayers](merge-visible-layers.md).
+- Open when looking up paste in Photoshop. [paste](paste.md).
+- Open when looking up rasterizeAllLayers in Photoshop. [rasterizeAllLayers](rasterize-all-layers.md).
+- Open when looking up resizeCanvas in Photoshop. [resizeCanvas](resize-canvas.md).
+- Open when looking up resizeImage in Photoshop. [resizeImage](resize-image.md).
+- Open when looking up revealAll in Photoshop. [revealAll](reveal-all.md).
+- Open when looking up rotate in Photoshop. [rotate](rotate.md).
+- Open when looking up sampleColor in Photoshop. [sampleColor](sample-color.md).
+- Open when looking up save in Photoshop. [save](save.md).
+- Open when looking up saveAs in Photoshop. [saveAs](save-as.md).
+- Open when looking up selection in Photoshop. [selection](selection.md).
+- Open when looking up splitChannels in Photoshop. [splitChannels](split-channels.md).
+- Open when looking up suspendHistory in Photoshop. [suspendHistory](suspend-history.md).
+- Open when looking up trap in Photoshop. [trap](trap.md).
+- Open when looking up trim in Photoshop. [trim](trim.md).
+- Open when looking up Type declaration in Photoshop. [Type declaration](type-declaration.md).

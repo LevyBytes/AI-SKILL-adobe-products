@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Build", "file": "references/plugin-samples/premiere-api/build.md", "summary": "Open when looking up Build in Premiere Pro.", "keywords": ["Build"]},
+  {"topic": "Debugging", "file": "references/plugin-samples/premiere-api/debugging.md", "summary": "Open when looking up Debugging in Premiere Pro.", "keywords": ["Debugging"]},
+  {"topic": "How the code is organized", "file": "references/plugin-samples/premiere-api/how-the-code-is-organized.md", "summary": "Open when looking up How the code is organized in Premiere Pro.", "keywords": ["How the code is organized"]},
+  {"topic": "Making changes", "file": "references/plugin-samples/premiere-api/making-changes.md", "summary": "Open when looking up Making changes in Premiere Pro.", "keywords": ["Making changes"]},
+  {"topic": "Other commands", "file": "references/plugin-samples/premiere-api/other-commands.md", "summary": "Open when looking up Other commands in Premiere Pro.", "keywords": ["Other commands"]},
+  {"topic": "What's in src/", "file": "references/plugin-samples/premiere-api/what-s-in-src.md", "summary": "Open when looking up What's in src/ in Premiere Pro.", "keywords": ["What's in src/"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

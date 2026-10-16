@@ -1,0 +1,6 @@
+# PlayerInfo
+
+
+**Methods:**
+
+- honors

@@ -1,0 +1,45 @@
+# Shared Adobe platform — File
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up File declaration in Shared Adobe platform. [File declaration](declaration.md).
+- Open when looking up File identity and parent in Shared Adobe platform. [File identity and parent](identity-and-parent.md).
+- Open when looking up File.absoluteURI in Shared Adobe platform. [File.absoluteURI](absolute-uri.md).
+- Open when looking up File.alias in Shared Adobe platform. [File.alias](alias.md).
+- Open when looking up File.changePath in Shared Adobe platform. [File.changePath](change-path.md).
+- Open when looking up File.close in Shared Adobe platform. [File.close](close.md).
+- Open when looking up File.copy in Shared Adobe platform. [File.copy](copy.md).
+- Open when looking up File.createAlias in Shared Adobe platform. [File.createAlias](create-alias.md).
+- Open when looking up File.created in Shared Adobe platform. [File.created](created.md).
+- Open when looking up File.creator in Shared Adobe platform. [File.creator](creator.md).
+- Open when looking up File.displayName in Shared Adobe platform. [File.displayName](display-name.md).
+- Open when looking up File.encoding in Shared Adobe platform. [File.encoding](encoding.md).
+- Open when looking up File.eof in Shared Adobe platform. [File.eof](eof.md).
+- Open when looking up File.error in Shared Adobe platform. [File.error](error.md).
+- Open when looking up File.execute in Shared Adobe platform. [File.execute](execute.md).
+- Open when looking up File.exists in Shared Adobe platform. [File.exists](exists.md).
+- Open when looking up File.fsName in Shared Adobe platform. [File.fsName](fs-name.md).
+- Open when looking up File.fullName in Shared Adobe platform. [File.fullName](full-name.md).
+- Open when looking up File.getRelativeURI in Shared Adobe platform. [File.getRelativeURI](get-relative-uri.md).
+- Open when looking up File.hidden in Shared Adobe platform. [File.hidden](hidden.md).
+- Open when looking up File.length in Shared Adobe platform. [File.length](length.md).
+- Open when looking up File.lineFeed in Shared Adobe platform. [File.lineFeed](line-feed.md).
+- Open when looking up File.modified in Shared Adobe platform. [File.modified](modified.md).
+- Open when looking up File.open in Shared Adobe platform. [File.open](open.md).
+- Open when looking up File.openDlg in Shared Adobe platform. [File.openDlg](open-dlg.md).
+- Open when looking up File.path in Shared Adobe platform. [File.path](path.md).
+- Open when looking up File.read in Shared Adobe platform. [File.read](read.md).
+- Open when looking up File.readch in Shared Adobe platform. [File.readch](readch.md).
+- Open when looking up File.readln in Shared Adobe platform. [File.readln](readln.md).
+- Open when looking up File.readonly in Shared Adobe platform. [File.readonly](readonly.md).
+- Open when looking up File.relativeURI in Shared Adobe platform. [File.relativeURI](relative-uri.md).
+- Open when looking up File.remove in Shared Adobe platform. [File.remove](remove.md).
+- Open when looking up File.rename in Shared Adobe platform. [File.rename](rename.md).
+- Open when looking up File.resolve in Shared Adobe platform. [File.resolve](resolve.md).
+- Open when looking up File.saveDlg in Shared Adobe platform. [File.saveDlg](save-dlg.md).
+- Open when looking up File.seek in Shared Adobe platform. [File.seek](seek.md).
+- Open when looking up File.tell in Shared Adobe platform. [File.tell](tell.md).
+- Open when looking up File.toSource in Shared Adobe platform. [File.toSource](to-source.md).
+- Open when looking up File.toString in Shared Adobe platform. [File.toString](to-string.md).
+- Open when looking up File.type in Shared Adobe platform. [File.type](type.md).
+- Open when looking up File.write in Shared Adobe platform. [File.write](write.md).
+- Open when looking up File.writeln in Shared Adobe platform. [File.writeln](writeln.md).

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Important Notes:", "file": "references/pdf-services/export-pdf-form-data/important-notes.md", "summary": "Open when looking up Important Notes: in Acrobat.", "keywords": ["Important Notes:"]},
+  {"topic": "Input Document", "file": "references/pdf-services/export-pdf-form-data/input-document.md", "summary": "Open when looking up Input Document in Acrobat.", "keywords": ["Input Document"]},
+  {"topic": "Input Documents : Required", "file": "references/pdf-services/export-pdf-form-data/input-documents-required.md", "summary": "Open when looking up Input Documents : Required in Acrobat.", "keywords": ["Input Documents : Required"]},
+  {"topic": "Java", "file": "references/pdf-services/export-pdf-form-data/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
+  {"topic": "Python", "file": "references/pdf-services/export-pdf-form-data/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
+  {"topic": "REST API", "file": "references/pdf-services/export-pdf-form-data/rest-api.md", "summary": "Open when looking up REST API in Acrobat.", "keywords": ["REST API"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

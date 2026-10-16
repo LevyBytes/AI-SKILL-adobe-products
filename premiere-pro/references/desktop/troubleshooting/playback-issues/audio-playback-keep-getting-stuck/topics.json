@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Configure audio preferences", "file": "references/desktop/troubleshooting/playback-issues/audio-playback-keep-getting-stuck/configure-audio-preferences.md", "summary": "Open when looking up Configure audio preferences in Premiere Pro.", "keywords": ["Configure audio preferences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

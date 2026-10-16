@@ -1,0 +1,27 @@
+# Shared Adobe platform — Folder
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Folder declaration in Shared Adobe platform. [Folder declaration](declaration.md).
+- Open when looking up Folder identity and parent in Shared Adobe platform. [Folder identity and parent](identity-and-parent.md).
+- Open when looking up Folder.absoluteURI in Shared Adobe platform. [Folder.absoluteURI](absolute-uri.md).
+- Open when looking up Folder.alias in Shared Adobe platform. [Folder.alias](alias.md).
+- Open when looking up Folder.changePath in Shared Adobe platform. [Folder.changePath](change-path.md).
+- Open when looking up Folder.create in Shared Adobe platform. [Folder.create](create.md).
+- Open when looking up Folder.created in Shared Adobe platform. [Folder.created](created.md).
+- Open when looking up Folder.displayName in Shared Adobe platform. [Folder.displayName](display-name.md).
+- Open when looking up Folder.error in Shared Adobe platform. [Folder.error](error.md).
+- Open when looking up Folder.execute in Shared Adobe platform. [Folder.execute](execute.md).
+- Open when looking up Folder.exists in Shared Adobe platform. [Folder.exists](exists.md).
+- Open when looking up Folder.fsName in Shared Adobe platform. [Folder.fsName](fs-name.md).
+- Open when looking up Folder.fullName in Shared Adobe platform. [Folder.fullName](full-name.md).
+- Open when looking up Folder.getFiles in Shared Adobe platform. [Folder.getFiles](get-files.md).
+- Open when looking up Folder.getRelativeURI in Shared Adobe platform. [Folder.getRelativeURI](get-relative-uri.md).
+- Open when looking up Folder.modified in Shared Adobe platform. [Folder.modified](modified.md).
+- Open when looking up Folder.path in Shared Adobe platform. [Folder.path](path.md).
+- Open when looking up Folder.relativeURI in Shared Adobe platform. [Folder.relativeURI](relative-uri.md).
+- Open when looking up Folder.remove in Shared Adobe platform. [Folder.remove](remove.md).
+- Open when looking up Folder.rename in Shared Adobe platform. [Folder.rename](rename.md).
+- Open when looking up Folder.resolve in Shared Adobe platform. [Folder.resolve](resolve.md).
+- Open when looking up Folder.selectDlg in Shared Adobe platform. [Folder.selectDlg](select-dlg.md).
+- Open when looking up Folder.toSource in Shared Adobe platform. [Folder.toSource](to-source.md).
+- Open when looking up Folder.toString in Shared Adobe platform. [Folder.toString](to-string.md).

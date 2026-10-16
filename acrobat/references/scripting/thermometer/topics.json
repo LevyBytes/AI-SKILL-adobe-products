@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "begin", "file": "references/scripting/thermometer/begin.md", "summary": "Open when looking up begin in Acrobat.", "keywords": ["begin"]},
+  {"topic": "cancelled", "file": "references/scripting/thermometer/cancelled.md", "summary": "Open when looking up cancelled in Acrobat.", "keywords": ["cancelled"]},
+  {"topic": "duration", "file": "references/scripting/thermometer/duration.md", "summary": "Open when looking up duration in Acrobat.", "keywords": ["duration"]},
+  {"topic": "end", "file": "references/scripting/thermometer/end.md", "summary": "Open when looking up end in Acrobat.", "keywords": ["end"]},
+  {"topic": "JavaScript APIs — Thermometer", "file": "references/scripting/thermometer/java-script-apis-thermometer.md", "summary": "Open when looking up JavaScript APIs — Thermometer in Acrobat.", "keywords": ["JavaScript APIs — Thermometer"]},
+  {"topic": "text", "file": "references/scripting/thermometer/text.md", "summary": "Open when looking up text in Acrobat.", "keywords": ["text"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

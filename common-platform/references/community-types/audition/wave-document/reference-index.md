@@ -1,0 +1,21 @@
+# Shared Adobe platform — WaveDocument
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up WaveDocument declaration in Shared Adobe platform. [WaveDocument declaration](declaration.md).
+- Open when looking up WaveDocument.activate in Shared Adobe platform. [WaveDocument.activate](activate.md).
+- Open when looking up WaveDocument.addMarker in Shared Adobe platform. [WaveDocument.addMarker](add-marker.md).
+- Open when looking up WaveDocument.applyFavorite in Shared Adobe platform. [WaveDocument.applyFavorite](apply-favorite.md).
+- Open when looking up WaveDocument.audioFormat in Shared Adobe platform. [WaveDocument.audioFormat](audio-format.md).
+- Open when looking up WaveDocument.busyProgress in Shared Adobe platform. [WaveDocument.busyProgress](busy-progress.md).
+- Open when looking up WaveDocument.closeDocument in Shared Adobe platform. [WaveDocument.closeDocument](close-document.md).
+- Open when looking up WaveDocument.displayName in Shared Adobe platform. [WaveDocument.displayName](display-name.md).
+- Open when looking up WaveDocument.duration in Shared Adobe platform. [WaveDocument.duration](duration.md).
+- Open when looking up WaveDocument.exists in Shared Adobe platform. [WaveDocument.exists](exists.md).
+- Open when looking up WaveDocument.id in Shared Adobe platform. [WaveDocument.id](id.md).
+- Open when looking up WaveDocument.isBusy in Shared Adobe platform. [WaveDocument.isBusy](is-busy.md).
+- Open when looking up WaveDocument.markers in Shared Adobe platform. [WaveDocument.markers](markers.md).
+- Open when looking up WaveDocument.metadata in Shared Adobe platform. [WaveDocument.metadata](metadata.md).
+- Open when looking up WaveDocument.path in Shared Adobe platform. [WaveDocument.path](path.md).
+- Open when looking up WaveDocument.playheadPosition in Shared Adobe platform. [WaveDocument.playheadPosition](playhead-position.md).
+- Open when looking up WaveDocument.sampleRate in Shared Adobe platform. [WaveDocument.sampleRate](sample-rate.md).
+- Open when looking up WaveDocument.saveAs in Shared Adobe platform. [WaveDocument.saveAs](save-as.md).

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "For Adobe admins", "file": "references/integrations/access-acrobat-admin-settings/for-adobe-admins.md", "summary": "Open when looking up For Adobe admins in Acrobat.", "keywords": ["For Adobe admins"]},
+  {"topic": "For Microsoft 365 or Microsoft Teams admins", "file": "references/integrations/access-acrobat-admin-settings/for-microsoft-365-or-microsoft-teams-admins.md", "summary": "Open when looking up For Microsoft 365 or Microsoft Teams admins in Acrobat.", "keywords": ["For Microsoft 365 or Microsoft Teams admins"]},
+  {"topic": "For Non-admins", "file": "references/integrations/access-acrobat-admin-settings/for-non-admins.md", "summary": "Open when looking up For Non-admins in Acrobat.", "keywords": ["For Non-admins"]},
+  {"topic": "Steps to follow if the request link expires", "file": "references/integrations/access-acrobat-admin-settings/steps-to-follow-if-the-request-link-expires.md", "summary": "Open when looking up Steps to follow if the request link expires in Acrobat.", "keywords": ["Steps to follow if the request link expires"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "appliedNamedGrid", "file": "references/document-model/xml-story/applied-named-grid.md", "summary": "Open when looking up appliedNamedGrid in InDesign.", "keywords": ["appliedNamedGrid"]},
+  {"topic": "gridData", "file": "references/document-model/xml-story/grid-data.md", "summary": "Open when looking up gridData in InDesign.", "keywords": ["gridData"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

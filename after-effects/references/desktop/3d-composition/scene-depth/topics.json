@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "3D depth data extraction", "file": "references/desktop/3d-composition/scene-depth/3-d-depth-data-extraction.md", "summary": "Open when looking up 3D depth data extraction in After Effects.", "keywords": ["3D depth data extraction"]},
+  {"topic": "3D depth data extraction references", "file": "references/desktop/3d-composition/scene-depth/3-d-depth-data-extraction/reference-index.md", "summary": "Open when looking up 3D depth data extraction in After Effects.", "keywords": ["3D depth data extraction references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

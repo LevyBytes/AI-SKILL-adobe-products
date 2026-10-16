@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Document.defaultFillColor", "file": "references/scripting/document/default-fill-color.md", "summary": "Open when looking up Document.defaultFillColor in Illustrator.", "keywords": ["Document.defaultFillColor"]},
+  {"topic": "Document.defaultFilled", "file": "references/scripting/document/default-filled.md", "summary": "Open when looking up Document.defaultFilled in Illustrator.", "keywords": ["Document.defaultFilled"]},
+  {"topic": "Document.defaultFillOverprint", "file": "references/scripting/document/default-fill-overprint.md", "summary": "Open when looking up Document.defaultFillOverprint in Illustrator.", "keywords": ["Document.defaultFillOverprint"]},
+  {"topic": "Document.defaultStrokeCap", "file": "references/scripting/document/default-stroke-cap.md", "summary": "Open when looking up Document.defaultStrokeCap in Illustrator.", "keywords": ["Document.defaultStrokeCap"]},
+  {"topic": "Document.defaultStrokeColor", "file": "references/scripting/document/default-stroke-color.md", "summary": "Open when looking up Document.defaultStrokeColor in Illustrator.", "keywords": ["Document.defaultStrokeColor"]},
+  {"topic": "Document.defaultStroked", "file": "references/scripting/document/default-stroked.md", "summary": "Open when looking up Document.defaultStroked in Illustrator.", "keywords": ["Document.defaultStroked"]},
+  {"topic": "Document.defaultStrokeDashes", "file": "references/scripting/document/default-stroke-dashes.md", "summary": "Open when looking up Document.defaultStrokeDashes in Illustrator.", "keywords": ["Document.defaultStrokeDashes"]},
+  {"topic": "Document.defaultStrokeDashOffset", "file": "references/scripting/document/default-stroke-dash-offset.md", "summary": "Open when looking up Document.defaultStrokeDashOffset in Illustrator.", "keywords": ["Document.defaultStrokeDashOffset"]},
+  {"topic": "Document.defaultStrokeJoin", "file": "references/scripting/document/default-stroke-join.md", "summary": "Open when looking up Document.defaultStrokeJoin in Illustrator.", "keywords": ["Document.defaultStrokeJoin"]},
+  {"topic": "Document.defaultStrokeMiterLimit", "file": "references/scripting/document/default-stroke-miter-limit.md", "summary": "Open when looking up Document.defaultStrokeMiterLimit in Illustrator.", "keywords": ["Document.defaultStrokeMiterLimit"]},
+  {"topic": "Document.defaultStrokeOverprint", "file": "references/scripting/document/default-stroke-overprint.md", "summary": "Open when looking up Document.defaultStrokeOverprint in Illustrator.", "keywords": ["Document.defaultStrokeOverprint"]},
+  {"topic": "Document.defaultStrokeWidth", "file": "references/scripting/document/default-stroke-width.md", "summary": "Open when looking up Document.defaultStrokeWidth in Illustrator.", "keywords": ["Document.defaultStrokeWidth"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

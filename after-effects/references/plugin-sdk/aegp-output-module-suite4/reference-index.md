@@ -1,0 +1,22 @@
+# After Effects — AEGP_OutputModuleSuite4
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_AddDefaultOutputModule in After Effects. [AEGP_AddDefaultOutputModule](aegp-add-default-output-module.md).
+- Open when looking up AEGP_GetCropInfo in After Effects. [AEGP_GetCropInfo](aegp-get-crop-info.md).
+- Open when looking up AEGP_GetEmbedOptions in After Effects. [AEGP_GetEmbedOptions](aegp-get-embed-options.md).
+- Open when looking up AEGP_GetEnabledOutputs in After Effects. [AEGP_GetEnabledOutputs](aegp-get-enabled-outputs.md).
+- Open when looking up AEGP_GetExtraOutputModuleInfo in After Effects. [AEGP_GetExtraOutputModuleInfo](aegp-get-extra-output-module-info.md).
+- Open when looking up AEGP_GetOutputChannels in After Effects. [AEGP_GetOutputChannels](aegp-get-output-channels.md).
+- Open when looking up AEGP_GetOutputFilePath in After Effects. [AEGP_GetOutputFilePath](aegp-get-output-file-path.md).
+- Open when looking up AEGP_GetOutputModuleByIndex in After Effects. [AEGP_GetOutputModuleByIndex](aegp-get-output-module-by-index.md).
+- Open when looking up AEGP_GetPostRenderAction in After Effects. [AEGP_GetPostRenderAction](aegp-get-post-render-action.md).
+- Open when looking up AEGP_GetSoundFormatInfo in After Effects. [AEGP_GetSoundFormatInfo](aegp-get-sound-format-info.md).
+- Open when looking up AEGP_GetStretchInfo in After Effects. [AEGP_GetStretchInfo](aegp-get-stretch-info.md).
+- Open when looking up AEGP_SetCropInfo in After Effects. [AEGP_SetCropInfo](aegp-set-crop-info.md).
+- Open when looking up AEGP_SetEmbedOptions in After Effects. [AEGP_SetEmbedOptions](aegp-set-embed-options.md).
+- Open when looking up AEGP_SetEnabledOutputs in After Effects. [AEGP_SetEnabledOutputs](aegp-set-enabled-outputs.md).
+- Open when looking up AEGP_SetOutputChannels in After Effects. [AEGP_SetOutputChannels](aegp-set-output-channels.md).
+- Open when looking up AEGP_SetOutputFilePath in After Effects. [AEGP_SetOutputFilePath](aegp-set-output-file-path.md).
+- Open when looking up AEGP_SetPostRenderAction in After Effects. [AEGP_SetPostRenderAction](aegp-set-post-render-action.md).
+- Open when looking up AEGP_SetSoundFormatInfo in After Effects. [AEGP_SetSoundFormatInfo](aegp-set-sound-format-info.md).
+- Open when looking up AEGP_SetStretchInfo in After Effects. [AEGP_SetStretchInfo](aegp-set-stretch-info.md).

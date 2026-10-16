@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "TextFonts.getByName()", "file": "references/scripting/text-fonts/get-by-name.md", "summary": "Open when looking up TextFonts.getByName() in Illustrator.", "keywords": ["TextFonts.getByName()"]},
+  {"topic": "TextFonts.index()", "file": "references/scripting/text-fonts/index.md", "summary": "Open when looking up TextFonts.index() in Illustrator.", "keywords": ["TextFonts.index()"]},
+  {"topic": "TextFonts.length", "file": "references/scripting/text-fonts/length.md", "summary": "Open when looking up TextFonts.length in Illustrator.", "keywords": ["TextFonts.length"]},
+  {"topic": "TextFonts.parent", "file": "references/scripting/text-fonts/parent.md", "summary": "Open when looking up TextFonts.parent in Illustrator.", "keywords": ["TextFonts.parent"]},
+  {"topic": "TextFonts.typename", "file": "references/scripting/text-fonts/typename.md", "summary": "Open when looking up TextFonts.typename in Illustrator.", "keywords": ["TextFonts.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

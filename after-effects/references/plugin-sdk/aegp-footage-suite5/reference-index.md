@@ -1,0 +1,24 @@
+# After Effects — AEGP_FootageSuite5
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_AddFootageToProject in After Effects. [AEGP_AddFootageToProject](aegp-add-footage-to-project.md).
+- Open when looking up AEGP_DisposeFootage in After Effects. [AEGP_DisposeFootage](aegp-dispose-footage.md).
+- Open when looking up AEGP_GetFootageInterpretation in After Effects. [AEGP_GetFootageInterpretation](aegp-get-footage-interpretation.md).
+- Open when looking up AEGP_GetFootageLayerKey in After Effects. [AEGP_GetFootageLayerKey](aegp-get-footage-layer-key.md).
+- Open when looking up AEGP_GetFootageNumFiles in After Effects. [AEGP_GetFootageNumFiles](aegp-get-footage-num-files.md).
+- Open when looking up AEGP_GetFootagePath in After Effects. [AEGP_GetFootagePath](aegp-get-footage-path.md).
+- Open when looking up AEGP_GetFootageSequenceImportOptions in After Effects. [AEGP_GetFootageSequenceImportOptions](aegp-get-footage-sequence-import-options.md).
+- Open when looking up AEGP_GetFootageSignature in After Effects. [AEGP_GetFootageSignature](aegp-get-footage-signature.md).
+- Open when looking up AEGP_GetFootageSoundDataFormat in After Effects. [AEGP_GetFootageSoundDataFormat](aegp-get-footage-sound-data-format.md).
+- Open when looking up AEGP_GetMainFootageFromItem in After Effects. [AEGP_GetMainFootageFromItem](aegp-get-main-footage-from-item.md).
+- Open when looking up AEGP_GetProxyFootageFromItem in After Effects. [AEGP_GetProxyFootageFromItem](aegp-get-proxy-footage-from-item.md).
+- Open when looking up AEGP_GetSolidFootageColor in After Effects. [AEGP_GetSolidFootageColor](aegp-get-solid-footage-color.md).
+- Open when looking up AEGP_NewFootage in After Effects. [AEGP_NewFootage](aegp-new-footage.md).
+- Open when looking up AEGP_NewPlaceholderFootage in After Effects. [AEGP_NewPlaceholderFootage](aegp-new-placeholder-footage.md).
+- Open when looking up AEGP_NewPlaceholderFootageWithPath in After Effects. [AEGP_NewPlaceholderFootageWithPath](aegp-new-placeholder-footage-with-path.md).
+- Open when looking up AEGP_NewSolidFootage in After Effects. [AEGP_NewSolidFootage](aegp-new-solid-footage.md).
+- Open when looking up AEGP_ReplaceItemMainFootage in After Effects. [AEGP_ReplaceItemMainFootage](aegp-replace-item-main-footage.md).
+- Open when looking up AEGP_SetFootageInterpretation in After Effects. [AEGP_SetFootageInterpretation](aegp-set-footage-interpretation.md).
+- Open when looking up AEGP_SetItemProxyFootage in After Effects. [AEGP_SetItemProxyFootage](aegp-set-item-proxy-footage.md).
+- Open when looking up AEGP_SetSolidFootageColor in After Effects. [AEGP_SetSolidFootageColor](aegp-set-solid-footage-color.md).
+- Open when looking up AEGP_SetSolidFootageDimensions in After Effects. [AEGP_SetSolidFootageDimensions](aegp-set-solid-footage-dimensions.md).

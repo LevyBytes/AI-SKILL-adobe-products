@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "Beta references", "file": "references/desktop/beta/reference-index.md", "summary": "Open when looking up Beta in Media Encoder.", "keywords": ["Beta references"]},
+  {"topic": "Encoding and exporting references", "file": "references/desktop/encoding-and-exporting/reference-index.md", "summary": "Open when looking up Encoding and exporting in Media Encoder.", "keywords": ["Encoding and exporting references"]},
+  {"topic": "Encoding quick start and basics references", "file": "references/desktop/encoding-quick-start-and-basics/reference-index.md", "summary": "Open when looking up Encoding quick start and basics in Media Encoder.", "keywords": ["Encoding quick start and basics references"]},
+  {"topic": "Encoding references", "file": "references/desktop/encoding/reference-index.md", "summary": "Open when looking up Encoding in Media Encoder.", "keywords": ["Encoding references"]},
+  {"topic": "Export settings references", "file": "references/desktop/export-settings/reference-index.md", "summary": "Open when looking up Export settings in Media Encoder.", "keywords": ["Export settings references"]},
+  {"topic": "Get started references", "file": "references/desktop/get-started/reference-index.md", "summary": "Open when looking up Get started in Media Encoder.", "keywords": ["Get started references"]},
+  {"topic": "Introduction references", "file": "references/desktop/introduction/reference-index.md", "summary": "Open when looking up Introduction in Media Encoder.", "keywords": ["Introduction references"]},
+  {"topic": "Release history references", "file": "references/desktop/release-history/reference-index.md", "summary": "Open when looking up Release history in Media Encoder.", "keywords": ["Release history references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

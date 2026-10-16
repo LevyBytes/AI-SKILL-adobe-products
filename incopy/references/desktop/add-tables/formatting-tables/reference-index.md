@@ -1,0 +1,24 @@
+# InCopy — Formatting tables
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add text before a table in InCopy. [Add text before a table](add-text-before-a-table.md).
+- Open when looking up Break tables across frames in InCopy. [Break tables across frames](break-tables-across-frames.md).
+- Open when looking up Change cell inset spacing in InCopy. [Change cell inset spacing](change-cell-inset-spacing.md).
+- Open when looking up Change the alignment of text within a table cell in InCopy. [Change the alignment of text within a table cell](change-the-alignment-of-text-within-a-table-cell.md).
+- Open when looking up Change the cell writing direction in InCopy. [Change the cell writing direction](change-the-cell-writing-direction.md).
+- Open when looking up Change the spacing before or after a table in InCopy. [Change the spacing before or after a table](change-the-spacing-before-or-after-a-table.md).
+- Open when looking up Clip an image in a cell in InCopy. [Clip an image in a cell](clip-an-image-in-a-cell.md).
+- Open when looking up Display the contents of an overset cell in InCopy. [Display the contents of an overset cell](display-the-contents-of-an-overset-cell.md).
+- Open when looking up Distribute columns and rows evenly in InCopy. [Distribute columns and rows evenly](distribute-columns-and-rows-evenly.md).
+- Open when looking up Format text within a table in InCopy. [Format text within a table](format-text-within-a-table.md).
+- Open when looking up Insert tabs into a table cell in InCopy. [Insert tabs into a table cell](insert-tabs-into-a-table-cell.md).
+- Open when looking up Merge and split cells in InCopy. [Merge and split cells](merge-and-split-cells.md).
+- Open when looking up Merge cells in InCopy. [Merge cells](merge-cells.md).
+- Open when looking up Resize columns and rows in InCopy. [Resize columns and rows](resize-columns-and-rows.md).
+- Open when looking up Resize columns, rows, and tables in InCopy. [Resize columns, rows, and tables](resize-columns-rows-and-tables.md).
+- Open when looking up Resize rows or columns without changing the table width in InCopy. [Resize rows or columns without changing the table width](resize-rows-or-columns-without-changing-the-table-width.md).
+- Open when looking up Resize the entire table in InCopy. [Resize the entire table](resize-the-entire-table.md).
+- Open when looking up Rotate text in a cell in InCopy. [Rotate text in a cell](rotate-text-in-a-cell.md).
+- Open when looking up Split cells in InCopy. [Split cells](split-cells.md).
+- Open when looking up Unmerge cells in InCopy. [Unmerge cells](unmerge-cells.md).
+- Open when looking up Work with overset cells in InCopy. [Work with overset cells](work-with-overset-cells.md).

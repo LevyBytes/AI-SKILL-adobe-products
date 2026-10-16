@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "require('uxp').userInfo", "file": "references/uxp/user-info/require-uxp-user-info.md", "summary": "Open when looking up require('uxp').userInfo in InDesign.", "keywords": ["require('uxp').userInfo"]},
+  {"topic": "userId()", "file": "references/uxp/user-info/user-id.md", "summary": "Open when looking up userId() in InDesign.", "keywords": ["userId()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+# Bullets and numbering — Create a paragraph style for running lists
+
+For a running list, where numbering continues despite intervening paragraphs or across multiple stories or documents, make a paragraph style and apply it to each paragraph that should belong to that list. As an example, to list the tables in a document, create a paragraph style named Tables, include a defined list in that style, and apply the Tables paragraph style to every paragraph you want in the Table list.
+
+From the Paragraph Styles panel menu, choose New Paragraph Style. Type a style name. In the left column of New Paragraph Style, click Bullets And Numbering. Set List Type to Bullets or Numbering. When the style is for numbered lists, use List to choose an existing defined list, or choose New List and define one. Set the bullet or numbering characteristics. To adjust indentation, use Bullet or Number Position in New Paragraph Style; for a hanging indent, enter 2p for Left Indent and ‑2p for First Line Indent. Add any other paragraph style attributes needed for the style, and click OK.

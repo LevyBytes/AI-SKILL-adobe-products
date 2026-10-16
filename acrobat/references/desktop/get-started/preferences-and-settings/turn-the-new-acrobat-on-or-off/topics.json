@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Revert to the classic Acrobat experience", "file": "references/desktop/get-started/preferences-and-settings/turn-the-new-acrobat-on-or-off/revert-to-the-classic-acrobat-experience.md", "summary": "Open when looking up Revert to the classic Acrobat experience in Acrobat.", "keywords": ["Revert to the classic Acrobat experience"]},
+  {"topic": "Switch to new Acrobat experience", "file": "references/desktop/get-started/preferences-and-settings/turn-the-new-acrobat-on-or-off/switch-to-new-acrobat-experience.md", "summary": "Open when looking up Switch to new Acrobat experience in Acrobat.", "keywords": ["Switch to new Acrobat experience"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

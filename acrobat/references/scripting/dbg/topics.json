@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "bps", "file": "references/scripting/dbg/bps.md", "summary": "Open when looking up bps in Acrobat.", "keywords": ["bps"]},
+  {"topic": "c", "file": "references/scripting/dbg/c.md", "summary": "Open when looking up c in Acrobat.", "keywords": ["c"]},
+  {"topic": "cb", "file": "references/scripting/dbg/cb.md", "summary": "Open when looking up cb in Acrobat.", "keywords": ["cb"]},
+  {"topic": "JavaScript APIs — dbg", "file": "references/scripting/dbg/java-script-apis-dbg.md", "summary": "Open when looking up JavaScript APIs — dbg in Acrobat.", "keywords": ["JavaScript APIs — dbg"]},
+  {"topic": "q", "file": "references/scripting/dbg/q.md", "summary": "Open when looking up q in Acrobat.", "keywords": ["q"]},
+  {"topic": "sb", "file": "references/scripting/dbg/sb.md", "summary": "Open when looking up sb in Acrobat.", "keywords": ["sb"]},
+  {"topic": "si", "file": "references/scripting/dbg/si.md", "summary": "Open when looking up si in Acrobat.", "keywords": ["si"]},
+  {"topic": "sn", "file": "references/scripting/dbg/sn.md", "summary": "Open when looking up sn in Acrobat.", "keywords": ["sn"]},
+  {"topic": "so", "file": "references/scripting/dbg/so.md", "summary": "Open when looking up so in Acrobat.", "keywords": ["so"]},
+  {"topic": "sv", "file": "references/scripting/dbg/sv.md", "summary": "Open when looking up sv in Acrobat.", "keywords": ["sv"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

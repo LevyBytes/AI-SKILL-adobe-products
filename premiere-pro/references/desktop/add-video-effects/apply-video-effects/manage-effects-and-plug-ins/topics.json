@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Cause", "file": "references/desktop/add-video-effects/apply-video-effects/manage-effects-and-plug-ins/cause.md", "summary": "Open when looking up Cause in Premiere Pro.", "keywords": ["Cause"]},
+  {"topic": "Solution", "file": "references/desktop/add-video-effects/apply-video-effects/manage-effects-and-plug-ins/solution.md", "summary": "Open when looking up Solution in Premiere Pro.", "keywords": ["Solution"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

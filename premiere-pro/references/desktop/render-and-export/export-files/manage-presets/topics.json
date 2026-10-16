@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Delete presets", "file": "references/desktop/render-and-export/export-files/manage-presets/delete-presets.md", "summary": "Open when looking up Delete presets in Premiere Pro.", "keywords": ["Delete presets"]},
+  {"topic": "Mark presets as favorites", "file": "references/desktop/render-and-export/export-files/manage-presets/mark-presets-as-favorites.md", "summary": "Open when looking up Mark presets as favorites in Premiere Pro.", "keywords": ["Mark presets as favorites"]},
+  {"topic": "Search and display presets", "file": "references/desktop/render-and-export/export-files/manage-presets/search-and-display-presets.md", "summary": "Open when looking up Search and display presets in Premiere Pro.", "keywords": ["Search and display presets"]},
+  {"topic": "Sort presets", "file": "references/desktop/render-and-export/export-files/manage-presets/sort-presets.md", "summary": "Open when looking up Sort presets in Premiere Pro.", "keywords": ["Sort presets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

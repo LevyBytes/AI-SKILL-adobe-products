@@ -1,0 +1,42 @@
+# Premiere Pro — Project
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Project object in Premiere Pro. [Project object](project-object.md).
+- Open when looking up Project.activeSequence in Premiere Pro. [Project.activeSequence](active-sequence.md).
+- Open when looking up Project.addPropertyToProjectMetadataSchema() in Premiere Pro. [Project.addPropertyToProjectMetadataSchema()](add-property-to-project-metadata-schema.md).
+- Open when looking up Project.closeDocument() in Premiere Pro. [Project.closeDocument()](close-document.md).
+- Open when looking up Project.cloudProjectlocalID in Premiere Pro. [Project.cloudProjectlocalID](cloud-projectlocal-id.md).
+- Open when looking up Project.consolidateDuplicates() in Premiere Pro. [Project.consolidateDuplicates()](consolidate-duplicates.md).
+- Open when looking up Project.createNewSequence() in Premiere Pro. [Project.createNewSequence()](create-new-sequence.md).
+- Open when looking up Project.createNewSequenceFromClips() in Premiere Pro. [Project.createNewSequenceFromClips()](create-new-sequence-from-clips.md).
+- Open when looking up Project.deleteSequence() in Premiere Pro. [Project.deleteSequence()](delete-sequence.md).
+- Open when looking up Project.documentID in Premiere Pro. [Project.documentID](document-id.md).
+- Open when looking up Project.exportAAF() in Premiere Pro. [Project.exportAAF()](export-aaf.md).
+- Open when looking up Project.exportFinalCutProXML() in Premiere Pro. [Project.exportFinalCutProXML()](export-final-cut-pro-xml.md).
+- Open when looking up Project.exportOMF() in Premiere Pro. [Project.exportOMF()](export-omf.md).
+- Open when looking up Project.exportTimeline() in Premiere Pro. [Project.exportTimeline()](export-timeline.md).
+- Open when looking up Project.getGraphicsWhiteLuminance() in Premiere Pro. [Project.getGraphicsWhiteLuminance()](get-graphics-white-luminance.md).
+- Open when looking up Project.getInsertionBin() in Premiere Pro. [Project.getInsertionBin()](get-insertion-bin.md).
+- Open when looking up Project.getProjectPanelMetadata() in Premiere Pro. [Project.getProjectPanelMetadata()](get-project-panel-metadata.md).
+- Open when looking up Project.getSharedLocation() in Premiere Pro. [Project.getSharedLocation()](get-shared-location.md).
+- Open when looking up Project.getSupportedGraphicsWhiteLuminances() in Premiere Pro. [Project.getSupportedGraphicsWhiteLuminances()](get-supported-graphics-white-luminances.md).
+- Open when looking up Project.importAEComps() in Premiere Pro. [Project.importAEComps()](import-ae-comps.md).
+- Open when looking up Project.importAllAEComps() in Premiere Pro. [Project.importAllAEComps()](import-all-ae-comps.md).
+- Open when looking up Project.importFiles() in Premiere Pro. [Project.importFiles()](import-files.md).
+- Open when looking up Project.importSequences() in Premiere Pro. [Project.importSequences()](import-sequences.md).
+- Open when looking up Project.isCloudProject in Premiere Pro. [Project.isCloudProject](is-cloud-project.md).
+- Open when looking up Project.isSharedLocationCopyEnabled() in Premiere Pro. [Project.isSharedLocationCopyEnabled()](is-shared-location-copy-enabled.md).
+- Open when looking up Project.name in Premiere Pro. [Project.name](name.md).
+- Open when looking up Project.newBarsAndTone() in Premiere Pro. [Project.newBarsAndTone()](new-bars-and-tone.md).
+- Open when looking up Project.newSequence() in Premiere Pro. [Project.newSequence()](new-sequence.md).
+- Open when looking up Project.openSequence() in Premiere Pro. [Project.openSequence()](open-sequence.md).
+- Open when looking up Project.path in Premiere Pro. [Project.path](path.md).
+- Open when looking up Project.pauseGrowing() in Premiere Pro. [Project.pauseGrowing()](pause-growing.md).
+- Open when looking up Project.rootItem in Premiere Pro. [Project.rootItem](root-item.md).
+- Open when looking up Project.save() in Premiere Pro. [Project.save()](save.md).
+- Open when looking up Project.saveAs() in Premiere Pro. [Project.saveAs()](save-as.md).
+- Open when looking up Project.sequences in Premiere Pro. [Project.sequences](sequences.md).
+- Open when looking up Project.setEnableTranscodeOnIngest() in Premiere Pro. [Project.setEnableTranscodeOnIngest()](set-enable-transcode-on-ingest.md).
+- Open when looking up Project.setGraphicsWhiteLuminance() in Premiere Pro. [Project.setGraphicsWhiteLuminance()](set-graphics-white-luminance.md).
+- Open when looking up Project.setProjectPanelMetadata() in Premiere Pro. [Project.setProjectPanelMetadata()](set-project-panel-metadata.md).
+- Open when looking up Project.setScratchDiskPath() in Premiere Pro. [Project.setScratchDiskPath()](set-scratch-disk-path.md).

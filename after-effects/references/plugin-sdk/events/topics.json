@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Effect UI & Events — Events", "file": "references/plugin-sdk/events/effect-ui-events-events.md", "summary": "Open when looking up Effect UI & Events — Events in After Effects.", "keywords": ["Effect UI & Events — Events"]},
+  {"topic": "PF_Event_ACTIVATE", "file": "references/plugin-sdk/events/pf-event-activate.md", "summary": "Open when looking up PF_Event_ACTIVATE in After Effects.", "keywords": ["PF_Event_ACTIVATE"]},
+  {"topic": "PF_Event_ADJUST_CURSOR", "file": "references/plugin-sdk/events/pf-event-adjustcursor.md", "summary": "Open when looking up PF_Event_ADJUST_CURSOR in After Effects.", "keywords": ["PF_Event_ADJUST_CURSOR"]},
+  {"topic": "PF_Event_CLOSE_CONTEXT", "file": "references/plugin-sdk/events/pf-event-closecontext.md", "summary": "Open when looking up PF_Event_CLOSE_CONTEXT in After Effects.", "keywords": ["PF_Event_CLOSE_CONTEXT"]},
+  {"topic": "PF_Event_DEACTIVATE", "file": "references/plugin-sdk/events/pf-event-deactivate.md", "summary": "Open when looking up PF_Event_DEACTIVATE in After Effects.", "keywords": ["PF_Event_DEACTIVATE"]},
+  {"topic": "PF_Event_DO_CLICK", "file": "references/plugin-sdk/events/pf-event-doclick.md", "summary": "Open when looking up PF_Event_DO_CLICK in After Effects.", "keywords": ["PF_Event_DO_CLICK"]},
+  {"topic": "PF_Event_DRAG", "file": "references/plugin-sdk/events/pf-event-drag.md", "summary": "Open when looking up PF_Event_DRAG in After Effects.", "keywords": ["PF_Event_DRAG"]},
+  {"topic": "PF_Event_DRAW", "file": "references/plugin-sdk/events/pf-event-draw.md", "summary": "Open when looking up PF_Event_DRAW in After Effects.", "keywords": ["PF_Event_DRAW"]},
+  {"topic": "PF_Event_IDLE", "file": "references/plugin-sdk/events/pf-event-idle.md", "summary": "Open when looking up PF_Event_IDLE in After Effects.", "keywords": ["PF_Event_IDLE"]},
+  {"topic": "PF_Event_KEYDOWN", "file": "references/plugin-sdk/events/pf-event-keydown.md", "summary": "Open when looking up PF_Event_KEYDOWN in After Effects.", "keywords": ["PF_Event_KEYDOWN"]},
+  {"topic": "PF_Event_MOUSE_EXITED", "file": "references/plugin-sdk/events/pf-event-mouseexited.md", "summary": "Open when looking up PF_Event_MOUSE_EXITED in After Effects.", "keywords": ["PF_Event_MOUSE_EXITED"]},
+  {"topic": "PF_Event_NEW_CONTEXT", "file": "references/plugin-sdk/events/pf-event-newcontext.md", "summary": "Open when looking up PF_Event_NEW_CONTEXT in After Effects.", "keywords": ["PF_Event_NEW_CONTEXT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

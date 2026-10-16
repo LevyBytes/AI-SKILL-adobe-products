@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "BitsPerChannelType", "file": "references/uxp/enumerations/bits-per-channel-type.md", "summary": "Open when looking up BitsPerChannelType in Photoshop.", "keywords": ["BitsPerChannelType"]},
+  {"topic": "ChangeMode", "file": "references/uxp/enumerations/change-mode.md", "summary": "Open when looking up ChangeMode in Photoshop.", "keywords": ["ChangeMode"]},
+  {"topic": "DocumentFill", "file": "references/uxp/enumerations/document-fill.md", "summary": "Open when looking up DocumentFill in Photoshop.", "keywords": ["DocumentFill"]},
+  {"topic": "DocumentMode", "file": "references/uxp/enumerations/document-mode.md", "summary": "Open when looking up DocumentMode in Photoshop.", "keywords": ["DocumentMode"]},
+  {"topic": "NewDocumentMode", "file": "references/uxp/enumerations/new-document-mode.md", "summary": "Open when looking up NewDocumentMode in Photoshop.", "keywords": ["NewDocumentMode"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

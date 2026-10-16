@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Cell.changeGlyph", "file": "references/community-types/indesign/cell/change-glyph.md", "summary": "Open when looking up Cell.changeGlyph in Shared Adobe platform.", "keywords": ["Cell.changeGlyph"]},
+  {"topic": "Cell.changeGrep", "file": "references/community-types/indesign/cell/change-grep.md", "summary": "Open when looking up Cell.changeGrep in Shared Adobe platform.", "keywords": ["Cell.changeGrep"]},
+  {"topic": "Cell.changeText", "file": "references/community-types/indesign/cell/change-text.md", "summary": "Open when looking up Cell.changeText in Shared Adobe platform.", "keywords": ["Cell.changeText"]},
+  {"topic": "Cell.changeTransliterate", "file": "references/community-types/indesign/cell/change-transliterate.md", "summary": "Open when looking up Cell.changeTransliterate in Shared Adobe platform.", "keywords": ["Cell.changeTransliterate"]},
+  {"topic": "Cell.findGlyph", "file": "references/community-types/indesign/cell/find-glyph.md", "summary": "Open when looking up Cell.findGlyph in Shared Adobe platform.", "keywords": ["Cell.findGlyph"]},
+  {"topic": "Cell.findGrep", "file": "references/community-types/indesign/cell/find-grep.md", "summary": "Open when looking up Cell.findGrep in Shared Adobe platform.", "keywords": ["Cell.findGrep"]},
+  {"topic": "Cell.findText", "file": "references/community-types/indesign/cell/find-text.md", "summary": "Open when looking up Cell.findText in Shared Adobe platform.", "keywords": ["Cell.findText"]},
+  {"topic": "Cell.findTransliterate", "file": "references/community-types/indesign/cell/find-transliterate.md", "summary": "Open when looking up Cell.findTransliterate in Shared Adobe platform.", "keywords": ["Cell.findTransliterate"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

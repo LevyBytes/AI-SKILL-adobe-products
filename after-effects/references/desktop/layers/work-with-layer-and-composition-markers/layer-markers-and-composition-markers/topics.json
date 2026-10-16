@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Apply layer markers", "file": "references/desktop/layers/work-with-layer-and-composition-markers/layer-markers-and-composition-markers/apply-layer-markers.md", "summary": "Open when looking up Apply layer markers in After Effects.", "keywords": ["Apply layer markers"]},
+  {"topic": "Assign color labels to markers", "file": "references/desktop/layers/work-with-layer-and-composition-markers/layer-markers-and-composition-markers/assign-color-labels-to-markers.md", "summary": "Open when looking up Assign color labels to markers in After Effects.", "keywords": ["Assign color labels to markers"]},
+  {"topic": "Create composition markers", "file": "references/desktop/layers/work-with-layer-and-composition-markers/layer-markers-and-composition-markers/create-composition-markers.md", "summary": "Open when looking up Create composition markers in After Effects.", "keywords": ["Create composition markers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

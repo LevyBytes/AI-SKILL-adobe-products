@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ascent", "file": "references/document-model/word/ascent.md", "summary": "Open when looking up ascent in InDesign.", "keywords": ["ascent"]},
+  {"topic": "autoLeading", "file": "references/document-model/word/auto-leading.md", "summary": "Open when looking up autoLeading in InDesign.", "keywords": ["autoLeading"]},
+  {"topic": "baseline", "file": "references/document-model/word/baseline.md", "summary": "Open when looking up baseline in InDesign.", "keywords": ["baseline"]},
+  {"topic": "baselineShift", "file": "references/document-model/word/baseline-shift.md", "summary": "Open when looking up baselineShift in InDesign.", "keywords": ["baselineShift"]},
+  {"topic": "characterRotation", "file": "references/document-model/word/character-rotation.md", "summary": "Open when looking up characterRotation in InDesign.", "keywords": ["characterRotation"]},
+  {"topic": "descent", "file": "references/document-model/word/descent.md", "summary": "Open when looking up descent in InDesign.", "keywords": ["descent"]},
+  {"topic": "endBaseline", "file": "references/document-model/word/end-baseline.md", "summary": "Open when looking up endBaseline in InDesign.", "keywords": ["endBaseline"]},
+  {"topic": "endHorizontalOffset", "file": "references/document-model/word/end-horizontal-offset.md", "summary": "Open when looking up endHorizontalOffset in InDesign.", "keywords": ["endHorizontalOffset"]},
+  {"topic": "horizontalOffset", "file": "references/document-model/word/horizontal-offset.md", "summary": "Open when looking up horizontalOffset in InDesign.", "keywords": ["horizontalOffset"]},
+  {"topic": "horizontalScale", "file": "references/document-model/word/horizontal-scale.md", "summary": "Open when looking up horizontalScale in InDesign.", "keywords": ["horizontalScale"]},
+  {"topic": "kerningMethod", "file": "references/document-model/word/kerning-method.md", "summary": "Open when looking up kerningMethod in InDesign.", "keywords": ["kerningMethod"]},
+  {"topic": "kerningValue", "file": "references/document-model/word/kerning-value.md", "summary": "Open when looking up kerningValue in InDesign.", "keywords": ["kerningValue"]},
+  {"topic": "leading", "file": "references/document-model/word/leading.md", "summary": "Open when looking up leading in InDesign.", "keywords": ["leading"]},
+  {"topic": "leadingModel", "file": "references/document-model/word/leading-model.md", "summary": "Open when looking up leadingModel in InDesign.", "keywords": ["leadingModel"]},
+  {"topic": "position", "file": "references/document-model/word/position.md", "summary": "Open when looking up position in InDesign.", "keywords": ["position"]},
+  {"topic": "scaleAffectsLineHeight", "file": "references/document-model/word/scale-affects-line-height.md", "summary": "Open when looking up scaleAffectsLineHeight in InDesign.", "keywords": ["scaleAffectsLineHeight"]},
+  {"topic": "skew", "file": "references/document-model/word/skew.md", "summary": "Open when looking up skew in InDesign.", "keywords": ["skew"]},
+  {"topic": "tracking", "file": "references/document-model/word/tracking.md", "summary": "Open when looking up tracking in InDesign.", "keywords": ["tracking"]},
+  {"topic": "verticalScale", "file": "references/document-model/word/vertical-scale.md", "summary": "Open when looking up verticalScale in InDesign.", "keywords": ["verticalScale"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

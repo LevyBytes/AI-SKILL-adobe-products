@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "createComponentByDisplayName", "file": "references/uxp/host-api/audio-filter-factory/static-methods/create-component-by-display-name.md", "summary": "Open when looking up createComponentByDisplayName in Premiere Pro.", "keywords": ["createComponentByDisplayName"]},
+  {"topic": "getDisplayNames", "file": "references/uxp/host-api/audio-filter-factory/static-methods/get-display-names.md", "summary": "Open when looking up getDisplayNames in Premiere Pro.", "keywords": ["getDisplayNames"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

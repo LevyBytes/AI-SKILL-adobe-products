@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "baselineFrameGridColor", "file": "references/document-model/change-object-preference/baseline-frame-grid-color.md", "summary": "Open when looking up baselineFrameGridColor in InDesign.", "keywords": ["baselineFrameGridColor"]},
+  {"topic": "baselineFrameGridIncrement", "file": "references/document-model/change-object-preference/baseline-frame-grid-increment.md", "summary": "Open when looking up baselineFrameGridIncrement in InDesign.", "keywords": ["baselineFrameGridIncrement"]},
+  {"topic": "baselineFrameGridRelativeOption", "file": "references/document-model/change-object-preference/baseline-frame-grid-relative-option.md", "summary": "Open when looking up baselineFrameGridRelativeOption in InDesign.", "keywords": ["baselineFrameGridRelativeOption"]},
+  {"topic": "startingOffsetForBaselineFrameGrid", "file": "references/document-model/change-object-preference/starting-offset-for-baseline-frame-grid.md", "summary": "Open when looking up startingOffsetForBaselineFrameGrid in InDesign.", "keywords": ["startingOffsetForBaselineFrameGrid"]},
+  {"topic": "useCustomBaselineFrameGrid", "file": "references/document-model/change-object-preference/use-custom-baseline-frame-grid.md", "summary": "Open when looking up useCustomBaselineFrameGrid in InDesign.", "keywords": ["useCustomBaselineFrameGrid"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

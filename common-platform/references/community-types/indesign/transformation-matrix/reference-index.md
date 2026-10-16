@@ -1,0 +1,23 @@
+# Shared Adobe platform — TransformationMatrix
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TransformationMatrix declaration in Shared Adobe platform. [TransformationMatrix declaration](declaration.md).
+- Open when looking up TransformationMatrix event listeners in Shared Adobe platform. [TransformationMatrix event listeners](event-listeners.md).
+- Open when looking up TransformationMatrix identity and parent in Shared Adobe platform. [TransformationMatrix identity and parent](identity-and-parent.md).
+- Open when looking up TransformationMatrix object resolution in Shared Adobe platform. [TransformationMatrix object resolution](object-resolution.md).
+- Open when looking up TransformationMatrix.catenateMatrix in Shared Adobe platform. [TransformationMatrix.catenateMatrix](catenate-matrix.md).
+- Open when looking up TransformationMatrix.changeCoordinates in Shared Adobe platform. [TransformationMatrix.changeCoordinates](change-coordinates.md).
+- Open when looking up TransformationMatrix.clockwiseShearAngle in Shared Adobe platform. [TransformationMatrix.clockwiseShearAngle](clockwise-shear-angle.md).
+- Open when looking up TransformationMatrix.counterclockwiseRotationAngle in Shared Adobe platform. [TransformationMatrix.counterclockwiseRotationAngle](counterclockwise-rotation-angle.md).
+- Open when looking up TransformationMatrix.horizontalScaleFactor in Shared Adobe platform. [TransformationMatrix.horizontalScaleFactor](horizontal-scale-factor.md).
+- Open when looking up TransformationMatrix.horizontalTranslation in Shared Adobe platform. [TransformationMatrix.horizontalTranslation](horizontal-translation.md).
+- Open when looking up TransformationMatrix.invertMatrix in Shared Adobe platform. [TransformationMatrix.invertMatrix](invert-matrix.md).
+- Open when looking up TransformationMatrix.matrixMapping in Shared Adobe platform. [TransformationMatrix.matrixMapping](matrix-mapping.md).
+- Open when looking up TransformationMatrix.matrixValues in Shared Adobe platform. [TransformationMatrix.matrixValues](matrix-values.md).
+- Open when looking up TransformationMatrix.properties in Shared Adobe platform. [TransformationMatrix.properties](properties.md).
+- Open when looking up TransformationMatrix.rotateMatrix in Shared Adobe platform. [TransformationMatrix.rotateMatrix](rotate-matrix.md).
+- Open when looking up TransformationMatrix.scaleMatrix in Shared Adobe platform. [TransformationMatrix.scaleMatrix](scale-matrix.md).
+- Open when looking up TransformationMatrix.shearMatrix in Shared Adobe platform. [TransformationMatrix.shearMatrix](shear-matrix.md).
+- Open when looking up TransformationMatrix.translateMatrix in Shared Adobe platform. [TransformationMatrix.translateMatrix](translate-matrix.md).
+- Open when looking up TransformationMatrix.verticalScaleFactor in Shared Adobe platform. [TransformationMatrix.verticalScaleFactor](vertical-scale-factor.md).
+- Open when looking up TransformationMatrix.verticalTranslation in Shared Adobe platform. [TransformationMatrix.verticalTranslation](vertical-translation.md).

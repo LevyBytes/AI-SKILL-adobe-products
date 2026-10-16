@@ -1,0 +1,13 @@
+# TextFrame.releaseCompoundPath
+
+Community declaration reference: InDesign/2023.
+
+Breaks apart a compound path.
+
+```typescript
+declare class TextFrame extends PageItem {
+    releaseCompoundPath(): PageItem[]
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

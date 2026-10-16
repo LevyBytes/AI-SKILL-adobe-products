@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "getRandomValues(array)", "file": "references/uxp/window-crypto/get-random-values.md", "summary": "Open when looking up getRandomValues(array) in InDesign.", "keywords": ["getRandomValues(array)"]},
+  {"topic": "randomUUID()", "file": "references/uxp/window-crypto/random-uuid.md", "summary": "Open when looking up randomUUID() in InDesign.", "keywords": ["randomUUID()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

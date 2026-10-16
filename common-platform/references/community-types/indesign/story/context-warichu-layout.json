@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Story.warichu", "file": "references/community-types/indesign/story/warichu.md", "summary": "Open when looking up Story.warichu in Shared Adobe platform.", "keywords": ["Story.warichu"]},
+  {"topic": "Story.warichuAlignment", "file": "references/community-types/indesign/story/warichu-alignment.md", "summary": "Open when looking up Story.warichuAlignment in Shared Adobe platform.", "keywords": ["Story.warichuAlignment"]},
+  {"topic": "Story.warichuCharsAfterBreak", "file": "references/community-types/indesign/story/warichu-chars-after-break.md", "summary": "Open when looking up Story.warichuCharsAfterBreak in Shared Adobe platform.", "keywords": ["Story.warichuCharsAfterBreak"]},
+  {"topic": "Story.warichuCharsBeforeBreak", "file": "references/community-types/indesign/story/warichu-chars-before-break.md", "summary": "Open when looking up Story.warichuCharsBeforeBreak in Shared Adobe platform.", "keywords": ["Story.warichuCharsBeforeBreak"]},
+  {"topic": "Story.warichuLines", "file": "references/community-types/indesign/story/warichu-lines.md", "summary": "Open when looking up Story.warichuLines in Shared Adobe platform.", "keywords": ["Story.warichuLines"]},
+  {"topic": "Story.warichuLineSpacing", "file": "references/community-types/indesign/story/warichu-line-spacing.md", "summary": "Open when looking up Story.warichuLineSpacing in Shared Adobe platform.", "keywords": ["Story.warichuLineSpacing"]},
+  {"topic": "Story.warichuSize", "file": "references/community-types/indesign/story/warichu-size.md", "summary": "Open when looking up Story.warichuSize in Shared Adobe platform.", "keywords": ["Story.warichuSize"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "PLACEHOLDER_TEXT", "file": "references/document-model/text-frame-contents/placeholdertext.md", "summary": "Open when looking up PLACEHOLDER_TEXT in InDesign.", "keywords": ["PLACEHOLDER_TEXT"]},
+  {"topic": "PLACEHOLDER_TEXT_ARABIC", "file": "references/document-model/text-frame-contents/placeholdertextarabic.md", "summary": "Open when looking up PLACEHOLDER_TEXT_ARABIC in InDesign.", "keywords": ["PLACEHOLDER_TEXT_ARABIC"]},
+  {"topic": "PLACEHOLDER_TEXT_CYRILLIC", "file": "references/document-model/text-frame-contents/placeholdertextcyrillic.md", "summary": "Open when looking up PLACEHOLDER_TEXT_CYRILLIC in InDesign.", "keywords": ["PLACEHOLDER_TEXT_CYRILLIC"]},
+  {"topic": "PLACEHOLDER_TEXT_GREEK", "file": "references/document-model/text-frame-contents/placeholdertextgreek.md", "summary": "Open when looking up PLACEHOLDER_TEXT_GREEK in InDesign.", "keywords": ["PLACEHOLDER_TEXT_GREEK"]},
+  {"topic": "PLACEHOLDER_TEXT_HEBREW", "file": "references/document-model/text-frame-contents/placeholdertexthebrew.md", "summary": "Open when looking up PLACEHOLDER_TEXT_HEBREW in InDesign.", "keywords": ["PLACEHOLDER_TEXT_HEBREW"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "ExportOptionsPNG24.antiAliasing", "file": "references/scripting/export-options-png24/anti-aliasing.md", "summary": "Open when looking up ExportOptionsPNG24.antiAliasing in Illustrator.", "keywords": ["ExportOptionsPNG24.antiAliasing"]},
+  {"topic": "ExportOptionsPNG24.artBoardClipping", "file": "references/scripting/export-options-png24/art-board-clipping.md", "summary": "Open when looking up ExportOptionsPNG24.artBoardClipping in Illustrator.", "keywords": ["ExportOptionsPNG24.artBoardClipping"]},
+  {"topic": "ExportOptionsPNG24.horizontalScale", "file": "references/scripting/export-options-png24/horizontal-scale.md", "summary": "Open when looking up ExportOptionsPNG24.horizontalScale in Illustrator.", "keywords": ["ExportOptionsPNG24.horizontalScale"]},
+  {"topic": "ExportOptionsPNG24.matte", "file": "references/scripting/export-options-png24/matte.md", "summary": "Open when looking up ExportOptionsPNG24.matte in Illustrator.", "keywords": ["ExportOptionsPNG24.matte"]},
+  {"topic": "ExportOptionsPNG24.matteColor", "file": "references/scripting/export-options-png24/matte-color.md", "summary": "Open when looking up ExportOptionsPNG24.matteColor in Illustrator.", "keywords": ["ExportOptionsPNG24.matteColor"]},
+  {"topic": "ExportOptionsPNG24.saveAsHTML", "file": "references/scripting/export-options-png24/save-as-html.md", "summary": "Open when looking up ExportOptionsPNG24.saveAsHTML in Illustrator.", "keywords": ["ExportOptionsPNG24.saveAsHTML"]},
+  {"topic": "ExportOptionsPNG24.transparency", "file": "references/scripting/export-options-png24/transparency.md", "summary": "Open when looking up ExportOptionsPNG24.transparency in Illustrator.", "keywords": ["ExportOptionsPNG24.transparency"]},
+  {"topic": "ExportOptionsPNG24.typename", "file": "references/scripting/export-options-png24/typename.md", "summary": "Open when looking up ExportOptionsPNG24.typename in Illustrator.", "keywords": ["ExportOptionsPNG24.typename"]},
+  {"topic": "ExportOptionsPNG24.verticalScale", "file": "references/scripting/export-options-png24/vertical-scale.md", "summary": "Open when looking up ExportOptionsPNG24.verticalScale in Illustrator.", "keywords": ["ExportOptionsPNG24.verticalScale"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

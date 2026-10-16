@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Close a library", "file": "references/desktop/graphics-and-media/object-libraries-and-snippets/open-close-or-delete-object-libraries/close-a-library.md", "summary": "Open when looking up Close a library in InDesign.", "keywords": ["Close a library"]},
+  {"topic": "Delete a library permanently", "file": "references/desktop/graphics-and-media/object-libraries-and-snippets/open-close-or-delete-object-libraries/delete-a-library-permanently.md", "summary": "Open when looking up Delete a library permanently in InDesign.", "keywords": ["Delete a library permanently"]},
+  {"topic": "Open an existing library", "file": "references/desktop/graphics-and-media/object-libraries-and-snippets/open-close-or-delete-object-libraries/open-an-existing-library.md", "summary": "Open when looking up Open an existing library in InDesign.", "keywords": ["Open an existing library"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

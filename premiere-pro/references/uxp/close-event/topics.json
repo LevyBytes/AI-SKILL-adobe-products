@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "window.CloseEvent — CloseEvent(code, reason, wasClean)", "file": "references/uxp/close-event/constructor.md", "summary": "Open when looking up window.CloseEvent — CloseEvent(code, reason, wasClean) in Premiere Pro.", "keywords": ["window.CloseEvent — CloseEvent(code, reason, wasClean)"]},
+  {"topic": "window.CloseEvent — code ⇒ number", "file": "references/uxp/close-event/code.md", "summary": "Open when looking up window.CloseEvent — code ⇒ number in Premiere Pro.", "keywords": ["window.CloseEvent — code ⇒ number"]},
+  {"topic": "window.CloseEvent — reason ⇒ number", "file": "references/uxp/close-event/reason.md", "summary": "Open when looking up window.CloseEvent — reason ⇒ number in Premiere Pro.", "keywords": ["window.CloseEvent — reason ⇒ number"]},
+  {"topic": "window.CloseEvent — wasClean ⇒ boolean", "file": "references/uxp/close-event/was-clean.md", "summary": "Open when looking up window.CloseEvent — wasClean ⇒ boolean in Premiere Pro.", "keywords": ["window.CloseEvent — wasClean ⇒ boolean"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

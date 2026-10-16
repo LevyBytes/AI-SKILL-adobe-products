@@ -1,0 +1,3 @@
+# Apple Silicon Support
+
+- Native compilation of effects for Apple Silicon is now possible with the AE SDK. After Effects itself doesn't run on Apple Silicon yet, but as a company Adobe is advancing native support throughout many of our products. Native versions of applications like Premiere Pro now exist, and features such as Motion Graphic Templates may load your effects inside Premiere Pro. Since only natively compiled effects will function when the native build of Premiere Pro is running, updating your effects for Apple Silicon support soon really matters. For the full rundown, turn to the Apple Silicon Support section.

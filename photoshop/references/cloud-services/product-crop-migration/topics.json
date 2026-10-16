@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "1. No padding (tight crop)", "file": "references/cloud-services/product-crop-migration/no-padding-tight-crop.md", "summary": "Open when looking up 1. No padding (tight crop) in Photoshop.", "keywords": ["1. No padding (tight crop)"]},
+  {"topic": "2. Asymmetric padding", "file": "references/cloud-services/product-crop-migration/asymmetric-padding.md", "summary": "Open when looking up 2. Asymmetric padding in Photoshop.", "keywords": ["2. Asymmetric padding"]},
+  {"topic": "3. Add post-processing", "file": "references/cloud-services/product-crop-migration/add-post-processing.md", "summary": "Open when looking up 3. Add post-processing in Photoshop.", "keywords": ["3. Add post-processing"]},
+  {"topic": "ActionJSON Definition", "file": "references/cloud-services/product-crop-migration/action-json-definition.md", "summary": "Open when looking up ActionJSON Definition in Photoshop.", "keywords": ["ActionJSON Definition"]},
+  {"topic": "Baseline migration", "file": "references/cloud-services/product-crop-migration/baseline-migration.md", "summary": "Open when looking up Baseline migration in Photoshop.", "keywords": ["Baseline migration"]},
+  {"topic": "Change to percentage-based padding", "file": "references/cloud-services/product-crop-migration/change-to-percentage-based-padding.md", "summary": "Open when looking up Change to percentage-based padding in Photoshop.", "keywords": ["Change to percentage-based padding"]},
+  {"topic": "Customizing the padding", "file": "references/cloud-services/product-crop-migration/customizing-the-padding.md", "summary": "Open when looking up Customizing the padding in Photoshop.", "keywords": ["Customizing the padding"]},
+  {"topic": "Migration checklist", "file": "references/cloud-services/product-crop-migration/migration-checklist.md", "summary": "Open when looking up Migration checklist in Photoshop.", "keywords": ["Migration checklist"]},
+  {"topic": "Modify padding values", "file": "references/cloud-services/product-crop-migration/modify-padding-values.md", "summary": "Open when looking up Modify padding values in Photoshop.", "keywords": ["Modify padding values"]},
+  {"topic": "Support", "file": "references/cloud-services/product-crop-migration/support.md", "summary": "Open when looking up Support in Photoshop.", "keywords": ["Support"]},
+  {"topic": "Using inline ActionJSON", "file": "references/cloud-services/product-crop-migration/using-inline-action-json.md", "summary": "Open when looking up Using inline ActionJSON in Photoshop.", "keywords": ["Using inline ActionJSON"]},
+  {"topic": "V1 API (Deprecated)", "file": "references/cloud-services/product-crop-migration/v1-api-deprecated.md", "summary": "Open when looking up V1 API (Deprecated) in Photoshop.", "keywords": ["V1 API (Deprecated)"]},
+  {"topic": "V2 API (Current)", "file": "references/cloud-services/product-crop-migration/v2-api-current.md", "summary": "Open when looking up V2 API (Current) in Photoshop.", "keywords": ["V2 API (Current)"]},
+  {"topic": "What this action does", "file": "references/cloud-services/product-crop-migration/what-this-action-does.md", "summary": "Open when looking up What this action does in Photoshop.", "keywords": ["What this action does"]},
+  {"topic": "With custom padding", "file": "references/cloud-services/product-crop-migration/with-custom-padding.md", "summary": "Open when looking up With custom padding in Photoshop.", "keywords": ["With custom padding"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

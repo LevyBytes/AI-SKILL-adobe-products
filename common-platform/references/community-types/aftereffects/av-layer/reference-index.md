@@ -1,0 +1,51 @@
+# Shared Adobe platform — AVLayer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AVLayer declaration in Shared Adobe platform. [AVLayer declaration](declaration.md).
+- Open when looking up AVLayer.addToMotionGraphicsTemplate in Shared Adobe platform. [AVLayer.addToMotionGraphicsTemplate](add-to-motion-graphics-template.md).
+- Open when looking up AVLayer.addToMotionGraphicsTemplateAs in Shared Adobe platform. [AVLayer.addToMotionGraphicsTemplateAs](add-to-motion-graphics-template-as.md).
+- Open when looking up AVLayer.adjustmentLayer in Shared Adobe platform. [AVLayer.adjustmentLayer](adjustment-layer.md).
+- Open when looking up AVLayer.audio in Shared Adobe platform. [AVLayer.audio](audio.md).
+- Open when looking up AVLayer.audioActive in Shared Adobe platform. [AVLayer.audioActive](audio-active.md).
+- Open when looking up AVLayer.audioActiveAtTime in Shared Adobe platform. [AVLayer.audioActiveAtTime](audio-active-at-time.md).
+- Open when looking up AVLayer.audioEnabled in Shared Adobe platform. [AVLayer.audioEnabled](audio-enabled.md).
+- Open when looking up AVLayer.blendingMode in Shared Adobe platform. [AVLayer.blendingMode](blending-mode.md).
+- Open when looking up AVLayer.calculateTransformFromPoints in Shared Adobe platform. [AVLayer.calculateTransformFromPoints](calculate-transform-from-points.md).
+- Open when looking up AVLayer.canAddToMotionGraphicsTemplate in Shared Adobe platform. [AVLayer.canAddToMotionGraphicsTemplate](can-add-to-motion-graphics-template.md).
+- Open when looking up AVLayer.canSetCollapseTransformation in Shared Adobe platform. [AVLayer.canSetCollapseTransformation](can-set-collapse-transformation.md).
+- Open when looking up AVLayer.canSetTimeRemapEnabled in Shared Adobe platform. [AVLayer.canSetTimeRemapEnabled](can-set-time-remap-enabled.md).
+- Open when looking up AVLayer.collapseTransformation in Shared Adobe platform. [AVLayer.collapseTransformation](collapse-transformation.md).
+- Open when looking up AVLayer.compPointToSource in Shared Adobe platform. [AVLayer.compPointToSource](comp-point-to-source.md).
+- Open when looking up AVLayer.effect in Shared Adobe platform. [AVLayer.effect](effect.md).
+- Open when looking up AVLayer.effectsActive in Shared Adobe platform. [AVLayer.effectsActive](effects-active.md).
+- Open when looking up AVLayer.environmentLayer in Shared Adobe platform. [AVLayer.environmentLayer](environment-layer.md).
+- Open when looking up AVLayer.frameBlending in Shared Adobe platform. [AVLayer.frameBlending](frame-blending.md).
+- Open when looking up AVLayer.frameBlendingType in Shared Adobe platform. [AVLayer.frameBlendingType](frame-blending-type.md).
+- Open when looking up AVLayer.geometryOption in Shared Adobe platform. [AVLayer.geometryOption](geometry-option.md).
+- Open when looking up AVLayer.guideLayer in Shared Adobe platform. [AVLayer.guideLayer](guide-layer.md).
+- Open when looking up AVLayer.hasAudio in Shared Adobe platform. [AVLayer.hasAudio](has-audio.md).
+- Open when looking up AVLayer.hasTrackMatte in Shared Adobe platform. [AVLayer.hasTrackMatte](has-track-matte.md).
+- Open when looking up AVLayer.height in Shared Adobe platform. [AVLayer.height](height.md).
+- Open when looking up AVLayer.isNameFromSource in Shared Adobe platform. [AVLayer.isNameFromSource](is-name-from-source.md).
+- Open when looking up AVLayer.isTrackMatte in Shared Adobe platform. [AVLayer.isTrackMatte](is-track-matte.md).
+- Open when looking up AVLayer.layerStyle in Shared Adobe platform. [AVLayer.layerStyle](layer-style.md).
+- Open when looking up AVLayer.mask in Shared Adobe platform. [AVLayer.mask](mask.md).
+- Open when looking up AVLayer.materialOption in Shared Adobe platform. [AVLayer.materialOption](material-option.md).
+- Open when looking up AVLayer.motionBlur in Shared Adobe platform. [AVLayer.motionBlur](motion-blur.md).
+- Open when looking up AVLayer.openInViewer in Shared Adobe platform. [AVLayer.openInViewer](open-in-viewer.md).
+- Open when looking up AVLayer.preserveTransparency in Shared Adobe platform. [AVLayer.preserveTransparency](preserve-transparency.md).
+- Open when looking up AVLayer.quality in Shared Adobe platform. [AVLayer.quality](quality.md).
+- Open when looking up AVLayer.removeTrackMatte in Shared Adobe platform. [AVLayer.removeTrackMatte](remove-track-matte.md).
+- Open when looking up AVLayer.replaceSource in Shared Adobe platform. [AVLayer.replaceSource](replace-source.md).
+- Open when looking up AVLayer.samplingQuality in Shared Adobe platform. [AVLayer.samplingQuality](sampling-quality.md).
+- Open when looking up AVLayer.setTrackMatte in Shared Adobe platform. [AVLayer.setTrackMatte](set-track-matte.md).
+- Open when looking up AVLayer.source in Shared Adobe platform. [AVLayer.source](source.md).
+- Open when looking up AVLayer.sourcePointToComp in Shared Adobe platform. [AVLayer.sourcePointToComp](source-point-to-comp.md).
+- Open when looking up AVLayer.sourceRectAtTime in Shared Adobe platform. [AVLayer.sourceRectAtTime](source-rect-at-time.md).
+- Open when looking up AVLayer.threeDLayer in Shared Adobe platform. [AVLayer.threeDLayer](three-d-layer.md).
+- Open when looking up AVLayer.threeDPerChar in Shared Adobe platform. [AVLayer.threeDPerChar](three-d-per-char.md).
+- Open when looking up AVLayer.timeRemap in Shared Adobe platform. [AVLayer.timeRemap](time-remap.md).
+- Open when looking up AVLayer.timeRemapEnabled in Shared Adobe platform. [AVLayer.timeRemapEnabled](time-remap-enabled.md).
+- Open when looking up AVLayer.trackMatteLayer in Shared Adobe platform. [AVLayer.trackMatteLayer](track-matte-layer.md).
+- Open when looking up AVLayer.trackMatteType in Shared Adobe platform. [AVLayer.trackMatteType](track-matte-type.md).
+- Open when looking up AVLayer.width in Shared Adobe platform. [AVLayer.width](width.md).

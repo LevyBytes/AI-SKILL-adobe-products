@@ -1,0 +1,29 @@
+# Premiere Pro — Change clip sequence
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Change sequence settings in Premiere Pro. [Change sequence settings](change-sequence-settings.md).
+- Open when looking up Copy and paste clips in Premiere Pro. [Copy and paste clips](copy-and-paste-clips.md).
+- Open when looking up Create a custom sequence preset in Premiere Pro. [Create a custom sequence preset](create-a-custom-sequence-preset.md).
+- Open when looking up Create a sequence in Premiere Pro. [Create a sequence](create-a-sequence.md).
+- Open when looking up Detect edit points using Scene Edit Detection in Premiere Pro. [Detect edit points using Scene Edit Detection](detect-edit-points-using-scene-edit-detection.md).
+- Open when looking up Different ways to move clips in Premiere Pro. [Different ways to move clips](different-ways-to-move-clips.md).
+- Open when looking up Edit track appearance in Premiere Pro. [Edit track appearance](edit-track-appearance.md).
+- Open when looking up Edit track appearance in Premiere Pro. [Edit track appearance references](edit-track-appearance/reference-index.md).
+- Open when looking up Enable or disable a clip in Premiere Pro. [Enable or disable a clip](enable-or-disable-a-clip.md).
+- Open when looking up Find clips in a sequence in Premiere Pro. [Find clips in a sequence](find-clips-in-a-sequence.md).
+- Open when looking up Group clips in Premiere Pro. [Group clips](group-clips.md).
+- Open when looking up Lift and paste frames in Premiere Pro. [Lift and paste frames](lift-and-paste-frames.md).
+- Open when looking up Navigate sequences in the timeline in Premiere Pro. [Navigate sequences in the timeline](navigate-sequences-in-the-timeline.md).
+- Open when looking up Navigate sequences in the timeline in Premiere Pro. [Navigate sequences in the timeline references](navigate-sequences-in-the-timeline/reference-index.md).
+- Open when looking up Remove clips from a sequence in Premiere Pro. [Remove clips from a sequence](remove-clips-from-a-sequence.md).
+- Open when looking up Remove clips from a sequence in Premiere Pro. [Remove clips from a sequence references](remove-clips-from-a-sequence/reference-index.md).
+- Open when looking up Rename tracks in Premiere Pro. [Rename tracks](rename-tracks.md).
+- Open when looking up Select clips in Premiere Pro. [Select clips](select-clips.md).
+- Open when looking up Sequence presets and settings in Premiere Pro. [Sequence presets and settings](sequence-presets-and-settings.md).
+- Open when looking up Sequence presets and settings in Premiere Pro. [Sequence presets and settings references](sequence-presets-and-settings/reference-index.md).
+- Open when looking up Sequence settings reference in Premiere Pro. [Sequence settings reference](sequence-settings-reference.md).
+- Open when looking up Sequence settings reference in Premiere Pro. [Sequence settings reference references](sequence-settings-reference/reference-index.md).
+- Open when looking up Simplify a sequence in Premiere Pro. [Simplify a sequence](simplify-a-sequence.md).
+- Open when looking up Snap clips in Premiere Pro. [Snap clips](snap-clips.md).
+- Open when looking up Sync Lock to prevent changes in Premiere Pro. [Sync Lock to prevent changes](sync-lock-to-prevent-changes.md).
+- Open when looking up Track Lock to prevent changes in Premiere Pro. [Track Lock to prevent changes](track-lock-to-prevent-changes.md).

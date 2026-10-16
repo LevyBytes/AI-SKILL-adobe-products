@@ -1,0 +1,13 @@
+# FindTextPreference.miterLimit
+
+Community declaration reference: InDesign/2023.
+
+Sets the stroke-width to miter-length cutoff where pointed joins convert to squared bevel joins.
+
+```typescript
+declare class FindTextPreference extends Preference {
+    miterLimit: number | NothingEnum
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

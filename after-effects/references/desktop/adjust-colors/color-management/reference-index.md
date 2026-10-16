@@ -1,0 +1,23 @@
+# After Effects — Color management
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Assign an output color profile in After Effects. [Assign an output color profile](assign-an-output-color-profile.md).
+- Open when looking up Benefits of color management in After Effects. [Benefits of color management](benefits-of-color-management.md).
+- Open when looking up Broadcast-safe colors in After Effects. [Broadcast-safe colors](broadcast-safe-colors.md).
+- Open when looking up Calibrate and profile your monitor in After Effects. [Calibrate and profile your monitor](calibrate-and-profile-your-monitor.md).
+- Open when looking up Choose a Color Engine in After Effects. [Choose a Color Engine](choose-a-color-engine.md).
+- Open when looking up Choose Working Color Space and enable color management in After Effects. [Choose Working Color Space and enable color management](choose-working-color-space-and-enable-color-management.md).
+- Open when looking up Color Management in After Effects. [Color Management](color-management.md).
+- Open when looking up Color management and Dynamic Link in After Effects. [Color management and Dynamic Link](color-management-and-dynamic-link.md).
+- Open when looking up Color management and Mercury Transmit in After Effects. [Color management and Mercury Transmit](color-management-and-mercury-transmit.md).
+- Open when looking up Color management tips in After Effects. [Color management tips](color-management-tips.md).
+- Open when looking up Color profiles in After Effects. [Color profiles](color-profiles.md).
+- Open when looking up Enable or disable display color management in After Effects. [Enable or disable display color management](enable-or-disable-display-color-management.md).
+- Open when looking up Export color profiles to Adobe Media Encoder in After Effects. [Export color profiles to Adobe Media Encoder](export-color-profiles-to-adobe-media-encoder.md).
+- Open when looking up Interpret a footage item by assigning an input color profile in After Effects. [Interpret a footage item by assigning an input color profile](interpret-a-footage-item-by-assigning-an-input-color-profile.md).
+- Open when looking up Linearize working space and enable linear blending in After Effects. [Linearize working space and enable linear blending](linearize-working-space-and-enable-linear-blending.md).
+- Open when looking up Online resources about color management in After Effects. [Online resources about color management](online-resources-about-color-management.md).
+- Open when looking up Simulate an output type in a movie rendered for final output in After Effects. [Simulate an output type in a movie rendered for final output](simulate-an-output-type-in-a-movie-rendered-for-final-output.md).
+- Open when looking up Simulate how colors will appear on a different output device in After Effects. [Simulate how colors will appear on a different output device](simulate-how-colors-will-appear-on-a-different-output-device.md).
+- Open when looking up Simulate output for previews in After Effects. [Simulate output for previews](simulate-output-for-previews.md).
+- Open when looking up Video formats color managed in After Effects in After Effects. [Video formats color managed in After Effects](video-formats-color-managed-in-after-effects.md).

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "GridLineStyle", "file": "references/uxp/enumerations/grid-line-style.md", "summary": "Open when looking up GridLineStyle in Photoshop.", "keywords": ["GridLineStyle"]},
+  {"topic": "GridSize", "file": "references/uxp/enumerations/grid-size.md", "summary": "Open when looking up GridSize in Photoshop.", "keywords": ["GridSize"]},
+  {"topic": "GuideLineStyle", "file": "references/uxp/enumerations/guide-line-style.md", "summary": "Open when looking up GuideLineStyle in Photoshop.", "keywords": ["GuideLineStyle"]},
+  {"topic": "RulerUnits", "file": "references/uxp/enumerations/ruler-units.md", "summary": "Open when looking up RulerUnits in Photoshop.", "keywords": ["RulerUnits"]},
+  {"topic": "TypeUnits", "file": "references/uxp/enumerations/type-units.md", "summary": "Open when looking up TypeUnits in Photoshop.", "keywords": ["TypeUnits"]},
+  {"topic": "Units", "file": "references/uxp/enumerations/units.md", "summary": "Open when looking up Units in Photoshop.", "keywords": ["Units"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

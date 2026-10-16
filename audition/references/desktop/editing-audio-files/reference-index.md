@@ -1,0 +1,29 @@
+# Audition — Editing audio files
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Analyze phase, frequency, and amplitude with Audition in Audition. [Analyze phase, frequency, and amplitude with Audition](analyze-phase-frequency-and-amplitude-with-audition.md).
+- Open when looking up Analyze phase, frequency, and amplitude with Audition in Audition. [Analyze phase, frequency, and amplitude with Audition references](analyze-phase-frequency-and-amplitude-with-audition/reference-index.md).
+- Open when looking up Converting sample types in Audition. [Converting sample types](converting-sample-types.md).
+- Open when looking up Converting sample types in Audition. [Converting sample types references](converting-sample-types/reference-index.md).
+- Open when looking up Copy, cut, paste, and delete audio in Audition in Audition. [Copy, cut, paste, and delete audio in Audition](copy-cut-paste-and-delete-audio-in-audition.md).
+- Open when looking up Copy, cut, paste, and delete audio in Audition in Audition. [Copy, cut, paste, and delete audio in Audition references](copy-cut-paste-and-delete-audio-in-audition/reference-index.md).
+- Open when looking up Displaying audio in the Waveform Editor in Audition. [Displaying audio in the Waveform Editor](displaying-audio-in-the-waveform-editor.md).
+- Open when looking up Displaying audio in the Waveform Editor in Audition. [Displaying audio in the Waveform Editor references](displaying-audio-in-the-waveform-editor/reference-index.md).
+- Open when looking up Edit, repair, and improve audio using Essential Sound panel in Audition. [Edit, repair, and improve audio using Essential Sound panel](edit-repair-and-improve-audio-using-essential-sound-panel.md).
+- Open when looking up Edit, repair, and improve audio using Essential Sound panel in Audition. [Edit, repair, and improve audio using Essential Sound panel references](edit-repair-and-improve-audio-using-essential-sound-panel/reference-index.md).
+- Open when looking up Frequency Band Splitter in Audition. [Frequency Band Splitter](frequency-band-splitter.md).
+- Open when looking up Frequency Band Splitter in Audition. [Frequency Band Splitter references](frequency-band-splitter/reference-index.md).
+- Open when looking up Inverting, reversing, and silencing audio in Audition. [Inverting, reversing, and silencing audio](inverting-reversing-and-silencing-audio.md).
+- Open when looking up Inverting, reversing, and silencing audio in Audition. [Inverting, reversing, and silencing audio references](inverting-reversing-and-silencing-audio/reference-index.md).
+- Open when looking up Matching loudness across multiple audio files in Audition. [Matching loudness across multiple audio files](matching-loudness-across-multiple-audio-files.md).
+- Open when looking up Matching loudness across multiple audio files in Audition. [Matching loudness across multiple audio files references](matching-loudness-across-multiple-audio-files/reference-index.md).
+- Open when looking up Selecting audio in Audition. [Selecting audio](selecting-audio.md).
+- Open when looking up Selecting audio in Audition. [Selecting audio references](selecting-audio/reference-index.md).
+- Open when looking up Session Markers and Clip Markers for Multitrack in Audition in Audition. [Session Markers and Clip Markers for Multitrack in Audition](session-markers-and-clip-markers-for-multitrack-in-audition.md).
+- Open when looking up Session Markers and Clip Markers for Multitrack in Audition in Audition. [Session Markers and Clip Markers for Multitrack in Audition references](session-markers-and-clip-markers-for-multitrack-in-audition/reference-index.md).
+- Open when looking up Undo, redo, and history in Audition. [Undo, redo, and history](undo-redo-and-history.md).
+- Open when looking up Undo, redo, and history in Audition. [Undo, redo, and history references](undo-redo-and-history/reference-index.md).
+- Open when looking up Visually fading and changing amplitude in Audition. [Visually fading and changing amplitude](visually-fading-and-changing-amplitude.md).
+- Open when looking up Visually fading and changing amplitude in Audition. [Visually fading and changing amplitude references](visually-fading-and-changing-amplitude/reference-index.md).
+- Open when looking up Working with markers in Audition. [Working with markers](working-with-markers.md).
+- Open when looking up Working with markers in Audition. [Working with markers references](working-with-markers/reference-index.md).

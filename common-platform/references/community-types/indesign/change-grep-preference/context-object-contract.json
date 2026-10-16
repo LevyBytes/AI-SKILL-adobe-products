@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ChangeGrepPreference declaration", "file": "references/community-types/indesign/change-grep-preference/declaration.md", "summary": "Open when looking up ChangeGrepPreference declaration in Shared Adobe platform.", "keywords": ["ChangeGrepPreference declaration"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

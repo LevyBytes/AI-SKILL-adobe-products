@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Create videos from text descriptions", "file": "references/web/generate-videos-using-text-prompts/create-videos-from-text-descriptions.md", "summary": "Open when looking up Create videos from text descriptions in Firefly.", "keywords": ["Create videos from text descriptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

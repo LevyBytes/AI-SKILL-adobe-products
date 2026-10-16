@@ -1,0 +1,66 @@
+# Shared Adobe platform — Sequence
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Sequence declaration in Shared Adobe platform. [Sequence declaration](declaration.md).
+- Open when looking up Sequence identity and parent in Shared Adobe platform. [Sequence identity and parent](identity-and-parent.md).
+- Open when looking up Sequence.attachCustomProperty in Shared Adobe platform. [Sequence.attachCustomProperty](attach-custom-property.md).
+- Open when looking up Sequence.audioTracks in Shared Adobe platform. [Sequence.audioTracks](audio-tracks.md).
+- Open when looking up Sequence.autoReframeSequence in Shared Adobe platform. [Sequence.autoReframeSequence](auto-reframe-sequence.md).
+- Open when looking up Sequence.bind in Shared Adobe platform. [Sequence.bind](bind.md).
+- Open when looking up Sequence.CAPTION_FORMAT_608 in Shared Adobe platform. [Sequence.CAPTION_FORMAT_608](captionformat608.md).
+- Open when looking up Sequence.CAPTION_FORMAT_708 in Shared Adobe platform. [Sequence.CAPTION_FORMAT_708](captionformat708.md).
+- Open when looking up Sequence.CAPTION_FORMAT_OP42 in Shared Adobe platform. [Sequence.CAPTION_FORMAT_OP42](captionformatop42.md).
+- Open when looking up Sequence.CAPTION_FORMAT_OP47 in Shared Adobe platform. [Sequence.CAPTION_FORMAT_OP47](captionformatop47.md).
+- Open when looking up Sequence.CAPTION_FORMAT_OPEN_EBU in Shared Adobe platform. [Sequence.CAPTION_FORMAT_OPEN_EBU](captionformatopenebu.md).
+- Open when looking up Sequence.CAPTION_FORMAT_SUBTITLE in Shared Adobe platform. [Sequence.CAPTION_FORMAT_SUBTITLE](captionformatsubtitle.md).
+- Open when looking up Sequence.CAPTION_FORMAT_TELETEXT in Shared Adobe platform. [Sequence.CAPTION_FORMAT_TELETEXT](captionformatteletext.md).
+- Open when looking up Sequence.clone in Shared Adobe platform. [Sequence.clone](clone.md).
+- Open when looking up Sequence.createCaptionTrack in Shared Adobe platform. [Sequence.createCaptionTrack](create-caption-track.md).
+- Open when looking up Sequence.createSubsequence in Shared Adobe platform. [Sequence.createSubsequence](create-subsequence.md).
+- Open when looking up Sequence.end in Shared Adobe platform. [Sequence.end](end.md).
+- Open when looking up Sequence.exportAsFinalCutProXML in Shared Adobe platform. [Sequence.exportAsFinalCutProXML](export-as-final-cut-pro-xml.md).
+- Open when looking up Sequence.exportAsMediaDirect in Shared Adobe platform. [Sequence.exportAsMediaDirect](export-as-media-direct.md).
+- Open when looking up Sequence.exportAsProject in Shared Adobe platform. [Sequence.exportAsProject](export-as-project.md).
+- Open when looking up Sequence.frameSizeHorizontal in Shared Adobe platform. [Sequence.frameSizeHorizontal](frame-size-horizontal.md).
+- Open when looking up Sequence.frameSizeVertical in Shared Adobe platform. [Sequence.frameSizeVertical](frame-size-vertical.md).
+- Open when looking up Sequence.getExportFileExtension in Shared Adobe platform. [Sequence.getExportFileExtension](get-export-file-extension.md).
+- Open when looking up Sequence.getInPoint in Shared Adobe platform. [Sequence.getInPoint](get-in-point.md).
+- Open when looking up Sequence.getInPointAsTime in Shared Adobe platform. [Sequence.getInPointAsTime](get-in-point-as-time.md).
+- Open when looking up Sequence.getOutPoint in Shared Adobe platform. [Sequence.getOutPoint](get-out-point.md).
+- Open when looking up Sequence.getOutPointAsTime in Shared Adobe platform. [Sequence.getOutPointAsTime](get-out-point-as-time.md).
+- Open when looking up Sequence.getPlayerPosition in Shared Adobe platform. [Sequence.getPlayerPosition](get-player-position.md).
+- Open when looking up Sequence.getSelection in Shared Adobe platform. [Sequence.getSelection](get-selection.md).
+- Open when looking up Sequence.getSettings in Shared Adobe platform. [Sequence.getSettings](get-settings.md).
+- Open when looking up Sequence.getWorkAreaInPoint in Shared Adobe platform. [Sequence.getWorkAreaInPoint](get-work-area-in-point.md).
+- Open when looking up Sequence.getWorkAreaInPointAsTime in Shared Adobe platform. [Sequence.getWorkAreaInPointAsTime](get-work-area-in-point-as-time.md).
+- Open when looking up Sequence.getWorkAreaOutPoint in Shared Adobe platform. [Sequence.getWorkAreaOutPoint](get-work-area-out-point.md).
+- Open when looking up Sequence.getWorkAreaOutPointAsTime in Shared Adobe platform. [Sequence.getWorkAreaOutPointAsTime](get-work-area-out-point-as-time.md).
+- Open when looking up Sequence.importMGT in Shared Adobe platform. [Sequence.importMGT](import-mgt.md).
+- Open when looking up Sequence.insertClip in Shared Adobe platform. [Sequence.insertClip](insert-clip.md).
+- Open when looking up Sequence.isDoneAnalyzingForVideoEffects in Shared Adobe platform. [Sequence.isDoneAnalyzingForVideoEffects](is-done-analyzing-for-video-effects.md).
+- Open when looking up Sequence.isWorkAreaEnabled in Shared Adobe platform. [Sequence.isWorkAreaEnabled](is-work-area-enabled.md).
+- Open when looking up Sequence.linkSelection in Shared Adobe platform. [Sequence.linkSelection](link-selection.md).
+- Open when looking up Sequence.markers in Shared Adobe platform. [Sequence.markers](markers.md).
+- Open when looking up Sequence.performCutDetectionOnSelection in Shared Adobe platform. [Sequence.performCutDetectionOnSelection](perform-cut-detection-on-selection.md).
+- Open when looking up Sequence.projectItem in Shared Adobe platform. [Sequence.projectItem](project-item.md).
+- Open when looking up Sequence.sequenceID in Shared Adobe platform. [Sequence.sequenceID](sequence-id.md).
+- Open when looking up Sequence.sequenceSettings in Shared Adobe platform. [Sequence.sequenceSettings](sequence-settings.md).
+- Open when looking up Sequence.setInPoint in Shared Adobe platform. [Sequence.setInPoint](set-in-point.md).
+- Open when looking up Sequence.setOutPoint in Shared Adobe platform. [Sequence.setOutPoint](set-out-point.md).
+- Open when looking up Sequence.setPlayerPosition in Shared Adobe platform. [Sequence.setPlayerPosition](set-player-position.md).
+- Open when looking up Sequence.setSettings in Shared Adobe platform. [Sequence.setSettings](set-settings.md).
+- Open when looking up Sequence.setTimeout in Shared Adobe platform. [Sequence.setTimeout](set-timeout.md).
+- Open when looking up Sequence.setWorkAreaEnabled in Shared Adobe platform. [Sequence.setWorkAreaEnabled](set-work-area-enabled.md).
+- Open when looking up Sequence.setWorkAreaInPoint in Shared Adobe platform. [Sequence.setWorkAreaInPoint](set-work-area-in-point.md).
+- Open when looking up Sequence.setWorkAreaInPointAsTime in Shared Adobe platform. [Sequence.setWorkAreaInPointAsTime](set-work-area-in-point-as-time.md).
+- Open when looking up Sequence.setWorkAreaOutPoint in Shared Adobe platform. [Sequence.setWorkAreaOutPoint](set-work-area-out-point.md).
+- Open when looking up Sequence.setWorkAreaOutPointAsTime in Shared Adobe platform. [Sequence.setWorkAreaOutPointAsTime](set-work-area-out-point-as-time.md).
+- Open when looking up Sequence.setZeroPoint in Shared Adobe platform. [Sequence.setZeroPoint](set-zero-point.md).
+- Open when looking up Sequence.timebase in Shared Adobe platform. [Sequence.timebase](timebase.md).
+- Open when looking up Sequence.unbind in Shared Adobe platform. [Sequence.unbind](unbind.md).
+- Open when looking up Sequence.unlinkSelection in Shared Adobe platform. [Sequence.unlinkSelection](unlink-selection.md).
+- Open when looking up Sequence.videoDisplayFormat in Shared Adobe platform. [Sequence.videoDisplayFormat](video-display-format.md).
+- Open when looking up Sequence.videoTracks in Shared Adobe platform. [Sequence.videoTracks](video-tracks.md).
+- Open when looking up Sequence.workingColorSpace in Shared Adobe platform. [Sequence.workingColorSpace](working-color-space.md).
+- Open when looking up Sequence.workingColorSpaceList in Shared Adobe platform. [Sequence.workingColorSpaceList](working-color-space-list.md).
+- Open when looking up Sequence.zeroPoint in Shared Adobe platform. [Sequence.zeroPoint](zero-point.md).

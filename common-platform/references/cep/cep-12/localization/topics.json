@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Resource bundle values", "file": "references/cep/cep-12/localization/resource-bundle-values.md", "summary": "Open when reading translated strings from a CEP resource bundle.", "keywords": ["Resource bundle values"]},
+  {"topic": "Localized HTML attributes", "file": "references/cep/cep-12/localization/localized-html-attributes.md", "summary": "Open when applying translated values to existing HTML elements with data-locale.", "keywords": ["Localized HTML attributes"]},
+  {"topic": "Localized string parameters", "file": "references/cep/cep-12/localization/localized-string-parameters.md", "summary": "Open when substituting numbered arguments in translated CEP strings.", "keywords": ["Localized string parameters"]},
+  {"topic": "Locale selection", "file": "references/cep/cep-12/localization/locale-selection.md", "summary": "Open when selecting extension and host locales for CEP localization.", "keywords": ["Locale selection"]},
+  {"topic": "MENA locale resources", "file": "references/cep/cep-12/localization/mena-locale-resources.md", "summary": "Open when packaging locale resources for Middle Eastern or North African host locales.", "keywords": ["MENA locale resources"]},
+  {"topic": "Localized menu", "file": "references/cep/cep-12/localization/localized-menu.md", "summary": "Open when using a translated menu label in an extension manifest.", "keywords": ["Localized menu"]},
+  {"topic": "Shared locale resources", "file": "references/cep/cep-12/localization/shared-locale-resources.md", "summary": "Open when making multiple CEP locales share a fallback resource bundle.", "keywords": ["Shared locale resources"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

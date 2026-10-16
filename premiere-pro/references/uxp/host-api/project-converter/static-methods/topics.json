@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "exportAsFinalCutProXML", "file": "references/uxp/host-api/project-converter/static-methods/export-as-final-cut-pro-xml.md", "summary": "Open when looking up exportAsFinalCutProXML in Premiere Pro.", "keywords": ["exportAsFinalCutProXML"]},
+  {"topic": "exportAsOpenTimelineIO", "file": "references/uxp/host-api/project-converter/static-methods/export-as-open-timeline-io.md", "summary": "Open when looking up exportAsOpenTimelineIO in Premiere Pro.", "keywords": ["exportAsOpenTimelineIO"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

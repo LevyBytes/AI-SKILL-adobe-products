@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "After Effects 15.0 (October 2017)", "file": "references/scripting/after-effects-15/after-effects-15-0-october-2017.md", "summary": "Open when looking up After Effects 15.0 (October 2017) in After Effects.", "keywords": ["After Effects 15.0 (October 2017)"]},
+  {"topic": "After Effects 15.1 (April 2018)", "file": "references/scripting/after-effects-15/after-effects-15-1-april-2018.md", "summary": "Open when looking up After Effects 15.1 (April 2018) in After Effects.", "keywords": ["After Effects 15.1 (April 2018)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

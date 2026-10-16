@@ -1,0 +1,22 @@
+# After Effects — Time stretching and time remapping
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Change the pitch of an audio layer in After Effects. [Change the pitch of an audio layer](change-the-pitch-of-an-audio-layer.md).
+- Open when looking up Frame blending in After Effects. [Frame blending](frame-blending.md).
+- Open when looking up Freeze a frame in the middle of the duration of a layer in After Effects. [Freeze a frame in the middle of the duration of a layer](freeze-a-frame-in-the-middle-of-the-duration-of-a-layer.md).
+- Open when looking up Freeze on the last frame in After Effects. [Freeze on the last frame](freeze-on-the-last-frame.md).
+- Open when looking up Freeze the current frame for the duration of the layer in After Effects. [Freeze the current frame for the duration of the layer](freeze-the-current-frame-for-the-duration-of-the-layer.md).
+- Open when looking up Freeze the first frame without changing the speed in After Effects. [Freeze the first frame without changing the speed](freeze-the-first-frame-without-changing-the-speed.md).
+- Open when looking up Remap time in a Layer panel in After Effects. [Remap time in a Layer panel](remap-time-in-a-layer-panel.md).
+- Open when looking up Remap time using the Graph Editor in After Effects. [Remap time using the Graph Editor](remap-time-using-the-graph-editor.md).
+- Open when looking up Remove clicks from new In and Out points in After Effects. [Remove clicks from new In and Out points](remove-clicks-from-new-in-and-out-points.md).
+- Open when looking up Reverse keyframes without reversing layer playback in After Effects. [Reverse keyframes without reversing layer playback](reverse-keyframes-without-reversing-layer-playback.md).
+- Open when looking up Reverse the playback direction of a layer in After Effects. [Reverse the playback direction of a layer](reverse-the-playback-direction-of-a-layer.md).
+- Open when looking up Time-remap a layer in After Effects. [Time-remap a layer](time-remap-a-layer.md).
+- Open when looking up Time-remap audio pitch in After Effects. [Time-remap audio pitch](time-remap-audio-pitch.md).
+- Open when looking up Time-remapping in After Effects. [Time-remapping](time-remapping.md).
+- Open when looking up Time-stretch a layer in After Effects. [Time-stretch a layer](time-stretch-a-layer.md).
+- Open when looking up Time-stretch a layer but not its keyframes in After Effects. [Time-stretch a layer but not its keyframes](time-stretch-a-layer-but-not-its-keyframes.md).
+- Open when looking up Time-stretch a layer from a specific time in After Effects. [Time-stretch a layer from a specific time](time-stretch-a-layer-from-a-specific-time.md).
+- Open when looking up Time-stretch a layer to a specific time in After Effects. [Time-stretch a layer to a specific time](time-stretch-a-layer-to-a-specific-time.md).
+- Open when looking up Time-stretching and time-remapping in After Effects. [Time-stretching and time-remapping](time-stretching-and-time-remapping.md).

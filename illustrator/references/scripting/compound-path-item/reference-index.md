@@ -1,0 +1,41 @@
+# Illustrator — CompoundPathItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CompoundPathItem.artworkKnockout in Illustrator. [CompoundPathItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up CompoundPathItem.blendingMode in Illustrator. [CompoundPathItem.blendingMode](blending-mode.md).
+- Open when looking up CompoundPathItem.controlBounds in Illustrator. [CompoundPathItem.controlBounds](control-bounds.md).
+- Open when looking up CompoundPathItem.duplicate() in Illustrator. [CompoundPathItem.duplicate()](duplicate.md).
+- Open when looking up CompoundPathItem.editable in Illustrator. [CompoundPathItem.editable](editable.md).
+- Open when looking up CompoundPathItem.geometricBounds in Illustrator. [CompoundPathItem.geometricBounds](geometric-bounds.md).
+- Open when looking up CompoundPathItem.height in Illustrator. [CompoundPathItem.height](height.md).
+- Open when looking up CompoundPathItem.hidden in Illustrator. [CompoundPathItem.hidden](hidden.md).
+- Open when looking up CompoundPathItem.isIsolated in Illustrator. [CompoundPathItem.isIsolated](is-isolated.md).
+- Open when looking up CompoundPathItem.layer in Illustrator. [CompoundPathItem.layer](layer.md).
+- Open when looking up CompoundPathItem.left in Illustrator. [CompoundPathItem.left](left.md).
+- Open when looking up CompoundPathItem.locked in Illustrator. [CompoundPathItem.locked](locked.md).
+- Open when looking up CompoundPathItem.move() in Illustrator. [CompoundPathItem.move()](move.md).
+- Open when looking up CompoundPathItem.name in Illustrator. [CompoundPathItem.name](name.md).
+- Open when looking up CompoundPathItem.note in Illustrator. [CompoundPathItem.note](note.md).
+- Open when looking up CompoundPathItem.opacity in Illustrator. [CompoundPathItem.opacity](opacity.md).
+- Open when looking up CompoundPathItem.parent in Illustrator. [CompoundPathItem.parent](parent.md).
+- Open when looking up CompoundPathItem.pathItems in Illustrator. [CompoundPathItem.pathItems](path-items.md).
+- Open when looking up CompoundPathItem.position in Illustrator. [CompoundPathItem.position](position.md).
+- Open when looking up CompoundPathItem.remove() in Illustrator. [CompoundPathItem.remove()](remove.md).
+- Open when looking up CompoundPathItem.resize() in Illustrator. [CompoundPathItem.resize()](resize.md).
+- Open when looking up CompoundPathItem.rotate() in Illustrator. [CompoundPathItem.rotate()](rotate.md).
+- Open when looking up CompoundPathItem.selected in Illustrator. [CompoundPathItem.selected](selected.md).
+- Open when looking up CompoundPathItem.sliced in Illustrator. [CompoundPathItem.sliced](sliced.md).
+- Open when looking up CompoundPathItem.tags in Illustrator. [CompoundPathItem.tags](tags.md).
+- Open when looking up CompoundPathItem.top in Illustrator. [CompoundPathItem.top](top.md).
+- Open when looking up compoundPathItem.transform() in Illustrator. [compoundPathItem.transform()](transform.md).
+- Open when looking up CompoundPathItem.translate() in Illustrator. [CompoundPathItem.translate()](translate.md).
+- Open when looking up CompoundPathItem.typename in Illustrator. [CompoundPathItem.typename](typename.md).
+- Open when looking up CompoundPathItem.uRL in Illustrator. [CompoundPathItem.uRL](u-rl.md).
+- Open when looking up CompoundPathItem.visibilityVariable in Illustrator. [CompoundPathItem.visibilityVariable](visibility-variable.md).
+- Open when looking up CompoundPathItem.visibleBounds in Illustrator. [CompoundPathItem.visibleBounds](visible-bounds.md).
+- Open when looking up CompoundPathItem.width in Illustrator. [CompoundPathItem.width](width.md).
+- Open when looking up CompoundPathItem.wrapInside in Illustrator. [CompoundPathItem.wrapInside](wrap-inside.md).
+- Open when looking up CompoundPathItem.wrapOffset in Illustrator. [CompoundPathItem.wrapOffset](wrap-offset.md).
+- Open when looking up CompoundPathItem.wrapped in Illustrator. [CompoundPathItem.wrapped](wrapped.md).
+- Open when looking up CompoundPathItem.zOrder() in Illustrator. [CompoundPathItem.zOrder()](z-order.md).
+- Open when looking up CompoundPathItem.zOrderPosition in Illustrator. [CompoundPathItem.zOrderPosition](z-order-position.md).

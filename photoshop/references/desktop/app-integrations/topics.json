@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Access Adobe Express Templates", "file": "references/desktop/app-integrations/access-adobe-express-templates.md", "summary": "Open when looking up Access Adobe Express Templates in Photoshop.", "keywords": ["Access Adobe Express Templates"]},
+  {"topic": "App integrations", "file": "references/desktop/app-integrations/app-integrations.md", "summary": "Open when looking up App integrations in Photoshop.", "keywords": ["App integrations"]},
+  {"topic": "Open Photoshop files in Illustrator", "file": "references/desktop/app-integrations/open-photoshop-files-in-illustrator.md", "summary": "Open when looking up Open Photoshop files in Illustrator in Photoshop.", "keywords": ["Open Photoshop files in Illustrator"]},
+  {"topic": "Open Photoshop files in Illustrator references", "file": "references/desktop/app-integrations/open-photoshop-files-in-illustrator/reference-index.md", "summary": "Open when looking up Open Photoshop files in Illustrator in Photoshop.", "keywords": ["Open Photoshop files in Illustrator references"]},
+  {"topic": "Refine Firefly-generated images", "file": "references/desktop/app-integrations/refine-firefly-generated-images.md", "summary": "Open when looking up Refine Firefly-generated images in Photoshop.", "keywords": ["Refine Firefly-generated images"]},
+  {"topic": "Transform image to video", "file": "references/desktop/app-integrations/transform-image-to-video.md", "summary": "Open when looking up Transform image to video in Photoshop.", "keywords": ["Transform image to video"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

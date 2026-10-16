@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "BookContents collection iteration", "file": "references/community-types/indesign/book-contents/collection-iteration.md", "summary": "Open when looking up BookContents collection iteration in Shared Adobe platform.", "keywords": ["BookContents collection iteration"]},
+  {"topic": "BookContents declaration", "file": "references/community-types/indesign/book-contents/declaration.md", "summary": "Open when looking up BookContents declaration in Shared Adobe platform.", "keywords": ["BookContents declaration"]},
+  {"topic": "BookContents named and indexed items", "file": "references/community-types/indesign/book-contents/named-and-indexed-items.md", "summary": "Open when looking up BookContents named and indexed items in Shared Adobe platform.", "keywords": ["BookContents named and indexed items"]},
+  {"topic": "BookContents.add", "file": "references/community-types/indesign/book-contents/add.md", "summary": "Open when looking up BookContents.add in Shared Adobe platform.", "keywords": ["BookContents.add"]},
+  {"topic": "BookContents.count", "file": "references/community-types/indesign/book-contents/count.md", "summary": "Open when looking up BookContents.count in Shared Adobe platform.", "keywords": ["BookContents.count"]},
+  {"topic": "BookContents.IndexSignature", "file": "references/community-types/indesign/book-contents/index-signature.md", "summary": "Open when looking up BookContents.IndexSignature in Shared Adobe platform.", "keywords": ["BookContents.IndexSignature"]},
+  {"topic": "BookContents.itemByRange", "file": "references/community-types/indesign/book-contents/item-by-range.md", "summary": "Open when looking up BookContents.itemByRange in Shared Adobe platform.", "keywords": ["BookContents.itemByRange"]},
+  {"topic": "BookContents.length", "file": "references/community-types/indesign/book-contents/length.md", "summary": "Open when looking up BookContents.length in Shared Adobe platform.", "keywords": ["BookContents.length"]},
+  {"topic": "BookContents.toSource", "file": "references/community-types/indesign/book-contents/to-source.md", "summary": "Open when looking up BookContents.toSource in Shared Adobe platform.", "keywords": ["BookContents.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

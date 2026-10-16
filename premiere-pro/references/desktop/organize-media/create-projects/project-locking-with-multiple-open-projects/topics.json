@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "About project locking", "file": "references/desktop/organize-media/create-projects/project-locking-with-multiple-open-projects/about-project-locking.md", "summary": "Open when looking up About project locking in Premiere Pro.", "keywords": ["About project locking"]},
+  {"topic": "Several collaborators editing the same project", "file": "references/desktop/organize-media/create-projects/project-locking-with-multiple-open-projects/several-collaborators-editing-the-same-project.md", "summary": "Open when looking up Several collaborators editing the same project in Premiere Pro.", "keywords": ["Several collaborators editing the same project"]},
+  {"topic": "Several projects open at once", "file": "references/desktop/organize-media/create-projects/project-locking-with-multiple-open-projects/several-projects-open-at-once.md", "summary": "Open when looking up Several projects open at once in Premiere Pro.", "keywords": ["Several projects open at once"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

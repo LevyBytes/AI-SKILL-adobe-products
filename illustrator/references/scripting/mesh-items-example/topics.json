@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Copying mesh items to another document", "file": "references/scripting/mesh-items-example/copying-mesh-items-to-another-document.md", "summary": "Open when looking up Copying mesh items to another document in Illustrator.", "keywords": ["Copying mesh items to another document"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

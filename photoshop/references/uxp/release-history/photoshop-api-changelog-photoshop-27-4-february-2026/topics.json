@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "New Adjustment layer kinds", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-27-4-february-2026/new-adjustment-layer-kinds.md", "summary": "Open when looking up New Adjustment layer kinds in Photoshop.", "keywords": ["New Adjustment layer kinds"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

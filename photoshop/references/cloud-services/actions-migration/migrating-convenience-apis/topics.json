@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Available convenience APIs", "file": "references/cloud-services/actions-migration/migrating-convenience-apis/available-convenience-apis.md", "summary": "Open when looking up Available convenience APIs in Photoshop.", "keywords": ["Available convenience APIs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Elements of basic JavaScript relevant to After Effects scripting — Javascript Variables", "file": "references/scripting/javascript-variables/javascript-variables.md", "summary": "Open when looking up Elements of basic JavaScript relevant to After Effects scripting — Javascript Variables in After Effects.", "keywords": ["Elements of basic JavaScript relevant to After Effects scripting — Javascript Variables"]},
+  {"topic": "Keywords and Statement Syntax", "file": "references/scripting/javascript-variables/keywords-and-statement-syntax.md", "summary": "Open when looking up Keywords and Statement Syntax in After Effects.", "keywords": ["Keywords and Statement Syntax"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

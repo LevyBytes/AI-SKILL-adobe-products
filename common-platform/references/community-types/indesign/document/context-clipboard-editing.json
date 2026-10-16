@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.galleyPreferences", "file": "references/community-types/indesign/document/galley-preferences.md", "summary": "Open when looking up Document.galleyPreferences in Shared Adobe platform.", "keywords": ["Document.galleyPreferences"]},
+  {"topic": "Document.stories", "file": "references/community-types/indesign/document/stories.md", "summary": "Open when looking up Document.stories in Shared Adobe platform.", "keywords": ["Document.stories"]},
+  {"topic": "Document.storyPreferences", "file": "references/community-types/indesign/document/story-preferences.md", "summary": "Open when looking up Document.storyPreferences in Shared Adobe platform.", "keywords": ["Document.storyPreferences"]},
+  {"topic": "Document.textDefaults", "file": "references/community-types/indesign/document/text-defaults.md", "summary": "Open when looking up Document.textDefaults in Shared Adobe platform.", "keywords": ["Document.textDefaults"]},
+  {"topic": "Document.textPreferences", "file": "references/community-types/indesign/document/text-preferences.md", "summary": "Open when looking up Document.textPreferences in Shared Adobe platform.", "keywords": ["Document.textPreferences"]},
+  {"topic": "Document.textVariables", "file": "references/community-types/indesign/document/text-variables.md", "summary": "Open when looking up Document.textVariables in Shared Adobe platform.", "keywords": ["Document.textVariables"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

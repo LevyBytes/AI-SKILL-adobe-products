@@ -1,0 +1,25 @@
+# Shared Adobe platform — InteractivePDFExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up InteractivePDFExportPreference declaration in Shared Adobe platform. [InteractivePDFExportPreference declaration](declaration.md).
+- Open when looking up InteractivePDFExportPreference.defaultDocumentLanguage in Shared Adobe platform. [InteractivePDFExportPreference.defaultDocumentLanguage](default-document-language.md).
+- Open when looking up InteractivePDFExportPreference.exportAsSinglePages in Shared Adobe platform. [InteractivePDFExportPreference.exportAsSinglePages](export-as-single-pages.md).
+- Open when looking up InteractivePDFExportPreference.exportLayers in Shared Adobe platform. [InteractivePDFExportPreference.exportLayers](export-layers.md).
+- Open when looking up InteractivePDFExportPreference.exportReaderSpreads in Shared Adobe platform. [InteractivePDFExportPreference.exportReaderSpreads](export-reader-spreads.md).
+- Open when looking up InteractivePDFExportPreference.flipPages in Shared Adobe platform. [InteractivePDFExportPreference.flipPages](flip-pages.md).
+- Open when looking up InteractivePDFExportPreference.flipPagesSpeed in Shared Adobe platform. [InteractivePDFExportPreference.flipPagesSpeed](flip-pages-speed.md).
+- Open when looking up InteractivePDFExportPreference.generateThumbnails in Shared Adobe platform. [InteractivePDFExportPreference.generateThumbnails](generate-thumbnails.md).
+- Open when looking up InteractivePDFExportPreference.includeStructure in Shared Adobe platform. [InteractivePDFExportPreference.includeStructure](include-structure.md).
+- Open when looking up InteractivePDFExportPreference.interactivePDFInteractiveElementsOption in Shared Adobe platform. [InteractivePDFExportPreference.interactivePDFInteractiveElementsOption](interactive-pdf-interactive-elements-option.md).
+- Open when looking up InteractivePDFExportPreference.openInFullScreen in Shared Adobe platform. [InteractivePDFExportPreference.openInFullScreen](open-in-full-screen.md).
+- Open when looking up InteractivePDFExportPreference.pageRange in Shared Adobe platform. [InteractivePDFExportPreference.pageRange](page-range.md).
+- Open when looking up InteractivePDFExportPreference.pageTransitionOverride in Shared Adobe platform. [InteractivePDFExportPreference.pageTransitionOverride](page-transition-override.md).
+- Open when looking up InteractivePDFExportPreference.pdfDisplayTitle in Shared Adobe platform. [InteractivePDFExportPreference.pdfDisplayTitle](pdf-display-title.md).
+- Open when looking up InteractivePDFExportPreference.pdfJPEGQuality in Shared Adobe platform. [InteractivePDFExportPreference.pdfJPEGQuality](pdf-jpeg-quality.md).
+- Open when looking up InteractivePDFExportPreference.pdfMagnification in Shared Adobe platform. [InteractivePDFExportPreference.pdfMagnification](pdf-magnification.md).
+- Open when looking up InteractivePDFExportPreference.pdfPageLayout in Shared Adobe platform. [InteractivePDFExportPreference.pdfPageLayout](pdf-page-layout.md).
+- Open when looking up InteractivePDFExportPreference.pdfRasterCompression in Shared Adobe platform. [InteractivePDFExportPreference.pdfRasterCompression](pdf-raster-compression.md).
+- Open when looking up InteractivePDFExportPreference.rasterResolution in Shared Adobe platform. [InteractivePDFExportPreference.rasterResolution](raster-resolution.md).
+- Open when looking up InteractivePDFExportPreference.singlePagesPDFSuffix in Shared Adobe platform. [InteractivePDFExportPreference.singlePagesPDFSuffix](single-pages-pdf-suffix.md).
+- Open when looking up InteractivePDFExportPreference.usePDFStructureForTabOrder in Shared Adobe platform. [InteractivePDFExportPreference.usePDFStructureForTabOrder](use-pdf-structure-for-tab-order.md).
+- Open when looking up InteractivePDFExportPreference.viewPDF in Shared Adobe platform. [InteractivePDFExportPreference.viewPDF](view-pdf.md).

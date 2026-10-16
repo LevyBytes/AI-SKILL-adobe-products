@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Color convert action references", "file": "references/scripting/color-convert-action/reference-index.md", "summary": "Open when looking up Color convert action in Acrobat.", "keywords": ["Color convert action references"]},
+  {"topic": "Color references", "file": "references/scripting/color/reference-index.md", "summary": "Open when looking up Color in Acrobat.", "keywords": ["Color references"]},
+  {"topic": "Preflight audit trail references", "file": "references/scripting/preflight-audit-trail/reference-index.md", "summary": "Open when looking up Preflight audit trail in Acrobat.", "keywords": ["Preflight audit trail references"]},
+  {"topic": "Preflight profile references", "file": "references/scripting/preflight-profile/reference-index.md", "summary": "Open when looking up Preflight profile in Acrobat.", "keywords": ["Preflight profile references"]},
+  {"topic": "Preflight references", "file": "references/scripting/preflight/reference-index.md", "summary": "Open when looking up Preflight in Acrobat.", "keywords": ["Preflight references"]},
+  {"topic": "Preflight result references", "file": "references/scripting/preflight-result/reference-index.md", "summary": "Open when looking up Preflight result in Acrobat.", "keywords": ["Preflight result references"]},
+  {"topic": "Print params references", "file": "references/scripting/print-params/reference-index.md", "summary": "Open when looking up Print params in Acrobat.", "keywords": ["Print params references"]},
+  {"topic": "Report", "file": "references/scripting/report.md", "summary": "Open when looking up Report in Acrobat.", "keywords": ["Report"]},
+  {"topic": "Report references", "file": "references/scripting/report/reference-index.md", "summary": "Open when looking up Report in Acrobat.", "keywords": ["Report references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,3 @@
+# Working With Paths — Accessing Path Data
+
+What sets paths apart from the other parameter types is that you can't read their values straight away. On top of the usual checkout and checkin (as with layer parameters), you have to call our path data function suites to learn the path's particulars at a specific time. Refer to `PF_PathQuerySuite1` and `PF_PathDataSuite`. When a path parameter is handed to you, never trust the values it carries until you've checked it out; deleted paths simply won't show up, but other updates happen "lazily" (later), and your effect stays blind to them until it checks the path out.

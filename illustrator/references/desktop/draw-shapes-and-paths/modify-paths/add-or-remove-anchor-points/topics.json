@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Add anchor points", "file": "references/desktop/draw-shapes-and-paths/modify-paths/add-or-remove-anchor-points/add-anchor-points.md", "summary": "Open when looking up Add anchor points in Illustrator.", "keywords": ["Add anchor points"]},
+  {"topic": "Delete anchor points", "file": "references/desktop/draw-shapes-and-paths/modify-paths/add-or-remove-anchor-points/delete-anchor-points.md", "summary": "Open when looking up Delete anchor points in Illustrator.", "keywords": ["Delete anchor points"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

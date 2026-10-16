@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Finding fonts", "file": "references/scripting/text-fonts-example/finding-fonts.md", "summary": "Open when looking up Finding fonts in Illustrator.", "keywords": ["Finding fonts"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

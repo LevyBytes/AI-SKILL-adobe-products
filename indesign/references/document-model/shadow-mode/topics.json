@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DROP", "file": "references/document-model/shadow-mode/drop.md", "summary": "Open when looking up DROP in InDesign.", "keywords": ["DROP"]},
+  {"topic": "NONE", "file": "references/document-model/shadow-mode/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+# InDesign — FolioBindingDirectionOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up LEFT in InDesign. [LEFT](left.md).
+- Open when looking up RIGHT in InDesign. [RIGHT](right.md).

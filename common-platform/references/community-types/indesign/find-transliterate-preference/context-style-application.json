@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "FindTransliteratePreference.appliedCharacterStyle", "file": "references/community-types/indesign/find-transliterate-preference/applied-character-style.md", "summary": "Open when looking up FindTransliteratePreference.appliedCharacterStyle in Shared Adobe platform.", "keywords": ["FindTransliteratePreference.appliedCharacterStyle"]},
+  {"topic": "FindTransliteratePreference.appliedParagraphStyle", "file": "references/community-types/indesign/find-transliterate-preference/applied-paragraph-style.md", "summary": "Open when looking up FindTransliteratePreference.appliedParagraphStyle in Shared Adobe platform.", "keywords": ["FindTransliteratePreference.appliedParagraphStyle"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

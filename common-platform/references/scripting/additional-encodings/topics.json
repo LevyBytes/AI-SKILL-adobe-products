@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Additional Mac OS encoding names", "file": "references/scripting/additional-encodings/additional-mac-os-encoding-names.md", "summary": "Open when looking up Additional Mac OS encoding names in Shared Adobe platform.", "keywords": ["Additional Mac OS encoding names"]},
+  {"topic": "Additional Windows encoding names:", "file": "references/scripting/additional-encodings/additional-windows-encoding-names.md", "summary": "Open when looking up Additional Windows encoding names: in Shared Adobe platform.", "keywords": ["Additional Windows encoding names:"]},
+  {"topic": "Common encoding names", "file": "references/scripting/additional-encodings/common-encoding-names.md", "summary": "Open when looking up Common encoding names in Shared Adobe platform.", "keywords": ["Common encoding names"]},
+  {"topic": "File- and Folder-supported encoding names — Additional encodings", "file": "references/scripting/additional-encodings/file-and-folder-supported-encoding-names-additional-encodings.md", "summary": "Open when looking up File- and Folder-supported encoding names — Additional encodings in Shared Adobe platform.", "keywords": ["File- and Folder-supported encoding names — Additional encodings"]},
+  {"topic": "UNIX encodings", "file": "references/scripting/additional-encodings/unix-encodings.md", "summary": "Open when looking up UNIX encodings in Shared Adobe platform.", "keywords": ["UNIX encodings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

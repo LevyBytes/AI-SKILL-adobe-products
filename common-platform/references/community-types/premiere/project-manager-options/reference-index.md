@@ -1,0 +1,24 @@
+# Shared Adobe platform — ProjectManagerOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ProjectManagerOptions declaration in Shared Adobe platform. [ProjectManagerOptions declaration](declaration.md).
+- Open when looking up ProjectManagerOptions.affectedSequences in Shared Adobe platform. [ProjectManagerOptions.affectedSequences](affected-sequences.md).
+- Open when looking up ProjectManagerOptions.CLIP_TRANSCODE_MATCH_CLIPS in Shared Adobe platform. [ProjectManagerOptions.CLIP_TRANSCODE_MATCH_CLIPS](cliptranscodematchclips.md).
+- Open when looking up ProjectManagerOptions.CLIP_TRANSCODE_MATCH_PRESET in Shared Adobe platform. [ProjectManagerOptions.CLIP_TRANSCODE_MATCH_PRESET](cliptranscodematchpreset.md).
+- Open when looking up ProjectManagerOptions.CLIP_TRANSCODE_MATCH_SEQUENCE in Shared Adobe platform. [ProjectManagerOptions.CLIP_TRANSCODE_MATCH_SEQUENCE](cliptranscodematchsequence.md).
+- Open when looking up ProjectManagerOptions.CLIP_TRANSFER_COPY in Shared Adobe platform. [ProjectManagerOptions.CLIP_TRANSFER_COPY](cliptransfercopy.md).
+- Open when looking up ProjectManagerOptions.CLIP_TRANSFER_TRANSCODE in Shared Adobe platform. [ProjectManagerOptions.CLIP_TRANSFER_TRANSCODE](cliptransfertranscode.md).
+- Open when looking up ProjectManagerOptions.clipTranscoderOption in Shared Adobe platform. [ProjectManagerOptions.clipTranscoderOption](clip-transcoder-option.md).
+- Open when looking up ProjectManagerOptions.clipTransferOption in Shared Adobe platform. [ProjectManagerOptions.clipTransferOption](clip-transfer-option.md).
+- Open when looking up ProjectManagerOptions.convertAECompsToClips in Shared Adobe platform. [ProjectManagerOptions.convertAECompsToClips](convert-ae-comps-to-clips.md).
+- Open when looking up ProjectManagerOptions.convertImageSequencesToClips in Shared Adobe platform. [ProjectManagerOptions.convertImageSequencesToClips](convert-image-sequences-to-clips.md).
+- Open when looking up ProjectManagerOptions.convertSyntheticsToClips in Shared Adobe platform. [ProjectManagerOptions.convertSyntheticsToClips](convert-synthetics-to-clips.md).
+- Open when looking up ProjectManagerOptions.copyToPreventAlphaLoss in Shared Adobe platform. [ProjectManagerOptions.copyToPreventAlphaLoss](copy-to-prevent-alpha-loss.md).
+- Open when looking up ProjectManagerOptions.destinationPath in Shared Adobe platform. [ProjectManagerOptions.destinationPath](destination-path.md).
+- Open when looking up ProjectManagerOptions.encoderPresetFilePath in Shared Adobe platform. [ProjectManagerOptions.encoderPresetFilePath](encoder-preset-file-path.md).
+- Open when looking up ProjectManagerOptions.excludeUnused in Shared Adobe platform. [ProjectManagerOptions.excludeUnused](exclude-unused.md).
+- Open when looking up ProjectManagerOptions.handleFrameCount in Shared Adobe platform. [ProjectManagerOptions.handleFrameCount](handle-frame-count.md).
+- Open when looking up ProjectManagerOptions.includeAllSequences in Shared Adobe platform. [ProjectManagerOptions.includeAllSequences](include-all-sequences.md).
+- Open when looking up ProjectManagerOptions.includeConformedAudio in Shared Adobe platform. [ProjectManagerOptions.includeConformedAudio](include-conformed-audio.md).
+- Open when looking up ProjectManagerOptions.includePreviews in Shared Adobe platform. [ProjectManagerOptions.includePreviews](include-previews.md).
+- Open when looking up ProjectManagerOptions.renameMedia in Shared Adobe platform. [ProjectManagerOptions.renameMedia](rename-media.md).

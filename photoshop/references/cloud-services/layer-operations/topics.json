@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Adjustments references", "file": "references/cloud-services/layer-operations/adjustments/reference-index.md", "summary": "Open when looking up Adjustments in Photoshop.", "keywords": ["Adjustments references"]},
+  {"topic": "Advanced references", "file": "references/cloud-services/layer-operations/advanced/reference-index.md", "summary": "Open when looking up Advanced in Photoshop.", "keywords": ["Advanced references"]},
+  {"topic": "Background references", "file": "references/cloud-services/layer-operations/background/reference-index.md", "summary": "Open when looking up Background in Photoshop.", "keywords": ["Background references"]},
+  {"topic": "Smart objects references", "file": "references/cloud-services/layer-operations/smart-objects/reference-index.md", "summary": "Open when looking up Smart objects in Photoshop.", "keywords": ["Smart objects references"]},
+  {"topic": "Text references", "file": "references/cloud-services/layer-operations/text/reference-index.md", "summary": "Open when looking up Text in Photoshop.", "keywords": ["Text references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

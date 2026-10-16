@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Export PDF Form Data", "file": "references/pdf-services/export-pdf-form-data.md", "summary": "Open when looking up Export PDF Form Data in Acrobat.", "keywords": ["Export PDF Form Data"]},
+  {"topic": "Export PDF Form Data references", "file": "references/pdf-services/export-pdf-form-data/reference-index.md", "summary": "Open when looking up Export PDF Form Data in Acrobat.", "keywords": ["Export PDF Form Data references"]},
+  {"topic": "Import PDF Form Data", "file": "references/pdf-services/import-pdf-form-data.md", "summary": "Open when looking up Import PDF Form Data in Acrobat.", "keywords": ["Import PDF Form Data"]},
+  {"topic": "Import PDF Form Data references", "file": "references/pdf-services/import-pdf-form-data/reference-index.md", "summary": "Open when looking up Import PDF Form Data in Acrobat.", "keywords": ["Import PDF Form Data references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

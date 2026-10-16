@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create a text frame", "file": "references/desktop/add-and-manage-text/add-and-manage-text-frames/create-and-position-text-frames/create-a-text-frame.md", "summary": "Open when looking up Create a text frame in InDesign.", "keywords": ["Create a text frame"]},
+  {"topic": "Move a text frame", "file": "references/desktop/add-and-manage-text/add-and-manage-text-frames/create-and-position-text-frames/move-a-text-frame.md", "summary": "Open when looking up Move a text frame in InDesign.", "keywords": ["Move a text frame"]},
+  {"topic": "Resize a text frame", "file": "references/desktop/add-and-manage-text/add-and-manage-text-frames/create-and-position-text-frames/resize-a-text-frame.md", "summary": "Open when looking up Resize a text frame in InDesign.", "keywords": ["Resize a text frame"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

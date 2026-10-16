@@ -1,0 +1,38 @@
+# Shared Adobe platform — TextPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextPreference declaration in Shared Adobe platform. [TextPreference declaration](declaration.md).
+- Open when looking up TextPreference.abutTextToTextWrap in Shared Adobe platform. [TextPreference.abutTextToTextWrap](abut-text-to-text-wrap.md).
+- Open when looking up TextPreference.addPages in Shared Adobe platform. [TextPreference.addPages](add-pages.md).
+- Open when looking up TextPreference.baselineShiftKeyIncrement in Shared Adobe platform. [TextPreference.baselineShiftKeyIncrement](baseline-shift-key-increment.md).
+- Open when looking up TextPreference.deleteEmptyPages in Shared Adobe platform. [TextPreference.deleteEmptyPages](delete-empty-pages.md).
+- Open when looking up TextPreference.enableStylePreviewMode in Shared Adobe platform. [TextPreference.enableStylePreviewMode](enable-style-preview-mode.md).
+- Open when looking up TextPreference.highlightCustomSpacing in Shared Adobe platform. [TextPreference.highlightCustomSpacing](highlight-custom-spacing.md).
+- Open when looking up TextPreference.highlightHjViolations in Shared Adobe platform. [TextPreference.highlightHjViolations](highlight-hj-violations.md).
+- Open when looking up TextPreference.highlightKeeps in Shared Adobe platform. [TextPreference.highlightKeeps](highlight-keeps.md).
+- Open when looking up TextPreference.highlightKinsoku in Shared Adobe platform. [TextPreference.highlightKinsoku](highlight-kinsoku.md).
+- Open when looking up TextPreference.highlightSubstitutedFonts in Shared Adobe platform. [TextPreference.highlightSubstitutedFonts](highlight-substituted-fonts.md).
+- Open when looking up TextPreference.highlightSubstitutedGlyphs in Shared Adobe platform. [TextPreference.highlightSubstitutedGlyphs](highlight-substituted-glyphs.md).
+- Open when looking up TextPreference.honourTextIndentsWithTextWrap in Shared Adobe platform. [TextPreference.honourTextIndentsWithTextWrap](honour-text-indents-with-text-wrap.md).
+- Open when looking up TextPreference.justifyTextWraps in Shared Adobe platform. [TextPreference.justifyTextWraps](justify-text-wraps.md).
+- Open when looking up TextPreference.kerningKeyIncrement in Shared Adobe platform. [TextPreference.kerningKeyIncrement](kerning-key-increment.md).
+- Open when looking up TextPreference.leadingKeyIncrement in Shared Adobe platform. [TextPreference.leadingKeyIncrement](leading-key-increment.md).
+- Open when looking up TextPreference.limitToMasterTextFrames in Shared Adobe platform. [TextPreference.limitToMasterTextFrames](limit-to-master-text-frames.md).
+- Open when looking up TextPreference.linkTextFilesWhenImporting in Shared Adobe platform. [TextPreference.linkTextFilesWhenImporting](link-text-files-when-importing.md).
+- Open when looking up TextPreference.preserveFacingPageSpreads in Shared Adobe platform. [TextPreference.preserveFacingPageSpreads](preserve-facing-page-spreads.md).
+- Open when looking up TextPreference.quoteCharactersRotatedInVertical in Shared Adobe platform. [TextPreference.quoteCharactersRotatedInVertical](quote-characters-rotated-in-vertical.md).
+- Open when looking up TextPreference.shapeIndicAndLatinWithHarbuzz in Shared Adobe platform. [TextPreference.shapeIndicAndLatinWithHarbuzz](shape-indic-and-latin-with-harbuzz.md).
+- Open when looking up TextPreference.showInvisibles in Shared Adobe platform. [TextPreference.showInvisibles](show-invisibles.md).
+- Open when looking up TextPreference.smallCap in Shared Adobe platform. [TextPreference.smallCap](small-cap.md).
+- Open when looking up TextPreference.smartTextReflow in Shared Adobe platform. [TextPreference.smartTextReflow](smart-text-reflow.md).
+- Open when looking up TextPreference.smartTextReflowSync in Shared Adobe platform. [TextPreference.smartTextReflowSync](smart-text-reflow-sync.md).
+- Open when looking up TextPreference.subscriptPosition in Shared Adobe platform. [TextPreference.subscriptPosition](subscript-position.md).
+- Open when looking up TextPreference.subscriptSize in Shared Adobe platform. [TextPreference.subscriptSize](subscript-size.md).
+- Open when looking up TextPreference.superscriptPosition in Shared Adobe platform. [TextPreference.superscriptPosition](superscript-position.md).
+- Open when looking up TextPreference.superscriptSize in Shared Adobe platform. [TextPreference.superscriptSize](superscript-size.md).
+- Open when looking up TextPreference.typographersQuotes in Shared Adobe platform. [TextPreference.typographersQuotes](typographers-quotes.md).
+- Open when looking up TextPreference.useCidMojikumi in Shared Adobe platform. [TextPreference.useCidMojikumi](use-cid-mojikumi.md).
+- Open when looking up TextPreference.useNewVerticalScaling in Shared Adobe platform. [TextPreference.useNewVerticalScaling](use-new-vertical-scaling.md).
+- Open when looking up TextPreference.useOpticalSize in Shared Adobe platform. [TextPreference.useOpticalSize](use-optical-size.md).
+- Open when looking up TextPreference.useParagraphLeading in Shared Adobe platform. [TextPreference.useParagraphLeading](use-paragraph-leading.md).
+- Open when looking up TextPreference.zOrderTextWrap in Shared Adobe platform. [TextPreference.zOrderTextWrap](z-order-text-wrap.md).

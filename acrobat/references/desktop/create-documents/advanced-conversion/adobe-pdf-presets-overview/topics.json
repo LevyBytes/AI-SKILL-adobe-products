@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "About PDF/X, PDF/E, and PDF/A standards", "file": "references/desktop/create-documents/advanced-conversion/adobe-pdf-presets-overview/about-pdf-x-pdf-e-and-pdf-a-standards.md", "summary": "Open when looking up About PDF/X, PDF/E, and PDF/A standards in Acrobat.", "keywords": ["About PDF/X, PDF/E, and PDF/A standards"]},
+  {"topic": "Types of Adobe PDF presets", "file": "references/desktop/create-documents/advanced-conversion/adobe-pdf-presets-overview/types-of-adobe-pdf-presets.md", "summary": "Open when looking up Types of Adobe PDF presets in Acrobat.", "keywords": ["Types of Adobe PDF presets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

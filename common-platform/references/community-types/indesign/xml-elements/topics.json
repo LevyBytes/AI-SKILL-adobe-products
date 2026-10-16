@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "XMLElements collection iteration", "file": "references/community-types/indesign/xml-elements/collection-iteration.md", "summary": "Open when looking up XMLElements collection iteration in Shared Adobe platform.", "keywords": ["XMLElements collection iteration"]},
+  {"topic": "XMLElements declaration", "file": "references/community-types/indesign/xml-elements/declaration.md", "summary": "Open when looking up XMLElements declaration in Shared Adobe platform.", "keywords": ["XMLElements declaration"]},
+  {"topic": "XMLElements named and indexed items", "file": "references/community-types/indesign/xml-elements/named-and-indexed-items.md", "summary": "Open when looking up XMLElements named and indexed items in Shared Adobe platform.", "keywords": ["XMLElements named and indexed items"]},
+  {"topic": "XMLElements.add", "file": "references/community-types/indesign/xml-elements/add.md", "summary": "Open when looking up XMLElements.add in Shared Adobe platform.", "keywords": ["XMLElements.add"]},
+  {"topic": "XMLElements.count", "file": "references/community-types/indesign/xml-elements/count.md", "summary": "Open when looking up XMLElements.count in Shared Adobe platform.", "keywords": ["XMLElements.count"]},
+  {"topic": "XMLElements.IndexSignature", "file": "references/community-types/indesign/xml-elements/index-signature.md", "summary": "Open when looking up XMLElements.IndexSignature in Shared Adobe platform.", "keywords": ["XMLElements.IndexSignature"]},
+  {"topic": "XMLElements.itemByRange", "file": "references/community-types/indesign/xml-elements/item-by-range.md", "summary": "Open when looking up XMLElements.itemByRange in Shared Adobe platform.", "keywords": ["XMLElements.itemByRange"]},
+  {"topic": "XMLElements.length", "file": "references/community-types/indesign/xml-elements/length.md", "summary": "Open when looking up XMLElements.length in Shared Adobe platform.", "keywords": ["XMLElements.length"]},
+  {"topic": "XMLElements.toSource", "file": "references/community-types/indesign/xml-elements/to-source.md", "summary": "Open when looking up XMLElements.toSource in Shared Adobe platform.", "keywords": ["XMLElements.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

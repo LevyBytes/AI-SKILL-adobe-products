@@ -1,0 +1,24 @@
+# Photoshop — Resize and adjust resolution
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Change print dimensions and resolution in Photoshop. [Change print dimensions and resolution](change-print-dimensions-and-resolution.md).
+- Open when looking up Change the pixel dimensions of images in Photoshop. [Change the pixel dimensions of images](change-the-pixel-dimensions-of-images.md).
+- Open when looking up File size in Photoshop. [File size](file-size.md).
+- Open when looking up File size in Photoshop. [File size references](file-size/reference-index.md).
+- Open when looking up Manage image file size in Photoshop. [Manage image file size](manage-image-file-size.md).
+- Open when looking up Manage image file size in Photoshop. [Manage image file size references](manage-image-file-size/reference-index.md).
+- Open when looking up Monitor resolution and image display size in Photoshop. [Monitor resolution and image display size](monitor-resolution-and-image-display-size.md).
+- Open when looking up Monitor resolution and image display size in Photoshop. [Monitor resolution and image display size references](monitor-display-resolution/reference-index.md).
+- Open when looking up Preserve visual content when scaling images in Photoshop. [Preserve visual content when scaling images](preserve-visual-content-when-scaling-images.md).
+- Open when looking up Printed image resolution in Photoshop. [Printed image resolution](printed-image-resolution.md).
+- Open when looking up Printer resolution in Photoshop. [Printer resolution](printer-resolution.md).
+- Open when looking up Printer resolution in Photoshop. [Printer resolution references](printer-resolution/reference-index.md).
+- Open when looking up Resample option in the Image Size dialog in Photoshop. [Resample option in the Image Size dialog](resample-option-in-the-image-size-dialog.md).
+- Open when looking up Resampling options in Photoshop in Photoshop. [Resampling options in Photoshop](resampling-options-in-photoshop.md).
+- Open when looking up Resize images in Photoshop. [Resize images](resize-images.md).
+- Open when looking up Resizing parameters in Photoshop in Photoshop. [Resizing parameters in Photoshop](resizing-parameters-in-photoshop.md).
+- Open when looking up Resizing parameters in Photoshop in Photoshop. [Resizing parameters in Photoshop references](resizing-parameters-in-photoshop/reference-index.md).
+- Open when looking up Resolution specs for printing images in Photoshop. [Resolution specs for printing images](resolution-specs-for-printing-images.md).
+- Open when looking up Resolution specs for printing images in Photoshop. [Resolution specs for printing images references](resolution-specs-for-printing-images/reference-index.md).
+- Open when looking up Set image size and resolution in Photoshop. [Set image size and resolution](set-image-size-and-resolution.md).
+- Open when looking up Specify content to protect when scaling in Photoshop. [Specify content to protect when scaling](specify-content-to-protect-when-scaling.md).

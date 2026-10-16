@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "The Script Editor — Syntax marking", "file": "references/scripting/syntax-marking/the-script-editor-syntax-marking.md", "summary": "Open when looking up The Script Editor — Syntax marking in Shared Adobe platform.", "keywords": ["The Script Editor — Syntax marking"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

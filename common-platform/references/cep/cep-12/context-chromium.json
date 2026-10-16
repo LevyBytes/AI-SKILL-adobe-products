@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CEF/Chromium Issues", "file": "references/cep/cep-12/cef-chromium-issues.md", "summary": "Open when looking up CEF/Chromium Issues in Shared Adobe platform.", "keywords": ["CEF/Chromium Issues"]},
+  {"topic": "Chromium Embedded Framework (CEF)", "file": "references/cep/cep-12/chromium-embedded-framework-cef.md", "summary": "Open when looking up Chromium Embedded Framework (CEF) in Shared Adobe platform.", "keywords": ["Chromium Embedded Framework (CEF)"]},
+  {"topic": "Commonly used CEF command parameters", "file": "references/cep/cep-12/commonly-used-cef-command-parameters.md", "summary": "Open when looking up Commonly used CEF command parameters in Shared Adobe platform.", "keywords": ["Commonly used CEF command parameters"]},
+  {"topic": "Customize CEF Command Line Parameters", "file": "references/cep/cep-12/customize-cef-command-line-parameters.md", "summary": "Open when looking up Customize CEF Command Line Parameters in Shared Adobe platform.", "keywords": ["Customize CEF Command Line Parameters"]},
+  {"topic": "iframe", "file": "references/cep/cep-12/iframe.md", "summary": "Open when looking up iframe in Shared Adobe platform.", "keywords": ["iframe"]},
+  {"topic": "NPAPI plug-ins", "file": "references/cep/cep-12/npapi-plug-ins.md", "summary": "Open when looking up NPAPI plug-ins in Shared Adobe platform.", "keywords": ["NPAPI plug-ins"]},
+  {"topic": "Using CEF command line parameters", "file": "references/cep/cep-12/using-cef-command-line-parameters.md", "summary": "Open when looking up Using CEF command line parameters in Shared Adobe platform.", "keywords": ["Using CEF command line parameters"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Console Logging", "file": "references/uxp/debugging-techniques/console-logging.md", "summary": "Open when looking up Console Logging in Premiere Pro.", "keywords": ["Console Logging"]},
+  {"topic": "Dialog-based Debugging", "file": "references/uxp/debugging-techniques/dialog-based-debugging.md", "summary": "Open when looking up Dialog-based Debugging in Premiere Pro.", "keywords": ["Dialog-based Debugging"]},
+  {"topic": "index.js", "file": "references/uxp/debugging-techniques/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
+  {"topic": "manifest.json", "file": "references/uxp/debugging-techniques/manifest-json.md", "summary": "Open when looking up manifest.json in Premiere Pro.", "keywords": ["manifest.json"]},
+  {"topic": "Reference Material", "file": "references/uxp/debugging-techniques/reference-material.md", "summary": "Open when looking up Reference Material in Premiere Pro.", "keywords": ["Reference Material"]},
+  {"topic": "Using UXP Developer Tool", "file": "references/uxp/debugging-techniques/using-uxp-developer-tool.md", "summary": "Open when looking up Using UXP Developer Tool in Premiere Pro.", "keywords": ["Using UXP Developer Tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

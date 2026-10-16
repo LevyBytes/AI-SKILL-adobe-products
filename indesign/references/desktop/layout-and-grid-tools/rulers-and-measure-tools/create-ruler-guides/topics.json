@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Additional guide creation methods", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/create-ruler-guides/additional-guide-creation-methods.md", "summary": "Open when looking up Additional guide creation methods in InDesign.", "keywords": ["Additional guide creation methods"]},
+  {"topic": "Create evenly spaced guides", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/create-ruler-guides/create-evenly-spaced-guides.md", "summary": "Open when looking up Create evenly spaced guides in InDesign.", "keywords": ["Create evenly spaced guides"]},
+  {"topic": "Create page and spread guides", "file": "references/desktop/layout-and-grid-tools/rulers-and-measure-tools/create-ruler-guides/create-page-and-spread-guides.md", "summary": "Open when looking up Create page and spread guides in InDesign.", "keywords": ["Create page and spread guides"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

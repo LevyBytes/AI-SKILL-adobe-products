@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ALIGN_CENTER", "file": "references/document-model/image-alignment-type/aligncenter.md", "summary": "Open when looking up ALIGN_CENTER in InDesign.", "keywords": ["ALIGN_CENTER"]},
+  {"topic": "ALIGN_LEFT", "file": "references/document-model/image-alignment-type/alignleft.md", "summary": "Open when looking up ALIGN_LEFT in InDesign.", "keywords": ["ALIGN_LEFT"]},
+  {"topic": "ALIGN_RIGHT", "file": "references/document-model/image-alignment-type/alignright.md", "summary": "Open when looking up ALIGN_RIGHT in InDesign.", "keywords": ["ALIGN_RIGHT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

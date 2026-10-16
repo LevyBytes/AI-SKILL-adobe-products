@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "HIDE_INDICATORS", "file": "references/document-model/condition-indicator-mode/hideindicators.md", "summary": "Open when looking up HIDE_INDICATORS in InDesign.", "keywords": ["HIDE_INDICATORS"]},
+  {"topic": "SHOW_AND_PRINT_INDICATORS", "file": "references/document-model/condition-indicator-mode/showandprintindicators.md", "summary": "Open when looking up SHOW_AND_PRINT_INDICATORS in InDesign.", "keywords": ["SHOW_AND_PRINT_INDICATORS"]},
+  {"topic": "SHOW_INDICATORS", "file": "references/document-model/condition-indicator-mode/showindicators.md", "summary": "Open when looking up SHOW_INDICATORS in InDesign.", "keywords": ["SHOW_INDICATORS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

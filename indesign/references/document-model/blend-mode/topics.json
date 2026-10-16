@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "COLOR", "file": "references/document-model/blend-mode/color.md", "summary": "Open when looking up COLOR in InDesign.", "keywords": ["COLOR"]},
+  {"topic": "COLOR_BURN", "file": "references/document-model/blend-mode/colorburn.md", "summary": "Open when looking up COLOR_BURN in InDesign.", "keywords": ["COLOR_BURN"]},
+  {"topic": "COLOR_DODGE", "file": "references/document-model/blend-mode/colordodge.md", "summary": "Open when looking up COLOR_DODGE in InDesign.", "keywords": ["COLOR_DODGE"]},
+  {"topic": "DARKEN", "file": "references/document-model/blend-mode/darken.md", "summary": "Open when looking up DARKEN in InDesign.", "keywords": ["DARKEN"]},
+  {"topic": "DIFFERENCE", "file": "references/document-model/blend-mode/difference.md", "summary": "Open when looking up DIFFERENCE in InDesign.", "keywords": ["DIFFERENCE"]},
+  {"topic": "EXCLUSION", "file": "references/document-model/blend-mode/exclusion.md", "summary": "Open when looking up EXCLUSION in InDesign.", "keywords": ["EXCLUSION"]},
+  {"topic": "HARD_LIGHT", "file": "references/document-model/blend-mode/hardlight.md", "summary": "Open when looking up HARD_LIGHT in InDesign.", "keywords": ["HARD_LIGHT"]},
+  {"topic": "HUE", "file": "references/document-model/blend-mode/hue.md", "summary": "Open when looking up HUE in InDesign.", "keywords": ["HUE"]},
+  {"topic": "LIGHTEN", "file": "references/document-model/blend-mode/lighten.md", "summary": "Open when looking up LIGHTEN in InDesign.", "keywords": ["LIGHTEN"]},
+  {"topic": "LUMINOSITY", "file": "references/document-model/blend-mode/luminosity.md", "summary": "Open when looking up LUMINOSITY in InDesign.", "keywords": ["LUMINOSITY"]},
+  {"topic": "MULTIPLY", "file": "references/document-model/blend-mode/multiply.md", "summary": "Open when looking up MULTIPLY in InDesign.", "keywords": ["MULTIPLY"]},
+  {"topic": "NORMAL", "file": "references/document-model/blend-mode/normal.md", "summary": "Open when looking up NORMAL in InDesign.", "keywords": ["NORMAL"]},
+  {"topic": "OVERLAY", "file": "references/document-model/blend-mode/overlay.md", "summary": "Open when looking up OVERLAY in InDesign.", "keywords": ["OVERLAY"]},
+  {"topic": "SATURATION", "file": "references/document-model/blend-mode/saturation.md", "summary": "Open when looking up SATURATION in InDesign.", "keywords": ["SATURATION"]},
+  {"topic": "SCREEN", "file": "references/document-model/blend-mode/screen.md", "summary": "Open when looking up SCREEN in InDesign.", "keywords": ["SCREEN"]},
+  {"topic": "SOFT_LIGHT", "file": "references/document-model/blend-mode/softlight.md", "summary": "Open when looking up SOFT_LIGHT in InDesign.", "keywords": ["SOFT_LIGHT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ColorRenderingDictionary", "file": "references/community-types/indesign/color-rendering-dictionary.md", "summary": "Open when looking up ColorRenderingDictionary in Shared Adobe platform.", "keywords": ["ColorRenderingDictionary"]},
+  {"topic": "ColorSetting references", "file": "references/community-types/indesign/color-setting/reference-index.md", "summary": "Open when looking up ColorSetting in Shared Adobe platform.", "keywords": ["ColorSetting references"]},
+  {"topic": "ColorSettingsPolicy", "file": "references/community-types/indesign/color-settings-policy.md", "summary": "Open when looking up ColorSettingsPolicy in Shared Adobe platform.", "keywords": ["ColorSettingsPolicy"]},
+  {"topic": "DefaultRenderingIntent", "file": "references/community-types/indesign/default-rendering-intent.md", "summary": "Open when looking up DefaultRenderingIntent in Shared Adobe platform.", "keywords": ["DefaultRenderingIntent"]},
+  {"topic": "ICCProfiles", "file": "references/community-types/indesign/icc-profiles.md", "summary": "Open when looking up ICCProfiles in Shared Adobe platform.", "keywords": ["ICCProfiles"]},
+  {"topic": "Profile", "file": "references/community-types/indesign/profile.md", "summary": "Open when looking up Profile in Shared Adobe platform.", "keywords": ["Profile"]},
+  {"topic": "ProofingType", "file": "references/community-types/indesign/proofing-type.md", "summary": "Open when looking up ProofingType in Shared Adobe platform.", "keywords": ["ProofingType"]},
+  {"topic": "RenderingIntent", "file": "references/community-types/indesign/rendering-intent.md", "summary": "Open when looking up RenderingIntent in Shared Adobe platform.", "keywords": ["RenderingIntent"]},
+  {"topic": "SourceSpaces", "file": "references/community-types/indesign/source-spaces.md", "summary": "Open when looking up SourceSpaces in Shared Adobe platform.", "keywords": ["SourceSpaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

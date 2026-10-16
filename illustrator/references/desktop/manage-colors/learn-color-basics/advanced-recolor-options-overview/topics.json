@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Assign tab", "file": "references/desktop/manage-colors/learn-color-basics/advanced-recolor-options-overview/assign-tab.md", "summary": "Open when looking up Assign tab in Illustrator.", "keywords": ["Assign tab"]},
+  {"topic": "Edit tab", "file": "references/desktop/manage-colors/learn-color-basics/advanced-recolor-options-overview/edit-tab.md", "summary": "Open when looking up Edit tab in Illustrator.", "keywords": ["Edit tab"]},
+  {"topic": "Recolor Artwork dialog box", "file": "references/desktop/manage-colors/learn-color-basics/advanced-recolor-options-overview/recolor-artwork-dialog-box.md", "summary": "Open when looking up Recolor Artwork dialog box in Illustrator.", "keywords": ["Recolor Artwork dialog box"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

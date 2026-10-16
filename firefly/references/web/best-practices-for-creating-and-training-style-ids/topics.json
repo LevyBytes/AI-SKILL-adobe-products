@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Prepare, create, and train Style IDs effectively", "file": "references/web/best-practices-for-creating-and-training-style-ids/prepare-create-and-train-style-ids-effectively.md", "summary": "Open when looking up Prepare, create, and train Style IDs effectively in Firefly.", "keywords": ["Prepare, create, and train Style IDs effectively"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

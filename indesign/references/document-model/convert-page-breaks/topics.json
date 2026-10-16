@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "COLUMN_BREAK", "file": "references/document-model/convert-page-breaks/columnbreak.md", "summary": "Open when looking up COLUMN_BREAK in InDesign.", "keywords": ["COLUMN_BREAK"]},
+  {"topic": "NONE", "file": "references/document-model/convert-page-breaks/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "PAGE_BREAK", "file": "references/document-model/convert-page-breaks/pagebreak.md", "summary": "Open when looking up PAGE_BREAK in InDesign.", "keywords": ["PAGE_BREAK"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

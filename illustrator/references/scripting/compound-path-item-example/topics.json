@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Creating and modifying a compound path item", "file": "references/scripting/compound-path-item-example/creating-and-modifying-a-compound-path-item.md", "summary": "Open when looking up Creating and modifying a compound path item in Illustrator.", "keywords": ["Creating and modifying a compound path item"]},
+  {"topic": "Selecting paths in a document", "file": "references/scripting/compound-path-item-example/selecting-paths-in-a-document.md", "summary": "Open when looking up Selecting paths in a document in Illustrator.", "keywords": ["Selecting paths in a document"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

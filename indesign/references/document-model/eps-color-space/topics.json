@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CMYK", "file": "references/document-model/eps-color-space/cmyk.md", "summary": "Open when looking up CMYK in InDesign.", "keywords": ["CMYK"]},
+  {"topic": "GRAY", "file": "references/document-model/eps-color-space/gray.md", "summary": "Open when looking up GRAY in InDesign.", "keywords": ["GRAY"]},
+  {"topic": "POSTSCRIPT_COLOR_MANAGEMENT", "file": "references/document-model/eps-color-space/postscriptcolormanagement.md", "summary": "Open when looking up POSTSCRIPT_COLOR_MANAGEMENT in InDesign.", "keywords": ["POSTSCRIPT_COLOR_MANAGEMENT"]},
+  {"topic": "RGB", "file": "references/document-model/eps-color-space/rgb.md", "summary": "Open when looking up RGB in InDesign.", "keywords": ["RGB"]},
+  {"topic": "UNCHANGED_COLOR_SPACE", "file": "references/document-model/eps-color-space/unchangedcolorspace.md", "summary": "Open when looking up UNCHANGED_COLOR_SPACE in InDesign.", "keywords": ["UNCHANGED_COLOR_SPACE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

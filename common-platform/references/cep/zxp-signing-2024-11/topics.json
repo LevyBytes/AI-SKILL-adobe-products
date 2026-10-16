@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Plugin Developers", "file": "references/cep/zxp-signing-2024-11/plugin-developers.md", "summary": "Open when looking up Plugin Developers in Shared Adobe platform.", "keywords": ["Plugin Developers"]},
+  {"topic": "Plugin Users", "file": "references/cep/zxp-signing-2024-11/plugin-users.md", "summary": "Open when looking up Plugin Users in Shared Adobe platform.", "keywords": ["Plugin Users"]},
+  {"topic": "Q. Does this happen with plugins installed via the Adobe Exchange Marketplace?", "file": "references/cep/zxp-signing-2024-11/exchange-installed-plugin-impact.md", "summary": "Open when looking up Q. Does this happen with plugins installed via the Adobe Exchange Marketplace? in Shared Adobe platform.", "keywords": ["Q. Does this happen with plugins installed via the Adobe Exchange Marketplace?"]},
+  {"topic": "Q. Is a fix on the way?", "file": "references/cep/zxp-signing-2024-11/is-a-fix-on-the-way.md", "summary": "Open when looking up Q. Is a fix on the way? in Shared Adobe platform.", "keywords": ["Q. Is a fix on the way?"]},
+  {"topic": "Q. Which versions of Creative Cloud apps are affected?", "file": "references/cep/zxp-signing-2024-11/which-versions-of-creative-cloud-apps-are-affected.md", "summary": "Open when looking up Q. Which versions of Creative Cloud apps are affected? in Shared Adobe platform.", "keywords": ["Q. Which versions of Creative Cloud apps are affected?"]},
+  {"topic": "The Problem", "file": "references/cep/zxp-signing-2024-11/the-problem.md", "summary": "Open when looking up The Problem in Shared Adobe platform.", "keywords": ["The Problem"]},
+  {"topic": "The Workaround", "file": "references/cep/zxp-signing-2024-11/the-workaround.md", "summary": "Open when looking up The Workaround in Shared Adobe platform.", "keywords": ["The Workaround"]},
+  {"topic": "Why is this happening?", "file": "references/cep/zxp-signing-2024-11/why-is-this-happening.md", "summary": "Open when looking up Why is this happening? in Shared Adobe platform.", "keywords": ["Why is this happening?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

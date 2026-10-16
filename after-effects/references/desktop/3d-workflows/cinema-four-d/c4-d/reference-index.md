@@ -1,0 +1,24 @@
+# After Effects — C4D
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Camera in After Effects. [Camera](camera.md).
+- Open when looking up Cinema 4D Layers in After Effects. [Cinema 4D Layers](cinema-4-d-layers.md).
+- Open when looking up Cineware effect in After Effects. [Cineware effect](cineware-effect.md).
+- Open when looking up Commands in After Effects. [Commands](commands.md).
+- Open when looking up Create Cinema 4D files in After Effects. [Create Cinema 4D files](create-cinema-4-d-files.md).
+- Open when looking up Edit Cinema 4D files in After Effects. [Edit Cinema 4D files](edit-cinema-4-d-files.md).
+- Open when looking up Export to Maxon Cinema 4D in After Effects. [Export to Maxon Cinema 4D](export-to-maxon-cinema-4-d.md).
+- Open when looking up Export to Maxon Cinema 4D and roundtrip your edits using Live 3D Pipeline in After Effects. [Export to Maxon Cinema 4D and roundtrip your edits using Live 3D Pipeline](cinema-4d-live-pipeline-roundtrip.md).
+- Open when looking up Import Cinema 4D files in After Effects. [Import Cinema 4D files](import-cinema-4-d-files.md).
+- Open when looking up Import the .c4d file and edit it in Maxon CINEMA 4D in After Effects. [Import the .c4d file and edit it in Maxon CINEMA 4D](import-the-c4d-file-and-edit-it-in-maxon-cinema-4-d.md).
+- Open when looking up Install Maxon Cinema 4D in After Effects. [Install Maxon Cinema 4D](install-maxon-cinema-4-d.md).
+- Open when looking up Live Link in After Effects. [Live Link](live-link.md).
+- Open when looking up Multi-Pass (Linear Workflow) in After Effects. [Multi-Pass (Linear Workflow)](multi-pass-linear-workflow.md).
+- Open when looking up Project Settings in After Effects. [Project Settings](project-settings.md).
+- Open when looking up Render settings in After Effects. [Render settings](render-settings.md).
+- Open when looking up Rendering capabilities in After Effects. [Rendering capabilities](rendering-capabilities.md).
+- Open when looking up Switch render paths in After Effects. [Switch render paths](switch-render-paths.md).
+- Open when looking up Synchronize Layer in After Effects. [Synchronize Layer](synchronize-layer.md).
+- Open when looking up Uninstall Cinema 4D in After Effects. [Uninstall Cinema 4D](uninstall-cinema-4-d.md).
+- Open when looking up Working with Cinema 4D files in After Effects. [Working with Cinema 4D files](working-with-cinema-4-d-files.md).
+- Open when looking up Working with different instances of the Cinema 4D in Cineware Effect in After Effects. [Working with different instances of the Cinema 4D in Cineware Effect](cineware-cinema-4d-instances.md).

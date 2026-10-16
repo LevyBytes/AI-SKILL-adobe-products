@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Create a gradual blend in colors using the Gradient tool", "file": "references/desktop/color/gradients-and-meshes/create-a-gradual-blend-in-colors-using-the-gradient-tool.md", "summary": "Open when looking up Create a gradual blend in colors using the Gradient tool in Illustrator.", "keywords": ["Create a gradual blend in colors using the Gradient tool"]},
+  {"topic": "Create and edit meshes using the Mesh tool", "file": "references/desktop/color/gradients-and-meshes/create-and-edit-meshes-using-the-mesh-tool.md", "summary": "Open when looking up Create and edit meshes using the Mesh tool in Illustrator.", "keywords": ["Create and edit meshes using the Mesh tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

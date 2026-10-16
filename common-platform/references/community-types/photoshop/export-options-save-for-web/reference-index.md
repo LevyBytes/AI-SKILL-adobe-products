@@ -1,0 +1,21 @@
+# Shared Adobe platform — ExportOptionsSaveForWeb
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ExportOptionsSaveForWeb declaration in Shared Adobe platform. [ExportOptionsSaveForWeb declaration](declaration.md).
+- Open when looking up ExportOptionsSaveForWeb.blur in Shared Adobe platform. [ExportOptionsSaveForWeb.blur](blur.md).
+- Open when looking up ExportOptionsSaveForWeb.colorReduction in Shared Adobe platform. [ExportOptionsSaveForWeb.colorReduction](color-reduction.md).
+- Open when looking up ExportOptionsSaveForWeb.colors in Shared Adobe platform. [ExportOptionsSaveForWeb.colors](colors.md).
+- Open when looking up ExportOptionsSaveForWeb.dither in Shared Adobe platform. [ExportOptionsSaveForWeb.dither](dither.md).
+- Open when looking up ExportOptionsSaveForWeb.ditherAmount in Shared Adobe platform. [ExportOptionsSaveForWeb.ditherAmount](dither-amount.md).
+- Open when looking up ExportOptionsSaveForWeb.format in Shared Adobe platform. [ExportOptionsSaveForWeb.format](format.md).
+- Open when looking up ExportOptionsSaveForWeb.includeProfile in Shared Adobe platform. [ExportOptionsSaveForWeb.includeProfile](include-profile.md).
+- Open when looking up ExportOptionsSaveForWeb.interlaced in Shared Adobe platform. [ExportOptionsSaveForWeb.interlaced](interlaced.md).
+- Open when looking up ExportOptionsSaveForWeb.lossy in Shared Adobe platform. [ExportOptionsSaveForWeb.lossy](lossy.md).
+- Open when looking up ExportOptionsSaveForWeb.matteColor in Shared Adobe platform. [ExportOptionsSaveForWeb.matteColor](matte-color.md).
+- Open when looking up ExportOptionsSaveForWeb.optimized in Shared Adobe platform. [ExportOptionsSaveForWeb.optimized](optimized.md).
+- Open when looking up ExportOptionsSaveForWeb.PNG8 in Shared Adobe platform. [ExportOptionsSaveForWeb.PNG8](png8.md).
+- Open when looking up ExportOptionsSaveForWeb.quality in Shared Adobe platform. [ExportOptionsSaveForWeb.quality](quality.md).
+- Open when looking up ExportOptionsSaveForWeb.transparency in Shared Adobe platform. [ExportOptionsSaveForWeb.transparency](transparency.md).
+- Open when looking up ExportOptionsSaveForWeb.transparencyAmount in Shared Adobe platform. [ExportOptionsSaveForWeb.transparencyAmount](transparency-amount.md).
+- Open when looking up ExportOptionsSaveForWeb.transparencyDither in Shared Adobe platform. [ExportOptionsSaveForWeb.transparencyDither](transparency-dither.md).
+- Open when looking up ExportOptionsSaveForWeb.webSnap in Shared Adobe platform. [ExportOptionsSaveForWeb.webSnap](web-snap.md).

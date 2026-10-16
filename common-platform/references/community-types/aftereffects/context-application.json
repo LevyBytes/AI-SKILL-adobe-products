@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application references", "file": "references/community-types/aftereffects/application/reference-index.md", "summary": "Open when looking up Application in Shared Adobe platform.", "keywords": ["Application references"]},
+  {"topic": "_AppVersion", "file": "references/community-types/aftereffects/app-version.md", "summary": "Open when looking up _AppVersion in Shared Adobe platform.", "keywords": ["_AppVersion"]},
+  {"topic": "System", "file": "references/community-types/aftereffects/system.md", "summary": "Open when looking up System in Shared Adobe platform.", "keywords": ["System"]},
+  {"topic": "Preferences", "file": "references/community-types/aftereffects/preferences.md", "summary": "Open when looking up Preferences in Shared Adobe platform.", "keywords": ["Preferences"]},
+  {"topic": "PREFType", "file": "references/community-types/aftereffects/pref-type.md", "summary": "Open when looking up PREFType in Shared Adobe platform.", "keywords": ["PREFType"]},
+  {"topic": "Settings", "file": "references/community-types/aftereffects/settings.md", "summary": "Open when looking up Settings in Shared Adobe platform.", "keywords": ["Settings"]},
+  {"topic": "GetSettingsFormat", "file": "references/community-types/aftereffects/get-settings-format.md", "summary": "Open when looking up GetSettingsFormat in Shared Adobe platform.", "keywords": ["GetSettingsFormat"]},
+  {"topic": "PurgeTarget", "file": "references/community-types/aftereffects/purge-target.md", "summary": "Open when looking up PurgeTarget in Shared Adobe platform.", "keywords": ["PurgeTarget"]},
+  {"topic": "ToolType", "file": "references/community-types/aftereffects/tool-type.md", "summary": "Open when looking up ToolType in Shared Adobe platform.", "keywords": ["ToolType"]},
+  {"topic": "CloseOptions", "file": "references/community-types/aftereffects/close-options.md", "summary": "Open when looking up CloseOptions in Shared Adobe platform.", "keywords": ["CloseOptions"]},
+  {"topic": "Language", "file": "references/community-types/aftereffects/language.md", "summary": "Open when looking up Language in Shared Adobe platform.", "keywords": ["Language"]},
+  {"topic": "LogType", "file": "references/community-types/aftereffects/log-type.md", "summary": "Open when looking up LogType in Shared Adobe platform.", "keywords": ["LogType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

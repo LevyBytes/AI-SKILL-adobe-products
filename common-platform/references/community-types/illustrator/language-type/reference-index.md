@@ -1,0 +1,50 @@
+# Shared Adobe platform — LanguageType
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up LanguageType declaration in Shared Adobe platform. [LanguageType declaration](declaration.md).
+- Open when looking up LanguageType.ARABIC in Shared Adobe platform. [LanguageType.ARABIC](arabic.md).
+- Open when looking up LanguageType.BENGALIINDIA in Shared Adobe platform. [LanguageType.BENGALIINDIA](bengaliindia.md).
+- Open when looking up LanguageType.BOKMALNORWEGIAN in Shared Adobe platform. [LanguageType.BOKMALNORWEGIAN](bokmalnorwegian.md).
+- Open when looking up LanguageType.BRAZILLIANPORTUGUESE in Shared Adobe platform. [LanguageType.BRAZILLIANPORTUGUESE](brazillianportuguese.md).
+- Open when looking up LanguageType.BULGARIAN in Shared Adobe platform. [LanguageType.BULGARIAN](bulgarian.md).
+- Open when looking up LanguageType.CANADIANFRENCH in Shared Adobe platform. [LanguageType.CANADIANFRENCH](canadianfrench.md).
+- Open when looking up LanguageType.CATALAN in Shared Adobe platform. [LanguageType.CATALAN](catalan.md).
+- Open when looking up LanguageType.CHINESE in Shared Adobe platform. [LanguageType.CHINESE](chinese.md).
+- Open when looking up LanguageType.CZECH in Shared Adobe platform. [LanguageType.CZECH](czech.md).
+- Open when looking up LanguageType.DANISH in Shared Adobe platform. [LanguageType.DANISH](danish.md).
+- Open when looking up LanguageType.DUTCH in Shared Adobe platform. [LanguageType.DUTCH](dutch.md).
+- Open when looking up LanguageType.DUTCH2005REFORM in Shared Adobe platform. [LanguageType.DUTCH2005REFORM](dutch2005-reform.md).
+- Open when looking up LanguageType.ENGLISH in Shared Adobe platform. [LanguageType.ENGLISH](english.md).
+- Open when looking up LanguageType.FARSI in Shared Adobe platform. [LanguageType.FARSI](farsi.md).
+- Open when looking up LanguageType.FINNISH in Shared Adobe platform. [LanguageType.FINNISH](finnish.md).
+- Open when looking up LanguageType.GERMAN2006REFORM in Shared Adobe platform. [LanguageType.GERMAN2006REFORM](german2006-reform.md).
+- Open when looking up LanguageType.GREEK in Shared Adobe platform. [LanguageType.GREEK](greek.md).
+- Open when looking up LanguageType.GUJARATI in Shared Adobe platform. [LanguageType.GUJARATI](gujarati.md).
+- Open when looking up LanguageType.HINDI in Shared Adobe platform. [LanguageType.HINDI](hindi.md).
+- Open when looking up LanguageType.HUNGARIAN in Shared Adobe platform. [LanguageType.HUNGARIAN](hungarian.md).
+- Open when looking up LanguageType.ICELANDIC in Shared Adobe platform. [LanguageType.ICELANDIC](icelandic.md).
+- Open when looking up LanguageType.ITALIAN in Shared Adobe platform. [LanguageType.ITALIAN](italian.md).
+- Open when looking up LanguageType.JAPANESE in Shared Adobe platform. [LanguageType.JAPANESE](japanese.md).
+- Open when looking up LanguageType.KANNADA in Shared Adobe platform. [LanguageType.KANNADA](kannada.md).
+- Open when looking up LanguageType.MALAYALAM in Shared Adobe platform. [LanguageType.MALAYALAM](malayalam.md).
+- Open when looking up LanguageType.MARATHI in Shared Adobe platform. [LanguageType.MARATHI](marathi.md).
+- Open when looking up LanguageType.NYNORSKNORWEGIAN in Shared Adobe platform. [LanguageType.NYNORSKNORWEGIAN](nynorsknorwegian.md).
+- Open when looking up LanguageType.OLDGERMAN in Shared Adobe platform. [LanguageType.OLDGERMAN](oldgerman.md).
+- Open when looking up LanguageType.ORIYA in Shared Adobe platform. [LanguageType.ORIYA](oriya.md).
+- Open when looking up LanguageType.POLISH in Shared Adobe platform. [LanguageType.POLISH](polish.md).
+- Open when looking up LanguageType.PUNJABI in Shared Adobe platform. [LanguageType.PUNJABI](punjabi.md).
+- Open when looking up LanguageType.RUMANIAN in Shared Adobe platform. [LanguageType.RUMANIAN](rumanian.md).
+- Open when looking up LanguageType.RUSSIAN in Shared Adobe platform. [LanguageType.RUSSIAN](russian.md).
+- Open when looking up LanguageType.SERBIAN in Shared Adobe platform. [LanguageType.SERBIAN](serbian.md).
+- Open when looking up LanguageType.SPANISH in Shared Adobe platform. [LanguageType.SPANISH](spanish.md).
+- Open when looking up LanguageType.STANDARDFRENCH in Shared Adobe platform. [LanguageType.STANDARDFRENCH](standardfrench.md).
+- Open when looking up LanguageType.STANDARDGERMAN in Shared Adobe platform. [LanguageType.STANDARDGERMAN](standardgerman.md).
+- Open when looking up LanguageType.STANDARDPORTUGUESE in Shared Adobe platform. [LanguageType.STANDARDPORTUGUESE](standardportuguese.md).
+- Open when looking up LanguageType.SWEDISH in Shared Adobe platform. [LanguageType.SWEDISH](swedish.md).
+- Open when looking up LanguageType.SWISSGERMAN in Shared Adobe platform. [LanguageType.SWISSGERMAN](swissgerman.md).
+- Open when looking up LanguageType.SWISSGERMAN2006REFORM in Shared Adobe platform. [LanguageType.SWISSGERMAN2006REFORM](swissgerman2006-reform.md).
+- Open when looking up LanguageType.TAMIL in Shared Adobe platform. [LanguageType.TAMIL](tamil.md).
+- Open when looking up LanguageType.TELUGU in Shared Adobe platform. [LanguageType.TELUGU](telugu.md).
+- Open when looking up LanguageType.TURKISH in Shared Adobe platform. [LanguageType.TURKISH](turkish.md).
+- Open when looking up LanguageType.UKENGLISH in Shared Adobe platform. [LanguageType.UKENGLISH](ukenglish.md).
+- Open when looking up LanguageType.UKRANIAN in Shared Adobe platform. [LanguageType.UKRANIAN](ukranian.md).

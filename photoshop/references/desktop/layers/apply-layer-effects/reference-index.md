@@ -1,0 +1,23 @@
+# Photoshop — Apply layer effects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add layer styles in Photoshop. [Add layer styles](add-layer-styles.md).
+- Open when looking up Add layer styles in Photoshop. [Add layer styles references](add-layer-styles/reference-index.md).
+- Open when looking up Convert layer styles to image layers in Photoshop. [Convert layer styles to image layers](convert-layer-styles-to-image-layers.md).
+- Open when looking up Copy and paste layer styles in Photoshop. [Copy and paste layer styles](copy-and-paste-layer-styles.md).
+- Open when looking up Display or hide layer styles in Photoshop. [Display or hide layer styles](display-or-hide-layer-styles.md).
+- Open when looking up Import preset style libraries in Photoshop. [Import preset style libraries](import-preset-style-libraries.md).
+- Open when looking up Layer style effects and options overview in Photoshop. [Layer style effects and options overview](layer-style-effects-and-options-overview.md).
+- Open when looking up Manage contours in Photoshop. [Manage contours](manage-contours.md).
+- Open when looking up Manage contours in Photoshop. [Manage contours references](manage-contours/reference-index.md).
+- Open when looking up Manage preset styles in Photoshop. [Manage preset styles](manage-preset-styles.md).
+- Open when looking up Manage preset styles in Photoshop. [Manage preset styles references](manage-preset-styles/reference-index.md).
+- Open when looking up Remove layer effects in Photoshop. [Remove layer effects](remove-layer-effects.md).
+- Open when looking up Remove layer effects in Photoshop. [Remove layer effects references](remove-layer-effects/reference-index.md).
+- Open when looking up Scale layer effects in Photoshop. [Scale layer effects](scale-layer-effects.md).
+- Open when looking up Set a global lighting angle for all layers in Photoshop. [Set a global lighting angle for all layers](set-a-global-lighting-angle-for-all-layers.md).
+- Open when looking up Set a global lighting angle for all layers in Photoshop. [Set a global lighting angle for all layers references](set-a-global-lighting-angle-for-all-layers/reference-index.md).
+- Open when looking up Work with layer styles in Photoshop. [Work with layer styles](work-with-layer-styles.md).
+- Open when looking up Work with layer styles in Photoshop. [Work with layer styles references](work-with-layer-styles/reference-index.md).
+- Open when looking up Work with preset styles in Photoshop. [Work with preset styles](work-with-preset-styles.md).
+- Open when looking up Work with preset styles in Photoshop. [Work with preset styles references](work-with-preset-styles/reference-index.md).

@@ -1,0 +1,9 @@
+# ruleAboveLineWeight
+
+> Measurement Unit (Number or String)=any **ruleAboveLineWeight**
+>
+> Line weight for the rule above.
+
+## See also
+
+- [Owning API context](reference-index.md)

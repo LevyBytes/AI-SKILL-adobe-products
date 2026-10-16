@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "incopy", "topics": [
+  {"topic": "Character formatting references", "file": "references/desktop/format-text/character-formatting/reference-index.md", "summary": "Open when looking up Character formatting in InCopy.", "keywords": ["Character formatting references"]},
+  {"topic": "Cjk and multilingual text references", "file": "references/desktop/format-text/cjk-and-multilingual-text/reference-index.md", "summary": "Open when looking up Cjk and multilingual text in InCopy.", "keywords": ["Cjk and multilingual text references"]},
+  {"topic": "Paragraph formatting references", "file": "references/desktop/format-text/paragraph-formatting/reference-index.md", "summary": "Open when looking up Paragraph formatting in InCopy.", "keywords": ["Paragraph formatting references"]},
+  {"topic": "Styles references", "file": "references/desktop/format-text/styles/reference-index.md", "summary": "Open when looking up Styles in InCopy.", "keywords": ["Styles references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

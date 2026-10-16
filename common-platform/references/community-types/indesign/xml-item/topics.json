@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "XMLItem declaration", "file": "references/community-types/indesign/xml-item/declaration.md", "summary": "Open when looking up XMLItem declaration in Shared Adobe platform.", "keywords": ["XMLItem declaration"]},
+  {"topic": "XMLItem identity and parent", "file": "references/community-types/indesign/xml-item/identity-and-parent.md", "summary": "Open when looking up XMLItem identity and parent in Shared Adobe platform.", "keywords": ["XMLItem identity and parent"]},
+  {"topic": "XMLItem.properties", "file": "references/community-types/indesign/xml-item/properties.md", "summary": "Open when looking up XMLItem.properties in Shared Adobe platform.", "keywords": ["XMLItem.properties"]},
+  {"topic": "XMLItem object resolution", "file": "references/community-types/indesign/xml-item/object-resolution.md", "summary": "Open when looking up XMLItem object resolution in Shared Adobe platform.", "keywords": ["XMLItem object resolution"]},
+  {"topic": "XMLItem.select", "file": "references/community-types/indesign/xml-item/select.md", "summary": "Open when looking up XMLItem.select in Shared Adobe platform.", "keywords": ["XMLItem.select"]},
+  {"topic": "XMLItem object lifecycle", "file": "references/community-types/indesign/xml-item/object-lifecycle.md", "summary": "Open when looking up XMLItem object lifecycle in Shared Adobe platform.", "keywords": ["XMLItem object lifecycle"]},
+  {"topic": "XMLItem event listeners", "file": "references/community-types/indesign/xml-item/event-listeners.md", "summary": "Open when looking up XMLItem event listeners in Shared Adobe platform.", "keywords": ["XMLItem event listeners"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Access Adobe Developer Console", "file": "references/cloud-services/admins-only-get-credentials/access-adobe-developer-console.md", "summary": "Open when looking up Access Adobe Developer Console in Firefly.", "keywords": ["Access Adobe Developer Console"]},
+  {"topic": "Create a new project", "file": "references/cloud-services/admins-only-get-credentials/create-a-new-project.md", "summary": "Open when looking up Create a new project in Firefly.", "keywords": ["Create a new project"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

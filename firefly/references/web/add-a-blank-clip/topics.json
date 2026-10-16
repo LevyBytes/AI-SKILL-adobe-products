@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Add a blank clip to the timeline in Firefly video editor.", "file": "references/web/add-a-blank-clip/add-a-blank-clip-to-the-timeline-in-firefly-video-editor.md", "summary": "Open when looking up Add a blank clip to the timeline in Firefly video editor. in Firefly.", "keywords": ["Add a blank clip to the timeline in Firefly video editor."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

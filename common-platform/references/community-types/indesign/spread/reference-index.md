@@ -1,0 +1,56 @@
+# Shared Adobe platform — Spread
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Spread declaration in Shared Adobe platform. [Spread declaration](declaration.md).
+- Open when looking up Spread event listeners in Shared Adobe platform. [Spread event listeners](event-listeners.md).
+- Open when looking up Spread identity and parent in Shared Adobe platform. [Spread identity and parent](identity-and-parent.md).
+- Open when looking up Spread labels and metadata in Shared Adobe platform. [Spread labels and metadata](labels-and-metadata.md).
+- Open when looking up Spread object lifecycle in Shared Adobe platform. [Spread object lifecycle](object-lifecycle.md).
+- Open when looking up Spread object resolution in Shared Adobe platform. [Spread object resolution](object-resolution.md).
+- Open when looking up Spread.allGraphics in Shared Adobe platform. [Spread.allGraphics](all-graphics.md).
+- Open when looking up Spread.allowPageShuffle in Shared Adobe platform. [Spread.allowPageShuffle](allow-page-shuffle.md).
+- Open when looking up Spread.allPageItems in Shared Adobe platform. [Spread.allPageItems](all-page-items.md).
+- Open when looking up Spread.appliedMaster in Shared Adobe platform. [Spread.appliedMaster](applied-master.md).
+- Open when looking up Spread.buttons in Shared Adobe platform. [Spread.buttons](buttons.md).
+- Open when looking up Spread.checkBoxes in Shared Adobe platform. [Spread.checkBoxes](check-boxes.md).
+- Open when looking up Spread.comboBoxes in Shared Adobe platform. [Spread.comboBoxes](combo-boxes.md).
+- Open when looking up Spread.contentPlace in Shared Adobe platform. [Spread.contentPlace](content-place.md).
+- Open when looking up Spread.createGuides in Shared Adobe platform. [Spread.createGuides](create-guides.md).
+- Open when looking up Spread.detach in Shared Adobe platform. [Spread.detach](detach.md).
+- Open when looking up Spread.endnoteTextFrames in Shared Adobe platform. [Spread.endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up Spread.epstexts in Shared Adobe platform. [Spread.epstexts](epstexts.md).
+- Open when looking up Spread.flattenerOverride in Shared Adobe platform. [Spread.flattenerOverride](flattener-override.md).
+- Open when looking up Spread.flattenerPreferences in Shared Adobe platform. [Spread.flattenerPreferences](flattener-preferences.md).
+- Open when looking up Spread.formFields in Shared Adobe platform. [Spread.formFields](form-fields.md).
+- Open when looking up Spread.graphicLines in Shared Adobe platform. [Spread.graphicLines](graphic-lines.md).
+- Open when looking up Spread.groups in Shared Adobe platform. [Spread.groups](groups.md).
+- Open when looking up Spread.guides in Shared Adobe platform. [Spread.guides](guides.md).
+- Open when looking up Spread.idmlComponentName in Shared Adobe platform. [Spread.idmlComponentName](idml-component-name.md).
+- Open when looking up Spread.listBoxes in Shared Adobe platform. [Spread.listBoxes](list-boxes.md).
+- Open when looking up Spread.multiStateObjects in Shared Adobe platform. [Spread.multiStateObjects](multi-state-objects.md).
+- Open when looking up Spread.ovals in Shared Adobe platform. [Spread.ovals](ovals.md).
+- Open when looking up Spread.pageItems in Shared Adobe platform. [Spread.pageItems](page-items.md).
+- Open when looking up Spread.pages in Shared Adobe platform. [Spread.pages](pages.md).
+- Open when looking up Spread.pageTransitionDirection in Shared Adobe platform. [Spread.pageTransitionDirection](page-transition-direction.md).
+- Open when looking up Spread.pageTransitionDuration in Shared Adobe platform. [Spread.pageTransitionDuration](page-transition-duration.md).
+- Open when looking up Spread.pageTransitionType in Shared Adobe platform. [Spread.pageTransitionType](page-transition-type.md).
+- Open when looking up Spread.place in Shared Adobe platform. [Spread.place](place.md).
+- Open when looking up Spread.placeAndLink in Shared Adobe platform. [Spread.placeAndLink](place-and-link.md).
+- Open when looking up Spread.placeXML in Shared Adobe platform. [Spread.placeXML](place-xml.md).
+- Open when looking up Spread.polygons in Shared Adobe platform. [Spread.polygons](polygons.md).
+- Open when looking up Spread.preferences in Shared Adobe platform. [Spread.preferences](preferences.md).
+- Open when looking up Spread.properties in Shared Adobe platform. [Spread.properties](properties.md).
+- Open when looking up Spread.radioButtons in Shared Adobe platform. [Spread.radioButtons](radio-buttons.md).
+- Open when looking up Spread.rectangles in Shared Adobe platform. [Spread.rectangles](rectangles.md).
+- Open when looking up Spread.removeOverride in Shared Adobe platform. [Spread.removeOverride](remove-override.md).
+- Open when looking up Spread.resolve in Shared Adobe platform. [Spread.resolve](resolve.md).
+- Open when looking up Spread.select in Shared Adobe platform. [Spread.select](select.md).
+- Open when looking up Spread.setContent in Shared Adobe platform. [Spread.setContent](set-content.md).
+- Open when looking up Spread.showMasterItems in Shared Adobe platform. [Spread.showMasterItems](show-master-items.md).
+- Open when looking up Spread.signatureFields in Shared Adobe platform. [Spread.signatureFields](signature-fields.md).
+- Open when looking up Spread.splineItems in Shared Adobe platform. [Spread.splineItems](spline-items.md).
+- Open when looking up Spread.textBoxes in Shared Adobe platform. [Spread.textBoxes](text-boxes.md).
+- Open when looking up Spread.textFrames in Shared Adobe platform. [Spread.textFrames](text-frames.md).
+- Open when looking up Spread.timingSettings in Shared Adobe platform. [Spread.timingSettings](timing-settings.md).
+- Open when looking up Spread.transform in Shared Adobe platform. [Spread.transform](transform.md).
+- Open when looking up Spread.transformValuesOf in Shared Adobe platform. [Spread.transformValuesOf](transform-values-of.md).

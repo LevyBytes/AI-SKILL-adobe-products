@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "findHyperlinks", "file": "references/document-model/insertion-point/find-hyperlinks.md", "summary": "Open when looking up findHyperlinks in InDesign.", "keywords": ["findHyperlinks"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

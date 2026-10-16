@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "$.bp()", "file": "references/scripting/bp.md", "summary": "Open when looking up $.bp() in Shared Adobe platform.", "keywords": ["$.bp()"]},
+  {"topic": "$.error", "file": "references/scripting/error.md", "summary": "Open when looking up $.error in Shared Adobe platform.", "keywords": ["$.error"]},
+  {"topic": "$.hiresTimer", "file": "references/scripting/hires-timer.md", "summary": "Open when looking up $.hiresTimer in Shared Adobe platform.", "keywords": ["$.hiresTimer"]},
+  {"topic": "$.level", "file": "references/scripting/level.md", "summary": "Open when looking up $.level in Shared Adobe platform.", "keywords": ["$.level"]},
+  {"topic": "$.line", "file": "references/scripting/line.md", "summary": "Open when looking up $.line in Shared Adobe platform.", "keywords": ["$.line"]},
+  {"topic": "$.stack", "file": "references/scripting/stack.md", "summary": "Open when looking up $.stack in Shared Adobe platform.", "keywords": ["$.stack"]},
+  {"topic": "$.strict", "file": "references/scripting/strict.md", "summary": "Open when looking up $.strict in Shared Adobe platform.", "keywords": ["$.strict"]},
+  {"topic": "$.write()", "file": "references/scripting/write.md", "summary": "Open when looking up $.write() in Shared Adobe platform.", "keywords": ["$.write()"]},
+  {"topic": "$.writeln()", "file": "references/scripting/writeln.md", "summary": "Open when looking up $.writeln() in Shared Adobe platform.", "keywords": ["$.writeln()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

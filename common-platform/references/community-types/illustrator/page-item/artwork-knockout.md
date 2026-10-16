@@ -1,0 +1,13 @@
+# PageItem.artworkKnockout
+
+Community declaration reference: Illustrator/2022.
+
+Whether the artwork creates a knockout.
+
+```typescript
+declare class PageItem {
+    artworkKnockout: KnockoutState
+}
+```
+
+Source: [Illustrator/2022/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/Illustrator/2022/index.d.ts).

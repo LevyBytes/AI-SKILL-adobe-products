@@ -1,0 +1,27 @@
+# InDesign — Page Set Up And Printer Marks
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Bleed and slug modes for verification in InDesign. [Bleed and slug modes for verification](bleed-and-slug-modes-for-verification.md).
+- Open when looking up Bleed area specifications in InDesign. [Bleed area specifications](bleed-area-specifications.md).
+- Open when looking up Change page position on media in InDesign. [Change page position on media](change-page-position-on-media.md).
+- Open when looking up Color output and separations in InDesign. [Color output and separations](color-output-and-separations.md).
+- Open when looking up Ink and color management in InDesign. [Ink and color management](ink-and-color-management.md).
+- Open when looking up Object printing options in InDesign. [Object printing options](object-printing-options.md).
+- Open when looking up Offset specifications in InDesign. [Offset specifications](offset-specifications.md).
+- Open when looking up Output limitations in InDesign. [Output limitations](output-limitations.md).
+- Open when looking up Page setup and printer marks in InDesign. [Page setup and printer marks](page-setup-and-printer-marks.md).
+- Open when looking up Preflight in InDesign. [Preflight](preflight.md).
+- Open when looking up Print bleed and slug areas in InDesign. [Print bleed and slug areas](print-bleed-and-slug-areas.md).
+- Open when looking up Print booklets in InDesign. [Print booklets](print-booklets.md).
+- Open when looking up Print dialog box object settings in InDesign. [Print dialog box object settings](print-dialog-box-object-settings.md).
+- Open when looking up Print documents with mixed page sizes in InDesign. [Print documents with mixed page sizes](print-documents-with-mixed-page-sizes.md).
+- Open when looking up Print Layers options in InDesign. [Print Layers options](print-layers-options.md).
+- Open when looking up Print marks reference in InDesign. [Print marks reference](print-marks-reference.md).
+- Open when looking up Print production and file creation in InDesign. [Print production and file creation](print-production-and-file-creation.md).
+- Open when looking up Review or chage layer visibility in InDesign. [Review or chage layer visibility](review-or-chage-layer-visibility.md).
+- Open when looking up Set printer's marks in InDesign. [Set printer's marks](set-printer-s-marks.md).
+- Open when looking up Slug area specifications in InDesign. [Slug area specifications](slug-area-specifications.md).
+- Open when looking up Specify page range in InDesign. [Specify page range](specify-page-range.md).
+- Open when looking up Specify pages to print in InDesign. [Specify pages to print](specify-pages-to-print.md).
+- Open when looking up Specify paper size and orientation in InDesign. [Specify paper size and orientation](specify-paper-size-and-orientation.md).
+- Open when looking up Specify which layers to print in InDesign. [Specify which layers to print](specify-which-layers-to-print.md).

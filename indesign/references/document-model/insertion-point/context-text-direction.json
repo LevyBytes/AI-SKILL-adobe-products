@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "characterDirection", "file": "references/document-model/insertion-point/character-direction.md", "summary": "Open when looking up characterDirection in InDesign.", "keywords": ["characterDirection"]},
+  {"topic": "diacriticPosition", "file": "references/document-model/insertion-point/diacritic-position.md", "summary": "Open when looking up diacriticPosition in InDesign.", "keywords": ["diacriticPosition"]},
+  {"topic": "digitsType", "file": "references/document-model/insertion-point/digits-type.md", "summary": "Open when looking up digitsType in InDesign.", "keywords": ["digitsType"]},
+  {"topic": "kashidas", "file": "references/document-model/insertion-point/kashidas.md", "summary": "Open when looking up kashidas in InDesign.", "keywords": ["kashidas"]},
+  {"topic": "keyboardDirection", "file": "references/document-model/insertion-point/keyboard-direction.md", "summary": "Open when looking up keyboardDirection in InDesign.", "keywords": ["keyboardDirection"]},
+  {"topic": "paragraphDirection", "file": "references/document-model/insertion-point/paragraph-direction.md", "summary": "Open when looking up paragraphDirection in InDesign.", "keywords": ["paragraphDirection"]},
+  {"topic": "paragraphKashidaWidth", "file": "references/document-model/insertion-point/paragraph-kashida-width.md", "summary": "Open when looking up paragraphKashidaWidth in InDesign.", "keywords": ["paragraphKashidaWidth"]},
+  {"topic": "xOffsetDiacritic", "file": "references/document-model/insertion-point/x-offset-diacritic.md", "summary": "Open when looking up xOffsetDiacritic in InDesign.", "keywords": ["xOffsetDiacritic"]},
+  {"topic": "yOffsetDiacritic", "file": "references/document-model/insertion-point/y-offset-diacritic.md", "summary": "Open when looking up yOffsetDiacritic in InDesign.", "keywords": ["yOffsetDiacritic"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

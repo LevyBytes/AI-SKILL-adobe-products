@@ -1,0 +1,55 @@
+# Shared Adobe platform — Timeline
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Timeline declaration in Shared Adobe platform. [Timeline declaration](declaration.md).
+- Open when looking up Timeline.addMotionGuide in Shared Adobe platform. [Timeline.addMotionGuide](add-motion-guide.md).
+- Open when looking up Timeline.addNewLayer in Shared Adobe platform. [Timeline.addNewLayer](add-new-layer.md).
+- Open when looking up Timeline.clearFrames in Shared Adobe platform. [Timeline.clearFrames](clear-frames.md).
+- Open when looking up Timeline.clearKeyframes in Shared Adobe platform. [Timeline.clearKeyframes](clear-keyframes.md).
+- Open when looking up Timeline.convertToBlankKeyframes in Shared Adobe platform. [Timeline.convertToBlankKeyframes](convert-to-blank-keyframes.md).
+- Open when looking up Timeline.convertToKeyframes in Shared Adobe platform. [Timeline.convertToKeyframes](convert-to-keyframes.md).
+- Open when looking up Timeline.copyFrames in Shared Adobe platform. [Timeline.copyFrames](copy-frames.md).
+- Open when looking up Timeline.copyLayers in Shared Adobe platform. [Timeline.copyLayers](copy-layers.md).
+- Open when looking up Timeline.copyMotion in Shared Adobe platform. [Timeline.copyMotion](copy-motion.md).
+- Open when looking up Timeline.copyMotionAsAS3 in Shared Adobe platform. [Timeline.copyMotionAsAS3](copy-motion-as-as3.md).
+- Open when looking up Timeline.createMotionObject in Shared Adobe platform. [Timeline.createMotionObject](create-motion-object.md).
+- Open when looking up Timeline.createMotionTween in Shared Adobe platform. [Timeline.createMotionTween](create-motion-tween.md).
+- Open when looking up Timeline.currentFrame in Shared Adobe platform. [Timeline.currentFrame](current-frame.md).
+- Open when looking up Timeline.currentLayer in Shared Adobe platform. [Timeline.currentLayer](current-layer.md).
+- Open when looking up Timeline.cutFrames in Shared Adobe platform. [Timeline.cutFrames](cut-frames.md).
+- Open when looking up Timeline.cutLayers in Shared Adobe platform. [Timeline.cutLayers](cut-layers.md).
+- Open when looking up Timeline.deleteLayer in Shared Adobe platform. [Timeline.deleteLayer](delete-layer.md).
+- Open when looking up Timeline.duplicateLayers in Shared Adobe platform. [Timeline.duplicateLayers](duplicate-layers.md).
+- Open when looking up Timeline.expandFolder in Shared Adobe platform. [Timeline.expandFolder](expand-folder.md).
+- Open when looking up Timeline.findLayerIndex in Shared Adobe platform. [Timeline.findLayerIndex](find-layer-index.md).
+- Open when looking up Timeline.frameCount in Shared Adobe platform. [Timeline.frameCount](frame-count.md).
+- Open when looking up Timeline.getBounds in Shared Adobe platform. [Timeline.getBounds](get-bounds.md).
+- Open when looking up Timeline.getFrameProperty in Shared Adobe platform. [Timeline.getFrameProperty](get-frame-property.md).
+- Open when looking up Timeline.getGuidelines in Shared Adobe platform. [Timeline.getGuidelines](get-guidelines.md).
+- Open when looking up Timeline.getLayerProperty in Shared Adobe platform. [Timeline.getLayerProperty](get-layer-property.md).
+- Open when looking up Timeline.getSelectedFrames in Shared Adobe platform. [Timeline.getSelectedFrames](get-selected-frames.md).
+- Open when looking up Timeline.getSelectedLayers in Shared Adobe platform. [Timeline.getSelectedLayers](get-selected-layers.md).
+- Open when looking up Timeline.insertBlankKeyframe in Shared Adobe platform. [Timeline.insertBlankKeyframe](insert-blank-keyframe.md).
+- Open when looking up Timeline.insertFrames in Shared Adobe platform. [Timeline.insertFrames](insert-frames.md).
+- Open when looking up Timeline.insertKeyframe in Shared Adobe platform. [Timeline.insertKeyframe](insert-keyframe.md).
+- Open when looking up Timeline.layerCount in Shared Adobe platform. [Timeline.layerCount](layer-count.md).
+- Open when looking up Timeline.layers in Shared Adobe platform. [Timeline.layers](layers.md).
+- Open when looking up Timeline.libraryItem in Shared Adobe platform. [Timeline.libraryItem](library-item.md).
+- Open when looking up Timeline.name in Shared Adobe platform. [Timeline.name](name.md).
+- Open when looking up Timeline.pasteFrames in Shared Adobe platform. [Timeline.pasteFrames](paste-frames.md).
+- Open when looking up Timeline.pasteLayers in Shared Adobe platform. [Timeline.pasteLayers](paste-layers.md).
+- Open when looking up Timeline.pasteMotion in Shared Adobe platform. [Timeline.pasteMotion](paste-motion.md).
+- Open when looking up Timeline.pasteMotionSpecial in Shared Adobe platform. [Timeline.pasteMotionSpecial](paste-motion-special.md).
+- Open when looking up Timeline.removeFrames in Shared Adobe platform. [Timeline.removeFrames](remove-frames.md).
+- Open when looking up Timeline.removeMotionObject in Shared Adobe platform. [Timeline.removeMotionObject](remove-motion-object.md).
+- Open when looking up Timeline.reorderLayer in Shared Adobe platform. [Timeline.reorderLayer](reorder-layer.md).
+- Open when looking up Timeline.reverseFrames in Shared Adobe platform. [Timeline.reverseFrames](reverse-frames.md).
+- Open when looking up Timeline.selectAllFrames in Shared Adobe platform. [Timeline.selectAllFrames](select-all-frames.md).
+- Open when looking up Timeline.setFrameProperty in Shared Adobe platform. [Timeline.setFrameProperty](set-frame-property.md).
+- Open when looking up Timeline.setGuidelines in Shared Adobe platform. [Timeline.setGuidelines](set-guidelines.md).
+- Open when looking up Timeline.setLayerProperty in Shared Adobe platform. [Timeline.setLayerProperty](set-layer-property.md).
+- Open when looking up Timeline.setSelectedFrames in Shared Adobe platform. [Timeline.setSelectedFrames](set-selected-frames.md).
+- Open when looking up Timeline.setSelectedLayers in Shared Adobe platform. [Timeline.setSelectedLayers](set-selected-layers.md).
+- Open when looking up Timeline.showLayerMasking in Shared Adobe platform. [Timeline.showLayerMasking](show-layer-masking.md).
+- Open when looking up Timeline.startPlayback in Shared Adobe platform. [Timeline.startPlayback](start-playback.md).
+- Open when looking up Timeline.stopPlayback in Shared Adobe platform. [Timeline.stopPlayback](stop-playback.md).

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP_FreeMemHandle", "file": "references/plugin-sdk/aegp-memory-suite1/aegp-free-mem-handle.md", "summary": "Open when looking up AEGP_FreeMemHandle in After Effects.", "keywords": ["AEGP_FreeMemHandle"]},
+  {"topic": "AEGP_GetMemHandleSize", "file": "references/plugin-sdk/aegp-memory-suite1/aegp-get-mem-handle-size.md", "summary": "Open when looking up AEGP_GetMemHandleSize in After Effects.", "keywords": ["AEGP_GetMemHandleSize"]},
+  {"topic": "AEGP_GetMemStats", "file": "references/plugin-sdk/aegp-memory-suite1/aegp-get-mem-stats.md", "summary": "Open when looking up AEGP_GetMemStats in After Effects.", "keywords": ["AEGP_GetMemStats"]},
+  {"topic": "AEGP_LockMemHandle", "file": "references/plugin-sdk/aegp-memory-suite1/aegp-lock-mem-handle.md", "summary": "Open when looking up AEGP_LockMemHandle in After Effects.", "keywords": ["AEGP_LockMemHandle"]},
+  {"topic": "AEGP_NewMemHandle", "file": "references/plugin-sdk/aegp-memory-suite1/aegp-new-mem-handle.md", "summary": "Open when looking up AEGP_NewMemHandle in After Effects.", "keywords": ["AEGP_NewMemHandle"]},
+  {"topic": "AEGP_ResizeMemHandle", "file": "references/plugin-sdk/aegp-memory-suite1/aegp-resize-mem-handle.md", "summary": "Open when looking up AEGP_ResizeMemHandle in After Effects.", "keywords": ["AEGP_ResizeMemHandle"]},
+  {"topic": "AEGP_SetMemReportingOn", "file": "references/plugin-sdk/aegp-memory-suite1/aegp-set-mem-reporting-on.md", "summary": "Open when looking up AEGP_SetMemReportingOn in After Effects.", "keywords": ["AEGP_SetMemReportingOn"]},
+  {"topic": "AEGP_UnlockMemHandle", "file": "references/plugin-sdk/aegp-memory-suite1/aegp-unlock-mem-handle.md", "summary": "Open when looking up AEGP_UnlockMemHandle in After Effects.", "keywords": ["AEGP_UnlockMemHandle"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

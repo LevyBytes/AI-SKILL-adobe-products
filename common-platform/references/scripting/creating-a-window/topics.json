@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ScriptUI programming model — Creating a window", "file": "references/scripting/creating-a-window/script-ui-programming-model-creating-a-window.md", "summary": "Open when looking up ScriptUI programming model — Creating a window in Shared Adobe platform.", "keywords": ["ScriptUI programming model — Creating a window"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

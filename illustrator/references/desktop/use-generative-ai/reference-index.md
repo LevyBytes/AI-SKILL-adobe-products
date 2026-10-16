@@ -1,0 +1,29 @@
+# Illustrator — Use generative ai
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Common questions about generative AI features in Adobe Illustrator in Illustrator. [Common questions about generative AI features in Adobe Illustrator](generative-ai-feature-questions.md).
+- Open when looking up Edit generated artwork using prompts in Illustrator. [Edit generated artwork using prompts](edit-generated-artwork-using-prompts.md).
+- Open when looking up Edit generated patterns in Illustrator. [Edit generated patterns](edit-generated-patterns.md).
+- Open when looking up Generate content to expand images in Illustrator. [Generate content to expand images](generate-content-to-expand-images.md).
+- Open when looking up Generate print bleed in Illustrator. [Generate print bleed](generate-print-bleed.md).
+- Open when looking up Generate scenes, subjects, and icons in Illustrator. [Generate scenes, subjects, and icons](generate-scenes-subjects-and-icons.md).
+- Open when looking up Generate shape fills in Illustrator. [Generate shape fills](generate-shape-fills.md).
+- Open when looking up Generate similar variations without text prompts in Illustrator. [Generate similar variations without text prompts](generate-similar-variations-without-text-prompts.md).
+- Open when looking up Generate vector artwork from raster images in Illustrator. [Generate vector artwork from raster images](generate-vector-artwork-from-raster-images.md).
+- Open when looking up Generate vector graphics to expand artwork in Illustrator. [Generate vector graphics to expand artwork](generate-vector-graphics-to-expand-artwork.md).
+- Open when looking up Generate vector graphics to expand artwork in Illustrator. [Generate vector graphics to expand artwork references](generate-vector-graphics-to-expand-artwork/reference-index.md).
+- Open when looking up Manage generated variations in Illustrator. [Manage generated variations](manage-generated-variations.md).
+- Open when looking up Options to expand the expanded artwork in Illustrator. [Options to expand the expanded artwork](options-to-expand-the-expanded-artwork.md).
+- Open when looking up Partner models in Adobe Illustrator in Illustrator. [Partner models in Adobe Illustrator](partner-models-in-adobe-illustrator.md).
+- Open when looking up Recolor artwork with text prompts in Illustrator. [Recolor artwork with text prompts](recolor-artwork-with-text-prompts.md).
+- Open when looking up Recolor artwork with text prompts in Illustrator. [Recolor artwork with text prompts references](recolor-artwork-with-text-prompts/reference-index.md).
+- Open when looking up Remove background from images in Illustrator. [Remove background from images](remove-background-from-images.md).
+- Open when looking up Scenarios with linked variations in Illustrator. [Scenarios with linked variations](scenarios-with-linked-variations.md).
+- Open when looking up Scenarios with repeat shape fill generation in Illustrator. [Scenarios with repeat shape fill generation](scenarios-with-repeat-shape-fill-generation.md).
+- Open when looking up Use Auto Select in Illustrator. [Use Auto Select](use-auto-select.md).
+- Open when looking up Use Auto Select in Illustrator. [Use Auto Select references](use-auto-select/reference-index.md).
+- Open when looking up Use generative AI in Illustrator. [Use generative AI](use-generative-ai.md).
+- Open when looking up View 2D objects from new angles in Illustrator. [View 2D objects from new angles](view-2-d-objects-from-new-angles.md).
+- Open when looking up View 2D objects from new angles in Illustrator. [View 2D objects from new angles references](view-2-d-objects-from-new-angles/reference-index.md).
+- Open when looking up When to use Turntable and 3D in Illustrator. [When to use Turntable and 3D](when-to-use-turntable-and-3-d.md).
+- Open when looking up When to use Turntable and 3D in Illustrator. [When to use Turntable and 3D references](when-to-use-turntable-and-3-d/reference-index.md).

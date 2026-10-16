@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Text.ascent", "file": "references/community-types/indesign/text/ascent.md", "summary": "Open when looking up Text.ascent in Shared Adobe platform.", "keywords": ["Text.ascent"]},
+  {"topic": "Text.autoLeading", "file": "references/community-types/indesign/text/auto-leading.md", "summary": "Open when looking up Text.autoLeading in Shared Adobe platform.", "keywords": ["Text.autoLeading"]},
+  {"topic": "Text.baseline", "file": "references/community-types/indesign/text/baseline.md", "summary": "Open when looking up Text.baseline in Shared Adobe platform.", "keywords": ["Text.baseline"]},
+  {"topic": "Text.baselineShift", "file": "references/community-types/indesign/text/baseline-shift.md", "summary": "Open when looking up Text.baselineShift in Shared Adobe platform.", "keywords": ["Text.baselineShift"]},
+  {"topic": "Text.characterRotation", "file": "references/community-types/indesign/text/character-rotation.md", "summary": "Open when looking up Text.characterRotation in Shared Adobe platform.", "keywords": ["Text.characterRotation"]},
+  {"topic": "Text.descent", "file": "references/community-types/indesign/text/descent.md", "summary": "Open when looking up Text.descent in Shared Adobe platform.", "keywords": ["Text.descent"]},
+  {"topic": "Text.endBaseline", "file": "references/community-types/indesign/text/end-baseline.md", "summary": "Open when looking up Text.endBaseline in Shared Adobe platform.", "keywords": ["Text.endBaseline"]},
+  {"topic": "Text.endHorizontalOffset", "file": "references/community-types/indesign/text/end-horizontal-offset.md", "summary": "Open when looking up Text.endHorizontalOffset in Shared Adobe platform.", "keywords": ["Text.endHorizontalOffset"]},
+  {"topic": "Text.horizontalOffset", "file": "references/community-types/indesign/text/horizontal-offset.md", "summary": "Open when looking up Text.horizontalOffset in Shared Adobe platform.", "keywords": ["Text.horizontalOffset"]},
+  {"topic": "Text.horizontalScale", "file": "references/community-types/indesign/text/horizontal-scale.md", "summary": "Open when looking up Text.horizontalScale in Shared Adobe platform.", "keywords": ["Text.horizontalScale"]},
+  {"topic": "Text.kerningMethod", "file": "references/community-types/indesign/text/kerning-method.md", "summary": "Open when looking up Text.kerningMethod in Shared Adobe platform.", "keywords": ["Text.kerningMethod"]},
+  {"topic": "Text.kerningValue", "file": "references/community-types/indesign/text/kerning-value.md", "summary": "Open when looking up Text.kerningValue in Shared Adobe platform.", "keywords": ["Text.kerningValue"]},
+  {"topic": "Text.leading", "file": "references/community-types/indesign/text/leading.md", "summary": "Open when looking up Text.leading in Shared Adobe platform.", "keywords": ["Text.leading"]},
+  {"topic": "Text.leadingModel", "file": "references/community-types/indesign/text/leading-model.md", "summary": "Open when looking up Text.leadingModel in Shared Adobe platform.", "keywords": ["Text.leadingModel"]},
+  {"topic": "Text.position", "file": "references/community-types/indesign/text/position.md", "summary": "Open when looking up Text.position in Shared Adobe platform.", "keywords": ["Text.position"]},
+  {"topic": "Text.scaleAffectsLineHeight", "file": "references/community-types/indesign/text/scale-affects-line-height.md", "summary": "Open when looking up Text.scaleAffectsLineHeight in Shared Adobe platform.", "keywords": ["Text.scaleAffectsLineHeight"]},
+  {"topic": "Text.skew", "file": "references/community-types/indesign/text/skew.md", "summary": "Open when looking up Text.skew in Shared Adobe platform.", "keywords": ["Text.skew"]},
+  {"topic": "Text.tracking", "file": "references/community-types/indesign/text/tracking.md", "summary": "Open when looking up Text.tracking in Shared Adobe platform.", "keywords": ["Text.tracking"]},
+  {"topic": "Text.verticalScale", "file": "references/community-types/indesign/text/vertical-scale.md", "summary": "Open when looking up Text.verticalScale in Shared Adobe platform.", "keywords": ["Text.verticalScale"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Control preflight for the active document", "file": "references/desktop/print/preflight/turn-on-or-off-live-preflight/control-preflight-for-the-active-document.md", "summary": "Open when looking up Control preflight for the active document in InDesign.", "keywords": ["Control preflight for the active document"]},
+  {"topic": "Set the default for all documents", "file": "references/desktop/print/preflight/turn-on-or-off-live-preflight/set-the-default-for-all-documents.md", "summary": "Open when looking up Set the default for all documents in InDesign.", "keywords": ["Set the default for all documents"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Replace pdf pages example setup", "file": "references/pdf-services/examples/dotnet/replace-pdf-pages/replace-pdf-pages-setup.md", "summary": "Open when looking up Replace pdf pages example setup in Acrobat.", "keywords": ["Replace pdf pages example setup"]},
+  {"topic": "ReplacePDFPages", "file": "references/pdf-services/examples/dotnet/replace-pdf-pages/Program.cs", "summary": "Open when looking up ReplacePDFPages in Acrobat.", "keywords": ["ReplacePDFPages"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

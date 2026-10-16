@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Adjust data content to fit in a barcode field", "file": "references/desktop/work-with-pdf-forms/insert-barcodes-in-pdfs/customize-barcode-fields/adjust-data-content-to-fit-in-a-barcode-field.md", "summary": "Open when looking up Adjust data content to fit in a barcode field in Acrobat.", "keywords": ["Adjust data content to fit in a barcode field"]},
+  {"topic": "Include more data fields in the barcode", "file": "references/desktop/work-with-pdf-forms/insert-barcodes-in-pdfs/customize-barcode-fields/include-more-data-fields-in-the-barcode.md", "summary": "Open when looking up Include more data fields in the barcode in Acrobat.", "keywords": ["Include more data fields in the barcode"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

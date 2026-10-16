@@ -1,0 +1,13 @@
+# FootnoteOption.continuingRuleGapColor
+
+Community declaration reference: InDesign/2023.
+
+Swatch (color, gradient, tint, or mixed ink) used for the stroke gap in the rule above continued footnote text. Restriction: continuing rule type must not be solid.
+
+```typescript
+declare class FootnoteOption extends Preference {
+    continuingRuleGapColor: Swatch | string
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

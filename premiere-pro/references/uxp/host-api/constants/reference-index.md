@@ -1,0 +1,30 @@
+# Premiere Pro — Constants
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AudioChannelType in Premiere Pro. [AudioChannelType](audio-channel-type.md).
+- Open when looking up AudioDisplayFormatType in Premiere Pro. [AudioDisplayFormatType](audio-display-format-type.md).
+- Open when looking up AudioTrackEvent in Premiere Pro. [AudioTrackEvent](audio-track-event.md).
+- Open when looking up ContentType in Premiere Pro. [ContentType](content-type.md).
+- Open when looking up EncoderEvent in Premiere Pro. [EncoderEvent](encoder-event.md).
+- Open when looking up ExportType in Premiere Pro. [ExportType](export-type.md).
+- Open when looking up InterpolationMode in Premiere Pro. [InterpolationMode](interpolation-mode.md).
+- Open when looking up MarkerColor in Premiere Pro. [MarkerColor](marker-color.md).
+- Open when looking up MediaType in Premiere Pro. [MediaType](media-type.md).
+- Open when looking up MetadataType in Premiere Pro. [MetadataType](metadata-type.md).
+- Open when looking up OperationCompleteEvent in Premiere Pro. [OperationCompleteEvent](operation-complete-event.md).
+- Open when looking up OperationCompleteState in Premiere Pro. [OperationCompleteState](operation-complete-state.md).
+- Open when looking up PixelAspectRatio in Premiere Pro. [PixelAspectRatio](pixel-aspect-ratio.md).
+- Open when looking up PreferenceKey in Premiere Pro. [PreferenceKey](preference-key.md).
+- Open when looking up ProjectEvent in Premiere Pro. [ProjectEvent](project-event.md).
+- Open when looking up ProjectItemColorLabel in Premiere Pro. [ProjectItemColorLabel](project-item-color-label.md).
+- Open when looking up PropertyType in Premiere Pro. [PropertyType](property-type.md).
+- Open when looking up ScratchDiskFolder in Premiere Pro. [ScratchDiskFolder](scratch-disk-folder.md).
+- Open when looking up ScratchDiskFolderType in Premiere Pro. [ScratchDiskFolderType](scratch-disk-folder-type.md).
+- Open when looking up SequenceEvent in Premiere Pro. [SequenceEvent](sequence-event.md).
+- Open when looking up SequenceOperation in Premiere Pro. [SequenceOperation](sequence-operation.md).
+- Open when looking up SnapEvent in Premiere Pro. [SnapEvent](snap-event.md).
+- Open when looking up TrackItemType in Premiere Pro. [TrackItemType](track-item-type.md).
+- Open when looking up TransitionPosition in Premiere Pro. [TransitionPosition](transition-position.md).
+- Open when looking up VideoDisplayFormatType in Premiere Pro. [VideoDisplayFormatType](video-display-format-type.md).
+- Open when looking up VideoFieldType in Premiere Pro. [VideoFieldType](video-field-type.md).
+- Open when looking up VideoTrackEvent in Premiere Pro. [VideoTrackEvent](video-track-event.md).

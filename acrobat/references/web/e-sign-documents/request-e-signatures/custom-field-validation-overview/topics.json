@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Diverse field types", "file": "references/web/e-sign-documents/request-e-signatures/custom-field-validation-overview/diverse-field-types.md", "summary": "Open when looking up Diverse field types in Acrobat.", "keywords": ["Diverse field types"]},
+  {"topic": "Tailored data entry", "file": "references/web/e-sign-documents/request-e-signatures/custom-field-validation-overview/tailored-data-entry.md", "summary": "Open when looking up Tailored data entry in Acrobat.", "keywords": ["Tailored data entry"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

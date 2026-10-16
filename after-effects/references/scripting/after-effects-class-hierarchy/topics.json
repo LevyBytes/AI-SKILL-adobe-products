@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Symbol Legend", "file": "references/scripting/after-effects-class-hierarchy/symbol-legend.md", "summary": "Open when looking up Symbol Legend in After Effects.", "keywords": ["Symbol Legend"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Adjust vanishing points", "file": "references/desktop/manage-objects/object-transforms/move-the-perspective-grid-and-adjust-its-vanishing-points/adjust-vanishing-points.md", "summary": "Open when looking up Adjust vanishing points in Illustrator.", "keywords": ["Adjust vanishing points"]},
+  {"topic": "Move the perspective grid", "file": "references/desktop/manage-objects/object-transforms/move-the-perspective-grid-and-adjust-its-vanishing-points/move-the-perspective-grid.md", "summary": "Open when looking up Move the perspective grid in Illustrator.", "keywords": ["Move the perspective grid"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

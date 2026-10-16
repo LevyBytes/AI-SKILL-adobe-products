@@ -1,0 +1,33 @@
+# Illustrator — TextRange
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextRange.changeCaseTo() in Illustrator. [TextRange.changeCaseTo()](change-case-to.md).
+- Open when looking up TextRange.characterAttributes in Illustrator. [TextRange.characterAttributes](character-attributes.md).
+- Open when looking up TextRange.characterOffset in Illustrator. [TextRange.characterOffset](character-offset.md).
+- Open when looking up TextRange.characters in Illustrator. [TextRange.characters](characters.md).
+- Open when looking up TextRange.characterStyles in Illustrator. [TextRange.characterStyles](character-styles.md).
+- Open when looking up TextRange.contents in Illustrator. [TextRange.contents](contents.md).
+- Open when looking up TextRange.deSelect() in Illustrator. [TextRange.deSelect()](de-select.md).
+- Open when looking up TextRange.duplicate() in Illustrator. [TextRange.duplicate()](duplicate.md).
+- Open when looking up TextRange.end in Illustrator. [TextRange.end](end.md).
+- Open when looking up TextRange.getLocalCharOverridesJSON() in Illustrator. [TextRange.getLocalCharOverridesJSON()](get-local-char-overrides-json.md).
+- Open when looking up TextRange.getLocalParaOverridesJSON() in Illustrator. [TextRange.getLocalParaOverridesJSON()](get-local-para-overrides-json.md).
+- Open when looking up TextRange.getParagraphLength() in Illustrator. [TextRange.getParagraphLength()](get-paragraph-length.md).
+- Open when looking up TextRange.getTextRunLength() in Illustrator. [TextRange.getTextRunLength()](get-text-run-length.md).
+- Open when looking up TextRange.insertionPoints in Illustrator. [TextRange.insertionPoints](insertion-points.md).
+- Open when looking up TextRange.kerning in Illustrator. [TextRange.kerning](kerning.md).
+- Open when looking up TextRange.length in Illustrator. [TextRange.length](length.md).
+- Open when looking up TextRange.lines in Illustrator. [TextRange.lines](lines.md).
+- Open when looking up TextRange.move() in Illustrator. [TextRange.move()](move.md).
+- Open when looking up TextRange.paragraphAttributes in Illustrator. [TextRange.paragraphAttributes](paragraph-attributes.md).
+- Open when looking up TextRange.paragraphs in Illustrator. [TextRange.paragraphs](paragraphs.md).
+- Open when looking up TextRange.paragraphStyles in Illustrator. [TextRange.paragraphStyles](paragraph-styles.md).
+- Open when looking up TextRange.parent in Illustrator. [TextRange.parent](parent.md).
+- Open when looking up TextRange.remove() in Illustrator. [TextRange.remove()](remove.md).
+- Open when looking up TextRange.select() in Illustrator. [TextRange.select()](select.md).
+- Open when looking up TextRange.start in Illustrator. [TextRange.start](start.md).
+- Open when looking up TextRange.story in Illustrator. [TextRange.story](story.md).
+- Open when looking up TextRange.textRanges in Illustrator. [TextRange.textRanges](text-ranges.md).
+- Open when looking up TextRange.textSelection in Illustrator. [TextRange.textSelection](text-selection.md).
+- Open when looking up TextRange.typename in Illustrator. [TextRange.typename](typename.md).
+- Open when looking up TextRange.words in Illustrator. [TextRange.words](words.md).

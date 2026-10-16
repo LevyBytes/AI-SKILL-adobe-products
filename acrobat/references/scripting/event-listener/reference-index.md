@@ -1,0 +1,34 @@
+# Acrobat — Event listener
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up afterBlur in Acrobat. [afterBlur](after-blur.md).
+- Open when looking up afterClose in Acrobat. [afterClose](after-close.md).
+- Open when looking up afterDestroy in Acrobat. [afterDestroy](after-destroy.md).
+- Open when looking up afterDone in Acrobat. [afterDone](after-done.md).
+- Open when looking up afterError in Acrobat. [afterError](after-error.md).
+- Open when looking up afterEscape in Acrobat. [afterEscape](after-escape.md).
+- Open when looking up afterEveryEvent in Acrobat. [afterEveryEvent](after-every-event.md).
+- Open when looking up afterFocus in Acrobat. [afterFocus](after-focus.md).
+- Open when looking up afterPause in Acrobat. [afterPause](after-pause.md).
+- Open when looking up afterPlay in Acrobat. [afterPlay](after-play.md).
+- Open when looking up afterReady in Acrobat. [afterReady](after-ready.md).
+- Open when looking up afterScript in Acrobat. [afterScript](after-script.md).
+- Open when looking up afterSeek in Acrobat. [afterSeek](after-seek.md).
+- Open when looking up afterStatus in Acrobat. [afterStatus](after-status.md).
+- Open when looking up afterStop in Acrobat. [afterStop](after-stop.md).
+- Open when looking up EventListener methods in Acrobat. [EventListener methods](event-listener-methods.md).
+- Open when looking up JavaScript APIs — EventListener in Acrobat. [JavaScript APIs — EventListener](java-script-apis-event-listener.md).
+- Open when looking up onBlur in Acrobat. [onBlur](on-blur.md).
+- Open when looking up onClose in Acrobat. [onClose](on-close.md).
+- Open when looking up onDestroy in Acrobat. [onDestroy](on-destroy.md).
+- Open when looking up onDone in Acrobat. [onDone](on-done.md).
+- Open when looking up onError in Acrobat. [onError](on-error.md).
+- Open when looking up onEveryEvent in Acrobat. [onEveryEvent](on-every-event.md).
+- Open when looking up onGetRect in Acrobat. [onGetRect](on-get-rect.md).
+- Open when looking up onPause in Acrobat. [onPause](on-pause.md).
+- Open when looking up onPlay in Acrobat. [onPlay](on-play.md).
+- Open when looking up onReady in Acrobat. [onReady](on-ready.md).
+- Open when looking up onScript in Acrobat. [onScript](on-script.md).
+- Open when looking up onSeek in Acrobat. [onSeek](on-seek.md).
+- Open when looking up onStatus in Acrobat. [onStatus](on-status.md).
+- Open when looking up onStop in Acrobat. [onStop](on-stop.md).

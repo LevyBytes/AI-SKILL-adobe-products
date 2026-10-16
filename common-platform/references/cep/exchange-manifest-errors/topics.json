@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CEP Manifest Notes", "file": "references/cep/exchange-manifest-errors/cep-manifest-notes.md", "summary": "Open when looking up CEP Manifest Notes in Shared Adobe platform.", "keywords": ["CEP Manifest Notes"]},
+  {"topic": "UXP Manifest Notes", "file": "references/cep/exchange-manifest-errors/uxp-manifest-notes.md", "summary": "Open when looking up UXP Manifest Notes in Shared Adobe platform.", "keywords": ["UXP Manifest Notes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

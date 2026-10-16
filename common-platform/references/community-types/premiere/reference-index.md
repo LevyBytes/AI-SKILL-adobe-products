@@ -1,0 +1,49 @@
+# Shared Adobe platform — Premiere
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up $ in Shared Adobe platform. [$](.md).
+- Open when looking up Anywhere in Shared Adobe platform. [Anywhere](anywhere.md).
+- Open when looking up Application in Shared Adobe platform. [Application references](application/reference-index.md).
+- Open when looking up ApplicationEvent in Shared Adobe platform. [ApplicationEvent](application-event.md).
+- Open when looking up BitsPerSampleOption in Shared Adobe platform. [BitsPerSampleOption](bits-per-sample-option.md).
+- Open when looking up Component in Shared Adobe platform. [Component](component.md).
+- Open when looking up ComponentCollection in Shared Adobe platform. [ComponentCollection](component-collection.md).
+- Open when looking up ComponentParam in Shared Adobe platform. [ComponentParam](component-param.md).
+- Open when looking up ComponentParamCollection in Shared Adobe platform. [ComponentParamCollection](component-param-collection.md).
+- Open when looking up Csxs in Shared Adobe platform. [Csxs](csxs.md).
+- Open when looking up CsxsResourceCentral in Shared Adobe platform. [CsxsResourceCentral](csxs-resource-central.md).
+- Open when looking up declare const document: Document in Shared Adobe platform. [declare const document: Document](declare-const-document-document.md).
+- Open when looking up declare const SystemCompatibilityReport: SystemCompatibilityReport in Shared Adobe platform. [declare const SystemCompatibilityReport: SystemCompatibilityReport](system-compatibility-report-declaration.md).
+- Open when looking up Document in Shared Adobe platform. [Document](document.md).
+- Open when looking up Encoder in Shared Adobe platform. [Encoder](encoder.md).
+- Open when looking up EncoderEvent in Shared Adobe platform. [EncoderEvent](encoder-event.md).
+- Open when looking up Marker in Shared Adobe platform. [Marker](marker.md).
+- Open when looking up MarkerCollection in Shared Adobe platform. [MarkerCollection](marker-collection.md).
+- Open when looking up MediaType in Shared Adobe platform. [MediaType](media-type.md).
+- Open when looking up Metadata in Shared Adobe platform. [Metadata](metadata.md).
+- Open when looking up NumericalBool in Shared Adobe platform. [NumericalBool](numerical-bool.md).
+- Open when looking up Project in Shared Adobe platform. [Project references](project/reference-index.md).
+- Open when looking up ProjectCollection in Shared Adobe platform. [ProjectCollection](project-collection.md).
+- Open when looking up ProjectItem in Shared Adobe platform. [ProjectItem references](project-item/reference-index.md).
+- Open when looking up ProjectItemCollection in Shared Adobe platform. [ProjectItemCollection](project-item-collection.md).
+- Open when looking up ProjectItemType in Shared Adobe platform. [ProjectItemType](project-item-type.md).
+- Open when looking up ProjectManager in Shared Adobe platform. [ProjectManager](project-manager.md).
+- Open when looking up ProjectManagerOptions in Shared Adobe platform. [ProjectManagerOptions references](project-manager-options/reference-index.md).
+- Open when looking up PrProduction in Shared Adobe platform. [PrProduction](pr-production.md).
+- Open when looking up RemoteProduction in Shared Adobe platform. [RemoteProduction](remote-production.md).
+- Open when looking up RemoteProductionCollection in Shared Adobe platform. [RemoteProductionCollection](remote-production-collection.md).
+- Open when looking up SampleRateOption in Shared Adobe platform. [SampleRateOption](sample-rate-option.md).
+- Open when looking up ScratchDiskType in Shared Adobe platform. [ScratchDiskType](scratch-disk-type.md).
+- Open when looking up SDKEventType in Shared Adobe platform. [SDKEventType](sdk-event-type.md).
+- Open when looking up Sequence in Shared Adobe platform. [Sequence references](sequence/reference-index.md).
+- Open when looking up SequenceCollection in Shared Adobe platform. [SequenceCollection](sequence-collection.md).
+- Open when looking up SequenceSettings in Shared Adobe platform. [SequenceSettings](sequence-settings.md).
+- Open when looking up SourceMonitor in Shared Adobe platform. [SourceMonitor](source-monitor.md).
+- Open when looking up SystemCompatibilityReport in Shared Adobe platform. [SystemCompatibilityReport](system-compatibility-report.md).
+- Open when looking up Time in Shared Adobe platform. [Time](time.md).
+- Open when looking up TIME_FORMAT in Shared Adobe platform. [TIME_FORMAT](timeformat.md).
+- Open when looking up Track in Shared Adobe platform. [Track](track.md).
+- Open when looking up TrackCollection in Shared Adobe platform. [TrackCollection](track-collection.md).
+- Open when looking up TrackItem in Shared Adobe platform. [TrackItem references](track-item/reference-index.md).
+- Open when looking up TrackItemCollection in Shared Adobe platform. [TrackItemCollection](track-item-collection.md).
+- Open when looking up WorkAreaType in Shared Adobe platform. [WorkAreaType](work-area-type.md).

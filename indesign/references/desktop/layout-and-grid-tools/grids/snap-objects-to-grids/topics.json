@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Allow snapping to the baseline grid", "file": "references/desktop/layout-and-grid-tools/grids/snap-objects-to-grids/allow-snapping-to-the-baseline-grid.md", "summary": "Open when looking up Allow snapping to the baseline grid in InDesign.", "keywords": ["Allow snapping to the baseline grid"]},
+  {"topic": "Allow snapping to the document grid", "file": "references/desktop/layout-and-grid-tools/grids/snap-objects-to-grids/allow-snapping-to-the-document-grid.md", "summary": "Open when looking up Allow snapping to the document grid in InDesign.", "keywords": ["Allow snapping to the document grid"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

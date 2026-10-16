@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Html to pdf from url example setup", "file": "references/pdf-services/examples/python/html-to-pdf-from-url/html-to-pdf-from-url-setup.md", "summary": "Open when looking up Html to pdf from url example setup in Acrobat.", "keywords": ["Html to pdf from url example setup"]},
+  {"topic": "HTMLtoPDFFromURL", "file": "references/pdf-services/examples/python/html-to-pdf-from-url/html-to-pdf-from-url.py", "summary": "Open when looking up HTMLtoPDFFromURL in Acrobat.", "keywords": ["HTMLtoPDFFromURL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

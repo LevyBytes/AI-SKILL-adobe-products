@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Media mapping using Media Management", "file": "references/desktop/manage-media/media-mapping-using-media-management.md", "summary": "Open when looking up Media mapping using Media Management in Premiere Pro.", "keywords": ["Media mapping using Media Management"]},
+  {"topic": "Relink media in Premiere with Team Projects", "file": "references/desktop/manage-media/relink-media-in-premiere-with-team-projects.md", "summary": "Open when looking up Relink media in Premiere with Team Projects in Premiere Pro.", "keywords": ["Relink media in Premiere with Team Projects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

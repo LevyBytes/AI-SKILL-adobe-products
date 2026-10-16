@@ -1,0 +1,28 @@
+# Shared Adobe platform — SaveDocumentType
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up SaveDocumentType declaration in Shared Adobe platform. [SaveDocumentType declaration](declaration.md).
+- Open when looking up SaveDocumentType.ALIASPIX in Shared Adobe platform. [SaveDocumentType.ALIASPIX](aliaspix.md).
+- Open when looking up SaveDocumentType.BMP in Shared Adobe platform. [SaveDocumentType.BMP](bmp.md).
+- Open when looking up SaveDocumentType.COMPUSERVEGIF in Shared Adobe platform. [SaveDocumentType.COMPUSERVEGIF](compuservegif.md).
+- Open when looking up SaveDocumentType.ELECTRICIMAGE in Shared Adobe platform. [SaveDocumentType.ELECTRICIMAGE](electricimage.md).
+- Open when looking up SaveDocumentType.JPEG in Shared Adobe platform. [SaveDocumentType.JPEG](jpeg.md).
+- Open when looking up SaveDocumentType.PCX in Shared Adobe platform. [SaveDocumentType.PCX](pcx.md).
+- Open when looking up SaveDocumentType.PHOTOSHOP in Shared Adobe platform. [SaveDocumentType.PHOTOSHOP](photoshop.md).
+- Open when looking up SaveDocumentType.PHOTOSHOPDCS_1 in Shared Adobe platform. [SaveDocumentType.PHOTOSHOPDCS_1](photoshopdcs1.md).
+- Open when looking up SaveDocumentType.PHOTOSHOPDCS_2 in Shared Adobe platform. [SaveDocumentType.PHOTOSHOPDCS_2](photoshopdcs2.md).
+- Open when looking up SaveDocumentType.PHOTOSHOPEPS in Shared Adobe platform. [SaveDocumentType.PHOTOSHOPEPS](photoshopeps.md).
+- Open when looking up SaveDocumentType.PHOTOSHOPPDF in Shared Adobe platform. [SaveDocumentType.PHOTOSHOPPDF](photoshoppdf.md).
+- Open when looking up SaveDocumentType.PICTFileFORMAT in Shared Adobe platform. [SaveDocumentType.PICTFileFORMAT](pict-file-format.md).
+- Open when looking up SaveDocumentType.PICTRESOURCEFORMAT in Shared Adobe platform. [SaveDocumentType.PICTRESOURCEFORMAT](pictresourceformat.md).
+- Open when looking up SaveDocumentType.PIXAR in Shared Adobe platform. [SaveDocumentType.PIXAR](pixar.md).
+- Open when looking up SaveDocumentType.PNG in Shared Adobe platform. [SaveDocumentType.PNG](png.md).
+- Open when looking up SaveDocumentType.PORTABLEBITMAP in Shared Adobe platform. [SaveDocumentType.PORTABLEBITMAP](portablebitmap.md).
+- Open when looking up SaveDocumentType.RAW in Shared Adobe platform. [SaveDocumentType.RAW](raw.md).
+- Open when looking up SaveDocumentType.SCITEXCT in Shared Adobe platform. [SaveDocumentType.SCITEXCT](scitexct.md).
+- Open when looking up SaveDocumentType.SGIRGB in Shared Adobe platform. [SaveDocumentType.SGIRGB](sgirgb.md).
+- Open when looking up SaveDocumentType.SOFTIMAGE in Shared Adobe platform. [SaveDocumentType.SOFTIMAGE](softimage.md).
+- Open when looking up SaveDocumentType.TARGA in Shared Adobe platform. [SaveDocumentType.TARGA](targa.md).
+- Open when looking up SaveDocumentType.TIFF in Shared Adobe platform. [SaveDocumentType.TIFF](tiff.md).
+- Open when looking up SaveDocumentType.WAVEFRONTRLA in Shared Adobe platform. [SaveDocumentType.WAVEFRONTRLA](wavefrontrla.md).
+- Open when looking up SaveDocumentType.WIRELESSBITMAP in Shared Adobe platform. [SaveDocumentType.WIRELESSBITMAP](wirelessbitmap.md).

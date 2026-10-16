@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Creating new metadata", "file": "references/uxp/xmp/creating-new-metadata.md", "summary": "Open when looking up Creating new metadata in Photoshop.", "keywords": ["Creating new metadata"]},
+  {"topic": "Modifying existing metadata", "file": "references/uxp/xmp/modifying-existing-metadata.md", "summary": "Open when looking up Modifying existing metadata in Photoshop.", "keywords": ["Modifying existing metadata"]},
+  {"topic": "require('uxp').xmp", "file": "references/uxp/xmp/require-uxp-xmp.md", "summary": "Open when looking up require('uxp').xmp in Photoshop.", "keywords": ["require('uxp').xmp"]},
+  {"topic": "Using the XMP scripting API", "file": "references/uxp/xmp/using-the-xmp-scripting-api.md", "summary": "Open when looking up Using the XMP scripting API in Photoshop.", "keywords": ["Using the XMP scripting API"]},
+  {"topic": "Using XMPFile for batch processing", "file": "references/uxp/xmp/using-xmp-file-for-batch-processing.md", "summary": "Open when looking up Using XMPFile for batch processing in Photoshop.", "keywords": ["Using XMPFile for batch processing"]},
+  {"topic": "Xmp date time references", "file": "references/uxp/xmp/xmp-date-time/reference-index.md", "summary": "Open when looking up Xmp date time in Photoshop.", "keywords": ["Xmp date time references"]},
+  {"topic": "Xmp meta references", "file": "references/uxp/xmp/xmp-meta/reference-index.md", "summary": "Open when looking up Xmp meta in Photoshop.", "keywords": ["Xmp meta references"]},
+  {"topic": "Xmp utils references", "file": "references/uxp/xmp/xmp-utils/reference-index.md", "summary": "Open when looking up Xmp utils in Photoshop.", "keywords": ["Xmp utils references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

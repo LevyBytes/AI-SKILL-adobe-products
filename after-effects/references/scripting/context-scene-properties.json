@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Camera references", "file": "references/scripting/camera/reference-index.md", "summary": "Open when looking up Camera in After Effects.", "keywords": ["Camera references"]},
+  {"topic": "Cinema 4 d references", "file": "references/scripting/cinema-4-d/reference-index.md", "summary": "Open when looking up Cinema 4 d in After Effects.", "keywords": ["Cinema 4 d references"]},
+  {"topic": "Falloff references", "file": "references/scripting/falloff/reference-index.md", "summary": "Open when looking up Falloff in After Effects.", "keywords": ["Falloff references"]},
+  {"topic": "Iris references", "file": "references/scripting/iris/reference-index.md", "summary": "Open when looking up Iris in After Effects.", "keywords": ["Iris references"]},
+  {"topic": "Light references", "file": "references/scripting/light/reference-index.md", "summary": "Open when looking up Light in After Effects.", "keywords": ["Light references"]},
+  {"topic": "Materials references", "file": "references/scripting/materials/reference-index.md", "summary": "Open when looking up Materials in After Effects.", "keywords": ["Materials references"]},
+  {"topic": "Plane references", "file": "references/scripting/plane/reference-index.md", "summary": "Open when looking up Plane in After Effects.", "keywords": ["Plane references"]},
+  {"topic": "Shadow references", "file": "references/scripting/shadow/reference-index.md", "summary": "Open when looking up Shadow in After Effects.", "keywords": ["Shadow references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

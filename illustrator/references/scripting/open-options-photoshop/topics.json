@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "OpenOptionsPhotoshop.layerComp", "file": "references/scripting/open-options-photoshop/layer-comp.md", "summary": "Open when looking up OpenOptionsPhotoshop.layerComp in Illustrator.", "keywords": ["OpenOptionsPhotoshop.layerComp"]},
+  {"topic": "OpenOptionsPhotoshop.preserveHiddenLayers", "file": "references/scripting/open-options-photoshop/preserve-hidden-layers.md", "summary": "Open when looking up OpenOptionsPhotoshop.preserveHiddenLayers in Illustrator.", "keywords": ["OpenOptionsPhotoshop.preserveHiddenLayers"]},
+  {"topic": "OpenOptionsPhotoshop.preserveImageMaps", "file": "references/scripting/open-options-photoshop/preserve-image-maps.md", "summary": "Open when looking up OpenOptionsPhotoshop.preserveImageMaps in Illustrator.", "keywords": ["OpenOptionsPhotoshop.preserveImageMaps"]},
+  {"topic": "OpenOptionsPhotoshop.preserveLayers", "file": "references/scripting/open-options-photoshop/preserve-layers.md", "summary": "Open when looking up OpenOptionsPhotoshop.preserveLayers in Illustrator.", "keywords": ["OpenOptionsPhotoshop.preserveLayers"]},
+  {"topic": "OpenOptionsPhotoshop.preserveSlices", "file": "references/scripting/open-options-photoshop/preserve-slices.md", "summary": "Open when looking up OpenOptionsPhotoshop.preserveSlices in Illustrator.", "keywords": ["OpenOptionsPhotoshop.preserveSlices"]},
+  {"topic": "OpenOptionsPhotoshop.typename", "file": "references/scripting/open-options-photoshop/typename.md", "summary": "Open when looking up OpenOptionsPhotoshop.typename in Illustrator.", "keywords": ["OpenOptionsPhotoshop.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

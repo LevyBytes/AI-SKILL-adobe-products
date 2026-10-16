@@ -1,0 +1,42 @@
+# Illustrator — LegacyTextItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up LegacyTextItem.artworkKnockout in Illustrator. [LegacyTextItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up LegacyTextItem.blendingMode in Illustrator. [LegacyTextItem.blendingMode](blending-mode.md).
+- Open when looking up LegacyTextItem.controlBounds in Illustrator. [LegacyTextItem.controlBounds](control-bounds.md).
+- Open when looking up LegacyTextItem.converted in Illustrator. [LegacyTextItem.converted](converted.md).
+- Open when looking up LegacyTextItem.convertToNative() in Illustrator. [LegacyTextItem.convertToNative()](convert-to-native.md).
+- Open when looking up LegacyTextItem.duplicate() in Illustrator. [LegacyTextItem.duplicate()](duplicate.md).
+- Open when looking up LegacyTextItem.editable in Illustrator. [LegacyTextItem.editable](editable.md).
+- Open when looking up LegacyTextItem.geometricBounds in Illustrator. [LegacyTextItem.geometricBounds](geometric-bounds.md).
+- Open when looking up LegacyTextItem.height in Illustrator. [LegacyTextItem.height](height.md).
+- Open when looking up LegacyTextItem.hidden in Illustrator. [LegacyTextItem.hidden](hidden.md).
+- Open when looking up LegacyTextItem.isIsolated in Illustrator. [LegacyTextItem.isIsolated](is-isolated.md).
+- Open when looking up LegacyTextItem.layer in Illustrator. [LegacyTextItem.layer](layer.md).
+- Open when looking up LegacyTextItem.left in Illustrator. [LegacyTextItem.left](left.md).
+- Open when looking up LegacyTextItem.locked in Illustrator. [LegacyTextItem.locked](locked.md).
+- Open when looking up LegacyTextItem.move() in Illustrator. [LegacyTextItem.move()](move.md).
+- Open when looking up LegacyTextItem.name in Illustrator. [LegacyTextItem.name](name.md).
+- Open when looking up LegacyTextItem.note in Illustrator. [LegacyTextItem.note](note.md).
+- Open when looking up LegacyTextItem.opacity in Illustrator. [LegacyTextItem.opacity](opacity.md).
+- Open when looking up LegacyTextItem.parent in Illustrator. [LegacyTextItem.parent](parent.md).
+- Open when looking up LegacyTextItem.position in Illustrator. [LegacyTextItem.position](position.md).
+- Open when looking up LegacyTextItem.remove() in Illustrator. [LegacyTextItem.remove()](remove.md).
+- Open when looking up LegacyTextItem.resize() in Illustrator. [LegacyTextItem.resize()](resize.md).
+- Open when looking up LegacyTextItem.rotate() in Illustrator. [LegacyTextItem.rotate()](rotate.md).
+- Open when looking up LegacyTextItem.selected in Illustrator. [LegacyTextItem.selected](selected.md).
+- Open when looking up LegacyTextItem.sliced in Illustrator. [LegacyTextItem.sliced](sliced.md).
+- Open when looking up LegacyTextItem.tags in Illustrator. [LegacyTextItem.tags](tags.md).
+- Open when looking up LegacyTextItem.top in Illustrator. [LegacyTextItem.top](top.md).
+- Open when looking up LegacyTextItem.transform() in Illustrator. [LegacyTextItem.transform()](transform.md).
+- Open when looking up LegacyTextItem.translate() in Illustrator. [LegacyTextItem.translate()](translate.md).
+- Open when looking up LegacyTextItem.typename in Illustrator. [LegacyTextItem.typename](typename.md).
+- Open when looking up LegacyTextItem.uRL in Illustrator. [LegacyTextItem.uRL](u-rl.md).
+- Open when looking up LegacyTextItem.visibilityVariable in Illustrator. [LegacyTextItem.visibilityVariable](visibility-variable.md).
+- Open when looking up LegacyTextItem.visibleBounds in Illustrator. [LegacyTextItem.visibleBounds](visible-bounds.md).
+- Open when looking up LegacyTextItem.width in Illustrator. [LegacyTextItem.width](width.md).
+- Open when looking up LegacyTextItem.wrapInside in Illustrator. [LegacyTextItem.wrapInside](wrap-inside.md).
+- Open when looking up LegacyTextItem.wrapOffset in Illustrator. [LegacyTextItem.wrapOffset](wrap-offset.md).
+- Open when looking up LegacyTextItem.wrapped in Illustrator. [LegacyTextItem.wrapped](wrapped.md).
+- Open when looking up LegacyTextItem.zOrder() in Illustrator. [LegacyTextItem.zOrder()](z-order.md).
+- Open when looking up LegacyTextItem.zOrderPosition in Illustrator. [LegacyTextItem.zOrderPosition](z-order-position.md).

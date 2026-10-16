@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Remove an envelope", "file": "references/desktop/manage-objects/object-transforms/edit-the-contents-of-envelopes/remove-an-envelope.md", "summary": "Open when looking up Remove an envelope in Illustrator.", "keywords": ["Remove an envelope"]},
+  {"topic": "Reset an envelope", "file": "references/desktop/manage-objects/object-transforms/edit-the-contents-of-envelopes/reset-an-envelope.md", "summary": "Open when looking up Reset an envelope in Illustrator.", "keywords": ["Reset an envelope"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

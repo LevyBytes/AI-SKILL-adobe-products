@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "GradientStop.color", "file": "references/scripting/gradient-stop/color.md", "summary": "Open when looking up GradientStop.color in Illustrator.", "keywords": ["GradientStop.color"]},
+  {"topic": "GradientStop.midPoint", "file": "references/scripting/gradient-stop/mid-point.md", "summary": "Open when looking up GradientStop.midPoint in Illustrator.", "keywords": ["GradientStop.midPoint"]},
+  {"topic": "GradientStop.opacity", "file": "references/scripting/gradient-stop/opacity.md", "summary": "Open when looking up GradientStop.opacity in Illustrator.", "keywords": ["GradientStop.opacity"]},
+  {"topic": "GradientStop.parent", "file": "references/scripting/gradient-stop/parent.md", "summary": "Open when looking up GradientStop.parent in Illustrator.", "keywords": ["GradientStop.parent"]},
+  {"topic": "GradientStop.rampPoint", "file": "references/scripting/gradient-stop/ramp-point.md", "summary": "Open when looking up GradientStop.rampPoint in Illustrator.", "keywords": ["GradientStop.rampPoint"]},
+  {"topic": "GradientStop.remove()", "file": "references/scripting/gradient-stop/remove.md", "summary": "Open when looking up GradientStop.remove() in Illustrator.", "keywords": ["GradientStop.remove()"]},
+  {"topic": "GradientStop.typename", "file": "references/scripting/gradient-stop/typename.md", "summary": "Open when looking up GradientStop.typename in Illustrator.", "keywords": ["GradientStop.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

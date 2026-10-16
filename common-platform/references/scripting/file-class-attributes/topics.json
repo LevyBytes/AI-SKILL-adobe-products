@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "File Object — File Class Attributes", "file": "references/scripting/file-class-attributes/file-object-file-class-attributes.md", "summary": "Open when looking up File Object — File Class Attributes in Shared Adobe platform.", "keywords": ["File Object — File Class Attributes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

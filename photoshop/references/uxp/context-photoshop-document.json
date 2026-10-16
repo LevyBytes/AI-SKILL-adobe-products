@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Bounds", "file": "references/uxp/bounds.md", "summary": "Open when looking up Bounds in Photoshop.", "keywords": ["Bounds"]},
+  {"topic": "Create Options", "file": "references/uxp/create-options.md", "summary": "Open when looking up Create Options in Photoshop.", "keywords": ["Create Options"]},
+  {"topic": "Dimensions", "file": "references/uxp/dimensions.md", "summary": "Open when looking up Dimensions in Photoshop.", "keywords": ["Dimensions"]},
+  {"topic": "Display units", "file": "references/uxp/display-units.md", "summary": "Open when looking up Display units in Photoshop.", "keywords": ["Display units"]},
+  {"topic": "Document", "file": "references/uxp/document.md", "summary": "Open when looking up Document in Photoshop.", "keywords": ["Document"]},
+  {"topic": "Document references", "file": "references/uxp/document/reference-index.md", "summary": "Open when looking up Document in Photoshop.", "keywords": ["Document references"]},
+  {"topic": "DocumentCreateOptions", "file": "references/uxp/document-create-options.md", "summary": "Open when looking up DocumentCreateOptions in Photoshop.", "keywords": ["DocumentCreateOptions"]},
+  {"topic": "Editing the Photoshop document", "file": "references/uxp/editing-the-photoshop-document.md", "summary": "Open when looking up Editing the Photoshop document in Photoshop.", "keywords": ["Editing the Photoshop document"]},
+  {"topic": "Editing the Photoshop document references", "file": "references/uxp/editing-the-photoshop-document/reference-index.md", "summary": "Open when looking up Editing the Photoshop document in Photoshop.", "keywords": ["Editing the Photoshop document references"]},
+  {"topic": "Position", "file": "references/uxp/position.md", "summary": "Open when looking up Position in Photoshop.", "keywords": ["Position"]},
+  {"topic": "SimpleBounds", "file": "references/uxp/simple-bounds.md", "summary": "Open when looking up SimpleBounds in Photoshop.", "keywords": ["SimpleBounds"]},
+  {"topic": "types/GeneralTypes — Interfaces", "file": "references/uxp/types-general-types-interfaces.md", "summary": "Open when looking up types/GeneralTypes — Interfaces in Photoshop.", "keywords": ["types/GeneralTypes — Interfaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

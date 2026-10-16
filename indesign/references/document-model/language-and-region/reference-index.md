@@ -1,0 +1,42 @@
+# InDesign — LanguageAndRegion
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ALBANIA_ALBANIAN in InDesign. [ALBANIA_ALBANIAN](albaniaalbanian.md).
+- Open when looking up BELARUS_BELARUSIAN in InDesign. [BELARUS_BELARUSIAN](belarusbelarusian.md).
+- Open when looking up BRAZIL_PORTUGUESE in InDesign. [BRAZIL_PORTUGUESE](brazilportuguese.md).
+- Open when looking up BULGARIA_BULGARIAN in InDesign. [BULGARIA_BULGARIAN](bulgariabulgarian.md).
+- Open when looking up CROATIA_CROATIAN in InDesign. [CROATIA_CROATIAN](croatiacroatian.md).
+- Open when looking up CZECH_REPUBLIC_CZECH in InDesign. [CZECH_REPUBLIC_CZECH](czechrepublicczech.md).
+- Open when looking up DENMARK_DANISH in InDesign. [DENMARK_DANISH](denmarkdanish.md).
+- Open when looking up ESTONIA_ESTONIAN in InDesign. [ESTONIA_ESTONIAN](estoniaestonian.md).
+- Open when looking up FINLAND_FINNISH in InDesign. [FINLAND_FINNISH](finlandfinnish.md).
+- Open when looking up FRANCE_FRENCH in InDesign. [FRANCE_FRENCH](francefrench.md).
+- Open when looking up GERMANY_GERMAN in InDesign. [GERMANY_GERMAN](germanygerman.md).
+- Open when looking up GREECE_GREEK in InDesign. [GREECE_GREEK](greecegreek.md).
+- Open when looking up HUNGARY_HUNGARIAN in InDesign. [HUNGARY_HUNGARIAN](hungaryhungarian.md).
+- Open when looking up INDIA_TAMIL in InDesign. [INDIA_TAMIL](indiatamil.md).
+- Open when looking up INDIC in InDesign. [INDIC](indic.md).
+- Open when looking up ISRAEL_HEBREW in InDesign. [ISRAEL_HEBREW](israelhebrew.md).
+- Open when looking up ITALY_ITALIAN in InDesign. [ITALY_ITALIAN](italyitalian.md).
+- Open when looking up JAPAN_JAPANESE in InDesign. [JAPAN_JAPANESE](japanjapanese.md).
+- Open when looking up LATVIA_LATVIAN in InDesign. [LATVIA_LATVIAN](latvialatvian.md).
+- Open when looking up LITUANIA_LITHUANIAN in InDesign. [LITUANIA_LITHUANIAN](lituanialithuanian.md).
+- Open when looking up NETHERLANDS_DUTCH in InDesign. [NETHERLANDS_DUTCH](netherlandsdutch.md).
+- Open when looking up NORWAY_NORWEGIAN in InDesign. [NORWAY_NORWEGIAN](norwaynorwegian.md).
+- Open when looking up POLAND_POLISH in InDesign. [POLAND_POLISH](polandpolish.md).
+- Open when looking up REPUBLIC_OF_KOREA_KOREAN in InDesign. [REPUBLIC_OF_KOREA_KOREAN](republicofkoreakorean.md).
+- Open when looking up ROMANIA_ROMANIAN in InDesign. [ROMANIA_ROMANIAN](romaniaromanian.md).
+- Open when looking up RUSSIAN_FEDERATION_RUSSIAN in InDesign. [RUSSIAN_FEDERATION_RUSSIAN](russianfederationrussian.md).
+- Open when looking up SIMPLIFIED_CHINESE in InDesign. [SIMPLIFIED_CHINESE](simplifiedchinese.md).
+- Open when looking up SLOVAKIA_SLOVAK in InDesign. [SLOVAKIA_SLOVAK](slovakiaslovak.md).
+- Open when looking up SLOVENIA_SLOVENIAN in InDesign. [SLOVENIA_SLOVENIAN](sloveniaslovenian.md).
+- Open when looking up SPAIN_SPANISH in InDesign. [SPAIN_SPANISH](spainspanish.md).
+- Open when looking up STANDARD_ARABIC in InDesign. [STANDARD_ARABIC](standardarabic.md).
+- Open when looking up SWEDEN_SWEDISH in InDesign. [SWEDEN_SWEDISH](swedenswedish.md).
+- Open when looking up THAILAND_THAI in InDesign. [THAILAND_THAI](thailandthai.md).
+- Open when looking up TRADITIONAL_CHINESE in InDesign. [TRADITIONAL_CHINESE](traditionalchinese.md).
+- Open when looking up TURKEY_TURKISH in InDesign. [TURKEY_TURKISH](turkeyturkish.md).
+- Open when looking up UKRAINE_UKRAINIAN in InDesign. [UKRAINE_UKRAINIAN](ukraineukrainian.md).
+- Open when looking up UNITED_KINGDOM_ENGLISH in InDesign. [UNITED_KINGDOM_ENGLISH](unitedkingdomenglish.md).
+- Open when looking up UNITED_STATES_ENGLISH in InDesign. [UNITED_STATES_ENGLISH](unitedstatesenglish.md).
+- Open when looking up VIETNAM_VIETNAMESE in InDesign. [VIETNAM_VIETNAMESE](vietnamvietnamese.md).

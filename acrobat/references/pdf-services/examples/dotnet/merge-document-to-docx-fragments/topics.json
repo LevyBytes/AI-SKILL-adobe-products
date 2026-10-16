@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Merge document to docx fragments example setup", "file": "references/pdf-services/examples/dotnet/merge-document-to-docx-fragments/merge-document-to-docx-fragments-setup.md", "summary": "Open when looking up Merge document to docx fragments example setup in Acrobat.", "keywords": ["Merge document to docx fragments example setup"]},
+  {"topic": "MergeDocumentToDocxFragments", "file": "references/pdf-services/examples/dotnet/merge-document-to-docx-fragments/Program.cs", "summary": "Open when looking up MergeDocumentToDocxFragments in Acrobat.", "keywords": ["MergeDocumentToDocxFragments"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

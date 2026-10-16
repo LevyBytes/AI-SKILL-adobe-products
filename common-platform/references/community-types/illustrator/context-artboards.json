@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Artboard", "file": "references/community-types/illustrator/artboard.md", "summary": "Open when looking up Artboard in Shared Adobe platform.", "keywords": ["Artboard"]},
+  {"topic": "Artboards", "file": "references/community-types/illustrator/artboards.md", "summary": "Open when looking up Artboards in Shared Adobe platform.", "keywords": ["Artboards"]},
+  {"topic": "ArtClippingOption", "file": "references/community-types/illustrator/art-clipping-option.md", "summary": "Open when looking up ArtClippingOption in Shared Adobe platform.", "keywords": ["ArtClippingOption"]},
+  {"topic": "CoordinateSystem", "file": "references/community-types/illustrator/coordinate-system.md", "summary": "Open when looking up CoordinateSystem in Shared Adobe platform.", "keywords": ["CoordinateSystem"]},
+  {"topic": "CropOptions", "file": "references/community-types/illustrator/crop-options.md", "summary": "Open when looking up CropOptions in Shared Adobe platform.", "keywords": ["CropOptions"]},
+  {"topic": "DocumentArtboardLayout", "file": "references/community-types/illustrator/document-artboard-layout.md", "summary": "Open when looking up DocumentArtboardLayout in Shared Adobe platform.", "keywords": ["DocumentArtboardLayout"]},
+  {"topic": "DocumentLayoutStyle", "file": "references/community-types/illustrator/document-layout-style.md", "summary": "Open when looking up DocumentLayoutStyle in Shared Adobe platform.", "keywords": ["DocumentLayoutStyle"]},
+  {"topic": "Dimensions", "file": "references/community-types/illustrator/dimensions.md", "summary": "Open when looking up Dimensions in Shared Adobe platform.", "keywords": ["Dimensions"]},
+  {"topic": "Rect", "file": "references/community-types/illustrator/rect.md", "summary": "Open when looking up Rect in Shared Adobe platform.", "keywords": ["Rect"]},
+  {"topic": "RulerUnits", "file": "references/community-types/illustrator/ruler-units.md", "summary": "Open when looking up RulerUnits in Shared Adobe platform.", "keywords": ["RulerUnits"]},
+  {"topic": "Transformation", "file": "references/community-types/illustrator/transformation.md", "summary": "Open when looking up Transformation in Shared Adobe platform.", "keywords": ["Transformation"]},
+  {"topic": "Matrix", "file": "references/community-types/illustrator/matrix.md", "summary": "Open when looking up Matrix in Shared Adobe platform.", "keywords": ["Matrix"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

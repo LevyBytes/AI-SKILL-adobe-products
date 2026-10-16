@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "To share the custom model", "file": "references/cloud-services/grant-applications-access-to-your-custom-model-guide/to-share-the-custom-model.md", "summary": "Open when looking up To share the custom model in Firefly.", "keywords": ["To share the custom model"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "1. creative_upsampler_v1 header value rejected", "file": "references/cloud-services/changelog/creativeupsamplerv1-header-value-rejected.md", "summary": "Open when looking up 1. creative_upsampler_v1 header value rejected in Firefly.", "keywords": ["1. creative_upsampler_v1 header value rejected"]},
+  {"topic": "2. Schema and operation identifiers renamed", "file": "references/cloud-services/changelog/schema-and-operation-identifiers-renamed.md", "summary": "Open when looking up 2. Schema and operation identifiers renamed in Firefly.", "keywords": ["2. Schema and operation identifiers renamed"]},
+  {"topic": "Added", "file": "references/cloud-services/changelog/added.md", "summary": "Open when looking up Added in Firefly.", "keywords": ["Added"]},
+  {"topic": "API services update: General availability", "file": "references/cloud-services/changelog/api-services-update-general-availability.md", "summary": "Open when looking up API services update: General availability in Firefly.", "keywords": ["API services update: General availability"]},
+  {"topic": "April 29, 2025", "file": "references/cloud-services/changelog/april-29-2025.md", "summary": "Open when looking up April 29, 2025 in Firefly.", "keywords": ["April 29, 2025"]},
+  {"topic": "Deprecation timeline", "file": "references/cloud-services/changelog/deprecation-timeline.md", "summary": "Open when looking up Deprecation timeline in Firefly.", "keywords": ["Deprecation timeline"]},
+  {"topic": "June 19, 2025", "file": "references/cloud-services/changelog/june-19-2025.md", "summary": "Open when looking up June 19, 2025 in Firefly.", "keywords": ["June 19, 2025"]},
+  {"topic": "Known Issues and Limitations", "file": "references/cloud-services/changelog/known-issues-and-limitations.md", "summary": "Open when looking up Known Issues and Limitations in Firefly.", "keywords": ["Known Issues and Limitations"]},
+  {"topic": "March 11, 2025", "file": "references/cloud-services/changelog/march-11-2025.md", "summary": "Open when looking up March 11, 2025 in Firefly.", "keywords": ["March 11, 2025"]},
+  {"topic": "March 24, 2026", "file": "references/cloud-services/changelog/march-24-2026.md", "summary": "Open when looking up March 24, 2026 in Firefly.", "keywords": ["March 24, 2026"]},
+  {"topic": "March 25, 2026", "file": "references/cloud-services/changelog/march-25-2026.md", "summary": "Open when looking up March 25, 2026 in Firefly.", "keywords": ["March 25, 2026"]},
+  {"topic": "October 26, 2023", "file": "references/cloud-services/changelog/october-26-2023.md", "summary": "Open when looking up October 26, 2023 in Firefly.", "keywords": ["October 26, 2023"]},
+  {"topic": "October 3, 2025", "file": "references/cloud-services/changelog/october-3-2025.md", "summary": "Open when looking up October 3, 2025 in Firefly.", "keywords": ["October 3, 2025"]},
+  {"topic": "September 10, 2025", "file": "references/cloud-services/changelog/september-10-2025.md", "summary": "Open when looking up September 10, 2025 in Firefly.", "keywords": ["September 10, 2025"]},
+  {"topic": "Summary of all spec changes", "file": "references/cloud-services/changelog/summary-of-all-spec-changes.md", "summary": "Open when looking up Summary of all spec changes in Firefly.", "keywords": ["Summary of all spec changes"]},
+  {"topic": "Upscale API: beta naming corrected for GA (Breaking Change)", "file": "references/cloud-services/changelog/upscale-api-beta-naming-corrected-for-ga-breaking-change.md", "summary": "Open when looking up Upscale API: beta naming corrected for GA (Breaking Change) in Firefly.", "keywords": ["Upscale API: beta naming corrected for GA (Breaking Change)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

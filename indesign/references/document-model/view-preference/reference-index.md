@@ -1,0 +1,28 @@
+# InDesign — View preference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up cursorKeyIncrement in InDesign. [cursorKeyIncrement](cursor-key-increment.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up guideSnaptoZone in InDesign. [guideSnaptoZone](guide-snapto-zone.md).
+- Open when looking up horizontalCustomPoints in InDesign. [horizontalCustomPoints](horizontal-custom-points.md).
+- Open when looking up horizontalMeasurementUnits in InDesign. [horizontalMeasurementUnits](horizontal-measurement-units.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up pointsPerInch in InDesign. [pointsPerInch](points-per-inch.md).
+- Open when looking up printDialogMeasurementUnits in InDesign. [printDialogMeasurementUnits](print-dialog-measurement-units.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up rulerOrigin in InDesign. [rulerOrigin](ruler-origin.md).
+- Open when looking up showFrameEdges in InDesign. [showFrameEdges](show-frame-edges.md).
+- Open when looking up showNotes in InDesign. [showNotes](show-notes.md).
+- Open when looking up showRulers in InDesign. [showRulers](show-rulers.md).
+- Open when looking up strokeMeasurementUnits in InDesign. [strokeMeasurementUnits](stroke-measurement-units.md).
+- Open when looking up textSizeMeasurementUnits in InDesign. [textSizeMeasurementUnits](text-size-measurement-units.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up typographicMeasurementUnits in InDesign. [typographicMeasurementUnits](typographic-measurement-units.md).
+- Open when looking up verticalCustomPoints in InDesign. [verticalCustomPoints](vertical-custom-points.md).
+- Open when looking up verticalMeasurementUnits in InDesign. [verticalMeasurementUnits](vertical-measurement-units.md).

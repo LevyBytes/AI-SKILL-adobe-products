@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "assignments", "file": "references/document-model/document/assignments.md", "summary": "Open when looking up assignments in InDesign.", "keywords": ["assignments"]},
+  {"topic": "checkIn", "file": "references/document-model/document/check-in.md", "summary": "Open when looking up checkIn in InDesign.", "keywords": ["checkIn"]},
+  {"topic": "cloudPath", "file": "references/document-model/document/cloud-path.md", "summary": "Open when looking up cloudPath in InDesign.", "keywords": ["cloudPath"]},
+  {"topic": "exportForCloudLibrary", "file": "references/document-model/document/export-for-cloud-library.md", "summary": "Open when looking up exportForCloudLibrary in InDesign.", "keywords": ["exportForCloudLibrary"]},
+  {"topic": "isCloudDocument", "file": "references/document-model/document/is-cloud-document.md", "summary": "Open when looking up isCloudDocument in InDesign.", "keywords": ["isCloudDocument"]},
+  {"topic": "placeCloudAsset", "file": "references/document-model/document/place-cloud-asset.md", "summary": "Open when looking up placeCloudAsset in InDesign.", "keywords": ["placeCloudAsset"]},
+  {"topic": "revertToProject", "file": "references/document-model/document/revert-to-project.md", "summary": "Open when looking up revertToProject in InDesign.", "keywords": ["revertToProject"]},
+  {"topic": "saveACopyCloud", "file": "references/document-model/document/save-a-copy-cloud.md", "summary": "Open when looking up saveACopyCloud in InDesign.", "keywords": ["saveACopyCloud"]},
+  {"topic": "saveAsCloud", "file": "references/document-model/document/save-as-cloud.md", "summary": "Open when looking up saveAsCloud in InDesign.", "keywords": ["saveAsCloud"]},
+  {"topic": "synchronizeWithVersionCue", "file": "references/document-model/document/synchronize-with-version-cue.md", "summary": "Open when looking up synchronizeWithVersionCue in InDesign.", "keywords": ["synchronizeWithVersionCue"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

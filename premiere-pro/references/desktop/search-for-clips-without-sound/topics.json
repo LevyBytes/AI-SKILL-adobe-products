@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Diagnose missing playback sound in Adobe Premiere on Windows or macOS.", "file": "references/desktop/search-for-clips-without-sound/missing-playback-sound-diagnosis.md", "summary": "Open when looking up Diagnose missing playback sound in Adobe Premiere on Windows or macOS. in Premiere Pro.", "keywords": ["Diagnose missing playback sound in Adobe Premiere on Windows or macOS."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

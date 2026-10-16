@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "RasterItems.getByName()", "file": "references/scripting/raster-items/get-by-name.md", "summary": "Open when looking up RasterItems.getByName() in Illustrator.", "keywords": ["RasterItems.getByName()"]},
+  {"topic": "RasterItems.index()", "file": "references/scripting/raster-items/index.md", "summary": "Open when looking up RasterItems.index() in Illustrator.", "keywords": ["RasterItems.index()"]},
+  {"topic": "RasterItems.length", "file": "references/scripting/raster-items/length.md", "summary": "Open when looking up RasterItems.length in Illustrator.", "keywords": ["RasterItems.length"]},
+  {"topic": "RasterItems.parent", "file": "references/scripting/raster-items/parent.md", "summary": "Open when looking up RasterItems.parent in Illustrator.", "keywords": ["RasterItems.parent"]},
+  {"topic": "RasterItems.removeAll()", "file": "references/scripting/raster-items/remove-all.md", "summary": "Open when looking up RasterItems.removeAll() in Illustrator.", "keywords": ["RasterItems.removeAll()"]},
+  {"topic": "RasterItems.typename", "file": "references/scripting/raster-items/typename.md", "summary": "Open when looking up RasterItems.typename in Illustrator.", "keywords": ["RasterItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

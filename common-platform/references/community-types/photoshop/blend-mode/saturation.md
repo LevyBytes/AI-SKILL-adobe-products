@@ -1,0 +1,13 @@
+# BlendMode.SATURATION
+
+Community declaration reference: Photoshop/2015.5.
+
+Produces a result color using luminance and hue from the base color and saturation from the blend color. Painting in an area with no (0) saturation, meaning gray, has no effect.
+
+```typescript
+declare enum BlendMode {
+    SATURATION = 21
+}
+```
+
+Source: [Photoshop/2015.5/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/Photoshop/2015.5/index.d.ts).

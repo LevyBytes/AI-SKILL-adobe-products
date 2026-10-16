@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.baselineFrameGridOptions", "file": "references/community-types/indesign/document/baseline-frame-grid-options.md", "summary": "Open when looking up Document.baselineFrameGridOptions in Shared Adobe platform.", "keywords": ["Document.baselineFrameGridOptions"]},
+  {"topic": "Document.cjkGridPreferences", "file": "references/community-types/indesign/document/cjk-grid-preferences.md", "summary": "Open when looking up Document.cjkGridPreferences in Shared Adobe platform.", "keywords": ["Document.cjkGridPreferences"]},
+  {"topic": "Document.gridPreferences", "file": "references/community-types/indesign/document/grid-preferences.md", "summary": "Open when looking up Document.gridPreferences in Shared Adobe platform.", "keywords": ["Document.gridPreferences"]},
+  {"topic": "Document.guidePreferences", "file": "references/community-types/indesign/document/guide-preferences.md", "summary": "Open when looking up Document.guidePreferences in Shared Adobe platform.", "keywords": ["Document.guidePreferences"]},
+  {"topic": "Document.guides", "file": "references/community-types/indesign/document/guides.md", "summary": "Open when looking up Document.guides in Shared Adobe platform.", "keywords": ["Document.guides"]},
+  {"topic": "Document.layoutGridData", "file": "references/community-types/indesign/document/layout-grid-data.md", "summary": "Open when looking up Document.layoutGridData in Shared Adobe platform.", "keywords": ["Document.layoutGridData"]},
+  {"topic": "Document.marginPreferences", "file": "references/community-types/indesign/document/margin-preferences.md", "summary": "Open when looking up Document.marginPreferences in Shared Adobe platform.", "keywords": ["Document.marginPreferences"]},
+  {"topic": "Document.namedGrids", "file": "references/community-types/indesign/document/named-grids.md", "summary": "Open when looking up Document.namedGrids in Shared Adobe platform.", "keywords": ["Document.namedGrids"]},
+  {"topic": "Document.pasteboardPreferences", "file": "references/community-types/indesign/document/pasteboard-preferences.md", "summary": "Open when looking up Document.pasteboardPreferences in Shared Adobe platform.", "keywords": ["Document.pasteboardPreferences"]},
+  {"topic": "Document.storyGridData", "file": "references/community-types/indesign/document/story-grid-data.md", "summary": "Open when looking up Document.storyGridData in Shared Adobe platform.", "keywords": ["Document.storyGridData"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

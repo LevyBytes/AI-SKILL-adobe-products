@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "GraphItems.getByName()", "file": "references/scripting/graph-items/get-by-name.md", "summary": "Open when looking up GraphItems.getByName() in Illustrator.", "keywords": ["GraphItems.getByName()"]},
+  {"topic": "GraphItems.index()", "file": "references/scripting/graph-items/index.md", "summary": "Open when looking up GraphItems.index() in Illustrator.", "keywords": ["GraphItems.index()"]},
+  {"topic": "GraphItems.length", "file": "references/scripting/graph-items/length.md", "summary": "Open when looking up GraphItems.length in Illustrator.", "keywords": ["GraphItems.length"]},
+  {"topic": "GraphItems.parent", "file": "references/scripting/graph-items/parent.md", "summary": "Open when looking up GraphItems.parent in Illustrator.", "keywords": ["GraphItems.parent"]},
+  {"topic": "GraphItems.removeAll()", "file": "references/scripting/graph-items/remove-all.md", "summary": "Open when looking up GraphItems.removeAll() in Illustrator.", "keywords": ["GraphItems.removeAll()"]},
+  {"topic": "GraphItems.typename", "file": "references/scripting/graph-items/typename.md", "summary": "Open when looking up GraphItems.typename in Illustrator.", "keywords": ["GraphItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

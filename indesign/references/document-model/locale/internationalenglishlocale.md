@@ -1,0 +1,7 @@
+# INTERNATIONAL_ENGLISH_LOCALE
+
+> _Read Only_
+>
+> Number `INTERNATIONAL_ENGLISH_LOCALE` = 1279477097
+>
+> International English.

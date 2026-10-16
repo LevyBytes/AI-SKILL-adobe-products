@@ -1,0 +1,31 @@
+# Shared Adobe platform — HeaderTypes
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up HeaderTypes declaration in Shared Adobe platform. [HeaderTypes declaration](declaration.md).
+- Open when looking up HeaderTypes.BASIC_LATIN in Shared Adobe platform. [HeaderTypes.BASIC_LATIN](basiclatin.md).
+- Open when looking up HeaderTypes.BELARUSIAN in Shared Adobe platform. [HeaderTypes.BELARUSIAN](belarusian.md).
+- Open when looking up HeaderTypes.BULGARIAN in Shared Adobe platform. [HeaderTypes.BULGARIAN](bulgarian.md).
+- Open when looking up HeaderTypes.CHINESE_PINYIN in Shared Adobe platform. [HeaderTypes.CHINESE_PINYIN](chinesepinyin.md).
+- Open when looking up HeaderTypes.CHINESE_STROKE_COUNT in Shared Adobe platform. [HeaderTypes.CHINESE_STROKE_COUNT](chinesestrokecount.md).
+- Open when looking up HeaderTypes.CROATIAN in Shared Adobe platform. [HeaderTypes.CROATIAN](croatian.md).
+- Open when looking up HeaderTypes.CZECH in Shared Adobe platform. [HeaderTypes.CZECH](czech.md).
+- Open when looking up HeaderTypes.DANISH_NORWEGIAN in Shared Adobe platform. [HeaderTypes.DANISH_NORWEGIAN](danishnorwegian.md).
+- Open when looking up HeaderTypes.ESTONIAN in Shared Adobe platform. [HeaderTypes.ESTONIAN](estonian.md).
+- Open when looking up HeaderTypes.FINNISH_SWEDISH in Shared Adobe platform. [HeaderTypes.FINNISH_SWEDISH](finnishswedish.md).
+- Open when looking up HeaderTypes.HIRAGANA_ALL in Shared Adobe platform. [HeaderTypes.HIRAGANA_ALL](hiraganaall.md).
+- Open when looking up HeaderTypes.HIRAGANA_CONSONANTS_ONLY in Shared Adobe platform. [HeaderTypes.HIRAGANA_CONSONANTS_ONLY](hiraganaconsonantsonly.md).
+- Open when looking up HeaderTypes.HUNGARIAN in Shared Adobe platform. [HeaderTypes.HUNGARIAN](hungarian.md).
+- Open when looking up HeaderTypes.KATAKANA_ALL in Shared Adobe platform. [HeaderTypes.KATAKANA_ALL](katakanaall.md).
+- Open when looking up HeaderTypes.KATAKANA_CONSONANTS_ONLY in Shared Adobe platform. [HeaderTypes.KATAKANA_CONSONANTS_ONLY](katakanaconsonantsonly.md).
+- Open when looking up HeaderTypes.KOREAN_CONSONANT in Shared Adobe platform. [HeaderTypes.KOREAN_CONSONANT](koreanconsonant.md).
+- Open when looking up HeaderTypes.KOREAN_CONSONANT_PLUS_VOWEL in Shared Adobe platform. [HeaderTypes.KOREAN_CONSONANT_PLUS_VOWEL](koreanconsonantplusvowel.md).
+- Open when looking up HeaderTypes.LATVIAN in Shared Adobe platform. [HeaderTypes.LATVIAN](latvian.md).
+- Open when looking up HeaderTypes.LITHUANIAN in Shared Adobe platform. [HeaderTypes.LITHUANIAN](lithuanian.md).
+- Open when looking up HeaderTypes.POLISH in Shared Adobe platform. [HeaderTypes.POLISH](polish.md).
+- Open when looking up HeaderTypes.ROMANIAN in Shared Adobe platform. [HeaderTypes.ROMANIAN](romanian.md).
+- Open when looking up HeaderTypes.RUSSIAN in Shared Adobe platform. [HeaderTypes.RUSSIAN](russian.md).
+- Open when looking up HeaderTypes.SLOVAK in Shared Adobe platform. [HeaderTypes.SLOVAK](slovak.md).
+- Open when looking up HeaderTypes.SLOVENIAN in Shared Adobe platform. [HeaderTypes.SLOVENIAN](slovenian.md).
+- Open when looking up HeaderTypes.SPANISH in Shared Adobe platform. [HeaderTypes.SPANISH](spanish.md).
+- Open when looking up HeaderTypes.TURKISH in Shared Adobe platform. [HeaderTypes.TURKISH](turkish.md).
+- Open when looking up HeaderTypes.UKRAINIAN in Shared Adobe platform. [HeaderTypes.UKRAINIAN](ukrainian.md).

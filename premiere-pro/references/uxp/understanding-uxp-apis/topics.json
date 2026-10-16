@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "1. In the UXP Developer Tool", "file": "references/uxp/understanding-uxp-apis/in-the-uxp-developer-tool.md", "summary": "Open when looking up 1. In the UXP Developer Tool in Premiere Pro.", "keywords": ["1. In the UXP Developer Tool"]},
+  {"topic": "2. Programmatically in your plugin", "file": "references/uxp/understanding-uxp-apis/programmatically-in-your-plugin.md", "summary": "Open when looking up 2. Programmatically in your plugin in Premiere Pro.", "keywords": ["2. Programmatically in your plugin"]},
+  {"topic": "3. In the documentation", "file": "references/uxp/understanding-uxp-apis/in-the-documentation.md", "summary": "Open when looking up 3. In the documentation in Premiere Pro.", "keywords": ["3. In the documentation"]},
+  {"topic": "Accessing UXP APIs", "file": "references/uxp/understanding-uxp-apis/accessing-uxp-apis.md", "summary": "Open when looking up Accessing UXP APIs in Premiere Pro.", "keywords": ["Accessing UXP APIs"]},
+  {"topic": "API Versioning and Compatibility", "file": "references/uxp/understanding-uxp-apis/api-versioning-and-compatibility.md", "summary": "Open when looking up API Versioning and Compatibility in Premiere Pro.", "keywords": ["API Versioning and Compatibility"]},
+  {"topic": "Checking Versions", "file": "references/uxp/understanding-uxp-apis/checking-versions.md", "summary": "Open when looking up Checking Versions in Premiere Pro.", "keywords": ["Checking Versions"]},
+  {"topic": "Host Application and UXP", "file": "references/uxp/understanding-uxp-apis/host-application-and-uxp.md", "summary": "Open when looking up Host Application and UXP in Premiere Pro.", "keywords": ["Host Application and UXP"]},
+  {"topic": "Next Steps", "file": "references/uxp/understanding-uxp-apis/next-steps.md", "summary": "Open when looking up Next Steps in Premiere Pro.", "keywords": ["Next Steps"]},
+  {"topic": "Practical Example", "file": "references/uxp/understanding-uxp-apis/practical-example.md", "summary": "Open when looking up Practical Example in Premiere Pro.", "keywords": ["Practical Example"]},
+  {"topic": "Premiere APIs", "file": "references/uxp/understanding-uxp-apis/premiere-apis.md", "summary": "Open when looking up Premiere APIs in Premiere Pro.", "keywords": ["Premiere APIs"]},
+  {"topic": "Unified JavaScript Engine", "file": "references/uxp/understanding-uxp-apis/unified-java-script-engine.md", "summary": "Open when looking up Unified JavaScript Engine in Premiere Pro.", "keywords": ["Unified JavaScript Engine"]},
+  {"topic": "UXP Core APIs", "file": "references/uxp/understanding-uxp-apis/uxp-core-apis.md", "summary": "Open when looking up UXP Core APIs in Premiere Pro.", "keywords": ["UXP Core APIs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,76 @@
+# Firefly — Cloud service APIs
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up [Admins only] Get Credentials in Firefly. [Admins only Get Credentials](admins-only-get-credentials.md).
+- Open when looking up [Admins only] Get Credentials in Firefly. [Admins only Get Credentials references](admins-only-get-credentials/reference-index.md).
+- Open when looking up Adobe Developer Console in Firefly. [Adobe Developer Console](adobe-developer-console.md).
+- Open when looking up Adobe Developer Console in Firefly. [Adobe Developer Console references](adobe-developer-console/reference-index.md).
+- Open when looking up Art movement style presets in Firefly. [Art movement style presets](art-movement-presets.md).
+- Open when looking up Artistic technique style presets in Firefly. [Artistic technique style presets](artistic-technique-presets.md).
+- Open when looking up Authentication in Firefly. [Authentication](authentication.md).
+- Open when looking up Authentication in Firefly. [Authentication references](authentication/reference-index.md).
+- Open when looking up Background preservation in Firefly. [Background preservation references](background-preservation/reference-index.md).
+- Open when looking up Best Practices for Adobe Firefly API in Firefly. [Best Practices for Adobe Firefly API](best-practices-for-adobe-firefly-api.md).
+- Open when looking up Best Practices for Adobe Firefly API in Firefly. [Best Practices for Adobe Firefly API references](best-practices-for-adobe-firefly-api/reference-index.md).
+- Open when looking up Canceling a job in Firefly. [Canceling a job references](canceling-a-job/reference-index.md).
+- Open when looking up Changelog in Firefly. [Changelog references](changelog/reference-index.md).
+- Open when looking up Color and tone style presets in Firefly. [Color and tone style presets](color-tone-presets.md).
+- Open when looking up Composite Operations APIs in Firefly. [Composite Operations APIs](composite-operations-apis.md).
+- Open when looking up Composite Operations APIs in Firefly. [Composite Operations APIs references](composite-operations-apis/reference-index.md).
+- Open when looking up Compositing feature guide in Firefly. [Compositing feature guide](compositing-feature-guide.md).
+- Open when looking up Compositing feature guide in Firefly. [Compositing feature guide references](compositing-feature-guide/reference-index.md).
+- Open when looking up Concepts in action in Firefly. [Concepts in action](concepts-in-action.md).
+- Open when looking up Custom model image generation in Firefly. [Custom model image generation references](custom-model-image-generation/reference-index.md).
+- Open when looking up Custom Models in Firefly. [Custom Models](custom-models.md).
+- Open when looking up Custom Models API in Firefly. [Custom Models API](custom-models-api.md).
+- Open when looking up Custom Models API in Firefly. [Custom Models API references](custom-models-api/reference-index.md).
+- Open when looking up Custom Models in Firefly. [Custom Models references](custom-models/reference-index.md).
+- Open when looking up Digital illustration style presets in Firefly. [Digital illustration style presets](digital-illustration-presets.md).
+- Open when looking up Discover in Firefly. [Discover](discover.md).
+- Open when looking up Firefly API overview in Firefly. [Firefly API overview](firefly-api-overview.md).
+- Open when looking up Firefly API Troubleshooting Guide in Firefly. [Firefly API Troubleshooting Guide](firefly-api-troubleshooting-guide.md).
+- Open when looking up Firefly API Troubleshooting Guide in Firefly. [Firefly API Troubleshooting Guide references](firefly-api-troubleshooting-guide/reference-index.md).
+- Open when looking up Firefly API usage notes in Firefly. [Firefly API usage notes](firefly-api-usage-notes.md).
+- Open when looking up Firefly API usage notes in Firefly. [Firefly API usage notes references](firefly-api-usage-notes/reference-index.md).
+- Open when looking up Firefly Expand Image API Tutorial in Firefly. [Firefly Expand Image API Tutorial](firefly-expand-image-api-tutorial.md).
+- Open when looking up Firefly Expand Image API Tutorial in Firefly. [Firefly Expand Image API Tutorial references](firefly-expand-image-api-tutorial/reference-index.md).
+- Open when looking up Firefly Fill Image API Tutorial in Firefly. [Firefly Fill Image API Tutorial](firefly-fill-image-api-tutorial.md).
+- Open when looking up Firefly Fill Image API Tutorial in Firefly. [Firefly Fill Image API Tutorial references](firefly-fill-image-api-tutorial/reference-index.md).
+- Open when looking up Firefly Generate Image API Tutorial in Firefly. [Firefly Generate Image API Tutorial](firefly-generate-image-api-tutorial.md).
+- Open when looking up Firefly Generate Image API Tutorial in Firefly. [Firefly Generate Image API Tutorial references](firefly-generate-image-api-tutorial/reference-index.md).
+- Open when looking up Generate object composite in Firefly. [Generate object composite references](generate-object-composite/reference-index.md).
+- Open when looking up Grant Applications Access to Your Custom Model Guide in Firefly. [Grant Applications Access to Your Custom Model Guide](grant-applications-access-to-your-custom-model-guide.md).
+- Open when looking up Grant Applications Access to Your Custom Model Guide in Firefly. [Grant Applications Access to Your Custom Model Guide references](grant-applications-access-to-your-custom-model-guide/reference-index.md).
+- Open when looking up Image generation quickstart in Firefly. [Image generation quickstart references](image-generation-quickstart/reference-index.md).
+- Open when looking up Image Upload in Firefly. [Image Upload](image-upload.md).
+- Open when looking up Image Upload in Firefly. [Image Upload references](image-upload/reference-index.md).
+- Open when looking up Lighting and exposure style presets in Firefly. [Lighting and exposure style presets](lighting-exposure-presets.md).
+- Open when looking up Masking in Firefly. [Masking](masking.md).
+- Open when looking up Masking in Firefly. [Masking references](masking/reference-index.md).
+- Open when looking up Material and pattern style presets in Firefly. [Material and pattern style presets](material-pattern-presets.md).
+- Open when looking up Migrating to the Image5 Model in Firefly. [Migrating to the Image5 Model](migrating-to-the-image5-model.md).
+- Open when looking up Migrating to the Image5 Model in Firefly. [Migrating to the Image5 Model references](migrating-to-the-image5-model/reference-index.md).
+- Open when looking up Mood and aesthetic style presets in Firefly. [Mood and aesthetic style presets](mood-aesthetic-presets.md).
+- Open when looking up Photographic composition style presets in Firefly. [Photographic composition style presets](photographic-composition-presets.md).
+- Open when looking up Placement in Firefly. [Placement](placement.md).
+- Open when looking up Placement in Firefly. [Placement references](placement/reference-index.md).
+- Open when looking up Precise composite in Firefly. [Precise composite references](precise-composite/reference-index.md).
+- Open when looking up Structure Reference Images in Firefly. [Structure Reference Images](structure-reference-images.md).
+- Open when looking up Structure Reference Images in Firefly. [Structure Reference Images references](structure-reference-images/reference-index.md).
+- Open when looking up Style Presets in Firefly. [Style Presets](style-presets.md).
+- Open when looking up Style presets and graphic rendering in Firefly. [Style presets and graphic rendering](style-presets-examples.md).
+- Open when looking up Style Reference Images in Firefly. [Style Reference Images](style-reference-images.md).
+- Open when looking up Style Reference Images in Firefly. [Style Reference Images references](style-reference-images/reference-index.md).
+- Open when looking up Understanding Firefly API Seeds in Firefly. [Understanding Firefly API Seeds](understanding-firefly-api-seeds.md).
+- Open when looking up Understanding Firefly API Seeds in Firefly. [Understanding Firefly API Seeds references](understanding-firefly-api-seeds/reference-index.md).
+- Open when looking up Understanding style presets in Firefly. [Understanding style presets](understanding-style-presets.md).
+- Open when looking up Upscale API in Firefly. [Upscale API](upscale-api.md).
+- Open when looking up Upscale API in Firefly. [Upscale API references](upscale-api/reference-index.md).
+- Open when looking up Upscale source and version conditions in Firefly. [Upscale source and version conditions](upscale-source-version-conditions.md).
+- Open when looking up Using the Asynchronous Adobe Firefly APIs in Firefly. [Using the Asynchronous Adobe Firefly APIs](using-the-asynchronous-adobe-firefly-apis.md).
+- Open when looking up Using the Asynchronous Adobe Firefly APIs in Firefly. [Using the Asynchronous Adobe Firefly APIs references](using-the-asynchronous-adobe-firefly-apis/reference-index.md).
+- Open when looking up Using the Firefly Upscale Image API in Firefly. [Using the Firefly Upscale Image API](using-the-firefly-upscale-image-api.md).
+- Open when looking up Using the Firefly Upscale Image API in Firefly. [Using the Firefly Upscale Image API references](using-the-firefly-upscale-image-api/reference-index.md).
+- Open when looking up Using the Generate Image API with Image5 in Firefly. [Using the Generate Image API with Image5](using-the-generate-image-api-with-image5.md).
+- Open when looking up Using the Generate Image API with Image5 in Firefly. [Using the Generate Image API with Image5 references](using-the-generate-image-api-with-image5/reference-index.md).
+- Open when looking up Visual effect style presets in Firefly. [Visual effect style presets](visual-effect-presets.md).

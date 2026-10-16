@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "changecase", "file": "references/document-model/line/changecase.md", "summary": "Open when looking up changecase in InDesign.", "keywords": ["changecase"]},
+  {"topic": "clearOverrides", "file": "references/document-model/line/clear-overrides.md", "summary": "Open when looking up clearOverrides in InDesign.", "keywords": ["clearOverrides"]},
+  {"topic": "contents", "file": "references/document-model/line/contents.md", "summary": "Open when looking up contents in InDesign.", "keywords": ["contents"]},
+  {"topic": "convertToNote", "file": "references/document-model/line/convert-to-note.md", "summary": "Open when looking up convertToNote in InDesign.", "keywords": ["convertToNote"]},
+  {"topic": "convertToTable", "file": "references/document-model/line/convert-to-table.md", "summary": "Open when looking up convertToTable in InDesign.", "keywords": ["convertToTable"]},
+  {"topic": "hiddenTexts", "file": "references/document-model/line/hidden-texts.md", "summary": "Open when looking up hiddenTexts in InDesign.", "keywords": ["hiddenTexts"]},
+  {"topic": "length", "file": "references/document-model/line/length.md", "summary": "Open when looking up length in InDesign.", "keywords": ["length"]},
+  {"topic": "recompose", "file": "references/document-model/line/recompose.md", "summary": "Open when looking up recompose in InDesign.", "keywords": ["recompose"]},
+  {"topic": "showText", "file": "references/document-model/line/show-text.md", "summary": "Open when looking up showText in InDesign.", "keywords": ["showText"]},
+  {"topic": "textHasOverrides", "file": "references/document-model/line/text-has-overrides.md", "summary": "Open when looking up textHasOverrides in InDesign.", "keywords": ["textHasOverrides"]},
+  {"topic": "textVariableInstances", "file": "references/document-model/line/text-variable-instances.md", "summary": "Open when looking up textVariableInstances in InDesign.", "keywords": ["textVariableInstances"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

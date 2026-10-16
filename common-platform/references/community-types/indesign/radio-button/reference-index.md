@@ -1,0 +1,46 @@
+# Shared Adobe platform — RadioButton
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up RadioButton declaration in Shared Adobe platform. [RadioButton declaration](declaration.md).
+- Open when looking up RadioButton.behaviors in Shared Adobe platform. [RadioButton.behaviors](behaviors.md).
+- Open when looking up RadioButton.bringForward in Shared Adobe platform. [RadioButton.bringForward](bring-forward.md).
+- Open when looking up RadioButton.bringToFront in Shared Adobe platform. [RadioButton.bringToFront](bring-to-front.md).
+- Open when looking up RadioButton.checkedByDefault in Shared Adobe platform. [RadioButton.checkedByDefault](checked-by-default.md).
+- Open when looking up RadioButton.clearFormBehaviors in Shared Adobe platform. [RadioButton.clearFormBehaviors](clear-form-behaviors.md).
+- Open when looking up RadioButton.convertToObject in Shared Adobe platform. [RadioButton.convertToObject](convert-to-object.md).
+- Open when looking up RadioButton.epss in Shared Adobe platform. [RadioButton.epss](epss.md).
+- Open when looking up RadioButton.epstexts in Shared Adobe platform. [RadioButton.epstexts](epstexts.md).
+- Open when looking up RadioButton.exportValue in Shared Adobe platform. [RadioButton.exportValue](export-value.md).
+- Open when looking up RadioButton.gotoAnchorBehaviors in Shared Adobe platform. [RadioButton.gotoAnchorBehaviors](goto-anchor-behaviors.md).
+- Open when looking up RadioButton.gotoFirstPageBehaviors in Shared Adobe platform. [RadioButton.gotoFirstPageBehaviors](goto-first-page-behaviors.md).
+- Open when looking up RadioButton.gotoLastPageBehaviors in Shared Adobe platform. [RadioButton.gotoLastPageBehaviors](goto-last-page-behaviors.md).
+- Open when looking up RadioButton.gotoNextPageBehaviors in Shared Adobe platform. [RadioButton.gotoNextPageBehaviors](goto-next-page-behaviors.md).
+- Open when looking up RadioButton.gotoNextViewBehaviors in Shared Adobe platform. [RadioButton.gotoNextViewBehaviors](goto-next-view-behaviors.md).
+- Open when looking up RadioButton.gotoPreviousPageBehaviors in Shared Adobe platform. [RadioButton.gotoPreviousPageBehaviors](goto-previous-page-behaviors.md).
+- Open when looking up RadioButton.gotoPreviousViewBehaviors in Shared Adobe platform. [RadioButton.gotoPreviousViewBehaviors](goto-previous-view-behaviors.md).
+- Open when looking up RadioButton.gotoURLBehaviors in Shared Adobe platform. [RadioButton.gotoURLBehaviors](goto-url-behaviors.md).
+- Open when looking up RadioButton.graphicLines in Shared Adobe platform. [RadioButton.graphicLines](graphic-lines.md).
+- Open when looking up RadioButton.groups in Shared Adobe platform. [RadioButton.groups](groups.md).
+- Open when looking up RadioButton.hiddenUntilTriggered in Shared Adobe platform. [RadioButton.hiddenUntilTriggered](hidden-until-triggered.md).
+- Open when looking up RadioButton.images in Shared Adobe platform. [RadioButton.images](images.md).
+- Open when looking up RadioButton.movieBehaviors in Shared Adobe platform. [RadioButton.movieBehaviors](movie-behaviors.md).
+- Open when looking up RadioButton.openFileBehaviors in Shared Adobe platform. [RadioButton.openFileBehaviors](open-file-behaviors.md).
+- Open when looking up RadioButton.ovals in Shared Adobe platform. [RadioButton.ovals](ovals.md).
+- Open when looking up RadioButton.pdfs in Shared Adobe platform. [RadioButton.pdfs](pdfs.md).
+- Open when looking up RadioButton.picts in Shared Adobe platform. [RadioButton.picts](picts.md).
+- Open when looking up RadioButton.polygons in Shared Adobe platform. [RadioButton.polygons](polygons.md).
+- Open when looking up RadioButton.printableInPdf in Shared Adobe platform. [RadioButton.printableInPdf](printable-in-pdf.md).
+- Open when looking up RadioButton.printFormBehaviors in Shared Adobe platform. [RadioButton.printFormBehaviors](print-form-behaviors.md).
+- Open when looking up RadioButton.readOnly in Shared Adobe platform. [RadioButton.readOnly](read-only.md).
+- Open when looking up RadioButton.rectangles in Shared Adobe platform. [RadioButton.rectangles](rectangles.md).
+- Open when looking up RadioButton.required in Shared Adobe platform. [RadioButton.required](required.md).
+- Open when looking up RadioButton.sendBackward in Shared Adobe platform. [RadioButton.sendBackward](send-backward.md).
+- Open when looking up RadioButton.sendToBack in Shared Adobe platform. [RadioButton.sendToBack](send-to-back.md).
+- Open when looking up RadioButton.showHideFieldsBehaviors in Shared Adobe platform. [RadioButton.showHideFieldsBehaviors](show-hide-fields-behaviors.md).
+- Open when looking up RadioButton.soundBehaviors in Shared Adobe platform. [RadioButton.soundBehaviors](sound-behaviors.md).
+- Open when looking up RadioButton.splineItems in Shared Adobe platform. [RadioButton.splineItems](spline-items.md).
+- Open when looking up RadioButton.states in Shared Adobe platform. [RadioButton.states](states.md).
+- Open when looking up RadioButton.submitFormBehaviors in Shared Adobe platform. [RadioButton.submitFormBehaviors](submit-form-behaviors.md).
+- Open when looking up RadioButton.textFrames in Shared Adobe platform. [RadioButton.textFrames](text-frames.md).
+- Open when looking up RadioButton.viewZoomBehaviors in Shared Adobe platform. [RadioButton.viewZoomBehaviors](view-zoom-behaviors.md).
+- Open when looking up RadioButton.wmfs in Shared Adobe platform. [RadioButton.wmfs](wmfs.md).

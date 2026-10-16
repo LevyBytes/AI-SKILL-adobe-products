@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "What's new in Adobe Media Encoder", "file": "references/desktop/introduction/what-s-new-in-adobe-media-encoder.md", "summary": "Open when looking up What's new in Adobe Media Encoder in Media Encoder.", "keywords": ["What's new in Adobe Media Encoder"]},
+  {"topic": "What's new in Adobe Media Encoder references", "file": "references/desktop/introduction/what-s-new-in-adobe-media-encoder/reference-index.md", "summary": "Open when looking up What's new in Adobe Media Encoder in Media Encoder.", "keywords": ["What's new in Adobe Media Encoder references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

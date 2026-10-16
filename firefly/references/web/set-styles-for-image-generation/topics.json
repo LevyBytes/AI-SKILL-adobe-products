@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Generate images in different styles", "file": "references/web/set-styles-for-image-generation/generate-images-in-different-styles.md", "summary": "Open when looking up Generate images in different styles in Firefly.", "keywords": ["Generate images in different styles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

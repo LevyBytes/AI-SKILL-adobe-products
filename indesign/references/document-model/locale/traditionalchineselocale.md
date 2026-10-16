@@ -1,0 +1,7 @@
+# TRADITIONAL_CHINESE_LOCALE
+
+> _Read Only_
+>
+> Number `TRADITIONAL_CHINESE_LOCALE` = 1279480951
+>
+> traditional chinese

@@ -1,0 +1,32 @@
+# Illustrator — Add Manage Text
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and manage text in Illustrator. [Add and manage text](add-and-manage-text.md).
+- Open when looking up Add margins to text and adjust the first baseline in Illustrator. [Add margins to text and adjust the first baseline](add-margins-to-text-and-adjust-the-first-baseline.md).
+- Open when looking up Add or remove placeholder text in Illustrator. [Add or remove placeholder text](add-or-remove-placeholder-text.md).
+- Open when looking up Add placeholder text in Illustrator. [Add placeholder text](add-placeholder-text.md).
+- Open when looking up Add rows and columns to text in Illustrator. [Add rows and columns to text](add-rows-and-columns-to-text.md).
+- Open when looking up Add text in Illustrator with Type, Area Type, and Touch Type tools in Illustrator. [Add text in Illustrator with Type, Area Type, and Touch Type tools](type-area-type-and-touch-type-tools.md).
+- Open when looking up Add text to vector artwork in Illustrator. [Add text to vector artwork](add-text-to-vector-artwork.md).
+- Open when looking up Add text with the Type tool in Illustrator. [Add text with the Type tool](add-text-with-the-type-tool.md).
+- Open when looking up Adjust characters using the Touch Type tool in Illustrator. [Adjust characters using the Touch Type tool](adjust-characters-using-the-touch-type-tool.md).
+- Open when looking up Create text threads between objects in Illustrator. [Create text threads between objects](create-text-threads-between-objects.md).
+- Open when looking up Delete empty type objects from the artwork in Illustrator. [Delete empty type objects from the artwork](delete-empty-type-objects-from-the-artwork.md).
+- Open when looking up Edit and format text in Illustrator. [Edit and format text](edit-and-format-text.md).
+- Open when looking up Enter text at a point in Illustrator. [Enter text at a point](enter-text-at-a-point.md).
+- Open when looking up Enter text in an area in Illustrator. [Enter text in an area](enter-text-in-an-area.md).
+- Open when looking up Enter text on a path in Illustrator. [Enter text on a path](enter-text-on-a-path.md).
+- Open when looking up Fill shapes with text using the Area Type tool in Illustrator. [Fill shapes with text using the Area Type tool](fill-shapes-with-text-using-the-area-type-tool.md).
+- Open when looking up Remove default placeholder text in Illustrator. [Remove default placeholder text](remove-default-placeholder-text.md).
+- Open when looking up Remove or break text threads between objects in Illustrator. [Remove or break text threads between objects](remove-or-break-text-threads-between-objects.md).
+- Open when looking up Remove placeholder text in Illustrator. [Remove placeholder text](remove-placeholder-text.md).
+- Open when looking up Resize the text area in Illustrator. [Resize the text area](resize-the-text-area.md).
+- Open when looking up Resize using the Direct Selection tool in Illustrator. [Resize using the Direct Selection tool](resize-using-the-direct-selection-tool.md).
+- Open when looking up Resize using the Selection tool in Illustrator. [Resize using the Selection tool](resize-using-the-selection-tool.md).
+- Open when looking up Thread any text area in Illustrator. [Thread any text area](thread-any-text-area.md).
+- Open when looking up Thread text to an object in Illustrator. [Thread text to an object](thread-text-to-an-object.md).
+- Open when looking up Unwrap text around an object in Illustrator. [Unwrap text around an object](unwrap-text-around-an-object.md).
+- Open when looking up Use special characters and glyphs in Illustrator. [Use special characters and glyphs](use-special-characters-and-glyphs.md).
+- Open when looking up Work with fonts and scripts in Illustrator. [Work with fonts and scripts](work-with-fonts-and-scripts.md).
+- Open when looking up Wrap or unwrap text around objects in Illustrator. [Wrap or unwrap text around objects](wrap-or-unwrap-text-around-objects.md).
+- Open when looking up Wrap text around an object in Illustrator. [Wrap text around an object](wrap-text-around-an-object.md).

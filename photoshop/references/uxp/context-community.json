@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Photoshop UXP community", "file": "references/uxp/photoshop-uxp-community.md", "summary": "Open when looking up Photoshop UXP community in Photoshop.", "keywords": ["Photoshop UXP community"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

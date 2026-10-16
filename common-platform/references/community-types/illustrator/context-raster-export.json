@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "ExportOptionsGIF", "file": "references/community-types/illustrator/export-options-gif.md", "summary": "Open when looking up ExportOptionsGIF in Shared Adobe platform.", "keywords": ["ExportOptionsGIF"]},
+  {"topic": "ExportOptionsJPEG", "file": "references/community-types/illustrator/export-options-jpeg.md", "summary": "Open when looking up ExportOptionsJPEG in Shared Adobe platform.", "keywords": ["ExportOptionsJPEG"]},
+  {"topic": "ExportOptionsPhotoshop", "file": "references/community-types/illustrator/export-options-photoshop.md", "summary": "Open when looking up ExportOptionsPhotoshop in Shared Adobe platform.", "keywords": ["ExportOptionsPhotoshop"]},
+  {"topic": "ExportOptionsPNG24", "file": "references/community-types/illustrator/export-options-png24.md", "summary": "Open when looking up ExportOptionsPNG24 in Shared Adobe platform.", "keywords": ["ExportOptionsPNG24"]},
+  {"topic": "ExportOptionsPNG8", "file": "references/community-types/illustrator/export-options-png8.md", "summary": "Open when looking up ExportOptionsPNG8 in Shared Adobe platform.", "keywords": ["ExportOptionsPNG8"]},
+  {"topic": "ExportOptionsTIFF", "file": "references/community-types/illustrator/export-options-tiff.md", "summary": "Open when looking up ExportOptionsTIFF in Shared Adobe platform.", "keywords": ["ExportOptionsTIFF"]},
+  {"topic": "ExportType", "file": "references/community-types/illustrator/export-type.md", "summary": "Open when looking up ExportType in Shared Adobe platform.", "keywords": ["ExportType"]},
+  {"topic": "CompressionQuality references", "file": "references/community-types/illustrator/compression-quality/reference-index.md", "summary": "Open when looking up CompressionQuality in Shared Adobe platform.", "keywords": ["CompressionQuality references"]},
+  {"topic": "DownsampleMethod", "file": "references/community-types/illustrator/downsample-method.md", "summary": "Open when looking up DownsampleMethod in Shared Adobe platform.", "keywords": ["DownsampleMethod"]},
+  {"topic": "MonochromeCompression", "file": "references/community-types/illustrator/monochrome-compression.md", "summary": "Open when looking up MonochromeCompression in Shared Adobe platform.", "keywords": ["MonochromeCompression"]},
+  {"topic": "PostScriptImageCompressionType", "file": "references/community-types/illustrator/post-script-image-compression-type.md", "summary": "Open when looking up PostScriptImageCompressionType in Shared Adobe platform.", "keywords": ["PostScriptImageCompressionType"]},
+  {"topic": "TIFFByteOrder", "file": "references/community-types/illustrator/tiff-byte-order.md", "summary": "Open when looking up TIFFByteOrder in Shared Adobe platform.", "keywords": ["TIFFByteOrder"]},
+  {"topic": "PhotoshopCompatibility", "file": "references/community-types/illustrator/photoshop-compatibility.md", "summary": "Open when looking up PhotoshopCompatibility in Shared Adobe platform.", "keywords": ["PhotoshopCompatibility"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

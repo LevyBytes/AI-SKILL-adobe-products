@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "1. Declare Multiple Entrypoints", "file": "references/uxp/add-multiple-panels/declare-multiple-entrypoints.md", "summary": "Open when looking up 1. Declare Multiple Entrypoints in Premiere Pro.", "keywords": ["1. Declare Multiple Entrypoints"]},
+  {"topic": "1. Shared HTML Context", "file": "references/uxp/add-multiple-panels/shared-html-context.md", "summary": "Open when looking up 1. Shared HTML Context in Premiere Pro.", "keywords": ["1. Shared HTML Context"]},
+  {"topic": "2. Dynamic Content Appending", "file": "references/uxp/add-multiple-panels/dynamic-content-appending.md", "summary": "Open when looking up 2. Dynamic Content Appending in Premiere Pro.", "keywords": ["2. Dynamic Content Appending"]},
+  {"topic": "2. Structure Your HTML", "file": "references/uxp/add-multiple-panels/structure-your-html.md", "summary": "Open when looking up 2. Structure Your HTML in Premiere Pro.", "keywords": ["2. Structure Your HTML"]},
+  {"topic": "3. Implement Lifecycle Hooks", "file": "references/uxp/add-multiple-panels/implement-lifecycle-hooks.md", "summary": "Open when looking up 3. Implement Lifecycle Hooks in Premiere Pro.", "keywords": ["3. Implement Lifecycle Hooks"]},
+  {"topic": "3. Programmatic Panel Control", "file": "references/uxp/add-multiple-panels/programmatic-panel-control.md", "summary": "Open when looking up 3. Programmatic Panel Control in Premiere Pro.", "keywords": ["3. Programmatic Panel Control"]},
+  {"topic": "4. Inter-Panel Communication", "file": "references/uxp/add-multiple-panels/inter-panel-communication.md", "summary": "Open when looking up 4. Inter-Panel Communication in Premiere Pro.", "keywords": ["4. Inter-Panel Communication"]},
+  {"topic": "How It Works", "file": "references/uxp/add-multiple-panels/how-it-works.md", "summary": "Open when looking up How It Works in Premiere Pro.", "keywords": ["How It Works"]},
+  {"topic": "Implementation", "file": "references/uxp/add-multiple-panels/implementation.md", "summary": "Open when looking up Implementation in Premiere Pro.", "keywords": ["Implementation"]},
+  {"topic": "index.html", "file": "references/uxp/add-multiple-panels/index-html.md", "summary": "Open when looking up index.html in Premiere Pro.", "keywords": ["index.html"]},
+  {"topic": "Key Concepts", "file": "references/uxp/add-multiple-panels/key-concepts.md", "summary": "Open when looking up Key Concepts in Premiere Pro.", "keywords": ["Key Concepts"]},
+  {"topic": "main.js", "file": "references/uxp/add-multiple-panels/main-js.md", "summary": "Open when looking up main.js in Premiere Pro.", "keywords": ["main.js"]},
+  {"topic": "second-panel.html", "file": "references/uxp/add-multiple-panels/second-panel-html.md", "summary": "Open when looking up second-panel.html in Premiere Pro.", "keywords": ["second-panel.html"]},
+  {"topic": "Summary", "file": "references/uxp/add-multiple-panels/summary.md", "summary": "Open when looking up Summary in Premiere Pro.", "keywords": ["Summary"]},
+  {"topic": "Use multiple HTML files", "file": "references/uxp/add-multiple-panels/use-multiple-html-files.md", "summary": "Open when looking up Use multiple HTML files in Premiere Pro.", "keywords": ["Use multiple HTML files"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

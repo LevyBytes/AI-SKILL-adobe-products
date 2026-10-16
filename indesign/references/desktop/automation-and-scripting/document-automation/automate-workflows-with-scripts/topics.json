@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Available sample scripts in InDesign", "file": "references/desktop/automation-and-scripting/document-automation/automate-workflows-with-scripts/available-sample-scripts-in-in-design.md", "summary": "Open when looking up Available sample scripts in InDesign in InDesign.", "keywords": ["Available sample scripts in InDesign"]},
+  {"topic": "Community-contributed scripts", "file": "references/desktop/automation-and-scripting/document-automation/automate-workflows-with-scripts/community-contributed-scripts.md", "summary": "Open when looking up Community-contributed scripts in InDesign.", "keywords": ["Community-contributed scripts"]},
+  {"topic": "Script Label panel", "file": "references/desktop/automation-and-scripting/document-automation/automate-workflows-with-scripts/script-label-panel.md", "summary": "Open when looking up Script Label panel in InDesign.", "keywords": ["Script Label panel"]},
+  {"topic": "Scripts panel", "file": "references/desktop/automation-and-scripting/document-automation/automate-workflows-with-scripts/scripts-panel.md", "summary": "Open when looking up Scripts panel in InDesign.", "keywords": ["Scripts panel"]},
+  {"topic": "UXP plugin development", "file": "references/desktop/automation-and-scripting/document-automation/automate-workflows-with-scripts/uxp-plugin-development.md", "summary": "Open when looking up UXP plugin development in InDesign.", "keywords": ["UXP plugin development"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

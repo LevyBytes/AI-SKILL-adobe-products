@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Arguments", "file": "references/uxp/arguments.md", "summary": "Open when looking up Arguments in Photoshop.", "keywords": ["Arguments"]},
+  {"topic": "Arguments references", "file": "references/uxp/arguments/reference-index.md", "summary": "Open when looking up Arguments in Photoshop.", "keywords": ["Arguments references"]},
+  {"topic": "Automatic document closing", "file": "references/uxp/automatic-document-closing.md", "summary": "Open when looking up Automatic document closing in Photoshop.", "keywords": ["Automatic document closing"]},
+  {"topic": "Core Modules Options", "file": "references/uxp/core-modules-options.md", "summary": "Open when looking up Core Modules Options in Photoshop.", "keywords": ["Core Modules Options"]},
+  {"topic": "ExecuteAsModalOptions", "file": "references/uxp/execute-as-modal-options.md", "summary": "Open when looking up ExecuteAsModalOptions in Photoshop.", "keywords": ["ExecuteAsModalOptions"]},
+  {"topic": "ExecutionContext", "file": "references/uxp/execution-context.md", "summary": "Open when looking up ExecutionContext in Photoshop.", "keywords": ["ExecutionContext"]},
+  {"topic": "Modal execution with executeAsModal", "file": "references/uxp/executeasmodal.md", "summary": "Open when looking up Modal execution with executeAsModal in Photoshop.", "keywords": ["Modal execution with executeAsModal"]},
+  {"topic": "History state suspension", "file": "references/uxp/history-state-suspension.md", "summary": "Open when looking up History state suspension in Photoshop.", "keywords": ["History state suspension"]},
+  {"topic": "History state suspension references", "file": "references/uxp/history-state-suspension/reference-index.md", "summary": "Open when looking up History state suspension in Photoshop.", "keywords": ["History state suspension references"]},
+  {"topic": "HistoryStateInfo", "file": "references/uxp/history-state-info.md", "summary": "Open when looking up HistoryStateInfo in Photoshop.", "keywords": ["HistoryStateInfo"]},
+  {"topic": "HistorySuspension", "file": "references/uxp/history-suspension.md", "summary": "Open when looking up HistorySuspension in Photoshop.", "keywords": ["HistorySuspension"]},
+  {"topic": "Interactive Mode", "file": "references/uxp/interactive-mode.md", "summary": "Open when looking up Interactive Mode in Photoshop.", "keywords": ["Interactive Mode"]},
+  {"topic": "Known Issues and Workarounds — Dialog modal state", "file": "references/uxp/known-issues-and-workarounds-dialog-modal-state.md", "summary": "Open when looking up Known Issues and Workarounds — Dialog modal state in Photoshop.", "keywords": ["Known Issues and Workarounds — Dialog modal state"]},
+  {"topic": "Known Issues and Workarounds — Dialog modal state references", "file": "references/uxp/known-issues-and-workarounds-dialog-modal-state/reference-index.md", "summary": "Open when looking up Known Issues and Workarounds — Dialog modal state in Photoshop.", "keywords": ["Known Issues and Workarounds — Dialog modal state references"]},
+  {"topic": "photoshopCore", "file": "references/uxp/photoshop-core.md", "summary": "Open when looking up photoshopCore in Photoshop.", "keywords": ["photoshopCore"]},
+  {"topic": "photoshopCore references", "file": "references/uxp/photoshop-core/reference-index.md", "summary": "Open when looking up photoshopCore in Photoshop.", "keywords": ["photoshopCore references"]},
+  {"topic": "Progress bar", "file": "references/uxp/progress-bar.md", "summary": "Open when looking up Progress bar in Photoshop.", "keywords": ["Progress bar"]},
+  {"topic": "Progress bar references", "file": "references/uxp/progress-bar/reference-index.md", "summary": "Open when looking up Progress bar in Photoshop.", "keywords": ["Progress bar references"]},
+  {"topic": "ResumeHistorySuspensionOptions", "file": "references/uxp/resume-history-suspension-options.md", "summary": "Open when looking up ResumeHistorySuspensionOptions in Photoshop.", "keywords": ["ResumeHistorySuspensionOptions"]},
+  {"topic": "User cancellation", "file": "references/uxp/user-cancellation.md", "summary": "Open when looking up User cancellation in Photoshop.", "keywords": ["User cancellation"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Defining entry points for direct access — Library termination", "file": "references/scripting/library-termination/defining-entry-points-for-direct-access-library-termination.md", "summary": "Open when looking up Defining entry points for direct access — Library termination in Shared Adobe platform.", "keywords": ["Defining entry points for direct access — Library termination"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

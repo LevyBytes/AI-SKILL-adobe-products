@@ -1,0 +1,7 @@
+# parent
+
+> _Read Only_
+>
+> Mixed **parent**
+>
+> Parent object for the CellStyleGroup, either a Document, Application or CellStyleGroup.

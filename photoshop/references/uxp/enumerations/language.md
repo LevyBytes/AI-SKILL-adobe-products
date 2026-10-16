@@ -1,0 +1,67 @@
+# Language
+
+24.1
+
+Text language setting. See [CharacterStyle.language](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/d3cf17a4cf92132513faf8f8ad6f143f518ac9d6/src/pages/ps-reference/classes/characterstyle.md#language)
+
+| Name | Description |
+| --- | --- |
+| ARABIC | - |
+| BANGLAINDIA | - |
+| BRAZILLIANPORTUGUESE | - |
+| BULGARIAN | - |
+| BURMESE | - |
+| CANADIANFRENCH | - |
+| CATALAN | - |
+| CHINESE | - |
+| CROATIAN | - |
+| CZECH | - |
+| DANISH | - |
+| DUTCH | - |
+| ENGLISHCANADA | - |
+| ENGLISHUK | - |
+| ENGLISHUSA | - |
+| ESTONIAN | - |
+| FINNISH | - |
+| FRENCH | - |
+| GERMAN | - |
+| GERMAN1996 | - |
+| GREEK | - |
+| GUJARATI | - |
+| HEBREW | - |
+| HINDI | - |
+| HUNGARIAN | - |
+| ICELANDIC | - |
+| INDONESIAN | - |
+| ITALIAN | - |
+| JAPANESE | - |
+| KANNADA | - |
+| KHMER | - |
+| LAO | - |
+| LATVIAN | - |
+| LITHUANIAN | - |
+| MALAYALAM | - |
+| MARATHI | - |
+| NORWEGIAN | - |
+| NYNORSKNORWEGIAN | - |
+| ODIA | - |
+| OLDDUTCH | - |
+| OLDGERMAN | - |
+| OLDSWISSGERMAN | - |
+| POLISH | - |
+| PORTUGUESE | - |
+| PUNJABI | - |
+| ROMANIAN | - |
+| RUSSIAN | - |
+| SERBIAN | - |
+| SINHALESE | - |
+| SLOVAK | - |
+| SLOVENIAN | - |
+| SPANISH | - |
+| SWEDISH | - |
+| SWISSGERMAN | - |
+| TAMIL | - |
+| TELUGU | - |
+| THAI | - |
+| TURKISH | - |
+| UKRAINIAN | - |

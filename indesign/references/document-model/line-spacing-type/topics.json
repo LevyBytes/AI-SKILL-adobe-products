@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DOUBLE_SPACE", "file": "references/document-model/line-spacing-type/doublespace.md", "summary": "Open when looking up DOUBLE_SPACE in InDesign.", "keywords": ["DOUBLE_SPACE"]},
+  {"topic": "ONE_AND_HALF_SPACE", "file": "references/document-model/line-spacing-type/oneandhalfspace.md", "summary": "Open when looking up ONE_AND_HALF_SPACE in InDesign.", "keywords": ["ONE_AND_HALF_SPACE"]},
+  {"topic": "SINGLE_SPACE", "file": "references/document-model/line-spacing-type/singlespace.md", "summary": "Open when looking up SINGLE_SPACE in InDesign.", "keywords": ["SINGLE_SPACE"]},
+  {"topic": "TRIPLE_SPACE", "file": "references/document-model/line-spacing-type/triplespace.md", "summary": "Open when looking up TRIPLE_SPACE in InDesign.", "keywords": ["TRIPLE_SPACE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

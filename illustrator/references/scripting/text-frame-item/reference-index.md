@@ -1,0 +1,44 @@
+# Illustrator — TextFrameItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextFrameItem.anchor in Illustrator. [TextFrameItem.anchor](anchor.md).
+- Open when looking up TextFrameItem.antialias in Illustrator. [TextFrameItem.antialias](antialias.md).
+- Open when looking up TextFrameItem.characters in Illustrator. [TextFrameItem.characters](characters.md).
+- Open when looking up TextFrameItem.columnCount in Illustrator. [TextFrameItem.columnCount](column-count.md).
+- Open when looking up TextFrameItem.columnGutter in Illustrator. [TextFrameItem.columnGutter](column-gutter.md).
+- Open when looking up TextFrameItem.contents in Illustrator. [TextFrameItem.contents](contents.md).
+- Open when looking up TextFrameItem.contentVariable in Illustrator. [TextFrameItem.contentVariable](content-variable.md).
+- Open when looking up TextFrameItem.convertAreaObjectToPointObject() in Illustrator. [TextFrameItem.convertAreaObjectToPointObject()](convert-area-object-to-point-object.md).
+- Open when looking up TextFrameItem.convertPointObjectToAreaObject() in Illustrator. [TextFrameItem.convertPointObjectToAreaObject()](convert-point-object-to-area-object.md).
+- Open when looking up TextFrameItem.createOutline() in Illustrator. [TextFrameItem.createOutline()](create-outline.md).
+- Open when looking up TextFrameItem.duplicate() in Illustrator. [TextFrameItem.duplicate()](duplicate.md).
+- Open when looking up TextFrameItem.endTValue in Illustrator. [TextFrameItem.endTValue](end-t-value.md).
+- Open when looking up TextFrameItem.flowLinksHorizontally in Illustrator. [TextFrameItem.flowLinksHorizontally](flow-links-horizontally.md).
+- Open when looking up TextFrameItem.insertionPoints in Illustrator. [TextFrameItem.insertionPoints](insertion-points.md).
+- Open when looking up TextFrameItem.kind in Illustrator. [TextFrameItem.kind](kind.md).
+- Open when looking up TextFrameItem.lines in Illustrator. [TextFrameItem.lines](lines.md).
+- Open when looking up TextFrameItem.matrix in Illustrator. [TextFrameItem.matrix](matrix.md).
+- Open when looking up TextFrameItem.move() in Illustrator. [TextFrameItem.move()](move.md).
+- Open when looking up TextFrameItem.nextFrame in Illustrator. [TextFrameItem.nextFrame](next-frame.md).
+- Open when looking up TextFrameItem.opticalAlignment in Illustrator. [TextFrameItem.opticalAlignment](optical-alignment.md).
+- Open when looking up TextFrameItem.orientation in Illustrator. [TextFrameItem.orientation](orientation.md).
+- Open when looking up TextFrameItem.paragraphs in Illustrator. [TextFrameItem.paragraphs](paragraphs.md).
+- Open when looking up TextFrameItem.parent in Illustrator. [TextFrameItem.parent](parent.md).
+- Open when looking up TextFrameItem.previousFrame in Illustrator. [TextFrameItem.previousFrame](previous-frame.md).
+- Open when looking up TextFrameItem.remove() in Illustrator. [TextFrameItem.remove()](remove.md).
+- Open when looking up TextFrameItem.resize() in Illustrator. [TextFrameItem.resize()](resize.md).
+- Open when looking up TextFrameItem.rotate() in Illustrator. [TextFrameItem.rotate()](rotate.md).
+- Open when looking up TextFrameItem.rowCount in Illustrator. [TextFrameItem.rowCount](row-count.md).
+- Open when looking up TextFrameItem.rowGutter in Illustrator. [TextFrameItem.rowGutter](row-gutter.md).
+- Open when looking up TextFrameItem.spacing in Illustrator. [TextFrameItem.spacing](spacing.md).
+- Open when looking up TextFrameItem.startTValue in Illustrator. [TextFrameItem.startTValue](start-t-value.md).
+- Open when looking up TextFrameItem.story in Illustrator. [TextFrameItem.story](story.md).
+- Open when looking up TextFrameItem.textPath in Illustrator. [TextFrameItem.textPath](text-path.md).
+- Open when looking up TextFrameItem.textRange in Illustrator. [TextFrameItem.textRange](text-range.md).
+- Open when looking up TextFrameItem.textRanges in Illustrator. [TextFrameItem.textRanges](text-ranges.md).
+- Open when looking up TextFrameItem.textSelection in Illustrator. [TextFrameItem.textSelection](text-selection.md).
+- Open when looking up TextFrameItem.transform() in Illustrator. [TextFrameItem.transform()](transform.md).
+- Open when looking up TextFrameItem.translate() in Illustrator. [TextFrameItem.translate()](translate.md).
+- Open when looking up TextFrameItem.typename in Illustrator. [TextFrameItem.typename](typename.md).
+- Open when looking up TextFrameItem.words in Illustrator. [TextFrameItem.words](words.md).
+- Open when looking up TextFrameItem.zOrder() in Illustrator. [TextFrameItem.zOrder()](z-order.md).

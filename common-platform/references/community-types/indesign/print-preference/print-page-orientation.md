@@ -1,0 +1,13 @@
+# PrintPreference.printPageOrientation
+
+Community declaration reference: InDesign/2023.
+
+Orientation used for the printed page.
+
+```typescript
+declare class PrintPreference extends Preference {
+    printPageOrientation: PrintPageOrientation
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

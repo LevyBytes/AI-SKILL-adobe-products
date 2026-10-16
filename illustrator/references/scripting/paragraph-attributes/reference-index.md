@@ -1,0 +1,40 @@
+# Illustrator — ParagraphAttributes
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ParagraphAttributes.autoLeadingAmount in Illustrator. [ParagraphAttributes.autoLeadingAmount](auto-leading-amount.md).
+- Open when looking up ParagraphAttributes.bunriKinshi in Illustrator. [ParagraphAttributes.bunriKinshi](bunri-kinshi.md).
+- Open when looking up ParagraphAttributes.burasagariType in Illustrator. [ParagraphAttributes.burasagariType](burasagari-type.md).
+- Open when looking up ParagraphAttributes.desiredGlyphScaling in Illustrator. [ParagraphAttributes.desiredGlyphScaling](desired-glyph-scaling.md).
+- Open when looking up ParagraphAttributes.desiredLetterSpacing in Illustrator. [ParagraphAttributes.desiredLetterSpacing](desired-letter-spacing.md).
+- Open when looking up ParagraphAttributes.desiredWordSpacing in Illustrator. [ParagraphAttributes.desiredWordSpacing](desired-word-spacing.md).
+- Open when looking up ParagraphAttributes.everyLineComposer in Illustrator. [ParagraphAttributes.everyLineComposer](every-line-composer.md).
+- Open when looking up ParagraphAttributes.firstLineIndent in Illustrator. [ParagraphAttributes.firstLineIndent](first-line-indent.md).
+- Open when looking up ParagraphAttributes.hyphenateCapitalizedWords in Illustrator. [ParagraphAttributes.hyphenateCapitalizedWords](hyphenate-capitalized-words.md).
+- Open when looking up ParagraphAttributes.hyphenation in Illustrator. [ParagraphAttributes.hyphenation](hyphenation.md).
+- Open when looking up ParagraphAttributes.hyphenationPreference in Illustrator. [ParagraphAttributes.hyphenationPreference](hyphenation-preference.md).
+- Open when looking up ParagraphAttributes.hyphenationZone in Illustrator. [ParagraphAttributes.hyphenationZone](hyphenation-zone.md).
+- Open when looking up ParagraphAttributes.justification in Illustrator. [ParagraphAttributes.justification](justification.md).
+- Open when looking up ParagraphAttributes.kinsoku in Illustrator. [ParagraphAttributes.kinsoku](kinsoku.md).
+- Open when looking up ParagraphAttributes.kinsokuOrder in Illustrator. [ParagraphAttributes.kinsokuOrder](kinsoku-order.md).
+- Open when looking up ParagraphAttributes.kurikaeshiMojiShori in Illustrator. [ParagraphAttributes.kurikaeshiMojiShori](kurikaeshi-moji-shori.md).
+- Open when looking up ParagraphAttributes.leadingType in Illustrator. [ParagraphAttributes.leadingType](leading-type.md).
+- Open when looking up ParagraphAttributes.leftIndent in Illustrator. [ParagraphAttributes.leftIndent](left-indent.md).
+- Open when looking up ParagraphAttributes.maximumConsecutiveHyphens in Illustrator. [ParagraphAttributes.maximumConsecutiveHyphens](maximum-consecutive-hyphens.md).
+- Open when looking up ParagraphAttributes.maximumGlyphScaling in Illustrator. [ParagraphAttributes.maximumGlyphScaling](maximum-glyph-scaling.md).
+- Open when looking up ParagraphAttributes.maximumLetterSpacing in Illustrator. [ParagraphAttributes.maximumLetterSpacing](maximum-letter-spacing.md).
+- Open when looking up ParagraphAttributes.maximumWordSpacing in Illustrator. [ParagraphAttributes.maximumWordSpacing](maximum-word-spacing.md).
+- Open when looking up ParagraphAttributes.minimumAfterHyphen in Illustrator. [ParagraphAttributes.minimumAfterHyphen](minimum-after-hyphen.md).
+- Open when looking up ParagraphAttributes.minimumBeforeHyphen in Illustrator. [ParagraphAttributes.minimumBeforeHyphen](minimum-before-hyphen.md).
+- Open when looking up ParagraphAttributes.minimumGlyphScaling in Illustrator. [ParagraphAttributes.minimumGlyphScaling](minimum-glyph-scaling.md).
+- Open when looking up ParagraphAttributes.minimumHyphenatedWordSize in Illustrator. [ParagraphAttributes.minimumHyphenatedWordSize](minimum-hyphenated-word-size.md).
+- Open when looking up ParagraphAttributes.minimumLetterSpacing in Illustrator. [ParagraphAttributes.minimumLetterSpacing](minimum-letter-spacing.md).
+- Open when looking up ParagraphAttributes.minimumWordSpacing in Illustrator. [ParagraphAttributes.minimumWordSpacing](minimum-word-spacing.md).
+- Open when looking up ParagraphAttributes.mojikumi in Illustrator. [ParagraphAttributes.mojikumi](mojikumi.md).
+- Open when looking up ParagraphAttributes.parent in Illustrator. [ParagraphAttributes.parent](parent.md).
+- Open when looking up ParagraphAttributes.rightIndent in Illustrator. [ParagraphAttributes.rightIndent](right-indent.md).
+- Open when looking up ParagraphAttributes.romanHanging in Illustrator. [ParagraphAttributes.romanHanging](roman-hanging.md).
+- Open when looking up ParagraphAttributes.singleWordJustification in Illustrator. [ParagraphAttributes.singleWordJustification](single-word-justification.md).
+- Open when looking up ParagraphAttributes.spaceAfter in Illustrator. [ParagraphAttributes.spaceAfter](space-after.md).
+- Open when looking up ParagraphAttributes.spaceBefore in Illustrator. [ParagraphAttributes.spaceBefore](space-before.md).
+- Open when looking up ParagraphAttributes.tabStops in Illustrator. [ParagraphAttributes.tabStops](tab-stops.md).
+- Open when looking up ParagraphAttributes.typename in Illustrator. [ParagraphAttributes.typename](typename.md).

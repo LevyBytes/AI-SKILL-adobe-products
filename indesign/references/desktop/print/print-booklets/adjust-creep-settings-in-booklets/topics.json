@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Adjust spacing alongside creep", "file": "references/desktop/print/print-booklets/adjust-creep-settings-in-booklets/adjust-spacing-alongside-creep.md", "summary": "Open when looking up Adjust spacing alongside creep in InDesign.", "keywords": ["Adjust spacing alongside creep"]},
+  {"topic": "Configure creep settings", "file": "references/desktop/print/print-booklets/adjust-creep-settings-in-booklets/configure-creep-settings.md", "summary": "Open when looking up Configure creep settings in InDesign.", "keywords": ["Configure creep settings"]},
+  {"topic": "Understanding creep calculation", "file": "references/desktop/print/print-booklets/adjust-creep-settings-in-booklets/understanding-creep-calculation.md", "summary": "Open when looking up Understanding creep calculation in InDesign.", "keywords": ["Understanding creep calculation"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

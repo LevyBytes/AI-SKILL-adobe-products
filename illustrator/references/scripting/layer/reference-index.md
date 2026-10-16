@@ -1,0 +1,37 @@
+# Illustrator — Layer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Layer.artworkKnockout in Illustrator. [Layer.artworkKnockout](artwork-knockout.md).
+- Open when looking up Layer.blendingMode in Illustrator. [Layer.blendingMode](blending-mode.md).
+- Open when looking up Layer.color in Illustrator. [Layer.color](color.md).
+- Open when looking up Layer.compoundPathItems in Illustrator. [Layer.compoundPathItems](compound-path-items.md).
+- Open when looking up Layer.dimPlacedImages in Illustrator. [Layer.dimPlacedImages](dim-placed-images.md).
+- Open when looking up Layer.graphItems in Illustrator. [Layer.graphItems](graph-items.md).
+- Open when looking up Layer.groupItems in Illustrator. [Layer.groupItems](group-items.md).
+- Open when looking up Layer.hasSelectedArtwork in Illustrator. [Layer.hasSelectedArtwork](has-selected-artwork.md).
+- Open when looking up Layer.isIsolated in Illustrator. [Layer.isIsolated](is-isolated.md).
+- Open when looking up Layer.layers in Illustrator. [Layer.layers](layers.md).
+- Open when looking up Layer.legacyTextItems in Illustrator. [Layer.legacyTextItems](legacy-text-items.md).
+- Open when looking up Layer.locked in Illustrator. [Layer.locked](locked.md).
+- Open when looking up Layer.meshItems in Illustrator. [Layer.meshItems](mesh-items.md).
+- Open when looking up Layer.move() in Illustrator. [Layer.move()](move.md).
+- Open when looking up Layer.name in Illustrator. [Layer.name](name.md).
+- Open when looking up Layer.nonNativeItems in Illustrator. [Layer.nonNativeItems](non-native-items.md).
+- Open when looking up Layer.opacity in Illustrator. [Layer.opacity](opacity.md).
+- Open when looking up Layer.pageItems in Illustrator. [Layer.pageItems](page-items.md).
+- Open when looking up Layer.parent in Illustrator. [Layer.parent](parent.md).
+- Open when looking up Layer.pathItems in Illustrator. [Layer.pathItems](path-items.md).
+- Open when looking up Layer.placedItems in Illustrator. [Layer.placedItems](placed-items.md).
+- Open when looking up Layer.pluginItems in Illustrator. [Layer.pluginItems](plugin-items.md).
+- Open when looking up Layer.preview in Illustrator. [Layer.preview](preview.md).
+- Open when looking up Layer.printable in Illustrator. [Layer.printable](printable.md).
+- Open when looking up Layer.rasterItems in Illustrator. [Layer.rasterItems](raster-items.md).
+- Open when looking up Layer.remove() in Illustrator. [Layer.remove()](remove.md).
+- Open when looking up Layer.sliced in Illustrator. [Layer.sliced](sliced.md).
+- Open when looking up Layer.symbolItems in Illustrator. [Layer.symbolItems](symbol-items.md).
+- Open when looking up Layer.textFrames in Illustrator. [Layer.textFrames](text-frames.md).
+- Open when looking up Layer.typename in Illustrator. [Layer.typename](typename.md).
+- Open when looking up Layer.visible in Illustrator. [Layer.visible](visible.md).
+- Open when looking up Layer.zOrder() in Illustrator. [Layer.zOrder()](z-order.md).
+- Open when looking up Layer.zOrderPosition in Illustrator. [Layer.zOrderPosition](z-order-position.md).
+- Open when looking up Top-Level (containing) Objects — Layer in Illustrator. [Top-Level (containing) Objects — Layer](top-level-containing-objects-layer.md).

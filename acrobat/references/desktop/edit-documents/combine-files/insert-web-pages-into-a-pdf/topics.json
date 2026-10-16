@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Add a linked web page to an existing PDF", "file": "references/desktop/edit-documents/combine-files/insert-web-pages-into-a-pdf/add-a-linked-web-page-to-an-existing-pdf.md", "summary": "Open when looking up Add a linked web page to an existing PDF in Acrobat.", "keywords": ["Add a linked web page to an existing PDF"]},
+  {"topic": "Add an unlinked web page to an existing PDF", "file": "references/desktop/edit-documents/combine-files/insert-web-pages-into-a-pdf/add-an-unlinked-web-page-to-an-existing-pdf.md", "summary": "Open when looking up Add an unlinked web page to an existing PDF in Acrobat.", "keywords": ["Add an unlinked web page to an existing PDF"]},
+  {"topic": "Convert a linked web page to a new PDF", "file": "references/desktop/edit-documents/combine-files/insert-web-pages-into-a-pdf/convert-a-linked-web-page-to-a-new-pdf.md", "summary": "Open when looking up Convert a linked web page to a new PDF in Acrobat.", "keywords": ["Convert a linked web page to a new PDF"]},
+  {"topic": "Copy the URL of a web link", "file": "references/desktop/edit-documents/combine-files/insert-web-pages-into-a-pdf/copy-the-url-of-a-web-link.md", "summary": "Open when looking up Copy the URL of a web link in Acrobat.", "keywords": ["Copy the URL of a web link"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

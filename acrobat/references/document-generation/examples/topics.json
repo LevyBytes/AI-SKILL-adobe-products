@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Complete sample invoice data", "file": "references/document-generation/examples/sample-invoice-data.json", "summary": "Open when looking up Complete sample invoice data in Acrobat.", "keywords": ["Complete sample invoice data"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

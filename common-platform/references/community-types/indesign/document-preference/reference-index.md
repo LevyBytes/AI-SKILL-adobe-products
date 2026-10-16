@@ -1,0 +1,32 @@
+# Shared Adobe platform — DocumentPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up DocumentPreference declaration in Shared Adobe platform. [DocumentPreference declaration](declaration.md).
+- Open when looking up DocumentPreference.allowPageShuffle in Shared Adobe platform. [DocumentPreference.allowPageShuffle](allow-page-shuffle.md).
+- Open when looking up DocumentPreference.columnDirection in Shared Adobe platform. [DocumentPreference.columnDirection](column-direction.md).
+- Open when looking up DocumentPreference.columnGuideColor in Shared Adobe platform. [DocumentPreference.columnGuideColor](column-guide-color.md).
+- Open when looking up DocumentPreference.columnGuideLocked in Shared Adobe platform. [DocumentPreference.columnGuideLocked](column-guide-locked.md).
+- Open when looking up DocumentPreference.createPrimaryTextFrame in Shared Adobe platform. [DocumentPreference.createPrimaryTextFrame](create-primary-text-frame.md).
+- Open when looking up DocumentPreference.documentBleedBottomOffset in Shared Adobe platform. [DocumentPreference.documentBleedBottomOffset](document-bleed-bottom-offset.md).
+- Open when looking up DocumentPreference.documentBleedInsideOrLeftOffset in Shared Adobe platform. [DocumentPreference.documentBleedInsideOrLeftOffset](document-bleed-inside-or-left-offset.md).
+- Open when looking up DocumentPreference.documentBleedOutsideOrRightOffset in Shared Adobe platform. [DocumentPreference.documentBleedOutsideOrRightOffset](document-bleed-outside-or-right-offset.md).
+- Open when looking up DocumentPreference.documentBleedTopOffset in Shared Adobe platform. [DocumentPreference.documentBleedTopOffset](document-bleed-top-offset.md).
+- Open when looking up DocumentPreference.documentBleedUniformSize in Shared Adobe platform. [DocumentPreference.documentBleedUniformSize](document-bleed-uniform-size.md).
+- Open when looking up DocumentPreference.documentSlugUniformSize in Shared Adobe platform. [DocumentPreference.documentSlugUniformSize](document-slug-uniform-size.md).
+- Open when looking up DocumentPreference.facingPages in Shared Adobe platform. [DocumentPreference.facingPages](facing-pages.md).
+- Open when looking up DocumentPreference.intent in Shared Adobe platform. [DocumentPreference.intent](intent.md).
+- Open when looking up DocumentPreference.marginGuideColor in Shared Adobe platform. [DocumentPreference.marginGuideColor](margin-guide-color.md).
+- Open when looking up DocumentPreference.overprintBlack in Shared Adobe platform. [DocumentPreference.overprintBlack](overprint-black.md).
+- Open when looking up DocumentPreference.pageBinding in Shared Adobe platform. [DocumentPreference.pageBinding](page-binding.md).
+- Open when looking up DocumentPreference.pageHeight in Shared Adobe platform. [DocumentPreference.pageHeight](page-height.md).
+- Open when looking up DocumentPreference.pageOrientation in Shared Adobe platform. [DocumentPreference.pageOrientation](page-orientation.md).
+- Open when looking up DocumentPreference.pageSize in Shared Adobe platform. [DocumentPreference.pageSize](page-size.md).
+- Open when looking up DocumentPreference.pagesPerDocument in Shared Adobe platform. [DocumentPreference.pagesPerDocument](pages-per-document.md).
+- Open when looking up DocumentPreference.pageWidth in Shared Adobe platform. [DocumentPreference.pageWidth](page-width.md).
+- Open when looking up DocumentPreference.preserveLayoutWhenShuffling in Shared Adobe platform. [DocumentPreference.preserveLayoutWhenShuffling](preserve-layout-when-shuffling.md).
+- Open when looking up DocumentPreference.slugBottomOffset in Shared Adobe platform. [DocumentPreference.slugBottomOffset](slug-bottom-offset.md).
+- Open when looking up DocumentPreference.slugInsideOrLeftOffset in Shared Adobe platform. [DocumentPreference.slugInsideOrLeftOffset](slug-inside-or-left-offset.md).
+- Open when looking up DocumentPreference.slugRightOrOutsideOffset in Shared Adobe platform. [DocumentPreference.slugRightOrOutsideOffset](slug-right-or-outside-offset.md).
+- Open when looking up DocumentPreference.slugTopOffset in Shared Adobe platform. [DocumentPreference.slugTopOffset](slug-top-offset.md).
+- Open when looking up DocumentPreference.snippetImportUsesOriginalLocation in Shared Adobe platform. [DocumentPreference.snippetImportUsesOriginalLocation](snippet-import-uses-original-location.md).
+- Open when looking up DocumentPreference.startPageNumber in Shared Adobe platform. [DocumentPreference.startPageNumber](start-page-number.md).

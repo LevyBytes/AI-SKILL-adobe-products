@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Add or manage custom dictionary words", "file": "references/desktop/edit-documents/edit-text-in-pdfs/check-spellings-and-manage-accepted-words/add-or-manage-custom-dictionary-words.md", "summary": "Open when looking up Add or manage custom dictionary words in Acrobat.", "keywords": ["Add or manage custom dictionary words"]},
+  {"topic": "Run spell check", "file": "references/desktop/edit-documents/edit-text-in-pdfs/check-spellings-and-manage-accepted-words/run-spell-check.md", "summary": "Open when looking up Run spell check in Acrobat.", "keywords": ["Run spell check"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

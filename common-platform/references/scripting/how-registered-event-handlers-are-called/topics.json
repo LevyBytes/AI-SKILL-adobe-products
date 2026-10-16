@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Defining behavior with event callbacks and listeners — How registered event-handlers are called", "file": "references/scripting/how-registered-event-handlers-are-called/how-registered-event-handlers-are-called.md", "summary": "Open when looking up Defining behavior with event callbacks and listeners — How registered event-handlers are called in Shared Adobe platform.", "keywords": ["Defining behavior with event callbacks and listeners — How registered event-handlers are called"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

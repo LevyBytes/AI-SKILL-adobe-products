@@ -1,0 +1,43 @@
+# Shared Adobe platform — TextImportCharacterSet
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextImportCharacterSet declaration in Shared Adobe platform. [TextImportCharacterSet declaration](declaration.md).
+- Open when looking up TextImportCharacterSet.ANSI in Shared Adobe platform. [TextImportCharacterSet.ANSI](ansi.md).
+- Open when looking up TextImportCharacterSet.ARABIC_ASMO in Shared Adobe platform. [TextImportCharacterSet.ARABIC_ASMO](arabicasmo.md).
+- Open when looking up TextImportCharacterSet.ARABIC_ASMO_TRANSPARENT in Shared Adobe platform. [TextImportCharacterSet.ARABIC_ASMO_TRANSPARENT](arabicasmotransparent.md).
+- Open when looking up TextImportCharacterSet.CENTRALEUROPEAN_ISO in Shared Adobe platform. [TextImportCharacterSet.CENTRALEUROPEAN_ISO](centraleuropeaniso.md).
+- Open when looking up TextImportCharacterSet.CHINESE_BIG_5 in Shared Adobe platform. [TextImportCharacterSet.CHINESE_BIG_5](chinesebig5.md).
+- Open when looking up TextImportCharacterSet.CYRILLIC_CP855 in Shared Adobe platform. [TextImportCharacterSet.CYRILLIC_CP855](cyrilliccp855.md).
+- Open when looking up TextImportCharacterSet.CYRILLIC_ISO in Shared Adobe platform. [TextImportCharacterSet.CYRILLIC_ISO](cyrilliciso.md).
+- Open when looking up TextImportCharacterSet.CYRILLIC_KOI8R in Shared Adobe platform. [TextImportCharacterSet.CYRILLIC_KOI8R](cyrillickoi8-r.md).
+- Open when looking up TextImportCharacterSet.CYRILLIC_KOI8U in Shared Adobe platform. [TextImportCharacterSet.CYRILLIC_KOI8U](cyrillickoi8-u.md).
+- Open when looking up TextImportCharacterSet.DOS_LATIN_2 in Shared Adobe platform. [TextImportCharacterSet.DOS_LATIN_2](doslatin2.md).
+- Open when looking up TextImportCharacterSet.GB18030 in Shared Adobe platform. [TextImportCharacterSet.GB18030](gb18030.md).
+- Open when looking up TextImportCharacterSet.GB2312 in Shared Adobe platform. [TextImportCharacterSet.GB2312](gb2312.md).
+- Open when looking up TextImportCharacterSet.GREEK_ISO in Shared Adobe platform. [TextImportCharacterSet.GREEK_ISO](greekiso.md).
+- Open when looking up TextImportCharacterSet.KSC5601 in Shared Adobe platform. [TextImportCharacterSet.KSC5601](ksc5601.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_ARABIC in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_ARABIC](macintosharabic.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_CE in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_CE](macintoshce.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_CROATIAN in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_CROATIAN](macintoshcroatian.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_CYRILLIC in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_CYRILLIC](macintoshcyrillic.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_GREEK in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_GREEK](macintoshgreek.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_GREEK_SHARED_CAPS in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_GREEK_SHARED_CAPS](macintoshgreeksharedcaps.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_HEBREW in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_HEBREW](macintoshhebrew.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_ICELANDIC in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_ICELANDIC](macintoshicelandic.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_ROMAN in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_ROMAN](macintoshroman.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_ROMANIAN in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_ROMANIAN](macintoshromanian.md).
+- Open when looking up TextImportCharacterSet.MACINTOSH_TURKISH in Shared Adobe platform. [TextImportCharacterSet.MACINTOSH_TURKISH](macintoshturkish.md).
+- Open when looking up TextImportCharacterSet.RECOMMENDSHIFTJIS83PV in Shared Adobe platform. [TextImportCharacterSet.RECOMMENDSHIFTJIS83PV](recommendshiftjis83-pv.md).
+- Open when looking up TextImportCharacterSet.SHIFTJIS90MS in Shared Adobe platform. [TextImportCharacterSet.SHIFTJIS90MS](shiftjis90-ms.md).
+- Open when looking up TextImportCharacterSet.SHIFTJIS90PV in Shared Adobe platform. [TextImportCharacterSet.SHIFTJIS90PV](shiftjis90-pv.md).
+- Open when looking up TextImportCharacterSet.TURKISH_ISO in Shared Adobe platform. [TextImportCharacterSet.TURKISH_ISO](turkishiso.md).
+- Open when looking up TextImportCharacterSet.UTF16 in Shared Adobe platform. [TextImportCharacterSet.UTF16](utf16.md).
+- Open when looking up TextImportCharacterSet.UTF8 in Shared Adobe platform. [TextImportCharacterSet.UTF8](utf8.md).
+- Open when looking up TextImportCharacterSet.WINDOWS_ARABIC in Shared Adobe platform. [TextImportCharacterSet.WINDOWS_ARABIC](windowsarabic.md).
+- Open when looking up TextImportCharacterSet.WINDOWS_BALTIC in Shared Adobe platform. [TextImportCharacterSet.WINDOWS_BALTIC](windowsbaltic.md).
+- Open when looking up TextImportCharacterSet.WINDOWS_CE in Shared Adobe platform. [TextImportCharacterSet.WINDOWS_CE](windowsce.md).
+- Open when looking up TextImportCharacterSet.WINDOWS_CYRILLIC in Shared Adobe platform. [TextImportCharacterSet.WINDOWS_CYRILLIC](windowscyrillic.md).
+- Open when looking up TextImportCharacterSet.WINDOWS_EE in Shared Adobe platform. [TextImportCharacterSet.WINDOWS_EE](windowsee.md).
+- Open when looking up TextImportCharacterSet.WINDOWS_GREEK in Shared Adobe platform. [TextImportCharacterSet.WINDOWS_GREEK](windowsgreek.md).
+- Open when looking up TextImportCharacterSet.WINDOWS_HEBREW in Shared Adobe platform. [TextImportCharacterSet.WINDOWS_HEBREW](windowshebrew.md).
+- Open when looking up TextImportCharacterSet.WINDOWS_TURKISH in Shared Adobe platform. [TextImportCharacterSet.WINDOWS_TURKISH](windowsturkish.md).

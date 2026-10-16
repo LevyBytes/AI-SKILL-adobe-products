@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Global, Sequence, & Frame Data — Flattened And Unflattened Sequence Data", "file": "references/plugin-sdk/flattened-and-unflattened-sequence-data/flattened-and-unflattened-sequence-data.md", "summary": "Open when looking up Global, Sequence, & Frame Data — Flattened And Unflattened Sequence Data in After Effects.", "keywords": ["Global, Sequence, & Frame Data — Flattened And Unflattened Sequence Data"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,26 @@
+# Shared Adobe platform — IndexOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up IndexOptions declaration in Shared Adobe platform. [IndexOptions declaration](declaration.md).
+- Open when looking up IndexOptions.beforeCrossReferenceSeparator in Shared Adobe platform. [IndexOptions.beforeCrossReferenceSeparator](before-cross-reference-separator.md).
+- Open when looking up IndexOptions.betweenEntriesSeparator in Shared Adobe platform. [IndexOptions.betweenEntriesSeparator](between-entries-separator.md).
+- Open when looking up IndexOptions.betweenPageNumbersSeparator in Shared Adobe platform. [IndexOptions.betweenPageNumbersSeparator](between-page-numbers-separator.md).
+- Open when looking up IndexOptions.crossReferenceStyle in Shared Adobe platform. [IndexOptions.crossReferenceStyle](cross-reference-style.md).
+- Open when looking up IndexOptions.crossReferenceTopicStyle in Shared Adobe platform. [IndexOptions.crossReferenceTopicStyle](cross-reference-topic-style.md).
+- Open when looking up IndexOptions.entryEndSeparator in Shared Adobe platform. [IndexOptions.entryEndSeparator](entry-end-separator.md).
+- Open when looking up IndexOptions.followingTopicSeparator in Shared Adobe platform. [IndexOptions.followingTopicSeparator](following-topic-separator.md).
+- Open when looking up IndexOptions.includeBookDocuments in Shared Adobe platform. [IndexOptions.includeBookDocuments](include-book-documents.md).
+- Open when looking up IndexOptions.includeEmptyIndexSections in Shared Adobe platform. [IndexOptions.includeEmptyIndexSections](include-empty-index-sections.md).
+- Open when looking up IndexOptions.includeHiddenEntries in Shared Adobe platform. [IndexOptions.includeHiddenEntries](include-hidden-entries.md).
+- Open when looking up IndexOptions.includeSectionHeadings in Shared Adobe platform. [IndexOptions.includeSectionHeadings](include-section-headings.md).
+- Open when looking up IndexOptions.indexFormat in Shared Adobe platform. [IndexOptions.indexFormat](index-format.md).
+- Open when looking up IndexOptions.level1Style in Shared Adobe platform. [IndexOptions.level1Style](level1-style.md).
+- Open when looking up IndexOptions.level2Style in Shared Adobe platform. [IndexOptions.level2Style](level2-style.md).
+- Open when looking up IndexOptions.level3Style in Shared Adobe platform. [IndexOptions.level3Style](level3-style.md).
+- Open when looking up IndexOptions.level4Style in Shared Adobe platform. [IndexOptions.level4Style](level4-style.md).
+- Open when looking up IndexOptions.pageNumberStyle in Shared Adobe platform. [IndexOptions.pageNumberStyle](page-number-style.md).
+- Open when looking up IndexOptions.pageRangeSeparator in Shared Adobe platform. [IndexOptions.pageRangeSeparator](page-range-separator.md).
+- Open when looking up IndexOptions.replaceExistingIndex in Shared Adobe platform. [IndexOptions.replaceExistingIndex](replace-existing-index.md).
+- Open when looking up IndexOptions.sectionHeadingStyle in Shared Adobe platform. [IndexOptions.sectionHeadingStyle](section-heading-style.md).
+- Open when looking up IndexOptions.title in Shared Adobe platform. [IndexOptions.title](title.md).
+- Open when looking up IndexOptions.titleStyle in Shared Adobe platform. [IndexOptions.titleStyle](title-style.md).

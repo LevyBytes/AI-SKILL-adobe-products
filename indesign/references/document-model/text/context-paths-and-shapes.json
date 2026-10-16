@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "createOutlines", "file": "references/document-model/text/create-outlines.md", "summary": "Open when looking up createOutlines in InDesign.", "keywords": ["createOutlines"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

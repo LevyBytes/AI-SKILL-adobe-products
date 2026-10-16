@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.addItem", "file": "references/community-types/animate/document/add-item.md", "summary": "Open when looking up Document.addItem in Shared Adobe platform.", "keywords": ["Document.addItem"]},
+  {"topic": "Document.canEditSymbol", "file": "references/community-types/animate/document/can-edit-symbol.md", "summary": "Open when looking up Document.canEditSymbol in Shared Adobe platform.", "keywords": ["Document.canEditSymbol"]},
+  {"topic": "Document.convertToSymbol", "file": "references/community-types/animate/document/convert-to-symbol.md", "summary": "Open when looking up Document.convertToSymbol in Shared Adobe platform.", "keywords": ["Document.convertToSymbol"]},
+  {"topic": "Document.enterEditMode", "file": "references/community-types/animate/document/enter-edit-mode.md", "summary": "Open when looking up Document.enterEditMode in Shared Adobe platform.", "keywords": ["Document.enterEditMode"]},
+  {"topic": "Document.exitEditMode", "file": "references/community-types/animate/document/exit-edit-mode.md", "summary": "Open when looking up Document.exitEditMode in Shared Adobe platform.", "keywords": ["Document.exitEditMode"]},
+  {"topic": "Document.exportInstanceToLibrary", "file": "references/community-types/animate/document/export-instance-to-library.md", "summary": "Open when looking up Document.exportInstanceToLibrary in Shared Adobe platform.", "keywords": ["Document.exportInstanceToLibrary"]},
+  {"topic": "Document.group", "file": "references/community-types/animate/document/group.md", "summary": "Open when looking up Document.group in Shared Adobe platform.", "keywords": ["Document.group"]},
+  {"topic": "Document.library", "file": "references/community-types/animate/document/library.md", "summary": "Open when looking up Document.library in Shared Adobe platform.", "keywords": ["Document.library"]},
+  {"topic": "Document.swapElement", "file": "references/community-types/animate/document/swap-element.md", "summary": "Open when looking up Document.swapElement in Shared Adobe platform.", "keywords": ["Document.swapElement"]},
+  {"topic": "Document.unGroup", "file": "references/community-types/animate/document/un-group.md", "summary": "Open when looking up Document.unGroup in Shared Adobe platform.", "keywords": ["Document.unGroup"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

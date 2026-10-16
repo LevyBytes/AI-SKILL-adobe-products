@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "chapter", "file": "references/desktop/marker-key-attributes/chapter.md", "summary": "Open when looking up chapter in After Effects.", "keywords": ["chapter"]},
+  {"topic": "comment", "file": "references/desktop/marker-key-attributes/comment.md", "summary": "Open when looking up comment in After Effects.", "keywords": ["comment"]},
+  {"topic": "cuePointName", "file": "references/desktop/marker-key-attributes/cue-point-name.md", "summary": "Open when looking up cuePointName in After Effects.", "keywords": ["cuePointName"]},
+  {"topic": "duration", "file": "references/desktop/marker-key-attributes/duration.md", "summary": "Open when looking up duration in After Effects.", "keywords": ["duration"]},
+  {"topic": "eventCuePoint", "file": "references/desktop/marker-key-attributes/event-cue-point.md", "summary": "Open when looking up eventCuePoint in After Effects.", "keywords": ["eventCuePoint"]},
+  {"topic": "frameTarget", "file": "references/desktop/marker-key-attributes/frame-target.md", "summary": "Open when looking up frameTarget in After Effects.", "keywords": ["frameTarget"]},
+  {"topic": "url", "file": "references/desktop/marker-key-attributes/url.md", "summary": "Open when looking up url in After Effects.", "keywords": ["url"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

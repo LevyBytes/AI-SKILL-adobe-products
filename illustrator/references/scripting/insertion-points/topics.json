@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "InsertionPoints.index()", "file": "references/scripting/insertion-points/index.md", "summary": "Open when looking up InsertionPoints.index() in Illustrator.", "keywords": ["InsertionPoints.index()"]},
+  {"topic": "InsertionPoints.length", "file": "references/scripting/insertion-points/length.md", "summary": "Open when looking up InsertionPoints.length in Illustrator.", "keywords": ["InsertionPoints.length"]},
+  {"topic": "InsertionPoints.parent", "file": "references/scripting/insertion-points/parent.md", "summary": "Open when looking up InsertionPoints.parent in Illustrator.", "keywords": ["InsertionPoints.parent"]},
+  {"topic": "InsertionPoints.typename", "file": "references/scripting/insertion-points/typename.md", "summary": "Open when looking up InsertionPoints.typename in Illustrator.", "keywords": ["InsertionPoints.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

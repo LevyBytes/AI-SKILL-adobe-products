@@ -1,0 +1,23 @@
+# After Effects — Selecting Arranging Layers
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Align or distribute layers in 2D space in After Effects. [Align or distribute layers in 2D space](align-or-distribute-layers-in-2-d-space.md).
+- Open when looking up Arrange layers in time sequentially in After Effects. [Arrange layers in time sequentially](arrange-layers-in-time-sequentially.md).
+- Open when looking up Auto-Orientation options in After Effects. [Auto-Orientation options](auto-orientation-options.md).
+- Open when looking up Change the stacking order for selected layers in After Effects. [Change the stacking order for selected layers](change-the-stacking-order-for-selected-layers.md).
+- Open when looking up Coordinate systems: Composition space and layer space in After Effects. [Coordinate systems: Composition space and layer space](coordinate-systems-composition-space-and-layer-space.md).
+- Open when looking up Copy or duplicate a layer in After Effects. [Copy or duplicate a layer](copy-or-duplicate-a-layer.md).
+- Open when looking up Move layers by directly modifying the Position property in After Effects. [Move layers by directly modifying the Position property](move-layers-by-directly-modifying-the-position-property.md).
+- Open when looking up Move layers by dragging in the Composition panel in After Effects. [Move layers by dragging in the Composition panel](move-layers-by-dragging-in-the-composition-panel.md).
+- Open when looking up Move layers in space in After Effects. [Move layers in space](move-layers-in-space.md).
+- Open when looking up Move layers with arrow keys in After Effects. [Move layers with arrow keys](move-layers-with-arrow-keys.md).
+- Open when looking up Place or move a layer in time in After Effects. [Place or move a layer in time](place-or-move-a-layer-in-time.md).
+- Open when looking up Quickly offset your layers and keyframes in After Effects. [Quickly offset your layers and keyframes](quickly-offset-your-layers-and-keyframes.md).
+- Open when looking up Remove part of the duration of a layer in After Effects. [Remove part of the duration of a layer](remove-part-of-the-duration-of-a-layer.md).
+- Open when looking up Select layers in After Effects. [Select layers](select-layers.md).
+- Open when looking up Separate dimensions of Position to animate components individually in After Effects. [Separate dimensions of Position to animate components individually](separate-position-dimensions.md).
+- Open when looking up Slip-edit a layer in After Effects. [Slip-edit a layer](slip-edit-a-layer.md).
+- Open when looking up Split a layer in After Effects. [Split a layer](split-a-layer.md).
+- Open when looking up Trim or extend layers in the Timeline panel in After Effects. [Trim or extend layers in the Timeline panel](trim-or-extend-layers-in-the-timeline-panel.md).
+- Open when looking up Trim, extend, or slip-edit a layer in After Effects. [Trim, extend, or slip-edit a layer](trim-extend-or-slip-edit-a-layer.md).
+- Open when looking up Use keyboard shortcuts to move, trim, or extend time for sets of layers in After Effects. [Use keyboard shortcuts to move, trim, or extend time for sets of layers](layer-timing-shortcuts.md).

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Incompatible scanner driver", "file": "references/desktop/troubleshoot/print-and-scan-issues/unable-to-connect-to-the-scanner/incompatible-scanner-driver.md", "summary": "Open when looking up Incompatible scanner driver in Acrobat.", "keywords": ["Incompatible scanner driver"]},
+  {"topic": "Loose or disconnected cables", "file": "references/desktop/troubleshoot/print-and-scan-issues/unable-to-connect-to-the-scanner/loose-or-disconnected-cables.md", "summary": "Open when looking up Loose or disconnected cables in Acrobat.", "keywords": ["Loose or disconnected cables"]},
+  {"topic": "macOS", "file": "references/desktop/troubleshoot/print-and-scan-issues/unable-to-connect-to-the-scanner/mac-os.md", "summary": "Open when looking up macOS in Acrobat.", "keywords": ["macOS"]},
+  {"topic": "Outdated scanner drivers", "file": "references/desktop/troubleshoot/print-and-scan-issues/unable-to-connect-to-the-scanner/outdated-scanner-drivers.md", "summary": "Open when looking up Outdated scanner drivers in Acrobat.", "keywords": ["Outdated scanner drivers"]},
+  {"topic": "Windows", "file": "references/desktop/troubleshoot/print-and-scan-issues/unable-to-connect-to-the-scanner/windows.md", "summary": "Open when looking up Windows in Acrobat.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

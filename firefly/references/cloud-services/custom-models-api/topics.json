@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "What is the Custom Models API?", "file": "references/cloud-services/custom-models-api/what-is-the-custom-models-api.md", "summary": "Open when looking up What is the Custom Models API? in Firefly.", "keywords": ["What is the Custom Models API?"]},
+  {"topic": "What's new with Image Model 5?", "file": "references/cloud-services/custom-models-api/what-s-new-with-image-model-5.md", "summary": "Open when looking up What's new with Image Model 5? in Firefly.", "keywords": ["What's new with Image Model 5?"]},
+  {"topic": "Why choose Custom Models?", "file": "references/cloud-services/custom-models-api/why-choose-custom-models.md", "summary": "Open when looking up Why choose Custom Models? in Firefly.", "keywords": ["Why choose Custom Models?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

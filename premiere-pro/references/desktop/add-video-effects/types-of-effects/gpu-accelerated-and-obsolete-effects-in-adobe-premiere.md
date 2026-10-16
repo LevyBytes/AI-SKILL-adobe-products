@@ -1,0 +1,76 @@
+# GPU-accelerated effects inventory
+
+Use the Accelerated Effects icon in the Effects panel when you want playback to start immediately without rendering. The accelerated effects below support real-time playback through GPU-accelerated processing.
+
+- 4-Color Gradient
+- ASC CDL
+- Alpha Adjust
+- Alpha Glow
+- Auto Reframe
+- Basic 3D
+- Black & White
+- Block Dissolve
+- Brightness & Contrast
+- Cineon Convertor
+- Color Emboss
+- Color Key
+- Color Pass
+- Color Replace
+- Corner Pin
+- Crop
+- Directional Blur
+- Drop Shadow
+- Edge Feather
+- Extract
+- Find Edges
+- Gamma Correction
+- Gaussian Blur
+- Gradient Wipe
+- Horizontal Flip
+- Invert
+- Lens Distortion
+- Levels
+- Linear Wipe
+- Lumetri Color
+- Magnify
+- Metadata & Timecode Burn-in
+- Mirror
+- Mosaic
+- Noise
+- Offset
+- Posterize
+- ProcAmp
+- Ramp
+- Reduce Interlace Flicker
+- Replicate
+- Roughen Edges
+- SDR Conform
+- Sharpen
+- Simple Text
+- Spherize
+- Strobe Light
+- Tint
+- Track Matte Key
+- Transform
+- Twirl
+- Ultra Key
+- Unsharp mask
+- VR Blur
+- VR Chromatic Aberrations
+- VR Color Gradients
+- VR De-Noise
+- VR Digital Glitch
+- VR Fractal Noise
+- VR Glow
+- VR Plane to Sphere
+- VR Projection
+- VR Rotate Sphere
+- VR Sharpen
+- Vertical Flip
+- Video Limiter
+- Warp Stabilizer
+- Wave Warp
+
+Related references:
+
+- [Obsolete accelerated effects in the captured Adobe list](obsolete-accelerated-effects.md)

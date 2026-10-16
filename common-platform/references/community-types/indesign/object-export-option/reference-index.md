@@ -1,0 +1,30 @@
+# Shared Adobe platform — ObjectExportOption
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ObjectExportOption declaration in Shared Adobe platform. [ObjectExportOption declaration](declaration.md).
+- Open when looking up ObjectExportOption.actualMetadataProperty in Shared Adobe platform. [ObjectExportOption.actualMetadataProperty](actual-metadata-property.md).
+- Open when looking up ObjectExportOption.actualText in Shared Adobe platform. [ObjectExportOption.actualText](actual-text.md).
+- Open when looking up ObjectExportOption.actualTextSourceType in Shared Adobe platform. [ObjectExportOption.actualTextSourceType](actual-text-source-type.md).
+- Open when looking up ObjectExportOption.altMetadataProperty in Shared Adobe platform. [ObjectExportOption.altMetadataProperty](alt-metadata-property.md).
+- Open when looking up ObjectExportOption.altText in Shared Adobe platform. [ObjectExportOption.altText](alt-text.md).
+- Open when looking up ObjectExportOption.altTextSourceType in Shared Adobe platform. [ObjectExportOption.altTextSourceType](alt-text-source-type.md).
+- Open when looking up ObjectExportOption.applyTagType in Shared Adobe platform. [ObjectExportOption.applyTagType](apply-tag-type.md).
+- Open when looking up ObjectExportOption.customActualText in Shared Adobe platform. [ObjectExportOption.customActualText](custom-actual-text.md).
+- Open when looking up ObjectExportOption.customAltText in Shared Adobe platform. [ObjectExportOption.customAltText](custom-alt-text.md).
+- Open when looking up ObjectExportOption.customLayout in Shared Adobe platform. [ObjectExportOption.customLayout](custom-layout.md).
+- Open when looking up ObjectExportOption.customLayoutType in Shared Adobe platform. [ObjectExportOption.customLayoutType](custom-layout-type.md).
+- Open when looking up ObjectExportOption.customSize in Shared Adobe platform. [ObjectExportOption.customSize](custom-size.md).
+- Open when looking up ObjectExportOption.epubType in Shared Adobe platform. [ObjectExportOption.epubType](epub-type.md).
+- Open when looking up ObjectExportOption.gifOptionsInterlaced in Shared Adobe platform. [ObjectExportOption.gifOptionsInterlaced](gif-options-interlaced.md).
+- Open when looking up ObjectExportOption.gifOptionsPalette in Shared Adobe platform. [ObjectExportOption.gifOptionsPalette](gif-options-palette.md).
+- Open when looking up ObjectExportOption.imageAlignment in Shared Adobe platform. [ObjectExportOption.imageAlignment](image-alignment.md).
+- Open when looking up ObjectExportOption.imageConversionType in Shared Adobe platform. [ObjectExportOption.imageConversionType](image-conversion-type.md).
+- Open when looking up ObjectExportOption.imageExportResolution in Shared Adobe platform. [ObjectExportOption.imageExportResolution](image-export-resolution.md).
+- Open when looking up ObjectExportOption.imagePageBreak in Shared Adobe platform. [ObjectExportOption.imagePageBreak](image-page-break.md).
+- Open when looking up ObjectExportOption.imageSpaceAfter in Shared Adobe platform. [ObjectExportOption.imageSpaceAfter](image-space-after.md).
+- Open when looking up ObjectExportOption.imageSpaceBefore in Shared Adobe platform. [ObjectExportOption.imageSpaceBefore](image-space-before.md).
+- Open when looking up ObjectExportOption.jpegOptionsFormat in Shared Adobe platform. [ObjectExportOption.jpegOptionsFormat](jpeg-options-format.md).
+- Open when looking up ObjectExportOption.jpegOptionsQuality in Shared Adobe platform. [ObjectExportOption.jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up ObjectExportOption.preserveAppearanceFromLayout in Shared Adobe platform. [ObjectExportOption.preserveAppearanceFromLayout](preserve-appearance-from-layout.md).
+- Open when looking up ObjectExportOption.sizeType in Shared Adobe platform. [ObjectExportOption.sizeType](size-type.md).
+- Open when looking up ObjectExportOption.useImagePageBreak in Shared Adobe platform. [ObjectExportOption.useImagePageBreak](use-image-page-break.md).

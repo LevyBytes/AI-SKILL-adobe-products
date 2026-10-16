@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "GradientStops.add()", "file": "references/scripting/gradient-stops/add.md", "summary": "Open when looking up GradientStops.add() in Illustrator.", "keywords": ["GradientStops.add()"]},
+  {"topic": "GradientStops.getByName()", "file": "references/scripting/gradient-stops/get-by-name.md", "summary": "Open when looking up GradientStops.getByName() in Illustrator.", "keywords": ["GradientStops.getByName()"]},
+  {"topic": "GradientStops.index()", "file": "references/scripting/gradient-stops/index.md", "summary": "Open when looking up GradientStops.index() in Illustrator.", "keywords": ["GradientStops.index()"]},
+  {"topic": "GradientStops.length", "file": "references/scripting/gradient-stops/length.md", "summary": "Open when looking up GradientStops.length in Illustrator.", "keywords": ["GradientStops.length"]},
+  {"topic": "GradientStops.parent", "file": "references/scripting/gradient-stops/parent.md", "summary": "Open when looking up GradientStops.parent in Illustrator.", "keywords": ["GradientStops.parent"]},
+  {"topic": "GradientStops.removeAll()", "file": "references/scripting/gradient-stops/remove-all.md", "summary": "Open when looking up GradientStops.removeAll() in Illustrator.", "keywords": ["GradientStops.removeAll()"]},
+  {"topic": "GradientStops.typename", "file": "references/scripting/gradient-stops/typename.md", "summary": "Open when looking up GradientStops.typename in Illustrator.", "keywords": ["GradientStops.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

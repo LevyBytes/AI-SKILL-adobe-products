@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "GPU-Accelerated Effect Build Instructions — Mac Setup Instructions", "file": "references/plugin-sdk/mac-setup-instructions/mac-setup-instructions.md", "summary": "Open when looking up GPU-Accelerated Effect Build Instructions — Mac Setup Instructions in After Effects.", "keywords": ["GPU-Accelerated Effect Build Instructions — Mac Setup Instructions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

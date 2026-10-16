@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.invokeCommand", "file": "references/community-types/audition/application/invoke-command.md", "summary": "Open when looking up Application.invokeCommand in Shared Adobe platform.", "keywords": ["Application.invokeCommand"]},
+  {"topic": "Application.isCommandEnabled", "file": "references/community-types/audition/application/is-command-enabled.md", "summary": "Open when looking up Application.isCommandEnabled in Shared Adobe platform.", "keywords": ["Application.isCommandEnabled"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

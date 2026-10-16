@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Draw and snap to anchor points on a glyph", "file": "references/desktop/design-with-text/glyphs-and-special-characters/glyph-snapping/draw-and-snap-to-anchor-points-on-a-glyph.md", "summary": "Open when looking up Draw and snap to anchor points on a glyph in Illustrator.", "keywords": ["Draw and snap to anchor points on a glyph"]},
+  {"topic": "Draw and snap with angular guides on a glyph", "file": "references/desktop/design-with-text/glyphs-and-special-characters/glyph-snapping/draw-and-snap-with-angular-guides-on-a-glyph.md", "summary": "Open when looking up Draw and snap with angular guides on a glyph in Illustrator.", "keywords": ["Draw and snap with angular guides on a glyph"]},
+  {"topic": "Snap to the area text", "file": "references/desktop/design-with-text/glyphs-and-special-characters/glyph-snapping/snap-to-the-area-text.md", "summary": "Open when looking up Snap to the area text in Illustrator.", "keywords": ["Snap to the area text"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

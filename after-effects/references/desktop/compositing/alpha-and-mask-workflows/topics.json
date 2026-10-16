@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Alpha channels and masks", "file": "references/desktop/compositing/alpha-and-mask-workflows/alpha-channels-and-masks.md", "summary": "Open when looking up Alpha channels and masks in After Effects.", "keywords": ["Alpha channels and masks"]},
+  {"topic": "Alpha channels and masks references", "file": "references/desktop/compositing/alpha-and-mask-workflows/alpha-channels-and-masks/reference-index.md", "summary": "Open when looking up Alpha channels and masks in After Effects.", "keywords": ["Alpha channels and masks references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

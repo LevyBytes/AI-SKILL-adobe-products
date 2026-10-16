@@ -1,0 +1,24 @@
+# InDesign — ExcelImportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up alignmentStyle in InDesign. [alignmentStyle](alignment-style.md).
+- Open when looking up decimalPlaces in InDesign. [decimalPlaces](decimal-places.md).
+- Open when looking up errorCode in InDesign. [errorCode](error-code.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preserveGraphics in InDesign. [preserveGraphics](preserve-graphics.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up rangeName in InDesign. [rangeName](range-name.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up sheetIndex in InDesign. [sheetIndex](sheet-index.md).
+- Open when looking up sheetName in InDesign. [sheetName](sheet-name.md).
+- Open when looking up showHiddenCells in InDesign. [showHiddenCells](show-hidden-cells.md).
+- Open when looking up tableFormatting in InDesign. [tableFormatting](table-formatting.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up useTypographersQuotes in InDesign. [useTypographersQuotes](use-typographers-quotes.md).
+- Open when looking up viewName in InDesign. [viewName](view-name.md).

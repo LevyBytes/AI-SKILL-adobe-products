@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Change brush options", "file": "references/desktop/paint-and-fill/apply-and-edit-strokes/modify-brushes/change-brush-options.md", "summary": "Open when looking up Change brush options in Illustrator.", "keywords": ["Change brush options"]},
+  {"topic": "Modify artwork used in a scatter, art, or pattern brush", "file": "references/desktop/paint-and-fill/apply-and-edit-strokes/modify-brushes/modify-artwork-used-in-a-scatter-art-or-pattern-brush.md", "summary": "Open when looking up Modify artwork used in a scatter, art, or pattern brush in Illustrator.", "keywords": ["Modify artwork used in a scatter, art, or pattern brush"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

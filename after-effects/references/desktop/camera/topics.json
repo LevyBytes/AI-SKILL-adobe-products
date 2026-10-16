@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "active", "file": "references/desktop/camera/active.md", "summary": "Open when looking up active in After Effects.", "keywords": ["active"]},
+  {"topic": "aperture", "file": "references/desktop/camera/aperture.md", "summary": "Open when looking up aperture in After Effects.", "keywords": ["aperture"]},
+  {"topic": "blurLevel", "file": "references/desktop/camera/blur-level.md", "summary": "Open when looking up blurLevel in After Effects.", "keywords": ["blurLevel"]},
+  {"topic": "depthOfField", "file": "references/desktop/camera/depth-of-field.md", "summary": "Open when looking up depthOfField in After Effects.", "keywords": ["depthOfField"]},
+  {"topic": "focusDistance", "file": "references/desktop/camera/focus-distance.md", "summary": "Open when looking up focusDistance in After Effects.", "keywords": ["focusDistance"]},
+  {"topic": "highlightGain", "file": "references/desktop/camera/highlight-gain.md", "summary": "Open when looking up highlightGain in After Effects.", "keywords": ["highlightGain"]},
+  {"topic": "highlightSaturation", "file": "references/desktop/camera/highlight-saturation.md", "summary": "Open when looking up highlightSaturation in After Effects.", "keywords": ["highlightSaturation"]},
+  {"topic": "highlightThreshold", "file": "references/desktop/camera/highlight-threshold.md", "summary": "Open when looking up highlightThreshold in After Effects.", "keywords": ["highlightThreshold"]},
+  {"topic": "irisAspectRatio", "file": "references/desktop/camera/iris-aspect-ratio.md", "summary": "Open when looking up irisAspectRatio in After Effects.", "keywords": ["irisAspectRatio"]},
+  {"topic": "irisDiffractionFringe", "file": "references/desktop/camera/iris-diffraction-fringe.md", "summary": "Open when looking up irisDiffractionFringe in After Effects.", "keywords": ["irisDiffractionFringe"]},
+  {"topic": "irisRotation", "file": "references/desktop/camera/iris-rotation.md", "summary": "Open when looking up irisRotation in After Effects.", "keywords": ["irisRotation"]},
+  {"topic": "irisRoundness", "file": "references/desktop/camera/iris-roundness.md", "summary": "Open when looking up irisRoundness in After Effects.", "keywords": ["irisRoundness"]},
+  {"topic": "irisShape", "file": "references/desktop/camera/iris-shape.md", "summary": "Open when looking up irisShape in After Effects.", "keywords": ["irisShape"]},
+  {"topic": "pointOfInterest", "file": "references/desktop/camera/point-of-interest.md", "summary": "Open when looking up pointOfInterest in After Effects.", "keywords": ["pointOfInterest"]},
+  {"topic": "zoom", "file": "references/desktop/camera/zoom.md", "summary": "Open when looking up zoom in After Effects.", "keywords": ["zoom"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

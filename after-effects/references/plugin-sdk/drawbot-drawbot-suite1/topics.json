@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "GetSupplier", "file": "references/plugin-sdk/drawbot-drawbot-suite1/get-supplier.md", "summary": "Open when looking up GetSupplier in After Effects.", "keywords": ["GetSupplier"]},
+  {"topic": "GetSurface", "file": "references/plugin-sdk/drawbot-drawbot-suite1/get-surface.md", "summary": "Open when looking up GetSurface in After Effects.", "keywords": ["GetSurface"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

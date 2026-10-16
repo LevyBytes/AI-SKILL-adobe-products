@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "USE_DOCUMENT", "file": "references/document-model/pdf-profile-selector/usedocument.md", "summary": "Open when looking up USE_DOCUMENT in InDesign.", "keywords": ["USE_DOCUMENT"]},
+  {"topic": "USE_MONITOR_PROFILE", "file": "references/document-model/pdf-profile-selector/usemonitorprofile.md", "summary": "Open when looking up USE_MONITOR_PROFILE in InDesign.", "keywords": ["USE_MONITOR_PROFILE"]},
+  {"topic": "USE_NO_PROFILE", "file": "references/document-model/pdf-profile-selector/usenoprofile.md", "summary": "Open when looking up USE_NO_PROFILE in InDesign.", "keywords": ["USE_NO_PROFILE"]},
+  {"topic": "WORKING", "file": "references/document-model/pdf-profile-selector/working.md", "summary": "Open when looking up WORKING in InDesign.", "keywords": ["WORKING"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Azure Blob Storage example", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-storage-type-considerations/azure-blob-storage-example.md", "summary": "Open when looking up Azure Blob Storage example in Photoshop.", "keywords": ["Azure Blob Storage example"]},
+  {"topic": "Dropbox example", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-storage-type-considerations/dropbox-example.md", "summary": "Open when looking up Dropbox example in Photoshop.", "keywords": ["Dropbox example"]},
+  {"topic": "When to use storageType", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-storage-type-considerations/when-to-use-storage-type.md", "summary": "Open when looking up When to use storageType in Photoshop.", "keywords": ["When to use storageType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

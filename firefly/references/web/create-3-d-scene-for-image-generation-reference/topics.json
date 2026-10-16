@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Use shapes to build a 3D scene for image generation", "file": "references/web/create-3-d-scene-for-image-generation-reference/use-shapes-to-build-a-3-d-scene-for-image-generation.md", "summary": "Open when looking up Use shapes to build a 3D scene for image generation in Firefly.", "keywords": ["Use shapes to build a 3D scene for image generation"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

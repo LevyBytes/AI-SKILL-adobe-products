@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Vendors references", "file": "references/desktop/plugins/vendors/reference-index.md", "summary": "Open when looking up Vendors in After Effects.", "keywords": ["Vendors references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

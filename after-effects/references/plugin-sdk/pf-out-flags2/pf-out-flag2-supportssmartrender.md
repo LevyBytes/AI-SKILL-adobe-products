@@ -1,0 +1,5 @@
+# PF_OutFlag2_SUPPORTS_SMART_RENDER
+
+`PF_OutFlag2_SUPPORTS_SMART_RENDER`
+
+The effect uses the SmartFX API.

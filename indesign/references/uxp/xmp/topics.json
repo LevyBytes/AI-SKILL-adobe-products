@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Creating new metadata", "file": "references/uxp/xmp/creating-new-metadata.md", "summary": "Open when looking up Creating new metadata in InDesign.", "keywords": ["Creating new metadata"]},
+  {"topic": "Modifying existing metadata", "file": "references/uxp/xmp/modifying-existing-metadata.md", "summary": "Open when looking up Modifying existing metadata in InDesign.", "keywords": ["Modifying existing metadata"]},
+  {"topic": "require('uxp').xmp", "file": "references/uxp/xmp/require-uxp-xmp.md", "summary": "Open when looking up require('uxp').xmp in InDesign.", "keywords": ["require('uxp').xmp"]},
+  {"topic": "Using the XMP scripting API", "file": "references/uxp/xmp/using-the-xmp-scripting-api.md", "summary": "Open when looking up Using the XMP scripting API in InDesign.", "keywords": ["Using the XMP scripting API"]},
+  {"topic": "Using XMPFile for batch processing", "file": "references/uxp/xmp/using-xmp-file-for-batch-processing.md", "summary": "Open when looking up Using XMPFile for batch processing in InDesign.", "keywords": ["Using XMPFile for batch processing"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

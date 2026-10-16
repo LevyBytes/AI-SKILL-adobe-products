@@ -1,0 +1,35 @@
+# Shared Adobe platform — PlaceGun
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PlaceGun declaration in Shared Adobe platform. [PlaceGun declaration](declaration.md).
+- Open when looking up PlaceGun.abortPlaceGun in Shared Adobe platform. [PlaceGun.abortPlaceGun](abort-place-gun.md).
+- Open when looking up PlaceGun.buttons in Shared Adobe platform. [PlaceGun.buttons](buttons.md).
+- Open when looking up PlaceGun.checkBoxes in Shared Adobe platform. [PlaceGun.checkBoxes](check-boxes.md).
+- Open when looking up PlaceGun.comboBoxes in Shared Adobe platform. [PlaceGun.comboBoxes](combo-boxes.md).
+- Open when looking up PlaceGun.epss in Shared Adobe platform. [PlaceGun.epss](epss.md).
+- Open when looking up PlaceGun.epstexts in Shared Adobe platform. [PlaceGun.epstexts](epstexts.md).
+- Open when looking up PlaceGun.formFields in Shared Adobe platform. [PlaceGun.formFields](form-fields.md).
+- Open when looking up PlaceGun.graphicLines in Shared Adobe platform. [PlaceGun.graphicLines](graphic-lines.md).
+- Open when looking up PlaceGun.graphics in Shared Adobe platform. [PlaceGun.graphics](graphics.md).
+- Open when looking up PlaceGun.groups in Shared Adobe platform. [PlaceGun.groups](groups.md).
+- Open when looking up PlaceGun.images in Shared Adobe platform. [PlaceGun.images](images.md).
+- Open when looking up PlaceGun.importedPages in Shared Adobe platform. [PlaceGun.importedPages](imported-pages.md).
+- Open when looking up PlaceGun.listBoxes in Shared Adobe platform. [PlaceGun.listBoxes](list-boxes.md).
+- Open when looking up PlaceGun.loaded in Shared Adobe platform. [PlaceGun.loaded](loaded.md).
+- Open when looking up PlaceGun.loadPlaceGun in Shared Adobe platform. [PlaceGun.loadPlaceGun](load-place-gun.md).
+- Open when looking up PlaceGun.multiStateObjects in Shared Adobe platform. [PlaceGun.multiStateObjects](multi-state-objects.md).
+- Open when looking up PlaceGun.ovals in Shared Adobe platform. [PlaceGun.ovals](ovals.md).
+- Open when looking up PlaceGun.pageItems in Shared Adobe platform. [PlaceGun.pageItems](page-items.md).
+- Open when looking up PlaceGun.pdfs in Shared Adobe platform. [PlaceGun.pdfs](pdfs.md).
+- Open when looking up PlaceGun.picts in Shared Adobe platform. [PlaceGun.picts](picts.md).
+- Open when looking up PlaceGun.polygons in Shared Adobe platform. [PlaceGun.polygons](polygons.md).
+- Open when looking up PlaceGun.radioButtons in Shared Adobe platform. [PlaceGun.radioButtons](radio-buttons.md).
+- Open when looking up PlaceGun.rectangles in Shared Adobe platform. [PlaceGun.rectangles](rectangles.md).
+- Open when looking up PlaceGun.rotate in Shared Adobe platform. [PlaceGun.rotate](rotate.md).
+- Open when looking up PlaceGun.signatureFields in Shared Adobe platform. [PlaceGun.signatureFields](signature-fields.md).
+- Open when looking up PlaceGun.snippets in Shared Adobe platform. [PlaceGun.snippets](snippets.md).
+- Open when looking up PlaceGun.splineItems in Shared Adobe platform. [PlaceGun.splineItems](spline-items.md).
+- Open when looking up PlaceGun.svgs in Shared Adobe platform. [PlaceGun.svgs](svgs.md).
+- Open when looking up PlaceGun.textBoxes in Shared Adobe platform. [PlaceGun.textBoxes](text-boxes.md).
+- Open when looking up PlaceGun.textFrames in Shared Adobe platform. [PlaceGun.textFrames](text-frames.md).
+- Open when looking up PlaceGun.wmfs in Shared Adobe platform. [PlaceGun.wmfs](wmfs.md).

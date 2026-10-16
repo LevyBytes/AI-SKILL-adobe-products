@@ -1,0 +1,29 @@
+# Shared Adobe platform — Stroke
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Stroke declaration in Shared Adobe platform. [Stroke declaration](declaration.md).
+- Open when looking up Stroke.breakAtCorners in Shared Adobe platform. [Stroke.breakAtCorners](break-at-corners.md).
+- Open when looking up Stroke.capType in Shared Adobe platform. [Stroke.capType](cap-type.md).
+- Open when looking up Stroke.color in Shared Adobe platform. [Stroke.color](color.md).
+- Open when looking up Stroke.curve in Shared Adobe platform. [Stroke.curve](curve.md).
+- Open when looking up Stroke.dash1 in Shared Adobe platform. [Stroke.dash1](dash1.md).
+- Open when looking up Stroke.dash2 in Shared Adobe platform. [Stroke.dash2](dash2.md).
+- Open when looking up Stroke.density in Shared Adobe platform. [Stroke.density](density.md).
+- Open when looking up Stroke.dotSize in Shared Adobe platform. [Stroke.dotSize](dot-size.md).
+- Open when looking up Stroke.dotSpace in Shared Adobe platform. [Stroke.dotSpace](dot-space.md).
+- Open when looking up Stroke.hatchThickness in Shared Adobe platform. [Stroke.hatchThickness](hatch-thickness.md).
+- Open when looking up Stroke.jiggle in Shared Adobe platform. [Stroke.jiggle](jiggle.md).
+- Open when looking up Stroke.joinType in Shared Adobe platform. [Stroke.joinType](join-type.md).
+- Open when looking up Stroke.length in Shared Adobe platform. [Stroke.length](length.md).
+- Open when looking up Stroke.miterLimit in Shared Adobe platform. [Stroke.miterLimit](miter-limit.md).
+- Open when looking up Stroke.pattern in Shared Adobe platform. [Stroke.pattern](pattern.md).
+- Open when looking up Stroke.rotate in Shared Adobe platform. [Stroke.rotate](rotate.md).
+- Open when looking up Stroke.scaleType in Shared Adobe platform. [Stroke.scaleType](scale-type.md).
+- Open when looking up Stroke.shapeFill in Shared Adobe platform. [Stroke.shapeFill](shape-fill.md).
+- Open when looking up Stroke.space in Shared Adobe platform. [Stroke.space](space.md).
+- Open when looking up Stroke.strokeHinting in Shared Adobe platform. [Stroke.strokeHinting](stroke-hinting.md).
+- Open when looking up Stroke.style in Shared Adobe platform. [Stroke.style](style.md).
+- Open when looking up Stroke.thickness in Shared Adobe platform. [Stroke.thickness](thickness.md).
+- Open when looking up Stroke.variation in Shared Adobe platform. [Stroke.variation](variation.md).
+- Open when looking up Stroke.waveHeight in Shared Adobe platform. [Stroke.waveHeight](wave-height.md).
+- Open when looking up Stroke.waveLength in Shared Adobe platform. [Stroke.waveLength](wave-length.md).

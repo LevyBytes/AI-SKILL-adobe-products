@@ -1,0 +1,87 @@
+# Shared Adobe platform — Application: audio effects and processing
+
+Open when working with audio effects and processing in Shared Adobe platform — Application.
+
+Open when selecting an exact reference: [Topic catalog](context-effects-commands.json).
+
+- Open when looking up Application.COMMAND_EFFECTS_ADAPTIVENOISEREDUCTION in Shared Adobe platform [Application.COMMAND_EFFECTS_ADAPTIVENOISEREDUCTION](commandeffectsadaptivenoisereduction.md).
+- Open when looking up Application.COMMAND_EFFECTS_AMPLIFY in Shared Adobe platform [Application.COMMAND_EFFECTS_AMPLIFY](commandeffectsamplify.md).
+- Open when looking up Application.COMMAND_EFFECTS_ANALOGDELAY in Shared Adobe platform [Application.COMMAND_EFFECTS_ANALOGDELAY](commandeffectsanalogdelay.md).
+- Open when looking up Application.COMMAND_EFFECTS_AUTOCLICKREMOVER in Shared Adobe platform [Application.COMMAND_EFFECTS_AUTOCLICKREMOVER](commandeffectsautoclickremover.md).
+- Open when looking up Application.COMMAND_EFFECTS_AUTOPHASECORRECTION in Shared Adobe platform [Application.COMMAND_EFFECTS_AUTOPHASECORRECTION](commandeffectsautophasecorrection.md).
+- Open when looking up Application.COMMAND_EFFECTS_CAPTUREDYNAMICNOISEREMOVALPROFILE in Shared Adobe platform [Application.COMMAND_EFFECTS_CAPTUREDYNAMICNOISEREMOVALPROFILE](commandeffectscapturedynamicnoiseremovalprofile.md).
+- Open when looking up Application.COMMAND_EFFECTS_CAPTURENOISEREDUCTIONPROFILE in Shared Adobe platform [Application.COMMAND_EFFECTS_CAPTURENOISEREDUCTIONPROFILE](commandeffectscapturenoisereductionprofile.md).
+- Open when looking up Application.COMMAND_EFFECTS_CENTERCHANNELEXTRACT in Shared Adobe platform [Application.COMMAND_EFFECTS_CENTERCHANNELEXTRACT](commandeffectscenterchannelextract.md).
+- Open when looking up Application.COMMAND_EFFECTS_CHANNELMIXER in Shared Adobe platform [Application.COMMAND_EFFECTS_CHANNELMIXER](commandeffectschannelmixer.md).
+- Open when looking up Application.COMMAND_EFFECTS_CHORUS in Shared Adobe platform [Application.COMMAND_EFFECTS_CHORUS](commandeffectschorus.md).
+- Open when looking up Application.COMMAND_EFFECTS_CHORUSFLANGER in Shared Adobe platform [Application.COMMAND_EFFECTS_CHORUSFLANGER](commandeffectschorusflanger.md).
+- Open when looking up Application.COMMAND_EFFECTS_CLEAREFFECTSRACK in Shared Adobe platform [Application.COMMAND_EFFECTS_CLEAREFFECTSRACK](commandeffectscleareffectsrack.md).
+- Open when looking up Application.COMMAND_EFFECTS_CLICKPOPELIMINATOR in Shared Adobe platform [Application.COMMAND_EFFECTS_CLICKPOPELIMINATOR](commandeffectsclickpopeliminator.md).
+- Open when looking up Application.COMMAND_EFFECTS_CLICKPOPELIMINATORANALYSIS in Shared Adobe platform [Application.COMMAND_EFFECTS_CLICKPOPELIMINATORANALYSIS](commandeffectsclickpopeliminatoranalysis.md).
+- Open when looking up Application.COMMAND_EFFECTS_CLIPRESTORATIONANALYSIS in Shared Adobe platform [Application.COMMAND_EFFECTS_CLIPRESTORATIONANALYSIS](commandeffectscliprestorationanalysis.md).
+- Open when looking up Application.COMMAND_EFFECTS_CONVOLUTIONREVERB in Shared Adobe platform [Application.COMMAND_EFFECTS_CONVOLUTIONREVERB](commandeffectsconvolutionreverb.md).
+- Open when looking up Application.COMMAND_EFFECTS_DEESSER in Shared Adobe platform [Application.COMMAND_EFFECTS_DEESSER](commandeffectsdeesser.md).
+- Open when looking up Application.COMMAND_EFFECTS_DEHUMMER in Shared Adobe platform [Application.COMMAND_EFFECTS_DEHUMMER](commandeffectsdehummer.md).
+- Open when looking up Application.COMMAND_EFFECTS_DELAY in Shared Adobe platform [Application.COMMAND_EFFECTS_DELAY](commandeffectsdelay.md).
+- Open when looking up Application.COMMAND_EFFECTS_DELETEALLEFFECTS in Shared Adobe platform [Application.COMMAND_EFFECTS_DELETEALLEFFECTS](commandeffectsdeletealleffects.md).
+- Open when looking up Application.COMMAND_EFFECTS_DELETESELECTEDEFFECTS in Shared Adobe platform [Application.COMMAND_EFFECTS_DELETESELECTEDEFFECTS](commandeffectsdeleteselectedeffects.md).
+- Open when looking up Application.COMMAND_EFFECTS_DELETESILENCEANALYSIS in Shared Adobe platform [Application.COMMAND_EFFECTS_DELETESILENCEANALYSIS](commandeffectsdeletesilenceanalysis.md).
+- Open when looking up Application.COMMAND_EFFECTS_DISTORTION in Shared Adobe platform [Application.COMMAND_EFFECTS_DISTORTION](commandeffectsdistortion.md).
+- Open when looking up Application.COMMAND_EFFECTS_DOPPLER in Shared Adobe platform [Application.COMMAND_EFFECTS_DOPPLER](commandeffectsdoppler.md).
+- Open when looking up Application.COMMAND_EFFECTS_DYNAMICS in Shared Adobe platform [Application.COMMAND_EFFECTS_DYNAMICS](commandeffectsdynamics.md).
+- Open when looking up Application.COMMAND_EFFECTS_ECHO in Shared Adobe platform [Application.COMMAND_EFFECTS_ECHO](commandeffectsecho.md).
+- Open when looking up Application.COMMAND_EFFECTS_EDITCLIPEFFECTS in Shared Adobe platform [Application.COMMAND_EFFECTS_EDITCLIPEFFECTS](commandeffectseditclipeffects.md).
+- Open when looking up Application.COMMAND_EFFECTS_EDITSELECTEDEFFECT in Shared Adobe platform [Application.COMMAND_EFFECTS_EDITSELECTEDEFFECT](commandeffectseditselectedeffect.md).
+- Open when looking up Application.COMMAND_EFFECTS_EDITTRACKEFFECTS in Shared Adobe platform [Application.COMMAND_EFFECTS_EDITTRACKEFFECTS](commandeffectsedittrackeffects.md).
+- Open when looking up Application.COMMAND_EFFECTS_EFFECTSRACKPANELTOFRONTANDACTIVE in Shared Adobe platform [Application.COMMAND_EFFECTS_EFFECTSRACKPANELTOFRONTANDACTIVE](commandeffectseffectsrackpaneltofrontandactive.md).
+- Open when looking up Application.COMMAND_EFFECTS_FADEENVELOPE in Shared Adobe platform [Application.COMMAND_EFFECTS_FADEENVELOPE](commandeffectsfadeenvelope.md).
+- Open when looking up Application.COMMAND_EFFECTS_FFTFILTER in Shared Adobe platform [Application.COMMAND_EFFECTS_FFTFILTER](commandeffectsfftfilter.md).
+- Open when looking up Application.COMMAND_EFFECTS_FLANGER in Shared Adobe platform [Application.COMMAND_EFFECTS_FLANGER](commandeffectsflanger.md).
+- Open when looking up Application.COMMAND_EFFECTS_FULLREVERB in Shared Adobe platform [Application.COMMAND_EFFECTS_FULLREVERB](commandeffectsfullreverb.md).
+- Open when looking up Application.COMMAND_EFFECTS_GAINENVELOPE in Shared Adobe platform [Application.COMMAND_EFFECTS_GAINENVELOPE](commandeffectsgainenvelope.md).
+- Open when looking up Application.COMMAND_EFFECTS_GENERATENOISE in Shared Adobe platform [Application.COMMAND_EFFECTS_GENERATENOISE](commandeffectsgeneratenoise.md).
+- Open when looking up Application.COMMAND_EFFECTS_GENERATESPEECH in Shared Adobe platform [Application.COMMAND_EFFECTS_GENERATESPEECH](commandeffectsgeneratespeech.md).
+- Open when looking up Application.COMMAND_EFFECTS_GENERATETONES in Shared Adobe platform [Application.COMMAND_EFFECTS_GENERATETONES](commandeffectsgeneratetones.md).
+- Open when looking up Application.COMMAND_EFFECTS_GRAPHICEQ10BANDS in Shared Adobe platform [Application.COMMAND_EFFECTS_GRAPHICEQ10BANDS](commandeffectsgraphiceq10-bands.md).
+- Open when looking up Application.COMMAND_EFFECTS_GRAPHICEQ20BANDS in Shared Adobe platform [Application.COMMAND_EFFECTS_GRAPHICEQ20BANDS](commandeffectsgraphiceq20-bands.md).
+- Open when looking up Application.COMMAND_EFFECTS_GRAPHICEQ30BANDS in Shared Adobe platform [Application.COMMAND_EFFECTS_GRAPHICEQ30BANDS](commandeffectsgraphiceq30-bands.md).
+- Open when looking up Application.COMMAND_EFFECTS_GRAPHICPHASESHIFTER in Shared Adobe platform [Application.COMMAND_EFFECTS_GRAPHICPHASESHIFTER](commandeffectsgraphicphaseshifter.md).
+- Open when looking up Application.COMMAND_EFFECTS_GUITARSUITE in Shared Adobe platform [Application.COMMAND_EFFECTS_GUITARSUITE](commandeffectsguitarsuite.md).
+- Open when looking up Application.COMMAND_EFFECTS_HARDLIMIT in Shared Adobe platform [Application.COMMAND_EFFECTS_HARDLIMIT](commandeffectshardlimit.md).
+- Open when looking up Application.COMMAND_EFFECTS_HISSREDUCTIONPROCESS in Shared Adobe platform [Application.COMMAND_EFFECTS_HISSREDUCTIONPROCESS](commandeffectshissreductionprocess.md).
+- Open when looking up Application.COMMAND_EFFECTS_INTRACLIP in Shared Adobe platform [Application.COMMAND_EFFECTS_INTRACLIP](commandeffectsintraclip.md).
+- Open when looking up Application.COMMAND_EFFECTS_INVERT in Shared Adobe platform [Application.COMMAND_EFFECTS_INVERT](commandeffectsinvert.md).
+- Open when looking up Application.COMMAND_EFFECTS_MARKAUDIOANALYSIS in Shared Adobe platform [Application.COMMAND_EFFECTS_MARKAUDIOANALYSIS](commandeffectsmarkaudioanalysis.md).
+- Open when looking up Application.COMMAND_EFFECTS_MASTERING in Shared Adobe platform [Application.COMMAND_EFFECTS_MASTERING](commandeffectsmastering.md).
+- Open when looking up Application.COMMAND_EFFECTS_MATCHVOLUME in Shared Adobe platform [Application.COMMAND_EFFECTS_MATCHVOLUME](commandeffectsmatchvolume.md).
+- Open when looking up Application.COMMAND_EFFECTS_MULTIBANDCOMPRESSOR in Shared Adobe platform [Application.COMMAND_EFFECTS_MULTIBANDCOMPRESSOR](commandeffectsmultibandcompressor.md).
+- Open when looking up Application.COMMAND_EFFECTS_NOISEREDUCTIONPROCESS in Shared Adobe platform [Application.COMMAND_EFFECTS_NOISEREDUCTIONPROCESS](commandeffectsnoisereductionprocess.md).
+- Open when looking up Application.COMMAND_EFFECTS_NORMALIZE in Shared Adobe platform [Application.COMMAND_EFFECTS_NORMALIZE](commandeffectsnormalize.md).
+- Open when looking up Application.COMMAND_EFFECTS_NOTCHFILTER in Shared Adobe platform [Application.COMMAND_EFFECTS_NOTCHFILTER](commandeffectsnotchfilter.md).
+- Open when looking up Application.COMMAND_EFFECTS_PARAMETRICDYNAMICS in Shared Adobe platform [Application.COMMAND_EFFECTS_PARAMETRICDYNAMICS](commandeffectsparametricdynamics.md).
+- Open when looking up Application.COMMAND_EFFECTS_PARAMETRICEQ in Shared Adobe platform [Application.COMMAND_EFFECTS_PARAMETRICEQ](commandeffectsparametriceq.md).
+- Open when looking up Application.COMMAND_EFFECTS_PHASER in Shared Adobe platform [Application.COMMAND_EFFECTS_PHASER](commandeffectsphaser.md).
+- Open when looking up Application.COMMAND_EFFECTS_PITCHBENDER in Shared Adobe platform [Application.COMMAND_EFFECTS_PITCHBENDER](commandeffectspitchbender.md).
+- Open when looking up Application.COMMAND_EFFECTS_PITCHCORRECT in Shared Adobe platform [Application.COMMAND_EFFECTS_PITCHCORRECT](commandeffectspitchcorrect.md).
+- Open when looking up Application.COMMAND_EFFECTS_PITCHCORRECTMANUAL in Shared Adobe platform [Application.COMMAND_EFFECTS_PITCHCORRECTMANUAL](commandeffectspitchcorrectmanual.md).
+- Open when looking up Application.COMMAND_EFFECTS_PITCHSHIFTER in Shared Adobe platform [Application.COMMAND_EFFECTS_PITCHSHIFTER](commandeffectspitchshifter.md).
+- Open when looking up Application.COMMAND_EFFECTS_PLUGINMANAGER in Shared Adobe platform [Application.COMMAND_EFFECTS_PLUGINMANAGER](commandeffectspluginmanager.md).
+- Open when looking up Application.COMMAND_EFFECTS_POWEREFFECTSRACK in Shared Adobe platform [Application.COMMAND_EFFECTS_POWEREFFECTSRACK](commandeffectspowereffectsrack.md).
+- Open when looking up Application.COMMAND_EFFECTS_POWERSELECTEDEFFECTS in Shared Adobe platform [Application.COMMAND_EFFECTS_POWERSELECTEDEFFECTS](commandeffectspowerselectedeffects.md).
+- Open when looking up Application.COMMAND_EFFECTS_RADARMETER in Shared Adobe platform [Application.COMMAND_EFFECTS_RADARMETER](commandeffectsradarmeter.md).
+- Open when looking up Application.COMMAND_EFFECTS_RENDEREFFECTSRACK in Shared Adobe platform [Application.COMMAND_EFFECTS_RENDEREFFECTSRACK](commandeffectsrendereffectsrack.md).
+- Open when looking up Application.COMMAND_EFFECTS_REPAIR in Shared Adobe platform [Application.COMMAND_EFFECTS_REPAIR](commandeffectsrepair.md).
+- Open when looking up Application.COMMAND_EFFECTS_REVERB in Shared Adobe platform [Application.COMMAND_EFFECTS_REVERB](commandeffectsreverb.md).
+- Open when looking up Application.COMMAND_EFFECTS_REVERSE in Shared Adobe platform [Application.COMMAND_EFFECTS_REVERSE](commandeffectsreverse.md).
+- Open when looking up Application.COMMAND_EFFECTS_SCIENTIFICFILTER in Shared Adobe platform [Application.COMMAND_EFFECTS_SCIENTIFICFILTER](commandeffectsscientificfilter.md).
+- Open when looking up Application.COMMAND_EFFECTS_SILENCE in Shared Adobe platform [Application.COMMAND_EFFECTS_SILENCE](commandeffectssilence.md).
+- Open when looking up Application.COMMAND_EFFECTS_SINGLEBANDCOMPRESSOR in Shared Adobe platform [Application.COMMAND_EFFECTS_SINGLEBANDCOMPRESSOR](commandeffectssinglebandcompressor.md).
+- Open when looking up Application.COMMAND_EFFECTS_SOUNDREMOVALPROCESS in Shared Adobe platform [Application.COMMAND_EFFECTS_SOUNDREMOVALPROCESS](commandeffectssoundremovalprocess.md).
+- Open when looking up Application.COMMAND_EFFECTS_STEREOEXPANDER in Shared Adobe platform [Application.COMMAND_EFFECTS_STEREOEXPANDER](commandeffectsstereoexpander.md).
+- Open when looking up Application.COMMAND_EFFECTS_STRETCH in Shared Adobe platform [Application.COMMAND_EFFECTS_STRETCH](commandeffectsstretch.md).
+- Open when looking up Application.COMMAND_EFFECTS_STUDIOREVERB in Shared Adobe platform [Application.COMMAND_EFFECTS_STUDIOREVERB](commandeffectsstudioreverb.md).
+- Open when looking up Application.COMMAND_EFFECTS_SURROUNDREVERB in Shared Adobe platform [Application.COMMAND_EFFECTS_SURROUNDREVERB](commandeffectssurroundreverb.md).
+- Open when looking up Application.COMMAND_EFFECTS_TUBEMODELEDCOMPRESSOR in Shared Adobe platform [Application.COMMAND_EFFECTS_TUBEMODELEDCOMPRESSOR](commandeffectstubemodeledcompressor.md).
+- Open when looking up Application.COMMAND_EFFECTS_VOCALENHANCER in Shared Adobe platform [Application.COMMAND_EFFECTS_VOCALENHANCER](commandeffectsvocalenhancer.md).
+
+[Context index](reference-index.md)

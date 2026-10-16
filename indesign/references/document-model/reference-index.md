@@ -1,0 +1,63 @@
+# InDesign — InDesign document object model
+
+Open when selecting a task context: [Topic catalog](topics.json).
+
+- Open when working with application state and runtime in InDesign — InDesign document object model. [Application state and runtime](context-application.md).
+- Open when working with scripts, tasks and application events in InDesign — InDesign document object model. [Scripts, tasks and application events](context-scripting.md).
+- Open when working with workspace, windows and menus in InDesign — InDesign document object model. [Workspace, windows and menus](context-workspace.md).
+- Open when working with script dialog containers in InDesign — InDesign document object model. [Script dialog containers](context-dialog-containers.md).
+- Open when working with script dialog inputs and widgets in InDesign — InDesign document object model. [Script dialog inputs and widgets](context-dialog-inputs.md).
+- Open when working with documents, books and persistence in InDesign — InDesign document object model. [Documents, books and persistence](context-documents.md).
+- Open when working with pages, spreads and layout rules in InDesign — InDesign document object model. [Pages, spreads and layout rules](context-page-layout.md).
+- Open when working with bounds, dimensions and transforms in InDesign — InDesign document object model. [Bounds, dimensions and transforms](context-geometry.md).
+- Open when working with grids, guides and baselines in InDesign — InDesign document object model. [Grids, guides and baselines](context-grids-guides.md).
+- Open when working with text frames, wrapping and autosizing in InDesign — InDesign document object model. [Text frames, wrapping and autosizing](context-frame-flow.md).
+- Open when working with anchored objects and reference points in InDesign — InDesign document object model. [Anchored objects and reference points](context-anchored-placement.md).
+- Open when working with page items, layers and groups in InDesign — InDesign document object model. [Page items, layers and groups](context-page-items.md).
+- Open when working with paths, outlines and shapes in InDesign — InDesign document object model. [Paths, outlines and shapes](context-paths.md).
+- Open when working with libraries, assets and snippets in InDesign — InDesign document object model. [Libraries, assets and snippets](context-asset-libraries.md).
+- Open when working with place graphics and manage links in InDesign — InDesign document object model. [Place graphics and manage links](context-placed-media.md).
+- Open when working with fit and clip graphic content in InDesign — InDesign document object model. [Fit and clip graphic content](context-fitting-clipping.md).
+- Open when working with colors, swatches, inks and gradients in InDesign — InDesign document object model. [Colors, swatches, inks and gradients](context-color-resources.md).
+- Open when working with color profiles and rendering intents in InDesign — InDesign document object model. [Color profiles and rendering intents](context-color-management.md).
+- Open when working with strokes, corners and arrowheads in InDesign — InDesign document object model. [Strokes, corners and arrowheads](context-strokes.md).
+- Open when working with transparency and appearance effects in InDesign — InDesign document object model. [Transparency and appearance effects](context-transparency-effects.md).
+- Open when working with stories, paragraphs and text ranges in InDesign — InDesign document object model. [Stories, paragraphs and text ranges](context-text-ranges.md).
+- Open when working with fonts, glyphs and opentype in InDesign — InDesign document object model. [Fonts, glyphs and OpenType](context-fonts.md).
+- Open when working with character alignment and metrics in InDesign — InDesign document object model. [Character alignment and metrics](context-character-spacing.md).
+- Open when working with paragraph composition, rules and spacing in InDesign — InDesign document object model. [Paragraph composition, rules and spacing](context-paragraph-composition.md).
+- Open when working with hyphenation and dictionaries in InDesign — InDesign document object model. [Hyphenation and dictionaries](context-hyphenation.md).
+- Open when working with cjk composition and emphasis in InDesign — InDesign document object model. [CJK composition and emphasis](context-cjk-writing.md).
+- Open when working with language and writing direction in InDesign — InDesign document object model. [Language and writing direction](context-language-direction.md).
+- Open when working with character, paragraph and nested styles in InDesign — InDesign document object model. [Character, paragraph and nested styles](context-text-styles.md).
+- Open when working with object styles and enabled attributes in InDesign — InDesign document object model. [Object styles and enabled attributes](context-object-styles.md).
+- Open when working with bullets and numbered lists in InDesign — InDesign document object model. [Bullets and numbered lists](context-lists.md).
+- Open when working with footnotes, endnotes and notes in InDesign — InDesign document object model. [Footnotes, endnotes and notes](context-notes.md).
+- Open when working with text variables and metadata captions in InDesign — InDesign document object model. [Text variables and metadata captions](context-variables.md).
+- Open when working with search, replace and transliteration in InDesign — InDesign document object model. [Search, replace and transliteration](context-find-replace.md).
+- Open when working with editorial changes, comments and synchronization in InDesign — InDesign document object model. [Editorial changes, comments and synchronization](context-editorial-review.md).
+- Open when working with text and spreadsheet interchange in InDesign — InDesign document object model. [Text and spreadsheet interchange](context-text-import-export.md).
+- Open when working with tables, rows and cells in InDesign — InDesign document object model. [Tables, rows and cells](context-table-structure.md).
+- Open when working with table and cell styles in InDesign — InDesign document object model. [Table and cell styles](context-table-styles.md).
+- Open when working with alternating table fills and stroke ordering in InDesign — InDesign document object model. [Alternating table fills and stroke ordering](context-table-fills.md).
+- Open when working with data merge sources and fields in InDesign — InDesign document object model. [Data merge sources and fields](context-data-merge.md).
+- Open when working with indexes, topics and cross-references in InDesign — InDesign document object model. [Indexes, topics and cross-references](context-cross-references.md).
+- Open when working with hyperlinks, bookmarks and article order in InDesign — InDesign document object model. [Hyperlinks, bookmarks and article order](context-hyperlinks-articles.md).
+- Open when working with xml structure, rules and validation in InDesign — InDesign document object model. [XML structure, rules and validation](context-xml.md).
+- Open when working with metadata, accessibility and tagging in InDesign — InDesign document object model. [Metadata, accessibility and tagging](context-metadata-accessibility.md).
+- Open when working with interactive form fields and states in InDesign — InDesign document object model. [Interactive form fields and states](context-interactive-fields.md).
+- Open when working with interactive navigation and page transitions in InDesign — InDesign document object model. [Interactive navigation and page transitions](context-interactive-navigation.md).
+- Open when working with animation and timing in InDesign — InDesign document object model. [Animation and timing](context-animation.md).
+- Open when working with audio and video playback in InDesign — InDesign document object model. [Audio and video playback](context-audio-video.md).
+- Open when working with epub, html, folios and publishing in InDesign — InDesign document object model. [EPUB, HTML, folios and publishing](context-digital-publishing.md).
+- Open when working with raster and image export formats in InDesign — InDesign document object model. [Raster and image export formats](context-image-export.md).
+- Open when working with document import and export choices in InDesign — InDesign document object model. [Document import and export choices](context-document-export.md).
+- Open when working with pdf export, placement and compatibility in InDesign — InDesign document object model. [PDF export, placement and compatibility](context-pdf-output.md).
+- Open when working with printing, paper and imposition in InDesign — InDesign document object model. [Printing, paper and imposition](context-printing.md).
+- Open when working with printer marks and screening in InDesign — InDesign document object model. [Printer marks and screening](context-print-marks.md).
+- Open when working with preflight processes, profiles and rules in InDesign — InDesign document object model. [Preflight processes, profiles and rules](context-preflight.md).
+- Open when working with transparency flattening and trapping in InDesign — InDesign document object model. [Transparency flattening and trapping](context-flatten-trap.md).
+- Open when working with clipboard, autocorrection and spelling in InDesign — InDesign document object model. [Clipboard, autocorrection and spelling](context-editing-defaults.md).
+- Open when working with shared api values and sorting in InDesign — InDesign document object model. [Shared API values and sorting](context-api-values.md).
+- Open when working with text on paths in InDesign — InDesign document object model. [Text on paths](context-text-paths.md).
+- Open when working with watermarks in InDesign — InDesign document object model. [Watermarks](context-watermarks.md).

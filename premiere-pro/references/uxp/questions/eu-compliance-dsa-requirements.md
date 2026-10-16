@@ -1,0 +1,6 @@
+# 🇪🇺 EU Compliance & DSA Requirements
+
+- [Why is my plugin not visible in the EU region?](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/resources/faq/index.md#why-is-my-plugin-not-visible-in-the-eu-region)
+- [How can I update my trader details in the publisher profile after submission?](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/resources/faq/index.md#how-can-i-update-my-trader-details-in-the-publisher-profile-after-submission)
+- [What happens if an EU user has a deep link to my plugin and I am not compliant with the European Union Digital Services Act (DSA) trader requirements?](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/resources/faq/index.md#what-happens-if-an-eu-user-has-a-deep-link-to-my-plugin-and-i-am-not-compliant-with-the-european-union-digital-services-act-dsa-trader-requirements)
+- [Can an EU user still use my plugin if they have already installed it, but I am not compliant with the DSA trader requirements?](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/resources/faq/index.md#can-an-eu-user-still-use-my-plugin-if-they-have-already-installed-it-but-i-am-not-compliant-with-the-dsa-trader-requirements)

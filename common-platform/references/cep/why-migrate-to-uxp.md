@@ -1,0 +1,3 @@
+# Why migrate to UXP?
+
+UXP is an extensibility platform that turns JavaScript and HTML markup into native-window controls inside host applications. Think of it as a compact runtime with selected browser-style capabilities that Adobe plans to expand. It includes a DOM, auto-layout behavior, and CSS Flexbox layout support. UXP executes JS through the platform-specific JS engine, lays out native controls, and supports hybrid application work across C++ and JS. With a unified modern execution environment (JavaScript V8), plugin UI and business logic can run in the same context, removing the need for `evalScript`.

@@ -1,0 +1,25 @@
+# Shared Adobe platform — EnablingGroup
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up EnablingGroup declaration in Shared Adobe platform. [EnablingGroup declaration](declaration.md).
+- Open when looking up EnablingGroup.angleComboboxes in Shared Adobe platform. [EnablingGroup.angleComboboxes](angle-comboboxes.md).
+- Open when looking up EnablingGroup.angleEditboxes in Shared Adobe platform. [EnablingGroup.angleEditboxes](angle-editboxes.md).
+- Open when looking up EnablingGroup.borderPanels in Shared Adobe platform. [EnablingGroup.borderPanels](border-panels.md).
+- Open when looking up EnablingGroup.checkboxControls in Shared Adobe platform. [EnablingGroup.checkboxControls](checkbox-controls.md).
+- Open when looking up EnablingGroup.checkedState in Shared Adobe platform. [EnablingGroup.checkedState](checked-state.md).
+- Open when looking up EnablingGroup.dialogColumns in Shared Adobe platform. [EnablingGroup.dialogColumns](dialog-columns.md).
+- Open when looking up EnablingGroup.dropdowns in Shared Adobe platform. [EnablingGroup.dropdowns](dropdowns.md).
+- Open when looking up EnablingGroup.enablingGroups in Shared Adobe platform. [EnablingGroup.enablingGroups](enabling-groups.md).
+- Open when looking up EnablingGroup.integerComboboxes in Shared Adobe platform. [EnablingGroup.integerComboboxes](integer-comboboxes.md).
+- Open when looking up EnablingGroup.integerEditboxes in Shared Adobe platform. [EnablingGroup.integerEditboxes](integer-editboxes.md).
+- Open when looking up EnablingGroup.measurementComboboxes in Shared Adobe platform. [EnablingGroup.measurementComboboxes](measurement-comboboxes.md).
+- Open when looking up EnablingGroup.measurementEditboxes in Shared Adobe platform. [EnablingGroup.measurementEditboxes](measurement-editboxes.md).
+- Open when looking up EnablingGroup.percentComboboxes in Shared Adobe platform. [EnablingGroup.percentComboboxes](percent-comboboxes.md).
+- Open when looking up EnablingGroup.percentEditboxes in Shared Adobe platform. [EnablingGroup.percentEditboxes](percent-editboxes.md).
+- Open when looking up EnablingGroup.radiobuttonGroups in Shared Adobe platform. [EnablingGroup.radiobuttonGroups](radiobutton-groups.md).
+- Open when looking up EnablingGroup.realComboboxes in Shared Adobe platform. [EnablingGroup.realComboboxes](real-comboboxes.md).
+- Open when looking up EnablingGroup.realEditboxes in Shared Adobe platform. [EnablingGroup.realEditboxes](real-editboxes.md).
+- Open when looking up EnablingGroup.staticLabel in Shared Adobe platform. [EnablingGroup.staticLabel](static-label.md).
+- Open when looking up EnablingGroup.staticTexts in Shared Adobe platform. [EnablingGroup.staticTexts](static-texts.md).
+- Open when looking up EnablingGroup.textEditboxes in Shared Adobe platform. [EnablingGroup.textEditboxes](text-editboxes.md).
+- Open when looking up EnablingGroup.widgets in Shared Adobe platform. [EnablingGroup.widgets](widgets.md).

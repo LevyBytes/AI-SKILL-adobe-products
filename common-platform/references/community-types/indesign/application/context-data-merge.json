@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.dataMergeOptions", "file": "references/community-types/indesign/application/data-merge-options.md", "summary": "Open when looking up Application.dataMergeOptions in Shared Adobe platform.", "keywords": ["Application.dataMergeOptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DASHES", "file": "references/document-model/stroke-corner-adjustment/dashes.md", "summary": "Open when looking up DASHES in InDesign.", "keywords": ["DASHES"]},
+  {"topic": "DASHES_AND_GAPS", "file": "references/document-model/stroke-corner-adjustment/dashesandgaps.md", "summary": "Open when looking up DASHES_AND_GAPS in InDesign.", "keywords": ["DASHES_AND_GAPS"]},
+  {"topic": "GAPS", "file": "references/document-model/stroke-corner-adjustment/gaps.md", "summary": "Open when looking up GAPS in InDesign.", "keywords": ["GAPS"]},
+  {"topic": "NONE", "file": "references/document-model/stroke-corner-adjustment/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

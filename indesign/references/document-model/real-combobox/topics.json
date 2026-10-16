@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/real-combobox/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "editContents", "file": "references/document-model/real-combobox/edit-contents.md", "summary": "Open when looking up editContents in InDesign.", "keywords": ["editContents"]},
+  {"topic": "editValue", "file": "references/document-model/real-combobox/edit-value.md", "summary": "Open when looking up editValue in InDesign.", "keywords": ["editValue"]},
+  {"topic": "eventListeners", "file": "references/document-model/real-combobox/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/real-combobox/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "references/document-model/real-combobox/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "id", "file": "references/document-model/real-combobox/id.md", "summary": "Open when looking up id in InDesign.", "keywords": ["id"]},
+  {"topic": "index", "file": "references/document-model/real-combobox/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "references/document-model/real-combobox/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "largeNudge", "file": "references/document-model/real-combobox/large-nudge.md", "summary": "Open when looking up largeNudge in InDesign.", "keywords": ["largeNudge"]},
+  {"topic": "maximumValue", "file": "references/document-model/real-combobox/maximum-value.md", "summary": "Open when looking up maximumValue in InDesign.", "keywords": ["maximumValue"]},
+  {"topic": "minimumValue", "file": "references/document-model/real-combobox/minimum-value.md", "summary": "Open when looking up minimumValue in InDesign.", "keywords": ["minimumValue"]},
+  {"topic": "minWidth", "file": "references/document-model/real-combobox/min-width.md", "summary": "Open when looking up minWidth in InDesign.", "keywords": ["minWidth"]},
+  {"topic": "parent", "file": "references/document-model/real-combobox/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "references/document-model/real-combobox/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "references/document-model/real-combobox/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "smallNudge", "file": "references/document-model/real-combobox/small-nudge.md", "summary": "Open when looking up smallNudge in InDesign.", "keywords": ["smallNudge"]},
+  {"topic": "stringList", "file": "references/document-model/real-combobox/string-list.md", "summary": "Open when looking up stringList in InDesign.", "keywords": ["stringList"]},
+  {"topic": "toSource", "file": "references/document-model/real-combobox/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/real-combobox/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

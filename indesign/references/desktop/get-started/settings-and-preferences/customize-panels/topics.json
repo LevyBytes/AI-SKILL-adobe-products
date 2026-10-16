@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Add a panel", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/add-a-panel.md", "summary": "Open when looking up Add a panel in InDesign.", "keywords": ["Add a panel"]},
+  {"topic": "Collapse panels to icons", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/collapse-panels-to-icons.md", "summary": "Open when looking up Collapse panels to icons in InDesign.", "keywords": ["Collapse panels to icons"]},
+  {"topic": "Dock panels", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/dock-panels.md", "summary": "Open when looking up Dock panels in InDesign.", "keywords": ["Dock panels"]},
+  {"topic": "Move panels within a dock", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/move-panels-within-a-dock.md", "summary": "Open when looking up Move panels within a dock in InDesign.", "keywords": ["Move panels within a dock"]},
+  {"topic": "Remove panels", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/remove-panels.md", "summary": "Open when looking up Remove panels in InDesign.", "keywords": ["Remove panels"]},
+  {"topic": "Show or hide panels", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/show-or-hide-panels.md", "summary": "Open when looking up Show or hide panels in InDesign.", "keywords": ["Show or hide panels"]},
+  {"topic": "Stack floating panels", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/stack-floating-panels.md", "summary": "Open when looking up Stack floating panels in InDesign.", "keywords": ["Stack floating panels"]},
+  {"topic": "Undock panels", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/undock-panels.md", "summary": "Open when looking up Undock panels in InDesign.", "keywords": ["Undock panels"]},
+  {"topic": "Work with panel groups", "file": "references/desktop/get-started/settings-and-preferences/customize-panels/work-with-panel-groups.md", "summary": "Open when looking up Work with panel groups in InDesign.", "keywords": ["Work with panel groups"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

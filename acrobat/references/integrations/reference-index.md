@@ -1,0 +1,47 @@
+# Acrobat — Application integrations
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Access Acrobat admin settings in Acrobat. [Access Acrobat admin settings](access-acrobat-admin-settings.md).
+- Open when looking up Access Acrobat admin settings in Acrobat. [Access Acrobat admin settings references](access-acrobat-admin-settings/reference-index.md).
+- Open when looking up Acrobat for ChatGPT overview in Acrobat. [Acrobat for ChatGPT overview](acrobat-for-chat-gpt-overview.md).
+- Open when looking up Acrobat for ChatGPT overview in Acrobat. [Acrobat for ChatGPT overview references](acrobat-for-chat-gpt-overview/reference-index.md).
+- Open when looking up Acrobat for Copilot overview in Acrobat. [Acrobat for Copilot overview](acrobat-for-copilot-overview.md).
+- Open when looking up Acrobat for Copilot overview in Acrobat. [Acrobat for Copilot overview references](acrobat-for-copilot-overview/reference-index.md).
+- Open when looking up Acrobat for Microsoft Outlook overview in Acrobat. [Acrobat for Microsoft Outlook overview](acrobat-for-microsoft-outlook-overview.md).
+- Open when looking up Acrobat for Microsoft Outlook overview in Acrobat. [Acrobat for Microsoft Outlook overview references](acrobat-for-microsoft-outlook-overview/reference-index.md).
+- Open when looking up Acrobat for Microsoft Teams overview in Acrobat. [Acrobat for Microsoft Teams overview](acrobat-for-microsoft-teams-overview.md).
+- Open when looking up Acrobat for Microsoft Teams overview in Acrobat. [Acrobat for Microsoft Teams overview references](acrobat-for-microsoft-teams-overview/reference-index.md).
+- Open when looking up Acrobat for SharePoint and OneDrive overview in Acrobat. [Acrobat for SharePoint and OneDrive overview](acrobat-for-share-point-and-one-drive-overview.md).
+- Open when looking up Acrobat for SharePoint and OneDrive overview in Acrobat. [Acrobat for SharePoint and OneDrive overview references](acrobat-for-share-point-and-one-drive-overview/reference-index.md).
+- Open when looking up Acrobat for WhatsApp FAQs in Acrobat. [Acrobat for WhatsApp FAQs](acrobat-for-whats-app-faqs.md).
+- Open when looking up Adobe pdf services actions in Acrobat. [Adobe pdf services actions references](adobe-pdf-services-actions/reference-index.md).
+- Open when looking up AI powered document summaries and insights in Acrobat. [AI powered document summaries and insights](ai-powered-document-summaries-and-insights.md).
+- Open when looking up AI-powered meeting summaries and insights in Acrobat. [AI-powered meeting summaries and insights](ai-powered-meeting-summaries-and-insights.md).
+- Open when looking up AI-powered meeting summaries and insights in Acrobat. [AI-powered meeting summaries and insights references](ai-powered-meeting-summaries-and-insights/reference-index.md).
+- Open when looking up Append emails to existing PDFs in Acrobat. [Append emails to existing PDFs](append-emails-to-existing-pdfs.md).
+- Open when looking up Collaborate on PDFs in Microsoft Teams in Acrobat. [Collaborate on PDFs in Microsoft Teams](collaborate-on-pdfs-in-microsoft-teams.md).
+- Open when looking up Collaborate on PDFs in Microsoft Teams in Acrobat. [Collaborate on PDFs in Microsoft Teams references](collaborate-on-pdfs-in-microsoft-teams/reference-index.md).
+- Open when looking up Configure browsers for Acrobat in SharePoint and OneDrive in Acrobat. [Configure browsers for Acrobat in SharePoint and OneDrive](configure-browsers-for-acrobat-in-share-point-and-one-drive.md).
+- Open when looking up Configure browsers for Acrobat in SharePoint and OneDrive in Acrobat. [Configure browsers for Acrobat in SharePoint and OneDrive references](configure-browsers-for-acrobat-in-share-point-and-one-drive/reference-index.md).
+- Open when looking up Connect adobe pdf services for power apps in Acrobat. [Connect adobe pdf services for power apps references](connect-adobe-pdf-services-for-power-apps/reference-index.md).
+- Open when looking up Connect adobe pdf services for power automate in Acrobat. [Connect adobe pdf services for power automate references](connect-adobe-pdf-services-for-power-automate/reference-index.md).
+- Open when looking up Control PDFs opening from Gmail and Google Drive in Acrobat. [Control PDFs opening from Gmail and Google Drive](control-pdfs-opening-from-gmail-and-google-drive.md).
+- Open when looking up Control PDFs opening from Gmail and Google Drive in Acrobat. [Control PDFs opening from Gmail and Google Drive references](control-pdfs-opening-from-gmail-and-google-drive/reference-index.md).
+- Open when looking up Convert emails to pdfs in Acrobat. [Convert emails to pdfs references](convert-emails-to-pdfs/reference-index.md).
+- Open when looking up Convert online files to PDFs in Acrobat. [Convert online files to PDFs](convert-online-files-to-pdfs.md).
+- Open when looking up Customize Acrobat for Microsoft integrations in Acrobat. [Customize Acrobat for Microsoft integrations](customize-acrobat-for-microsoft-integrations.md).
+- Open when looking up Customize Acrobat for Microsoft integrations in Acrobat. [Customize Acrobat for Microsoft integrations references](customize-acrobat-for-microsoft-integrations/reference-index.md).
+- Open when looking up Delete acrobat for microsoft 365 in Acrobat. [Delete acrobat for microsoft 365 references](delete-acrobat-for-microsoft-365/reference-index.md).
+- Open when looking up Deploy Acrobat for Microsoft 365 as admins or individuals in Acrobat. [Deploy Acrobat for Microsoft 365 as admins or individuals](deploy-acrobat-for-microsoft-365-as-admins-or-individuals.md).
+- Open when looking up Deploy acrobat for microsoft 365 as enterprise admins in Acrobat. [Deploy acrobat for microsoft 365 as enterprise admins references](deploy-acrobat-for-microsoft-365-as-enterprise-admins/reference-index.md).
+- Open when looking up Edit and organize PDFs in ChatGPT in Acrobat. [Edit and organize PDFs in ChatGPT](edit-and-organize-pdfs-in-chat-gpt.md).
+- Open when looking up Edit and organize PDFs in Copilot in Acrobat. [Edit and organize PDFs in Copilot](edit-and-organize-pdfs-in-copilot.md).
+- Open when looking up Edit and organize PDFs using Acrobat for WhatsApp in Acrobat. [Edit and organize PDFs using Acrobat for WhatsApp](edit-and-organize-pdfs-using-acrobat-for-whats-app.md).
+- Open when looking up Edit pdfs in acrobat for microsoft teams in Acrobat. [Edit pdfs in acrobat for microsoft teams references](edit-pdfs-in-acrobat-for-microsoft-teams/reference-index.md).
+- Open when looking up Migrate existing flows in Acrobat. [Migrate existing flows references](migrate-existing-flows/reference-index.md).
+- Open when looking up Resolve issues in acrobat for microsoft teams in Acrobat. [Resolve issues in acrobat for microsoft teams references](resolve-issues-in-acrobat-for-microsoft-teams/reference-index.md).
+- Open when looking up Send acrobat files as links in emails in Acrobat. [Send acrobat files as links in emails references](send-acrobat-files-as-links-in-emails/reference-index.md).
+- Open when looking up Set up Adobe PDF services connector in Acrobat. [Set up Adobe PDF services connector](set-up-adobe-pdf-services-connector.md).
+- Open when looking up Supported languages for acrobat in microsoft teams in Acrobat. [Supported languages for acrobat in microsoft teams references](supported-languages-for-acrobat-in-microsoft-teams/reference-index.md).
+- Open when looking up Use acrobat extensions in Acrobat. [Use acrobat extensions references](use-acrobat-extensions/reference-index.md).
+- Open when looking up Use acrobat to update files in share point and one drive in Acrobat. [Use acrobat to update files in share point and one drive references](use-acrobat-to-update-files-in-share-point-and-one-drive/reference-index.md).

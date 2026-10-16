@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "After Effects 25.1 (December 2024)", "file": "references/scripting/after-effects-25/after-effects-25-1-december-2024.md", "summary": "Open when looking up After Effects 25.1 (December 2024) in After Effects.", "keywords": ["After Effects 25.1 (December 2024)"]},
+  {"topic": "After Effects 25.2 (April 2025)", "file": "references/scripting/after-effects-25/after-effects-25-2-april-2025.md", "summary": "Open when looking up After Effects 25.2 (April 2025) in After Effects.", "keywords": ["After Effects 25.2 (April 2025)"]},
+  {"topic": "After Effects 25.4 (August 2025)", "file": "references/scripting/after-effects-25/after-effects-25-4-august-2025.md", "summary": "Open when looking up After Effects 25.4 (August 2025) in After Effects.", "keywords": ["After Effects 25.4 (August 2025)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

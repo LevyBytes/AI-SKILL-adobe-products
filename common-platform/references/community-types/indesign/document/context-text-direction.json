@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.getSelectedTextDirection", "file": "references/community-types/indesign/document/get-selected-text-direction.md", "summary": "Open when looking up Document.getSelectedTextDirection in Shared Adobe platform.", "keywords": ["Document.getSelectedTextDirection"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

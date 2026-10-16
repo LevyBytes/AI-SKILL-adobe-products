@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Archived CEP development resources", "file": "references/cep/archived-versions-cep-4-x-to-cep-7-x.md", "summary": "Open when looking up Archived CEP development resources in Shared Adobe platform.", "keywords": ["Archived CEP development resources"]},
+  {"topic": "Cep 10 0 references", "file": "references/cep/cep-10-0/reference-index.md", "summary": "Open when looking up Cep 10 0 in Shared Adobe platform.", "keywords": ["Cep 10 0 references"]},
+  {"topic": "Cep 11 1 references", "file": "references/cep/cep-11-1/reference-index.md", "summary": "Open when looking up Cep 11 1 in Shared Adobe platform.", "keywords": ["Cep 11 1 references"]},
+  {"topic": "Cep 12 references", "file": "references/cep/cep-12/reference-index.md", "summary": "Open when looking up Cep 12 in Shared Adobe platform.", "keywords": ["Cep 12 references"]},
+  {"topic": "CEP 4 development resources", "file": "references/cep/cep-4-development-resources.md", "summary": "Open when looking up CEP 4 development resources in Shared Adobe platform.", "keywords": ["CEP 4 development resources"]},
+  {"topic": "CEP 5 development resources", "file": "references/cep/cep-5-development-resources.md", "summary": "Open when looking up CEP 5 development resources in Shared Adobe platform.", "keywords": ["CEP 5 development resources"]},
+  {"topic": "CEP 6 development resources", "file": "references/cep/cep-6-development-resources.md", "summary": "Open when looking up CEP 6 development resources in Shared Adobe platform.", "keywords": ["CEP 6 development resources"]},
+  {"topic": "CEP 6.1 development resources", "file": "references/cep/cep-6-1-development-resources.md", "summary": "Open when looking up CEP 6.1 development resources in Shared Adobe platform.", "keywords": ["CEP 6.1 development resources"]},
+  {"topic": "Cep 8 0 references", "file": "references/cep/cep-8-0/reference-index.md", "summary": "Open when looking up Cep 8 0 in Shared Adobe platform.", "keywords": ["Cep 8 0 references"]},
+  {"topic": "Cep 9 0 references", "file": "references/cep/cep-9-0/reference-index.md", "summary": "Open when looking up Cep 9 0 in Shared Adobe platform.", "keywords": ["Cep 9 0 references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,34 @@
+# After Effects — Animating Shape Paths Masks
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Access expression methods in After Effects. [Access expression methods](access-expression-methods.md).
+- Open when looking up Adjust a path segment in After Effects. [Adjust a path segment](adjust-a-path-segment.md).
+- Open when looking up Adjust the tension of a RotoBezier mask in After Effects. [Adjust the tension of a RotoBezier mask](adjust-the-tension-of-a-roto-bezier-mask.md).
+- Open when looking up Animate a mask path with Smart Mask Interpolation in After Effects. [Animate a mask path with Smart Mask Interpolation](animate-a-mask-path-with-smart-mask-interpolation.md).
+- Open when looking up Change a mask path numerically in After Effects. [Change a mask path numerically](change-a-mask-path-numerically.md).
+- Open when looking up Convert a path between manual Bezier and RotoBezier in After Effects. [Convert a path between manual Bezier and RotoBezier](convert-a-path-between-manual-bezier-and-roto-bezier.md).
+- Open when looking up Create Nulls from Paths panel in After Effects. [Create Nulls from Paths panel](create-nulls-from-paths-panel.md).
+- Open when looking up Designate the first vertex for a Bezier path in After Effects. [Designate the first vertex for a Bezier path](designate-the-first-vertex-for-a-bezier-path.md).
+- Open when looking up Expression access to path points on masks, Bezier shapes, and brush strokes in After Effects. [Expression access to path points on masks, Bezier shapes, and brush strokes](path-point-expressions.md).
+- Open when looking up Face tracking and mask tracking in After Effects. [Face tracking and mask tracking](face-tracking-and-mask-tracking.md).
+- Open when looking up Lock or unlock masks in After Effects. [Lock or unlock masks](lock-or-unlock-masks.md).
+- Open when looking up Modify a Bezier mask path or shape path in After Effects. [Modify a Bezier mask path or shape path](modify-a-bezier-mask-path-or-shape-path.md).
+- Open when looking up Move a mask in After Effects. [Move a mask](move-a-mask.md).
+- Open when looking up Move a mask or pan a layer behind a mask in After Effects. [Move a mask or pan a layer behind a mask](move-a-mask-or-pan-a-layer-behind-a-mask.md).
+- Open when looking up Move vertices in free-transform mode in After Effects. [Move vertices in free-transform mode](move-vertices-in-free-transform-mode.md).
+- Open when looking up Move, add, or delete a vertex in After Effects. [Move, add, or delete a vertex](move-add-or-delete-a-vertex.md).
+- Open when looking up Pan a layer behind its mask in After Effects. [Pan a layer behind its mask](pan-a-layer-behind-its-mask.md).
+- Open when looking up Rotoscoping introduction and resources in After Effects. [Rotoscoping introduction and resources](rotoscoping-introduction-and-resources.md).
+- Open when looking up Rotoscoping tips in After Effects. [Rotoscoping tips](rotoscoping-tips.md).
+- Open when looking up Select a shape group in group selection mode in After Effects. [Select a shape group in group selection mode](select-a-shape-group-in-group-selection-mode.md).
+- Open when looking up Select a shape layer in After Effects. [Select a shape layer](select-a-shape-layer.md).
+- Open when looking up Select all points on a path and enter free-transform mode in After Effects. [Select all points on a path and enter free-transform mode](select-all-points-on-a-path-and-enter-free-transform-mode.md).
+- Open when looking up Select masks in the Timeline panel in After Effects. [Select masks in the Timeline panel](select-masks-in-the-timeline-panel.md).
+- Open when looking up Select masks, segments, and vertices in After Effects. [Select masks, segments, and vertices](select-masks-segments-and-vertices.md).
+- Open when looking up Select or deselect masks in the Layer or Composition panel in After Effects. [Select or deselect masks in the Layer or Composition panel](select-or-deselect-masks-in-the-layer-or-composition-panel.md).
+- Open when looking up Select paths and vertices in path-editing mode in After Effects. [Select paths and vertices in path-editing mode](select-paths-and-vertices-in-path-editing-mode.md).
+- Open when looking up Select shape paths, shapes, and shape groups in After Effects. [Select shape paths, shapes, and shape groups](select-shape-paths-shapes-and-shape-groups.md).
+- Open when looking up Selection modes for shapes on shape layers in After Effects. [Selection modes for shapes on shape layers](selection-modes-for-shapes-on-shape-layers.md).
+- Open when looking up Toggle a vertex between a smooth point and a corner point in After Effects. [Toggle a vertex between a smooth point and a corner point](toggle-a-vertex-between-a-smooth-point-and-a-corner-point.md).
+- Open when looking up View mask paths and shapes in After Effects. [View mask paths and shapes](view-mask-paths-and-shapes.md).
+- Open when looking up Work with the panel in After Effects. [Work with the panel](work-with-the-panel.md).

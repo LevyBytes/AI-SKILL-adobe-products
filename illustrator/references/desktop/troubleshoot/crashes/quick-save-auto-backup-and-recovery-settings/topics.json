@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Requirements for the new quick save and recovery experience", "file": "references/desktop/troubleshoot/crashes/quick-save-auto-backup-and-recovery-settings/requirements-for-the-new-quick-save-and-recovery-experience.md", "summary": "Open when looking up Requirements for the new quick save and recovery experience in Illustrator.", "keywords": ["Requirements for the new quick save and recovery experience"]},
+  {"topic": "Save and recovery Settings", "file": "references/desktop/troubleshoot/crashes/quick-save-auto-backup-and-recovery-settings/save-and-recovery-settings.md", "summary": "Open when looking up Save and recovery Settings in Illustrator.", "keywords": ["Save and recovery Settings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

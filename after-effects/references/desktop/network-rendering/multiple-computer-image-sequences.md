@@ -1,0 +1,3 @@
+# Automated rendering and network rendering — Render farming - Render a still-image sequence with multiple computers
+
+When a group of networked machines renders a single composition as a team, that is render farming. You can wire it up to run against render-only builds of After Effects known as render engines. By spreading the job out, render farming trims the time one machine would spend exporting a composition. Several computers and several copies of After Effects can render a composition together over a network. That said, multiple computers only work for still-image sequences — you cannot point them at a single movie.

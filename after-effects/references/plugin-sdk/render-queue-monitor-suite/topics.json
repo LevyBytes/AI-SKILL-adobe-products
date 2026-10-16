@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP Suites — Render Queue Monitor Suite", "file": "references/plugin-sdk/render-queue-monitor-suite/aegp-suites-render-queue-monitor-suite.md", "summary": "Open when looking up AEGP Suites — Render Queue Monitor Suite in After Effects.", "keywords": ["AEGP Suites — Render Queue Monitor Suite"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

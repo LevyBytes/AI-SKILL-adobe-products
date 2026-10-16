@@ -1,0 +1,21 @@
+# Shared Adobe platform — LanguageWithVendors
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up LanguageWithVendors declaration in Shared Adobe platform. [LanguageWithVendors declaration](declaration.md).
+- Open when looking up LanguageWithVendors event listeners in Shared Adobe platform. [LanguageWithVendors event listeners](event-listeners.md).
+- Open when looking up LanguageWithVendors identity and parent in Shared Adobe platform. [LanguageWithVendors identity and parent](identity-and-parent.md).
+- Open when looking up LanguageWithVendors labels and metadata in Shared Adobe platform. [LanguageWithVendors labels and metadata](labels-and-metadata.md).
+- Open when looking up LanguageWithVendors object resolution in Shared Adobe platform. [LanguageWithVendors object resolution](object-resolution.md).
+- Open when looking up LanguageWithVendors.addDictionaryPath in Shared Adobe platform. [LanguageWithVendors.addDictionaryPath](add-dictionary-path.md).
+- Open when looking up LanguageWithVendors.dictionaryPaths in Shared Adobe platform. [LanguageWithVendors.dictionaryPaths](dictionary-paths.md).
+- Open when looking up LanguageWithVendors.doubleQuotes in Shared Adobe platform. [LanguageWithVendors.doubleQuotes](double-quotes.md).
+- Open when looking up LanguageWithVendors.hyphenationVendor in Shared Adobe platform. [LanguageWithVendors.hyphenationVendor](hyphenation-vendor.md).
+- Open when looking up LanguageWithVendors.hyphenationVendorList in Shared Adobe platform. [LanguageWithVendors.hyphenationVendorList](hyphenation-vendor-list.md).
+- Open when looking up LanguageWithVendors.icuLocaleName in Shared Adobe platform. [LanguageWithVendors.icuLocaleName](icu-locale-name.md).
+- Open when looking up LanguageWithVendors.properties in Shared Adobe platform. [LanguageWithVendors.properties](properties.md).
+- Open when looking up LanguageWithVendors.removeDictionaryPath in Shared Adobe platform. [LanguageWithVendors.removeDictionaryPath](remove-dictionary-path.md).
+- Open when looking up LanguageWithVendors.singleQuotes in Shared Adobe platform. [LanguageWithVendors.singleQuotes](single-quotes.md).
+- Open when looking up LanguageWithVendors.spellingVendor in Shared Adobe platform. [LanguageWithVendors.spellingVendor](spelling-vendor.md).
+- Open when looking up LanguageWithVendors.spellingVendorList in Shared Adobe platform. [LanguageWithVendors.spellingVendorList](spelling-vendor-list.md).
+- Open when looking up LanguageWithVendors.thesaurusVendor in Shared Adobe platform. [LanguageWithVendors.thesaurusVendor](thesaurus-vendor.md).
+- Open when looking up LanguageWithVendors.untranslatedName in Shared Adobe platform. [LanguageWithVendors.untranslatedName](untranslated-name.md).

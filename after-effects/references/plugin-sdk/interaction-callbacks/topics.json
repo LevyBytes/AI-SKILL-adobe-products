@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Interaction Callback Functions — Interaction Callbacks", "file": "references/plugin-sdk/interaction-callbacks/interaction-callback-functions-interaction-callbacks.md", "summary": "Open when looking up Interaction Callback Functions — Interaction Callbacks in After Effects.", "keywords": ["Interaction Callback Functions — Interaction Callbacks"]},
+  {"topic": "PF_ABORT", "file": "references/plugin-sdk/interaction-callbacks/pfabort.md", "summary": "Open when looking up PF_ABORT in After Effects.", "keywords": ["PF_ABORT"]},
+  {"topic": "PF_ADD_PARAM", "file": "references/plugin-sdk/interaction-callbacks/pfaddparam.md", "summary": "Open when looking up PF_ADD_PARAM in After Effects.", "keywords": ["PF_ADD_PARAM"]},
+  {"topic": "PF_CHECKIN_LAYER_AUDIO", "file": "references/plugin-sdk/interaction-callbacks/pfcheckinlayeraudio.md", "summary": "Open when looking up PF_CHECKIN_LAYER_AUDIO in After Effects.", "keywords": ["PF_CHECKIN_LAYER_AUDIO"]},
+  {"topic": "PF_CHECKIN_PARAM", "file": "references/plugin-sdk/interaction-callbacks/pfcheckinparam.md", "summary": "Open when looking up PF_CHECKIN_PARAM in After Effects.", "keywords": ["PF_CHECKIN_PARAM"]},
+  {"topic": "PF_CHECKOUT_LAYER_AUDIO", "file": "references/plugin-sdk/interaction-callbacks/pfcheckoutlayeraudio.md", "summary": "Open when looking up PF_CHECKOUT_LAYER_AUDIO in After Effects.", "keywords": ["PF_CHECKOUT_LAYER_AUDIO"]},
+  {"topic": "PF_CHECKOUT_PARAM", "file": "references/plugin-sdk/interaction-callbacks/pfcheckoutparam.md", "summary": "Open when looking up PF_CHECKOUT_PARAM in After Effects.", "keywords": ["PF_CHECKOUT_PARAM"]},
+  {"topic": "PF_GET_AUDIO_DATA", "file": "references/plugin-sdk/interaction-callbacks/pfgetaudiodata.md", "summary": "Open when looking up PF_GET_AUDIO_DATA in After Effects.", "keywords": ["PF_GET_AUDIO_DATA"]},
+  {"topic": "PF_PROGRESS", "file": "references/plugin-sdk/interaction-callbacks/pfprogress.md", "summary": "Open when looking up PF_PROGRESS in After Effects.", "keywords": ["PF_PROGRESS"]},
+  {"topic": "PF_REGISTER_UI", "file": "references/plugin-sdk/interaction-callbacks/pfregisterui.md", "summary": "Open when looking up PF_REGISTER_UI in After Effects.", "keywords": ["PF_REGISTER_UI"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

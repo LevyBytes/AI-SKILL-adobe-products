@@ -1,0 +1,3 @@
+# Issues when working with network files or removable media
+
+Adobe Premiere and other video applications use substantial resources and need more RAM and hard disk space than most applications. Although Adobe Premiere can work across networks and removable media, those setups reduce application performance and reliability. Faster access speed on the disk that holds the media or the Media Cache disk files lets Digital Video applications read and write media files faster. Internal hard disks have quicker access speeds than network servers, meaning a hard disk reached over a network, and removable media.

@@ -1,0 +1,33 @@
+# After Effects — AEGP_ItemSuite9
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_CreateNewFolder in After Effects. [AEGP_CreateNewFolder](aegp-create-new-folder.md).
+- Open when looking up AEGP_DeleteItem in After Effects. [AEGP_DeleteItem](aegp-delete-item.md).
+- Open when looking up AEGP_GetActiveItem in After Effects. [AEGP_GetActiveItem](aegp-get-active-item.md).
+- Open when looking up AEGP_GetFirstProjItem in After Effects. [AEGP_GetFirstProjItem](aegp-get-first-proj-item.md).
+- Open when looking up AEGP_GetItemComment in After Effects. [AEGP_GetItemComment](aegp-get-item-comment.md).
+- Open when looking up AEGP_GetItemCommentLength in After Effects. [AEGP_GetItemCommentLength](aegp-get-item-comment-length.md).
+- Open when looking up AEGP_GetItemCurrentTime in After Effects. [AEGP_GetItemCurrentTime](aegp-get-item-current-time.md).
+- Open when looking up AEGP_GetItemDimensions in After Effects. [AEGP_GetItemDimensions](aegp-get-item-dimensions.md).
+- Open when looking up AEGP_GetItemDuration in After Effects. [AEGP_GetItemDuration](aegp-get-item-duration.md).
+- Open when looking up AEGP_GetItemFlags in After Effects. [AEGP_GetItemFlags](aegp-get-item-flags.md).
+- Open when looking up AEGP_GetItemID in After Effects. [AEGP_GetItemID](aegp-get-item-id.md).
+- Open when looking up AEGP_GetItemLabel in After Effects. [AEGP_GetItemLabel](aegp-get-item-label.md).
+- Open when looking up AEGP_GetItemMRUView in After Effects. [AEGP_GetItemMRUView](aegp-get-item-mru-view.md).
+- Open when looking up AEGP_GetItemName in After Effects. [AEGP_GetItemName](aegp-get-item-name.md).
+- Open when looking up AEGP_GetItemParentFolder in After Effects. [AEGP_GetItemParentFolder](aegp-get-item-parent-folder.md).
+- Open when looking up AEGP_GetItemPixelAspectRatio in After Effects. [AEGP_GetItemPixelAspectRatio](aegp-get-item-pixel-aspect-ratio.md).
+- Open when looking up AEGP_GetItemSolidColor in After Effects. [AEGP_GetItemSolidColor](aegp-get-item-solid-color.md).
+- Open when looking up AEGP_GetItemType in After Effects. [AEGP_GetItemType](aegp-get-item-type.md).
+- Open when looking up AEGP_GetNextProjItem in After Effects. [AEGP_GetNextProjItem](aegp-get-next-proj-item.md).
+- Open when looking up AEGP_GetTypeName in After Effects. [AEGP_GetTypeName](aegp-get-type-name.md).
+- Open when looking up AEGP_IsItemSelected in After Effects. [AEGP_IsItemSelected](aegp-is-item-selected.md).
+- Open when looking up AEGP_SelectItem in After Effects. [AEGP_SelectItem](aegp-select-item.md).
+- Open when looking up AEGP_SetItemComment in After Effects. [AEGP_SetItemComment](aegp-set-item-comment.md).
+- Open when looking up AEGP_SetItemCurrentTime in After Effects. [AEGP_SetItemCurrentTime](aegp-set-item-current-time.md).
+- Open when looking up AEGP_SetItemLabel in After Effects. [AEGP_SetItemLabel](aegp-set-item-label.md).
+- Open when looking up AEGP_SetItemName in After Effects. [AEGP_SetItemName](aegp-set-item-name.md).
+- Open when looking up AEGP_SetItemParentFolder in After Effects. [AEGP_SetItemParentFolder](aegp-set-item-parent-folder.md).
+- Open when looking up AEGP_SetItemUseProxy in After Effects. [AEGP_SetItemUseProxy](aegp-set-item-use-proxy.md).
+- Open when looking up AEGP_SetSolidColor in After Effects. [AEGP_SetSolidColor](aegp-set-solid-color.md).
+- Open when looking up AEGP_SetSolidDimensions in After Effects. [AEGP_SetSolidDimensions](aegp-set-solid-dimensions.md).

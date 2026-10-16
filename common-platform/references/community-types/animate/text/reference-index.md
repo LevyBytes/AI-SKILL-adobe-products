@@ -1,0 +1,35 @@
+# Shared Adobe platform — Text
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Text declaration in Shared Adobe platform. [Text declaration](declaration.md).
+- Open when looking up Text.accName in Shared Adobe platform. [Text.accName](acc-name.md).
+- Open when looking up Text.antiAliasSharpness in Shared Adobe platform. [Text.antiAliasSharpness](anti-alias-sharpness.md).
+- Open when looking up Text.antiAliasThickness in Shared Adobe platform. [Text.antiAliasThickness](anti-alias-thickness.md).
+- Open when looking up Text.autoExpand in Shared Adobe platform. [Text.autoExpand](auto-expand.md).
+- Open when looking up Text.border in Shared Adobe platform. [Text.border](border.md).
+- Open when looking up Text.description in Shared Adobe platform. [Text.description](description.md).
+- Open when looking up Text.embeddedCharacters in Shared Adobe platform. [Text.embeddedCharacters](embedded-characters.md).
+- Open when looking up Text.embedRanges in Shared Adobe platform. [Text.embedRanges](embed-ranges.md).
+- Open when looking up Text.embedVariantGlyphs in Shared Adobe platform. [Text.embedVariantGlyphs](embed-variant-glyphs.md).
+- Open when looking up Text.filters in Shared Adobe platform. [Text.filters](filters.md).
+- Open when looking up Text.fontRenderingMode in Shared Adobe platform. [Text.fontRenderingMode](font-rendering-mode.md).
+- Open when looking up Text.getTextAttr in Shared Adobe platform. [Text.getTextAttr](get-text-attr.md).
+- Open when looking up Text.getTextString in Shared Adobe platform. [Text.getTextString](get-text-string.md).
+- Open when looking up Text.length in Shared Adobe platform. [Text.length](length.md).
+- Open when looking up Text.lineType in Shared Adobe platform. [Text.lineType](line-type.md).
+- Open when looking up Text.maxCharacters in Shared Adobe platform. [Text.maxCharacters](max-characters.md).
+- Open when looking up Text.orientation in Shared Adobe platform. [Text.orientation](orientation.md).
+- Open when looking up Text.renderAsHTML in Shared Adobe platform. [Text.renderAsHTML](render-as-html.md).
+- Open when looking up Text.scrollable in Shared Adobe platform. [Text.scrollable](scrollable.md).
+- Open when looking up Text.selectable in Shared Adobe platform. [Text.selectable](selectable.md).
+- Open when looking up Text.selectionEnd in Shared Adobe platform. [Text.selectionEnd](selection-end.md).
+- Open when looking up Text.selectionStart in Shared Adobe platform. [Text.selectionStart](selection-start.md).
+- Open when looking up Text.setTextAttr in Shared Adobe platform. [Text.setTextAttr](set-text-attr.md).
+- Open when looking up Text.setTextString in Shared Adobe platform. [Text.setTextString](set-text-string.md).
+- Open when looking up Text.shortcut in Shared Adobe platform. [Text.shortcut](shortcut.md).
+- Open when looking up Text.silent in Shared Adobe platform. [Text.silent](silent.md).
+- Open when looking up Text.tabIndex in Shared Adobe platform. [Text.tabIndex](tab-index.md).
+- Open when looking up Text.textRuns in Shared Adobe platform. [Text.textRuns](text-runs.md).
+- Open when looking up Text.textType in Shared Adobe platform. [Text.textType](text-type.md).
+- Open when looking up Text.useDeviceFonts in Shared Adobe platform. [Text.useDeviceFonts](use-device-fonts.md).
+- Open when looking up Text.variableName in Shared Adobe platform. [Text.variableName](variable-name.md).

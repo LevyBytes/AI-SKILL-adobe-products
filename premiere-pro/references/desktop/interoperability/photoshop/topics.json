@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Create a Photoshop file in a project", "file": "references/desktop/interoperability/photoshop/create-a-photoshop-file-in-a-project.md", "summary": "Open when looking up Create a Photoshop file in a project in Premiere Pro.", "keywords": ["Create a Photoshop file in a project"]},
+  {"topic": "Edit still images in Premiere using Photoshop", "file": "references/desktop/interoperability/photoshop/edit-still-images-in-premiere-using-photoshop.md", "summary": "Open when looking up Edit still images in Premiere using Photoshop in Premiere Pro.", "keywords": ["Edit still images in Premiere using Photoshop"]},
+  {"topic": "Import Photoshop files into Premiere", "file": "references/desktop/interoperability/photoshop/import-photoshop-files-into-premiere.md", "summary": "Open when looking up Import Photoshop files into Premiere in Premiere Pro.", "keywords": ["Import Photoshop files into Premiere"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

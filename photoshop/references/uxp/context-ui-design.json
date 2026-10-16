@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Branding", "file": "references/uxp/branding.md", "summary": "Open when looking up Branding in Photoshop.", "keywords": ["Branding"]},
+  {"topic": "Branding references", "file": "references/uxp/branding/reference-index.md", "summary": "Open when looking up Branding in Photoshop.", "keywords": ["Branding references"]},
+  {"topic": "Designing a plugin experience", "file": "references/uxp/designing-a-plugin-experience.md", "summary": "Open when looking up Designing a plugin experience in Photoshop.", "keywords": ["Designing a plugin experience"]},
+  {"topic": "Designing a plugin experience references", "file": "references/uxp/designing-a-plugin-experience/reference-index.md", "summary": "Open when looking up Designing a plugin experience in Photoshop.", "keywords": ["Designing a plugin experience references"]},
+  {"topic": "Designing for Photoshop", "file": "references/uxp/designing-for-photoshop.md", "summary": "Open when looking up Designing for Photoshop in Photoshop.", "keywords": ["Designing for Photoshop"]},
+  {"topic": "Designing for Photoshop references", "file": "references/uxp/designing-for-photoshop/reference-index.md", "summary": "Open when looking up Designing for Photoshop in Photoshop.", "keywords": ["Designing for Photoshop references"]},
+  {"topic": "Icons for Your Plugins", "file": "references/uxp/icons-for-your-plugins.md", "summary": "Open when looking up Icons for Your Plugins in Photoshop.", "keywords": ["Icons for Your Plugins"]},
+  {"topic": "Icons for Your Plugins references", "file": "references/uxp/icons-for-your-plugins/reference-index.md", "summary": "Open when looking up Icons for Your Plugins in Photoshop.", "keywords": ["Icons for Your Plugins references"]},
+  {"topic": "Localization and Platforms — Localization", "file": "references/uxp/localization-and-platforms-localization.md", "summary": "Open when looking up Localization and Platforms — Localization in Photoshop.", "keywords": ["Localization and Platforms — Localization"]},
+  {"topic": "Localization and Platforms — Localization references", "file": "references/uxp/localization-and-platforms-localization/reference-index.md", "summary": "Open when looking up Localization and Platforms — Localization in Photoshop.", "keywords": ["Localization and Platforms — Localization references"]},
+  {"topic": "Making your Plugin Theme-aware — Overview", "file": "references/uxp/making-your-plugin-theme-aware-overview.md", "summary": "Open when looking up Making your Plugin Theme-aware — Overview in Photoshop.", "keywords": ["Making your Plugin Theme-aware — Overview"]},
+  {"topic": "Making your Plugin Theme-aware — Overview references", "file": "references/uxp/making-your-plugin-theme-aware-overview/reference-index.md", "summary": "Open when looking up Making your Plugin Theme-aware — Overview in Photoshop.", "keywords": ["Making your Plugin Theme-aware — Overview references"]},
+  {"topic": "Onboarding", "file": "references/uxp/onboarding.md", "summary": "Open when looking up Onboarding in Photoshop.", "keywords": ["Onboarding"]},
+  {"topic": "Onboarding references", "file": "references/uxp/onboarding/reference-index.md", "summary": "Open when looking up Onboarding in Photoshop.", "keywords": ["Onboarding references"]},
+  {"topic": "UX patterns", "file": "references/uxp/ux-patterns.md", "summary": "Open when looking up UX patterns in Photoshop.", "keywords": ["UX patterns"]},
+  {"topic": "UX patterns references", "file": "references/uxp/ux-patterns/reference-index.md", "summary": "Open when looking up UX patterns in Photoshop.", "keywords": ["UX patterns references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

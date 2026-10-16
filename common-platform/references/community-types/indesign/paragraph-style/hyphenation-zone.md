@@ -1,0 +1,13 @@
+# ParagraphStyle.hyphenationZone
+
+Community declaration reference: InDesign/2023.
+
+White-space allowance at a non-justified line end before hyphenation starts. Note: Valid with the single-line composer.
+
+```typescript
+declare class ParagraphStyle {
+    hyphenationZone: number | string
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

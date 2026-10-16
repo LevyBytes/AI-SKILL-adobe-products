@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "constructor", "file": "references/uxp/host-api/solid-color/constructor.md", "summary": "Open when looking up constructor in Photoshop.", "keywords": ["constructor"]},
+  {"topic": "isEqual", "file": "references/uxp/host-api/solid-color/is-equal.md", "summary": "Open when looking up isEqual in Photoshop.", "keywords": ["isEqual"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

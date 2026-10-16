@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Missing required system codecs", "file": "references/desktop/troubleshoot/files-and-output/received-an-error-when-working-with-heif-or-heic-files/missing-required-system-codecs.md", "summary": "Open when looking up Missing required system codecs in InDesign.", "keywords": ["Missing required system codecs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

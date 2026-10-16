@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "HI-DPI display", "file": "references/cep/cep-9-0/hi-dpi-display.md", "summary": "Open when looking up HI-DPI display in Shared Adobe platform.", "keywords": ["HI-DPI display"]},
+  {"topic": "High DPI Panel Icons", "file": "references/cep/cep-9-0/high-dpi-panel-icons.md", "summary": "Open when looking up High DPI Panel Icons in Shared Adobe platform.", "keywords": ["High DPI Panel Icons"]},
+  {"topic": "Increase/Decrease font size in HTML Panel", "file": "references/cep/cep-9-0/increase-decrease-font-size-in-html-panel.md", "summary": "Open when looking up Increase/Decrease font size in HTML Panel in Shared Adobe platform.", "keywords": ["Increase/Decrease font size in HTML Panel"]},
+  {"topic": "License Locale and locales supported by extension", "file": "references/cep/cep-9-0/license-locale-and-locales-supported-by-extension.md", "summary": "Open when looking up License Locale and locales supported by extension in Shared Adobe platform.", "keywords": ["License Locale and locales supported by extension"]},
+  {"topic": "Locale folder structure", "file": "references/cep/cep-9-0/locale-folder-structure.md", "summary": "Open when looking up Locale folder structure in Shared Adobe platform.", "keywords": ["Locale folder structure"]},
+  {"topic": "Supporting MENA locales", "file": "references/cep/cep-9-0/supporting-mena-locales.md", "summary": "Open when looking up Supporting MENA locales in Shared Adobe platform.", "keywords": ["Supporting MENA locales"]},
+  {"topic": "Localization workflows", "file": "references/cep/cep-9-0/localization/reference-index.md", "summary": "Open when selecting locales, resource bundles or translated interface elements.", "keywords": ["localization"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

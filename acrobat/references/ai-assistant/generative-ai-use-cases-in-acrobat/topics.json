@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Business and financial analysis", "file": "references/ai-assistant/generative-ai-use-cases-in-acrobat/business-and-financial-analysis.md", "summary": "Open when looking up Business and financial analysis in Acrobat.", "keywords": ["Business and financial analysis"]},
+  {"topic": "Learning and education", "file": "references/ai-assistant/generative-ai-use-cases-in-acrobat/learning-and-education.md", "summary": "Open when looking up Learning and education in Acrobat.", "keywords": ["Learning and education"]},
+  {"topic": "Sales and customer workflows", "file": "references/ai-assistant/generative-ai-use-cases-in-acrobat/sales-and-customer-workflows.md", "summary": "Open when looking up Sales and customer workflows in Acrobat.", "keywords": ["Sales and customer workflows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

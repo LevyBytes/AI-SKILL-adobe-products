@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Current behavior", "file": "references/desktop/troubleshoot/launch-and-crash-issues/rosetta-macos-compatibility/current-behavior.md", "summary": "Open when looking up Current behavior in InDesign.", "keywords": ["Current behavior"]},
+  {"topic": "Expected changes in future InDesign versions", "file": "references/desktop/troubleshoot/launch-and-crash-issues/rosetta-macos-compatibility/expected-changes-in-future-in-design-versions.md", "summary": "Open when looking up Expected changes in future InDesign versions in InDesign.", "keywords": ["Expected changes in future InDesign versions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

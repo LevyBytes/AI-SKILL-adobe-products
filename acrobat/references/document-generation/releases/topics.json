@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "August 23, 2024; Added new features for Document Generation API and updated Acrobat Service API postman collection", "file": "references/document-generation/releases/2024-08-23.md", "summary": "Open when looking up August 23, 2024; Added new features for Document Generation API and updated Acrobat Service API postman collection in Acrobat.", "keywords": ["August 23, 2024; Added new features for Document Generation API and updated Acrobat Service API postman collection"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

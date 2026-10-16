@@ -1,0 +1,39 @@
+# After Effects — Layer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AVLayer Match Names — Layer in After Effects. [AVLayer Match Names — Layer](av-layer-match-names-layer.md).
+- Open when looking up Camera Layer Match Names — Layer in After Effects. [Camera Layer Match Names — Layer](camera-layer-match-names-layer.md).
+- Open when looking up Layer object in After Effects. [Layer object](layer-object.md).
+- Open when looking up Layer.activeAtTime() in After Effects. [Layer.activeAtTime()](active-at-time.md).
+- Open when looking up Layer.applyPreset() in After Effects. [Layer.applyPreset()](apply-preset.md).
+- Open when looking up Layer.autoOrient in After Effects. [Layer.autoOrient](auto-orient.md).
+- Open when looking up Layer.comment in After Effects. [Layer.comment](comment.md).
+- Open when looking up Layer.containingComp in After Effects. [Layer.containingComp](containing-comp.md).
+- Open when looking up Layer.doSceneEditDetection() in After Effects. [Layer.doSceneEditDetection()](do-scene-edit-detection.md).
+- Open when looking up Layer.duplicate() in After Effects. [Layer.duplicate()](duplicate.md).
+- Open when looking up Layer.hasVideo in After Effects. [Layer.hasVideo](has-video.md).
+- Open when looking up Layer.id in After Effects. [Layer.id](id.md).
+- Open when looking up Layer.index in After Effects. [Layer.index](index.md).
+- Open when looking up Layer.inPoint in After Effects. [Layer.inPoint](in-point.md).
+- Open when looking up Layer.isNameSet in After Effects. [Layer.isNameSet](is-name-set.md).
+- Open when looking up Layer.label in After Effects. [Layer.label](label.md).
+- Open when looking up Layer.locked in After Effects. [Layer.locked](locked.md).
+- Open when looking up Layer.marker in After Effects. [Layer.marker](marker.md).
+- Open when looking up Layer.moveAfter() in After Effects. [Layer.moveAfter()](move-after.md).
+- Open when looking up Layer.moveBefore() in After Effects. [Layer.moveBefore()](move-before.md).
+- Open when looking up Layer.moveToBeginning() in After Effects. [Layer.moveToBeginning()](move-to-beginning.md).
+- Open when looking up Layer.moveToEnd() in After Effects. [Layer.moveToEnd()](move-to-end.md).
+- Open when looking up Layer.nullLayer in After Effects. [Layer.nullLayer](null-layer.md).
+- Open when looking up Layer.outPoint in After Effects. [Layer.outPoint](out-point.md).
+- Open when looking up Layer.parent in After Effects. [Layer.parent](parent.md).
+- Open when looking up Layer.remove() in After Effects. [Layer.remove()](remove.md).
+- Open when looking up Layer.selectedProperties in After Effects. [Layer.selectedProperties](selected-properties.md).
+- Open when looking up Layer.setParentWithJump() in After Effects. [Layer.setParentWithJump()](set-parent-with-jump.md).
+- Open when looking up Layer.shy in After Effects. [Layer.shy](shy.md).
+- Open when looking up Layer.solo in After Effects. [Layer.solo](solo.md).
+- Open when looking up Layer.startTime in After Effects. [Layer.startTime](start-time.md).
+- Open when looking up Layer.stretch in After Effects. [Layer.stretch](stretch.md).
+- Open when looking up Layer.time in After Effects. [Layer.time](time.md).
+- Open when looking up Light Layer Match Names — Layer in After Effects. [Light Layer Match Names — Layer](light-layer-match-names-layer.md).
+- Open when looking up Shape Layer Match Names — Layer in After Effects. [Shape Layer Match Names — Layer](shape-layer-match-names-layer.md).
+- Open when looking up Text Layer Match Names — Layer in After Effects. [Text Layer Match Names — Layer](text-layer-match-names-layer.md).

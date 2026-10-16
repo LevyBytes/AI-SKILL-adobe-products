@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Fixed", "file": "references/uxp/uxp-changelog-uxp-v7-1-0/fixed.md", "summary": "Open when looking up Fixed in Premiere Pro.", "keywords": ["Fixed"]},
+  {"topic": "New", "file": "references/uxp/uxp-changelog-uxp-v7-1-0/new.md", "summary": "Open when looking up New in Premiere Pro.", "keywords": ["New"]},
+  {"topic": "Updated", "file": "references/uxp/uxp-changelog-uxp-v7-1-0/updated.md", "summary": "Open when looking up Updated in Premiere Pro.", "keywords": ["Updated"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

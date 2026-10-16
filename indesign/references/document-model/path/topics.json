@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/path/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "entirePath", "file": "references/document-model/path/entire-path.md", "summary": "Open when looking up entirePath in InDesign.", "keywords": ["entirePath"]},
+  {"topic": "eventListeners", "file": "references/document-model/path/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/path/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "references/document-model/path/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "index", "file": "references/document-model/path/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "references/document-model/path/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "parent", "file": "references/document-model/path/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "pathPoints", "file": "references/document-model/path/path-points.md", "summary": "Open when looking up pathPoints in InDesign.", "keywords": ["pathPoints"]},
+  {"topic": "pathType", "file": "references/document-model/path/path-type.md", "summary": "Open when looking up pathType in InDesign.", "keywords": ["pathType"]},
+  {"topic": "properties", "file": "references/document-model/path/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "references/document-model/path/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "references/document-model/path/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "reverse", "file": "references/document-model/path/reverse.md", "summary": "Open when looking up reverse in InDesign.", "keywords": ["reverse"]},
+  {"topic": "toSource", "file": "references/document-model/path/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/path/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

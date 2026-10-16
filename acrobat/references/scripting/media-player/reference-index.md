@@ -1,0 +1,29 @@
+# Acrobat — Media player
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up annot in Acrobat. [annot](annot.md).
+- Open when looking up close in Acrobat. [close](close.md).
+- Open when looking up defaultSize in Acrobat. [defaultSize](default-size.md).
+- Open when looking up doc in Acrobat. [doc](doc.md).
+- Open when looking up events in Acrobat. [events](events.md).
+- Open when looking up hasFocus in Acrobat. [hasFocus](has-focus.md).
+- Open when looking up id in Acrobat. [id](id.md).
+- Open when looking up innerRect in Acrobat. [innerRect](inner-rect.md).
+- Open when looking up isOpen in Acrobat. [isOpen](is-open.md).
+- Open when looking up isPlaying in Acrobat. [isPlaying](is-playing.md).
+- Open when looking up markers in Acrobat. [markers](markers.md).
+- Open when looking up Media and Marker APIs — MediaPlayer in Acrobat. [Media and Marker APIs — MediaPlayer](media-and-marker-apis-media-player.md).
+- Open when looking up MediaPlayer methods in Acrobat. [MediaPlayer methods](media-player-methods.md).
+- Open when looking up open in Acrobat. [open](open.md).
+- Open when looking up outerRect in Acrobat. [outerRect](outer-rect.md).
+- Open when looking up page in Acrobat. [page](page.md).
+- Open when looking up pause in Acrobat. [pause](pause.md).
+- Open when looking up play in Acrobat. [play](play.md).
+- Open when looking up seek in Acrobat. [seek](seek.md).
+- Open when looking up setFocus in Acrobat. [setFocus](set-focus.md).
+- Open when looking up settings in Acrobat. [settings](settings.md).
+- Open when looking up stop in Acrobat. [stop](stop.md).
+- Open when looking up triggerGetRect in Acrobat. [triggerGetRect](trigger-get-rect.md).
+- Open when looking up uiSize in Acrobat. [uiSize](ui-size.md).
+- Open when looking up visible in Acrobat. [visible](visible.md).
+- Open when looking up where in Acrobat. [where](where.md).

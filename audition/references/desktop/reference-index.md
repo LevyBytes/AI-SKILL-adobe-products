@@ -1,0 +1,22 @@
+# Audition — Desktop workflows
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 5 1 surround sound in Audition. [5 1 surround sound references](5-1-surround-sound/reference-index.md).
+- Open when looking up Amplitude compression effects in Audition. [Amplitude compression effects references](amplitude-compression-effects/reference-index.md).
+- Open when looking up Applying effects in Audition. [Applying effects references](applying-effects/reference-index.md).
+- Open when looking up Audio files in Audition. [Audio files references](audio-files/reference-index.md).
+- Open when looking up Digital audio fundamentals in Audition. [Digital audio fundamentals references](digital-audio-fundamentals/reference-index.md).
+- Open when looking up Editing audio files in Audition. [Editing audio files references](editing-audio-files/reference-index.md).
+- Open when looking up Effects in Audition. [Effects references](effects/reference-index.md).
+- Open when looking up Extracting audio from cds in Audition. [Extracting audio from cds references](extracting-audio-from-cds/reference-index.md).
+- Open when looking up Filter and equalizer effects in Audition. [Filter and equalizer effects references](filter-and-equalizer-effects/reference-index.md).
+- Open when looking up Get started in Audition. [Get started references](get-started/reference-index.md).
+- Open when looking up Importing recording and playing in Audition. [Importing recording and playing references](importing-recording-and-playing/reference-index.md).
+- Open when looking up Introduction in Audition. [Introduction references](introduction/reference-index.md).
+- Open when looking up Mixing multitrack sessions in Audition. [Mixing multitrack sessions references](mixing-multitrack-sessions/reference-index.md).
+- Open when looking up Podcasts in Audition. [Podcasts references](podcasts/reference-index.md).
+- Open when looking up Release history in Audition. [Release history references](release-history/reference-index.md).
+- Open when looking up Saving and exporting in Audition. [Saving and exporting references](saving-and-exporting/reference-index.md).
+- Open when looking up Speech generation in Audition. [Speech generation references](speech-generation/reference-index.md).
+- Open when looking up Video and surround sound in Audition. [Video and surround sound references](video-and-surround-sound/reference-index.md).
+- Open when looking up Workspace and setup in Audition. [Workspace and setup references](workspace-and-setup/reference-index.md).

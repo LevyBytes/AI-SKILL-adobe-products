@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Generative credits", "file": "references/web/generative-credits-overview/generative-credits.md", "summary": "Open when looking up Generative credits in Firefly.", "keywords": ["Generative credits"]},
+  {"topic": "Understand generative credits and how they function.", "file": "references/web/generative-credits-overview/understand-generative-credits-and-how-they-function.md", "summary": "Open when looking up Understand generative credits and how they function. in Firefly.", "keywords": ["Understand generative credits and how they function."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

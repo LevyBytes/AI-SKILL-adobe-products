@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "ApplyImageChannelType", "file": "references/uxp/types-apply-image-types-interfaces/apply-image-channel-type.md", "summary": "Open when looking up ApplyImageChannelType in Photoshop.", "keywords": ["ApplyImageChannelType"]},
+  {"topic": "ApplyImageLayerType", "file": "references/uxp/types-apply-image-types-interfaces/apply-image-layer-type.md", "summary": "Open when looking up ApplyImageLayerType in Photoshop.", "keywords": ["ApplyImageLayerType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

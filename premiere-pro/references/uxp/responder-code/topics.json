@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "index.js", "file": "references/uxp/responder-code/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
+  {"topic": "manifest.json", "file": "references/uxp/responder-code/manifest-json.md", "summary": "Open when looking up manifest.json in Premiere Pro.", "keywords": ["manifest.json"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

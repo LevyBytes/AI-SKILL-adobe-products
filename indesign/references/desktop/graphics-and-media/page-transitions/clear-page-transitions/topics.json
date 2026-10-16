@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Clear transitions from all spreads", "file": "references/desktop/graphics-and-media/page-transitions/clear-page-transitions/clear-transitions-from-all-spreads.md", "summary": "Open when looking up Clear transitions from all spreads in InDesign.", "keywords": ["Clear transitions from all spreads"]},
+  {"topic": "Remove transitions from specific spreads", "file": "references/desktop/graphics-and-media/page-transitions/clear-page-transitions/remove-transitions-from-specific-spreads.md", "summary": "Open when looking up Remove transitions from specific spreads in InDesign.", "keywords": ["Remove transitions from specific spreads"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

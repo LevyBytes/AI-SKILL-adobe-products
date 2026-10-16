@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Blur & Sharpen", "file": "references/desktop/effects/list-of-effects/cycore-plugins/blur-sharpen.md", "summary": "Open when looking up Blur & Sharpen in After Effects.", "keywords": ["Blur & Sharpen"]},
+  {"topic": "Channel", "file": "references/desktop/effects/list-of-effects/cycore-plugins/channel.md", "summary": "Open when looking up Channel in After Effects.", "keywords": ["Channel"]},
+  {"topic": "Color Correction", "file": "references/desktop/effects/list-of-effects/cycore-plugins/color-correction.md", "summary": "Open when looking up Color Correction in After Effects.", "keywords": ["Color Correction"]},
+  {"topic": "Distort", "file": "references/desktop/effects/list-of-effects/cycore-plugins/distort.md", "summary": "Open when looking up Distort in After Effects.", "keywords": ["Distort"]},
+  {"topic": "Generate", "file": "references/desktop/effects/list-of-effects/cycore-plugins/generate.md", "summary": "Open when looking up Generate in After Effects.", "keywords": ["Generate"]},
+  {"topic": "Keying", "file": "references/desktop/effects/list-of-effects/cycore-plugins/keying.md", "summary": "Open when looking up Keying in After Effects.", "keywords": ["Keying"]},
+  {"topic": "Perspective", "file": "references/desktop/effects/list-of-effects/cycore-plugins/perspective.md", "summary": "Open when looking up Perspective in After Effects.", "keywords": ["Perspective"]},
+  {"topic": "Simulation", "file": "references/desktop/effects/list-of-effects/cycore-plugins/simulation.md", "summary": "Open when looking up Simulation in After Effects.", "keywords": ["Simulation"]},
+  {"topic": "Stylize", "file": "references/desktop/effects/list-of-effects/cycore-plugins/stylize.md", "summary": "Open when looking up Stylize in After Effects.", "keywords": ["Stylize"]},
+  {"topic": "Time", "file": "references/desktop/effects/list-of-effects/cycore-plugins/time.md", "summary": "Open when looking up Time in After Effects.", "keywords": ["Time"]},
+  {"topic": "Transition", "file": "references/desktop/effects/list-of-effects/cycore-plugins/transition.md", "summary": "Open when looking up Transition in After Effects.", "keywords": ["Transition"]},
+  {"topic": "Utility", "file": "references/desktop/effects/list-of-effects/cycore-plugins/utility.md", "summary": "Open when looking up Utility in After Effects.", "keywords": ["Utility"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

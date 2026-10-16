@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Make the text inside a scanned PDF searchable, using Adobe Acrobat.", "file": "references/desktop/recognize-text-in-scanned-documents/scanned-pdf-text-recognition.md", "summary": "Open when looking up Make the text inside a scanned PDF searchable, using Adobe Acrobat. in Acrobat.", "keywords": ["Make the text inside a scanned PDF searchable, using Adobe Acrobat."]},
+  {"topic": "Recognize text in a single document", "file": "references/desktop/recognize-text-in-scanned-documents/recognize-text-in-a-single-document.md", "summary": "Open when looking up Recognize text in a single document in Acrobat.", "keywords": ["Recognize text in a single document"]},
+  {"topic": "Recognize text in multiple documents", "file": "references/desktop/recognize-text-in-scanned-documents/recognize-text-in-multiple-documents.md", "summary": "Open when looking up Recognize text in multiple documents in Acrobat.", "keywords": ["Recognize text in multiple documents"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

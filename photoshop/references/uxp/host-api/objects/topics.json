@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "action", "file": "references/uxp/host-api/objects/action.md", "summary": "Open when looking up action in Photoshop.", "keywords": ["action"]},
+  {"topic": "app", "file": "references/uxp/host-api/objects/app.md", "summary": "Open when looking up app in Photoshop.", "keywords": ["app"]},
+  {"topic": "constants", "file": "references/uxp/host-api/objects/constants.md", "summary": "Open when looking up constants in Photoshop.", "keywords": ["constants"]},
+  {"topic": "core", "file": "references/uxp/host-api/objects/core.md", "summary": "Open when looking up core in Photoshop.", "keywords": ["core"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

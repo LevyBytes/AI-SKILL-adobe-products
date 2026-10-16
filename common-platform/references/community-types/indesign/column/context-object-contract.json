@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Column declaration", "file": "references/community-types/indesign/column/declaration.md", "summary": "Open when looking up Column declaration in Shared Adobe platform.", "keywords": ["Column declaration"]},
+  {"topic": "Column identity and parent", "file": "references/community-types/indesign/column/identity-and-parent.md", "summary": "Open when looking up Column identity and parent in Shared Adobe platform.", "keywords": ["Column identity and parent"]},
+  {"topic": "Column object resolution", "file": "references/community-types/indesign/column/object-resolution.md", "summary": "Open when looking up Column object resolution in Shared Adobe platform.", "keywords": ["Column object resolution"]},
+  {"topic": "Column.properties", "file": "references/community-types/indesign/column/properties.md", "summary": "Open when looking up Column.properties in Shared Adobe platform.", "keywords": ["Column.properties"]},
+  {"topic": "Column.remove", "file": "references/community-types/indesign/column/remove.md", "summary": "Open when looking up Column.remove in Shared Adobe platform.", "keywords": ["Column.remove"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

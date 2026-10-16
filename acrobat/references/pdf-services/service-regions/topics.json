@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "REST API", "file": "references/pdf-services/service-regions/rest-api.md", "summary": "Open when looking up REST API in Acrobat.", "keywords": ["REST API"]},
+  {"topic": "Service Region Configuration for PDF Services APIs — Service Region Configuration", "file": "references/pdf-services/service-regions/service-region-configuration.md", "summary": "Open when looking up Service Region Configuration for PDF Services APIs — Service Region Configuration in Acrobat.", "keywords": ["Service Region Configuration for PDF Services APIs — Service Region Configuration"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "TextPath", "file": "references/document-model/text-path.md", "summary": "Open when looking up TextPath in InDesign.", "keywords": ["TextPath"]},
+  {"topic": "TextPath references", "file": "references/document-model/text-path/reference-index.md", "summary": "Open when looking up TextPath in InDesign.", "keywords": ["TextPath references"]},
+  {"topic": "TextPathEffects", "file": "references/document-model/text-path-effects.md", "summary": "Open when looking up TextPathEffects in InDesign.", "keywords": ["TextPathEffects"]},
+  {"topic": "TextPathEffects references", "file": "references/document-model/text-path-effects/reference-index.md", "summary": "Open when looking up TextPathEffects in InDesign.", "keywords": ["TextPathEffects references"]},
+  {"topic": "TextPaths", "file": "references/document-model/text-paths.md", "summary": "Open when looking up TextPaths in InDesign.", "keywords": ["TextPaths"]},
+  {"topic": "TextPaths references", "file": "references/document-model/text-paths/reference-index.md", "summary": "Open when looking up TextPaths in InDesign.", "keywords": ["TextPaths references"]},
+  {"topic": "TextTypeAlignments", "file": "references/document-model/text-type-alignments.md", "summary": "Open when looking up TextTypeAlignments in InDesign.", "keywords": ["TextTypeAlignments"]},
+  {"topic": "TextTypeAlignments references", "file": "references/document-model/text-type-alignments/reference-index.md", "summary": "Open when looking up TextTypeAlignments in InDesign.", "keywords": ["TextTypeAlignments references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

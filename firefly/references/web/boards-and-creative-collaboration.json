@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Ideation and mood boarding references", "file": "references/web/ideation/reference-index.md", "summary": "Open when looking up Ideation and mood boarding in Firefly.", "keywords": ["Ideation and mood boarding references"]},
+  {"topic": "Boards references", "file": "references/web/boards/reference-index.md", "summary": "Open when looking up Boards in Firefly.", "keywords": ["Boards references"]},
+  {"topic": "Firefly boards references", "file": "references/web/firefly-boards/reference-index.md", "summary": "Open when looking up Firefly boards in Firefly.", "keywords": ["Firefly boards references"]},
+  {"topic": "Create mood boards references", "file": "references/web/create-mood-boards/reference-index.md", "summary": "Open when looking up Create mood boards in Firefly.", "keywords": ["Create mood boards references"]},
+  {"topic": "Work with linked documents references", "file": "references/web/work-with-linked-documents/reference-index.md", "summary": "Open when looking up Work with linked documents in Firefly.", "keywords": ["Work with linked documents references"]},
+  {"topic": "Share for collaboration references", "file": "references/web/share-for-collaboration/reference-index.md", "summary": "Open when looking up Share for collaboration in Firefly.", "keywords": ["Share for collaboration references"]},
+  {"topic": "Add comments references", "file": "references/web/add-comments/reference-index.md", "summary": "Open when looking up Add comments in Firefly.", "keywords": ["Add comments references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

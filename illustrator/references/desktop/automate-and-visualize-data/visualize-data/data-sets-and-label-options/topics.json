@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Data sets", "file": "references/desktop/automate-and-visualize-data/visualize-data/data-sets-and-label-options/data-sets.md", "summary": "Open when looking up Data sets in Illustrator.", "keywords": ["Data sets"]},
+  {"topic": "Graph labels", "file": "references/desktop/automate-and-visualize-data/visualize-data/data-sets-and-label-options/graph-labels.md", "summary": "Open when looking up Graph labels in Illustrator.", "keywords": ["Graph labels"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

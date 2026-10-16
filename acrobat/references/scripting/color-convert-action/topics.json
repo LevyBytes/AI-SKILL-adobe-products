@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "action", "file": "references/scripting/color-convert-action/action.md", "summary": "Open when looking up action in Acrobat.", "keywords": ["action"]},
+  {"topic": "alias", "file": "references/scripting/color-convert-action/alias.md", "summary": "Open when looking up alias in Acrobat.", "keywords": ["alias"]},
+  {"topic": "colorantName", "file": "references/scripting/color-convert-action/colorant-name.md", "summary": "Open when looking up colorantName in Acrobat.", "keywords": ["colorantName"]},
+  {"topic": "convertIntent", "file": "references/scripting/color-convert-action/convert-intent.md", "summary": "Open when looking up convertIntent in Acrobat.", "keywords": ["convertIntent"]},
+  {"topic": "convertProfile", "file": "references/scripting/color-convert-action/convert-profile.md", "summary": "Open when looking up convertProfile in Acrobat.", "keywords": ["convertProfile"]},
+  {"topic": "embed", "file": "references/scripting/color-convert-action/embed.md", "summary": "Open when looking up embed in Acrobat.", "keywords": ["embed"]},
+  {"topic": "isProcessColor", "file": "references/scripting/color-convert-action/is-process-color.md", "summary": "Open when looking up isProcessColor in Acrobat.", "keywords": ["isProcessColor"]},
+  {"topic": "JavaScript APIs — colorConvertAction", "file": "references/scripting/color-convert-action/java-script-apis-color-convert-action.md", "summary": "Open when looking up JavaScript APIs — colorConvertAction in Acrobat.", "keywords": ["JavaScript APIs — colorConvertAction"]},
+  {"topic": "matchAttributesAll", "file": "references/scripting/color-convert-action/match-attributes-all.md", "summary": "Open when looking up matchAttributesAll in Acrobat.", "keywords": ["matchAttributesAll"]},
+  {"topic": "matchAttributesAny", "file": "references/scripting/color-convert-action/match-attributes-any.md", "summary": "Open when looking up matchAttributesAny in Acrobat.", "keywords": ["matchAttributesAny"]},
+  {"topic": "matchIntent", "file": "references/scripting/color-convert-action/match-intent.md", "summary": "Open when looking up matchIntent in Acrobat.", "keywords": ["matchIntent"]},
+  {"topic": "matchSpaceTypeAll", "file": "references/scripting/color-convert-action/match-space-type-all.md", "summary": "Open when looking up matchSpaceTypeAll in Acrobat.", "keywords": ["matchSpaceTypeAll"]},
+  {"topic": "matchSpaceTypeAny", "file": "references/scripting/color-convert-action/match-space-type-any.md", "summary": "Open when looking up matchSpaceTypeAny in Acrobat.", "keywords": ["matchSpaceTypeAny"]},
+  {"topic": "preserveBlack", "file": "references/scripting/color-convert-action/preserve-black.md", "summary": "Open when looking up preserveBlack in Acrobat.", "keywords": ["preserveBlack"]},
+  {"topic": "useBlackPointCompensation", "file": "references/scripting/color-convert-action/use-black-point-compensation.md", "summary": "Open when looking up useBlackPointCompensation in Acrobat.", "keywords": ["useBlackPointCompensation"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

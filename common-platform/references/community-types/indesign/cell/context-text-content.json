@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Cell.changes", "file": "references/community-types/indesign/cell/changes.md", "summary": "Open when looking up Cell.changes in Shared Adobe platform.", "keywords": ["Cell.changes"]},
+  {"topic": "Cell.contents", "file": "references/community-types/indesign/cell/contents.md", "summary": "Open when looking up Cell.contents in Shared Adobe platform.", "keywords": ["Cell.contents"]},
+  {"topic": "Cell.hiddenTexts", "file": "references/community-types/indesign/cell/hidden-texts.md", "summary": "Open when looking up Cell.hiddenTexts in Shared Adobe platform.", "keywords": ["Cell.hiddenTexts"]},
+  {"topic": "Cell.recompose", "file": "references/community-types/indesign/cell/recompose.md", "summary": "Open when looking up Cell.recompose in Shared Adobe platform.", "keywords": ["Cell.recompose"]},
+  {"topic": "Cell.textVariableInstances", "file": "references/community-types/indesign/cell/text-variable-instances.md", "summary": "Open when looking up Cell.textVariableInstances in Shared Adobe platform.", "keywords": ["Cell.textVariableInstances"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

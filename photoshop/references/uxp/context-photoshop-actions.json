@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "batchPlay", "file": "references/uxp/batch-play.md", "summary": "Open when looking up batchPlay in Photoshop.", "keywords": ["batchPlay"]},
+  {"topic": "batchPlay references", "file": "references/uxp/batch-play/reference-index.md", "summary": "Open when looking up batchPlay in Photoshop.", "keywords": ["batchPlay references"]},
+  {"topic": "BatchPlayCommandOptions", "file": "references/uxp/batch-play-command-options.md", "summary": "Open when looking up BatchPlayCommandOptions in Photoshop.", "keywords": ["BatchPlayCommandOptions"]},
+  {"topic": "Event codes", "file": "references/uxp/event-codes.md", "summary": "Open when looking up Event codes in Photoshop.", "keywords": ["Event codes"]},
+  {"topic": "Event codes references", "file": "references/uxp/event-codes/reference-index.md", "summary": "Open when looking up Event codes in Photoshop.", "keywords": ["Event codes references"]},
+  {"topic": "Event Notifications", "file": "references/uxp/event-notifications.md", "summary": "Open when looking up Event Notifications in Photoshop.", "keywords": ["Event Notifications"]},
+  {"topic": "Event references", "file": "references/uxp/event/reference-index.md", "summary": "Open when looking up Event in Photoshop.", "keywords": ["Event references"]},
+  {"topic": "Functions references", "file": "references/uxp/functions/reference-index.md", "summary": "Open when looking up Functions in Photoshop.", "keywords": ["Functions references"]},
+  {"topic": "Photoshopaction", "file": "references/uxp/photoshopaction.md", "summary": "Open when looking up Photoshopaction in Photoshop.", "keywords": ["Photoshopaction"]},
+  {"topic": "Recording an Action Step Provided by a UXP Plugin", "file": "references/uxp/recording-an-action-step-provided-by-a-uxp-plugin.md", "summary": "Open when looking up Recording an Action Step Provided by a UXP Plugin in Photoshop.", "keywords": ["Recording an Action Step Provided by a UXP Plugin"]},
+  {"topic": "Recording an Action Step Provided by a UXP Plugin references", "file": "references/uxp/recording-an-action-step-provided-by-a-uxp-plugin/reference-index.md", "summary": "Open when looking up Recording an Action Step Provided by a UXP Plugin in Photoshop.", "keywords": ["Recording an Action Step Provided by a UXP Plugin references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

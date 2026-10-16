@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Data handling and security", "file": "references/desktop/get-started/enterprise/acrobat-express-for-enterprise-and-teams/data-handling-and-security.md", "summary": "Open when looking up Data handling and security in Acrobat.", "keywords": ["Data handling and security"]},
+  {"topic": "Deploying licenses for Acrobat Express", "file": "references/desktop/get-started/enterprise/acrobat-express-for-enterprise-and-teams/deploying-licenses-for-acrobat-express.md", "summary": "Open when looking up Deploying licenses for Acrobat Express in Acrobat.", "keywords": ["Deploying licenses for Acrobat Express"]},
+  {"topic": "Identity types and authentication", "file": "references/desktop/get-started/enterprise/acrobat-express-for-enterprise-and-teams/identity-types-and-authentication.md", "summary": "Open when looking up Identity types and authentication in Acrobat.", "keywords": ["Identity types and authentication"]},
+  {"topic": "User access management", "file": "references/desktop/get-started/enterprise/acrobat-express-for-enterprise-and-teams/user-access-management.md", "summary": "Open when looking up User access management in Acrobat.", "keywords": ["User access management"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

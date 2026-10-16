@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "export-listeners.jsx", "file": "references/automation/examples/multiple-preset-export/export-listeners.jsx", "summary": "Open when looking up export-listeners.jsx in Media Encoder.", "keywords": ["export-listeners.jsx"]},
+  {"topic": "export-preset-group.jsx", "file": "references/automation/examples/multiple-preset-export/export-preset-group.jsx", "summary": "Open when looking up export-preset-group.jsx in Media Encoder.", "keywords": ["export-preset-group.jsx"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

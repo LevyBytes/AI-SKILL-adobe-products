@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Review Captions", "file": "references/web/best-practices-for-training-custom-models/review-captions.md", "summary": "Open when looking up Review Captions in Firefly.", "keywords": ["Review Captions"]},
+  {"topic": "Review Model Tags", "file": "references/web/best-practices-for-training-custom-models/review-model-tags.md", "summary": "Open when looking up Review Model Tags in Firefly.", "keywords": ["Review Model Tags"]},
+  {"topic": "Use advanced style capabilities to further refine your image", "file": "references/web/best-practices-for-training-custom-models/use-advanced-style-capabilities-to-further-refine-your-image.md", "summary": "Open when looking up Use advanced style capabilities to further refine your image in Firefly.", "keywords": ["Use advanced style capabilities to further refine your image"]},
+  {"topic": "Use crisp prompts that align with your training data", "file": "references/web/best-practices-for-training-custom-models/use-crisp-prompts-that-align-with-your-training-data.md", "summary": "Open when looking up Use crisp prompts that align with your training data in Firefly.", "keywords": ["Use crisp prompts that align with your training data"]},
+  {"topic": "Use quality images", "file": "references/web/best-practices-for-training-custom-models/use-quality-images.md", "summary": "Open when looking up Use quality images in Firefly.", "keywords": ["Use quality images"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ALTERNATING_COLUMNS", "file": "references/document-model/alternating-fills-types/alternatingcolumns.md", "summary": "Open when looking up ALTERNATING_COLUMNS in InDesign.", "keywords": ["ALTERNATING_COLUMNS"]},
+  {"topic": "ALTERNATING_ROWS", "file": "references/document-model/alternating-fills-types/alternatingrows.md", "summary": "Open when looking up ALTERNATING_ROWS in InDesign.", "keywords": ["ALTERNATING_ROWS"]},
+  {"topic": "NO_ALTERNATING_PATTERN", "file": "references/document-model/alternating-fills-types/noalternatingpattern.md", "summary": "Open when looking up NO_ALTERNATING_PATTERN in InDesign.", "keywords": ["NO_ALTERNATING_PATTERN"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

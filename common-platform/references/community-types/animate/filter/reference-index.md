@@ -1,0 +1,23 @@
+# Shared Adobe platform — Filter
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Filter declaration in Shared Adobe platform. [Filter declaration](declaration.md).
+- Open when looking up Filter.angle in Shared Adobe platform. [Filter.angle](angle.md).
+- Open when looking up Filter.blurX in Shared Adobe platform. [Filter.blurX](blur-x.md).
+- Open when looking up Filter.blurY in Shared Adobe platform. [Filter.blurY](blur-y.md).
+- Open when looking up Filter.brightness in Shared Adobe platform. [Filter.brightness](brightness.md).
+- Open when looking up Filter.color in Shared Adobe platform. [Filter.color](color.md).
+- Open when looking up Filter.contrast in Shared Adobe platform. [Filter.contrast](contrast.md).
+- Open when looking up Filter.distance in Shared Adobe platform. [Filter.distance](distance.md).
+- Open when looking up Filter.enabled in Shared Adobe platform. [Filter.enabled](enabled.md).
+- Open when looking up Filter.hideObject in Shared Adobe platform. [Filter.hideObject](hide-object.md).
+- Open when looking up Filter.highlightColor in Shared Adobe platform. [Filter.highlightColor](highlight-color.md).
+- Open when looking up Filter.hue in Shared Adobe platform. [Filter.hue](hue.md).
+- Open when looking up Filter.inner in Shared Adobe platform. [Filter.inner](inner.md).
+- Open when looking up Filter.knockout in Shared Adobe platform. [Filter.knockout](knockout.md).
+- Open when looking up Filter.name in Shared Adobe platform. [Filter.name](name.md).
+- Open when looking up Filter.quality in Shared Adobe platform. [Filter.quality](quality.md).
+- Open when looking up Filter.saturation in Shared Adobe platform. [Filter.saturation](saturation.md).
+- Open when looking up Filter.shadowColor in Shared Adobe platform. [Filter.shadowColor](shadow-color.md).
+- Open when looking up Filter.strength in Shared Adobe platform. [Filter.strength](strength.md).
+- Open when looking up Filter.type in Shared Adobe platform. [Filter.type](type.md).

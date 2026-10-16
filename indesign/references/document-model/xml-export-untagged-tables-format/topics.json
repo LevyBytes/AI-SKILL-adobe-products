@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CALS", "file": "references/document-model/xml-export-untagged-tables-format/cals.md", "summary": "Open when looking up CALS in InDesign.", "keywords": ["CALS"]},
+  {"topic": "NONE", "file": "references/document-model/xml-export-untagged-tables-format/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

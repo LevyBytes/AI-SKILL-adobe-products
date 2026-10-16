@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "FindTransliteratePreference.findCharacterType", "file": "references/community-types/indesign/find-transliterate-preference/find-character-type.md", "summary": "Open when looking up FindTransliteratePreference.findCharacterType in Shared Adobe platform.", "keywords": ["FindTransliteratePreference.findCharacterType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

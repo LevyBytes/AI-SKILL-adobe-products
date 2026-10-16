@@ -1,0 +1,29 @@
+# InDesign — Change
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up accept in InDesign. [accept](accept.md).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up changeType in InDesign. [changeType](change-type.md).
+- Open when looking up characters in InDesign. [characters](characters.md).
+- Open when looking up date in InDesign. [date](date.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up insertionPoints in InDesign. [insertionPoints](insertion-points.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up lines in InDesign. [lines](lines.md).
+- Open when looking up paragraphs in InDesign. [paragraphs](paragraphs.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up reject in InDesign. [reject](reject.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up storyOffset in InDesign. [storyOffset](story-offset.md).
+- Open when looking up textColumns in InDesign. [textColumns](text-columns.md).
+- Open when looking up texts in InDesign. [texts](texts.md).
+- Open when looking up textStyleRanges in InDesign. [textStyleRanges](text-style-ranges.md).
+- Open when looking up textVariableInstances in InDesign. [textVariableInstances](text-variable-instances.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up userName in InDesign. [userName](user-name.md).
+- Open when looking up words in InDesign. [words](words.md).

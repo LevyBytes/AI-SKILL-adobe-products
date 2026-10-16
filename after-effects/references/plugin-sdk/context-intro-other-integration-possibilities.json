@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Ae render references", "file": "references/plugin-sdk/ae-render/reference-index.md", "summary": "Open when looking up Ae render in After Effects.", "keywords": ["Ae render references"]},
+  {"topic": "Html5 panels references", "file": "references/plugin-sdk/html5-panels/reference-index.md", "summary": "Open when looking up Html5 panels in After Effects.", "keywords": ["Html5 panels references"]},
+  {"topic": "Mercury transmit references", "file": "references/plugin-sdk/mercury-transmit/reference-index.md", "summary": "Open when looking up Mercury transmit in After Effects.", "keywords": ["Mercury transmit references"]},
+  {"topic": "Other Integration Possibilities", "file": "references/plugin-sdk/other-integration-possibilities.md", "summary": "Open when looking up Other Integration Possibilities in After Effects.", "keywords": ["Other Integration Possibilities"]},
+  {"topic": "Premiere pro importers references", "file": "references/plugin-sdk/premiere-pro-importers/reference-index.md", "summary": "Open when looking up Premiere pro importers in After Effects.", "keywords": ["Premiere pro importers references"]},
+  {"topic": "Scripting APIs references", "file": "references/plugin-sdk/scripting/reference-index.md", "summary": "Open when looking up Scripting APIs in After Effects.", "keywords": ["Scripting APIs references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

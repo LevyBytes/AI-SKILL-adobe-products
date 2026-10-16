@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "colorGroups", "file": "references/document-model/application/color-groups.md", "summary": "Open when looking up colorGroups in InDesign.", "keywords": ["colorGroups"]},
+  {"topic": "colors", "file": "references/document-model/application/colors.md", "summary": "Open when looking up colors in InDesign.", "keywords": ["colors"]},
+  {"topic": "dashedStrokeStyles", "file": "references/document-model/application/dashed-stroke-styles.md", "summary": "Open when looking up dashedStrokeStyles in InDesign.", "keywords": ["dashedStrokeStyles"]},
+  {"topic": "dottedStrokeStyles", "file": "references/document-model/application/dotted-stroke-styles.md", "summary": "Open when looking up dottedStrokeStyles in InDesign.", "keywords": ["dottedStrokeStyles"]},
+  {"topic": "exportStrokeStyles", "file": "references/document-model/application/export-stroke-styles.md", "summary": "Open when looking up exportStrokeStyles in InDesign.", "keywords": ["exportStrokeStyles"]},
+  {"topic": "gradients", "file": "references/document-model/application/gradients.md", "summary": "Open when looking up gradients in InDesign.", "keywords": ["gradients"]},
+  {"topic": "importAdobeSwatchbookProcessColor", "file": "references/document-model/application/import-adobe-swatchbook-process-color.md", "summary": "Open when looking up importAdobeSwatchbookProcessColor in InDesign.", "keywords": ["importAdobeSwatchbookProcessColor"]},
+  {"topic": "importAdobeSwatchbookSpotColor", "file": "references/document-model/application/import-adobe-swatchbook-spot-color.md", "summary": "Open when looking up importAdobeSwatchbookSpotColor in InDesign.", "keywords": ["importAdobeSwatchbookSpotColor"]},
+  {"topic": "inks", "file": "references/document-model/application/inks.md", "summary": "Open when looking up inks in InDesign.", "keywords": ["inks"]},
+  {"topic": "invokeColorPicker", "file": "references/document-model/application/invoke-color-picker.md", "summary": "Open when looking up invokeColorPicker in InDesign.", "keywords": ["invokeColorPicker"]},
+  {"topic": "loadSwatches", "file": "references/document-model/application/load-swatches.md", "summary": "Open when looking up loadSwatches in InDesign.", "keywords": ["loadSwatches"]},
+  {"topic": "mixedInkGroups", "file": "references/document-model/application/mixed-ink-groups.md", "summary": "Open when looking up mixedInkGroups in InDesign.", "keywords": ["mixedInkGroups"]},
+  {"topic": "mixedInks", "file": "references/document-model/application/mixed-inks.md", "summary": "Open when looking up mixedInks in InDesign.", "keywords": ["mixedInks"]},
+  {"topic": "saveSwatches", "file": "references/document-model/application/save-swatches.md", "summary": "Open when looking up saveSwatches in InDesign.", "keywords": ["saveSwatches"]},
+  {"topic": "stripedStrokeStyles", "file": "references/document-model/application/striped-stroke-styles.md", "summary": "Open when looking up stripedStrokeStyles in InDesign.", "keywords": ["stripedStrokeStyles"]},
+  {"topic": "strokeFillProxySettings", "file": "references/document-model/application/stroke-fill-proxy-settings.md", "summary": "Open when looking up strokeFillProxySettings in InDesign.", "keywords": ["strokeFillProxySettings"]},
+  {"topic": "strokeStyles", "file": "references/document-model/application/stroke-styles.md", "summary": "Open when looking up strokeStyles in InDesign.", "keywords": ["strokeStyles"]},
+  {"topic": "swatches", "file": "references/document-model/application/swatches.md", "summary": "Open when looking up swatches in InDesign.", "keywords": ["swatches"]},
+  {"topic": "tints", "file": "references/document-model/application/tints.md", "summary": "Open when looking up tints in InDesign.", "keywords": ["tints"]},
+  {"topic": "unusedSwatches", "file": "references/document-model/application/unused-swatches.md", "summary": "Open when looking up unusedSwatches in InDesign.", "keywords": ["unusedSwatches"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

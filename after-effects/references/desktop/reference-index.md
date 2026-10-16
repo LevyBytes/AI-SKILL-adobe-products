@@ -1,0 +1,57 @@
+# After Effects — Desktop workflows
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust colors in After Effects. [Adjust colors references](adjust-colors/reference-index.md).
+- Open when looking up Animation in After Effects. [Animation references](animation/reference-index.md).
+- Open when looking up Automation examples in After Effects. [Automation examples references](automation/reference-index.md).
+- Open when looking up Camera in After Effects. [Camera references](camera/reference-index.md).
+- Open when looking up Color conversion methods in After Effects. [Color conversion methods references](color-conversion-methods/reference-index.md).
+- Open when looking up Comp in After Effects. [Comp references](comp/reference-index.md).
+- Open when looking up Compositions in After Effects. [Compositions references](compositions/reference-index.md).
+- Open when looking up Creative cloud libraries in After Effects. [Creative cloud libraries references](creative-cloud-libraries/reference-index.md).
+- Open when looking up Drawing painting and paths in After Effects. [Drawing painting and paths references](drawing-and-paths/reference-index.md).
+- Open when looking up Dropdown menu attributes in After Effects. [Dropdown menu attributes references](dropdown-menu-attributes/reference-index.md).
+- Open when looking up Effect capabilities in After Effects. [Effect capabilities references](effect-capabilities/reference-index.md).
+- Open when looking up Effect in After Effects. [Effect references](effect/reference-index.md).
+- Open when looking up Effects in After Effects. [Effects references](effects/reference-index.md).
+- Open when looking up Expressions in After Effects. [Expressions references](expressions/reference-index.md).
+- Open when looking up Footage in After Effects. [Footage references](footage/reference-index.md).
+- Open when looking up Get started in After Effects. [Get started references](get-started/reference-index.md).
+- Open when looking up Global objects attributes and methods in After Effects. [Global objects attributes and methods references](global-objects-attributes-and-methods/reference-index.md).
+- Open when looking up Immersive video and vr in After Effects. [Immersive video and vr references](immersive-video-and-vr/reference-index.md).
+- Open when looking up Import files in After Effects. [Import files references](import-files/reference-index.md).
+- Open when looking up Interoperability in After Effects. [Interoperability references](interoperability/reference-index.md).
+- Open when looking up Interpolation methods in After Effects. [Interpolation methods references](interpolation-methods/reference-index.md).
+- Open when looking up Key in After Effects. [Key references](key/reference-index.md).
+- Open when looking up Layer 3 d in After Effects. [Layer 3 d references](layer-3-d/reference-index.md).
+- Open when looking up Layer general in After Effects. [Layer general references](layer-general/reference-index.md).
+- Open when looking up Layer space transforms methods in After Effects. [Layer space transforms methods references](layer-space-transforms-methods/reference-index.md).
+- Open when looking up Layer sub objects in After Effects. [Layer sub objects references](layer-sub-objects/reference-index.md).
+- Open when looking up Layers in After Effects. [Layers references](layers/reference-index.md).
+- Open when looking up Light in After Effects. [Light references](light/reference-index.md).
+- Open when looking up Marker key attributes in After Effects. [Marker key attributes references](marker-key-attributes/reference-index.md).
+- Open when looking up Marker in After Effects. [Marker references](marker/reference-index.md).
+- Open when looking up Mask in After Effects. [Mask references](mask/reference-index.md).
+- Open when looking up Memory storage performance in After Effects. [Memory storage performance references](memory-storage-performance/reference-index.md).
+- Open when looking up Motion graphics in After Effects. [Motion graphics references](motion-graphics/reference-index.md).
+- Open when looking up Network rendering in After Effects. [Network rendering references](network-rendering/reference-index.md).
+- Open when looking up Other math methods in After Effects. [Other math methods references](other-math-methods/reference-index.md).
+- Open when looking up Path in After Effects. [Path references](path/reference-index.md).
+- Open when looking up Plugins in After Effects. [Plugins references](plugins/reference-index.md).
+- Open when looking up Property in After Effects. [Property references](property/reference-index.md).
+- Open when looking up Random numbers methods in After Effects. [Random numbers methods references](random-numbers-methods/reference-index.md).
+- Open when looking up Release history in After Effects. [Release history references](release-history/reference-index.md).
+- Open when looking up Render and export in After Effects. [Render and export references](render-and-export/reference-index.md).
+- Open when looking up Roto brush and mattes in After Effects. [Roto brush and mattes references](roto-brush-and-mattes/reference-index.md).
+- Open when looking up Text in After Effects. [Text references](text/reference-index.md).
+- Open when looking up Three dimensional workflows in After Effects. [Three dimensional workflows references](3d-workflows/reference-index.md).
+- Open when looking up Time conversion methods in After Effects. [Time conversion methods references](time-conversion-methods/reference-index.md).
+- Open when looking up Tracking and stabilization in After Effects. [Tracking and stabilization references](tracking-and-stabilization/reference-index.md).
+- Open when looking up Variable font axes in After Effects. [Variable font axes references](variable-font-axes/reference-index.md).
+- Open when looking up Vector math methods in After Effects. [Vector math methods references](vector-math-methods/reference-index.md).
+- Open when looking up View and preview in After Effects. [View and preview references](view-and-preview/reference-index.md).
+- Open when looking up What s new in After Effects. [What s new references](what-s-new/reference-index.md).
+- Open when looking up Work with 3 d composition in After Effects. [Work with 3 d composition references](3d-composition/reference-index.md).
+- Open when looking up Work with footage items in After Effects. [Work with footage items references](work-with-footage-items/reference-index.md).
+- Open when looking up Work with projects in After Effects. [Work with projects references](work-with-projects/reference-index.md).
+- Open when looking up Work with transparency and compositing in After Effects. [Work with transparency and compositing references](compositing/reference-index.md).

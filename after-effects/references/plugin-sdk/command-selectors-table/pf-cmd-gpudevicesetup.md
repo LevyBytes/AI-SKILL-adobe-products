@@ -1,0 +1,5 @@
+# PF_Cmd_GPU_DEVICE_SETUP
+
+`PF_Cmd_GPU_DEVICE_SETUP`
+
+The host may invoke this selector whenever it likes. No GPU device gets it more than a single time. Several GPU devices can sit in the setup state simultaneously. Its arrival falls after GlobalSetup yet ahead of SequenceSetup. The idea is to let the effect handle GPU initialization where needed and to give it a chance to decline a GPU device purely on that device's own properties, apart from any render context such as frame size. An effect that turns down the GPU device ends up called for CPU render instead. `PF_InData`::what*gpu != `PF_GPU_Framework_None` is the expectation. The effect should turn on one or both `PF_OutFlag2_SUPPORTS_GPU_RENDER_Fxx` flags in `PF_OutData`::out*flags2 when the device and framework named in what_gpu are supported. Bear in mind only `PF_OutFlag2_SUPPORTS_GPU_RENDER_F32` exists in AE 16.0. Any effect that leaves these flags unset will NOT be treated as supporting GPU rendering on those devices. `PF_GPUDeviceSetupOutput`::gpu*data is a pointer the plug-in owns and must let go through the `PF_Cmd_GPU_DEVICE_SETDOWN` selector. That same pointer can also be reached at render time.

@@ -1,0 +1,29 @@
+# Acrobat — Security handler
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up appearances in Acrobat. [appearances](appearances.md).
+- Open when looking up digitalIDs in Acrobat. [digitalIDs](digital-i-ds.md).
+- Open when looking up directories in Acrobat. [directories](directories.md).
+- Open when looking up directoryHandlers in Acrobat. [directoryHandlers](directory-handlers.md).
+- Open when looking up docDecrypt in Acrobat. [docDecrypt](doc-decrypt.md).
+- Open when looking up docEncrypt in Acrobat. [docEncrypt](doc-encrypt.md).
+- Open when looking up Encryption-handler login and cleanup in Acrobat. [Encryption-handler login and cleanup](encryption-handler-login.md).
+- Open when looking up isLoggedIn in Acrobat. [isLoggedIn](is-logged-in.md).
+- Open when looking up JavaScript APIs — SecurityHandler in Acrobat. [JavaScript APIs — SecurityHandler](java-script-apis-security-handler.md).
+- Open when looking up loginName in Acrobat. [loginName](login-name.md).
+- Open when looking up loginPath in Acrobat. [loginPath](login-path.md).
+- Open when looking up logout in Acrobat. [logout](logout.md).
+- Open when looking up name in Acrobat. [name](name.md).
+- Open when looking up newDirectory in Acrobat. [newDirectory](new-directory.md).
+- Open when looking up newUser in Acrobat. [newUser](new-user.md).
+- Open when looking up SecurityHandler.login in Acrobat. [SecurityHandler.login](login.md).
+- Open when looking up setPasswordTimeout in Acrobat. [setPasswordTimeout](set-password-timeout.md).
+- Open when looking up signAuthor in Acrobat. [signAuthor](sign-author.md).
+- Open when looking up signFDF in Acrobat. [signFDF](sign-fdf.md).
+- Open when looking up Signing-handler login and credential selection in Acrobat. [Signing-handler login and credential selection](signing-handler-login.md).
+- Open when looking up signInvisible in Acrobat. [signInvisible](sign-invisible.md).
+- Open when looking up signValidate in Acrobat. [signValidate](sign-validate.md).
+- Open when looking up signVisible in Acrobat. [signVisible](sign-visible.md).
+- Open when looking up uiName in Acrobat. [uiName](ui-name.md).
+- Open when looking up validateFDF in Acrobat. [validateFDF](validate-fdf.md).
+- Open when looking up Windows signing credentials in Acrobat. [Windows signing credentials](windows-signing-credentials.md).

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.addNewText", "file": "references/community-types/animate/document/add-new-text.md", "summary": "Open when looking up Document.addNewText in Shared Adobe platform.", "keywords": ["Document.addNewText"]},
+  {"topic": "Document.getElementTextAttr", "file": "references/community-types/animate/document/get-element-text-attr.md", "summary": "Open when looking up Document.getElementTextAttr in Shared Adobe platform.", "keywords": ["Document.getElementTextAttr"]},
+  {"topic": "Document.getTextString", "file": "references/community-types/animate/document/get-text-string.md", "summary": "Open when looking up Document.getTextString in Shared Adobe platform.", "keywords": ["Document.getTextString"]},
+  {"topic": "Document.setElementTextAttr", "file": "references/community-types/animate/document/set-element-text-attr.md", "summary": "Open when looking up Document.setElementTextAttr in Shared Adobe platform.", "keywords": ["Document.setElementTextAttr"]},
+  {"topic": "Document.setTextRectangle", "file": "references/community-types/animate/document/set-text-rectangle.md", "summary": "Open when looking up Document.setTextRectangle in Shared Adobe platform.", "keywords": ["Document.setTextRectangle"]},
+  {"topic": "Document.setTextSelection", "file": "references/community-types/animate/document/set-text-selection.md", "summary": "Open when looking up Document.setTextSelection in Shared Adobe platform.", "keywords": ["Document.setTextSelection"]},
+  {"topic": "Document.setTextString", "file": "references/community-types/animate/document/set-text-string.md", "summary": "Open when looking up Document.setTextString in Shared Adobe platform.", "keywords": ["Document.setTextString"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

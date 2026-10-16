@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "NavigationPoint declaration", "file": "references/community-types/indesign/navigation-point/declaration.md", "summary": "Open when looking up NavigationPoint declaration in Shared Adobe platform.", "keywords": ["NavigationPoint declaration"]},
+  {"topic": "NavigationPoint event listeners", "file": "references/community-types/indesign/navigation-point/event-listeners.md", "summary": "Open when looking up NavigationPoint event listeners in Shared Adobe platform.", "keywords": ["NavigationPoint event listeners"]},
+  {"topic": "NavigationPoint identity and parent", "file": "references/community-types/indesign/navigation-point/identity-and-parent.md", "summary": "Open when looking up NavigationPoint identity and parent in Shared Adobe platform.", "keywords": ["NavigationPoint identity and parent"]},
+  {"topic": "NavigationPoint object resolution", "file": "references/community-types/indesign/navigation-point/object-resolution.md", "summary": "Open when looking up NavigationPoint object resolution in Shared Adobe platform.", "keywords": ["NavigationPoint object resolution"]},
+  {"topic": "NavigationPoint.properties", "file": "references/community-types/indesign/navigation-point/properties.md", "summary": "Open when looking up NavigationPoint.properties in Shared Adobe platform.", "keywords": ["NavigationPoint.properties"]},
+  {"topic": "NavigationPoint.remove", "file": "references/community-types/indesign/navigation-point/remove.md", "summary": "Open when looking up NavigationPoint.remove in Shared Adobe platform.", "keywords": ["NavigationPoint.remove"]},
+  {"topic": "NavigationPoint.time", "file": "references/community-types/indesign/navigation-point/time.md", "summary": "Open when looking up NavigationPoint.time in Shared Adobe platform.", "keywords": ["NavigationPoint.time"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

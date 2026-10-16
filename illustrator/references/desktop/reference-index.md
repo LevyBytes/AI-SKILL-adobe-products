@@ -1,0 +1,66 @@
+# Illustrator — Desktop workflows
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and import files in Illustrator. [Add and import files references](add-and-import-files/reference-index.md).
+- Open when looking up Add or remove sides from polygons in Illustrator. [Add or remove sides from polygons references](add-or-remove-sides-from-polygons/reference-index.md).
+- Open when looking up Add or remove sides from stars in Illustrator. [Add or remove sides from stars references](add-or-remove-sides-from-stars/reference-index.md).
+- Open when looking up Adjust opacity in Illustrator. [Adjust opacity references](adjust-opacity/reference-index.md).
+- Open when looking up Apply brush strokes to paths in Illustrator. [Apply brush strokes to paths references](apply-brush-strokes-to-paths/reference-index.md).
+- Open when looking up Apply effects to text on paths in Illustrator. [Apply effects to text on paths references](apply-effects-to-text-on-paths/reference-index.md).
+- Open when looking up Apply special effects and styles in Illustrator. [Apply special effects and styles references](effects-and-styles/reference-index.md).
+- Open when looking up Arrange objects in Illustrator. [Arrange objects references](arrange-objects/reference-index.md).
+- Open when looking up Automate and visualize data in Illustrator. [Automate and visualize data references](automate-and-visualize-data/reference-index.md).
+- Open when looking up Automate visualize data in Illustrator. [Automate visualize data references](automate-visualize-data/reference-index.md).
+- Open when looking up Build shapes in Illustrator. [Build shapes references](build-shapes/reference-index.md).
+- Open when looking up Change corner radius of live shapes in Illustrator. [Change corner radius of live shapes references](change-corner-radius-of-live-shapes/reference-index.md).
+- Open when looking up Change inner and outer radii of stars in Illustrator. [Change inner and outer radii of stars references](change-inner-and-outer-radii-of-stars/reference-index.md).
+- Open when looking up Color in Illustrator. [Color references](color/reference-index.md).
+- Open when looking up Connect with other apps and tools in Illustrator. [Connect with other apps and tools references](app-connections/reference-index.md).
+- Open when looking up Copy paths in Illustrator. [Copy paths references](copy-paths/reference-index.md).
+- Open when looking up Create and add new artboards in Illustrator. [Create and add new artboards references](create-and-add-new-artboards/reference-index.md).
+- Open when looking up Create and manage artboards in Illustrator. [Create and manage artboards references](create-and-manage-artboards/reference-index.md).
+- Open when looking up Create pie shapes in Illustrator. [Create pie shapes references](create-pie-shapes/reference-index.md).
+- Open when looking up Creative cloud libraries in Illustrator. [Creative cloud libraries references](creative-cloud-libraries/reference-index.md).
+- Open when looking up Cut copy and paste artboards in Illustrator. [Cut copy and paste artboards references](cut-copy-and-paste-artboards/reference-index.md).
+- Open when looking up Design with text in Illustrator. [Design with text references](design-with-text/reference-index.md).
+- Open when looking up Draw artwork in Illustrator. [Draw artwork references](draw-artwork/reference-index.md).
+- Open when looking up Draw curves followed by straight lines in Illustrator. [Draw curves followed by straight lines references](draw-curves-followed-by-straight-lines/reference-index.md).
+- Open when looking up Draw curves with the pen tool in Illustrator. [Draw curves with the pen tool references](draw-curves-with-the-pen-tool/reference-index.md).
+- Open when looking up Draw line segments with the pen tool in Illustrator. [Draw line segments with the pen tool references](draw-line-segments-with-the-pen-tool/reference-index.md).
+- Open when looking up Draw lines in Illustrator. [Draw lines references](draw-lines/reference-index.md).
+- Open when looking up Draw shapes and paths in Illustrator. [Draw shapes and paths references](draw-shapes-and-paths/reference-index.md).
+- Open when looking up Draw spirals in Illustrator. [Draw spirals references](draw-spirals/reference-index.md).
+- Open when looking up Draw stars in Illustrator. [Draw stars references](draw-stars/reference-index.md).
+- Open when looking up Draw straight lines with the pencil tool in Illustrator. [Draw straight lines with the pencil tool references](draw-straight-lines-with-the-pencil-tool/reference-index.md).
+- Open when looking up Draw two curved segments connected by a corner in Illustrator. [Draw two curved segments connected by a corner references](draw-two-curved-segments-connected-by-a-corner/reference-index.md).
+- Open when looking up Drawing modes overview in Illustrator. [Drawing modes overview references](drawing-modes-overview/reference-index.md).
+- Open when looking up Duplicate artboards in Illustrator. [Duplicate artboards references](duplicate-artboards/reference-index.md).
+- Open when looking up Generate patterns in Illustrator. [Generate patterns references](generate-patterns/reference-index.md).
+- Open when looking up Get started in Illustrator. [Get started references](get-started/reference-index.md).
+- Open when looking up Image trace in Illustrator. [Image trace references](image-trace/reference-index.md).
+- Open when looking up Introduction to artboards in Illustrator. [Introduction to artboards references](introduction-to-artboards/reference-index.md).
+- Open when looking up Manage colors in Illustrator. [Manage colors references](manage-colors/reference-index.md).
+- Open when looking up Manage layers in Illustrator. [Manage layers references](manage-layers/reference-index.md).
+- Open when looking up Manage objects in Illustrator. [Manage objects references](manage-objects/reference-index.md).
+- Open when looking up Manage pattern variations in Illustrator. [Manage pattern variations references](manage-pattern-variations/reference-index.md).
+- Open when looking up Manually simplify paths in Illustrator. [Manually simplify paths references](manually-simplify-paths/reference-index.md).
+- Open when looking up Measure and align in Illustrator. [Measure and align references](measure-and-align/reference-index.md).
+- Open when looking up Modify display settings of artboards in Illustrator. [Modify display settings of artboards references](modify-display-settings-of-artboards/reference-index.md).
+- Open when looking up Move artboards in Illustrator. [Move artboards references](move-artboards/reference-index.md).
+- Open when looking up Move or flip text in Illustrator. [Move or flip text references](move-or-flip-text/reference-index.md).
+- Open when looking up Opacity mask overview in Illustrator. [Opacity mask overview references](opacity-mask-overview/reference-index.md).
+- Open when looking up Paint and fill in Illustrator. [Paint and fill references](paint-and-fill/reference-index.md).
+- Open when looking up Patterns in Illustrator. [Patterns references](patterns/reference-index.md).
+- Open when looking up Pencil tool options in Illustrator. [Pencil tool options references](pencil-tool-options/reference-index.md).
+- Open when looking up Quick actions in Illustrator. [Quick actions references](quick-actions/reference-index.md).
+- Open when looking up Rotate live shapes in Illustrator. [Rotate live shapes references](rotate-live-shapes/reference-index.md).
+- Open when looking up Save and export in Illustrator. [Save and export references](save-and-export/reference-index.md).
+- Open when looking up Scale live shapes in Illustrator. [Scale live shapes references](scale-live-shapes/reference-index.md).
+- Open when looking up Select and edit path segments in Illustrator. [Select and edit path segments references](select-and-edit-path-segments/reference-index.md).
+- Open when looking up Set video display options for artboards in Illustrator. [Set video display options for artboards references](set-video-display-options-for-artboards/reference-index.md).
+- Open when looking up Share and collaborate in Illustrator. [Share and collaborate references](share-and-collaborate/reference-index.md).
+- Open when looking up Text and typography in Illustrator. [Text and typography references](text-and-typography/reference-index.md).
+- Open when looking up Troubleshoot in Illustrator. [Troubleshoot references](troubleshoot/reference-index.md).
+- Open when looking up Use generative ai in Illustrator. [Use generative ai references](use-generative-ai/reference-index.md).
+- Open when looking up View artwork in Illustrator. [View artwork references](view-artwork/reference-index.md).
+- Open when looking up What s new in Illustrator. [What s new references](what-s-new/reference-index.md).

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Add a composition as a source of Environment Light", "file": "references/desktop/3d-composition/environment-lighting/animated-environment-lights/composition-light-source.md", "summary": "Open when looking up Add a composition as a source of Environment Light in After Effects.", "keywords": ["Add a composition as a source of Environment Light"]},
+  {"topic": "Add a video as a source of Environment Light", "file": "references/desktop/3d-composition/environment-lighting/animated-environment-lights/video-light-source.md", "summary": "Open when looking up Add a video as a source of Environment Light in After Effects.", "keywords": ["Add a video as a source of Environment Light"]},
+  {"topic": "Result", "file": "references/desktop/3d-composition/environment-lighting/animated-environment-lights/environment-background-layer.md", "summary": "Open when looking up Result in After Effects.", "keywords": ["Result"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

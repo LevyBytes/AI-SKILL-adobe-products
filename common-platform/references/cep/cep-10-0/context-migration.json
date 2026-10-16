@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Changes for Extensions Developers\\*\\*", "file": "references/cep/cep-10-0/changes-for-extensions-developers.md", "summary": "Open when looking up Changes for Extensions Developers\\*\\* in Shared Adobe platform.", "keywords": ["Changes for Extensions Developers\\*\\*"]},
+  {"topic": "Migration from CEP 7 or lower to CEP 9", "file": "references/cep/cep-10-0/migration-from-cep-7-or-lower-to-cep-9.md", "summary": "Open when looking up Migration from CEP 7 or lower to CEP 9 in Shared Adobe platform.", "keywords": ["Migration from CEP 7 or lower to CEP 9"]},
+  {"topic": "Migration from CEP 8 to CEP 9", "file": "references/cep/cep-10-0/migration-from-cep-8-to-cep-9.md", "summary": "Open when looking up Migration from CEP 8 to CEP 9 in Shared Adobe platform.", "keywords": ["Migration from CEP 8 to CEP 9"]},
+  {"topic": "Migration from CEP 9 to CEP 10", "file": "references/cep/cep-10-0/migration-from-cep-9-to-cep-10.md", "summary": "Open when looking up Migration from CEP 9 to CEP 10 in Shared Adobe platform.", "keywords": ["Migration from CEP 9 to CEP 10"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

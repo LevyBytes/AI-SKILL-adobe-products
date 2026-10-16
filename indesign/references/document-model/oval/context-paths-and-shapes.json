@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addPath", "file": "references/document-model/oval/add-path.md", "summary": "Open when looking up addPath in InDesign.", "keywords": ["addPath"]},
+  {"topic": "convertShape", "file": "references/document-model/oval/convert-shape.md", "summary": "Open when looking up convertShape in InDesign.", "keywords": ["convertShape"]},
+  {"topic": "excludeOverlapPath", "file": "references/document-model/oval/exclude-overlap-path.md", "summary": "Open when looking up excludeOverlapPath in InDesign.", "keywords": ["excludeOverlapPath"]},
+  {"topic": "intersectPath", "file": "references/document-model/oval/intersect-path.md", "summary": "Open when looking up intersectPath in InDesign.", "keywords": ["intersectPath"]},
+  {"topic": "makeCompoundPath", "file": "references/document-model/oval/make-compound-path.md", "summary": "Open when looking up makeCompoundPath in InDesign.", "keywords": ["makeCompoundPath"]},
+  {"topic": "minusBack", "file": "references/document-model/oval/minus-back.md", "summary": "Open when looking up minusBack in InDesign.", "keywords": ["minusBack"]},
+  {"topic": "paths", "file": "references/document-model/oval/paths.md", "summary": "Open when looking up paths in InDesign.", "keywords": ["paths"]},
+  {"topic": "releaseCompoundPath", "file": "references/document-model/oval/release-compound-path.md", "summary": "Open when looking up releaseCompoundPath in InDesign.", "keywords": ["releaseCompoundPath"]},
+  {"topic": "subtractPath", "file": "references/document-model/oval/subtract-path.md", "summary": "Open when looking up subtractPath in InDesign.", "keywords": ["subtractPath"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

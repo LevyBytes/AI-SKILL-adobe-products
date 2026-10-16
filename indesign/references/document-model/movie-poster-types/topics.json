@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "FROM_MOVIE", "file": "references/document-model/movie-poster-types/frommovie.md", "summary": "Open when looking up FROM_MOVIE in InDesign.", "keywords": ["FROM_MOVIE"]},
+  {"topic": "NONE", "file": "references/document-model/movie-poster-types/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "PROXY_IMAGE", "file": "references/document-model/movie-poster-types/proxyimage.md", "summary": "Open when looking up PROXY_IMAGE in InDesign.", "keywords": ["PROXY_IMAGE"]},
+  {"topic": "STANDARD", "file": "references/document-model/movie-poster-types/standard.md", "summary": "Open when looking up STANDARD in InDesign.", "keywords": ["STANDARD"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Column.rotationAngle", "file": "references/community-types/indesign/column/rotation-angle.md", "summary": "Open when looking up Column.rotationAngle in Shared Adobe platform.", "keywords": ["Column.rotationAngle"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

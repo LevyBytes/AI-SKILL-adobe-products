@@ -1,0 +1,5 @@
+# fillTint
+
+> Mixed **fillTint**
+>
+> Fill-color tint percentage for the FindTextPreference. (Use 0 to 100 for a tint percentage; use -1 for the inherited or overridden value.). Can return: Real or NothingEnum enumerator.

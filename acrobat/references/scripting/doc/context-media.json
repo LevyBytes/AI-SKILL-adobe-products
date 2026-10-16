@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "deleteSound", "file": "references/scripting/doc/delete-sound.md", "summary": "Open when looking up deleteSound in Acrobat.", "keywords": ["deleteSound"]},
+  {"topic": "getAnnot3D", "file": "references/scripting/doc/get-annot3-d.md", "summary": "Open when looking up getAnnot3D in Acrobat.", "keywords": ["getAnnot3D"]},
+  {"topic": "getAnnotRichMedia", "file": "references/scripting/doc/get-annot-rich-media.md", "summary": "Open when looking up getAnnotRichMedia in Acrobat.", "keywords": ["getAnnotRichMedia"]},
+  {"topic": "getAnnots3D", "file": "references/scripting/doc/get-annots3-d.md", "summary": "Open when looking up getAnnots3D in Acrobat.", "keywords": ["getAnnots3D"]},
+  {"topic": "getAnnotsRichMedia", "file": "references/scripting/doc/get-annots-rich-media.md", "summary": "Open when looking up getAnnotsRichMedia in Acrobat.", "keywords": ["getAnnotsRichMedia"]},
+  {"topic": "getSound", "file": "references/scripting/doc/get-sound.md", "summary": "Open when looking up getSound in Acrobat.", "keywords": ["getSound"]},
+  {"topic": "importSound", "file": "references/scripting/doc/import-sound.md", "summary": "Open when looking up importSound in Acrobat.", "keywords": ["importSound"]},
+  {"topic": "media", "file": "references/scripting/doc/media.md", "summary": "Open when looking up media in Acrobat.", "keywords": ["media"]},
+  {"topic": "sounds", "file": "references/scripting/doc/sounds.md", "summary": "Open when looking up sounds in Acrobat.", "keywords": ["sounds"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

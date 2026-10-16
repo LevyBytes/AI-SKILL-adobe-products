@@ -1,0 +1,21 @@
+# Shared Adobe platform — Bridge talk
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up BridgeTalk.appInstance in Shared Adobe platform. [BridgeTalk.appInstance](app-instance.md).
+- Open when looking up BridgeTalk.appLocale in Shared Adobe platform. [BridgeTalk.appLocale](app-locale.md).
+- Open when looking up BridgeTalk.appName in Shared Adobe platform. [BridgeTalk.appName](app-name.md).
+- Open when looking up BridgeTalk.appSpecifier in Shared Adobe platform. [BridgeTalk.appSpecifier](app-specifier.md).
+- Open when looking up BridgeTalk.appStatus in Shared Adobe platform. [BridgeTalk.appStatus](app-status.md).
+- Open when looking up BridgeTalk.appVersion in Shared Adobe platform. [BridgeTalk.appVersion](app-version.md).
+- Open when looking up BridgeTalk.bringToFront() in Shared Adobe platform. [BridgeTalk.bringToFront()](bring-to-front.md).
+- Open when looking up BridgeTalk.getAppPath() in Shared Adobe platform. [BridgeTalk.getAppPath()](get-app-path.md).
+- Open when looking up BridgeTalk.getDisplayName() in Shared Adobe platform. [BridgeTalk.getDisplayName()](get-display-name.md).
+- Open when looking up BridgeTalk.getSpecifier() in Shared Adobe platform. [BridgeTalk.getSpecifier()](get-specifier.md).
+- Open when looking up BridgeTalk.getStatus() in Shared Adobe platform. [BridgeTalk.getStatus()](get-status.md).
+- Open when looking up BridgeTalk.getTargets() in Shared Adobe platform. [BridgeTalk.getTargets()](get-targets.md).
+- Open when looking up BridgeTalk.isRunning() in Shared Adobe platform. [BridgeTalk.isRunning()](is-running.md).
+- Open when looking up BridgeTalk.launch() in Shared Adobe platform. [BridgeTalk.launch()](launch.md).
+- Open when looking up BridgeTalk.loadAppScript() in Shared Adobe platform. [BridgeTalk.loadAppScript()](load-app-script.md).
+- Open when looking up BridgeTalk.onReceive in Shared Adobe platform. [BridgeTalk.onReceive](on-receive.md).
+- Open when looking up BridgeTalk.ping() in Shared Adobe platform. [BridgeTalk.ping()](ping.md).
+- Open when looking up BridgeTalk.pump() in Shared Adobe platform. [BridgeTalk.pump()](pump.md).

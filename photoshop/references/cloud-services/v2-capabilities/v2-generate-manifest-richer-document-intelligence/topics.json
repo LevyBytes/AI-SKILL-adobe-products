@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Distinct artboard layer type", "file": "references/cloud-services/v2-capabilities/v2-generate-manifest-richer-document-intelligence/distinct-artboard-layer-type.md", "summary": "Open when looking up Distinct artboard layer type in Photoshop.", "keywords": ["Distinct artboard layer type"]},
+  {"topic": "Rich manifest layer metadata", "file": "references/cloud-services/v2-capabilities/v2-generate-manifest-richer-document-intelligence/rich-manifest-layer-metadata.md", "summary": "Open when looking up Rich manifest layer metadata in Photoshop.", "keywords": ["Rich manifest layer metadata"]},
+  {"topic": "Smart object extraction", "file": "references/cloud-services/v2-capabilities/v2-generate-manifest-richer-document-intelligence/smart-object-extraction.md", "summary": "Open when looking up Smart object extraction in Photoshop.", "keywords": ["Smart object extraction"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

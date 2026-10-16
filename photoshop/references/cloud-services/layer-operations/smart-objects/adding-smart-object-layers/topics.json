@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "V1 documentOperations request", "file": "references/cloud-services/layer-operations/smart-objects/adding-smart-object-layers/v1-document-operations-request.md", "summary": "Open when looking up V1 documentOperations request in Photoshop.", "keywords": ["V1 documentOperations request"]},
+  {"topic": "V2 create-composite request", "file": "references/cloud-services/layer-operations/smart-objects/adding-smart-object-layers/v2-create-composite-request.md", "summary": "Open when looking up V2 create-composite request in Photoshop.", "keywords": ["V2 create-composite request"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "changeSecurityPassword", "file": "references/document-model/pdf-export-preference/change-security-password.md", "summary": "Open when looking up changeSecurityPassword in InDesign.", "keywords": ["changeSecurityPassword"]},
+  {"topic": "disallowChanging", "file": "references/document-model/pdf-export-preference/disallow-changing.md", "summary": "Open when looking up disallowChanging in InDesign.", "keywords": ["disallowChanging"]},
+  {"topic": "disallowCopying", "file": "references/document-model/pdf-export-preference/disallow-copying.md", "summary": "Open when looking up disallowCopying in InDesign.", "keywords": ["disallowCopying"]},
+  {"topic": "disallowDocumentAssembly", "file": "references/document-model/pdf-export-preference/disallow-document-assembly.md", "summary": "Open when looking up disallowDocumentAssembly in InDesign.", "keywords": ["disallowDocumentAssembly"]},
+  {"topic": "disallowExtractionForAccessibility", "file": "references/document-model/pdf-export-preference/disallow-extraction-for-accessibility.md", "summary": "Open when looking up disallowExtractionForAccessibility in InDesign.", "keywords": ["disallowExtractionForAccessibility"]},
+  {"topic": "disallowFormFillIn", "file": "references/document-model/pdf-export-preference/disallow-form-fill-in.md", "summary": "Open when looking up disallowFormFillIn in InDesign.", "keywords": ["disallowFormFillIn"]},
+  {"topic": "disallowHiResPrinting", "file": "references/document-model/pdf-export-preference/disallow-hi-res-printing.md", "summary": "Open when looking up disallowHiResPrinting in InDesign.", "keywords": ["disallowHiResPrinting"]},
+  {"topic": "disallowNotes", "file": "references/document-model/pdf-export-preference/disallow-notes.md", "summary": "Open when looking up disallowNotes in InDesign.", "keywords": ["disallowNotes"]},
+  {"topic": "disallowPlaintextMetadata", "file": "references/document-model/pdf-export-preference/disallow-plaintext-metadata.md", "summary": "Open when looking up disallowPlaintextMetadata in InDesign.", "keywords": ["disallowPlaintextMetadata"]},
+  {"topic": "disallowPrinting", "file": "references/document-model/pdf-export-preference/disallow-printing.md", "summary": "Open when looking up disallowPrinting in InDesign.", "keywords": ["disallowPrinting"]},
+  {"topic": "openDocumentPassword", "file": "references/document-model/pdf-export-preference/open-document-password.md", "summary": "Open when looking up openDocumentPassword in InDesign.", "keywords": ["openDocumentPassword"]},
+  {"topic": "useSecurity", "file": "references/document-model/pdf-export-preference/use-security.md", "summary": "Open when looking up useSecurity in InDesign.", "keywords": ["useSecurity"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

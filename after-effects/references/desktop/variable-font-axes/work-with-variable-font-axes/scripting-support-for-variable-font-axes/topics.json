@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Accessing Font Axes", "file": "references/desktop/variable-font-axes/work-with-variable-font-axes/scripting-support-for-variable-font-axes/accessing-font-axes.md", "summary": "Open when looking up Accessing Font Axes in After Effects.", "keywords": ["Accessing Font Axes"]},
+  {"topic": "Adding Axis Animators via Script", "file": "references/desktop/variable-font-axes/work-with-variable-font-axes/scripting-support-for-variable-font-axes/adding-axis-animators-via-script.md", "summary": "Open when looking up Adding Axis Animators via Script in After Effects.", "keywords": ["Adding Axis Animators via Script"]},
+  {"topic": "Checking Available Axes", "file": "references/desktop/variable-font-axes/work-with-variable-font-axes/scripting-support-for-variable-font-axes/checking-available-axes.md", "summary": "Open when looking up Checking Available Axes in After Effects.", "keywords": ["Checking Available Axes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

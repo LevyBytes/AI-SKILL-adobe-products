@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Beta, Prerelease, and Early Access Programs", "file": "references/ai-assistant/generative-ai-usage-policy-and-limitations/beta-prerelease-and-early-access-programs.md", "summary": "Open when looking up Beta, Prerelease, and Early Access Programs in Acrobat.", "keywords": ["Beta, Prerelease, and Early Access Programs"]},
+  {"topic": "Full feature access", "file": "references/ai-assistant/generative-ai-usage-policy-and-limitations/full-feature-access.md", "summary": "Open when looking up Full feature access in Acrobat.", "keywords": ["Full feature access"]},
+  {"topic": "Generative credit", "file": "references/ai-assistant/generative-ai-usage-policy-and-limitations/generative-credit.md", "summary": "Open when looking up Generative credit in Acrobat.", "keywords": ["Generative credit"]},
+  {"topic": "Limited use", "file": "references/ai-assistant/generative-ai-usage-policy-and-limitations/limited-use.md", "summary": "Open when looking up Limited use in Acrobat.", "keywords": ["Limited use"]},
+  {"topic": "Request", "file": "references/ai-assistant/generative-ai-usage-policy-and-limitations/request.md", "summary": "Open when looking up Request in Acrobat.", "keywords": ["Request"]},
+  {"topic": "Response", "file": "references/ai-assistant/generative-ai-usage-policy-and-limitations/response.md", "summary": "Open when looking up Response in Acrobat.", "keywords": ["Response"]},
+  {"topic": "Throttling", "file": "references/ai-assistant/generative-ai-usage-policy-and-limitations/throttling.md", "summary": "Open when looking up Throttling in Acrobat.", "keywords": ["Throttling"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

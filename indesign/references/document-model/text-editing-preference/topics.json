@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/text-editing-preference/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "allowDragAndDropTextInStory", "file": "references/document-model/text-editing-preference/allow-drag-and-drop-text-in-story.md", "summary": "Open when looking up allowDragAndDropTextInStory in InDesign.", "keywords": ["allowDragAndDropTextInStory"]},
+  {"topic": "dragAndDropTextInLayout", "file": "references/document-model/text-editing-preference/drag-and-drop-text-in-layout.md", "summary": "Open when looking up dragAndDropTextInLayout in InDesign.", "keywords": ["dragAndDropTextInLayout"]},
+  {"topic": "eventListeners", "file": "references/document-model/text-editing-preference/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/text-editing-preference/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "references/document-model/text-editing-preference/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "isValid", "file": "references/document-model/text-editing-preference/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "parent", "file": "references/document-model/text-editing-preference/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "references/document-model/text-editing-preference/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "references/document-model/text-editing-preference/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "singleClickConvertsFramesToTextFrames", "file": "references/document-model/text-editing-preference/single-click-converts-frames-to-text-frames.md", "summary": "Open when looking up singleClickConvertsFramesToTextFrames in InDesign.", "keywords": ["singleClickConvertsFramesToTextFrames"]},
+  {"topic": "smartCutAndPaste", "file": "references/document-model/text-editing-preference/smart-cut-and-paste.md", "summary": "Open when looking up smartCutAndPaste in InDesign.", "keywords": ["smartCutAndPaste"]},
+  {"topic": "toSource", "file": "references/document-model/text-editing-preference/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/text-editing-preference/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "tripleClickSelectsLine", "file": "references/document-model/text-editing-preference/triple-click-selects-line.md", "summary": "Open when looking up tripleClickSelectsLine in InDesign.", "keywords": ["tripleClickSelectsLine"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,31 @@
+# Illustrator — Work with fonts and scripts
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About Adobe Asian composers in Illustrator. [About Adobe Asian composers](about-adobe-asian-composers.md).
+- Open when looking up About Adobe Asian composers in Illustrator. [About Adobe Asian composers references](about-adobe-asian-composers/reference-index.md).
+- Open when looking up Apply Retype-suggested fonts to live text in Illustrator. [Apply Retype-suggested fonts to live text](apply-retype-suggested-fonts-to-live-text.md).
+- Open when looking up Apply Retype-suggested fonts to live text in Illustrator. [Apply Retype-suggested fonts to live text references](apply-retype-suggested-fonts-to-live-text/reference-index.md).
+- Open when looking up Apply the fonts organized in Creative Cloud Libraries in Illustrator. [Apply the fonts organized in Creative Cloud Libraries](apply-the-fonts-organized-in-creative-cloud-libraries.md).
+- Open when looking up Edit fonts in Illustrator. [Edit fonts](edit-fonts.md).
+- Open when looking up Edit fonts in Illustrator. [Edit fonts references](edit-fonts/reference-index.md).
+- Open when looking up Edit text without replacing missing fonts in Illustrator. [Edit text without replacing missing fonts](edit-text-without-replacing-missing-fonts.md).
+- Open when looking up Find and apply fonts in Illustrator. [Find and apply fonts](find-and-apply-fonts.md).
+- Open when looking up Find and apply fonts in Illustrator. [Find and apply fonts references](find-and-apply-fonts/reference-index.md).
+- Open when looking up Find and replace fonts in Illustrator. [Find and replace fonts](find-and-replace-fonts.md).
+- Open when looking up Find, apply, and adjust variable fonts in Illustrator. [Find, apply, and adjust variable fonts](find-apply-and-adjust-variable-fonts.md).
+- Open when looking up Font browser overview in Illustrator. [Font browser overview](font-browser-overview.md).
+- Open when looking up Font browser overview in Illustrator. [Font browser overview references](font-browser-overview/reference-index.md).
+- Open when looking up Format Japanese text in Illustrator in Illustrator. [Format Japanese text in Illustrator](format-japanese-text-in-illustrator.md).
+- Open when looking up Format Japanese text in Illustrator in Illustrator. [Format Japanese text in Illustrator references](format-japanese-text-in-illustrator/reference-index.md).
+- Open when looking up Identify fonts using Retype in Illustrator. [Identify fonts using Retype](identify-fonts-using-retype.md).
+- Open when looking up Identify fonts using Retype in Illustrator. [Identify fonts using Retype references](identify-fonts-using-retype/reference-index.md).
+- Open when looking up Justify text using Kashida and hyphenation in Illustrator. [Justify text using Kashida and hyphenation](justify-text-using-kashida-and-hyphenation.md).
+- Open when looking up Justify text using Kashida and hyphenation in Illustrator. [Justify text using Kashida and hyphenation references](justify-text-using-kashida-and-hyphenation/reference-index.md).
+- Open when looking up Mojikumi and Kinsoku overview for Japanese text formatting in Illustrator. [Mojikumi and Kinsoku overview for Japanese text formatting](mojikumi-and-kinsoku-overview-for-japanese-text-formatting.md).
+- Open when looking up Mojikumi and Kinsoku overview for Japanese text formatting in Illustrator. [Mojikumi and Kinsoku overview for Japanese text formatting references](japanese-mojikumi-and-kinsoku/reference-index.md).
+- Open when looking up Mojikumi and Kinsoku settings in Illustrator in Illustrator. [Mojikumi and Kinsoku settings in Illustrator](mojikumi-and-kinsoku-settings-in-illustrator.md).
+- Open when looking up Mojikumi and Kinsoku settings in Illustrator in Illustrator. [Mojikumi and Kinsoku settings in Illustrator references](mojikumi-and-kinsoku-settings-in-illustrator/reference-index.md).
+- Open when looking up Preview, add, or replace missing fonts in Illustrator. [Preview, add, or replace missing fonts](preview-add-or-replace-missing-fonts.md).
+- Open when looking up Preview, add, or replace missing fonts in Illustrator. [Preview, add, or replace missing fonts references](preview-add-or-replace-missing-fonts/reference-index.md).
+- Open when looking up Supported font file types in Adobe Illustrator in Illustrator. [Supported font file types in Adobe Illustrator](supported-font-file-types-in-adobe-illustrator.md).
+- Open when looking up Supported font file types in Adobe Illustrator in Illustrator. [Supported font file types in Adobe Illustrator references](supported-font-file-types-in-adobe-illustrator/reference-index.md).

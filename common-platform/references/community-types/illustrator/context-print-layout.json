@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PrintArtworkDesignation", "file": "references/community-types/illustrator/print-artwork-designation.md", "summary": "Open when looking up PrintArtworkDesignation in Shared Adobe platform.", "keywords": ["PrintArtworkDesignation"]},
+  {"topic": "PrintCoordinateOptions", "file": "references/community-types/illustrator/print-coordinate-options.md", "summary": "Open when looking up PrintCoordinateOptions in Shared Adobe platform.", "keywords": ["PrintCoordinateOptions"]},
+  {"topic": "PrintingBounds", "file": "references/community-types/illustrator/printing-bounds.md", "summary": "Open when looking up PrintingBounds in Shared Adobe platform.", "keywords": ["PrintingBounds"]},
+  {"topic": "PrintOrientation", "file": "references/community-types/illustrator/print-orientation.md", "summary": "Open when looking up PrintOrientation in Shared Adobe platform.", "keywords": ["PrintOrientation"]},
+  {"topic": "PrintPageMarksOptions", "file": "references/community-types/illustrator/print-page-marks-options.md", "summary": "Open when looking up PrintPageMarksOptions in Shared Adobe platform.", "keywords": ["PrintPageMarksOptions"]},
+  {"topic": "PrintPaperOptions", "file": "references/community-types/illustrator/print-paper-options.md", "summary": "Open when looking up PrintPaperOptions in Shared Adobe platform.", "keywords": ["PrintPaperOptions"]},
+  {"topic": "PrintPosition", "file": "references/community-types/illustrator/print-position.md", "summary": "Open when looking up PrintPosition in Shared Adobe platform.", "keywords": ["PrintPosition"]},
+  {"topic": "PrintTiling", "file": "references/community-types/illustrator/print-tiling.md", "summary": "Open when looking up PrintTiling in Shared Adobe platform.", "keywords": ["PrintTiling"]},
+  {"topic": "PageMarksTypes", "file": "references/community-types/illustrator/page-marks-types.md", "summary": "Open when looking up PageMarksTypes in Shared Adobe platform.", "keywords": ["PageMarksTypes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

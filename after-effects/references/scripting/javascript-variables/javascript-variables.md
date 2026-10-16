@@ -1,0 +1,3 @@
+# Elements of basic JavaScript relevant to After Effects scripting — Javascript Variables
+
+Scripting runs in a shared global environment, which means a script that runs at startup can set up variables and functions reachable by all scripts. Across the board, the variables and functions a script defines when it runs carry over into later scripts for the duration of an After Effects session. When the application quits, every one of those globally defined variables and functions is discarded. Take care to name script variables uniquely, so that one script doesn't unintentionally clobber global variables meant to survive across a session.

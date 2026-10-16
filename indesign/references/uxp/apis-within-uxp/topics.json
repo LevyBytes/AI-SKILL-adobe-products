@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Host-specific APIs", "file": "references/uxp/apis-within-uxp/host-specific-apis.md", "summary": "Open when looking up Host-specific APIs in InDesign.", "keywords": ["Host-specific APIs"]},
+  {"topic": "Updates and releases", "file": "references/uxp/apis-within-uxp/updates-and-releases.md", "summary": "Open when looking up Updates and releases in InDesign.", "keywords": ["Updates and releases"]},
+  {"topic": "UXP Core APIs", "file": "references/uxp/apis-within-uxp/uxp-core-apis.md", "summary": "Open when looking up UXP Core APIs in InDesign.", "keywords": ["UXP Core APIs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

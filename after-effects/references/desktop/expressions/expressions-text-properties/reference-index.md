@@ -1,0 +1,26 @@
+# After Effects — Expressions Text Properties
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Additional uses for expressions on source text in After Effects. [Additional uses for expressions on source text](additional-uses-for-expressions-on-source-text.md).
+- Open when looking up Available paragraph attributes in After Effects. [Available paragraph attributes](available-paragraph-attributes.md).
+- Open when looking up Available text attributes in After Effects. [Available text attributes](available-text-attributes.md).
+- Open when looking up Before you start using expressions to edit text properties in After Effects. [Before you start using expressions to edit text properties](before-you-start-using-expressions-to-edit-text-properties.md).
+- Open when looking up Change the font for certain words in After Effects. [Change the font for certain words](change-the-font-for-certain-words.md).
+- Open when looking up Combine style and source text in After Effects. [Combine style and source text](combine-style-and-source-text.md).
+- Open when looking up Dropdown fonts in After Effects. [Dropdown fonts](dropdown-fonts.md).
+- Open when looking up Fill in After Effects. [Fill](fill.md).
+- Open when looking up Fill RGB Values in After Effects. [Fill RGB Values](fill-rgb-values.md).
+- Open when looking up Font in After Effects. [Font](font.md).
+- Open when looking up Font syncing in After Effects. [Font syncing](font-syncing.md).
+- Open when looking up getStyleAt function in After Effects. [getStyleAt function](get-style-at-function.md).
+- Open when looking up Main text layer in After Effects. [Main text layer](main-text-layer.md).
+- Open when looking up PostScript font expression menu in After Effects. [PostScript font expression menu](post-script-font-expression-menu.md).
+- Open when looking up Save expressions as presets in After Effects. [Save expressions as presets](save-expressions-as-presets.md).
+- Open when looking up Set functions in After Effects. [Set functions](set-functions.md).
+- Open when looking up Set superscript for characters in After Effects. [Set superscript for characters](set-superscript-for-characters.md).
+- Open when looking up Set the first line of a text layer to bold and make it larger in After Effects. [Set the first line of a text layer to bold and make it larger](set-the-first-line-of-a-text-layer-to-bold-and-make-it-larger.md).
+- Open when looking up Start a new line of text in After Effects. [Start a new line of text](start-a-new-line-of-text.md).
+- Open when looking up Stroke in After Effects. [Stroke](stroke.md).
+- Open when looking up Stroke RGB Values in After Effects. [Stroke RGB Values](stroke-rgb-values.md).
+- Open when looking up Style attributes of individual characters in a Text layer in After Effects. [Style attributes of individual characters in a Text layer](style-attributes-of-individual-characters-in-a-text-layer.md).
+- Open when looking up Style object in After Effects. [Style object](style-object.md).

@@ -1,0 +1,30 @@
+# InDesign — Import And Convert File To Indesign
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Arrange and order pages in InDesign. [Arrange and order pages](arrange-and-order-pages.md).
+- Open when looking up Convert and save QuarkXPress files in InDesign. [Convert and save QuarkXPress files](convert-and-save-quark-x-press-files.md).
+- Open when looking up Convert PDF features and limitations in InDesign. [Convert PDF features and limitations](convert-pdf-features-and-limitations.md).
+- Open when looking up Convert PDFs to InDesign documents in InDesign. [Convert PDFs to InDesign documents](convert-pdfs-to-in-design-documents.md).
+- Open when looking up Create and manage book files in InDesign. [Create and manage book files](create-and-manage-book-files.md).
+- Open when looking up Create and manage parent pages in InDesign. [Create and manage parent pages](create-and-manage-parent-pages.md).
+- Open when looking up Create documents in InDesign. [Create documents](create-documents.md).
+- Open when looking up Import and convert file to InDesign in InDesign. [Import and convert file to InDesign](import-and-convert-file-to-in-design.md).
+- Open when looking up Import colors and color themes in InDesign. [Import colors and color themes](import-colors-and-color-themes.md).
+- Open when looking up Import files from Creative Cloud libraries in InDesign. [Import files from Creative Cloud libraries](import-files-from-creative-cloud-libraries.md).
+- Open when looking up Import files, graphics, and metadata in InDesign. [Import files, graphics, and metadata](import-files-graphics-and-metadata.md).
+- Open when looking up Import graphics from CC Libraries in InDesign. [Import graphics from CC Libraries](import-graphics-from-cc-libraries.md).
+- Open when looking up Import metadata in InDesign. [Import metadata](import-metadata.md).
+- Open when looking up Import paragraph and character styles in InDesign. [Import paragraph and character styles](import-paragraph-and-character-styles.md).
+- Open when looking up Limitations and known issues in InDesign. [Limitations and known issues](limitations-and-known-issues.md).
+- Open when looking up Manage layers in InDesign. [Manage layers](manage-layers.md).
+- Open when looking up Open a PDF in an InDesign document in InDesign. [Open a PDF in an InDesign document](open-a-pdf-in-an-in-design-document.md).
+- Open when looking up Open an Illustrator (AI) file in an InDesign document in InDesign. [Open an Illustrator (AI) file in an InDesign document](open-an-illustrator-ai-file-in-an-in-design-document.md).
+- Open when looking up Page numbers, chapters, and sections in InDesign. [Page numbers, chapters, and sections](page-numbers-chapters-and-sections.md).
+- Open when looking up PDF to InDesign conversion features in InDesign. [PDF to InDesign conversion features](pdf-to-in-design-conversion-features.md).
+- Open when looking up Place a PDF in an InDesign document in InDesign. [Place a PDF in an InDesign document](place-a-pdf-in-an-in-design-document.md).
+- Open when looking up Place a single graphic file in InDesign. [Place a single graphic file](place-a-single-graphic-file.md).
+- Open when looking up Place layered Adobe files with layer control in InDesign. [Place layered Adobe files with layer control](place-layered-adobe-files-with-layer-control.md).
+- Open when looking up Place multiple graphics at once in InDesign. [Place multiple graphics at once](place-multiple-graphics-at-once.md).
+- Open when looking up Place multiple graphics in a grid layout in InDesign. [Place multiple graphics in a grid layout](place-multiple-graphics-in-a-grid-layout.md).
+- Open when looking up Place Photoshop cloud documents in InDesign in InDesign. [Place Photoshop cloud documents in InDesign](place-photoshop-cloud-documents-in-in-design.md).
+- Open when looking up Unable to open the PDF created in Illustrator in InDesign. [Unable to open the PDF created in Illustrator](unable-to-open-the-pdf-created-in-illustrator.md).

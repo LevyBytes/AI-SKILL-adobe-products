@@ -1,0 +1,48 @@
+# Shared Adobe platform — Layer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Layer declaration in Shared Adobe platform. [Layer declaration](declaration.md).
+- Open when looking up Layer identity and parent in Shared Adobe platform. [Layer identity and parent](identity-and-parent.md).
+- Open when looking up Layer.active in Shared Adobe platform. [Layer.active](active.md).
+- Open when looking up Layer.activeAtTime in Shared Adobe platform. [Layer.activeAtTime](active-at-time.md).
+- Open when looking up Layer.anchorPoint in Shared Adobe platform. [Layer.anchorPoint](anchor-point.md).
+- Open when looking up Layer.applyPreset in Shared Adobe platform. [Layer.applyPreset](apply-preset.md).
+- Open when looking up Layer.autoOrient in Shared Adobe platform. [Layer.autoOrient](auto-orient.md).
+- Open when looking up Layer.comment in Shared Adobe platform. [Layer.comment](comment.md).
+- Open when looking up Layer.containingComp in Shared Adobe platform. [Layer.containingComp](containing-comp.md).
+- Open when looking up Layer.copyToComp in Shared Adobe platform. [Layer.copyToComp](copy-to-comp.md).
+- Open when looking up Layer.doSceneEditDetection in Shared Adobe platform. [Layer.doSceneEditDetection](do-scene-edit-detection.md).
+- Open when looking up Layer.duplicate in Shared Adobe platform. [Layer.duplicate](duplicate.md).
+- Open when looking up Layer.enabled in Shared Adobe platform. [Layer.enabled](enabled.md).
+- Open when looking up Layer.hasVideo in Shared Adobe platform. [Layer.hasVideo](has-video.md).
+- Open when looking up Layer.inPoint in Shared Adobe platform. [Layer.inPoint](in-point.md).
+- Open when looking up Layer.isNameSet in Shared Adobe platform. [Layer.isNameSet](is-name-set.md).
+- Open when looking up Layer.label in Shared Adobe platform. [Layer.label](label.md).
+- Open when looking up Layer.locked in Shared Adobe platform. [Layer.locked](locked.md).
+- Open when looking up Layer.marker in Shared Adobe platform. [Layer.marker](marker.md).
+- Open when looking up Layer.moveAfter in Shared Adobe platform. [Layer.moveAfter](move-after.md).
+- Open when looking up Layer.moveBefore in Shared Adobe platform. [Layer.moveBefore](move-before.md).
+- Open when looking up Layer.moveToBeginning in Shared Adobe platform. [Layer.moveToBeginning](move-to-beginning.md).
+- Open when looking up Layer.moveToEnd in Shared Adobe platform. [Layer.moveToEnd](move-to-end.md).
+- Open when looking up Layer.nullLayer in Shared Adobe platform. [Layer.nullLayer](null-layer.md).
+- Open when looking up Layer.opacity in Shared Adobe platform. [Layer.opacity](opacity.md).
+- Open when looking up Layer.orientation in Shared Adobe platform. [Layer.orientation](orientation.md).
+- Open when looking up Layer.outPoint in Shared Adobe platform. [Layer.outPoint](out-point.md).
+- Open when looking up Layer.pointOfInterest in Shared Adobe platform. [Layer.pointOfInterest](point-of-interest.md).
+- Open when looking up Layer.position in Shared Adobe platform. [Layer.position](position.md).
+- Open when looking up Layer.rotation in Shared Adobe platform. [Layer.rotation](rotation.md).
+- Open when looking up Layer.scale in Shared Adobe platform. [Layer.scale](scale.md).
+- Open when looking up Layer.selectedProperties in Shared Adobe platform. [Layer.selectedProperties](selected-properties.md).
+- Open when looking up Layer.setParentWithJump in Shared Adobe platform. [Layer.setParentWithJump](set-parent-with-jump.md).
+- Open when looking up Layer.shy in Shared Adobe platform. [Layer.shy](shy.md).
+- Open when looking up Layer.solo in Shared Adobe platform. [Layer.solo](solo.md).
+- Open when looking up Layer.startTime in Shared Adobe platform. [Layer.startTime](start-time.md).
+- Open when looking up Layer.stretch in Shared Adobe platform. [Layer.stretch](stretch.md).
+- Open when looking up Layer.time in Shared Adobe platform. [Layer.time](time.md).
+- Open when looking up Layer.transform in Shared Adobe platform. [Layer.transform](transform.md).
+- Open when looking up Layer.xPosition in Shared Adobe platform. [Layer.xPosition](x-position.md).
+- Open when looking up Layer.xRotation in Shared Adobe platform. [Layer.xRotation](x-rotation.md).
+- Open when looking up Layer.yPosition in Shared Adobe platform. [Layer.yPosition](y-position.md).
+- Open when looking up Layer.yRotation in Shared Adobe platform. [Layer.yRotation](y-rotation.md).
+- Open when looking up Layer.zPosition in Shared Adobe platform. [Layer.zPosition](z-position.md).
+- Open when looking up Layer.zRotation in Shared Adobe platform. [Layer.zRotation](z-rotation.md).

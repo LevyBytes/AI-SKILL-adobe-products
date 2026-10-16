@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "GROUP_RUBY", "file": "references/document-model/ruby-types/groupruby.md", "summary": "Open when looking up GROUP_RUBY in InDesign.", "keywords": ["GROUP_RUBY"]},
+  {"topic": "PER_CHARACTER_RUBY", "file": "references/document-model/ruby-types/percharacterruby.md", "summary": "Open when looking up PER_CHARACTER_RUBY in InDesign.", "keywords": ["PER_CHARACTER_RUBY"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Control how sequence markers behave during ripple edits", "file": "references/desktop/edit-projects/trim-clips/perform-ripple-edits/control-how-sequence-markers-behave-during-ripple-edits.md", "summary": "Open when looking up Control how sequence markers behave during ripple edits in Premiere Pro.", "keywords": ["Control how sequence markers behave during ripple edits"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

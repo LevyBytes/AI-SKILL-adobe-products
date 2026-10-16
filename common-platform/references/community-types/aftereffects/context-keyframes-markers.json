@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "KeyframeEase", "file": "references/community-types/aftereffects/keyframe-ease.md", "summary": "Open when looking up KeyframeEase in Shared Adobe platform.", "keywords": ["KeyframeEase"]},
+  {"topic": "KeyframeInterpolationType", "file": "references/community-types/aftereffects/keyframe-interpolation-type.md", "summary": "Open when looking up KeyframeInterpolationType in Shared Adobe platform.", "keywords": ["KeyframeInterpolationType"]},
+  {"topic": "MarkerValue", "file": "references/community-types/aftereffects/marker-value.md", "summary": "Open when looking up MarkerValue in Shared Adobe platform.", "keywords": ["MarkerValue"]},
+  {"topic": "MarkerValueProperty", "file": "references/community-types/aftereffects/marker-value-property.md", "summary": "Open when looking up MarkerValueProperty in Shared Adobe platform.", "keywords": ["MarkerValueProperty"]},
+  {"topic": "MarkerValueType", "file": "references/community-types/aftereffects/marker-value-type.md", "summary": "Open when looking up MarkerValueType in Shared Adobe platform.", "keywords": ["MarkerValueType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,26 @@
+# Shared Adobe platform — TracingOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TracingOptions declaration in Shared Adobe platform. [TracingOptions declaration](declaration.md).
+- Open when looking up TracingOptions identity and parent in Shared Adobe platform. [TracingOptions identity and parent](identity-and-parent.md).
+- Open when looking up TracingOptions.colorFidelity in Shared Adobe platform. [TracingOptions.colorFidelity](color-fidelity.md).
+- Open when looking up TracingOptions.colorGroup in Shared Adobe platform. [TracingOptions.colorGroup](color-group.md).
+- Open when looking up TracingOptions.cornerFidelity in Shared Adobe platform. [TracingOptions.cornerFidelity](corner-fidelity.md).
+- Open when looking up TracingOptions.fills in Shared Adobe platform. [TracingOptions.fills](fills.md).
+- Open when looking up TracingOptions.grayLevels in Shared Adobe platform. [TracingOptions.grayLevels](gray-levels.md).
+- Open when looking up TracingOptions.ignoreWhite in Shared Adobe platform. [TracingOptions.ignoreWhite](ignore-white.md).
+- Open when looking up TracingOptions.loadFromPreset in Shared Adobe platform. [TracingOptions.loadFromPreset](load-from-preset.md).
+- Open when looking up TracingOptions.maxStrokeWeight in Shared Adobe platform. [TracingOptions.maxStrokeWeight](max-stroke-weight.md).
+- Open when looking up TracingOptions.noiseFidelity in Shared Adobe platform. [TracingOptions.noiseFidelity](noise-fidelity.md).
+- Open when looking up TracingOptions.palette in Shared Adobe platform. [TracingOptions.palette](palette.md).
+- Open when looking up TracingOptions.pathFidelity in Shared Adobe platform. [TracingOptions.pathFidelity](path-fidelity.md).
+- Open when looking up TracingOptions.preset in Shared Adobe platform. [TracingOptions.preset](preset.md).
+- Open when looking up TracingOptions.snapCurveToLines in Shared Adobe platform. [TracingOptions.snapCurveToLines](snap-curve-to-lines.md).
+- Open when looking up TracingOptions.storeToPreset in Shared Adobe platform. [TracingOptions.storeToPreset](store-to-preset.md).
+- Open when looking up TracingOptions.strokes in Shared Adobe platform. [TracingOptions.strokes](strokes.md).
+- Open when looking up TracingOptions.threshold in Shared Adobe platform. [TracingOptions.threshold](threshold.md).
+- Open when looking up TracingOptions.tracingColors in Shared Adobe platform. [TracingOptions.tracingColors](tracing-colors.md).
+- Open when looking up TracingOptions.tracingColorTypeValue in Shared Adobe platform. [TracingOptions.tracingColorTypeValue](tracing-color-type-value.md).
+- Open when looking up TracingOptions.tracingMethod in Shared Adobe platform. [TracingOptions.tracingMethod](tracing-method.md).
+- Open when looking up TracingOptions.tracingMode in Shared Adobe platform. [TracingOptions.tracingMode](tracing-mode.md).
+- Open when looking up TracingOptions.viewMode in Shared Adobe platform. [TracingOptions.viewMode](view-mode.md).

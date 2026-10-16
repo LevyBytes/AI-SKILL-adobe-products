@@ -1,0 +1,23 @@
+# Shared Adobe platform — DropDownList
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up DropDownList declaration in Shared Adobe platform. [DropDownList declaration](declaration.md).
+- Open when looking up DropDownList.active in Shared Adobe platform. [DropDownList.active](active.md).
+- Open when looking up DropDownList.add in Shared Adobe platform. [DropDownList.add](add.md).
+- Open when looking up DropDownList.children in Shared Adobe platform. [DropDownList.children](children.md).
+- Open when looking up DropDownList.find in Shared Adobe platform. [DropDownList.find](find.md).
+- Open when looking up DropDownList.graphics in Shared Adobe platform. [DropDownList.graphics](graphics.md).
+- Open when looking up DropDownList.items in Shared Adobe platform. [DropDownList.items](items.md).
+- Open when looking up DropDownList.itemSize in Shared Adobe platform. [DropDownList.itemSize](item-size.md).
+- Open when looking up DropDownList.notify in Shared Adobe platform. [DropDownList.notify](notify.md).
+- Open when looking up DropDownList.onActivate in Shared Adobe platform. [DropDownList.onActivate](on-activate.md).
+- Open when looking up DropDownList.onChange in Shared Adobe platform. [DropDownList.onChange](on-change.md).
+- Open when looking up DropDownList.onDeactivate in Shared Adobe platform. [DropDownList.onDeactivate](on-deactivate.md).
+- Open when looking up DropDownList.onDraw in Shared Adobe platform. [DropDownList.onDraw](on-draw.md).
+- Open when looking up DropDownList.onShortcutKey in Shared Adobe platform. [DropDownList.onShortcutKey](on-shortcut-key.md).
+- Open when looking up DropDownList.remove in Shared Adobe platform. [DropDownList.remove](remove.md).
+- Open when looking up DropDownList.removeAll in Shared Adobe platform. [DropDownList.removeAll](remove-all.md).
+- Open when looking up DropDownList.selection in Shared Adobe platform. [DropDownList.selection](selection.md).
+- Open when looking up DropDownList.shortcutKey in Shared Adobe platform. [DropDownList.shortcutKey](shortcut-key.md).
+- Open when looking up DropDownList.title in Shared Adobe platform. [DropDownList.title](title.md).
+- Open when looking up DropDownList.titleLayout in Shared Adobe platform. [DropDownList.titleLayout](title-layout.md).

@@ -1,0 +1,23 @@
+# Premiere Pro — Component param
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ComponentParam object in Premiere Pro. [ComponentParam object](component-param-object.md).
+- Open when looking up ComponentParam.addKey() in Premiere Pro. [ComponentParam.addKey()](add-key.md).
+- Open when looking up ComponentParam.areKeyframesSupported() in Premiere Pro. [ComponentParam.areKeyframesSupported()](are-keyframes-supported.md).
+- Open when looking up ComponentParam.displayName in Premiere Pro. [ComponentParam.displayName](display-name.md).
+- Open when looking up ComponentParam.findNearestKey() in Premiere Pro. [ComponentParam.findNearestKey()](find-nearest-key.md).
+- Open when looking up ComponentParam.findNextKey() in Premiere Pro. [ComponentParam.findNextKey()](find-next-key.md).
+- Open when looking up ComponentParam.findPreviousKey() in Premiere Pro. [ComponentParam.findPreviousKey()](find-previous-key.md).
+- Open when looking up ComponentParam.getColorValue() in Premiere Pro. [ComponentParam.getColorValue()](get-color-value.md).
+- Open when looking up ComponentParam.getKeys() in Premiere Pro. [ComponentParam.getKeys()](get-keys.md).
+- Open when looking up ComponentParam.getValue() in Premiere Pro. [ComponentParam.getValue()](get-value.md).
+- Open when looking up ComponentParam.getValueAtKey() in Premiere Pro. [ComponentParam.getValueAtKey()](get-value-at-key.md).
+- Open when looking up ComponentParam.getValueAtTime() in Premiere Pro. [ComponentParam.getValueAtTime()](get-value-at-time.md).
+- Open when looking up ComponentParam.isTimeVarying() in Premiere Pro. [ComponentParam.isTimeVarying()](is-time-varying.md).
+- Open when looking up ComponentParam.removeKey() in Premiere Pro. [ComponentParam.removeKey()](remove-key.md).
+- Open when looking up ComponentParam.removeKeyRange() in Premiere Pro. [ComponentParam.removeKeyRange()](remove-key-range.md).
+- Open when looking up ComponentParam.setColorValue() in Premiere Pro. [ComponentParam.setColorValue()](set-color-value.md).
+- Open when looking up ComponentParam.setInterpolationTypeAtKey() in Premiere Pro. [ComponentParam.setInterpolationTypeAtKey()](set-interpolation-type-at-key.md).
+- Open when looking up ComponentParam.setTimeVarying() in Premiere Pro. [ComponentParam.setTimeVarying()](set-time-varying.md).
+- Open when looking up ComponentParam.setValue() in Premiere Pro. [ComponentParam.setValue()](set-value.md).
+- Open when looking up ComponentParam.setValueAtKey() in Premiere Pro. [ComponentParam.setValueAtKey()](set-value-at-key.md).

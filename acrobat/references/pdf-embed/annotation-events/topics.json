@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "annotationManager interface", "file": "references/pdf-embed/annotation-events/annotation-manager-interface.md", "summary": "Open when looking up annotationManager interface in Acrobat.", "keywords": ["annotationManager interface"]},
+  {"topic": "Events callback usage", "file": "references/pdf-embed/annotation-events/events-callback-usage.md", "summary": "Open when looking up Events callback usage in Acrobat.", "keywords": ["Events callback usage"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

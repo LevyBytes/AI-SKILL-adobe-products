@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Create images", "file": "references/desktop/create-open-and-import-images/create-images.md", "summary": "Open when looking up Create images in Photoshop.", "keywords": ["Create images"]},
+  {"topic": "Create images references", "file": "references/desktop/create-open-and-import-images/create-images/reference-index.md", "summary": "Open when looking up Create images in Photoshop.", "keywords": ["Create images references"]},
+  {"topic": "Import files", "file": "references/desktop/create-open-and-import-images/import-files.md", "summary": "Open when looking up Import files in Photoshop.", "keywords": ["Import files"]},
+  {"topic": "Import files references", "file": "references/desktop/create-open-and-import-images/import-files/reference-index.md", "summary": "Open when looking up Import files in Photoshop.", "keywords": ["Import files references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

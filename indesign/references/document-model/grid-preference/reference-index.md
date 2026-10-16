@@ -1,0 +1,27 @@
+# InDesign — Grid preference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up baselineColor in InDesign. [baselineColor](baseline-color.md).
+- Open when looking up baselineDivision in InDesign. [baselineDivision](baseline-division.md).
+- Open when looking up baselineGridRelativeOption in InDesign. [baselineGridRelativeOption](baseline-grid-relative-option.md).
+- Open when looking up baselineGridShown in InDesign. [baselineGridShown](baseline-grid-shown.md).
+- Open when looking up baselineStart in InDesign. [baselineStart](baseline-start.md).
+- Open when looking up baselineViewThreshold in InDesign. [baselineViewThreshold](baseline-view-threshold.md).
+- Open when looking up documentGridShown in InDesign. [documentGridShown](document-grid-shown.md).
+- Open when looking up documentGridSnapto in InDesign. [documentGridSnapto](document-grid-snapto.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up gridColor in InDesign. [gridColor](grid-color.md).
+- Open when looking up gridsInBack in InDesign. [gridsInBack](grids-in-back.md).
+- Open when looking up horizontalGridlineDivision in InDesign. [horizontalGridlineDivision](horizontal-gridline-division.md).
+- Open when looking up horizontalGridSubdivision in InDesign. [horizontalGridSubdivision](horizontal-grid-subdivision.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up verticalGridlineDivision in InDesign. [verticalGridlineDivision](vertical-gridline-division.md).
+- Open when looking up verticalGridSubdivision in InDesign. [verticalGridSubdivision](vertical-grid-subdivision.md).

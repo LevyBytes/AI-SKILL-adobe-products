@@ -1,0 +1,46 @@
+# Illustrator — Creative Cloud Libraries in Illustrator
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About Creative Cloud Libraries in Illustrator. [About Creative Cloud Libraries](about-creative-cloud-libraries.md).
+- Open when looking up Accept an invite in Illustrator. [Accept an invite](accept-an-invite.md).
+- Open when looking up Add a Character Style to a library in Illustrator. [Add a Character Style to a library](add-a-character-style-to-a-library.md).
+- Open when looking up Add a Character Style to the Character Style panel in Illustrator. [Add a Character Style to the Character Style panel](add-a-character-style-to-the-character-style-panel.md).
+- Open when looking up Add a color in Illustrator. [Add a color](add-a-color.md).
+- Open when looking up Add a color (New Swatch dialog) in Illustrator. [Add a color (New Swatch dialog)](add-a-color-new-swatch-dialog.md).
+- Open when looking up Add a graphic in Illustrator. [Add a graphic](add-a-graphic.md).
+- Open when looking up Add a pattern or gradient in Illustrator. [Add a pattern or gradient](add-a-pattern-or-gradient.md).
+- Open when looking up Add a text asset in Illustrator. [Add a text asset](add-a-text-asset.md).
+- Open when looking up Add and share text assets in Illustrator. [Add and share text assets](add-and-share-text-assets.md).
+- Open when looking up Add to Swatches panel in Illustrator. [Add to Swatches panel](add-to-swatches-panel.md).
+- Open when looking up Apply a Character Style in Illustrator. [Apply a Character Style](apply-a-character-style.md).
+- Open when looking up Cancel a share in Illustrator. [Cancel a share](cancel-a-share.md).
+- Open when looking up Character Styles in Illustrator. [Character Styles](character-styles.md).
+- Open when looking up Collaborate with Creative Cloud users in Illustrator. [Collaborate with Creative Cloud users](collaborate-with-creative-cloud-users.md).
+- Open when looking up Colors in Illustrator. [Colors](colors.md).
+- Open when looking up Copy or move assets between libraries in Illustrator. [Copy or move assets between libraries](copy-or-move-assets-between-libraries.md).
+- Open when looking up Create a color theme from Color Groups in Illustrator. [Create a color theme from Color Groups](create-a-color-theme-from-color-groups.md).
+- Open when looking up Create a Creative Cloud Library in Illustrator. [Create a Creative Cloud Library](create-a-creative-cloud-library.md).
+- Open when looking up Delete a Character Style in Illustrator. [Delete a Character Style](delete-a-character-style.md).
+- Open when looking up Delete a color in Illustrator. [Delete a color](delete-a-color.md).
+- Open when looking up Delete a Creative Cloud Library in Illustrator. [Delete a Creative Cloud Library](delete-a-creative-cloud-library.md).
+- Open when looking up Delete a graphic in Illustrator. [Delete a graphic](delete-a-graphic.md).
+- Open when looking up Delete a shared library in Illustrator. [Delete a shared library](delete-a-shared-library.md).
+- Open when looking up Delete a text asset in Illustrator. [Delete a text asset](delete-a-text-asset.md).
+- Open when looking up Edit a color in Illustrator. [Edit a color](edit-a-color.md).
+- Open when looking up Edit a graphic in Illustrator. [Edit a graphic](edit-a-graphic.md).
+- Open when looking up Edit a text asset in Illustrator. [Edit a text asset](edit-a-text-asset.md).
+- Open when looking up Graphics in Illustrator. [Graphics](graphics.md).
+- Open when looking up Integration with InDesign in Illustrator. [Integration with InDesign](integration-with-in-design.md).
+- Open when looking up Leave a shared library in Illustrator. [Leave a shared library](leave-a-shared-library.md).
+- Open when looking up Libraries panel overview in Illustrator. [Libraries panel overview](libraries-panel-overview.md).
+- Open when looking up Open the Libraries panel in Illustrator. [Open the Libraries panel](open-the-libraries-panel.md).
+- Open when looking up Rename a Character Style in Illustrator. [Rename a Character Style](rename-a-character-style.md).
+- Open when looking up Rename a color in Illustrator. [Rename a color](rename-a-color.md).
+- Open when looking up Rename a graphic in Illustrator. [Rename a graphic](rename-a-graphic.md).
+- Open when looking up Rename a text asset in Illustrator. [Rename a text asset](rename-a-text-asset.md).
+- Open when looking up Rename the Creative Cloud Library in Illustrator. [Rename the Creative Cloud Library](rename-the-creative-cloud-library.md).
+- Open when looking up Share a library in Illustrator. [Share a library](share-a-library.md).
+- Open when looking up Use a color in Illustrator. [Use a color](use-a-color.md).
+- Open when looking up Use a graphic in Illustrator. [Use a graphic](use-a-graphic.md).
+- Open when looking up Use a text asset in a document in Illustrator. [Use a text asset in a document](use-a-text-asset-in-a-document.md).
+- Open when looking up What are linked assets? in Illustrator. [What are linked assets?](what-are-linked-assets.md).

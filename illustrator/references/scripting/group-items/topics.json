@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "GroupItems.add()", "file": "references/scripting/group-items/add.md", "summary": "Open when looking up GroupItems.add() in Illustrator.", "keywords": ["GroupItems.add()"]},
+  {"topic": "GroupItems.createFromFile()", "file": "references/scripting/group-items/create-from-file.md", "summary": "Open when looking up GroupItems.createFromFile() in Illustrator.", "keywords": ["GroupItems.createFromFile()"]},
+  {"topic": "GroupItems.getByName()", "file": "references/scripting/group-items/get-by-name.md", "summary": "Open when looking up GroupItems.getByName() in Illustrator.", "keywords": ["GroupItems.getByName()"]},
+  {"topic": "GroupItems.index()", "file": "references/scripting/group-items/index.md", "summary": "Open when looking up GroupItems.index() in Illustrator.", "keywords": ["GroupItems.index()"]},
+  {"topic": "GroupItems.length", "file": "references/scripting/group-items/length.md", "summary": "Open when looking up GroupItems.length in Illustrator.", "keywords": ["GroupItems.length"]},
+  {"topic": "GroupItems.parent", "file": "references/scripting/group-items/parent.md", "summary": "Open when looking up GroupItems.parent in Illustrator.", "keywords": ["GroupItems.parent"]},
+  {"topic": "GroupItems.removeAll()", "file": "references/scripting/group-items/remove-all.md", "summary": "Open when looking up GroupItems.removeAll() in Illustrator.", "keywords": ["GroupItems.removeAll()"]},
+  {"topic": "GroupItems.typename", "file": "references/scripting/group-items/typename.md", "summary": "Open when looking up GroupItems.typename in Illustrator.", "keywords": ["GroupItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

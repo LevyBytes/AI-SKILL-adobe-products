@@ -1,0 +1,37 @@
+# Image - Creative
+
+- Bloom - brights
+- Bloom - brights+darks
+- Bloom - crystallize
+- Colorize - blue wash
+- Colorize - gold dip
+- Colorize - infrared
+- Colorize - moonshadows
+- Colorize - red hand tint
+- Colorize - royal purple
+- Colorize - sepia
+- Colorize - sky blue
+- Colorize - sky orange
+- Colorize - sunset gradient
+- Contrast - luminance
+- Contrast - saturation
+- Dimension - bevel+shadow
+- Dimension - glow+shadow
+
+- Grayscale
+- Hand Drawn Effect
+- Inset Video - framed
+- Inset Video - torn edges
+- Left Third - scoop mask NTSC
+- Left Third - scoop mask PAL
+- Lower Third - scoop mask NTSC
+- Lower Third - scoop mask PAL
+- Lower Third Holdout - darken
+- Lower Third Holdout - saturate
+- Mood Lighting - amorphous
+- Mood Lighting - digital
+- Mood Lighting - streaks
+- Noisy Vignette
+- Stacked Drop Shadows
+- VHS Flicker Effect
+- Vignette Lighting

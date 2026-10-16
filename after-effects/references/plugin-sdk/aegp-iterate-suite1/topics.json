@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP_GetNumThreads", "file": "references/plugin-sdk/aegp-iterate-suite1/aegp-get-num-threads.md", "summary": "Open when looking up AEGP_GetNumThreads in After Effects.", "keywords": ["AEGP_GetNumThreads"]},
+  {"topic": "AEGP_IterateGeneric", "file": "references/plugin-sdk/aegp-iterate-suite1/aegp-iterate-generic.md", "summary": "Open when looking up AEGP_IterateGeneric in After Effects.", "keywords": ["AEGP_IterateGeneric"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

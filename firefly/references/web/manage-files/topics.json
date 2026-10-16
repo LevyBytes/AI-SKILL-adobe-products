@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Access your stuff", "file": "references/web/manage-files/access-your-stuff.md", "summary": "Open when looking up Access your stuff in Firefly.", "keywords": ["Access your stuff"]},
+  {"topic": "Your stuff overview", "file": "references/web/manage-files/your-stuff-overview.md", "summary": "Open when looking up Your stuff overview in Firefly.", "keywords": ["Your stuff overview"]},
+  {"topic": "Your stuff overview references", "file": "references/web/manage-files/your-stuff-overview/reference-index.md", "summary": "Open when looking up Your stuff overview in Firefly.", "keywords": ["Your stuff overview references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

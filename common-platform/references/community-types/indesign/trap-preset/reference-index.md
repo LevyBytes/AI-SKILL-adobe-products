@@ -1,0 +1,24 @@
+# Shared Adobe platform — TrapPreset
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TrapPreset declaration in Shared Adobe platform. [TrapPreset declaration](declaration.md).
+- Open when looking up TrapPreset event listeners in Shared Adobe platform. [TrapPreset event listeners](event-listeners.md).
+- Open when looking up TrapPreset identity and parent in Shared Adobe platform. [TrapPreset identity and parent](identity-and-parent.md).
+- Open when looking up TrapPreset labels and metadata in Shared Adobe platform. [TrapPreset labels and metadata](labels-and-metadata.md).
+- Open when looking up TrapPreset object lifecycle in Shared Adobe platform. [TrapPreset object lifecycle](object-lifecycle.md).
+- Open when looking up TrapPreset object resolution in Shared Adobe platform. [TrapPreset object resolution](object-resolution.md).
+- Open when looking up TrapPreset.blackColorThreshold in Shared Adobe platform. [TrapPreset.blackColorThreshold](black-color-threshold.md).
+- Open when looking up TrapPreset.blackDensity in Shared Adobe platform. [TrapPreset.blackDensity](black-density.md).
+- Open when looking up TrapPreset.blackWidth in Shared Adobe platform. [TrapPreset.blackWidth](black-width.md).
+- Open when looking up TrapPreset.colorReduction in Shared Adobe platform. [TrapPreset.colorReduction](color-reduction.md).
+- Open when looking up TrapPreset.defaultTrapWidth in Shared Adobe platform. [TrapPreset.defaultTrapWidth](default-trap-width.md).
+- Open when looking up TrapPreset.imagePlacement in Shared Adobe platform. [TrapPreset.imagePlacement](image-placement.md).
+- Open when looking up TrapPreset.imagesToImages in Shared Adobe platform. [TrapPreset.imagesToImages](images-to-images.md).
+- Open when looking up TrapPreset.internalImages in Shared Adobe platform. [TrapPreset.internalImages](internal-images.md).
+- Open when looking up TrapPreset.objectsToImages in Shared Adobe platform. [TrapPreset.objectsToImages](objects-to-images.md).
+- Open when looking up TrapPreset.oneBitImages in Shared Adobe platform. [TrapPreset.oneBitImages](one-bit-images.md).
+- Open when looking up TrapPreset.properties in Shared Adobe platform. [TrapPreset.properties](properties.md).
+- Open when looking up TrapPreset.slidingTrapThreshold in Shared Adobe platform. [TrapPreset.slidingTrapThreshold](sliding-trap-threshold.md).
+- Open when looking up TrapPreset.stepThreshold in Shared Adobe platform. [TrapPreset.stepThreshold](step-threshold.md).
+- Open when looking up TrapPreset.trapEnd in Shared Adobe platform. [TrapPreset.trapEnd](trap-end.md).
+- Open when looking up TrapPreset.trapJoin in Shared Adobe platform. [TrapPreset.trapJoin](trap-join.md).

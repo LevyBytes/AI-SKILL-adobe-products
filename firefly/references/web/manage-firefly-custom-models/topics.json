@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Edit, duplicate, or delete custom models.", "file": "references/web/manage-firefly-custom-models/edit-duplicate-or-delete-custom-models.md", "summary": "Open when looking up Edit, duplicate, or delete custom models. in Firefly.", "keywords": ["Edit, duplicate, or delete custom models."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

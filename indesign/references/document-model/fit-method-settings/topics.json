@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "FIT_GIVEN_SCALE_PERCENTAGE", "file": "references/document-model/fit-method-settings/fitgivenscalepercentage.md", "summary": "Open when looking up FIT_GIVEN_SCALE_PERCENTAGE in InDesign.", "keywords": ["FIT_GIVEN_SCALE_PERCENTAGE"]},
+  {"topic": "FIT_GIVEN_WIDTH_AND_HEIGHT", "file": "references/document-model/fit-method-settings/fitgivenwidthandheight.md", "summary": "Open when looking up FIT_GIVEN_WIDTH_AND_HEIGHT in InDesign.", "keywords": ["FIT_GIVEN_WIDTH_AND_HEIGHT"]},
+  {"topic": "FIT_PREDEFINED_SETTINGS", "file": "references/document-model/fit-method-settings/fitpredefinedsettings.md", "summary": "Open when looking up FIT_PREDEFINED_SETTINGS in InDesign.", "keywords": ["FIT_PREDEFINED_SETTINGS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

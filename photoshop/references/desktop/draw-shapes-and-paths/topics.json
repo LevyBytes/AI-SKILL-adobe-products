@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Create shapes", "file": "references/desktop/draw-shapes-and-paths/create-shapes.md", "summary": "Open when looking up Create shapes in Photoshop.", "keywords": ["Create shapes"]},
+  {"topic": "Create shapes references", "file": "references/desktop/draw-shapes-and-paths/create-shapes/reference-index.md", "summary": "Open when looking up Create shapes in Photoshop.", "keywords": ["Create shapes references"]},
+  {"topic": "Draw lines and curves", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves.md", "summary": "Open when looking up Draw lines and curves in Photoshop.", "keywords": ["Draw lines and curves"]},
+  {"topic": "Draw lines and curves references", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/reference-index.md", "summary": "Open when looking up Draw lines and curves in Photoshop.", "keywords": ["Draw lines and curves references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

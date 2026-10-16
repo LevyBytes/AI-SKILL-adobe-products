@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Minimum requirements to run Directx HDR on Windows", "file": "references/desktop/get-started/set-up-directx-hdr-for-windows/system-requirements/minimum-requirements-to-run-directx-hdr-on-windows.md", "summary": "Open when looking up Minimum requirements to run Directx HDR on Windows in Premiere Pro.", "keywords": ["Minimum requirements to run Directx HDR on Windows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

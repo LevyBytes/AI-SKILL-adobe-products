@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Identify fonts", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/identify-fonts-using-retype/identify-fonts.md", "summary": "Open when looking up Identify fonts in Illustrator.", "keywords": ["Identify fonts"]},
+  {"topic": "Use Retype on Japanese text", "file": "references/desktop/design-with-text/work-with-fonts-and-scripts/identify-fonts-using-retype/use-retype-on-japanese-text.md", "summary": "Open when looking up Use Retype on Japanese text in Illustrator.", "keywords": ["Use Retype on Japanese text"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

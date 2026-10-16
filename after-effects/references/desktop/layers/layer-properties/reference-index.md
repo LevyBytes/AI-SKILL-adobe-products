@@ -1,0 +1,32 @@
+# After Effects — Layer properties
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust audio volume levels in After Effects. [Adjust audio volume levels](adjust-audio-volume-levels.md).
+- Open when looking up anchorPoint in After Effects. [anchorPoint](anchor-point.md).
+- Open when looking up audioLevels in After Effects. [audioLevels](audio-levels.md).
+- Open when looking up Bilinear and bicubic sampling in After Effects. [Bilinear and bicubic sampling](bilinear-and-bicubic-sampling.md).
+- Open when looking up Copy a value from a layer property that contains no keyframes in After Effects. [Copy a value from a layer property that contains no keyframes](copy-a-value-from-a-layer-property-that-contains-no-keyframes.md).
+- Open when looking up Copy or duplicate a property or property group in the Timeline panel in After Effects. [Copy or duplicate a property or property group in the Timeline panel](copy-properties-and-groups.md).
+- Open when looking up Detail-preserving Upscale effect in After Effects. [Detail-preserving Upscale effect](detail-preserving-upscale-effect.md).
+- Open when looking up Guide layers in After Effects. [Guide layers](guide-layers.md).
+- Open when looking up Layer anchor points in After Effects. [Layer anchor points](layer-anchor-points.md).
+- Open when looking up Layer Properties in After Effects. [Layer Properties](layer-properties.md).
+- Open when looking up Layer properties in the Timeline panel in After Effects. [Layer properties in the Timeline panel](layer-properties-in-the-timeline-panel.md).
+- Open when looking up Move a layer anchor point in After Effects. [Move a layer anchor point](move-a-layer-anchor-point.md).
+- Open when looking up name in After Effects. [name](name.md).
+- Open when looking up Null object layers in After Effects. [Null object layers](null-object-layers.md).
+- Open when looking up opacity in After Effects. [opacity](opacity.md).
+- Open when looking up Other tools and resources for scaling in After Effects. [Other tools and resources for scaling](other-tools-and-resources-for-scaling.md).
+- Open when looking up Parent and child layers in After Effects. [Parent and child layers](parent-and-child-layers.md).
+- Open when looking up position in After Effects. [position](position.md).
+- Open when looking up Quick Set Anchor to change the anchor point in After Effects. [Quick Set Anchor to change the anchor point](quick-set-anchor-to-change-the-anchor-point.md).
+- Open when looking up Reset a layer anchor point in After Effects. [Reset a layer anchor point](reset-a-layer-anchor-point.md).
+- Open when looking up Rotate a 2D layer in After Effects. [Rotate a 2D layer](rotate-a-2-d-layer.md).
+- Open when looking up rotation in After Effects. [rotation](rotation.md).
+- Open when looking up scale in After Effects. [scale](scale.md).
+- Open when looking up Scale or flip a layer in After Effects. [Scale or flip a layer](scale-or-flip-a-layer.md).
+- Open when looking up Select a property or property group in the Timeline panel in After Effects. [Select a property or property group in the Timeline panel](select-a-property-or-property-group-in-the-timeline-panel.md).
+- Open when looking up Set a property value in After Effects. [Set a property value](set-a-property-value.md).
+- Open when looking up Set layer anchor point to center of content in After Effects. [Set layer anchor point to center of content](set-layer-anchor-point-to-center-of-content.md).
+- Open when looking up Show or hide properties in the Timeline panel in After Effects. [Show or hide properties in the Timeline panel](show-or-hide-properties-in-the-timeline-panel.md).
+- Open when looking up timeRemap in After Effects. [timeRemap](time-remap.md).

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Connected Applications", "file": "references/uxp/adobe-uxp-developer-tool-plugin-development/connected-applications.md", "summary": "Open when looking up Connected Applications in Premiere Pro.", "keywords": ["Connected Applications"]},
+  {"topic": "Logs", "file": "references/uxp/adobe-uxp-developer-tool-plugin-development/logs.md", "summary": "Open when looking up Logs in Premiere Pro.", "keywords": ["Logs"]},
+  {"topic": "Preferences", "file": "references/uxp/adobe-uxp-developer-tool-plugin-development/preferences.md", "summary": "Open when looking up Preferences in Premiere Pro.", "keywords": ["Preferences"]},
+  {"topic": "Prerequisites", "file": "references/uxp/adobe-uxp-developer-tool-plugin-development/prerequisites.md", "summary": "Open when looking up Prerequisites in Premiere Pro.", "keywords": ["Prerequisites"]},
+  {"topic": "Read more", "file": "references/uxp/adobe-uxp-developer-tool-plugin-development/read-more.md", "summary": "Open when looking up Read more in Premiere Pro.", "keywords": ["Read more"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

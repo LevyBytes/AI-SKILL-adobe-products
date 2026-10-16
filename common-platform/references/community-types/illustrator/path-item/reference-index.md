@@ -1,0 +1,29 @@
+# Shared Adobe platform — PathItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PathItem declaration in Shared Adobe platform. [PathItem declaration](declaration.md).
+- Open when looking up PathItem object lifecycle in Shared Adobe platform. [PathItem object lifecycle](object-lifecycle.md).
+- Open when looking up PathItem.area in Shared Adobe platform. [PathItem.area](area.md).
+- Open when looking up PathItem.clipping in Shared Adobe platform. [PathItem.clipping](clipping.md).
+- Open when looking up PathItem.closed in Shared Adobe platform. [PathItem.closed](closed.md).
+- Open when looking up PathItem.evenodd in Shared Adobe platform. [PathItem.evenodd](evenodd.md).
+- Open when looking up PathItem.fillColor in Shared Adobe platform. [PathItem.fillColor](fill-color.md).
+- Open when looking up PathItem.filled in Shared Adobe platform. [PathItem.filled](filled.md).
+- Open when looking up PathItem.fillOverprint in Shared Adobe platform. [PathItem.fillOverprint](fill-overprint.md).
+- Open when looking up PathItem.guides in Shared Adobe platform. [PathItem.guides](guides.md).
+- Open when looking up PathItem.length in Shared Adobe platform. [PathItem.length](length.md).
+- Open when looking up PathItem.pathPoints in Shared Adobe platform. [PathItem.pathPoints](path-points.md).
+- Open when looking up PathItem.polarity in Shared Adobe platform. [PathItem.polarity](polarity.md).
+- Open when looking up PathItem.resolution in Shared Adobe platform. [PathItem.resolution](resolution.md).
+- Open when looking up PathItem.selectedPathPoints in Shared Adobe platform. [PathItem.selectedPathPoints](selected-path-points.md).
+- Open when looking up PathItem.setEntirePath in Shared Adobe platform. [PathItem.setEntirePath](set-entire-path.md).
+- Open when looking up PathItem.strokeCap in Shared Adobe platform. [PathItem.strokeCap](stroke-cap.md).
+- Open when looking up PathItem.strokeColor in Shared Adobe platform. [PathItem.strokeColor](stroke-color.md).
+- Open when looking up PathItem.stroked in Shared Adobe platform. [PathItem.stroked](stroked.md).
+- Open when looking up PathItem.strokeDashes in Shared Adobe platform. [PathItem.strokeDashes](stroke-dashes.md).
+- Open when looking up PathItem.strokeDashOffset in Shared Adobe platform. [PathItem.strokeDashOffset](stroke-dash-offset.md).
+- Open when looking up PathItem.strokeJoin in Shared Adobe platform. [PathItem.strokeJoin](stroke-join.md).
+- Open when looking up PathItem.strokeMiterLimit in Shared Adobe platform. [PathItem.strokeMiterLimit](stroke-miter-limit.md).
+- Open when looking up PathItem.strokeOverprint in Shared Adobe platform. [PathItem.strokeOverprint](stroke-overprint.md).
+- Open when looking up PathItem.strokeWidth in Shared Adobe platform. [PathItem.strokeWidth](stroke-width.md).
+- Open when looking up PathItem.uuid in Shared Adobe platform. [PathItem.uuid](uuid.md).

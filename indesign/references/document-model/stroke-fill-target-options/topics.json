@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "FORMATTING_AFFECTS_CONTAINER", "file": "references/document-model/stroke-fill-target-options/formattingaffectscontainer.md", "summary": "Open when looking up FORMATTING_AFFECTS_CONTAINER in InDesign.", "keywords": ["FORMATTING_AFFECTS_CONTAINER"]},
+  {"topic": "FORMATTING_AFFECTS_TEXT", "file": "references/document-model/stroke-fill-target-options/formattingaffectstext.md", "summary": "Open when looking up FORMATTING_AFFECTS_TEXT in InDesign.", "keywords": ["FORMATTING_AFFECTS_TEXT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

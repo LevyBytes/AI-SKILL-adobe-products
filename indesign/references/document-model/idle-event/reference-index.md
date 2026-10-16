@@ -1,0 +1,24 @@
+# InDesign — IdleEvent
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up bubbles in InDesign. [bubbles](bubbles.md).
+- Open when looking up cancelable in InDesign. [cancelable](cancelable.md).
+- Open when looking up currentTarget in InDesign. [currentTarget](current-target.md).
+- Open when looking up defaultPrevented in InDesign. [defaultPrevented](default-prevented.md).
+- Open when looking up eventPhase in InDesign. [eventPhase](event-phase.md).
+- Open when looking up eventType in InDesign. [eventType](event-type.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up ON_IDLE in InDesign. [ON_IDLE](onidle.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preventDefault in InDesign. [preventDefault](prevent-default.md).
+- Open when looking up propagationStopped in InDesign. [propagationStopped](propagation-stopped.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up stopPropagation in InDesign. [stopPropagation](stop-propagation.md).
+- Open when looking up target in InDesign. [target](target.md).
+- Open when looking up timeAllocated in InDesign. [timeAllocated](time-allocated.md).
+- Open when looking up timeStamp in InDesign. [timeStamp](time-stamp.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

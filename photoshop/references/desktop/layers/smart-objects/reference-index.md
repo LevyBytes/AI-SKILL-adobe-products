@@ -1,0 +1,22 @@
+# Photoshop — Smart objects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Convert embedded Smart Objects to linked in Photoshop. [Convert embedded Smart Objects to linked](convert-embedded-smart-objects-to-linked.md).
+- Open when looking up Convert Smart Objects to layers in Photoshop. [Convert Smart Objects to layers](convert-smart-objects-to-layers.md).
+- Open when looking up Create embedded Smart Objects in Photoshop. [Create embedded Smart Objects](create-embedded-smart-objects.md).
+- Open when looking up Create linked Smart Objects in Photoshop. [Create linked Smart Objects](create-linked-smart-objects.md).
+- Open when looking up Duplicate an embedded Smart Object in Photoshop. [Duplicate an embedded Smart Object](duplicate-an-embedded-smart-object.md).
+- Open when looking up Edit the contents of a Smart Object in Photoshop. [Edit the contents of a Smart Object](edit-the-contents-of-a-smart-object.md).
+- Open when looking up Embed Linked Smart Objects in Photoshop. [Embed Linked Smart Objects](embed-linked-smart-objects.md).
+- Open when looking up Export the contents of an embedded Smart Object in Photoshop. [Export the contents of an embedded Smart Object](export-the-contents-of-an-embedded-smart-object.md).
+- Open when looking up Filter the Layers panel by Smart Objects in Photoshop. [Filter the Layers panel by Smart Objects](filter-the-layers-panel-by-smart-objects.md).
+- Open when looking up Package and locate linked Smart Objects in Photoshop. [Package and locate linked Smart Objects](package-and-locate-linked-smart-objects.md).
+- Open when looking up Package and locate linked Smart Objects in Photoshop. [Package and locate linked Smart Objects references](package-and-locate-linked-smart-objects/reference-index.md).
+- Open when looking up Rasterize Smart Objects in Photoshop. [Rasterize Smart Objects](rasterize-smart-objects.md).
+- Open when looking up Rasterize Smart Objects in Photoshop. [Rasterize Smart Objects references](rasterize-smart-objects/reference-index.md).
+- Open when looking up Replace the contents of a Smart Object in Photoshop. [Replace the contents of a Smart Object](replace-the-contents-of-a-smart-object.md).
+- Open when looking up Reset Smart Object transforms in Photoshop. [Reset Smart Object transforms](reset-smart-object-transforms.md).
+- Open when looking up Smart Objects - overview and benefits in Photoshop. [Smart Objects - overview and benefits](smart-objects-overview-and-benefits.md).
+- Open when looking up Smart Objects - overview and benefits in Photoshop. [Smart Objects - overview and benefits references](smart-objects-overview-and-benefits/reference-index.md).
+- Open when looking up Update Linked Smart Objects in Photoshop. [Update Linked Smart Objects](update-linked-smart-objects.md).
+- Open when looking up View Linked Smart Object properties in Photoshop. [View Linked Smart Object properties](view-linked-smart-object-properties.md).

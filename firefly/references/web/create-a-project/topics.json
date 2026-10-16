@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Start a new project so you can begin editing video.", "file": "references/web/create-a-project/start-a-new-project-so-you-can-begin-editing-video.md", "summary": "Open when looking up Start a new project so you can begin editing video. in Firefly.", "keywords": ["Start a new project so you can begin editing video."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ColorRenderingDictionary", "file": "references/document-model/color-rendering-dictionary.md", "summary": "Open when looking up ColorRenderingDictionary in InDesign.", "keywords": ["ColorRenderingDictionary"]},
+  {"topic": "ColorRenderingDictionary references", "file": "references/document-model/color-rendering-dictionary/reference-index.md", "summary": "Open when looking up ColorRenderingDictionary in InDesign.", "keywords": ["ColorRenderingDictionary references"]},
+  {"topic": "ColorSetting", "file": "references/document-model/color-setting.md", "summary": "Open when looking up ColorSetting in InDesign.", "keywords": ["ColorSetting"]},
+  {"topic": "ColorSetting references", "file": "references/document-model/color-setting/reference-index.md", "summary": "Open when looking up ColorSetting in InDesign.", "keywords": ["ColorSetting references"]},
+  {"topic": "ColorSettingsPolicy", "file": "references/document-model/color-settings-policy.md", "summary": "Open when looking up ColorSettingsPolicy in InDesign.", "keywords": ["ColorSettingsPolicy"]},
+  {"topic": "ColorSettingsPolicy references", "file": "references/document-model/color-settings-policy/reference-index.md", "summary": "Open when looking up ColorSettingsPolicy in InDesign.", "keywords": ["ColorSettingsPolicy references"]},
+  {"topic": "DefaultRenderingIntent", "file": "references/document-model/default-rendering-intent.md", "summary": "Open when looking up DefaultRenderingIntent in InDesign.", "keywords": ["DefaultRenderingIntent"]},
+  {"topic": "DefaultRenderingIntent references", "file": "references/document-model/default-rendering-intent/reference-index.md", "summary": "Open when looking up DefaultRenderingIntent in InDesign.", "keywords": ["DefaultRenderingIntent references"]},
+  {"topic": "ICCProfiles", "file": "references/document-model/icc-profiles.md", "summary": "Open when looking up ICCProfiles in InDesign.", "keywords": ["ICCProfiles"]},
+  {"topic": "ICCProfiles references", "file": "references/document-model/icc-profiles/reference-index.md", "summary": "Open when looking up ICCProfiles in InDesign.", "keywords": ["ICCProfiles references"]},
+  {"topic": "Profile", "file": "references/document-model/profile.md", "summary": "Open when looking up Profile in InDesign.", "keywords": ["Profile"]},
+  {"topic": "Profile references", "file": "references/document-model/profile/reference-index.md", "summary": "Open when looking up Profile in InDesign.", "keywords": ["Profile references"]},
+  {"topic": "ProofingType", "file": "references/document-model/proofing-type.md", "summary": "Open when looking up ProofingType in InDesign.", "keywords": ["ProofingType"]},
+  {"topic": "ProofingType references", "file": "references/document-model/proofing-type/reference-index.md", "summary": "Open when looking up ProofingType in InDesign.", "keywords": ["ProofingType references"]},
+  {"topic": "RenderingIntent", "file": "references/document-model/rendering-intent.md", "summary": "Open when looking up RenderingIntent in InDesign.", "keywords": ["RenderingIntent"]},
+  {"topic": "RenderingIntent references", "file": "references/document-model/rendering-intent/reference-index.md", "summary": "Open when looking up RenderingIntent in InDesign.", "keywords": ["RenderingIntent references"]},
+  {"topic": "SourceSpaces", "file": "references/document-model/source-spaces.md", "summary": "Open when looking up SourceSpaces in InDesign.", "keywords": ["SourceSpaces"]},
+  {"topic": "SourceSpaces references", "file": "references/document-model/source-spaces/reference-index.md", "summary": "Open when looking up SourceSpaces in InDesign.", "keywords": ["SourceSpaces references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

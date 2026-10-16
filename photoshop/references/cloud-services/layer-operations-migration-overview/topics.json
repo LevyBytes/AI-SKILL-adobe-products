@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Basic request structure", "file": "references/cloud-services/layer-operations-migration-overview/basic-request-structure.md", "summary": "Open when looking up Basic request structure in Photoshop.", "keywords": ["Basic request structure"]},
+  {"topic": "Batch operations", "file": "references/cloud-services/layer-operations-migration-overview/batch-operations.md", "summary": "Open when looking up Batch operations in Photoshop.", "keywords": ["Batch operations"]},
+  {"topic": "Layer processing order", "file": "references/cloud-services/layer-operations-migration-overview/layer-processing-order.md", "summary": "Open when looking up Layer processing order in Photoshop.", "keywords": ["Layer processing order"]},
+  {"topic": "Migration strategy", "file": "references/cloud-services/layer-operations-migration-overview/migration-strategy.md", "summary": "Open when looking up Migration strategy in Photoshop.", "keywords": ["Migration strategy"]},
+  {"topic": "Next steps", "file": "references/cloud-services/layer-operations-migration-overview/next-steps.md", "summary": "Open when looking up Next steps in Photoshop.", "keywords": ["Next steps"]},
+  {"topic": "Operation types", "file": "references/cloud-services/layer-operations-migration-overview/operation-types.md", "summary": "Open when looking up Operation types in Photoshop.", "keywords": ["Operation types"]},
+  {"topic": "Request structure changes", "file": "references/cloud-services/layer-operations-migration-overview/request-structure-changes.md", "summary": "Open when looking up Request structure changes in Photoshop.", "keywords": ["Request structure changes"]},
+  {"topic": "Specific layer type guides", "file": "references/cloud-services/layer-operations-migration-overview/specific-layer-type-guides.md", "summary": "Open when looking up Specific layer type guides in Photoshop.", "keywords": ["Specific layer type guides"]},
+  {"topic": "V1 layer operations landscape", "file": "references/cloud-services/layer-operations-migration-overview/v1-layer-operations-landscape.md", "summary": "Open when looking up V1 layer operations landscape in Photoshop.", "keywords": ["V1 layer operations landscape"]},
+  {"topic": "V2 unified approach", "file": "references/cloud-services/layer-operations-migration-overview/v2-unified-approach.md", "summary": "Open when looking up V2 unified approach in Photoshop.", "keywords": ["V2 unified approach"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

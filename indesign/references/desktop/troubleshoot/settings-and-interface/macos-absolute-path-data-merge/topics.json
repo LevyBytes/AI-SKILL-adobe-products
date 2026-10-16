@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Data Merge cannot resolve absolute file paths on macOS", "file": "references/desktop/troubleshoot/settings-and-interface/macos-absolute-path-data-merge/data-merge-cannot-resolve-absolute-file-paths-on-mac-os.md", "summary": "Open when looking up Data Merge cannot resolve absolute file paths on macOS in InDesign.", "keywords": ["Data Merge cannot resolve absolute file paths on macOS"]},
+  {"topic": "Find the correct absolute file path", "file": "references/desktop/troubleshoot/settings-and-interface/macos-absolute-path-data-merge/find-the-correct-absolute-file-path.md", "summary": "Open when looking up Find the correct absolute file path in InDesign.", "keywords": ["Find the correct absolute file path"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

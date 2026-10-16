@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "The XML Object — Viewing XML objects", "file": "references/scripting/viewing-xml-objects/the-xml-object-viewing-xml-objects.md", "summary": "Open when looking up The XML Object — Viewing XML objects in Shared Adobe platform.", "keywords": ["The XML Object — Viewing XML objects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

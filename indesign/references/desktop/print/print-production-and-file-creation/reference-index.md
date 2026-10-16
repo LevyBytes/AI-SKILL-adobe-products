@@ -1,0 +1,23 @@
+# InDesign — Print production and file creation
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About PostScript and EPS files in InDesign. [About PostScript and EPS files](about-post-script-and-eps-files.md).
+- Open when looking up About PostScript and EPS files in InDesign. [About PostScript and EPS files references](about-post-script-and-eps-files/reference-index.md).
+- Open when looking up Create and manage print presets in InDesign. [Create and manage print presets](create-and-manage-print-presets.md).
+- Open when looking up Create and manage print presets in InDesign. [Create and manage print presets references](create-and-manage-print-presets/reference-index.md).
+- Open when looking up Create PostScript files in InDesign. [Create PostScript files](create-post-script-files.md).
+- Open when looking up Create PostScript files in InDesign. [Create PostScript files references](create-post-script-files/reference-index.md).
+- Open when looking up Print as bitmap in InDesign. [Print as bitmap](print-as-bitmap.md).
+- Open when looking up Print as bitmap in InDesign. [Print as bitmap references](print-as-bitmap/reference-index.md).
+- Open when looking up Print documents and books in InDesign. [Print documents and books](print-documents-and-books.md).
+- Open when looking up Print documents and books in InDesign. [Print documents and books references](print-documents-and-books/reference-index.md).
+- Open when looking up Print or export book files in InDesign. [Print or export book files](print-or-export-book-files.md).
+- Open when looking up Print or export book files in InDesign. [Print or export book files references](print-or-export-book-files/reference-index.md).
+- Open when looking up Print oversized documents in InDesign. [Print oversized documents](print-oversized-documents.md).
+- Open when looking up Print oversized documents in InDesign. [Print oversized documents references](print-oversized-documents/reference-index.md).
+- Open when looking up Produce print-ready PDF files in InDesign. [Produce print-ready PDF files](produce-print-ready-pdf-files.md).
+- Open when looking up Produce print-ready PDF files in InDesign. [Produce print-ready PDF files references](produce-print-ready-pdf-files/reference-index.md).
+- Open when looking up Scale documents for printing in InDesign. [Scale documents for printing](scale-documents-for-printing.md).
+- Open when looking up Scale documents for printing in InDesign. [Scale documents for printing references](scale-documents-for-printing/reference-index.md).
+- Open when looking up Set up a printer in InDesign. [Set up a printer](set-up-a-printer.md).
+- Open when looking up Set up a printer in InDesign. [Set up a printer references](set-up-a-printer/reference-index.md).

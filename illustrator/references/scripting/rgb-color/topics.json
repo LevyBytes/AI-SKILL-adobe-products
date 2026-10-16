@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "RGBColor.blue", "file": "references/scripting/rgb-color/blue.md", "summary": "Open when looking up RGBColor.blue in Illustrator.", "keywords": ["RGBColor.blue"]},
+  {"topic": "RGBColor.green", "file": "references/scripting/rgb-color/green.md", "summary": "Open when looking up RGBColor.green in Illustrator.", "keywords": ["RGBColor.green"]},
+  {"topic": "RGBColor.red", "file": "references/scripting/rgb-color/red.md", "summary": "Open when looking up RGBColor.red in Illustrator.", "keywords": ["RGBColor.red"]},
+  {"topic": "RGBColor.typename", "file": "references/scripting/rgb-color/typename.md", "summary": "Open when looking up RGBColor.typename in Illustrator.", "keywords": ["RGBColor.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

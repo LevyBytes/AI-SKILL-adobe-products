@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Create documents with templates", "file": "references/web/create-pdfs/templates/create-documents-with-templates.md", "summary": "Open when looking up Create documents with templates in Acrobat.", "keywords": ["Create documents with templates"]},
+  {"topic": "Create professional documents with templates", "file": "references/web/create-pdfs/templates/create-professional-documents-with-templates.md", "summary": "Open when looking up Create professional documents with templates in Acrobat.", "keywords": ["Create professional documents with templates"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

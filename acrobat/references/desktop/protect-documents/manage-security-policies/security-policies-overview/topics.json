@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Organizational policies", "file": "references/desktop/protect-documents/manage-security-policies/security-policies-overview/organizational-policies.md", "summary": "Open when looking up Organizational policies in Acrobat.", "keywords": ["Organizational policies"]},
+  {"topic": "Types of security policies", "file": "references/desktop/protect-documents/manage-security-policies/security-policies-overview/types-of-security-policies.md", "summary": "Open when looking up Types of security policies in Acrobat.", "keywords": ["Types of security policies"]},
+  {"topic": "User policies", "file": "references/desktop/protect-documents/manage-security-policies/security-policies-overview/user-policies.md", "summary": "Open when looking up User policies in Acrobat.", "keywords": ["User policies"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

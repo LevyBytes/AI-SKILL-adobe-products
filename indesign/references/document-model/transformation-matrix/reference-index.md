@@ -1,0 +1,30 @@
+# InDesign — TransformationMatrix
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up catenateMatrix in InDesign. [catenateMatrix](catenate-matrix.md).
+- Open when looking up changeCoordinates in InDesign. [changeCoordinates](change-coordinates.md).
+- Open when looking up clockwiseShearAngle in InDesign. [clockwiseShearAngle](clockwise-shear-angle.md).
+- Open when looking up counterclockwiseRotationAngle in InDesign. [counterclockwiseRotationAngle](counterclockwise-rotation-angle.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up horizontalScaleFactor in InDesign. [horizontalScaleFactor](horizontal-scale-factor.md).
+- Open when looking up horizontalTranslation in InDesign. [horizontalTranslation](horizontal-translation.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up invertMatrix in InDesign. [invertMatrix](invert-matrix.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up matrixMapping in InDesign. [matrixMapping](matrix-mapping.md).
+- Open when looking up matrixValues in InDesign. [matrixValues](matrix-values.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up rotateMatrix in InDesign. [rotateMatrix](rotate-matrix.md).
+- Open when looking up scaleMatrix in InDesign. [scaleMatrix](scale-matrix.md).
+- Open when looking up shearMatrix in InDesign. [shearMatrix](shear-matrix.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up translateMatrix in InDesign. [translateMatrix](translate-matrix.md).
+- Open when looking up verticalScaleFactor in InDesign. [verticalScaleFactor](vertical-scale-factor.md).
+- Open when looking up verticalTranslation in InDesign. [verticalTranslation](vertical-translation.md).

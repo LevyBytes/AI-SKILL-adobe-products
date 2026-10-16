@@ -1,0 +1,22 @@
+# Premiere Pro — After effects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Copy clips from Premiere to After Effects in Premiere Pro. [Copy clips from Premiere to After Effects](copy-clips-from-premiere-to-after-effects.md).
+- Open when looking up Copy clips from Premiere to After Effects in Premiere Pro. [Copy clips from Premiere to After Effects references](copy-clips-from-premiere-to-after-effects/reference-index.md).
+- Open when looking up Copy from After Effects to Premiere in Premiere Pro. [Copy from After Effects to Premiere](copy-from-after-effects-to-premiere.md).
+- Open when looking up Copy from After Effects to Premiere in Premiere Pro. [Copy from After Effects to Premiere references](copy-from-after-effects-to-premiere/reference-index.md).
+- Open when looking up Create a dynamically linked composition in Premiere Pro. [Create a dynamically linked composition](create-a-dynamically-linked-composition.md).
+- Open when looking up Delete a dynamically linked composition or clip in Premiere Pro. [Delete a dynamically linked composition or clip](delete-a-dynamically-linked-composition-or-clip.md).
+- Open when looking up Delete dynamically linked compositions or clips in Premiere Pro. [Delete dynamically linked compositions or clips](delete-dynamically-linked-compositions-or-clips.md).
+- Open when looking up Delete dynamically linked compositions or clips in Premiere Pro. [Delete dynamically linked compositions or clips references](delete-dynamically-linked-compositions-or-clips/reference-index.md).
+- Open when looking up Import After Effects compositions in Premiere Pro. [Import After Effects compositions](import-after-effects-compositions.md).
+- Open when looking up Import After Effects compositions in Premiere Pro. [Import After Effects compositions references](import-after-effects-compositions/reference-index.md).
+- Open when looking up Import an After Effects composition in Premiere Pro. [Import an After Effects composition](import-an-after-effects-composition.md).
+- Open when looking up Make a dynamically linked composition offline in Premiere Pro. [Make a dynamically linked composition offline](make-a-dynamically-linked-composition-offline.md).
+- Open when looking up Make a dynamically linked composition offline in Premiere Pro. [Make a dynamically linked composition offline references](make-a-dynamically-linked-composition-offline/reference-index.md).
+- Open when looking up Modify a dynamically linked composition in After Effects in Premiere Pro. [Modify a dynamically linked composition in After Effects](modify-a-dynamically-linked-composition-in-after-effects.md).
+- Open when looking up Relink a dynamically linked composition in Premiere Pro. [Relink a dynamically linked composition](relink-a-dynamically-linked-composition.md).
+- Open when looking up Relink a dynamically linked composition in Premiere Pro. [Relink a dynamically linked composition references](relink-a-dynamically-linked-composition/reference-index.md).
+- Open when looking up Replace clips with a dynamically linked After Effects composition in Premiere Pro. [Replace clips with a dynamically linked After Effects composition](replace-clips-with-linked-compositions.md).
+- Open when looking up Replace clips with a dynamically linked After Effects composition in Premiere Pro. [Replace clips with a dynamically linked After Effects composition references](linked-composition-replacement/reference-index.md).
+- Open when looking up Share assets between After Effects and Premiere using Dynamic Link in Premiere Pro. [Share assets between After Effects and Premiere using Dynamic Link](dynamic-link-shared-assets.md).

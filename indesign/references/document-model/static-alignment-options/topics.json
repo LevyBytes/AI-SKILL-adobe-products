@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CENTER_ALIGN", "file": "references/document-model/static-alignment-options/centeralign.md", "summary": "Open when looking up CENTER_ALIGN in InDesign.", "keywords": ["CENTER_ALIGN"]},
+  {"topic": "LEFT_ALIGN", "file": "references/document-model/static-alignment-options/leftalign.md", "summary": "Open when looking up LEFT_ALIGN in InDesign.", "keywords": ["LEFT_ALIGN"]},
+  {"topic": "RIGHT_ALIGN", "file": "references/document-model/static-alignment-options/rightalign.md", "summary": "Open when looking up RIGHT_ALIGN in InDesign.", "keywords": ["RIGHT_ALIGN"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

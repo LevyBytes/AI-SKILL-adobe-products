@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Duplicate objects while transforming", "file": "references/desktop/graphics-and-media/object-transforms/multiple-and-repeated-transforms/duplicate-objects-while-transforming.md", "summary": "Open when looking up Duplicate objects while transforming in InDesign.", "keywords": ["Duplicate objects while transforming"]},
+  {"topic": "Repeat transformations on other objects", "file": "references/desktop/graphics-and-media/object-transforms/multiple-and-repeated-transforms/repeat-transformations-on-other-objects.md", "summary": "Open when looking up Repeat transformations on other objects in InDesign.", "keywords": ["Repeat transformations on other objects"]},
+  {"topic": "Transform multiple objects simultaneously", "file": "references/desktop/graphics-and-media/object-transforms/multiple-and-repeated-transforms/transform-multiple-objects-simultaneously.md", "summary": "Open when looking up Transform multiple objects simultaneously in InDesign.", "keywords": ["Transform multiple objects simultaneously"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

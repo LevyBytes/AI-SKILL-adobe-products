@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "getIsIngestEnabled", "file": "references/uxp/host-api/ingest-settings/instance-methods/get-is-ingest-enabled.md", "summary": "Open when looking up getIsIngestEnabled in Premiere Pro.", "keywords": ["getIsIngestEnabled"]},
+  {"topic": "setIngestEnabled", "file": "references/uxp/host-api/ingest-settings/instance-methods/set-ingest-enabled.md", "summary": "Open when looking up setIngestEnabled in Premiere Pro.", "keywords": ["setIngestEnabled"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "declare const File: FileConstructor", "file": "references/community-types/shared/declare-const-file-file-constructor.md", "summary": "Open when looking up declare const File: FileConstructor in Shared Adobe platform.", "keywords": ["declare const File: FileConstructor"]},
+  {"topic": "declare const Folder: FolderConstructor", "file": "references/community-types/shared/declare-const-folder-folder-constructor.md", "summary": "Open when looking up declare const Folder: FolderConstructor in Shared Adobe platform.", "keywords": ["declare const Folder: FolderConstructor"]},
+  {"topic": "File references", "file": "references/community-types/shared/file/reference-index.md", "summary": "Open when looking up File in Shared Adobe platform.", "keywords": ["File references"]},
+  {"topic": "FileConstructor", "file": "references/community-types/shared/file-constructor.md", "summary": "Open when looking up FileConstructor in Shared Adobe platform.", "keywords": ["FileConstructor"]},
+  {"topic": "Folder references", "file": "references/community-types/shared/folder/reference-index.md", "summary": "Open when looking up Folder in Shared Adobe platform.", "keywords": ["Folder references"]},
+  {"topic": "FolderConstructor references", "file": "references/community-types/shared/folder-constructor/reference-index.md", "summary": "Open when looking up FolderConstructor in Shared Adobe platform.", "keywords": ["FolderConstructor references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

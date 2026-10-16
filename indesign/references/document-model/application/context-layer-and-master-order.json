@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "select", "file": "references/document-model/application/select.md", "summary": "Open when looking up select in InDesign.", "keywords": ["select"]},
+  {"topic": "selection", "file": "references/document-model/application/selection.md", "summary": "Open when looking up selection in InDesign.", "keywords": ["selection"]},
+  {"topic": "selectionKeyObject", "file": "references/document-model/application/selection-key-object.md", "summary": "Open when looking up selectionKeyObject in InDesign.", "keywords": ["selectionKeyObject"]},
+  {"topic": "visible", "file": "references/document-model/application/visible.md", "summary": "Open when looking up visible in InDesign.", "keywords": ["visible"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

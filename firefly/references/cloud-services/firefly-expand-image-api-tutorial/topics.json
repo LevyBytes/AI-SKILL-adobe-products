@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Deepen Your Understanding", "file": "references/cloud-services/firefly-expand-image-api-tutorial/deepen-your-understanding.md", "summary": "Open when looking up Deepen Your Understanding in Firefly.", "keywords": ["Deepen Your Understanding"]},
+  {"topic": "Define the Dimensions", "file": "references/cloud-services/firefly-expand-image-api-tutorial/define-the-dimensions.md", "summary": "Open when looking up Define the Dimensions in Firefly.", "keywords": ["Define the Dimensions"]},
+  {"topic": "Download the Sample Image", "file": "references/cloud-services/firefly-expand-image-api-tutorial/download-the-sample-image.md", "summary": "Open when looking up Download the Sample Image in Firefly.", "keywords": ["Download the Sample Image"]},
+  {"topic": "Full Example", "file": "references/cloud-services/firefly-expand-image-api-tutorial/full-example.md", "summary": "Open when looking up Full Example in Firefly.", "keywords": ["Full Example"]},
+  {"topic": "Generate Image Variations", "file": "references/cloud-services/firefly-expand-image-api-tutorial/generate-image-variations.md", "summary": "Open when looking up Generate Image Variations in Firefly.", "keywords": ["Generate Image Variations"]},
+  {"topic": "Prerequisites", "file": "references/cloud-services/firefly-expand-image-api-tutorial/prerequisites.md", "summary": "Open when looking up Prerequisites in Firefly.", "keywords": ["Prerequisites"]},
+  {"topic": "Set Up Your Environment", "file": "references/cloud-services/firefly-expand-image-api-tutorial/set-up-your-environment.md", "summary": "Open when looking up Set Up Your Environment in Firefly.", "keywords": ["Set Up Your Environment"]},
+  {"topic": "Upload the Source Image", "file": "references/cloud-services/firefly-expand-image-api-tutorial/upload-the-source-image.md", "summary": "Open when looking up Upload the Source Image in Firefly.", "keywords": ["Upload the Source Image"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

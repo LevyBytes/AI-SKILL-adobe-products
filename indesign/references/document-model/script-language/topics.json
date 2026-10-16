@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "APPLESCRIPT_LANGUAGE", "file": "references/document-model/script-language/applescriptlanguage.md", "summary": "Open when looking up APPLESCRIPT_LANGUAGE in InDesign.", "keywords": ["APPLESCRIPT_LANGUAGE"]},
+  {"topic": "JAVASCRIPT", "file": "references/document-model/script-language/javascript.md", "summary": "Open when looking up JAVASCRIPT in InDesign.", "keywords": ["JAVASCRIPT"]},
+  {"topic": "UNKNOWN", "file": "references/document-model/script-language/unknown.md", "summary": "Open when looking up UNKNOWN in InDesign.", "keywords": ["UNKNOWN"]},
+  {"topic": "UXPSCRIPT", "file": "references/document-model/script-language/uxpscript.md", "summary": "Open when looking up UXPSCRIPT in InDesign.", "keywords": ["UXPSCRIPT"]},
+  {"topic": "VISUAL_BASIC", "file": "references/document-model/script-language/visualbasic.md", "summary": "Open when looking up VISUAL_BASIC in InDesign.", "keywords": ["VISUAL_BASIC"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

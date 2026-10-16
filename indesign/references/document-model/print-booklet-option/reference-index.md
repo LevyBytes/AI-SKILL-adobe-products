@@ -1,0 +1,26 @@
+# InDesign — PrintBookletOption
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up autoAdjustMargins in InDesign. [autoAdjustMargins](auto-adjust-margins.md).
+- Open when looking up bleedBetweenPages in InDesign. [bleedBetweenPages](bleed-between-pages.md).
+- Open when looking up bookletType in InDesign. [bookletType](booklet-type.md).
+- Open when looking up bottomMargin in InDesign. [bottomMargin](bottom-margin.md).
+- Open when looking up creep in InDesign. [creep](creep.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up leftMargin in InDesign. [leftMargin](left-margin.md).
+- Open when looking up marginsUniformSize in InDesign. [marginsUniformSize](margins-uniform-size.md).
+- Open when looking up pageRange in InDesign. [pageRange](page-range.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up printBlankPrinterSpreads in InDesign. [printBlankPrinterSpreads](print-blank-printer-spreads.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up rightMargin in InDesign. [rightMargin](right-margin.md).
+- Open when looking up signatureSize in InDesign. [signatureSize](signature-size.md).
+- Open when looking up spaceBetweenPages in InDesign. [spaceBetweenPages](space-between-pages.md).
+- Open when looking up topMargin in InDesign. [topMargin](top-margin.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

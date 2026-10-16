@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Unable to connect to the cloud server", "file": "references/desktop/troubleshoot/launch-and-crash-issues/crash-on-lost-network-connection/unable-to-connect-to-the-cloud-server.md", "summary": "Open when looking up Unable to connect to the cloud server in InDesign.", "keywords": ["Unable to connect to the cloud server"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

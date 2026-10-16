@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "incopy", "topics": [
+  {"topic": "About printer drivers", "file": "references/desktop/print-documents/setting-printer/about-printer-drivers.md", "summary": "Open when looking up About printer drivers in InCopy.", "keywords": ["About printer drivers"]},
+  {"topic": "Printing with InCopy", "file": "references/desktop/print-documents/setting-printer/printing-with-in-copy.md", "summary": "Open when looking up Printing with InCopy in InCopy.", "keywords": ["Printing with InCopy"]},
+  {"topic": "Select a PPD file", "file": "references/desktop/print-documents/setting-printer/select-a-ppd-file.md", "summary": "Open when looking up Select a PPD file in InCopy.", "keywords": ["Select a PPD file"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Export files for further editing", "file": "references/desktop/render-and-export/export-files/export-options-in-premiere/export-files-for-further-editing.md", "summary": "Open when looking up Export files for further editing in Premiere Pro.", "keywords": ["Export files for further editing"]},
+  {"topic": "Export formats for different devices and websites", "file": "references/desktop/render-and-export/export-files/export-options-in-premiere/export-formats-for-different-devices-and-websites.md", "summary": "Open when looking up Export formats for different devices and websites in Premiere Pro.", "keywords": ["Export formats for different devices and websites"]},
+  {"topic": "Export project files for other systems", "file": "references/desktop/render-and-export/export-files/export-options-in-premiere/export-project-files-for-other-systems.md", "summary": "Open when looking up Export project files for other systems in Premiere Pro.", "keywords": ["Export project files for other systems"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

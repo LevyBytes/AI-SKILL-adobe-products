@@ -1,0 +1,36 @@
+# Shared Adobe platform — TextPath
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextPath declaration in Shared Adobe platform. [TextPath declaration](declaration.md).
+- Open when looking up TextPath identity and parent in Shared Adobe platform. [TextPath identity and parent](identity-and-parent.md).
+- Open when looking up TextPath.area in Shared Adobe platform. [TextPath.area](area.md).
+- Open when looking up TextPath.blendingMode in Shared Adobe platform. [TextPath.blendingMode](blending-mode.md).
+- Open when looking up TextPath.clipping in Shared Adobe platform. [TextPath.clipping](clipping.md).
+- Open when looking up TextPath.closed in Shared Adobe platform. [TextPath.closed](closed.md).
+- Open when looking up TextPath.editable in Shared Adobe platform. [TextPath.editable](editable.md).
+- Open when looking up TextPath.evenodd in Shared Adobe platform. [TextPath.evenodd](evenodd.md).
+- Open when looking up TextPath.fillColor in Shared Adobe platform. [TextPath.fillColor](fill-color.md).
+- Open when looking up TextPath.filled in Shared Adobe platform. [TextPath.filled](filled.md).
+- Open when looking up TextPath.fillOverprint in Shared Adobe platform. [TextPath.fillOverprint](fill-overprint.md).
+- Open when looking up TextPath.guides in Shared Adobe platform. [TextPath.guides](guides.md).
+- Open when looking up TextPath.height in Shared Adobe platform. [TextPath.height](height.md).
+- Open when looking up TextPath.left in Shared Adobe platform. [TextPath.left](left.md).
+- Open when looking up TextPath.note in Shared Adobe platform. [TextPath.note](note.md).
+- Open when looking up TextPath.opacity in Shared Adobe platform. [TextPath.opacity](opacity.md).
+- Open when looking up TextPath.pathPoints in Shared Adobe platform. [TextPath.pathPoints](path-points.md).
+- Open when looking up TextPath.polarity in Shared Adobe platform. [TextPath.polarity](polarity.md).
+- Open when looking up TextPath.position in Shared Adobe platform. [TextPath.position](position.md).
+- Open when looking up TextPath.resolution in Shared Adobe platform. [TextPath.resolution](resolution.md).
+- Open when looking up TextPath.selectedPathPoints in Shared Adobe platform. [TextPath.selectedPathPoints](selected-path-points.md).
+- Open when looking up TextPath.setEntirePath in Shared Adobe platform. [TextPath.setEntirePath](set-entire-path.md).
+- Open when looking up TextPath.strokeCap in Shared Adobe platform. [TextPath.strokeCap](stroke-cap.md).
+- Open when looking up TextPath.strokeColor in Shared Adobe platform. [TextPath.strokeColor](stroke-color.md).
+- Open when looking up TextPath.stroked in Shared Adobe platform. [TextPath.stroked](stroked.md).
+- Open when looking up TextPath.strokeDashes in Shared Adobe platform. [TextPath.strokeDashes](stroke-dashes.md).
+- Open when looking up TextPath.strokeDashOffset in Shared Adobe platform. [TextPath.strokeDashOffset](stroke-dash-offset.md).
+- Open when looking up TextPath.strokeJoin in Shared Adobe platform. [TextPath.strokeJoin](stroke-join.md).
+- Open when looking up TextPath.strokeMiterLimit in Shared Adobe platform. [TextPath.strokeMiterLimit](stroke-miter-limit.md).
+- Open when looking up TextPath.strokeOverprint in Shared Adobe platform. [TextPath.strokeOverprint](stroke-overprint.md).
+- Open when looking up TextPath.strokeWidth in Shared Adobe platform. [TextPath.strokeWidth](stroke-width.md).
+- Open when looking up TextPath.top in Shared Adobe platform. [TextPath.top](top.md).
+- Open when looking up TextPath.width in Shared Adobe platform. [TextPath.width](width.md).

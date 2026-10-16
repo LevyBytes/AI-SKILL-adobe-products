@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Printer", "file": "references/community-types/illustrator/printer.md", "summary": "Open when looking up Printer in Shared Adobe platform.", "keywords": ["Printer"]},
+  {"topic": "PrinterInfo references", "file": "references/community-types/illustrator/printer-info/reference-index.md", "summary": "Open when looking up PrinterInfo in Shared Adobe platform.", "keywords": ["PrinterInfo references"]},
+  {"topic": "PrinterTypeEnum", "file": "references/community-types/illustrator/printer-type-enum.md", "summary": "Open when looking up PrinterTypeEnum in Shared Adobe platform.", "keywords": ["PrinterTypeEnum"]},
+  {"topic": "PrinterPostScriptLevelEnum", "file": "references/community-types/illustrator/printer-post-script-level-enum.md", "summary": "Open when looking up PrinterPostScriptLevelEnum in Shared Adobe platform.", "keywords": ["PrinterPostScriptLevelEnum"]},
+  {"topic": "PPDFile", "file": "references/community-types/illustrator/ppd-file.md", "summary": "Open when looking up PPDFile in Shared Adobe platform.", "keywords": ["PPDFile"]},
+  {"topic": "PPDFileInfo", "file": "references/community-types/illustrator/ppd-file-info.md", "summary": "Open when looking up PPDFileInfo in Shared Adobe platform.", "keywords": ["PPDFileInfo"]},
+  {"topic": "Paper", "file": "references/community-types/illustrator/paper.md", "summary": "Open when looking up Paper in Shared Adobe platform.", "keywords": ["Paper"]},
+  {"topic": "PaperInfo", "file": "references/community-types/illustrator/paper-info.md", "summary": "Open when looking up PaperInfo in Shared Adobe platform.", "keywords": ["PaperInfo"]},
+  {"topic": "PrintJobOptions", "file": "references/community-types/illustrator/print-job-options.md", "summary": "Open when looking up PrintJobOptions in Shared Adobe platform.", "keywords": ["PrintJobOptions"]},
+  {"topic": "PrintOptions", "file": "references/community-types/illustrator/print-options.md", "summary": "Open when looking up PrintOptions in Shared Adobe platform.", "keywords": ["PrintOptions"]},
+  {"topic": "PrintPostScriptOptions", "file": "references/community-types/illustrator/print-post-script-options.md", "summary": "Open when looking up PrintPostScriptOptions in Shared Adobe platform.", "keywords": ["PrintPostScriptOptions"]},
+  {"topic": "PrintFontDownloadMode", "file": "references/community-types/illustrator/print-font-download-mode.md", "summary": "Open when looking up PrintFontDownloadMode in Shared Adobe platform.", "keywords": ["PrintFontDownloadMode"]},
+  {"topic": "PrintFontOptions", "file": "references/community-types/illustrator/print-font-options.md", "summary": "Open when looking up PrintFontOptions in Shared Adobe platform.", "keywords": ["PrintFontOptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

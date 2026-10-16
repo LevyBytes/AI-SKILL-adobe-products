@@ -1,0 +1,35 @@
+<!--
+Copyright 2018 Adobe. All rights reserved.
+This file is licensed to you under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License. You may obtain a copy
+of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under
+the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR REPRESENTATIONS
+OF ANY KIND, either express or implied. See the License for the specific language
+governing permissions and limitations under the License.
+ -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Export Example App</title>
+	<link rel="stylesheet" type="text/css" href="export-panel.css">
+</head>
+<body>
+	<h1>Export Example App</h1>
+
+	<!-- 1) A div with buttons for different export types -->
+	<div id="button-group">
+		<button id="export-original" class="btn btn-primary btn-block">Save original</button>
+		<button id="export-pdf" class="btn btn-primary btn-block">PDF</button>
+		<button id="export-jpg" class="btn btn-primary btn-block">JPG</button>
+		<button id="export-png" class="btn btn-primary btn-block">PNG</button>
+	</div>
+
+	<!-- 2) Your scripts, including CEP's CSInterface.js library -->
+	<script type="text/javascript" src="js/lib/CSInterface.js"></script>
+	<script type="text/javascript" src="export-panel.js"></script>
+</body>
+</html>

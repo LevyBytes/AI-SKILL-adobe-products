@@ -1,0 +1,79 @@
+# Acrobat — App
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up activeDocs in Acrobat. [activeDocs](active-docs.md).
+- Open when looking up addMenuItem in Acrobat. [addMenuItem](add-menu-item.md).
+- Open when looking up addSubMenu in Acrobat. [addSubMenu](add-sub-menu.md).
+- Open when looking up addToolButton in Acrobat. [addToolButton](add-tool-button.md).
+- Open when looking up alert in Acrobat. [alert](alert.md).
+- Open when looking up app.execDialog in Acrobat. [app.execDialog](exec-dialog.md).
+- Open when looking up app.execMenuItem in Acrobat. [app.execMenuItem](exec-menu-item.md).
+- Open when looking up app.openDoc in Acrobat. [app.openDoc](open-doc.md).
+- Open when looking up app.trustedFunction in Acrobat. [app.trustedFunction](trusted-function.md).
+- Open when looking up beep in Acrobat. [beep](beep.md).
+- Open when looking up beginPriv in Acrobat. [beginPriv](begin-priv.md).
+- Open when looking up browseForDoc in Acrobat. [browseForDoc](browse-for-doc.md).
+- Open when looking up calculate in Acrobat. [calculate](calculate.md).
+- Open when looking up Checkbox and radio dialog example in Acrobat. [Checkbox and radio dialog example](checkbox-radio-dialog-example.md).
+- Open when looking up clearInterval in Acrobat. [clearInterval](clear-interval.md).
+- Open when looking up clearTimeOut in Acrobat. [clearTimeOut](clear-time-out.md).
+- Open when looking up constants in Acrobat. [constants](constants.md).
+- Open when looking up Dialog element properties in Acrobat. [Dialog element properties](dialog-element-properties.md).
+- Open when looking up Dialog handlers and description in Acrobat. [Dialog handlers and description](dialog-handlers-and-description.md).
+- Open when looking up endPriv in Acrobat. [endPriv](end-priv.md).
+- Open when looking up focusRect in Acrobat. [focusRect](focus-rect.md).
+- Open when looking up formsVersion in Acrobat. [formsVersion](forms-version.md).
+- Open when looking up fromPDFConverters in Acrobat. [fromPDFConverters](from-pdf-converters.md).
+- Open when looking up fs in Acrobat. [fs](fs.md).
+- Open when looking up fullscreen in Acrobat. [fullscreen](fullscreen.md).
+- Open when looking up getNthPlugInName in Acrobat. [getNthPlugInName](get-nth-plug-in-name.md).
+- Open when looking up getPath in Acrobat. [getPath](get-path.md).
+- Open when looking up goBack in Acrobat. [goBack](go-back.md).
+- Open when looking up goForward in Acrobat. [goForward](go-forward.md).
+- Open when looking up hideMenuItem in Acrobat. [hideMenuItem](hide-menu-item.md).
+- Open when looking up hideToolbarButton in Acrobat. [hideToolbarButton](hide-toolbar-button.md).
+- Open when looking up Hierarchical dialog example in Acrobat. [Hierarchical dialog example](hierarchical-dialog-example.md).
+- Open when looking up JavaScript APIs — app in Acrobat. [JavaScript APIs — app](java-script-apis-app.md).
+- Open when looking up language in Acrobat. [language](language.md).
+- Open when looking up launchURL in Acrobat. [launchURL](launch-url.md).
+- Open when looking up List-box dialog example in Acrobat. [List-box dialog example](listbox-dialog-example.md).
+- Open when looking up listMenuItems in Acrobat. [listMenuItems](list-menu-items.md).
+- Open when looking up listToolbarButtons in Acrobat. [listToolbarButtons](list-toolbar-buttons.md).
+- Open when looking up loadPolicyFile in Acrobat. [loadPolicyFile](load-policy-file.md).
+- Open when looking up mailGetAddrs in Acrobat. [mailGetAddrs](mail-get-addrs.md).
+- Open when looking up mailMsg in Acrobat. [mailMsg](mail-msg.md).
+- Open when looking up media in Acrobat. [media](media.md).
+- Open when looking up monitors in Acrobat. [monitors](monitors.md).
+- Open when looking up newCollection in Acrobat. [newCollection](new-collection.md).
+- Open when looking up newDoc in Acrobat. [newDoc](new-doc.md).
+- Open when looking up newFDF in Acrobat. [newFDF](new-fdf.md).
+- Open when looking up numPlugIns in Acrobat. [numPlugIns](num-plug-ins.md).
+- Open when looking up openFDF in Acrobat. [openFDF](open-fdf.md).
+- Open when looking up Opening and saving with menu commands in Acrobat. [Opening and saving with menu commands](menu-open-save-examples.md).
+- Open when looking up Opening documents with app.openDoc in Acrobat. [Opening documents with app.openDoc](open-document-examples.md).
+- Open when looking up openInPlace in Acrobat. [openInPlace](open-in-place.md).
+- Open when looking up Personal-data dialog example in Acrobat. [Personal-data dialog example](personal-data-dialog-example.md).
+- Open when looking up platform in Acrobat. [platform](platform.md).
+- Open when looking up plugIns in Acrobat. [plugIns](plug-ins.md).
+- Open when looking up popUpMenu in Acrobat. [popUpMenu](pop-up-menu.md).
+- Open when looking up popUpMenuEx in Acrobat. [popUpMenuEx](pop-up-menu-ex.md).
+- Open when looking up printColorProfiles in Acrobat. [printColorProfiles](print-color-profiles.md).
+- Open when looking up printerNames in Acrobat. [printerNames](printer-names.md).
+- Open when looking up removeToolButton in Acrobat. [removeToolButton](remove-tool-button.md).
+- Open when looking up response in Acrobat. [response](response.md).
+- Open when looking up runtimeHighlight in Acrobat. [runtimeHighlight](runtime-highlight.md).
+- Open when looking up runtimeHighlightColor in Acrobat. [runtimeHighlightColor](runtime-highlight-color.md).
+- Open when looking up setInterval in Acrobat. [setInterval](set-interval.md).
+- Open when looking up setTimeOut in Acrobat. [setTimeOut](set-time-out.md).
+- Open when looking up thermometer in Acrobat. [thermometer](thermometer.md).
+- Open when looking up toolbar in Acrobat. [toolbar](toolbar.md).
+- Open when looking up toolbarHorizontal in Acrobat. [toolbarHorizontal](toolbar-horizontal.md).
+- Open when looking up toolbarVertical in Acrobat. [toolbarVertical](toolbar-vertical.md).
+- Open when looking up Trusted access to active documents in Acrobat. [Trusted access to active documents](trusted-active-documents.md).
+- Open when looking up Trusted document creation in Acrobat. [Trusted document creation](trusted-document-creation.md).
+- Open when looking up Trusted function stack boundaries in Acrobat. [Trusted function stack boundaries](trusted-function-stack-boundaries.md).
+- Open when looking up Trusted menu-command example in Acrobat. [Trusted menu-command example](trusted-menu-example.md).
+- Open when looking up trustPropagatorFunction in Acrobat. [trustPropagatorFunction](trust-propagator-function.md).
+- Open when looking up viewerType in Acrobat. [viewerType](viewer-type.md).
+- Open when looking up viewerVariation in Acrobat. [viewerVariation](viewer-variation.md).
+- Open when looking up viewerVersion in Acrobat. [viewerVersion](viewer-version.md).

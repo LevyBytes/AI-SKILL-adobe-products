@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "How OpenType SVG fonts differ from standard fonts", "file": "references/desktop/text-and-typography/characters-and-glyphs/work-with-open-type-svg-fonts/how-open-type-svg-fonts-differ-from-standard-fonts.md", "summary": "Open when looking up How OpenType SVG fonts differ from standard fonts in Photoshop.", "keywords": ["How OpenType SVG fonts differ from standard fonts"]},
+  {"topic": "When to use OpenType SVG fonts in your workflow", "file": "references/desktop/text-and-typography/characters-and-glyphs/work-with-open-type-svg-fonts/when-to-use-open-type-svg-fonts-in-your-workflow.md", "summary": "Open when looking up When to use OpenType SVG fonts in your workflow in Photoshop.", "keywords": ["When to use OpenType SVG fonts in your workflow"]},
+  {"topic": "Working with emoji fonts", "file": "references/desktop/text-and-typography/characters-and-glyphs/work-with-open-type-svg-fonts/working-with-emoji-fonts.md", "summary": "Open when looking up Working with emoji fonts in Photoshop.", "keywords": ["Working with emoji fonts"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

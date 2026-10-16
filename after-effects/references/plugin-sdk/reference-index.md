@@ -1,0 +1,94 @@
+# After Effects — C++ plugin SDK
+
+Open when selecting a task context: [Topic catalog](topics.json).
+
+- Open when working with introduction in After Effects — C++ plugin SDK. [Introduction](context-index.md).
+- Open when working with version history in After Effects — C++ plugin SDK. [Version History](context-history.md).
+- Open when working with what can i do with this sdk? in After Effects — C++ plugin SDK. [What Can I Do With This SDK?](context-intro-what-can-i-do.md).
+- Open when working with other integration possibilities in After Effects — C++ plugin SDK. [Other Integration Possibilities](context-intro-other-integration-possibilities.md).
+- Open when working with sdk audience in After Effects — C++ plugin SDK. [SDK Audience](context-intro-sdk-audience.md).
+- Open when working with what's new in After Effects — C++ plugin SDK. [What's New](context-intro-whats-new.md).
+- Open when working with how to start creating plug-ins in After Effects — C++ plugin SDK. [How To Start Creating Plug-ins](context-intro-how-to-start-creating-plug-ins.md).
+- Open when working with sample projects in After Effects — C++ plugin SDK. [Sample Projects](context-intro-sample-projects.md).
+- Open when working with debugging plug-ins in After Effects — C++ plugin SDK. [Debugging Plug-ins](context-intro-debugging-plug-ins.md).
+- Open when working with compatibility across multiple versions? in After Effects — C++ plugin SDK. [Compatibility Across Multiple Versions?](context-intro-compatibility-across-multiple-versions.md).
+- Open when working with third-party plug-in hosts? in After Effects — C++ plugin SDK. [Third-party Plug-in Hosts?](context-intro-third-party-plug-in-hosts.md).
+- Open when working with pipl resources in After Effects — C++ plugin SDK. [PiPL Resources](context-intro-pipl-resources.md).
+- Open when working with where installers should put plug-ins in After Effects — C++ plugin SDK. [Where Installers Should Put Plug-ins](context-intro-where-installers-should-put-plug-ins.md).
+- Open when working with localization in After Effects — C++ plugin SDK. [Localization](context-intro-localization.md).
+- Open when working with apple silicon support in After Effects — C++ plugin SDK. [Apple Silicon Support](context-intro-apple-silicon-support.md).
+- Open when working with windows on arm support in After Effects — C++ plugin SDK. [Windows on Arm Support](context-intro-windows-on-arm-support.md).
+- Open when working with exporting symbols in effects in After Effects — C++ plugin SDK. [Exporting Symbols in Effects](context-intro-symbol-export.md).
+- Open when working with gpu-accelerated effect build instructions in After Effects — C++ plugin SDK. [GPU-Accelerated Effect Build Instructions](context-intro-gpu-build-instructions.md).
+- Open when working with next steps in After Effects — C++ plugin SDK. [Next Steps](context-intro-next-steps.md).
+- Open when working with effect basics in After Effects — C++ plugin SDK. [Effect Basics](context-effect-basics-effect-basics.md).
+- Open when working with entry point in After Effects — C++ plugin SDK. [Entry Point](context-effect-basics-entry-point.md).
+- Open when working with command selectors in After Effects — C++ plugin SDK. [Command Selectors](context-effect-basics-command-selectors.md).
+- Open when working with pf_indata in After Effects — C++ plugin SDK. [PF_InData](context-effect-basics-pf-indata.md).
+- Open when working with pf_outdata in After Effects — C++ plugin SDK. [PF_OutData](context-effect-basics-pf-outdata.md).
+- Open when working with parameters in After Effects — C++ plugin SDK. [Parameters](context-effect-basics-parameters.md).
+- Open when working with pf_paramdef in After Effects — C++ plugin SDK. [PF_ParamDef](context-effect-basics-pf-paramdef.md).
+- Open when working with pf_effectworld / pf_layerdef in After Effects — C++ plugin SDK. [PF_EffectWorld / PF_LayerDef](context-effect-basics-pf-effectworld.md).
+- Open when working with errors in After Effects — C++ plugin SDK. [Errors](context-effect-basics-errors.md).
+- Open when working with multi-frame rendering in ae in After Effects — C++ plugin SDK. [Multi-Frame Rendering in AE](context-effect-details-multi-frame-rendering-in-ae.md).
+- Open when working with effect details in After Effects — C++ plugin SDK. [Effect Details](context-effect-details-effect-details.md).
+- Open when working with accessing the after effects function suites in After Effects — C++ plugin SDK. [Accessing the After Effects Function Suites](context-effect-details-accessing-function-suites.md).
+- Open when working with threading contracts for effect suites and aegps in After Effects — C++ plugin SDK. [Threading contracts for effect suites and AEGPs](context-threading-contracts.md).
+- Open when working with memory allocation in After Effects — C++ plugin SDK. [Memory Allocation](context-effect-details-memory-allocation.md).
+- Open when working with image buffer management functions in After Effects — C++ plugin SDK. [Image Buffer Management Functions](context-effect-details-image-buffer-management-functions.md).
+- Open when working with iteration suites in After Effects — C++ plugin SDK. [Iteration Suites](context-effect-details-iteration-suites.md).
+- Open when working with graphics utility suites in After Effects — C++ plugin SDK. [Graphics Utility Suites](context-effect-details-graphics-utility-suites.md).
+- Open when working with interaction callback functions in After Effects — C++ plugin SDK. [Interaction Callback Functions](context-effect-details-interaction-callback-functions.md).
+- Open when working with pixel aspect ratio in After Effects — C++ plugin SDK. [Pixel Aspect Ratio](context-effect-details-pixel-aspect-ratio.md).
+- Open when working with parameter supervision in After Effects — C++ plugin SDK. [Parameter Supervision](context-effect-details-parameter-supervision.md).
+- Open when working with global, sequence, & frame data in After Effects — C++ plugin SDK. [Global, Sequence, & Frame Data](context-effect-details-global-sequence-frame-data.md).
+- Open when working with arbitrary data parameters in After Effects — C++ plugin SDK. [Arbitrary Data Parameters](context-effect-details-arbitrary-data-parameters.md).
+- Open when working with useful utility functions in After Effects — C++ plugin SDK. [Useful Utility Functions](context-effect-details-useful-utility-functions.md).
+- Open when working with motion blur in After Effects — C++ plugin SDK. [Motion Blur](context-effect-details-motion-blur.md).
+- Open when working with working with paths in After Effects — C++ plugin SDK. [Working With Paths](context-effect-details-working-with-paths.md).
+- Open when working with accessing camera & light information in After Effects — C++ plugin SDK. [Accessing Camera & Light Information](context-effect-details-accessing-camera-light-information.md).
+- Open when working with color space conversion in After Effects — C++ plugin SDK. [Color Space Conversion](context-effect-details-color-space-conversion.md).
+- Open when working with changing parameter orders, the nice way in After Effects — C++ plugin SDK. [Changing Parameter Orders, the Nice Way](context-effect-details-changing-parameter-orders.md).
+- Open when improving effect rendering, cache behavior, pixel sampling, timing or test coverage in the After Effects C++ SDK. [Effect implementation: caching, pixels, timing and testing](context-effect-details-tips-tricks.md).
+- Open when implementing responsive custom effect UI, keyframe color sampling, arbitrary-data controls or pixel-depth handling in the After Effects C++ SDK. [Effect UI: custom controls, pixel depth and responsiveness](context-effect-ui-events-tips-and-tricks.md).
+- Open when working with compute cache api in After Effects — C++ plugin SDK. [Compute Cache API](context-effect-details-compute-cache-api.md).
+- Open when working with smartfx in After Effects — C++ plugin SDK. [SmartFX](context-smartfx-smartfx.md).
+- Open when working with effect ui & events in After Effects — C++ plugin SDK. [Effect UI & Events](context-effect-ui-events-effect-ui-events.md).
+- Open when working with pf_eventextra in After Effects — C++ plugin SDK. [PF_EventExtra](context-effect-ui-events-pf-eventextra.md).
+- Open when working with pf_eventunion in After Effects — C++ plugin SDK. [PF_EventUnion](context-effect-ui-events-pf-eventunion.md).
+- Open when working with custom ui & drawbot in After Effects — C++ plugin SDK. [Custom UI & Drawbot](context-effect-ui-events-custom-ui-and-drawbot.md).
+- Open when working with ui callbacks in After Effects — C++ plugin SDK. [UI Callbacks](context-effect-ui-events-ui-callbacks.md).
+- Open when working with audio in After Effects — C++ plugin SDK. [Audio](context-audio-audio.md).
+- Open when working with global outflags in After Effects — C++ plugin SDK. [Global Outflags](context-audio-global-outflags.md).
+- Open when working with audio data structures in After Effects — C++ plugin SDK. [Audio Data Structures](context-audio-audio-data-structures.md).
+- Open when working with audio-specific float slider variables in After Effects — C++ plugin SDK. [Audio-Specific Float Slider Variables](context-audio-audio-specific-float-slider-variables.md).
+- Open when working with accessing audio data in After Effects — C++ plugin SDK. [Accessing Audio Data](context-audio-accessing-audio-data.md).
+- Open when working with audio considerations in After Effects — C++ plugin SDK. [Audio Considerations](context-audio-audio-considerations.md).
+- Open when working with aegps in After Effects — C++ plugin SDK. [AEGPs](context-aegps-aegps.md).
+- Open when working with overview in After Effects — C++ plugin SDK. [Overview](context-aegps-overview.md).
+- Open when working with data types in After Effects — C++ plugin SDK. [Data Types](context-aegps-data-types.md).
+- Open when working with implementation in After Effects — C++ plugin SDK. [Implementation](context-aegps-implementation.md).
+- Open when working with aegp projects, compositions and layers in After Effects — C++ plugin SDK. [AEGP projects, compositions and layers](context-aegp-project-items.md).
+- Open when working with aegp footage, media i/o and sound in After Effects — C++ plugin SDK. [AEGP footage, media I/O and sound](context-aegp-footage-io.md).
+- Open when working with aegp streams, keyframes, effects and text in After Effects — C++ plugin SDK. [AEGP streams, keyframes, effects and text](context-aegp-properties-keyframes.md).
+- Open when working with aegp rendering, cameras and output in After Effects — C++ plugin SDK. [AEGP rendering, cameras and output](context-aegp-rendering.md).
+- Open when working with aegp registration, commands and resources in After Effects — C++ plugin SDK. [AEGP registration, commands and resources](context-aegp-host-resources.md).
+- Open when working with aegp suite tasks and usage notes in After Effects — C++ plugin SDK. [AEGP suite tasks and usage notes](context-aegp-suite-usage.md).
+- Open when working with cheating effect usage of aegp suites in After Effects — C++ plugin SDK. [Cheating Effect Usage of AEGP Suites](context-aegps-cheating-effect-usage-of-aegp-suites.md).
+- Open when working with aegp details in After Effects — C++ plugin SDK. [AEGP Details](context-aegps-aegp-details.md).
+- Open when working with artisans in After Effects — C++ plugin SDK. [Artisans](context-artisans-artisans.md).
+- Open when working with artisan data types in After Effects — C++ plugin SDK. [Artisan Data Types](context-artisans-artisan-data-types.md).
+- Open when working with aeios in After Effects — C++ plugin SDK. [AEIOs](context-aeios-aeios.md).
+- Open when working with calling sequence in After Effects — C++ plugin SDK. [Calling Sequence](context-aeios-calling-sequence.md).
+- Open when working with aeio_moduleinfo in After Effects — C++ plugin SDK. [AEIO_ModuleInfo](context-aeios-aeio-moduleinfo.md).
+- Open when working with new kids on the function block in After Effects — C++ plugin SDK. [New Kids On The Function Block](context-aeios-new-kids-on-the-function-block.md).
+- Open when working with implementation details in After Effects — C++ plugin SDK. [Implementation Details](context-aeios-implementation-details.md).
+- Open when working with premiere pro & other hosts in After Effects — C++ plugin SDK. [Premiere Pro & Other Hosts](context-ppro-ppro.md).
+- Open when working with plug-in installation in After Effects — C++ plugin SDK. [Plug-in Installation](context-ppro-plug-in-installation.md).
+- Open when working with basic host differences in After Effects — C++ plugin SDK. [Basic Host Differences](context-ppro-basic-host-differences.md).
+- Open when working with multithreading in After Effects — C++ plugin SDK. [Multithreading](context-ppro-multithreading.md).
+- Open when working with bigger differences in After Effects — C++ plugin SDK. [Bigger Differences](context-ppro-bigger-differences.md).
+- Open when working with plug-ins... reloaded in After Effects — C++ plugin SDK. [Plug-Ins... Reloaded](context-ppro-plug-ins-reloaded.md).
+- Open when working with premiere elements in After Effects — C++ plugin SDK. [Premiere Elements](context-ppro-premiere-elements.md).
+- Open when working with unsupported features in After Effects — C++ plugin SDK. [Unsupported Features](context-ppro-unsupported-features.md).
+- Open when working with other hosts in After Effects — C++ plugin SDK. [Other Hosts](context-ppro-other-hosts.md).

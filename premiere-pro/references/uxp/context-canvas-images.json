@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Image blob references", "file": "references/uxp/image-blob/reference-index.md", "summary": "Open when looking up Image blob in Premiere Pro.", "keywords": ["Image blob references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

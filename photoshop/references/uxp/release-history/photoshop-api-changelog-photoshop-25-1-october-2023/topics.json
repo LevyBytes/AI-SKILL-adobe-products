@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "UXP Plugin Action Record Again", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-25-1-october-2023/uxp-plugin-action-record-again.md", "summary": "Open when looking up UXP Plugin Action Record Again in Photoshop.", "keywords": ["UXP Plugin Action Record Again"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

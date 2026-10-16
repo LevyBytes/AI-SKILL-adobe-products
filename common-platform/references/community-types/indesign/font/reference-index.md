@@ -1,0 +1,33 @@
+# Shared Adobe platform — Font
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Font declaration in Shared Adobe platform. [Font declaration](declaration.md).
+- Open when looking up Font event listeners in Shared Adobe platform. [Font event listeners](event-listeners.md).
+- Open when looking up Font identity and parent in Shared Adobe platform. [Font identity and parent](identity-and-parent.md).
+- Open when looking up Font object resolution in Shared Adobe platform. [Font object resolution](object-resolution.md).
+- Open when looking up Font.allowEditableEmbedding in Shared Adobe platform. [Font.allowEditableEmbedding](allow-editable-embedding.md).
+- Open when looking up Font.allowOutlines in Shared Adobe platform. [Font.allowOutlines](allow-outlines.md).
+- Open when looking up Font.allowPDFEmbedding in Shared Adobe platform. [Font.allowPDFEmbedding](allow-pdf-embedding.md).
+- Open when looking up Font.allowPrinting in Shared Adobe platform. [Font.allowPrinting](allow-printing.md).
+- Open when looking up Font.checkOpenTypeFeature in Shared Adobe platform. [Font.checkOpenTypeFeature](check-open-type-feature.md).
+- Open when looking up Font.createSubsetFont in Shared Adobe platform. [Font.createSubsetFont](create-subset-font.md).
+- Open when looking up Font.designAxesName in Shared Adobe platform. [Font.designAxesName](design-axes-name.md).
+- Open when looking up Font.designAxesRange in Shared Adobe platform. [Font.designAxesRange](design-axes-range.md).
+- Open when looking up Font.designAxesValues in Shared Adobe platform. [Font.designAxesValues](design-axes-values.md).
+- Open when looking up Font.fontFamily in Shared Adobe platform. [Font.fontFamily](font-family.md).
+- Open when looking up Font.fontStyleName in Shared Adobe platform. [Font.fontStyleName](font-style-name.md).
+- Open when looking up Font.fontStyleNameNative in Shared Adobe platform. [Font.fontStyleNameNative](font-style-name-native.md).
+- Open when looking up Font.fontType in Shared Adobe platform. [Font.fontType](font-type.md).
+- Open when looking up Font.fullName in Shared Adobe platform. [Font.fullName](full-name.md).
+- Open when looking up Font.fullNameNative in Shared Adobe platform. [Font.fullNameNative](full-name-native.md).
+- Open when looking up Font.location in Shared Adobe platform. [Font.location](location.md).
+- Open when looking up Font.numDesignAxes in Shared Adobe platform. [Font.numDesignAxes](num-design-axes.md).
+- Open when looking up Font.ordering in Shared Adobe platform. [Font.ordering](ordering.md).
+- Open when looking up Font.platformName in Shared Adobe platform. [Font.platformName](platform-name.md).
+- Open when looking up Font.postscriptName in Shared Adobe platform. [Font.postscriptName](postscript-name.md).
+- Open when looking up Font.properties in Shared Adobe platform. [Font.properties](properties.md).
+- Open when looking up Font.registry in Shared Adobe platform. [Font.registry](registry.md).
+- Open when looking up Font.restrictedPrinting in Shared Adobe platform. [Font.restrictedPrinting](restricted-printing.md).
+- Open when looking up Font.status in Shared Adobe platform. [Font.status](status.md).
+- Open when looking up Font.version in Shared Adobe platform. [Font.version](version.md).
+- Open when looking up Font.writingScript in Shared Adobe platform. [Font.writingScript](writing-script.md).

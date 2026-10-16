@@ -1,0 +1,24 @@
+# InDesign — OpenTypeFeature
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ALL_SMALL_CAPS_FEATURE in InDesign. [ALL_SMALL_CAPS_FEATURE](allsmallcapsfeature.md).
+- Open when looking up CONTEXTUAL_ALTERNATES_FEATURE in InDesign. [CONTEXTUAL_ALTERNATES_FEATURE](contextualalternatesfeature.md).
+- Open when looking up DEFAULT_FIGURE_STYLE_FEATURE in InDesign. [DEFAULT_FIGURE_STYLE_FEATURE](defaultfigurestylefeature.md).
+- Open when looking up DENOMINATOR_FEATURE in InDesign. [DENOMINATOR_FEATURE](denominatorfeature.md).
+- Open when looking up DISCRETIONARY_LIGATURES_FEATURE in InDesign. [DISCRETIONARY_LIGATURES_FEATURE](discretionaryligaturesfeature.md).
+- Open when looking up FRACTIONS_FEATURE in InDesign. [FRACTIONS_FEATURE](fractionsfeature.md).
+- Open when looking up JUSTIFICATION_ALTERNATE in InDesign. [JUSTIFICATION_ALTERNATE](justificationalternate.md).
+- Open when looking up LOW in InDesign. [LOW](low.md).
+- Open when looking up NUMERATOR_FEATURE in InDesign. [NUMERATOR_FEATURE](numeratorfeature.md).
+- Open when looking up ORDINAL_FEATURE in InDesign. [ORDINAL_FEATURE](ordinalfeature.md).
+- Open when looking up OVERLAP_SWASH in InDesign. [OVERLAP_SWASH](overlapswash.md).
+- Open when looking up PROPORTIONAL_LINING_FEATURE in InDesign. [PROPORTIONAL_LINING_FEATURE](proportionalliningfeature.md).
+- Open when looking up PROPORTIONAL_OLDSTYLE_FEATURE in InDesign. [PROPORTIONAL_OLDSTYLE_FEATURE](proportionaloldstylefeature.md).
+- Open when looking up STRETCHED_ALTERNATE in InDesign. [STRETCHED_ALTERNATE](stretchedalternate.md).
+- Open when looking up STYLISTIC_ALTERNATE in InDesign. [STYLISTIC_ALTERNATE](stylisticalternate.md).
+- Open when looking up SUBSCRIPT_FEATURE in InDesign. [SUBSCRIPT_FEATURE](subscriptfeature.md).
+- Open when looking up SUPERSCRIPT_FEATURE in InDesign. [SUPERSCRIPT_FEATURE](superscriptfeature.md).
+- Open when looking up SWASH_FEATURE in InDesign. [SWASH_FEATURE](swashfeature.md).
+- Open when looking up TABULAR_LINING_FEATURE in InDesign. [TABULAR_LINING_FEATURE](tabularliningfeature.md).
+- Open when looking up TABULAR_OLDSTYLE_FEATURE in InDesign. [TABULAR_OLDSTYLE_FEATURE](tabularoldstylefeature.md).
+- Open when looking up TITLING_FEATURE in InDesign. [TITLING_FEATURE](titlingfeature.md).

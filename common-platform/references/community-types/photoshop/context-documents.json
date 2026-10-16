@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document references", "file": "references/community-types/photoshop/document/reference-index.md", "summary": "Open when looking up Document in Shared Adobe platform.", "keywords": ["Document references"]},
+  {"topic": "Documents", "file": "references/community-types/photoshop/documents.md", "summary": "Open when looking up Documents in Shared Adobe platform.", "keywords": ["Documents"]},
+  {"topic": "DocumentInfo references", "file": "references/community-types/photoshop/document-info/reference-index.md", "summary": "Open when looking up DocumentInfo in Shared Adobe platform.", "keywords": ["DocumentInfo references"]},
+  {"topic": "DocumentFill", "file": "references/community-types/photoshop/document-fill.md", "summary": "Open when looking up DocumentFill in Shared Adobe platform.", "keywords": ["DocumentFill"]},
+  {"topic": "DocumentMode", "file": "references/community-types/photoshop/document-mode.md", "summary": "Open when looking up DocumentMode in Shared Adobe platform.", "keywords": ["DocumentMode"]},
+  {"topic": "NewDocumentMode", "file": "references/community-types/photoshop/new-document-mode.md", "summary": "Open when looking up NewDocumentMode in Shared Adobe platform.", "keywords": ["NewDocumentMode"]},
+  {"topic": "CopyrightedType", "file": "references/community-types/photoshop/copyrighted-type.md", "summary": "Open when looking up CopyrightedType in Shared Adobe platform.", "keywords": ["CopyrightedType"]},
+  {"topic": "Urgency", "file": "references/community-types/photoshop/urgency.md", "summary": "Open when looking up Urgency in Shared Adobe platform.", "keywords": ["Urgency"]},
+  {"topic": "XMPMetadata", "file": "references/community-types/photoshop/xmp-metadata.md", "summary": "Open when looking up XMPMetadata in Shared Adobe platform.", "keywords": ["XMPMetadata"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Additional prompt examples", "file": "references/web/firefly-video-editor-beta/create-quick-cut/writing-effective-text-prompts-for-quick-cut/additional-prompt-examples.md", "summary": "Open when looking up Additional prompt examples in Firefly.", "keywords": ["Additional prompt examples"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

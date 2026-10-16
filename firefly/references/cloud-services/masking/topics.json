@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Inverted Mask", "file": "references/cloud-services/masking/inverted-mask.md", "summary": "Open when looking up Inverted Mask in Firefly.", "keywords": ["Inverted Mask"]},
+  {"topic": "Mask", "file": "references/cloud-services/masking/mask.md", "summary": "Open when looking up Mask in Firefly.", "keywords": ["Mask"]},
+  {"topic": "Original Image", "file": "references/cloud-services/masking/original-image.md", "summary": "Open when looking up Original Image in Firefly.", "keywords": ["Original Image"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

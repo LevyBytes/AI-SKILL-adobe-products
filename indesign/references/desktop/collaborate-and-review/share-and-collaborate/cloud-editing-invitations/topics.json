@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Invite collaborators from Creative Cloud", "file": "references/desktop/collaborate-and-review/share-and-collaborate/cloud-editing-invitations/invite-collaborators-from-creative-cloud.md", "summary": "Open when looking up Invite collaborators from Creative Cloud in InDesign.", "keywords": ["Invite collaborators from Creative Cloud"]},
+  {"topic": "Invite collaborators from InDesign", "file": "references/desktop/collaborate-and-review/share-and-collaborate/cloud-editing-invitations/invite-collaborators-from-in-design.md", "summary": "Open when looking up Invite collaborators from InDesign in InDesign.", "keywords": ["Invite collaborators from InDesign"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

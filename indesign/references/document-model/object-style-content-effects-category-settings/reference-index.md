@@ -1,0 +1,23 @@
+# InDesign — ObjectStyleContentEffectsCategorySettings
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up enableBevelEmboss in InDesign. [enableBevelEmboss](enable-bevel-emboss.md).
+- Open when looking up enableDirectionalFeather in InDesign. [enableDirectionalFeather](enable-directional-feather.md).
+- Open when looking up enableDropShadow in InDesign. [enableDropShadow](enable-drop-shadow.md).
+- Open when looking up enableFeather in InDesign. [enableFeather](enable-feather.md).
+- Open when looking up enableGradientFeather in InDesign. [enableGradientFeather](enable-gradient-feather.md).
+- Open when looking up enableInnerGlow in InDesign. [enableInnerGlow](enable-inner-glow.md).
+- Open when looking up enableInnerShadow in InDesign. [enableInnerShadow](enable-inner-shadow.md).
+- Open when looking up enableOuterGlow in InDesign. [enableOuterGlow](enable-outer-glow.md).
+- Open when looking up enableSatin in InDesign. [enableSatin](enable-satin.md).
+- Open when looking up enableTransparency in InDesign. [enableTransparency](enable-transparency.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

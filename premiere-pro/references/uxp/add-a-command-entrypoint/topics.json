@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "1. Register a new Entrypoint", "file": "references/uxp/add-a-command-entrypoint/register-a-new-entrypoint.md", "summary": "Open when looking up 1. Register a new Entrypoint in Premiere Pro.", "keywords": ["1. Register a new Entrypoint"]},
+  {"topic": "2. Associate Entrypoint and Handler", "file": "references/uxp/add-a-command-entrypoint/associate-entrypoint-and-handler.md", "summary": "Open when looking up 2. Associate Entrypoint and Handler in Premiere Pro.", "keywords": ["2. Associate Entrypoint and Handler"]},
+  {"topic": "A. Use entrypoints.setup()", "file": "references/uxp/add-a-command-entrypoint/use-entrypoints-setup.md", "summary": "Open when looking up A. Use entrypoints.setup() in Premiere Pro.", "keywords": ["A. Use entrypoints.setup()"]},
+  {"topic": "B. Use module.exports", "file": "references/uxp/add-a-command-entrypoint/use-module-exports.md", "summary": "Open when looking up B. Use module.exports in Premiere Pro.", "keywords": ["B. Use module.exports"]},
+  {"topic": "index.js", "file": "references/uxp/add-a-command-entrypoint/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
+  {"topic": "manifest.json", "file": "references/uxp/add-a-command-entrypoint/manifest-json.md", "summary": "Open when looking up manifest.json in Premiere Pro.", "keywords": ["manifest.json"]},
+  {"topic": "Summary", "file": "references/uxp/add-a-command-entrypoint/summary.md", "summary": "Open when looking up Summary in Premiere Pro.", "keywords": ["Summary"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

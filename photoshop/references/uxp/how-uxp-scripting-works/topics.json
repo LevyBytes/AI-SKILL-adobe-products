@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Events", "file": "references/uxp/how-uxp-scripting-works/events.md", "summary": "Open when looking up Events in Photoshop.", "keywords": ["Events"]},
+  {"topic": "Execution Context", "file": "references/uxp/how-uxp-scripting-works/execution-context.md", "summary": "Open when looking up Execution Context in Photoshop.", "keywords": ["Execution Context"]},
+  {"topic": "FAQ", "file": "references/uxp/how-uxp-scripting-works/faq.md", "summary": "Open when looking up FAQ in Photoshop.", "keywords": ["FAQ"]},
+  {"topic": "Global Await", "file": "references/uxp/how-uxp-scripting-works/global-await.md", "summary": "Open when looking up Global Await in Photoshop.", "keywords": ["Global Await"]},
+  {"topic": "How is it different from UXP plugin development?", "file": "references/uxp/how-uxp-scripting-works/how-is-it-different-from-uxp-plugin-development.md", "summary": "Open when looking up How is it different from UXP plugin development? in Photoshop.", "keywords": ["How is it different from UXP plugin development?"]},
+  {"topic": "How is this different from ExtendScript scripting?", "file": "references/uxp/how-uxp-scripting-works/how-is-this-different-from-extend-script-scripting.md", "summary": "Open when looking up How is this different from ExtendScript scripting? in Photoshop.", "keywords": ["How is this different from ExtendScript scripting?"]},
+  {"topic": "Permitted UXP Modules", "file": "references/uxp/how-uxp-scripting-works/permitted-uxp-modules.md", "summary": "Open when looking up Permitted UXP Modules in Photoshop.", "keywords": ["Permitted UXP Modules"]},
+  {"topic": "User Interface", "file": "references/uxp/how-uxp-scripting-works/user-interface.md", "summary": "Open when looking up User Interface in Photoshop.", "keywords": ["User Interface"]},
+  {"topic": "When are scripts useful?", "file": "references/uxp/how-uxp-scripting-works/when-are-scripts-useful.md", "summary": "Open when looking up When are scripts useful? in Photoshop.", "keywords": ["When are scripts useful?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.artboards", "file": "references/community-types/illustrator/document/artboards.md", "summary": "Open when looking up Document.artboards in Shared Adobe platform.", "keywords": ["Document.artboards"]},
+  {"topic": "Document.convertCoordinate", "file": "references/community-types/illustrator/document/convert-coordinate.md", "summary": "Open when looking up Document.convertCoordinate in Shared Adobe platform.", "keywords": ["Document.convertCoordinate"]},
+  {"topic": "Document.cropBox", "file": "references/community-types/illustrator/document/crop-box.md", "summary": "Open when looking up Document.cropBox in Shared Adobe platform.", "keywords": ["Document.cropBox"]},
+  {"topic": "Document.cropStyle", "file": "references/community-types/illustrator/document/crop-style.md", "summary": "Open when looking up Document.cropStyle in Shared Adobe platform.", "keywords": ["Document.cropStyle"]},
+  {"topic": "Document.fitArtboardToSelectedArt", "file": "references/community-types/illustrator/document/fit-artboard-to-selected-art.md", "summary": "Open when looking up Document.fitArtboardToSelectedArt in Shared Adobe platform.", "keywords": ["Document.fitArtboardToSelectedArt"]},
+  {"topic": "Document.geometricBounds", "file": "references/community-types/illustrator/document/geometric-bounds.md", "summary": "Open when looking up Document.geometricBounds in Shared Adobe platform.", "keywords": ["Document.geometricBounds"]},
+  {"topic": "Document.height", "file": "references/community-types/illustrator/document/height.md", "summary": "Open when looking up Document.height in Shared Adobe platform.", "keywords": ["Document.height"]},
+  {"topic": "Document.pageOrigin", "file": "references/community-types/illustrator/document/page-origin.md", "summary": "Open when looking up Document.pageOrigin in Shared Adobe platform.", "keywords": ["Document.pageOrigin"]},
+  {"topic": "Document.rearrangeArtboards", "file": "references/community-types/illustrator/document/rearrange-artboards.md", "summary": "Open when looking up Document.rearrangeArtboards in Shared Adobe platform.", "keywords": ["Document.rearrangeArtboards"]},
+  {"topic": "Document.rulerOrigin", "file": "references/community-types/illustrator/document/ruler-origin.md", "summary": "Open when looking up Document.rulerOrigin in Shared Adobe platform.", "keywords": ["Document.rulerOrigin"]},
+  {"topic": "Document.rulerUnits", "file": "references/community-types/illustrator/document/ruler-units.md", "summary": "Open when looking up Document.rulerUnits in Shared Adobe platform.", "keywords": ["Document.rulerUnits"]},
+  {"topic": "Document.visibleBounds", "file": "references/community-types/illustrator/document/visible-bounds.md", "summary": "Open when looking up Document.visibleBounds in Shared Adobe platform.", "keywords": ["Document.visibleBounds"]},
+  {"topic": "Document.width", "file": "references/community-types/illustrator/document/width.md", "summary": "Open when looking up Document.width in Shared Adobe platform.", "keywords": ["Document.width"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

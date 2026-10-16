@@ -1,0 +1,26 @@
+# After Effects — AEGP_RenderOptionsSuite4
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_Dispose in After Effects. [AEGP_Dispose](aegp-dispose.md).
+- Open when looking up AEGP_Duplicate in After Effects. [AEGP_Duplicate](aegp-duplicate.md).
+- Open when looking up AEGP_GetChannelOrder in After Effects. [AEGP_GetChannelOrder](aegp-get-channel-order.md).
+- Open when looking up AEGP_GetDownsampleFactor in After Effects. [AEGP_GetDownsampleFactor](aegp-get-downsample-factor.md).
+- Open when looking up AEGP_GetFieldRender in After Effects. [AEGP_GetFieldRender](aegp-get-field-render.md).
+- Open when looking up AEGP_GetMatteMode in After Effects. [AEGP_GetMatteMode](aegp-get-matte-mode.md).
+- Open when looking up AEGP_GetRegionOfInterest in After Effects. [AEGP_GetRegionOfInterest](aegp-get-region-of-interest.md).
+- Open when looking up AEGP_GetRenderGuideLayers in After Effects. [AEGP_GetRenderGuideLayers](aegp-get-render-guide-layers.md).
+- Open when looking up AEGP_GetRenderQuality in After Effects. [AEGP_GetRenderQuality](aegp-get-render-quality.md).
+- Open when looking up AEGP_GetTime in After Effects. [AEGP_GetTime](aegp-get-time.md).
+- Open when looking up AEGP_GetTimeStep in After Effects. [AEGP_GetTimeStep](aegp-get-time-step.md).
+- Open when looking up AEGP_GetWorldType in After Effects. [AEGP_GetWorldType](aegp-get-world-type.md).
+- Open when looking up AEGP_NewFromItem in After Effects. [AEGP_NewFromItem](aegp-new-from-item.md).
+- Open when looking up AEGP_SetChannelOrder in After Effects. [AEGP_SetChannelOrder](aegp-set-channel-order.md).
+- Open when looking up AEGP_SetDownsampleFactor in After Effects. [AEGP_SetDownsampleFactor](aegp-set-downsample-factor.md).
+- Open when looking up AEGP_SetFieldRender in After Effects. [AEGP_SetFieldRender](aegp-set-field-render.md).
+- Open when looking up AEGP_SetMatteMode in After Effects. [AEGP_SetMatteMode](aegp-set-matte-mode.md).
+- Open when looking up AEGP_SetRegionOfInterest in After Effects. [AEGP_SetRegionOfInterest](aegp-set-region-of-interest.md).
+- Open when looking up AEGP_SetRenderGuideLayers in After Effects. [AEGP_SetRenderGuideLayers](aegp-set-render-guide-layers.md).
+- Open when looking up AEGP_SetRenderQuality in After Effects. [AEGP_SetRenderQuality](aegp-set-render-quality.md).
+- Open when looking up AEGP_SetTime in After Effects. [AEGP_SetTime](aegp-set-time.md).
+- Open when looking up AEGP_SetTimeStep in After Effects. [AEGP_SetTimeStep](aegp-set-time-step.md).
+- Open when looking up AEGP_SetWorldType in After Effects. [AEGP_SetWorldType](aegp-set-world-type.md).

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Neural Filter categories", "file": "references/desktop/effects-and-filters/neural-filters/overview-of-neural-filters/neural-filter-categories.md", "summary": "Open when looking up Neural Filter categories in Photoshop.", "keywords": ["Neural Filter categories"]},
+  {"topic": "What are Neural Filters?", "file": "references/desktop/effects-and-filters/neural-filters/overview-of-neural-filters/what-are-neural-filters.md", "summary": "Open when looking up What are Neural Filters? in Photoshop.", "keywords": ["What are Neural Filters?"]},
+  {"topic": "Why use Neural Filters", "file": "references/desktop/effects-and-filters/neural-filters/overview-of-neural-filters/why-use-neural-filters.md", "summary": "Open when looking up Why use Neural Filters in Photoshop.", "keywords": ["Why use Neural Filters"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Choose a separation workflow", "file": "references/desktop/print/color-output-and-separations/create-color-separations/choose-a-separation-workflow.md", "summary": "Open when looking up Choose a separation workflow in InDesign.", "keywords": ["Choose a separation workflow"]},
+  {"topic": "Configure separation options", "file": "references/desktop/print/color-output-and-separations/create-color-separations/configure-separation-options.md", "summary": "Open when looking up Configure separation options in InDesign.", "keywords": ["Configure separation options"]},
+  {"topic": "Generate separation output", "file": "references/desktop/print/color-output-and-separations/create-color-separations/generate-separation-output.md", "summary": "Open when looking up Generate separation output in InDesign.", "keywords": ["Generate separation output"]},
+  {"topic": "Prepare your document for separation", "file": "references/desktop/print/color-output-and-separations/create-color-separations/prepare-your-document-for-separation.md", "summary": "Open when looking up Prepare your document for separation in InDesign.", "keywords": ["Prepare your document for separation"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

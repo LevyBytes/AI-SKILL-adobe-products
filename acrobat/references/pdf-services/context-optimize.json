@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Compress Pdf", "file": "references/pdf-services/compress-pdf.md", "summary": "Open when looking up Compress Pdf in Acrobat.", "keywords": ["Compress Pdf"]},
+  {"topic": "Compress PDFs with Compression Level", "file": "references/pdf-services/compress-pdfs-with-compression-level.md", "summary": "Open when looking up Compress PDFs with Compression Level in Acrobat.", "keywords": ["Compress PDFs with Compression Level"]},
+  {"topic": "Compress PDFs with Compression Level references", "file": "references/pdf-services/compress-pdfs-with-compression-level/reference-index.md", "summary": "Open when looking up Compress PDFs with Compression Level in Acrobat.", "keywords": ["Compress PDFs with Compression Level references"]},
+  {"topic": "Linearize Pdf", "file": "references/pdf-services/linearize-pdf.md", "summary": "Open when looking up Linearize Pdf in Acrobat.", "keywords": ["Linearize Pdf"]},
+  {"topic": "Linearize Pdf references", "file": "references/pdf-services/linearize-pdf/reference-index.md", "summary": "Open when looking up Linearize Pdf in Acrobat.", "keywords": ["Linearize Pdf references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

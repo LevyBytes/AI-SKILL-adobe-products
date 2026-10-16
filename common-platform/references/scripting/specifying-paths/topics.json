@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Absolute and relative path names", "file": "references/scripting/specifying-paths/absolute-and-relative-path-names.md", "summary": "Open when looking up Absolute and relative path names in Shared Adobe platform.", "keywords": ["Absolute and relative path names"]},
+  {"topic": "Aliases", "file": "references/scripting/specifying-paths/aliases.md", "summary": "Open when looking up Aliases in Shared Adobe platform.", "keywords": ["Aliases"]},
+  {"topic": "Character interpretation in paths", "file": "references/scripting/specifying-paths/character-interpretation-in-paths.md", "summary": "Open when looking up Character interpretation in paths in Shared Adobe platform.", "keywords": ["Character interpretation in paths"]},
+  {"topic": "Mac OS volumes", "file": "references/scripting/specifying-paths/mac-os-volumes.md", "summary": "Open when looking up Mac OS volumes in Shared Adobe platform.", "keywords": ["Mac OS volumes"]},
+  {"topic": "Portability issues", "file": "references/scripting/specifying-paths/portability-issues.md", "summary": "Open when looking up Portability issues in Shared Adobe platform.", "keywords": ["Portability issues"]},
+  {"topic": "The home directory", "file": "references/scripting/specifying-paths/the-home-directory.md", "summary": "Open when looking up The home directory in Shared Adobe platform.", "keywords": ["The home directory"]},
+  {"topic": "Using File and Folder objects — Specifying paths", "file": "references/scripting/specifying-paths/using-file-and-folder-objects-specifying-paths.md", "summary": "Open when looking up Using File and Folder objects — Specifying paths in Shared Adobe platform.", "keywords": ["Using File and Folder objects — Specifying paths"]},
+  {"topic": "Volume and drive names", "file": "references/scripting/specifying-paths/volume-and-drive-names.md", "summary": "Open when looking up Volume and drive names in Shared Adobe platform.", "keywords": ["Volume and drive names"]},
+  {"topic": "Windows drives", "file": "references/scripting/specifying-paths/windows-drives.md", "summary": "Open when looking up Windows drives in Shared Adobe platform.", "keywords": ["Windows drives"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

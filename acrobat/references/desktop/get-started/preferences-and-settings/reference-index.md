@@ -1,0 +1,21 @@
+# Acrobat — Preferences and settings
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Acrobat notifications in Acrobat. [Acrobat notifications](acrobat-notifications.md).
+- Open when looking up Acrobat notifications in Acrobat. [Acrobat notifications references](acrobat-notifications/reference-index.md).
+- Open when looking up Change Acrobat language in Acrobat. [Change Acrobat language](change-acrobat-language.md).
+- Open when looking up Change Acrobat language in Acrobat. [Change Acrobat language references](change-acrobat-language/reference-index.md).
+- Open when looking up Change display themes in Acrobat. [Change display themes](change-display-themes.md).
+- Open when looking up Change display themes in Acrobat. [Change display themes references](change-display-themes/reference-index.md).
+- Open when looking up Customize Quick action toolbar in Acrobat. [Customize Quick action toolbar](customize-quick-action-toolbar.md).
+- Open when looking up Customize side panels in Acrobat. [Customize side panels](customize-side-panels.md).
+- Open when looking up Keyboard shortcuts in Acrobat. [Keyboard shortcuts](keyboard-shortcuts.md).
+- Open when looking up Keyboard shortcuts in Acrobat. [Keyboard shortcuts references](keyboard-shortcuts/reference-index.md).
+- Open when looking up Set Acrobat as the default PDF program in Acrobat. [Set Acrobat as the default PDF program](set-acrobat-as-the-default-pdf-program.md).
+- Open when looking up Set Acrobat as the default PDF program in Acrobat. [Set Acrobat as the default PDF program references](set-acrobat-as-the-default-pdf-program/reference-index.md).
+- Open when looking up Set Acrobat update preferences in Acrobat. [Set Acrobat update preferences](set-acrobat-update-preferences.md).
+- Open when looking up Set Acrobat update preferences in Acrobat. [Set Acrobat update preferences references](set-acrobat-update-preferences/reference-index.md).
+- Open when looking up Turn the new Acrobat on or off in Acrobat. [Turn the new Acrobat on or off](turn-the-new-acrobat-on-or-off.md).
+- Open when looking up Turn the new Acrobat on or off in Acrobat. [Turn the new Acrobat on or off references](turn-the-new-acrobat-on-or-off/reference-index.md).
+- Open when looking up Viewing Pdfs Viewing Preferences in Acrobat. [Viewing Pdfs Viewing Preferences](viewing-pdfs-viewing-preferences.md).
+- Open when looking up Viewing Pdfs Viewing Preferences in Acrobat. [Viewing Pdfs Viewing Preferences references](viewing-pdfs-viewing-preferences/reference-index.md).

@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/preflight-book-option/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "eventListeners", "file": "references/document-model/preflight-book-option/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/preflight-book-option/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "references/document-model/preflight-book-option/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "isValid", "file": "references/document-model/preflight-book-option/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "parent", "file": "references/document-model/preflight-book-option/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "preflightIncludeNonprintingObjects", "file": "references/document-model/preflight-book-option/preflight-include-nonprinting-objects.md", "summary": "Open when looking up preflightIncludeNonprintingObjects in InDesign.", "keywords": ["preflightIncludeNonprintingObjects"]},
+  {"topic": "preflightIncludeObjectsOnPasteboard", "file": "references/document-model/preflight-book-option/preflight-include-objects-on-pasteboard.md", "summary": "Open when looking up preflightIncludeObjectsOnPasteboard in InDesign.", "keywords": ["preflightIncludeObjectsOnPasteboard"]},
+  {"topic": "preflightProfilePolicy", "file": "references/document-model/preflight-book-option/preflight-profile-policy.md", "summary": "Open when looking up preflightProfilePolicy in InDesign.", "keywords": ["preflightProfilePolicy"]},
+  {"topic": "preflightScope", "file": "references/document-model/preflight-book-option/preflight-scope.md", "summary": "Open when looking up preflightScope in InDesign.", "keywords": ["preflightScope"]},
+  {"topic": "preflightWhichLayers", "file": "references/document-model/preflight-book-option/preflight-which-layers.md", "summary": "Open when looking up preflightWhichLayers in InDesign.", "keywords": ["preflightWhichLayers"]},
+  {"topic": "preflightWorkingProfile", "file": "references/document-model/preflight-book-option/preflight-working-profile.md", "summary": "Open when looking up preflightWorkingProfile in InDesign.", "keywords": ["preflightWorkingProfile"]},
+  {"topic": "properties", "file": "references/document-model/preflight-book-option/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "references/document-model/preflight-book-option/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "references/document-model/preflight-book-option/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/preflight-book-option/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

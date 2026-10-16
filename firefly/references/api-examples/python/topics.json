@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "def generate_images_with_custom_model", "file": "references/api-examples/python/generate_custom_model_images.py", "summary": "Open when looking up def generate_images_with_custom_model in Firefly.", "keywords": ["def generate_images_with_custom_model"]},
+  {"topic": "def list_custom_models", "file": "references/api-examples/python/list_custom_models.py", "summary": "Open when looking up def list_custom_models in Firefly.", "keywords": ["def list_custom_models"]},
+  {"topic": "def retrieve_access_token", "file": "references/api-examples/python/retrieve_custom_model_token.py", "summary": "Open when looking up def retrieve_access_token in Firefly.", "keywords": ["def retrieve_access_token"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

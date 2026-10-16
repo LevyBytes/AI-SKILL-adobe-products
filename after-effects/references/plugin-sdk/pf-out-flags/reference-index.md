@@ -1,0 +1,36 @@
+# After Effects — Pf out flags
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PF_OutData — PF_OutFlags in After Effects. [PF_OutData — PF_OutFlags](pf-out-data-pf-out-flags.md).
+- Open when looking up PF_OutFlag_AUDIO_EFFECT_ONLY in After Effects. [PF_OutFlag_AUDIO_EFFECT_ONLY](pf-out-flag-audioeffectonly.md).
+- Open when looking up PF_OutFlag_AUDIO_EFFECT_TOO in After Effects. [PF_OutFlag_AUDIO_EFFECT_TOO](pf-out-flag-audioeffecttoo.md).
+- Open when looking up PF_OutFlag_AUDIO_FLOAT_ONLY in After Effects. [PF_OutFlag_AUDIO_FLOAT_ONLY](pf-out-flag-audiofloatonly.md).
+- Open when looking up PF_OutFlag_AUDIO_IIR in After Effects. [PF_OutFlag_AUDIO_IIR](pf-out-flag-audioiir.md).
+- Open when looking up PF_OutFlag_CUSTOM_UI in After Effects. [PF_OutFlag_CUSTOM_UI](pf-out-flag-customui.md).
+- Open when looking up PF_OutFlag_DEEP_COLOR_AWARE in After Effects. [PF_OutFlag_DEEP_COLOR_AWARE](pf-out-flag-deepcoloraware.md).
+- Open when looking up PF_OutFlag_DISPLAY_ERROR_MESSAGE in After Effects. [PF_OutFlag_DISPLAY_ERROR_MESSAGE](pf-out-flag-displayerrormessage.md).
+- Open when looking up PF_OutFlag_FORCE_RERENDER in After Effects. [PF_OutFlag_FORCE_RERENDER](pf-out-flag-forcererender.md).
+- Open when looking up PF_OutFlag_I_AM_OBSOLETE in After Effects. [PF_OutFlag_I_AM_OBSOLETE](pf-out-flag-iamobsolete.md).
+- Open when looking up PF_OutFlag_I_DO_DIALOG in After Effects. [PF_OutFlag_I_DO_DIALOG](pf-out-flag-idodialog.md).
+- Open when looking up PF_OutFlag_I_EXPAND_BUFFER in After Effects. [PF_OutFlag_I_EXPAND_BUFFER](pf-out-flag-iexpandbuffer.md).
+- Open when looking up PF_OutFlag_I_HAVE_EXTERNAL_DEPENDENCIES in After Effects. [PF_OutFlag_I_HAVE_EXTERNAL_DEPENDENCIES](pf-out-flag-ihaveexternaldependencies.md).
+- Open when looking up PF_OutFlag_I_SHRINK_BUFFER in After Effects. [PF_OutFlag_I_SHRINK_BUFFER](pf-out-flag-ishrinkbuffer.md).
+- Open when looking up PF_OutFlag_I_SYNTHESIZE_AUDIO in After Effects. [PF_OutFlag_I_SYNTHESIZE_AUDIO](pf-out-flag-isynthesizeaudio.md).
+- Open when looking up PF_OutFlag_I_USE_AUDIO in After Effects. [PF_OutFlag_I_USE_AUDIO](pf-out-flag-iuseaudio.md).
+- Open when looking up PF_OutFlag_I_USE_SHUTTER_ANGLE in After Effects. [PF_OutFlag_I_USE_SHUTTER_ANGLE](pf-out-flag-iuseshutterangle.md).
+- Open when looking up PF_OutFlag_I_WRITE_INPUT_BUFFER in After Effects. [PF_OutFlag_I_WRITE_INPUT_BUFFER](pf-out-flag-iwriteinputbuffer.md).
+- Open when looking up PF_OutFlag_KEEP_RESOURCE_OPEN in After Effects. [PF_OutFlag_KEEP_RESOURCE_OPEN](pf-out-flag-keepresourceopen.md).
+- Open when looking up PF_OutFlag_NON_PARAM_VARY in After Effects. [PF_OutFlag_NON_PARAM_VARY](pf-out-flag-nonparamvary.md).
+- Open when looking up PF_OutFlag_NOP_RENDER in After Effects. [PF_OutFlag_NOP_RENDER](pf-out-flag-noprender.md).
+- Open when looking up PF_OutFlag_PiPL_OVERRIDES_OUTDATA_OUTFLAGS in After Effects. [PF_OutFlag_PiPL_OVERRIDES_OUTDATA_OUTFLAGS](pf-out-flag-pi-ploverridesoutdataoutflags.md).
+- Open when looking up PF_OutFlag_PIX_INDEPENDENT in After Effects. [PF_OutFlag_PIX_INDEPENDENT](pf-out-flag-pixindependent.md).
+- Open when looking up PF_OutFlag_REFRESH_UI in After Effects. [PF_OutFlag_REFRESH_UI](pf-out-flag-refreshui.md).
+- Open when looking up PF_OutFlag_RESERVED5 in After Effects. [PF_OutFlag_RESERVED5](pf-out-flag-reserved5.md).
+- Open when looking up PF_OutFlag_RESERVED6 in After Effects. [PF_OutFlag_RESERVED6](pf-out-flag-reserved6.md).
+- Open when looking up PF_OutFlag_SEND_DO_DIALOG in After Effects. [PF_OutFlag_SEND_DO_DIALOG](pf-out-flag-senddodialog.md).
+- Open when looking up PF_OutFlag_SEND_UPDATE_PARAMS_UI in After Effects. [PF_OutFlag_SEND_UPDATE_PARAMS_UI](pf-out-flag-sendupdateparamsui.md).
+- Open when looking up PF_OutFlag_SEQUENCE_DATA_NEEDS_FLATTENING in After Effects. [PF_OutFlag_SEQUENCE_DATA_NEEDS_FLATTENING](pf-out-flag-sequencedataneedsflattening.md).
+- Open when looking up PF_OutFlag_SQUARE_PIX_ONLY in After Effects. [PF_OutFlag_SQUARE_PIX_ONLY](pf-out-flag-squarepixonly.md).
+- Open when looking up PF_OutFlag_USE_OUTPUT_EXTENT in After Effects. [PF_OutFlag_USE_OUTPUT_EXTENT](pf-out-flag-useoutputextent.md).
+- Open when looking up PF_OutFlag_WIDE_TIME_INPUT in After Effects. [PF_OutFlag_WIDE_TIME_INPUT](pf-out-flag-widetimeinput.md).
+- Open when looking up PF_OutFlag_WORKS_IN_PLACE in After Effects. [PF_OutFlag_WORKS_IN_PLACE](pf-out-flag-worksinplace.md).

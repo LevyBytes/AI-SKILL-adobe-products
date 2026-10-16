@@ -1,0 +1,35 @@
+# Photoshop — Common migration issues and solutions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Issue: Embedded storage for images in Photoshop. [Issue: Embedded storage for images](issue-embedded-storage-for-images.md).
+- Open when looking up Issue: Incorrect input structure in Photoshop. [Issue: Incorrect input structure](issue-incorrect-input-structure.md).
+- Open when looking up Issue: Incorrect placement syntax in Photoshop. [Issue: Incorrect placement syntax](issue-incorrect-placement-syntax.md).
+- Open when looking up Issue: Inline XMP string not supported in V2 in Photoshop. [Issue: Inline XMP string not supported in V2](issue-inline-xmp-string-not-supported-in-v2.md).
+- Open when looking up Issue: Invalid hosted storage period in Photoshop. [Issue: Invalid hosted storage period](issue-invalid-hosted-storage-period.md).
+- Open when looking up Issue: Invalid JPEG quality value (artboard outputs) in Photoshop. [Issue: Invalid JPEG quality value (artboard outputs)](issue-invalid-jpeg-quality-value-artboard-outputs.md).
+- Open when looking up Issue: Invalid quality values in Photoshop. [Issue: Invalid quality values](issue-invalid-quality-values.md).
+- Open when looking up Issue: Looking for manifest in initial response in Photoshop. [Issue: Looking for manifest in initial response](issue-looking-for-manifest-in-initial-response.md).
+- Open when looking up Issue: Missing contentType in Photoshop. [Issue: Missing contentType](issue-missing-content-type.md).
+- Open when looking up Issue: Missing mask digest in Photoshop. [Issue: Missing mask digest](issue-missing-mask-digest.md).
+- Open when looking up Issue: Missing operation type in Photoshop. [Issue: Missing operation type](issue-missing-operation-type.md).
+- Open when looking up Issue: Missing outputs array in Photoshop. [Issue: Missing outputs array](issue-missing-outputs-array.md).
+- Open when looking up Issue: Missing required source in Photoshop. [Issue: Missing required source](issue-missing-required-source.md).
+- Open when looking up Issue: Missing storage type for Azure/Dropbox in Photoshop. [Issue: Missing storage type for Azure/Dropbox](issue-missing-storage-type-for-azure-dropbox.md).
+- Open when looking up Issue: Missing type field on layer in edits.layers[] in Photoshop. [Issue: Missing type field on layer in edits.layers](issue-missing-type-field-on-layer-in-edits-layers.md).
+- Open when looking up Issue: Not handling all status values in Photoshop. [Issue: Not handling all status values](issue-not-handling-all-status-values.md).
+- Open when looking up Issue: Not handling error details array in Photoshop. [Issue: Not handling error details array](issue-not-handling-error-details-array.md).
+- Open when looking up Issue: Orientation at wrong nesting level in Photoshop. [Issue: Orientation at wrong nesting level](issue-orientation-at-wrong-nesting-level.md).
+- Open when looking up Issue: storageType confusion in Photoshop. [Issue: storageType confusion](issue-storage-type-confusion.md).
+- Open when looking up Issue: String values for numeric fields (strict type coercion) in Photoshop. [Issue: String values for numeric fields (strict type coercion)](issue-string-values-for-numeric-fields-strict-type-coercion.md).
+- Open when looking up Issue: Too many images in Photoshop. [Issue: Too many images](issue-too-many-images.md).
+- Open when looking up Issue: Too many outputs in Photoshop. [Issue: Too many outputs](issue-too-many-outputs.md).
+- Open when looking up Issue: Unencoded characters in source/destination URLs in Photoshop. [Issue: Unencoded characters in source/destination URLs](issue-unencoded-characters-in-source-destination-urls.md).
+- Open when looking up Issue: Using numeric orientation values in Photoshop. [Issue: Using numeric orientation values](issue-using-numeric-orientation-values.md).
+- Open when looking up Issue: Using V1 input structure in Photoshop. [Issue: Using V1 input structure](issue-using-v1-input-structure.md).
+- Open when looking up Issue: Using V1 storage parameter in Photoshop. [Issue: Using V1 storage parameter](issue-using-v1-storage-parameter.md).
+- Open when looking up Issue: V1 mask structure not working in Photoshop. [Issue: V1 mask structure not working](issue-v1-mask-structure-not-working.md).
+- Open when looking up Issue: Wrong action structure in Photoshop. [Issue: Wrong action structure](issue-wrong-action-structure.md).
+- Open when looking up Issue: Wrong ActionJSON format in Photoshop. [Issue: Wrong ActionJSON format](issue-wrong-action-json-format.md).
+- Open when looking up Issue: Wrong layer type name in Photoshop. [Issue: Wrong layer type name](issue-wrong-layer-type-name.md).
+- Open when looking up Issue: Wrong media type property in Photoshop. [Issue: Wrong media type property](issue-wrong-media-type-property.md).
+- Open when looking up Issue: Wrong parameter names in Photoshop. [Issue: Wrong parameter names](issue-wrong-parameter-names.md).

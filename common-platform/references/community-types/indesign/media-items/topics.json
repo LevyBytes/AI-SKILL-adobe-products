@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "MediaItems collection iteration", "file": "references/community-types/indesign/media-items/collection-iteration.md", "summary": "Open when looking up MediaItems collection iteration in Shared Adobe platform.", "keywords": ["MediaItems collection iteration"]},
+  {"topic": "MediaItems declaration", "file": "references/community-types/indesign/media-items/declaration.md", "summary": "Open when looking up MediaItems declaration in Shared Adobe platform.", "keywords": ["MediaItems declaration"]},
+  {"topic": "MediaItems named and indexed items", "file": "references/community-types/indesign/media-items/named-and-indexed-items.md", "summary": "Open when looking up MediaItems named and indexed items in Shared Adobe platform.", "keywords": ["MediaItems named and indexed items"]},
+  {"topic": "MediaItems.count", "file": "references/community-types/indesign/media-items/count.md", "summary": "Open when looking up MediaItems.count in Shared Adobe platform.", "keywords": ["MediaItems.count"]},
+  {"topic": "MediaItems.IndexSignature", "file": "references/community-types/indesign/media-items/index-signature.md", "summary": "Open when looking up MediaItems.IndexSignature in Shared Adobe platform.", "keywords": ["MediaItems.IndexSignature"]},
+  {"topic": "MediaItems.itemByRange", "file": "references/community-types/indesign/media-items/item-by-range.md", "summary": "Open when looking up MediaItems.itemByRange in Shared Adobe platform.", "keywords": ["MediaItems.itemByRange"]},
+  {"topic": "MediaItems.length", "file": "references/community-types/indesign/media-items/length.md", "summary": "Open when looking up MediaItems.length in Shared Adobe platform.", "keywords": ["MediaItems.length"]},
+  {"topic": "MediaItems.toSource", "file": "references/community-types/indesign/media-items/to-source.md", "summary": "Open when looking up MediaItems.toSource in Shared Adobe platform.", "keywords": ["MediaItems.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

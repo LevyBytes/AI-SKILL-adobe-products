@@ -1,0 +1,33 @@
+# InDesign — ColorSetting
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up accurateLABSpots in InDesign. [accurateLABSpots](accurate-lab-spots.md).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up cmsSettings in InDesign. [cmsSettings](cms-settings.md).
+- Open when looking up cmsSettingsList in InDesign. [cmsSettingsList](cms-settings-list.md).
+- Open when looking up cmsSettingsPath in InDesign. [cmsSettingsPath](cms-settings-path.md).
+- Open when looking up cmykPolicy in InDesign. [cmykPolicy](cmyk-policy.md).
+- Open when looking up enableColorManagement in InDesign. [enableColorManagement](enable-color-management.md).
+- Open when looking up engine in InDesign. [engine](engine.md).
+- Open when looking up engineList in InDesign. [engineList](engine-list.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up idealizedBlackToExport in InDesign. [idealizedBlackToExport](idealized-black-to-export.md).
+- Open when looking up idealizedBlackToScreen in InDesign. [idealizedBlackToScreen](idealized-black-to-screen.md).
+- Open when looking up intent in InDesign. [intent](intent.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up mismatchAskWhenOpening in InDesign. [mismatchAskWhenOpening](mismatch-ask-when-opening.md).
+- Open when looking up mismatchAskWhenPasting in InDesign. [mismatchAskWhenPasting](mismatch-ask-when-pasting.md).
+- Open when looking up missingAskWhenOpening in InDesign. [missingAskWhenOpening](missing-ask-when-opening.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up rgbPolicy in InDesign. [rgbPolicy](rgb-policy.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up useBPC in InDesign. [useBPC](use-bpc.md).
+- Open when looking up workingSpaceCMYK in InDesign. [workingSpaceCMYK](working-space-cmyk.md).
+- Open when looking up workingSpaceCMYKList in InDesign. [workingSpaceCMYKList](working-space-cmyk-list.md).
+- Open when looking up workingSpaceRGB in InDesign. [workingSpaceRGB](working-space-rgb.md).
+- Open when looking up workingSpaceRGBList in InDesign. [workingSpaceRGBList](working-space-rgb-list.md).

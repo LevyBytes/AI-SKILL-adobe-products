@@ -1,0 +1,25 @@
+# Photoshop — Clean and restore images
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Auto Erase with the Pencil tool in Photoshop. [Auto Erase with the Pencil tool](auto-erase-with-the-pencil-tool.md).
+- Open when looking up Change pixels to transparent with the Background Eraser tool in Photoshop. [Change pixels to transparent with the Background Eraser tool](change-pixels-to-transparent-with-the-background-eraser-tool.md).
+- Open when looking up Create 360-degree panoramas in Photoshop. [Create 360-degree panoramas](create-360-degree-panoramas.md).
+- Open when looking up Create panoramic images with Photomerge in Photoshop. [Create panoramic images with Photomerge](create-panoramic-images-with-photomerge.md).
+- Open when looking up Create smoother brush strokes using stroke smoothing in Photoshop. [Create smoother brush strokes using stroke smoothing](create-smoother-brush-strokes-using-stroke-smoothing.md).
+- Open when looking up Create smoother brush strokes using stroke smoothing in Photoshop. [Create smoother brush strokes using stroke smoothing references](create-smoother-brush-strokes-using-stroke-smoothing/reference-index.md).
+- Open when looking up Define an image as a preset pattern in Photoshop. [Define an image as a preset pattern](define-an-image-as-a-preset-pattern.md).
+- Open when looking up Define planes to adjust perspective in Photoshop. [Define planes to adjust perspective](define-planes-to-adjust-perspective.md).
+- Open when looking up Edit different perspectives in the same image in Photoshop. [Edit different perspectives in the same image](edit-different-perspectives-in-the-same-image.md).
+- Open when looking up Edit different perspectives in the same image in Photoshop. [Edit different perspectives in the same image references](multiple-perspectives/reference-index.md).
+- Open when looking up Enhance image quality with Generative Upscale in Photoshop. [Enhance image quality with Generative Upscale](enhance-image-quality-with-generative-upscale.md).
+- Open when looking up Erase parts of an image with the Eraser tool in Photoshop. [Erase parts of an image with the Eraser tool](erase-parts-of-an-image-with-the-eraser-tool.md).
+- Open when looking up Get started with Photomerge in Photoshop. [Get started with Photomerge](get-started-with-photomerge.md).
+- Open when looking up Get started with Photomerge in Photoshop. [Get started with Photomerge references](get-started-with-photomerge/reference-index.md).
+- Open when looking up Keyboard shortcuts to adjust perspective in Photoshop. [Keyboard shortcuts to adjust perspective](keyboard-shortcuts-to-adjust-perspective.md).
+- Open when looking up Manipulate the planes to adjust perspective in Photoshop. [Manipulate the planes to adjust perspective](manipulate-the-planes-to-adjust-perspective.md).
+- Open when looking up Remove imperfections with the Spot Healing Brush in Photoshop. [Remove imperfections with the Spot Healing Brush](remove-imperfections-with-the-spot-healing-brush.md).
+- Open when looking up Remove red eye in flash photos in Photoshop. [Remove red eye in flash photos](remove-red-eye-in-flash-photos.md).
+- Open when looking up Remove reflections in Photoshop. [Remove reflections](remove-reflections.md).
+- Open when looking up Remove similar pixels with the Magic Eraser tool in Photoshop. [Remove similar pixels with the Magic Eraser tool](remove-similar-pixels-with-the-magic-eraser-tool.md).
+- Open when looking up Repair an area with the Patch tool in Photoshop. [Repair an area with the Patch tool](repair-an-area-with-the-patch-tool.md).
+- Open when looking up Retouch a large area with the Healing Brush tool in Photoshop. [Retouch a large area with the Healing Brush tool](retouch-a-large-area-with-the-healing-brush-tool.md).

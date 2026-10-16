@@ -1,0 +1,7 @@
+# Collab
+
+
+**Methods:**
+
+- addStateModel
+- removeStateModel

@@ -1,0 +1,24 @@
+# After Effects — Work with motion graphics templates
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add comments in the Essential Graphics panel in After Effects. [Add comments in the Essential Graphics panel](add-comments-in-the-essential-graphics-panel.md).
+- Open when looking up Add controls in the Essential Graphics panel in After Effects. [Add controls in the Essential Graphics panel](add-controls-in-the-essential-graphics-panel.md).
+- Open when looking up Add font controls in the Essential Properties panel in After Effects. [Add font controls in the Essential Properties panel](add-font-controls-in-the-essential-properties-panel.md).
+- Open when looking up Create groups of controls in After Effects. [Create groups of controls](create-groups-of-controls.md).
+- Open when looking up Creating Motion Graphics templates in After Effects in After Effects. [Creating Motion Graphics templates in After Effects](creating-motion-graphics-templates-in-after-effects.md).
+- Open when looking up Do more with Motion Graphics templates in After Effects. [Do more with Motion Graphics templates](do-more-with-motion-graphics-templates.md).
+- Open when looking up Export a template in After Effects. [Export a template](export-a-template.md).
+- Open when looking up Export as Motion Graphics templates in After Effects. [Export as Motion Graphics templates](export-as-motion-graphics-templates.md).
+- Open when looking up Install and use Motion Graphics templates in Premiere in After Effects. [Install and use Motion Graphics templates in Premiere](install-and-use-motion-graphics-templates-in-premiere.md).
+- Open when looking up Modify controls in the Essential Graphics panel in After Effects. [Modify controls in the Essential Graphics panel](modify-controls-in-the-essential-graphics-panel.md).
+- Open when looking up Name the template in After Effects. [Name the template](name-the-template.md).
+- Open when looking up Open a composition in the Essential Graphics panel in After Effects. [Open a composition in the Essential Graphics panel](open-a-composition-in-the-essential-graphics-panel.md).
+- Open when looking up Open Motion Graphics templates as a project in After Effects. [Open Motion Graphics templates as a project](open-motion-graphics-templates-as-a-project.md).
+- Open when looking up Replace images and videos in Motion Graphics templates | Adobe in After Effects. [Replace images and videos in Motion Graphics templates | Adobe](replace-images-and-videos-in-motion-graphics-templates-adobe.md).
+- Open when looking up Replace images and videos in Motion Graphics templates | Adobe in After Effects. [Replace images and videos in Motion Graphics templates | Adobe references](media-replacement/reference-index.md).
+- Open when looking up Set poster frame for the template in After Effects. [Set poster frame for the template](set-poster-frame-for-the-template.md).
+- Open when looking up Use the Essential Graphics panel to build Motion Graphics templates in After Effects. [Use the Essential Graphics panel to build Motion Graphics templates](essential-graphics-template-authoring.md).
+- Open when looking up View supported properties in After Effects. [View supported properties](view-supported-properties.md).
+- Open when looking up Work with data-driven Motion Graphics templates in After Effects. [Work with data-driven Motion Graphics templates](work-with-data-driven-motion-graphics-templates.md).
+- Open when looking up Work with Motion Graphics templates in After Effects. [Work with Motion Graphics templates](work-with-motion-graphics-templates.md).
+- Open when looking up Working with a Primary composition in After Effects. [Working with a Primary composition](working-with-a-primary-composition.md).

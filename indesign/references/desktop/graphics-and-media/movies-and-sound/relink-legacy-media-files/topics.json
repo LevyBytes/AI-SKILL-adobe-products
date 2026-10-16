@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Convert legacy media files", "file": "references/desktop/graphics-and-media/movies-and-sound/relink-legacy-media-files/convert-legacy-media-files.md", "summary": "Open when looking up Convert legacy media files in InDesign.", "keywords": ["Convert legacy media files"]},
+  {"topic": "Relink media files in your document", "file": "references/desktop/graphics-and-media/movies-and-sound/relink-legacy-media-files/relink-media-files-in-your-document.md", "summary": "Open when looking up Relink media files in your document in InDesign.", "keywords": ["Relink media files in your document"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

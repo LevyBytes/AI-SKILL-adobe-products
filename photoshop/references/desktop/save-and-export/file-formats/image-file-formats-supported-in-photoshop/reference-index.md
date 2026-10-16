@@ -1,0 +1,27 @@
+# Photoshop — Image file formats supported in Photoshop
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up BMP in Photoshop. [BMP](bmp.md).
+- Open when looking up Cineon in Photoshop. [Cineon](cineon.md).
+- Open when looking up Desktop Color Separations (DCS) in Photoshop. [Desktop Color Separations (DCS)](desktop-color-separations-dcs.md).
+- Open when looking up Digital Imaging and Communications in Medicine (DICOM) in Photoshop. [Digital Imaging and Communications in Medicine (DICOM)](digital-imaging-and-communications-in-medicine-dicom.md).
+- Open when looking up Digital Negative (DNG) in Photoshop. [Digital Negative (DNG)](digital-negative-dng.md).
+- Open when looking up Encapsulated PostScript (EPS) in Photoshop. [Encapsulated PostScript (EPS)](encapsulated-post-script-eps.md).
+- Open when looking up File format compatibility in Photoshop. [File format compatibility](file-format-compatibility.md).
+- Open when looking up Graphics Interchange Format (GIF) in Photoshop. [Graphics Interchange Format (GIF)](graphics-interchange-format-gif.md).
+- Open when looking up HEIF/HEIC in Photoshop. [HEIF/HEIC](heif-heic.md).
+- Open when looking up High Dynamic Range (HDR) in Photoshop. [High Dynamic Range (HDR)](high-dynamic-range-hdr.md).
+- Open when looking up Interchange File Format (IFF) in Photoshop. [Interchange File Format (IFF)](interchange-file-format-iff.md).
+- Open when looking up Joint Photographic Experts Group (JPEG) in Photoshop. [Joint Photographic Experts Group (JPEG)](joint-photographic-experts-group-jpeg.md).
+- Open when looking up Large Document Format (PSB) in Photoshop. [Large Document Format (PSB)](large-document-format-psb.md).
+- Open when looking up Photoshop (PSD) in Photoshop. [Photoshop (PSD)](photoshop-psd.md).
+- Open when looking up Photoshop 2.0 in Photoshop. [Photoshop 2.0](photoshop-2-0.md).
+- Open when looking up Photoshop Raw in Photoshop. [Photoshop Raw](photoshop-raw.md).
+- Open when looking up PICT File and PICT Resource in Photoshop. [PICT File and PICT Resource](pict-file-and-pict-resource.md).
+- Open when looking up Pixar in Photoshop. [Pixar](pixar.md).
+- Open when looking up Portable Bit Map (PBM) in Photoshop. [Portable Bit Map (PBM)](portable-bit-map-pbm.md).
+- Open when looking up Portable Document Format (PDF) in Photoshop. [Portable Document Format (PDF)](portable-document-format-pdf.md).
+- Open when looking up Portable Network Graphics (PNG) in Photoshop. [Portable Network Graphics (PNG)](portable-network-graphics-png.md).
+- Open when looking up Scitex Continuous Tone (CT) in Photoshop. [Scitex Continuous Tone (CT)](scitex-continuous-tone-ct.md).
+- Open when looking up WBMP in Photoshop. [WBMP](wbmp.md).
+- Open when looking up WebP in Photoshop. [WebP](web-p.md).

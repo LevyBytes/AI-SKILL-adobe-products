@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Crop bounds outside canvas", "file": "references/cloud-services/document-operations-migration/common-migration-issues/crop-bounds-outside-canvas.md", "summary": "Open when looking up Crop bounds outside canvas in Photoshop.", "keywords": ["Crop bounds outside canvas"]},
+  {"topic": "Invalid unit type", "file": "references/cloud-services/document-operations-migration/common-migration-issues/invalid-unit-type.md", "summary": "Open when looking up Invalid unit type in Photoshop.", "keywords": ["Invalid unit type"]},
+  {"topic": "Missing unit object", "file": "references/cloud-services/document-operations-migration/common-migration-issues/missing-unit-object.md", "summary": "Open when looking up Missing unit object in Photoshop.", "keywords": ["Missing unit object"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

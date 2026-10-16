@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "AUTO", "file": "references/document-model/warichu-alignment/auto.md", "summary": "Open when looking up AUTO in InDesign.", "keywords": ["AUTO"]},
+  {"topic": "CENTER_ALIGN", "file": "references/document-model/warichu-alignment/centeralign.md", "summary": "Open when looking up CENTER_ALIGN in InDesign.", "keywords": ["CENTER_ALIGN"]},
+  {"topic": "CENTER_JUSTIFIED", "file": "references/document-model/warichu-alignment/centerjustified.md", "summary": "Open when looking up CENTER_JUSTIFIED in InDesign.", "keywords": ["CENTER_JUSTIFIED"]},
+  {"topic": "FULLY_JUSTIFIED", "file": "references/document-model/warichu-alignment/fullyjustified.md", "summary": "Open when looking up FULLY_JUSTIFIED in InDesign.", "keywords": ["FULLY_JUSTIFIED"]},
+  {"topic": "LEFT_ALIGN", "file": "references/document-model/warichu-alignment/leftalign.md", "summary": "Open when looking up LEFT_ALIGN in InDesign.", "keywords": ["LEFT_ALIGN"]},
+  {"topic": "LEFT_JUSTIFIED", "file": "references/document-model/warichu-alignment/leftjustified.md", "summary": "Open when looking up LEFT_JUSTIFIED in InDesign.", "keywords": ["LEFT_JUSTIFIED"]},
+  {"topic": "RIGHT_ALIGN", "file": "references/document-model/warichu-alignment/rightalign.md", "summary": "Open when looking up RIGHT_ALIGN in InDesign.", "keywords": ["RIGHT_ALIGN"]},
+  {"topic": "RIGHT_JUSTIFIED", "file": "references/document-model/warichu-alignment/rightjustified.md", "summary": "Open when looking up RIGHT_JUSTIFIED in InDesign.", "keywords": ["RIGHT_JUSTIFIED"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Constrain proportions", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/resizing-parameters-in-photoshop/constrain-proportions.md", "summary": "Open when looking up Constrain proportions in Photoshop.", "keywords": ["Constrain proportions"]},
+  {"topic": "Resolution", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/resizing-parameters-in-photoshop/resolution.md", "summary": "Open when looking up Resolution in Photoshop.", "keywords": ["Resolution"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "File System Permissions", "file": "references/uxp/understand-file-system-access/file-system-permissions.md", "summary": "Open when looking up File System Permissions in Premiere Pro.", "keywords": ["File System Permissions"]},
+  {"topic": "The Sandbox Model", "file": "references/uxp/understand-file-system-access/the-sandbox-model.md", "summary": "Open when looking up The Sandbox Model in Premiere Pro.", "keywords": ["The Sandbox Model"]},
+  {"topic": "URL Schemes", "file": "references/uxp/understand-file-system-access/url-schemes.md", "summary": "Open when looking up URL Schemes in Premiere Pro.", "keywords": ["URL Schemes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

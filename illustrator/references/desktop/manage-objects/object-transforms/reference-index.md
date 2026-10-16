@@ -1,0 +1,42 @@
+# Illustrator — Reshape and transform objects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About perspective drawing in Illustrator. [About perspective drawing](about-perspective-drawing.md).
+- Open when looking up About perspective drawing in Illustrator. [About perspective drawing references](about-perspective-drawing/reference-index.md).
+- Open when looking up Adjust grid cell size and grid extent in Illustrator. [Adjust grid cell size and grid extent](adjust-grid-cell-size-and-grid-extent.md).
+- Open when looking up Adjust grid cell size and grid extent in Illustrator. [Adjust grid cell size and grid extent references](adjust-grid-cell-size-and-grid-extent/reference-index.md).
+- Open when looking up Adjust horizon heights and grid planes in Illustrator. [Adjust horizon heights and grid planes](adjust-horizon-heights-and-grid-planes.md).
+- Open when looking up Adjust horizon heights and grid planes in Illustrator. [Adjust horizon heights and grid planes references](adjust-horizon-heights-and-grid-planes/reference-index.md).
+- Open when looking up Adjust the perspective grid and the active plane widget in Illustrator. [Adjust the perspective grid and the active plane widget](adjust-the-perspective-grid-and-the-active-plane-widget.md).
+- Open when looking up Adjust the perspective grid and the active plane widget in Illustrator. [Adjust the perspective grid and the active plane widget references](perspective-grid-planes/reference-index.md).
+- Open when looking up Create compound paths in Illustrator. [Create compound paths](create-compound-paths.md).
+- Open when looking up Create compound paths in Illustrator. [Create compound paths references](create-compound-paths/reference-index.md).
+- Open when looking up Create compound shapes with Pathfinder in Illustrator. [Create compound shapes with Pathfinder](create-compound-shapes-with-pathfinder.md).
+- Open when looking up Create compound shapes with Pathfinder in Illustrator. [Create compound shapes with Pathfinder references](pathfinder-compound-shapes/reference-index.md).
+- Open when looking up Define and manage perspective grid preset in Illustrator. [Define and manage perspective grid preset](define-and-manage-perspective-grid-preset.md).
+- Open when looking up Define and manage perspective grid preset in Illustrator. [Define and manage perspective grid preset references](define-and-manage-perspective-grid-preset/reference-index.md).
+- Open when looking up Distort object in Illustrator. [Distort object](distort-object.md).
+- Open when looking up Distort object in Illustrator. [Distort object references](distort-object/reference-index.md).
+- Open when looking up Distort objects with envelopes in Illustrator. [Distort objects with envelopes](distort-objects-with-envelopes.md).
+- Open when looking up Draw objects in perspective in Illustrator. [Draw objects in perspective](draw-objects-in-perspective.md).
+- Open when looking up Edit areas of overlapping objects with Pathfinder in Illustrator. [Edit areas of overlapping objects with Pathfinder](edit-areas-of-overlapping-objects-with-pathfinder.md).
+- Open when looking up Edit areas of overlapping objects with Pathfinder in Illustrator. [Edit areas of overlapping objects with Pathfinder references](edit-areas-of-overlapping-objects-with-pathfinder/reference-index.md).
+- Open when looking up Edit the contents of envelopes in Illustrator. [Edit the contents of envelopes](edit-the-contents-of-envelopes.md).
+- Open when looking up Edit the contents of envelopes in Illustrator. [Edit the contents of envelopes references](edit-the-contents-of-envelopes/reference-index.md).
+- Open when looking up Envelope panel options in Illustrator. [Envelope panel options](envelope-panel-options.md).
+- Open when looking up Intertwine objects in Illustrator. [Intertwine objects](intertwine-objects.md).
+- Open when looking up Intertwine objects in Illustrator. [Intertwine objects references](intertwine-objects/reference-index.md).
+- Open when looking up Move the perspective grid and adjust its vanishing points in Illustrator. [Move the perspective grid and adjust its vanishing points](move-the-perspective-grid-and-adjust-its-vanishing-points.md).
+- Open when looking up Move the perspective grid and adjust its vanishing points in Illustrator. [Move the perspective grid and adjust its vanishing points references](move-the-perspective-grid-and-adjust-its-vanishing-points/reference-index.md).
+- Open when looking up Pathfinder panel overview in Illustrator. [Pathfinder panel overview](pathfinder-panel-overview.md).
+- Open when looking up Pathfinder panel overview in Illustrator. [Pathfinder panel overview references](pathfinder-panel-overview/reference-index.md).
+- Open when looking up Perspective grid options in Illustrator. [Perspective grid options](perspective-grid-options.md).
+- Open when looking up Scale multiple objects in Illustrator. [Scale multiple objects](scale-multiple-objects.md).
+- Open when looking up Scale objects in Illustrator. [Scale objects](scale-objects.md).
+- Open when looking up Scale objects in Illustrator. [Scale objects references](scale-objects/reference-index.md).
+- Open when looking up Shear objects in Illustrator. [Shear objects](shear-objects.md).
+- Open when looking up Shear objects in Illustrator. [Shear objects references](shear-objects/reference-index.md).
+- Open when looking up Transform objects in Illustrator. [Transform objects](transform-objects.md).
+- Open when looking up Transform objects in Illustrator. [Transform objects references](transform-objects/reference-index.md).
+- Open when looking up Transform panel overview in Illustrator. [Transform panel overview](transform-panel-overview.md).
+- Open when looking up Transform panel overview in Illustrator. [Transform panel overview references](transform-panel-overview/reference-index.md).

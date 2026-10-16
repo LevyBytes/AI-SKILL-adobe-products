@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Things to remember when nesting sequences", "file": "references/desktop/edit-projects/edit-nested-sequences/about-nested-sequences/things-to-remember-when-nesting-sequences.md", "summary": "Open when looking up Things to remember when nesting sequences in Premiere Pro.", "keywords": ["Things to remember when nesting sequences"]},
+  {"topic": "Why use nested sequences", "file": "references/desktop/edit-projects/edit-nested-sequences/about-nested-sequences/why-use-nested-sequences.md", "summary": "Open when looking up Why use nested sequences in Premiere Pro.", "keywords": ["Why use nested sequences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

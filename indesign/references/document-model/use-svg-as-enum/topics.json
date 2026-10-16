@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "EMBED_CODE", "file": "references/document-model/use-svg-as-enum/embedcode.md", "summary": "Open when looking up EMBED_CODE in InDesign.", "keywords": ["EMBED_CODE"]},
+  {"topic": "OBJECT_TAGS", "file": "references/document-model/use-svg-as-enum/objecttags.md", "summary": "Open when looking up OBJECT_TAGS in InDesign.", "keywords": ["OBJECT_TAGS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

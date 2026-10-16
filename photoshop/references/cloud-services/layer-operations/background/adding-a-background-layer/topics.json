@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "V1 Approach", "file": "references/cloud-services/layer-operations/background/adding-a-background-layer/v1-approach.md", "summary": "Open when looking up V1 Approach in Photoshop.", "keywords": ["V1 Approach"]},
+  {"topic": "V2 Approach", "file": "references/cloud-services/layer-operations/background/adding-a-background-layer/v2-approach.md", "summary": "Open when looking up V2 Approach in Photoshop.", "keywords": ["V2 Approach"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

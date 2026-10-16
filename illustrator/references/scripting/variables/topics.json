@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Variables.parent", "file": "references/scripting/variables/parent.md", "summary": "Open when looking up Variables.parent in Illustrator.", "keywords": ["Variables.parent"]},
+  {"topic": "Variables.typename", "file": "references/scripting/variables/typename.md", "summary": "Open when looking up Variables.typename in Illustrator.", "keywords": ["Variables.typename"]},
+  {"topic": "Variables.length", "file": "references/scripting/variables/length.md", "summary": "Open when looking up Variables.length in Illustrator.", "keywords": ["Variables.length"]},
+  {"topic": "Variables.add()", "file": "references/scripting/variables/add.md", "summary": "Open when looking up Variables.add() in Illustrator.", "keywords": ["Variables.add()"]},
+  {"topic": "Variables.getByName()", "file": "references/scripting/variables/get-by-name.md", "summary": "Open when looking up Variables.getByName() in Illustrator.", "keywords": ["Variables.getByName()"]},
+  {"topic": "Variables.index()", "file": "references/scripting/variables/index.md", "summary": "Open when looking up Variables.index() in Illustrator.", "keywords": ["Variables.index()"]},
+  {"topic": "Variables.removeAll()", "file": "references/scripting/variables/remove-all.md", "summary": "Open when looking up Variables.removeAll() in Illustrator.", "keywords": ["Variables.removeAll()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

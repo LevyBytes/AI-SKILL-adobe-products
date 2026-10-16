@@ -1,0 +1,36 @@
+# Illustrator — TextPath
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextPath.area in Illustrator. [TextPath.area](area.md).
+- Open when looking up TextPath.blendingMode in Illustrator. [TextPath.blendingMode](blending-mode.md).
+- Open when looking up TextPath.clipping in Illustrator. [TextPath.clipping](clipping.md).
+- Open when looking up TextPath.closed in Illustrator. [TextPath.closed](closed.md).
+- Open when looking up TextPath.editable in Illustrator. [TextPath.editable](editable.md).
+- Open when looking up TextPath.evenodd in Illustrator. [TextPath.evenodd](evenodd.md).
+- Open when looking up TextPath.fillColor in Illustrator. [TextPath.fillColor](fill-color.md).
+- Open when looking up TextPath.filled in Illustrator. [TextPath.filled](filled.md).
+- Open when looking up TextPath.fillOverprint in Illustrator. [TextPath.fillOverprint](fill-overprint.md).
+- Open when looking up TextPath.guides in Illustrator. [TextPath.guides](guides.md).
+- Open when looking up TextPath.height in Illustrator. [TextPath.height](height.md).
+- Open when looking up TextPath.left in Illustrator. [TextPath.left](left.md).
+- Open when looking up TextPath.note in Illustrator. [TextPath.note](note.md).
+- Open when looking up TextPath.opacity in Illustrator. [TextPath.opacity](opacity.md).
+- Open when looking up TextPath.parent in Illustrator. [TextPath.parent](parent.md).
+- Open when looking up TextPath.pathPoints in Illustrator. [TextPath.pathPoints](path-points.md).
+- Open when looking up TextPath.polarity in Illustrator. [TextPath.polarity](polarity.md).
+- Open when looking up TextPath.position in Illustrator. [TextPath.position](position.md).
+- Open when looking up TextPath.resolution in Illustrator. [TextPath.resolution](resolution.md).
+- Open when looking up TextPath.selectedPathPoints in Illustrator. [TextPath.selectedPathPoints](selected-path-points.md).
+- Open when looking up TextPath.setEntirePath() in Illustrator. [TextPath.setEntirePath()](set-entire-path.md).
+- Open when looking up TextPath.strokeCap in Illustrator. [TextPath.strokeCap](stroke-cap.md).
+- Open when looking up TextPath.strokeColor in Illustrator. [TextPath.strokeColor](stroke-color.md).
+- Open when looking up TextPath.stroked in Illustrator. [TextPath.stroked](stroked.md).
+- Open when looking up TextPath.strokeDashes in Illustrator. [TextPath.strokeDashes](stroke-dashes.md).
+- Open when looking up TextPath.strokeDashOffset in Illustrator. [TextPath.strokeDashOffset](stroke-dash-offset.md).
+- Open when looking up TextPath.strokeJoin in Illustrator. [TextPath.strokeJoin](stroke-join.md).
+- Open when looking up TextPath.strokeMiterLimit in Illustrator. [TextPath.strokeMiterLimit](stroke-miter-limit.md).
+- Open when looking up TextPath.strokeOverprint in Illustrator. [TextPath.strokeOverprint](stroke-overprint.md).
+- Open when looking up TextPath.strokeWidth in Illustrator. [TextPath.strokeWidth](stroke-width.md).
+- Open when looking up TextPath.top in Illustrator. [TextPath.top](top.md).
+- Open when looking up TextPath.typename in Illustrator. [TextPath.typename](typename.md).
+- Open when looking up TextPath.width in Illustrator. [TextPath.width](width.md).

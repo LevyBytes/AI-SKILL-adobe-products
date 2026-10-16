@@ -1,0 +1,63 @@
+# Shared Adobe platform — Indesign
+
+Open when selecting a task context: [Topic catalog](topics.json).
+
+- Open when working with application state and runtime in Shared Adobe platform — Indesign. [Application state and runtime](context-application.md).
+- Open when working with scripts, tasks and application events in Shared Adobe platform — Indesign. [Scripts, tasks and application events](context-scripting.md).
+- Open when working with workspace, windows and menus in Shared Adobe platform — Indesign. [Workspace, windows and menus](context-workspace.md).
+- Open when working with script dialog containers in Shared Adobe platform — Indesign. [Script dialog containers](context-dialog-containers.md).
+- Open when working with script dialog inputs and widgets in Shared Adobe platform — Indesign. [Script dialog inputs and widgets](context-dialog-inputs.md).
+- Open when working with documents, books and persistence in Shared Adobe platform — Indesign. [Documents, books and persistence](context-documents.md).
+- Open when working with pages, spreads and layout rules in Shared Adobe platform — Indesign. [Pages, spreads and layout rules](context-page-layout.md).
+- Open when working with bounds, dimensions and transforms in Shared Adobe platform — Indesign. [Bounds, dimensions and transforms](context-geometry.md).
+- Open when working with grids, guides and baselines in Shared Adobe platform — Indesign. [Grids, guides and baselines](context-grids-guides.md).
+- Open when working with text frames, wrapping and autosizing in Shared Adobe platform — Indesign. [Text frames, wrapping and autosizing](context-frame-flow.md).
+- Open when working with anchored objects and reference points in Shared Adobe platform — Indesign. [Anchored objects and reference points](context-anchored-placement.md).
+- Open when working with page items, layers and groups in Shared Adobe platform — Indesign. [Page items, layers and groups](context-page-items.md).
+- Open when working with paths, outlines and shapes in Shared Adobe platform — Indesign. [Paths, outlines and shapes](context-paths.md).
+- Open when working with libraries, assets and snippets in Shared Adobe platform — Indesign. [Libraries, assets and snippets](context-asset-libraries.md).
+- Open when working with place graphics and manage links in Shared Adobe platform — Indesign. [Place graphics and manage links](context-placed-media.md).
+- Open when working with fit and clip graphic content in Shared Adobe platform — Indesign. [Fit and clip graphic content](context-fitting-clipping.md).
+- Open when working with colors, swatches, inks and gradients in Shared Adobe platform — Indesign. [Colors, swatches, inks and gradients](context-color-resources.md).
+- Open when working with color profiles and rendering intents in Shared Adobe platform — Indesign. [Color profiles and rendering intents](context-color-management.md).
+- Open when working with strokes, corners and arrowheads in Shared Adobe platform — Indesign. [Strokes, corners and arrowheads](context-strokes.md).
+- Open when working with transparency and appearance effects in Shared Adobe platform — Indesign. [Transparency and appearance effects](context-transparency-effects.md).
+- Open when working with stories, paragraphs and text ranges in Shared Adobe platform — Indesign. [Stories, paragraphs and text ranges](context-text-ranges.md).
+- Open when working with fonts, glyphs and opentype in Shared Adobe platform — Indesign. [Fonts, glyphs and OpenType](context-fonts.md).
+- Open when working with character alignment and metrics in Shared Adobe platform — Indesign. [Character alignment and metrics](context-character-spacing.md).
+- Open when working with paragraph composition, rules and spacing in Shared Adobe platform — Indesign. [Paragraph composition, rules and spacing](context-paragraph-composition.md).
+- Open when working with hyphenation and dictionaries in Shared Adobe platform — Indesign. [Hyphenation and dictionaries](context-hyphenation.md).
+- Open when working with cjk composition and emphasis in Shared Adobe platform — Indesign. [CJK composition and emphasis](context-cjk-writing.md).
+- Open when working with language and writing direction in Shared Adobe platform — Indesign. [Language and writing direction](context-language-direction.md).
+- Open when working with character, paragraph and nested styles in Shared Adobe platform — Indesign. [Character, paragraph and nested styles](context-text-styles.md).
+- Open when working with object styles and enabled attributes in Shared Adobe platform — Indesign. [Object styles and enabled attributes](context-object-styles.md).
+- Open when working with bullets and numbered lists in Shared Adobe platform — Indesign. [Bullets and numbered lists](context-lists.md).
+- Open when working with footnotes, endnotes and notes in Shared Adobe platform — Indesign. [Footnotes, endnotes and notes](context-notes.md).
+- Open when working with text variables and metadata captions in Shared Adobe platform — Indesign. [Text variables and metadata captions](context-variables.md).
+- Open when working with search, replace and transliteration in Shared Adobe platform — Indesign. [Search, replace and transliteration](context-find-replace.md).
+- Open when working with editorial changes, comments and synchronization in Shared Adobe platform — Indesign. [Editorial changes, comments and synchronization](context-editorial-review.md).
+- Open when working with text and spreadsheet interchange in Shared Adobe platform — Indesign. [Text and spreadsheet interchange](context-text-import-export.md).
+- Open when working with tables, rows and cells in Shared Adobe platform — Indesign. [Tables, rows and cells](context-table-structure.md).
+- Open when working with table and cell styles in Shared Adobe platform — Indesign. [Table and cell styles](context-table-styles.md).
+- Open when working with alternating table fills and stroke ordering in Shared Adobe platform — Indesign. [Alternating table fills and stroke ordering](context-table-fills.md).
+- Open when working with data merge sources and fields in Shared Adobe platform — Indesign. [Data merge sources and fields](context-data-merge.md).
+- Open when working with indexes, topics and cross-references in Shared Adobe platform — Indesign. [Indexes, topics and cross-references](context-cross-references.md).
+- Open when working with hyperlinks, bookmarks and article order in Shared Adobe platform — Indesign. [Hyperlinks, bookmarks and article order](context-hyperlinks-articles.md).
+- Open when working with xml structure, rules and validation in Shared Adobe platform — Indesign. [XML structure, rules and validation](context-xml.md).
+- Open when working with metadata, accessibility and tagging in Shared Adobe platform — Indesign. [Metadata, accessibility and tagging](context-metadata-accessibility.md).
+- Open when working with interactive form fields and states in Shared Adobe platform — Indesign. [Interactive form fields and states](context-interactive-fields.md).
+- Open when working with interactive navigation and page transitions in Shared Adobe platform — Indesign. [Interactive navigation and page transitions](context-interactive-navigation.md).
+- Open when working with animation and timing in Shared Adobe platform — Indesign. [Animation and timing](context-animation.md).
+- Open when working with audio and video playback in Shared Adobe platform — Indesign. [Audio and video playback](context-audio-video.md).
+- Open when working with epub, html, folios and publishing in Shared Adobe platform — Indesign. [EPUB, HTML, folios and publishing](context-digital-publishing.md).
+- Open when working with raster and image export formats in Shared Adobe platform — Indesign. [Raster and image export formats](context-image-export.md).
+- Open when working with document import and export choices in Shared Adobe platform — Indesign. [Document import and export choices](context-document-export.md).
+- Open when working with pdf export, placement and compatibility in Shared Adobe platform — Indesign. [PDF export, placement and compatibility](context-pdf-output.md).
+- Open when working with printing, paper and imposition in Shared Adobe platform — Indesign. [Printing, paper and imposition](context-printing.md).
+- Open when working with printer marks and screening in Shared Adobe platform — Indesign. [Printer marks and screening](context-print-marks.md).
+- Open when working with preflight processes, profiles and rules in Shared Adobe platform — Indesign. [Preflight processes, profiles and rules](context-preflight.md).
+- Open when working with transparency flattening and trapping in Shared Adobe platform — Indesign. [Transparency flattening and trapping](context-flatten-trap.md).
+- Open when working with clipboard, autocorrection and spelling in Shared Adobe platform — Indesign. [Clipboard, autocorrection and spelling](context-editing-defaults.md).
+- Open when working with shared api values and sorting in Shared Adobe platform — Indesign. [Shared API values and sorting](context-api-values.md).
+- Open when working with text on paths in Shared Adobe platform — Indesign. [Text on paths](context-text-paths.md).
+- Open when working with watermarks in Shared Adobe platform — Indesign. [Watermarks](context-watermarks.md).

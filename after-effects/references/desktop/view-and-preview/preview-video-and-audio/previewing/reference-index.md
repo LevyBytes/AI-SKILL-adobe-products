@@ -1,0 +1,33 @@
+# After Effects — Previewing
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Additional tips and options for previewing in After Effects. [Additional tips and options for previewing](additional-tips-and-options-for-previewing.md).
+- Open when looking up Alt + Numpad-. (Decimal) in After Effects. [Alt + Numpad-. (Decimal)](alt-numpad-decimal.md).
+- Open when looking up Alt + Numpad-0 in After Effects. [Alt + Numpad-0](alt-numpad-0.md).
+- Open when looking up Audio panel options in After Effects. [Audio panel options](audio-panel-options.md).
+- Open when looking up Choose a viewer to always preview in After Effects. [Choose a viewer to always preview](choose-a-viewer-to-always-preview.md).
+- Open when looking up Configure Preview behaviors in After Effects. [Configure Preview behaviors](configure-preview-behaviors.md).
+- Open when looking up Default preview settings in After Effects. [Default preview settings](default-preview-settings.md).
+- Open when looking up Fast Previews in After Effects. [Fast Previews](fast-previews.md).
+- Open when looking up High Performance Preview Playback in After Effects. [High Performance Preview Playback](high-performance-preview-playback.md).
+- Open when looking up Keyboard shortcuts for Fast Previews in After Effects. [Keyboard shortcuts for Fast Previews](keyboard-shortcuts-for-fast-previews.md).
+- Open when looking up Manually preview (scrub) video and audio in After Effects. [Manually preview (scrub) video and audio](manually-preview-scrub-video-and-audio.md).
+- Open when looking up Move the current-time indicator (CTI) in After Effects. [Move the current-time indicator (CTI)](move-the-current-time-indicator-cti.md).
+- Open when looking up Numpad-. (Decimal) in After Effects. [Numpad-. (Decimal)](numpad-decimal.md).
+- Open when looking up Numpad-0 in After Effects. [Numpad-0](numpad-0.md).
+- Open when looking up Preview modes and Fast Previews preferences in After Effects. [Preview modes and Fast Previews preferences](preview-modes-and-fast-previews-preferences.md).
+- Open when looking up Preview modes and Viewer Quality preferences in After Effects. [Preview modes and Viewer Quality preferences](preview-modes-and-viewer-quality-preferences.md).
+- Open when looking up Preview on an external video monitor in After Effects. [Preview on an external video monitor](preview-on-an-external-video-monitor.md).
+- Open when looking up Preview only audio in After Effects. [Preview only audio](preview-only-audio.md).
+- Open when looking up Preview video and audio in After Effects. [Preview video and audio](preview-video-and-audio.md).
+- Open when looking up Primary Viewer Button in After Effects. [Primary Viewer Button](primary-viewer-button.md).
+- Open when looking up Region of interest (ROI) in After Effects. [Region of interest (ROI)](region-of-interest-roi.md).
+- Open when looking up Shift + Numpad-0 in After Effects. [Shift + Numpad-0](shift-numpad-0.md).
+- Open when looking up Shift + Spacebar in After Effects. [Shift + Spacebar](shift-spacebar.md).
+- Open when looking up Snapshots in After Effects. [Snapshots](snapshots.md).
+- Open when looking up Spacebar in After Effects. [Spacebar](spacebar.md).
+- Open when looking up Stop a Preview in After Effects. [Stop a Preview](stop-a-preview.md).
+- Open when looking up Use preview to play video and audio in After Effects. [Use preview to play video and audio](use-preview-to-play-video-and-audio.md).
+- Open when looking up Viewer Quality preferences in After Effects. [Viewer Quality preferences](viewer-quality-preferences.md).
+- Open when looking up Work area in After Effects. [Work area](work-area.md).
+- Open when looking up Zoom in or out in time for a composition in After Effects. [Zoom in or out in time for a composition](zoom-in-or-out-in-time-for-a-composition.md).

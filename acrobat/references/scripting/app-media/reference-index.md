@@ -1,0 +1,38 @@
+# Acrobat — App media
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up alertFileNotFound in Acrobat. [alertFileNotFound](alert-file-not-found.md).
+- Open when looking up alertSelectFailed in Acrobat. [alertSelectFailed](alert-select-failed.md).
+- Open when looking up align in Acrobat. [align](align.md).
+- Open when looking up argsDWIM in Acrobat. [argsDWIM](args-dwim.md).
+- Open when looking up canPlayOrAlert in Acrobat. [canPlayOrAlert](can-play-or-alert.md).
+- Open when looking up canResize in Acrobat. [canResize](can-resize.md).
+- Open when looking up closeReason in Acrobat. [closeReason](close-reason.md).
+- Open when looking up computeFloatWinRect in Acrobat. [computeFloatWinRect](compute-float-win-rect.md).
+- Open when looking up constrainRectToScreen in Acrobat. [constrainRectToScreen](constrain-rect-to-screen.md).
+- Open when looking up createPlayer in Acrobat. [createPlayer](create-player.md).
+- Open when looking up defaultVisible in Acrobat. [defaultVisible](default-visible.md).
+- Open when looking up getAltTextData in Acrobat. [getAltTextData](get-alt-text-data.md).
+- Open when looking up getAltTextSettings in Acrobat. [getAltTextSettings](get-alt-text-settings.md).
+- Open when looking up getAnnotTraceEvents in Acrobat. [getAnnotTraceEvents](get-annot-trace-events.md).
+- Open when looking up getPlayers in Acrobat. [getPlayers](get-players.md).
+- Open when looking up getPlayerTraceEvents in Acrobat. [getPlayerTraceEvents](get-player-trace-events.md).
+- Open when looking up getRenditionSettings in Acrobat. [getRenditionSettings](get-rendition-settings.md).
+- Open when looking up getURLData in Acrobat. [getURLData](get-url-data.md).
+- Open when looking up getURLSettings in Acrobat. [getURLSettings](get-url-settings.md).
+- Open when looking up getWindowBorderSize in Acrobat. [getWindowBorderSize](get-window-border-size.md).
+- Open when looking up ifOffScreen in Acrobat. [ifOffScreen](if-off-screen.md).
+- Open when looking up JavaScript APIs — app.media in Acrobat. [JavaScript APIs — app.media](java-script-apis-app-media.md).
+- Open when looking up layout in Acrobat. [layout](layout.md).
+- Open when looking up monitorType in Acrobat. [monitorType](monitor-type.md).
+- Open when looking up openCode in Acrobat. [openCode](open-code.md).
+- Open when looking up openPlayer in Acrobat. [openPlayer](open-player.md).
+- Open when looking up over in Acrobat. [over](over.md).
+- Open when looking up pageEventNames in Acrobat. [pageEventNames](page-event-names.md).
+- Open when looking up raiseCode in Acrobat. [raiseCode](raise-code.md).
+- Open when looking up raiseSystem in Acrobat. [raiseSystem](raise-system.md).
+- Open when looking up renditionType in Acrobat. [renditionType](rendition-type.md).
+- Open when looking up startPlayer in Acrobat. [startPlayer](start-player.md).
+- Open when looking up status in Acrobat. [status](status.md).
+- Open when looking up trace in Acrobat. [trace](trace.md).
+- Open when looking up windowType in Acrobat. [windowType](window-type.md).

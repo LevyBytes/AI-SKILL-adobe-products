@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Add files to projects", "file": "references/desktop/share-and-collaborate/collaborate-and-edit/create-projects-and-add-files/add-files-to-projects.md", "summary": "Open when looking up Add files to projects in Photoshop.", "keywords": ["Add files to projects"]},
+  {"topic": "Create projects", "file": "references/desktop/share-and-collaborate/collaborate-and-edit/create-projects-and-add-files/create-projects.md", "summary": "Open when looking up Create projects in Photoshop.", "keywords": ["Create projects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

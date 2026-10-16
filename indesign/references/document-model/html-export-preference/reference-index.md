@@ -1,0 +1,40 @@
+# InDesign — HTMLExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up bulletExportOption in InDesign. [bulletExportOption](bullet-export-option.md).
+- Open when looking up customImageSizeOption in InDesign. [customImageSizeOption](custom-image-size-option.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up exportOrder in InDesign. [exportOrder](export-order.md).
+- Open when looking up exportSelection in InDesign. [exportSelection](export-selection.md).
+- Open when looking up externalStyleSheets in InDesign. [externalStyleSheets](external-style-sheets.md).
+- Open when looking up generateCascadeStyleSheet in InDesign. [generateCascadeStyleSheet](generate-cascade-style-sheet.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up gifOptionsInterlaced in InDesign. [gifOptionsInterlaced](gif-options-interlaced.md).
+- Open when looking up gifOptionsPalette in InDesign. [gifOptionsPalette](gif-options-palette.md).
+- Open when looking up ignoreObjectConversionSettings in InDesign. [ignoreObjectConversionSettings](ignore-object-conversion-settings.md).
+- Open when looking up imageAlignment in InDesign. [imageAlignment](image-alignment.md).
+- Open when looking up imageConversion in InDesign. [imageConversion](image-conversion.md).
+- Open when looking up imageExportOption in InDesign. [imageExportOption](image-export-option.md).
+- Open when looking up imageExportResolution in InDesign. [imageExportResolution](image-export-resolution.md).
+- Open when looking up imageExtension in InDesign. [imageExtension](image-extension.md).
+- Open when looking up imageSpaceAfter in InDesign. [imageSpaceAfter](image-space-after.md).
+- Open when looking up imageSpaceBefore in InDesign. [imageSpaceBefore](image-space-before.md).
+- Open when looking up includeClassesInHTML in InDesign. [includeClassesInHTML](include-classes-in-html.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up javascripts in InDesign. [javascripts](javascripts.md).
+- Open when looking up jpegOptionsFormat in InDesign. [jpegOptionsFormat](jpeg-options-format.md).
+- Open when looking up jpegOptionsQuality in InDesign. [jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up level in InDesign. [level](level.md).
+- Open when looking up numberedListExportOption in InDesign. [numberedListExportOption](numbered-list-export-option.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preserveLayoutAppearence in InDesign. [preserveLayoutAppearence](preserve-layout-appearence.md).
+- Open when looking up preserveLocalOverride in InDesign. [preserveLocalOverride](preserve-local-override.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up serverPath in InDesign. [serverPath](server-path.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up useSVGAs in InDesign. [useSVGAs](use-svg-as.md).
+- Open when looking up viewDocumentAfterExport in InDesign. [viewDocumentAfterExport](view-document-after-export.md).

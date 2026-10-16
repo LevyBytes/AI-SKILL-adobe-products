@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Text based editing references", "file": "references/web/text-based-editing/reference-index.md", "summary": "Open when looking up Text based editing in Firefly.", "keywords": ["Text based editing references"]},
+  {"topic": "Edit video using generated transcript references", "file": "references/web/edit-video-using-generated-transcript/reference-index.md", "summary": "Open when looking up Edit video using generated transcript in Firefly.", "keywords": ["Edit video using generated transcript references"]},
+  {"topic": "Correct transcript references", "file": "references/web/correct-transcript/reference-index.md", "summary": "Open when looking up Correct transcript in Firefly.", "keywords": ["Correct transcript references"]},
+  {"topic": "Assign speaker using the transcript references", "file": "references/web/assign-speaker-using-the-transcript/reference-index.md", "summary": "Open when looking up Assign speaker using the transcript in Firefly.", "keywords": ["Assign speaker using the transcript references"]},
+  {"topic": "Show pauses in transcript references", "file": "references/web/show-pauses-in-transcript/reference-index.md", "summary": "Open when looking up Show pauses in transcript in Firefly.", "keywords": ["Show pauses in transcript references"]},
+  {"topic": "Auto scroll transcript references", "file": "references/web/auto-scroll-transcript/reference-index.md", "summary": "Open when looking up Auto scroll transcript in Firefly.", "keywords": ["Auto scroll transcript references"]},
+  {"topic": "Add text from the transcript to timeline references", "file": "references/web/add-text-from-the-transcript-to-timeline/reference-index.md", "summary": "Open when looking up Add text from the transcript to timeline in Firefly.", "keywords": ["Add text from the transcript to timeline references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

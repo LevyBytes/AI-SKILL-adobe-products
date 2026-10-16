@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Collaborate on PDFs in tabs", "file": "references/integrations/collaborate-on-pdfs-in-microsoft-teams/collaborate-on-pdfs-in-tabs.md", "summary": "Open when looking up Collaborate on PDFs in tabs in Acrobat.", "keywords": ["Collaborate on PDFs in tabs"]},
+  {"topic": "Collaborate on PDFs through Chat", "file": "references/integrations/collaborate-on-pdfs-in-microsoft-teams/collaborate-on-pdfs-through-chat.md", "summary": "Open when looking up Collaborate on PDFs through Chat in Acrobat.", "keywords": ["Collaborate on PDFs through Chat"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

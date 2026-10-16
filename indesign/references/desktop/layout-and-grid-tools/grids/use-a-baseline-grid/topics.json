@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create a frame-based baseline grid", "file": "references/desktop/layout-and-grid-tools/grids/use-a-baseline-grid/create-a-frame-based-baseline-grid.md", "summary": "Open when looking up Create a frame-based baseline grid in InDesign.", "keywords": ["Create a frame-based baseline grid"]},
+  {"topic": "Set up the baseline grid", "file": "references/desktop/layout-and-grid-tools/grids/use-a-baseline-grid/set-up-the-baseline-grid.md", "summary": "Open when looking up Set up the baseline grid in InDesign.", "keywords": ["Set up the baseline grid"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

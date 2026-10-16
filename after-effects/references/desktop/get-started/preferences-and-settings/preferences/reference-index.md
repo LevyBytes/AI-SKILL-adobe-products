@@ -1,0 +1,80 @@
+# After Effects — Preferences
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 3D Cache in After Effects. [3D Cache](3-d-cache.md).
+- Open when looking up 3D preferences in After Effects. [3D preferences](3-d-preferences.md).
+- Open when looking up Adaptive Resolution in After Effects. [Adaptive Resolution](adaptive-resolution.md).
+- Open when looking up Appearance Options in After Effects. [Appearance Options](appearance-options.md).
+- Open when looking up Appearance preferences in After Effects. [Appearance preferences](appearance-preferences.md).
+- Open when looking up Application Scripting in After Effects. [Application Scripting](application-scripting.md).
+- Open when looking up Audio in After Effects. [Audio](audio.md).
+- Open when looking up Audio Hardware in After Effects. [Audio Hardware](audio-hardware.md).
+- Open when looking up Audio preferences in After Effects. [Audio preferences](audio-preferences.md).
+- Open when looking up Auto-Save in After Effects. [Auto-Save](auto-save.md).
+- Open when looking up Auto-Save Location in After Effects. [Auto-Save Location](auto-save-location.md).
+- Open when looking up Automatic Footage Reloading in After Effects. [Automatic Footage Reloading](automatic-footage-reloading.md).
+- Open when looking up Cache Frames When Idle in After Effects. [Cache Frames When Idle](cache-frames-when-idle.md).
+- Open when looking up Camera Navigation in After Effects. [Camera Navigation](camera-navigation.md).
+- Open when looking up Camera Navigation - Dolly in After Effects. [Camera Navigation - Dolly](camera-navigation-dolly.md).
+- Open when looking up Colors in After Effects. [Colors](colors.md).
+- Open when looking up Composition Options in After Effects. [Composition Options](composition-options.md).
+- Open when looking up Composition preferences in After Effects. [Composition preferences](composition-preferences.md).
+- Open when looking up Composition Switches in After Effects. [Composition Switches](composition-switches.md).
+- Open when looking up Conformed Media Cache in After Effects. [Conformed Media Cache](conformed-media-cache.md).
+- Open when looking up CPU in After Effects. [CPU](cpu.md).
+- Open when looking up Disk cache in After Effects. [Disk cache](disk-cache.md).
+- Open when looking up Disk preferences in After Effects. [Disk preferences](disk-preferences.md).
+- Open when looking up Export in After Effects. [Export](export.md).
+- Open when looking up Export Defaults in After Effects. [Export Defaults](export-defaults.md).
+- Open when looking up Export preferences in After Effects. [Export preferences](export-preferences.md).
+- Open when looking up Expression Editor in After Effects. [Expression Editor](expression-editor.md).
+- Open when looking up Expressions in After Effects. [Expressions](expressions.md).
+- Open when looking up File Bug Report in After Effects. [File Bug Report](file-bug-report.md).
+- Open when looking up Font Menu in After Effects. [Font Menu](font-menu.md).
+- Open when looking up Grid in After Effects. [Grid](grid.md).
+- Open when looking up Grids & Guides preferences in After Effects. [Grids & Guides preferences](grids-guides-preferences.md).
+- Open when looking up Guides in After Effects. [Guides](guides.md).
+- Open when looking up Import Defaults in After Effects. [Import Defaults](import-defaults.md).
+- Open when looking up Import preferences in After Effects. [Import preferences](import-preferences.md).
+- Open when looking up Labels preferences in After Effects. [Labels preferences](labels-preferences.md).
+- Open when looking up Launch the Preferences dialog in After Effects in After Effects. [Launch the Preferences dialog in After Effects](launch-the-preferences-dialog-in-after-effects.md).
+- Open when looking up macOS in After Effects. [macOS](mac-os.md).
+- Open when looking up Magnification in After Effects. [Magnification](magnification.md).
+- Open when looking up Memory in After Effects. [Memory](memory.md).
+- Open when looking up Memory & CPU preferences in After Effects. [Memory & CPU preferences](memory-cpu-preferences.md).
+- Open when looking up Mercury Transmit in After Effects. [Mercury Transmit](mercury-transmit.md).
+- Open when looking up Motion Path in After Effects. [Motion Path](motion-path.md).
+- Open when looking up New Project in After Effects. [New Project](new-project.md).
+- Open when looking up Opening Layers with Double-click in After Effects. [Opening Layers with Double-click](opening-layers-with-double-click.md).
+- Open when looking up Output Channel Mapping in After Effects. [Output Channel Mapping](output-channel-mapping.md).
+- Open when looking up Preference Management in After Effects. [Preference Management](preference-management.md).
+- Open when looking up Previews preferences in After Effects. [Previews preferences](previews-preferences.md).
+- Open when looking up Project Options in After Effects. [Project Options](project-options.md).
+- Open when looking up Project preferences in After Effects. [Project preferences](project-preferences.md).
+- Open when looking up Proportional Grid in After Effects. [Proportional Grid](proportional-grid.md).
+- Open when looking up Render Notifications in After Effects. [Render Notifications](render-notifications.md).
+- Open when looking up Repair Options in After Effects. [Repair Options](repair-options.md).
+- Open when looking up Reset background preferences in After Effects. [Reset background preferences](reset-background-preferences.md).
+- Open when looking up Resolve Fonts Dialog in After Effects. [Resolve Fonts Dialog](resolve-fonts-dialog.md).
+- Open when looking up Restore default Keyboard Shortcuts in After Effects. [Restore default Keyboard Shortcuts](restore-default-keyboard-shortcuts.md).
+- Open when looking up Restore the default Preference settings in After Effects. [Restore the default Preference settings](restore-the-default-preference-settings.md).
+- Open when looking up Reveal preferences in After Effects. [Reveal preferences](reveal-preferences.md).
+- Open when looking up Safe Margins in After Effects. [Safe Margins](safe-margins.md).
+- Open when looking up Scripting & Expressions preferences in After Effects. [Scripting & Expressions preferences](scripting-expressions-preferences.md).
+- Open when looking up Segment Output in After Effects. [Segment Output](segment-output.md).
+- Open when looking up Sequence Footage in After Effects. [Sequence Footage](sequence-footage.md).
+- Open when looking up Solids Folder in After Effects. [Solids Folder](solids-folder.md).
+- Open when looking up Startup & Repair preferences in After Effects. [Startup & Repair preferences](startup-repair-preferences.md).
+- Open when looking up Startup Options in After Effects. [Startup Options](startup-options.md).
+- Open when looking up Still Footage in After Effects. [Still Footage](still-footage.md).
+- Open when looking up Synthetic Layers in After Effects. [Synthetic Layers](synthetic-layers.md).
+- Open when looking up Talk to us in After Effects. [Talk to us](talk-to-us.md).
+- Open when looking up Theme in After Effects. [Theme](theme.md).
+- Open when looking up Transparency settings in After Effects. [Transparency settings](transparency-settings.md).
+- Open when looking up Type preferences in After Effects. [Type preferences](type-preferences.md).
+- Open when looking up Video Footage in After Effects. [Video Footage](video-footage.md).
+- Open when looking up Video Options in After Effects. [Video Options](video-options.md).
+- Open when looking up Video preferences in After Effects. [Video preferences](video-preferences.md).
+- Open when looking up Viewer Quality in After Effects. [Viewer Quality](viewer-quality.md).
+- Open when looking up Windows in After Effects. [Windows](windows.md).
+- Open when looking up XMP Metadata in After Effects. [XMP Metadata](xmp-metadata.md).

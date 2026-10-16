@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.indexGenerationOptions", "file": "references/community-types/indesign/application/index-generation-options.md", "summary": "Open when looking up Application.indexGenerationOptions in Shared Adobe platform.", "keywords": ["Application.indexGenerationOptions"]},
+  {"topic": "Application.indexingSortOptions", "file": "references/community-types/indesign/application/indexing-sort-options.md", "summary": "Open when looking up Application.indexingSortOptions in Shared Adobe platform.", "keywords": ["Application.indexingSortOptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

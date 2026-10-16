@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "cells", "file": "references/document-model/cell/cells.md", "summary": "Open when looking up cells in InDesign.", "keywords": ["cells"]},
+  {"topic": "cellType", "file": "references/document-model/cell/cell-type.md", "summary": "Open when looking up cellType in InDesign.", "keywords": ["cellType"]},
+  {"topic": "columns", "file": "references/document-model/cell/columns.md", "summary": "Open when looking up columns in InDesign.", "keywords": ["columns"]},
+  {"topic": "columnSpan", "file": "references/document-model/cell/column-span.md", "summary": "Open when looking up columnSpan in InDesign.", "keywords": ["columnSpan"]},
+  {"topic": "convertCellType", "file": "references/document-model/cell/convert-cell-type.md", "summary": "Open when looking up convertCellType in InDesign.", "keywords": ["convertCellType"]},
+  {"topic": "keepWithNextRow", "file": "references/document-model/cell/keep-with-next-row.md", "summary": "Open when looking up keepWithNextRow in InDesign.", "keywords": ["keepWithNextRow"]},
+  {"topic": "merge", "file": "references/document-model/cell/merge.md", "summary": "Open when looking up merge in InDesign.", "keywords": ["merge"]},
+  {"topic": "parentColumn", "file": "references/document-model/cell/parent-column.md", "summary": "Open when looking up parentColumn in InDesign.", "keywords": ["parentColumn"]},
+  {"topic": "parentRow", "file": "references/document-model/cell/parent-row.md", "summary": "Open when looking up parentRow in InDesign.", "keywords": ["parentRow"]},
+  {"topic": "rows", "file": "references/document-model/cell/rows.md", "summary": "Open when looking up rows in InDesign.", "keywords": ["rows"]},
+  {"topic": "rowSpan", "file": "references/document-model/cell/row-span.md", "summary": "Open when looking up rowSpan in InDesign.", "keywords": ["rowSpan"]},
+  {"topic": "rowType", "file": "references/document-model/cell/row-type.md", "summary": "Open when looking up rowType in InDesign.", "keywords": ["rowType"]},
+  {"topic": "split", "file": "references/document-model/cell/split.md", "summary": "Open when looking up split in InDesign.", "keywords": ["split"]},
+  {"topic": "startRow", "file": "references/document-model/cell/start-row.md", "summary": "Open when looking up startRow in InDesign.", "keywords": ["startRow"]},
+  {"topic": "tables", "file": "references/document-model/cell/tables.md", "summary": "Open when looking up tables in InDesign.", "keywords": ["tables"]},
+  {"topic": "unmerge", "file": "references/document-model/cell/unmerge.md", "summary": "Open when looking up unmerge in InDesign.", "keywords": ["unmerge"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

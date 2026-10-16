@@ -1,0 +1,42 @@
+# InDesign — Guide
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up AFTER_PLACE in InDesign. [AFTER_PLACE](afterplace.md).
+- Open when looking up allowOverrides in InDesign. [allowOverrides](allow-overrides.md).
+- Open when looking up detach in InDesign. [detach](detach.md).
+- Open when looking up duplicate in InDesign. [duplicate](duplicate.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up extractLabel in InDesign. [extractLabel](extract-label.md).
+- Open when looking up fitToPage in InDesign. [fitToPage](fit-to-page.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up guideColor in InDesign. [guideColor](guide-color.md).
+- Open when looking up guideType in InDesign. [guideType](guide-type.md).
+- Open when looking up guideZone in InDesign. [guideZone](guide-zone.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up insertLabel in InDesign. [insertLabel](insert-label.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up itemLayer in InDesign. [itemLayer](item-layer.md).
+- Open when looking up label in InDesign. [label](label.md).
+- Open when looking up location in InDesign. [location](location.md).
+- Open when looking up locked in InDesign. [locked](locked.md).
+- Open when looking up move in InDesign. [move](move.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up orientation in InDesign. [orientation](orientation.md).
+- Open when looking up overridden in InDesign. [overridden](overridden.md).
+- Open when looking up overriddenMasterPageItem in InDesign. [overriddenMasterPageItem](overridden-master-page-item.md).
+- Open when looking up override in InDesign. [override](override.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up parentPage in InDesign. [parentPage](parent-page.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up remove in InDesign. [remove](remove.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up removeOverride in InDesign. [removeOverride](remove-override.md).
+- Open when looking up resolve in InDesign. [resolve](resolve.md).
+- Open when looking up select in InDesign. [select](select.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up transformValuesOf in InDesign. [transformValuesOf](transform-values-of.md).
+- Open when looking up viewThreshold in InDesign. [viewThreshold](view-threshold.md).

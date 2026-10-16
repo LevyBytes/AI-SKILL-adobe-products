@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Output array constraints", "file": "references/cloud-services/create-artboard-v1-reference/output-fields/output-array-constraints.md", "summary": "Open when looking up Output array constraints in Photoshop.", "keywords": ["Output array constraints"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

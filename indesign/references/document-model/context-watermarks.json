@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Watermark preference references", "file": "references/document-model/watermark-preference/reference-index.md", "summary": "Open when looking up Watermark preference in InDesign.", "keywords": ["Watermark preference references"]},
+  {"topic": "WatermarkHorizontalPositionEnum", "file": "references/document-model/watermark-horizontal-position-enum.md", "summary": "Open when looking up WatermarkHorizontalPositionEnum in InDesign.", "keywords": ["WatermarkHorizontalPositionEnum"]},
+  {"topic": "WatermarkHorizontalPositionEnum references", "file": "references/document-model/watermark-horizontal-position-enum/reference-index.md", "summary": "Open when looking up WatermarkHorizontalPositionEnum in InDesign.", "keywords": ["WatermarkHorizontalPositionEnum references"]},
+  {"topic": "WatermarkVerticalPositionEnum", "file": "references/document-model/watermark-vertical-position-enum.md", "summary": "Open when looking up WatermarkVerticalPositionEnum in InDesign.", "keywords": ["WatermarkVerticalPositionEnum"]},
+  {"topic": "WatermarkVerticalPositionEnum references", "file": "references/document-model/watermark-vertical-position-enum/reference-index.md", "summary": "Open when looking up WatermarkVerticalPositionEnum in InDesign.", "keywords": ["WatermarkVerticalPositionEnum references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

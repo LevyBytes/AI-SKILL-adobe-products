@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CharacterStyle declaration", "file": "references/community-types/indesign/character-style/declaration.md", "summary": "Open when looking up CharacterStyle declaration in Shared Adobe platform.", "keywords": ["CharacterStyle declaration"]},
+  {"topic": "CharacterStyle identity and parent", "file": "references/community-types/indesign/character-style/identity-and-parent.md", "summary": "Open when looking up CharacterStyle identity and parent in Shared Adobe platform.", "keywords": ["CharacterStyle identity and parent"]},
+  {"topic": "CharacterStyle labels and metadata", "file": "references/community-types/indesign/character-style/labels-and-metadata.md", "summary": "Open when looking up CharacterStyle labels and metadata in Shared Adobe platform.", "keywords": ["CharacterStyle labels and metadata"]},
+  {"topic": "CharacterStyle object lifecycle", "file": "references/community-types/indesign/character-style/object-lifecycle.md", "summary": "Open when looking up CharacterStyle object lifecycle in Shared Adobe platform.", "keywords": ["CharacterStyle object lifecycle"]},
+  {"topic": "CharacterStyle object resolution", "file": "references/community-types/indesign/character-style/object-resolution.md", "summary": "Open when looking up CharacterStyle object resolution in Shared Adobe platform.", "keywords": ["CharacterStyle object resolution"]},
+  {"topic": "CharacterStyle.properties", "file": "references/community-types/indesign/character-style/properties.md", "summary": "Open when looking up CharacterStyle.properties in Shared Adobe platform.", "keywords": ["CharacterStyle.properties"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

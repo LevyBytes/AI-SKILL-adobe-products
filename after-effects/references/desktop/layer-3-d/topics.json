@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "acceptsLights", "file": "references/desktop/layer-3-d/accepts-lights.md", "summary": "Open when looking up acceptsLights in After Effects.", "keywords": ["acceptsLights"]},
+  {"topic": "acceptsShadows", "file": "references/desktop/layer-3-d/accepts-shadows.md", "summary": "Open when looking up acceptsShadows in After Effects.", "keywords": ["acceptsShadows"]},
+  {"topic": "ambient", "file": "references/desktop/layer-3-d/ambient.md", "summary": "Open when looking up ambient in After Effects.", "keywords": ["ambient"]},
+  {"topic": "castsShadows", "file": "references/desktop/layer-3-d/casts-shadows.md", "summary": "Open when looking up castsShadows in After Effects.", "keywords": ["castsShadows"]},
+  {"topic": "diffuse", "file": "references/desktop/layer-3-d/diffuse.md", "summary": "Open when looking up diffuse in After Effects.", "keywords": ["diffuse"]},
+  {"topic": "lightTransmission", "file": "references/desktop/layer-3-d/light-transmission.md", "summary": "Open when looking up lightTransmission in After Effects.", "keywords": ["lightTransmission"]},
+  {"topic": "metal", "file": "references/desktop/layer-3-d/metal.md", "summary": "Open when looking up metal in After Effects.", "keywords": ["metal"]},
+  {"topic": "orientation", "file": "references/desktop/layer-3-d/orientation.md", "summary": "Open when looking up orientation in After Effects.", "keywords": ["orientation"]},
+  {"topic": "rotationX", "file": "references/desktop/layer-3-d/rotation-x.md", "summary": "Open when looking up rotationX in After Effects.", "keywords": ["rotationX"]},
+  {"topic": "rotationY", "file": "references/desktop/layer-3-d/rotation-y.md", "summary": "Open when looking up rotationY in After Effects.", "keywords": ["rotationY"]},
+  {"topic": "rotationZ", "file": "references/desktop/layer-3-d/rotation-z.md", "summary": "Open when looking up rotationZ in After Effects.", "keywords": ["rotationZ"]},
+  {"topic": "specularIntensity", "file": "references/desktop/layer-3-d/specular-intensity.md", "summary": "Open when looking up specularIntensity in After Effects.", "keywords": ["specularIntensity"]},
+  {"topic": "specularShininess", "file": "references/desktop/layer-3-d/specular-shininess.md", "summary": "Open when looking up specularShininess in After Effects.", "keywords": ["specularShininess"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

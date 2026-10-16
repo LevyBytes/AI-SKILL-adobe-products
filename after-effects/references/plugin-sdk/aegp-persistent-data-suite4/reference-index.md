@@ -1,0 +1,25 @@
+# After Effects — AEGP_PersistentDataSuite4
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_DeleteEntry in After Effects. [AEGP_DeleteEntry](aegp-delete-entry.md).
+- Open when looking up AEGP_DoesKeyExist in After Effects. [AEGP_DoesKeyExist](aegp-does-key-exist.md).
+- Open when looking up AEGP_GetApplicationBlob in After Effects. [AEGP_GetApplicationBlob](aegp-get-application-blob.md).
+- Open when looking up AEGP_GetARGB in After Effects. [AEGP_GetARGB](aegp-get-argb.md).
+- Open when looking up AEGP_GetData in After Effects. [AEGP_GetData](aegp-get-data.md).
+- Open when looking up AEGP_GetDataHandle in After Effects. [AEGP_GetDataHandle](aegp-get-data-handle.md).
+- Open when looking up AEGP_GetFpLong in After Effects. [AEGP_GetFpLong](aegp-get-fp-long.md).
+- Open when looking up AEGP_GetLong in After Effects. [AEGP_GetLong](aegp-get-long.md).
+- Open when looking up AEGP_GetNumKeys in After Effects. [AEGP_GetNumKeys](aegp-get-num-keys.md).
+- Open when looking up AEGP_GetNumSections in After Effects. [AEGP_GetNumSections](aegp-get-num-sections.md).
+- Open when looking up AEGP_GetPrefsDirectory in After Effects. [AEGP_GetPrefsDirectory](aegp-get-prefs-directory.md).
+- Open when looking up AEGP_GetSectionKeyByIndex in After Effects. [AEGP_GetSectionKeyByIndex](aegp-get-section-key-by-index.md).
+- Open when looking up AEGP_GetString in After Effects. [AEGP_GetString](aegp-get-string.md).
+- Open when looking up AEGP_GetTime in After Effects. [AEGP_GetTime](aegp-get-time.md).
+- Open when looking up AEGP_GetValueKeyByIndex in After Effects. [AEGP_GetValueKeyByIndex](aegp-get-value-key-by-index.md).
+- Open when looking up AEGP_SetARGB in After Effects. [AEGP_SetARGB](aegp-set-argb.md).
+- Open when looking up AEGP_SetData in After Effects. [AEGP_SetData](aegp-set-data.md).
+- Open when looking up AEGP_SetDataHandle in After Effects. [AEGP_SetDataHandle](aegp-set-data-handle.md).
+- Open when looking up AEGP_SetFpLong in After Effects. [AEGP_SetFpLong](aegp-set-fp-long.md).
+- Open when looking up AEGP_SetLong in After Effects. [AEGP_SetLong](aegp-set-long.md).
+- Open when looking up AEGP_SetString in After Effects. [AEGP_SetString](aegp-set-string.md).
+- Open when looking up AEGP_SetTime in After Effects. [AEGP_SetTime](aegp-set-time.md).

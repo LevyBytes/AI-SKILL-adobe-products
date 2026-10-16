@@ -1,0 +1,39 @@
+# Shared Adobe platform — String
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up String declaration in Shared Adobe platform. [String declaration](declaration.md).
+- Open when looking up String.anchor in Shared Adobe platform. [String.anchor](anchor.md).
+- Open when looking up String.big in Shared Adobe platform. [String.big](big.md).
+- Open when looking up String.blink in Shared Adobe platform. [String.blink](blink.md).
+- Open when looking up String.bold in Shared Adobe platform. [String.bold](bold.md).
+- Open when looking up String.charAt in Shared Adobe platform. [String.charAt](char-at.md).
+- Open when looking up String.charCodeAt in Shared Adobe platform. [String.charCodeAt](char-code-at.md).
+- Open when looking up String.concat in Shared Adobe platform. [String.concat](concat.md).
+- Open when looking up String.fixed in Shared Adobe platform. [String.fixed](fixed.md).
+- Open when looking up String.fontcolor in Shared Adobe platform. [String.fontcolor](fontcolor.md).
+- Open when looking up String.fontsize in Shared Adobe platform. [String.fontsize](fontsize.md).
+- Open when looking up String.indexOf in Shared Adobe platform. [String.indexOf](index-of.md).
+- Open when looking up String.IndexSignature in Shared Adobe platform. [String.IndexSignature](index-signature.md).
+- Open when looking up String.italics in Shared Adobe platform. [String.italics](italics.md).
+- Open when looking up String.lastIndexOf in Shared Adobe platform. [String.lastIndexOf](last-index-of.md).
+- Open when looking up String.length in Shared Adobe platform. [String.length](length.md).
+- Open when looking up String.link in Shared Adobe platform. [String.link](link.md).
+- Open when looking up String.localeCompare in Shared Adobe platform. [String.localeCompare](locale-compare.md).
+- Open when looking up String.match in Shared Adobe platform. [String.match](match.md).
+- Open when looking up String.replace in Shared Adobe platform. [String.replace](replace.md).
+- Open when looking up String.search in Shared Adobe platform. [String.search](search.md).
+- Open when looking up String.slice in Shared Adobe platform. [String.slice](slice.md).
+- Open when looking up String.small in Shared Adobe platform. [String.small](small.md).
+- Open when looking up String.split in Shared Adobe platform. [String.split](split.md).
+- Open when looking up String.strike in Shared Adobe platform. [String.strike](strike.md).
+- Open when looking up String.sub in Shared Adobe platform. [String.sub](sub.md).
+- Open when looking up String.substr in Shared Adobe platform. [String.substr](substr.md).
+- Open when looking up String.substring in Shared Adobe platform. [String.substring](substring.md).
+- Open when looking up String.sup in Shared Adobe platform. [String.sup](sup.md).
+- Open when looking up String.toLocaleLowerCase in Shared Adobe platform. [String.toLocaleLowerCase](to-locale-lower-case.md).
+- Open when looking up String.toLocaleUpperCase in Shared Adobe platform. [String.toLocaleUpperCase](to-locale-upper-case.md).
+- Open when looking up String.toLowerCase in Shared Adobe platform. [String.toLowerCase](to-lower-case.md).
+- Open when looking up String.toSource in Shared Adobe platform. [String.toSource](to-source.md).
+- Open when looking up String.toString in Shared Adobe platform. [String.toString](to-string.md).
+- Open when looking up String.toUpperCase in Shared Adobe platform. [String.toUpperCase](to-upper-case.md).
+- Open when looking up String.valueOf in Shared Adobe platform. [String.valueOf](value-of.md).

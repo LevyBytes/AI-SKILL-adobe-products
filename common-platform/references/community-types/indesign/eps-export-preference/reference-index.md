@@ -1,0 +1,22 @@
+# Shared Adobe platform — EPSExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up EPSExportPreference declaration in Shared Adobe platform. [EPSExportPreference declaration](declaration.md).
+- Open when looking up EPSExportPreference.appliedFlattenerPreset in Shared Adobe platform. [EPSExportPreference.appliedFlattenerPreset](applied-flattener-preset.md).
+- Open when looking up EPSExportPreference.bleedBottom in Shared Adobe platform. [EPSExportPreference.bleedBottom](bleed-bottom.md).
+- Open when looking up EPSExportPreference.bleedInside in Shared Adobe platform. [EPSExportPreference.bleedInside](bleed-inside.md).
+- Open when looking up EPSExportPreference.bleedOutside in Shared Adobe platform. [EPSExportPreference.bleedOutside](bleed-outside.md).
+- Open when looking up EPSExportPreference.bleedTop in Shared Adobe platform. [EPSExportPreference.bleedTop](bleed-top.md).
+- Open when looking up EPSExportPreference.dataFormat in Shared Adobe platform. [EPSExportPreference.dataFormat](data-format.md).
+- Open when looking up EPSExportPreference.epsColor in Shared Adobe platform. [EPSExportPreference.epsColor](eps-color.md).
+- Open when looking up EPSExportPreference.epsSpreads in Shared Adobe platform. [EPSExportPreference.epsSpreads](eps-spreads.md).
+- Open when looking up EPSExportPreference.fontEmbedding in Shared Adobe platform. [EPSExportPreference.fontEmbedding](font-embedding.md).
+- Open when looking up EPSExportPreference.ignoreSpreadOverrides in Shared Adobe platform. [EPSExportPreference.ignoreSpreadOverrides](ignore-spread-overrides.md).
+- Open when looking up EPSExportPreference.imageData in Shared Adobe platform. [EPSExportPreference.imageData](image-data.md).
+- Open when looking up EPSExportPreference.omitBitmaps in Shared Adobe platform. [EPSExportPreference.omitBitmaps](omit-bitmaps.md).
+- Open when looking up EPSExportPreference.omitEPS in Shared Adobe platform. [EPSExportPreference.omitEPS](omit-eps.md).
+- Open when looking up EPSExportPreference.omitPDF in Shared Adobe platform. [EPSExportPreference.omitPDF](omit-pdf.md).
+- Open when looking up EPSExportPreference.opiImageReplacement in Shared Adobe platform. [EPSExportPreference.opiImageReplacement](opi-image-replacement.md).
+- Open when looking up EPSExportPreference.pageRange in Shared Adobe platform. [EPSExportPreference.pageRange](page-range.md).
+- Open when looking up EPSExportPreference.postscriptLevel in Shared Adobe platform. [EPSExportPreference.postscriptLevel](postscript-level.md).
+- Open when looking up EPSExportPreference.preview in Shared Adobe platform. [EPSExportPreference.preview](preview.md).

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Copy or cut audio data", "file": "references/desktop/editing-audio-files/copy-cut-paste-and-delete-audio-in-audition/copy-or-cut-audio-data.md", "summary": "Open when looking up Copy or cut audio data in Audition.", "keywords": ["Copy or cut audio data"]},
+  {"topic": "Delete or crop audio", "file": "references/desktop/editing-audio-files/copy-cut-paste-and-delete-audio-in-audition/delete-or-crop-audio.md", "summary": "Open when looking up Delete or crop audio in Audition.", "keywords": ["Delete or crop audio"]},
+  {"topic": "Mix audio data when pasting", "file": "references/desktop/editing-audio-files/copy-cut-paste-and-delete-audio-in-audition/mix-audio-data-when-pasting.md", "summary": "Open when looking up Mix audio data when pasting in Audition.", "keywords": ["Mix audio data when pasting"]},
+  {"topic": "Paste audio data", "file": "references/desktop/editing-audio-files/copy-cut-paste-and-delete-audio-in-audition/paste-audio-data.md", "summary": "Open when looking up Paste audio data in Audition.", "keywords": ["Paste audio data"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

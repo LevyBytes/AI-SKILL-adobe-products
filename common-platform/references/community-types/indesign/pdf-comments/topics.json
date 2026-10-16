@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PDFComments collection iteration", "file": "references/community-types/indesign/pdf-comments/collection-iteration.md", "summary": "Open when looking up PDFComments collection iteration in Shared Adobe platform.", "keywords": ["PDFComments collection iteration"]},
+  {"topic": "PDFComments declaration", "file": "references/community-types/indesign/pdf-comments/declaration.md", "summary": "Open when looking up PDFComments declaration in Shared Adobe platform.", "keywords": ["PDFComments declaration"]},
+  {"topic": "PDFComments named and indexed items", "file": "references/community-types/indesign/pdf-comments/named-and-indexed-items.md", "summary": "Open when looking up PDFComments named and indexed items in Shared Adobe platform.", "keywords": ["PDFComments named and indexed items"]},
+  {"topic": "PDFComments.count", "file": "references/community-types/indesign/pdf-comments/count.md", "summary": "Open when looking up PDFComments.count in Shared Adobe platform.", "keywords": ["PDFComments.count"]},
+  {"topic": "PDFComments.IndexSignature", "file": "references/community-types/indesign/pdf-comments/index-signature.md", "summary": "Open when looking up PDFComments.IndexSignature in Shared Adobe platform.", "keywords": ["PDFComments.IndexSignature"]},
+  {"topic": "PDFComments.itemByRange", "file": "references/community-types/indesign/pdf-comments/item-by-range.md", "summary": "Open when looking up PDFComments.itemByRange in Shared Adobe platform.", "keywords": ["PDFComments.itemByRange"]},
+  {"topic": "PDFComments.length", "file": "references/community-types/indesign/pdf-comments/length.md", "summary": "Open when looking up PDFComments.length in Shared Adobe platform.", "keywords": ["PDFComments.length"]},
+  {"topic": "PDFComments.toSource", "file": "references/community-types/indesign/pdf-comments/to-source.md", "summary": "Open when looking up PDFComments.toSource in Shared Adobe platform.", "keywords": ["PDFComments.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

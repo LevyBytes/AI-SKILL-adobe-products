@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "OpenOptionsFreeHand.convertTextToOutlines", "file": "references/scripting/open-options-free-hand/convert-text-to-outlines.md", "summary": "Open when looking up OpenOptionsFreeHand.convertTextToOutlines in Illustrator.", "keywords": ["OpenOptionsFreeHand.convertTextToOutlines"]},
+  {"topic": "OpenOptionsFreeHand.importSinglePage", "file": "references/scripting/open-options-free-hand/import-single-page.md", "summary": "Open when looking up OpenOptionsFreeHand.importSinglePage in Illustrator.", "keywords": ["OpenOptionsFreeHand.importSinglePage"]},
+  {"topic": "OpenOptionsFreeHand.pageToOpen", "file": "references/scripting/open-options-free-hand/page-to-open.md", "summary": "Open when looking up OpenOptionsFreeHand.pageToOpen in Illustrator.", "keywords": ["OpenOptionsFreeHand.pageToOpen"]},
+  {"topic": "OpenOptionsFreeHand.parent", "file": "references/scripting/open-options-free-hand/parent.md", "summary": "Open when looking up OpenOptionsFreeHand.parent in Illustrator.", "keywords": ["OpenOptionsFreeHand.parent"]},
+  {"topic": "OpenOptionsFreeHand.typename", "file": "references/scripting/open-options-free-hand/typename.md", "summary": "Open when looking up OpenOptionsFreeHand.typename in Illustrator.", "keywords": ["OpenOptionsFreeHand.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

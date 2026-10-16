@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Checking for issues with applied effects", "file": "references/desktop/troubleshooting/playback-issues/not-able-to-optimize-playback-performance/checking-for-issues-with-applied-effects.md", "summary": "Open when looking up Checking for issues with applied effects in Premiere Pro.", "keywords": ["Checking for issues with applied effects"]},
+  {"topic": "Checking for issues with plug-ins", "file": "references/desktop/troubleshooting/playback-issues/not-able-to-optimize-playback-performance/checking-for-issues-with-plug-ins.md", "summary": "Open when looking up Checking for issues with plug-ins in Premiere Pro.", "keywords": ["Checking for issues with plug-ins"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

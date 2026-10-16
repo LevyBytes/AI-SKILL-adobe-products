@@ -1,0 +1,42 @@
+# InDesign — TextImportCharacterSet
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ANSI in InDesign. [ANSI](ansi.md).
+- Open when looking up ARABIC_ASMO in InDesign. [ARABIC_ASMO](arabicasmo.md).
+- Open when looking up ARABIC_ASMO_TRANSPARENT in InDesign. [ARABIC_ASMO_TRANSPARENT](arabicasmotransparent.md).
+- Open when looking up CENTRALEUROPEAN_ISO in InDesign. [CENTRALEUROPEAN_ISO](centraleuropeaniso.md).
+- Open when looking up CHINESE_BIG_5 in InDesign. [CHINESE_BIG_5](chinesebig5.md).
+- Open when looking up CYRILLIC_CP855 in InDesign. [CYRILLIC_CP855](cyrilliccp855.md).
+- Open when looking up CYRILLIC_ISO in InDesign. [CYRILLIC_ISO](cyrilliciso.md).
+- Open when looking up CYRILLIC_KOI8R in InDesign. [CYRILLIC_KOI8R](cyrillickoi8-r.md).
+- Open when looking up CYRILLIC_KOI8U in InDesign. [CYRILLIC_KOI8U](cyrillickoi8-u.md).
+- Open when looking up DOS_LATIN_2 in InDesign. [DOS_LATIN_2](doslatin2.md).
+- Open when looking up GB18030 in InDesign. [GB18030](gb18030.md).
+- Open when looking up GB2312 in InDesign. [GB2312](gb2312.md).
+- Open when looking up GREEK_ISO in InDesign. [GREEK_ISO](greekiso.md).
+- Open when looking up KSC5601 in InDesign. [KSC5601](ksc5601.md).
+- Open when looking up MACINTOSH_ARABIC in InDesign. [MACINTOSH_ARABIC](macintosharabic.md).
+- Open when looking up MACINTOSH_CE in InDesign. [MACINTOSH_CE](macintoshce.md).
+- Open when looking up MACINTOSH_CROATIAN in InDesign. [MACINTOSH_CROATIAN](macintoshcroatian.md).
+- Open when looking up MACINTOSH_CYRILLIC in InDesign. [MACINTOSH_CYRILLIC](macintoshcyrillic.md).
+- Open when looking up MACINTOSH_GREEK in InDesign. [MACINTOSH_GREEK](macintoshgreek.md).
+- Open when looking up MACINTOSH_GREEK_SHARED_CAPS in InDesign. [MACINTOSH_GREEK_SHARED_CAPS](macintoshgreeksharedcaps.md).
+- Open when looking up MACINTOSH_HEBREW in InDesign. [MACINTOSH_HEBREW](macintoshhebrew.md).
+- Open when looking up MACINTOSH_ICELANDIC in InDesign. [MACINTOSH_ICELANDIC](macintoshicelandic.md).
+- Open when looking up MACINTOSH_ROMAN in InDesign. [MACINTOSH_ROMAN](macintoshroman.md).
+- Open when looking up MACINTOSH_ROMANIAN in InDesign. [MACINTOSH_ROMANIAN](macintoshromanian.md).
+- Open when looking up MACINTOSH_TURKISH in InDesign. [MACINTOSH_TURKISH](macintoshturkish.md).
+- Open when looking up RECOMMENDSHIFTJIS83PV in InDesign. [RECOMMENDSHIFTJIS83PV](recommendshiftjis83-pv.md).
+- Open when looking up SHIFTJIS90MS in InDesign. [SHIFTJIS90MS](shiftjis90-ms.md).
+- Open when looking up SHIFTJIS90PV in InDesign. [SHIFTJIS90PV](shiftjis90-pv.md).
+- Open when looking up TURKISH_ISO in InDesign. [TURKISH_ISO](turkishiso.md).
+- Open when looking up UTF16 in InDesign. [UTF16](utf16.md).
+- Open when looking up UTF8 in InDesign. [UTF8](utf8.md).
+- Open when looking up WINDOWS_ARABIC in InDesign. [WINDOWS_ARABIC](windowsarabic.md).
+- Open when looking up WINDOWS_BALTIC in InDesign. [WINDOWS_BALTIC](windowsbaltic.md).
+- Open when looking up WINDOWS_CE in InDesign. [WINDOWS_CE](windowsce.md).
+- Open when looking up WINDOWS_CYRILLIC in InDesign. [WINDOWS_CYRILLIC](windowscyrillic.md).
+- Open when looking up WINDOWS_EE in InDesign. [WINDOWS_EE](windowsee.md).
+- Open when looking up WINDOWS_GREEK in InDesign. [WINDOWS_GREEK](windowsgreek.md).
+- Open when looking up WINDOWS_HEBREW in InDesign. [WINDOWS_HEBREW](windowshebrew.md).
+- Open when looking up WINDOWS_TURKISH in InDesign. [WINDOWS_TURKISH](windowsturkish.md).

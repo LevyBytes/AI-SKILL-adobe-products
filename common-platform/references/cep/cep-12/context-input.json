@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Disable Drag and Drop", "file": "references/cep/cep-12/disable-drag-and-drop.md", "summary": "Open when looking up Disable Drag and Drop in Shared Adobe platform.", "keywords": ["Disable Drag and Drop"]},
+  {"topic": "Register an interest in specific key events", "file": "references/cep/cep-12/register-an-interest-in-specific-key-events.md", "summary": "Open when looking up Register an interest in specific key events in Shared Adobe platform.", "keywords": ["Register an interest in specific key events"]},
+  {"topic": "Set Mouse Cursor", "file": "references/cep/cep-12/set-mouse-cursor.md", "summary": "Open when looking up Set Mouse Cursor in Shared Adobe platform.", "keywords": ["Set Mouse Cursor"]},
+  {"topic": "Shortcut Keys for HTML Extensions", "file": "references/cep/cep-12/shortcut-keys-for-html-extensions.md", "summary": "Open when looking up Shortcut Keys for HTML Extensions in Shared Adobe platform.", "keywords": ["Shortcut Keys for HTML Extensions"]},
+  {"topic": "Tooltip", "file": "references/cep/cep-12/tooltip.md", "summary": "Open when looking up Tooltip in Shared Adobe platform.", "keywords": ["Tooltip"]},
+  {"topic": "Use Drag and Drop", "file": "references/cep/cep-12/use-drag-and-drop.md", "summary": "Open when looking up Use Drag and Drop in Shared Adobe platform.", "keywords": ["Use Drag and Drop"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

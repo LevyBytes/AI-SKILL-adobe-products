@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Manage comment preferences", "file": "references/desktop/share-and-review-documents/manage-comment-preferences.md", "summary": "Open when looking up Manage comment preferences in Acrobat.", "keywords": ["Manage comment preferences"]},
+  {"topic": "Manage comment preferences references", "file": "references/desktop/share-and-review-documents/manage-comment-preferences/reference-index.md", "summary": "Open when looking up Manage comment preferences in Acrobat.", "keywords": ["Manage comment preferences references"]},
+  {"topic": "Manage reviews", "file": "references/desktop/share-and-review-documents/manage-reviews.md", "summary": "Open when looking up Manage reviews in Acrobat.", "keywords": ["Manage reviews"]},
+  {"topic": "Manage reviews references", "file": "references/desktop/share-and-review-documents/manage-reviews/reference-index.md", "summary": "Open when looking up Manage reviews in Acrobat.", "keywords": ["Manage reviews references"]},
+  {"topic": "Review documents", "file": "references/desktop/share-and-review-documents/review-documents.md", "summary": "Open when looking up Review documents in Acrobat.", "keywords": ["Review documents"]},
+  {"topic": "Review documents references", "file": "references/desktop/share-and-review-documents/review-documents/reference-index.md", "summary": "Open when looking up Review documents in Acrobat.", "keywords": ["Review documents references"]},
+  {"topic": "Share documents", "file": "references/desktop/share-and-review-documents/share-documents.md", "summary": "Open when looking up Share documents in Acrobat.", "keywords": ["Share documents"]},
+  {"topic": "Share documents references", "file": "references/desktop/share-and-review-documents/share-documents/reference-index.md", "summary": "Open when looking up Share documents in Acrobat.", "keywords": ["Share documents references"]},
+  {"topic": "Use stamps", "file": "references/desktop/share-and-review-documents/use-stamps.md", "summary": "Open when looking up Use stamps in Acrobat.", "keywords": ["Use stamps"]},
+  {"topic": "Use stamps references", "file": "references/desktop/share-and-review-documents/use-stamps/reference-index.md", "summary": "Open when looking up Use stamps in Acrobat.", "keywords": ["Use stamps references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

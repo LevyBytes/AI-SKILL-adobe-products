@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Report a shared document directly from the list", "file": "references/web/share-review-and-export/review-pdfs/report-offensive-content-in-adobe-acrobat/report-a-shared-document-directly-from-the-list.md", "summary": "Open when looking up Report a shared document directly from the list in Acrobat.", "keywords": ["Report a shared document directly from the list"]},
+  {"topic": "Report content from an open document view", "file": "references/web/share-review-and-export/review-pdfs/report-offensive-content-in-adobe-acrobat/report-content-from-an-open-document-view.md", "summary": "Open when looking up Report content from an open document view in Acrobat.", "keywords": ["Report content from an open document view"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

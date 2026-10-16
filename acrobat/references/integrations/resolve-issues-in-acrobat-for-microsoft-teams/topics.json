@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Admin approval required", "file": "references/integrations/resolve-issues-in-acrobat-for-microsoft-teams/admin-approval-required.md", "summary": "Open when looking up Admin approval required in Acrobat.", "keywords": ["Admin approval required"]},
+  {"topic": "Comments not visible in a shared file", "file": "references/integrations/resolve-issues-in-acrobat-for-microsoft-teams/comments-not-visible-in-a-shared-file.md", "summary": "Open when looking up Comments not visible in a shared file in Acrobat.", "keywords": ["Comments not visible in a shared file"]},
+  {"topic": "Error while pinning a file as a tab", "file": "references/integrations/resolve-issues-in-acrobat-for-microsoft-teams/error-while-pinning-a-file-as-a-tab.md", "summary": "Open when looking up Error while pinning a file as a tab in Acrobat.", "keywords": ["Error while pinning a file as a tab"]},
+  {"topic": "IMS login screen not visible", "file": "references/integrations/resolve-issues-in-acrobat-for-microsoft-teams/ims-login-screen-not-visible.md", "summary": "Open when looking up IMS login screen not visible in Acrobat.", "keywords": ["IMS login screen not visible"]},
+  {"topic": "Sharing files errors", "file": "references/integrations/resolve-issues-in-acrobat-for-microsoft-teams/sharing-files-errors.md", "summary": "Open when looking up Sharing files errors in Acrobat.", "keywords": ["Sharing files errors"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

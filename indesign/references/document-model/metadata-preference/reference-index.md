@@ -1,0 +1,33 @@
+# InDesign — Metadata preference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up append in InDesign. [append](append.md).
+- Open when looking up author in InDesign. [author](author.md).
+- Open when looking up copyrightInfoURL in InDesign. [copyrightInfoURL](copyright-info-url.md).
+- Open when looking up copyrightNotice in InDesign. [copyrightNotice](copyright-notice.md).
+- Open when looking up copyrightStatus in InDesign. [copyrightStatus](copyright-status.md).
+- Open when looking up countContainer in InDesign. [countContainer](count-container.md).
+- Open when looking up createContainerItem in InDesign. [createContainerItem](create-container-item.md).
+- Open when looking up creationDate in InDesign. [creationDate](creation-date.md).
+- Open when looking up creator in InDesign. [creator](creator.md).
+- Open when looking up description in InDesign. [description](description.md).
+- Open when looking up documentTitle in InDesign. [documentTitle](document-title.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up format in InDesign. [format](format.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up getProperty in InDesign. [getProperty](get-property.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up jobName in InDesign. [jobName](job-name.md).
+- Open when looking up keywords in InDesign. [keywords](keywords.md).
+- Open when looking up modificationDate in InDesign. [modificationDate](modification-date.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up replace in InDesign. [replace](replace.md).
+- Open when looking up save in InDesign. [save](save.md).
+- Open when looking up serverURL in InDesign. [serverURL](server-url.md).
+- Open when looking up setProperty in InDesign. [setProperty](set-property.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

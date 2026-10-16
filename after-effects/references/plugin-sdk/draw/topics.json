@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "PF_DrawEventInfo", "file": "references/plugin-sdk/draw/pf-draw-event-info.md", "summary": "Open when looking up PF_DrawEventInfo in After Effects.", "keywords": ["PF_DrawEventInfo"]},
+  {"topic": "PF_EventUnion — Draw", "file": "references/plugin-sdk/draw/pf-event-union-draw.md", "summary": "Open when looking up PF_EventUnion — Draw in After Effects.", "keywords": ["PF_EventUnion — Draw"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

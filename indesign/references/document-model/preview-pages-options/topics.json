@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ALL_PAGES", "file": "references/document-model/preview-pages-options/allpages.md", "summary": "Open when looking up ALL_PAGES in InDesign.", "keywords": ["ALL_PAGES"]},
+  {"topic": "FIRST_10_PAGES", "file": "references/document-model/preview-pages-options/first10-pages.md", "summary": "Open when looking up FIRST_10_PAGES in InDesign.", "keywords": ["FIRST_10_PAGES"]},
+  {"topic": "FIRST_2_PAGES", "file": "references/document-model/preview-pages-options/first2-pages.md", "summary": "Open when looking up FIRST_2_PAGES in InDesign.", "keywords": ["FIRST_2_PAGES"]},
+  {"topic": "FIRST_5_PAGES", "file": "references/document-model/preview-pages-options/first5-pages.md", "summary": "Open when looking up FIRST_5_PAGES in InDesign.", "keywords": ["FIRST_5_PAGES"]},
+  {"topic": "FIRST_PAGE", "file": "references/document-model/preview-pages-options/firstpage.md", "summary": "Open when looking up FIRST_PAGE in InDesign.", "keywords": ["FIRST_PAGE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

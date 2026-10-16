@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "GPU acceleration instability", "file": "references/desktop/troubleshoot/launch-and-crash-issues/crash-while-using-gpu-rendering-on-mac-os/gpu-acceleration-instability.md", "summary": "Open when looking up GPU acceleration instability in InDesign.", "keywords": ["GPU acceleration instability"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

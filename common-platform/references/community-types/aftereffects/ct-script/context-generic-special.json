@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CTScript.CT_DONTKNOW_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctdontknowscript.md", "summary": "Open when looking up CTScript.CT_DONTKNOW_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_DONTKNOW_SCRIPT"]},
+  {"topic": "CTScript.CT_EMOJI_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctemojiscript.md", "summary": "Open when looking up CTScript.CT_EMOJI_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_EMOJI_SCRIPT"]},
+  {"topic": "CTScript.CT_KLINGON_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctklingonscript.md", "summary": "Open when looking up CTScript.CT_KLINGON_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_KLINGON_SCRIPT"]},
+  {"topic": "CTScript.CT_RIGHTLEFT_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctrightleftscript.md", "summary": "Open when looking up CTScript.CT_RIGHTLEFT_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_RIGHTLEFT_SCRIPT"]},
+  {"topic": "CTScript.CT_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctscript.md", "summary": "Open when looking up CTScript.CT_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_SCRIPT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

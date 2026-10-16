@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Fdf references", "file": "references/scripting/fdf/reference-index.md", "summary": "Open when looking up Fdf in Acrobat.", "keywords": ["Fdf references"]},
+  {"topic": "Field references", "file": "references/scripting/field/reference-index.md", "summary": "Open when looking up Field in Acrobat.", "keywords": ["Field references"]},
+  {"topic": "Xfa references", "file": "references/scripting/xfa/reference-index.md", "summary": "Open when looking up Xfa in Acrobat.", "keywords": ["Xfa references"]},
+  {"topic": "Xml data references", "file": "references/scripting/xml-data/reference-index.md", "summary": "Open when looking up Xml data in Acrobat.", "keywords": ["Xml data references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

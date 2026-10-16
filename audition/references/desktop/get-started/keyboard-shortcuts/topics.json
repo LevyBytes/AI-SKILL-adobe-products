@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Default keyboard shortcuts", "file": "references/desktop/get-started/keyboard-shortcuts/default-keyboard-shortcuts.md", "summary": "Open when looking up Default keyboard shortcuts in Audition.", "keywords": ["Default keyboard shortcuts"]},
+  {"topic": "Default keyboard shortcuts references", "file": "references/desktop/get-started/keyboard-shortcuts/default-keyboard-shortcuts/reference-index.md", "summary": "Open when looking up Default keyboard shortcuts in Audition.", "keywords": ["Default keyboard shortcuts references"]},
+  {"topic": "Finding and customizing shortcuts", "file": "references/desktop/get-started/keyboard-shortcuts/finding-and-customizing-shortcuts.md", "summary": "Open when looking up Finding and customizing shortcuts in Audition.", "keywords": ["Finding and customizing shortcuts"]},
+  {"topic": "Finding and customizing shortcuts references", "file": "references/desktop/get-started/keyboard-shortcuts/finding-and-customizing-shortcuts/reference-index.md", "summary": "Open when looking up Finding and customizing shortcuts in Audition.", "keywords": ["Finding and customizing shortcuts references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

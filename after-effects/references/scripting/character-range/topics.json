@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "CharacterRange object", "file": "references/scripting/character-range/character-range-object.md", "summary": "Open when looking up CharacterRange object in After Effects.", "keywords": ["CharacterRange object"]},
+  {"topic": "CharacterRange.characterEnd", "file": "references/scripting/character-range/character-end.md", "summary": "Open when looking up CharacterRange.characterEnd in After Effects.", "keywords": ["CharacterRange.characterEnd"]},
+  {"topic": "CharacterRange.characterStart", "file": "references/scripting/character-range/character-start.md", "summary": "Open when looking up CharacterRange.characterStart in After Effects.", "keywords": ["CharacterRange.characterStart"]},
+  {"topic": "CharacterRange.fillColor", "file": "references/scripting/character-range/fill-color.md", "summary": "Open when looking up CharacterRange.fillColor in After Effects.", "keywords": ["CharacterRange.fillColor"]},
+  {"topic": "CharacterRange.isRangeValid", "file": "references/scripting/character-range/is-range-valid.md", "summary": "Open when looking up CharacterRange.isRangeValid in After Effects.", "keywords": ["CharacterRange.isRangeValid"]},
+  {"topic": "CharacterRange.kerning", "file": "references/scripting/character-range/kerning.md", "summary": "Open when looking up CharacterRange.kerning in After Effects.", "keywords": ["CharacterRange.kerning"]},
+  {"topic": "CharacterRange.pasteFrom()", "file": "references/scripting/character-range/paste-from.md", "summary": "Open when looking up CharacterRange.pasteFrom() in After Effects.", "keywords": ["CharacterRange.pasteFrom()"]},
+  {"topic": "CharacterRange.strokeColor", "file": "references/scripting/character-range/stroke-color.md", "summary": "Open when looking up CharacterRange.strokeColor in After Effects.", "keywords": ["CharacterRange.strokeColor"]},
+  {"topic": "CharacterRange.strokeOverFill", "file": "references/scripting/character-range/stroke-over-fill.md", "summary": "Open when looking up CharacterRange.strokeOverFill in After Effects.", "keywords": ["CharacterRange.strokeOverFill"]},
+  {"topic": "CharacterRange.text", "file": "references/scripting/character-range/text.md", "summary": "Open when looking up CharacterRange.text in After Effects.", "keywords": ["CharacterRange.text"]},
+  {"topic": "CharacterRange.toString()", "file": "references/scripting/character-range/to-string.md", "summary": "Open when looking up CharacterRange.toString() in After Effects.", "keywords": ["CharacterRange.toString()"]},
+  {"topic": "Differences from TextDocument", "file": "references/scripting/character-range/differences-from-text-document.md", "summary": "Open when looking up Differences from TextDocument in After Effects.", "keywords": ["Differences from TextDocument"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

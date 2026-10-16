@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Benefits of redacting and sanitizing PDFs", "file": "references/desktop/protect-documents/redact-pdfs/about-redacting-and-sanitizing-pdfs-in-acrobat-pro/benefits-of-redacting-and-sanitizing-pdfs.md", "summary": "Open when looking up Benefits of redacting and sanitizing PDFs in Acrobat.", "keywords": ["Benefits of redacting and sanitizing PDFs"]},
+  {"topic": "Redaction", "file": "references/desktop/protect-documents/redact-pdfs/about-redacting-and-sanitizing-pdfs-in-acrobat-pro/redaction.md", "summary": "Open when looking up Redaction in Acrobat.", "keywords": ["Redaction"]},
+  {"topic": "Redaction limitations", "file": "references/desktop/protect-documents/redact-pdfs/about-redacting-and-sanitizing-pdfs-in-acrobat-pro/redaction-limitations.md", "summary": "Open when looking up Redaction limitations in Acrobat.", "keywords": ["Redaction limitations"]},
+  {"topic": "Sanitization", "file": "references/desktop/protect-documents/redact-pdfs/about-redacting-and-sanitizing-pdfs-in-acrobat-pro/sanitization.md", "summary": "Open when looking up Sanitization in Acrobat.", "keywords": ["Sanitization"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

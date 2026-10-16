@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "NO_SPREADS", "file": "references/document-model/epub-fixed-layout-spread-control/nospreads.md", "summary": "Open when looking up NO_SPREADS in InDesign.", "keywords": ["NO_SPREADS"]},
+  {"topic": "PHYSICAL_SPREADS", "file": "references/document-model/epub-fixed-layout-spread-control/physicalspreads.md", "summary": "Open when looking up PHYSICAL_SPREADS in InDesign.", "keywords": ["PHYSICAL_SPREADS"]},
+  {"topic": "SPREADS_BASED_ON_DOC", "file": "references/document-model/epub-fixed-layout-spread-control/spreadsbasedondoc.md", "summary": "Open when looking up SPREADS_BASED_ON_DOC in InDesign.", "keywords": ["SPREADS_BASED_ON_DOC"]},
+  {"topic": "SYNTHETIC_SPREADS", "file": "references/document-model/epub-fixed-layout-spread-control/syntheticspreads.md", "summary": "Open when looking up SYNTHETIC_SPREADS in InDesign.", "keywords": ["SYNTHETIC_SPREADS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

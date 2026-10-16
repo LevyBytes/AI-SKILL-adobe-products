@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Override Action \"Open\" Commands", "file": "references/desktop/automate-tasks/process-a-batch-of-files/batch-and-droplet-processing-options/override-action-open-commands.md", "summary": "Open when looking up Override Action \"Open\" Commands in Photoshop.", "keywords": ["Override Action \"Open\" Commands"]},
+  {"topic": "Override Action \"Save As\" Commands", "file": "references/desktop/automate-tasks/process-a-batch-of-files/batch-and-droplet-processing-options/override-action-save-as-commands.md", "summary": "Open when looking up Override Action \"Save As\" Commands in Photoshop.", "keywords": ["Override Action \"Save As\" Commands"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

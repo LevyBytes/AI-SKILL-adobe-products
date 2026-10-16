@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/feather-setting/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "chokeAmount", "file": "references/document-model/feather-setting/choke-amount.md", "summary": "Open when looking up chokeAmount in InDesign.", "keywords": ["chokeAmount"]},
+  {"topic": "cornerType", "file": "references/document-model/feather-setting/corner-type.md", "summary": "Open when looking up cornerType in InDesign.", "keywords": ["cornerType"]},
+  {"topic": "eventListeners", "file": "references/document-model/feather-setting/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/feather-setting/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "references/document-model/feather-setting/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "isValid", "file": "references/document-model/feather-setting/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "mode", "file": "references/document-model/feather-setting/mode.md", "summary": "Open when looking up mode in InDesign.", "keywords": ["mode"]},
+  {"topic": "noise", "file": "references/document-model/feather-setting/noise.md", "summary": "Open when looking up noise in InDesign.", "keywords": ["noise"]},
+  {"topic": "parent", "file": "references/document-model/feather-setting/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "references/document-model/feather-setting/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "references/document-model/feather-setting/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "references/document-model/feather-setting/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/feather-setting/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "width", "file": "references/document-model/feather-setting/width.md", "summary": "Open when looking up width in InDesign.", "keywords": ["width"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

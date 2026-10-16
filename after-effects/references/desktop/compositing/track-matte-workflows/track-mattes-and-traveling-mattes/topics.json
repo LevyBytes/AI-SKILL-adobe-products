@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Convert a layer into a Track Matte", "file": "references/desktop/compositing/track-matte-workflows/track-mattes-and-traveling-mattes/convert-a-layer-into-a-track-matte.md", "summary": "Open when looking up Convert a layer into a Track Matte in After Effects.", "keywords": ["Convert a layer into a Track Matte"]},
+  {"topic": "Example of Track Matte", "file": "references/desktop/compositing/track-matte-workflows/track-mattes-and-traveling-mattes/example-of-track-matte.md", "summary": "Open when looking up Example of Track Matte in After Effects.", "keywords": ["Example of Track Matte"]},
+  {"topic": "Preserve underlying transparency during compositing", "file": "references/desktop/compositing/track-matte-workflows/track-mattes-and-traveling-mattes/preserve-underlying-transparency-during-compositing.md", "summary": "Open when looking up Preserve underlying transparency during compositing in After Effects.", "keywords": ["Preserve underlying transparency during compositing"]},
+  {"topic": "Select Track Matte layer", "file": "references/desktop/compositing/track-matte-workflows/track-mattes-and-traveling-mattes/select-track-matte-layer.md", "summary": "Open when looking up Select Track Matte layer in After Effects.", "keywords": ["Select Track Matte layer"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

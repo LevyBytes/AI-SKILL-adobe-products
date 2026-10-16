@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Sections collection iteration", "file": "references/community-types/indesign/sections/collection-iteration.md", "summary": "Open when looking up Sections collection iteration in Shared Adobe platform.", "keywords": ["Sections collection iteration"]},
+  {"topic": "Sections declaration", "file": "references/community-types/indesign/sections/declaration.md", "summary": "Open when looking up Sections declaration in Shared Adobe platform.", "keywords": ["Sections declaration"]},
+  {"topic": "Sections named and indexed items", "file": "references/community-types/indesign/sections/named-and-indexed-items.md", "summary": "Open when looking up Sections named and indexed items in Shared Adobe platform.", "keywords": ["Sections named and indexed items"]},
+  {"topic": "Sections.add", "file": "references/community-types/indesign/sections/add.md", "summary": "Open when looking up Sections.add in Shared Adobe platform.", "keywords": ["Sections.add"]},
+  {"topic": "Sections.count", "file": "references/community-types/indesign/sections/count.md", "summary": "Open when looking up Sections.count in Shared Adobe platform.", "keywords": ["Sections.count"]},
+  {"topic": "Sections.IndexSignature", "file": "references/community-types/indesign/sections/index-signature.md", "summary": "Open when looking up Sections.IndexSignature in Shared Adobe platform.", "keywords": ["Sections.IndexSignature"]},
+  {"topic": "Sections.itemByRange", "file": "references/community-types/indesign/sections/item-by-range.md", "summary": "Open when looking up Sections.itemByRange in Shared Adobe platform.", "keywords": ["Sections.itemByRange"]},
+  {"topic": "Sections.length", "file": "references/community-types/indesign/sections/length.md", "summary": "Open when looking up Sections.length in Shared Adobe platform.", "keywords": ["Sections.length"]},
+  {"topic": "Sections.toSource", "file": "references/community-types/indesign/sections/to-source.md", "summary": "Open when looking up Sections.toSource in Shared Adobe platform.", "keywords": ["Sections.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

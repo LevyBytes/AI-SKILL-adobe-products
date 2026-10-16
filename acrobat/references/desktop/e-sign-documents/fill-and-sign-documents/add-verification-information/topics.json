@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Add verification information after signing", "file": "references/desktop/e-sign-documents/fill-and-sign-documents/add-verification-information/add-verification-information-after-signing.md", "summary": "Open when looking up Add verification information after signing in Acrobat.", "keywords": ["Add verification information after signing"]},
+  {"topic": "Add verification information at signing", "file": "references/desktop/e-sign-documents/fill-and-sign-documents/add-verification-information/add-verification-information-at-signing.md", "summary": "Open when looking up Add verification information at signing in Acrobat.", "keywords": ["Add verification information at signing"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

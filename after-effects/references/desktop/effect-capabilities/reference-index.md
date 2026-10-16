@@ -1,0 +1,25 @@
+# After Effects — Effect capabilities
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 3D Channel effect capabilities in After Effects. [3D Channel effect capabilities](3d-channel.md).
+- Open when looking up Audio effect capabilities in After Effects. [Audio effect capabilities](audio.md).
+- Open when looking up Blur & Sharpen effect capabilities in After Effects. [Blur & Sharpen effect capabilities](blur-sharpen.md).
+- Open when looking up Boris FX Mocha effect capabilities in After Effects. [Boris FX Mocha effect capabilities](boris-fx-mocha.md).
+- Open when looking up Channel effect capabilities in After Effects. [Channel effect capabilities](channel.md).
+- Open when looking up CINEMA 4D effect capabilities in After Effects. [CINEMA 4D effect capabilities](cinema-4d.md).
+- Open when looking up Color Correction effect capabilities in After Effects. [Color Correction effect capabilities](color-correction.md).
+- Open when looking up Distort effect capabilities in After Effects. [Distort effect capabilities](distort.md).
+- Open when looking up Expression Controls effect capabilities in After Effects. [Expression Controls effect capabilities](expression-controls.md).
+- Open when looking up Generate effect capabilities in After Effects. [Generate effect capabilities](generate.md).
+- Open when looking up Immersive Video effect capabilities in After Effects. [Immersive Video effect capabilities](immersive-video.md).
+- Open when looking up Keying effect capabilities in After Effects. [Keying effect capabilities](keying.md).
+- Open when looking up Matte effect capabilities in After Effects. [Matte effect capabilities](matte.md).
+- Open when looking up Noise & Grain effect capabilities in After Effects. [Noise & Grain effect capabilities](noise-grain.md).
+- Open when looking up Obsolete effect capabilities in After Effects. [Obsolete effect capabilities](obsolete.md).
+- Open when looking up Perspective effect capabilities in After Effects. [Perspective effect capabilities](perspective.md).
+- Open when looking up Simulation effect capabilities in After Effects. [Simulation effect capabilities](simulation.md).
+- Open when looking up Stylize effect capabilities in After Effects. [Stylize effect capabilities](stylize.md).
+- Open when looking up Text effect capabilities in After Effects. [Text effect capabilities](text.md).
+- Open when looking up Time effect capabilities in After Effects. [Time effect capabilities](time.md).
+- Open when looking up Transition effect capabilities in After Effects. [Transition effect capabilities](transition.md).
+- Open when looking up Utility effect capabilities in After Effects. [Utility effect capabilities](utility.md).

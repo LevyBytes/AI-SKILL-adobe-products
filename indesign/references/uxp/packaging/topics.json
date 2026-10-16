@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Packaging a plugin", "file": "references/uxp/packaging/packaging-a-plugin.md", "summary": "Open when looking up Packaging a plugin in InDesign.", "keywords": ["Packaging a plugin"]},
+  {"topic": "Plugins", "file": "references/uxp/packaging/plugins.md", "summary": "Open when looking up Plugins in InDesign.", "keywords": ["Plugins"]},
+  {"topic": "Scripts", "file": "references/uxp/packaging/scripts.md", "summary": "Open when looking up Scripts in InDesign.", "keywords": ["Scripts"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

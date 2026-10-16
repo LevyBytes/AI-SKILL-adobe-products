@@ -1,0 +1,31 @@
+# InDesign — Save and export
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add or edit metadata in InDesign. [Add or edit metadata](add-or-edit-metadata.md).
+- Open when looking up Add, edit, and export file metadata in InDesign. [Add, edit, and export file metadata](add-edit-and-export-file-metadata.md).
+- Open when looking up Additional considerations in InDesign. [Additional considerations](additional-considerations.md).
+- Open when looking up Adobe PDF export options in InDesign in InDesign. [Adobe PDF export options in InDesign](adobe-pdf-export-options-in-in-design.md).
+- Open when looking up Adobe PDF preset options in InDesign. [Adobe PDF preset options](adobe-pdf-preset-options.md).
+- Open when looking up Compression options in InDesign. [Compression options](compression-options.md).
+- Open when looking up Convert PDF presets from earlier versions in InDesign. [Convert PDF presets from earlier versions](convert-pdf-presets-from-earlier-versions.md).
+- Open when looking up Customize Adobe PDF presets in InDesign. [Customize Adobe PDF presets](customize-adobe-pdf-presets.md).
+- Open when looking up Export in InDesign. [Export](export.md).
+- Open when looking up Export documents as separate InCopy files in InDesign. [Export documents as separate InCopy files](export-documents-as-separate-in-copy-files.md).
+- Open when looking up Export metadata as an XMP file in InDesign. [Export metadata as an XMP file](export-metadata-as-an-xmp-file.md).
+- Open when looking up Export pages, objects, and text in InDesign. [Export pages, objects, and text](export-pages-objects-and-text.md).
+- Open when looking up Export PDFs for printing in InDesign. [Export PDFs for printing](export-pdfs-for-printing.md).
+- Open when looking up Export text in InDesign. [Export text](export-text.md).
+- Open when looking up Export to EPUB in InDesign. [Export to EPUB](export-to-epub.md).
+- Open when looking up Export to HTML and web in InDesign. [Export to HTML and web](export-to-html-and-web.md).
+- Open when looking up Export to XML in InDesign. [Export to XML](export-to-xml.md).
+- Open when looking up Include previews in saved documents in InDesign. [Include previews in saved documents](include-previews-in-saved-documents.md).
+- Open when looking up JPEG and PNG export options in InDesign. [JPEG and PNG export options](jpeg-and-png-export-options.md).
+- Open when looking up Load Adobe PDF presets in InDesign. [Load Adobe PDF presets](load-adobe-pdf-presets.md).
+- Open when looking up Load PDF presets using the Load command in InDesign. [Load PDF presets using the Load command](load-pdf-presets-using-the-load-command.md).
+- Open when looking up Manage PDF presets in InDesign. [Manage PDF presets](manage-pdf-presets.md).
+- Open when looking up Print and production presets in InDesign. [Print and production presets](print-and-production-presets.md).
+- Open when looking up Publish work online in InDesign. [Publish work online](publish-work-online.md).
+- Open when looking up Save And Export in InDesign. [Save And Export](save-and-export.md).
+- Open when looking up Save documents in InDesign. [Save documents](save-documents.md).
+- Open when looking up Save InDesign cloud documents in InDesign. [Save InDesign cloud documents](save-in-design-cloud-documents.md).
+- Open when looking up Save InDesign Markup (IDML) documents in InDesign. [Save InDesign Markup (IDML) documents](save-in-design-markup-idml-documents.md).

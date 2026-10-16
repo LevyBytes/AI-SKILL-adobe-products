@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": ".NET", "file": "references/pdf-services/how-tos/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
+  {"topic": ".NET timeout configuration", "file": "references/pdf-services/how-tos/net-timeout-configuration.md", "summary": "Open when looking up .NET timeout configuration in Acrobat.", "keywords": [".NET timeout configuration"]},
+  {"topic": "Custom timeout configuration", "file": "references/pdf-services/how-tos/custom-timeout-configuration.md", "summary": "Open when looking up Custom timeout configuration in Acrobat.", "keywords": ["Custom timeout configuration"]},
+  {"topic": "How It Works", "file": "references/pdf-services/how-tos/how-it-works.md", "summary": "Open when looking up How It Works in Acrobat.", "keywords": ["How It Works"]},
+  {"topic": "Java", "file": "references/pdf-services/how-tos/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
+  {"topic": "Java Proxy Server configuration", "file": "references/pdf-services/how-tos/java-proxy-server-configuration.md", "summary": "Open when looking up Java Proxy Server configuration in Acrobat.", "keywords": ["Java Proxy Server configuration"]},
+  {"topic": "Java timeout configuration", "file": "references/pdf-services/how-tos/java-timeout-configuration.md", "summary": "Open when looking up Java timeout configuration in Acrobat.", "keywords": ["Java timeout configuration"]},
+  {"topic": "Node Proxy Server configuration", "file": "references/pdf-services/how-tos/node-proxy-server-configuration.md", "summary": "Open when looking up Node Proxy Server configuration in Acrobat.", "keywords": ["Node Proxy Server configuration"]},
+  {"topic": "Node.js", "file": "references/pdf-services/how-tos/node-js.md", "summary": "Open when looking up Node.js in Acrobat.", "keywords": ["Node.js"]},
+  {"topic": "Node.js timeout configuration", "file": "references/pdf-services/how-tos/node-js-timeout-configuration.md", "summary": "Open when looking up Node.js timeout configuration in Acrobat.", "keywords": ["Node.js timeout configuration"]},
+  {"topic": "Proxy Server Configuration", "file": "references/pdf-services/how-tos/proxy-server-configuration.md", "summary": "Open when looking up Proxy Server Configuration in Acrobat.", "keywords": ["Proxy Server Configuration"]},
+  {"topic": "Python", "file": "references/pdf-services/how-tos/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
+  {"topic": "Python Proxy Server configuration", "file": "references/pdf-services/how-tos/python-proxy-server-configuration.md", "summary": "Open when looking up Python Proxy Server configuration in Acrobat.", "keywords": ["Python Proxy Server configuration"]},
+  {"topic": "Python timeout configuration", "file": "references/pdf-services/how-tos/python-timeout-configuration.md", "summary": "Open when looking up Python timeout configuration in Acrobat.", "keywords": ["Python timeout configuration"]},
+  {"topic": "Service region configuration", "file": "references/pdf-services/how-tos/service-region-configuration.md", "summary": "Open when looking up Service region configuration in Acrobat.", "keywords": ["Service region configuration"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

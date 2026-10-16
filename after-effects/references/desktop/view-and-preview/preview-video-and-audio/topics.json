@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Lossless Compressed Playback", "file": "references/desktop/view-and-preview/preview-video-and-audio/lossless-compressed-playback.md", "summary": "Open when looking up Lossless Compressed Playback in After Effects.", "keywords": ["Lossless Compressed Playback"]},
+  {"topic": "Previewing", "file": "references/desktop/view-and-preview/preview-video-and-audio/previewing.md", "summary": "Open when looking up Previewing in After Effects.", "keywords": ["Previewing"]},
+  {"topic": "Previewing references", "file": "references/desktop/view-and-preview/preview-video-and-audio/previewing/reference-index.md", "summary": "Open when looking up Previewing in After Effects.", "keywords": ["Previewing references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

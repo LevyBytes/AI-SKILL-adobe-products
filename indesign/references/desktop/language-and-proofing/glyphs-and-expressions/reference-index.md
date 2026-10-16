@@ -1,0 +1,23 @@
+# InDesign — Glyphs, characters, and expressions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Construct a GREP expression in InDesign. [Construct a GREP expression](construct-a-grep-expression.md).
+- Open when looking up Construct a GREP expression in InDesign. [Construct a GREP expression references](construct-a-grep-expression/reference-index.md).
+- Open when looking up Create and insert math expressions in InDesign. [Create and insert math expressions](create-and-insert-math-expressions.md).
+- Open when looking up Create and insert math expressions in InDesign. [Create and insert math expressions references](create-and-insert-math-expressions/reference-index.md).
+- Open when looking up Edit math expressions in InDesign. [Edit math expressions](edit-math-expressions.md).
+- Open when looking up Edit math expressions in InDesign. [Edit math expressions references](edit-math-expressions/reference-index.md).
+- Open when looking up Find and replace glyphs in InDesign. [Find and replace glyphs](find-and-replace-glyphs.md).
+- Open when looking up Find and replace items using queries in InDesign. [Find and replace items using queries](find-and-replace-items-using-queries.md).
+- Open when looking up Find and replace items using queries in InDesign. [Find and replace items using queries references](find-and-replace-items-using-queries/reference-index.md).
+- Open when looking up Find and replace with text patterns (GREP) in InDesign. [Find and replace with text patterns (GREP)](find-and-replace-with-text-patterns-grep.md).
+- Open when looking up Hidden character glossary in InDesign. [Hidden character glossary](hidden-character-glossary.md).
+- Open when looking up Insert glyphs and special characters in InDesign. [Insert glyphs and special characters](insert-glyphs-and-special-characters.md).
+- Open when looking up Insert glyphs and special characters in InDesign. [Insert glyphs and special characters references](insert-glyphs-and-special-characters/reference-index.md).
+- Open when looking up Open and view glyphs in InDesign. [Open and view glyphs](open-and-view-glyphs.md).
+- Open when looking up Replace characters with glyphs in InDesign. [Replace characters with glyphs](replace-characters-with-glyphs.md).
+- Open when looking up Save and manage find and replace queries in InDesign. [Save and manage find and replace queries](save-and-manage-find-and-replace-queries.md).
+- Open when looking up Save and manage find and replace queries in InDesign. [Save and manage find and replace queries references](save-and-manage-find-and-replace-queries/reference-index.md).
+- Open when looking up Stylize math expressions in InDesign. [Stylize math expressions](stylize-math-expressions.md).
+- Open when looking up Stylize math expressions in InDesign. [Stylize math expressions references](stylize-math-expressions/reference-index.md).
+- Open when looking up View or show hidden characters in InDesign. [View or show hidden characters](view-or-show-hidden-characters.md).

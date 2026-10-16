@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Incorrect or low-quality answers", "file": "references/desktop/troubleshoot/performance-issues/ai-assistant-or-generative-summary-show-errors/incorrect-or-low-quality-answers.md", "summary": "Open when looking up Incorrect or low-quality answers in Acrobat.", "keywords": ["Incorrect or low-quality answers"]},
+  {"topic": "Older app versions", "file": "references/desktop/troubleshoot/performance-issues/ai-assistant-or-generative-summary-show-errors/older-app-versions.md", "summary": "Open when looking up Older app versions in Acrobat.", "keywords": ["Older app versions"]},
+  {"topic": "PDF doesn’t meet the requirements", "file": "references/desktop/troubleshoot/performance-issues/ai-assistant-or-generative-summary-show-errors/pdf-doesn-t-meet-the-requirements.md", "summary": "Open when looking up PDF doesn’t meet the requirements in Acrobat.", "keywords": ["PDF doesn’t meet the requirements"]},
+  {"topic": "Session not valid", "file": "references/desktop/troubleshoot/performance-issues/ai-assistant-or-generative-summary-show-errors/session-not-valid.md", "summary": "Open when looking up Session not valid in Acrobat.", "keywords": ["Session not valid"]},
+  {"topic": "Temporary processing delays", "file": "references/desktop/troubleshoot/performance-issues/ai-assistant-or-generative-summary-show-errors/temporary-processing-delays.md", "summary": "Open when looking up Temporary processing delays in Acrobat.", "keywords": ["Temporary processing delays"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

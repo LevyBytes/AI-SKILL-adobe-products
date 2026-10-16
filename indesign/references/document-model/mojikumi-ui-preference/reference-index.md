@@ -1,0 +1,27 @@
+# InDesign — MojikumiUiPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up lineEndAllOneEm in InDesign. [lineEndAllOneEm](line-end-all-one-em.md).
+- Open when looking up lineEndAllOneHalfEm in InDesign. [lineEndAllOneHalfEm](line-end-all-one-half-em.md).
+- Open when looking up lineEndPeriodOneEm in InDesign. [lineEndPeriodOneEm](line-end-period-one-em.md).
+- Open when looking up lineEndUkeNoFloat in InDesign. [lineEndUkeNoFloat](line-end-uke-no-float.md).
+- Open when looking up oneEmIndentLineEndAllNoFloat in InDesign. [oneEmIndentLineEndAllNoFloat](one-em-indent-line-end-all-no-float.md).
+- Open when looking up oneEmIndentLineEndAllOneEm in InDesign. [oneEmIndentLineEndAllOneEm](one-em-indent-line-end-all-one-em.md).
+- Open when looking up oneEmIndentLineEndAllOneHalfEm in InDesign. [oneEmIndentLineEndAllOneHalfEm](one-em-indent-line-end-all-one-half-em.md).
+- Open when looking up oneEmIndentLineEndPeriodOneEm in InDesign. [oneEmIndentLineEndPeriodOneEm](one-em-indent-line-end-period-one-em.md).
+- Open when looking up oneEmIndentLineEndUkeNoFloat in InDesign. [oneEmIndentLineEndUkeNoFloat](one-em-indent-line-end-uke-no-float.md).
+- Open when looking up oneEmIndentLineEndUkeOneHalfEm in InDesign. [oneEmIndentLineEndUkeOneHalfEm](one-em-indent-line-end-uke-one-half-em.md).
+- Open when looking up oneOrOneHalfEmIndentLineEndAllOneEm in InDesign. [oneOrOneHalfEmIndentLineEndAllOneEm](one-or-one-half-em-indent-line-end-all-one-em.md).
+- Open when looking up oneOrOneHalfEmIndentLineEndPeriodOneEm in InDesign. [oneOrOneHalfEmIndentLineEndPeriodOneEm](one-or-one-half-em-indent-line-end-period-one-em.md).
+- Open when looking up oneOrOneHalfEmIndentLineEndUkeNoFloat in InDesign. [oneOrOneHalfEmIndentLineEndUkeNoFloat](one-or-one-half-em-indent-line-end-uke-no-float.md).
+- Open when looking up oneOrOneHalfEmIndentLineEndUkeOneHalfEm in InDesign. [oneOrOneHalfEmIndentLineEndUkeOneHalfEm](one-or-one-half-em-indent-line-end-uke-one-half-em.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

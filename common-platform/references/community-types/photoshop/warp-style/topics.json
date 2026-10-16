@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "WarpStyle declaration", "file": "references/community-types/photoshop/warp-style/declaration.md", "summary": "Open when looking up WarpStyle declaration in Shared Adobe platform.", "keywords": ["WarpStyle declaration"]},
+  {"topic": "WarpStyle.ARC", "file": "references/community-types/photoshop/warp-style/arc.md", "summary": "Open when looking up WarpStyle.ARC in Shared Adobe platform.", "keywords": ["WarpStyle.ARC"]},
+  {"topic": "WarpStyle.ARCH", "file": "references/community-types/photoshop/warp-style/arch.md", "summary": "Open when looking up WarpStyle.ARCH in Shared Adobe platform.", "keywords": ["WarpStyle.ARCH"]},
+  {"topic": "WarpStyle.ARCLOWER", "file": "references/community-types/photoshop/warp-style/arclower.md", "summary": "Open when looking up WarpStyle.ARCLOWER in Shared Adobe platform.", "keywords": ["WarpStyle.ARCLOWER"]},
+  {"topic": "WarpStyle.ARCUPPER", "file": "references/community-types/photoshop/warp-style/arcupper.md", "summary": "Open when looking up WarpStyle.ARCUPPER in Shared Adobe platform.", "keywords": ["WarpStyle.ARCUPPER"]},
+  {"topic": "WarpStyle.BULGE", "file": "references/community-types/photoshop/warp-style/bulge.md", "summary": "Open when looking up WarpStyle.BULGE in Shared Adobe platform.", "keywords": ["WarpStyle.BULGE"]},
+  {"topic": "WarpStyle.FISH", "file": "references/community-types/photoshop/warp-style/fish.md", "summary": "Open when looking up WarpStyle.FISH in Shared Adobe platform.", "keywords": ["WarpStyle.FISH"]},
+  {"topic": "WarpStyle.FISHEYE", "file": "references/community-types/photoshop/warp-style/fisheye.md", "summary": "Open when looking up WarpStyle.FISHEYE in Shared Adobe platform.", "keywords": ["WarpStyle.FISHEYE"]},
+  {"topic": "WarpStyle.FLAG", "file": "references/community-types/photoshop/warp-style/flag.md", "summary": "Open when looking up WarpStyle.FLAG in Shared Adobe platform.", "keywords": ["WarpStyle.FLAG"]},
+  {"topic": "WarpStyle.INFLATE", "file": "references/community-types/photoshop/warp-style/inflate.md", "summary": "Open when looking up WarpStyle.INFLATE in Shared Adobe platform.", "keywords": ["WarpStyle.INFLATE"]},
+  {"topic": "WarpStyle.NONE", "file": "references/community-types/photoshop/warp-style/none.md", "summary": "Open when looking up WarpStyle.NONE in Shared Adobe platform.", "keywords": ["WarpStyle.NONE"]},
+  {"topic": "WarpStyle.RISE", "file": "references/community-types/photoshop/warp-style/rise.md", "summary": "Open when looking up WarpStyle.RISE in Shared Adobe platform.", "keywords": ["WarpStyle.RISE"]},
+  {"topic": "WarpStyle.SHELLLOWER", "file": "references/community-types/photoshop/warp-style/shelllower.md", "summary": "Open when looking up WarpStyle.SHELLLOWER in Shared Adobe platform.", "keywords": ["WarpStyle.SHELLLOWER"]},
+  {"topic": "WarpStyle.SHELLUPPER", "file": "references/community-types/photoshop/warp-style/shellupper.md", "summary": "Open when looking up WarpStyle.SHELLUPPER in Shared Adobe platform.", "keywords": ["WarpStyle.SHELLUPPER"]},
+  {"topic": "WarpStyle.SQUEEZE", "file": "references/community-types/photoshop/warp-style/squeeze.md", "summary": "Open when looking up WarpStyle.SQUEEZE in Shared Adobe platform.", "keywords": ["WarpStyle.SQUEEZE"]},
+  {"topic": "WarpStyle.TWIST", "file": "references/community-types/photoshop/warp-style/twist.md", "summary": "Open when looking up WarpStyle.TWIST in Shared Adobe platform.", "keywords": ["WarpStyle.TWIST"]},
+  {"topic": "WarpStyle.WAVE", "file": "references/community-types/photoshop/warp-style/wave.md", "summary": "Open when looking up WarpStyle.WAVE in Shared Adobe platform.", "keywords": ["WarpStyle.WAVE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

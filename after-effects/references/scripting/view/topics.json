@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "View object", "file": "references/scripting/view/view-object.md", "summary": "Open when looking up View object in After Effects.", "keywords": ["View object"]},
+  {"topic": "View.active", "file": "references/scripting/view/active.md", "summary": "Open when looking up View.active in After Effects.", "keywords": ["View.active"]},
+  {"topic": "View.options", "file": "references/scripting/view/options.md", "summary": "Open when looking up View.options in After Effects.", "keywords": ["View.options"]},
+  {"topic": "View.setActive()", "file": "references/scripting/view/set-active.md", "summary": "Open when looking up View.setActive() in After Effects.", "keywords": ["View.setActive()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

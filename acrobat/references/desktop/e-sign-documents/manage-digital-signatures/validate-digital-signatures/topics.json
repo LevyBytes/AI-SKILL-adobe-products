@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Validate all digital signatures", "file": "references/desktop/e-sign-documents/manage-digital-signatures/validate-digital-signatures/validate-all-digital-signatures.md", "summary": "Open when looking up Validate all digital signatures in Acrobat.", "keywords": ["Validate all digital signatures"]},
+  {"topic": "Validate signatures", "file": "references/desktop/e-sign-documents/manage-digital-signatures/validate-digital-signatures/validate-signatures.md", "summary": "Open when looking up Validate signatures in Acrobat.", "keywords": ["Validate signatures"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

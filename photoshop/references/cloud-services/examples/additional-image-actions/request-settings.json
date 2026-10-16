@@ -1,0 +1,23 @@
+{
+  "inputs": [
+    {
+      "href": "<SIGNED_GET_URL>",
+      "storage": "<storage>"
+    }
+  ],
+  "options": {
+    "additionalImages": [
+      {
+        "href": "<SIGNED_GET_URL>",
+        "storage": "<storage>"
+      }
+    ]
+  },
+  "outputs": [
+    {
+      "type": "image/jpeg",
+      "href": "<SIGNED_PUT_URL>",
+      "storage": "<storage>"
+    }
+  ]
+}

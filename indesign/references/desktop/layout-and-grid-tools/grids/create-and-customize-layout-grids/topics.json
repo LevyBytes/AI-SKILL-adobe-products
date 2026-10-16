@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Apply layout grid to documents created with Margins and Columns", "file": "references/desktop/layout-and-grid-tools/grids/create-and-customize-layout-grids/layout-grid-from-margins-and-columns.md", "summary": "Open when looking up Apply layout grid to documents created with Margins and Columns in InDesign.", "keywords": ["Apply layout grid to documents created with Margins and Columns"]},
+  {"topic": "Modify existing layout grid settings", "file": "references/desktop/layout-and-grid-tools/grids/create-and-customize-layout-grids/modify-existing-layout-grid-settings.md", "summary": "Open when looking up Modify existing layout grid settings in InDesign.", "keywords": ["Modify existing layout grid settings"]},
+  {"topic": "Set up a new document with layout grid", "file": "references/desktop/layout-and-grid-tools/grids/create-and-customize-layout-grids/set-up-a-new-document-with-layout-grid.md", "summary": "Open when looking up Set up a new document with layout grid in InDesign.", "keywords": ["Set up a new document with layout grid"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

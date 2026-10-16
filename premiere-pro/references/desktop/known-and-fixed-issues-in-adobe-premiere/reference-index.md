@@ -1,0 +1,30 @@
+# Premiere Pro — Known and fixed issues in adobe premiere
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add Marker shortcut opens Edit Marker in Premiere Pro. [Add Marker shortcut opens Edit Marker](add-marker-shortcut-opens-edit-marker.md).
+- Open when looking up Compressed long-duration media imports more slowly in Premiere Pro. [Compressed long-duration media imports more slowly](compressed-long-duration-media-imports-more-slowly.md).
+- Open when looking up Content credentials display incorrectly for extended Sora videos in Premiere in Premiere Pro. [Content credentials display incorrectly for extended Sora videos in Premiere](sora-extension-content-credential-display.md).
+- Open when looking up Default media scaling fails in Premiere Pro. [Default media scaling fails](default-media-scaling-fails.md).
+- Open when looking up Export Frame stills omit captions in Premiere Pro. [Export Frame stills omit captions](export-frame-stills-omit-captions.md).
+- Open when looking up Export-mode X sign-in crashes CEP in Premiere Pro. [Export-mode X sign-in crashes CEP](export-mode-x-sign-in-crashes-cep.md).
+- Open when looking up Firefly-to-Premiere transfer fails in Premiere Pro. [Firefly-to-Premiere transfer fails](firefly-to-premiere-transfer-fails.md).
+- Open when looking up Generative Extend clip extensions do not retain timecode in Premiere Pro. [Generative Extend clip extensions do not retain timecode](generative-extend-clip-extensions-do-not-retain-timecode.md).
+- Open when looking up Import Files dialog box stalls during Windows import in Premiere Pro. [Import Files dialog box stalls during Windows import](import-files-dialog-box-stalls-during-windows-import.md).
+- Open when looking up Large-file imports can congest networks during content credentials scanning in Premiere Pro. [Large-file imports can congest networks during content credentials scanning](credential-scanning-network-congestion.md).
+- Open when looking up Minimum video track height makes edit points hard to see in Premiere Pro. [Minimum video track height makes edit points hard to see](minimum-video-track-height-makes-edit-points-hard-to-see.md).
+- Open when looking up Multiple clips added from Search panel to a sequence can unlink audio from video in Premiere Pro. [Multiple clips added from Search panel to a sequence can unlink audio from video](search-panel-audio-video-unlinking.md).
+- Open when looking up Multiple open projects make Auto Save use the wrong location in Premiere Pro. [Multiple open projects make Auto Save use the wrong location](multiple-open-projects-make-auto-save-use-the-wrong-location.md).
+- Open when looking up Object mask data absent after Adobe Media Encoder export in Premiere Pro. [Object mask data absent after Adobe Media Encoder export](object-mask-data-absent-after-adobe-media-encoder-export.md).
+- Open when looking up Premiere installs with English only despite the Creative Cloud language choice in Premiere Pro. [Premiere installs with English only despite the Creative Cloud language choice](english-only-installation-language.md).
+- Open when looking up Premiere Production incorrectly reports duplicate project IDs in Premiere Pro. [Premiere Production incorrectly reports duplicate project IDs](premiere-production-incorrectly-reports-duplicate-project-ids.md).
+- Open when looking up Premiere release 25.5 and earlier cannot upload to Behance in Premiere Pro. [Premiere release 25.5 and earlier cannot upload to Behance](premiere-release-25-5-and-earlier-cannot-upload-to-behance.md).
+- Open when looking up Premiere release 25.6 crashes on the masking upgrade dialog in Premiere Pro. [Premiere release 25.6 crashes on the masking upgrade dialog](premiere-release-25-6-crashes-on-the-masking-upgrade-dialog.md).
+- Open when looking up RED R3D media LUT selection crashes Premiere in Premiere Pro. [RED R3D media LUT selection crashes Premiere](red-r3-d-media-lut-selection-crashes-premiere.md).
+- Open when looking up Render and Replace overwrites files instead of appending new values in Premiere Pro. [Render and Replace overwrites files instead of appending new values](render-and-replace-file-overwrites.md).
+- Open when looking up Tangent color correction control surfaces encounter Lumetri Effects selection problems in Premiere Pro. [Tangent color correction control surfaces encounter Lumetri Effects selection problems](tangent-lumetri-effect-selection.md).
+- Open when looking up Text panel missing and UXP panels blank in Premiere Pro. [Text panel missing and UXP panels blank](text-panel-missing-and-uxp-panels-blank.md).
+- Open when looking up Timeline drag feedback disappears after GPU UI rendering is turned off in Premiere Pro. [Timeline drag feedback disappears after GPU UI rendering is turned off](disabled-gpu-ui-timeline-feedback.md).
+- Open when looking up Transmit fails to start automatically when an enabled project opens in Premiere Pro. [Transmit fails to start automatically when an enabled project opens](transmit-automatic-start-failure.md).
+- Open when looking up Vimeo sign-in from Export mode or Adobe Media Encoder shows a crash dialog in Premiere Pro. [Vimeo sign-in from Export mode or Adobe Media Encoder shows a crash dialog](vimeo-export-sign-in-crash.md).
+- Open when looking up Wide Gamut presets in the Lumetri Color panel break color pickers in Premiere Pro. [Wide Gamut presets in the Lumetri Color panel break color pickers](wide-gamut-color-picker-failure.md).
+- Open when looking up Write access unavailable for the project directory in Premiere Pro. [Write access unavailable for the project directory](write-access-unavailable-for-the-project-directory.md).

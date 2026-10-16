@@ -1,0 +1,22 @@
+# InDesign — Tabs, indents, and spacing
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About kerning and tracking in InDesign. [About kerning and tracking](about-kerning-and-tracking.md).
+- Open when looking up About kerning and tracking in InDesign. [About kerning and tracking references](about-kerning-and-tracking/reference-index.md).
+- Open when looking up Adjust kerning between characters in InDesign. [Adjust kerning between characters](adjust-kerning-between-characters.md).
+- Open when looking up Adjust kerning between characters in InDesign. [Adjust kerning between characters references](adjust-kerning-between-characters/reference-index.md).
+- Open when looking up Adjust text baseline and vertical position in InDesign. [Adjust text baseline and vertical position](adjust-text-baseline-and-vertical-position.md).
+- Open when looking up Adjust text baseline and vertical position in InDesign. [Adjust text baseline and vertical position references](adjust-text-baseline-and-vertical-position/reference-index.md).
+- Open when looking up Adjust text spacing in InDesign. [Adjust text spacing](adjust-text-spacing.md).
+- Open when looking up Adjust text spacing in InDesign. [Adjust text spacing references](adjust-text-spacing/reference-index.md).
+- Open when looking up Adjust text spacing with tracking in InDesign. [Adjust text spacing with tracking](adjust-text-spacing-with-tracking.md).
+- Open when looking up Control glyph scaling in InDesign. [Control glyph scaling](control-glyph-scaling.md).
+- Open when looking up Edit and manage tab settings in InDesign. [Edit and manage tab settings](edit-and-manage-tab-settings.md).
+- Open when looking up Edit and manage tab settings in InDesign. [Edit and manage tab settings references](edit-and-manage-tab-settings/reference-index.md).
+- Open when looking up Highlight spacing issues in InDesign. [Highlight spacing issues](highlight-spacing-issues.md).
+- Open when looking up Highlight spacing issues in InDesign. [Highlight spacing issues references](highlight-spacing-issues/reference-index.md).
+- Open when looking up Set and repeat tabs in InDesign. [Set and repeat tabs](set-and-repeat-tabs.md).
+- Open when looking up Set and repeat tabs in InDesign. [Set and repeat tabs references](set-and-repeat-tabs/reference-index.md).
+- Open when looking up Set indents in InDesign. [Set indents](set-indents.md).
+- Open when looking up Set indents in InDesign. [Set indents references](set-indents/reference-index.md).
+- Open when looking up Specify characters for decimal tabs in InDesign. [Specify characters for decimal tabs](specify-characters-for-decimal-tabs.md).

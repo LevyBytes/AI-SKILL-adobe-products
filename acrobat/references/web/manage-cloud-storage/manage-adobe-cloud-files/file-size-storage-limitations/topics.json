@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Compress PDF limit", "file": "references/web/manage-cloud-storage/manage-adobe-cloud-files/file-size-storage-limitations/compress-pdf-limit.md", "summary": "Open when looking up Compress PDF limit in Acrobat.", "keywords": ["Compress PDF limit"]},
+  {"topic": "Storage options", "file": "references/web/manage-cloud-storage/manage-adobe-cloud-files/file-size-storage-limitations/storage-options.md", "summary": "Open when looking up Storage options in Acrobat.", "keywords": ["Storage options"]},
+  {"topic": "Storage quota", "file": "references/web/manage-cloud-storage/manage-adobe-cloud-files/file-size-storage-limitations/storage-quota.md", "summary": "Open when looking up Storage quota in Acrobat.", "keywords": ["Storage quota"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

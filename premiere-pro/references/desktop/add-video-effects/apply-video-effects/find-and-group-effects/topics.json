@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Find effects", "file": "references/desktop/add-video-effects/apply-video-effects/find-and-group-effects/find-effects.md", "summary": "Open when looking up Find effects in Premiere Pro.", "keywords": ["Find effects"]},
+  {"topic": "Group effects", "file": "references/desktop/add-video-effects/apply-video-effects/find-and-group-effects/group-effects.md", "summary": "Open when looking up Group effects in Premiere Pro.", "keywords": ["Group effects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

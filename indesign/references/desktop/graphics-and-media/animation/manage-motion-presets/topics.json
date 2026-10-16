@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Delete a custom motion preset", "file": "references/desktop/graphics-and-media/animation/manage-motion-presets/delete-a-custom-motion-preset.md", "summary": "Open when looking up Delete a custom motion preset in InDesign.", "keywords": ["Delete a custom motion preset"]},
+  {"topic": "Duplicate an existing preset", "file": "references/desktop/graphics-and-media/animation/manage-motion-presets/duplicate-an-existing-preset.md", "summary": "Open when looking up Duplicate an existing preset in InDesign.", "keywords": ["Duplicate an existing preset"]},
+  {"topic": "Import a motion preset from an XML file", "file": "references/desktop/graphics-and-media/animation/manage-motion-presets/import-a-motion-preset-from-an-xml-file.md", "summary": "Open when looking up Import a motion preset from an XML file in InDesign.", "keywords": ["Import a motion preset from an XML file"]},
+  {"topic": "Save a custom motion preset", "file": "references/desktop/graphics-and-media/animation/manage-motion-presets/save-a-custom-motion-preset.md", "summary": "Open when looking up Save a custom motion preset in InDesign.", "keywords": ["Save a custom motion preset"]},
+  {"topic": "Save motion preset as an XML file", "file": "references/desktop/graphics-and-media/animation/manage-motion-presets/save-motion-preset-as-an-xml-file.md", "summary": "Open when looking up Save motion preset as an XML file in InDesign.", "keywords": ["Save motion preset as an XML file"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

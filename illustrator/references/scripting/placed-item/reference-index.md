@@ -1,0 +1,47 @@
+# Illustrator — PlacedItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PlacedItem.artworkKnockout in Illustrator. [PlacedItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up PlacedItem.blendingMode in Illustrator. [PlacedItem.blendingMode](blending-mode.md).
+- Open when looking up PlacedItem.boundingBox in Illustrator. [PlacedItem.boundingBox](bounding-box.md).
+- Open when looking up PlacedItem.contentVariable in Illustrator. [PlacedItem.contentVariable](content-variable.md).
+- Open when looking up PlacedItem.controlBounds in Illustrator. [PlacedItem.controlBounds](control-bounds.md).
+- Open when looking up PlacedItem.duplicate() in Illustrator. [PlacedItem.duplicate()](duplicate.md).
+- Open when looking up PlacedItem.editable in Illustrator. [PlacedItem.editable](editable.md).
+- Open when looking up PlacedItem.embed() in Illustrator. [PlacedItem.embed()](embed.md).
+- Open when looking up PlacedItem.file in Illustrator. [PlacedItem.file](file.md).
+- Open when looking up PlacedItem.geometricBounds in Illustrator. [PlacedItem.geometricBounds](geometric-bounds.md).
+- Open when looking up PlacedItem.height in Illustrator. [PlacedItem.height](height.md).
+- Open when looking up PlacedItem.hidden in Illustrator. [PlacedItem.hidden](hidden.md).
+- Open when looking up PlacedItem.isIsolated in Illustrator. [PlacedItem.isIsolated](is-isolated.md).
+- Open when looking up PlacedItem.layer in Illustrator. [PlacedItem.layer](layer.md).
+- Open when looking up PlacedItem.left in Illustrator. [PlacedItem.left](left.md).
+- Open when looking up PlacedItem.locked in Illustrator. [PlacedItem.locked](locked.md).
+- Open when looking up PlacedItem.matrix in Illustrator. [PlacedItem.matrix](matrix.md).
+- Open when looking up PlacedItem.move() in Illustrator. [PlacedItem.move()](move.md).
+- Open when looking up PlacedItem.name in Illustrator. [PlacedItem.name](name.md).
+- Open when looking up PlacedItem.note in Illustrator. [PlacedItem.note](note.md).
+- Open when looking up PlacedItem.opacity in Illustrator. [PlacedItem.opacity](opacity.md).
+- Open when looking up PlacedItem.parent in Illustrator. [PlacedItem.parent](parent.md).
+- Open when looking up PlacedItem.position in Illustrator. [PlacedItem.position](position.md).
+- Open when looking up PlacedItem.relink() in Illustrator. [PlacedItem.relink()](relink.md).
+- Open when looking up PlacedItem.remove() in Illustrator. [PlacedItem.remove()](remove.md).
+- Open when looking up PlacedItem.resize() in Illustrator. [PlacedItem.resize()](resize.md).
+- Open when looking up PlacedItem.rotate() in Illustrator. [PlacedItem.rotate()](rotate.md).
+- Open when looking up PlacedItem.selected in Illustrator. [PlacedItem.selected](selected.md).
+- Open when looking up PlacedItem.sliced in Illustrator. [PlacedItem.sliced](sliced.md).
+- Open when looking up PlacedItem.tags in Illustrator. [PlacedItem.tags](tags.md).
+- Open when looking up PlacedItem.top in Illustrator. [PlacedItem.top](top.md).
+- Open when looking up PlacedItem.trace in Illustrator. [PlacedItem.trace](trace.md).
+- Open when looking up PlacedItem.transform() in Illustrator. [PlacedItem.transform()](transform.md).
+- Open when looking up PlacedItem.translate() in Illustrator. [PlacedItem.translate()](translate.md).
+- Open when looking up PlacedItem.typename in Illustrator. [PlacedItem.typename](typename.md).
+- Open when looking up PlacedItem.uRL in Illustrator. [PlacedItem.uRL](u-rl.md).
+- Open when looking up PlacedItem.visibilityVariable in Illustrator. [PlacedItem.visibilityVariable](visibility-variable.md).
+- Open when looking up PlacedItem.visibleBounds in Illustrator. [PlacedItem.visibleBounds](visible-bounds.md).
+- Open when looking up PlacedItem.width in Illustrator. [PlacedItem.width](width.md).
+- Open when looking up PlacedItem.wrapInside in Illustrator. [PlacedItem.wrapInside](wrap-inside.md).
+- Open when looking up PlacedItem.wrapOffset in Illustrator. [PlacedItem.wrapOffset](wrap-offset.md).
+- Open when looking up PlacedItem.wrapped in Illustrator. [PlacedItem.wrapped](wrapped.md).
+- Open when looking up PlacedItem.zOrder() in Illustrator. [PlacedItem.zOrder()](z-order.md).
+- Open when looking up PlacedItem.zOrderPosition in Illustrator. [PlacedItem.zOrderPosition](z-order-position.md).

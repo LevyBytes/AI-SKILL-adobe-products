@@ -1,0 +1,57 @@
+# After Effects — Simulation Effects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Affects controls in After Effects. [Affects controls](affects-controls.md).
+- Open when looking up Bottom controls in After Effects. [Bottom controls](bottom-controls.md).
+- Open when looking up Bubbles controls in After Effects. [Bubbles controls](bubbles-controls.md).
+- Open when looking up Camera System and Camera Position controls in After Effects. [Camera System and Camera Position controls](camera-system-and-camera-position-controls.md).
+- Open when looking up Cannon controls in After Effects. [Cannon controls](cannon-controls.md).
+- Open when looking up Card Dance effect in After Effects. [Card Dance effect](card-dance-effect.md).
+- Open when looking up Caustics effect in After Effects. [Caustics effect](caustics-effect.md).
+- Open when looking up Changing a particle over its lifespan in After Effects. [Changing a particle over its lifespan](changing-a-particle-over-its-lifespan.md).
+- Open when looking up Common Lighting controls and Material controls in After Effects. [Common Lighting controls and Material controls](common-lighting-controls-and-material-controls.md).
+- Open when looking up Control layers for Particle Playground in After Effects. [Control layers for Particle Playground](control-layers-for-particle-playground.md).
+- Open when looking up Corner Pins controls in After Effects. [Corner Pins controls](corner-pins-controls.md).
+- Open when looking up Creating a custom shatter map in After Effects. [Creating a custom shatter map](creating-a-custom-shatter-map.md).
+- Open when looking up Flow Map controls in After Effects. [Flow Map controls](flow-map-controls.md).
+- Open when looking up Foam effect in After Effects. [Foam effect](foam-effect.md).
+- Open when looking up Force 1 and Force 2 controls in After Effects. [Force 1 and Force 2 controls](force-1-and-force-2-controls.md).
+- Open when looking up Gradient controls in After Effects. [Gradient controls](gradient-controls.md).
+- Open when looking up Gravity controls in After Effects. [Gravity controls](gravity-controls.md).
+- Open when looking up Grid controls in After Effects. [Grid controls](grid-controls.md).
+- Open when looking up Ground controls in After Effects. [Ground controls](ground-controls.md).
+- Open when looking up Height Map controls in After Effects. [Height Map controls](height-map-controls.md).
+- Open when looking up Improving performance with Particle Playground in After Effects. [Improving performance with Particle Playground](improving-performance-with-particle-playground.md).
+- Open when looking up Layer Exploder and Particle Exploder in After Effects. [Layer Exploder and Particle Exploder](layer-exploder-and-particle-exploder.md).
+- Open when looking up Layer Map controls in After Effects. [Layer Map controls](layer-map-controls.md).
+- Open when looking up Lighting controls in After Effects. [Lighting controls](lighting-controls.md).
+- Open when looking up Material controls in After Effects. [Material controls](material-controls.md).
+- Open when looking up Min and Max controls for Property Mappers in After Effects. [Min and Max controls for Property Mappers](min-and-max-controls-for-property-mappers.md).
+- Open when looking up Operator controls for the Ephemeral Property Mapper in After Effects. [Operator controls for the Ephemeral Property Mapper](operator-controls-for-the-ephemeral-property-mapper.md).
+- Open when looking up Particle content and particle generators in After Effects. [Particle content and particle generators](particle-content-and-particle-generators.md).
+- Open when looking up Particle Playground effect in After Effects. [Particle Playground effect](particle-playground-effect.md).
+- Open when looking up Particle Playground property mapping in After Effects. [Particle Playground property mapping](use-particle-playground-property-mapper-controls.md).
+- Open when looking up Particle properties controlled by layer maps in After Effects. [Particle properties controlled by layer maps](particle-mapped-properties.md).
+- Open when looking up Physics controls in After Effects. [Physics controls](physics-controls.md).
+- Open when looking up Position, Rotation, and Scale controls in After Effects. [Position, Rotation, and Scale controls](position-rotation-and-scale-controls.md).
+- Open when looking up Producer 1 and Producer 2 controls in After Effects. [Producer 1 and Producer 2 controls](producer-1-and-producer-2-controls.md).
+- Open when looking up Producer controls in After Effects. [Producer controls](producer-controls.md).
+- Open when looking up Render control in After Effects. [Render control](render-control.md).
+- Open when looking up Rendering controls in After Effects. [Rendering controls](rendering-controls.md).
+- Open when looking up Repel controls in After Effects. [Repel controls](repel-controls.md).
+- Open when looking up Replace default Cannon particles with text in After Effects. [Replace default Cannon particles with text](replace-default-cannon-particles-with-text.md).
+- Open when looking up Replace default Grid particles with text in After Effects. [Replace default Grid particles with text](replace-default-grid-particles-with-text.md).
+- Open when looking up Rows, Columns, Layer, and Order controls in After Effects. [Rows, Columns, Layer, and Order controls](rows-columns-layer-and-order-controls.md).
+- Open when looking up Shape controls in After Effects. [Shape controls](shape-controls.md).
+- Open when looking up Shatter effect in After Effects. [Shatter effect](shatter-effect.md).
+- Open when looking up Simulation controls in After Effects. [Simulation controls](simulation-controls.md).
+- Open when looking up Sky controls in After Effects. [Sky controls](sky-controls.md).
+- Open when looking up Textures controls in After Effects. [Textures controls](textures-controls.md).
+- Open when looking up Use Particle Playground in After Effects. [Use Particle Playground](use-particle-playground.md).
+- Open when looking up Using Selection Text values to differently affect subsets of text in After Effects. [Using Selection Text values to differently affect subsets of text](selection-text-subsets.md).
+- Open when looking up View controls in After Effects. [View controls](view-controls.md).
+- Open when looking up Wall controls in After Effects. [Wall controls](wall-controls.md).
+- Open when looking up Water controls in After Effects. [Water controls](water-controls.md).
+- Open when looking up Wave World effect in After Effects. [Wave World effect](wave-world-effect.md).
+- Open when looking up Wireframe controls in After Effects. [Wireframe controls](wireframe-controls.md).
+- Open when looking up Zoom and Universe Size controls in After Effects. [Zoom and Universe Size controls](zoom-and-universe-size-controls.md).

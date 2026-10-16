@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "batchPlay", "file": "references/uxp/host-api/application/batch-play.md", "summary": "Open when looking up batchPlay in Photoshop.", "keywords": ["batchPlay"]},
+  {"topic": "bringToFront", "file": "references/uxp/host-api/application/bring-to-front.md", "summary": "Open when looking up bringToFront in Photoshop.", "keywords": ["bringToFront"]},
+  {"topic": "convertUnits", "file": "references/uxp/host-api/application/convert-units.md", "summary": "Open when looking up convertUnits in Photoshop.", "keywords": ["convertUnits"]},
+  {"topic": "createDocument", "file": "references/uxp/host-api/application/create-document.md", "summary": "Open when looking up createDocument in Photoshop.", "keywords": ["createDocument"]},
+  {"topic": "getColorProfiles", "file": "references/uxp/host-api/application/get-color-profiles.md", "summary": "Open when looking up getColorProfiles in Photoshop.", "keywords": ["getColorProfiles"]},
+  {"topic": "open", "file": "references/uxp/host-api/application/open.md", "summary": "Open when looking up open in Photoshop.", "keywords": ["open"]},
+  {"topic": "Photoshop", "file": "references/uxp/host-api/application/photoshop.md", "summary": "Open when looking up Photoshop in Photoshop.", "keywords": ["Photoshop"]},
+  {"topic": "showAlert", "file": "references/uxp/host-api/application/show-alert.md", "summary": "Open when looking up showAlert in Photoshop.", "keywords": ["showAlert"]},
+  {"topic": "updateUI", "file": "references/uxp/host-api/application/update-ui.md", "summary": "Open when looking up updateUI in Photoshop.", "keywords": ["updateUI"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

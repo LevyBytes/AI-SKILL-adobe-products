@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "blend", "file": "references/plugin-sdk/pf-world-transform-suite1/blend.md", "summary": "Open when looking up blend in After Effects.", "keywords": ["blend"]},
+  {"topic": "composite_rect", "file": "references/plugin-sdk/pf-world-transform-suite1/compositerect.md", "summary": "Open when looking up composite_rect in After Effects.", "keywords": ["composite_rect"]},
+  {"topic": "convolve", "file": "references/plugin-sdk/pf-world-transform-suite1/convolve.md", "summary": "Open when looking up convolve in After Effects.", "keywords": ["convolve"]},
+  {"topic": "copy", "file": "references/plugin-sdk/pf-world-transform-suite1/copy.md", "summary": "Open when looking up copy in After Effects.", "keywords": ["copy"]},
+  {"topic": "copy_hq", "file": "references/plugin-sdk/pf-world-transform-suite1/copyhq.md", "summary": "Open when looking up copy_hq in After Effects.", "keywords": ["copy_hq"]},
+  {"topic": "transfer_rect", "file": "references/plugin-sdk/pf-world-transform-suite1/transferrect.md", "summary": "Open when looking up transfer_rect in After Effects.", "keywords": ["transfer_rect"]},
+  {"topic": "transform_world", "file": "references/plugin-sdk/pf-world-transform-suite1/transformworld.md", "summary": "Open when looking up transform_world in After Effects.", "keywords": ["transform_world"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

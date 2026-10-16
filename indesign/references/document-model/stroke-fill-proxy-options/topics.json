@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "FILL", "file": "references/document-model/stroke-fill-proxy-options/fill.md", "summary": "Open when looking up FILL in InDesign.", "keywords": ["FILL"]},
+  {"topic": "STROKE", "file": "references/document-model/stroke-fill-proxy-options/stroke.md", "summary": "Open when looking up STROKE in InDesign.", "keywords": ["STROKE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

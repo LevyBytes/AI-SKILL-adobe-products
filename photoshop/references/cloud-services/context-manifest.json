@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Manifest migration references", "file": "references/cloud-services/manifest-migration/reference-index.md", "summary": "Open when looking up Manifest migration in Photoshop.", "keywords": ["Manifest migration references"]},
+  {"topic": "Manifest Response Migration", "file": "references/cloud-services/manifest-response-migration.md", "summary": "Open when looking up Manifest Response Migration in Photoshop.", "keywords": ["Manifest Response Migration"]},
+  {"topic": "Retrieve a PSD's JSON Manifest", "file": "references/cloud-services/retrieve-a-psd-s-json-manifest.md", "summary": "Open when looking up Retrieve a PSD's JSON Manifest in Photoshop.", "keywords": ["Retrieve a PSD's JSON Manifest"]},
+  {"topic": "Retrieve a PSD's JSON Manifest references", "file": "references/cloud-services/retrieve-a-psd-s-json-manifest/reference-index.md", "summary": "Open when looking up Retrieve a PSD's JSON Manifest in Photoshop.", "keywords": ["Retrieve a PSD's JSON Manifest references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

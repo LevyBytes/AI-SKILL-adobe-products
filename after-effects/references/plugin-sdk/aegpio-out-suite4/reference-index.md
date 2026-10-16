@@ -1,0 +1,35 @@
+# After Effects — AEGPIOOutSuite4
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_GetNewOutSpecColorProfile in After Effects. [AEGP_GetNewOutSpecColorProfile](aegp-get-new-out-spec-color-profile.md).
+- Open when looking up AEGP_GetOutSpecAlphaLabel in After Effects. [AEGP_GetOutSpecAlphaLabel](aegp-get-out-spec-alpha-label.md).
+- Open when looking up AEGP_GetOutSpecDepth in After Effects. [AEGP_GetOutSpecDepth](aegp-get-out-spec-depth.md).
+- Open when looking up AEGP_GetOutSpecDimensions in After Effects. [AEGP_GetOutSpecDimensions](aegp-get-out-spec-dimensions.md).
+- Open when looking up AEGP_GetOutSpecDuration in After Effects. [AEGP_GetOutSpecDuration](aegp-get-out-spec-duration.md).
+- Open when looking up AEGP_GetOutSpecFilePath in After Effects. [AEGP_GetOutSpecFilePath](aegp-get-out-spec-file-path.md).
+- Open when looking up AEGP_GetOutSpecFPS in After Effects. [AEGP_GetOutSpecFPS](aegp-get-out-spec-fps.md).
+- Open when looking up AEGP_GetOutSpecHSF in After Effects. [AEGP_GetOutSpecHSF](aegp-get-out-spec-hsf.md).
+- Open when looking up AEGP_GetOutSpecInterlaceLabel in After Effects. [AEGP_GetOutSpecInterlaceLabel](aegp-get-out-spec-interlace-label.md).
+- Open when looking up AEGP_GetOutSpecIsMissing in After Effects. [AEGP_GetOutSpecIsMissing](aegp-get-out-spec-is-missing.md).
+- Open when looking up AEGP_GetOutSpecIsStill in After Effects. [AEGP_GetOutSpecIsStill](aegp-get-out-spec-is-still.md).
+- Open when looking up AEGP_GetOutSpecOptionsHandle in After Effects. [AEGP_GetOutSpecOptionsHandle](aegp-get-out-spec-options-handle.md).
+- Open when looking up AEGP_GetOutSpecOutputModule in After Effects. [AEGP_GetOutSpecOutputModule](aegp-get-out-spec-output-module.md).
+- Open when looking up AEGP_GetOutSpecPosterTime in After Effects. [AEGP_GetOutSpecPosterTime](aegp-get-out-spec-poster-time.md).
+- Open when looking up AEGP_GetOutSpecPullDown in After Effects. [AEGP_GetOutSpecPullDown](aegp-get-out-spec-pull-down.md).
+- Open when looking up AEGP_GetOutSpecShouldEmbedICCProfile in After Effects. [AEGP_GetOutSpecShouldEmbedICCProfile](aegp-get-out-spec-should-embed-icc-profile.md).
+- Open when looking up AEGP_GetOutSpecSoundChannels in After Effects. [AEGP_GetOutSpecSoundChannels](aegp-get-out-spec-sound-channels.md).
+- Open when looking up AEGP_GetOutSpecSoundEncoding in After Effects. [AEGP_GetOutSpecSoundEncoding](aegp-get-out-spec-sound-encoding.md).
+- Open when looking up AEGP_GetOutSpecSoundRate in After Effects. [AEGP_GetOutSpecSoundRate](aegp-get-out-spec-sound-rate.md).
+- Open when looking up AEGP_GetOutSpecSoundSampleSize in After Effects. [AEGP_GetOutSpecSoundSampleSize](aegp-get-out-spec-sound-sample-size.md).
+- Open when looking up AEGP_GetOutSpecStartFrame in After Effects. [AEGP_GetOutSpecStartFrame](aegp-get-out-spec-start-frame.md).
+- Open when looking up AEGP_SetOutSpecAlphaLabel in After Effects. [AEGP_SetOutSpecAlphaLabel](aegp-set-out-spec-alpha-label.md).
+- Open when looking up AEGP_SetOutSpecDepth in After Effects. [AEGP_SetOutSpecDepth](aegp-set-out-spec-depth.md).
+- Open when looking up AEGP_SetOutSpecDuration in After Effects. [AEGP_SetOutSpecDuration](aegp-set-out-spec-duration.md).
+- Open when looking up AEGP_SetOutSpecHSF in After Effects. [AEGP_SetOutSpecHSF](aegp-set-out-spec-hsf.md).
+- Open when looking up AEGP_SetOutSpecInterlaceLabel in After Effects. [AEGP_SetOutSpecInterlaceLabel](aegp-set-out-spec-interlace-label.md).
+- Open when looking up AEGP_SetOutSpecNativeFPS in After Effects. [AEGP_SetOutSpecNativeFPS](aegp-set-out-spec-native-fps.md).
+- Open when looking up AEGP_SetOutSpecOptionsHandle in After Effects. [AEGP_SetOutSpecOptionsHandle](aegp-set-out-spec-options-handle.md).
+- Open when looking up AEGP_SetOutSpecSoundChannels in After Effects. [AEGP_SetOutSpecSoundChannels](aegp-set-out-spec-sound-channels.md).
+- Open when looking up AEGP_SetOutSpecSoundEncoding in After Effects. [AEGP_SetOutSpecSoundEncoding](aegp-set-out-spec-sound-encoding.md).
+- Open when looking up AEGP_SetOutSpecSoundRate in After Effects. [AEGP_SetOutSpecSoundRate](aegp-set-out-spec-sound-rate.md).
+- Open when looking up AEGP_SetOutSpecSoundSampleSize in After Effects. [AEGP_SetOutSpecSoundSampleSize](aegp-set-out-spec-sound-sample-size.md).

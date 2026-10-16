@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Photoshop app object", "file": "references/uxp/release-history/photoshop-api-changelog-photoshop-26-0-oct-2024/photoshop-app-object.md", "summary": "Open when looking up Photoshop app object in Photoshop.", "keywords": ["Photoshop app object"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

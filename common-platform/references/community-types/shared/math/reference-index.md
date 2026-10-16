@@ -1,0 +1,30 @@
+# Shared Adobe platform — Math
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Math declaration in Shared Adobe platform. [Math declaration](declaration.md).
+- Open when looking up Math.abs in Shared Adobe platform. [Math.abs](abs.md).
+- Open when looking up Math.acos in Shared Adobe platform. [Math.acos](acos.md).
+- Open when looking up Math.asin in Shared Adobe platform. [Math.asin](asin.md).
+- Open when looking up Math.atan in Shared Adobe platform. [Math.atan](atan.md).
+- Open when looking up Math.atan2 in Shared Adobe platform. [Math.atan2](atan2.md).
+- Open when looking up Math.ceil in Shared Adobe platform. [Math.ceil](ceil.md).
+- Open when looking up Math.cos in Shared Adobe platform. [Math.cos](cos.md).
+- Open when looking up Math.E in Shared Adobe platform. [Math.E](e.md).
+- Open when looking up Math.exp in Shared Adobe platform. [Math.exp](exp.md).
+- Open when looking up Math.floor in Shared Adobe platform. [Math.floor](floor.md).
+- Open when looking up Math.LN10 in Shared Adobe platform. [Math.LN10](ln10.md).
+- Open when looking up Math.LN2 in Shared Adobe platform. [Math.LN2](ln2.md).
+- Open when looking up Math.log in Shared Adobe platform. [Math.log](log.md).
+- Open when looking up Math.LOG10E in Shared Adobe platform. [Math.LOG10E](log10-e.md).
+- Open when looking up Math.LOG2E in Shared Adobe platform. [Math.LOG2E](log2-e.md).
+- Open when looking up Math.max in Shared Adobe platform. [Math.max](max.md).
+- Open when looking up Math.min in Shared Adobe platform. [Math.min](min.md).
+- Open when looking up Math.PI in Shared Adobe platform. [Math.PI](pi.md).
+- Open when looking up Math.pow in Shared Adobe platform. [Math.pow](pow.md).
+- Open when looking up Math.random in Shared Adobe platform. [Math.random](random.md).
+- Open when looking up Math.round in Shared Adobe platform. [Math.round](round.md).
+- Open when looking up Math.sin in Shared Adobe platform. [Math.sin](sin.md).
+- Open when looking up Math.sqrt in Shared Adobe platform. [Math.sqrt](sqrt.md).
+- Open when looking up Math.SQRT1_2 in Shared Adobe platform. [Math.SQRT1_2](sqrt12.md).
+- Open when looking up Math.SQRT2 in Shared Adobe platform. [Math.SQRT2](sqrt2.md).
+- Open when looking up Math.tan in Shared Adobe platform. [Math.tan](tan.md).

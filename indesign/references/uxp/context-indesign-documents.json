@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Document changes", "file": "references/uxp/document-changes.md", "summary": "Open when looking up Document changes in InDesign.", "keywords": ["Document changes"]},
+  {"topic": "Document changes references", "file": "references/uxp/document-changes/reference-index.md", "summary": "Open when looking up Document changes in InDesign.", "keywords": ["Document changes references"]},
+  {"topic": "Events", "file": "references/uxp/events.md", "summary": "Open when looking up Events in InDesign.", "keywords": ["Events"]},
+  {"topic": "Events references", "file": "references/uxp/events/reference-index.md", "summary": "Open when looking up Events in InDesign.", "keywords": ["Events references"]},
+  {"topic": "Importing XML", "file": "references/uxp/importing-xml.md", "summary": "Open when looking up Importing XML in InDesign.", "keywords": ["Importing XML"]},
+  {"topic": "Loading XML tags", "file": "references/uxp/loading-xml-tags.md", "summary": "Open when looking up Loading XML tags in InDesign.", "keywords": ["Loading XML tags"]},
+  {"topic": "Measurements and positioning", "file": "references/uxp/measurements-and-positioning.md", "summary": "Open when looking up Measurements and positioning in InDesign.", "keywords": ["Measurements and positioning"]},
+  {"topic": "Measurements and positioning references", "file": "references/uxp/measurements-and-positioning/reference-index.md", "summary": "Open when looking up Measurements and positioning in InDesign.", "keywords": ["Measurements and positioning references"]},
+  {"topic": "Saving XML tags", "file": "references/uxp/saving-xml-tags.md", "summary": "Open when looking up Saving XML tags in InDesign.", "keywords": ["Saving XML tags"]},
+  {"topic": "Xml rules references", "file": "references/uxp/xml-rules/reference-index.md", "summary": "Open when looking up Xml rules in InDesign.", "keywords": ["Xml rules references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

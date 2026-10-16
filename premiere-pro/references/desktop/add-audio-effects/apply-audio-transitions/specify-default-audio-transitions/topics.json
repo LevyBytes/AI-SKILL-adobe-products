@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Adjust or customize an audio transition", "file": "references/desktop/add-audio-effects/apply-audio-transitions/specify-default-audio-transitions/adjust-or-customize-an-audio-transition.md", "summary": "Open when looking up Adjust or customize an audio transition in Premiere Pro.", "keywords": ["Adjust or customize an audio transition"]},
+  {"topic": "Set the default duration for audio transitions", "file": "references/desktop/add-audio-effects/apply-audio-transitions/specify-default-audio-transitions/set-the-default-duration-for-audio-transitions.md", "summary": "Open when looking up Set the default duration for audio transitions in Premiere Pro.", "keywords": ["Set the default duration for audio transitions"]},
+  {"topic": "Specify the default audio transition", "file": "references/desktop/add-audio-effects/apply-audio-transitions/specify-default-audio-transitions/specify-the-default-audio-transition.md", "summary": "Open when looking up Specify the default audio transition in Premiere Pro.", "keywords": ["Specify the default audio transition"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

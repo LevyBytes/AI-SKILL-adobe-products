@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Alignment grids and guides", "file": "references/desktop/grids-and-measurement/alignment-grids-and-guides.md", "summary": "Open when looking up Alignment grids and guides in Photoshop.", "keywords": ["Alignment grids and guides"]},
+  {"topic": "Alignment grids and guides references", "file": "references/desktop/grids-and-measurement/alignment-grids-and-guides/reference-index.md", "summary": "Open when looking up Alignment grids and guides in Photoshop.", "keywords": ["Alignment grids and guides references"]},
+  {"topic": "Measure and scale", "file": "references/desktop/grids-and-measurement/measure-and-scale.md", "summary": "Open when looking up Measure and scale in Photoshop.", "keywords": ["Measure and scale"]},
+  {"topic": "Measure and scale references", "file": "references/desktop/grids-and-measurement/measure-and-scale/reference-index.md", "summary": "Open when looking up Measure and scale in Photoshop.", "keywords": ["Measure and scale references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

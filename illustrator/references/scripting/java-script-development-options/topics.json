@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Developing a CC extension using ActionScript", "file": "references/scripting/java-script-development-options/developing-a-cc-extension-using-action-script.md", "summary": "Open when looking up Developing a CC extension using ActionScript in Illustrator.", "keywords": ["Developing a CC extension using ActionScript"]},
+  {"topic": "ExtendScript features", "file": "references/scripting/java-script-development-options/extend-script-features.md", "summary": "Open when looking up ExtendScript features in Illustrator.", "keywords": ["ExtendScript features"]},
+  {"topic": "Scripting language support in Adobe Illustrator CC — JavaScript development options", "file": "references/scripting/java-script-development-options/javascript-development-options.md", "summary": "Open when looking up Scripting language support in Adobe Illustrator CC — JavaScript development options in Illustrator.", "keywords": ["Scripting language support in Adobe Illustrator CC — JavaScript development options"]},
+  {"topic": "Scripting plug-ins", "file": "references/scripting/java-script-development-options/scripting-plug-ins.md", "summary": "Open when looking up Scripting plug-ins in Illustrator.", "keywords": ["Scripting plug-ins"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

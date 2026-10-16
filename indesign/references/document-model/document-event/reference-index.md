@@ -1,0 +1,38 @@
+# InDesign — DocumentEvent
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AFTER_CLOSE in InDesign. [AFTER_CLOSE](afterclose.md).
+- Open when looking up AFTER_NEW in InDesign. [AFTER_NEW](afternew.md).
+- Open when looking up AFTER_OPEN in InDesign. [AFTER_OPEN](afteropen.md).
+- Open when looking up AFTER_REVERT in InDesign. [AFTER_REVERT](afterrevert.md).
+- Open when looking up AFTER_SAVE in InDesign. [AFTER_SAVE](aftersave.md).
+- Open when looking up AFTER_SAVE_A_COPY in InDesign. [AFTER_SAVE_A_COPY](aftersaveacopy.md).
+- Open when looking up AFTER_SAVE_AS in InDesign. [AFTER_SAVE_AS](aftersaveas.md).
+- Open when looking up BEFORE_CLOSE in InDesign. [BEFORE_CLOSE](beforeclose.md).
+- Open when looking up BEFORE_NEW in InDesign. [BEFORE_NEW](beforenew.md).
+- Open when looking up BEFORE_OPEN in InDesign. [BEFORE_OPEN](beforeopen.md).
+- Open when looking up BEFORE_REVERT in InDesign. [BEFORE_REVERT](beforerevert.md).
+- Open when looking up BEFORE_SAVE in InDesign. [BEFORE_SAVE](beforesave.md).
+- Open when looking up BEFORE_SAVE_A_COPY in InDesign. [BEFORE_SAVE_A_COPY](beforesaveacopy.md).
+- Open when looking up BEFORE_SAVE_AS in InDesign. [BEFORE_SAVE_AS](beforesaveas.md).
+- Open when looking up bubbles in InDesign. [bubbles](bubbles.md).
+- Open when looking up cancelable in InDesign. [cancelable](cancelable.md).
+- Open when looking up currentTarget in InDesign. [currentTarget](current-target.md).
+- Open when looking up defaultPrevented in InDesign. [defaultPrevented](default-prevented.md).
+- Open when looking up eventPhase in InDesign. [eventPhase](event-phase.md).
+- Open when looking up eventType in InDesign. [eventType](event-type.md).
+- Open when looking up fullName in InDesign. [fullName](full-name.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up preventDefault in InDesign. [preventDefault](prevent-default.md).
+- Open when looking up propagationStopped in InDesign. [propagationStopped](propagation-stopped.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up stopPropagation in InDesign. [stopPropagation](stop-propagation.md).
+- Open when looking up target in InDesign. [target](target.md).
+- Open when looking up timeStamp in InDesign. [timeStamp](time-stamp.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up userInteractionLevel in InDesign. [userInteractionLevel](user-interaction-level.md).

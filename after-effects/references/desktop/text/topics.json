@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Animation references", "file": "references/desktop/text/animation/reference-index.md", "summary": "Open when looking up Animation in After Effects.", "keywords": ["Animation references"]},
+  {"topic": "Editing references", "file": "references/desktop/text/editing/reference-index.md", "summary": "Open when looking up Editing in After Effects.", "keywords": ["Editing references"]},
+  {"topic": "Formatting characters and paragraphs references", "file": "references/desktop/text/formatting-characters-and-paragraphs/reference-index.md", "summary": "Open when looking up Formatting characters and paragraphs in After Effects.", "keywords": ["Formatting characters and paragraphs references"]},
+  {"topic": "Text effects references", "file": "references/desktop/text/text-effects/reference-index.md", "summary": "Open when looking up Text effects in After Effects.", "keywords": ["Text effects references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

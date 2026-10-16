@@ -1,0 +1,22 @@
+# Illustrator — PrinterInfo
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PrinterInfo.binaryPrintingSupport in Illustrator. [PrinterInfo.binaryPrintingSupport](binary-printing-support.md).
+- Open when looking up PrinterInfo.colorSupport in Illustrator. [PrinterInfo.colorSupport](color-support.md).
+- Open when looking up PrinterInfo.customPaperSupport in Illustrator. [PrinterInfo.customPaperSupport](custom-paper-support.md).
+- Open when looking up PrinterInfo.customPaperTransverseSupport in Illustrator. [PrinterInfo.customPaperTransverseSupport](custom-paper-transverse-support.md).
+- Open when looking up PrinterInfo.deviceResolution in Illustrator. [PrinterInfo.deviceResolution](device-resolution.md).
+- Open when looking up PrinterInfo.inRIPSeparationSupport in Illustrator. [PrinterInfo.inRIPSeparationSupport](in-rip-separation-support.md).
+- Open when looking up PrinterInfo.maxDeviceResolution in Illustrator. [PrinterInfo.maxDeviceResolution](max-device-resolution.md).
+- Open when looking up PrinterInfo.maxPaperHeight in Illustrator. [PrinterInfo.maxPaperHeight](max-paper-height.md).
+- Open when looking up PrinterInfo.maxPaperHeightOffset in Illustrator. [PrinterInfo.maxPaperHeightOffset](max-paper-height-offset.md).
+- Open when looking up PrinterInfo.maxPaperWidth in Illustrator. [PrinterInfo.maxPaperWidth](max-paper-width.md).
+- Open when looking up PrinterInfo.maxPaperWidthOffset in Illustrator. [PrinterInfo.maxPaperWidthOffset](max-paper-width-offset.md).
+- Open when looking up PrinterInfo.minPaperHeight in Illustrator. [PrinterInfo.minPaperHeight](min-paper-height.md).
+- Open when looking up PrinterInfo.minPaperHeightOffset in Illustrator. [PrinterInfo.minPaperHeightOffset](min-paper-height-offset.md).
+- Open when looking up PrinterInfo.minPaperWidth in Illustrator. [PrinterInfo.minPaperWidth](min-paper-width.md).
+- Open when looking up PrinterInfo.minPaperWidthOffset in Illustrator. [PrinterInfo.minPaperWidthOffset](min-paper-width-offset.md).
+- Open when looking up PrinterInfo.paperSizes in Illustrator. [PrinterInfo.paperSizes](paper-sizes.md).
+- Open when looking up PrinterInfo.postScriptLevel in Illustrator. [PrinterInfo.postScriptLevel](post-script-level.md).
+- Open when looking up PrinterInfo.printerType in Illustrator. [PrinterInfo.printerType](printer-type.md).
+- Open when looking up PrinterInfo.typename in Illustrator. [PrinterInfo.typename](typename.md).

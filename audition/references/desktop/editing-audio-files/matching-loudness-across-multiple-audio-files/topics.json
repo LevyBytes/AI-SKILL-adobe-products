@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "List of loudness standards in Audition", "file": "references/desktop/editing-audio-files/matching-loudness-across-multiple-audio-files/list-of-loudness-standards-in-audition.md", "summary": "Open when looking up List of loudness standards in Audition in Audition.", "keywords": ["List of loudness standards in Audition"]},
+  {"topic": "Match loudness across multiple audio files", "file": "references/desktop/editing-audio-files/matching-loudness-across-multiple-audio-files/match-loudness-across-multiple-audio-files.md", "summary": "Open when looking up Match loudness across multiple audio files in Audition.", "keywords": ["Match loudness across multiple audio files"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

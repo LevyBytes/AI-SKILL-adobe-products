@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Managing layers", "file": "references/desktop/layers/manage-layers/managing-layers.md", "summary": "Open when looking up Managing layers in After Effects.", "keywords": ["Managing layers"]},
+  {"topic": "Managing layers references", "file": "references/desktop/layers/manage-layers/managing-layers/reference-index.md", "summary": "Open when looking up Managing layers in After Effects.", "keywords": ["Managing layers references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

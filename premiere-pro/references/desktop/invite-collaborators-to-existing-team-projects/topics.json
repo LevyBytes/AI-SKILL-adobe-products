@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Invite groups to collaborate", "file": "references/desktop/invite-collaborators-to-existing-team-projects/invite-groups-to-collaborate.md", "summary": "Open when looking up Invite groups to collaborate in Premiere Pro.", "keywords": ["Invite groups to collaborate"]},
+  {"topic": "Inviting collaborators into a Team Projects item that already exists", "file": "references/desktop/invite-collaborators-to-existing-team-projects/existing-team-project-invitations.md", "summary": "Open when looking up Inviting collaborators into a Team Projects item that already exists in Premiere Pro.", "keywords": ["Inviting collaborators into a Team Projects item that already exists"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

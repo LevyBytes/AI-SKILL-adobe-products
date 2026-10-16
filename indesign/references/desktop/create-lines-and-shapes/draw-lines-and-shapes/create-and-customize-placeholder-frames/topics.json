@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Configure polygon frame settings", "file": "references/desktop/create-lines-and-shapes/draw-lines-and-shapes/create-and-customize-placeholder-frames/configure-polygon-frame-settings.md", "summary": "Open when looking up Configure polygon frame settings in InDesign.", "keywords": ["Configure polygon frame settings"]},
+  {"topic": "Create a placeholder frame", "file": "references/desktop/create-lines-and-shapes/draw-lines-and-shapes/create-and-customize-placeholder-frames/create-a-placeholder-frame.md", "summary": "Open when looking up Create a placeholder frame in InDesign.", "keywords": ["Create a placeholder frame"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

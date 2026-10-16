@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "allCharacterStyles", "file": "references/document-model/document/all-character-styles.md", "summary": "Open when looking up allCharacterStyles in InDesign.", "keywords": ["allCharacterStyles"]},
+  {"topic": "allParagraphStyles", "file": "references/document-model/document/all-paragraph-styles.md", "summary": "Open when looking up allParagraphStyles in InDesign.", "keywords": ["allParagraphStyles"]},
+  {"topic": "characterStyleGroups", "file": "references/document-model/document/character-style-groups.md", "summary": "Open when looking up characterStyleGroups in InDesign.", "keywords": ["characterStyleGroups"]},
+  {"topic": "characterStyles", "file": "references/document-model/document/character-styles.md", "summary": "Open when looking up characterStyles in InDesign.", "keywords": ["characterStyles"]},
+  {"topic": "charStyleMappings", "file": "references/document-model/document/char-style-mappings.md", "summary": "Open when looking up charStyleMappings in InDesign.", "keywords": ["charStyleMappings"]},
+  {"topic": "getStyleConflictResolutionStrategy", "file": "references/document-model/document/get-style-conflict-resolution-strategy.md", "summary": "Open when looking up getStyleConflictResolutionStrategy in InDesign.", "keywords": ["getStyleConflictResolutionStrategy"]},
+  {"topic": "importStyles", "file": "references/document-model/document/import-styles.md", "summary": "Open when looking up importStyles in InDesign.", "keywords": ["importStyles"]},
+  {"topic": "paragraphStyleGroups", "file": "references/document-model/document/paragraph-style-groups.md", "summary": "Open when looking up paragraphStyleGroups in InDesign.", "keywords": ["paragraphStyleGroups"]},
+  {"topic": "paragraphStyles", "file": "references/document-model/document/paragraph-styles.md", "summary": "Open when looking up paragraphStyles in InDesign.", "keywords": ["paragraphStyles"]},
+  {"topic": "paraStyleMappings", "file": "references/document-model/document/para-style-mappings.md", "summary": "Open when looking up paraStyleMappings in InDesign.", "keywords": ["paraStyleMappings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

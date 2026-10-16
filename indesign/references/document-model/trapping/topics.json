@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ADOBE_INRIP", "file": "references/document-model/trapping/adobeinrip.md", "summary": "Open when looking up ADOBE_INRIP in InDesign.", "keywords": ["ADOBE_INRIP"]},
+  {"topic": "APPLICATION_BUILTIN", "file": "references/document-model/trapping/applicationbuiltin.md", "summary": "Open when looking up APPLICATION_BUILTIN in InDesign.", "keywords": ["APPLICATION_BUILTIN"]},
+  {"topic": "OFF", "file": "references/document-model/trapping/off.md", "summary": "Open when looking up OFF in InDesign.", "keywords": ["OFF"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

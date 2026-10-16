@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Apply a Hue or Saturation adjustment", "file": "references/desktop/adjust-color/color-corrections/apply-a-hue-or-saturation-adjustment.md", "summary": "Open when looking up Apply a Hue or Saturation adjustment in Photoshop.", "keywords": ["Apply a Hue or Saturation adjustment"]},
+  {"topic": "Apply a Hue or Saturation adjustment references", "file": "references/desktop/adjust-color/color-corrections/apply-a-hue-or-saturation-adjustment/reference-index.md", "summary": "Open when looking up Apply a Hue or Saturation adjustment in Photoshop.", "keywords": ["Apply a Hue or Saturation adjustment references"]},
+  {"topic": "Colorize a grayscale image or create a monotone effect", "file": "references/desktop/adjust-color/color-corrections/colorize-a-grayscale-image-or-create-a-monotone-effect.md", "summary": "Open when looking up Colorize a grayscale image or create a monotone effect in Photoshop.", "keywords": ["Colorize a grayscale image or create a monotone effect"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

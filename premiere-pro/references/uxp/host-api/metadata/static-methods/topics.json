@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "addPropertyToProjectMetadataSchema", "file": "references/uxp/host-api/metadata/static-methods/add-property-to-project-metadata-schema.md", "summary": "Open when looking up addPropertyToProjectMetadataSchema in Premiere Pro.", "keywords": ["addPropertyToProjectMetadataSchema"]},
+  {"topic": "createSetProjectMetadataAction", "file": "references/uxp/host-api/metadata/static-methods/create-set-project-metadata-action.md", "summary": "Open when looking up createSetProjectMetadataAction in Premiere Pro.", "keywords": ["createSetProjectMetadataAction"]},
+  {"topic": "createSetXMPMetadataAction", "file": "references/uxp/host-api/metadata/static-methods/create-set-xmp-metadata-action.md", "summary": "Open when looking up createSetXMPMetadataAction in Premiere Pro.", "keywords": ["createSetXMPMetadataAction"]},
+  {"topic": "getProjectColumnsMetadata", "file": "references/uxp/host-api/metadata/static-methods/get-project-columns-metadata.md", "summary": "Open when looking up getProjectColumnsMetadata in Premiere Pro.", "keywords": ["getProjectColumnsMetadata"]},
+  {"topic": "getProjectMetadata", "file": "references/uxp/host-api/metadata/static-methods/get-project-metadata.md", "summary": "Open when looking up getProjectMetadata in Premiere Pro.", "keywords": ["getProjectMetadata"]},
+  {"topic": "getProjectPanelMetadata", "file": "references/uxp/host-api/metadata/static-methods/get-project-panel-metadata.md", "summary": "Open when looking up getProjectPanelMetadata in Premiere Pro.", "keywords": ["getProjectPanelMetadata"]},
+  {"topic": "getXMPMetadata", "file": "references/uxp/host-api/metadata/static-methods/get-xmp-metadata.md", "summary": "Open when looking up getXMPMetadata in Premiere Pro.", "keywords": ["getXMPMetadata"]},
+  {"topic": "setProjectPanelMetadata", "file": "references/uxp/host-api/metadata/static-methods/set-project-panel-metadata.md", "summary": "Open when looking up setProjectPanelMetadata in Premiere Pro.", "keywords": ["setProjectPanelMetadata"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

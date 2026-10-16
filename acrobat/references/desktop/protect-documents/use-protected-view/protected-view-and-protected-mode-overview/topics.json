@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "About Protected Mode", "file": "references/desktop/protect-documents/use-protected-view/protected-view-and-protected-mode-overview/about-protected-mode.md", "summary": "Open when looking up About Protected Mode in Acrobat.", "keywords": ["About Protected Mode"]},
+  {"topic": "About Protected View", "file": "references/desktop/protect-documents/use-protected-view/protected-view-and-protected-mode-overview/about-protected-view.md", "summary": "Open when looking up About Protected View in Acrobat.", "keywords": ["About Protected View"]},
+  {"topic": "Protected View in browsers", "file": "references/desktop/protect-documents/use-protected-view/protected-view-and-protected-mode-overview/protected-view-in-browsers.md", "summary": "Open when looking up Protected View in browsers in Acrobat.", "keywords": ["Protected View in browsers"]},
+  {"topic": "Protected View in stand-alone applications", "file": "references/desktop/protect-documents/use-protected-view/protected-view-and-protected-mode-overview/protected-view-in-stand-alone-applications.md", "summary": "Open when looking up Protected View in stand-alone applications in Acrobat.", "keywords": ["Protected View in stand-alone applications"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

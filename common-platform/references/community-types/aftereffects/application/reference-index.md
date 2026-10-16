@@ -1,0 +1,47 @@
+# Shared Adobe platform — Application
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Application declaration in Shared Adobe platform. [Application declaration](declaration.md).
+- Open when looking up Application.activate in Shared Adobe platform. [Application.activate](activate.md).
+- Open when looking up Application.activeViewer in Shared Adobe platform. [Application.activeViewer](active-viewer.md).
+- Open when looking up Application.availableGPUAccelTypes in Shared Adobe platform. [Application.availableGPUAccelTypes](available-gpu-accel-types.md).
+- Open when looking up Application.beginSuppressDialogs in Shared Adobe platform. [Application.beginSuppressDialogs](begin-suppress-dialogs.md).
+- Open when looking up Application.beginUndoGroup in Shared Adobe platform. [Application.beginUndoGroup](begin-undo-group.md).
+- Open when looking up Application.buildName in Shared Adobe platform. [Application.buildName](build-name.md).
+- Open when looking up Application.buildNumber in Shared Adobe platform. [Application.buildNumber](build-number.md).
+- Open when looking up Application.cancelTask in Shared Adobe platform. [Application.cancelTask](cancel-task.md).
+- Open when looking up Application.cancelTimeout in Shared Adobe platform. [Application.cancelTimeout](cancel-timeout.md).
+- Open when looking up Application.disableRendering in Shared Adobe platform. [Application.disableRendering](disable-rendering.md).
+- Open when looking up Application.effects in Shared Adobe platform. [Application.effects](effects.md).
+- Open when looking up Application.endSuppressDialogs in Shared Adobe platform. [Application.endSuppressDialogs](end-suppress-dialogs.md).
+- Open when looking up Application.endUndoGroup in Shared Adobe platform. [Application.endUndoGroup](end-undo-group.md).
+- Open when looking up Application.endWatchFolder in Shared Adobe platform. [Application.endWatchFolder](end-watch-folder.md).
+- Open when looking up Application.executeCommand in Shared Adobe platform. [Application.executeCommand](execute-command.md).
+- Open when looking up Application.exitAfterLaunchAndEval in Shared Adobe platform. [Application.exitAfterLaunchAndEval](exit-after-launch-and-eval.md).
+- Open when looking up Application.exitCode in Shared Adobe platform. [Application.exitCode](exit-code.md).
+- Open when looking up Application.findMenuCommandId in Shared Adobe platform. [Application.findMenuCommandId](find-menu-command-id.md).
+- Open when looking up Application.fonts in Shared Adobe platform. [Application.fonts](fonts.md).
+- Open when looking up Application.getenv in Shared Adobe platform. [Application.getenv](getenv.md).
+- Open when looking up Application.isoLanguage in Shared Adobe platform. [Application.isoLanguage](iso-language.md).
+- Open when looking up Application.isRenderEngine in Shared Adobe platform. [Application.isRenderEngine](is-render-engine.md).
+- Open when looking up Application.isWatchFolder in Shared Adobe platform. [Application.isWatchFolder](is-watch-folder.md).
+- Open when looking up Application.language in Shared Adobe platform. [Application.language](language.md).
+- Open when looking up Application.memoryInUse in Shared Adobe platform. [Application.memoryInUse](memory-in-use.md).
+- Open when looking up Application.newProject in Shared Adobe platform. [Application.newProject](new-project.md).
+- Open when looking up Application.onError in Shared Adobe platform. [Application.onError](on-error.md).
+- Open when looking up Application.open in Shared Adobe platform. [Application.open](open.md).
+- Open when looking up Application.parseSwatchFile in Shared Adobe platform. [Application.parseSwatchFile](parse-swatch-file.md).
+- Open when looking up Application.pauseWatchFolder in Shared Adobe platform. [Application.pauseWatchFolder](pause-watch-folder.md).
+- Open when looking up Application.preferences in Shared Adobe platform. [Application.preferences](preferences.md).
+- Open when looking up Application.project in Shared Adobe platform. [Application.project](project.md).
+- Open when looking up Application.purge in Shared Adobe platform. [Application.purge](purge.md).
+- Open when looking up Application.quit in Shared Adobe platform. [Application.quit](quit.md).
+- Open when looking up Application.saveProjectOnCrash in Shared Adobe platform. [Application.saveProjectOnCrash](save-project-on-crash.md).
+- Open when looking up Application.scheduleTask in Shared Adobe platform. [Application.scheduleTask](schedule-task.md).
+- Open when looking up Application.setMemoryUsageLimits in Shared Adobe platform. [Application.setMemoryUsageLimits](set-memory-usage-limits.md).
+- Open when looking up Application.setMultiFrameRenderingConfig in Shared Adobe platform. [Application.setMultiFrameRenderingConfig](set-multi-frame-rendering-config.md).
+- Open when looking up Application.setSavePreferencesOnQuit in Shared Adobe platform. [Application.setSavePreferencesOnQuit](set-save-preferences-on-quit.md).
+- Open when looking up Application.setTimeout in Shared Adobe platform. [Application.setTimeout](set-timeout.md).
+- Open when looking up Application.settings in Shared Adobe platform. [Application.settings](settings.md).
+- Open when looking up Application.version in Shared Adobe platform. [Application.version](version.md).
+- Open when looking up Application.watchFolder in Shared Adobe platform. [Application.watchFolder](watch-folder.md).

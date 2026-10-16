@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.deleteWorkspace", "file": "references/community-types/illustrator/application/delete-workspace.md", "summary": "Open when looking up Application.deleteWorkspace in Shared Adobe platform.", "keywords": ["Application.deleteWorkspace"]},
+  {"topic": "Application.isTouchWorkspace", "file": "references/community-types/illustrator/application/is-touch-workspace.md", "summary": "Open when looking up Application.isTouchWorkspace in Shared Adobe platform.", "keywords": ["Application.isTouchWorkspace"]},
+  {"topic": "Application.resetWorkspace", "file": "references/community-types/illustrator/application/reset-workspace.md", "summary": "Open when looking up Application.resetWorkspace in Shared Adobe platform.", "keywords": ["Application.resetWorkspace"]},
+  {"topic": "Application.saveWorkspace", "file": "references/community-types/illustrator/application/save-workspace.md", "summary": "Open when looking up Application.saveWorkspace in Shared Adobe platform.", "keywords": ["Application.saveWorkspace"]},
+  {"topic": "Application.switchWorkspace", "file": "references/community-types/illustrator/application/switch-workspace.md", "summary": "Open when looking up Application.switchWorkspace in Shared Adobe platform.", "keywords": ["Application.switchWorkspace"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

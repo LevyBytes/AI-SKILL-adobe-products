@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Preview and Known Issues", "file": "references/plugin-samples/metadata-handler-panel/preview-and-known-issues.md", "summary": "Open when looking up Preview and Known Issues in Premiere Pro.", "keywords": ["Preview and Known Issues"]},
+  {"topic": "Set Up", "file": "references/plugin-samples/metadata-handler-panel/set-up.md", "summary": "Open when looking up Set Up in Premiere Pro.", "keywords": ["Set Up"]},
+  {"topic": "Special Thanks", "file": "references/plugin-samples/metadata-handler-panel/special-thanks.md", "summary": "Open when looking up Special Thanks in Premiere Pro.", "keywords": ["Special Thanks"]},
+  {"topic": "Things you need to begin", "file": "references/plugin-samples/metadata-handler-panel/things-you-need-to-begin.md", "summary": "Open when looking up Things you need to begin in Premiere Pro.", "keywords": ["Things you need to begin"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

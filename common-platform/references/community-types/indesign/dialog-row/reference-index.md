@@ -1,0 +1,27 @@
+# Shared Adobe platform — DialogRow
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up DialogRow declaration in Shared Adobe platform. [DialogRow declaration](declaration.md).
+- Open when looking up DialogRow event listeners in Shared Adobe platform. [DialogRow event listeners](event-listeners.md).
+- Open when looking up DialogRow identity and parent in Shared Adobe platform. [DialogRow identity and parent](identity-and-parent.md).
+- Open when looking up DialogRow object resolution in Shared Adobe platform. [DialogRow object resolution](object-resolution.md).
+- Open when looking up DialogRow.angleComboboxes in Shared Adobe platform. [DialogRow.angleComboboxes](angle-comboboxes.md).
+- Open when looking up DialogRow.angleEditboxes in Shared Adobe platform. [DialogRow.angleEditboxes](angle-editboxes.md).
+- Open when looking up DialogRow.borderPanels in Shared Adobe platform. [DialogRow.borderPanels](border-panels.md).
+- Open when looking up DialogRow.checkboxControls in Shared Adobe platform. [DialogRow.checkboxControls](checkbox-controls.md).
+- Open when looking up DialogRow.dialogColumns in Shared Adobe platform. [DialogRow.dialogColumns](dialog-columns.md).
+- Open when looking up DialogRow.dropdowns in Shared Adobe platform. [DialogRow.dropdowns](dropdowns.md).
+- Open when looking up DialogRow.enablingGroups in Shared Adobe platform. [DialogRow.enablingGroups](enabling-groups.md).
+- Open when looking up DialogRow.integerComboboxes in Shared Adobe platform. [DialogRow.integerComboboxes](integer-comboboxes.md).
+- Open when looking up DialogRow.integerEditboxes in Shared Adobe platform. [DialogRow.integerEditboxes](integer-editboxes.md).
+- Open when looking up DialogRow.measurementComboboxes in Shared Adobe platform. [DialogRow.measurementComboboxes](measurement-comboboxes.md).
+- Open when looking up DialogRow.measurementEditboxes in Shared Adobe platform. [DialogRow.measurementEditboxes](measurement-editboxes.md).
+- Open when looking up DialogRow.percentComboboxes in Shared Adobe platform. [DialogRow.percentComboboxes](percent-comboboxes.md).
+- Open when looking up DialogRow.percentEditboxes in Shared Adobe platform. [DialogRow.percentEditboxes](percent-editboxes.md).
+- Open when looking up DialogRow.properties in Shared Adobe platform. [DialogRow.properties](properties.md).
+- Open when looking up DialogRow.radiobuttonGroups in Shared Adobe platform. [DialogRow.radiobuttonGroups](radiobutton-groups.md).
+- Open when looking up DialogRow.realComboboxes in Shared Adobe platform. [DialogRow.realComboboxes](real-comboboxes.md).
+- Open when looking up DialogRow.realEditboxes in Shared Adobe platform. [DialogRow.realEditboxes](real-editboxes.md).
+- Open when looking up DialogRow.staticTexts in Shared Adobe platform. [DialogRow.staticTexts](static-texts.md).
+- Open when looking up DialogRow.textEditboxes in Shared Adobe platform. [DialogRow.textEditboxes](text-editboxes.md).
+- Open when looking up DialogRow.widgets in Shared Adobe platform. [DialogRow.widgets](widgets.md).

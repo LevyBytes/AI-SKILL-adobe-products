@@ -1,0 +1,41 @@
+# Illustrator — SymbolItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up SymbolItem.artworkKnockout in Illustrator. [SymbolItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up SymbolItem.blendingMode in Illustrator. [SymbolItem.blendingMode](blending-mode.md).
+- Open when looking up SymbolItem.controlBounds in Illustrator. [SymbolItem.controlBounds](control-bounds.md).
+- Open when looking up SymbolItem.duplicate() in Illustrator. [SymbolItem.duplicate()](duplicate.md).
+- Open when looking up SymbolItem.editable in Illustrator. [SymbolItem.editable](editable.md).
+- Open when looking up SymbolItem.geometricBounds in Illustrator. [SymbolItem.geometricBounds](geometric-bounds.md).
+- Open when looking up SymbolItem.height in Illustrator. [SymbolItem.height](height.md).
+- Open when looking up SymbolItem.hidden in Illustrator. [SymbolItem.hidden](hidden.md).
+- Open when looking up SymbolItem.isIsolated in Illustrator. [SymbolItem.isIsolated](is-isolated.md).
+- Open when looking up SymbolItem.layer in Illustrator. [SymbolItem.layer](layer.md).
+- Open when looking up SymbolItem.left in Illustrator. [SymbolItem.left](left.md).
+- Open when looking up SymbolItem.locked in Illustrator. [SymbolItem.locked](locked.md).
+- Open when looking up SymbolItem.move() in Illustrator. [SymbolItem.move()](move.md).
+- Open when looking up SymbolItem.name in Illustrator. [SymbolItem.name](name.md).
+- Open when looking up SymbolItem.note in Illustrator. [SymbolItem.note](note.md).
+- Open when looking up SymbolItem.opacity in Illustrator. [SymbolItem.opacity](opacity.md).
+- Open when looking up SymbolItem.parent in Illustrator. [SymbolItem.parent](parent.md).
+- Open when looking up SymbolItem.position in Illustrator. [SymbolItem.position](position.md).
+- Open when looking up SymbolItem.remove() in Illustrator. [SymbolItem.remove()](remove.md).
+- Open when looking up SymbolItem.resize() in Illustrator. [SymbolItem.resize()](resize.md).
+- Open when looking up SymbolItem.rotate() in Illustrator. [SymbolItem.rotate()](rotate.md).
+- Open when looking up SymbolItem.selected in Illustrator. [SymbolItem.selected](selected.md).
+- Open when looking up SymbolItem.sliced in Illustrator. [SymbolItem.sliced](sliced.md).
+- Open when looking up SymbolItem.symbol in Illustrator. [SymbolItem.symbol](symbol.md).
+- Open when looking up SymbolItem.tags in Illustrator. [SymbolItem.tags](tags.md).
+- Open when looking up SymbolItem.top in Illustrator. [SymbolItem.top](top.md).
+- Open when looking up SymbolItem.transform() in Illustrator. [SymbolItem.transform()](transform.md).
+- Open when looking up SymbolItem.translate() in Illustrator. [SymbolItem.translate()](translate.md).
+- Open when looking up SymbolItem.typename in Illustrator. [SymbolItem.typename](typename.md).
+- Open when looking up SymbolItem.uRL in Illustrator. [SymbolItem.uRL](u-rl.md).
+- Open when looking up SymbolItem.visibilityVariable in Illustrator. [SymbolItem.visibilityVariable](visibility-variable.md).
+- Open when looking up SymbolItem.visibleBounds in Illustrator. [SymbolItem.visibleBounds](visible-bounds.md).
+- Open when looking up SymbolItem.width in Illustrator. [SymbolItem.width](width.md).
+- Open when looking up SymbolItem.wrapInside in Illustrator. [SymbolItem.wrapInside](wrap-inside.md).
+- Open when looking up SymbolItem.wrapOffset in Illustrator. [SymbolItem.wrapOffset](wrap-offset.md).
+- Open when looking up SymbolItem.wrapped in Illustrator. [SymbolItem.wrapped](wrapped.md).
+- Open when looking up SymbolItem.zOrder() in Illustrator. [SymbolItem.zOrder()](z-order.md).
+- Open when looking up SymbolItem.zOrderPosition in Illustrator. [SymbolItem.zOrderPosition](z-order-position.md).

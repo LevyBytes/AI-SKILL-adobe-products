@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Erase parts of a path using a stylus pen", "file": "references/desktop/draw-shapes-and-paths/modify-paths/erase-parts-of-a-path/erase-parts-of-a-path-using-a-stylus-pen.md", "summary": "Open when looking up Erase parts of a path using a stylus pen in Illustrator.", "keywords": ["Erase parts of a path using a stylus pen"]},
+  {"topic": "Erase parts of a path using the Path Eraser tool", "file": "references/desktop/draw-shapes-and-paths/modify-paths/erase-parts-of-a-path/erase-parts-of-a-path-using-the-path-eraser-tool.md", "summary": "Open when looking up Erase parts of a path using the Path Eraser tool in Illustrator.", "keywords": ["Erase parts of a path using the Path Eraser tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

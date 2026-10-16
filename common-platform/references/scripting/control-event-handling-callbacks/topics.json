@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Control objects — Control event-handling callbacks", "file": "references/scripting/control-event-handling-callbacks/control-objects-control-event-handling-callbacks.md", "summary": "Open when looking up Control objects — Control event-handling callbacks in Shared Adobe platform.", "keywords": ["Control objects — Control event-handling callbacks"]},
+  {"topic": "onActivate", "file": "references/scripting/control-event-handling-callbacks/on-activate.md", "summary": "Open when looking up onActivate in Shared Adobe platform.", "keywords": ["onActivate"]},
+  {"topic": "onChange", "file": "references/scripting/control-event-handling-callbacks/on-change.md", "summary": "Open when looking up onChange in Shared Adobe platform.", "keywords": ["onChange"]},
+  {"topic": "onChanging", "file": "references/scripting/control-event-handling-callbacks/on-changing.md", "summary": "Open when looking up onChanging in Shared Adobe platform.", "keywords": ["onChanging"]},
+  {"topic": "onClick", "file": "references/scripting/control-event-handling-callbacks/on-click.md", "summary": "Open when looking up onClick in Shared Adobe platform.", "keywords": ["onClick"]},
+  {"topic": "onCollapse", "file": "references/scripting/control-event-handling-callbacks/on-collapse.md", "summary": "Open when looking up onCollapse in Shared Adobe platform.", "keywords": ["onCollapse"]},
+  {"topic": "onDeactivate", "file": "references/scripting/control-event-handling-callbacks/on-deactivate.md", "summary": "Open when looking up onDeactivate in Shared Adobe platform.", "keywords": ["onDeactivate"]},
+  {"topic": "onDoubleClick", "file": "references/scripting/control-event-handling-callbacks/on-double-click.md", "summary": "Open when looking up onDoubleClick in Shared Adobe platform.", "keywords": ["onDoubleClick"]},
+  {"topic": "onDraw", "file": "references/scripting/control-event-handling-callbacks/on-draw.md", "summary": "Open when looking up onDraw in Shared Adobe platform.", "keywords": ["onDraw"]},
+  {"topic": "onEnterKey", "file": "references/scripting/control-event-handling-callbacks/on-enter-key.md", "summary": "Open when looking up onEnterKey in Shared Adobe platform.", "keywords": ["onEnterKey"]},
+  {"topic": "onExpand", "file": "references/scripting/control-event-handling-callbacks/on-expand.md", "summary": "Open when looking up onExpand in Shared Adobe platform.", "keywords": ["onExpand"]},
+  {"topic": "onShortcutKey", "file": "references/scripting/control-event-handling-callbacks/on-shortcut-key.md", "summary": "Open when looking up onShortcutKey in Shared Adobe platform.", "keywords": ["onShortcutKey"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

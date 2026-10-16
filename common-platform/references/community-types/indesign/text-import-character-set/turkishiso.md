@@ -1,0 +1,13 @@
+# TextImportCharacterSet.TURKISH_ISO
+
+Community declaration reference: InDesign/2023.
+
+Turkish (ISO) character-set entry.
+
+```typescript
+declare enum TextImportCharacterSet {
+    TURKISH_ISO = 1416189045
+}
+```
+
+Source: [InDesign/2023/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/InDesign/2023/index.d.ts).

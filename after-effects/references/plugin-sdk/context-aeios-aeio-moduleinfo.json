@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Aeio module info members references", "file": "references/plugin-sdk/aeio-module-info-members/reference-index.md", "summary": "Open when looking up Aeio module info members in After Effects.", "keywords": ["Aeio module info members references"]},
+  {"topic": "AEIO_ModuleInfo", "file": "references/plugin-sdk/aeio-module-info.md", "summary": "Open when looking up AEIO_ModuleInfo in After Effects.", "keywords": ["AEIO_ModuleInfo"]},
+  {"topic": "Behavior flags references", "file": "references/plugin-sdk/behavior-flags/reference-index.md", "summary": "Open when looking up Behavior flags in After Effects.", "keywords": ["Behavior flags references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

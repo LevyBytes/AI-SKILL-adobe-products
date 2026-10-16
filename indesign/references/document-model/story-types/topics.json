@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ENDNOTE_STORY", "file": "references/document-model/story-types/endnotestory.md", "summary": "Open when looking up ENDNOTE_STORY in InDesign.", "keywords": ["ENDNOTE_STORY"]},
+  {"topic": "INDEXING_STORY", "file": "references/document-model/story-types/indexingstory.md", "summary": "Open when looking up INDEXING_STORY in InDesign.", "keywords": ["INDEXING_STORY"]},
+  {"topic": "REGULAR_STORY", "file": "references/document-model/story-types/regularstory.md", "summary": "Open when looking up REGULAR_STORY in InDesign.", "keywords": ["REGULAR_STORY"]},
+  {"topic": "TOC_STORY", "file": "references/document-model/story-types/tocstory.md", "summary": "Open when looking up TOC_STORY in InDesign.", "keywords": ["TOC_STORY"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

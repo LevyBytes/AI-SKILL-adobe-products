@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "HIGH", "file": "references/document-model/flattener-level/high.md", "summary": "Open when looking up HIGH in InDesign.", "keywords": ["HIGH"]},
+  {"topic": "LOW", "file": "references/document-model/flattener-level/low.md", "summary": "Open when looking up LOW in InDesign.", "keywords": ["LOW"]},
+  {"topic": "MEDIUM", "file": "references/document-model/flattener-level/medium.md", "summary": "Open when looking up MEDIUM in InDesign.", "keywords": ["MEDIUM"]},
+  {"topic": "MEDIUM_HIGH", "file": "references/document-model/flattener-level/mediumhigh.md", "summary": "Open when looking up MEDIUM_HIGH in InDesign.", "keywords": ["MEDIUM_HIGH"]},
+  {"topic": "MEDIUM_LOW", "file": "references/document-model/flattener-level/mediumlow.md", "summary": "Open when looking up MEDIUM_LOW in InDesign.", "keywords": ["MEDIUM_LOW"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

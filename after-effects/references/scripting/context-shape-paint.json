@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Fill references", "file": "references/scripting/fill/reference-index.md", "summary": "Open when looking up Fill in After Effects.", "keywords": ["Fill references"]},
+  {"topic": "Grad fill references", "file": "references/scripting/grad-fill/reference-index.md", "summary": "Open when looking up Grad fill in After Effects.", "keywords": ["Grad fill references"]},
+  {"topic": "Gradient fill references", "file": "references/scripting/gradient-fill/reference-index.md", "summary": "Open when looking up Gradient fill in After Effects.", "keywords": ["Gradient fill references"]},
+  {"topic": "Gradient stroke references", "file": "references/scripting/gradient-stroke/reference-index.md", "summary": "Open when looking up Gradient stroke in After Effects.", "keywords": ["Gradient stroke references"]},
+  {"topic": "Stroke dashes references", "file": "references/scripting/stroke-dashes/reference-index.md", "summary": "Open when looking up Stroke dashes in After Effects.", "keywords": ["Stroke dashes references"]},
+  {"topic": "Stroke references", "file": "references/scripting/stroke/reference-index.md", "summary": "Open when looking up Stroke in After Effects.", "keywords": ["Stroke references"]},
+  {"topic": "Stroke taper references", "file": "references/scripting/stroke-taper/reference-index.md", "summary": "Open when looking up Stroke taper in After Effects.", "keywords": ["Stroke taper references"]},
+  {"topic": "Stroke wave references", "file": "references/scripting/stroke-wave/reference-index.md", "summary": "Open when looking up Stroke wave in After Effects.", "keywords": ["Stroke wave references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

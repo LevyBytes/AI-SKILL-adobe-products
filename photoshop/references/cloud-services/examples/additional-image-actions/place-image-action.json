@@ -1,0 +1,25 @@
+[
+  {
+    "ID": 3,
+    "_obj": "placeEvent",
+    "freeTransformCenterState": {
+      "_enum": "quadCenterState",
+      "_value": "QCSAverage"
+    },
+    "null": {
+      "_kind": "local",
+      "_path": "ACTION_JSON_OPTIONS_ADDITIONAL_IMAGES_0"
+    },
+    "offset": {
+      "_obj": "offset",
+      "horizontal": {
+        "_unit": "pixelsUnit",
+        "_value": 0
+      },
+      "vertical": {
+        "_unit": "pixelsUnit",
+        "_value": 0
+      }
+    }
+  }
+]

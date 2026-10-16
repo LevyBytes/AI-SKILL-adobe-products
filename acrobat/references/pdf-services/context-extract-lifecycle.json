@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Step 1 : Getting the access token", "file": "references/pdf-services/step-1-getting-the-access-token.md", "summary": "Open when looking up Step 1 : Getting the access token in Acrobat.", "keywords": ["Step 1 : Getting the access token"]},
+  {"topic": "Step 1 : Getting the access token references", "file": "references/pdf-services/step-1-getting-the-access-token/reference-index.md", "summary": "Open when looking up Step 1 : Getting the access token in Acrobat.", "keywords": ["Step 1 : Getting the access token references"]},
+  {"topic": "Step 2 : Uploading an asset", "file": "references/pdf-services/step-2-uploading-an-asset.md", "summary": "Open when looking up Step 2 : Uploading an asset in Acrobat.", "keywords": ["Step 2 : Uploading an asset"]},
+  {"topic": "Step 2 : Uploading an asset references", "file": "references/pdf-services/step-2-uploading-an-asset/reference-index.md", "summary": "Open when looking up Step 2 : Uploading an asset in Acrobat.", "keywords": ["Step 2 : Uploading an asset references"]},
+  {"topic": "Step 3 : Creating the job", "file": "references/pdf-services/step-3-creating-the-job.md", "summary": "Open when looking up Step 3 : Creating the job in Acrobat.", "keywords": ["Step 3 : Creating the job"]},
+  {"topic": "Step 4 : Fetching the status", "file": "references/pdf-services/step-4-fetching-the-status.md", "summary": "Open when looking up Step 4 : Fetching the status in Acrobat.", "keywords": ["Step 4 : Fetching the status"]},
+  {"topic": "Step 4 : Fetching the status references", "file": "references/pdf-services/step-4-fetching-the-status/reference-index.md", "summary": "Open when looking up Step 4 : Fetching the status in Acrobat.", "keywords": ["Step 4 : Fetching the status references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

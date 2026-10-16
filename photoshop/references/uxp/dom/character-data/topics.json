@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "window.CharacterData — appendData(arg)", "file": "references/uxp/dom/character-data/append-data.md", "summary": "Open when looking up window.CharacterData — appendData(arg) in Photoshop.", "keywords": ["window.CharacterData — appendData(arg)"]},
+  {"topic": "window.CharacterData — deleteData(offset, count)", "file": "references/uxp/dom/character-data/delete-data.md", "summary": "Open when looking up window.CharacterData — deleteData(offset, count) in Photoshop.", "keywords": ["window.CharacterData — deleteData(offset, count)"]},
+  {"topic": "window.CharacterData — insertData(offset, arg)", "file": "references/uxp/dom/character-data/insert-data.md", "summary": "Open when looking up window.CharacterData — insertData(offset, arg) in Photoshop.", "keywords": ["window.CharacterData — insertData(offset, arg)"]},
+  {"topic": "window.CharacterData — replaceData(offset, count, arg)", "file": "references/uxp/dom/character-data/replace-data.md", "summary": "Open when looking up window.CharacterData — replaceData(offset, count, arg) in Photoshop.", "keywords": ["window.CharacterData — replaceData(offset, count, arg)"]},
+  {"topic": "window.CharacterData — substringData(offset, count)", "file": "references/uxp/dom/character-data/substring-data.md", "summary": "Open when looking up window.CharacterData — substringData(offset, count) in Photoshop.", "keywords": ["window.CharacterData — substringData(offset, count)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

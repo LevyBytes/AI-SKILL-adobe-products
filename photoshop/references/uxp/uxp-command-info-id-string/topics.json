@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "UxpCommandInfo — commandOptions ⇒ object", "file": "references/uxp/uxp-command-info-id-string/uxp-command-info-command-options-object.md", "summary": "Open when looking up UxpCommandInfo — commandOptions ⇒ object in Photoshop.", "keywords": ["UxpCommandInfo — commandOptions ⇒ object"]},
+  {"topic": "UxpCommandInfo — description ⇒ string", "file": "references/uxp/uxp-command-info-id-string/uxp-command-info-description-string.md", "summary": "Open when looking up UxpCommandInfo — description ⇒ string in Photoshop.", "keywords": ["UxpCommandInfo — description ⇒ string"]},
+  {"topic": "UxpCommandInfo — isManifestCommand ⇒ bool", "file": "references/uxp/uxp-command-info-id-string/uxp-command-info-is-manifest-command-bool.md", "summary": "Open when looking up UxpCommandInfo — isManifestCommand ⇒ bool in Photoshop.", "keywords": ["UxpCommandInfo — isManifestCommand ⇒ bool"]},
+  {"topic": "UxpCommandInfo — label ⇒ string", "file": "references/uxp/uxp-command-info-id-string/uxp-command-info-label-string.md", "summary": "Open when looking up UxpCommandInfo — label ⇒ string in Photoshop.", "keywords": ["UxpCommandInfo — label ⇒ string"]},
+  {"topic": "UxpCommandInfo — shortcut ⇒ Object", "file": "references/uxp/uxp-command-info-id-string/uxp-command-info-shortcut-object.md", "summary": "Open when looking up UxpCommandInfo — shortcut ⇒ Object in Photoshop.", "keywords": ["UxpCommandInfo — shortcut ⇒ Object"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

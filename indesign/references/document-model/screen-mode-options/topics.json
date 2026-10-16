@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "PRESENTATION_PREVIEW", "file": "references/document-model/screen-mode-options/presentationpreview.md", "summary": "Open when looking up PRESENTATION_PREVIEW in InDesign.", "keywords": ["PRESENTATION_PREVIEW"]},
+  {"topic": "PREVIEW_OFF", "file": "references/document-model/screen-mode-options/previewoff.md", "summary": "Open when looking up PREVIEW_OFF in InDesign.", "keywords": ["PREVIEW_OFF"]},
+  {"topic": "PREVIEW_TO_BLEED", "file": "references/document-model/screen-mode-options/previewtobleed.md", "summary": "Open when looking up PREVIEW_TO_BLEED in InDesign.", "keywords": ["PREVIEW_TO_BLEED"]},
+  {"topic": "PREVIEW_TO_PAGE", "file": "references/document-model/screen-mode-options/previewtopage.md", "summary": "Open when looking up PREVIEW_TO_PAGE in InDesign.", "keywords": ["PREVIEW_TO_PAGE"]},
+  {"topic": "PREVIEW_TO_SLUG", "file": "references/document-model/screen-mode-options/previewtoslug.md", "summary": "Open when looking up PREVIEW_TO_SLUG in InDesign.", "keywords": ["PREVIEW_TO_SLUG"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,22 @@
+# Premiere Pro — Work with masks
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust mask properties in Premiere Pro. [Adjust mask properties](adjust-mask-properties.md).
+- Open when looking up Adjust masks at the clip or frame level in Premiere in Premiere Pro. [Adjust masks at the clip or frame level in Premiere](adjust-masks-at-the-clip-or-frame-level-in-premiere.md).
+- Open when looking up Adjust masks at the clip or frame level in Premiere in Premiere Pro. [Adjust masks at the clip or frame level in Premiere references](adjust-masks-at-the-clip-or-frame-level-in-premiere/reference-index.md).
+- Open when looking up Apply effects to existing unassigned masks in Premiere in Premiere Pro. [Apply effects to existing unassigned masks in Premiere](apply-effects-to-existing-unassigned-masks-in-premiere.md).
+- Open when looking up Apply effects to existing unassigned masks in Premiere in Premiere Pro. [Apply effects to existing unassigned masks in Premiere references](apply-effects-to-existing-unassigned-masks-in-premiere/reference-index.md).
+- Open when looking up Apply Sharp And Smooth Modes In Object Masking in Premiere Pro. [Apply Sharp And Smooth Modes In Object Masking](apply-sharp-and-smooth-modes-in-object-masking.md).
+- Open when looking up Apply Sharp And Smooth Modes In Object Masking in Premiere Pro. [Apply Sharp And Smooth Modes In Object Masking references](object-mask-sharp-smooth-modes/reference-index.md).
+- Open when looking up Copy, paste or move masks in Premiere Pro. [Copy, paste or move masks](copy-paste-or-move-masks.md).
+- Open when looking up Copy, paste or move masks in Premiere Pro. [Copy, paste or move masks references](copy-paste-or-move-masks/reference-index.md).
+- Open when looking up Mask tracking tools in Premiere in Premiere Pro. [Mask tracking tools in Premiere](mask-tracking-tools-in-premiere.md).
+- Open when looking up Mask tracking tools in Premiere in Premiere Pro. [Mask tracking tools in Premiere references](mask-tracking-tools-in-premiere/reference-index.md).
+- Open when looking up Masking tool actions and modifiers in Premiere Pro. [Masking tool actions and modifiers](masking-tool-actions-and-modifiers.md).
+- Open when looking up Masking tool actions and modifiers in Premiere Pro. [Masking tool actions and modifiers references](masking-tool-actions-and-modifiers/reference-index.md).
+- Open when looking up Object masking in Premiere in Premiere Pro. [Object masking in Premiere](object-masking-in-premiere.md).
+- Open when looking up Object masking in Premiere in Premiere Pro. [Object masking in Premiere references](object-masking-in-premiere/reference-index.md).
+- Open when looking up Redesigned Rectangle, Ellipse, and Pen tools in Premiere Pro. [Redesigned Rectangle, Ellipse, and Pen tools](redesigned-rectangle-ellipse-and-pen-tools.md).
+- Open when looking up Redesigned Rectangle, Ellipse, and Pen tools in Premiere Pro. [Redesigned Rectangle, Ellipse, and Pen tools references](redesigned-rectangle-ellipse-and-pen-tools/reference-index.md).
+- Open when looking up Refining and combining masks in Premiere Pro. [Refining and combining masks](refining-and-combining-masks.md).
+- Open when looking up Refining and combining masks in Premiere Pro. [Refining and combining masks references](refining-and-combining-masks/reference-index.md).

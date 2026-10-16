@@ -1,0 +1,33 @@
+# InDesign — Desktop workflows
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and manage text in InDesign. [Add and manage text references](add-and-manage-text/reference-index.md).
+- Open when looking up Add graphics and media in InDesign. [Add graphics and media references](graphics-and-media/reference-index.md).
+- Open when looking up Add tables and data in InDesign. [Add tables and data references](add-tables-and-data/reference-index.md).
+- Open when looking up App integrations in InDesign. [App integrations references](app-integrations/reference-index.md).
+- Open when looking up Apply color in InDesign. [Apply color references](apply-color/reference-index.md).
+- Open when looking up Automation and scripting in InDesign. [Automation and scripting references](automation-and-scripting/reference-index.md).
+- Open when looking up Cloud documents in InDesign. [Cloud documents references](cloud-documents/reference-index.md).
+- Open when looking up Collaborate and review in InDesign. [Collaborate and review references](collaborate-and-review/reference-index.md).
+- Open when looking up Create and organize pages in InDesign. [Create and organize pages references](pages-and-books/reference-index.md).
+- Open when looking up Create lines and shapes in InDesign. [Create lines and shapes references](create-lines-and-shapes/reference-index.md).
+- Open when looking up Effects in InDesign. [Effects references](effects/reference-index.md).
+- Open when looking up Fonts in InDesign. [Fonts references](fonts/reference-index.md).
+- Open when looking up Format and style text in InDesign. [Format and style text references](text-formatting/reference-index.md).
+- Open when looking up Generative ai features in InDesign. [Generative ai features references](generative-ai-features/reference-index.md).
+- Open when looking up Generative ai in InDesign. [Generative ai references](generative-ai/reference-index.md).
+- Open when looking up Get started in InDesign. [Get started references](get-started/reference-index.md).
+- Open when looking up Incopy collaboration in InDesign. [Incopy collaboration references](incopy-collaboration/reference-index.md).
+- Open when looking up Indexes and references in InDesign. [Indexes and references references](indexes-and-references/reference-index.md).
+- Open when looking up Interactive elements and forms in InDesign. [Interactive elements and forms references](interactive-elements-and-forms/reference-index.md).
+- Open when looking up Language and proofing in InDesign. [Language and proofing references](language-and-proofing/reference-index.md).
+- Open when looking up Layout and grid tools in InDesign. [Layout and grid tools references](layout-and-grid-tools/reference-index.md).
+- Open when looking up Line stroke options and settings in InDesign. [Line stroke options and settings references](line-stroke-options-and-settings/reference-index.md).
+- Open when looking up Print documents in InDesign. [Print documents references](print-documents/reference-index.md).
+- Open when looking up Print in InDesign. [Print references](print/reference-index.md).
+- Open when looking up Save export and publish in InDesign. [Save export and publish references](save-export-and-publish/reference-index.md).
+- Open when looking up Share and collaborate in InDesign. [Share and collaborate references](share-and-collaborate/reference-index.md).
+- Open when looking up Tables in InDesign. [Tables references](tables/reference-index.md).
+- Open when looking up Text and typography in InDesign. [Text and typography references](text-and-typography/reference-index.md).
+- Open when looking up Troubleshoot in InDesign. [Troubleshoot references](troubleshoot/reference-index.md).
+- Open when looking up What s new in InDesign. [What s new references](what-s-new/reference-index.md).

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Content consistency", "file": "references/desktop/incorporate-branded-graphics-and-audio-elements/content-consistency.md", "summary": "Open when looking up Content consistency in Premiere Pro.", "keywords": ["Content consistency"]},
+  {"topic": "Content velocity", "file": "references/desktop/incorporate-branded-graphics-and-audio-elements/content-velocity.md", "summary": "Open when looking up Content velocity in Premiere Pro.", "keywords": ["Content velocity"]},
+  {"topic": "Maintain brand consistency while producing high-volume versioned content", "file": "references/desktop/incorporate-branded-graphics-and-audio-elements/branded-graphics-and-audio-versioning.md", "summary": "Open when looking up Maintain brand consistency while producing high-volume versioned content in Premiere Pro.", "keywords": ["Maintain brand consistency while producing high-volume versioned content"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

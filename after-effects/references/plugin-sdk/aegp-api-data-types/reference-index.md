@@ -1,0 +1,28 @@
+# After Effects — Aegp api data types
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_Collection2H in After Effects. [AEGP_Collection2H](aegp-collection2-h.md).
+- Open when looking up AEGP_CompH in After Effects. [AEGP_CompH](aegp-comp-h.md).
+- Open when looking up AEGP_EffectRefH in After Effects. [AEGP_EffectRefH](aegp-effect-ref-h.md).
+- Open when looking up AEGP_FootageH in After Effects. [AEGP_FootageH](aegp-footage-h.md).
+- Open when looking up AEGP_FrameReceiptH in After Effects. [AEGP_FrameReceiptH](aegp-frame-receipt-h.md).
+- Open when looking up AEGP_ItemH in After Effects. [AEGP_ItemH](aegp-item-h.md).
+- Open when looking up AEGP_LayerH in After Effects. [AEGP_LayerH](aegp-layer-h.md).
+- Open when looking up AEGP_LayerRenderOptionsH in After Effects. [AEGP_LayerRenderOptionsH](aegp-layer-render-options-h.md).
+- Open when looking up AEGP_MarkerVal in After Effects. [AEGP_MarkerVal](aegp-marker-val.md).
+- Open when looking up AEGP_MaskOutlineValH in After Effects. [AEGP_MaskOutlineValH](aegp-mask-outline-val-h.md).
+- Open when looking up AEGP_MaskRefH in After Effects. [AEGP_MaskRefH](aegp-mask-ref-h.md).
+- Open when looking up AEGP_MemHandle in After Effects. [AEGP_MemHandle](aegp-mem-handle.md).
+- Open when looking up AEGP_OutputModuleRefH in After Effects. [AEGP_OutputModuleRefH](aegp-output-module-ref-h.md).
+- Open when looking up AEGP_PersistentBlobH in After Effects. [AEGP_PersistentBlobH](aegp-persistent-blob-h.md).
+- Open when looking up AEGP_ProjectH in After Effects. [AEGP_ProjectH](aegp-project-h.md).
+- Open when looking up AEGP_RenderLayerContextH in After Effects. [AEGP_RenderLayerContextH](aegp-render-layer-context-h.md).
+- Open when looking up AEGP_RenderOptionsH in After Effects. [AEGP_RenderOptionsH](aegp-render-options-h.md).
+- Open when looking up AEGP_RenderReceiptH in After Effects. [AEGP_RenderReceiptH](aegp-render-receipt-h.md).
+- Open when looking up AEGP_RQItemRefH in After Effects. [AEGP_RQItemRefH](aegprq-item-ref-h.md).
+- Open when looking up AEGP_SoundDataH in After Effects. [AEGP_SoundDataH](aegp-sound-data-h.md).
+- Open when looking up AEGP_StreamRefH in After Effects. [AEGP_StreamRefH](aegp-stream-ref-h.md).
+- Open when looking up AEGP_TextDocumentH in After Effects. [AEGP_TextDocumentH](aegp-text-document-h.md).
+- Open when looking up AEGP_TextOutlinesH in After Effects. [AEGP_TextOutlinesH](aegp-text-outlines-h.md).
+- Open when looking up AEGP_WorldH in After Effects. [AEGP_WorldH](aegp-world-h.md).
+- Open when looking up Data Types — AEGP API Data Types in After Effects. [Data Types — AEGP API Data Types](data-types-aegp-api-data-types.md).

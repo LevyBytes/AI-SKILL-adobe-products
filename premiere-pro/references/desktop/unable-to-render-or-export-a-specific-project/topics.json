@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Resolve render or export failures that affect one specific project.", "file": "references/desktop/unable-to-render-or-export-a-specific-project/project-specific-render-export-failure.md", "summary": "Open when looking up Resolve render or export failures that affect one specific project. in Premiere Pro.", "keywords": ["Resolve render or export failures that affect one specific project."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

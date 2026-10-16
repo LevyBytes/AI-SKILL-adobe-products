@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BASELINE_ENCODING", "file": "references/document-model/jpeg-options-format/baselineencoding.md", "summary": "Open when looking up BASELINE_ENCODING in InDesign.", "keywords": ["BASELINE_ENCODING"]},
+  {"topic": "PROGRESSIVE_ENCODING", "file": "references/document-model/jpeg-options-format/progressiveencoding.md", "summary": "Open when looking up PROGRESSIVE_ENCODING in InDesign.", "keywords": ["PROGRESSIVE_ENCODING"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Job option printing example", "file": "references/scripting/print-job-options-example/job-option-printing-example.md", "summary": "Open when looking up Job option printing example in Illustrator.", "keywords": ["Job option printing example"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

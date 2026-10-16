@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Activate discretionary ligatures", "file": "references/desktop/text-formatting/character-formatting/apply-ligatures-to-letter-pairs/activate-discretionary-ligatures.md", "summary": "Open when looking up Activate discretionary ligatures in InDesign.", "keywords": ["Activate discretionary ligatures"]},
+  {"topic": "Activate ligatures", "file": "references/desktop/text-formatting/character-formatting/apply-ligatures-to-letter-pairs/activate-ligatures.md", "summary": "Open when looking up Activate ligatures in InDesign.", "keywords": ["Activate ligatures"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

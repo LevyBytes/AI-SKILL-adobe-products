@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "USE_ARTICLES", "file": "references/document-model/tagged-pdf-structure-order-options/usearticles.md", "summary": "Open when looking up USE_ARTICLES in InDesign.", "keywords": ["USE_ARTICLES"]},
+  {"topic": "USE_XML_STRUCTURE", "file": "references/document-model/tagged-pdf-structure-order-options/usexmlstructure.md", "summary": "Open when looking up USE_XML_STRUCTURE in InDesign.", "keywords": ["USE_XML_STRUCTURE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

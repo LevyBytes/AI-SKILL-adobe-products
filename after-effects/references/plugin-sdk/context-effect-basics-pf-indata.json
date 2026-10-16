@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Extenthint usage references", "file": "references/plugin-sdk/extenthint-usage/reference-index.md", "summary": "Open when looking up Extenthint usage in After Effects.", "keywords": ["Extenthint usage references"]},
+  {"topic": "Now with 20 more pixels references", "file": "references/plugin-sdk/now-with-20-more-pixels/reference-index.md", "summary": "Open when looking up Now with 20 more pixels in After Effects.", "keywords": ["Now with 20 more pixels references"]},
+  {"topic": "PF_InData", "file": "references/plugin-sdk/pf-in-data.md", "summary": "Open when looking up PF_InData in After Effects.", "keywords": ["PF_InData"]},
+  {"topic": "Point controls and buffer expansion references", "file": "references/plugin-sdk/point-controls-and-buffer-expansion/reference-index.md", "summary": "Open when looking up Point controls and buffer expansion in After Effects.", "keywords": ["Point controls and buffer expansion references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

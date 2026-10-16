@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Duplicate at the end of the document", "file": "references/desktop/pages-and-books/arrange-and-order-pages/duplicate-pages-and-spreads/duplicate-at-the-end-of-the-document.md", "summary": "Open when looking up Duplicate at the end of the document in InDesign.", "keywords": ["Duplicate at the end of the document"]},
+  {"topic": "Duplicate immediately after the source", "file": "references/desktop/pages-and-books/arrange-and-order-pages/duplicate-pages-and-spreads/duplicate-immediately-after-the-source.md", "summary": "Open when looking up Duplicate immediately after the source in InDesign.", "keywords": ["Duplicate immediately after the source"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

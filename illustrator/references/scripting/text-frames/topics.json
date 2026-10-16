@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Text Geometry", "file": "references/scripting/text-frames/text-geometry.md", "summary": "Open when looking up Text Geometry in Illustrator.", "keywords": ["Text Geometry"]},
+  {"topic": "Text Objects — Text Frames", "file": "references/scripting/text-frames/text-objects-text-frames.md", "summary": "Open when looking up Text Objects — Text Frames in Illustrator.", "keywords": ["Text Objects — Text Frames"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

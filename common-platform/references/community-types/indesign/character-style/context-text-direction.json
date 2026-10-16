@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CharacterStyle.characterDirection", "file": "references/community-types/indesign/character-style/character-direction.md", "summary": "Open when looking up CharacterStyle.characterDirection in Shared Adobe platform.", "keywords": ["CharacterStyle.characterDirection"]},
+  {"topic": "CharacterStyle.diacriticPosition", "file": "references/community-types/indesign/character-style/diacritic-position.md", "summary": "Open when looking up CharacterStyle.diacriticPosition in Shared Adobe platform.", "keywords": ["CharacterStyle.diacriticPosition"]},
+  {"topic": "CharacterStyle.digitsType", "file": "references/community-types/indesign/character-style/digits-type.md", "summary": "Open when looking up CharacterStyle.digitsType in Shared Adobe platform.", "keywords": ["CharacterStyle.digitsType"]},
+  {"topic": "CharacterStyle.kashidas", "file": "references/community-types/indesign/character-style/kashidas.md", "summary": "Open when looking up CharacterStyle.kashidas in Shared Adobe platform.", "keywords": ["CharacterStyle.kashidas"]},
+  {"topic": "CharacterStyle.keyboardDirection", "file": "references/community-types/indesign/character-style/keyboard-direction.md", "summary": "Open when looking up CharacterStyle.keyboardDirection in Shared Adobe platform.", "keywords": ["CharacterStyle.keyboardDirection"]},
+  {"topic": "CharacterStyle.xOffsetDiacritic", "file": "references/community-types/indesign/character-style/x-offset-diacritic.md", "summary": "Open when looking up CharacterStyle.xOffsetDiacritic in Shared Adobe platform.", "keywords": ["CharacterStyle.xOffsetDiacritic"]},
+  {"topic": "CharacterStyle.yOffsetDiacritic", "file": "references/community-types/indesign/character-style/y-offset-diacritic.md", "summary": "Open when looking up CharacterStyle.yOffsetDiacritic in Shared Adobe platform.", "keywords": ["CharacterStyle.yOffsetDiacritic"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

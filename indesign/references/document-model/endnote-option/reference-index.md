@@ -1,0 +1,27 @@
+# InDesign — EndnoteOption
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up endnoteMarkerPositioning in InDesign. [endnoteMarkerPositioning](endnote-marker-positioning.md).
+- Open when looking up endnoteMarkerStyle in InDesign. [endnoteMarkerStyle](endnote-marker-style.md).
+- Open when looking up endnoteNumberingStyle in InDesign. [endnoteNumberingStyle](endnote-numbering-style.md).
+- Open when looking up endnotePrefix in InDesign. [endnotePrefix](endnote-prefix.md).
+- Open when looking up endnoteSeparatorText in InDesign. [endnoteSeparatorText](endnote-separator-text.md).
+- Open when looking up endnoteSuffix in InDesign. [endnoteSuffix](endnote-suffix.md).
+- Open when looking up endnoteTextStyle in InDesign. [endnoteTextStyle](endnote-text-style.md).
+- Open when looking up endnoteTitle in InDesign. [endnoteTitle](endnote-title.md).
+- Open when looking up endnoteTitleStyle in InDesign. [endnoteTitleStyle](endnote-title-style.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up frameCreateOption in InDesign. [frameCreateOption](frame-create-option.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up restartEndnoteNumbering in InDesign. [restartEndnoteNumbering](restart-endnote-numbering.md).
+- Open when looking up scopeValue in InDesign. [scopeValue](scope-value.md).
+- Open when looking up showEndnotePrefixSuffix in InDesign. [showEndnotePrefixSuffix](show-endnote-prefix-suffix.md).
+- Open when looking up startEndnoteNumberAt in InDesign. [startEndnoteNumberAt](start-endnote-number-at.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

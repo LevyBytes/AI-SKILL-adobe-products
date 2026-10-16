@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "duplicate", "file": "references/uxp/host-api/channel/duplicate.md", "summary": "Open when looking up duplicate in Photoshop.", "keywords": ["duplicate"]},
+  {"topic": "merge", "file": "references/uxp/host-api/channel/merge.md", "summary": "Open when looking up merge in Photoshop.", "keywords": ["merge"]},
+  {"topic": "remove", "file": "references/uxp/host-api/channel/remove.md", "summary": "Open when looking up remove in Photoshop.", "keywords": ["remove"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

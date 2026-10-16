@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Automation settings and presets", "file": "references/desktop/automate-tasks/automation-settings-and-presets.md", "summary": "Open when looking up Automation settings and presets in Photoshop.", "keywords": ["Automation settings and presets"]},
+  {"topic": "Automation settings and presets references", "file": "references/desktop/automate-tasks/automation-settings-and-presets/reference-index.md", "summary": "Open when looking up Automation settings and presets in Photoshop.", "keywords": ["Automation settings and presets references"]},
+  {"topic": "Create and record actions", "file": "references/desktop/automate-tasks/create-and-record-actions.md", "summary": "Open when looking up Create and record actions in Photoshop.", "keywords": ["Create and record actions"]},
+  {"topic": "Create and record actions references", "file": "references/desktop/automate-tasks/create-and-record-actions/reference-index.md", "summary": "Open when looking up Create and record actions in Photoshop.", "keywords": ["Create and record actions references"]},
+  {"topic": "Process a batch of files", "file": "references/desktop/automate-tasks/process-a-batch-of-files.md", "summary": "Open when looking up Process a batch of files in Photoshop.", "keywords": ["Process a batch of files"]},
+  {"topic": "Process a batch of files references", "file": "references/desktop/automate-tasks/process-a-batch-of-files/reference-index.md", "summary": "Open when looking up Process a batch of files in Photoshop.", "keywords": ["Process a batch of files references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

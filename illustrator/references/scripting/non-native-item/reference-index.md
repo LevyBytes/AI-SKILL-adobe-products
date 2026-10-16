@@ -1,0 +1,41 @@
+# Illustrator — NonNativeItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up NonNativeItem.artworkKnockout in Illustrator. [NonNativeItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up NonNativeItem.blendingMode in Illustrator. [NonNativeItem.blendingMode](blending-mode.md).
+- Open when looking up NonNativeItem.controlBounds in Illustrator. [NonNativeItem.controlBounds](control-bounds.md).
+- Open when looking up NonNativeItem.duplicate() in Illustrator. [NonNativeItem.duplicate()](duplicate.md).
+- Open when looking up NonNativeItem.editable in Illustrator. [NonNativeItem.editable](editable.md).
+- Open when looking up NonNativeItem.geometricBounds in Illustrator. [NonNativeItem.geometricBounds](geometric-bounds.md).
+- Open when looking up NonNativeItem.height in Illustrator. [NonNativeItem.height](height.md).
+- Open when looking up NonNativeItem.hidden in Illustrator. [NonNativeItem.hidden](hidden.md).
+- Open when looking up NonNativeItem.isIsolated in Illustrator. [NonNativeItem.isIsolated](is-isolated.md).
+- Open when looking up NonNativeItem.layer in Illustrator. [NonNativeItem.layer](layer.md).
+- Open when looking up NonNativeItem.left in Illustrator. [NonNativeItem.left](left.md).
+- Open when looking up NonNativeItem.locked in Illustrator. [NonNativeItem.locked](locked.md).
+- Open when looking up NonNativeItem.move() in Illustrator. [NonNativeItem.move()](move.md).
+- Open when looking up NonNativeItem.name in Illustrator. [NonNativeItem.name](name.md).
+- Open when looking up NonNativeItem.note in Illustrator. [NonNativeItem.note](note.md).
+- Open when looking up NonNativeItem.opacity in Illustrator. [NonNativeItem.opacity](opacity.md).
+- Open when looking up NonNativeItem.parent in Illustrator. [NonNativeItem.parent](parent.md).
+- Open when looking up NonNativeItem.position in Illustrator. [NonNativeItem.position](position.md).
+- Open when looking up NonNativeItem.remove() in Illustrator. [NonNativeItem.remove()](remove.md).
+- Open when looking up NonNativeItem.removeAll() in Illustrator. [NonNativeItem.removeAll()](remove-all.md).
+- Open when looking up NonNativeItem.resize() in Illustrator. [NonNativeItem.resize()](resize.md).
+- Open when looking up NonNativeItem.rotate() in Illustrator. [NonNativeItem.rotate()](rotate.md).
+- Open when looking up NonNativeItem.selected in Illustrator. [NonNativeItem.selected](selected.md).
+- Open when looking up NonNativeItem.sliced in Illustrator. [NonNativeItem.sliced](sliced.md).
+- Open when looking up NonNativeItem.tags in Illustrator. [NonNativeItem.tags](tags.md).
+- Open when looking up NonNativeItem.top in Illustrator. [NonNativeItem.top](top.md).
+- Open when looking up NonNativeItem.transform() in Illustrator. [NonNativeItem.transform()](transform.md).
+- Open when looking up NonNativeItem.translate() in Illustrator. [NonNativeItem.translate()](translate.md).
+- Open when looking up NonNativeItem.typename in Illustrator. [NonNativeItem.typename](typename.md).
+- Open when looking up NonNativeItem.uRL in Illustrator. [NonNativeItem.uRL](u-rl.md).
+- Open when looking up NonNativeItem.visibilityVariable in Illustrator. [NonNativeItem.visibilityVariable](visibility-variable.md).
+- Open when looking up NonNativeItem.visibleBounds in Illustrator. [NonNativeItem.visibleBounds](visible-bounds.md).
+- Open when looking up NonNativeItem.width in Illustrator. [NonNativeItem.width](width.md).
+- Open when looking up NonNativeItem.wrapInside in Illustrator. [NonNativeItem.wrapInside](wrap-inside.md).
+- Open when looking up NonNativeItem.wrapOffset in Illustrator. [NonNativeItem.wrapOffset](wrap-offset.md).
+- Open when looking up NonNativeItem.wrapped in Illustrator. [NonNativeItem.wrapped](wrapped.md).
+- Open when looking up NonNativeItem.zOrder() in Illustrator. [NonNativeItem.zOrder()](z-order.md).
+- Open when looking up NonNativeItem.zOrderPosition in Illustrator. [NonNativeItem.zOrderPosition](z-order-position.md).

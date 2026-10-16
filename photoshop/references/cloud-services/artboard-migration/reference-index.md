@@ -1,0 +1,29 @@
+# Photoshop — Artboard Migration
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Additional output capabilities in Photoshop. [Additional output capabilities](additional-output-capabilities.md).
+- Open when looking up Artboard spacing in Photoshop. [Artboard spacing](artboard-spacing.md).
+- Open when looking up Azure/Dropbox storage type is missing in Photoshop. [Azure/Dropbox storage type is missing](azure-dropbox-storage-type-is-missing.md).
+- Open when looking up Best practices in Photoshop. [Best practices](best-practices.md).
+- Open when looking up Complete example with multiple images in Photoshop. [Complete example with multiple images](complete-example-with-multiple-images.md).
+- Open when looking up Complete V1 parity reference in Photoshop. [Complete V1 parity reference](complete-v1-parity-reference.md).
+- Open when looking up Hosted storage period is invalid in Photoshop. [Hosted storage period is invalid](hosted-storage-period-is-invalid.md).
+- Open when looking up Incorrect input structure in Photoshop. [Incorrect input structure](incorrect-input-structure.md).
+- Open when looking up Input image requirements in Photoshop. [Input image requirements](input-image-requirements.md).
+- Open when looking up Input images in Photoshop. [Input images](input-images.md).
+- Open when looking up Invalid JPEG quality value in Photoshop. [Invalid JPEG quality value](invalid-jpeg-quality-value.md).
+- Open when looking up Key differences in Photoshop. [Key differences](key-differences.md).
+- Open when looking up Missing required fields in Photoshop. [Missing required fields](missing-required-fields.md).
+- Open when looking up Multiple output formats in Photoshop. [Multiple output formats](multiple-output-formats.md).
+- Open when looking up Next steps in Photoshop. [Next steps](next-steps.md).
+- Open when looking up Output formats in Photoshop. [Output formats](output-formats.md).
+- Open when looking up Output options in Photoshop. [Output options](output-options.md).
+- Open when looking up Output parameters in Photoshop. [Output parameters](output-parameters.md).
+- Open when looking up Output requirements in Photoshop. [Output requirements](output-requirements.md).
+- Open when looking up Output storage options in Photoshop. [Output storage options](output-storage-options.md).
+- Open when looking up Spacing examples in Photoshop. [Spacing examples](spacing-examples.md).
+- Open when looking up Status checking in Photoshop. [Status checking](status-checking.md).
+- Open when looking up Too many images in Photoshop. [Too many images](too-many-images.md).
+- Open when looking up Too many outputs in Photoshop. [Too many outputs](too-many-outputs.md).
+- Open when looking up V1 request example in Photoshop. [V1 request example](v1-request-example.md).
+- Open when looking up V2 request example in Photoshop. [V2 request example](v2-request-example.md).

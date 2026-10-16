@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "ScreenInfo.angle", "file": "references/scripting/screen-info/angle.md", "summary": "Open when looking up ScreenInfo.angle in Illustrator.", "keywords": ["ScreenInfo.angle"]},
+  {"topic": "ScreenInfo.defaultScreen", "file": "references/scripting/screen-info/default-screen.md", "summary": "Open when looking up ScreenInfo.defaultScreen in Illustrator.", "keywords": ["ScreenInfo.defaultScreen"]},
+  {"topic": "ScreenInfo.frequency", "file": "references/scripting/screen-info/frequency.md", "summary": "Open when looking up ScreenInfo.frequency in Illustrator.", "keywords": ["ScreenInfo.frequency"]},
+  {"topic": "ScreenInfo.typename", "file": "references/scripting/screen-info/typename.md", "summary": "Open when looking up ScreenInfo.typename in Illustrator.", "keywords": ["ScreenInfo.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

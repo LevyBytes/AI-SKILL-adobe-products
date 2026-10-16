@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Clipboard Security", "file": "references/uxp/clipboard-operations/clipboard-security.md", "summary": "Open when looking up Clipboard Security in Premiere Pro.", "keywords": ["Clipboard Security"]},
+  {"topic": "Example: Copy and Paste Together", "file": "references/uxp/clipboard-operations/example-copy-and-paste-together.md", "summary": "Open when looking up Example: Copy and Paste Together in Premiere Pro.", "keywords": ["Example: Copy and Paste Together"]},
+  {"topic": "Example: Reading from the Clipboard", "file": "references/uxp/clipboard-operations/example-reading-from-the-clipboard.md", "summary": "Open when looking up Example: Reading from the Clipboard in Premiere Pro.", "keywords": ["Example: Reading from the Clipboard"]},
+  {"topic": "Example: Writing to the Clipboard", "file": "references/uxp/clipboard-operations/example-writing-to-the-clipboard.md", "summary": "Open when looking up Example: Writing to the Clipboard in Premiere Pro.", "keywords": ["Example: Writing to the Clipboard"]},
+  {"topic": "index.js", "file": "references/uxp/clipboard-operations/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
+  {"topic": "manifest.json", "file": "references/uxp/clipboard-operations/manifest-json.md", "summary": "Open when looking up manifest.json in Premiere Pro.", "keywords": ["manifest.json"]},
+  {"topic": "Reference Material", "file": "references/uxp/clipboard-operations/reference-material.md", "summary": "Open when looking up Reference Material in Premiere Pro.", "keywords": ["Reference Material"]},
+  {"topic": "Summary", "file": "references/uxp/clipboard-operations/summary.md", "summary": "Open when looking up Summary in Premiere Pro.", "keywords": ["Summary"]},
+  {"topic": "System requirements", "file": "references/uxp/clipboard-operations/system-requirements.md", "summary": "Open when looking up System requirements in Premiere Pro.", "keywords": ["System requirements"]},
+  {"topic": "Using the Clipboard API", "file": "references/uxp/clipboard-operations/using-the-clipboard-api.md", "summary": "Open when looking up Using the Clipboard API in Premiere Pro.", "keywords": ["Using the Clipboard API"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

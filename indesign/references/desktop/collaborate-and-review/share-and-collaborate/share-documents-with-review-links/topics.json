@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create a review link", "file": "references/desktop/collaborate-and-review/share-and-collaborate/share-documents-with-review-links/create-a-review-link.md", "summary": "Open when looking up Create a review link in InDesign.", "keywords": ["Create a review link"]},
+  {"topic": "Manage review link settings", "file": "references/desktop/collaborate-and-review/share-and-collaborate/share-documents-with-review-links/manage-review-link-settings.md", "summary": "Open when looking up Manage review link settings in InDesign.", "keywords": ["Manage review link settings"]},
+  {"topic": "Update shared content", "file": "references/desktop/collaborate-and-review/share-and-collaborate/share-documents-with-review-links/update-shared-content.md", "summary": "Open when looking up Update shared content in InDesign.", "keywords": ["Update shared content"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

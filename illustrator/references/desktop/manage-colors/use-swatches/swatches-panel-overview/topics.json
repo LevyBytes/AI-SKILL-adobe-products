@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Swatches panel", "file": "references/desktop/manage-colors/use-swatches/swatches-panel-overview/swatches-panel.md", "summary": "Open when looking up Swatches panel in Illustrator.", "keywords": ["Swatches panel"]},
+  {"topic": "Swatches panel menu options", "file": "references/desktop/manage-colors/use-swatches/swatches-panel-overview/swatches-panel-menu-options.md", "summary": "Open when looking up Swatches panel menu options in Illustrator.", "keywords": ["Swatches panel menu options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

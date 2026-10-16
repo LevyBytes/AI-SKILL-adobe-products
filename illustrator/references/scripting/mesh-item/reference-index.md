@@ -1,0 +1,40 @@
+# Illustrator — MeshItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up MeshItem.artworkKnockout in Illustrator. [MeshItem.artworkKnockout](artwork-knockout.md).
+- Open when looking up MeshItem.blendingMode in Illustrator. [MeshItem.blendingMode](blending-mode.md).
+- Open when looking up MeshItem.controlBounds in Illustrator. [MeshItem.controlBounds](control-bounds.md).
+- Open when looking up MeshItem.duplicate() in Illustrator. [MeshItem.duplicate()](duplicate.md).
+- Open when looking up MeshItem.editable in Illustrator. [MeshItem.editable](editable.md).
+- Open when looking up MeshItem.geometricBounds in Illustrator. [MeshItem.geometricBounds](geometric-bounds.md).
+- Open when looking up MeshItem.height in Illustrator. [MeshItem.height](height.md).
+- Open when looking up MeshItem.hidden in Illustrator. [MeshItem.hidden](hidden.md).
+- Open when looking up MeshItem.isIsolated in Illustrator. [MeshItem.isIsolated](is-isolated.md).
+- Open when looking up MeshItem.layer in Illustrator. [MeshItem.layer](layer.md).
+- Open when looking up MeshItem.left in Illustrator. [MeshItem.left](left.md).
+- Open when looking up MeshItem.locked in Illustrator. [MeshItem.locked](locked.md).
+- Open when looking up MeshItem.move() in Illustrator. [MeshItem.move()](move.md).
+- Open when looking up MeshItem.name in Illustrator. [MeshItem.name](name.md).
+- Open when looking up MeshItem.note in Illustrator. [MeshItem.note](note.md).
+- Open when looking up MeshItem.opacity in Illustrator. [MeshItem.opacity](opacity.md).
+- Open when looking up MeshItem.parent in Illustrator. [MeshItem.parent](parent.md).
+- Open when looking up MeshItem.position in Illustrator. [MeshItem.position](position.md).
+- Open when looking up MeshItem.remove() in Illustrator. [MeshItem.remove()](remove.md).
+- Open when looking up MeshItem.resize() in Illustrator. [MeshItem.resize()](resize.md).
+- Open when looking up MeshItem.rotate() in Illustrator. [MeshItem.rotate()](rotate.md).
+- Open when looking up MeshItem.selected in Illustrator. [MeshItem.selected](selected.md).
+- Open when looking up MeshItem.sliced in Illustrator. [MeshItem.sliced](sliced.md).
+- Open when looking up MeshItem.tags in Illustrator. [MeshItem.tags](tags.md).
+- Open when looking up MeshItem.top in Illustrator. [MeshItem.top](top.md).
+- Open when looking up MeshItem.transform() in Illustrator. [MeshItem.transform()](transform.md).
+- Open when looking up MeshItem.translate() in Illustrator. [MeshItem.translate()](translate.md).
+- Open when looking up MeshItem.typename in Illustrator. [MeshItem.typename](typename.md).
+- Open when looking up MeshItem.uRL in Illustrator. [MeshItem.uRL](u-rl.md).
+- Open when looking up MeshItem.visibilityVariable in Illustrator. [MeshItem.visibilityVariable](visibility-variable.md).
+- Open when looking up MeshItem.visibleBounds in Illustrator. [MeshItem.visibleBounds](visible-bounds.md).
+- Open when looking up MeshItem.width in Illustrator. [MeshItem.width](width.md).
+- Open when looking up MeshItem.wrapInside in Illustrator. [MeshItem.wrapInside](wrap-inside.md).
+- Open when looking up MeshItem.wrapOffset in Illustrator. [MeshItem.wrapOffset](wrap-offset.md).
+- Open when looking up MeshItem.wrapped in Illustrator. [MeshItem.wrapped](wrapped.md).
+- Open when looking up MeshItem.zOrder() in Illustrator. [MeshItem.zOrder()](z-order.md).
+- Open when looking up MeshItem.zOrderPosition in Illustrator. [MeshItem.zOrderPosition](z-order-position.md).

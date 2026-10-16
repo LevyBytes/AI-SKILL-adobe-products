@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ACTUAL_SIZE", "file": "references/document-model/go-to-zoom-options/actualsize.md", "summary": "Open when looking up ACTUAL_SIZE in InDesign.", "keywords": ["ACTUAL_SIZE"]},
+  {"topic": "FIT_VISIBLE", "file": "references/document-model/go-to-zoom-options/fitvisible.md", "summary": "Open when looking up FIT_VISIBLE in InDesign.", "keywords": ["FIT_VISIBLE"]},
+  {"topic": "FIT_WIDTH", "file": "references/document-model/go-to-zoom-options/fitwidth.md", "summary": "Open when looking up FIT_WIDTH in InDesign.", "keywords": ["FIT_WIDTH"]},
+  {"topic": "FIT_WINDOW", "file": "references/document-model/go-to-zoom-options/fitwindow.md", "summary": "Open when looking up FIT_WINDOW in InDesign.", "keywords": ["FIT_WINDOW"]},
+  {"topic": "INHERIT_ZOOM", "file": "references/document-model/go-to-zoom-options/inheritzoom.md", "summary": "Open when looking up INHERIT_ZOOM in InDesign.", "keywords": ["INHERIT_ZOOM"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

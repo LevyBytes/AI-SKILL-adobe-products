@@ -1,0 +1,23 @@
+# SPRITES - STILL
+
+- Alien Calligraphy
+- Alien Face
+- Box - dashed lines
+- Bullseye
+- Circular - half round
+- Circular - tri dash
+- Crosshair - brackets
+- Crosshair - round
+- Crosshair - square
+- Fan Blades
+- Flower Power
+- Gear
+- Holy Light
+- Indian Sun
+- Mandala
+- RayStar-4
+- RayStar-8
+- Rounded Bracket - beveled
+- Rounded Bracket - double
+- Seaside Daisy
+- Tri Cog

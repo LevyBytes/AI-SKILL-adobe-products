@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Adobe trust programs", "file": "references/web/e-sign-documents/fill-and-sign/e-signatures-legal-compliance-overview/adobe-trust-programs.md", "summary": "Open when looking up Adobe trust programs in Acrobat.", "keywords": ["Adobe trust programs"]},
+  {"topic": "Compliance", "file": "references/web/e-sign-documents/fill-and-sign/e-signatures-legal-compliance-overview/compliance.md", "summary": "Open when looking up Compliance in Acrobat.", "keywords": ["Compliance"]},
+  {"topic": "Open standards", "file": "references/web/e-sign-documents/fill-and-sign/e-signatures-legal-compliance-overview/open-standards.md", "summary": "Open when looking up Open standards in Acrobat.", "keywords": ["Open standards"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

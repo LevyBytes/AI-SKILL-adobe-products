@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Accept a collaboration invitation", "file": "references/desktop/app-integrations/share-libraries-with-creative-cloud-users/accept-a-collaboration-invitation.md", "summary": "Open when looking up Accept a collaboration invitation in InDesign.", "keywords": ["Accept a collaboration invitation"]},
+  {"topic": "Cancel the sharing of a library", "file": "references/desktop/app-integrations/share-libraries-with-creative-cloud-users/cancel-the-sharing-of-a-library.md", "summary": "Open when looking up Cancel the sharing of a library in InDesign.", "keywords": ["Cancel the sharing of a library"]},
+  {"topic": "Delete a shared library", "file": "references/desktop/app-integrations/share-libraries-with-creative-cloud-users/delete-a-shared-library.md", "summary": "Open when looking up Delete a shared library in InDesign.", "keywords": ["Delete a shared library"]},
+  {"topic": "Leave a shared library", "file": "references/desktop/app-integrations/share-libraries-with-creative-cloud-users/leave-a-shared-library.md", "summary": "Open when looking up Leave a shared library in InDesign.", "keywords": ["Leave a shared library"]},
+  {"topic": "Share a Creative Cloud library", "file": "references/desktop/app-integrations/share-libraries-with-creative-cloud-users/share-a-creative-cloud-library.md", "summary": "Open when looking up Share a Creative Cloud library in InDesign.", "keywords": ["Share a Creative Cloud library"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

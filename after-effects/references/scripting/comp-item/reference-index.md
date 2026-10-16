@@ -1,0 +1,40 @@
+# After Effects — Comp item
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CompItem object in After Effects. [CompItem object](comp-item-object.md).
+- Open when looking up CompItem.activeCamera in After Effects. [CompItem.activeCamera](active-camera.md).
+- Open when looking up CompItem.bgColor in After Effects. [CompItem.bgColor](bg-color.md).
+- Open when looking up CompItem.counters in After Effects. [CompItem.counters](counters.md).
+- Open when looking up CompItem.displayStartFrame in After Effects. [CompItem.displayStartFrame](display-start-frame.md).
+- Open when looking up CompItem.displayStartTime in After Effects. [CompItem.displayStartTime](display-start-time.md).
+- Open when looking up CompItem.draft3d in After Effects. [CompItem.draft3d](draft3d.md).
+- Open when looking up CompItem.dropFrame in After Effects. [CompItem.dropFrame](drop-frame.md).
+- Open when looking up CompItem.duplicate() in After Effects. [CompItem.duplicate()](duplicate.md).
+- Open when looking up CompItem.exportAsMotionGraphicsTemplate() in After Effects. [CompItem.exportAsMotionGraphicsTemplate()](export-as-motion-graphics-template.md).
+- Open when looking up CompItem.frameBlending in After Effects. [CompItem.frameBlending](frame-blending.md).
+- Open when looking up CompItem.frameDuration in After Effects. [CompItem.frameDuration](frame-duration.md).
+- Open when looking up CompItem.getMotionGraphicsTemplateControllerName() in After Effects. [CompItem.getMotionGraphicsTemplateControllerName()](get-motion-graphics-template-controller-name.md).
+- Open when looking up CompItem.hideShyLayers in After Effects. [CompItem.hideShyLayers](hide-shy-layers.md).
+- Open when looking up CompItem.layer() in After Effects. [CompItem.layer()](layer.md).
+- Open when looking up CompItem.layers in After Effects. [CompItem.layers](layers.md).
+- Open when looking up CompItem.markerProperty in After Effects. [CompItem.markerProperty](marker-property.md).
+- Open when looking up CompItem.motionBlur in After Effects. [CompItem.motionBlur](motion-blur.md).
+- Open when looking up CompItem.motionBlurAdaptiveSampleLimit in After Effects. [CompItem.motionBlurAdaptiveSampleLimit](motion-blur-adaptive-sample-limit.md).
+- Open when looking up CompItem.motionBlurSamplesPerFrame in After Effects. [CompItem.motionBlurSamplesPerFrame](motion-blur-samples-per-frame.md).
+- Open when looking up CompItem.motionGraphicsTemplateControllerCount in After Effects. [CompItem.motionGraphicsTemplateControllerCount](motion-graphics-template-controller-count.md).
+- Open when looking up CompItem.motionGraphicsTemplateName in After Effects. [CompItem.motionGraphicsTemplateName](motion-graphics-template-name.md).
+- Open when looking up CompItem.numLayers in After Effects. [CompItem.numLayers](num-layers.md).
+- Open when looking up CompItem.openInEssentialGraphics() in After Effects. [CompItem.openInEssentialGraphics()](open-in-essential-graphics.md).
+- Open when looking up CompItem.openInViewer() in After Effects. [CompItem.openInViewer()](open-in-viewer.md).
+- Open when looking up CompItem.preserveNestedFrameRate in After Effects. [CompItem.preserveNestedFrameRate](preserve-nested-frame-rate.md).
+- Open when looking up CompItem.preserveNestedResolution in After Effects. [CompItem.preserveNestedResolution](preserve-nested-resolution.md).
+- Open when looking up CompItem.renderer in After Effects. [CompItem.renderer](renderer.md).
+- Open when looking up CompItem.renderers in After Effects. [CompItem.renderers](renderers.md).
+- Open when looking up CompItem.resolutionFactor in After Effects. [CompItem.resolutionFactor](resolution-factor.md).
+- Open when looking up CompItem.selectedLayers in After Effects. [CompItem.selectedLayers](selected-layers.md).
+- Open when looking up CompItem.selectedProperties in After Effects. [CompItem.selectedProperties](selected-properties.md).
+- Open when looking up CompItem.setMotionGraphicsControllerName() in After Effects. [CompItem.setMotionGraphicsControllerName()](set-motion-graphics-controller-name.md).
+- Open when looking up CompItem.shutterAngle in After Effects. [CompItem.shutterAngle](shutter-angle.md).
+- Open when looking up CompItem.shutterPhase in After Effects. [CompItem.shutterPhase](shutter-phase.md).
+- Open when looking up CompItem.workAreaDuration in After Effects. [CompItem.workAreaDuration](work-area-duration.md).
+- Open when looking up CompItem.workAreaStart in After Effects. [CompItem.workAreaStart](work-area-start.md).

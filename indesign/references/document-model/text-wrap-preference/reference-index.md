@@ -1,0 +1,22 @@
+# InDesign — TextWrapPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up applyToMasterPageOnly in InDesign. [applyToMasterPageOnly](apply-to-master-page-only.md).
+- Open when looking up contourOptions in InDesign. [contourOptions](contour-options.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up inverse in InDesign. [inverse](inverse.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up paths in InDesign. [paths](paths.md).
+- Open when looking up preferences in InDesign. [preferences](preferences.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up textWrapMode in InDesign. [textWrapMode](text-wrap-mode.md).
+- Open when looking up textWrapOffset in InDesign. [textWrapOffset](text-wrap-offset.md).
+- Open when looking up textWrapSide in InDesign. [textWrapSide](text-wrap-side.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up userModifiedWrap in InDesign. [userModifiedWrap](user-modified-wrap.md).

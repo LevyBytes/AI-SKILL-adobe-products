@@ -1,0 +1,6 @@
+# Alerter
+
+
+**Methods:**
+
+- dispatch

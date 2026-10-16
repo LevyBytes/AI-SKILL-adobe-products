@@ -1,0 +1,34 @@
+# InDesign — DialogColumn
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up angleComboboxes in InDesign. [angleComboboxes](angle-comboboxes.md).
+- Open when looking up angleEditboxes in InDesign. [angleEditboxes](angle-editboxes.md).
+- Open when looking up borderPanels in InDesign. [borderPanels](border-panels.md).
+- Open when looking up checkboxControls in InDesign. [checkboxControls](checkbox-controls.md).
+- Open when looking up dialogRows in InDesign. [dialogRows](dialog-rows.md).
+- Open when looking up dropdowns in InDesign. [dropdowns](dropdowns.md).
+- Open when looking up enablingGroups in InDesign. [enablingGroups](enabling-groups.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up integerComboboxes in InDesign. [integerComboboxes](integer-comboboxes.md).
+- Open when looking up integerEditboxes in InDesign. [integerEditboxes](integer-editboxes.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up measurementComboboxes in InDesign. [measurementComboboxes](measurement-comboboxes.md).
+- Open when looking up measurementEditboxes in InDesign. [measurementEditboxes](measurement-editboxes.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up percentComboboxes in InDesign. [percentComboboxes](percent-comboboxes.md).
+- Open when looking up percentEditboxes in InDesign. [percentEditboxes](percent-editboxes.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up radiobuttonGroups in InDesign. [radiobuttonGroups](radiobutton-groups.md).
+- Open when looking up realComboboxes in InDesign. [realComboboxes](real-comboboxes.md).
+- Open when looking up realEditboxes in InDesign. [realEditboxes](real-editboxes.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up staticTexts in InDesign. [staticTexts](static-texts.md).
+- Open when looking up textEditboxes in InDesign. [textEditboxes](text-editboxes.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up widgets in InDesign. [widgets](widgets.md).

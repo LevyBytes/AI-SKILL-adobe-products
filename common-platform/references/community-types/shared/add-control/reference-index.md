@@ -1,0 +1,21 @@
+# Shared Adobe platform — _AddControl
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up _AddControl button in Shared Adobe platform. [_AddControl button](button.md).
+- Open when looking up _AddControl checkbox in Shared Adobe platform. [_AddControl checkbox](checkbox.md).
+- Open when looking up _AddControl declaration in Shared Adobe platform. [_AddControl declaration](declaration.md).
+- Open when looking up _AddControl dropdownlist in Shared Adobe platform. [_AddControl dropdownlist](dropdownlist.md).
+- Open when looking up _AddControl edittext in Shared Adobe platform. [_AddControl edittext](edittext.md).
+- Open when looking up _AddControl flashplayer in Shared Adobe platform. [_AddControl flashplayer](flashplayer.md).
+- Open when looking up _AddControl group in Shared Adobe platform. [_AddControl group](group.md).
+- Open when looking up _AddControl iconbutton in Shared Adobe platform. [_AddControl iconbutton](iconbutton.md).
+- Open when looking up _AddControl image in Shared Adobe platform. [_AddControl image](image.md).
+- Open when looking up _AddControl listbox in Shared Adobe platform. [_AddControl listbox](listbox.md).
+- Open when looking up _AddControl panel in Shared Adobe platform. [_AddControl panel](panel.md).
+- Open when looking up _AddControl progressbar in Shared Adobe platform. [_AddControl progressbar](progressbar.md).
+- Open when looking up _AddControl radiobutton in Shared Adobe platform. [_AddControl radiobutton](radiobutton.md).
+- Open when looking up _AddControl scrollbar in Shared Adobe platform. [_AddControl scrollbar](scrollbar.md).
+- Open when looking up _AddControl slider in Shared Adobe platform. [_AddControl slider](slider.md).
+- Open when looking up _AddControl statictext in Shared Adobe platform. [_AddControl statictext](statictext.md).
+- Open when looking up _AddControl tabbedpanel in Shared Adobe platform. [_AddControl tabbedpanel](tabbedpanel.md).
+- Open when looking up _AddControl treeview in Shared Adobe platform. [_AddControl treeview](treeview.md).

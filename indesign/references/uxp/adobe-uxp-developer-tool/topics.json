@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Connected apps", "file": "references/uxp/adobe-uxp-developer-tool/connected-apps.md", "summary": "Open when looking up Connected apps in InDesign.", "keywords": ["Connected apps"]},
+  {"topic": "Logs", "file": "references/uxp/adobe-uxp-developer-tool/logs.md", "summary": "Open when looking up Logs in InDesign.", "keywords": ["Logs"]},
+  {"topic": "Preferences", "file": "references/uxp/adobe-uxp-developer-tool/preferences.md", "summary": "Open when looking up Preferences in InDesign.", "keywords": ["Preferences"]},
+  {"topic": "Read more", "file": "references/uxp/adobe-uxp-developer-tool/read-more.md", "summary": "Open when looking up Read more in InDesign.", "keywords": ["Read more"]},
+  {"topic": "Side pane", "file": "references/uxp/adobe-uxp-developer-tool/side-pane.md", "summary": "Open when looking up Side pane in InDesign.", "keywords": ["Side pane"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

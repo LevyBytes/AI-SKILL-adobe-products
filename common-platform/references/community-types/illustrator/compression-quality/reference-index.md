@@ -1,0 +1,29 @@
+# Shared Adobe platform — CompressionQuality
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CompressionQuality declaration in Shared Adobe platform. [CompressionQuality declaration](declaration.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEG2000HIGH in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEG2000HIGH](automaticjpeg2000-high.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEG2000LOSSLESS in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEG2000LOSSLESS](automaticjpeg2000-lossless.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEG2000LOW in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEG2000LOW](automaticjpeg2000-low.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEG2000MAXIMUM in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEG2000MAXIMUM](automaticjpeg2000-maximum.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEG2000MEDIUM in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEG2000MEDIUM](automaticjpeg2000-medium.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEG2000MINIMUM in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEG2000MINIMUM](automaticjpeg2000-minimum.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEGHIGH in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEGHIGH](automaticjpeghigh.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEGLOW in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEGLOW](automaticjpeglow.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEGMAXIMUM in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEGMAXIMUM](automaticjpegmaximum.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEGMEDIUM in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEGMEDIUM](automaticjpegmedium.md).
+- Open when looking up CompressionQuality.AUTOMATICJPEGMINIMUM in Shared Adobe platform. [CompressionQuality.AUTOMATICJPEGMINIMUM](automaticjpegminimum.md).
+- Open when looking up CompressionQuality.JPEG2000HIGH in Shared Adobe platform. [CompressionQuality.JPEG2000HIGH](jpeg2000-high.md).
+- Open when looking up CompressionQuality.JPEG2000LOSSLESS in Shared Adobe platform. [CompressionQuality.JPEG2000LOSSLESS](jpeg2000-lossless.md).
+- Open when looking up CompressionQuality.JPEG2000LOW in Shared Adobe platform. [CompressionQuality.JPEG2000LOW](jpeg2000-low.md).
+- Open when looking up CompressionQuality.JPEG2000MAXIMUM in Shared Adobe platform. [CompressionQuality.JPEG2000MAXIMUM](jpeg2000-maximum.md).
+- Open when looking up CompressionQuality.JPEG2000MEDIUM in Shared Adobe platform. [CompressionQuality.JPEG2000MEDIUM](jpeg2000-medium.md).
+- Open when looking up CompressionQuality.JPEG2000MINIMUM in Shared Adobe platform. [CompressionQuality.JPEG2000MINIMUM](jpeg2000-minimum.md).
+- Open when looking up CompressionQuality.JPEGHIGH in Shared Adobe platform. [CompressionQuality.JPEGHIGH](jpeghigh.md).
+- Open when looking up CompressionQuality.JPEGLOW in Shared Adobe platform. [CompressionQuality.JPEGLOW](jpeglow.md).
+- Open when looking up CompressionQuality.JPEGMAXIMUM in Shared Adobe platform. [CompressionQuality.JPEGMAXIMUM](jpegmaximum.md).
+- Open when looking up CompressionQuality.JPEGMEDIUM in Shared Adobe platform. [CompressionQuality.JPEGMEDIUM](jpegmedium.md).
+- Open when looking up CompressionQuality.JPEGMINIMUM in Shared Adobe platform. [CompressionQuality.JPEGMINIMUM](jpegminimum.md).
+- Open when looking up CompressionQuality.None in Shared Adobe platform. [CompressionQuality.None](none.md).
+- Open when looking up CompressionQuality.ZIP4BIT in Shared Adobe platform. [CompressionQuality.ZIP4BIT](zip4-bit.md).
+- Open when looking up CompressionQuality.ZIP8BIT in Shared Adobe platform. [CompressionQuality.ZIP8BIT](zip8-bit.md).

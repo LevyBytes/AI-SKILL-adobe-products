@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Crop parameter details", "file": "references/cloud-services/document-operations-migration/crop-operations/crop-parameter-details.md", "summary": "Open when looking up Crop parameter details in Photoshop.", "keywords": ["Crop parameter details"]},
+  {"topic": "Crop request examples", "file": "references/cloud-services/document-operations-migration/crop-operations/crop-request-examples.md", "summary": "Open when looking up Crop request examples in Photoshop.", "keywords": ["Crop request examples"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

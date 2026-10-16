@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "After effects references", "file": "references/desktop/interoperability/after-effects/reference-index.md", "summary": "Open when looking up After effects in Premiere Pro.", "keywords": ["After effects references"]},
+  {"topic": "Audition references", "file": "references/desktop/interoperability/audition/reference-index.md", "summary": "Open when looking up Audition in Premiere Pro.", "keywords": ["Audition references"]},
+  {"topic": "Photoshop references", "file": "references/desktop/interoperability/photoshop/reference-index.md", "summary": "Open when looking up Photoshop in Premiere Pro.", "keywords": ["Photoshop references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,29 @@
+# After Effects — Formatting characters and the Character panel
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add a stroke (outline) to text in After Effects. [Add a stroke (outline) to text](add-a-stroke-outline-to-text.md).
+- Open when looking up Adjust tsume in After Effects. [Adjust tsume](adjust-tsume.md).
+- Open when looking up Blend overlapping characters in a text layer in After Effects. [Blend overlapping characters in a text layer](blend-overlapping-characters-in-a-text-layer.md).
+- Open when looking up Change text fill or stroke color in After Effects. [Change text fill or stroke color](change-text-fill-or-stroke-color.md).
+- Open when looking up Change text stroke line join in After Effects. [Change text stroke line join](change-text-stroke-line-join.md).
+- Open when looking up Change the case of text in After Effects. [Change the case of text](change-the-case-of-text.md).
+- Open when looking up Chinese, Japanese, and Korean text in After Effects. [Chinese, Japanese, and Korean text](chinese-japanese-and-korean-text.md).
+- Open when looking up Choose a font family in After Effects. [Choose a font family](choose-a-font-family.md).
+- Open when looking up Choose a font size in After Effects. [Choose a font size](choose-a-font-size.md).
+- Open when looking up Choose a font style in After Effects. [Choose a font style](choose-a-font-style.md).
+- Open when looking up Create a non-breaking space in After Effects. [Create a non-breaking space](create-a-non-breaking-space.md).
+- Open when looking up Display only fonts downloaded from Adobe Fonts in After Effects. [Display only fonts downloaded from Adobe Fonts](display-only-fonts-downloaded-from-adobe-fonts.md).
+- Open when looking up Font menu in After Effects. [Font menu](font-menu.md).
+- Open when looking up Fonts in After Effects. [Fonts](fonts.md).
+- Open when looking up Format text as superscript or subscript in After Effects. [Format text as superscript or subscript](format-text-as-superscript-or-subscript.md).
+- Open when looking up Modify Font menu in After Effects. [Modify Font menu](modify-font-menu.md).
+- Open when looking up Set fonts as favorites in After Effects. [Set fonts as favorites](set-fonts-as-favorites.md).
+- Open when looking up Smart quotes in After Effects. [Smart quotes](smart-quotes.md).
+- Open when looking up Spacing between characters and lines in After Effects. [Spacing between characters and lines](spacing-between-characters-and-lines.md).
+- Open when looking up Specify how leading is measured in After Effects. [Specify how leading is measured](specify-how-leading-is-measured.md).
+- Open when looking up Specify kerning in After Effects. [Specify kerning](specify-kerning.md).
+- Open when looking up Specify leading in After Effects. [Specify leading](specify-leading.md).
+- Open when looking up Specify tracking in After Effects. [Specify tracking](specify-tracking.md).
+- Open when looking up Text fills and strokes in After Effects. [Text fills and strokes](text-fills-and-strokes.md).
+- Open when looking up Text scale and baseline shift in After Effects. [Text scale and baseline shift](text-scale-and-baseline-shift.md).
+- Open when looking up Use tate-chuu-yoko in After Effects. [Use tate-chuu-yoko](use-tate-chuu-yoko.md).

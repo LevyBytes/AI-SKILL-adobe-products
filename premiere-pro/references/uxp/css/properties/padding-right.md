@@ -1,0 +1,15 @@
+# padding-right
+
+**Since** UXP v2.0
+
+Defines the element's right padding.
+
+**See**: [https://developer.mozilla.org/en/docs/Web/CSS/padding-right](https://developer.mozilla.org/en/docs/Web/CSS/padding-right)
+
+**Example**:
+
+```css
+.someElement {
+  padding-right: 10px;
+}
+```

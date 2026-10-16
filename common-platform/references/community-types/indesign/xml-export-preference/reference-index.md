@@ -1,0 +1,22 @@
+# Shared Adobe platform — XMLExportPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up XMLExportPreference declaration in Shared Adobe platform. [XMLExportPreference declaration](declaration.md).
+- Open when looking up XMLExportPreference.allowTransform in Shared Adobe platform. [XMLExportPreference.allowTransform](allow-transform.md).
+- Open when looking up XMLExportPreference.characterReferences in Shared Adobe platform. [XMLExportPreference.characterReferences](character-references.md).
+- Open when looking up XMLExportPreference.copyFormattedImages in Shared Adobe platform. [XMLExportPreference.copyFormattedImages](copy-formatted-images.md).
+- Open when looking up XMLExportPreference.copyOptimizedImages in Shared Adobe platform. [XMLExportPreference.copyOptimizedImages](copy-optimized-images.md).
+- Open when looking up XMLExportPreference.copyOriginalImages in Shared Adobe platform. [XMLExportPreference.copyOriginalImages](copy-original-images.md).
+- Open when looking up XMLExportPreference.excludeDtd in Shared Adobe platform. [XMLExportPreference.excludeDtd](exclude-dtd.md).
+- Open when looking up XMLExportPreference.exportFromSelected in Shared Adobe platform. [XMLExportPreference.exportFromSelected](export-from-selected.md).
+- Open when looking up XMLExportPreference.exportUntaggedTablesFormat in Shared Adobe platform. [XMLExportPreference.exportUntaggedTablesFormat](export-untagged-tables-format.md).
+- Open when looking up XMLExportPreference.fileEncoding in Shared Adobe platform. [XMLExportPreference.fileEncoding](file-encoding.md).
+- Open when looking up XMLExportPreference.gifOptionsInterlaced in Shared Adobe platform. [XMLExportPreference.gifOptionsInterlaced](gif-options-interlaced.md).
+- Open when looking up XMLExportPreference.gifOptionsPalette in Shared Adobe platform. [XMLExportPreference.gifOptionsPalette](gif-options-palette.md).
+- Open when looking up XMLExportPreference.imageConversion in Shared Adobe platform. [XMLExportPreference.imageConversion](image-conversion.md).
+- Open when looking up XMLExportPreference.jpegOptionsFormat in Shared Adobe platform. [XMLExportPreference.jpegOptionsFormat](jpeg-options-format.md).
+- Open when looking up XMLExportPreference.jpegOptionsQuality in Shared Adobe platform. [XMLExportPreference.jpegOptionsQuality](jpeg-options-quality.md).
+- Open when looking up XMLExportPreference.preferredBrowser in Shared Adobe platform. [XMLExportPreference.preferredBrowser](preferred-browser.md).
+- Open when looking up XMLExportPreference.ruby in Shared Adobe platform. [XMLExportPreference.ruby](ruby.md).
+- Open when looking up XMLExportPreference.transformFilename in Shared Adobe platform. [XMLExportPreference.transformFilename](transform-filename.md).
+- Open when looking up XMLExportPreference.viewAfterExport in Shared Adobe platform. [XMLExportPreference.viewAfterExport](view-after-export.md).

@@ -1,0 +1,22 @@
+# Photoshop — Save files
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Additional file-save options in Photoshop. [Additional file-save options](additional-file-save-options.md).
+- Open when looking up Common questions on Photoshop cloud documents in Photoshop. [Common questions on Photoshop cloud documents](common-questions-on-photoshop-cloud-documents.md).
+- Open when looking up Control filename appending when saving different versions in Photoshop. [Control filename appending when saving different versions](control-filename-appending-when-saving-different-versions.md).
+- Open when looking up Create temporary versions without saving to disk in Photoshop. [Create temporary versions without saving to disk](create-temporary-versions-without-saving-to-disk.md).
+- Open when looking up Enable legacy Save As workflow in Photoshop. [Enable legacy Save As workflow](enable-legacy-save-as-workflow.md).
+- Open when looking up Export files to different formats in Photoshop. [Export files to different formats](export-files-to-different-formats.md).
+- Open when looking up File saving preferences in Photoshop. [File saving preferences](file-saving-preferences.md).
+- Open when looking up File saving properties in Photoshop. [File saving properties](file-saving-properties.md).
+- Open when looking up File saving properties and preferences in Photoshop. [File saving properties and preferences](file-saving-properties-and-preferences.md).
+- Open when looking up macOS image preview options in Photoshop. [macOS image preview options](mac-os-image-preview-options.md).
+- Open when looking up Metadata, CSS, and content credentials in Photoshop. [Metadata, CSS, and content credentials](metadata-css-and-content-credentials.md).
+- Open when looking up Revert to legacy Save As options in Photoshop. [Revert to legacy Save As options](revert-to-legacy-save-as-options.md).
+- Open when looking up Save a copy while preserving your original document in Photoshop. [Save a copy while preserving your original document](save-a-copy-while-preserving-your-original-document.md).
+- Open when looking up Save a document with a new name, location, or format in Photoshop. [Save a document with a new name, location, or format](save-a-document-with-a-new-name-location-or-format.md).
+- Open when looking up Save as Photoshop PDF in Photoshop. [Save as Photoshop PDF](save-as-photoshop-pdf.md).
+- Open when looking up Save Files in Photoshop. [Save Files](save-files.md).
+- Open when looking up Save for Web in Photoshop. [Save for Web](save-for-web.md).
+- Open when looking up Save large documents in Photoshop. [Save large documents](save-large-documents.md).
+- Open when looking up Save your work in Photoshop. [Save your work](save-your-work.md).

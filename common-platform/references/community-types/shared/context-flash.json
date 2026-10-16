@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "FlashPlayer", "file": "references/community-types/shared/flash-player.md", "summary": "Open when looking up FlashPlayer in Shared Adobe platform.", "keywords": ["FlashPlayer"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

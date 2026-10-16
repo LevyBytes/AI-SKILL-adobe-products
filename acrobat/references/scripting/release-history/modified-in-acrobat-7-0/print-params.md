@@ -1,0 +1,6 @@
+# PrintParams
+
+
+**Properties:**
+
+- pageHandling

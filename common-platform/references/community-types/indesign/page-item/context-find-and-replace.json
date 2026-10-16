@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PageItem.changeObject", "file": "references/community-types/indesign/page-item/change-object.md", "summary": "Open when looking up PageItem.changeObject in Shared Adobe platform.", "keywords": ["PageItem.changeObject"]},
+  {"topic": "PageItem.findObject", "file": "references/community-types/indesign/page-item/find-object.md", "summary": "Open when looking up PageItem.findObject in Shared Adobe platform.", "keywords": ["PageItem.findObject"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

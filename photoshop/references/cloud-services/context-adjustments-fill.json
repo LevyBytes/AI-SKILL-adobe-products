@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Adjustment layers", "file": "references/cloud-services/adjustment-layers.md", "summary": "Open when looking up Adjustment layers in Photoshop.", "keywords": ["Adjustment layers"]},
+  {"topic": "Adjustment layers references", "file": "references/cloud-services/adjustment-layers/reference-index.md", "summary": "Open when looking up Adjustment layers in Photoshop.", "keywords": ["Adjustment layers references"]},
+  {"topic": "Fill / solid color layer", "file": "references/cloud-services/fill-solid-color-layer.md", "summary": "Open when looking up Fill / solid color layer in Photoshop.", "keywords": ["Fill / solid color layer"]},
+  {"topic": "Fill / solid color layer references", "file": "references/cloud-services/fill-solid-color-layer/reference-index.md", "summary": "Open when looking up Fill / solid color layer in Photoshop.", "keywords": ["Fill / solid color layer references"]},
+  {"topic": "Solid color layers references", "file": "references/cloud-services/solid-color-layers/reference-index.md", "summary": "Open when looking up Solid color layers in Photoshop.", "keywords": ["Solid color layers references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

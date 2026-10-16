@@ -1,0 +1,3 @@
+# Hyperlinks — Create a hyperlink to an email message
+
+Select the text, frame, or graphic that will serve as the hyperlink source. From the Hyperlinks panel menu, choose New Hyperlink, or use the Hyperlinks panel's bottom Create New Hyperlink button. In the New Hyperlink dialog box, set Link To to Email. For Address, enter the email address, such as username@company.com. For Subject Line, enter the text that should appear in the email message subject line. Select Shared Hyperlink Destination if the email message should remain available in the Hyperlinks panel for easy reuse. Set the hyperlink source appearance, then click OK.

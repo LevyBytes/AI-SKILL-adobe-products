@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Bugs Fixes", "file": "references/uxp/uxp-changelog-uxp-v6-4/bugs-fixes.md", "summary": "Open when looking up Bugs Fixes in Premiere Pro.", "keywords": ["Bugs Fixes"]},
+  {"topic": "New", "file": "references/uxp/uxp-changelog-uxp-v6-4/new.md", "summary": "Open when looking up New in Premiere Pro.", "keywords": ["New"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

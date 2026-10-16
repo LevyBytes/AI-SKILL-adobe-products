@@ -1,0 +1,29 @@
+# Acrobat — Edit documents
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add backgrounds and watermarks in Acrobat. [Add backgrounds and watermarks](add-backgrounds-and-watermarks.md).
+- Open when looking up Add backgrounds and watermarks in Acrobat. [Add backgrounds and watermarks references](add-backgrounds-and-watermarks/reference-index.md).
+- Open when looking up Apply bates numbering in Acrobat. [Apply bates numbering](apply-bates-numbering.md).
+- Open when looking up Apply bates numbering in Acrobat. [Apply bates numbering references](apply-bates-numbering/reference-index.md).
+- Open when looking up Apply PDF actions in Acrobat. [Apply PDF actions](apply-pdf-actions.md).
+- Open when looking up Apply PDF actions in Acrobat. [Apply PDF actions references](apply-pdf-actions/reference-index.md).
+- Open when looking up Combine files in Acrobat. [Combine files](combine-files.md).
+- Open when looking up Combine files in Acrobat. [Combine files references](combine-files/reference-index.md).
+- Open when looking up Edit images or objects in Acrobat. [Edit images or objects](edit-images-or-objects.md).
+- Open when looking up Edit images or objects in Acrobat. [Edit images or objects references](edit-images-or-objects/reference-index.md).
+- Open when looking up Edit PDF properties in Acrobat. [Edit PDF properties](edit-pdf-properties.md).
+- Open when looking up Edit PDF properties in Acrobat. [Edit PDF properties references](edit-pdf-properties/reference-index.md).
+- Open when looking up Edit text in PDFs in Acrobat. [Edit text in PDFs](edit-text-in-pdfs.md).
+- Open when looking up Edit text in PDFs in Acrobat. [Edit text in PDFs references](edit-text-in-pdfs/reference-index.md).
+- Open when looking up Enhance PDFs with Adobe Express in Acrobat. [Enhance PDFs with Adobe Express](enhance-pdfs-with-adobe-express.md).
+- Open when looking up Enhance PDFs with Adobe Express in Acrobat. [Enhance PDFs with Adobe Express references](enhance-pdfs-with-adobe-express/reference-index.md).
+- Open when looking up Organize pages in Acrobat. [Organize pages](organize-pages.md).
+- Open when looking up Organize pages in Acrobat. [Organize pages references](organize-pages/reference-index.md).
+- Open when looking up Use headers and footers in Acrobat. [Use headers and footers](use-headers-and-footers.md).
+- Open when looking up Use headers and footers in Acrobat. [Use headers and footers references](use-headers-and-footers/reference-index.md).
+- Open when looking up Use links and attachments in Acrobat. [Use links and attachments](use-links-and-attachments.md).
+- Open when looking up Use links and attachments in Acrobat. [Use links and attachments references](use-links-and-attachments/reference-index.md).
+- Open when looking up Work with geospatial PDFs in Acrobat. [Work with geospatial PDFs](work-with-geospatial-pdfs.md).
+- Open when looking up Work with geospatial PDFs in Acrobat. [Work with geospatial PDFs references](geospatial-pdfs/reference-index.md).
+- Open when looking up Work with PDF layers in Acrobat. [Work with PDF layers](work-with-pdf-layers.md).
+- Open when looking up Work with PDF layers in Acrobat. [Work with PDF layers references](work-with-pdf-layers/reference-index.md).

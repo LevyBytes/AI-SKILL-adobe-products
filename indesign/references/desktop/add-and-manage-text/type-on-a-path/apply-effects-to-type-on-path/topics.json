@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Add anchored objects", "file": "references/desktop/add-and-manage-text/type-on-a-path/apply-effects-to-type-on-path/add-anchored-objects.md", "summary": "Open when looking up Add anchored objects in InDesign.", "keywords": ["Add anchored objects"]},
+  {"topic": "Apply effects", "file": "references/desktop/add-and-manage-text/type-on-a-path/apply-effects-to-type-on-path/apply-effects.md", "summary": "Open when looking up Apply effects in InDesign.", "keywords": ["Apply effects"]},
+  {"topic": "Tighten character spacing around sharp turns on paths", "file": "references/desktop/add-and-manage-text/type-on-a-path/apply-effects-to-type-on-path/tighten-character-spacing-around-sharp-turns-on-paths.md", "summary": "Open when looking up Tighten character spacing around sharp turns on paths in InDesign.", "keywords": ["Tighten character spacing around sharp turns on paths"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

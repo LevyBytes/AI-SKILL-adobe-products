@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "UX best practices", "file": "references/uxp/ux-patterns/ux-best-practices.md", "summary": "Open when looking up UX best practices in Photoshop.", "keywords": ["UX best practices"]},
+  {"topic": "UX requirements", "file": "references/uxp/ux-patterns/ux-requirements.md", "summary": "Open when looking up UX requirements in Photoshop.", "keywords": ["UX requirements"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

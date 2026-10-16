@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Associate layers with bookmarks", "file": "references/desktop/edit-documents/work-with-pdf-layers/add-layer-navigation/associate-layers-with-bookmarks.md", "summary": "Open when looking up Associate layers with bookmarks in Acrobat.", "keywords": ["Associate layers with bookmarks"]},
+  {"topic": "Associate layers with link destinations", "file": "references/desktop/edit-documents/work-with-pdf-layers/add-layer-navigation/associate-layers-with-link-destinations.md", "summary": "Open when looking up Associate layers with link destinations in Acrobat.", "keywords": ["Associate layers with link destinations"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Color managed formats in After Effects", "file": "references/desktop/adjust-colors/enhanced-hdr-support/color-managed-formats-in-after-effects.md", "summary": "Open when looking up Color managed formats in After Effects in After Effects.", "keywords": ["Color managed formats in After Effects"]},
+  {"topic": "Create an HDR project", "file": "references/desktop/adjust-colors/enhanced-hdr-support/create-an-hdr-project.md", "summary": "Open when looking up Create an HDR project in After Effects.", "keywords": ["Create an HDR project"]},
+  {"topic": "Enhanced HDR support", "file": "references/desktop/adjust-colors/enhanced-hdr-support/enhanced-hdr-support.md", "summary": "Open when looking up Enhanced HDR support in After Effects.", "keywords": ["Enhanced HDR support"]},
+  {"topic": "Preview to a display using a hardware interface", "file": "references/desktop/adjust-colors/enhanced-hdr-support/preview-to-a-display-using-a-hardware-interface.md", "summary": "Open when looking up Preview to a display using a hardware interface in After Effects.", "keywords": ["Preview to a display using a hardware interface"]},
+  {"topic": "Preview to a secondary monitor", "file": "references/desktop/adjust-colors/enhanced-hdr-support/preview-to-a-secondary-monitor.md", "summary": "Open when looking up Preview to a secondary monitor in After Effects.", "keywords": ["Preview to a secondary monitor"]},
+  {"topic": "Previewing with Transmit", "file": "references/desktop/adjust-colors/enhanced-hdr-support/previewing-with-transmit.md", "summary": "Open when looking up Previewing with Transmit in After Effects.", "keywords": ["Previewing with Transmit"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

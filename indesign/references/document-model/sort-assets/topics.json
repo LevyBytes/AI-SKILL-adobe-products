@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BY_NAME", "file": "references/document-model/sort-assets/byname.md", "summary": "Open when looking up BY_NAME in InDesign.", "keywords": ["BY_NAME"]},
+  {"topic": "BY_NEWEST", "file": "references/document-model/sort-assets/bynewest.md", "summary": "Open when looking up BY_NEWEST in InDesign.", "keywords": ["BY_NEWEST"]},
+  {"topic": "BY_OLDEST", "file": "references/document-model/sort-assets/byoldest.md", "summary": "Open when looking up BY_OLDEST in InDesign.", "keywords": ["BY_OLDEST"]},
+  {"topic": "BY_TYPE", "file": "references/document-model/sort-assets/bytype.md", "summary": "Open when looking up BY_TYPE in InDesign.", "keywords": ["BY_TYPE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

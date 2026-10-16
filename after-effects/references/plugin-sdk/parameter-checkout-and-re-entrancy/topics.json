@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Interaction Callback Functions — Parameter Checkout And Re-Entrancy", "file": "references/plugin-sdk/parameter-checkout-and-re-entrancy/parameter-checkout-and-re-entrancy.md", "summary": "Open when looking up Interaction Callback Functions — Parameter Checkout And Re-Entrancy in After Effects.", "keywords": ["Interaction Callback Functions — Parameter Checkout And Re-Entrancy"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

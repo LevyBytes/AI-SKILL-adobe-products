@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "APPEND_IMPORT", "file": "references/document-model/xml-import-styles/appendimport.md", "summary": "Open when looking up APPEND_IMPORT in InDesign.", "keywords": ["APPEND_IMPORT"]},
+  {"topic": "MERGE_IMPORT", "file": "references/document-model/xml-import-styles/mergeimport.md", "summary": "Open when looking up MERGE_IMPORT in InDesign.", "keywords": ["MERGE_IMPORT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

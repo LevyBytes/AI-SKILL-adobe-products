@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "effect(name)", "file": "references/desktop/layer-sub-objects/effect.md", "summary": "Open when looking up effect(name) in After Effects.", "keywords": ["effect(name)"]},
+  {"topic": "mask(name)", "file": "references/desktop/layer-sub-objects/mask.md", "summary": "Open when looking up mask(name) in After Effects.", "keywords": ["mask(name)"]},
+  {"topic": "source", "file": "references/desktop/layer-sub-objects/source.md", "summary": "Open when looking up source in After Effects.", "keywords": ["source"]},
+  {"topic": "sourceRectAtTime(t = time, includeExtents = false)", "file": "references/desktop/layer-sub-objects/source-rect-at-time.md", "summary": "Open when looking up sourceRectAtTime(t = time, includeExtents = false) in After Effects.", "keywords": ["sourceRectAtTime(t = time, includeExtents = false)"]},
+  {"topic": "sourceTime(t = time)", "file": "references/desktop/layer-sub-objects/source-time.md", "summary": "Open when looking up sourceTime(t = time) in After Effects.", "keywords": ["sourceTime(t = time)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

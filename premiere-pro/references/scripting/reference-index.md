@@ -1,0 +1,47 @@
+# Premiere Pro — Scripting APIs
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 3rd party scripting has moved to uxp in Premiere Pro. [3rd party scripting has moved to uxp references](3rd-party-scripting-has-moved-to-uxp/reference-index.md).
+- Open when looking up Adobe premiere pro 13 x in Premiere Pro. [Adobe premiere pro 13 x references](adobe-premiere-pro-13-x/reference-index.md).
+- Open when looking up Adobe premiere pro 14 0 in Premiere Pro. [Adobe premiere pro 14 0 references](adobe-premiere-pro-14-0/reference-index.md).
+- Open when looking up Adobe premiere pro 15 4 in Premiere Pro. [Adobe premiere pro 15 4 references](adobe-premiere-pro-15-4/reference-index.md).
+- Open when looking up Adobe premiere pro 23 0 in Premiere Pro. [Adobe premiere pro 23 0 references](adobe-premiere-pro-23-0/reference-index.md).
+- Open when looking up Anywhere in Premiere Pro. [Anywhere references](anywhere/reference-index.md).
+- Open when looking up App in Premiere Pro. [App references](app/reference-index.md).
+- Open when looking up Application in Premiere Pro. [Application references](application/reference-index.md).
+- Open when looking up Audio channel mapping in Premiere Pro. [Audio channel mapping references](audio-channel-mapping/reference-index.md).
+- Open when looking up Changelog in Premiere Pro. [Changelog](changelog.md).
+- Open when looking up Collection object in Premiere Pro. [Collection object references](collection-object/reference-index.md).
+- Open when looking up Collection in Premiere Pro. [Collection references](collection/reference-index.md).
+- Open when looking up Component collection in Premiere Pro. [Component collection references](component-collection/reference-index.md).
+- Open when looking up Component param in Premiere Pro. [Component param references](component-param/reference-index.md).
+- Open when looking up Component in Premiere Pro. [Component references](component/reference-index.md).
+- Open when looking up Contribution in Premiere Pro. [Contribution references](contribution/reference-index.md).
+- Open when looking up Development and debugging tools in Premiere Pro. [Development and debugging tools references](development-and-debugging-tools/reference-index.md).
+- Open when looking up Encoder in Premiere Pro. [Encoder references](encoder/reference-index.md).
+- Open when looking up Example code in Premiere Pro. [Example code references](example-code/reference-index.md).
+- Open when looking up How to Execute ExtendScript in Premiere Pro in Premiere Pro. [How to Execute ExtendScript in Premiere Pro](how-to-execute-extend-script-in-premiere-pro.md).
+- Open when looking up Licensing ownership in Premiere Pro. [Licensing ownership references](licensing-ownership/reference-index.md).
+- Open when looking up Marker collection in Premiere Pro. [Marker collection references](marker-collection/reference-index.md).
+- Open when looking up Marker in Premiere Pro. [Marker references](marker/reference-index.md).
+- Open when looking up Metadata in Premiere Pro. [Metadata references](metadata/reference-index.md).
+- Open when looking up Navigating the guide in Premiere Pro. [Navigating the guide references](navigating-the-guide/reference-index.md).
+- Open when looking up Objects in Premiere Pro. [Objects references](objects/reference-index.md).
+- Open when looking up Premiere Pro Scripting Guide in Premiere Pro. [Premiere Pro Scripting Guide](premiere-pro-scripting-guide.md).
+- Open when looking up Production in Premiere Pro. [Production references](production/reference-index.md).
+- Open when looking up Project collection in Premiere Pro. [Project collection references](project-collection/reference-index.md).
+- Open when looking up Project item collection in Premiere Pro. [Project item collection references](project-item-collection/reference-index.md).
+- Open when looking up Project item object in Premiere Pro. [Project item object references](project-item-object/reference-index.md).
+- Open when looking up Project item in Premiere Pro. [Project item references](project-item/reference-index.md).
+- Open when looking up Project manager in Premiere Pro. [Project manager references](project-manager/reference-index.md).
+- Open when looking up Project in Premiere Pro. [Project references](project/reference-index.md).
+- Open when looking up Properties object in Premiere Pro. [Properties object](properties-object.md).
+- Open when looking up Properties in Premiere Pro. [Properties references](properties/reference-index.md).
+- Open when looking up Sequence collection in Premiere Pro. [Sequence collection references](sequence-collection/reference-index.md).
+- Open when looking up Sequence in Premiere Pro. [Sequence references](sequence/reference-index.md).
+- Open when looking up Source monitor in Premiere Pro. [Source monitor references](source-monitor/reference-index.md).
+- Open when looking up Time in Premiere Pro. [Time references](time/reference-index.md).
+- Open when looking up Track collection in Premiere Pro. [Track collection references](track-collection/reference-index.md).
+- Open when looking up Track item collection in Premiere Pro. [Track item collection references](track-item-collection/reference-index.md).
+- Open when looking up Track item in Premiere Pro. [Track item references](track-item/reference-index.md).
+- Open when looking up Track in Premiere Pro. [Track references](track/reference-index.md).

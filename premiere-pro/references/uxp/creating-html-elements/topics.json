@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Creating Spectrum Components", "file": "references/uxp/creating-html-elements/creating-spectrum-components.md", "summary": "Open when looking up Creating Spectrum Components in Premiere Pro.", "keywords": ["Creating Spectrum Components"]},
+  {"topic": "Example: Using HTML Markup", "file": "references/uxp/creating-html-elements/example-using-html-markup.md", "summary": "Open when looking up Example: Using HTML Markup in Premiere Pro.", "keywords": ["Example: Using HTML Markup"]},
+  {"topic": "Example: Using JavaScript Only", "file": "references/uxp/creating-html-elements/example-using-java-script-only.md", "summary": "Open when looking up Example: Using JavaScript Only in Premiere Pro.", "keywords": ["Example: Using JavaScript Only"]},
+  {"topic": "index.html", "file": "references/uxp/creating-html-elements/index-html.md", "summary": "Open when looking up index.html in Premiere Pro.", "keywords": ["index.html"]},
+  {"topic": "index.js", "file": "references/uxp/creating-html-elements/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
+  {"topic": "Reference Material", "file": "references/uxp/creating-html-elements/reference-material.md", "summary": "Open when looking up Reference Material in Premiere Pro.", "keywords": ["Reference Material"]},
+  {"topic": "styles.css", "file": "references/uxp/creating-html-elements/styles-css.md", "summary": "Open when looking up styles.css in Premiere Pro.", "keywords": ["styles.css"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

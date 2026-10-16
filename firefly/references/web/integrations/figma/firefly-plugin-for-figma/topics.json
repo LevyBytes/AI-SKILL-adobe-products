@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Getting started", "file": "references/web/integrations/figma/firefly-plugin-for-figma/getting-started.md", "summary": "Open when looking up Getting started in Firefly.", "keywords": ["Getting started"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

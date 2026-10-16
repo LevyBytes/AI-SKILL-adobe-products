@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "All Output Types", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-migration-checklist/all-output-types.md", "summary": "Open when looking up All Output Types in Photoshop.", "keywords": ["All Output Types"]},
+  {"topic": "JPEG specific", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-migration-checklist/jpeg-specific.md", "summary": "Open when looking up JPEG specific in Photoshop.", "keywords": ["JPEG specific"]},
+  {"topic": "PNG specific", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-migration-checklist/png-specific.md", "summary": "Open when looking up PNG specific in Photoshop.", "keywords": ["PNG specific"]},
+  {"topic": "PSD specific", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-migration-checklist/psd-specific.md", "summary": "Open when looking up PSD specific in Photoshop.", "keywords": ["PSD specific"]},
+  {"topic": "TIFF specific", "file": "references/cloud-services/output-types-migration/output-types-migration-guide-migration-checklist/tiff-specific.md", "summary": "Open when looking up TIFF specific in Photoshop.", "keywords": ["TIFF specific"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

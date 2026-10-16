@@ -1,0 +1,30 @@
+# InDesign — HeaderTypes
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up BASIC_LATIN in InDesign. [BASIC_LATIN](basiclatin.md).
+- Open when looking up BELARUSIAN in InDesign. [BELARUSIAN](belarusian.md).
+- Open when looking up BULGARIAN in InDesign. [BULGARIAN](bulgarian.md).
+- Open when looking up CHINESE_PINYIN in InDesign. [CHINESE_PINYIN](chinesepinyin.md).
+- Open when looking up CHINESE_STROKE_COUNT in InDesign. [CHINESE_STROKE_COUNT](chinesestrokecount.md).
+- Open when looking up CROATIAN in InDesign. [CROATIAN](croatian.md).
+- Open when looking up CZECH in InDesign. [CZECH](czech.md).
+- Open when looking up DANISH_NORWEGIAN in InDesign. [DANISH_NORWEGIAN](danishnorwegian.md).
+- Open when looking up ESTONIAN in InDesign. [ESTONIAN](estonian.md).
+- Open when looking up FINNISH_SWEDISH in InDesign. [FINNISH_SWEDISH](finnishswedish.md).
+- Open when looking up HIRAGANA_ALL in InDesign. [HIRAGANA_ALL](hiraganaall.md).
+- Open when looking up HIRAGANA_CONSONANTS_ONLY in InDesign. [HIRAGANA_CONSONANTS_ONLY](hiraganaconsonantsonly.md).
+- Open when looking up HUNGARIAN in InDesign. [HUNGARIAN](hungarian.md).
+- Open when looking up KATAKANA_ALL in InDesign. [KATAKANA_ALL](katakanaall.md).
+- Open when looking up KATAKANA_CONSONANTS_ONLY in InDesign. [KATAKANA_CONSONANTS_ONLY](katakanaconsonantsonly.md).
+- Open when looking up KOREAN_CONSONANT in InDesign. [KOREAN_CONSONANT](koreanconsonant.md).
+- Open when looking up KOREAN_CONSONANT_PLUS_VOWEL in InDesign. [KOREAN_CONSONANT_PLUS_VOWEL](koreanconsonantplusvowel.md).
+- Open when looking up LATVIAN in InDesign. [LATVIAN](latvian.md).
+- Open when looking up LITHUANIAN in InDesign. [LITHUANIAN](lithuanian.md).
+- Open when looking up POLISH in InDesign. [POLISH](polish.md).
+- Open when looking up ROMANIAN in InDesign. [ROMANIAN](romanian.md).
+- Open when looking up RUSSIAN in InDesign. [RUSSIAN](russian.md).
+- Open when looking up SLOVAK in InDesign. [SLOVAK](slovak.md).
+- Open when looking up SLOVENIAN in InDesign. [SLOVENIAN](slovenian.md).
+- Open when looking up SPANISH in InDesign. [SPANISH](spanish.md).
+- Open when looking up TURKISH in InDesign. [TURKISH](turkish.md).
+- Open when looking up UKRAINIAN in InDesign. [UKRAINIAN](ukrainian.md).

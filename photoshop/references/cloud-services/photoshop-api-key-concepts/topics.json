@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "About layers and the target layer", "file": "references/cloud-services/photoshop-api-key-concepts/about-layers-and-the-target-layer.md", "summary": "Open when looking up About layers and the target layer in Photoshop.", "keywords": ["About layers and the target layer"]},
+  {"topic": "About masks", "file": "references/cloud-services/photoshop-api-key-concepts/about-masks.md", "summary": "Open when looking up About masks in Photoshop.", "keywords": ["About masks"]},
+  {"topic": "About selections", "file": "references/cloud-services/photoshop-api-key-concepts/about-selections.md", "summary": "Open when looking up About selections in Photoshop.", "keywords": ["About selections"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

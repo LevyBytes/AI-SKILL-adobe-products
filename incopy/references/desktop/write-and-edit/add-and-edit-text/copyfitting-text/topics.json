@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "incopy", "topics": [
+  {"topic": "Customize Copyfit Info settings", "file": "references/desktop/write-and-edit/add-and-edit-text/copyfitting-text/customize-copyfit-info-settings.md", "summary": "Open when looking up Customize Copyfit Info settings in InCopy.", "keywords": ["Customize Copyfit Info settings"]},
+  {"topic": "Editing overset text", "file": "references/desktop/write-and-edit/add-and-edit-text/copyfitting-text/editing-overset-text.md", "summary": "Open when looking up Editing overset text in InCopy.", "keywords": ["Editing overset text"]},
+  {"topic": "Show or hide the depth ruler", "file": "references/desktop/write-and-edit/add-and-edit-text/copyfitting-text/show-or-hide-the-depth-ruler.md", "summary": "Open when looking up Show or hide the depth ruler in InCopy.", "keywords": ["Show or hide the depth ruler"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

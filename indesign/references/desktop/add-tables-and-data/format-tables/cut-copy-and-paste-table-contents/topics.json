@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Cut or copy table cells", "file": "references/desktop/add-tables-and-data/format-tables/cut-copy-and-paste-table-contents/cut-or-copy-table-cells.md", "summary": "Open when looking up Cut or copy table cells in InDesign.", "keywords": ["Cut or copy table cells"]},
+  {"topic": "Cut or copy text within table cells", "file": "references/desktop/add-tables-and-data/format-tables/cut-copy-and-paste-table-contents/cut-or-copy-text-within-table-cells.md", "summary": "Open when looking up Cut or copy text within table cells in InDesign.", "keywords": ["Cut or copy text within table cells"]},
+  {"topic": "Move or copy an entire table", "file": "references/desktop/add-tables-and-data/format-tables/cut-copy-and-paste-table-contents/move-or-copy-an-entire-table.md", "summary": "Open when looking up Move or copy an entire table in InDesign.", "keywords": ["Move or copy an entire table"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

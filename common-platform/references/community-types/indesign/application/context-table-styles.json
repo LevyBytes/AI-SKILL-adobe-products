@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application.allCellStyles", "file": "references/community-types/indesign/application/all-cell-styles.md", "summary": "Open when looking up Application.allCellStyles in Shared Adobe platform.", "keywords": ["Application.allCellStyles"]},
+  {"topic": "Application.allTableStyles", "file": "references/community-types/indesign/application/all-table-styles.md", "summary": "Open when looking up Application.allTableStyles in Shared Adobe platform.", "keywords": ["Application.allTableStyles"]},
+  {"topic": "Application.cellStyleGroups", "file": "references/community-types/indesign/application/cell-style-groups.md", "summary": "Open when looking up Application.cellStyleGroups in Shared Adobe platform.", "keywords": ["Application.cellStyleGroups"]},
+  {"topic": "Application.cellStyleMappings", "file": "references/community-types/indesign/application/cell-style-mappings.md", "summary": "Open when looking up Application.cellStyleMappings in Shared Adobe platform.", "keywords": ["Application.cellStyleMappings"]},
+  {"topic": "Application.cellStyles", "file": "references/community-types/indesign/application/cell-styles.md", "summary": "Open when looking up Application.cellStyles in Shared Adobe platform.", "keywords": ["Application.cellStyles"]},
+  {"topic": "Application.tableStyleGroups", "file": "references/community-types/indesign/application/table-style-groups.md", "summary": "Open when looking up Application.tableStyleGroups in Shared Adobe platform.", "keywords": ["Application.tableStyleGroups"]},
+  {"topic": "Application.tableStyleMappings", "file": "references/community-types/indesign/application/table-style-mappings.md", "summary": "Open when looking up Application.tableStyleMappings in Shared Adobe platform.", "keywords": ["Application.tableStyleMappings"]},
+  {"topic": "Application.tableStyles", "file": "references/community-types/indesign/application/table-styles.md", "summary": "Open when looking up Application.tableStyles in Shared Adobe platform.", "keywords": ["Application.tableStyles"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

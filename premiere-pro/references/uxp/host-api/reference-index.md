@@ -1,0 +1,69 @@
+# Premiere Pro — Host api
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add transition options in Premiere Pro. [Add transition options references](add-transition-options/reference-index.md).
+- Open when looking up App preference in Premiere Pro. [App preference references](app-preference/reference-index.md).
+- Open when looking up Application in Premiere Pro. [Application references](application/reference-index.md).
+- Open when looking up Audio clip track item in Premiere Pro. [Audio clip track item references](audio-clip-track-item/reference-index.md).
+- Open when looking up Audio component chain in Premiere Pro. [Audio component chain references](audio-component-chain/reference-index.md).
+- Open when looking up Audio filter factory in Premiere Pro. [Audio filter factory references](audio-filter-factory/reference-index.md).
+- Open when looking up Audio track in Premiere Pro. [Audio track references](audio-track/reference-index.md).
+- Open when looking up Caption track in Premiere Pro. [Caption track references](caption-track/reference-index.md).
+- Open when looking up Clip project item in Premiere Pro. [Clip project item references](clip-project-item/reference-index.md).
+- Open when looking up Close project options in Premiere Pro. [Close project options references](close-project-options/reference-index.md).
+- Open when looking up Color in Premiere Pro. [Color references](color/reference-index.md).
+- Open when looking up Component param in Premiere Pro. [Component param references](component-param/reference-index.md).
+- Open when looking up Component in Premiere Pro. [Component references](component/reference-index.md).
+- Open when looking up Compound action in Premiere Pro. [Compound action references](compound-action/reference-index.md).
+- Open when looking up Constants in Premiere Pro. [Constants](constants.md).
+- Open when looking up Constants in Premiere Pro. [Constants references](constants/reference-index.md).
+- Open when looking up Encoder manager in Premiere Pro. [Encoder manager references](encoder-manager/reference-index.md).
+- Open when looking up Event manager in Premiere Pro. [Event manager references](event-manager/reference-index.md).
+- Open when looking up Exporter in Premiere Pro. [Exporter references](exporter/reference-index.md).
+- Open when looking up Folder item in Premiere Pro. [Folder item references](folder-item/reference-index.md).
+- Open when looking up Footage interpretation in Premiere Pro. [Footage interpretation references](footage-interpretation/reference-index.md).
+- Open when looking up Frame rate in Premiere Pro. [Frame rate references](frame-rate/reference-index.md).
+- Open when looking up Guid in Premiere Pro. [Guid references](guid/reference-index.md).
+- Open when looking up Ingest settings in Premiere Pro. [Ingest settings references](ingest-settings/reference-index.md).
+- Open when looking up Keyframe in Premiere Pro. [Keyframe references](keyframe/reference-index.md).
+- Open when looking up Marker in Premiere Pro. [Marker references](marker/reference-index.md).
+- Open when looking up Markers in Premiere Pro. [Markers references](markers/reference-index.md).
+- Open when looking up Media in Premiere Pro. [Media references](media/reference-index.md).
+- Open when looking up Metadata in Premiere Pro. [Metadata references](metadata/reference-index.md).
+- Open when looking up Objects in Premiere Pro. [Objects](objects.md).
+- Open when looking up Objects in Premiere Pro. [Objects references](objects/reference-index.md).
+- Open when looking up Open project options in Premiere Pro. [Open project options references](open-project-options/reference-index.md).
+- Open when looking up Operation complete event in Premiere Pro. [Operation complete event references](operation-complete-event/reference-index.md).
+- Open when looking up Point f in Premiere Pro. [Point f references](point-f/reference-index.md).
+- Open when looking up Pr production in Premiere Pro. [Pr production references](pr-production/reference-index.md).
+- Open when looking up Premiere API — Overview in Premiere Pro. [Premiere API — Overview](premiere-api-overview.md).
+- Open when looking up Premiere API — Overview in Premiere Pro. [Premiere API — Overview references](premiere-api-overview/reference-index.md).
+- Open when looking up Project closed event in Premiere Pro. [Project closed event references](project-closed-event/reference-index.md).
+- Open when looking up Project color settings in Premiere Pro. [Project color settings references](project-color-settings/reference-index.md).
+- Open when looking up Project converter in Premiere Pro. [Project converter references](project-converter/reference-index.md).
+- Open when looking up Project event in Premiere Pro. [Project event references](project-event/reference-index.md).
+- Open when looking up Project item in Premiere Pro. [Project item references](project-item/reference-index.md).
+- Open when looking up Project item selection in Premiere Pro. [Project item selection references](project-item-selection/reference-index.md).
+- Open when looking up Project in Premiere Pro. [Project references](project/reference-index.md).
+- Open when looking up Project settings in Premiere Pro. [Project settings references](project-settings/reference-index.md).
+- Open when looking up Project utils in Premiere Pro. [Project utils references](project-utils/reference-index.md).
+- Open when looking up Properties in Premiere Pro. [Properties references](properties/reference-index.md).
+- Open when looking up Rect f in Premiere Pro. [Rect f references](rect-f/reference-index.md).
+- Open when looking up Scratch disk settings in Premiere Pro. [Scratch disk settings references](scratch-disk-settings/reference-index.md).
+- Open when looking up Sequence editor in Premiere Pro. [Sequence editor references](sequence-editor/reference-index.md).
+- Open when looking up Sequence in Premiere Pro. [Sequence references](sequence/reference-index.md).
+- Open when looking up Sequence settings in Premiere Pro. [Sequence settings references](sequence-settings/reference-index.md).
+- Open when looking up Sequence utils in Premiere Pro. [Sequence utils references](sequence-utils/reference-index.md).
+- Open when looking up Source monitor in Premiere Pro. [Source monitor references](source-monitor/reference-index.md).
+- Open when looking up Text segments in Premiere Pro. [Text segments references](text-segments/reference-index.md).
+- Open when looking up Tick time in Premiere Pro. [Tick time references](tick-time/reference-index.md).
+- Open when looking up Time display in Premiere Pro. [Time display references](time-display/reference-index.md).
+- Open when looking up Track item selection in Premiere Pro. [Track item selection references](track-item-selection/reference-index.md).
+- Open when looking up Transcript in Premiere Pro. [Transcript references](transcript/reference-index.md).
+- Open when looking up Transition factory in Premiere Pro. [Transition factory references](transition-factory/reference-index.md).
+- Open when looking up Unique serializeable in Premiere Pro. [Unique serializeable references](unique-serializeable/reference-index.md).
+- Open when looking up Utils in Premiere Pro. [Utils references](utils/reference-index.md).
+- Open when looking up Video clip track item in Premiere Pro. [Video clip track item references](video-clip-track-item/reference-index.md).
+- Open when looking up Video component chain in Premiere Pro. [Video component chain references](video-component-chain/reference-index.md).
+- Open when looking up Video filter factory in Premiere Pro. [Video filter factory references](video-filter-factory/reference-index.md).
+- Open when looking up Video track in Premiere Pro. [Video track references](video-track/reference-index.md).

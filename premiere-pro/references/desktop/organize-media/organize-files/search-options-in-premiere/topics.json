@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Filtering and columns", "file": "references/desktop/organize-media/organize-files/search-options-in-premiere/filtering-and-columns.md", "summary": "Open when looking up Filtering and columns in Premiere Pro.", "keywords": ["Filtering and columns"]},
+  {"topic": "Search box", "file": "references/desktop/organize-media/organize-files/search-options-in-premiere/search-box.md", "summary": "Open when looking up Search box in Premiere Pro.", "keywords": ["Search box"]},
+  {"topic": "Search in the Media Browser", "file": "references/desktop/organize-media/organize-files/search-options-in-premiere/search-in-the-media-browser.md", "summary": "Open when looking up Search in the Media Browser in Premiere Pro.", "keywords": ["Search in the Media Browser"]},
+  {"topic": "Search in the Project panel", "file": "references/desktop/organize-media/organize-files/search-options-in-premiere/search-in-the-project-panel.md", "summary": "Open when looking up Search in the Project panel in Premiere Pro.", "keywords": ["Search in the Project panel"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

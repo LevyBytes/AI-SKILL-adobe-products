@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "fill.solidColor.rgb — unchanged", "file": "references/cloud-services/fill-solid-color-layer/fill-solid-color-rgb-unchanged.md", "summary": "Open when looking up fill.solidColor.rgb — unchanged in Photoshop.", "keywords": ["fill.solidColor.rgb — unchanged"]},
+  {"topic": "Vector mask — NEW in V2", "file": "references/cloud-services/fill-solid-color-layer/vector-mask-new-in-v2.md", "summary": "Open when looking up Vector mask — NEW in V2 in Photoshop.", "keywords": ["Vector mask — NEW in V2"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

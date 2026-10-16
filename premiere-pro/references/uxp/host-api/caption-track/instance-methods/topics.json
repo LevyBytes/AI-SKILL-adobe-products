@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "getIndex", "file": "references/uxp/host-api/caption-track/instance-methods/get-index.md", "summary": "Open when looking up getIndex in Premiere Pro.", "keywords": ["getIndex"]},
+  {"topic": "getMediaType", "file": "references/uxp/host-api/caption-track/instance-methods/get-media-type.md", "summary": "Open when looking up getMediaType in Premiere Pro.", "keywords": ["getMediaType"]},
+  {"topic": "getTrackItems", "file": "references/uxp/host-api/caption-track/instance-methods/get-track-items.md", "summary": "Open when looking up getTrackItems in Premiere Pro.", "keywords": ["getTrackItems"]},
+  {"topic": "isMuted", "file": "references/uxp/host-api/caption-track/instance-methods/is-muted.md", "summary": "Open when looking up isMuted in Premiere Pro.", "keywords": ["isMuted"]},
+  {"topic": "setMute", "file": "references/uxp/host-api/caption-track/instance-methods/set-mute.md", "summary": "Open when looking up setMute in Premiere Pro.", "keywords": ["setMute"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

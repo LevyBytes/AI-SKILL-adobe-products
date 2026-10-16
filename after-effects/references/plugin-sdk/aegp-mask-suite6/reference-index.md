@@ -1,0 +1,26 @@
+# After Effects — AEGP_MaskSuite6
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_CreateNewMask in After Effects. [AEGP_CreateNewMask](aegp-create-new-mask.md).
+- Open when looking up AEGP_DeleteMaskFromLayer in After Effects. [AEGP_DeleteMaskFromLayer](aegp-delete-mask-from-layer.md).
+- Open when looking up AEGP_DisposeMask in After Effects. [AEGP_DisposeMask](aegp-dispose-mask.md).
+- Open when looking up AEGP_DuplicateMask in After Effects. [AEGP_DuplicateMask](aegp-duplicate-mask.md).
+- Open when looking up AEGP_GetLayerMaskByIndex in After Effects. [AEGP_GetLayerMaskByIndex](aegp-get-layer-mask-by-index.md).
+- Open when looking up AEGP_GetLayerNumMasks in After Effects. [AEGP_GetLayerNumMasks](aegp-get-layer-num-masks.md).
+- Open when looking up AEGP_GetMaskColor in After Effects. [AEGP_GetMaskColor](aegp-get-mask-color.md).
+- Open when looking up AEGP_GetMaskFeatherFalloff in After Effects. [AEGP_GetMaskFeatherFalloff](aegp-get-mask-feather-falloff.md).
+- Open when looking up AEGP_GetMaskID in After Effects. [AEGP_GetMaskID](aegp-get-mask-id.md).
+- Open when looking up AEGP_GetMaskInvert in After Effects. [AEGP_GetMaskInvert](aegp-get-mask-invert.md).
+- Open when looking up AEGP_GetMaskIsRotoBezier in After Effects. [AEGP_GetMaskIsRotoBezier](aegp-get-mask-is-roto-bezier.md).
+- Open when looking up AEGP_GetMaskLockState in After Effects. [AEGP_GetMaskLockState](aegp-get-mask-lock-state.md).
+- Open when looking up AEGP_GetMaskMode in After Effects. [AEGP_GetMaskMode](aegp-get-mask-mode.md).
+- Open when looking up AEGP_GetMaskMotionBlurState in After Effects. [AEGP_GetMaskMotionBlurState](aegp-get-mask-motion-blur-state.md).
+- Open when looking up AEGP_GetMaskName in After Effects. [AEGP_GetMaskName](aegp-get-mask-name.md).
+- Open when looking up AEGP_SetMaskColor in After Effects. [AEGP_SetMaskColor](aegp-set-mask-color.md).
+- Open when looking up AEGP_SetMaskFeatherFalloff in After Effects. [AEGP_SetMaskFeatherFalloff](aegp-set-mask-feather-falloff.md).
+- Open when looking up AEGP_SetMaskInvert in After Effects. [AEGP_SetMaskInvert](aegp-set-mask-invert.md).
+- Open when looking up AEGP_SetMaskIsRotoBezier in After Effects. [AEGP_SetMaskIsRotoBezier](aegp-set-mask-is-roto-bezier.md).
+- Open when looking up AEGP_SetMaskLockState in After Effects. [AEGP_SetMaskLockState](aegp-set-mask-lock-state.md).
+- Open when looking up AEGP_SetMaskMode in After Effects. [AEGP_SetMaskMode](aegp-set-mask-mode.md).
+- Open when looking up AEGP_SetMaskMotionBlurState in After Effects. [AEGP_SetMaskMotionBlurState](aegp-set-mask-motion-blur-state.md).
+- Open when looking up AEGP_SetMaskName in After Effects. [AEGP_SetMaskName](aegp-set-mask-name.md).

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "window.crypto", "file": "references/uxp/window/crypto.md", "summary": "Open when looking up window.crypto in Premiere Pro.", "keywords": ["window.crypto"]},
+  {"topic": "window.localStorage", "file": "references/uxp/window/local-storage.md", "summary": "Open when looking up window.localStorage in Premiere Pro.", "keywords": ["window.localStorage"]},
+  {"topic": "window.path", "file": "references/uxp/window/path.md", "summary": "Open when looking up window.path in Premiere Pro.", "keywords": ["window.path"]},
+  {"topic": "window.sessionStorage", "file": "references/uxp/window/session-storage.md", "summary": "Open when looking up window.sessionStorage in Premiere Pro.", "keywords": ["window.sessionStorage"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

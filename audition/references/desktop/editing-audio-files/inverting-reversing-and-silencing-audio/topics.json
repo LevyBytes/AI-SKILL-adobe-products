@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Create silence", "file": "references/desktop/editing-audio-files/inverting-reversing-and-silencing-audio/create-silence.md", "summary": "Open when looking up Create silence in Audition.", "keywords": ["Create silence"]},
+  {"topic": "Reverse a waveform", "file": "references/desktop/editing-audio-files/inverting-reversing-and-silencing-audio/reverse-a-waveform.md", "summary": "Open when looking up Reverse a waveform in Audition.", "keywords": ["Reverse a waveform"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

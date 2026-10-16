@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "align", "file": "references/document-model/document/align.md", "summary": "Open when looking up align in InDesign.", "keywords": ["align"]},
+  {"topic": "distribute", "file": "references/document-model/document/distribute.md", "summary": "Open when looking up distribute in InDesign.", "keywords": ["distribute"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

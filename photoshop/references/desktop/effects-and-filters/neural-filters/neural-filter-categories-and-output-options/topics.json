@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Output options", "file": "references/desktop/effects-and-filters/neural-filters/neural-filter-categories-and-output-options/output-options.md", "summary": "Open when looking up Output options in Photoshop.", "keywords": ["Output options"]},
+  {"topic": "When to use each option", "file": "references/desktop/effects-and-filters/neural-filters/neural-filter-categories-and-output-options/when-to-use-each-option.md", "summary": "Open when looking up When to use each option in Photoshop.", "keywords": ["When to use each option"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,45 @@
+# Shared Adobe platform — FootnoteOption
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up FootnoteOption declaration in Shared Adobe platform. [FootnoteOption declaration](declaration.md).
+- Open when looking up FootnoteOption.continuingRuleColor in Shared Adobe platform. [FootnoteOption.continuingRuleColor](continuing-rule-color.md).
+- Open when looking up FootnoteOption.continuingRuleGapColor in Shared Adobe platform. [FootnoteOption.continuingRuleGapColor](continuing-rule-gap-color.md).
+- Open when looking up FootnoteOption.continuingRuleGapOverprint in Shared Adobe platform. [FootnoteOption.continuingRuleGapOverprint](continuing-rule-gap-overprint.md).
+- Open when looking up FootnoteOption.continuingRuleGapTint in Shared Adobe platform. [FootnoteOption.continuingRuleGapTint](continuing-rule-gap-tint.md).
+- Open when looking up FootnoteOption.continuingRuleLeftIndent in Shared Adobe platform. [FootnoteOption.continuingRuleLeftIndent](continuing-rule-left-indent.md).
+- Open when looking up FootnoteOption.continuingRuleLineWeight in Shared Adobe platform. [FootnoteOption.continuingRuleLineWeight](continuing-rule-line-weight.md).
+- Open when looking up FootnoteOption.continuingRuleOffset in Shared Adobe platform. [FootnoteOption.continuingRuleOffset](continuing-rule-offset.md).
+- Open when looking up FootnoteOption.continuingRuleOn in Shared Adobe platform. [FootnoteOption.continuingRuleOn](continuing-rule-on.md).
+- Open when looking up FootnoteOption.continuingRuleOverprint in Shared Adobe platform. [FootnoteOption.continuingRuleOverprint](continuing-rule-overprint.md).
+- Open when looking up FootnoteOption.continuingRuleTint in Shared Adobe platform. [FootnoteOption.continuingRuleTint](continuing-rule-tint.md).
+- Open when looking up FootnoteOption.continuingRuleType in Shared Adobe platform. [FootnoteOption.continuingRuleType](continuing-rule-type.md).
+- Open when looking up FootnoteOption.continuingRuleWidth in Shared Adobe platform. [FootnoteOption.continuingRuleWidth](continuing-rule-width.md).
+- Open when looking up FootnoteOption.enableStraddling in Shared Adobe platform. [FootnoteOption.enableStraddling](enable-straddling.md).
+- Open when looking up FootnoteOption.eosPlacement in Shared Adobe platform. [FootnoteOption.eosPlacement](eos-placement.md).
+- Open when looking up FootnoteOption.footnoteFirstBaselineOffset in Shared Adobe platform. [FootnoteOption.footnoteFirstBaselineOffset](footnote-first-baseline-offset.md).
+- Open when looking up FootnoteOption.footnoteMarkerStyle in Shared Adobe platform. [FootnoteOption.footnoteMarkerStyle](footnote-marker-style.md).
+- Open when looking up FootnoteOption.footnoteMinimumFirstBaselineOffset in Shared Adobe platform. [FootnoteOption.footnoteMinimumFirstBaselineOffset](footnote-minimum-first-baseline-offset.md).
+- Open when looking up FootnoteOption.footnoteNumberingStyle in Shared Adobe platform. [FootnoteOption.footnoteNumberingStyle](footnote-numbering-style.md).
+- Open when looking up FootnoteOption.footnoteTextStyle in Shared Adobe platform. [FootnoteOption.footnoteTextStyle](footnote-text-style.md).
+- Open when looking up FootnoteOption.markerPositioning in Shared Adobe platform. [FootnoteOption.markerPositioning](marker-positioning.md).
+- Open when looking up FootnoteOption.noSplitting in Shared Adobe platform. [FootnoteOption.noSplitting](no-splitting.md).
+- Open when looking up FootnoteOption.prefix in Shared Adobe platform. [FootnoteOption.prefix](prefix.md).
+- Open when looking up FootnoteOption.restartNumbering in Shared Adobe platform. [FootnoteOption.restartNumbering](restart-numbering.md).
+- Open when looking up FootnoteOption.ruleColor in Shared Adobe platform. [FootnoteOption.ruleColor](rule-color.md).
+- Open when looking up FootnoteOption.ruleGapColor in Shared Adobe platform. [FootnoteOption.ruleGapColor](rule-gap-color.md).
+- Open when looking up FootnoteOption.ruleGapOverprint in Shared Adobe platform. [FootnoteOption.ruleGapOverprint](rule-gap-overprint.md).
+- Open when looking up FootnoteOption.ruleGapTint in Shared Adobe platform. [FootnoteOption.ruleGapTint](rule-gap-tint.md).
+- Open when looking up FootnoteOption.ruleLeftIndent in Shared Adobe platform. [FootnoteOption.ruleLeftIndent](rule-left-indent.md).
+- Open when looking up FootnoteOption.ruleLineWeight in Shared Adobe platform. [FootnoteOption.ruleLineWeight](rule-line-weight.md).
+- Open when looking up FootnoteOption.ruleOffset in Shared Adobe platform. [FootnoteOption.ruleOffset](rule-offset.md).
+- Open when looking up FootnoteOption.ruleOn in Shared Adobe platform. [FootnoteOption.ruleOn](rule-on.md).
+- Open when looking up FootnoteOption.ruleOverprint in Shared Adobe platform. [FootnoteOption.ruleOverprint](rule-overprint.md).
+- Open when looking up FootnoteOption.ruleTint in Shared Adobe platform. [FootnoteOption.ruleTint](rule-tint.md).
+- Open when looking up FootnoteOption.ruleType in Shared Adobe platform. [FootnoteOption.ruleType](rule-type.md).
+- Open when looking up FootnoteOption.ruleWidth in Shared Adobe platform. [FootnoteOption.ruleWidth](rule-width.md).
+- Open when looking up FootnoteOption.separatorText in Shared Adobe platform. [FootnoteOption.separatorText](separator-text.md).
+- Open when looking up FootnoteOption.showPrefixSuffix in Shared Adobe platform. [FootnoteOption.showPrefixSuffix](show-prefix-suffix.md).
+- Open when looking up FootnoteOption.spaceBetween in Shared Adobe platform. [FootnoteOption.spaceBetween](space-between.md).
+- Open when looking up FootnoteOption.spacer in Shared Adobe platform. [FootnoteOption.spacer](spacer.md).
+- Open when looking up FootnoteOption.startAt in Shared Adobe platform. [FootnoteOption.startAt](start-at.md).
+- Open when looking up FootnoteOption.suffix in Shared Adobe platform. [FootnoteOption.suffix](suffix.md).

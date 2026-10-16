@@ -1,0 +1,29 @@
+# Shared Adobe platform — TrackItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TrackItem declaration in Shared Adobe platform. [TrackItem declaration](declaration.md).
+- Open when looking up TrackItem object lifecycle in Shared Adobe platform. [TrackItem object lifecycle](object-lifecycle.md).
+- Open when looking up TrackItem.bind in Shared Adobe platform. [TrackItem.bind](bind.md).
+- Open when looking up TrackItem.components in Shared Adobe platform. [TrackItem.components](components.md).
+- Open when looking up TrackItem.disabled in Shared Adobe platform. [TrackItem.disabled](disabled.md).
+- Open when looking up TrackItem.duration in Shared Adobe platform. [TrackItem.duration](duration.md).
+- Open when looking up TrackItem.end in Shared Adobe platform. [TrackItem.end](end.md).
+- Open when looking up TrackItem.getColorSpace in Shared Adobe platform. [TrackItem.getColorSpace](get-color-space.md).
+- Open when looking up TrackItem.getLinkedItems in Shared Adobe platform. [TrackItem.getLinkedItems](get-linked-items.md).
+- Open when looking up TrackItem.getMGTComponent in Shared Adobe platform. [TrackItem.getMGTComponent](get-mgt-component.md).
+- Open when looking up TrackItem.getSpeed in Shared Adobe platform. [TrackItem.getSpeed](get-speed.md).
+- Open when looking up TrackItem.inPoint in Shared Adobe platform. [TrackItem.inPoint](in-point.md).
+- Open when looking up TrackItem.isAdjustmentLayer in Shared Adobe platform. [TrackItem.isAdjustmentLayer](is-adjustment-layer.md).
+- Open when looking up TrackItem.isSelected in Shared Adobe platform. [TrackItem.isSelected](is-selected.md).
+- Open when looking up TrackItem.isSpeedReversed in Shared Adobe platform. [TrackItem.isSpeedReversed](is-speed-reversed.md).
+- Open when looking up TrackItem.mediaType in Shared Adobe platform. [TrackItem.mediaType](media-type.md).
+- Open when looking up TrackItem.name in Shared Adobe platform. [TrackItem.name](name.md).
+- Open when looking up TrackItem.nodeId in Shared Adobe platform. [TrackItem.nodeId](node-id.md).
+- Open when looking up TrackItem.outPoint in Shared Adobe platform. [TrackItem.outPoint](out-point.md).
+- Open when looking up TrackItem.parentTrackIndex in Shared Adobe platform. [TrackItem.parentTrackIndex](parent-track-index.md).
+- Open when looking up TrackItem.projectItem in Shared Adobe platform. [TrackItem.projectItem](project-item.md).
+- Open when looking up TrackItem.setSelected in Shared Adobe platform. [TrackItem.setSelected](set-selected.md).
+- Open when looking up TrackItem.setTimeout in Shared Adobe platform. [TrackItem.setTimeout](set-timeout.md).
+- Open when looking up TrackItem.start in Shared Adobe platform. [TrackItem.start](start.md).
+- Open when looking up TrackItem.type in Shared Adobe platform. [TrackItem.type](type.md).
+- Open when looking up TrackItem.unbind in Shared Adobe platform. [TrackItem.unbind](unbind.md).

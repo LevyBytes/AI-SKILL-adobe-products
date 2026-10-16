@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Change parent page options", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/edit-parent-pages/change-parent-page-options.md", "summary": "Open when looking up Change parent page options in InDesign.", "keywords": ["Change parent page options"]},
+  {"topic": "Resize parent pages", "file": "references/desktop/pages-and-books/create-and-manage-parent-pages/edit-parent-pages/resize-parent-pages.md", "summary": "Open when looking up Resize parent pages in InDesign.", "keywords": ["Resize parent pages"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

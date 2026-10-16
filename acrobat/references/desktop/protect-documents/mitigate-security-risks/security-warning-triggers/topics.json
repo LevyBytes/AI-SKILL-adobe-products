@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Common types of security warning triggers", "file": "references/desktop/protect-documents/mitigate-security-risks/security-warning-triggers/common-types-of-security-warning-triggers.md", "summary": "Open when looking up Common types of security warning triggers in Acrobat.", "keywords": ["Common types of security warning triggers"]},
+  {"topic": "Importance of security warning triggers", "file": "references/desktop/protect-documents/mitigate-security-risks/security-warning-triggers/importance-of-security-warning-triggers.md", "summary": "Open when looking up Importance of security warning triggers in Acrobat.", "keywords": ["Importance of security warning triggers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

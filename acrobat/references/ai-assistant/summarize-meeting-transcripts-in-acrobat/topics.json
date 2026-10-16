@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Summarize a Microsoft Teams meeting transcript", "file": "references/ai-assistant/summarize-meeting-transcripts-in-acrobat/summarize-a-microsoft-teams-meeting-transcript.md", "summary": "Open when looking up Summarize a Microsoft Teams meeting transcript in Acrobat.", "keywords": ["Summarize a Microsoft Teams meeting transcript"]},
+  {"topic": "Summarize a Zoom meeting transcript", "file": "references/ai-assistant/summarize-meeting-transcripts-in-acrobat/summarize-a-zoom-meeting-transcript.md", "summary": "Open when looking up Summarize a Zoom meeting transcript in Acrobat.", "keywords": ["Summarize a Zoom meeting transcript"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

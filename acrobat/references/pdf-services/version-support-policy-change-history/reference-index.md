@@ -1,0 +1,34 @@
+# Acrobat — Version support policy change history
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up April 22, 2025; Java SDK 4.3.0 Release in Acrobat. [April 22, 2025; Java SDK 4.3.0 Release](april-22-2025-java-sdk-4-3-0-release.md).
+- Open when looking up April, 2024; NodeJS SDK 4.0.0 major release in Acrobat. [April, 2024; NodeJS SDK 4.0.0 major release](april-2024-node-js-sdk-4-0-0-major-release.md).
+- Open when looking up April, 2024; Server Side Release in Acrobat. [April, 2024; Server Side Release](april-2024-server-side-release.md).
+- Open when looking up August, 2023, NodeJS SDK 3.4.2 minor release in Acrobat. [August, 2023, NodeJS SDK 3.4.2 minor release](august-2023-node-js-sdk-3-4-2-minor-release.md).
+- Open when looking up August, 2023; Server Side Release in Acrobat. [August, 2023; Server Side Release](august-2023-server-side-release.md).
+- Open when looking up December, 2023: Java SDK 3.5.1 patch release in Acrobat. [December, 2023: Java SDK 3.5.1 patch release](december-2023-java-sdk-3-5-1-patch-release.md).
+- Open when looking up February 21, 2025; .NET SDK 4.2.0 release in Acrobat. [February 21, 2025; .NET SDK 4.2.0 release](february-21-2025-net-sdk-4-2-0-release.md).
+- Open when looking up February 4, 2025; Server Side Release in Acrobat. [February 4, 2025; Server Side Release](february-4-2025-server-side-release.md).
+- Open when looking up February, 2024: .NET SDK 3.4.1 patch release in Acrobat. [February, 2024: .NET SDK 3.4.1 patch release](february-2024-net-sdk-3-4-1-patch-release.md).
+- Open when looking up January, 2024; Java SDK 4.0.0 major release in Acrobat. [January, 2024; Java SDK 4.0.0 major release](january-2024-java-sdk-4-0-0-major-release.md).
+- Open when looking up January, 2024; Server Side Release in Acrobat. [January, 2024; Server Side Release](january-2024-server-side-release.md).
+- Open when looking up July 09, 2024; Server Side Release in Acrobat. [July 09, 2024; Server Side Release](july-09-2024-server-side-release.md).
+- Open when looking up July 10, 2025; Python SDK 4.2.0 Release in Acrobat. [July 10, 2025; Python SDK 4.2.0 Release](july-10-2025-python-sdk-4-2-0-release.md).
+- Open when looking up July 16, 2024; Server Side Release - Get PDF Properties in Acrobat. [July 16, 2024; Server Side Release - Get PDF Properties](july-16-2024-server-side-release-get-pdf-properties.md).
+- Open when looking up July 22, 2024; .NET SDK 4.0.0 major release in Acrobat. [July 22, 2024; .NET SDK 4.0.0 major release](july-22-2024-net-sdk-4-0-0-major-release.md).
+- Open when looking up July 30, 2024; PDF Accessibility Checker API Added in Acrobat. [July 30, 2024; PDF Accessibility Checker API Added](july-30-2024-pdf-accessibility-checker-api-added.md).
+- Open when looking up July, 2023, NodeJS SDK 3.4.1 minor release in Acrobat. [July, 2023, NodeJS SDK 3.4.1 minor release](july-2023-node-js-sdk-3-4-1-minor-release.md).
+- Open when looking up June 04, 2024; Java SDK 4.1.0 minor release in Acrobat. [June 04, 2024; Java SDK 4.1.0 minor release](june-04-2024-java-sdk-4-1-0-minor-release.md).
+- Open when looking up June 05, 2024; .NET SDK 3.5.1 patch release in Acrobat. [June 05, 2024; .NET SDK 3.5.1 patch release](june-05-2024-net-sdk-3-5-1-patch-release.md).
+- Open when looking up June 12, 2024; NodeJS SDK 4.0.1 patch release in Acrobat. [June 12, 2024; NodeJS SDK 4.0.1 patch release](june-12-2024-node-js-sdk-4-0-1-patch-release.md).
+- Open when looking up June, 2023; Java,NodeJS,.NET SDK 3.4.0 minor release in Acrobat. [June, 2023; Java,NodeJS,.NET SDK 3.4.0 minor release](june-2023-java-node-js-net-sdk-3-4-0-minor-release.md).
+- Open when looking up June, 2023; Python SDK 2.3.0 minor release in Acrobat. [June, 2023; Python SDK 2.3.0 minor release](june-2023-python-sdk-2-3-0-minor-release.md).
+- Open when looking up March, 2024; Python SDK 2.3.1 patch release in Acrobat. [March, 2024; Python SDK 2.3.1 patch release](march-2024-python-sdk-2-3-1-patch-release.md).
+- Open when looking up May 12, 2025; Python SDK 4.1.1 Release in Acrobat. [May 12, 2025; Python SDK 4.1.1 Release](may-12-2025-python-sdk-4-1-1-release.md).
+- Open when looking up May 15, 2024; .NET SDK 3.5.0 minor release in Acrobat. [May 15, 2024; .NET SDK 3.5.0 minor release](may-15-2024-net-sdk-3-5-0-minor-release.md).
+- Open when looking up May 22, 2024; Python SDK 4.0.0 major release in Acrobat. [May 22, 2024; Python SDK 4.0.0 major release](may-22-2024-python-sdk-4-0-0-major-release.md).
+- Open when looking up May 22, 2025; .NET SDK 4.3.0 Release in Acrobat. [May 22, 2025; .NET SDK 4.3.0 Release](may-22-2025-net-sdk-4-3-0-release.md).
+- Open when looking up November 06, 2024; Java SDK 4.2.0 and NodeJS, .NET, Python SDK 4.1.0 minor release in Acrobat. [November 06, 2024; Java SDK 4.2.0 and NodeJS, .NET, Python SDK 4.1.0 minor release](java-4-2-and-sdk-4-1-release-2024-11-06.md).
+- Open when looking up October 1, 2024; Java SDK 4.1.1 patch release in Acrobat. [October 1, 2024; Java SDK 4.1.1 patch release](october-1-2024-java-sdk-4-1-1-patch-release.md).
+- Open when looking up October, 2023: Java SDK 3.5.0 minor release in Acrobat. [October, 2023: Java SDK 3.5.0 minor release](october-2023-java-sdk-3-5-0-minor-release.md).
+- Open when looking up September 29, 2025; .NET SDK 4.3.1 patch release in Acrobat. [September 29, 2025; .NET SDK 4.3.1 patch release](september-29-2025-net-sdk-4-3-1-patch-release.md).

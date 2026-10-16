@@ -1,0 +1,22 @@
+# Shared Adobe platform — Layer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Layer declaration in Shared Adobe platform. [Layer declaration](declaration.md).
+- Open when looking up Layer identity and parent in Shared Adobe platform. [Layer identity and parent](identity-and-parent.md).
+- Open when looking up Layer object lifecycle in Shared Adobe platform. [Layer object lifecycle](object-lifecycle.md).
+- Open when looking up Layer.allLocked in Shared Adobe platform. [Layer.allLocked](all-locked.md).
+- Open when looking up Layer.blendMode in Shared Adobe platform. [Layer.blendMode](blend-mode.md).
+- Open when looking up Layer.bounds in Shared Adobe platform. [Layer.bounds](bounds.md).
+- Open when looking up Layer.boundsNoEffects in Shared Adobe platform. [Layer.boundsNoEffects](bounds-no-effects.md).
+- Open when looking up Layer.itemIndex in Shared Adobe platform. [Layer.itemIndex](item-index.md).
+- Open when looking up Layer.link in Shared Adobe platform. [Layer.link](link.md).
+- Open when looking up Layer.linkedLayers in Shared Adobe platform. [Layer.linkedLayers](linked-layers.md).
+- Open when looking up Layer.moveToEnd in Shared Adobe platform. [Layer.moveToEnd](move-to-end.md).
+- Open when looking up Layer.opacity in Shared Adobe platform. [Layer.opacity](opacity.md).
+- Open when looking up Layer.removeAll in Shared Adobe platform. [Layer.removeAll](remove-all.md).
+- Open when looking up Layer.resize in Shared Adobe platform. [Layer.resize](resize.md).
+- Open when looking up Layer.rotate in Shared Adobe platform. [Layer.rotate](rotate.md).
+- Open when looking up Layer.translate in Shared Adobe platform. [Layer.translate](translate.md).
+- Open when looking up Layer.unlink in Shared Adobe platform. [Layer.unlink](unlink.md).
+- Open when looking up Layer.visible in Shared Adobe platform. [Layer.visible](visible.md).
+- Open when looking up Layer.xmpMetadata in Shared Adobe platform. [Layer.xmpMetadata](xmp-metadata.md).

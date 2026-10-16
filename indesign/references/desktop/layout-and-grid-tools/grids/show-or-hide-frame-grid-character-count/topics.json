@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Customize character count appearance", "file": "references/desktop/layout-and-grid-tools/grids/show-or-hide-frame-grid-character-count/customize-character-count-appearance.md", "summary": "Open when looking up Customize character count appearance in InDesign.", "keywords": ["Customize character count appearance"]},
+  {"topic": "Toggle character count display", "file": "references/desktop/layout-and-grid-tools/grids/show-or-hide-frame-grid-character-count/toggle-character-count-display.md", "summary": "Open when looking up Toggle character count display in InDesign.", "keywords": ["Toggle character count display"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Story.changeGlyph", "file": "references/community-types/indesign/story/change-glyph.md", "summary": "Open when looking up Story.changeGlyph in Shared Adobe platform.", "keywords": ["Story.changeGlyph"]},
+  {"topic": "Story.changeGrep", "file": "references/community-types/indesign/story/change-grep.md", "summary": "Open when looking up Story.changeGrep in Shared Adobe platform.", "keywords": ["Story.changeGrep"]},
+  {"topic": "Story.changeText", "file": "references/community-types/indesign/story/change-text.md", "summary": "Open when looking up Story.changeText in Shared Adobe platform.", "keywords": ["Story.changeText"]},
+  {"topic": "Story.changeTransliterate", "file": "references/community-types/indesign/story/change-transliterate.md", "summary": "Open when looking up Story.changeTransliterate in Shared Adobe platform.", "keywords": ["Story.changeTransliterate"]},
+  {"topic": "Story.findGlyph", "file": "references/community-types/indesign/story/find-glyph.md", "summary": "Open when looking up Story.findGlyph in Shared Adobe platform.", "keywords": ["Story.findGlyph"]},
+  {"topic": "Story.findGrep", "file": "references/community-types/indesign/story/find-grep.md", "summary": "Open when looking up Story.findGrep in Shared Adobe platform.", "keywords": ["Story.findGrep"]},
+  {"topic": "Story.findText", "file": "references/community-types/indesign/story/find-text.md", "summary": "Open when looking up Story.findText in Shared Adobe platform.", "keywords": ["Story.findText"]},
+  {"topic": "Story.findTransliterate", "file": "references/community-types/indesign/story/find-transliterate.md", "summary": "Open when looking up Story.findTransliterate in Shared Adobe platform.", "keywords": ["Story.findTransliterate"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

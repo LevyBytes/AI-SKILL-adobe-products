@@ -1,0 +1,34 @@
+# Shared Adobe platform — SymbolInstance
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up SymbolInstance declaration in Shared Adobe platform. [SymbolInstance declaration](declaration.md).
+- Open when looking up SymbolInstance.accName in Shared Adobe platform. [SymbolInstance.accName](acc-name.md).
+- Open when looking up SymbolInstance.backgroundColor in Shared Adobe platform. [SymbolInstance.backgroundColor](background-color.md).
+- Open when looking up SymbolInstance.bitmapRenderMode in Shared Adobe platform. [SymbolInstance.bitmapRenderMode](bitmap-render-mode.md).
+- Open when looking up SymbolInstance.blendMode in Shared Adobe platform. [SymbolInstance.blendMode](blend-mode.md).
+- Open when looking up SymbolInstance.brightness in Shared Adobe platform. [SymbolInstance.brightness](brightness.md).
+- Open when looking up SymbolInstance.buttonTracking in Shared Adobe platform. [SymbolInstance.buttonTracking](button-tracking.md).
+- Open when looking up SymbolInstance.cacheAsBitmap in Shared Adobe platform. [SymbolInstance.cacheAsBitmap](cache-as-bitmap.md).
+- Open when looking up SymbolInstance.colorAlphaAmount in Shared Adobe platform. [SymbolInstance.colorAlphaAmount](color-alpha-amount.md).
+- Open when looking up SymbolInstance.colorAlphaPercent in Shared Adobe platform. [SymbolInstance.colorAlphaPercent](color-alpha-percent.md).
+- Open when looking up SymbolInstance.colorBlueAmount in Shared Adobe platform. [SymbolInstance.colorBlueAmount](color-blue-amount.md).
+- Open when looking up SymbolInstance.colorBluePercent in Shared Adobe platform. [SymbolInstance.colorBluePercent](color-blue-percent.md).
+- Open when looking up SymbolInstance.colorGreenAmount in Shared Adobe platform. [SymbolInstance.colorGreenAmount](color-green-amount.md).
+- Open when looking up SymbolInstance.colorGreenPercent in Shared Adobe platform. [SymbolInstance.colorGreenPercent](color-green-percent.md).
+- Open when looking up SymbolInstance.colorMode in Shared Adobe platform. [SymbolInstance.colorMode](color-mode.md).
+- Open when looking up SymbolInstance.colorRedAmount in Shared Adobe platform. [SymbolInstance.colorRedAmount](color-red-amount.md).
+- Open when looking up SymbolInstance.colorRedPercent in Shared Adobe platform. [SymbolInstance.colorRedPercent](color-red-percent.md).
+- Open when looking up SymbolInstance.description in Shared Adobe platform. [SymbolInstance.description](description.md).
+- Open when looking up SymbolInstance.filters in Shared Adobe platform. [SymbolInstance.filters](filters.md).
+- Open when looking up SymbolInstance.firstFrame in Shared Adobe platform. [SymbolInstance.firstFrame](first-frame.md).
+- Open when looking up SymbolInstance.forceSimple in Shared Adobe platform. [SymbolInstance.forceSimple](force-simple.md).
+- Open when looking up SymbolInstance.is3D in Shared Adobe platform. [SymbolInstance.is3D](is3-d.md).
+- Open when looking up SymbolInstance.loop in Shared Adobe platform. [SymbolInstance.loop](loop.md).
+- Open when looking up SymbolInstance.shortcut in Shared Adobe platform. [SymbolInstance.shortcut](shortcut.md).
+- Open when looking up SymbolInstance.silent in Shared Adobe platform. [SymbolInstance.silent](silent.md).
+- Open when looking up SymbolInstance.symbolType in Shared Adobe platform. [SymbolInstance.symbolType](symbol-type.md).
+- Open when looking up SymbolInstance.tabIndex in Shared Adobe platform. [SymbolInstance.tabIndex](tab-index.md).
+- Open when looking up SymbolInstance.tintColor in Shared Adobe platform. [SymbolInstance.tintColor](tint-color.md).
+- Open when looking up SymbolInstance.tintPercent in Shared Adobe platform. [SymbolInstance.tintPercent](tint-percent.md).
+- Open when looking up SymbolInstance.useBackgroundColor in Shared Adobe platform. [SymbolInstance.useBackgroundColor](use-background-color.md).
+- Open when looking up SymbolInstance.visible in Shared Adobe platform. [SymbolInstance.visible](visible.md).

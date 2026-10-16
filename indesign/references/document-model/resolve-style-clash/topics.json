@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "RESOLVE_CLASH_AUTO_RENAME", "file": "references/document-model/resolve-style-clash/resolveclashautorename.md", "summary": "Open when looking up RESOLVE_CLASH_AUTO_RENAME in InDesign.", "keywords": ["RESOLVE_CLASH_AUTO_RENAME"]},
+  {"topic": "RESOLVE_CLASH_USE_EXISTING", "file": "references/document-model/resolve-style-clash/resolveclashuseexisting.md", "summary": "Open when looking up RESOLVE_CLASH_USE_EXISTING in InDesign.", "keywords": ["RESOLVE_CLASH_USE_EXISTING"]},
+  {"topic": "RESOLVE_CLASH_USE_NEW", "file": "references/document-model/resolve-style-clash/resolveclashusenew.md", "summary": "Open when looking up RESOLVE_CLASH_USE_NEW in InDesign.", "keywords": ["RESOLVE_CLASH_USE_NEW"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

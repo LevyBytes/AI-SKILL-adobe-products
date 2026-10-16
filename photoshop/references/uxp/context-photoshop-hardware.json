@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "CPUInfo", "file": "references/uxp/cpu-info.md", "summary": "Open when looking up CPUInfo in Photoshop.", "keywords": ["CPUInfo"]},
+  {"topic": "DisplayConfiguration", "file": "references/uxp/display-configuration.md", "summary": "Open when looking up DisplayConfiguration in Photoshop.", "keywords": ["DisplayConfiguration"]},
+  {"topic": "DisplayConfigurationOptions", "file": "references/uxp/display-configuration-options.md", "summary": "Open when looking up DisplayConfigurationOptions in Photoshop.", "keywords": ["DisplayConfigurationOptions"]},
+  {"topic": "GPUInfo", "file": "references/uxp/gpu-info.md", "summary": "Open when looking up GPUInfo in Photoshop.", "keywords": ["GPUInfo"]},
+  {"topic": "OpenCLDeviceInfo", "file": "references/uxp/open-cl-device-info.md", "summary": "Open when looking up OpenCLDeviceInfo in Photoshop.", "keywords": ["OpenCLDeviceInfo"]},
+  {"topic": "OpenGLDeviceInfo", "file": "references/uxp/open-gl-device-info.md", "summary": "Open when looking up OpenGLDeviceInfo in Photoshop.", "keywords": ["OpenGLDeviceInfo"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/path-point/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "anchor", "file": "references/document-model/path-point/anchor.md", "summary": "Open when looking up anchor in InDesign.", "keywords": ["anchor"]},
+  {"topic": "eventListeners", "file": "references/document-model/path-point/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/path-point/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "references/document-model/path-point/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "index", "file": "references/document-model/path-point/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "references/document-model/path-point/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "join", "file": "references/document-model/path-point/join.md", "summary": "Open when looking up join in InDesign.", "keywords": ["join"]},
+  {"topic": "leftDirection", "file": "references/document-model/path-point/left-direction.md", "summary": "Open when looking up leftDirection in InDesign.", "keywords": ["leftDirection"]},
+  {"topic": "parent", "file": "references/document-model/path-point/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "pointType", "file": "references/document-model/path-point/point-type.md", "summary": "Open when looking up pointType in InDesign.", "keywords": ["pointType"]},
+  {"topic": "properties", "file": "references/document-model/path-point/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "references/document-model/path-point/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "references/document-model/path-point/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "rightDirection", "file": "references/document-model/path-point/right-direction.md", "summary": "Open when looking up rightDirection in InDesign.", "keywords": ["rightDirection"]},
+  {"topic": "toSource", "file": "references/document-model/path-point/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/path-point/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Audio Track Mixer", "file": "references/desktop/add-audio-effects/advanced-audio-techniques/audio-track-mixer-overview/audio-track-mixer.md", "summary": "Open when looking up Audio Track Mixer in Premiere Pro.", "keywords": ["Audio Track Mixer"]},
+  {"topic": "Automation Modes", "file": "references/desktop/add-audio-effects/advanced-audio-techniques/audio-track-mixer-overview/automation-modes.md", "summary": "Open when looking up Automation Modes in Premiere Pro.", "keywords": ["Automation Modes"]},
+  {"topic": "Submixing and Routing", "file": "references/desktop/add-audio-effects/advanced-audio-techniques/audio-track-mixer-overview/submixing-and-routing.md", "summary": "Open when looking up Submixing and Routing in Premiere Pro.", "keywords": ["Submixing and Routing"]},
+  {"topic": "Track Effects", "file": "references/desktop/add-audio-effects/advanced-audio-techniques/audio-track-mixer-overview/track-effects.md", "summary": "Open when looking up Track Effects in Premiere Pro.", "keywords": ["Track Effects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

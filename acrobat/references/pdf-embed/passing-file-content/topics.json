@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Cross-origin resource sharing", "file": "references/pdf-embed/passing-file-content/cross-origin-resource-sharing.md", "summary": "Open when looking up Cross-origin resource sharing in Acrobat.", "keywords": ["Cross-origin resource sharing"]},
+  {"topic": "File promise", "file": "references/pdf-embed/passing-file-content/file-promise.md", "summary": "Open when looking up File promise in Acrobat.", "keywords": ["File promise"]},
+  {"topic": "File URL", "file": "references/pdf-embed/passing-file-content/file-url.md", "summary": "Open when looking up File URL in Acrobat.", "keywords": ["File URL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

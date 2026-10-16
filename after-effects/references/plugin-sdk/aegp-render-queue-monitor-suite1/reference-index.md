@@ -1,0 +1,21 @@
+# After Effects — AEGP_RenderQueueMonitorSuite1
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_DeregisterListener in After Effects. [AEGP_DeregisterListener](aegp-deregister-listener.md).
+- Open when looking up AEGP_GetAppVersion in After Effects. [AEGP_GetAppVersion](aegp-get-app-version.md).
+- Open when looking up AEGP_GetJobItemFrameProperty in After Effects. [AEGP_GetJobItemFrameProperty](aegp-get-job-item-frame-property.md).
+- Open when looking up AEGP_GetJobItemFrameThumbnail in After Effects. [AEGP_GetJobItemFrameThumbnail](aegp-get-job-item-frame-thumbnail.md).
+- Open when looking up AEGP_GetJobItemID in After Effects. [AEGP_GetJobItemID](aegp-get-job-item-id.md).
+- Open when looking up AEGP_GetJobItemOutputModuleProperty in After Effects. [AEGP_GetJobItemOutputModuleProperty](aegp-get-job-item-output-module-property.md).
+- Open when looking up AEGP_GetJobItemOutputModuleSetting in After Effects. [AEGP_GetJobItemOutputModuleSetting](aegp-get-job-item-output-module-setting.md).
+- Open when looking up AEGP_GetJobItemOutputModuleWarning in After Effects. [AEGP_GetJobItemOutputModuleWarning](aegp-get-job-item-output-module-warning.md).
+- Open when looking up AEGP_GetJobItemRenderSetting in After Effects. [AEGP_GetJobItemRenderSetting](aegp-get-job-item-render-setting.md).
+- Open when looking up AEGP_GetNumJobItemFrameProperties in After Effects. [AEGP_GetNumJobItemFrameProperties](aegp-get-num-job-item-frame-properties.md).
+- Open when looking up AEGP_GetNumJobItemOutputModuleProperties in After Effects. [AEGP_GetNumJobItemOutputModuleProperties](aegp-get-num-job-item-output-module-properties.md).
+- Open when looking up AEGP_GetNumJobItemOutputModules in After Effects. [AEGP_GetNumJobItemOutputModules](aegp-get-num-job-item-output-modules.md).
+- Open when looking up AEGP_GetNumJobItemOutputModuleSettings in After Effects. [AEGP_GetNumJobItemOutputModuleSettings](aegp-get-num-job-item-output-module-settings.md).
+- Open when looking up AEGP_GetNumJobItemOutputModuleWarnings in After Effects. [AEGP_GetNumJobItemOutputModuleWarnings](aegp-get-num-job-item-output-module-warnings.md).
+- Open when looking up AEGP_GetNumJobItemRenderSettings in After Effects. [AEGP_GetNumJobItemRenderSettings](aegp-get-num-job-item-render-settings.md).
+- Open when looking up AEGP_GetNumJobItems in After Effects. [AEGP_GetNumJobItems](aegp-get-num-job-items.md).
+- Open when looking up AEGP_GetProjectName in After Effects. [AEGP_GetProjectName](aegp-get-project-name.md).
+- Open when looking up AEGP_RegisterListener in After Effects. [AEGP_RegisterListener](aegp-register-listener.md).

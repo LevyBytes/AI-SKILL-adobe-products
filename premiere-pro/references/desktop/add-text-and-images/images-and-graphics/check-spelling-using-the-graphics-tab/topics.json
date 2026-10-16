@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Check and correct spelling", "file": "references/desktop/add-text-and-images/images-and-graphics/check-spelling-using-the-graphics-tab/check-and-correct-spelling.md", "summary": "Open when looking up Check and correct spelling in Premiere Pro.", "keywords": ["Check and correct spelling"]},
+  {"topic": "Set spell check options", "file": "references/desktop/add-text-and-images/images-and-graphics/check-spelling-using-the-graphics-tab/set-spell-check-options.md", "summary": "Open when looking up Set spell check options in Premiere Pro.", "keywords": ["Set spell check options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

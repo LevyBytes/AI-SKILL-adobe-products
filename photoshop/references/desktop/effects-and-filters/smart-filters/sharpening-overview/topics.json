@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Best practices for effective sharpening", "file": "references/desktop/effects-and-filters/smart-filters/sharpening-overview/best-practices-for-effective-sharpening.md", "summary": "Open when looking up Best practices for effective sharpening in Photoshop.", "keywords": ["Best practices for effective sharpening"]},
+  {"topic": "Sharpening methods", "file": "references/desktop/effects-and-filters/smart-filters/sharpening-overview/sharpening-methods.md", "summary": "Open when looking up Sharpening methods in Photoshop.", "keywords": ["Sharpening methods"]},
+  {"topic": "What sharpening does", "file": "references/desktop/effects-and-filters/smart-filters/sharpening-overview/what-sharpening-does.md", "summary": "Open when looking up What sharpening does in Photoshop.", "keywords": ["What sharpening does"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

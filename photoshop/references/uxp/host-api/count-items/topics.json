@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "activateGroupByIndex", "file": "references/uxp/host-api/count-items/activate-group-by-index.md", "summary": "Open when looking up activateGroupByIndex in Photoshop.", "keywords": ["activateGroupByIndex"]},
+  {"topic": "add", "file": "references/uxp/host-api/count-items/add.md", "summary": "Open when looking up add in Photoshop.", "keywords": ["add"]},
+  {"topic": "createGroup", "file": "references/uxp/host-api/count-items/create-group.md", "summary": "Open when looking up createGroup in Photoshop.", "keywords": ["createGroup"]},
+  {"topic": "getAll", "file": "references/uxp/host-api/count-items/get-all.md", "summary": "Open when looking up getAll in Photoshop.", "keywords": ["getAll"]},
+  {"topic": "removeAllFromActiveGroup", "file": "references/uxp/host-api/count-items/remove-all-from-active-group.md", "summary": "Open when looking up removeAllFromActiveGroup in Photoshop.", "keywords": ["removeAllFromActiveGroup"]},
+  {"topic": "removeGroupByIndex", "file": "references/uxp/host-api/count-items/remove-group-by-index.md", "summary": "Open when looking up removeGroupByIndex in Photoshop.", "keywords": ["removeGroupByIndex"]},
+  {"topic": "renameActiveGroup", "file": "references/uxp/host-api/count-items/rename-active-group.md", "summary": "Open when looking up renameActiveGroup in Photoshop.", "keywords": ["renameActiveGroup"]},
+  {"topic": "setActiveColor", "file": "references/uxp/host-api/count-items/set-active-color.md", "summary": "Open when looking up setActiveColor in Photoshop.", "keywords": ["setActiveColor"]},
+  {"topic": "setActiveLabelSize", "file": "references/uxp/host-api/count-items/set-active-label-size.md", "summary": "Open when looking up setActiveLabelSize in Photoshop.", "keywords": ["setActiveLabelSize"]},
+  {"topic": "setActiveMarkerSize", "file": "references/uxp/host-api/count-items/set-active-marker-size.md", "summary": "Open when looking up setActiveMarkerSize in Photoshop.", "keywords": ["setActiveMarkerSize"]},
+  {"topic": "toggleActiveGroupVisibility", "file": "references/uxp/host-api/count-items/toggle-active-group-visibility.md", "summary": "Open when looking up toggleActiveGroupVisibility in Photoshop.", "keywords": ["toggleActiveGroupVisibility"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

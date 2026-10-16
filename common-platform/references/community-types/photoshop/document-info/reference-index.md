@@ -1,0 +1,28 @@
+# Shared Adobe platform — DocumentInfo
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up DocumentInfo declaration in Shared Adobe platform. [DocumentInfo declaration](declaration.md).
+- Open when looking up DocumentInfo identity and parent in Shared Adobe platform. [DocumentInfo identity and parent](identity-and-parent.md).
+- Open when looking up DocumentInfo.author in Shared Adobe platform. [DocumentInfo.author](author.md).
+- Open when looking up DocumentInfo.authorPosition in Shared Adobe platform. [DocumentInfo.authorPosition](author-position.md).
+- Open when looking up DocumentInfo.caption in Shared Adobe platform. [DocumentInfo.caption](caption.md).
+- Open when looking up DocumentInfo.captionWriter in Shared Adobe platform. [DocumentInfo.captionWriter](caption-writer.md).
+- Open when looking up DocumentInfo.category in Shared Adobe platform. [DocumentInfo.category](category.md).
+- Open when looking up DocumentInfo.city in Shared Adobe platform. [DocumentInfo.city](city.md).
+- Open when looking up DocumentInfo.copyrighted in Shared Adobe platform. [DocumentInfo.copyrighted](copyrighted.md).
+- Open when looking up DocumentInfo.copyrightNotice in Shared Adobe platform. [DocumentInfo.copyrightNotice](copyright-notice.md).
+- Open when looking up DocumentInfo.country in Shared Adobe platform. [DocumentInfo.country](country.md).
+- Open when looking up DocumentInfo.creationDate in Shared Adobe platform. [DocumentInfo.creationDate](creation-date.md).
+- Open when looking up DocumentInfo.credit in Shared Adobe platform. [DocumentInfo.credit](credit.md).
+- Open when looking up DocumentInfo.exif in Shared Adobe platform. [DocumentInfo.exif](exif.md).
+- Open when looking up DocumentInfo.headline in Shared Adobe platform. [DocumentInfo.headline](headline.md).
+- Open when looking up DocumentInfo.instructions in Shared Adobe platform. [DocumentInfo.instructions](instructions.md).
+- Open when looking up DocumentInfo.jobName in Shared Adobe platform. [DocumentInfo.jobName](job-name.md).
+- Open when looking up DocumentInfo.keywords in Shared Adobe platform. [DocumentInfo.keywords](keywords.md).
+- Open when looking up DocumentInfo.ownerUrl in Shared Adobe platform. [DocumentInfo.ownerUrl](owner-url.md).
+- Open when looking up DocumentInfo.provinceState in Shared Adobe platform. [DocumentInfo.provinceState](province-state.md).
+- Open when looking up DocumentInfo.source in Shared Adobe platform. [DocumentInfo.source](source.md).
+- Open when looking up DocumentInfo.supplementalCategories in Shared Adobe platform. [DocumentInfo.supplementalCategories](supplemental-categories.md).
+- Open when looking up DocumentInfo.title in Shared Adobe platform. [DocumentInfo.title](title.md).
+- Open when looking up DocumentInfo.transmissionReference in Shared Adobe platform. [DocumentInfo.transmissionReference](transmission-reference.md).
+- Open when looking up DocumentInfo.urgency in Shared Adobe platform. [DocumentInfo.urgency](urgency.md).

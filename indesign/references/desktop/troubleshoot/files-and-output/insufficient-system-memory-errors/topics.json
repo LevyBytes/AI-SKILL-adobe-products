@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Expand system memory", "file": "references/desktop/troubleshoot/files-and-output/insufficient-system-memory-errors/expand-system-memory.md", "summary": "Open when looking up Expand system memory in InDesign.", "keywords": ["Expand system memory"]},
+  {"topic": "Insufficient memory (Windows)", "file": "references/desktop/troubleshoot/files-and-output/insufficient-system-memory-errors/insufficient-memory-windows.md", "summary": "Open when looking up Insufficient memory (Windows) in InDesign.", "keywords": ["Insufficient memory (Windows)"]},
+  {"topic": "Too many running applications take up memory (Windows)", "file": "references/desktop/troubleshoot/files-and-output/insufficient-system-memory-errors/too-many-running-applications-take-up-memory-windows.md", "summary": "Open when looking up Too many running applications take up memory (Windows) in InDesign.", "keywords": ["Too many running applications take up memory (Windows)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

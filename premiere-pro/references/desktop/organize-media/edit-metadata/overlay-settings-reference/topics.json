@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Available overlay metadata types", "file": "references/desktop/organize-media/edit-metadata/overlay-settings-reference/available-overlay-metadata-types.md", "summary": "Open when looking up Available overlay metadata types in Premiere Pro.", "keywords": ["Available overlay metadata types"]},
+  {"topic": "Multi-Camera View limitations", "file": "references/desktop/organize-media/edit-metadata/overlay-settings-reference/multi-camera-view-limitations.md", "summary": "Open when looking up Multi-Camera View limitations in Premiere Pro.", "keywords": ["Multi-Camera View limitations"]},
+  {"topic": "Preset file format", "file": "references/desktop/organize-media/edit-metadata/overlay-settings-reference/preset-file-format.md", "summary": "Open when looking up Preset file format in Premiere Pro.", "keywords": ["Preset file format"]},
+  {"topic": "Safe margin settings", "file": "references/desktop/organize-media/edit-metadata/overlay-settings-reference/safe-margin-settings.md", "summary": "Open when looking up Safe margin settings in Premiere Pro.", "keywords": ["Safe margin settings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

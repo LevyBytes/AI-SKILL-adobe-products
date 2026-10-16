@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Touch and Gesture controls on Windows Devices", "file": "references/desktop/get-started/touch-and-gesture-controls/touch-and-gesture-controls-on-windows-devices.md", "summary": "Open when looking up Touch and Gesture controls on Windows Devices in Premiere Pro.", "keywords": ["Touch and Gesture controls on Windows Devices"]},
+  {"topic": "Touch and Gesture controls on Windows Devices references", "file": "references/desktop/get-started/touch-and-gesture-controls/touch-and-gesture-controls-on-windows-devices/reference-index.md", "summary": "Open when looking up Touch and Gesture controls on Windows Devices in Premiere Pro.", "keywords": ["Touch and Gesture controls on Windows Devices references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

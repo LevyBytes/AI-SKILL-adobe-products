@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Contribute", "file": "references/uxp/resources/contribute.md", "summary": "Open when looking up Contribute in InDesign.", "keywords": ["Contribute"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

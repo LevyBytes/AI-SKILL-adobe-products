@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Properties.clearProperty()", "file": "references/scripting/properties/clear-property.md", "summary": "Open when looking up Properties.clearProperty() in Premiere Pro.", "keywords": ["Properties.clearProperty()"]},
+  {"topic": "Properties.doesPropertyExist()", "file": "references/scripting/properties/does-property-exist.md", "summary": "Open when looking up Properties.doesPropertyExist() in Premiere Pro.", "keywords": ["Properties.doesPropertyExist()"]},
+  {"topic": "Properties.getProperty()", "file": "references/scripting/properties/get-property.md", "summary": "Open when looking up Properties.getProperty() in Premiere Pro.", "keywords": ["Properties.getProperty()"]},
+  {"topic": "Properties.isPropertyReadOnly()", "file": "references/scripting/properties/is-property-read-only.md", "summary": "Open when looking up Properties.isPropertyReadOnly() in Premiere Pro.", "keywords": ["Properties.isPropertyReadOnly()"]},
+  {"topic": "Properties.setProperty()", "file": "references/scripting/properties/set-property.md", "summary": "Open when looking up Properties.setProperty() in Premiere Pro.", "keywords": ["Properties.setProperty()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

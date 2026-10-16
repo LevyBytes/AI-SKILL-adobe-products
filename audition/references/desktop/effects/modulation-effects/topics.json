@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Chorus effect", "file": "references/desktop/effects/modulation-effects/chorus-effect.md", "summary": "Open when looking up Chorus effect in Audition.", "keywords": ["Chorus effect"]},
+  {"topic": "Chorus/Flanger effect", "file": "references/desktop/effects/modulation-effects/chorus-flanger-effect.md", "summary": "Open when looking up Chorus/Flanger effect in Audition.", "keywords": ["Chorus/Flanger effect"]},
+  {"topic": "Flanger effect", "file": "references/desktop/effects/modulation-effects/flanger-effect.md", "summary": "Open when looking up Flanger effect in Audition.", "keywords": ["Flanger effect"]},
+  {"topic": "Phaser effect", "file": "references/desktop/effects/modulation-effects/phaser-effect.md", "summary": "Open when looking up Phaser effect in Audition.", "keywords": ["Phaser effect"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

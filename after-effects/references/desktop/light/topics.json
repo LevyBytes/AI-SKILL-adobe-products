@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "color", "file": "references/desktop/light/color.md", "summary": "Open when looking up color in After Effects.", "keywords": ["color"]},
+  {"topic": "coneAngle", "file": "references/desktop/light/cone-angle.md", "summary": "Open when looking up coneAngle in After Effects.", "keywords": ["coneAngle"]},
+  {"topic": "coneFeather", "file": "references/desktop/light/cone-feather.md", "summary": "Open when looking up coneFeather in After Effects.", "keywords": ["coneFeather"]},
+  {"topic": "intensity", "file": "references/desktop/light/intensity.md", "summary": "Open when looking up intensity in After Effects.", "keywords": ["intensity"]},
+  {"topic": "pointOfInterest", "file": "references/desktop/light/point-of-interest.md", "summary": "Open when looking up pointOfInterest in After Effects.", "keywords": ["pointOfInterest"]},
+  {"topic": "shadowDarkness", "file": "references/desktop/light/shadow-darkness.md", "summary": "Open when looking up shadowDarkness in After Effects.", "keywords": ["shadowDarkness"]},
+  {"topic": "shadowDiffusion", "file": "references/desktop/light/shadow-diffusion.md", "summary": "Open when looking up shadowDiffusion in After Effects.", "keywords": ["shadowDiffusion"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

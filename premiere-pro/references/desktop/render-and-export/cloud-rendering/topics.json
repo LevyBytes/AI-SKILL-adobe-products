@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "About cloud rendering", "file": "references/desktop/render-and-export/cloud-rendering/about-cloud-rendering.md", "summary": "Open when looking up About cloud rendering in Premiere Pro.", "keywords": ["About cloud rendering"]},
+  {"topic": "Cloud rendering in Premiere FAQ", "file": "references/desktop/render-and-export/cloud-rendering/cloud-rendering-in-premiere-faq.md", "summary": "Open when looking up Cloud rendering in Premiere FAQ in Premiere Pro.", "keywords": ["Cloud rendering in Premiere FAQ"]},
+  {"topic": "Cloud rendering with Frame.io", "file": "references/desktop/render-and-export/cloud-rendering/cloud-rendering-with-frame-io.md", "summary": "Open when looking up Cloud rendering with Frame.io in Premiere Pro.", "keywords": ["Cloud rendering with Frame.io"]},
+  {"topic": "Set up cloud rendering", "file": "references/desktop/render-and-export/cloud-rendering/set-up-cloud-rendering.md", "summary": "Open when looking up Set up cloud rendering in Premiere Pro.", "keywords": ["Set up cloud rendering"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

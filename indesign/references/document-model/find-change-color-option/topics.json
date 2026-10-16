@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/find-change-color-option/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "eventListeners", "file": "references/document-model/find-change-color-option/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/find-change-color-option/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "references/document-model/find-change-color-option/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "includeFootnotes", "file": "references/document-model/find-change-color-option/include-footnotes.md", "summary": "Open when looking up includeFootnotes in InDesign.", "keywords": ["includeFootnotes"]},
+  {"topic": "includeHiddenLayers", "file": "references/document-model/find-change-color-option/include-hidden-layers.md", "summary": "Open when looking up includeHiddenLayers in InDesign.", "keywords": ["includeHiddenLayers"]},
+  {"topic": "includeLockedLayersForFind", "file": "references/document-model/find-change-color-option/include-locked-layers-for-find.md", "summary": "Open when looking up includeLockedLayersForFind in InDesign.", "keywords": ["includeLockedLayersForFind"]},
+  {"topic": "includeLockedStoriesForFind", "file": "references/document-model/find-change-color-option/include-locked-stories-for-find.md", "summary": "Open when looking up includeLockedStoriesForFind in InDesign.", "keywords": ["includeLockedStoriesForFind"]},
+  {"topic": "includeMasterPages", "file": "references/document-model/find-change-color-option/include-master-pages.md", "summary": "Open when looking up includeMasterPages in InDesign.", "keywords": ["includeMasterPages"]},
+  {"topic": "isValid", "file": "references/document-model/find-change-color-option/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "objectType", "file": "references/document-model/find-change-color-option/object-type.md", "summary": "Open when looking up objectType in InDesign.", "keywords": ["objectType"]},
+  {"topic": "parent", "file": "references/document-model/find-change-color-option/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "properties", "file": "references/document-model/find-change-color-option/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "removeEventListener", "file": "references/document-model/find-change-color-option/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "references/document-model/find-change-color-option/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/find-change-color-option/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

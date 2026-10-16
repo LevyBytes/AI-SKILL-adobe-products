@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "BorderPanel references", "file": "references/community-types/indesign/border-panel/reference-index.md", "summary": "Open when looking up BorderPanel in Shared Adobe platform.", "keywords": ["BorderPanel references"]},
+  {"topic": "BorderPanels references", "file": "references/community-types/indesign/border-panels/reference-index.md", "summary": "Open when looking up BorderPanels in Shared Adobe platform.", "keywords": ["BorderPanels references"]},
+  {"topic": "Dialog references", "file": "references/community-types/indesign/dialog/reference-index.md", "summary": "Open when looking up Dialog in Shared Adobe platform.", "keywords": ["Dialog references"]},
+  {"topic": "DialogColumn references", "file": "references/community-types/indesign/dialog-column/reference-index.md", "summary": "Open when looking up DialogColumn in Shared Adobe platform.", "keywords": ["DialogColumn references"]},
+  {"topic": "DialogColumns references", "file": "references/community-types/indesign/dialog-columns/reference-index.md", "summary": "Open when looking up DialogColumns in Shared Adobe platform.", "keywords": ["DialogColumns references"]},
+  {"topic": "DialogRow references", "file": "references/community-types/indesign/dialog-row/reference-index.md", "summary": "Open when looking up DialogRow in Shared Adobe platform.", "keywords": ["DialogRow references"]},
+  {"topic": "DialogRows references", "file": "references/community-types/indesign/dialog-rows/reference-index.md", "summary": "Open when looking up DialogRows in Shared Adobe platform.", "keywords": ["DialogRows references"]},
+  {"topic": "Dialogs references", "file": "references/community-types/indesign/dialogs/reference-index.md", "summary": "Open when looking up Dialogs in Shared Adobe platform.", "keywords": ["Dialogs references"]},
+  {"topic": "EnablingGroup references", "file": "references/community-types/indesign/enabling-group/reference-index.md", "summary": "Open when looking up EnablingGroup in Shared Adobe platform.", "keywords": ["EnablingGroup references"]},
+  {"topic": "EnablingGroups references", "file": "references/community-types/indesign/enabling-groups/reference-index.md", "summary": "Open when looking up EnablingGroups in Shared Adobe platform.", "keywords": ["EnablingGroups references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

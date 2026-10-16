@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Configure track information and CD databases", "file": "references/desktop/extracting-audio-from-cds/configure-track-information-and-cd-databases.md", "summary": "Open when looking up Configure track information and CD databases in Audition.", "keywords": ["Configure track information and CD databases"]},
+  {"topic": "Extract CD tracks in Adobe Audition with Extract Audio from CD.", "file": "references/desktop/extracting-audio-from-cds/cd-track-extraction.md", "summary": "Open when looking up Extract CD tracks in Adobe Audition with Extract Audio from CD. in Audition.", "keywords": ["Extract CD tracks in Adobe Audition with Extract Audio from CD."]},
+  {"topic": "Extract CD tracks with the Open command (macOS)", "file": "references/desktop/extracting-audio-from-cds/extract-cd-tracks-with-the-open-command-mac-os.md", "summary": "Open when looking up Extract CD tracks with the Open command (macOS) in Audition.", "keywords": ["Extract CD tracks with the Open command (macOS)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

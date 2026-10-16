@@ -1,0 +1,38 @@
+# New
+
+- UXP Plugins now support Web Components. The feature adds several HTML elements and methods.
+  - Classes
+    - [HTMLSlotElement](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/main/src/pages/uxp-api/reference-js/global-members/html-elements/html-slot-element.md)
+    - [HTMLTemplateElement](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/main/src/pages/uxp-api/reference-js/global-members/html-elements/html-template-element.md)
+  - Methods
+    - [Element.assignedSlot](../dom/element/assigned-slot.md)
+    - [Element.slot](../dom/element/slot.md)
+    - [Element.attachShadow](../dom/element/attach-shadow.md)
+    - [Element.shadowRoot](../dom/element/shadow-root.md)
+    - [CustomElementRegistry.upgrade](../dom/custom-element-registry/upgrade.md)
+    - [CustomElementRegistry.whenDefined](../dom/custom-element-registry/when-defined.md)
+- [Spectrum Web Components (Beta)](../spectrum-web-component.md) Support for Adobe SWC.
+- The JS API set has several additions
+  - Properties
+    - [HTMLElement.lang](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/main/src/pages/uxp-api/reference-js/global-members/html-elements/html-element.md#lang--string)
+  - Classes added to the global scope
+    - [TreeWalker](../dom/tree-walker/reference-index.md)
+    - [NodeFilter](../dom/node-filter/reference-index.md)
+  - Methods
+    - [Element.hasAttributes](../dom/element/has-attributes.md)
+    - [Element.getAttributeNames](../dom/element/get-attribute-names.md)
+    - [Event.composed](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/d3cf17a4cf92132513faf8f8ad6f143f518ac9d6/src/pages/uxp-api/reference-js/global-members/html-events/event.md)
+    - [Event.composedPath](../base-ui-event/composed-path.md)
+    - [DocumentFragment.append](../dom/document-fragment/append.md)
+    - [DocumentFragment.querySelector](../dom/document-fragment/query-selector.md)
+    - [DocumentFragment.querySelectorAll](../dom/document-fragment/query-selector-all.md)
+- React 16 support now includes new focus events
+  - [Focusin Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusin_event)
+  - [Focusout Event](https://developer.mozilla.org/en-US/docs/Web/API/Element/focusout_event)
+- Basic Shapes and Styling are included in HTML [2D Canvas Support](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/main/src/pages/uxp-api/reference-js/global-members/html-elements/html-canvas-element.md).
+- Alerts
+  - [alert()](../dom/window/alert.md)
+  - [prompt()](../dom/window/prompt.md)
+  - [confirm()](../dom/window/confirm.md)
+- [pipeThrough](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/main/src/pages/uxp-api/reference-js/global-members/streams/readable-stream.md#pipeThroughtransform,-options) and [tee](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/main/src/pages/uxp-api/reference-js/global-members/streams/readable-stream.md#tee) are supported on [ReadableStream](https://raw.githubusercontent.com/AdobeDocs/uxp-photoshop/main/src/pages/uxp-api/reference-js/global-members/streams/readable-stream.md). Additional details are in [Streams](../streams.md).
+- Use [ImageBlob](../image-blob/reference-index.md) for UXP uncompressed image-buffer rendering.

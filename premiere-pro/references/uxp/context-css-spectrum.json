@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Css references", "file": "references/uxp/css/reference-index.md", "summary": "Open when looking up Css in Premiere Pro.", "keywords": ["Css references"]},
+  {"topic": "CSS Styling", "file": "references/uxp/css-styling.md", "summary": "Open when looking up CSS Styling in Premiere Pro.", "keywords": ["CSS Styling"]},
+  {"topic": "CSS Styling references", "file": "references/uxp/css-styling/reference-index.md", "summary": "Open when looking up CSS Styling in Premiere Pro.", "keywords": ["CSS Styling references"]},
+  {"topic": "Mix and Match", "file": "references/uxp/mix-and-match.md", "summary": "Open when looking up Mix and Match in Premiere Pro.", "keywords": ["Mix and Match"]},
+  {"topic": "Reference Documentation", "file": "references/uxp/reference-documentation.md", "summary": "Open when looking up Reference Documentation in Premiere Pro.", "keywords": ["Reference Documentation"]},
+  {"topic": "Spectrum UXP Reference", "file": "references/uxp/spectrum-uxp-reference.md", "summary": "Open when looking up Spectrum UXP Reference in Premiere Pro.", "keywords": ["Spectrum UXP Reference"]},
+  {"topic": "Spectrum UXP Reference references", "file": "references/uxp/spectrum-uxp-reference/reference-index.md", "summary": "Open when looking up Spectrum UXP Reference in Premiere Pro.", "keywords": ["Spectrum UXP Reference references"]},
+  {"topic": "Spectrum UXP Widgets", "file": "references/uxp/spectrum-uxp-widgets.md", "summary": "Open when looking up Spectrum UXP Widgets in Premiere Pro.", "keywords": ["Spectrum UXP Widgets"]},
+  {"topic": "Spectrum UXP Widgets references", "file": "references/uxp/spectrum-uxp-widgets/reference-index.md", "summary": "Open when looking up Spectrum UXP Widgets in Premiere Pro.", "keywords": ["Spectrum UXP Widgets references"]},
+  {"topic": "Spectrum Web Component", "file": "references/uxp/spectrum-web-component.md", "summary": "Open when looking up Spectrum Web Component in Premiere Pro.", "keywords": ["Spectrum Web Component"]},
+  {"topic": "Spectrum Web Component references", "file": "references/uxp/spectrum-web-component/reference-index.md", "summary": "Open when looking up Spectrum Web Component in Premiere Pro.", "keywords": ["Spectrum Web Component references"]},
+  {"topic": "Typography", "file": "references/uxp/typography.md", "summary": "Open when looking up Typography in Premiere Pro.", "keywords": ["Typography"]},
+  {"topic": "Using with React", "file": "references/uxp/using-with-react.md", "summary": "Open when looking up Using with React in Premiere Pro.", "keywords": ["Using with React"]},
+  {"topic": "Using with React references", "file": "references/uxp/using-with-react/reference-index.md", "summary": "Open when looking up Using with React in Premiere Pro.", "keywords": ["Using with React references"]},
+  {"topic": "UXP Spectrum widgets to SWC mapping", "file": "references/uxp/uxp-spectrum-widgets-to-swc-mapping.md", "summary": "Open when looking up UXP Spectrum widgets to SWC mapping in Premiere Pro.", "keywords": ["UXP Spectrum widgets to SWC mapping"]},
+  {"topic": "Which Approach Should You Choose?", "file": "references/uxp/which-approach-should-you-choose.md", "summary": "Open when looking up Which Approach Should You Choose? in Premiere Pro.", "keywords": ["Which Approach Should You Choose?"]},
+  {"topic": "Which Approach Should You Choose? references", "file": "references/uxp/which-approach-should-you-choose/reference-index.md", "summary": "Open when looking up Which Approach Should You Choose? in Premiere Pro.", "keywords": ["Which Approach Should You Choose? references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

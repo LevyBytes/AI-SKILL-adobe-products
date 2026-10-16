@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Add a password to a PDF", "file": "references/desktop/protect-documents/protect-with-passwords/encrypt-pdfs-with-passwords/add-a-password-to-a-pdf.md", "summary": "Open when looking up Add a password to a PDF in Acrobat.", "keywords": ["Add a password to a PDF"]},
+  {"topic": "Restrict printing, editing, and copying", "file": "references/desktop/protect-documents/protect-with-passwords/encrypt-pdfs-with-passwords/restrict-printing-editing-and-copying.md", "summary": "Open when looking up Restrict printing, editing, and copying in Acrobat.", "keywords": ["Restrict printing, editing, and copying"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

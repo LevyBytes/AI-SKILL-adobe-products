@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "window.crypto", "file": "references/uxp/window/crypto.md", "summary": "Open when looking up window.crypto in Photoshop.", "keywords": ["window.crypto"]},
+  {"topic": "window.localStorage", "file": "references/uxp/window/local-storage.md", "summary": "Open when looking up window.localStorage in Photoshop.", "keywords": ["window.localStorage"]},
+  {"topic": "window.path", "file": "references/uxp/window/path.md", "summary": "Open when looking up window.path in Photoshop.", "keywords": ["window.path"]},
+  {"topic": "window.sessionStorage", "file": "references/uxp/window/session-storage.md", "summary": "Open when looking up window.sessionStorage in Photoshop.", "keywords": ["window.sessionStorage"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

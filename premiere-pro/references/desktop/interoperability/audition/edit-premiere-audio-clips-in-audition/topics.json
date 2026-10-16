@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Editing clips in Audition", "file": "references/desktop/interoperability/audition/edit-premiere-audio-clips-in-audition/editing-clips-in-audition.md", "summary": "Open when looking up Editing clips in Audition in Premiere Pro.", "keywords": ["Editing clips in Audition"]},
+  {"topic": "Working with Audition", "file": "references/desktop/interoperability/audition/edit-premiere-audio-clips-in-audition/working-with-audition.md", "summary": "Open when looking up Working with Audition in Premiere Pro.", "keywords": ["Working with Audition"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

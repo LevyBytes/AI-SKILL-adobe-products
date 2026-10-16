@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BAR_ARROW_HEAD", "file": "references/document-model/arrow-head/bararrowhead.md", "summary": "Open when looking up BAR_ARROW_HEAD in InDesign.", "keywords": ["BAR_ARROW_HEAD"]},
+  {"topic": "BARBED_ARROW_HEAD", "file": "references/document-model/arrow-head/barbedarrowhead.md", "summary": "Open when looking up BARBED_ARROW_HEAD in InDesign.", "keywords": ["BARBED_ARROW_HEAD"]},
+  {"topic": "CIRCLE_ARROW_HEAD", "file": "references/document-model/arrow-head/circlearrowhead.md", "summary": "Open when looking up CIRCLE_ARROW_HEAD in InDesign.", "keywords": ["CIRCLE_ARROW_HEAD"]},
+  {"topic": "CIRCLE_SOLID_ARROW_HEAD", "file": "references/document-model/arrow-head/circlesolidarrowhead.md", "summary": "Open when looking up CIRCLE_SOLID_ARROW_HEAD in InDesign.", "keywords": ["CIRCLE_SOLID_ARROW_HEAD"]},
+  {"topic": "CURVED_ARROW_HEAD", "file": "references/document-model/arrow-head/curvedarrowhead.md", "summary": "Open when looking up CURVED_ARROW_HEAD in InDesign.", "keywords": ["CURVED_ARROW_HEAD"]},
+  {"topic": "NONE", "file": "references/document-model/arrow-head/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "SIMPLE_ARROW_HEAD", "file": "references/document-model/arrow-head/simplearrowhead.md", "summary": "Open when looking up SIMPLE_ARROW_HEAD in InDesign.", "keywords": ["SIMPLE_ARROW_HEAD"]},
+  {"topic": "SIMPLE_WIDE_ARROW_HEAD", "file": "references/document-model/arrow-head/simplewidearrowhead.md", "summary": "Open when looking up SIMPLE_WIDE_ARROW_HEAD in InDesign.", "keywords": ["SIMPLE_WIDE_ARROW_HEAD"]},
+  {"topic": "SQUARE_ARROW_HEAD", "file": "references/document-model/arrow-head/squarearrowhead.md", "summary": "Open when looking up SQUARE_ARROW_HEAD in InDesign.", "keywords": ["SQUARE_ARROW_HEAD"]},
+  {"topic": "SQUARE_SOLID_ARROW_HEAD", "file": "references/document-model/arrow-head/squaresolidarrowhead.md", "summary": "Open when looking up SQUARE_SOLID_ARROW_HEAD in InDesign.", "keywords": ["SQUARE_SOLID_ARROW_HEAD"]},
+  {"topic": "TRIANGLE_ARROW_HEAD", "file": "references/document-model/arrow-head/trianglearrowhead.md", "summary": "Open when looking up TRIANGLE_ARROW_HEAD in InDesign.", "keywords": ["TRIANGLE_ARROW_HEAD"]},
+  {"topic": "TRIANGLE_WIDE_ARROW_HEAD", "file": "references/document-model/arrow-head/trianglewidearrowhead.md", "summary": "Open when looking up TRIANGLE_WIDE_ARROW_HEAD in InDesign.", "keywords": ["TRIANGLE_WIDE_ARROW_HEAD"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

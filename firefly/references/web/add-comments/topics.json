@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Add a comment", "file": "references/web/add-comments/add-a-comment.md", "summary": "Open when looking up Add a comment in Firefly.", "keywords": ["Add a comment"]},
+  {"topic": "Add comments to a mood board for collaboration or independent notes.", "file": "references/web/add-comments/mood-board-comments.md", "summary": "Open when looking up Add comments to a mood board for collaboration or independent notes. in Firefly.", "keywords": ["Add comments to a mood board for collaboration or independent notes."]},
+  {"topic": "Filter comments", "file": "references/web/add-comments/filter-comments.md", "summary": "Open when looking up Filter comments in Firefly.", "keywords": ["Filter comments"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

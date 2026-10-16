@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Compositing in after effects references", "file": "references/desktop/compositing/compositing-in-after-effects/reference-index.md", "summary": "Open when looking up Compositing in after effects in After Effects.", "keywords": ["Compositing in after effects references"]},
+  {"topic": "Work with alpha channels and masks references", "file": "references/desktop/compositing/alpha-and-mask-workflows/reference-index.md", "summary": "Open when looking up Work with alpha channels and masks in After Effects.", "keywords": ["Work with alpha channels and masks references"]},
+  {"topic": "Work with track mattes and traveling mattes references", "file": "references/desktop/compositing/track-matte-workflows/reference-index.md", "summary": "Open when looking up Work with track mattes and traveling mattes in After Effects.", "keywords": ["Work with track mattes and traveling mattes references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DEFAULT_VALUE", "file": "references/document-model/color-rendering-dictionary/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "USE_DOCUMENT", "file": "references/document-model/color-rendering-dictionary/usedocument.md", "summary": "Open when looking up USE_DOCUMENT in InDesign.", "keywords": ["USE_DOCUMENT"]},
+  {"topic": "WORKING", "file": "references/document-model/color-rendering-dictionary/working.md", "summary": "Open when looking up WORKING in InDesign.", "keywords": ["WORKING"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

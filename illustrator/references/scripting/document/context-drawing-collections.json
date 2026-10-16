@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Document.compoundPathItems", "file": "references/scripting/document/compound-path-items.md", "summary": "Open when looking up Document.compoundPathItems in Illustrator.", "keywords": ["Document.compoundPathItems"]},
+  {"topic": "Document.graphItems", "file": "references/scripting/document/graph-items.md", "summary": "Open when looking up Document.graphItems in Illustrator.", "keywords": ["Document.graphItems"]},
+  {"topic": "Document.groupItems", "file": "references/scripting/document/group-items.md", "summary": "Open when looking up Document.groupItems in Illustrator.", "keywords": ["Document.groupItems"]},
+  {"topic": "Document.layers", "file": "references/scripting/document/layers.md", "summary": "Open when looking up Document.layers in Illustrator.", "keywords": ["Document.layers"]},
+  {"topic": "Document.meshItems", "file": "references/scripting/document/mesh-items.md", "summary": "Open when looking up Document.meshItems in Illustrator.", "keywords": ["Document.meshItems"]},
+  {"topic": "Document.nonNativeItems", "file": "references/scripting/document/non-native-items.md", "summary": "Open when looking up Document.nonNativeItems in Illustrator.", "keywords": ["Document.nonNativeItems"]},
+  {"topic": "Document.pageItems", "file": "references/scripting/document/page-items.md", "summary": "Open when looking up Document.pageItems in Illustrator.", "keywords": ["Document.pageItems"]},
+  {"topic": "Document.pathItems", "file": "references/scripting/document/path-items.md", "summary": "Open when looking up Document.pathItems in Illustrator.", "keywords": ["Document.pathItems"]},
+  {"topic": "Document.pluginItems", "file": "references/scripting/document/plugin-items.md", "summary": "Open when looking up Document.pluginItems in Illustrator.", "keywords": ["Document.pluginItems"]},
+  {"topic": "Document.getPageItemFromUuid()", "file": "references/scripting/document/get-page-item-from-uuid.md", "summary": "Open when looking up Document.getPageItemFromUuid() in Illustrator.", "keywords": ["Document.getPageItemFromUuid()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

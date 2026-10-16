@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "fixedDimensions", "file": "references/document-model/html-item/fixed-dimensions.md", "summary": "Open when looking up fixedDimensions in InDesign.", "keywords": ["fixedDimensions"]},
+  {"topic": "htmlContent", "file": "references/document-model/html-item/html-content.md", "summary": "Open when looking up htmlContent in InDesign.", "keywords": ["htmlContent"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

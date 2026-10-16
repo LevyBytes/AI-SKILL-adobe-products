@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Dynamic html to pdf example setup", "file": "references/pdf-services/examples/node/dynamic-html-to-pdf/dynamic-html-to-pdf-setup.md", "summary": "Open when looking up Dynamic html to pdf example setup in Acrobat.", "keywords": ["Dynamic html to pdf example setup"]},
+  {"topic": "Node.js dynamic html to pdf: SDK and runtime imports", "file": "references/pdf-services/examples/node/dynamic-html-to-pdf/dependencies.cjs", "summary": "Open when checking SDK and runtime imports for the Node.js dynamic html to pdf example.", "keywords": ["dynamic-html-to-pdf"]},
+  {"topic": "Node.js dynamic html to pdf: HTML layout, merge data and output path helpers", "file": "references/pdf-services/examples/node/dynamic-html-to-pdf/helpers.cjs", "summary": "Open when checking HTML layout, merge data and output path helpers for the Node.js dynamic html to pdf example.", "keywords": ["dynamic-html-to-pdf"]},
+  {"topic": "Node.js dynamic html to pdf: job submission and result handling", "file": "references/pdf-services/examples/node/dynamic-html-to-pdf/dynamic-html-to-pdf.cjs", "summary": "Open when checking job submission and result handling for the Node.js dynamic html to pdf example.", "keywords": ["dynamic-html-to-pdf"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

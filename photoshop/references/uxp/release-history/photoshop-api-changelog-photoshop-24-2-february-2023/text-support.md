@@ -1,0 +1,71 @@
+# Text support
+
+UXP DOM now includes a broader set of text APIs for developers, with a more consistent surface. Rather than matching ExtendScript one-for-one, UXP DOM uses a more modern and direct design while still carrying forward the older capabilities and adding coverage for features that were not available before.
+
+- [Document.createTextLayer](../../document/create-text-layer.md) was added so developers can create a text layer inside a document. It takes a [TextLayerCreateOptions](../../text-layer-create-options.md) object for initial text, styling, and related settings.
+- For Text Layer text operations, `textItem` is the main entry point. It exposes these properties and methods directly:
+  - contents
+  - isParagraphText
+  - isPointText
+  - orientation
+  - textClickPoint
+  - convertToParagraphText()
+  - convertToPointText()
+  - convertToShape()
+  - createWorkPath()
+- Character palette capabilities in Photoshop are collected under `textItem.characterStyle`:
+  - alternateLigatures
+  - antiAliasMethod
+  - autoKerning
+  - baseline
+  - baselineShift
+  - capitalization
+  - characterAlignment
+  - color
+  - fauxBold
+  - fauxItalic
+  - font
+  - fractionalWidths
+  - fractions
+  - horizontalScale
+  - kashidas
+  - horizontalDiacriticPosition
+  - verticalDiacriticPosition
+  - language
+  - leading
+  - ligatures
+  - middleEasternDigitsType
+  - middleEasternTextDirection
+  - noBreak
+  - ordinals
+  - size
+  - strikeThrough
+  - stylisticAlternates
+  - swash
+  - titlingAlternates
+  - tracking
+  - useAutoLeading
+  - verticalScale
+  - reset()
+- Paragraph palette capabilities in Photoshop are collected under `textItem.paragraphStyle`:
+  - firstLineIndent
+  - hyphenation
+  - hyphenationFeatures
+  - justification
+  - justificationFeatures
+  - layoutMode
+  - kashidaWidth
+  - kinsoku
+  - mojikumi
+  - leftIndent
+  - rightIndent
+  - spaceAfter
+  - spaceBefore
+  - reset()
+- Warp text dialog capabilities in Photoshop are collected under `textItem.warpStyle`:
+  - style
+  - direction
+  - bend
+  - horizontalDistortion
+  - verticalDistortion
+  - reset()

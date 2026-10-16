@@ -1,0 +1,7 @@
+# color
+
+
+**Methods:**
+
+- convert
+- equal

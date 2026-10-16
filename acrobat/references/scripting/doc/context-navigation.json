@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "alternatePresentations", "file": "references/scripting/doc/alternate-presentations.md", "summary": "Open when looking up alternatePresentations in Acrobat.", "keywords": ["alternatePresentations"]},
+  {"topic": "bookmarkRoot", "file": "references/scripting/doc/bookmark-root.md", "summary": "Open when looking up bookmarkRoot in Acrobat.", "keywords": ["bookmarkRoot"]},
+  {"topic": "bringToFront", "file": "references/scripting/doc/bring-to-front.md", "summary": "Open when looking up bringToFront in Acrobat.", "keywords": ["bringToFront"]},
+  {"topic": "gotoNamedDest", "file": "references/scripting/doc/goto-named-dest.md", "summary": "Open when looking up gotoNamedDest in Acrobat.", "keywords": ["gotoNamedDest"]},
+  {"topic": "hidden", "file": "references/scripting/doc/hidden.md", "summary": "Open when looking up hidden in Acrobat.", "keywords": ["hidden"]},
+  {"topic": "hostContainer", "file": "references/scripting/doc/host-container.md", "summary": "Open when looking up hostContainer in Acrobat.", "keywords": ["hostContainer"]},
+  {"topic": "innerAppWindowRect", "file": "references/scripting/doc/inner-app-window-rect.md", "summary": "Open when looking up innerAppWindowRect in Acrobat.", "keywords": ["innerAppWindowRect"]},
+  {"topic": "innerDocWindowRect", "file": "references/scripting/doc/inner-doc-window-rect.md", "summary": "Open when looking up innerDocWindowRect in Acrobat.", "keywords": ["innerDocWindowRect"]},
+  {"topic": "isModal", "file": "references/scripting/doc/is-modal.md", "summary": "Open when looking up isModal in Acrobat.", "keywords": ["isModal"]},
+  {"topic": "layout", "file": "references/scripting/doc/layout.md", "summary": "Open when looking up layout in Acrobat.", "keywords": ["layout"]},
+  {"topic": "mouseX", "file": "references/scripting/doc/mouse-x.md", "summary": "Open when looking up mouseX in Acrobat.", "keywords": ["mouseX"]},
+  {"topic": "mouseY", "file": "references/scripting/doc/mouse-y.md", "summary": "Open when looking up mouseY in Acrobat.", "keywords": ["mouseY"]},
+  {"topic": "outerAppWindowRect", "file": "references/scripting/doc/outer-app-window-rect.md", "summary": "Open when looking up outerAppWindowRect in Acrobat.", "keywords": ["outerAppWindowRect"]},
+  {"topic": "outerDocWindowRect", "file": "references/scripting/doc/outer-doc-window-rect.md", "summary": "Open when looking up outerDocWindowRect in Acrobat.", "keywords": ["outerDocWindowRect"]},
+  {"topic": "pageNum", "file": "references/scripting/doc/page-num.md", "summary": "Open when looking up pageNum in Acrobat.", "keywords": ["pageNum"]},
+  {"topic": "pageWindowRect", "file": "references/scripting/doc/page-window-rect.md", "summary": "Open when looking up pageWindowRect in Acrobat.", "keywords": ["pageWindowRect"]},
+  {"topic": "scroll", "file": "references/scripting/doc/scroll.md", "summary": "Open when looking up scroll in Acrobat.", "keywords": ["scroll"]},
+  {"topic": "viewState", "file": "references/scripting/doc/view-state.md", "summary": "Open when looking up viewState in Acrobat.", "keywords": ["viewState"]},
+  {"topic": "zoom", "file": "references/scripting/doc/zoom.md", "summary": "Open when looking up zoom in Acrobat.", "keywords": ["zoom"]},
+  {"topic": "zoomType", "file": "references/scripting/doc/zoom-type.md", "summary": "Open when looking up zoomType in Acrobat.", "keywords": ["zoomType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

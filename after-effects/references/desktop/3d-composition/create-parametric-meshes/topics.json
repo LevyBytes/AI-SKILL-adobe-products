@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Cone", "file": "references/desktop/3d-composition/create-parametric-meshes/cone.md", "summary": "Open when looking up Cone in After Effects.", "keywords": ["Cone"]},
+  {"topic": "Create a Parametric Mesh", "file": "references/desktop/3d-composition/create-parametric-meshes/create-a-parametric-mesh.md", "summary": "Open when looking up Create a Parametric Mesh in After Effects.", "keywords": ["Create a Parametric Mesh"]},
+  {"topic": "Create parametric meshes", "file": "references/desktop/3d-composition/create-parametric-meshes/create-parametric-meshes.md", "summary": "Open when looking up Create parametric meshes in After Effects.", "keywords": ["Create parametric meshes"]},
+  {"topic": "Cube", "file": "references/desktop/3d-composition/create-parametric-meshes/cube.md", "summary": "Open when looking up Cube in After Effects.", "keywords": ["Cube"]},
+  {"topic": "Cylinder", "file": "references/desktop/3d-composition/create-parametric-meshes/cylinder.md", "summary": "Open when looking up Cylinder in After Effects.", "keywords": ["Cylinder"]},
+  {"topic": "Plane", "file": "references/desktop/3d-composition/create-parametric-meshes/plane.md", "summary": "Open when looking up Plane in After Effects.", "keywords": ["Plane"]},
+  {"topic": "Sphere", "file": "references/desktop/3d-composition/create-parametric-meshes/sphere.md", "summary": "Open when looking up Sphere in After Effects.", "keywords": ["Sphere"]},
+  {"topic": "Torus", "file": "references/desktop/3d-composition/create-parametric-meshes/torus.md", "summary": "Open when looking up Torus in After Effects.", "keywords": ["Torus"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

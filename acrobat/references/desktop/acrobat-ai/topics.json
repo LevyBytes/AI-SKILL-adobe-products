@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Edit PDFs with chat", "file": "references/desktop/acrobat-ai/edit-pdfs-with-chat.md", "summary": "Open when looking up Edit PDFs with chat in Acrobat.", "keywords": ["Edit PDFs with chat"]},
+  {"topic": "Edit PDFs with chat references", "file": "references/desktop/acrobat-ai/edit-pdfs-with-chat/reference-index.md", "summary": "Open when looking up Edit PDFs with chat in Acrobat.", "keywords": ["Edit PDFs with chat references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

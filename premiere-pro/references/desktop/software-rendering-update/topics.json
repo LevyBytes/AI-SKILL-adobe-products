@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Software rendering options have been removed.", "file": "references/desktop/software-rendering-update/software-rendering-options-have-been-removed.md", "summary": "Open when looking up Software rendering options have been removed. in Premiere Pro.", "keywords": ["Software rendering options have been removed."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

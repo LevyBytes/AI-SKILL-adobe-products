@@ -1,0 +1,21 @@
+# Premiere Pro — Grading Clips Using Style
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adding a Style in Premiere Pro. [Adding a Style](adding-a-style.md).
+- Open when looking up Collapsing and expanding Modules in Premiere Pro. [Collapsing and expanding Modules](collapsing-and-expanding-modules.md).
+- Open when looking up Copy and pasting all Style Modules in Premiere Pro. [Copy and pasting all Style Modules](copy-and-pasting-all-style-modules.md).
+- Open when looking up Creating new styles with Style Modules in Premiere Pro. [Creating new styles with Style Modules](creating-new-styles-with-style-modules.md).
+- Open when looking up Delete all Style Modules in Premiere Pro. [Delete all Style Modules](delete-all-style-modules.md).
+- Open when looking up Editing Modules in Premiere Pro. [Editing Modules](editing-modules.md).
+- Open when looking up Editing Style Controls in Premiere Pro. [Editing Style Controls](editing-style-controls.md).
+- Open when looking up Managing Style Presets in Premiere Pro. [Managing Style Presets](managing-style-presets.md).
+- Open when looking up On macOS in Premiere Pro. [On macOS](on-mac-os.md).
+- Open when looking up On Windows in Premiere Pro. [On Windows](on-windows.md).
+- Open when looking up Pinning Controls in Premiere Pro. [Pinning Controls](pinning-controls.md).
+- Open when looking up Previewing and adding Presets or Modules in Premiere Pro. [Previewing and adding Presets or Modules](previewing-and-adding-presets-or-modules.md).
+- Open when looking up Re-opening the Style Browser in Premiere Pro. [Re-opening the Style Browser](re-opening-the-style-browser.md).
+- Open when looking up Saving Style Presets in Premiere Pro. [Saving Style Presets](saving-style-presets.md).
+- Open when looking up Swapping existing styles in Premiere Pro. [Swapping existing styles](swapping-existing-styles.md).
+- Open when looking up Using Style Presets in Premiere Pro. [Using Style Presets](using-style-presets.md).
+- Open when looking up Using the Style Browser in Premiere Pro. [Using the Style Browser](using-the-style-browser.md).
+- Open when looking up What are Style Operations? in Premiere Pro. [What are Style Operations?](what-are-style-operations.md).

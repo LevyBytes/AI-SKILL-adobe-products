@@ -1,0 +1,8 @@
+# Application
+
+| Term                      | What it represents                                                                                                                                                                                                                           |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Application _defaults_    | Default application settings, including colors, paragraph styles, and object styles. These defaults affect documents created afterward.                                                                                                      |
+| Application _methods_     | JavaScript(Objects also haveExtend Script) Actions the application can perform, including finding and changing text, copying the selection, creating documents, and opening libraries.                                                       |
+| Application _preferences_ | Settings such as text preferences, PDF export preferences, and document preferences. Many preference objects also exist for documents. Application preferences apply to new documents, while document preferences alter a specific document. |
+| Application _properties_  | Application-level properties, such as the full application path, application locale, and user name.                                                                                                                                          |

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Getting Started with the VS Code Debugger — Running the debugger", "file": "references/scripting/running-the-debugger/running-the-debugger.md", "summary": "Open when looking up Getting Started with the VS Code Debugger — Running the debugger in Shared Adobe platform.", "keywords": ["Getting Started with the VS Code Debugger — Running the debugger"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

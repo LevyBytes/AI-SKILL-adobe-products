@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "After Effects 26.0 (January 2026)", "file": "references/scripting/after-effects-26/after-effects-26-0-january-2026.md", "summary": "Open when looking up After Effects 26.0 (January 2026) in After Effects.", "keywords": ["After Effects 26.0 (January 2026)"]},
+  {"topic": "After Effects 26.3 Beta Build 58 (April 2026)", "file": "references/scripting/after-effects-26/after-effects-26-3-beta-build-58-april-2026.md", "summary": "Open when looking up After Effects 26.3 Beta Build 58 (April 2026) in After Effects.", "keywords": ["After Effects 26.3 Beta Build 58 (April 2026)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

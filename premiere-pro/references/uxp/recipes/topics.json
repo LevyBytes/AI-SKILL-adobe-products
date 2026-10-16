@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "General UXP recipes", "file": "references/uxp/recipes/general-uxp-recipes.md", "summary": "Open when looking up General UXP recipes in Premiere Pro.", "keywords": ["General UXP recipes"]},
+  {"topic": "Language Basics", "file": "references/uxp/recipes/language-basics.md", "summary": "Open when looking up Language Basics in Premiere Pro.", "keywords": ["Language Basics"]},
+  {"topic": "Other resources", "file": "references/uxp/recipes/other-resources.md", "summary": "Open when looking up Other resources in Premiere Pro.", "keywords": ["Other resources"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

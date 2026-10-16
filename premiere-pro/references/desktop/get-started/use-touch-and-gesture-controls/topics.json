@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Learn how touch and gesture actions work with buttons", "file": "references/desktop/get-started/use-touch-and-gesture-controls/learn-how-touch-and-gesture-actions-work-with-buttons.md", "summary": "Open when looking up Learn how touch and gesture actions work with buttons in Premiere Pro.", "keywords": ["Learn how touch and gesture actions work with buttons"]},
+  {"topic": "Use thumbnail controls in the Project panel", "file": "references/desktop/get-started/use-touch-and-gesture-controls/use-thumbnail-controls-in-the-project-panel.md", "summary": "Open when looking up Use thumbnail controls in the Project panel in Premiere Pro.", "keywords": ["Use thumbnail controls in the Project panel"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

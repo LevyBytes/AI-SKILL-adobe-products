@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Platform-specific variations", "file": "references/desktop/get-started/settings-and-preferences/keyboard-shortcuts/platform-specific-variations.md", "summary": "Open when looking up Platform-specific variations in InDesign.", "keywords": ["Platform-specific variations"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

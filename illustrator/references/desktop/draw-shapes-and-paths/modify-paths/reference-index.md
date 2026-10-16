@@ -1,0 +1,22 @@
+# Illustrator — Modify paths
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add or remove anchor points in Illustrator. [Add or remove anchor points](add-or-remove-anchor-points.md).
+- Open when looking up Add or remove anchor points in Illustrator. [Add or remove anchor points references](add-or-remove-anchor-points/reference-index.md).
+- Open when looking up Adjust path smoothness in Illustrator. [Adjust path smoothness](adjust-path-smoothness.md).
+- Open when looking up Auto simplify paths in Illustrator. [Auto simplify paths](auto-simplify-paths.md).
+- Open when looking up Average the position of the anchor points in Illustrator. [Average the position of the anchor points](average-the-position-of-the-anchor-points.md).
+- Open when looking up Convert anchor points on a path in Illustrator. [Convert anchor points on a path](convert-anchor-points-on-a-path.md).
+- Open when looking up Cut paths in Illustrator. [Cut paths](cut-paths.md).
+- Open when looking up Erase parts of a path in Illustrator. [Erase parts of a path](erase-parts-of-a-path.md).
+- Open when looking up Erase parts of a path in Illustrator. [Erase parts of a path references](erase-parts-of-a-path/reference-index.md).
+- Open when looking up Erase paths using the Eraser tool in Illustrator. [Erase paths using the Eraser tool](erase-paths-using-the-eraser-tool.md).
+- Open when looking up Find and delete stray anchor points in Illustrator. [Find and delete stray anchor points](find-and-delete-stray-anchor-points.md).
+- Open when looking up Refine path segments with the Smooth slider in Illustrator. [Refine path segments with the Smooth slider](refine-path-segments-with-the-smooth-slider.md).
+- Open when looking up Refine paths in Illustrator using Anchor Point and Smooth tools in Illustrator. [Refine paths in Illustrator using Anchor Point and Smooth tools](anchor-point-and-smooth-tools.md).
+- Open when looking up Refine paths in Illustrator using Anchor Point and Smooth tools in Illustrator. [Refine paths in Illustrator using Anchor Point and Smooth tools references](anchor-and-smooth-tools/reference-index.md).
+- Open when looking up Select anchor points to modify paths in Illustrator. [Select anchor points to modify paths](select-anchor-points-to-modify-paths.md).
+- Open when looking up Simplify path benefits in Illustrator. [Simplify path benefits](simplify-path-benefits.md).
+- Open when looking up Simplify paths advanced options overview in Illustrator. [Simplify paths advanced options overview](simplify-paths-advanced-options-overview.md).
+- Open when looking up Turn off automatic addition or deletion of anchor points in Illustrator. [Turn off automatic addition or deletion of anchor points](turn-off-automatic-addition-or-deletion-of-anchor-points.md).
+- Open when looking up Turn off automatic addition or deletion of anchor points in Illustrator. [Turn off automatic addition or deletion of anchor points references](turn-off-automatic-addition-or-deletion-of-anchor-points/reference-index.md).

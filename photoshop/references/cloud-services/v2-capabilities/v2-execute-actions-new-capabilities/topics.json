@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "New actions", "file": "references/cloud-services/v2-capabilities/v2-execute-actions-new-capabilities/new-actions.md", "summary": "Open when looking up New actions in Photoshop.", "keywords": ["New actions"]},
+  {"topic": "Published and customizable action files", "file": "references/cloud-services/v2-capabilities/v2-execute-actions-new-capabilities/published-and-customizable-action-files.md", "summary": "Open when looking up Published and customizable action files in Photoshop.", "keywords": ["Published and customizable action files"]},
+  {"topic": "UXP adhoc file output", "file": "references/cloud-services/v2-capabilities/v2-execute-actions-new-capabilities/uxp-adhoc-file-output.md", "summary": "Open when looking up UXP adhoc file output in Photoshop.", "keywords": ["UXP adhoc file output"]},
+  {"topic": "UXP script execution", "file": "references/cloud-services/v2-capabilities/v2-execute-actions-new-capabilities/uxp-script-execution.md", "summary": "Open when looking up UXP script execution in Photoshop.", "keywords": ["UXP script execution"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

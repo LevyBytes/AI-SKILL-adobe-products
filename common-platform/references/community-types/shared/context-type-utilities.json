@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Partial", "file": "references/community-types/shared/partial.md", "summary": "Open when looking up Partial in Shared Adobe platform.", "keywords": ["Partial"]},
+  {"topic": "Pick", "file": "references/community-types/shared/pick.md", "summary": "Open when looking up Pick in Shared Adobe platform.", "keywords": ["Pick"]},
+  {"topic": "Readonly", "file": "references/community-types/shared/readonly.md", "summary": "Open when looking up Readonly in Shared Adobe platform.", "keywords": ["Readonly"]},
+  {"topic": "Record", "file": "references/community-types/shared/record.md", "summary": "Open when looking up Record in Shared Adobe platform.", "keywords": ["Record"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

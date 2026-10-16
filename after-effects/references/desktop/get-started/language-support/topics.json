@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Improved UI language support", "file": "references/desktop/get-started/language-support/improved-ui-language-support.md", "summary": "Open when looking up Improved UI language support in After Effects.", "keywords": ["Improved UI language support"]},
+  {"topic": "Improved UI language support references", "file": "references/desktop/get-started/language-support/improved-ui-language-support/reference-index.md", "summary": "Open when looking up Improved UI language support in After Effects.", "keywords": ["Improved UI language support references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

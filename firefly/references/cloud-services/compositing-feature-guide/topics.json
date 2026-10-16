@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Adaptive Composite", "file": "references/cloud-services/compositing-feature-guide/adaptive-composite.md", "summary": "Open when looking up Adaptive Composite in Firefly.", "keywords": ["Adaptive Composite"]},
+  {"topic": "Background preservation", "file": "references/cloud-services/compositing-feature-guide/background-preservation.md", "summary": "Open when looking up Background preservation in Firefly.", "keywords": ["Background preservation"]},
+  {"topic": "Canceling a job", "file": "references/cloud-services/compositing-feature-guide/canceling-a-job.md", "summary": "Open when looking up Canceling a job in Firefly.", "keywords": ["Canceling a job"]},
+  {"topic": "Generate Object Composite", "file": "references/cloud-services/compositing-feature-guide/generate-object-composite.md", "summary": "Open when looking up Generate Object Composite in Firefly.", "keywords": ["Generate Object Composite"]},
+  {"topic": "Precise Composite", "file": "references/cloud-services/compositing-feature-guide/precise-composite.md", "summary": "Open when looking up Precise Composite in Firefly.", "keywords": ["Precise Composite"]},
+  {"topic": "Which API should I use?", "file": "references/cloud-services/compositing-feature-guide/which-api-should-i-use.md", "summary": "Open when looking up Which API should I use? in Firefly.", "keywords": ["Which API should I use?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,25 @@
+# After Effects — Workspaces, panels, and viewers
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Choose a workspace in After Effects. [Choose a workspace](choose-a-workspace.md).
+- Open when looking up Customize panel background colors in After Effects. [Customize panel background colors](customize-panel-background-colors.md).
+- Open when looking up Customizing workspaces in After Effects. [Customizing workspaces](customizing-workspaces.md).
+- Open when looking up Delete a workspace in After Effects. [Delete a workspace](delete-a-workspace.md).
+- Open when looking up Dock or group panels in After Effects. [Dock or group panels](dock-or-group-panels.md).
+- Open when looking up Dock, group, or float panels in After Effects. [Dock, group, or float panels](dock-group-or-float-panels.md).
+- Open when looking up Docking zones in After Effects. [Docking zones](docking-zones.md).
+- Open when looking up Edit this, look at that (ETLAT) and locked Composition viewers in After Effects. [Edit this, look at that (ETLAT) and locked Composition viewers](edit-this-look-at-that-etlat-and-locked-composition-viewers.md).
+- Open when looking up Grouping zones in After Effects. [Grouping zones](grouping-zones.md).
+- Open when looking up Learn panel in After Effects. [Learn panel](learn-panel.md).
+- Open when looking up Learn workspace in After Effects. [Learn workspace](learn-workspace.md).
+- Open when looking up Maintain your workspace when opening projects in After Effects. [Maintain your workspace when opening projects](maintain-your-workspace-when-opening-projects.md).
+- Open when looking up Maximize or restore panel groups in After Effects. [Maximize or restore panel groups](maximize-or-restore-panel-groups.md).
+- Open when looking up Navigate and use the Home screen in After Effects. [Navigate and use the Home screen](navigate-and-use-the-home-screen.md).
+- Open when looking up Open, close, and show panels and windows in After Effects. [Open, close, and show panels and windows](open-close-and-show-panels-and-windows.md).
+- Open when looking up Reset a workspace in After Effects. [Reset a workspace](reset-a-workspace.md).
+- Open when looking up Resize panel groups in After Effects. [Resize panel groups](resize-panel-groups.md).
+- Open when looking up Save a custom workspace in After Effects. [Save a custom workspace](save-a-custom-workspace.md).
+- Open when looking up Stacked panel layout in After Effects. [Stacked panel layout](stacked-panel-layout.md).
+- Open when looking up Undock a panel in a floating window in After Effects. [Undock a panel in a floating window](undock-a-panel-in-a-floating-window.md).
+- Open when looking up Viewers in After Effects. [Viewers](viewers.md).
+- Open when looking up Workspaces and panels in After Effects. [Workspaces and panels](workspaces-and-panels.md).

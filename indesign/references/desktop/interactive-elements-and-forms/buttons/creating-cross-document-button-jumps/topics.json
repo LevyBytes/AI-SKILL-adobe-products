@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create the button with the Go To Destination action", "file": "references/desktop/interactive-elements-and-forms/buttons/creating-cross-document-button-jumps/create-the-button-with-the-go-to-destination-action.md", "summary": "Open when looking up Create the button with the Go To Destination action in InDesign.", "keywords": ["Create the button with the Go To Destination action"]},
+  {"topic": "Create the text anchor destination", "file": "references/desktop/interactive-elements-and-forms/buttons/creating-cross-document-button-jumps/create-the-text-anchor-destination.md", "summary": "Open when looking up Create the text anchor destination in InDesign.", "keywords": ["Create the text anchor destination"]},
+  {"topic": "Export both documents to an interactive PDF", "file": "references/desktop/interactive-elements-and-forms/buttons/creating-cross-document-button-jumps/export-both-documents-to-an-interactive-pdf.md", "summary": "Open when looking up Export both documents to an interactive PDF in InDesign.", "keywords": ["Export both documents to an interactive PDF"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "RUBY_PARENT_121_AKI", "file": "references/document-model/ruby-parent-spacing/rubyparent121-aki.md", "summary": "Open when looking up RUBY_PARENT_121_AKI in InDesign.", "keywords": ["RUBY_PARENT_121_AKI"]},
+  {"topic": "RUBY_PARENT_BOTH_SIDES", "file": "references/document-model/ruby-parent-spacing/rubyparentbothsides.md", "summary": "Open when looking up RUBY_PARENT_BOTH_SIDES in InDesign.", "keywords": ["RUBY_PARENT_BOTH_SIDES"]},
+  {"topic": "RUBY_PARENT_EQUAL_AKI", "file": "references/document-model/ruby-parent-spacing/rubyparentequalaki.md", "summary": "Open when looking up RUBY_PARENT_EQUAL_AKI in InDesign.", "keywords": ["RUBY_PARENT_EQUAL_AKI"]},
+  {"topic": "RUBY_PARENT_FULL_JUSTIFY", "file": "references/document-model/ruby-parent-spacing/rubyparentfulljustify.md", "summary": "Open when looking up RUBY_PARENT_FULL_JUSTIFY in InDesign.", "keywords": ["RUBY_PARENT_FULL_JUSTIFY"]},
+  {"topic": "RUBY_PARENT_NO_ADJUSTMENT", "file": "references/document-model/ruby-parent-spacing/rubyparentnoadjustment.md", "summary": "Open when looking up RUBY_PARENT_NO_ADJUSTMENT in InDesign.", "keywords": ["RUBY_PARENT_NO_ADJUSTMENT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

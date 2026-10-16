@@ -1,0 +1,47 @@
+# Premiere Pro — Supporting definitions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up allow in Premiere Pro. [allow](allow.md).
+- Open when looking up allowCodeGenerationFromStrings in Premiere Pro. [allowCodeGenerationFromStrings](allow-code-generation-from-strings.md).
+- Open when looking up app in Premiere Pro. [app](app.md).
+- Open when looking up clipboard in Premiere Pro. [clipboard](clipboard.md).
+- Open when looking up domains in Premiere Pro. [domains](domains.md).
+- Open when looking up enableAddon in Premiere Pro. [enableAddon](enable-addon.md).
+- Open when looking up enableAlerts in Premiere Pro. [enableAlerts](enable-alerts.md).
+- Open when looking up enableFillAsCustomAttribute in Premiere Pro. [enableFillAsCustomAttribute](enable-fill-as-custom-attribute.md).
+- Open when looking up enableMessageBridge in Premiere Pro. [enableMessageBridge](enable-message-bridge.md).
+- Open when looking up enablePluginCommunication in Premiere Pro. [enablePluginCommunication](enable-plugin-communication.md).
+- Open when looking up enableSWCSupport in Premiere Pro. [enableSWCSupport](enable-swc-support.md).
+- Open when looking up EntrypointDefinition in Premiere Pro. [EntrypointDefinition](entrypoint-definition.md).
+- Open when looking up extensions in Premiere Pro. [extensions](extensions.md).
+- Open when looking up FeatureFlags in Premiere Pro. [FeatureFlags](feature-flags.md).
+- Open when looking up height in Premiere Pro. [height](height.md).
+- Open when looking up HostDefinition in Premiere Pro. [HostDefinition](host-definition.md).
+- Open when looking up icon in Premiere Pro. [icon](icon.md).
+- Open when looking up IconDefinition in Premiere Pro. [IconDefinition](icon-definition.md).
+- Open when looking up id in Premiere Pro. [id](id.md).
+- Open when looking up ipc in Premiere Pro. [ipc](ipc.md).
+- Open when looking up IpcPermission in Premiere Pro. [IpcPermission](ipc-permission.md).
+- Open when looking up label in Premiere Pro. [label](label.md).
+- Open when looking up launchProcess in Premiere Pro. [launchProcess](launch-process.md).
+- Open when looking up LaunchProcessPermission in Premiere Pro. [LaunchProcessPermission](launch-process-permission.md).
+- Open when looking up localFileSystem in Premiere Pro. [localFileSystem](local-file-system.md).
+- Open when looking up LocalizedString in Premiere Pro. [LocalizedString](localized-string.md).
+- Open when looking up maxVersion in Premiere Pro. [maxVersion](max-version.md).
+- Open when looking up minimumSize and maximumSize in Premiere Pro. [minimumSize and maximumSize](minimum-size-and-maximum-size.md).
+- Open when looking up minVersion in Premiere Pro. [minVersion](min-version.md).
+- Open when looking up network in Premiere Pro. [network](network.md).
+- Open when looking up NetworkPermission in Premiere Pro. [NetworkPermission](network-permission.md).
+- Open when looking up path in Premiere Pro. [path](path.md).
+- Open when looking up PermissionsDefinition in Premiere Pro. [PermissionsDefinition](permissions-definition.md).
+- Open when looking up preferredDockedSize and preferredFloatingSize in Premiere Pro. [preferredDockedSize and preferredFloatingSize](preferred-docked-size-and-preferred-floating-size.md).
+- Open when looking up Required Properties in Premiere Pro. [Required Properties](required-properties.md).
+- Open when looking up scale in Premiere Pro. [scale](scale.md).
+- Open when looking up schemes in Premiere Pro. [schemes](schemes.md).
+- Open when looking up shortcut in Premiere Pro. [shortcut](shortcut.md).
+- Open when looking up species in Premiere Pro. [species](species.md).
+- Open when looking up StringsDefinition in Premiere Pro. [StringsDefinition](strings-definition.md).
+- Open when looking up theme in Premiere Pro. [theme](theme.md).
+- Open when looking up webview in Premiere Pro. [webview](webview.md).
+- Open when looking up WebviewPermission in Premiere Pro. [WebviewPermission](webview-permission.md).
+- Open when looking up width in Premiere Pro. [width](width.md).

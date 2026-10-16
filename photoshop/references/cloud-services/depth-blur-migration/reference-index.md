@@ -1,0 +1,21 @@
+# Photoshop — Depth Blur Migration
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ActionJSON definition in Photoshop. [ActionJSON definition](action-json-definition.md).
+- Open when looking up Additional resources in Photoshop. [Additional resources](additional-resources.md).
+- Open when looking up Basic migration in Photoshop. [Basic migration](basic-migration.md).
+- Open when looking up Blur intensity in Photoshop. [Blur intensity](blur-intensity.md).
+- Open when looking up Cinematic look with warm tint in Photoshop. [Cinematic look with warm tint](cinematic-look-with-warm-tint.md).
+- Open when looking up Color and atmosphere in Photoshop. [Color and atmosphere](color-and-atmosphere.md).
+- Open when looking up Customizable parameters in Photoshop. [Customizable parameters](customizable-parameters.md).
+- Open when looking up Focus control in Photoshop. [Focus control](focus-control.md).
+- Open when looking up Landscape/tilt-shift in Photoshop. [Landscape/tilt-shift](landscape-tilt-shift.md).
+- Open when looking up Migration checklist in Photoshop. [Migration checklist](migration-checklist.md).
+- Open when looking up Portrait mode effect in Photoshop. [Portrait mode effect](portrait-mode-effect.md).
+- Open when looking up Portrait photography in Photoshop. [Portrait photography](portrait-photography.md).
+- Open when looking up Product photography in Photoshop. [Product photography](product-photography.md).
+- Open when looking up Strong blur effect in Photoshop. [Strong blur effect](strong-blur-effect.md).
+- Open when looking up Using default settings in Photoshop. [Using default settings](using-default-settings.md).
+- Open when looking up V1 API (deprecated) in Photoshop. [V1 API (deprecated)](v1-api-deprecated.md).
+- Open when looking up V2 API (current) in Photoshop. [V2 API (current)](v2-api-current.md).
+- Open when looking up With custom blur strength in Photoshop. [With custom blur strength](with-custom-blur-strength.md).

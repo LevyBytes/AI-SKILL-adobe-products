@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "MEDIUM", "file": "references/document-model/hyperlink-appearance-width/medium.md", "summary": "Open when looking up MEDIUM in InDesign.", "keywords": ["MEDIUM"]},
+  {"topic": "THICK", "file": "references/document-model/hyperlink-appearance-width/thick.md", "summary": "Open when looking up THICK in InDesign.", "keywords": ["THICK"]},
+  {"topic": "THIN", "file": "references/document-model/hyperlink-appearance-width/thin.md", "summary": "Open when looking up THIN in InDesign.", "keywords": ["THIN"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Alerts", "file": "references/uxp/messaging/alerts.md", "summary": "Open when looking up Alerts in Photoshop.", "keywords": ["Alerts"]},
+  {"topic": "Best practices", "file": "references/uxp/messaging/best-practices.md", "summary": "Open when looking up Best practices in Photoshop.", "keywords": ["Best practices"]},
+  {"topic": "Loaders and Progress Indicators", "file": "references/uxp/messaging/loaders-and-progress-indicators.md", "summary": "Open when looking up Loaders and Progress Indicators in Photoshop.", "keywords": ["Loaders and Progress Indicators"]},
+  {"topic": "Output", "file": "references/uxp/messaging/output.md", "summary": "Open when looking up Output in Photoshop.", "keywords": ["Output"]},
+  {"topic": "Panel UI messaging", "file": "references/uxp/messaging/panel-ui-messaging.md", "summary": "Open when looking up Panel UI messaging in Photoshop.", "keywords": ["Panel UI messaging"]},
+  {"topic": "Permission dialogs", "file": "references/uxp/messaging/permission-dialogs.md", "summary": "Open when looking up Permission dialogs in Photoshop.", "keywords": ["Permission dialogs"]},
+  {"topic": "Success", "file": "references/uxp/messaging/success.md", "summary": "Open when looking up Success in Photoshop.", "keywords": ["Success"]},
+  {"topic": "UX requirements", "file": "references/uxp/messaging/ux-requirements.md", "summary": "Open when looking up UX requirements in Photoshop.", "keywords": ["UX requirements"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

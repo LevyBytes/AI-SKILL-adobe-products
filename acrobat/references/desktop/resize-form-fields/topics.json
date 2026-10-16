@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Resize a single form field", "file": "references/desktop/resize-form-fields/resize-a-single-form-field.md", "summary": "Open when looking up Resize a single form field in Acrobat.", "keywords": ["Resize a single form field"]},
+  {"topic": "Set form fields to the same size", "file": "references/desktop/resize-form-fields/set-form-fields-to-the-same-size.md", "summary": "Open when looking up Set form fields to the same size in Acrobat.", "keywords": ["Set form fields to the same size"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

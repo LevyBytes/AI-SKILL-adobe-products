@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Apply a password security policy to a PDF", "file": "references/desktop/protect-documents/manage-security-policies/protect-pdfs-with-password-security-policies/apply-a-password-security-policy-to-a-pdf.md", "summary": "Open when looking up Apply a password security policy to a PDF in Acrobat.", "keywords": ["Apply a password security policy to a PDF"]},
+  {"topic": "Create a password security policy", "file": "references/desktop/protect-documents/manage-security-policies/protect-pdfs-with-password-security-policies/create-a-password-security-policy.md", "summary": "Open when looking up Create a password security policy in Acrobat.", "keywords": ["Create a password security policy"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Pin or hide the visual amplitude control", "file": "references/desktop/editing-audio-files/visually-fading-and-changing-amplitude/pin-or-hide-the-visual-amplitude-control.md", "summary": "Open when looking up Pin or hide the visual amplitude control in Audition.", "keywords": ["Pin or hide the visual amplitude control"]},
+  {"topic": "Visually fade in or out", "file": "references/desktop/editing-audio-files/visually-fading-and-changing-amplitude/visually-fade-in-or-out.md", "summary": "Open when looking up Visually fade in or out in Audition.", "keywords": ["Visually fade in or out"]},
+  {"topic": "Visually raise or lower amplitude", "file": "references/desktop/editing-audio-files/visually-fading-and-changing-amplitude/visually-raise-or-lower-amplitude.md", "summary": "Open when looking up Visually raise or lower amplitude in Audition.", "keywords": ["Visually raise or lower amplitude"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

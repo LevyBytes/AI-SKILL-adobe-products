@@ -1,0 +1,26 @@
+# InCopy — Composing Cjk Characters
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Composing CJK characters — Absorb ideographic space in InCopy. [Composing CJK characters — Absorb ideographic space](composing-cjk-characters-absorb-ideographic-space.md).
+- Open when looking up Composing CJK characters — Apply a mojikumi set to a paragraph in InCopy. [Composing CJK characters — Apply a mojikumi set to a paragraph](composing-cjk-characters-apply-a-mojikumi-set-to-a-paragraph.md).
+- Open when looking up Composing CJK characters — Apply kinsoku hanging in InCopy. [Composing CJK characters — Apply kinsoku hanging](composing-cjk-characters-apply-kinsoku-hanging.md).
+- Open when looking up Composing CJK characters — Change CJK composition preferences in InCopy. [Composing CJK characters — Change CJK composition preferences](composing-cjk-characters-change-cjk-composition-preferences.md).
+- Open when looking up Composing CJK characters — Change mojikumi settings in InCopy. [Composing CJK characters — Change mojikumi settings](composing-cjk-characters-change-mojikumi-settings.md).
+- Open when looking up Composing CJK characters — Change the display of mojikumi presets in InCopy. [Composing CJK characters — Change the display of mojikumi presets](change-the-display-of-mojikumi-presets.md).
+- Open when looking up Composing CJK characters — Change the name of a custom mojikumi set in InCopy. [Composing CJK characters — Change the name of a custom mojikumi set](change-the-name-of-a-custom-mojikumi-set.md).
+- Open when looking up Composing CJK characters — Change warichu options in InCopy. [Composing CJK characters — Change warichu options](composing-cjk-characters-change-warichu-options.md).
+- Open when looking up Composing CJK characters — Create a new kinsoku set in InCopy. [Composing CJK characters — Create a new kinsoku set](composing-cjk-characters-create-a-new-kinsoku-set.md).
+- Open when looking up Composing CJK characters — Create a new mojikumi set in InCopy. [Composing CJK characters — Create a new mojikumi set](composing-cjk-characters-create-a-new-mojikumi-set.md).
+- Open when looking up Composing CJK characters — Delete a custom mojikumi set in InCopy. [Composing CJK characters — Delete a custom mojikumi set](composing-cjk-characters-delete-a-custom-mojikumi-set.md).
+- Open when looking up Composing CJK characters — Delete a kinsoku set in InCopy. [Composing CJK characters — Delete a kinsoku set](composing-cjk-characters-delete-a-kinsoku-set.md).
+- Open when looking up Composing CJK characters — Edit detailed settings for mojikumi in InCopy. [Composing CJK characters — Edit detailed settings for mojikumi](composing-cjk-characters-edit-detailed-settings-for-mojikumi.md).
+- Open when looking up Composing CJK characters — Force highlighting of kinsoku text in InCopy. [Composing CJK characters — Force highlighting of kinsoku text](composing-cjk-characters-force-highlighting-of-kinsoku-text.md).
+- Open when looking up Composing CJK characters — Rotate half-width characters in vertical text in InCopy. [Composing CJK characters — Rotate half-width characters in vertical text](rotate-half-width-characters-in-vertical-text.md).
+- Open when looking up Composing CJK characters — Select kinsoku settings for a paragraph in InCopy. [Composing CJK characters — Select kinsoku settings for a paragraph](select-kinsoku-settings-for-a-paragraph.md).
+- Open when looking up Composing CJK characters — Specify whether to push in or push out kinsoku text in InCopy. [Composing CJK characters — Specify whether to push in or push out kinsoku text](specify-whether-to-push-in-or-push-out-kinsoku-text.md).
+- Open when looking up Composing CJK characters — Turn bunri-kinshi on or off in InCopy. [Composing CJK characters — Turn bunri-kinshi on or off](composing-cjk-characters-turn-bunri-kinshi-on-or-off.md).
+- Open when looking up Composing CJK characters — Turn off Roman word wrap in InCopy. [Composing CJK characters — Turn off Roman word wrap](composing-cjk-characters-turn-off-roman-word-wrap.md).
+- Open when looking up Composing CJK characters — Turn warichu on or off in InCopy. [Composing CJK characters — Turn warichu on or off](composing-cjk-characters-turn-warichu-on-or-off.md).
+- Open when looking up Composing CJK characters — Use kinsoku settings in InCopy. [Composing CJK characters — Use kinsoku settings](composing-cjk-characters-use-kinsoku-settings.md).
+- Open when looking up Composing CJK characters — Use mojikumi in InCopy. [Composing CJK characters — Use mojikumi](composing-cjk-characters-use-mojikumi.md).
+- Open when looking up Composing CJK characters — Use rensuuji in InCopy. [Composing CJK characters — Use rensuuji](composing-cjk-characters-use-rensuuji.md).

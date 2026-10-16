@@ -1,0 +1,41 @@
+# Illustrator — Scripting APIs
+
+Open when selecting a task context: [Topic catalog](topics.json).
+
+- Open when working with scripting foundations and first scripts in Illustrator — Scripting APIs. [Scripting foundations and first scripts](context-script-start.md).
+- Open when working with scripting languages and execution in Illustrator — Scripting APIs. [Scripting languages and execution](context-script-languages.md).
+- Open when working with object model, collections and references in Illustrator — Scripting APIs. [Object model, collections and references](context-object-model.md).
+- Open when working with launch, quit and select artwork in Illustrator — Scripting APIs. [Launch, quit and select artwork](context-script-application.md).
+- Open when working with create paths and shapes in Illustrator — Scripting APIs. [Create paths and shapes](context-path-guidance.md).
+- Open when working with perspective grid workflows in Illustrator — Scripting APIs. [Perspective grid workflows](context-perspective-guidance.md).
+- Open when working with text objects, threads and measurement in Illustrator — Scripting APIs. [Text objects, threads and measurement](context-text-guidance.md).
+- Open when working with guide contribution and licensing in Illustrator — Scripting APIs. [Guide contribution and licensing](context-guide-project.md).
+- Open when working with version-specific scripting changes in Illustrator — Scripting APIs. [Version-specific scripting changes](context-guide-versions.md).
+- Open when working with dynamic artwork in Illustrator — Scripting APIs. [Dynamic artwork](context-dynamic-data.md).
+- Open when working with printing workflows in Illustrator — Scripting APIs. [Printing workflows](context-print-guidance.md).
+- Open when working with pdf and photoshop import options in Illustrator — Scripting APIs. [PDF and Photoshop import options](context-import-options.md).
+- Open when working with application, preferences and scripting environment in Illustrator — Scripting APIs. [Application, preferences and scripting environment](context-application.md).
+- Open when working with documents, presets and file lifecycle in Illustrator — Scripting APIs. [Documents, presets and file lifecycle](context-documents.md).
+- Open when working with artboards, bounds and coordinates in Illustrator — Scripting APIs. [Artboards, bounds and coordinates](context-artboards.md).
+- Open when working with views, preview modes and perspective grids in Illustrator — Scripting APIs. [Views, preview modes and perspective grids](context-views.md).
+- Open when working with paths, shapes and path points in Illustrator — Scripting APIs. [Paths, shapes and path points](context-paths.md).
+- Open when working with page items, groups, layers and plug-in artwork in Illustrator — Scripting APIs. [Page items, groups, layers and plug-in artwork](context-page-items.md).
+- Open when working with placed, embedded, mesh and raster images in Illustrator — Scripting APIs. [Placed, embedded, mesh and raster images](context-placed-images.md).
+- Open when working with rasterization, image capture and resolution in Illustrator — Scripting APIs. [Rasterization, image capture and resolution](context-rasterization.md).
+- Open when working with colors, brushes, patterns and artwork styles in Illustrator — Scripting APIs. [Colors, brushes, patterns and artwork styles](context-paint-resources.md).
+- Open when working with color conversion, profiles and destinations in Illustrator — Scripting APIs. [Color conversion, profiles and destinations](context-color-conversion.md).
+- Open when working with blending, knockout and stroke geometry in Illustrator — Scripting APIs. [Blending, knockout and stroke geometry](context-appearance.md).
+- Open when working with symbols and registration points in Illustrator — Scripting APIs. [Symbols and registration points](context-symbols.md).
+- Open when working with text stories, frames and ranges in Illustrator — Scripting APIs. [Text stories, frames and ranges](context-text-content.md).
+- Open when working with character and paragraph styles in Illustrator — Scripting APIs. [Character and paragraph styles](context-text-style.md).
+- Open when working with typography, language and writing systems in Illustrator — Scripting APIs. [Typography, language and writing systems](context-typography.md).
+- Open when working with variable data, datasets and tags in Illustrator — Scripting APIs. [Variable data, datasets and tags](context-variables-metadata.md).
+- Open when working with image tracing in Illustrator — Scripting APIs. [Image tracing](context-tracing.md).
+- Open when working with raster export options and compression in Illustrator — Scripting APIs. [Raster export options and compression](context-raster-export.md).
+- Open when working with svg export and font encoding in Illustrator — Scripting APIs. [SVG export and font encoding](context-svg-export.md).
+- Open when working with flash export, playback and layer ordering in Illustrator — Scripting APIs. [Flash export, playback and layer ordering](context-flash-export.md).
+- Open when working with fxg preservation and legacy flattening in Illustrator — Scripting APIs. [FXG preservation and legacy flattening](context-fxg-compatibility.md).
+- Open when working with eps and pdf output, compatibility and permissions in Illustrator — Scripting APIs. [EPS and PDF output, compatibility and permissions](context-eps-pdf-output.md).
+- Open when working with printers, paper, postscript and print jobs in Illustrator — Scripting APIs. [Printers, paper, PostScript and print jobs](context-print-job.md).
+- Open when working with print placement, bounds, marks and tiling in Illustrator — Scripting APIs. [Print placement, bounds, marks and tiling](context-print-layout.md).
+- Open when working with print color, separations, screening and trapping in Illustrator — Scripting APIs. [Print color, separations, screening and trapping](context-print-color.md).

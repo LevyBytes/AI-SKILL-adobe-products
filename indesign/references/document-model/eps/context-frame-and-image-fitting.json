@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "actualPpi", "file": "references/document-model/eps/actual-ppi.md", "summary": "Open when looking up actualPpi in InDesign.", "keywords": ["actualPpi"]},
+  {"topic": "clippingPath", "file": "references/document-model/eps/clipping-path.md", "summary": "Open when looking up clippingPath in InDesign.", "keywords": ["clippingPath"]},
+  {"topic": "effectivePpi", "file": "references/document-model/eps/effective-ppi.md", "summary": "Open when looking up effectivePpi in InDesign.", "keywords": ["effectivePpi"]},
+  {"topic": "imageTypeName", "file": "references/document-model/eps/image-type-name.md", "summary": "Open when looking up imageTypeName in InDesign.", "keywords": ["imageTypeName"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

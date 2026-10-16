@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "append(name, value)", "file": "references/uxp/network-and-data/headers/append.md", "summary": "Open when looking up append(name, value) in Photoshop.", "keywords": ["append(name, value)"]},
+  {"topic": "delete(name)", "file": "references/uxp/network-and-data/headers/delete.md", "summary": "Open when looking up delete(name) in Photoshop.", "keywords": ["delete(name)"]},
+  {"topic": "entries()", "file": "references/uxp/network-and-data/headers/entries.md", "summary": "Open when looking up entries() in Photoshop.", "keywords": ["entries()"]},
+  {"topic": "forEach(callbackFn, thisArg)", "file": "references/uxp/network-and-data/headers/for-each.md", "summary": "Open when looking up forEach(callbackFn, thisArg) in Photoshop.", "keywords": ["forEach(callbackFn, thisArg)"]},
+  {"topic": "get(name)", "file": "references/uxp/network-and-data/headers/get.md", "summary": "Open when looking up get(name) in Photoshop.", "keywords": ["get(name)"]},
+  {"topic": "has(name)", "file": "references/uxp/network-and-data/headers/has.md", "summary": "Open when looking up has(name) in Photoshop.", "keywords": ["has(name)"]},
+  {"topic": "Headers([init])", "file": "references/uxp/network-and-data/headers/headers.md", "summary": "Open when looking up Headers([init]) in Photoshop.", "keywords": ["Headers([init])"]},
+  {"topic": "keys()", "file": "references/uxp/network-and-data/headers/keys.md", "summary": "Open when looking up keys() in Photoshop.", "keywords": ["keys()"]},
+  {"topic": "set(name, value)", "file": "references/uxp/network-and-data/headers/set.md", "summary": "Open when looking up set(name, value) in Photoshop.", "keywords": ["set(name, value)"]},
+  {"topic": "values()", "file": "references/uxp/network-and-data/headers/values.md", "summary": "Open when looking up values() in Photoshop.", "keywords": ["values()"]},
+  {"topic": "window.Headers", "file": "references/uxp/network-and-data/headers/overview.md", "summary": "Open when looking up window.Headers in Photoshop.", "keywords": ["window.Headers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

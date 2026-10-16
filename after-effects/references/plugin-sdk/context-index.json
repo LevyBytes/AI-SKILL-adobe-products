@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "About references", "file": "references/plugin-sdk/about/reference-index.md", "summary": "Open when looking up About in After Effects.", "keywords": ["About references"]},
+  {"topic": "A note about coding style references", "file": "references/plugin-sdk/a-note-about-coding-style/reference-index.md", "summary": "Open when looking up A note about coding style in After Effects.", "keywords": ["A note about coding style references"]},
+  {"topic": "Documentation conventions references", "file": "references/plugin-sdk/documentation-conventions/reference-index.md", "summary": "Open when looking up Documentation conventions in After Effects.", "keywords": ["Documentation conventions references"]},
+  {"topic": "Introduction", "file": "references/plugin-sdk/introduction.md", "summary": "Open when looking up Introduction in After Effects.", "keywords": ["Introduction"]},
+  {"topic": "Organization references", "file": "references/plugin-sdk/organization/reference-index.md", "summary": "Open when looking up Organization in After Effects.", "keywords": ["Organization references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "firstBaselineOffset", "file": "references/document-model/find-object-preference/first-baseline-offset.md", "summary": "Open when looking up firstBaselineOffset in InDesign.", "keywords": ["firstBaselineOffset"]},
+  {"topic": "minimumFirstBaselineOffset", "file": "references/document-model/find-object-preference/minimum-first-baseline-offset.md", "summary": "Open when looking up minimumFirstBaselineOffset in InDesign.", "keywords": ["minimumFirstBaselineOffset"]},
+  {"topic": "verticalJustification", "file": "references/document-model/find-object-preference/vertical-justification.md", "summary": "Open when looking up verticalJustification in InDesign.", "keywords": ["verticalJustification"]},
+  {"topic": "verticalThreshold", "file": "references/document-model/find-object-preference/vertical-threshold.md", "summary": "Open when looking up verticalThreshold in InDesign.", "keywords": ["verticalThreshold"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

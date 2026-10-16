@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Start with Spectrum UXP Widgets if you:", "file": "references/uxp/which-approach-should-you-choose/start-with-spectrum-uxp-widgets-if-you.md", "summary": "Open when looking up Start with Spectrum UXP Widgets if you: in Premiere Pro.", "keywords": ["Start with Spectrum UXP Widgets if you:"]},
+  {"topic": "Use Spectrum Web Components if you:", "file": "references/uxp/which-approach-should-you-choose/use-spectrum-web-components-if-you.md", "summary": "Open when looking up Use Spectrum Web Components if you: in Premiere Pro.", "keywords": ["Use Spectrum Web Components if you:"]},
+  {"topic": "Use Standard HTML Elements if you:", "file": "references/uxp/which-approach-should-you-choose/use-standard-html-elements-if-you.md", "summary": "Open when looking up Use Standard HTML Elements if you: in Premiere Pro.", "keywords": ["Use Standard HTML Elements if you:"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

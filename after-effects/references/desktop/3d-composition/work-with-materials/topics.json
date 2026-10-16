@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Apply Substance 3D materials", "file": "references/desktop/3d-composition/work-with-materials/apply-substance-3-d-materials.md", "summary": "Open when looking up Apply Substance 3D materials in After Effects.", "keywords": ["Apply Substance 3D materials"]},
+  {"topic": "Modify materials properties of a 3D layer", "file": "references/desktop/3d-composition/work-with-materials/modify-materials-properties-of-a-3-d-layer.md", "summary": "Open when looking up Modify materials properties of a 3D layer in After Effects.", "keywords": ["Modify materials properties of a 3D layer"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

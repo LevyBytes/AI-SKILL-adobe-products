@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Layers.add()", "file": "references/scripting/layers/add.md", "summary": "Open when looking up Layers.add() in Illustrator.", "keywords": ["Layers.add()"]},
+  {"topic": "Layers.getByName()", "file": "references/scripting/layers/get-by-name.md", "summary": "Open when looking up Layers.getByName() in Illustrator.", "keywords": ["Layers.getByName()"]},
+  {"topic": "Layers.index()", "file": "references/scripting/layers/index.md", "summary": "Open when looking up Layers.index() in Illustrator.", "keywords": ["Layers.index()"]},
+  {"topic": "Layers.length", "file": "references/scripting/layers/length.md", "summary": "Open when looking up Layers.length in Illustrator.", "keywords": ["Layers.length"]},
+  {"topic": "Layers.parent", "file": "references/scripting/layers/parent.md", "summary": "Open when looking up Layers.parent in Illustrator.", "keywords": ["Layers.parent"]},
+  {"topic": "Layers.removeAll()", "file": "references/scripting/layers/remove-all.md", "summary": "Open when looking up Layers.removeAll() in Illustrator.", "keywords": ["Layers.removeAll()"]},
+  {"topic": "Layers.typename", "file": "references/scripting/layers/typename.md", "summary": "Open when looking up Layers.typename in Illustrator.", "keywords": ["Layers.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

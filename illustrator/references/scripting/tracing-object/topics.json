@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "TracingObject.parent", "file": "references/scripting/tracing-object/parent.md", "summary": "Open when looking up TracingObject.parent in Illustrator.", "keywords": ["TracingObject.parent"]},
+  {"topic": "TracingObject.typename", "file": "references/scripting/tracing-object/typename.md", "summary": "Open when looking up TracingObject.typename in Illustrator.", "keywords": ["TracingObject.typename"]},
+  {"topic": "TracingObject.sourceArt", "file": "references/scripting/tracing-object/source-art.md", "summary": "Open when looking up TracingObject.sourceArt in Illustrator.", "keywords": ["TracingObject.sourceArt"]},
+  {"topic": "TracingObject.imageResolution", "file": "references/scripting/tracing-object/image-resolution.md", "summary": "Open when looking up TracingObject.imageResolution in Illustrator.", "keywords": ["TracingObject.imageResolution"]},
+  {"topic": "TracingObject.tracingOptions", "file": "references/scripting/tracing-object/tracing-options.md", "summary": "Open when looking up TracingObject.tracingOptions in Illustrator.", "keywords": ["TracingObject.tracingOptions"]},
+  {"topic": "TracingObject.anchorCount", "file": "references/scripting/tracing-object/anchor-count.md", "summary": "Open when looking up TracingObject.anchorCount in Illustrator.", "keywords": ["TracingObject.anchorCount"]},
+  {"topic": "TracingObject.pathCount", "file": "references/scripting/tracing-object/path-count.md", "summary": "Open when looking up TracingObject.pathCount in Illustrator.", "keywords": ["TracingObject.pathCount"]},
+  {"topic": "TracingObject.areaCount", "file": "references/scripting/tracing-object/area-count.md", "summary": "Open when looking up TracingObject.areaCount in Illustrator.", "keywords": ["TracingObject.areaCount"]},
+  {"topic": "TracingObject.usedColorCount", "file": "references/scripting/tracing-object/used-color-count.md", "summary": "Open when looking up TracingObject.usedColorCount in Illustrator.", "keywords": ["TracingObject.usedColorCount"]},
+  {"topic": "TracingObject.expandTracing()", "file": "references/scripting/tracing-object/expand-tracing.md", "summary": "Open when looking up TracingObject.expandTracing() in Illustrator.", "keywords": ["TracingObject.expandTracing()"]},
+  {"topic": "TracingObject.releaseTracing()", "file": "references/scripting/tracing-object/release-tracing.md", "summary": "Open when looking up TracingObject.releaseTracing() in Illustrator.", "keywords": ["TracingObject.releaseTracing()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

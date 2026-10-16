@@ -1,0 +1,39 @@
+# InDesign — UITools
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ADD_ANCHOR_POINT in InDesign. [ADD_ANCHOR_POINT](addanchorpoint.md).
+- Open when looking up CONVERT_DIRECTION_POINT in InDesign. [CONVERT_DIRECTION_POINT](convertdirectionpoint.md).
+- Open when looking up DELETE_ANCHOR_POINT in InDesign. [DELETE_ANCHOR_POINT](deleteanchorpoint.md).
+- Open when looking up DIRECT_SELECTION_TOOL in InDesign. [DIRECT_SELECTION_TOOL](directselectiontool.md).
+- Open when looking up ELLIPSE_FRAME_TOOL in InDesign. [ELLIPSE_FRAME_TOOL](ellipseframetool.md).
+- Open when looking up ELLIPSE_TOOL in InDesign. [ELLIPSE_TOOL](ellipsetool.md).
+- Open when looking up ERASE_TOOL in InDesign. [ERASE_TOOL](erasetool.md).
+- Open when looking up EYE_DROPPER_TOOL in InDesign. [EYE_DROPPER_TOOL](eyedroppertool.md).
+- Open when looking up FREE_TRANSFORM_TOOL in InDesign. [FREE_TRANSFORM_TOOL](freetransformtool.md).
+- Open when looking up GAP_TOOL in InDesign. [GAP_TOOL](gaptool.md).
+- Open when looking up GRADIENT_FEATHER_TOOL in InDesign. [GRADIENT_FEATHER_TOOL](gradientfeathertool.md).
+- Open when looking up GRADIENT_SWATCH_TOOL in InDesign. [GRADIENT_SWATCH_TOOL](gradientswatchtool.md).
+- Open when looking up HAND_TOOL in InDesign. [HAND_TOOL](handtool.md).
+- Open when looking up LINE_TOOL in InDesign. [LINE_TOOL](linetool.md).
+- Open when looking up MEASURE_TOOL in InDesign. [MEASURE_TOOL](measuretool.md).
+- Open when looking up MOTION_PATH_TOOL in InDesign. [MOTION_PATH_TOOL](motionpathtool.md).
+- Open when looking up NONE in InDesign. [NONE](none.md).
+- Open when looking up NOTE_TOOL in InDesign. [NOTE_TOOL](notetool.md).
+- Open when looking up PAGE_TOOL in InDesign. [PAGE_TOOL](pagetool.md).
+- Open when looking up PEN_TOOL in InDesign. [PEN_TOOL](pentool.md).
+- Open when looking up PENCIL_TOOL in InDesign. [PENCIL_TOOL](penciltool.md).
+- Open when looking up PLACE_CURSOR_TOOL in InDesign. [PLACE_CURSOR_TOOL](placecursortool.md).
+- Open when looking up POLYGON_FRAME_TOOL in InDesign. [POLYGON_FRAME_TOOL](polygonframetool.md).
+- Open when looking up POLYGON_TOOL in InDesign. [POLYGON_TOOL](polygontool.md).
+- Open when looking up RECTANGLE_FRAME_TOOL in InDesign. [RECTANGLE_FRAME_TOOL](rectangleframetool.md).
+- Open when looking up RECTANGLE_TOOL in InDesign. [RECTANGLE_TOOL](rectangletool.md).
+- Open when looking up ROTATE_TOOL in InDesign. [ROTATE_TOOL](rotatetool.md).
+- Open when looking up SCALE_TOOL in InDesign. [SCALE_TOOL](scaletool.md).
+- Open when looking up SCISSORS_TOOL in InDesign. [SCISSORS_TOOL](scissorstool.md).
+- Open when looking up SELECTION_TOOL in InDesign. [SELECTION_TOOL](selectiontool.md).
+- Open when looking up SHEAR_TOOL in InDesign. [SHEAR_TOOL](sheartool.md).
+- Open when looking up SMOOTH_TOOL in InDesign. [SMOOTH_TOOL](smoothtool.md).
+- Open when looking up TABLE_TOOL in InDesign. [TABLE_TOOL](tabletool.md).
+- Open when looking up TYPE_ON_PATH_TOOL in InDesign. [TYPE_ON_PATH_TOOL](typeonpathtool.md).
+- Open when looking up TYPE_TOOL in InDesign. [TYPE_TOOL](typetool.md).
+- Open when looking up ZOOM_TOOL in InDesign. [ZOOM_TOOL](zoomtool.md).

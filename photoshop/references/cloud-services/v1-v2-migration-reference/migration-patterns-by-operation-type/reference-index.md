@@ -1,0 +1,32 @@
+# Photoshop — Migration patterns by operation type
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up A. Edit operations (Lightroom) in Photoshop. [A. Edit operations (Lightroom)](edit-operations-lightroom.md).
+- Open when looking up Adjustment Layer Specifics migration in Photoshop. [Adjustment Layer Specifics migration](adjustment-layer-specifics-migration.md).
+- Open when looking up B. Composite operations (document/layer) in Photoshop. [B. Composite operations (document/layer)](composite-operations-document-layer.md).
+- Open when looking up Background Layer Specifics migration in Photoshop. [Background Layer Specifics migration](background-layer-specifics-migration.md).
+- Open when looking up Chained workflow - pixel replace + convert + transform in one API call migration in Photoshop. [Chained workflow - pixel replace + convert + transform in one API call migration](chained-pixel-convert-transform-migration.md).
+- Open when looking up Convenience API notes in Photoshop. [Convenience API notes](convenience-api-notes.md).
+- Open when looking up Convert to regular layer migration in Photoshop. [Convert to regular layer migration](convert-to-regular-layer-migration.md).
+- Open when looking up D. Other operations in Photoshop. [D. Other operations](other-operations.md).
+- Open when looking up E. Export layers (single vs multi-layer) in Photoshop. [E. Export layers (single vs multi-layer)](export-layers-single-vs-multi-layer.md).
+- Open when looking up Layer Alignment (V1 to V2) migration in Photoshop. [Layer Alignment (V1 to V2) migration](layer-alignment-v1-to-v2-migration.md).
+- Open when looking up Layer Property Locations (V2) migration in Photoshop. [Layer Property Locations (V2) migration](layer-property-locations-v2-migration.md).
+- Open when looking up Layer Transforms (V1 to V2) migration in Photoshop. [Layer Transforms (V1 to V2) migration](layer-transforms-v1-to-v2-migration.md).
+- Open when looking up Layer Types migration in Photoshop. [Layer Types migration](layer-types-migration.md).
+- Open when looking up Localized XMP adjustment migration in Photoshop. [Localized XMP adjustment migration](xmp-with-masks-migration-localized-adjustments.md).
+- Open when looking up Multiple XMP masks and constraints in Photoshop. [Multiple XMP masks and constraints](multiple-xmp-masks.md).
+- Open when looking up Placement Options migration in Photoshop. [Placement Options migration](placement-options-migration.md).
+- Open when looking up Script Output Discovery migration in Photoshop. [Script Output Discovery migration](script-output-discovery-migration.md).
+- Open when looking up Side by Side migration in Photoshop. [Side by Side migration](side-by-side-migration.md).
+- Open when looking up Smart Object Replace migration in Photoshop. [Smart Object Replace migration](smart-object-replace-migration.md).
+- Open when looking up Smart Object Specifics migration in Photoshop. [Smart Object Specifics migration](smart-object-specifics-migration.md).
+- Open when looking up Split View migration in Photoshop. [Split View migration](split-view-migration.md).
+- Open when looking up Text Layer Operations migration in Photoshop. [Text Layer Operations migration](text-layer-operations-migration.md).
+- Open when looking up Text Layer Specifics migration in Photoshop. [Text Layer Specifics migration](text-layer-specifics-migration.md).
+- Open when looking up Transform mode rules (violation returns 400) migration in Photoshop. [Transform mode rules (violation returns 400) migration](transform-mode-rules-violation-returns-400-migration.md).
+- Open when looking up Two-pass execution for transformMode: "custom" with dimension / angle / skew migration in Photoshop. [Two-pass execution for transformMode: "custom" with dimension / angle / skew migration](custom-transform-two-pass-migration.md).
+- Open when looking up UXP Scripts (Limited Availability) migration in Photoshop. [UXP Scripts (Limited Availability) migration](uxp-scripts-limited-availability-migration.md).
+- Open when looking up V1 parentLayer Field migration in Photoshop. [V1 parentLayer Field migration](v1-parent-layer-field-migration.md).
+- Open when looking up When to use ActionJSON vs UXP for text edits migration in Photoshop. [When to use ActionJSON vs UXP for text edits migration](when-to-use-action-json-vs-uxp-for-text-edits-migration.md).
+- Open when looking up XMP with orientation override in Photoshop. [XMP with orientation override](xmp-with-orientation-override.md).

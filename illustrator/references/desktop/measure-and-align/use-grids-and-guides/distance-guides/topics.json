@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "View distances between two Objects", "file": "references/desktop/measure-and-align/use-grids-and-guides/distance-guides/view-distances-between-two-objects.md", "summary": "Open when looking up View distances between two Objects in Illustrator.", "keywords": ["View distances between two Objects"]},
+  {"topic": "View the distance between an Object and the Artboard", "file": "references/desktop/measure-and-align/use-grids-and-guides/distance-guides/view-the-distance-between-an-object-and-the-artboard.md", "summary": "Open when looking up View the distance between an Object and the Artboard in Illustrator.", "keywords": ["View the distance between an Object and the Artboard"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

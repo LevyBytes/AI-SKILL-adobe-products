@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "exportSequenceFrame", "file": "references/uxp/host-api/exporter/static-methods/export-sequence-frame.md", "summary": "Open when looking up exportSequenceFrame in Premiere Pro.", "keywords": ["exportSequenceFrame"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

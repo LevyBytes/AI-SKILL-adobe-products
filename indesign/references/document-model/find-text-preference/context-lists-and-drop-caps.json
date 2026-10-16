@@ -1,0 +1,19 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "appliedNumberingList", "file": "references/document-model/find-text-preference/applied-numbering-list.md", "summary": "Open when looking up appliedNumberingList in InDesign.", "keywords": ["appliedNumberingList"]},
+  {"topic": "bulletChar", "file": "references/document-model/find-text-preference/bullet-char.md", "summary": "Open when looking up bulletChar in InDesign.", "keywords": ["bulletChar"]},
+  {"topic": "bulletsAndNumberingListType", "file": "references/document-model/find-text-preference/bullets-and-numbering-list-type.md", "summary": "Open when looking up bulletsAndNumberingListType in InDesign.", "keywords": ["bulletsAndNumberingListType"]},
+  {"topic": "bulletsCharacterStyle", "file": "references/document-model/find-text-preference/bullets-character-style.md", "summary": "Open when looking up bulletsCharacterStyle in InDesign.", "keywords": ["bulletsCharacterStyle"]},
+  {"topic": "bulletsTextAfter", "file": "references/document-model/find-text-preference/bullets-text-after.md", "summary": "Open when looking up bulletsTextAfter in InDesign.", "keywords": ["bulletsTextAfter"]},
+  {"topic": "dropCapCharacters", "file": "references/document-model/find-text-preference/drop-cap-characters.md", "summary": "Open when looking up dropCapCharacters in InDesign.", "keywords": ["dropCapCharacters"]},
+  {"topic": "dropcapDetail", "file": "references/document-model/find-text-preference/dropcap-detail.md", "summary": "Open when looking up dropcapDetail in InDesign.", "keywords": ["dropcapDetail"]},
+  {"topic": "dropCapLines", "file": "references/document-model/find-text-preference/drop-cap-lines.md", "summary": "Open when looking up dropCapLines in InDesign.", "keywords": ["dropCapLines"]},
+  {"topic": "numberingApplyRestartPolicy", "file": "references/document-model/find-text-preference/numbering-apply-restart-policy.md", "summary": "Open when looking up numberingApplyRestartPolicy in InDesign.", "keywords": ["numberingApplyRestartPolicy"]},
+  {"topic": "numberingCharacterStyle", "file": "references/document-model/find-text-preference/numbering-character-style.md", "summary": "Open when looking up numberingCharacterStyle in InDesign.", "keywords": ["numberingCharacterStyle"]},
+  {"topic": "numberingContinue", "file": "references/document-model/find-text-preference/numbering-continue.md", "summary": "Open when looking up numberingContinue in InDesign.", "keywords": ["numberingContinue"]},
+  {"topic": "numberingExpression", "file": "references/document-model/find-text-preference/numbering-expression.md", "summary": "Open when looking up numberingExpression in InDesign.", "keywords": ["numberingExpression"]},
+  {"topic": "numberingFormat", "file": "references/document-model/find-text-preference/numbering-format.md", "summary": "Open when looking up numberingFormat in InDesign.", "keywords": ["numberingFormat"]},
+  {"topic": "numberingLevel", "file": "references/document-model/find-text-preference/numbering-level.md", "summary": "Open when looking up numberingLevel in InDesign.", "keywords": ["numberingLevel"]},
+  {"topic": "numberingRestartPolicies", "file": "references/document-model/find-text-preference/numbering-restart-policies.md", "summary": "Open when looking up numberingRestartPolicies in InDesign.", "keywords": ["numberingRestartPolicies"]},
+  {"topic": "numberingStartAt", "file": "references/document-model/find-text-preference/numbering-start-at.md", "summary": "Open when looking up numberingStartAt in InDesign.", "keywords": ["numberingStartAt"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

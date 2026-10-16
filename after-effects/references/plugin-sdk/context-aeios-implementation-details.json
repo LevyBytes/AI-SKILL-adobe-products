@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Export bit depth references", "file": "references/plugin-sdk/export-bit-depth/reference-index.md", "summary": "Open when looking up Export bit depth in After Effects.", "keywords": ["Export bit depth references"]},
+  {"topic": "User data vs options references", "file": "references/plugin-sdk/user-data-vs-options/reference-index.md", "summary": "Open when looking up User data vs options in After Effects.", "keywords": ["User data vs options references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "PF_Point3D", "file": "references/plugin-sdk/parameter-types/point3d.md", "summary": "Open when looking up PF_Point3D in After Effects.", "keywords": ["PF_Point3D"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

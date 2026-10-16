@@ -1,0 +1,44 @@
+# After Effects — App
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up app.activate() in After Effects. [app.activate()](activate.md).
+- Open when looking up app.activeViewer in After Effects. [app.activeViewer](active-viewer.md).
+- Open when looking up app.availableGPUAccelTypes in After Effects. [app.availableGPUAccelTypes](available-gpu-accel-types.md).
+- Open when looking up app.beginSuppressDialogs() in After Effects. [app.beginSuppressDialogs()](begin-suppress-dialogs.md).
+- Open when looking up app.beginUndoGroup() in After Effects. [app.beginUndoGroup()](begin-undo-group.md).
+- Open when looking up app.buildName in After Effects. [app.buildName](build-name.md).
+- Open when looking up app.buildNumber in After Effects. [app.buildNumber](build-number.md).
+- Open when looking up app.cancelTask() in After Effects. [app.cancelTask()](cancel-task.md).
+- Open when looking up app.disableRendering in After Effects. [app.disableRendering](disable-rendering.md).
+- Open when looking up app.effects in After Effects. [app.effects](effects.md).
+- Open when looking up app.endSuppressDialogs() in After Effects. [app.endSuppressDialogs()](end-suppress-dialogs.md).
+- Open when looking up app.endUndoGroup() in After Effects. [app.endUndoGroup()](end-undo-group.md).
+- Open when looking up app.endWatchFolder() in After Effects. [app.endWatchFolder()](end-watch-folder.md).
+- Open when looking up app.executeCommand() in After Effects. [app.executeCommand()](execute-command.md).
+- Open when looking up app.exitAfterLaunchAndEval in After Effects. [app.exitAfterLaunchAndEval](exit-after-launch-and-eval.md).
+- Open when looking up app.exitCode in After Effects. [app.exitCode](exit-code.md).
+- Open when looking up app.findMenuCommandId() in After Effects. [app.findMenuCommandId()](find-menu-command-id.md).
+- Open when looking up app.fonts in After Effects. [app.fonts](fonts.md).
+- Open when looking up app.isoLanguage in After Effects. [app.isoLanguage](iso-language.md).
+- Open when looking up app.isRenderEngine in After Effects. [app.isRenderEngine](is-render-engine.md).
+- Open when looking up app.isWatchFolder in After Effects. [app.isWatchFolder](is-watch-folder.md).
+- Open when looking up app.memoryInUse in After Effects. [app.memoryInUse](memory-in-use.md).
+- Open when looking up app.newProject() in After Effects. [app.newProject()](new-project.md).
+- Open when looking up app.onError in After Effects. [app.onError](on-error.md).
+- Open when looking up app.open() in After Effects. [app.open()](open.md).
+- Open when looking up app.openFast() in After Effects. [app.openFast()](open-fast.md).
+- Open when looking up app.parseSwatchFile() in After Effects. [app.parseSwatchFile()](parse-swatch-file.md).
+- Open when looking up app.pauseWatchFolder() in After Effects. [app.pauseWatchFolder()](pause-watch-folder.md).
+- Open when looking up app.preferences in After Effects. [app.preferences](preferences.md).
+- Open when looking up app.project in After Effects. [app.project](project.md).
+- Open when looking up app.purge() in After Effects. [app.purge()](purge.md).
+- Open when looking up app.quit() in After Effects. [app.quit()](quit.md).
+- Open when looking up app.restart() in After Effects. [app.restart()](restart.md).
+- Open when looking up app.saveProjectOnCrash in After Effects. [app.saveProjectOnCrash](save-project-on-crash.md).
+- Open when looking up app.scheduleTask() in After Effects. [app.scheduleTask()](schedule-task.md).
+- Open when looking up app.setMemoryUsageLimits() in After Effects. [app.setMemoryUsageLimits()](set-memory-usage-limits.md).
+- Open when looking up app.setMultiFrameRenderingConfig() in After Effects. [app.setMultiFrameRenderingConfig()](set-multi-frame-rendering-config.md).
+- Open when looking up app.setSavePreferencesOnQuit() in After Effects. [app.setSavePreferencesOnQuit()](set-save-preferences-on-quit.md).
+- Open when looking up app.settings in After Effects. [app.settings](settings.md).
+- Open when looking up app.version in After Effects. [app.version](version.md).
+- Open when looking up app.watchFolder() in After Effects. [app.watchFolder()](watch-folder.md).

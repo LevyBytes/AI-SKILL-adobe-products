@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Configure spacing priority for character classes", "file": "references/desktop/language-and-proofing/cjk-typography/mojikumi-spacing-priorities/configure-spacing-priority-for-character-classes.md", "summary": "Open when looking up Configure spacing priority for character classes in InDesign.", "keywords": ["Configure spacing priority for character classes"]},
+  {"topic": "Set priority for detailed character types", "file": "references/desktop/language-and-proofing/cjk-typography/mojikumi-spacing-priorities/set-priority-for-detailed-character-types.md", "summary": "Open when looking up Set priority for detailed character types in InDesign.", "keywords": ["Set priority for detailed character types"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

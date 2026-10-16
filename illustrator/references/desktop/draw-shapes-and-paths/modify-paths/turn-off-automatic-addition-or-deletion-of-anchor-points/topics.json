@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Using Illustrator preferences", "file": "references/desktop/draw-shapes-and-paths/modify-paths/turn-off-automatic-addition-or-deletion-of-anchor-points/using-illustrator-preferences.md", "summary": "Open when looking up Using Illustrator preferences in Illustrator.", "keywords": ["Using Illustrator preferences"]},
+  {"topic": "Using Pen tool controls", "file": "references/desktop/draw-shapes-and-paths/modify-paths/turn-off-automatic-addition-or-deletion-of-anchor-points/using-pen-tool-controls.md", "summary": "Open when looking up Using Pen tool controls in Illustrator.", "keywords": ["Using Pen tool controls"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

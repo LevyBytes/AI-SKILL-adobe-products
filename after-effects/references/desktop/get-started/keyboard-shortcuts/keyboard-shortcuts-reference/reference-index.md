@@ -1,0 +1,37 @@
+# After Effects — Keyboard Shortcuts Reference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 3D layers in After Effects. [3D layers](3-d-layers.md).
+- Open when looking up Activate tools in After Effects. [Activate tools](activate-tools.md).
+- Open when looking up Application Shortcuts in After Effects. [Application Shortcuts](application-shortcuts.md).
+- Open when looking up Assigning shortcuts in After Effects. [Assigning shortcuts](assigning-shortcuts.md).
+- Open when looking up Compositions and the work area in After Effects. [Compositions and the work area](compositions-and-the-work-area.md).
+- Open when looking up Conflicts in After Effects. [Conflicts](conflicts.md).
+- Open when looking up Effects and animation presets in After Effects. [Effects and animation presets](effects-and-animation-presets.md).
+- Open when looking up Footage in After Effects. [Footage](footage.md).
+- Open when looking up General in After Effects. [General](general.md).
+- Open when looking up Key tool tips in After Effects. [Key tool tips](key-tool-tips.md).
+- Open when looking up Keyboard shortcuts PDF in After Effects. [Keyboard shortcuts PDF](keyboard-shortcuts-pdf.md).
+- Open when looking up Keyframes and the Graph Editor in After Effects. [Keyframes and the Graph Editor](keyframes-and-the-graph-editor.md).
+- Open when looking up Layers in After Effects. [Layers](layers.md).
+- Open when looking up Markers in After Effects. [Markers](markers.md).
+- Open when looking up Masks in After Effects. [Masks](masks.md).
+- Open when looking up Modifying layer properties in After Effects. [Modifying layer properties](modifying-layer-properties.md).
+- Open when looking up Motion tracking in After Effects. [Motion tracking](motion-tracking.md).
+- Open when looking up Paint tools in After Effects. [Paint tools](paint-tools.md).
+- Open when looking up Panel shortcuts in After Effects. [Panel shortcuts](panel-shortcuts.md).
+- Open when looking up Panels, viewers, workspaces, and windows in After Effects. [Panels, viewers, workspaces, and windows](panels-viewers-workspaces-and-windows.md).
+- Open when looking up Preferences in After Effects. [Preferences](preferences.md).
+- Open when looking up Previews in After Effects. [Previews](previews.md).
+- Open when looking up Projects in After Effects. [Projects](projects.md).
+- Open when looking up Resolution in After Effects. [Resolution](resolution.md).
+- Open when looking up Saving custom keyboard shortcut sets in After Effects. [Saving custom keyboard shortcut sets](saving-custom-keyboard-shortcut-sets.md).
+- Open when looking up Saving, exporting, and rendering in After Effects. [Saving, exporting, and rendering](saving-exporting-and-rendering.md).
+- Open when looking up Shape layers in After Effects. [Shape layers](shape-layers.md).
+- Open when looking up Showing properties and groups in the Timeline panel in After Effects. [Showing properties and groups in the Timeline panel](showing-properties-and-groups-in-the-timeline-panel.md).
+- Open when looking up Showing properties in the Effect Controls panel in After Effects. [Showing properties in the Effect Controls panel](showing-properties-in-the-effect-controls-panel.md).
+- Open when looking up Text in After Effects. [Text](text.md).
+- Open when looking up Time navigation in After Effects. [Time navigation](time-navigation.md).
+- Open when looking up Views in After Effects. [Views](views.md).
+- Open when looking up Visual Keyboard Shortcut Editor in After Effects. [Visual Keyboard Shortcut Editor](visual-keyboard-shortcut-editor.md).
+- Open when looking up Work with Visual Keyboard Shortcut Editor in After Effects. [Work with Visual Keyboard Shortcut Editor](work-with-visual-keyboard-shortcut-editor.md).

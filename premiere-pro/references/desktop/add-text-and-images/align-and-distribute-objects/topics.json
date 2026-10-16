@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Align objects", "file": "references/desktop/add-text-and-images/align-and-distribute-objects/align-objects.md", "summary": "Open when looking up Align objects in Premiere Pro.", "keywords": ["Align objects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

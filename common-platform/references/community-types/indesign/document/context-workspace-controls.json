@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.layoutWindows", "file": "references/community-types/indesign/document/layout-windows.md", "summary": "Open when looking up Document.layoutWindows in Shared Adobe platform.", "keywords": ["Document.layoutWindows"]},
+  {"topic": "Document.storyWindows", "file": "references/community-types/indesign/document/story-windows.md", "summary": "Open when looking up Document.storyWindows in Shared Adobe platform.", "keywords": ["Document.storyWindows"]},
+  {"topic": "Document.viewPreferences", "file": "references/community-types/indesign/document/view-preferences.md", "summary": "Open when looking up Document.viewPreferences in Shared Adobe platform.", "keywords": ["Document.viewPreferences"]},
+  {"topic": "Document.windows", "file": "references/community-types/indesign/document/windows.md", "summary": "Open when looking up Document.windows in Shared Adobe platform.", "keywords": ["Document.windows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Join our community to connect, learn, and engage", "file": "references/web/get-started/learn-the-basics/adobe-firefly-overview/join-our-community-to-connect-learn-and-engage.md", "summary": "Open when looking up Join our community to connect, learn, and engage in Firefly.", "keywords": ["Join our community to connect, learn, and engage"]},
+  {"topic": "Key features", "file": "references/web/get-started/learn-the-basics/adobe-firefly-overview/key-features.md", "summary": "Open when looking up Key features in Firefly.", "keywords": ["Key features"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "LayerCreateOptions", "file": "references/uxp/types-layer-types-interfaces/layer-create-options.md", "summary": "Open when looking up LayerCreateOptions in Photoshop.", "keywords": ["LayerCreateOptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

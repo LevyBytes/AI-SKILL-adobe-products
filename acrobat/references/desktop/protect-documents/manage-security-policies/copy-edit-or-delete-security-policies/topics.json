@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Available policy management options", "file": "references/desktop/protect-documents/manage-security-policies/copy-edit-or-delete-security-policies/available-policy-management-options.md", "summary": "Open when looking up Available policy management options in Acrobat.", "keywords": ["Available policy management options"]},
+  {"topic": "Manage security policies", "file": "references/desktop/protect-documents/manage-security-policies/copy-edit-or-delete-security-policies/manage-security-policies.md", "summary": "Open when looking up Manage security policies in Acrobat.", "keywords": ["Manage security policies"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

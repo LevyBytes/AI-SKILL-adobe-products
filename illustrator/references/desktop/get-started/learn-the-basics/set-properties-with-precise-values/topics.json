@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Adjust values in specific increments", "file": "references/desktop/get-started/learn-the-basics/set-properties-with-precise-values/adjust-values-in-specific-increments.md", "summary": "Open when looking up Adjust values in specific increments in Illustrator.", "keywords": ["Adjust values in specific increments"]},
+  {"topic": "Enter values as basic math expressions", "file": "references/desktop/get-started/learn-the-basics/set-properties-with-precise-values/enter-values-as-basic-math-expressions.md", "summary": "Open when looking up Enter values as basic math expressions in Illustrator.", "keywords": ["Enter values as basic math expressions"]},
+  {"topic": "Enter values directly in supported measurement units", "file": "references/desktop/get-started/learn-the-basics/set-properties-with-precise-values/enter-values-directly-in-supported-measurement-units.md", "summary": "Open when looking up Enter values directly in supported measurement units in Illustrator.", "keywords": ["Enter values directly in supported measurement units"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

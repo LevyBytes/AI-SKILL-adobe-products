@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "bottom", "file": "references/uxp/css/properties/bottom.md", "summary": "Open when looking up bottom in Photoshop.", "keywords": ["bottom"]},
+  {"topic": "display", "file": "references/uxp/css/properties/display.md", "summary": "Open when looking up display in Photoshop.", "keywords": ["display"]},
+  {"topic": "left", "file": "references/uxp/css/properties/left.md", "summary": "Open when looking up left in Photoshop.", "keywords": ["left"]},
+  {"topic": "right", "file": "references/uxp/css/properties/right.md", "summary": "Open when looking up right in Photoshop.", "keywords": ["right"]},
+  {"topic": "Styles", "file": "references/uxp/css/properties/styles.md", "summary": "Open when looking up Styles in Photoshop.", "keywords": ["Styles"]},
+  {"topic": "top", "file": "references/uxp/css/properties/top.md", "summary": "Open when looking up top in Photoshop.", "keywords": ["top"]},
+  {"topic": "visibility", "file": "references/uxp/css/properties/visibility.md", "summary": "Open when looking up visibility in Photoshop.", "keywords": ["visibility"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Next steps", "file": "references/uxp/editing-the-photoshop-document/next-steps.md", "summary": "Open when looking up Next steps in Photoshop.", "keywords": ["Next steps"]},
+  {"topic": "Prerequisites", "file": "references/uxp/editing-the-photoshop-document/prerequisites.md", "summary": "Open when looking up Prerequisites in Photoshop.", "keywords": ["Prerequisites"]},
+  {"topic": "Step 1: Adjust the panel UI", "file": "references/uxp/editing-the-photoshop-document/step-1-adjust-the-panel-ui.md", "summary": "Open when looking up Step 1: Adjust the panel UI in Photoshop.", "keywords": ["Step 1: Adjust the panel UI"]},
+  {"topic": "Step 2: Adjust the index.js", "file": "references/uxp/editing-the-photoshop-document/step-2-adjust-the-index-js.md", "summary": "Open when looking up Step 2: Adjust the index.js in Photoshop.", "keywords": ["Step 2: Adjust the index.js"]},
+  {"topic": "Step 3: Solve problem with consecutive executions", "file": "references/uxp/editing-the-photoshop-document/step-3-solve-problem-with-consecutive-executions.md", "summary": "Open when looking up Step 3: Solve problem with consecutive executions in Photoshop.", "keywords": ["Step 3: Solve problem with consecutive executions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

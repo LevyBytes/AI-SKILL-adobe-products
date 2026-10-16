@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Change the bit depth of a file", "file": "references/desktop/editing-audio-files/converting-sample-types/change-the-bit-depth-of-a-file.md", "summary": "Open when looking up Change the bit depth of a file in Audition.", "keywords": ["Change the bit depth of a file"]},
+  {"topic": "Convert a waveform between surround, stereo, and mono", "file": "references/desktop/editing-audio-files/converting-sample-types/convert-a-waveform-between-surround-stereo-and-mono.md", "summary": "Open when looking up Convert a waveform between surround, stereo, and mono in Audition.", "keywords": ["Convert a waveform between surround, stereo, and mono"]},
+  {"topic": "Convert the sample rate of a file", "file": "references/desktop/editing-audio-files/converting-sample-types/convert-the-sample-rate-of-a-file.md", "summary": "Open when looking up Convert the sample rate of a file in Audition.", "keywords": ["Convert the sample rate of a file"]},
+  {"topic": "Use sample rate conversion presets", "file": "references/desktop/editing-audio-files/converting-sample-types/use-sample-rate-conversion-presets.md", "summary": "Open when looking up Use sample rate conversion presets in Audition.", "keywords": ["Use sample rate conversion presets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

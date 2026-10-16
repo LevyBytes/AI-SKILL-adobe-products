@@ -1,0 +1,27 @@
+# Shared Adobe platform — TrackChangesPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TrackChangesPreference declaration in Shared Adobe platform. [TrackChangesPreference declaration](declaration.md).
+- Open when looking up TrackChangesPreference.addedBackgroundColorChoice in Shared Adobe platform. [TrackChangesPreference.addedBackgroundColorChoice](added-background-color-choice.md).
+- Open when looking up TrackChangesPreference.addedTextColorChoice in Shared Adobe platform. [TrackChangesPreference.addedTextColorChoice](added-text-color-choice.md).
+- Open when looking up TrackChangesPreference.backgroundColorForAddedText in Shared Adobe platform. [TrackChangesPreference.backgroundColorForAddedText](background-color-for-added-text.md).
+- Open when looking up TrackChangesPreference.backgroundColorForDeletedText in Shared Adobe platform. [TrackChangesPreference.backgroundColorForDeletedText](background-color-for-deleted-text.md).
+- Open when looking up TrackChangesPreference.backgroundColorForMovedText in Shared Adobe platform. [TrackChangesPreference.backgroundColorForMovedText](background-color-for-moved-text.md).
+- Open when looking up TrackChangesPreference.changeBarColor in Shared Adobe platform. [TrackChangesPreference.changeBarColor](change-bar-color.md).
+- Open when looking up TrackChangesPreference.deletedBackgroundColorChoice in Shared Adobe platform. [TrackChangesPreference.deletedBackgroundColorChoice](deleted-background-color-choice.md).
+- Open when looking up TrackChangesPreference.deletedTextColorChoice in Shared Adobe platform. [TrackChangesPreference.deletedTextColorChoice](deleted-text-color-choice.md).
+- Open when looking up TrackChangesPreference.locationForChangeBar in Shared Adobe platform. [TrackChangesPreference.locationForChangeBar](location-for-change-bar.md).
+- Open when looking up TrackChangesPreference.markingForAddedText in Shared Adobe platform. [TrackChangesPreference.markingForAddedText](marking-for-added-text.md).
+- Open when looking up TrackChangesPreference.markingForDeletedText in Shared Adobe platform. [TrackChangesPreference.markingForDeletedText](marking-for-deleted-text.md).
+- Open when looking up TrackChangesPreference.markingForMovedText in Shared Adobe platform. [TrackChangesPreference.markingForMovedText](marking-for-moved-text.md).
+- Open when looking up TrackChangesPreference.movedBackgroundColorChoice in Shared Adobe platform. [TrackChangesPreference.movedBackgroundColorChoice](moved-background-color-choice.md).
+- Open when looking up TrackChangesPreference.movedTextColorChoice in Shared Adobe platform. [TrackChangesPreference.movedTextColorChoice](moved-text-color-choice.md).
+- Open when looking up TrackChangesPreference.preventDuplicateColor in Shared Adobe platform. [TrackChangesPreference.preventDuplicateColor](prevent-duplicate-color.md).
+- Open when looking up TrackChangesPreference.showAddedText in Shared Adobe platform. [TrackChangesPreference.showAddedText](show-added-text.md).
+- Open when looking up TrackChangesPreference.showChangeBars in Shared Adobe platform. [TrackChangesPreference.showChangeBars](show-change-bars.md).
+- Open when looking up TrackChangesPreference.showDeletedText in Shared Adobe platform. [TrackChangesPreference.showDeletedText](show-deleted-text.md).
+- Open when looking up TrackChangesPreference.showMovedText in Shared Adobe platform. [TrackChangesPreference.showMovedText](show-moved-text.md).
+- Open when looking up TrackChangesPreference.spellCheckDeletedText in Shared Adobe platform. [TrackChangesPreference.spellCheckDeletedText](spell-check-deleted-text.md).
+- Open when looking up TrackChangesPreference.textColorForAddedText in Shared Adobe platform. [TrackChangesPreference.textColorForAddedText](text-color-for-added-text.md).
+- Open when looking up TrackChangesPreference.textColorForDeletedText in Shared Adobe platform. [TrackChangesPreference.textColorForDeletedText](text-color-for-deleted-text.md).
+- Open when looking up TrackChangesPreference.textColorForMovedText in Shared Adobe platform. [TrackChangesPreference.textColorForMovedText](text-color-for-moved-text.md).

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "PathPointInfo sample script", "file": "references/uxp/host-api/path-point-info/path-point-info-sample-script.md", "summary": "Open when looking up PathPointInfo sample script in Photoshop.", "keywords": ["PathPointInfo sample script"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

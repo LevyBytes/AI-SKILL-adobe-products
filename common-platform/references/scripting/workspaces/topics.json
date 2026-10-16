@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Configuring the Toolkit window — Workspaces", "file": "references/scripting/workspaces/configuring-the-toolkit-window-workspaces.md", "summary": "Open when looking up Configuring the Toolkit window — Workspaces in Shared Adobe platform.", "keywords": ["Configuring the Toolkit window — Workspaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

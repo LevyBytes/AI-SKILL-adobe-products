@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP Suites — Managing Selections", "file": "references/plugin-sdk/managing-selections/aegp-suites-managing-selections.md", "summary": "Open when looking up AEGP Suites — Managing Selections in After Effects.", "keywords": ["AEGP Suites — Managing Selections"]},
+  {"topic": "Ownership Of Collection Items", "file": "references/plugin-sdk/managing-selections/ownership-of-collection-items.md", "summary": "Open when looking up Ownership Of Collection Items in After Effects.", "keywords": ["Ownership Of Collection Items"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

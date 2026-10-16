@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP_IOInSuite5", "file": "references/plugin-sdk/aegpio-in-suite5.md", "summary": "Open when looking up AEGP_IOInSuite5 in After Effects.", "keywords": ["AEGP_IOInSuite5"]},
+  {"topic": "AEGP_IOInSuite5 references", "file": "references/plugin-sdk/aegpio-in-suite5/reference-index.md", "summary": "Open when looking up AEGP_IOInSuite5 in After Effects.", "keywords": ["AEGP_IOInSuite5 references"]},
+  {"topic": "AEGPIOOutSuite4", "file": "references/plugin-sdk/aegpio-out-suite4.md", "summary": "Open when looking up AEGPIOOutSuite4 in After Effects.", "keywords": ["AEGPIOOutSuite4"]},
+  {"topic": "AEGPIOOutSuite4 references", "file": "references/plugin-sdk/aegpio-out-suite4/reference-index.md", "summary": "Open when looking up AEGPIOOutSuite4 in After Effects.", "keywords": ["AEGPIOOutSuite4 references"]},
+  {"topic": "Aeio function block4 references", "file": "references/plugin-sdk/aeio-function-block4/reference-index.md", "summary": "Open when looking up Aeio function block4 in After Effects.", "keywords": ["Aeio function block4 references"]},
+  {"topic": "New Kids On The Function Block", "file": "references/plugin-sdk/new-kids-on-the-function-block.md", "summary": "Open when looking up New Kids On The Function Block in After Effects.", "keywords": ["New Kids On The Function Block"]},
+  {"topic": "What goes in references", "file": "references/plugin-sdk/what-goes-in/reference-index.md", "summary": "Open when looking up What goes in in After Effects.", "keywords": ["What goes in references"]},
+  {"topic": "What goes out references", "file": "references/plugin-sdk/what-goes-out/reference-index.md", "summary": "Open when looking up What goes out in After Effects.", "keywords": ["What goes out references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

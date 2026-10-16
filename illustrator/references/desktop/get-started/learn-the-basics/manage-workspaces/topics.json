@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Delete workspaces", "file": "references/desktop/get-started/learn-the-basics/manage-workspaces/delete-workspaces.md", "summary": "Open when looking up Delete workspaces in Illustrator.", "keywords": ["Delete workspaces"]},
+  {"topic": "Save workspaces", "file": "references/desktop/get-started/learn-the-basics/manage-workspaces/save-workspaces.md", "summary": "Open when looking up Save workspaces in Illustrator.", "keywords": ["Save workspaces"]},
+  {"topic": "Switch workspaces", "file": "references/desktop/get-started/learn-the-basics/manage-workspaces/switch-workspaces.md", "summary": "Open when looking up Switch workspaces in Illustrator.", "keywords": ["Switch workspaces"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

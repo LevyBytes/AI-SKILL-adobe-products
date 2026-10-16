@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Learn about Color Management in Adobe Premiere.", "file": "references/desktop/color-management-overview/learn-about-color-management-in-adobe-premiere.md", "summary": "Open when looking up Learn about Color Management in Adobe Premiere. in Premiere Pro.", "keywords": ["Learn about Color Management in Adobe Premiere."]},
+  {"topic": "Overview of Color Management features", "file": "references/desktop/color-management-overview/overview-of-color-management-features.md", "summary": "Open when looking up Overview of Color Management features in Premiere Pro.", "keywords": ["Overview of Color Management features"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

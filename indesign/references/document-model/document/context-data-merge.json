@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "dataMergeImagePlaceholders", "file": "references/document-model/document/data-merge-image-placeholders.md", "summary": "Open when looking up dataMergeImagePlaceholders in InDesign.", "keywords": ["dataMergeImagePlaceholders"]},
+  {"topic": "dataMergeOptions", "file": "references/document-model/document/data-merge-options.md", "summary": "Open when looking up dataMergeOptions in InDesign.", "keywords": ["dataMergeOptions"]},
+  {"topic": "dataMergeProperties", "file": "references/document-model/document/data-merge-properties.md", "summary": "Open when looking up dataMergeProperties in InDesign.", "keywords": ["dataMergeProperties"]},
+  {"topic": "dataMergeQrcodePlaceholders", "file": "references/document-model/document/data-merge-qrcode-placeholders.md", "summary": "Open when looking up dataMergeQrcodePlaceholders in InDesign.", "keywords": ["dataMergeQrcodePlaceholders"]},
+  {"topic": "dataMergeTextPlaceholders", "file": "references/document-model/document/data-merge-text-placeholders.md", "summary": "Open when looking up dataMergeTextPlaceholders in InDesign.", "keywords": ["dataMergeTextPlaceholders"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

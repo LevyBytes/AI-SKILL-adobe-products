@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Timecode and time display units", "file": "references/desktop/animation/add-timecode-and-time-display-units/timecode-and-time-display-units.md", "summary": "Open when looking up Timecode and time display units in After Effects.", "keywords": ["Timecode and time display units"]},
+  {"topic": "Timecode and time display units references", "file": "references/desktop/animation/add-timecode-and-time-display-units/timecode-and-time-display-units/reference-index.md", "summary": "Open when looking up Timecode and time display units in After Effects.", "keywords": ["Timecode and time display units references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

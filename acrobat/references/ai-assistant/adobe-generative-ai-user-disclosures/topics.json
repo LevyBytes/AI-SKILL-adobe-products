@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Attributions", "file": "references/ai-assistant/adobe-generative-ai-user-disclosures/attributions.md", "summary": "Open when looking up Attributions in Acrobat.", "keywords": ["Attributions"]},
+  {"topic": "Feedback", "file": "references/ai-assistant/adobe-generative-ai-user-disclosures/feedback.md", "summary": "Open when looking up Feedback in Acrobat.", "keywords": ["Feedback"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

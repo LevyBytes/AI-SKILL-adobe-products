@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PreflightRule declaration", "file": "references/community-types/indesign/preflight-rule/declaration.md", "summary": "Open when looking up PreflightRule declaration in Shared Adobe platform.", "keywords": ["PreflightRule declaration"]},
+  {"topic": "PreflightRule event listeners", "file": "references/community-types/indesign/preflight-rule/event-listeners.md", "summary": "Open when looking up PreflightRule event listeners in Shared Adobe platform.", "keywords": ["PreflightRule event listeners"]},
+  {"topic": "PreflightRule identity and parent", "file": "references/community-types/indesign/preflight-rule/identity-and-parent.md", "summary": "Open when looking up PreflightRule identity and parent in Shared Adobe platform.", "keywords": ["PreflightRule identity and parent"]},
+  {"topic": "PreflightRule object resolution", "file": "references/community-types/indesign/preflight-rule/object-resolution.md", "summary": "Open when looking up PreflightRule object resolution in Shared Adobe platform.", "keywords": ["PreflightRule object resolution"]},
+  {"topic": "PreflightRule.description", "file": "references/community-types/indesign/preflight-rule/description.md", "summary": "Open when looking up PreflightRule.description in Shared Adobe platform.", "keywords": ["PreflightRule.description"]},
+  {"topic": "PreflightRule.fullFeature", "file": "references/community-types/indesign/preflight-rule/full-feature.md", "summary": "Open when looking up PreflightRule.fullFeature in Shared Adobe platform.", "keywords": ["PreflightRule.fullFeature"]},
+  {"topic": "PreflightRule.properties", "file": "references/community-types/indesign/preflight-rule/properties.md", "summary": "Open when looking up PreflightRule.properties in Shared Adobe platform.", "keywords": ["PreflightRule.properties"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

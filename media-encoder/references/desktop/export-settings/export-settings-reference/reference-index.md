@@ -1,0 +1,24 @@
+# Media Encoder — Export Settings Reference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Audio in Media Encoder. [Audio](audio.md).
+- Open when looking up Captions in Media Encoder. [Captions](captions.md).
+- Open when looking up Compare view in Media Encoder. [Compare view](compare-view.md).
+- Open when looking up Crop settings in Media Encoder. [Crop settings](crop-settings.md).
+- Open when looking up Effects settings in Media Encoder. [Effects settings](effects-settings.md).
+- Open when looking up Export and thin XMP metadata in Media Encoder. [Export and thin XMP metadata](export-and-thin-xmp-metadata.md).
+- Open when looking up Export Settings in Media Encoder. [Export Settings](export-settings.md).
+- Open when looking up Export Settings dialog in Media Encoder. [Export Settings dialog](export-settings-dialog.md).
+- Open when looking up Horizontal and Vertical Field of View in Media Encoder. [Horizontal and Vertical Field of View](horizontal-and-vertical-field-of-view.md).
+- Open when looking up Match Source controls and presets in Media Encoder. [Match Source controls and presets](match-source-controls-and-presets.md).
+- Open when looking up Multiplexer in Media Encoder. [Multiplexer](multiplexer.md).
+- Open when looking up Output view in Media Encoder. [Output view](output-view.md).
+- Open when looking up Publish in Media Encoder. [Publish](publish.md).
+- Open when looking up Render and time interpolation settings in Media Encoder. [Render and time interpolation settings](render-and-time-interpolation-settings.md).
+- Open when looking up Source Rotation in Media Encoder. [Source Rotation](source-rotation.md).
+- Open when looking up Source Scaling in Media Encoder. [Source Scaling](source-scaling.md).
+- Open when looking up Source view in Media Encoder. [Source view](source-view.md).
+- Open when looking up Timeline and time display in Media Encoder. [Timeline and time display](timeline-and-time-display.md).
+- Open when looking up Video encoding, bitrate and advanced controls in Media Encoder. [Video encoding, bitrate and advanced controls](video-encoding-controls.md).
+- Open when looking up Video settings and Match Source formats in Media Encoder. [Video settings and Match Source formats](video-settings.md).
+- Open when looking up VR export settings in Media Encoder. [VR export settings](vr-export-settings.md).

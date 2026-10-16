@@ -1,0 +1,27 @@
+# Shared Adobe platform — MultiStateObject
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up MultiStateObject declaration in Shared Adobe platform. [MultiStateObject declaration](declaration.md).
+- Open when looking up MultiStateObject.addItemsAsState in Shared Adobe platform. [MultiStateObject.addItemsAsState](add-items-as-state.md).
+- Open when looking up MultiStateObject.bringForward in Shared Adobe platform. [MultiStateObject.bringForward](bring-forward.md).
+- Open when looking up MultiStateObject.bringToFront in Shared Adobe platform. [MultiStateObject.bringToFront](bring-to-front.md).
+- Open when looking up MultiStateObject.endnoteTextFrames in Shared Adobe platform. [MultiStateObject.endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up MultiStateObject.epss in Shared Adobe platform. [MultiStateObject.epss](epss.md).
+- Open when looking up MultiStateObject.epstexts in Shared Adobe platform. [MultiStateObject.epstexts](epstexts.md).
+- Open when looking up MultiStateObject.graphicLines in Shared Adobe platform. [MultiStateObject.graphicLines](graphic-lines.md).
+- Open when looking up MultiStateObject.groups in Shared Adobe platform. [MultiStateObject.groups](groups.md).
+- Open when looking up MultiStateObject.images in Shared Adobe platform. [MultiStateObject.images](images.md).
+- Open when looking up MultiStateObject.initiallyHidden in Shared Adobe platform. [MultiStateObject.initiallyHidden](initially-hidden.md).
+- Open when looking up MultiStateObject.ovals in Shared Adobe platform. [MultiStateObject.ovals](ovals.md).
+- Open when looking up MultiStateObject.paths in Shared Adobe platform. [MultiStateObject.paths](paths.md).
+- Open when looking up MultiStateObject.pdfs in Shared Adobe platform. [MultiStateObject.pdfs](pdfs.md).
+- Open when looking up MultiStateObject.picts in Shared Adobe platform. [MultiStateObject.picts](picts.md).
+- Open when looking up MultiStateObject.polygons in Shared Adobe platform. [MultiStateObject.polygons](polygons.md).
+- Open when looking up MultiStateObject.rectangles in Shared Adobe platform. [MultiStateObject.rectangles](rectangles.md).
+- Open when looking up MultiStateObject.releaseAsObjects in Shared Adobe platform. [MultiStateObject.releaseAsObjects](release-as-objects.md).
+- Open when looking up MultiStateObject.sendBackward in Shared Adobe platform. [MultiStateObject.sendBackward](send-backward.md).
+- Open when looking up MultiStateObject.sendToBack in Shared Adobe platform. [MultiStateObject.sendToBack](send-to-back.md).
+- Open when looking up MultiStateObject.splineItems in Shared Adobe platform. [MultiStateObject.splineItems](spline-items.md).
+- Open when looking up MultiStateObject.states in Shared Adobe platform. [MultiStateObject.states](states.md).
+- Open when looking up MultiStateObject.textFrames in Shared Adobe platform. [MultiStateObject.textFrames](text-frames.md).
+- Open when looking up MultiStateObject.wmfs in Shared Adobe platform. [MultiStateObject.wmfs](wmfs.md).

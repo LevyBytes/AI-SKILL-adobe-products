@@ -1,0 +1,22 @@
+# Photoshop — Remove objects and fill space
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust Content-Aware Fill settings in Photoshop. [Adjust Content-Aware Fill settings](adjust-content-aware-fill-settings.md).
+- Open when looking up Adjust Content-Aware Fill settings in Photoshop. [Adjust Content-Aware Fill settings references](adjust-content-aware-fill-settings/reference-index.md).
+- Open when looking up Apply or cancel Content-Aware fill changes in Photoshop. [Apply or cancel Content-Aware fill changes](apply-or-cancel-content-aware-fill-changes.md).
+- Open when looking up Blend objects and people into any background with Harmonize in Photoshop. [Blend objects and people into any background with Harmonize](blend-objects-and-people-into-any-background-with-harmonize.md).
+- Open when looking up Remove background in your images in Photoshop. [Remove background in your images](remove-background-in-your-images.md).
+- Open when looking up Remove objects in Photoshop. [Remove objects](remove-objects.md).
+- Open when looking up Remove objects and fill the area with Content-Aware Fill in Photoshop. [Remove objects and fill the area with Content-Aware Fill](remove-objects-and-fill-the-area-with-content-aware-fill.md).
+- Open when looking up Remove objects from within the Contextual Task Bar in Photoshop. [Remove objects from within the Contextual Task Bar](remove-objects-from-within-the-contextual-task-bar.md).
+- Open when looking up Remove objects in Photoshop. [Remove objects references](remove-objects/reference-index.md).
+- Open when looking up Remove tool known issues and workarounds in Photoshop. [Remove tool known issues and workarounds](remove-tool-known-issues-and-workarounds.md).
+- Open when looking up Remove tool minimum and recommended hardware requirements in Photoshop. [Remove tool minimum and recommended hardware requirements](remove-tool-minimum-and-recommended-hardware-requirements.md).
+- Open when looking up Remove wires, people, and general distractions in Photoshop. [Remove wires, people, and general distractions](remove-wires-people-and-general-distractions.md).
+- Open when looking up Remove wires, people, and general distractions in Photoshop. [Remove wires, people, and general distractions references](remove-wires-people-and-general-distractions/reference-index.md).
+- Open when looking up Replace background with Generate Background in Photoshop. [Replace background with Generate Background](replace-background-with-generate-background.md).
+- Open when looking up Retouch tools overview in Photoshop. [Retouch tools overview](retouch-tools-overview.md).
+- Open when looking up Review and refine general distractions in Photoshop. [Review and refine general distractions](review-and-refine-general-distractions.md).
+- Open when looking up Tools to fine-tune sampling and fill areas in Photoshop. [Tools to fine-tune sampling and fill areas](tools-to-fine-tune-sampling-and-fill-areas.md).
+- Open when looking up Tools to fine-tune sampling and fill areas in Photoshop. [Tools to fine-tune sampling and fill areas references](tools-to-fine-tune-sampling-and-fill-areas/reference-index.md).
+- Open when looking up View full-resolution preview in the Preview panel in Photoshop. [View full-resolution preview in the Preview panel](view-full-resolution-preview-in-the-preview-panel.md).

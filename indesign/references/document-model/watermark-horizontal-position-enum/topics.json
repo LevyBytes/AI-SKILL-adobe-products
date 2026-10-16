@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "WATERMARK_H_CENTER", "file": "references/document-model/watermark-horizontal-position-enum/watermarkhcenter.md", "summary": "Open when looking up WATERMARK_H_CENTER in InDesign.", "keywords": ["WATERMARK_H_CENTER"]},
+  {"topic": "WATERMARK_H_LEFT", "file": "references/document-model/watermark-horizontal-position-enum/watermarkhleft.md", "summary": "Open when looking up WATERMARK_H_LEFT in InDesign.", "keywords": ["WATERMARK_H_LEFT"]},
+  {"topic": "WATERMARK_H_RIGHT", "file": "references/document-model/watermark-horizontal-position-enum/watermarkhright.md", "summary": "Open when looking up WATERMARK_H_RIGHT in InDesign.", "keywords": ["WATERMARK_H_RIGHT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

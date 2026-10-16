@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Delete media cache files manually to improve Premiere performance.", "file": "references/desktop/delete-media-cache-files-manually/manual-media-cache-cleanup.md", "summary": "Open when looking up Delete media cache files manually to improve Premiere performance. in Premiere Pro.", "keywords": ["Delete media cache files manually to improve Premiere performance."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

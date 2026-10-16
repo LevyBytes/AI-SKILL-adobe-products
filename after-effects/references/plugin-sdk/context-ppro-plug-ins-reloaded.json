@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Custom ECW UI Over A Standard Data Type", "file": "references/plugin-sdk/custom-ecw-ui-over-a-standard-data-type.md", "summary": "Open when looking up Custom ECW UI Over A Standard Data Type in After Effects.", "keywords": ["Custom ECW UI Over A Standard Data Type"]},
+  {"topic": "Effects Presets", "file": "references/plugin-sdk/effects-presets.md", "summary": "Open when looking up Effects Presets in After Effects.", "keywords": ["Effects Presets"]},
+  {"topic": "Plug-Ins... Reloaded", "file": "references/plugin-sdk/plug-ins-reloaded.md", "summary": "Open when looking up Plug-Ins... Reloaded in After Effects.", "keywords": ["Plug-Ins... Reloaded"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

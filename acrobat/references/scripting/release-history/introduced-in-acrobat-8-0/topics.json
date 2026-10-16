@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Certificate", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/certificate.md", "summary": "Open when looking up Certificate in Acrobat.", "keywords": ["Certificate"]},
+  {"topic": "CertificateSpecifier", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/certificate-specifier.md", "summary": "Open when looking up CertificateSpecifier in Acrobat.", "keywords": ["CertificateSpecifier"]},
+  {"topic": "colorConvertAction", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/color-convert-action.md", "summary": "Open when looking up colorConvertAction in Acrobat.", "keywords": ["colorConvertAction"]},
+  {"topic": "Doc", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/doc.md", "summary": "Open when looking up Doc in Acrobat.", "keywords": ["Doc"]},
+  {"topic": "Net", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/net.md", "summary": "Open when looking up Net in Acrobat.", "keywords": ["Net"]},
+  {"topic": "Net.HTTP", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/net-http.md", "summary": "Open when looking up Net.HTTP in Acrobat.", "keywords": ["Net.HTTP"]},
+  {"topic": "PrintParams", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/print-params.md", "summary": "Open when looking up PrintParams in Acrobat.", "keywords": ["PrintParams"]},
+  {"topic": "RDN", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/rdn.md", "summary": "Open when looking up RDN in Acrobat.", "keywords": ["RDN"]},
+  {"topic": "SecurityHandler", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/security-handler.md", "summary": "Open when looking up SecurityHandler in Acrobat.", "keywords": ["SecurityHandler"]},
+  {"topic": "SeedValue", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/seed-value.md", "summary": "Open when looking up SeedValue in Acrobat.", "keywords": ["SeedValue"]},
+  {"topic": "SignatureInfo", "file": "references/scripting/release-history/introduced-in-acrobat-8-0/signature-info.md", "summary": "Open when looking up SignatureInfo in Acrobat.", "keywords": ["SignatureInfo"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

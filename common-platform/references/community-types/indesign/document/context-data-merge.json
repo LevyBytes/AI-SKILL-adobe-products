@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.dataMergeImagePlaceholders", "file": "references/community-types/indesign/document/data-merge-image-placeholders.md", "summary": "Open when looking up Document.dataMergeImagePlaceholders in Shared Adobe platform.", "keywords": ["Document.dataMergeImagePlaceholders"]},
+  {"topic": "Document.dataMergeOptions", "file": "references/community-types/indesign/document/data-merge-options.md", "summary": "Open when looking up Document.dataMergeOptions in Shared Adobe platform.", "keywords": ["Document.dataMergeOptions"]},
+  {"topic": "Document.dataMergeProperties", "file": "references/community-types/indesign/document/data-merge-properties.md", "summary": "Open when looking up Document.dataMergeProperties in Shared Adobe platform.", "keywords": ["Document.dataMergeProperties"]},
+  {"topic": "Document.dataMergeQrcodePlaceholders", "file": "references/community-types/indesign/document/data-merge-qrcode-placeholders.md", "summary": "Open when looking up Document.dataMergeQrcodePlaceholders in Shared Adobe platform.", "keywords": ["Document.dataMergeQrcodePlaceholders"]},
+  {"topic": "Document.dataMergeTextPlaceholders", "file": "references/community-types/indesign/document/data-merge-text-placeholders.md", "summary": "Open when looking up Document.dataMergeTextPlaceholders in Shared Adobe platform.", "keywords": ["Document.dataMergeTextPlaceholders"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

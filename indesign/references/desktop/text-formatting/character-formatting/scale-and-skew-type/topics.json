@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Adjust horizontal or vertical scaling", "file": "references/desktop/text-formatting/character-formatting/scale-and-skew-type/adjust-horizontal-or-vertical-scaling.md", "summary": "Open when looking up Adjust horizontal or vertical scaling in InDesign.", "keywords": ["Adjust horizontal or vertical scaling"]},
+  {"topic": "Control how scaled values appear", "file": "references/desktop/text-formatting/character-formatting/scale-and-skew-type/control-how-scaled-values-appear.md", "summary": "Open when looking up Control how scaled values appear in InDesign.", "keywords": ["Control how scaled values appear"]},
+  {"topic": "Scale type by resizing a text frame", "file": "references/desktop/text-formatting/character-formatting/scale-and-skew-type/scale-type-by-resizing-a-text-frame.md", "summary": "Open when looking up Scale type by resizing a text frame in InDesign.", "keywords": ["Scale type by resizing a text frame"]},
+  {"topic": "Skew type", "file": "references/desktop/text-formatting/character-formatting/scale-and-skew-type/skew-type.md", "summary": "Open when looking up Skew type in InDesign.", "keywords": ["Skew type"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

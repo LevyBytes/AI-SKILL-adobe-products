@@ -1,0 +1,32 @@
+# InDesign — StoryWindow
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up AFTER_ACTIVATE in InDesign. [AFTER_ACTIVATE](afteractivate.md).
+- Open when looking up AFTER_ATTRIBUTE_CHANGED in InDesign. [AFTER_ATTRIBUTE_CHANGED](afterattributechanged.md).
+- Open when looking up AFTER_CLOSE in InDesign. [AFTER_CLOSE](afterclose.md).
+- Open when looking up AFTER_OPEN in InDesign. [AFTER_OPEN](afteropen.md).
+- Open when looking up AFTER_SELECTION_ATTRIBUTE_CHANGED in InDesign. [AFTER_SELECTION_ATTRIBUTE_CHANGED](afterselectionattributechanged.md).
+- Open when looking up AFTER_SELECTION_CHANGED in InDesign. [AFTER_SELECTION_CHANGED](afterselectionchanged.md).
+- Open when looking up BEFORE_CLOSE in InDesign. [BEFORE_CLOSE](beforeclose.md).
+- Open when looking up BEFORE_DEACTIVATE in InDesign. [BEFORE_DEACTIVATE](beforedeactivate.md).
+- Open when looking up bounds in InDesign. [bounds](bounds.md).
+- Open when looking up bringToFront in InDesign. [bringToFront](bring-to-front.md).
+- Open when looking up close in InDesign. [close](close.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up maximize in InDesign. [maximize](maximize.md).
+- Open when looking up minimize in InDesign. [minimize](minimize.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up restore in InDesign. [restore](restore.md).
+- Open when looking up select in InDesign. [select](select.md).
+- Open when looking up selection in InDesign. [selection](selection.md).
+- Open when looking up selectionKeyObject in InDesign. [selectionKeyObject](selection-key-object.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

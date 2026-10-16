@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Annot attachment references", "file": "references/scripting/annot-attachment/reference-index.md", "summary": "Open when looking up Annot attachment in Acrobat.", "keywords": ["Annot attachment references"]},
+  {"topic": "Annotation references", "file": "references/scripting/annotation/reference-index.md", "summary": "Open when looking up Annotation in Acrobat.", "keywords": ["Annotation references"]},
+  {"topic": "Bookmark references", "file": "references/scripting/bookmark/reference-index.md", "summary": "Open when looking up Bookmark in Acrobat.", "keywords": ["Bookmark references"]},
+  {"topic": "Collab references", "file": "references/scripting/collab/reference-index.md", "summary": "Open when looking up Collab in Acrobat.", "keywords": ["Collab references"]},
+  {"topic": "Link references", "file": "references/scripting/link/reference-index.md", "summary": "Open when looking up Link in Acrobat.", "keywords": ["Link references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

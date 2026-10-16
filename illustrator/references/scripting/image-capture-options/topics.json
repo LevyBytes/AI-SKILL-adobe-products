@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "ImageCaptureOptions.antiAliasing", "file": "references/scripting/image-capture-options/anti-aliasing.md", "summary": "Open when looking up ImageCaptureOptions.antiAliasing in Illustrator.", "keywords": ["ImageCaptureOptions.antiAliasing"]},
+  {"topic": "ImageCaptureOptions.matte", "file": "references/scripting/image-capture-options/matte.md", "summary": "Open when looking up ImageCaptureOptions.matte in Illustrator.", "keywords": ["ImageCaptureOptions.matte"]},
+  {"topic": "ImageCaptureOptions.matteColor", "file": "references/scripting/image-capture-options/matte-color.md", "summary": "Open when looking up ImageCaptureOptions.matteColor in Illustrator.", "keywords": ["ImageCaptureOptions.matteColor"]},
+  {"topic": "ImageCaptureOptions.resolution", "file": "references/scripting/image-capture-options/resolution.md", "summary": "Open when looking up ImageCaptureOptions.resolution in Illustrator.", "keywords": ["ImageCaptureOptions.resolution"]},
+  {"topic": "ImageCaptureOptions.transparency", "file": "references/scripting/image-capture-options/transparency.md", "summary": "Open when looking up ImageCaptureOptions.transparency in Illustrator.", "keywords": ["ImageCaptureOptions.transparency"]},
+  {"topic": "ImageCaptureOptions.typename", "file": "references/scripting/image-capture-options/typename.md", "summary": "Open when looking up ImageCaptureOptions.typename in Illustrator.", "keywords": ["ImageCaptureOptions.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

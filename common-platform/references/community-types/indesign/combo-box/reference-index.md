@@ -1,0 +1,49 @@
+# Shared Adobe platform — ComboBox
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ComboBox declaration in Shared Adobe platform. [ComboBox declaration](declaration.md).
+- Open when looking up ComboBox.appliedFont in Shared Adobe platform. [ComboBox.appliedFont](applied-font.md).
+- Open when looking up ComboBox.behaviors in Shared Adobe platform. [ComboBox.behaviors](behaviors.md).
+- Open when looking up ComboBox.bringForward in Shared Adobe platform. [ComboBox.bringForward](bring-forward.md).
+- Open when looking up ComboBox.bringToFront in Shared Adobe platform. [ComboBox.bringToFront](bring-to-front.md).
+- Open when looking up ComboBox.choiceList in Shared Adobe platform. [ComboBox.choiceList](choice-list.md).
+- Open when looking up ComboBox.clearFormBehaviors in Shared Adobe platform. [ComboBox.clearFormBehaviors](clear-form-behaviors.md).
+- Open when looking up ComboBox.convertToObject in Shared Adobe platform. [ComboBox.convertToObject](convert-to-object.md).
+- Open when looking up ComboBox.epss in Shared Adobe platform. [ComboBox.epss](epss.md).
+- Open when looking up ComboBox.epstexts in Shared Adobe platform. [ComboBox.epstexts](epstexts.md).
+- Open when looking up ComboBox.fontSize in Shared Adobe platform. [ComboBox.fontSize](font-size.md).
+- Open when looking up ComboBox.fontStyle in Shared Adobe platform. [ComboBox.fontStyle](font-style.md).
+- Open when looking up ComboBox.gotoAnchorBehaviors in Shared Adobe platform. [ComboBox.gotoAnchorBehaviors](goto-anchor-behaviors.md).
+- Open when looking up ComboBox.gotoFirstPageBehaviors in Shared Adobe platform. [ComboBox.gotoFirstPageBehaviors](goto-first-page-behaviors.md).
+- Open when looking up ComboBox.gotoLastPageBehaviors in Shared Adobe platform. [ComboBox.gotoLastPageBehaviors](goto-last-page-behaviors.md).
+- Open when looking up ComboBox.gotoNextPageBehaviors in Shared Adobe platform. [ComboBox.gotoNextPageBehaviors](goto-next-page-behaviors.md).
+- Open when looking up ComboBox.gotoNextViewBehaviors in Shared Adobe platform. [ComboBox.gotoNextViewBehaviors](goto-next-view-behaviors.md).
+- Open when looking up ComboBox.gotoPreviousPageBehaviors in Shared Adobe platform. [ComboBox.gotoPreviousPageBehaviors](goto-previous-page-behaviors.md).
+- Open when looking up ComboBox.gotoPreviousViewBehaviors in Shared Adobe platform. [ComboBox.gotoPreviousViewBehaviors](goto-previous-view-behaviors.md).
+- Open when looking up ComboBox.gotoURLBehaviors in Shared Adobe platform. [ComboBox.gotoURLBehaviors](goto-url-behaviors.md).
+- Open when looking up ComboBox.graphicLines in Shared Adobe platform. [ComboBox.graphicLines](graphic-lines.md).
+- Open when looking up ComboBox.groups in Shared Adobe platform. [ComboBox.groups](groups.md).
+- Open when looking up ComboBox.hiddenUntilTriggered in Shared Adobe platform. [ComboBox.hiddenUntilTriggered](hidden-until-triggered.md).
+- Open when looking up ComboBox.images in Shared Adobe platform. [ComboBox.images](images.md).
+- Open when looking up ComboBox.movieBehaviors in Shared Adobe platform. [ComboBox.movieBehaviors](movie-behaviors.md).
+- Open when looking up ComboBox.openFileBehaviors in Shared Adobe platform. [ComboBox.openFileBehaviors](open-file-behaviors.md).
+- Open when looking up ComboBox.ovals in Shared Adobe platform. [ComboBox.ovals](ovals.md).
+- Open when looking up ComboBox.pdfs in Shared Adobe platform. [ComboBox.pdfs](pdfs.md).
+- Open when looking up ComboBox.picts in Shared Adobe platform. [ComboBox.picts](picts.md).
+- Open when looking up ComboBox.polygons in Shared Adobe platform. [ComboBox.polygons](polygons.md).
+- Open when looking up ComboBox.printableInPdf in Shared Adobe platform. [ComboBox.printableInPdf](printable-in-pdf.md).
+- Open when looking up ComboBox.printFormBehaviors in Shared Adobe platform. [ComboBox.printFormBehaviors](print-form-behaviors.md).
+- Open when looking up ComboBox.readOnly in Shared Adobe platform. [ComboBox.readOnly](read-only.md).
+- Open when looking up ComboBox.rectangles in Shared Adobe platform. [ComboBox.rectangles](rectangles.md).
+- Open when looking up ComboBox.required in Shared Adobe platform. [ComboBox.required](required.md).
+- Open when looking up ComboBox.rightToLeftField in Shared Adobe platform. [ComboBox.rightToLeftField](right-to-left-field.md).
+- Open when looking up ComboBox.sendBackward in Shared Adobe platform. [ComboBox.sendBackward](send-backward.md).
+- Open when looking up ComboBox.sendToBack in Shared Adobe platform. [ComboBox.sendToBack](send-to-back.md).
+- Open when looking up ComboBox.showHideFieldsBehaviors in Shared Adobe platform. [ComboBox.showHideFieldsBehaviors](show-hide-fields-behaviors.md).
+- Open when looking up ComboBox.sortChoices in Shared Adobe platform. [ComboBox.sortChoices](sort-choices.md).
+- Open when looking up ComboBox.soundBehaviors in Shared Adobe platform. [ComboBox.soundBehaviors](sound-behaviors.md).
+- Open when looking up ComboBox.splineItems in Shared Adobe platform. [ComboBox.splineItems](spline-items.md).
+- Open when looking up ComboBox.submitFormBehaviors in Shared Adobe platform. [ComboBox.submitFormBehaviors](submit-form-behaviors.md).
+- Open when looking up ComboBox.textFrames in Shared Adobe platform. [ComboBox.textFrames](text-frames.md).
+- Open when looking up ComboBox.viewZoomBehaviors in Shared Adobe platform. [ComboBox.viewZoomBehaviors](view-zoom-behaviors.md).
+- Open when looking up ComboBox.wmfs in Shared Adobe platform. [ComboBox.wmfs](wmfs.md).

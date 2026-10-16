@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Create podcasts", "file": "references/web/use-acrobat-ai/podcasts-in-acrobat-on-the-web/create-podcasts.md", "summary": "Open when looking up Create podcasts in Acrobat.", "keywords": ["Create podcasts"]},
+  {"topic": "Create podcasts references", "file": "references/web/use-acrobat-ai/podcasts-in-acrobat-on-the-web/create-podcasts/reference-index.md", "summary": "Open when looking up Create podcasts in Acrobat.", "keywords": ["Create podcasts references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

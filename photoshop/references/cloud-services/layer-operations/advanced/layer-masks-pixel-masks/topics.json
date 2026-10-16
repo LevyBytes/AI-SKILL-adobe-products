@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Deleting a pixel mask", "file": "references/cloud-services/layer-operations/advanced/layer-masks-pixel-masks/deleting-a-pixel-mask.md", "summary": "Open when looking up Deleting a pixel mask in Photoshop.", "keywords": ["Deleting a pixel mask"]},
+  {"topic": "Mask property changes", "file": "references/cloud-services/layer-operations/advanced/layer-masks-pixel-masks/mask-property-changes.md", "summary": "Open when looking up Mask property changes in Photoshop.", "keywords": ["Mask property changes"]},
+  {"topic": "Mask requirements", "file": "references/cloud-services/layer-operations/advanced/layer-masks-pixel-masks/mask-requirements.md", "summary": "Open when looking up Mask requirements in Photoshop.", "keywords": ["Mask requirements"]},
+  {"topic": "V1 approach", "file": "references/cloud-services/layer-operations/advanced/layer-masks-pixel-masks/v1-approach.md", "summary": "Open when looking up V1 approach in Photoshop.", "keywords": ["V1 approach"]},
+  {"topic": "V2 approach", "file": "references/cloud-services/layer-operations/advanced/layer-masks-pixel-masks/v2-approach.md", "summary": "Open when looking up V2 approach in Photoshop.", "keywords": ["V2 approach"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

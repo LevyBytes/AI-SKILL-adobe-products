@@ -1,0 +1,7 @@
+# Certificate
+
+
+**Properties:**
+
+- keyUsage
+- usage

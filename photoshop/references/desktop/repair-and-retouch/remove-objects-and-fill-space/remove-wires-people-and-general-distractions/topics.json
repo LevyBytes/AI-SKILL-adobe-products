@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Remove general distractions", "file": "references/desktop/repair-and-retouch/remove-objects-and-fill-space/remove-wires-people-and-general-distractions/remove-general-distractions.md", "summary": "Open when looking up Remove general distractions in Photoshop.", "keywords": ["Remove general distractions"]},
+  {"topic": "Remove people", "file": "references/desktop/repair-and-retouch/remove-objects-and-fill-space/remove-wires-people-and-general-distractions/remove-people.md", "summary": "Open when looking up Remove people in Photoshop.", "keywords": ["Remove people"]},
+  {"topic": "Remove unwanted wires", "file": "references/desktop/repair-and-retouch/remove-objects-and-fill-space/remove-wires-people-and-general-distractions/remove-unwanted-wires.md", "summary": "Open when looking up Remove unwanted wires in Photoshop.", "keywords": ["Remove unwanted wires"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

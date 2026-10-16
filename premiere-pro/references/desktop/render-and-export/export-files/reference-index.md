@@ -1,0 +1,32 @@
+# Premiere Pro — Export files
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Best practices for exporting video for social media and phones in Premiere Pro. [Best practices for exporting video for social media and phones](social-and-phone-export-practices.md).
+- Open when looking up Best practices for exporting video for social media and phones in Premiere Pro. [Best practices for exporting video for social media and phones references](social-and-phone-export/reference-index.md).
+- Open when looking up Create and export HDR videos for YouTube on Mac in Premiere Pro. [Create and export HDR videos for YouTube on Mac](create-and-export-hdr-videos-for-you-tube-on-mac.md).
+- Open when looking up Create and export HDR videos for YouTube on Mac in Premiere Pro. [Create and export HDR videos for YouTube on Mac references](mac-youtube-hdr/reference-index.md).
+- Open when looking up Create and save custom presets in Premiere Pro. [Create and save custom presets](create-and-save-custom-presets.md).
+- Open when looking up Export a project as a Final Cut Pro XML file in Premiere Pro. [Export a project as a Final Cut Pro XML file](export-a-project-as-a-final-cut-pro-xml-file.md).
+- Open when looking up Export a project as an EDL file in Premiere Pro. [Export a project as an EDL file](export-a-project-as-an-edl-file.md).
+- Open when looking up Export a still frame in Premiere Pro. [Export a still frame](export-a-still-frame.md).
+- Open when looking up Export a still image in Premiere Pro. [Export a still image](export-a-still-image.md).
+- Open when looking up Export AAF files in Premiere Pro. [Export AAF files](export-aaf-files.md).
+- Open when looking up Export caption tracks in Premiere Pro. [Export caption tracks](export-caption-tracks.md).
+- Open when looking up Export directly to Adobe Media Encoder in Premiere Pro. [Export directly to Adobe Media Encoder](export-directly-to-adobe-media-encoder.md).
+- Open when looking up Export OMF files for Pro Tools in Premiere Pro. [Export OMF files for Pro Tools](export-omf-files-for-pro-tools.md).
+- Open when looking up Export options in Premiere in Premiere Pro. [Export options in Premiere](export-options-in-premiere.md).
+- Open when looking up Export options in Premiere in Premiere Pro. [Export options in Premiere references](export-options-in-premiere/reference-index.md).
+- Open when looking up Export transcripts in Premiere Pro. [Export transcripts](export-transcripts.md).
+- Open when looking up Export video in Premiere Pro. [Export video](export-video.md).
+- Open when looking up Export video and audio files in Premiere Pro. [Export video and audio files](export-video-and-audio-files.md).
+- Open when looking up Export video in Premiere Pro. [Export video references](export-video/reference-index.md).
+- Open when looking up Manage presets in Premiere Pro. [Manage presets](manage-presets.md).
+- Open when looking up Manage presets in Premiere Pro. [Manage presets references](manage-presets/reference-index.md).
+- Open when looking up Preset Manager overview in Premiere Pro. [Preset Manager overview](preset-manager-overview.md).
+- Open when looking up Preset Manager overview in Premiere Pro. [Preset Manager overview references](preset-manager-overview/reference-index.md).
+- Open when looking up Quickly export a video file in Premiere Pro. [Quickly export a video file](quickly-export-a-video-file.md).
+- Open when looking up Supported export file formats in Premiere Pro. [Supported export file formats](supported-export-file-formats.md).
+- Open when looking up Supported features for exporting OMF files for Pro Tools in Premiere Pro. [Supported features for exporting OMF files for Pro Tools](supported-features-for-exporting-omf-files-for-pro-tools.md).
+- Open when looking up Supported features for exporting OMF files for Pro Tools in Premiere Pro. [Supported features for exporting OMF files for Pro Tools references](pro-tools-omf-export/reference-index.md).
+- Open when looking up Video encoding settings in Premiere Pro. [Video encoding settings](video-encoding-settings.md).
+- Open when looking up Video encoding settings in Premiere Pro. [Video encoding settings references](video-encoding-settings/reference-index.md).

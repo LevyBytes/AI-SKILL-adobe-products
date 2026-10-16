@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Set character text direction", "file": "references/desktop/language-and-proofing/arabic-and-hebrew/control-text-direction-for-arabic-and-hebrew/set-character-text-direction.md", "summary": "Open when looking up Set character text direction in InDesign.", "keywords": ["Set character text direction"]},
+  {"topic": "Set paragraph text direction", "file": "references/desktop/language-and-proofing/arabic-and-hebrew/control-text-direction-for-arabic-and-hebrew/set-paragraph-text-direction.md", "summary": "Open when looking up Set paragraph text direction in InDesign.", "keywords": ["Set paragraph text direction"]},
+  {"topic": "Set story direction for multi-column layouts", "file": "references/desktop/language-and-proofing/arabic-and-hebrew/control-text-direction-for-arabic-and-hebrew/set-story-direction-for-multi-column-layouts.md", "summary": "Open when looking up Set story direction for multi-column layouts in InDesign.", "keywords": ["Set story direction for multi-column layouts"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "P125PT", "file": "references/document-model/pdf-mark-weight/p125-pt.md", "summary": "Open when looking up P125PT in InDesign.", "keywords": ["P125PT"]},
+  {"topic": "P25PT", "file": "references/document-model/pdf-mark-weight/p25-pt.md", "summary": "Open when looking up P25PT in InDesign.", "keywords": ["P25PT"]},
+  {"topic": "P50PT", "file": "references/document-model/pdf-mark-weight/p50-pt.md", "summary": "Open when looking up P50PT in InDesign.", "keywords": ["P50PT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

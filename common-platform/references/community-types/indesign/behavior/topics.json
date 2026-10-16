@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Behavior declaration", "file": "references/community-types/indesign/behavior/declaration.md", "summary": "Open when looking up Behavior declaration in Shared Adobe platform.", "keywords": ["Behavior declaration"]},
+  {"topic": "Behavior event listeners", "file": "references/community-types/indesign/behavior/event-listeners.md", "summary": "Open when looking up Behavior event listeners in Shared Adobe platform.", "keywords": ["Behavior event listeners"]},
+  {"topic": "Behavior identity and parent", "file": "references/community-types/indesign/behavior/identity-and-parent.md", "summary": "Open when looking up Behavior identity and parent in Shared Adobe platform.", "keywords": ["Behavior identity and parent"]},
+  {"topic": "Behavior labels and metadata", "file": "references/community-types/indesign/behavior/labels-and-metadata.md", "summary": "Open when looking up Behavior labels and metadata in Shared Adobe platform.", "keywords": ["Behavior labels and metadata"]},
+  {"topic": "Behavior object resolution", "file": "references/community-types/indesign/behavior/object-resolution.md", "summary": "Open when looking up Behavior object resolution in Shared Adobe platform.", "keywords": ["Behavior object resolution"]},
+  {"topic": "Behavior.behaviorEvent", "file": "references/community-types/indesign/behavior/behavior-event.md", "summary": "Open when looking up Behavior.behaviorEvent in Shared Adobe platform.", "keywords": ["Behavior.behaviorEvent"]},
+  {"topic": "Behavior.enableBehavior", "file": "references/community-types/indesign/behavior/enable-behavior.md", "summary": "Open when looking up Behavior.enableBehavior in Shared Adobe platform.", "keywords": ["Behavior.enableBehavior"]},
+  {"topic": "Behavior.properties", "file": "references/community-types/indesign/behavior/properties.md", "summary": "Open when looking up Behavior.properties in Shared Adobe platform.", "keywords": ["Behavior.properties"]},
+  {"topic": "Behavior.remove", "file": "references/community-types/indesign/behavior/remove.md", "summary": "Open when looking up Behavior.remove in Shared Adobe platform.", "keywords": ["Behavior.remove"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

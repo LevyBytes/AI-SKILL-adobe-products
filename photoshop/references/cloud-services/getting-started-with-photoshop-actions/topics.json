@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Best practices and limitations", "file": "references/cloud-services/getting-started-with-photoshop-actions/best-practices-and-limitations.md", "summary": "Open when looking up Best practices and limitations in Photoshop.", "keywords": ["Best practices and limitations"]},
+  {"topic": "Supported input and output formats", "file": "references/cloud-services/getting-started-with-photoshop-actions/supported-input-and-output-formats.md", "summary": "Open when looking up Supported input and output formats in Photoshop.", "keywords": ["Supported input and output formats"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

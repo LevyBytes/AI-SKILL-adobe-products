@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Defaults when no frame is supplied", "file": "references/cloud-services/layer-operations/text/text-positioning/defaults-when-no-frame-is-supplied.md", "summary": "Open when looking up Defaults when no frame is supplied in Photoshop.", "keywords": ["Defaults when no frame is supplied"]},
+  {"topic": "Font color structure", "file": "references/cloud-services/layer-operations/text/text-positioning/font-color-structure.md", "summary": "Open when looking up Font color structure in Photoshop.", "keywords": ["Font color structure"]},
+  {"topic": "Font size units", "file": "references/cloud-services/layer-operations/text/text-positioning/font-size-units.md", "summary": "Open when looking up Font size units in Photoshop.", "keywords": ["Font size units"]},
+  {"topic": "Frame types: point vs area", "file": "references/cloud-services/layer-operations/text/text-positioning/frame-types-point-vs-area.md", "summary": "Open when looking up Frame types: point vs area in Photoshop.", "keywords": ["Frame types: point vs area"]},
+  {"topic": "Using bounds", "file": "references/cloud-services/layer-operations/text/text-positioning/using-bounds.md", "summary": "Open when looking up Using bounds in Photoshop.", "keywords": ["Using bounds"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

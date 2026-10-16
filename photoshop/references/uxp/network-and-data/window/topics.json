@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "window.fetch(input, [init])", "file": "references/uxp/network-and-data/window/fetch.md", "summary": "Open when looking up window.fetch(input, [init]) in Photoshop.", "keywords": ["window.fetch(input, [init])"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

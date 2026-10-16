@@ -1,0 +1,7 @@
+# getEditingMode
+
+25.0
+
+_string_
+
+Returns the sequence editing mode.

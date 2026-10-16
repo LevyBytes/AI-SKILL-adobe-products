@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "MACINTOSH", "file": "references/document-model/import-platform/macintosh.md", "summary": "Open when looking up MACINTOSH in InDesign.", "keywords": ["MACINTOSH"]},
+  {"topic": "PC", "file": "references/document-model/import-platform/pc.md", "summary": "Open when looking up PC in InDesign.", "keywords": ["PC"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

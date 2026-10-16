@@ -1,0 +1,28 @@
+# Premiere Pro — Edit projects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Change clip sequence in Premiere Pro. [Change clip sequence](change-clip-sequence.md).
+- Open when looking up Change clip sequence in Premiere Pro. [Change clip sequence references](change-clip-sequence/reference-index.md).
+- Open when looking up Change clip speed in Premiere Pro. [Change clip speed](change-clip-speed.md).
+- Open when looking up Change clip speed in Premiere Pro. [Change clip speed references](change-clip-speed/reference-index.md).
+- Open when looking up Compare edits to source clips in Premiere Pro. [Compare edits to source clips](compare-edits-to-source-clips.md).
+- Open when looking up Correct mistakes in Premiere Pro. [Correct mistakes](correct-mistakes.md).
+- Open when looking up Correct mistakes in Premiere Pro. [Correct mistakes references](correct-mistakes/reference-index.md).
+- Open when looking up Edit nested sequences in Premiere Pro. [Edit nested sequences](edit-nested-sequences.md).
+- Open when looking up Edit nested sequences in Premiere Pro. [Edit nested sequences references](edit-nested-sequences/reference-index.md).
+- Open when looking up Edit video using Text-based editing in Premiere Pro. [Edit video using Text-based editing](edit-video-using-text-based-editing.md).
+- Open when looking up Edit video using Text-based editing in Premiere Pro. [Edit video using Text-based editing references](edit-video-using-text-based-editing/reference-index.md).
+- Open when looking up Edit VR content in Premiere Pro. [Edit VR content](edit-vr-content.md).
+- Open when looking up Edit VR content in Premiere Pro. [Edit VR content references](edit-vr-content/reference-index.md).
+- Open when looking up Edit with Generative AI in Premiere Pro. [Edit with Generative AI](edit-with-generative-ai.md).
+- Open when looking up Edit with Generative AI in Premiere Pro. [Edit with Generative AI references](edit-with-generative-ai/reference-index.md).
+- Open when looking up Generative extend in Premiere Pro. [Generative extend references](generative-extend/reference-index.md).
+- Open when looking up Intro to editing in Premiere Pro. [Intro to editing](intro-to-editing.md).
+- Open when looking up Intro to editing in Premiere Pro. [Intro to editing references](intro-to-editing/reference-index.md).
+- Open when looking up Modify clip properties in Premiere Pro. [Modify clip properties](modify-clip-properties.md).
+- Open when looking up Modify clip properties in Premiere Pro. [Modify clip properties references](modify-clip-properties/reference-index.md).
+- Open when looking up Set up multi-camera sequences for editing in Premiere Pro. [Set up multi-camera sequences for editing](set-up-multi-camera-sequences-for-editing.md).
+- Open when looking up Set up multi-camera sequences for editing in Premiere Pro. [Set up multi-camera sequences for editing references](set-up-multi-camera-sequences-for-editing/reference-index.md).
+- Open when looking up Timeline navigation in Premiere Pro. [Timeline navigation references](timeline-navigation/reference-index.md).
+- Open when looking up Trim clips in Premiere Pro. [Trim clips](trim-clips.md).
+- Open when looking up Trim clips in Premiere Pro. [Trim clips references](trim-clips/reference-index.md).

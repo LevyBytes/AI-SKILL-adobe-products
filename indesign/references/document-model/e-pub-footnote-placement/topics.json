@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "FOOTNOTE_AFTER_PARAGRAPH", "file": "references/document-model/e-pub-footnote-placement/footnoteafterparagraph.md", "summary": "Open when looking up FOOTNOTE_AFTER_PARAGRAPH in InDesign.", "keywords": ["FOOTNOTE_AFTER_PARAGRAPH"]},
+  {"topic": "FOOTNOTE_AFTER_STORY", "file": "references/document-model/e-pub-footnote-placement/footnoteafterstory.md", "summary": "Open when looking up FOOTNOTE_AFTER_STORY in InDesign.", "keywords": ["FOOTNOTE_AFTER_STORY"]},
+  {"topic": "FOOTNOTE_INSIDE_POPUP", "file": "references/document-model/e-pub-footnote-placement/footnoteinsidepopup.md", "summary": "Open when looking up FOOTNOTE_INSIDE_POPUP in InDesign.", "keywords": ["FOOTNOTE_INSIDE_POPUP"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

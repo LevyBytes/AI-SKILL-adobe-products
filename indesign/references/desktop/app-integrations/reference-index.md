@@ -1,0 +1,21 @@
+# InDesign — App integrations
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Access Express templates from InDesign in InDesign. [Access Express templates from InDesign](access-express-templates-from-in-design.md).
+- Open when looking up Adobe Capture plugin in InDesign. [Adobe Capture plugin](adobe-capture-plugin.md).
+- Open when looking up Adobe Capture plugin in InDesign. [Adobe Capture plugin references](adobe-capture-plugin/reference-index.md).
+- Open when looking up App integrations in InDesign. [App integrations](app-integrations.md).
+- Open when looking up Create InDesign plug-ins with UXP in InDesign. [Create InDesign plug-ins with UXP](create-in-design-plug-ins-with-uxp.md).
+- Open when looking up Create InDesign plug-ins with UXP in InDesign. [Create InDesign plug-ins with UXP references](create-in-design-plug-ins-with-uxp/reference-index.md).
+- Open when looking up Creative Cloud add-on integrations in InDesign. [Creative Cloud add-on integrations](creative-cloud-add-on-integrations.md).
+- Open when looking up Creative Cloud add-on integrations in InDesign. [Creative Cloud add-on integrations references](creative-cloud-add-on-integrations/reference-index.md).
+- Open when looking up Illustrator integration with InDesign in InDesign. [Illustrator integration with InDesign](illustrator-integration-with-in-design.md).
+- Open when looking up Illustrator integration with InDesign in InDesign. [Illustrator integration with InDesign references](illustrator-integration-with-in-design/reference-index.md).
+- Open when looking up Manage assets in Creative Cloud Libraries in InDesign. [Manage assets in Creative Cloud Libraries](manage-assets-in-creative-cloud-libraries.md).
+- Open when looking up Manage assets in Creative Cloud Libraries in InDesign. [Manage assets in Creative Cloud Libraries references](manage-assets-in-creative-cloud-libraries/reference-index.md).
+- Open when looking up Manage project assets with Creative Cloud Libraries in InDesign. [Manage project assets with Creative Cloud Libraries](manage-project-assets-with-creative-cloud-libraries.md).
+- Open when looking up Manage project assets with Creative Cloud Libraries in InDesign. [Manage project assets with Creative Cloud Libraries references](manage-project-assets-with-creative-cloud-libraries/reference-index.md).
+- Open when looking up Share libraries with Creative Cloud users in InDesign. [Share libraries with Creative Cloud users](share-libraries-with-creative-cloud-users.md).
+- Open when looking up Share libraries with Creative Cloud users in InDesign. [Share libraries with Creative Cloud users references](share-libraries-with-creative-cloud-users/reference-index.md).
+- Open when looking up Use Adobe Bridge with InDesign in InDesign. [Use Adobe Bridge with InDesign](use-adobe-bridge-with-in-design.md).
+- Open when looking up Use Adobe Bridge with InDesign in InDesign. [Use Adobe Bridge with InDesign references](use-adobe-bridge-with-in-design/reference-index.md).

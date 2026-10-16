@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Auto-Blend Layers command overview", "file": "references/desktop/create-masks/blend-images/auto-blend-layers-command-overview.md", "summary": "Open when looking up Auto-Blend Layers command overview in Photoshop.", "keywords": ["Auto-Blend Layers command overview"]},
+  {"topic": "Create a composite with extended depth of field", "file": "references/desktop/create-masks/blend-images/create-a-composite-with-extended-depth-of-field.md", "summary": "Open when looking up Create a composite with extended depth of field in Photoshop.", "keywords": ["Create a composite with extended depth of field"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

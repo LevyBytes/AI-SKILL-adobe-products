@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Increased batchPlay throwing", "file": "references/uxp/known-issues-and-workarounds-dialog-modal-state/increased-batch-play-throwing.md", "summary": "Open when looking up Increased batchPlay throwing in Photoshop.", "keywords": ["Increased batchPlay throwing"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

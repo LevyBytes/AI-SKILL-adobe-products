@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "AnchoredObjectDefault", "file": "references/document-model/anchored-object-default.md", "summary": "Open when looking up AnchoredObjectDefault in InDesign.", "keywords": ["AnchoredObjectDefault"]},
+  {"topic": "AnchoredObjectDefault references", "file": "references/document-model/anchored-object-default/reference-index.md", "summary": "Open when looking up AnchoredObjectDefault in InDesign.", "keywords": ["AnchoredObjectDefault references"]},
+  {"topic": "AnchoredObjectSetting", "file": "references/document-model/anchored-object-setting.md", "summary": "Open when looking up AnchoredObjectSetting in InDesign.", "keywords": ["AnchoredObjectSetting"]},
+  {"topic": "AnchoredObjectSetting references", "file": "references/document-model/anchored-object-setting/reference-index.md", "summary": "Open when looking up AnchoredObjectSetting in InDesign.", "keywords": ["AnchoredObjectSetting references"]},
+  {"topic": "AnchoredRelativeTo", "file": "references/document-model/anchored-relative-to.md", "summary": "Open when looking up AnchoredRelativeTo in InDesign.", "keywords": ["AnchoredRelativeTo"]},
+  {"topic": "AnchoredRelativeTo references", "file": "references/document-model/anchored-relative-to/reference-index.md", "summary": "Open when looking up AnchoredRelativeTo in InDesign.", "keywords": ["AnchoredRelativeTo references"]},
+  {"topic": "AnchorPosition", "file": "references/document-model/anchor-position.md", "summary": "Open when looking up AnchorPosition in InDesign.", "keywords": ["AnchorPosition"]},
+  {"topic": "AnchorPosition references", "file": "references/document-model/anchor-position/reference-index.md", "summary": "Open when looking up AnchorPosition in InDesign.", "keywords": ["AnchorPosition references"]},
+  {"topic": "HorizontalAlignment", "file": "references/document-model/horizontal-alignment.md", "summary": "Open when looking up HorizontalAlignment in InDesign.", "keywords": ["HorizontalAlignment"]},
+  {"topic": "HorizontalAlignment references", "file": "references/document-model/horizontal-alignment/reference-index.md", "summary": "Open when looking up HorizontalAlignment in InDesign.", "keywords": ["HorizontalAlignment references"]},
+  {"topic": "VerticalAlignment", "file": "references/document-model/vertical-alignment.md", "summary": "Open when looking up VerticalAlignment in InDesign.", "keywords": ["VerticalAlignment"]},
+  {"topic": "VerticalAlignment references", "file": "references/document-model/vertical-alignment/reference-index.md", "summary": "Open when looking up VerticalAlignment in InDesign.", "keywords": ["VerticalAlignment references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

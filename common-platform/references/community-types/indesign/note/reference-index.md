@@ -1,0 +1,26 @@
+# Shared Adobe platform — Note
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Note declaration in Shared Adobe platform. [Note declaration](declaration.md).
+- Open when looking up Note event listeners in Shared Adobe platform. [Note event listeners](event-listeners.md).
+- Open when looking up Note identity and parent in Shared Adobe platform. [Note identity and parent](identity-and-parent.md).
+- Open when looking up Note labels and metadata in Shared Adobe platform. [Note labels and metadata](labels-and-metadata.md).
+- Open when looking up Note object lifecycle in Shared Adobe platform. [Note object lifecycle](object-lifecycle.md).
+- Open when looking up Note object resolution in Shared Adobe platform. [Note object resolution](object-resolution.md).
+- Open when looking up Note.characters in Shared Adobe platform. [Note.characters](characters.md).
+- Open when looking up Note.collapsed in Shared Adobe platform. [Note.collapsed](collapsed.md).
+- Open when looking up Note.convertToText in Shared Adobe platform. [Note.convertToText](convert-to-text.md).
+- Open when looking up Note.creationDate in Shared Adobe platform. [Note.creationDate](creation-date.md).
+- Open when looking up Note.hiddenTexts in Shared Adobe platform. [Note.hiddenTexts](hidden-texts.md).
+- Open when looking up Note.insertionPoints in Shared Adobe platform. [Note.insertionPoints](insertion-points.md).
+- Open when looking up Note.lines in Shared Adobe platform. [Note.lines](lines.md).
+- Open when looking up Note.modificationDate in Shared Adobe platform. [Note.modificationDate](modification-date.md).
+- Open when looking up Note.paragraphs in Shared Adobe platform. [Note.paragraphs](paragraphs.md).
+- Open when looking up Note.properties in Shared Adobe platform. [Note.properties](properties.md).
+- Open when looking up Note.storyOffset in Shared Adobe platform. [Note.storyOffset](story-offset.md).
+- Open when looking up Note.textColumns in Shared Adobe platform. [Note.textColumns](text-columns.md).
+- Open when looking up Note.texts in Shared Adobe platform. [Note.texts](texts.md).
+- Open when looking up Note.textStyleRanges in Shared Adobe platform. [Note.textStyleRanges](text-style-ranges.md).
+- Open when looking up Note.textVariableInstances in Shared Adobe platform. [Note.textVariableInstances](text-variable-instances.md).
+- Open when looking up Note.userName in Shared Adobe platform. [Note.userName](user-name.md).
+- Open when looking up Note.words in Shared Adobe platform. [Note.words](words.md).

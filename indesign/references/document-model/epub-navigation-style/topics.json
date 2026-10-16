@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BOOKMARKS_NAVIGATION", "file": "references/document-model/epub-navigation-style/bookmarksnavigation.md", "summary": "Open when looking up BOOKMARKS_NAVIGATION in InDesign.", "keywords": ["BOOKMARKS_NAVIGATION"]},
+  {"topic": "FILENAME_NAVIGATION", "file": "references/document-model/epub-navigation-style/filenamenavigation.md", "summary": "Open when looking up FILENAME_NAVIGATION in InDesign.", "keywords": ["FILENAME_NAVIGATION"]},
+  {"topic": "NO_NAVIGATION", "file": "references/document-model/epub-navigation-style/nonavigation.md", "summary": "Open when looking up NO_NAVIGATION in InDesign.", "keywords": ["NO_NAVIGATION"]},
+  {"topic": "TOC_STYLE_NAVIGATION", "file": "references/document-model/epub-navigation-style/tocstylenavigation.md", "summary": "Open when looking up TOC_STYLE_NAVIGATION in InDesign.", "keywords": ["TOC_STYLE_NAVIGATION"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

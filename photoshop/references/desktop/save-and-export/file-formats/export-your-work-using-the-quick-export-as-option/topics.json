@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Export instantly", "file": "references/desktop/save-and-export/file-formats/export-your-work-using-the-quick-export-as-option/export-instantly.md", "summary": "Open when looking up Export instantly in Photoshop.", "keywords": ["Export instantly"]},
+  {"topic": "Set preferences (one-time setup)", "file": "references/desktop/save-and-export/file-formats/export-your-work-using-the-quick-export-as-option/set-preferences-one-time-setup.md", "summary": "Open when looking up Set preferences (one-time setup) in Photoshop.", "keywords": ["Set preferences (one-time setup)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

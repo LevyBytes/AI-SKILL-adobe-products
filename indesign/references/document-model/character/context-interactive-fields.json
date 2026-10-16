@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "buttons", "file": "references/document-model/character/buttons.md", "summary": "Open when looking up buttons in InDesign.", "keywords": ["buttons"]},
+  {"topic": "checkBoxes", "file": "references/document-model/character/check-boxes.md", "summary": "Open when looking up checkBoxes in InDesign.", "keywords": ["checkBoxes"]},
+  {"topic": "comboBoxes", "file": "references/document-model/character/combo-boxes.md", "summary": "Open when looking up comboBoxes in InDesign.", "keywords": ["comboBoxes"]},
+  {"topic": "formFields", "file": "references/document-model/character/form-fields.md", "summary": "Open when looking up formFields in InDesign.", "keywords": ["formFields"]},
+  {"topic": "listBoxes", "file": "references/document-model/character/list-boxes.md", "summary": "Open when looking up listBoxes in InDesign.", "keywords": ["listBoxes"]},
+  {"topic": "multiStateObjects", "file": "references/document-model/character/multi-state-objects.md", "summary": "Open when looking up multiStateObjects in InDesign.", "keywords": ["multiStateObjects"]},
+  {"topic": "radioButtons", "file": "references/document-model/character/radio-buttons.md", "summary": "Open when looking up radioButtons in InDesign.", "keywords": ["radioButtons"]},
+  {"topic": "signatureFields", "file": "references/document-model/character/signature-fields.md", "summary": "Open when looking up signatureFields in InDesign.", "keywords": ["signatureFields"]},
+  {"topic": "textBoxes", "file": "references/document-model/character/text-boxes.md", "summary": "Open when looking up textBoxes in InDesign.", "keywords": ["textBoxes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

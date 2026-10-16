@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Om collection references", "file": "references/scripting/om-collection/reference-index.md", "summary": "Open when looking up Om collection in After Effects.", "keywords": ["Om collection references"]},
+  {"topic": "Output module references", "file": "references/scripting/output-module/reference-index.md", "summary": "Open when looking up Output module in After Effects.", "keywords": ["Output module references"]},
+  {"topic": "Render queue item references", "file": "references/scripting/render-queue-item/reference-index.md", "summary": "Open when looking up Render queue item in After Effects.", "keywords": ["Render queue item references"]},
+  {"topic": "Render queue references", "file": "references/scripting/render-queue/reference-index.md", "summary": "Open when looking up Render queue in After Effects.", "keywords": ["Render queue references"]},
+  {"topic": "Rq item collection references", "file": "references/scripting/rq-item-collection/reference-index.md", "summary": "Open when looking up Rq item collection in After Effects.", "keywords": ["Rq item collection references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "How do I enable the Compute Cache?", "file": "references/plugin-sdk/compute-cache-for-multi-frame-rendering/how-do-i-enable-the-compute-cache.md", "summary": "Open when looking up How do I enable the Compute Cache? in After Effects.", "keywords": ["How do I enable the Compute Cache?"]},
+  {"topic": "Multi-Frame Rendering in AE — Compute Cache For Multi-Frame Rendering", "file": "references/plugin-sdk/compute-cache-for-multi-frame-rendering/compute-cache-for-multi-frame-rendering.md", "summary": "Open when looking up Multi-Frame Rendering in AE — Compute Cache For Multi-Frame Rendering in After Effects.", "keywords": ["Multi-Frame Rendering in AE — Compute Cache For Multi-Frame Rendering"]},
+  {"topic": "When would you use the Compute Cache?", "file": "references/plugin-sdk/compute-cache-for-multi-frame-rendering/when-would-you-use-the-compute-cache.md", "summary": "Open when looking up When would you use the Compute Cache? in After Effects.", "keywords": ["When would you use the Compute Cache?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

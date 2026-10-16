@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document references", "file": "references/community-types/illustrator/document/reference-index.md", "summary": "Open when looking up Document in Shared Adobe platform.", "keywords": ["Document references"]},
+  {"topic": "DocumentColorSpace", "file": "references/community-types/illustrator/document-color-space.md", "summary": "Open when looking up DocumentColorSpace in Shared Adobe platform.", "keywords": ["DocumentColorSpace"]},
+  {"topic": "Documents", "file": "references/community-types/illustrator/documents.md", "summary": "Open when looking up Documents in Shared Adobe platform.", "keywords": ["Documents"]},
+  {"topic": "DocumentPreset", "file": "references/community-types/illustrator/document-preset.md", "summary": "Open when looking up DocumentPreset in Shared Adobe platform.", "keywords": ["DocumentPreset"]},
+  {"topic": "DocumentPresetType", "file": "references/community-types/illustrator/document-preset-type.md", "summary": "Open when looking up DocumentPresetType in Shared Adobe platform.", "keywords": ["DocumentPresetType"]},
+  {"topic": "DocumentType", "file": "references/community-types/illustrator/document-type.md", "summary": "Open when looking up DocumentType in Shared Adobe platform.", "keywords": ["DocumentType"]},
+  {"topic": "OpenOptions", "file": "references/community-types/illustrator/open-options.md", "summary": "Open when looking up OpenOptions in Shared Adobe platform.", "keywords": ["OpenOptions"]},
+  {"topic": "SaveOptions", "file": "references/community-types/illustrator/save-options.md", "summary": "Open when looking up SaveOptions in Shared Adobe platform.", "keywords": ["SaveOptions"]},
+  {"topic": "IllustratorSaveOptions", "file": "references/community-types/illustrator/illustrator-save-options.md", "summary": "Open when looking up IllustratorSaveOptions in Shared Adobe platform.", "keywords": ["IllustratorSaveOptions"]},
+  {"topic": "Compatibility", "file": "references/community-types/illustrator/compatibility.md", "summary": "Open when looking up Compatibility in Shared Adobe platform.", "keywords": ["Compatibility"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

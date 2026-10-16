@@ -1,0 +1,25 @@
+# After Effects — Property
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up active in After Effects. [active](active.md).
+- Open when looking up enabled in After Effects. [enabled](enabled.md).
+- Open when looking up key(index) in After Effects. [key(index)](key.md).
+- Open when looking up loopIn(type="cycle", numKeyframes=0) in After Effects. [loopIn(type="cycle", numKeyframes=0)](loop-in.md).
+- Open when looking up loopInDuration(type="cycle", duration=0) in After Effects. [loopInDuration(type="cycle", duration=0)](loop-in-duration.md).
+- Open when looking up loopOut(type="cycle", numKeyframes=0) in After Effects. [loopOut(type="cycle", numKeyframes=0)](loop-out.md).
+- Open when looking up loopOutDuration(type="cycle", duration=0) in After Effects. [loopOutDuration(type="cycle", duration=0)](loop-out-duration.md).
+- Open when looking up name in After Effects. [name](name.md).
+- Open when looking up nearestKey(time) in After Effects. [nearestKey(time)](nearest-key.md).
+- Open when looking up nextKey(time) in After Effects. [nextKey(time)](next-key.md).
+- Open when looking up numKeys in After Effects. [numKeys](num-keys.md).
+- Open when looking up previousKey(time) in After Effects. [previousKey(time)](previous-key.md).
+- Open when looking up propertyGroup(countUp = 1) in After Effects. [propertyGroup(countUp = 1)](property-group.md).
+- Open when looking up propertyIndex in After Effects. [propertyIndex](property-index.md).
+- Open when looking up smooth(width=.2, samples=5, t=time) in After Effects. [smooth(width=.2, samples=5, t=time)](smooth.md).
+- Open when looking up speed in After Effects. [speed](speed.md).
+- Open when looking up speedAtTime(t) in After Effects. [speedAtTime(t)](speed-at-time.md).
+- Open when looking up temporalWiggle(freq, amp, octaves=1, amp_mult=.5, t=time) in After Effects. [temporalWiggle(freq, amp, octaves=1, amp_mult=.5, t=time)](temporal-wiggle.md).
+- Open when looking up valueAtTime(t) in After Effects. [valueAtTime(t)](value-at-time.md).
+- Open when looking up velocity in After Effects. [velocity](velocity.md).
+- Open when looking up velocityAtTime(t) in After Effects. [velocityAtTime(t)](velocity-at-time.md).
+- Open when looking up wiggle(freq, amp, octaves=1, amp_mult=.5, t=time) in After Effects. [wiggle(freq, amp, octaves=1, amp_mult=.5, t=time)](wiggle.md).

@@ -1,0 +1,24 @@
+# InDesign — Middle Eastern Scripting Guide
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Characters direction in InDesign. [Characters direction](characters-direction.md).
+- Open when looking up Diacritic positioning in InDesign. [Diacritic positioning](diacritic-positioning.md).
+- Open when looking up Digits in InDesign. [Digits](digits.md).
+- Open when looking up Finding and replacing ME text in InDesign. [Finding and replacing ME text](finding-and-replacing-me-text.md).
+- Open when looking up Inserting special ME character in InDesign. [Inserting special ME character](inserting-special-me-character.md).
+- Open when looking up Justification in InDesign. [Justification](justification.md).
+- Open when looking up Justification for an existing paragraph in InDesign. [Justification for an existing paragraph](justification-for-an-existing-paragraph.md).
+- Open when looking up Justification for text defaults in InDesign. [Justification for text defaults](justification-for-text-defaults.md).
+- Open when looking up Kashidas in InDesign. [Kashidas](kashidas.md).
+- Open when looking up Numbering in InDesign. [Numbering](numbering.md).
+- Open when looking up Open Type features in InDesign. [Open Type features](open-type-features.md).
+- Open when looking up Paragraph direction for application and document in InDesign. [Paragraph direction for application and document](paragraph-direction-for-application-and-document.md).
+- Open when looking up ParagraphDirection in InDesign. [ParagraphDirection](paragraph-direction.md).
+- Open when looking up Setting character attributes in InDesign. [Setting character attributes](setting-character-attributes.md).
+- Open when looking up Setting composer in InDesign. [Setting composer](setting-composer.md).
+- Open when looking up Setting page binding in InDesign. [Setting page binding](setting-page-binding.md).
+- Open when looking up Setting paragraph attributes in InDesign. [Setting paragraph attributes](setting-paragraph-attributes.md).
+- Open when looking up Setting story direction property in InDesign. [Setting story direction property](setting-story-direction-property.md).
+- Open when looking up Settings for footnote numbering in InDesign. [Settings for footnote numbering](settings-for-footnote-numbering.md).
+- Open when looking up Settings for page numbering in InDesign. [Settings for page numbering](settings-for-page-numbering.md).
+- Open when looking up Using styles in InDesign. [Using styles](using-styles.md).

@@ -1,0 +1,3 @@
+# Introduction — PDF Embed API for viewing and collaboration within your web pages
+
+With just a handful of JavaScript lines, the [PDF Embed API](../reference-index.md) delivers PDF viewing into any web application. Thanks to several embed modes, supporting a range of views — full browser, boxed containers, and in line — is straightforward. Commenting, drawing, highlighting, and text editing tools together make document collaboration possible. On the analytics side, you get the chance to layer in dynamic interactivity — chats, prompts, and other event-driven triggers keyed to PDF viewing activity — that elevates the end-user experience.

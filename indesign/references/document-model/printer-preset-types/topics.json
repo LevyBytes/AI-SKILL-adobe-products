@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CUSTOM", "file": "references/document-model/printer-preset-types/custom.md", "summary": "Open when looking up CUSTOM in InDesign.", "keywords": ["CUSTOM"]},
+  {"topic": "DEFAULT_VALUE", "file": "references/document-model/printer-preset-types/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

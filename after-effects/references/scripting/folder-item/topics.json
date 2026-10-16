@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "FolderItem object", "file": "references/scripting/folder-item/folder-item-object.md", "summary": "Open when looking up FolderItem object in After Effects.", "keywords": ["FolderItem object"]},
+  {"topic": "FolderItem.item()", "file": "references/scripting/folder-item/item.md", "summary": "Open when looking up FolderItem.item() in After Effects.", "keywords": ["FolderItem.item()"]},
+  {"topic": "FolderItem.items", "file": "references/scripting/folder-item/items.md", "summary": "Open when looking up FolderItem.items in After Effects.", "keywords": ["FolderItem.items"]},
+  {"topic": "FolderItem.numItems", "file": "references/scripting/folder-item/num-items.md", "summary": "Open when looking up FolderItem.numItems in After Effects.", "keywords": ["FolderItem.numItems"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

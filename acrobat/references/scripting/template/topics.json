@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "hidden", "file": "references/scripting/template/hidden.md", "summary": "Open when looking up hidden in Acrobat.", "keywords": ["hidden"]},
+  {"topic": "JavaScript APIs — Template", "file": "references/scripting/template/java-script-apis-template.md", "summary": "Open when looking up JavaScript APIs — Template in Acrobat.", "keywords": ["JavaScript APIs — Template"]},
+  {"topic": "name", "file": "references/scripting/template/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
+  {"topic": "spawn", "file": "references/scripting/template/spawn.md", "summary": "Open when looking up spawn in Acrobat.", "keywords": ["spawn"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Breaking Changes", "file": "references/uxp/uxp-changelog-uxp-v8-0-1/breaking-changes.md", "summary": "Open when looking up Breaking Changes in Premiere Pro.", "keywords": ["Breaking Changes"]},
+  {"topic": "Deprecations", "file": "references/uxp/uxp-changelog-uxp-v8-0-1/deprecations.md", "summary": "Open when looking up Deprecations in Premiere Pro.", "keywords": ["Deprecations"]},
+  {"topic": "New", "file": "references/uxp/uxp-changelog-uxp-v8-0-1/new.md", "summary": "Open when looking up New in Premiere Pro.", "keywords": ["New"]},
+  {"topic": "Updated", "file": "references/uxp/uxp-changelog-uxp-v8-0-1/updated.md", "summary": "Open when looking up Updated in Premiere Pro.", "keywords": ["Updated"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

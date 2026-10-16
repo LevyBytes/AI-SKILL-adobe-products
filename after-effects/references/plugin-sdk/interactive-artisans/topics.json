@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Artisans — Interactive Artisans", "file": "references/plugin-sdk/interactive-artisans/artisans-interactive-artisans.md", "summary": "Open when looking up Artisans — Interactive Artisans in After Effects.", "keywords": ["Artisans — Interactive Artisans"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

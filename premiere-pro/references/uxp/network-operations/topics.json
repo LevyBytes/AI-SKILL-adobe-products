@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Choose the right Network API", "file": "references/uxp/network-operations/choose-the-right-network-api.md", "summary": "Open when looking up Choose the right Network API in Premiere Pro.", "keywords": ["Choose the right Network API"]},
+  {"topic": "Example: Fetching an Image Dynamically", "file": "references/uxp/network-operations/example-fetching-an-image-dynamically.md", "summary": "Open when looking up Example: Fetching an Image Dynamically in Premiere Pro.", "keywords": ["Example: Fetching an Image Dynamically"]},
+  {"topic": "Example: POST Requests and JSON Payloads", "file": "references/uxp/network-operations/example-post-requests-and-json-payloads.md", "summary": "Open when looking up Example: POST Requests and JSON Payloads in Premiere Pro.", "keywords": ["Example: POST Requests and JSON Payloads"]},
+  {"topic": "Handling Errors and Timeouts", "file": "references/uxp/network-operations/handling-errors-and-timeouts.md", "summary": "Open when looking up Handling Errors and Timeouts in Premiere Pro.", "keywords": ["Handling Errors and Timeouts"]},
+  {"topic": "index.html", "file": "references/uxp/network-operations/index-html.md", "summary": "Open when looking up index.html in Premiere Pro.", "keywords": ["index.html"]},
+  {"topic": "index.js", "file": "references/uxp/network-operations/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
+  {"topic": "manifest.json", "file": "references/uxp/network-operations/manifest-json.md", "summary": "Open when looking up manifest.json in Premiere Pro.", "keywords": ["manifest.json"]},
+  {"topic": "Network Security", "file": "references/uxp/network-operations/network-security.md", "summary": "Open when looking up Network Security in Premiere Pro.", "keywords": ["Network Security"]},
+  {"topic": "Reference Material", "file": "references/uxp/network-operations/reference-material.md", "summary": "Open when looking up Reference Material in Premiere Pro.", "keywords": ["Reference Material"]},
+  {"topic": "Summary", "file": "references/uxp/network-operations/summary.md", "summary": "Open when looking up Summary in Premiere Pro.", "keywords": ["Summary"]},
+  {"topic": "Troubleshoot Common Issues", "file": "references/uxp/network-operations/troubleshoot-common-issues.md", "summary": "Open when looking up Troubleshoot Common Issues in Premiere Pro.", "keywords": ["Troubleshoot Common Issues"]},
+  {"topic": "Using fetch()", "file": "references/uxp/network-operations/using-fetch.md", "summary": "Open when looking up Using fetch() in Premiere Pro.", "keywords": ["Using fetch()"]},
+  {"topic": "Using WebSocket", "file": "references/uxp/network-operations/using-web-socket.md", "summary": "Open when looking up Using WebSocket in Premiere Pro.", "keywords": ["Using WebSocket"]},
+  {"topic": "Using XMLHttpRequest (XHR)", "file": "references/uxp/network-operations/using-xml-http-request-xhr.md", "summary": "Open when looking up Using XMLHttpRequest (XHR) in Premiere Pro.", "keywords": ["Using XMLHttpRequest (XHR)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

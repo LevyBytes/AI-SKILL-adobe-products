@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "objectExportOptions", "file": "references/document-model/object-style/object-export-options.md", "summary": "Open when looking up objectExportOptions in InDesign.", "keywords": ["objectExportOptions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

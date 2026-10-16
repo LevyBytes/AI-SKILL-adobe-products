@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ITEM_BOUNDS", "file": "references/document-model/align-distribute-bounds/itembounds.md", "summary": "Open when looking up ITEM_BOUNDS in InDesign.", "keywords": ["ITEM_BOUNDS"]},
+  {"topic": "KEY_OBJECT", "file": "references/document-model/align-distribute-bounds/keyobject.md", "summary": "Open when looking up KEY_OBJECT in InDesign.", "keywords": ["KEY_OBJECT"]},
+  {"topic": "MARGIN_BOUNDS", "file": "references/document-model/align-distribute-bounds/marginbounds.md", "summary": "Open when looking up MARGIN_BOUNDS in InDesign.", "keywords": ["MARGIN_BOUNDS"]},
+  {"topic": "PAGE_BOUNDS", "file": "references/document-model/align-distribute-bounds/pagebounds.md", "summary": "Open when looking up PAGE_BOUNDS in InDesign.", "keywords": ["PAGE_BOUNDS"]},
+  {"topic": "SPREAD_BOUNDS", "file": "references/document-model/align-distribute-bounds/spreadbounds.md", "summary": "Open when looking up SPREAD_BOUNDS in InDesign.", "keywords": ["SPREAD_BOUNDS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

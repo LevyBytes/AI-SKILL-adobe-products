@@ -1,0 +1,39 @@
+# InDesign — Font
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up allowEditableEmbedding in InDesign. [allowEditableEmbedding](allow-editable-embedding.md).
+- Open when looking up allowOutlines in InDesign. [allowOutlines](allow-outlines.md).
+- Open when looking up allowPDFEmbedding in InDesign. [allowPDFEmbedding](allow-pdf-embedding.md).
+- Open when looking up allowPrinting in InDesign. [allowPrinting](allow-printing.md).
+- Open when looking up checkOpenTypeFeature in InDesign. [checkOpenTypeFeature](check-open-type-feature.md).
+- Open when looking up createSubsetFont in InDesign. [createSubsetFont](create-subset-font.md).
+- Open when looking up designAxesName in InDesign. [designAxesName](design-axes-name.md).
+- Open when looking up designAxesRange in InDesign. [designAxesRange](design-axes-range.md).
+- Open when looking up designAxesValues in InDesign. [designAxesValues](design-axes-values.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up fontFamily in InDesign. [fontFamily](font-family.md).
+- Open when looking up fontStyleName in InDesign. [fontStyleName](font-style-name.md).
+- Open when looking up fontStyleNameNative in InDesign. [fontStyleNameNative](font-style-name-native.md).
+- Open when looking up fontType in InDesign. [fontType](font-type.md).
+- Open when looking up fullName in InDesign. [fullName](full-name.md).
+- Open when looking up fullNameNative in InDesign. [fullNameNative](full-name-native.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up location in InDesign. [location](location.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up numDesignAxes in InDesign. [numDesignAxes](num-design-axes.md).
+- Open when looking up ordering in InDesign. [ordering](ordering.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up platformName in InDesign. [platformName](platform-name.md).
+- Open when looking up postscriptName in InDesign. [postscriptName](postscript-name.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up registry in InDesign. [registry](registry.md).
+- Open when looking up restrictedPrinting in InDesign. [restrictedPrinting](restricted-printing.md).
+- Open when looking up status in InDesign. [status](status.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up version in InDesign. [version](version.md).
+- Open when looking up writingScript in InDesign. [writingScript](writing-script.md).

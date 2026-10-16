@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Draw Behind Mode", "file": "references/desktop/drawing-modes-overview/draw-behind-mode.md", "summary": "Open when looking up Draw Behind Mode in Illustrator.", "keywords": ["Draw Behind Mode"]},
+  {"topic": "Draw Inside Mode", "file": "references/desktop/drawing-modes-overview/draw-inside-mode.md", "summary": "Open when looking up Draw Inside Mode in Illustrator.", "keywords": ["Draw Inside Mode"]},
+  {"topic": "Draw Normal Mode", "file": "references/desktop/drawing-modes-overview/draw-normal-mode.md", "summary": "Open when looking up Draw Normal Mode in Illustrator.", "keywords": ["Draw Normal Mode"]},
+  {"topic": "Use drawing modes to manage object placement and stacking order.", "file": "references/desktop/drawing-modes-overview/drawing-mode-stacking-order.md", "summary": "Open when looking up Use drawing modes to manage object placement and stacking order. in Illustrator.", "keywords": ["Use drawing modes to manage object placement and stacking order."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

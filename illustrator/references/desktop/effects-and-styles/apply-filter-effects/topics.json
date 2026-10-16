@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Apply SVG filter effects", "file": "references/desktop/effects-and-styles/apply-filter-effects/apply-svg-filter-effects.md", "summary": "Open when looking up Apply SVG filter effects in Illustrator.", "keywords": ["Apply SVG filter effects"]},
+  {"topic": "Apply SVG filter effects references", "file": "references/desktop/effects-and-styles/apply-filter-effects/apply-svg-filter-effects/reference-index.md", "summary": "Open when looking up Apply SVG filter effects in Illustrator.", "keywords": ["Apply SVG filter effects references"]},
+  {"topic": "Create an inner or outer glow", "file": "references/desktop/effects-and-styles/apply-filter-effects/create-an-inner-or-outer-glow.md", "summary": "Open when looking up Create an inner or outer glow in Illustrator.", "keywords": ["Create an inner or outer glow"]},
+  {"topic": "Create drop shadows", "file": "references/desktop/effects-and-styles/apply-filter-effects/create-drop-shadows.md", "summary": "Open when looking up Create drop shadows in Illustrator.", "keywords": ["Create drop shadows"]},
+  {"topic": "Feather object edges", "file": "references/desktop/effects-and-styles/apply-filter-effects/feather-object-edges.md", "summary": "Open when looking up Feather object edges in Illustrator.", "keywords": ["Feather object edges"]},
+  {"topic": "Work with SVG Interactivity", "file": "references/desktop/effects-and-styles/apply-filter-effects/work-with-svg-interactivity.md", "summary": "Open when looking up Work with SVG Interactivity in Illustrator.", "keywords": ["Work with SVG Interactivity"]},
+  {"topic": "Work with SVG Interactivity references", "file": "references/desktop/effects-and-styles/apply-filter-effects/work-with-svg-interactivity/reference-index.md", "summary": "Open when looking up Work with SVG Interactivity in Illustrator.", "keywords": ["Work with SVG Interactivity references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

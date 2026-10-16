@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "DocumentPrintSettings references", "file": "references/community-types/photoshop/document-print-settings/reference-index.md", "summary": "Open when looking up DocumentPrintSettings in Shared Adobe platform.", "keywords": ["DocumentPrintSettings references"]},
+  {"topic": "DocPositionStyle", "file": "references/community-types/photoshop/doc-position-style.md", "summary": "Open when looking up DocPositionStyle in Shared Adobe platform.", "keywords": ["DocPositionStyle"]},
+  {"topic": "PrintColorHandling", "file": "references/community-types/photoshop/print-color-handling.md", "summary": "Open when looking up PrintColorHandling in Shared Adobe platform.", "keywords": ["PrintColorHandling"]},
+  {"topic": "SourceSpaceType", "file": "references/community-types/photoshop/source-space-type.md", "summary": "Open when looking up SourceSpaceType in Shared Adobe platform.", "keywords": ["SourceSpaceType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+# Preference
+
+Preferences object.
+
+### Instance

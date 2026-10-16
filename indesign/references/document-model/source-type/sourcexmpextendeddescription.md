@@ -1,0 +1,7 @@
+# SOURCE_XMP_EXTENDED_DESCRIPTION
+
+> _Read Only_
+>
+> Number `SOURCE_XMP_EXTENDED_DESCRIPTION` = 1934907493
+>
+> Source: XMP Extended Description.

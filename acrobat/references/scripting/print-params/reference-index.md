@@ -1,0 +1,41 @@
+# Acrobat — Print params
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up binaryOK in Acrobat. [binaryOK](binary-ok.md).
+- Open when looking up bitmapDPI in Acrobat. [bitmapDPI](bitmap-dpi.md).
+- Open when looking up Booklet binding, duplex and sheet-subset examples in Acrobat. [Booklet binding, duplex and sheet-subset examples](booklet-printing-examples.md).
+- Open when looking up colorProfile in Acrobat. [colorProfile](color-profile.md).
+- Open when looking up constants in Acrobat. [constants](constants.md).
+- Open when looking up downloadFarEastFonts in Acrobat. [downloadFarEastFonts](download-far-east-fonts.md).
+- Open when looking up DuplexType in Acrobat. [DuplexType](duplex-type.md).
+- Open when looking up fileName in Acrobat. [fileName](file-name.md).
+- Open when looking up firstPage in Acrobat. [firstPage](first-page.md).
+- Open when looking up flags in Acrobat. [flags](flags.md).
+- Open when looking up fontPolicy in Acrobat. [fontPolicy](font-policy.md).
+- Open when looking up gradientDPI in Acrobat. [gradientDPI](gradient-dpi.md).
+- Open when looking up interactive in Acrobat. [interactive](interactive.md).
+- Open when looking up JavaScript APIs — PrintParams in Acrobat. [JavaScript APIs — PrintParams](java-script-apis-print-params.md).
+- Open when looking up lastPage in Acrobat. [lastPage](last-page.md).
+- Open when looking up NumCopies in Acrobat. [NumCopies](num-copies.md).
+- Open when looking up nUpAutoRotate in Acrobat. [nUpAutoRotate](n-up-auto-rotate.md).
+- Open when looking up nUpNumPagesH in Acrobat. [nUpNumPagesH](n-up-num-pages-h.md).
+- Open when looking up nUpNumPagesV in Acrobat. [nUpNumPagesV](n-up-num-pages-v.md).
+- Open when looking up nUpPageBorder in Acrobat. [nUpPageBorder](n-up-page-border.md).
+- Open when looking up nUpPageOrder in Acrobat. [nUpPageOrder](n-up-page-order.md).
+- Open when looking up pageHandling in Acrobat. [pageHandling](page-handling.md).
+- Open when looking up pageSubset in Acrobat. [pageSubset](page-subset.md).
+- Open when looking up printAsImage in Acrobat. [printAsImage](print-as-image.md).
+- Open when looking up printContent in Acrobat. [printContent](print-content.md).
+- Open when looking up printerName in Acrobat. [printerName](printer-name.md).
+- Open when looking up PrintParams.booklet in Acrobat. [PrintParams.booklet](booklet.md).
+- Open when looking up printRange in Acrobat. [printRange](print-range.md).
+- Open when looking up psLevel in Acrobat. [psLevel](ps-level.md).
+- Open when looking up rasterFlags in Acrobat. [rasterFlags](raster-flags.md).
+- Open when looking up reversePages in Acrobat. [reversePages](reverse-pages.md).
+- Open when looking up tileLabel in Acrobat. [tileLabel](tile-label.md).
+- Open when looking up tileMark in Acrobat. [tileMark](tile-mark.md).
+- Open when looking up tileOverlap in Acrobat. [tileOverlap](tile-overlap.md).
+- Open when looking up tileScale in Acrobat. [tileScale](tile-scale.md).
+- Open when looking up transparencyLevel in Acrobat. [transparencyLevel](transparency-level.md).
+- Open when looking up usePrinterCRD in Acrobat. [usePrinterCRD](use-printer-crd.md).
+- Open when looking up useT1Conversion in Acrobat. [useT1Conversion](use-t1-conversion.md).

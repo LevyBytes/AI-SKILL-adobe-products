@@ -1,0 +1,28 @@
+# Premiere Pro — Footage interpretation
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up FootageInterpretation — Properties in Premiere Pro. [FootageInterpretation — Properties](footage-interpretation-properties.md).
+- Open when looking up getAlphaUsage in Premiere Pro. [getAlphaUsage](get-alpha-usage.md).
+- Open when looking up getFieldType in Premiere Pro. [getFieldType](get-field-type.md).
+- Open when looking up getFrameRate in Premiere Pro. [getFrameRate](get-frame-rate.md).
+- Open when looking up getIgnoreAlpha in Premiere Pro. [getIgnoreAlpha](get-ignore-alpha.md).
+- Open when looking up getInputLUTID in Premiere Pro. [getInputLUTID](get-input-lutid.md).
+- Open when looking up getInvertAlpha in Premiere Pro. [getInvertAlpha](get-invert-alpha.md).
+- Open when looking up getPixelAspectRatio in Premiere Pro. [getPixelAspectRatio](get-pixel-aspect-ratio.md).
+- Open when looking up getRemovePullDown in Premiere Pro. [getRemovePullDown](get-remove-pull-down.md).
+- Open when looking up getVrConform in Premiere Pro. [getVrConform](get-vr-conform.md).
+- Open when looking up getVrHorzView in Premiere Pro. [getVrHorzView](get-vr-horz-view.md).
+- Open when looking up getVrLayout in Premiere Pro. [getVrLayout](get-vr-layout.md).
+- Open when looking up getVrVertView in Premiere Pro. [getVrVertView](get-vr-vert-view.md).
+- Open when looking up setAlphaUsage in Premiere Pro. [setAlphaUsage](set-alpha-usage.md).
+- Open when looking up setFieldType in Premiere Pro. [setFieldType](set-field-type.md).
+- Open when looking up setFrameRate in Premiere Pro. [setFrameRate](set-frame-rate.md).
+- Open when looking up setIgnoreAlpha in Premiere Pro. [setIgnoreAlpha](set-ignore-alpha.md).
+- Open when looking up setInputLUTID in Premiere Pro. [setInputLUTID](set-input-lutid.md).
+- Open when looking up setInvertAlpha in Premiere Pro. [setInvertAlpha](set-invert-alpha.md).
+- Open when looking up setPixelAspectRatio in Premiere Pro. [setPixelAspectRatio](set-pixel-aspect-ratio.md).
+- Open when looking up setRemovePullDown in Premiere Pro. [setRemovePullDown](set-remove-pull-down.md).
+- Open when looking up setVrConform in Premiere Pro. [setVrConform](set-vr-conform.md).
+- Open when looking up setVrHorzView in Premiere Pro. [setVrHorzView](set-vr-horz-view.md).
+- Open when looking up setVrLayout in Premiere Pro. [setVrLayout](set-vr-layout.md).
+- Open when looking up setVrVertView in Premiere Pro. [setVrVertView](set-vr-vert-view.md).

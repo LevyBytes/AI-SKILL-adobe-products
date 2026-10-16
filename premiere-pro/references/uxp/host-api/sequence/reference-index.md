@@ -1,0 +1,32 @@
+# Premiere Pro — Sequence
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up clearSelection in Premiere Pro. [clearSelection](clear-selection.md).
+- Open when looking up createCloneAction in Premiere Pro. [createCloneAction](create-clone-action.md).
+- Open when looking up createSetInPointAction in Premiere Pro. [createSetInPointAction](create-set-in-point-action.md).
+- Open when looking up createSetOutPointAction in Premiere Pro. [createSetOutPointAction](create-set-out-point-action.md).
+- Open when looking up createSetSettingsAction in Premiere Pro. [createSetSettingsAction](create-set-settings-action.md).
+- Open when looking up createSetZeroPointAction in Premiere Pro. [createSetZeroPointAction](create-set-zero-point-action.md).
+- Open when looking up createSubsequence in Premiere Pro. [createSubsequence](create-subsequence.md).
+- Open when looking up getAudioTrack in Premiere Pro. [getAudioTrack](get-audio-track.md).
+- Open when looking up getAudioTrackCount in Premiere Pro. [getAudioTrackCount](get-audio-track-count.md).
+- Open when looking up getCaptionTrack in Premiere Pro. [getCaptionTrack](get-caption-track.md).
+- Open when looking up getCaptionTrackCount in Premiere Pro. [getCaptionTrackCount](get-caption-track-count.md).
+- Open when looking up getEndTime in Premiere Pro. [getEndTime](get-end-time.md).
+- Open when looking up getFrameSize in Premiere Pro. [getFrameSize](get-frame-size.md).
+- Open when looking up getInPoint in Premiere Pro. [getInPoint](get-in-point.md).
+- Open when looking up getOutPoint in Premiere Pro. [getOutPoint](get-out-point.md).
+- Open when looking up getPlayerPosition in Premiere Pro. [getPlayerPosition](get-player-position.md).
+- Open when looking up getProjectItem in Premiere Pro. [getProjectItem](get-project-item.md).
+- Open when looking up getSelection in Premiere Pro. [getSelection](get-selection.md).
+- Open when looking up getSequenceAudioTimeDisplayFormat in Premiere Pro. [getSequenceAudioTimeDisplayFormat](get-sequence-audio-time-display-format.md).
+- Open when looking up getSequenceVideoTimeDisplayFormat in Premiere Pro. [getSequenceVideoTimeDisplayFormat](get-sequence-video-time-display-format.md).
+- Open when looking up getSettings in Premiere Pro. [getSettings](get-settings.md).
+- Open when looking up getTimebase in Premiere Pro. [getTimebase](get-timebase.md).
+- Open when looking up getVideoTrack in Premiere Pro. [getVideoTrack](get-video-track.md).
+- Open when looking up getVideoTrackCount in Premiere Pro. [getVideoTrackCount](get-video-track-count.md).
+- Open when looking up getZeroPoint in Premiere Pro. [getZeroPoint](get-zero-point.md).
+- Open when looking up isDoneAnalyzingForVideoEffects in Premiere Pro. [isDoneAnalyzingForVideoEffects](is-done-analyzing-for-video-effects.md).
+- Open when looking up Sequence — Properties in Premiere Pro. [Sequence — Properties](sequence-properties.md).
+- Open when looking up setPlayerPosition in Premiere Pro. [setPlayerPosition](set-player-position.md).
+- Open when looking up setSelection in Premiere Pro. [setSelection](set-selection.md).

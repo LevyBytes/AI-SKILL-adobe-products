@@ -1,0 +1,7 @@
+# PRESERVE_APPEARANCE_RASTERIZE_CONTENT
+
+> _Read Only_
+>
+> Number `PRESERVE_APPEARANCE_RASTERIZE_CONTENT` = 1349669492
+>
+> Rasterizes content when possible.

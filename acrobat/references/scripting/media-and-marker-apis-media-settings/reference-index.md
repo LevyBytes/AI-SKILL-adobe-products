@@ -1,0 +1,24 @@
+# Acrobat — Media and Marker APIs — MediaSettings
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up autoPlay in Acrobat. [autoPlay](auto-play.md).
+- Open when looking up baseURL in Acrobat. [baseURL](base-url.md).
+- Open when looking up bgColor in Acrobat. [bgColor](bg-color.md).
+- Open when looking up bgOpacity in Acrobat. [bgOpacity](bg-opacity.md).
+- Open when looking up data in Acrobat. [data](data.md).
+- Open when looking up duration in Acrobat. [duration](duration.md).
+- Open when looking up endAt in Acrobat. [endAt](end-at.md).
+- Open when looking up floating in Acrobat. [floating](floating.md).
+- Open when looking up layout in Acrobat. [layout](layout.md).
+- Open when looking up monitor in Acrobat. [monitor](monitor.md).
+- Open when looking up monitorType in Acrobat. [monitorType](monitor-type.md).
+- Open when looking up page in Acrobat. [page](page.md).
+- Open when looking up palindrome in Acrobat. [palindrome](palindrome.md).
+- Open when looking up players in Acrobat. [players](players.md).
+- Open when looking up rate in Acrobat. [rate](rate.md).
+- Open when looking up repeat in Acrobat. [repeat](repeat.md).
+- Open when looking up showUI in Acrobat. [showUI](show-ui.md).
+- Open when looking up startAt in Acrobat. [startAt](start-at.md).
+- Open when looking up visible in Acrobat. [visible](visible.md).
+- Open when looking up volume in Acrobat. [volume](volume.md).
+- Open when looking up windowType in Acrobat. [windowType](window-type.md).

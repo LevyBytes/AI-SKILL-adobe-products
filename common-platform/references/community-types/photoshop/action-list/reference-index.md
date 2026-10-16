@@ -1,0 +1,37 @@
+# Shared Adobe platform — ActionList
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ActionList declaration in Shared Adobe platform. [ActionList declaration](declaration.md).
+- Open when looking up ActionList.clear in Shared Adobe platform. [ActionList.clear](clear.md).
+- Open when looking up ActionList.count in Shared Adobe platform. [ActionList.count](count.md).
+- Open when looking up ActionList.getBoolean in Shared Adobe platform. [ActionList.getBoolean](get-boolean.md).
+- Open when looking up ActionList.getClass in Shared Adobe platform. [ActionList.getClass](get-class.md).
+- Open when looking up ActionList.getData in Shared Adobe platform. [ActionList.getData](get-data.md).
+- Open when looking up ActionList.getDouble in Shared Adobe platform. [ActionList.getDouble](get-double.md).
+- Open when looking up ActionList.getEnumerationType in Shared Adobe platform. [ActionList.getEnumerationType](get-enumeration-type.md).
+- Open when looking up ActionList.getEnumerationValue in Shared Adobe platform. [ActionList.getEnumerationValue](get-enumeration-value.md).
+- Open when looking up ActionList.getInteger in Shared Adobe platform. [ActionList.getInteger](get-integer.md).
+- Open when looking up ActionList.getLargeInteger in Shared Adobe platform. [ActionList.getLargeInteger](get-large-integer.md).
+- Open when looking up ActionList.getList in Shared Adobe platform. [ActionList.getList](get-list.md).
+- Open when looking up ActionList.getObjectType in Shared Adobe platform. [ActionList.getObjectType](get-object-type.md).
+- Open when looking up ActionList.getObjectValue in Shared Adobe platform. [ActionList.getObjectValue](get-object-value.md).
+- Open when looking up ActionList.getPath in Shared Adobe platform. [ActionList.getPath](get-path.md).
+- Open when looking up ActionList.getReference in Shared Adobe platform. [ActionList.getReference](get-reference.md).
+- Open when looking up ActionList.getString in Shared Adobe platform. [ActionList.getString](get-string.md).
+- Open when looking up ActionList.getType in Shared Adobe platform. [ActionList.getType](get-type.md).
+- Open when looking up ActionList.getUnitDoubleType in Shared Adobe platform. [ActionList.getUnitDoubleType](get-unit-double-type.md).
+- Open when looking up ActionList.getUnitDoubleValue in Shared Adobe platform. [ActionList.getUnitDoubleValue](get-unit-double-value.md).
+- Open when looking up ActionList.putBoolean in Shared Adobe platform. [ActionList.putBoolean](put-boolean.md).
+- Open when looking up ActionList.putClass in Shared Adobe platform. [ActionList.putClass](put-class.md).
+- Open when looking up ActionList.putData in Shared Adobe platform. [ActionList.putData](put-data.md).
+- Open when looking up ActionList.putDouble in Shared Adobe platform. [ActionList.putDouble](put-double.md).
+- Open when looking up ActionList.putEnumerated in Shared Adobe platform. [ActionList.putEnumerated](put-enumerated.md).
+- Open when looking up ActionList.putInteger in Shared Adobe platform. [ActionList.putInteger](put-integer.md).
+- Open when looking up ActionList.putLargeInteger in Shared Adobe platform. [ActionList.putLargeInteger](put-large-integer.md).
+- Open when looking up ActionList.putList in Shared Adobe platform. [ActionList.putList](put-list.md).
+- Open when looking up ActionList.putObject in Shared Adobe platform. [ActionList.putObject](put-object.md).
+- Open when looking up ActionList.putPath in Shared Adobe platform. [ActionList.putPath](put-path.md).
+- Open when looking up ActionList.putReference in Shared Adobe platform. [ActionList.putReference](put-reference.md).
+- Open when looking up ActionList.putString in Shared Adobe platform. [ActionList.putString](put-string.md).
+- Open when looking up ActionList.putUnitDouble in Shared Adobe platform. [ActionList.putUnitDouble](put-unit-double.md).
+- Open when looking up ActionList.typename in Shared Adobe platform. [ActionList.typename](typename.md).

@@ -1,0 +1,6 @@
+# Bookmark
+
+
+**Methods:**
+
+- setAction

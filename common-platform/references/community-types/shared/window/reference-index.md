@@ -1,0 +1,45 @@
+# Shared Adobe platform — Window
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Window declaration in Shared Adobe platform. [Window declaration](declaration.md).
+- Open when looking up Window.active in Shared Adobe platform. [Window.active](active.md).
+- Open when looking up Window.add in Shared Adobe platform. [Window.add](add.md).
+- Open when looking up Window.alert in Shared Adobe platform. [Window.alert](alert.md).
+- Open when looking up Window.alignChildren in Shared Adobe platform. [Window.alignChildren](align-children.md).
+- Open when looking up Window.cancelElement in Shared Adobe platform. [Window.cancelElement](cancel-element.md).
+- Open when looking up Window.center in Shared Adobe platform. [Window.center](center.md).
+- Open when looking up Window.characters in Shared Adobe platform. [Window.characters](characters.md).
+- Open when looking up Window.children in Shared Adobe platform. [Window.children](children.md).
+- Open when looking up Window.close in Shared Adobe platform. [Window.close](close.md).
+- Open when looking up Window.confirm in Shared Adobe platform. [Window.confirm](confirm.md).
+- Open when looking up Window.Constructor in Shared Adobe platform. [Window.Constructor](constructor.md).
+- Open when looking up Window.defaultElement in Shared Adobe platform. [Window.defaultElement](default-element.md).
+- Open when looking up Window.find in Shared Adobe platform. [Window.find](find.md).
+- Open when looking up Window.frameBounds in Shared Adobe platform. [Window.frameBounds](frame-bounds.md).
+- Open when looking up Window.frameLocation in Shared Adobe platform. [Window.frameLocation](frame-location.md).
+- Open when looking up Window.frameSize in Shared Adobe platform. [Window.frameSize](frame-size.md).
+- Open when looking up Window.frameworkName in Shared Adobe platform. [Window.frameworkName](framework-name.md).
+- Open when looking up Window.graphics in Shared Adobe platform. [Window.graphics](graphics.md).
+- Open when looking up Window.justify in Shared Adobe platform. [Window.justify](justify.md).
+- Open when looking up Window.layout in Shared Adobe platform. [Window.layout](layout.md).
+- Open when looking up Window.margins in Shared Adobe platform. [Window.margins](margins.md).
+- Open when looking up Window.maximized in Shared Adobe platform. [Window.maximized](maximized.md).
+- Open when looking up Window.minimized in Shared Adobe platform. [Window.minimized](minimized.md).
+- Open when looking up Window.notify in Shared Adobe platform. [Window.notify](notify.md).
+- Open when looking up Window.onActivate in Shared Adobe platform. [Window.onActivate](on-activate.md).
+- Open when looking up Window.onClose in Shared Adobe platform. [Window.onClose](on-close.md).
+- Open when looking up Window.onDeactivate in Shared Adobe platform. [Window.onDeactivate](on-deactivate.md).
+- Open when looking up Window.onMove in Shared Adobe platform. [Window.onMove](on-move.md).
+- Open when looking up Window.onMoving in Shared Adobe platform. [Window.onMoving](on-moving.md).
+- Open when looking up Window.onResize in Shared Adobe platform. [Window.onResize](on-resize.md).
+- Open when looking up Window.onResizing in Shared Adobe platform. [Window.onResizing](on-resizing.md).
+- Open when looking up Window.onShortcutKey in Shared Adobe platform. [Window.onShortcutKey](on-shortcut-key.md).
+- Open when looking up Window.onShow in Shared Adobe platform. [Window.onShow](on-show.md).
+- Open when looking up Window.opacity in Shared Adobe platform. [Window.opacity](opacity.md).
+- Open when looking up Window.orientation in Shared Adobe platform. [Window.orientation](orientation.md).
+- Open when looking up Window.prompt in Shared Adobe platform. [Window.prompt](prompt.md).
+- Open when looking up Window.remove in Shared Adobe platform. [Window.remove](remove.md).
+- Open when looking up Window.shortcutKey in Shared Adobe platform. [Window.shortcutKey](shortcut-key.md).
+- Open when looking up Window.spacing in Shared Adobe platform. [Window.spacing](spacing.md).
+- Open when looking up Window.text in Shared Adobe platform. [Window.text](text.md).
+- Open when looking up Window.version in Shared Adobe platform. [Window.version](version.md).

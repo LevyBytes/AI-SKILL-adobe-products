@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Add color effects references", "file": "references/desktop/correct-color/add-color-effects/reference-index.md", "summary": "Open when looking up Add color effects in Premiere Pro.", "keywords": ["Add color effects references"]},
+  {"topic": "Color correction fundamentals references", "file": "references/desktop/correct-color/color-correction-fundamentals/reference-index.md", "summary": "Open when looking up Color correction fundamentals in Premiere Pro.", "keywords": ["Color correction fundamentals references"]},
+  {"topic": "Color management references", "file": "references/desktop/correct-color/color-management/reference-index.md", "summary": "Open when looking up Color management in Premiere Pro.", "keywords": ["Color management references"]},
+  {"topic": "Color mode fundamentals references", "file": "references/desktop/correct-color/color-mode-fundamentals/reference-index.md", "summary": "Open when looking up Color mode fundamentals in Premiere Pro.", "keywords": ["Color mode fundamentals references"]},
+  {"topic": "Set up color management references", "file": "references/desktop/correct-color/set-up-color-management/reference-index.md", "summary": "Open when looking up Set up color management in Premiere Pro.", "keywords": ["Set up color management references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

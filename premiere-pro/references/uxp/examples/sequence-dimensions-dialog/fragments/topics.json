@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "dialog.html", "file": "references/uxp/examples/sequence-dimensions-dialog/fragments/dialog.html", "summary": "Open when looking up dialog.html in Premiere Pro.", "keywords": ["dialog.html"]},
+  {"topic": "styles.css", "file": "references/uxp/examples/sequence-dimensions-dialog/fragments/styles.css", "summary": "Open when looking up styles.css in Premiere Pro.", "keywords": ["styles.css"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

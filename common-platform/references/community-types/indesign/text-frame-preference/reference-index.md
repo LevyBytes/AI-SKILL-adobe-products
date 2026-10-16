@@ -1,0 +1,38 @@
+# Shared Adobe platform — TextFramePreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextFramePreference declaration in Shared Adobe platform. [TextFramePreference declaration](declaration.md).
+- Open when looking up TextFramePreference.autoSizingReferencePoint in Shared Adobe platform. [TextFramePreference.autoSizingReferencePoint](auto-sizing-reference-point.md).
+- Open when looking up TextFramePreference.autoSizingType in Shared Adobe platform. [TextFramePreference.autoSizingType](auto-sizing-type.md).
+- Open when looking up TextFramePreference.columnRuleBottomInset in Shared Adobe platform. [TextFramePreference.columnRuleBottomInset](column-rule-bottom-inset.md).
+- Open when looking up TextFramePreference.columnRuleInsetChainOverride in Shared Adobe platform. [TextFramePreference.columnRuleInsetChainOverride](column-rule-inset-chain-override.md).
+- Open when looking up TextFramePreference.columnRuleOffset in Shared Adobe platform. [TextFramePreference.columnRuleOffset](column-rule-offset.md).
+- Open when looking up TextFramePreference.columnRuleOverprintOverride in Shared Adobe platform. [TextFramePreference.columnRuleOverprintOverride](column-rule-overprint-override.md).
+- Open when looking up TextFramePreference.columnRuleOverride in Shared Adobe platform. [TextFramePreference.columnRuleOverride](column-rule-override.md).
+- Open when looking up TextFramePreference.columnRuleStrokeColor in Shared Adobe platform. [TextFramePreference.columnRuleStrokeColor](column-rule-stroke-color.md).
+- Open when looking up TextFramePreference.columnRuleStrokeTint in Shared Adobe platform. [TextFramePreference.columnRuleStrokeTint](column-rule-stroke-tint.md).
+- Open when looking up TextFramePreference.columnRuleStrokeType in Shared Adobe platform. [TextFramePreference.columnRuleStrokeType](column-rule-stroke-type.md).
+- Open when looking up TextFramePreference.columnRuleStrokeWidth in Shared Adobe platform. [TextFramePreference.columnRuleStrokeWidth](column-rule-stroke-width.md).
+- Open when looking up TextFramePreference.columnRuleTopInset in Shared Adobe platform. [TextFramePreference.columnRuleTopInset](column-rule-top-inset.md).
+- Open when looking up TextFramePreference.firstBaselineOffset in Shared Adobe platform. [TextFramePreference.firstBaselineOffset](first-baseline-offset.md).
+- Open when looking up TextFramePreference.footnotesEnableOverrides in Shared Adobe platform. [TextFramePreference.footnotesEnableOverrides](footnotes-enable-overrides.md).
+- Open when looking up TextFramePreference.footnotesMinimumSpacing in Shared Adobe platform. [TextFramePreference.footnotesMinimumSpacing](footnotes-minimum-spacing.md).
+- Open when looking up TextFramePreference.footnotesSpaceBetween in Shared Adobe platform. [TextFramePreference.footnotesSpaceBetween](footnotes-space-between.md).
+- Open when looking up TextFramePreference.footnotesSpanAcrossColumns in Shared Adobe platform. [TextFramePreference.footnotesSpanAcrossColumns](footnotes-span-across-columns.md).
+- Open when looking up TextFramePreference.ignoreWrap in Shared Adobe platform. [TextFramePreference.ignoreWrap](ignore-wrap.md).
+- Open when looking up TextFramePreference.insetSpacing in Shared Adobe platform. [TextFramePreference.insetSpacing](inset-spacing.md).
+- Open when looking up TextFramePreference.minimumFirstBaselineOffset in Shared Adobe platform. [TextFramePreference.minimumFirstBaselineOffset](minimum-first-baseline-offset.md).
+- Open when looking up TextFramePreference.minimumHeightForAutoSizing in Shared Adobe platform. [TextFramePreference.minimumHeightForAutoSizing](minimum-height-for-auto-sizing.md).
+- Open when looking up TextFramePreference.minimumWidthForAutoSizing in Shared Adobe platform. [TextFramePreference.minimumWidthForAutoSizing](minimum-width-for-auto-sizing.md).
+- Open when looking up TextFramePreference.textColumnCount in Shared Adobe platform. [TextFramePreference.textColumnCount](text-column-count.md).
+- Open when looking up TextFramePreference.textColumnFixedWidth in Shared Adobe platform. [TextFramePreference.textColumnFixedWidth](text-column-fixed-width.md).
+- Open when looking up TextFramePreference.textColumnGutter in Shared Adobe platform. [TextFramePreference.textColumnGutter](text-column-gutter.md).
+- Open when looking up TextFramePreference.textColumnMaxWidth in Shared Adobe platform. [TextFramePreference.textColumnMaxWidth](text-column-max-width.md).
+- Open when looking up TextFramePreference.useFixedColumnWidth in Shared Adobe platform. [TextFramePreference.useFixedColumnWidth](use-fixed-column-width.md).
+- Open when looking up TextFramePreference.useFlexibleColumnWidth in Shared Adobe platform. [TextFramePreference.useFlexibleColumnWidth](use-flexible-column-width.md).
+- Open when looking up TextFramePreference.useMinimumHeightForAutoSizing in Shared Adobe platform. [TextFramePreference.useMinimumHeightForAutoSizing](use-minimum-height-for-auto-sizing.md).
+- Open when looking up TextFramePreference.useMinimumWidthForAutoSizing in Shared Adobe platform. [TextFramePreference.useMinimumWidthForAutoSizing](use-minimum-width-for-auto-sizing.md).
+- Open when looking up TextFramePreference.useNoLineBreaksForAutoSizing in Shared Adobe platform. [TextFramePreference.useNoLineBreaksForAutoSizing](use-no-line-breaks-for-auto-sizing.md).
+- Open when looking up TextFramePreference.verticalBalanceColumns in Shared Adobe platform. [TextFramePreference.verticalBalanceColumns](vertical-balance-columns.md).
+- Open when looking up TextFramePreference.verticalJustification in Shared Adobe platform. [TextFramePreference.verticalJustification](vertical-justification.md).
+- Open when looking up TextFramePreference.verticalThreshold in Shared Adobe platform. [TextFramePreference.verticalThreshold](vertical-threshold.md).

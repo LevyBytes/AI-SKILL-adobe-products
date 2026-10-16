@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Rest API", "file": "references/pdf-services/step-4-getting-the-api-access-token/rest-api.md", "summary": "Open when looking up Rest API in Acrobat.", "keywords": ["Rest API"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

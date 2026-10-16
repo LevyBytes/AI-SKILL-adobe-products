@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Supported languages and accents in Generate Speech (beta)", "file": "references/web/supported-languages-in-generate-speech-beta/supported-languages-and-accents-in-generate-speech-beta.md", "summary": "Open when looking up Supported languages and accents in Generate Speech (beta) in Firefly.", "keywords": ["Supported languages and accents in Generate Speech (beta)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

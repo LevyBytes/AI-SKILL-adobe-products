@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "The XML Object — Retrieving contained elements", "file": "references/scripting/retrieving-contained-elements/the-xml-object-retrieving-contained-elements.md", "summary": "Open when looking up The XML Object — Retrieving contained elements in Shared Adobe platform.", "keywords": ["The XML Object — Retrieving contained elements"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

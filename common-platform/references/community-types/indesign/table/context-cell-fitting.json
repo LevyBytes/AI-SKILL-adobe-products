@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Table.clipContentToGraphicCell", "file": "references/community-types/indesign/table/clip-content-to-graphic-cell.md", "summary": "Open when looking up Table.clipContentToGraphicCell in Shared Adobe platform.", "keywords": ["Table.clipContentToGraphicCell"]},
+  {"topic": "Table.clipContentToTextCell", "file": "references/community-types/indesign/table/clip-content-to-text-cell.md", "summary": "Open when looking up Table.clipContentToTextCell in Shared Adobe platform.", "keywords": ["Table.clipContentToTextCell"]},
+  {"topic": "Table.graphicBottomInset", "file": "references/community-types/indesign/table/graphic-bottom-inset.md", "summary": "Open when looking up Table.graphicBottomInset in Shared Adobe platform.", "keywords": ["Table.graphicBottomInset"]},
+  {"topic": "Table.graphicLeftInset", "file": "references/community-types/indesign/table/graphic-left-inset.md", "summary": "Open when looking up Table.graphicLeftInset in Shared Adobe platform.", "keywords": ["Table.graphicLeftInset"]},
+  {"topic": "Table.graphicRightInset", "file": "references/community-types/indesign/table/graphic-right-inset.md", "summary": "Open when looking up Table.graphicRightInset in Shared Adobe platform.", "keywords": ["Table.graphicRightInset"]},
+  {"topic": "Table.graphicTopInset", "file": "references/community-types/indesign/table/graphic-top-inset.md", "summary": "Open when looking up Table.graphicTopInset in Shared Adobe platform.", "keywords": ["Table.graphicTopInset"]},
+  {"topic": "Table.height", "file": "references/community-types/indesign/table/height.md", "summary": "Open when looking up Table.height in Shared Adobe platform.", "keywords": ["Table.height"]},
+  {"topic": "Table.textBottomInset", "file": "references/community-types/indesign/table/text-bottom-inset.md", "summary": "Open when looking up Table.textBottomInset in Shared Adobe platform.", "keywords": ["Table.textBottomInset"]},
+  {"topic": "Table.textLeftInset", "file": "references/community-types/indesign/table/text-left-inset.md", "summary": "Open when looking up Table.textLeftInset in Shared Adobe platform.", "keywords": ["Table.textLeftInset"]},
+  {"topic": "Table.textRightInset", "file": "references/community-types/indesign/table/text-right-inset.md", "summary": "Open when looking up Table.textRightInset in Shared Adobe platform.", "keywords": ["Table.textRightInset"]},
+  {"topic": "Table.textTopInset", "file": "references/community-types/indesign/table/text-top-inset.md", "summary": "Open when looking up Table.textTopInset in Shared Adobe platform.", "keywords": ["Table.textTopInset"]},
+  {"topic": "Table.width", "file": "references/community-types/indesign/table/width.md", "summary": "Open when looking up Table.width in Shared Adobe platform.", "keywords": ["Table.width"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

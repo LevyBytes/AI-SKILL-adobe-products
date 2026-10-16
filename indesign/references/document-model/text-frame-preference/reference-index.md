@@ -1,0 +1,47 @@
+# InDesign — TextFramePreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up autoSizingReferencePoint in InDesign. [autoSizingReferencePoint](auto-sizing-reference-point.md).
+- Open when looking up autoSizingType in InDesign. [autoSizingType](auto-sizing-type.md).
+- Open when looking up columnRuleBottomInset in InDesign. [columnRuleBottomInset](column-rule-bottom-inset.md).
+- Open when looking up columnRuleInsetChainOverride in InDesign. [columnRuleInsetChainOverride](column-rule-inset-chain-override.md).
+- Open when looking up columnRuleOffset in InDesign. [columnRuleOffset](column-rule-offset.md).
+- Open when looking up columnRuleOverprintOverride in InDesign. [columnRuleOverprintOverride](column-rule-overprint-override.md).
+- Open when looking up columnRuleOverride in InDesign. [columnRuleOverride](column-rule-override.md).
+- Open when looking up columnRuleStrokeColor in InDesign. [columnRuleStrokeColor](column-rule-stroke-color.md).
+- Open when looking up columnRuleStrokeTint in InDesign. [columnRuleStrokeTint](column-rule-stroke-tint.md).
+- Open when looking up columnRuleStrokeType in InDesign. [columnRuleStrokeType](column-rule-stroke-type.md).
+- Open when looking up columnRuleStrokeWidth in InDesign. [columnRuleStrokeWidth](column-rule-stroke-width.md).
+- Open when looking up columnRuleTopInset in InDesign. [columnRuleTopInset](column-rule-top-inset.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up firstBaselineOffset in InDesign. [firstBaselineOffset](first-baseline-offset.md).
+- Open when looking up footnotesEnableOverrides in InDesign. [footnotesEnableOverrides](footnotes-enable-overrides.md).
+- Open when looking up footnotesMinimumSpacing in InDesign. [footnotesMinimumSpacing](footnotes-minimum-spacing.md).
+- Open when looking up footnotesSpaceBetween in InDesign. [footnotesSpaceBetween](footnotes-space-between.md).
+- Open when looking up footnotesSpanAcrossColumns in InDesign. [footnotesSpanAcrossColumns](footnotes-span-across-columns.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up ignoreWrap in InDesign. [ignoreWrap](ignore-wrap.md).
+- Open when looking up insetSpacing in InDesign. [insetSpacing](inset-spacing.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up minimumFirstBaselineOffset in InDesign. [minimumFirstBaselineOffset](minimum-first-baseline-offset.md).
+- Open when looking up minimumHeightForAutoSizing in InDesign. [minimumHeightForAutoSizing](minimum-height-for-auto-sizing.md).
+- Open when looking up minimumWidthForAutoSizing in InDesign. [minimumWidthForAutoSizing](minimum-width-for-auto-sizing.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up textColumnCount in InDesign. [textColumnCount](text-column-count.md).
+- Open when looking up textColumnFixedWidth in InDesign. [textColumnFixedWidth](text-column-fixed-width.md).
+- Open when looking up textColumnGutter in InDesign. [textColumnGutter](text-column-gutter.md).
+- Open when looking up textColumnMaxWidth in InDesign. [textColumnMaxWidth](text-column-max-width.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up useFixedColumnWidth in InDesign. [useFixedColumnWidth](use-fixed-column-width.md).
+- Open when looking up useFlexibleColumnWidth in InDesign. [useFlexibleColumnWidth](use-flexible-column-width.md).
+- Open when looking up useMinimumHeightForAutoSizing in InDesign. [useMinimumHeightForAutoSizing](use-minimum-height-for-auto-sizing.md).
+- Open when looking up useMinimumWidthForAutoSizing in InDesign. [useMinimumWidthForAutoSizing](use-minimum-width-for-auto-sizing.md).
+- Open when looking up useNoLineBreaksForAutoSizing in InDesign. [useNoLineBreaksForAutoSizing](use-no-line-breaks-for-auto-sizing.md).
+- Open when looking up verticalBalanceColumns in InDesign. [verticalBalanceColumns](vertical-balance-columns.md).
+- Open when looking up verticalJustification in InDesign. [verticalJustification](vertical-justification.md).
+- Open when looking up verticalThreshold in InDesign. [verticalThreshold](vertical-threshold.md).

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "COMPLETE", "file": "references/document-model/font-downloading/complete.md", "summary": "Open when looking up COMPLETE in InDesign.", "keywords": ["COMPLETE"]},
+  {"topic": "NONE", "file": "references/document-model/font-downloading/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "SUBSET", "file": "references/document-model/font-downloading/subset.md", "summary": "Open when looking up SUBSET in InDesign.", "keywords": ["SUBSET"]},
+  {"topic": "SUBSET_LARGE", "file": "references/document-model/font-downloading/subsetlarge.md", "summary": "Open when looking up SUBSET_LARGE in InDesign.", "keywords": ["SUBSET_LARGE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

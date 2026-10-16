@@ -1,0 +1,34 @@
+# Layer Filter methods
+
+- [Layer.applyAddNoise(amount: number, distribution: Constants.NoiseDistribution, monochromatic: boolean)](../../layer/apply-add-noise.md) Executes Add Noise.
+- [Layer.applyAverage()](../../layer/apply-average.md) Executes Average.
+- [Layer.applyBlur()](../../layer/apply-blur.md) Executes Blur.
+- [Layer.applyBlurMore()](../../layer/apply-blur-more.md) Executes Blur More.
+- [Layer.applyClouds()](../../layer/apply-clouds.md) Executes Clouds.
+- [Layer.applyCustomFilter(characteristics: number[], scale: number, offset: number)](../../layer/apply-custom-filter.md#applycustomfilter) Executes Custom.
+- [Layer.applyDeInterlace(eliminateFields: Constants.EliminateFields, createFields: Constants.CreateFields)](../../layer/apply-de-interlace.md) Executes De-Interlace.
+- [Layer.applyDespeckle()](../../layer/apply-despeckle.md) Executes Despeckle.
+- [Layer.applyDifferenceClouds()](../../layer/apply-difference-clouds.md) Executes Difference Clouds.
+- [Layer.applyDiffuseGlow(graininess: number, glowAmount: number, clearAmount: number)](../../layer/apply-diffuse-glow.md) Executes Diffuse Glow.
+- [Layer.applyDisplace(horizontalScale: number, verticalScale: number, displacementType: Constants.DisplacementMapType, undefinedAreas: Constants.UndefinedAreas, displacementMapFile: File)](../../layer/apply-displace.md) Executes Displace.
+- [Layer.applyDustAndScratches(radius: number, threshold: number)](../../layer/apply-dust-and-scratches.md) Executes Dust and Scratches.
+- [Layer.applyGaussianBlur(radius: number)](../../layer/apply-gaussian-blur.md) Executes Gaussian Blur.
+- [Layer.applyGlassEffect(distortion: number, smoothness: number, scaling: number, invert: boolean, texture: Constants.TextureType, textureFile?: File)](../../layer/apply-glass-effect.md) Executes Glass.
+- [Layer.applyHighPass(radius: number)](../../layer/apply-high-pass.md) Executes High Pass.
+- [Layer.applyLensBlur(source: Constants.DepthMapSource, focalDistance: number, invertDepthMask: boolean, shape: Constants.Geometry, radius: number, bladeCurvature: number, rotation: number, brightness: number, threshold: number, amount: number, distribution: Constants.NoiseDistribution, monochromatic: boolean)](../../layer/apply-lens-blur.md) Executes Lens Blur.
+- [Layer.applyLensFlare(brightness: number, flareCenter: \{x: number, y: number}, lensType: Constants.LensType)](../../layer/apply-lens-flare.md) Executes Lens Flare.
+- [Layer.applyMaximum(radius: number, preserveShape: Constants.PreserveShape)](../../layer/apply-maximum.md) Executes Maximum.
+- [Layer.applyMinimum(radius: number, preserveShape: Constants.PreserveShape)](../../layer/apply-minimum.md) Executes Minimum.
+- [Layer.applyMedianNoise(radius: number)](../../layer/apply-median-noise.md) Executes Median Noise.
+- [Layer.applyMotionBlur(angle: number, distance: number)](../../layer/apply-motion-blur.md) Executes Motion Blur.
+- [Layer.applyNTSC()](../../layer/apply-ntsc.md) Executes NTSC.
+- [Layer.applyOceanRipple(size: number, magnitude: number)](../../layer/apply-ocean-ripple.md) Executes Ocean Ripple.
+- [Layer.applyOffset(horizontal: number, vertical: number, undefinedAreas: Constants.OffsetUndefinedAreas)](../../layer/apply-offset.md) Executes Offset.
+- [Layer.applyTwirl(angle: number)](../../layer/apply-twirl.md) Executes Twirl.
+- [Layer.applyPinch(amount: number)](../../layer/apply-pinch.md) Executes Pinch.
+- [Layer.applyPolarCoordinates(conversion: Constants.PolarConversionType)](../../layer/apply-polar-coordinates.md) Executes Polar Coordinates.
+- [Layer.applyRipple(amount: number, size: Constants.RippleSize)](../../layer/apply-ripple.md) Executes Ripple.
+- [Layer.applySharpen()](../../layer/apply-sharpen.md) Executes Sharpen.
+- [Layer.applySharpenEdges()](../../layer/apply-sharpen-edges.md) Executes Sharpen Edges.
+- [Layer.applySharpenMore()](../../layer/apply-sharpen-more.md) Executes Sharpen More.
+- [Layer.applyShear(curve: \{x: number, y: number}[], undefinedArea: Constants.UndefinedAreas)](../../layer/apply-shear.md#applyshear) Executes Shear.

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Export a book to PDF", "file": "references/desktop/print/print-production-and-file-creation/print-or-export-book-files/export-a-book-to-pdf.md", "summary": "Open when looking up Export a book to PDF in InDesign.", "keywords": ["Export a book to PDF"]},
+  {"topic": "Print a book", "file": "references/desktop/print/print-production-and-file-creation/print-or-export-book-files/print-a-book.md", "summary": "Open when looking up Print a book in InDesign.", "keywords": ["Print a book"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

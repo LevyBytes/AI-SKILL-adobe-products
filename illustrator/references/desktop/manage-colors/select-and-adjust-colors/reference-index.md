@@ -1,0 +1,21 @@
+# Illustrator — Select and adjust colors
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About selecting colors in Illustrator. [About selecting colors](about-selecting-colors.md).
+- Open when looking up Adjust color balance in Illustrator. [Adjust color balance](adjust-color-balance.md).
+- Open when looking up Adjust saturation of multiple colors in Illustrator. [Adjust saturation of multiple colors](adjust-saturation-of-multiple-colors.md).
+- Open when looking up Blend colors in Illustrator. [Blend colors](blend-colors.md).
+- Open when looking up Change color tints in Illustrator. [Change color tints](change-color-tints.md).
+- Open when looking up Change colors to their inverse or complement in Illustrator. [Change colors to their inverse or complement](change-colors-to-their-inverse-or-complement.md).
+- Open when looking up Change colors to their inverse or complement in Illustrator. [Change colors to their inverse or complement references](inverse-and-complement-colors/reference-index.md).
+- Open when looking up Color panel options in Illustrator. [Color panel options](color-panel-options.md).
+- Open when looking up Color Picker overview in Illustrator. [Color Picker overview](color-picker-overview.md).
+- Open when looking up Convert color modes in Illustrator. [Convert color modes](convert-color-modes.md).
+- Open when looking up Convert color modes in Illustrator. [Convert color modes references](convert-color-modes/reference-index.md).
+- Open when looking up Get precise spot colors using lab values in Illustrator. [Get precise spot colors using lab values](get-precise-spot-colors-using-lab-values.md).
+- Open when looking up Make colors printable or web safe in Illustrator. [Make colors printable or web safe](make-colors-printable-or-web-safe.md).
+- Open when looking up Make colors printable or web safe in Illustrator. [Make colors printable or web safe references](make-colors-printable-or-web-safe/reference-index.md).
+- Open when looking up Select colors using the Color panel in Illustrator. [Select colors using the Color panel](select-colors-using-the-color-panel.md).
+- Open when looking up Select colors using the Color panel in Illustrator. [Select colors using the Color panel references](select-colors-using-the-color-panel/reference-index.md).
+- Open when looking up Select colors using the Eyedropper and Color Picker tool in Illustrator. [Select colors using the Eyedropper and Color Picker tool](select-colors-using-the-eyedropper-and-color-picker-tool.md).
+- Open when looking up Select colors using the Eyedropper and Color Picker tool in Illustrator. [Select colors using the Eyedropper and Color Picker tool references](eyedropper-and-color-picker/reference-index.md).

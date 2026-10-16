@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "What should I do?", "file": "references/cloud-services/v1-deprecation-announcement/what-should-i-do.md", "summary": "Open when looking up What should I do? in Photoshop.", "keywords": ["What should I do?"]},
+  {"topic": "When is this happening?", "file": "references/cloud-services/v1-deprecation-announcement/when-is-this-happening.md", "summary": "Open when looking up When is this happening? in Photoshop.", "keywords": ["When is this happening?"]},
+  {"topic": "Where can I find resources?", "file": "references/cloud-services/v1-deprecation-announcement/where-can-i-find-resources.md", "summary": "Open when looking up Where can I find resources? in Photoshop.", "keywords": ["Where can I find resources?"]},
+  {"topic": "Who can help me with migration?", "file": "references/cloud-services/v1-deprecation-announcement/who-can-help-me-with-migration.md", "summary": "Open when looking up Who can help me with migration? in Photoshop.", "keywords": ["Who can help me with migration?"]},
+  {"topic": "Why is Adobe making this change?", "file": "references/cloud-services/v1-deprecation-announcement/why-is-adobe-making-this-change.md", "summary": "Open when looking up Why is Adobe making this change? in Photoshop.", "keywords": ["Why is Adobe making this change?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Adjust light and tone", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone.md", "summary": "Open when looking up Adjust light and tone in Photoshop.", "keywords": ["Adjust light and tone"]},
+  {"topic": "Adjust light and tone references", "file": "references/desktop/repair-and-retouch/adjust-light-and-tone/reference-index.md", "summary": "Open when looking up Adjust light and tone in Photoshop.", "keywords": ["Adjust light and tone references"]},
+  {"topic": "Clean and restore images", "file": "references/desktop/repair-and-retouch/clean-and-restore-images.md", "summary": "Open when looking up Clean and restore images in Photoshop.", "keywords": ["Clean and restore images"]},
+  {"topic": "Clean and restore images references", "file": "references/desktop/repair-and-retouch/clean-and-restore-images/reference-index.md", "summary": "Open when looking up Clean and restore images in Photoshop.", "keywords": ["Clean and restore images references"]},
+  {"topic": "Heal and clone", "file": "references/desktop/repair-and-retouch/heal-and-clone.md", "summary": "Open when looking up Heal and clone in Photoshop.", "keywords": ["Heal and clone"]},
+  {"topic": "Heal and clone references", "file": "references/desktop/repair-and-retouch/heal-and-clone/reference-index.md", "summary": "Open when looking up Heal and clone in Photoshop.", "keywords": ["Heal and clone references"]},
+  {"topic": "Remove objects and fill space", "file": "references/desktop/repair-and-retouch/remove-objects-and-fill-space.md", "summary": "Open when looking up Remove objects and fill space in Photoshop.", "keywords": ["Remove objects and fill space"]},
+  {"topic": "Remove objects and fill space references", "file": "references/desktop/repair-and-retouch/remove-objects-and-fill-space/reference-index.md", "summary": "Open when looking up Remove objects and fill space in Photoshop.", "keywords": ["Remove objects and fill space references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

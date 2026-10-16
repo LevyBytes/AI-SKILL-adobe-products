@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Pf out data members references", "file": "references/plugin-sdk/pf-out-data-members/reference-index.md", "summary": "Open when looking up Pf out data members in After Effects.", "keywords": ["Pf out data members references"]},
+  {"topic": "Pf out flags references", "file": "references/plugin-sdk/pf-out-flags/reference-index.md", "summary": "Open when looking up Pf out flags in After Effects.", "keywords": ["Pf out flags references"]},
+  {"topic": "Pf out flags2 references", "file": "references/plugin-sdk/pf-out-flags2/reference-index.md", "summary": "Open when looking up Pf out flags2 in After Effects.", "keywords": ["Pf out flags2 references"]},
+  {"topic": "PF_OutData", "file": "references/plugin-sdk/pf-out-data.md", "summary": "Open when looking up PF_OutData in After Effects.", "keywords": ["PF_OutData"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

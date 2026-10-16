@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Call isWindowVisible API", "file": "references/cep/cep-8-0/call-is-window-visible-api.md", "summary": "Open when looking up Call isWindowVisible API in Shared Adobe platform.", "keywords": ["Call isWindowVisible API"]},
+  {"topic": "Changing Extension Content Size", "file": "references/cep/cep-8-0/changing-extension-content-size.md", "summary": "Open when looking up Changing Extension Content Size in Shared Adobe platform.", "keywords": ["Changing Extension Content Size"]},
+  {"topic": "Dialog Size based on Screen Size", "file": "references/cep/cep-8-0/dialog-size-based-on-screen-size.md", "summary": "Open when looking up Dialog Size based on Screen Size in Shared Adobe platform.", "keywords": ["Dialog Size based on Screen Size"]},
+  {"topic": "Extension Size", "file": "references/cep/cep-8-0/extension-size.md", "summary": "Open when looking up Extension Size in Shared Adobe platform.", "keywords": ["Extension Size"]},
+  {"topic": "Extension window title APIs", "file": "references/cep/cep-8-0/extension-window-title-apis.md", "summary": "Open when looking up Extension window title APIs in Shared Adobe platform.", "keywords": ["Extension window title APIs"]},
+  {"topic": "Getting Extension Content Size", "file": "references/cep/cep-8-0/getting-extension-content-size.md", "summary": "Open when looking up Getting Extension Content Size in Shared Adobe platform.", "keywords": ["Getting Extension Content Size"]},
+  {"topic": "Invisible HTML Extensions", "file": "references/cep/cep-8-0/invisible-html-extensions.md", "summary": "Open when looking up Invisible HTML Extensions in Shared Adobe platform.", "keywords": ["Invisible HTML Extensions"]},
+  {"topic": "Scroll bar tips", "file": "references/cep/cep-8-0/scroll-bar-tips.md", "summary": "Open when looking up Scroll bar tips in Shared Adobe platform.", "keywords": ["Scroll bar tips"]},
+  {"topic": "Ways to read HTML extension window state", "file": "references/cep/cep-8-0/ways-to-read-html-extension-window-state.md", "summary": "Open when looking up Ways to read HTML extension window state in Shared Adobe platform.", "keywords": ["Ways to read HTML extension window state"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Authoring templates in external applications", "file": "references/web/enterprise/creative-production/use-template-and-data-merge-nodes/authoring-templates-in-external-applications.md", "summary": "Open when looking up Authoring templates in external applications in Firefly.", "keywords": ["Authoring templates in external applications"]},
+  {"topic": "How template nodes differ from simple inputs", "file": "references/web/enterprise/creative-production/use-template-and-data-merge-nodes/how-template-nodes-differ-from-simple-inputs.md", "summary": "Open when looking up How template nodes differ from simple inputs in Firefly.", "keywords": ["How template nodes differ from simple inputs"]},
+  {"topic": "Template preparation", "file": "references/web/enterprise/creative-production/use-template-and-data-merge-nodes/template-preparation.md", "summary": "Open when looking up Template preparation in Firefly.", "keywords": ["Template preparation"]},
+  {"topic": "Upload, map, and connect", "file": "references/web/enterprise/creative-production/use-template-and-data-merge-nodes/upload-map-and-connect.md", "summary": "Open when looking up Upload, map, and connect in Firefly.", "keywords": ["Upload, map, and connect"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

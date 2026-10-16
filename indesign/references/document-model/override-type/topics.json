@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ALL", "file": "references/document-model/override-type/all.md", "summary": "Open when looking up ALL in InDesign.", "keywords": ["ALL"]},
+  {"topic": "CHARACTER_ONLY", "file": "references/document-model/override-type/characteronly.md", "summary": "Open when looking up CHARACTER_ONLY in InDesign.", "keywords": ["CHARACTER_ONLY"]},
+  {"topic": "PARAGRAPH_ONLY", "file": "references/document-model/override-type/paragraphonly.md", "summary": "Open when looking up PARAGRAPH_ONLY in InDesign.", "keywords": ["PARAGRAPH_ONLY"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

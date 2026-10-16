@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "CSS", "file": "references/uxp/known-issues/css.md", "summary": "Open when looking up CSS in Photoshop.", "keywords": ["CSS"]},
+  {"topic": "Debugging", "file": "references/uxp/known-issues/debugging.md", "summary": "Open when looking up Debugging in Photoshop.", "keywords": ["Debugging"]},
+  {"topic": "DOM", "file": "references/uxp/known-issues/dom.md", "summary": "Open when looking up DOM in Photoshop.", "keywords": ["DOM"]},
+  {"topic": "Events", "file": "references/uxp/known-issues/events.md", "summary": "Open when looking up Events in Photoshop.", "keywords": ["Events"]},
+  {"topic": "File I/O", "file": "references/uxp/known-issues/file-i-o.md", "summary": "Open when looking up File I/O in Photoshop.", "keywords": ["File I/O"]},
+  {"topic": "General Issues", "file": "references/uxp/known-issues/general-issues.md", "summary": "Open when looking up General Issues in Photoshop.", "keywords": ["General Issues"]},
+  {"topic": "HTML Elements", "file": "references/uxp/known-issues/html-elements.md", "summary": "Open when looking up HTML Elements in Photoshop.", "keywords": ["HTML Elements"]},
+  {"topic": "Layout", "file": "references/uxp/known-issues/layout.md", "summary": "Open when looking up Layout in Photoshop.", "keywords": ["Layout"]},
+  {"topic": "Network I/O", "file": "references/uxp/known-issues/network-i-o.md", "summary": "Open when looking up Network I/O in Photoshop.", "keywords": ["Network I/O"]},
+  {"topic": "Spectrum UXP Components", "file": "references/uxp/known-issues/spectrum-uxp-components.md", "summary": "Open when looking up Spectrum UXP Components in Photoshop.", "keywords": ["Spectrum UXP Components"]},
+  {"topic": "User Interface", "file": "references/uxp/known-issues/user-interface.md", "summary": "Open when looking up User Interface in Photoshop.", "keywords": ["User Interface"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

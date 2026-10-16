@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP_ConvertEffectToCompTime", "file": "references/plugin-sdk/aegppf-interface-suite1/aegp-convert-effect-to-comp-time.md", "summary": "Open when looking up AEGP_ConvertEffectToCompTime in After Effects.", "keywords": ["AEGP_ConvertEffectToCompTime"]},
+  {"topic": "AEGP_GetEffectCamera", "file": "references/plugin-sdk/aegppf-interface-suite1/aegp-get-effect-camera.md", "summary": "Open when looking up AEGP_GetEffectCamera in After Effects.", "keywords": ["AEGP_GetEffectCamera"]},
+  {"topic": "AEGP_GetEffectCameraMatrix", "file": "references/plugin-sdk/aegppf-interface-suite1/aegp-get-effect-camera-matrix.md", "summary": "Open when looking up AEGP_GetEffectCameraMatrix in After Effects.", "keywords": ["AEGP_GetEffectCameraMatrix"]},
+  {"topic": "AEGP_GetEffectLayer", "file": "references/plugin-sdk/aegppf-interface-suite1/aegp-get-effect-layer.md", "summary": "Open when looking up AEGP_GetEffectLayer in After Effects.", "keywords": ["AEGP_GetEffectLayer"]},
+  {"topic": "AEGP_GetNewEffectForEffect", "file": "references/plugin-sdk/aegppf-interface-suite1/aegp-get-new-effect-for-effect.md", "summary": "Open when looking up AEGP_GetNewEffectForEffect in After Effects.", "keywords": ["AEGP_GetNewEffectForEffect"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

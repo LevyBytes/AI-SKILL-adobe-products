@@ -1,0 +1,43 @@
+# PATHS
+
+- 360 Loop
+- Antelope
+- Ants
+- Back Stage
+- Balance
+- Balloon Man
+- Balloon
+- Bouncing
+- Bubble Pop
+- Bump And Slide On
+- Centipede
+- Circuit Board
+- Conveyor Belt
+- Double Spiral
+- Down And Out
+- Downhill Slide Off
+- Downhill Slide On
+- Frenzy
+- Hurdles
+- Karate Chop
+
+- Loop On And Off
+- Lyrical
+- Organism
+- Paper Clip
+- Pipes
+- Raquetball
+- Rat Nest
+- Reel To Reel
+- Rope Bridge
+- Serpent
+- Slippery Slope
+- Spiral Long
+- Spiral
+- Springy
+- Squirmy
+- Stairwell
+- Symmetry
+- Tchotchke
+- Walk Of Stars
+- Zig-Zag

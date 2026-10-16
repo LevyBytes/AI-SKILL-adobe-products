@@ -1,0 +1,22 @@
+# Illustrator — ExportOptionsSVG
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ExportOptionsSVG.artboardRange in Illustrator. [ExportOptionsSVG.artboardRange](artboard-range.md).
+- Open when looking up ExportOptionsSVG.compressed in Illustrator. [ExportOptionsSVG.compressed](compressed.md).
+- Open when looking up ExportOptionsSVG.coordinatePrecision in Illustrator. [ExportOptionsSVG.coordinatePrecision](coordinate-precision.md).
+- Open when looking up ExportOptionsSVG.cssProperties in Illustrator. [ExportOptionsSVG.cssProperties](css-properties.md).
+- Open when looking up ExportOptionsSVG.documentEncoding in Illustrator. [ExportOptionsSVG.documentEncoding](document-encoding.md).
+- Open when looking up ExportOptionsSVG.DTD in Illustrator. [ExportOptionsSVG.DTD](dtd.md).
+- Open when looking up ExportOptionsSVG.embedRasterImages in Illustrator. [ExportOptionsSVG.embedRasterImages](embed-raster-images.md).
+- Open when looking up ExportOptionsSVG.fontSubsetting in Illustrator. [ExportOptionsSVG.fontSubsetting](font-subsetting.md).
+- Open when looking up ExportOptionsSVG.fontType in Illustrator. [ExportOptionsSVG.fontType](font-type.md).
+- Open when looking up ExportOptionsSVG.includeFileInfo in Illustrator. [ExportOptionsSVG.includeFileInfo](include-file-info.md).
+- Open when looking up ExportOptionsSVG.includeUnusedStyles in Illustrator. [ExportOptionsSVG.includeUnusedStyles](include-unused-styles.md).
+- Open when looking up ExportOptionsSVG.includeVariablesAndDatasets in Illustrator. [ExportOptionsSVG.includeVariablesAndDatasets](include-variables-and-datasets.md).
+- Open when looking up ExportOptionsSVG.optimizeForSVGViewer in Illustrator. [ExportOptionsSVG.optimizeForSVGViewer](optimize-for-svg-viewer.md).
+- Open when looking up ExportOptionsSVG.preserveEditability in Illustrator. [ExportOptionsSVG.preserveEditability](preserve-editability.md).
+- Open when looking up ExportOptionsSVG.saveMultipleArtboards in Illustrator. [ExportOptionsSVG.saveMultipleArtboards](save-multiple-artboards.md).
+- Open when looking up ExportOptionsSVG.slices in Illustrator. [ExportOptionsSVG.slices](slices.md).
+- Open when looking up ExportOptionsSVG.sVGAutoKerning in Illustrator. [ExportOptionsSVG.sVGAutoKerning](s-vg-auto-kerning.md).
+- Open when looking up ExportOptionsSVG.sVGTextOnPath in Illustrator. [ExportOptionsSVG.sVGTextOnPath](s-vg-text-on-path.md).
+- Open when looking up ExportOptionsSVG.typename in Illustrator. [ExportOptionsSVG.typename](typename.md).

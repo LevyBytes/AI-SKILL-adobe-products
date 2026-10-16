@@ -1,0 +1,68 @@
+# Legacy
+
+- 3D Lines Zoom In
+- 3D Rotate around Circle
+- Bars Blinky
+- Blue Flash
+- Boxes - concentric NTSC
+- Boxes - concentric PAL
+- Boxes - random 1 NTSC
+- Boxes - random 1 PAL
+- Boxes - random 2 NTSC
+- Boxes - random 2 PAL
+- Boxes - random 3 NTSC
+- Boxes - random 3 PAL
+- Boxes - stroked NTSC
+- Boxes - stroked PAL
+- Centipede
+- Contract - Expand
+- DialTone - US
+- Digital
+- Drop Bounce
+- Embossed Multiple Exposure
+- Emerge
+- Ethereal
+- Fluctuate
+- Flv to Inset
+- Frenzv
+- Front - Back
+- Frontside - Backside
+- Green Dots
+- Incoming
+- Inflammation
+- Inset Video - framed
+- Inset Video - torn edges
+- Left Third - scoop mask NTSC
+
+- Left Third - scoop mask PAL
+- Lightning - Horizontal
+- Lightning - Vertical
+- Lower Third - scoop mask NTSC
+- Lower Third - scoop mask PAL
+- Lower Third Holdout - darken
+- Lower Third Holdout - saturate
+- Lyrical
+- Multi-Line Flip
+- Organism
+- Outgoing - Incoming
+- Ovals - concentric NTSC
+- Ovals - concentric PAL
+- Ovals - random 1 NTSC
+- Ovals - random 1 PAL
+- Ovals - random 2 NTSC
+- Ovals - random 2 PAL
+- Paper Clip
+- Pinwheel
+- Pulse Exposure
+- Reduce DV blockiness
+- Separate XYZ Position
+- Shadows
+- Silhouettes
+- Sonar Ping
+- Spin Flash
+- Spirograph
+- Twisty Ribbons
+- Twisty Ribbons 2
+- Walk Of Stars
+- White Trim
+- Word Flash

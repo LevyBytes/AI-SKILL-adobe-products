@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Static methods references", "file": "references/uxp/host-api/project-converter/static-methods/reference-index.md", "summary": "Open when looking up Static methods in Premiere Pro.", "keywords": ["Static methods references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

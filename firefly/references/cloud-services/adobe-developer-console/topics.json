@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Access Tokens", "file": "references/cloud-services/adobe-developer-console/access-tokens.md", "summary": "Open when looking up Access Tokens in Firefly.", "keywords": ["Access Tokens"]},
+  {"topic": "Best Practices", "file": "references/cloud-services/adobe-developer-console/best-practices.md", "summary": "Open when looking up Best Practices in Firefly.", "keywords": ["Best Practices"]},
+  {"topic": "Delete a secret", "file": "references/cloud-services/adobe-developer-console/delete-a-secret.md", "summary": "Open when looking up Delete a secret in Firefly.", "keywords": ["Delete a secret"]},
+  {"topic": "Generate a New Secret", "file": "references/cloud-services/adobe-developer-console/generate-a-new-secret.md", "summary": "Open when looking up Generate a New Secret in Firefly.", "keywords": ["Generate a New Secret"]},
+  {"topic": "Getting Started for Firefly APIs", "file": "references/cloud-services/adobe-developer-console/getting-started-for-firefly-apis.md", "summary": "Open when looking up Getting Started for Firefly APIs in Firefly.", "keywords": ["Getting Started for Firefly APIs"]},
+  {"topic": "List All Secrets", "file": "references/cloud-services/adobe-developer-console/list-all-secrets.md", "summary": "Open when looking up List All Secrets in Firefly.", "keywords": ["List All Secrets"]},
+  {"topic": "Rotating Secrets", "file": "references/cloud-services/adobe-developer-console/rotating-secrets.md", "summary": "Open when looking up Rotating Secrets in Firefly.", "keywords": ["Rotating Secrets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

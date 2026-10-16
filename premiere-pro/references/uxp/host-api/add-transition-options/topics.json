@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "AddTransitionOptions — Properties", "file": "references/uxp/host-api/add-transition-options/add-transition-options-properties.md", "summary": "Open when looking up AddTransitionOptions — Properties in Premiere Pro.", "keywords": ["AddTransitionOptions — Properties"]},
+  {"topic": "setApplyToStart", "file": "references/uxp/host-api/add-transition-options/set-apply-to-start.md", "summary": "Open when looking up setApplyToStart in Premiere Pro.", "keywords": ["setApplyToStart"]},
+  {"topic": "setDuration", "file": "references/uxp/host-api/add-transition-options/set-duration.md", "summary": "Open when looking up setDuration in Premiere Pro.", "keywords": ["setDuration"]},
+  {"topic": "setForceSingleSided", "file": "references/uxp/host-api/add-transition-options/set-force-single-sided.md", "summary": "Open when looking up setForceSingleSided in Premiere Pro.", "keywords": ["setForceSingleSided"]},
+  {"topic": "setTransitionAlignment", "file": "references/uxp/host-api/add-transition-options/set-transition-alignment.md", "summary": "Open when looking up setTransitionAlignment in Premiere Pro.", "keywords": ["setTransitionAlignment"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

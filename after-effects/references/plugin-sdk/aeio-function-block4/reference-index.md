@@ -1,0 +1,51 @@
+# After Effects — Aeio function block4
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEIO_AddFrame in After Effects. [AEIO_AddFrame](aeio-add-frame.md).
+- Open when looking up AEIO_AddMarker in After Effects. [AEIO_AddMarker](aeio-add-marker.md).
+- Open when looking up AEIO_AddMarker3 in After Effects. [AEIO_AddMarker3](aeio-add-marker3.md).
+- Open when looking up AEIO_AddSoundChunk in After Effects. [AEIO_AddSoundChunk](aeio-add-sound-chunk.md).
+- Open when looking up AEIO_CloseSourceFiles in After Effects. [AEIO_CloseSourceFiles](aeio-close-source-files.md).
+- Open when looking up AEIO_CountUserData in After Effects. [AEIO_CountUserData](aeio-count-user-data.md).
+- Open when looking up AEIO_DisposeInSpec in After Effects. [AEIO_DisposeInSpec](aeio-dispose-in-spec.md).
+- Open when looking up AEIO_DisposeOutputOptions in After Effects. [AEIO_DisposeOutputOptions](aeio-dispose-output-options.md).
+- Open when looking up AEIO_DrawAuxChannel in After Effects. [AEIO_DrawAuxChannel](aeio-draw-aux-channel.md).
+- Open when looking up AEIO_DrawSparseFrame in After Effects. [AEIO_DrawSparseFrame](aeio-draw-sparse-frame.md).
+- Open when looking up AEIO_EndAdding in After Effects. [AEIO_EndAdding](aeio-end-adding.md).
+- Open when looking up AEIO_FlattenOptions in After Effects. [AEIO_FlattenOptions](aeio-flatten-options.md).
+- Open when looking up AEIO_Flush in After Effects. [AEIO_Flush](aeio-flush.md).
+- Open when looking up AEIO_FreeAuxChannel in After Effects. [AEIO_FreeAuxChannel](aeio-free-aux-channel.md).
+- Open when looking up AEIO_GetActiveExtent in After Effects. [AEIO_GetActiveExtent](aeio-get-active-extent.md).
+- Open when looking up AEIO_GetAuxChannelDesc in After Effects. [AEIO_GetAuxChannelDesc](aeio-get-aux-channel-desc.md).
+- Open when looking up AEIO_GetDepths in After Effects. [AEIO_GetDepths](aeio-get-depths.md).
+- Open when looking up AEIO_GetDimensions in After Effects. [AEIO_GetDimensions](aeio-get-dimensions.md).
+- Open when looking up AEIO_GetDuration in After Effects. [AEIO_GetDuration](aeio-get-duration.md).
+- Open when looking up AEIO_GetFlatOutputOptions in After Effects. [AEIO_GetFlatOutputOptions](aeio-get-flat-output-options.md).
+- Open when looking up AEIO_GetInSpecInfo in After Effects. [AEIO_GetInSpecInfo](aeio-get-in-spec-info.md).
+- Open when looking up AEIO_GetMimeType in After Effects. [AEIO_GetMimeType](aeio-get-mime-type.md).
+- Open when looking up AEIO_GetNthAuxFileSpec in After Effects. [AEIO_GetNthAuxFileSpec](aeio-get-nth-aux-file-spec.md).
+- Open when looking up AEIO_GetNumAuxChannels in After Effects. [AEIO_GetNumAuxChannels](aeio-get-num-aux-channels.md).
+- Open when looking up AEIO_GetOutputInfo in After Effects. [AEIO_GetOutputInfo](aeio-get-output-info.md).
+- Open when looking up AEIO_GetOutputSuffix in After Effects. [AEIO_GetOutputSuffix](aeio-get-output-suffix.md).
+- Open when looking up AEIO_GetSizes in After Effects. [AEIO_GetSizes](aeio-get-sizes.md).
+- Open when looking up AEIO_GetSound in After Effects. [AEIO_GetSound](aeio-get-sound.md).
+- Open when looking up AEIO_GetTime in After Effects. [AEIO_GetTime](aeio-get-time.md).
+- Open when looking up AEIO_GetUserData in After Effects. [AEIO_GetUserData](aeio-get-user-data.md).
+- Open when looking up AEIO_Idle in After Effects. [AEIO_Idle](aeio-idle.md).
+- Open when looking up AEIO_InflateOptions in After Effects. [AEIO_InflateOptions](aeio-inflate-options.md).
+- Open when looking up AEIO_InitInSpecFromFile in After Effects. [AEIO_InitInSpecFromFile](aeio-init-in-spec-from-file.md).
+- Open when looking up AEIO_InitInSpecInteractive in After Effects. [AEIO_InitInSpecInteractive](aeio-init-in-spec-interactive.md).
+- Open when looking up AEIO_InitOutputSpec in After Effects. [AEIO_InitOutputSpec](aeio-init-output-spec.md).
+- Open when looking up AEIO_InqNextFrameTime in After Effects. [AEIO_InqNextFrameTime](aeio-inq-next-frame-time.md).
+- Open when looking up AEIO_OutputFrame in After Effects. [AEIO_OutputFrame](aeio-output-frame.md).
+- Open when looking up AEIO_OutputInfoChanged in After Effects. [AEIO_OutputInfoChanged](aeio-output-info-changed.md).
+- Open when looking up AEIO_SeqOptionsDlg in After Effects. [AEIO_SeqOptionsDlg](aeio-seq-options-dlg.md).
+- Open when looking up AEIO_SetOutputFile in After Effects. [AEIO_SetOutputFile](aeio-set-output-file.md).
+- Open when looking up AEIO_SetUserData in After Effects. [AEIO_SetUserData](aeio-set-user-data.md).
+- Open when looking up AEIO_StartAdding in After Effects. [AEIO_StartAdding](aeio-start-adding.md).
+- Open when looking up AEIO_SynchInSpec in After Effects. [AEIO_SynchInSpec](aeio-synch-in-spec.md).
+- Open when looking up AEIO_UserAudioOptionsDialog in After Effects. [AEIO_UserAudioOptionsDialog](aeio-user-audio-options-dialog.md).
+- Open when looking up AEIO_UserOptionsDialog in After Effects. [AEIO_UserOptionsDialog](aeio-user-options-dialog.md).
+- Open when looking up AEIO_VerifyFileImportable in After Effects. [AEIO_VerifyFileImportable](aeio-verify-file-importable.md).
+- Open when looking up AEIO_WriteLabels in After Effects. [AEIO_WriteLabels](aeio-write-labels.md).
+- Open when looking up New Kids On The Function Block — AEIO_FunctionBlock4 in After Effects. [New Kids On The Function Block — AEIO_FunctionBlock4](new-kids-on-the-function-block-aeio-function-block4.md).

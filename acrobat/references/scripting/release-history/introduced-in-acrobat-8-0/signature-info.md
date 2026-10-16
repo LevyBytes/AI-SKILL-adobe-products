@@ -1,0 +1,4 @@
+# SignatureInfo
+
+
+properties: digestMethod

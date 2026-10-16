@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Artboards.add()", "file": "references/scripting/artboards/add.md", "summary": "Open when looking up Artboards.add() in Illustrator.", "keywords": ["Artboards.add()"]},
+  {"topic": "Artboards.getActiveArtboardIndex()", "file": "references/scripting/artboards/get-active-artboard-index.md", "summary": "Open when looking up Artboards.getActiveArtboardIndex() in Illustrator.", "keywords": ["Artboards.getActiveArtboardIndex()"]},
+  {"topic": "Artboards.getByName()", "file": "references/scripting/artboards/get-by-name.md", "summary": "Open when looking up Artboards.getByName() in Illustrator.", "keywords": ["Artboards.getByName()"]},
+  {"topic": "Artboards.insert()", "file": "references/scripting/artboards/insert.md", "summary": "Open when looking up Artboards.insert() in Illustrator.", "keywords": ["Artboards.insert()"]},
+  {"topic": "Artboards.length", "file": "references/scripting/artboards/length.md", "summary": "Open when looking up Artboards.length in Illustrator.", "keywords": ["Artboards.length"]},
+  {"topic": "Artboards.parent", "file": "references/scripting/artboards/parent.md", "summary": "Open when looking up Artboards.parent in Illustrator.", "keywords": ["Artboards.parent"]},
+  {"topic": "Artboards.remove()", "file": "references/scripting/artboards/remove.md", "summary": "Open when looking up Artboards.remove() in Illustrator.", "keywords": ["Artboards.remove()"]},
+  {"topic": "Artboards.setActiveArtboardIndex()", "file": "references/scripting/artboards/set-active-artboard-index.md", "summary": "Open when looking up Artboards.setActiveArtboardIndex() in Illustrator.", "keywords": ["Artboards.setActiveArtboardIndex()"]},
+  {"topic": "Artboards.typename", "file": "references/scripting/artboards/typename.md", "summary": "Open when looking up Artboards.typename in Illustrator.", "keywords": ["Artboards.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

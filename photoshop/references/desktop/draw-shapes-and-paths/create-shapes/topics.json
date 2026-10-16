@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Add legacy custom shapes", "file": "references/desktop/draw-shapes-and-paths/create-shapes/add-legacy-custom-shapes.md", "summary": "Open when looking up Add legacy custom shapes in Photoshop.", "keywords": ["Add legacy custom shapes"]},
+  {"topic": "Create star shapes", "file": "references/desktop/draw-shapes-and-paths/create-shapes/create-star-shapes.md", "summary": "Open when looking up Create star shapes in Photoshop.", "keywords": ["Create star shapes"]},
+  {"topic": "Draw custom shapes", "file": "references/desktop/draw-shapes-and-paths/create-shapes/draw-custom-shapes.md", "summary": "Open when looking up Draw custom shapes in Photoshop.", "keywords": ["Draw custom shapes"]},
+  {"topic": "Draw custom shapes references", "file": "references/desktop/draw-shapes-and-paths/create-shapes/draw-custom-shapes/reference-index.md", "summary": "Open when looking up Draw custom shapes in Photoshop.", "keywords": ["Draw custom shapes references"]},
+  {"topic": "Draw shapes", "file": "references/desktop/draw-shapes-and-paths/create-shapes/draw-shapes.md", "summary": "Open when looking up Draw shapes in Photoshop.", "keywords": ["Draw shapes"]},
+  {"topic": "Drawing tools overview", "file": "references/desktop/draw-shapes-and-paths/create-shapes/drawing-tools-overview.md", "summary": "Open when looking up Drawing tools overview in Photoshop.", "keywords": ["Drawing tools overview"]},
+  {"topic": "Modify fill and stroke for shapes", "file": "references/desktop/draw-shapes-and-paths/create-shapes/modify-fill-and-stroke-for-shapes.md", "summary": "Open when looking up Modify fill and stroke for shapes in Photoshop.", "keywords": ["Modify fill and stroke for shapes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

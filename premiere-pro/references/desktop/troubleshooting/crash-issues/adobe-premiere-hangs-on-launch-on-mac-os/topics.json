@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Corrupted system database for permissions", "file": "references/desktop/troubleshooting/crash-issues/adobe-premiere-hangs-on-launch-on-mac-os/corrupted-system-database-for-permissions.md", "summary": "Open when looking up Corrupted system database for permissions in Premiere Pro.", "keywords": ["Corrupted system database for permissions"]},
+  {"topic": "Denied or revoked the permissions", "file": "references/desktop/troubleshooting/crash-issues/adobe-premiere-hangs-on-launch-on-mac-os/denied-or-revoked-the-permissions.md", "summary": "Open when looking up Denied or revoked the permissions in Premiere Pro.", "keywords": ["Denied or revoked the permissions"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

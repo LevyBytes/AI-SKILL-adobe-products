@@ -1,0 +1,24 @@
+# Shared Adobe platform — RegExpConstructor
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up RegExpConstructor declaration in Shared Adobe platform. [RegExpConstructor declaration](declaration.md).
+- Open when looking up RegExpConstructor.$1 in Shared Adobe platform. [RegExpConstructor.$1](1.md).
+- Open when looking up RegExpConstructor.$2 in Shared Adobe platform. [RegExpConstructor.$2](2.md).
+- Open when looking up RegExpConstructor.$3 in Shared Adobe platform. [RegExpConstructor.$3](3.md).
+- Open when looking up RegExpConstructor.$4 in Shared Adobe platform. [RegExpConstructor.$4](4.md).
+- Open when looking up RegExpConstructor.$5 in Shared Adobe platform. [RegExpConstructor.$5](5.md).
+- Open when looking up RegExpConstructor.$6 in Shared Adobe platform. [RegExpConstructor.$6](6.md).
+- Open when looking up RegExpConstructor.$7 in Shared Adobe platform. [RegExpConstructor.$7](7.md).
+- Open when looking up RegExpConstructor.$8 in Shared Adobe platform. [RegExpConstructor.$8](8.md).
+- Open when looking up RegExpConstructor.$9 in Shared Adobe platform. [RegExpConstructor.$9](9.md).
+- Open when looking up RegExpConstructor.CallSignature in Shared Adobe platform. [RegExpConstructor.CallSignature](call-signature.md).
+- Open when looking up RegExpConstructor.ConstructSignature in Shared Adobe platform. [RegExpConstructor.ConstructSignature](construct-signature.md).
+- Open when looking up RegExpConstructor.global in Shared Adobe platform. [RegExpConstructor.global](global.md).
+- Open when looking up RegExpConstructor.ignoreCase in Shared Adobe platform. [RegExpConstructor.ignoreCase](ignore-case.md).
+- Open when looking up RegExpConstructor.input in Shared Adobe platform. [RegExpConstructor.input](input.md).
+- Open when looking up RegExpConstructor.lastMatch in Shared Adobe platform. [RegExpConstructor.lastMatch](last-match.md).
+- Open when looking up RegExpConstructor.lastParen in Shared Adobe platform. [RegExpConstructor.lastParen](last-paren.md).
+- Open when looking up RegExpConstructor.leftContext in Shared Adobe platform. [RegExpConstructor.leftContext](left-context.md).
+- Open when looking up RegExpConstructor.multiline in Shared Adobe platform. [RegExpConstructor.multiline](multiline.md).
+- Open when looking up RegExpConstructor.prototype in Shared Adobe platform. [RegExpConstructor.prototype](prototype.md).
+- Open when looking up RegExpConstructor.rightContext in Shared Adobe platform. [RegExpConstructor.rightContext](right-context.md).

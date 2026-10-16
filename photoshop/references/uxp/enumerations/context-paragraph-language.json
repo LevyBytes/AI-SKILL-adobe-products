@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Justification", "file": "references/uxp/enumerations/justification.md", "summary": "Open when looking up Justification in Photoshop.", "keywords": ["Justification"]},
+  {"topic": "KashidaWidthType", "file": "references/uxp/enumerations/kashida-width-type.md", "summary": "Open when looking up KashidaWidthType in Photoshop.", "keywords": ["KashidaWidthType"]},
+  {"topic": "Kinsoku", "file": "references/uxp/enumerations/kinsoku.md", "summary": "Open when looking up Kinsoku in Photoshop.", "keywords": ["Kinsoku"]},
+  {"topic": "Language", "file": "references/uxp/enumerations/language.md", "summary": "Open when looking up Language in Photoshop.", "keywords": ["Language"]},
+  {"topic": "MiddleEasternDigitsType", "file": "references/uxp/enumerations/middle-eastern-digits-type.md", "summary": "Open when looking up MiddleEasternDigitsType in Photoshop.", "keywords": ["MiddleEasternDigitsType"]},
+  {"topic": "MiddleEasternTextDirection", "file": "references/uxp/enumerations/middle-eastern-text-direction.md", "summary": "Open when looking up MiddleEasternTextDirection in Photoshop.", "keywords": ["MiddleEasternTextDirection"]},
+  {"topic": "Mojikumi", "file": "references/uxp/enumerations/mojikumi.md", "summary": "Open when looking up Mojikumi in Photoshop.", "keywords": ["Mojikumi"]},
+  {"topic": "ParagraphFeatures", "file": "references/uxp/enumerations/paragraph-features.md", "summary": "Open when looking up ParagraphFeatures in Photoshop.", "keywords": ["ParagraphFeatures"]},
+  {"topic": "ParagraphLayout", "file": "references/uxp/enumerations/paragraph-layout.md", "summary": "Open when looking up ParagraphLayout in Photoshop.", "keywords": ["ParagraphLayout"]},
+  {"topic": "TypeInterfaceFeatures", "file": "references/uxp/enumerations/type-interface-features.md", "summary": "Open when looking up TypeInterfaceFeatures in Photoshop.", "keywords": ["TypeInterfaceFeatures"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

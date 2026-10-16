@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Do i have to install the plug ins to the common folder references", "file": "references/plugin-sdk/do-i-have-to-install-the-plug-ins-to-the-common-folder/reference-index.md", "summary": "Open when looking up Do i have to install the plug ins to the common folder in After Effects.", "keywords": ["Do i have to install the plug ins to the common folder references"]},
+  {"topic": "Where Installers Should Put Plug-ins", "file": "references/plugin-sdk/where-installers-should-put-plug-ins.md", "summary": "Open when looking up Where Installers Should Put Plug-ins in After Effects.", "keywords": ["Where Installers Should Put Plug-ins"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

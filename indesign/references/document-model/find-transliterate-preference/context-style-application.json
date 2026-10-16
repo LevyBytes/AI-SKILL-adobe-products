@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "appliedCharacterStyle", "file": "references/document-model/find-transliterate-preference/applied-character-style.md", "summary": "Open when looking up appliedCharacterStyle in InDesign.", "keywords": ["appliedCharacterStyle"]},
+  {"topic": "appliedParagraphStyle", "file": "references/document-model/find-transliterate-preference/applied-paragraph-style.md", "summary": "Open when looking up appliedParagraphStyle in InDesign.", "keywords": ["appliedParagraphStyle"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

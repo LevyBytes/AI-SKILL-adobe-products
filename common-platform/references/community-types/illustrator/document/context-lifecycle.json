@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.activate", "file": "references/community-types/illustrator/document/activate.md", "summary": "Open when looking up Document.activate in Shared Adobe platform.", "keywords": ["Document.activate"]},
+  {"topic": "Document.close", "file": "references/community-types/illustrator/document/close.md", "summary": "Open when looking up Document.close in Shared Adobe platform.", "keywords": ["Document.close"]},
+  {"topic": "Document.save", "file": "references/community-types/illustrator/document/save.md", "summary": "Open when looking up Document.save in Shared Adobe platform.", "keywords": ["Document.save"]},
+  {"topic": "Document.saveAs", "file": "references/community-types/illustrator/document/save-as.md", "summary": "Open when looking up Document.saveAs in Shared Adobe platform.", "keywords": ["Document.saveAs"]},
+  {"topic": "Document.fullName", "file": "references/community-types/illustrator/document/full-name.md", "summary": "Open when looking up Document.fullName in Shared Adobe platform.", "keywords": ["Document.fullName"]},
+  {"topic": "Document.path", "file": "references/community-types/illustrator/document/path.md", "summary": "Open when looking up Document.path in Shared Adobe platform.", "keywords": ["Document.path"]},
+  {"topic": "Document.saved", "file": "references/community-types/illustrator/document/saved.md", "summary": "Open when looking up Document.saved in Shared Adobe platform.", "keywords": ["Document.saved"]},
+  {"topic": "Document.stationery", "file": "references/community-types/illustrator/document/stationery.md", "summary": "Open when looking up Document.stationery in Shared Adobe platform.", "keywords": ["Document.stationery"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

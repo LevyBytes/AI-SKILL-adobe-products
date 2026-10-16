@@ -1,0 +1,3 @@
+# Use link to CSV files whenever data exists
+
+Manual data entry in MOGRTs works well when values such as names, titles, or numbers do not already exist somewhere else. When that data is already available in a text editor or spreadsheet, the editor should not need to copy/paste or retype it. The list maker can prepare the spreadsheet and give the editor access to the CSV or TSV file. That reduces the risk of pasting the wrong title for a name or entering incorrect numbers for individual records. The editor places the spreadsheet file, moves a slider, and the timeline updates with the information. Editors can still revise and change the data; using a CSV file does not reduce the MOGRT's flexibility.

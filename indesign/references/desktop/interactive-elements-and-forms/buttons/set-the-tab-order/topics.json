@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Set tab order using the Articles panel", "file": "references/desktop/interactive-elements-and-forms/buttons/set-the-tab-order/set-tab-order-using-the-articles-panel.md", "summary": "Open when looking up Set tab order using the Articles panel in InDesign.", "keywords": ["Set tab order using the Articles panel"]},
+  {"topic": "Set tab order using the Set Tab Order command", "file": "references/desktop/interactive-elements-and-forms/buttons/set-the-tab-order/set-tab-order-using-the-set-tab-order-command.md", "summary": "Open when looking up Set tab order using the Set Tab Order command in InDesign.", "keywords": ["Set tab order using the Set Tab Order command"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Import and export HDR content", "file": "references/desktop/adjust-colors/hdr-import-and-export/import-and-export-hdr-content.md", "summary": "Open when looking up Import and export HDR content in After Effects.", "keywords": ["Import and export HDR content"]},
+  {"topic": "Import and export HDR content references", "file": "references/desktop/adjust-colors/hdr-import-and-export/import-and-export-hdr-content/reference-index.md", "summary": "Open when looking up Import and export HDR content in After Effects.", "keywords": ["Import and export HDR content references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

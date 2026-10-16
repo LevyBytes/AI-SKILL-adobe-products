@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Datasets.add()", "file": "references/scripting/datasets/add.md", "summary": "Open when looking up Datasets.add() in Illustrator.", "keywords": ["Datasets.add()"]},
+  {"topic": "Datasets.getByName()", "file": "references/scripting/datasets/get-by-name.md", "summary": "Open when looking up Datasets.getByName() in Illustrator.", "keywords": ["Datasets.getByName()"]},
+  {"topic": "Datasets.index()", "file": "references/scripting/datasets/index.md", "summary": "Open when looking up Datasets.index() in Illustrator.", "keywords": ["Datasets.index()"]},
+  {"topic": "Datasets.length", "file": "references/scripting/datasets/length.md", "summary": "Open when looking up Datasets.length in Illustrator.", "keywords": ["Datasets.length"]},
+  {"topic": "Datasets.parent", "file": "references/scripting/datasets/parent.md", "summary": "Open when looking up Datasets.parent in Illustrator.", "keywords": ["Datasets.parent"]},
+  {"topic": "Datasets.removeAll()", "file": "references/scripting/datasets/remove-all.md", "summary": "Open when looking up Datasets.removeAll() in Illustrator.", "keywords": ["Datasets.removeAll()"]},
+  {"topic": "Datasets.typename", "file": "references/scripting/datasets/typename.md", "summary": "Open when looking up Datasets.typename in Illustrator.", "keywords": ["Datasets.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

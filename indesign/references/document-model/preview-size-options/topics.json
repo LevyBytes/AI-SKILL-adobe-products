@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "EXTRA_LARGE", "file": "references/document-model/preview-size-options/extralarge.md", "summary": "Open when looking up EXTRA_LARGE in InDesign.", "keywords": ["EXTRA_LARGE"]},
+  {"topic": "LARGE", "file": "references/document-model/preview-size-options/large.md", "summary": "Open when looking up LARGE in InDesign.", "keywords": ["LARGE"]},
+  {"topic": "MEDIUM", "file": "references/document-model/preview-size-options/medium.md", "summary": "Open when looking up MEDIUM in InDesign.", "keywords": ["MEDIUM"]},
+  {"topic": "SMALL", "file": "references/document-model/preview-size-options/small.md", "summary": "Open when looking up SMALL in InDesign.", "keywords": ["SMALL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

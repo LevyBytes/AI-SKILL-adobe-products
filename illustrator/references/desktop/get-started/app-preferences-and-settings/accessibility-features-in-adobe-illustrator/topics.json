@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Appearance customization", "file": "references/desktop/get-started/app-preferences-and-settings/accessibility-features-in-adobe-illustrator/appearance-customization.md", "summary": "Open when looking up Appearance customization in Illustrator.", "keywords": ["Appearance customization"]},
+  {"topic": "Color contrast", "file": "references/desktop/get-started/app-preferences-and-settings/accessibility-features-in-adobe-illustrator/color-contrast.md", "summary": "Open when looking up Color contrast in Illustrator.", "keywords": ["Color contrast"]},
+  {"topic": "Screen magnifiers", "file": "references/desktop/get-started/app-preferences-and-settings/accessibility-features-in-adobe-illustrator/screen-magnifiers.md", "summary": "Open when looking up Screen magnifiers in Illustrator.", "keywords": ["Screen magnifiers"]},
+  {"topic": "Screen readers", "file": "references/desktop/get-started/app-preferences-and-settings/accessibility-features-in-adobe-illustrator/screen-readers.md", "summary": "Open when looking up Screen readers in Illustrator.", "keywords": ["Screen readers"]},
+  {"topic": "Text resize", "file": "references/desktop/get-started/app-preferences-and-settings/accessibility-features-in-adobe-illustrator/text-resize.md", "summary": "Open when looking up Text resize in Illustrator.", "keywords": ["Text resize"]},
+  {"topic": "Wacom support", "file": "references/desktop/get-started/app-preferences-and-settings/accessibility-features-in-adobe-illustrator/wacom-support.md", "summary": "Open when looking up Wacom support in Illustrator.", "keywords": ["Wacom support"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

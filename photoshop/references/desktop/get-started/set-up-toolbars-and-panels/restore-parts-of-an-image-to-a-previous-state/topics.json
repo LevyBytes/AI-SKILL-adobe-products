@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Restore with the Eraser tool", "file": "references/desktop/get-started/set-up-toolbars-and-panels/restore-parts-of-an-image-to-a-previous-state/restore-with-the-eraser-tool.md", "summary": "Open when looking up Restore with the Eraser tool in Photoshop.", "keywords": ["Restore with the Eraser tool"]},
+  {"topic": "Restore with the Fill tool", "file": "references/desktop/get-started/set-up-toolbars-and-panels/restore-parts-of-an-image-to-a-previous-state/restore-with-the-fill-tool.md", "summary": "Open when looking up Restore with the Fill tool in Photoshop.", "keywords": ["Restore with the Fill tool"]},
+  {"topic": "Restore with the History Brush tool", "file": "references/desktop/get-started/set-up-toolbars-and-panels/restore-parts-of-an-image-to-a-previous-state/restore-with-the-history-brush-tool.md", "summary": "Open when looking up Restore with the History Brush tool in Photoshop.", "keywords": ["Restore with the History Brush tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

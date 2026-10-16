@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Create a masked area and generate content", "file": "references/web/integrations/figma/apply-generative-fill/create-a-masked-area-and-generate-content.md", "summary": "Open when looking up Create a masked area and generate content in Firefly.", "keywords": ["Create a masked area and generate content"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,29 @@
+# Acrobat — Search
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addIndex in Acrobat. [addIndex](add-index.md).
+- Open when looking up attachments in Acrobat. [attachments](attachments.md).
+- Open when looking up available in Acrobat. [available](available.md).
+- Open when looking up bookmarks in Acrobat. [bookmarks](bookmarks.md).
+- Open when looking up docInfo in Acrobat. [docInfo](doc-info.md).
+- Open when looking up docText in Acrobat. [docText](doc-text.md).
+- Open when looking up docXMP in Acrobat. [docXMP](doc-xmp.md).
+- Open when looking up getIndexForPath in Acrobat. [getIndexForPath](get-index-for-path.md).
+- Open when looking up ignoreAccents in Acrobat. [ignoreAccents](ignore-accents.md).
+- Open when looking up ignoreAsianCharacterWidth in Acrobat. [ignoreAsianCharacterWidth](ignore-asian-character-width.md).
+- Open when looking up indexes in Acrobat. [indexes](indexes.md).
+- Open when looking up JavaScript APIs — search in Acrobat. [JavaScript APIs — search](java-script-apis-search.md).
+- Open when looking up jpegExif in Acrobat. [jpegExif](jpeg-exif.md).
+- Open when looking up legacySearch in Acrobat. [legacySearch](legacy-search.md).
+- Open when looking up markup in Acrobat. [markup](markup.md).
+- Open when looking up matchCase in Acrobat. [matchCase](match-case.md).
+- Open when looking up matchWholeWord in Acrobat. [matchWholeWord](match-whole-word.md).
+- Open when looking up maxDocs in Acrobat. [maxDocs](max-docs.md).
+- Open when looking up objectMetadata in Acrobat. [objectMetadata](object-metadata.md).
+- Open when looking up proximity in Acrobat. [proximity](proximity.md).
+- Open when looking up proximityRange in Acrobat. [proximityRange](proximity-range.md).
+- Open when looking up query in Acrobat. [query](query.md).
+- Open when looking up refine in Acrobat. [refine](refine.md).
+- Open when looking up removeIndex in Acrobat. [removeIndex](remove-index.md).
+- Open when looking up stem in Acrobat. [stem](stem.md).
+- Open when looking up wordMatching in Acrobat. [wordMatching](word-matching.md).

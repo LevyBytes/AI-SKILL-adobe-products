@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Buttons", "file": "references/desktop/interactive-elements-and-forms/buttons.md", "summary": "Open when looking up Buttons in InDesign.", "keywords": ["Buttons"]},
+  {"topic": "Buttons references", "file": "references/desktop/interactive-elements-and-forms/buttons/reference-index.md", "summary": "Open when looking up Buttons in InDesign.", "keywords": ["Buttons references"]},
+  {"topic": "Forms and PDFs", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs.md", "summary": "Open when looking up Forms and PDFs in InDesign.", "keywords": ["Forms and PDFs"]},
+  {"topic": "Forms and PDFs references", "file": "references/desktop/interactive-elements-and-forms/forms-and-pdfs/reference-index.md", "summary": "Open when looking up Forms and PDFs in InDesign.", "keywords": ["Forms and PDFs references"]},
+  {"topic": "Hyperlinks", "file": "references/desktop/interactive-elements-and-forms/hyperlinks.md", "summary": "Open when looking up Hyperlinks in InDesign.", "keywords": ["Hyperlinks"]},
+  {"topic": "Hyperlinks references", "file": "references/desktop/interactive-elements-and-forms/hyperlinks/reference-index.md", "summary": "Open when looking up Hyperlinks in InDesign.", "keywords": ["Hyperlinks references"]},
+  {"topic": "QR Codes", "file": "references/desktop/interactive-elements-and-forms/qr-codes.md", "summary": "Open when looking up QR Codes in InDesign.", "keywords": ["QR Codes"]},
+  {"topic": "QR Codes references", "file": "references/desktop/interactive-elements-and-forms/qr-codes/reference-index.md", "summary": "Open when looking up QR Codes in InDesign.", "keywords": ["QR Codes references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

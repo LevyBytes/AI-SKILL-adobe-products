@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document.canTestMovie", "file": "references/community-types/animate/document/can-test-movie.md", "summary": "Open when looking up Document.canTestMovie in Shared Adobe platform.", "keywords": ["Document.canTestMovie"]},
+  {"topic": "Document.canTestScene", "file": "references/community-types/animate/document/can-test-scene.md", "summary": "Open when looking up Document.canTestScene in Shared Adobe platform.", "keywords": ["Document.canTestScene"]},
+  {"topic": "Document.debugMovie", "file": "references/community-types/animate/document/debug-movie.md", "summary": "Open when looking up Document.debugMovie in Shared Adobe platform.", "keywords": ["Document.debugMovie"]},
+  {"topic": "Document.getMobileSettings", "file": "references/community-types/animate/document/get-mobile-settings.md", "summary": "Open when looking up Document.getMobileSettings in Shared Adobe platform.", "keywords": ["Document.getMobileSettings"]},
+  {"topic": "Document.getPlayerVersion", "file": "references/community-types/animate/document/get-player-version.md", "summary": "Open when looking up Document.getPlayerVersion in Shared Adobe platform.", "keywords": ["Document.getPlayerVersion"]},
+  {"topic": "Document.getTelemetryForSwf", "file": "references/community-types/animate/document/get-telemetry-for-swf.md", "summary": "Open when looking up Document.getTelemetryForSwf in Shared Adobe platform.", "keywords": ["Document.getTelemetryForSwf"]},
+  {"topic": "Document.setMobileSettings", "file": "references/community-types/animate/document/set-mobile-settings.md", "summary": "Open when looking up Document.setMobileSettings in Shared Adobe platform.", "keywords": ["Document.setMobileSettings"]},
+  {"topic": "Document.setPlayerVersion", "file": "references/community-types/animate/document/set-player-version.md", "summary": "Open when looking up Document.setPlayerVersion in Shared Adobe platform.", "keywords": ["Document.setPlayerVersion"]},
+  {"topic": "Document.testMovie", "file": "references/community-types/animate/document/test-movie.md", "summary": "Open when looking up Document.testMovie in Shared Adobe platform.", "keywords": ["Document.testMovie"]},
+  {"topic": "Document.testScene", "file": "references/community-types/animate/document/test-scene.md", "summary": "Open when looking up Document.testScene in Shared Adobe platform.", "keywords": ["Document.testScene"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

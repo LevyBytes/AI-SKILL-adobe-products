@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CMYK", "file": "references/document-model/pdf-color-space/cmyk.md", "summary": "Open when looking up CMYK in InDesign.", "keywords": ["CMYK"]},
+  {"topic": "GRAY", "file": "references/document-model/pdf-color-space/gray.md", "summary": "Open when looking up GRAY in InDesign.", "keywords": ["GRAY"]},
+  {"topic": "REPURPOSE_CMYK", "file": "references/document-model/pdf-color-space/repurposecmyk.md", "summary": "Open when looking up REPURPOSE_CMYK in InDesign.", "keywords": ["REPURPOSE_CMYK"]},
+  {"topic": "REPURPOSE_RGB", "file": "references/document-model/pdf-color-space/repurposergb.md", "summary": "Open when looking up REPURPOSE_RGB in InDesign.", "keywords": ["REPURPOSE_RGB"]},
+  {"topic": "RGB", "file": "references/document-model/pdf-color-space/rgb.md", "summary": "Open when looking up RGB in InDesign.", "keywords": ["RGB"]},
+  {"topic": "UNCHANGED_COLOR_SPACE", "file": "references/document-model/pdf-color-space/unchangedcolorspace.md", "summary": "Open when looking up UNCHANGED_COLOR_SPACE in InDesign.", "keywords": ["UNCHANGED_COLOR_SPACE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Create a symbol", "file": "references/desktop/manage-objects/traces-mockups-and-symbols/create-and-place-symbols/create-a-symbol.md", "summary": "Open when looking up Create a symbol in Illustrator.", "keywords": ["Create a symbol"]},
+  {"topic": "Place a symbol in the artwork", "file": "references/desktop/manage-objects/traces-mockups-and-symbols/create-and-place-symbols/place-a-symbol-in-the-artwork.md", "summary": "Open when looking up Place a symbol in the artwork in Illustrator.", "keywords": ["Place a symbol in the artwork"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

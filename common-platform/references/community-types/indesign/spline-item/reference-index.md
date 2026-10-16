@@ -1,0 +1,52 @@
+# Shared Adobe platform — SplineItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up SplineItem declaration in Shared Adobe platform. [SplineItem declaration](declaration.md).
+- Open when looking up SplineItem.addPath in Shared Adobe platform. [SplineItem.addPath](add-path.md).
+- Open when looking up SplineItem.anchoredObjectSettings in Shared Adobe platform. [SplineItem.anchoredObjectSettings](anchored-object-settings.md).
+- Open when looking up SplineItem.bringForward in Shared Adobe platform. [SplineItem.bringForward](bring-forward.md).
+- Open when looking up SplineItem.bringToFront in Shared Adobe platform. [SplineItem.bringToFront](bring-to-front.md).
+- Open when looking up SplineItem.buttons in Shared Adobe platform. [SplineItem.buttons](buttons.md).
+- Open when looking up SplineItem.checkBoxes in Shared Adobe platform. [SplineItem.checkBoxes](check-boxes.md).
+- Open when looking up SplineItem.checkIn in Shared Adobe platform. [SplineItem.checkIn](check-in.md).
+- Open when looking up SplineItem.checkOut in Shared Adobe platform. [SplineItem.checkOut](check-out.md).
+- Open when looking up SplineItem.comboBoxes in Shared Adobe platform. [SplineItem.comboBoxes](combo-boxes.md).
+- Open when looking up SplineItem.contentType in Shared Adobe platform. [SplineItem.contentType](content-type.md).
+- Open when looking up SplineItem.endnoteTextFrames in Shared Adobe platform. [SplineItem.endnoteTextFrames](endnote-text-frames.md).
+- Open when looking up SplineItem.epss in Shared Adobe platform. [SplineItem.epss](epss.md).
+- Open when looking up SplineItem.epstexts in Shared Adobe platform. [SplineItem.epstexts](epstexts.md).
+- Open when looking up SplineItem.excludeOverlapPath in Shared Adobe platform. [SplineItem.excludeOverlapPath](exclude-overlap-path.md).
+- Open when looking up SplineItem.formFields in Shared Adobe platform. [SplineItem.formFields](form-fields.md).
+- Open when looking up SplineItem.graphicLines in Shared Adobe platform. [SplineItem.graphicLines](graphic-lines.md).
+- Open when looking up SplineItem.groups in Shared Adobe platform. [SplineItem.groups](groups.md).
+- Open when looking up SplineItem.htmlItems in Shared Adobe platform. [SplineItem.htmlItems](html-items.md).
+- Open when looking up SplineItem.images in Shared Adobe platform. [SplineItem.images](images.md).
+- Open when looking up SplineItem.importedPages in Shared Adobe platform. [SplineItem.importedPages](imported-pages.md).
+- Open when looking up SplineItem.intersectPath in Shared Adobe platform. [SplineItem.intersectPath](intersect-path.md).
+- Open when looking up SplineItem.listBoxes in Shared Adobe platform. [SplineItem.listBoxes](list-boxes.md).
+- Open when looking up SplineItem.lockState in Shared Adobe platform. [SplineItem.lockState](lock-state.md).
+- Open when looking up SplineItem.makeCompoundPath in Shared Adobe platform. [SplineItem.makeCompoundPath](make-compound-path.md).
+- Open when looking up SplineItem.mediaItems in Shared Adobe platform. [SplineItem.mediaItems](media-items.md).
+- Open when looking up SplineItem.minusBack in Shared Adobe platform. [SplineItem.minusBack](minus-back.md).
+- Open when looking up SplineItem.movies in Shared Adobe platform. [SplineItem.movies](movies.md).
+- Open when looking up SplineItem.multiStateObjects in Shared Adobe platform. [SplineItem.multiStateObjects](multi-state-objects.md).
+- Open when looking up SplineItem.objectExportOptions in Shared Adobe platform. [SplineItem.objectExportOptions](object-export-options.md).
+- Open when looking up SplineItem.ovals in Shared Adobe platform. [SplineItem.ovals](ovals.md).
+- Open when looking up SplineItem.paths in Shared Adobe platform. [SplineItem.paths](paths.md).
+- Open when looking up SplineItem.pdfs in Shared Adobe platform. [SplineItem.pdfs](pdfs.md).
+- Open when looking up SplineItem.picts in Shared Adobe platform. [SplineItem.picts](picts.md).
+- Open when looking up SplineItem.polygons in Shared Adobe platform. [SplineItem.polygons](polygons.md).
+- Open when looking up SplineItem.radioButtons in Shared Adobe platform. [SplineItem.radioButtons](radio-buttons.md).
+- Open when looking up SplineItem.rectangles in Shared Adobe platform. [SplineItem.rectangles](rectangles.md).
+- Open when looking up SplineItem.releaseCompoundPath in Shared Adobe platform. [SplineItem.releaseCompoundPath](release-compound-path.md).
+- Open when looking up SplineItem.revert in Shared Adobe platform. [SplineItem.revert](revert.md).
+- Open when looking up SplineItem.sendBackward in Shared Adobe platform. [SplineItem.sendBackward](send-backward.md).
+- Open when looking up SplineItem.sendToBack in Shared Adobe platform. [SplineItem.sendToBack](send-to-back.md).
+- Open when looking up SplineItem.signatureFields in Shared Adobe platform. [SplineItem.signatureFields](signature-fields.md).
+- Open when looking up SplineItem.sounds in Shared Adobe platform. [SplineItem.sounds](sounds.md).
+- Open when looking up SplineItem.splineItems in Shared Adobe platform. [SplineItem.splineItems](spline-items.md).
+- Open when looking up SplineItem.subtractPath in Shared Adobe platform. [SplineItem.subtractPath](subtract-path.md).
+- Open when looking up SplineItem.textBoxes in Shared Adobe platform. [SplineItem.textBoxes](text-boxes.md).
+- Open when looking up SplineItem.textFrames in Shared Adobe platform. [SplineItem.textFrames](text-frames.md).
+- Open when looking up SplineItem.textPaths in Shared Adobe platform. [SplineItem.textPaths](text-paths.md).
+- Open when looking up SplineItem.wmfs in Shared Adobe platform. [SplineItem.wmfs](wmfs.md).

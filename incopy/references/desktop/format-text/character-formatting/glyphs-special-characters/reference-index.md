@@ -1,0 +1,29 @@
+# InCopy — Glyphs Special Characters
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Glyphs and special characters — About Adobe SING Glyphlet Manager in InCopy. [Glyphs and special characters — About Adobe SING Glyphlet Manager](about-adobe-sing-glyphlet-manager.md).
+- Open when looking up Glyphs and special characters — Change the Glyphs panel view in InCopy. [Glyphs and special characters — Change the Glyphs panel view](glyphs-and-special-characters-change-the-glyphs-panel-view.md).
+- Open when looking up Glyphs and special characters — Clear recently used glyphs in InCopy. [Glyphs and special characters — Clear recently used glyphs](glyphs-and-special-characters-clear-recently-used-glyphs.md).
+- Open when looking up Glyphs and special characters — Create a custom glyph set in InCopy. [Glyphs and special characters — Create a custom glyph set](glyphs-and-special-characters-create-a-custom-glyph-set.md).
+- Open when looking up Glyphs and special characters — Create and edit custom glyph sets in InCopy. [Glyphs and special characters — Create and edit custom glyph sets](create-and-edit-custom-glyph-sets.md).
+- Open when looking up Glyphs and special characters — Delete custom glyph sets in InCopy. [Glyphs and special characters — Delete custom glyph sets](glyphs-and-special-characters-delete-custom-glyph-sets.md).
+- Open when looking up Glyphs and special characters — Delete glyphs from custom glyph sets in InCopy. [Glyphs and special characters — Delete glyphs from custom glyph sets](delete-glyphs-from-custom-glyph-sets.md).
+- Open when looking up Glyphs and special characters — Display OpenType glyph attributes in the Glyphs panel in InCopy. [Glyphs and special characters — Display OpenType glyph attributes in the Glyphs panel](display-opentype-glyph-attributes-in-the-glyphs-panel.md).
+- Open when looking up Glyphs and special characters — Edit custom glyph sets in InCopy. [Glyphs and special characters — Edit custom glyph sets](glyphs-and-special-characters-edit-custom-glyph-sets.md).
+- Open when looking up Glyphs and special characters — Filter the glyphs that appear in InCopy. [Glyphs and special characters — Filter the glyphs that appear](glyphs-and-special-characters-filter-the-glyphs-that-appear.md).
+- Open when looking up Glyphs and special characters — Highlight alternate glyphs in the text in InCopy. [Glyphs and special characters — Highlight alternate glyphs in the text](highlight-alternate-glyphs-in-the-text.md).
+- Open when looking up Glyphs and special characters — Insert a glyph from a specified font in InCopy. [Glyphs and special characters — Insert a glyph from a specified font](insert-a-glyph-from-a-specified-font.md).
+- Open when looking up Glyphs and special characters — Insert a recently used glyph in InCopy. [Glyphs and special characters — Insert a recently used glyph](glyphs-and-special-characters-insert-a-recently-used-glyph.md).
+- Open when looking up Glyphs and special characters — Insert glyphs and special characters in InCopy. [Glyphs and special characters — Insert glyphs and special characters](insert-glyphs-and-special-characters.md).
+- Open when looking up Glyphs and special characters — Insert special characters in InCopy. [Glyphs and special characters — Insert special characters](glyphs-and-special-characters-insert-special-characters.md).
+- Open when looking up Glyphs and special characters — Insert straight quotation marks in InCopy. [Glyphs and special characters — Insert straight quotation marks](glyphs-and-special-characters-insert-straight-quotation-marks.md).
+- Open when looking up Glyphs and special characters — Insert white space characters in InCopy. [Glyphs and special characters — Insert white space characters](glyphs-and-special-characters-insert-white-space-characters.md).
+- Open when looking up Glyphs and special characters — Open the Glyphs panel in InCopy. [Glyphs and special characters — Open the Glyphs panel](glyphs-and-special-characters-open-the-glyphs-panel.md).
+- Open when looking up Glyphs and special characters — Replace a character with an alternate glyph in InCopy. [Glyphs and special characters — Replace a character with an alternate glyph](replace-a-character-with-an-alternate-glyph.md).
+- Open when looking up Glyphs and special characters — Save and load glyph sets in InCopy. [Glyphs and special characters — Save and load glyph sets](glyphs-and-special-characters-save-and-load-glyph-sets.md).
+- Open when looking up Glyphs and special characters — Search for glyphs in the Glyphs panel in InCopy. [Glyphs and special characters — Search for glyphs in the Glyphs panel](search-for-glyphs-in-the-glyphs-panel.md).
+- Open when looking up Glyphs and special characters — Sort glyphs in the Glyphs panel in InCopy. [Glyphs and special characters — Sort glyphs in the Glyphs panel](glyphs-and-special-characters-sort-glyphs-in-the-glyphs-panel.md).
+- Open when looking up Glyphs and special characters — Specify which quotation marks to use in InCopy. [Glyphs and special characters — Specify which quotation marks to use](specify-which-quotation-marks-to-use.md).
+- Open when looking up Glyphs and special characters — Use quotation marks in InCopy. [Glyphs and special characters — Use quotation marks](glyphs-and-special-characters-use-quotation-marks.md).
+- Open when looking up Glyphs and special characters — View a custom glyph set in InCopy. [Glyphs and special characters — View a custom glyph set](glyphs-and-special-characters-view-a-custom-glyph-set.md).
+- Open when looking up Glyphs and special characters — White space options in InCopy. [Glyphs and special characters — White space options](glyphs-and-special-characters-white-space-options.md).

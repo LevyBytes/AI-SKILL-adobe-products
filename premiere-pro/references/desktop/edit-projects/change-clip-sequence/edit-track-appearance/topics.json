@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Exclude tracks in a sequence", "file": "references/desktop/edit-projects/change-clip-sequence/edit-track-appearance/exclude-tracks-in-a-sequence.md", "summary": "Open when looking up Exclude tracks in a sequence in Premiere Pro.", "keywords": ["Exclude tracks in a sequence"]},
+  {"topic": "Expand and resize a track", "file": "references/desktop/edit-projects/change-clip-sequence/edit-track-appearance/expand-and-resize-a-track.md", "summary": "Open when looking up Expand and resize a track in Premiere Pro.", "keywords": ["Expand and resize a track"]},
+  {"topic": "Resize the track header section", "file": "references/desktop/edit-projects/change-clip-sequence/edit-track-appearance/resize-the-track-header-section.md", "summary": "Open when looking up Resize the track header section in Premiere Pro.", "keywords": ["Resize the track header section"]},
+  {"topic": "Set the display style of a track", "file": "references/desktop/edit-projects/change-clip-sequence/edit-track-appearance/set-the-display-style-of-a-track.md", "summary": "Open when looking up Set the display style of a track in Premiere Pro.", "keywords": ["Set the display style of a track"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

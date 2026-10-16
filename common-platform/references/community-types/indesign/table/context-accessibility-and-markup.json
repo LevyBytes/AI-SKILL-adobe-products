@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Table.associatedXMLElement", "file": "references/community-types/indesign/table/associated-xml-element.md", "summary": "Open when looking up Table.associatedXMLElement in Shared Adobe platform.", "keywords": ["Table.associatedXMLElement"]},
+  {"topic": "Table.autoTag", "file": "references/community-types/indesign/table/auto-tag.md", "summary": "Open when looking up Table.autoTag in Shared Adobe platform.", "keywords": ["Table.autoTag"]},
+  {"topic": "Table.markup", "file": "references/community-types/indesign/table/markup.md", "summary": "Open when looking up Table.markup in Shared Adobe platform.", "keywords": ["Table.markup"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

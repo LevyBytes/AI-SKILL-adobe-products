@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "SequenceCollection object", "file": "references/scripting/sequence-collection/sequence-collection-object.md", "summary": "Open when looking up SequenceCollection object in Premiere Pro.", "keywords": ["SequenceCollection object"]},
+  {"topic": "SequenceCollection.numSequences", "file": "references/scripting/sequence-collection/num-sequences.md", "summary": "Open when looking up SequenceCollection.numSequences in Premiere Pro.", "keywords": ["SequenceCollection.numSequences"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

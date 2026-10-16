@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Model inventory", "file": "references/cloud-services/pegasus-worker-v2-ml-models-reference/model-inventory.md", "summary": "Open when looking up Model inventory in Photoshop.", "keywords": ["Model inventory"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

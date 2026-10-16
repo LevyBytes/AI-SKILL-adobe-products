@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Minimum system requirements", "file": "references/desktop/enhance-speech-technical-requirements/minimum-system-requirements.md", "summary": "Open when looking up Minimum system requirements in Premiere Pro.", "keywords": ["Minimum system requirements"]},
+  {"topic": "Recommended audio plugins", "file": "references/desktop/enhance-speech-technical-requirements/recommended-audio-plugins.md", "summary": "Open when looking up Recommended audio plugins in Premiere Pro.", "keywords": ["Recommended audio plugins"]},
+  {"topic": "Supported file formats", "file": "references/desktop/enhance-speech-technical-requirements/supported-file-formats.md", "summary": "Open when looking up Supported file formats in Premiere Pro.", "keywords": ["Supported file formats"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

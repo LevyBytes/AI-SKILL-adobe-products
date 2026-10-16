@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Composite In linear color (requires GPU acceleration or max render quality)", "file": "references/desktop/edit-projects/change-clip-sequence/sequence-settings-reference/linear-color-compositing-requirements.md", "summary": "Open when looking up Composite In linear color (requires GPU acceleration or max render quality) in Premiere Pro.", "keywords": ["Composite In linear color (requires GPU acceleration or max render quality)"]},
+  {"topic": "Editing Mode", "file": "references/desktop/edit-projects/change-clip-sequence/sequence-settings-reference/editing-mode.md", "summary": "Open when looking up Editing Mode in Premiere Pro.", "keywords": ["Editing Mode"]},
+  {"topic": "Save Preset", "file": "references/desktop/edit-projects/change-clip-sequence/sequence-settings-reference/save-preset.md", "summary": "Open when looking up Save Preset in Premiere Pro.", "keywords": ["Save Preset"]},
+  {"topic": "Timebase", "file": "references/desktop/edit-projects/change-clip-sequence/sequence-settings-reference/timebase.md", "summary": "Open when looking up Timebase in Premiere Pro.", "keywords": ["Timebase"]},
+  {"topic": "Video", "file": "references/desktop/edit-projects/change-clip-sequence/sequence-settings-reference/video.md", "summary": "Open when looking up Video in Premiere Pro.", "keywords": ["Video"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

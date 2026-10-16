@@ -1,0 +1,33 @@
+# Photoshop — photoshopCore
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addNotificationListener in Photoshop. [addNotificationListener](add-notification-listener.md).
+- Open when looking up calculateDialogSize in Photoshop. [calculateDialogSize](calculate-dialog-size.md).
+- Open when looking up convertColor in Photoshop. [convertColor](convert-color.md).
+- Open when looking up convertGlobalToLocal in Photoshop. [convertGlobalToLocal](convert-global-to-local.md).
+- Open when looking up createTemporaryDocument in Photoshop. [createTemporaryDocument](create-temporary-document.md).
+- Open when looking up deleteTemporaryDocument in Photoshop. [deleteTemporaryDocument](delete-temporary-document.md).
+- Open when looking up endModalToolState in Photoshop. [endModalToolState](end-modal-tool-state.md).
+- Open when looking up executeAsModal in Photoshop. [executeAsModal](execute-as-modal.md).
+- Open when looking up getActiveTool in Photoshop. [getActiveTool](get-active-tool.md).
+- Open when looking up getCPUInfo in Photoshop. [getCPUInfo](get-cpu-info.md).
+- Open when looking up getDisplayConfiguration in Photoshop. [getDisplayConfiguration](get-display-configuration.md).
+- Open when looking up getGPUInfo in Photoshop. [getGPUInfo](get-gpu-info.md).
+- Open when looking up getLayerGroupContents in Photoshop. [getLayerGroupContents](get-layer-group-contents.md).
+- Open when looking up getLayerGroupContentsSync in Photoshop. [getLayerGroupContentsSync](get-layer-group-contents-sync.md).
+- Open when looking up getLayerTree in Photoshop. [getLayerTree](get-layer-tree.md).
+- Open when looking up getLayerTreeSync in Photoshop. [getLayerTreeSync](get-layer-tree-sync.md).
+- Open when looking up getMenuCommandState in Photoshop. [getMenuCommandState](get-menu-command-state.md).
+- Open when looking up getMenuCommandTitle in Photoshop. [getMenuCommandTitle](get-menu-command-title.md).
+- Open when looking up getPluginInfo in Photoshop. [getPluginInfo](get-plugin-info.md).
+- Open when looking up getUserIdleTime in Photoshop. [getUserIdleTime](get-user-idle-time.md).
+- Open when looking up historySuspended in Photoshop. [historySuspended](history-suspended.md).
+- Open when looking up isModal in Photoshop. [isModal](is-modal.md).
+- Open when looking up performMenuCommand in Photoshop. [performMenuCommand](perform-menu-command.md).
+- Open when looking up redrawDocument in Photoshop. [redrawDocument](redraw-document.md).
+- Open when looking up removeNotificationListener in Photoshop. [removeNotificationListener](remove-notification-listener.md).
+- Open when looking up setExecutionMode in Photoshop. [setExecutionMode](set-execution-mode.md).
+- Open when looking up setUserIdleTime in Photoshop. [setUserIdleTime](set-user-idle-time.md).
+- Open when looking up showAlert in Photoshop. [showAlert](show-alert.md).
+- Open when looking up suppressResizeGripper in Photoshop. [suppressResizeGripper](suppress-resize-gripper.md).
+- Open when looking up translateUIString in Photoshop. [translateUIString](translate-ui-string.md).

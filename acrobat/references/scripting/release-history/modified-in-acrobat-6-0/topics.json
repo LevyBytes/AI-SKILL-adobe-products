@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "app", "file": "references/scripting/release-history/modified-in-acrobat-6-0/app.md", "summary": "Open when looking up app in Acrobat.", "keywords": ["app"]},
+  {"topic": "Doc", "file": "references/scripting/release-history/modified-in-acrobat-6-0/doc.md", "summary": "Open when looking up Doc in Acrobat.", "keywords": ["Doc"]},
+  {"topic": "event", "file": "references/scripting/release-history/modified-in-acrobat-6-0/event.md", "summary": "Open when looking up event in Acrobat.", "keywords": ["event"]},
+  {"topic": "Field", "file": "references/scripting/release-history/modified-in-acrobat-6-0/field.md", "summary": "Open when looking up Field in Acrobat.", "keywords": ["Field"]},
+  {"topic": "global", "file": "references/scripting/release-history/modified-in-acrobat-6-0/global.md", "summary": "Open when looking up global in Acrobat.", "keywords": ["global"]},
+  {"topic": "search", "file": "references/scripting/release-history/modified-in-acrobat-6-0/search.md", "summary": "Open when looking up search in Acrobat.", "keywords": ["search"]},
+  {"topic": "SecurityHandler", "file": "references/scripting/release-history/modified-in-acrobat-6-0/security-handler.md", "summary": "Open when looking up SecurityHandler in Acrobat.", "keywords": ["SecurityHandler"]},
+  {"topic": "Template", "file": "references/scripting/release-history/modified-in-acrobat-6-0/template.md", "summary": "Open when looking up Template in Acrobat.", "keywords": ["Template"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

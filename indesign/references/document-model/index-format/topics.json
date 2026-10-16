@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "NESTED_FORMAT", "file": "references/document-model/index-format/nestedformat.md", "summary": "Open when looking up NESTED_FORMAT in InDesign.", "keywords": ["NESTED_FORMAT"]},
+  {"topic": "RUNIN_FORMAT", "file": "references/document-model/index-format/runinformat.md", "summary": "Open when looking up RUNIN_FORMAT in InDesign.", "keywords": ["RUNIN_FORMAT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

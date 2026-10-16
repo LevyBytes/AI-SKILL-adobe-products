@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Apply page transitions", "file": "references/desktop/graphics-and-media/page-transitions/apply-page-transitions.md", "summary": "Open when looking up Apply page transitions in InDesign.", "keywords": ["Apply page transitions"]},
+  {"topic": "Apply page transitions references", "file": "references/desktop/graphics-and-media/page-transitions/apply-page-transitions/reference-index.md", "summary": "Open when looking up Apply page transitions in InDesign.", "keywords": ["Apply page transitions references"]},
+  {"topic": "Clear page transitions", "file": "references/desktop/graphics-and-media/page-transitions/clear-page-transitions.md", "summary": "Open when looking up Clear page transitions in InDesign.", "keywords": ["Clear page transitions"]},
+  {"topic": "Clear page transitions references", "file": "references/desktop/graphics-and-media/page-transitions/clear-page-transitions/reference-index.md", "summary": "Open when looking up Clear page transitions in InDesign.", "keywords": ["Clear page transitions references"]},
+  {"topic": "View page transitions in PDFs", "file": "references/desktop/graphics-and-media/page-transitions/view-page-transitions-in-pdfs.md", "summary": "Open when looking up View page transitions in PDFs in InDesign.", "keywords": ["View page transitions in PDFs"]},
+  {"topic": "View page transitions in PDFs references", "file": "references/desktop/graphics-and-media/page-transitions/view-page-transitions-in-pdfs/reference-index.md", "summary": "Open when looking up View page transitions in PDFs in InDesign.", "keywords": ["View page transitions in PDFs references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Blob references", "file": "references/uxp/network-and-data/blob/reference-index.md", "summary": "Open when looking up Blob in Premiere Pro.", "keywords": ["Blob references"]},
+  {"topic": "Clipboard references", "file": "references/uxp/network-and-data/clipboard/reference-index.md", "summary": "Open when looking up Clipboard in Premiere Pro.", "keywords": ["Clipboard references"]},
+  {"topic": "Data Transfers", "file": "references/uxp/network-and-data/data-transfers.md", "summary": "Open when looking up Data Transfers in Premiere Pro.", "keywords": ["Data Transfers"]},
+  {"topic": "Headers references", "file": "references/uxp/network-and-data/headers/reference-index.md", "summary": "Open when looking up Headers in Premiere Pro.", "keywords": ["Headers references"]},
+  {"topic": "Request references", "file": "references/uxp/network-and-data/request/reference-index.md", "summary": "Open when looking up Request in Premiere Pro.", "keywords": ["Request references"]},
+  {"topic": "Web socket references", "file": "references/uxp/network-and-data/web-socket/reference-index.md", "summary": "Open when looking up Web socket in Premiere Pro.", "keywords": ["Web socket references"]},
+  {"topic": "Window references", "file": "references/uxp/network-and-data/window/reference-index.md", "summary": "Open when looking up Window in Premiere Pro.", "keywords": ["Window references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

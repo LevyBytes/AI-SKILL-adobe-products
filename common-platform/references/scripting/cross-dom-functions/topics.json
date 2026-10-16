@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Cross-DOM functions — Cross-DOM Functions", "file": "references/scripting/cross-dom-functions/cross-dom-functions-cross-dom-functions.md", "summary": "Open when looking up Cross-DOM functions — Cross-DOM Functions in Shared Adobe platform.", "keywords": ["Cross-DOM functions — Cross-DOM Functions"]},
+  {"topic": "executeScript()", "file": "references/scripting/cross-dom-functions/execute-script.md", "summary": "Open when looking up executeScript() in Shared Adobe platform.", "keywords": ["executeScript()"]},
+  {"topic": "open()", "file": "references/scripting/cross-dom-functions/open.md", "summary": "Open when looking up open() in Shared Adobe platform.", "keywords": ["open()"]},
+  {"topic": "openAsNew()", "file": "references/scripting/cross-dom-functions/open-as-new.md", "summary": "Open when looking up openAsNew() in Shared Adobe platform.", "keywords": ["openAsNew()"]},
+  {"topic": "print()", "file": "references/scripting/cross-dom-functions/print.md", "summary": "Open when looking up print() in Shared Adobe platform.", "keywords": ["print()"]},
+  {"topic": "quit()", "file": "references/scripting/cross-dom-functions/quit.md", "summary": "Open when looking up quit() in Shared Adobe platform.", "keywords": ["quit()"]},
+  {"topic": "reveal()", "file": "references/scripting/cross-dom-functions/reveal.md", "summary": "Open when looking up reveal() in Shared Adobe platform.", "keywords": ["reveal()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

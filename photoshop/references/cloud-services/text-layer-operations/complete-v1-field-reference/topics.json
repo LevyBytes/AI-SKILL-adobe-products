@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "characterStyles properties", "file": "references/cloud-services/text-layer-operations/complete-v1-field-reference/character-styles-properties.md", "summary": "Open when looking up characterStyles properties in Photoshop.", "keywords": ["characterStyles properties"]},
+  {"topic": "paragraphStyles properties", "file": "references/cloud-services/text-layer-operations/complete-v1-field-reference/paragraph-styles-properties.md", "summary": "Open when looking up paragraphStyles properties in Photoshop.", "keywords": ["paragraphStyles properties"]},
+  {"topic": "text properties", "file": "references/cloud-services/text-layer-operations/complete-v1-field-reference/text-properties.md", "summary": "Open when looking up text properties in Photoshop.", "keywords": ["text properties"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

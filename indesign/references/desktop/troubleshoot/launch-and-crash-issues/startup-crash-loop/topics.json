@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Corrupt preferences", "file": "references/desktop/troubleshoot/launch-and-crash-issues/startup-crash-loop/corrupt-preferences.md", "summary": "Open when looking up Corrupt preferences in InDesign.", "keywords": ["Corrupt preferences"]},
+  {"topic": "Damaged document in the recovery folder", "file": "references/desktop/troubleshoot/launch-and-crash-issues/startup-crash-loop/damaged-document-in-the-recovery-folder.md", "summary": "Open when looking up Damaged document in the recovery folder in InDesign.", "keywords": ["Damaged document in the recovery folder"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

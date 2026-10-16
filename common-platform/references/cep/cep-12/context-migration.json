@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Migration from CEP 10 to CEP 11", "file": "references/cep/cep-12/migration-from-cep-10-to-cep-11.md", "summary": "Open when looking up Migration from CEP 10 to CEP 11 in Shared Adobe platform.", "keywords": ["Migration from CEP 10 to CEP 11"]},
+  {"topic": "Migration from CEP 11 to CEP 12", "file": "references/cep/cep-12/migration-from-cep-11-to-cep-12.md", "summary": "Open when looking up Migration from CEP 11 to CEP 12 in Shared Adobe platform.", "keywords": ["Migration from CEP 11 to CEP 12"]},
+  {"topic": "Migration from CEP 8 to CEP 9", "file": "references/cep/cep-12/migration-from-cep-8-to-cep-9.md", "summary": "Open when looking up Migration from CEP 8 to CEP 9 in Shared Adobe platform.", "keywords": ["Migration from CEP 8 to CEP 9"]},
+  {"topic": "Migration from CEP 9 to CEP 10", "file": "references/cep/cep-12/migration-from-cep-9-to-cep-10.md", "summary": "Open when looking up Migration from CEP 9 to CEP 10 in Shared Adobe platform.", "keywords": ["Migration from CEP 9 to CEP 10"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

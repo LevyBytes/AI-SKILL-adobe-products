@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Auto Add/Delete", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/overview-of-pen-tool-settings/auto-add-delete.md", "summary": "Open when looking up Auto Add/Delete in Photoshop.", "keywords": ["Auto Add/Delete"]},
+  {"topic": "Direction handles", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/overview-of-pen-tool-settings/direction-handles.md", "summary": "Open when looking up Direction handles in Photoshop.", "keywords": ["Direction handles"]},
+  {"topic": "Rubber Band", "file": "references/desktop/draw-shapes-and-paths/draw-lines-and-curves/overview-of-pen-tool-settings/rubber-band.md", "summary": "Open when looking up Rubber Band in Photoshop.", "keywords": ["Rubber Band"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

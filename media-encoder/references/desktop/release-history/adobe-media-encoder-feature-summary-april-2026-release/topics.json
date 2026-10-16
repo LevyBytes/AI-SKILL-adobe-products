@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "media-encoder", "topics": [
+  {"topic": "Apply Content Credentials preferences at export", "file": "references/desktop/release-history/adobe-media-encoder-feature-summary-april-2026-release/apply-content-credentials-preferences-at-export.md", "summary": "Open when looking up Apply Content Credentials preferences at export in Media Encoder.", "keywords": ["Apply Content Credentials preferences at export"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

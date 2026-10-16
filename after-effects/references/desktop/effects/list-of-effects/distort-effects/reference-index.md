@@ -1,0 +1,34 @@
+# After Effects — Distort Effects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and match lens distortion with Optics Compensation in After Effects. [Add and match lens distortion with Optics Compensation](add-and-match-lens-distortion-with-optics-compensation.md).
+- Open when looking up Bezier Warp effect in After Effects. [Bezier Warp effect](bezier-warp-effect.md).
+- Open when looking up Bulge effect in After Effects. [Bulge effect](bulge-effect.md).
+- Open when looking up Corner Pin effect in After Effects. [Corner Pin effect](corner-pin-effect.md).
+- Open when looking up Create a seamless loop using Turbulent Displace in After Effects. [Create a seamless loop using Turbulent Displace](create-a-seamless-loop-using-turbulent-displace.md).
+- Open when looking up Detail-preserving Upscale in After Effects. [Detail-preserving Upscale](detail-preserving-upscale.md).
+- Open when looking up Displacement Map effect in After Effects. [Displacement Map effect](displacement-map-effect.md).
+- Open when looking up Distort an image with the Liquify effect in After Effects. [Distort an image with the Liquify effect](distort-an-image-with-the-liquify-effect.md).
+- Open when looking up Liquify effect in After Effects. [Liquify effect](liquify-effect.md).
+- Open when looking up Magnify effect in After Effects. [Magnify effect](magnify-effect.md).
+- Open when looking up Mask properties in After Effects. [Mask properties](mask-properties.md).
+- Open when looking up Mesh Warp effect in After Effects. [Mesh Warp effect](mesh-warp-effect.md).
+- Open when looking up Mirror effect in After Effects. [Mirror effect](mirror-effect.md).
+- Open when looking up Offset effect in After Effects. [Offset effect](offset-effect.md).
+- Open when looking up Optics Compensation effect in After Effects. [Optics Compensation effect](optics-compensation-effect.md).
+- Open when looking up Polar Coordinates effect in After Effects. [Polar Coordinates effect](polar-coordinates-effect.md).
+- Open when looking up Reshape effect in After Effects. [Reshape effect](reshape-effect.md).
+- Open when looking up Ripple effect in After Effects. [Ripple effect](ripple-effect.md).
+- Open when looking up Smear effect in After Effects. [Smear effect](smear-effect.md).
+- Open when looking up Spherize effect in After Effects. [Spherize effect](spherize-effect.md).
+- Open when looking up Third-party effects in After Effects. [Third-party effects](third-party-effects.md).
+- Open when looking up Tools in After Effects. [Tools](tools.md).
+- Open when looking up Transform effect in After Effects. [Transform effect](transform-effect.md).
+- Open when looking up Turbulent Displace effect in After Effects. [Turbulent Displace effect](turbulent-displace-effect.md).
+- Open when looking up Twirl effect in After Effects. [Twirl effect](twirl-effect.md).
+- Open when looking up Undo distortions with the Liquify effect in After Effects. [Undo distortions with the Liquify effect](undo-distortions-with-the-liquify-effect.md).
+- Open when looking up Use the Reshape effect in After Effects. [Use the Reshape effect](use-the-reshape-effect.md).
+- Open when looking up Use the Smear effect in After Effects. [Use the Smear effect](use-the-smear-effect.md).
+- Open when looking up Warp effect in After Effects. [Warp effect](warp-effect.md).
+- Open when looking up Warp Stabilizer effect in After Effects. [Warp Stabilizer effect](warp-stabilizer-effect.md).
+- Open when looking up Wave Warp effect in After Effects. [Wave Warp effect](wave-warp-effect.md).

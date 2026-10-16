@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Clear overrides from selected text", "file": "references/desktop/text-formatting/text-styles/override-text-styles/clear-overrides-from-selected-text.md", "summary": "Open when looking up Clear overrides from selected text in InDesign.", "keywords": ["Clear overrides from selected text"]},
+  {"topic": "Identify style overrides", "file": "references/desktop/text-formatting/text-styles/override-text-styles/identify-style-overrides.md", "summary": "Open when looking up Identify style overrides in InDesign.", "keywords": ["Identify style overrides"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

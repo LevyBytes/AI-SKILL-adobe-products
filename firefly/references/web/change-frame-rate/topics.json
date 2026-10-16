@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Select a frame rate that suits the style of your video.", "file": "references/web/change-frame-rate/select-a-frame-rate-that-suits-the-style-of-your-video.md", "summary": "Open when looking up Select a frame rate that suits the style of your video. in Firefly.", "keywords": ["Select a frame rate that suits the style of your video."]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

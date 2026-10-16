@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Create guides from the horizontal or vertical ruler", "file": "references/desktop/grids-and-measurement/alignment-grids-and-guides/create-guides/create-guides-from-the-horizontal-or-vertical-ruler.md", "summary": "Open when looking up Create guides from the horizontal or vertical ruler in Photoshop.", "keywords": ["Create guides from the horizontal or vertical ruler"]},
+  {"topic": "Create guides from the View menu", "file": "references/desktop/grids-and-measurement/alignment-grids-and-guides/create-guides/create-guides-from-the-view-menu.md", "summary": "Open when looking up Create guides from the View menu in Photoshop.", "keywords": ["Create guides from the View menu"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

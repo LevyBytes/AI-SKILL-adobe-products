@@ -1,0 +1,31 @@
+# MISCELLANEOUS
+
+- Angle Fly-In
+- Back Flip
+- Blow Away
+- Bounce In
+- Bungee
+- Chaotic
+- Clay Pigeons
+- Dot.Com
+- Elbow Room
+- Explosion
+- Hop, Skip, And A Jump
+- Pendulum
+- Punching Bag
+- Question
+
+- Rattle
+- Roll Bounce
+- Sequential Jump
+- Six-Shooter
+- Slide Bounce
+- Slip In Out
+- Smokey
+- Squeeze
+- Superhero
+- Swing Up
+- Twisty Ribbons
+- Vanishing Point
+- Wiggly Lines
+- Yo-Yo

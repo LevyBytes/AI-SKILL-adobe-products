@@ -1,0 +1,20 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Advanced", "file": "references/uxp/advanced.md", "summary": "Open when looking up Advanced in Premiere Pro.", "keywords": ["Advanced"]},
+  {"topic": "And much more", "file": "references/uxp/and-much-more.md", "summary": "Open when looking up And much more in Premiere Pro.", "keywords": ["And much more"]},
+  {"topic": "Answers references", "file": "references/uxp/answers/reference-index.md", "summary": "Open when looking up Answers in Premiere Pro.", "keywords": ["Answers references"]},
+  {"topic": "Best Practices", "file": "references/uxp/best-practices.md", "summary": "Open when looking up Best Practices in Premiere Pro.", "keywords": ["Best Practices"]},
+  {"topic": "Contributing", "file": "references/uxp/contributing.md", "summary": "Open when looking up Contributing in Premiere Pro.", "keywords": ["Contributing"]},
+  {"topic": "Faq", "file": "references/uxp/faq.md", "summary": "Open when looking up Faq in Premiere Pro.", "keywords": ["Faq"]},
+  {"topic": "Faqs references", "file": "references/uxp/faqs/reference-index.md", "summary": "Open when looking up Faqs in Premiere Pro.", "keywords": ["Faqs references"]},
+  {"topic": "GitHub repository", "file": "references/uxp/git-hub-repository.md", "summary": "Open when looking up GitHub repository in Premiere Pro.", "keywords": ["GitHub repository"]},
+  {"topic": "Plugin Tutorials", "file": "references/uxp/plugin-tutorials.md", "summary": "Open when looking up Plugin Tutorials in Premiere Pro.", "keywords": ["Plugin Tutorials"]},
+  {"topic": "Plugin Tutorials references", "file": "references/uxp/plugin-tutorials/reference-index.md", "summary": "Open when looking up Plugin Tutorials in Premiere Pro.", "keywords": ["Plugin Tutorials references"]},
+  {"topic": "Questions references", "file": "references/uxp/questions/reference-index.md", "summary": "Open when looking up Questions in Premiere Pro.", "keywords": ["Questions references"]},
+  {"topic": "Recipes", "file": "references/uxp/recipes.md", "summary": "Open when looking up Recipes in Premiere Pro.", "keywords": ["Recipes"]},
+  {"topic": "Recipes references", "file": "references/uxp/recipes/reference-index.md", "summary": "Open when looking up Recipes in Premiere Pro.", "keywords": ["Recipes references"]},
+  {"topic": "Resources", "file": "references/uxp/resources.md", "summary": "Open when looking up Resources in Premiere Pro.", "keywords": ["Resources"]},
+  {"topic": "Resources references", "file": "references/uxp/resources/reference-index.md", "summary": "Open when looking up Resources in Premiere Pro.", "keywords": ["Resources references"]},
+  {"topic": "Starters Samples", "file": "references/uxp/starters-samples.md", "summary": "Open when looking up Starters Samples in Premiere Pro.", "keywords": ["Starters Samples"]},
+  {"topic": "Tutorials", "file": "references/uxp/tutorials.md", "summary": "Open when looking up Tutorials in Premiere Pro.", "keywords": ["Tutorials"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

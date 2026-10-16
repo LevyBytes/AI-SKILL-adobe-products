@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Colorize Grayscale or 1-bit images", "file": "references/desktop/manage-colors/select-and-adjust-colors/convert-color-modes/colorize-grayscale-or-1-bit-images.md", "summary": "Open when looking up Colorize Grayscale or 1-bit images in Illustrator.", "keywords": ["Colorize Grayscale or 1-bit images"]},
+  {"topic": "Convert colors to Grayscale", "file": "references/desktop/manage-colors/select-and-adjust-colors/convert-color-modes/convert-colors-to-grayscale.md", "summary": "Open when looking up Convert colors to Grayscale in Illustrator.", "keywords": ["Convert colors to Grayscale"]},
+  {"topic": "Convert Grayscale vector objects to RGB or CMYK", "file": "references/desktop/manage-colors/select-and-adjust-colors/convert-color-modes/convert-grayscale-vector-objects-to-rgb-or-cmyk.md", "summary": "Open when looking up Convert Grayscale vector objects to RGB or CMYK in Illustrator.", "keywords": ["Convert Grayscale vector objects to RGB or CMYK"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

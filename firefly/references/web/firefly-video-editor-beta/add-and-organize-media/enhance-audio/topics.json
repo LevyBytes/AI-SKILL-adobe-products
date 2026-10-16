@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Apply audio enhancement to your clip", "file": "references/web/firefly-video-editor-beta/add-and-organize-media/enhance-audio/apply-audio-enhancement-to-your-clip.md", "summary": "Open when looking up Apply audio enhancement to your clip in Firefly.", "keywords": ["Apply audio enhancement to your clip"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

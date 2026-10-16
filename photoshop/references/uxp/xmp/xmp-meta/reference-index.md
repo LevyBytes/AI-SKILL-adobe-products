@@ -1,0 +1,36 @@
+# Photoshop — Xmp meta
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up appendArrayItem(schemaNS, arrayName, itemValue, [itemOptions], [arrayOptions]) in Photoshop. [appendArrayItem(schemaNS, arrayName, itemValue, itemOptions, arrayOptions)](append-array-item.md).
+- Open when looking up countArrayItems(schemaNS, arrayName) in Photoshop. [countArrayItems(schemaNS, arrayName)](count-array-items.md).
+- Open when looking up deleteArrayItem(schemaNS, arrayName, itemIndex) in Photoshop. [deleteArrayItem(schemaNS, arrayName, itemIndex)](delete-array-item.md).
+- Open when looking up deleteNamespace(namespaceURI) in Photoshop. [deleteNamespace(namespaceURI)](delete-namespace.md).
+- Open when looking up deleteProperty(schemaNS, propName) in Photoshop. [deleteProperty(schemaNS, propName)](delete-property.md).
+- Open when looking up deleteQualifier(schemaNS, structName, qualNS, qualName) in Photoshop. [deleteQualifier(schemaNS, structName, qualNS, qualName)](delete-qualifier.md).
+- Open when looking up deleteStructField(schemaNS, structName, fieldNS, fieldName) in Photoshop. [deleteStructField(schemaNS, structName, fieldNS, fieldName)](delete-struct-field.md).
+- Open when looking up doesArrayItemExist(schemaNS, arrayName, itemIndex) in Photoshop. [doesArrayItemExist(schemaNS, arrayName, itemIndex)](does-array-item-exist.md).
+- Open when looking up doesPropertyExist(schemaNS, propName) in Photoshop. [doesPropertyExist(schemaNS, propName)](does-property-exist.md).
+- Open when looking up doesQualifierExist(schemaNS, structName, qualNS, qualName) in Photoshop. [doesQualifierExist(schemaNS, structName, qualNS, qualName)](does-qualifier-exist.md).
+- Open when looking up doesStructFieldExist(schemaNS, structName, fieldNS, fieldName) in Photoshop. [doesStructFieldExist(schemaNS, structName, fieldNS, fieldName)](does-struct-field-exist.md).
+- Open when looking up dumpNamespaces(namespaceURI) in Photoshop. [dumpNamespaces(namespaceURI)](dump-namespaces.md).
+- Open when looking up dumpObject() in Photoshop. [dumpObject()](dump-object.md).
+- Open when looking up getArrayItem(schemaNS, arrayName, itemIndex) in Photoshop. [getArrayItem(schemaNS, arrayName, itemIndex)](get-array-item.md).
+- Open when looking up getLocalizedText(schemaNS, altTextName, genericLang, specificLang) in Photoshop. [getLocalizedText(schemaNS, altTextName, genericLang, specificLang)](get-localized-text.md).
+- Open when looking up getNamespacePrefix(namespaceURI) in Photoshop. [getNamespacePrefix(namespaceURI)](get-namespace-prefix.md).
+- Open when looking up getNamespaceURI(namespacePrefix) in Photoshop. [getNamespaceURI(namespacePrefix)](get-namespace-uri.md).
+- Open when looking up getProperty(schemaNS, propName, [valueType]) in Photoshop. [getProperty(schemaNS, propName, valueType)](get-property.md).
+- Open when looking up getQualifier(schemaNS, structName, qualNS, qualName) in Photoshop. [getQualifier(schemaNS, structName, qualNS, qualName)](get-qualifier.md).
+- Open when looking up getStructField(schemaNS, structName, fieldNS, fieldName) in Photoshop. [getStructField(schemaNS, structName, fieldNS, fieldName)](get-struct-field.md).
+- Open when looking up insertArrayItem(schemaNS, arrayName, itemIndex, itemValue, [itemOptions]) in Photoshop. [insertArrayItem(schemaNS, arrayName, itemIndex, itemValue, itemOptions)](insert-array-item.md).
+- Open when looking up iterator(options, schemaNS, propName) in Photoshop. [iterator(options, schemaNS, propName)](iterator.md).
+- Open when looking up registerNamespace(namespaceURI, suggestedPrefix) in Photoshop. [registerNamespace(namespaceURI, suggestedPrefix)](register-namespace.md).
+- Open when looking up serialize([options], [padding], [indent], [newline], [baseIndent]) in Photoshop. [serialize(options, padding, indent, newline, baseIndent)](serialize.md).
+- Open when looking up serializeToArray([options], [padding], [indent], [newline], [baseIndent]) in Photoshop. [serializeToArray(options, padding, indent, newline, baseIndent)](serialize-to-array.md).
+- Open when looking up setArrayItem(schemaNS, arrayName, itemIndex, itemValue, [itemOptions]) in Photoshop. [setArrayItem(schemaNS, arrayName, itemIndex, itemValue, itemOptions)](set-array-item.md).
+- Open when looking up setLocalizedText(schemaNS, altTextName, genericLang, specificLang, itemValueThe) in Photoshop. [setLocalizedText(schemaNS, altTextName, genericLang, specificLang, itemValueThe)](set-localized-text.md).
+- Open when looking up setProperty(schemaNS, propName, propValue, [setOptions], [valueType]) in Photoshop. [setProperty(schemaNS, propName, propValue, setOptions, valueType)](set-property.md).
+- Open when looking up setQualifier(schemaNS, propName, qualNS, qualName, qualValue, [options]) in Photoshop. [setQualifier(schemaNS, propName, qualNS, qualName, qualValue, options)](set-qualifier.md).
+- Open when looking up setStructField(schemaNS, structName, fieldNS, fieldName, fieldValue, [options]) in Photoshop. [setStructField(schemaNS, structName, fieldNS, fieldName, fieldValue, options)](set-struct-field.md).
+- Open when looking up sort() in Photoshop. [sort()](sort.md).
+- Open when looking up Xmp Meta in Photoshop. [Xmp Meta](xmp-meta.md).
+- Open when looking up XMPMeta(packet, buffer) in Photoshop. [XMPMeta(packet, buffer)](constructor.md).

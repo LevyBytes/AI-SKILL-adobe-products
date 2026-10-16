@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Using tags", "file": "references/scripting/tag-example/using-tags.md", "summary": "Open when looking up Using tags in Illustrator.", "keywords": ["Using tags"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

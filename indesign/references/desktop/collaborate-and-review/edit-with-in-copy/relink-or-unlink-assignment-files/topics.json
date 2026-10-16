@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Recreate in original location", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/relink-or-unlink-assignment-files/recreate-in-original-location.md", "summary": "Open when looking up Recreate in original location in InDesign.", "keywords": ["Recreate in original location"]},
+  {"topic": "Relocate to new location", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/relink-or-unlink-assignment-files/relocate-to-new-location.md", "summary": "Open when looking up Relocate to new location in InDesign.", "keywords": ["Relocate to new location"]},
+  {"topic": "Unlink content files", "file": "references/desktop/collaborate-and-review/edit-with-in-copy/relink-or-unlink-assignment-files/unlink-content-files.md", "summary": "Open when looking up Unlink content files in InDesign.", "keywords": ["Unlink content files"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

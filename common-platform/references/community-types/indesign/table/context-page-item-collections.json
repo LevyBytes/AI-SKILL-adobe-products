@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Table.allGraphics", "file": "references/community-types/indesign/table/all-graphics.md", "summary": "Open when looking up Table.allGraphics in Shared Adobe platform.", "keywords": ["Table.allGraphics"]},
+  {"topic": "Table.allPageItems", "file": "references/community-types/indesign/table/all-page-items.md", "summary": "Open when looking up Table.allPageItems in Shared Adobe platform.", "keywords": ["Table.allPageItems"]},
+  {"topic": "Table.epstexts", "file": "references/community-types/indesign/table/epstexts.md", "summary": "Open when looking up Table.epstexts in Shared Adobe platform.", "keywords": ["Table.epstexts"]},
+  {"topic": "Table.graphicLines", "file": "references/community-types/indesign/table/graphic-lines.md", "summary": "Open when looking up Table.graphicLines in Shared Adobe platform.", "keywords": ["Table.graphicLines"]},
+  {"topic": "Table.groups", "file": "references/community-types/indesign/table/groups.md", "summary": "Open when looking up Table.groups in Shared Adobe platform.", "keywords": ["Table.groups"]},
+  {"topic": "Table.ovals", "file": "references/community-types/indesign/table/ovals.md", "summary": "Open when looking up Table.ovals in Shared Adobe platform.", "keywords": ["Table.ovals"]},
+  {"topic": "Table.pageItems", "file": "references/community-types/indesign/table/page-items.md", "summary": "Open when looking up Table.pageItems in Shared Adobe platform.", "keywords": ["Table.pageItems"]},
+  {"topic": "Table.polygons", "file": "references/community-types/indesign/table/polygons.md", "summary": "Open when looking up Table.polygons in Shared Adobe platform.", "keywords": ["Table.polygons"]},
+  {"topic": "Table.rectangles", "file": "references/community-types/indesign/table/rectangles.md", "summary": "Open when looking up Table.rectangles in Shared Adobe platform.", "keywords": ["Table.rectangles"]},
+  {"topic": "Table.splineItems", "file": "references/community-types/indesign/table/spline-items.md", "summary": "Open when looking up Table.splineItems in Shared Adobe platform.", "keywords": ["Table.splineItems"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

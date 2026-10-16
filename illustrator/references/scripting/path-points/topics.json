@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "PathPoints.add()", "file": "references/scripting/path-points/add.md", "summary": "Open when looking up PathPoints.add() in Illustrator.", "keywords": ["PathPoints.add()"]},
+  {"topic": "PathPoints.index()", "file": "references/scripting/path-points/index.md", "summary": "Open when looking up PathPoints.index() in Illustrator.", "keywords": ["PathPoints.index()"]},
+  {"topic": "PathPoints.length", "file": "references/scripting/path-points/length.md", "summary": "Open when looking up PathPoints.length in Illustrator.", "keywords": ["PathPoints.length"]},
+  {"topic": "PathPoints.parent", "file": "references/scripting/path-points/parent.md", "summary": "Open when looking up PathPoints.parent in Illustrator.", "keywords": ["PathPoints.parent"]},
+  {"topic": "PathPoints.removeAll()", "file": "references/scripting/path-points/remove-all.md", "summary": "Open when looking up PathPoints.removeAll() in Illustrator.", "keywords": ["PathPoints.removeAll()"]},
+  {"topic": "PathPoints.typename", "file": "references/scripting/path-points/typename.md", "summary": "Open when looking up PathPoints.typename in Illustrator.", "keywords": ["PathPoints.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "NoColor.typename", "file": "references/scripting/no-color/typename.md", "summary": "Open when looking up NoColor.typename in Illustrator.", "keywords": ["NoColor.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

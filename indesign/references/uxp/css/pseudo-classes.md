@@ -1,0 +1,18 @@
+# Pseudo-classes
+
+- [active](active/reference-index.md)
+- [checked](checked/reference-index.md)
+- [defined](defined/reference-index.md)
+- [disabled](disabled/reference-index.md)
+- [empty](empty.md)
+- [enabled](enabled/reference-index.md)
+- [first-child](first-child.md)
+- [focus](focus/reference-index.md)
+- [hover](hover.md)
+- [last-child](last-child.md)
+- [nth-child](nth-child.md)
+- [nth-last-child](nth-last-child.md)
+- [nth-last-of-type](https://raw.githubusercontent.com/AdobeDocs/uxp-indesign/main/src/pages/reference/uxp-api/reference-css/pseudo-classes/nth-last-of-type.md)
+- [nth-of-type](nth-of-type.md)
+- [only-child](only-child.md)
+- [root](root.md)

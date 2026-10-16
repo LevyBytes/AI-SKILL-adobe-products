@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "window.Comment — Comment(document, comment)", "file": "references/uxp/dom/comment/constructor.md", "summary": "Open when looking up window.Comment — Comment(document, comment) in Photoshop.", "keywords": ["window.Comment — Comment(document, comment)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

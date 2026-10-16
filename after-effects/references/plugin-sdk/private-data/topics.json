@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Implementation — Private Data", "file": "references/plugin-sdk/private-data/implementation-private-data.md", "summary": "Open when looking up Implementation — Private Data in After Effects.", "keywords": ["Implementation — Private Data"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

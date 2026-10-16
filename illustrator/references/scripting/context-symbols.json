@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Symbol", "file": "references/scripting/symbol.md", "summary": "Open when looking up Symbol in Illustrator.", "keywords": ["Symbol"]},
+  {"topic": "Symbol references", "file": "references/scripting/symbol/reference-index.md", "summary": "Open when looking up Symbol in Illustrator.", "keywords": ["Symbol references"]},
+  {"topic": "SymbolItem", "file": "references/scripting/symbol-item.md", "summary": "Open when looking up SymbolItem in Illustrator.", "keywords": ["SymbolItem"]},
+  {"topic": "SymbolItem references", "file": "references/scripting/symbol-item/reference-index.md", "summary": "Open when looking up SymbolItem in Illustrator.", "keywords": ["SymbolItem references"]},
+  {"topic": "Symbol items example references", "file": "references/scripting/symbol-items-example/reference-index.md", "summary": "Open when looking up Symbol items example in Illustrator.", "keywords": ["Symbol items example references"]},
+  {"topic": "SymbolItems", "file": "references/scripting/symbol-items.md", "summary": "Open when looking up SymbolItems in Illustrator.", "keywords": ["SymbolItems"]},
+  {"topic": "SymbolItems references", "file": "references/scripting/symbol-items/reference-index.md", "summary": "Open when looking up SymbolItems in Illustrator.", "keywords": ["SymbolItems references"]},
+  {"topic": "Symbol registration point references", "file": "references/scripting/symbol-registration-point/reference-index.md", "summary": "Open when looking up Symbol registration point in Illustrator.", "keywords": ["Symbol registration point references"]},
+  {"topic": "Symbols", "file": "references/scripting/symbols.md", "summary": "Open when looking up Symbols in Illustrator.", "keywords": ["Symbols"]},
+  {"topic": "Symbols example references", "file": "references/scripting/symbols-example/reference-index.md", "summary": "Open when looking up Symbols example in Illustrator.", "keywords": ["Symbols example references"]},
+  {"topic": "Symbols references", "file": "references/scripting/symbols/reference-index.md", "summary": "Open when looking up Symbols in Illustrator.", "keywords": ["Symbols references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

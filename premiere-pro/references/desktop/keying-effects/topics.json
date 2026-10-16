@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Alpha Adjust effect", "file": "references/desktop/keying-effects/alpha-adjust-effect.md", "summary": "Open when looking up Alpha Adjust effect in Premiere Pro.", "keywords": ["Alpha Adjust effect"]},
+  {"topic": "Color Key effect", "file": "references/desktop/keying-effects/color-key-effect.md", "summary": "Open when looking up Color Key effect in Premiere Pro.", "keywords": ["Color Key effect"]},
+  {"topic": "Keying effects in Adobe Premiere for background removal and subject isolation with chroma keying", "file": "references/desktop/keying-effects/chroma-keying-and-subject-isolation.md", "summary": "Open when looking up Keying effects in Adobe Premiere for background removal and subject isolation with chroma keying in Premiere Pro.", "keywords": ["Keying effects in Adobe Premiere for background removal and subject isolation with chroma keying"]},
+  {"topic": "Luma Key effect", "file": "references/desktop/keying-effects/luma-key-effect.md", "summary": "Open when looking up Luma Key effect in Premiere Pro.", "keywords": ["Luma Key effect"]},
+  {"topic": "Track Matte Key effect", "file": "references/desktop/keying-effects/track-matte-key-effect.md", "summary": "Open when looking up Track Matte Key effect in Premiere Pro.", "keywords": ["Track Matte Key effect"]},
+  {"topic": "Ultra Key effect", "file": "references/desktop/keying-effects/ultra-key-effect.md", "summary": "Open when looking up Ultra Key effect in Premiere Pro.", "keywords": ["Ultra Key effect"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

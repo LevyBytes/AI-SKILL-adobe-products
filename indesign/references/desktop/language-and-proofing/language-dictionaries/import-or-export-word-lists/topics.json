@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Export a word list", "file": "references/desktop/language-and-proofing/language-dictionaries/import-or-export-word-lists/export-a-word-list.md", "summary": "Open when looking up Export a word list in InDesign.", "keywords": ["Export a word list"]},
+  {"topic": "Import a word list", "file": "references/desktop/language-and-proofing/language-dictionaries/import-or-export-word-lists/import-a-word-list.md", "summary": "Open when looking up Import a word list in InDesign.", "keywords": ["Import a word list"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "add(vec1, vec2)", "file": "references/desktop/vector-math-methods/add.md", "summary": "Open when looking up add(vec1, vec2) in After Effects.", "keywords": ["add(vec1, vec2)"]},
+  {"topic": "clamp(value, limit1, limit2)", "file": "references/desktop/vector-math-methods/clamp.md", "summary": "Open when looking up clamp(value, limit1, limit2) in After Effects.", "keywords": ["clamp(value, limit1, limit2)"]},
+  {"topic": "cross(vec1, vec2)", "file": "references/desktop/vector-math-methods/cross.md", "summary": "Open when looking up cross(vec1, vec2) in After Effects.", "keywords": ["cross(vec1, vec2)"]},
+  {"topic": "div(vec, amount)", "file": "references/desktop/vector-math-methods/div.md", "summary": "Open when looking up div(vec, amount) in After Effects.", "keywords": ["div(vec, amount)"]},
+  {"topic": "dot(vec1, vec2)", "file": "references/desktop/vector-math-methods/dot.md", "summary": "Open when looking up dot(vec1, vec2) in After Effects.", "keywords": ["dot(vec1, vec2)"]},
+  {"topic": "length(vec)", "file": "references/desktop/vector-math-methods/length.md", "summary": "Open when looking up length(vec) in After Effects.", "keywords": ["length(vec)"]},
+  {"topic": "lookAt(fromPoint, atPoint)", "file": "references/desktop/vector-math-methods/look-at.md", "summary": "Open when looking up lookAt(fromPoint, atPoint) in After Effects.", "keywords": ["lookAt(fromPoint, atPoint)"]},
+  {"topic": "mul(vec, amount)", "file": "references/desktop/vector-math-methods/mul.md", "summary": "Open when looking up mul(vec, amount) in After Effects.", "keywords": ["mul(vec, amount)"]},
+  {"topic": "normalize(vec)", "file": "references/desktop/vector-math-methods/normalize.md", "summary": "Open when looking up normalize(vec) in After Effects.", "keywords": ["normalize(vec)"]},
+  {"topic": "sub(vec1, vec2)", "file": "references/desktop/vector-math-methods/sub.md", "summary": "Open when looking up sub(vec1, vec2) in After Effects.", "keywords": ["sub(vec1, vec2)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

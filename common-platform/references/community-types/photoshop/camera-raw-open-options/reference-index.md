@@ -1,0 +1,31 @@
+# Shared Adobe platform — CameraRAWOpenOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CameraRAWOpenOptions declaration in Shared Adobe platform. [CameraRAWOpenOptions declaration](declaration.md).
+- Open when looking up CameraRAWOpenOptions.bitsPerChannel in Shared Adobe platform. [CameraRAWOpenOptions.bitsPerChannel](bits-per-channel.md).
+- Open when looking up CameraRAWOpenOptions.blueHue in Shared Adobe platform. [CameraRAWOpenOptions.blueHue](blue-hue.md).
+- Open when looking up CameraRAWOpenOptions.blueSaturation in Shared Adobe platform. [CameraRAWOpenOptions.blueSaturation](blue-saturation.md).
+- Open when looking up CameraRAWOpenOptions.brightness in Shared Adobe platform. [CameraRAWOpenOptions.brightness](brightness.md).
+- Open when looking up CameraRAWOpenOptions.chromaticAberrationBY in Shared Adobe platform. [CameraRAWOpenOptions.chromaticAberrationBY](chromatic-aberration-by.md).
+- Open when looking up CameraRAWOpenOptions.chromaticAberrationRC in Shared Adobe platform. [CameraRAWOpenOptions.chromaticAberrationRC](chromatic-aberration-rc.md).
+- Open when looking up CameraRAWOpenOptions.colorNoiseReduction in Shared Adobe platform. [CameraRAWOpenOptions.colorNoiseReduction](color-noise-reduction.md).
+- Open when looking up CameraRAWOpenOptions.colorSpace in Shared Adobe platform. [CameraRAWOpenOptions.colorSpace](color-space.md).
+- Open when looking up CameraRAWOpenOptions.contrast in Shared Adobe platform. [CameraRAWOpenOptions.contrast](contrast.md).
+- Open when looking up CameraRAWOpenOptions.exposure in Shared Adobe platform. [CameraRAWOpenOptions.exposure](exposure.md).
+- Open when looking up CameraRAWOpenOptions.greenHue in Shared Adobe platform. [CameraRAWOpenOptions.greenHue](green-hue.md).
+- Open when looking up CameraRAWOpenOptions.greenSaturation in Shared Adobe platform. [CameraRAWOpenOptions.greenSaturation](green-saturation.md).
+- Open when looking up CameraRAWOpenOptions.luminanceSmoothing in Shared Adobe platform. [CameraRAWOpenOptions.luminanceSmoothing](luminance-smoothing.md).
+- Open when looking up CameraRAWOpenOptions.redHue in Shared Adobe platform. [CameraRAWOpenOptions.redHue](red-hue.md).
+- Open when looking up CameraRAWOpenOptions.redSaturation in Shared Adobe platform. [CameraRAWOpenOptions.redSaturation](red-saturation.md).
+- Open when looking up CameraRAWOpenOptions.resolution in Shared Adobe platform. [CameraRAWOpenOptions.resolution](resolution.md).
+- Open when looking up CameraRAWOpenOptions.saturation in Shared Adobe platform. [CameraRAWOpenOptions.saturation](saturation.md).
+- Open when looking up CameraRAWOpenOptions.settings in Shared Adobe platform. [CameraRAWOpenOptions.settings](settings.md).
+- Open when looking up CameraRAWOpenOptions.shadows in Shared Adobe platform. [CameraRAWOpenOptions.shadows](shadows.md).
+- Open when looking up CameraRAWOpenOptions.shadowTint in Shared Adobe platform. [CameraRAWOpenOptions.shadowTint](shadow-tint.md).
+- Open when looking up CameraRAWOpenOptions.sharpness in Shared Adobe platform. [CameraRAWOpenOptions.sharpness](sharpness.md).
+- Open when looking up CameraRAWOpenOptions.size in Shared Adobe platform. [CameraRAWOpenOptions.size](size.md).
+- Open when looking up CameraRAWOpenOptions.temperature in Shared Adobe platform. [CameraRAWOpenOptions.temperature](temperature.md).
+- Open when looking up CameraRAWOpenOptions.tint in Shared Adobe platform. [CameraRAWOpenOptions.tint](tint.md).
+- Open when looking up CameraRAWOpenOptions.vignettingAmount in Shared Adobe platform. [CameraRAWOpenOptions.vignettingAmount](vignetting-amount.md).
+- Open when looking up CameraRAWOpenOptions.vignettingMidpoint in Shared Adobe platform. [CameraRAWOpenOptions.vignettingMidpoint](vignetting-midpoint.md).
+- Open when looking up CameraRAWOpenOptions.whiteBalance in Shared Adobe platform. [CameraRAWOpenOptions.whiteBalance](white-balance.md).

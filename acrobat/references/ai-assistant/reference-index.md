@@ -1,0 +1,52 @@
+# Acrobat — Acrobat AI workflows
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About podcasts in Adobe Acrobat in Acrobat. [About podcasts in Adobe Acrobat](about-podcasts-in-adobe-acrobat.md).
+- Open when looking up About podcasts in Adobe Acrobat in Acrobat. [About podcasts in Adobe Acrobat references](about-podcasts-in-adobe-acrobat/reference-index.md).
+- Open when looking up Access generative AI tools in Acrobat in Acrobat. [Access generative AI tools in Acrobat](access-generative-ai-tools-in-acrobat.md).
+- Open when looking up Access generative AI tools in Acrobat in Acrobat. [Access generative AI tools in Acrobat references](access-generative-ai-tools-in-acrobat/reference-index.md).
+- Open when looking up Administer Acrobat Studio for enterprise in Acrobat. [Administer Acrobat Studio for enterprise](administer-acrobat-studio-for-enterprise.md).
+- Open when looking up Administer Acrobat Studio for enterprise in Acrobat. [Administer Acrobat Studio for enterprise references](administer-acrobat-studio-for-enterprise/reference-index.md).
+- Open when looking up Adobe Acrobat AI Assistant Plus in Acrobat. [Adobe Acrobat AI Assistant Plus](adobe-acrobat-ai-assistant-plus.md).
+- Open when looking up Adobe Acrobat AI Assistant Plus in Acrobat. [Adobe Acrobat AI Assistant Plus references](adobe-acrobat-ai-assistant-plus/reference-index.md).
+- Open when looking up Adobe generative AI user disclosures in Acrobat. [Adobe generative AI user disclosures](adobe-generative-ai-user-disclosures.md).
+- Open when looking up Adobe generative AI user disclosures in Acrobat. [Adobe generative AI user disclosures references](adobe-generative-ai-user-disclosures/reference-index.md).
+- Open when looking up AI Assistant chat history in Acrobat. [AI Assistant chat history](ai-assistant-chat-history.md).
+- Open when looking up AI Assistant chat history in Acrobat. [AI Assistant chat history references](ai-assistant-chat-history/reference-index.md).
+- Open when looking up Content usage and handling in Acrobat. [Content usage and handling](content-usage-and-handling.md).
+- Open when looking up Create podcasts in Adobe Acrobat in Acrobat. [Create podcasts in Adobe Acrobat](create-podcasts-in-adobe-acrobat.md).
+- Open when looking up Create podcasts in Adobe Acrobat in Acrobat. [Create podcasts in Adobe Acrobat references](create-podcasts-in-adobe-acrobat/reference-index.md).
+- Open when looking up Edit PDFs via chat in Acrobat. [Edit PDFs via chat](edit-pdfs-via-chat.md).
+- Open when looking up Edit PDFs via chat not working in Acrobat in Acrobat. [Edit PDFs via chat not working in Acrobat](edit-pdfs-via-chat-not-working-in-acrobat.md).
+- Open when looking up Edit PDFs via chat not working in Acrobat in Acrobat. [Edit PDFs via chat not working in Acrobat references](edit-pdfs-via-chat-not-working-in-acrobat/reference-index.md).
+- Open when looking up Edit PDFs via chat overview in Acrobat. [Edit PDFs via chat overview](edit-pdfs-via-chat-overview.md).
+- Open when looking up Edit PDFs via chat overview in Acrobat. [Edit PDFs via chat overview references](edit-pdfs-via-chat-overview/reference-index.md).
+- Open when looking up Explore generative AI in Acrobat in Acrobat. [Explore generative AI in Acrobat](explore-generative-ai-in-acrobat.md).
+- Open when looking up Explore generative AI in Acrobat in Acrobat. [Explore generative AI in Acrobat references](explore-generative-ai-in-acrobat/reference-index.md).
+- Open when looking up Generate AI summaries in Acrobat. [Generate AI summaries](generate-ai-summaries.md).
+- Open when looking up Generative AI overview in Acrobat. [Generative AI overview](generative-ai-overview.md).
+- Open when looking up Generative AI overview in Acrobat. [Generative AI overview references](generative-ai-overview/reference-index.md).
+- Open when looking up Generative AI technical requirements in Acrobat. [Generative AI technical requirements](generative-ai-technical-requirements.md).
+- Open when looking up Generative AI technical requirements in Acrobat. [Generative AI technical requirements references](generative-ai-technical-requirements/reference-index.md).
+- Open when looking up Generative AI usage policy and limitations in Acrobat. [Generative AI usage policy and limitations](generative-ai-usage-policy-and-limitations.md).
+- Open when looking up Generative AI usage policy and limitations in Acrobat. [Generative AI usage policy and limitations references](generative-ai-usage-policy-and-limitations/reference-index.md).
+- Open when looking up Generative AI use cases in Acrobat in Acrobat. [Generative AI use cases in Acrobat](generative-ai-use-cases-in-acrobat.md).
+- Open when looking up Generative AI use cases in Acrobat in Acrobat. [Generative AI use cases in Acrobat references](generative-ai-use-cases-in-acrobat/reference-index.md).
+- Open when looking up Generative summary in Acrobat in Acrobat. [Generative summary in Acrobat](generative-summary-in-acrobat.md).
+- Open when looking up Generative summary in Acrobat in Acrobat. [Generative summary in Acrobat references](generative-summary-in-acrobat/reference-index.md).
+- Open when looking up Overview of prompt writing for AI Assistant in Acrobat. [Overview of prompt writing for AI Assistant](overview-of-prompt-writing-for-ai-assistant.md).
+- Open when looking up Overview of prompt writing for AI Assistant in Acrobat. [Overview of prompt writing for AI Assistant references](overview-of-prompt-writing-for-ai-assistant/reference-index.md).
+- Open when looking up Prompts to edit PDFs via chat in Acrobat. [Prompts to edit PDFs via chat](prompts-to-edit-pdfs-via-chat.md).
+- Open when looking up Prompts to edit PDFs via chat in Acrobat. [Prompts to edit PDFs via chat references](prompts-to-edit-pdfs-via-chat/reference-index.md).
+- Open when looking up React to AI responses in Acrobat in Acrobat. [React to AI responses in Acrobat](react-to-ai-responses-in-acrobat.md).
+- Open when looking up React to AI responses in Acrobat in Acrobat. [React to AI responses in Acrobat references](react-to-ai-responses-in-acrobat/reference-index.md).
+- Open when looking up Request AI Assistant access as Teams admins in Acrobat. [Request AI Assistant access as Teams admins](request-ai-assistant-access-as-teams-admins.md).
+- Open when looking up Request AI Assistant access as Teams admins in Acrobat. [Request AI Assistant access as Teams admins references](request-ai-assistant-access-as-teams-admins/reference-index.md).
+- Open when looking up Request AI Assistant access as Teams users in Acrobat. [Request AI Assistant access as Teams users](request-ai-assistant-access-as-teams-users.md).
+- Open when looking up Request AI Assistant access as Teams users in Acrobat. [Request AI Assistant access as Teams users references](request-ai-assistant-access-as-teams-users/reference-index.md).
+- Open when looking up Summarize meeting transcripts in Acrobat in Acrobat. [Summarize meeting transcripts in Acrobat](summarize-meeting-transcripts-in-acrobat.md).
+- Open when looking up Summarize meeting transcripts in Acrobat in Acrobat. [Summarize meeting transcripts in Acrobat references](summarize-meeting-transcripts-in-acrobat/reference-index.md).
+- Open when looking up Turn off generative AI features in Acrobat. [Turn off generative AI features](turn-off-generative-ai-features.md).
+- Open when looking up Use acrobat ai in Acrobat. [Use acrobat ai references](use-acrobat-ai/reference-index.md).
+- Open when looking up Use AI Assistant to get answers in your PDF in Acrobat. [Use AI Assistant to get answers in your PDF](use-ai-assistant-to-get-answers-in-your-pdf.md).
+- Open when looking up Use AI Assistant to get answers in your PDF in Acrobat. [Use AI Assistant to get answers in your PDF references](use-ai-assistant-to-get-answers-in-your-pdf/reference-index.md).

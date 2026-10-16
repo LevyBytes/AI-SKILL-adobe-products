@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "1. External storage (presigned URLs)", "file": "references/cloud-services/v1-v2-migration-reference/storage-solutions-reference/external-storage-presigned-urls.md", "summary": "Open when looking up 1. External storage (presigned URLs) in Photoshop.", "keywords": ["1. External storage (presigned URLs)"]},
+  {"topic": "2. Creative Cloud storage", "file": "references/cloud-services/v1-v2-migration-reference/storage-solutions-reference/creative-cloud-storage.md", "summary": "Open when looking up 2. Creative Cloud storage in Photoshop.", "keywords": ["2. Creative Cloud storage"]},
+  {"topic": "3. Embedded storage", "file": "references/cloud-services/v1-v2-migration-reference/storage-solutions-reference/embedded-storage.md", "summary": "Open when looking up 3. Embedded storage in Photoshop.", "keywords": ["3. Embedded storage"]},
+  {"topic": "4. Hosted storage", "file": "references/cloud-services/v1-v2-migration-reference/storage-solutions-reference/hosted-storage.md", "summary": "Open when looking up 4. Hosted storage in Photoshop.", "keywords": ["4. Hosted storage"]},
+  {"topic": "Storage decision matrix", "file": "references/cloud-services/v1-v2-migration-reference/storage-solutions-reference/storage-decision-matrix.md", "summary": "Open when looking up Storage decision matrix in Photoshop.", "keywords": ["Storage decision matrix"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

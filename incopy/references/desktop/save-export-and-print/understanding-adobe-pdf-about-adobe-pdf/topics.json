@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "incopy", "topics": [
+  {"topic": "Understanding Adobe PDF — About compression", "file": "references/desktop/save-export-and-print/understanding-adobe-pdf-about-adobe-pdf/understanding-adobe-pdf-about-compression.md", "summary": "Open when looking up Understanding Adobe PDF — About compression in InCopy.", "keywords": ["Understanding Adobe PDF — About compression"]},
+  {"topic": "Understanding Adobe PDF — Embedding and substituting fonts", "file": "references/desktop/save-export-and-print/understanding-adobe-pdf-about-adobe-pdf/understanding-adobe-pdf-embedding-and-substituting-fonts.md", "summary": "Open when looking up Understanding Adobe PDF — Embedding and substituting fonts in InCopy.", "keywords": ["Understanding Adobe PDF — Embedding and substituting fonts"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

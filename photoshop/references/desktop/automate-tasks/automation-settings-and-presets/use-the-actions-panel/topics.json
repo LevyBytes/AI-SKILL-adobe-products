@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Create a group", "file": "references/desktop/automate-tasks/automation-settings-and-presets/use-the-actions-panel/create-a-group.md", "summary": "Open when looking up Create a group in Photoshop.", "keywords": ["Create a group"]},
+  {"topic": "Delete an action", "file": "references/desktop/automate-tasks/automation-settings-and-presets/use-the-actions-panel/delete-an-action.md", "summary": "Open when looking up Delete an action in Photoshop.", "keywords": ["Delete an action"]},
+  {"topic": "Edit an action", "file": "references/desktop/automate-tasks/automation-settings-and-presets/use-the-actions-panel/edit-an-action.md", "summary": "Open when looking up Edit an action in Photoshop.", "keywords": ["Edit an action"]},
+  {"topic": "Open the Actions panel and apply an action", "file": "references/desktop/automate-tasks/automation-settings-and-presets/use-the-actions-panel/open-the-actions-panel-and-apply-an-action.md", "summary": "Open when looking up Open the Actions panel and apply an action in Photoshop.", "keywords": ["Open the Actions panel and apply an action"]},
+  {"topic": "Record an action", "file": "references/desktop/automate-tasks/automation-settings-and-presets/use-the-actions-panel/record-an-action.md", "summary": "Open when looking up Record an action in Photoshop.", "keywords": ["Record an action"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,55 @@
+# Shared Adobe platform — CharacterAttributes
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up CharacterAttributes declaration in Shared Adobe platform. [CharacterAttributes declaration](declaration.md).
+- Open when looking up CharacterAttributes identity and parent in Shared Adobe platform. [CharacterAttributes identity and parent](identity-and-parent.md).
+- Open when looking up CharacterAttributes.akiLeft in Shared Adobe platform. [CharacterAttributes.akiLeft](aki-left.md).
+- Open when looking up CharacterAttributes.akiRight in Shared Adobe platform. [CharacterAttributes.akiRight](aki-right.md).
+- Open when looking up CharacterAttributes.alignment in Shared Adobe platform. [CharacterAttributes.alignment](alignment.md).
+- Open when looking up CharacterAttributes.alternateGlyphs in Shared Adobe platform. [CharacterAttributes.alternateGlyphs](alternate-glyphs.md).
+- Open when looking up CharacterAttributes.autoLeading in Shared Adobe platform. [CharacterAttributes.autoLeading](auto-leading.md).
+- Open when looking up CharacterAttributes.baselineDirection in Shared Adobe platform. [CharacterAttributes.baselineDirection](baseline-direction.md).
+- Open when looking up CharacterAttributes.baselinePosition in Shared Adobe platform. [CharacterAttributes.baselinePosition](baseline-position.md).
+- Open when looking up CharacterAttributes.baselineShift in Shared Adobe platform. [CharacterAttributes.baselineShift](baseline-shift.md).
+- Open when looking up CharacterAttributes.capitalization in Shared Adobe platform. [CharacterAttributes.capitalization](capitalization.md).
+- Open when looking up CharacterAttributes.connectionForms in Shared Adobe platform. [CharacterAttributes.connectionForms](connection-forms.md).
+- Open when looking up CharacterAttributes.contextualLigature in Shared Adobe platform. [CharacterAttributes.contextualLigature](contextual-ligature.md).
+- Open when looking up CharacterAttributes.discretionaryLigature in Shared Adobe platform. [CharacterAttributes.discretionaryLigature](discretionary-ligature.md).
+- Open when looking up CharacterAttributes.figureStyle in Shared Adobe platform. [CharacterAttributes.figureStyle](figure-style.md).
+- Open when looking up CharacterAttributes.fillColor in Shared Adobe platform. [CharacterAttributes.fillColor](fill-color.md).
+- Open when looking up CharacterAttributes.fractions in Shared Adobe platform. [CharacterAttributes.fractions](fractions.md).
+- Open when looking up CharacterAttributes.horizontalScale in Shared Adobe platform. [CharacterAttributes.horizontalScale](horizontal-scale.md).
+- Open when looking up CharacterAttributes.italics in Shared Adobe platform. [CharacterAttributes.italics](italics.md).
+- Open when looking up CharacterAttributes.kerningMethod in Shared Adobe platform. [CharacterAttributes.kerningMethod](kerning-method.md).
+- Open when looking up CharacterAttributes.language in Shared Adobe platform. [CharacterAttributes.language](language.md).
+- Open when looking up CharacterAttributes.leading in Shared Adobe platform. [CharacterAttributes.leading](leading.md).
+- Open when looking up CharacterAttributes.ligature in Shared Adobe platform. [CharacterAttributes.ligature](ligature.md).
+- Open when looking up CharacterAttributes.noBreak in Shared Adobe platform. [CharacterAttributes.noBreak](no-break.md).
+- Open when looking up CharacterAttributes.openTypePosition in Shared Adobe platform. [CharacterAttributes.openTypePosition](open-type-position.md).
+- Open when looking up CharacterAttributes.ordinals in Shared Adobe platform. [CharacterAttributes.ordinals](ordinals.md).
+- Open when looking up CharacterAttributes.ornaments in Shared Adobe platform. [CharacterAttributes.ornaments](ornaments.md).
+- Open when looking up CharacterAttributes.overprintFill in Shared Adobe platform. [CharacterAttributes.overprintFill](overprint-fill.md).
+- Open when looking up CharacterAttributes.overprintStroke in Shared Adobe platform. [CharacterAttributes.overprintStroke](overprint-stroke.md).
+- Open when looking up CharacterAttributes.proportionalMetrics in Shared Adobe platform. [CharacterAttributes.proportionalMetrics](proportional-metrics.md).
+- Open when looking up CharacterAttributes.rotation in Shared Adobe platform. [CharacterAttributes.rotation](rotation.md).
+- Open when looking up CharacterAttributes.size in Shared Adobe platform. [CharacterAttributes.size](size.md).
+- Open when looking up CharacterAttributes.strikeThrough in Shared Adobe platform. [CharacterAttributes.strikeThrough](strike-through.md).
+- Open when looking up CharacterAttributes.strokeColor in Shared Adobe platform. [CharacterAttributes.strokeColor](stroke-color.md).
+- Open when looking up CharacterAttributes.strokeWeight in Shared Adobe platform. [CharacterAttributes.strokeWeight](stroke-weight.md).
+- Open when looking up CharacterAttributes.stylisticAlternates in Shared Adobe platform. [CharacterAttributes.stylisticAlternates](stylistic-alternates.md).
+- Open when looking up CharacterAttributes.swash in Shared Adobe platform. [CharacterAttributes.swash](swash.md).
+- Open when looking up CharacterAttributes.tateChuYokoHorizontal in Shared Adobe platform. [CharacterAttributes.tateChuYokoHorizontal](tate-chu-yoko-horizontal.md).
+- Open when looking up CharacterAttributes.tateChuYokoVertical in Shared Adobe platform. [CharacterAttributes.tateChuYokoVertical](tate-chu-yoko-vertical.md).
+- Open when looking up CharacterAttributes.textFont in Shared Adobe platform. [CharacterAttributes.textFont](text-font.md).
+- Open when looking up CharacterAttributes.titling in Shared Adobe platform. [CharacterAttributes.titling](titling.md).
+- Open when looking up CharacterAttributes.tracking in Shared Adobe platform. [CharacterAttributes.tracking](tracking.md).
+- Open when looking up CharacterAttributes.Tsume in Shared Adobe platform. [CharacterAttributes.Tsume](tsume.md).
+- Open when looking up CharacterAttributes.underline in Shared Adobe platform. [CharacterAttributes.underline](underline.md).
+- Open when looking up CharacterAttributes.verticalScale in Shared Adobe platform. [CharacterAttributes.verticalScale](vertical-scale.md).
+- Open when looking up CharacterAttributes.wariChuCharactersAfterBreak in Shared Adobe platform. [CharacterAttributes.wariChuCharactersAfterBreak](wari-chu-characters-after-break.md).
+- Open when looking up CharacterAttributes.wariChuCharactersBeforeBreak in Shared Adobe platform. [CharacterAttributes.wariChuCharactersBeforeBreak](wari-chu-characters-before-break.md).
+- Open when looking up CharacterAttributes.wariChuEnabled in Shared Adobe platform. [CharacterAttributes.wariChuEnabled](wari-chu-enabled.md).
+- Open when looking up CharacterAttributes.wariChuJustification in Shared Adobe platform. [CharacterAttributes.wariChuJustification](wari-chu-justification.md).
+- Open when looking up CharacterAttributes.wariChuLineGap in Shared Adobe platform. [CharacterAttributes.wariChuLineGap](wari-chu-line-gap.md).
+- Open when looking up CharacterAttributes.wariChuLines in Shared Adobe platform. [CharacterAttributes.wariChuLines](wari-chu-lines.md).
+- Open when looking up CharacterAttributes.wariChuScale in Shared Adobe platform. [CharacterAttributes.wariChuScale](wari-chu-scale.md).

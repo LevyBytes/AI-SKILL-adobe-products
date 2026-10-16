@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create a glossary using dfn tags", "file": "references/desktop/save-export-and-publish/export-to-epub/create-accessible-glossaries/create-a-glossary-using-dfn-tags.md", "summary": "Open when looking up Create a glossary using dfn tags in InDesign.", "keywords": ["Create a glossary using dfn tags"]},
+  {"topic": "Create paragraph styles", "file": "references/desktop/save-export-and-publish/export-to-epub/create-accessible-glossaries/create-paragraph-styles.md", "summary": "Open when looking up Create paragraph styles in InDesign.", "keywords": ["Create paragraph styles"]},
+  {"topic": "Create the glossary list", "file": "references/desktop/save-export-and-publish/export-to-epub/create-accessible-glossaries/create-the-glossary-list.md", "summary": "Open when looking up Create the glossary list in InDesign.", "keywords": ["Create the glossary list"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

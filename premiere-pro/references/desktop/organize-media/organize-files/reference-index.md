@@ -1,0 +1,23 @@
+# Premiere Pro — Organize files
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add and delete bins in Premiere Pro. [Add and delete bins](add-and-delete-bins.md).
+- Open when looking up Change bin behaviors in Premiere Pro. [Change bin behaviors](change-bin-behaviors.md).
+- Open when looking up Consolidate duplicate folders in Premiere Pro. [Consolidate duplicate folders](consolidate-duplicate-folders.md).
+- Open when looking up Find assets using the Find dialog in Premiere Pro. [Find assets using the Find dialog](find-assets-using-the-find-dialog.md).
+- Open when looking up Freeze a frame for a portion of a clip using Time Remapping in Premiere Pro. [Freeze a frame for a portion of a clip using Time Remapping](freeze-a-frame-for-a-portion-of-a-clip-using-time-remapping.md).
+- Open when looking up Manage media intelligence metadata in Premiere Pro. [Manage media intelligence metadata](manage-media-intelligence-metadata.md).
+- Open when looking up Manually locate and relink offline media in Premiere Pro. [Manually locate and relink offline media](manually-locate-and-relink-offline-media.md).
+- Open when looking up Media intelligence and Search panel in Premiere Pro. [Media intelligence and Search panel](media-intelligence-and-search-panel.md).
+- Open when looking up Open and close bins in Premiere Pro. [Open and close bins](open-and-close-bins.md).
+- Open when looking up Overview of bins in Premiere Pro. [Overview of bins](overview-of-bins.md).
+- Open when looking up Overview of bins in Premiere Pro. [Overview of bins references](overview-of-bins/reference-index.md).
+- Open when looking up Relink media in Premiere in Premiere Pro. [Relink media in Premiere](relink-media-in-premiere.md).
+- Open when looking up Relink media in Premiere in Premiere Pro. [Relink media in Premiere references](relink-media-in-premiere/reference-index.md).
+- Open when looking up Search for audio using media intelligence in Premiere Pro. [Search for audio using media intelligence](search-for-audio-using-media-intelligence.md).
+- Open when looking up Search for media using media intelligence in Premiere Pro. [Search for media using media intelligence](search-for-media-using-media-intelligence.md).
+- Open when looking up Search for media using media intelligence in Premiere Pro. [Search for media using media intelligence references](search-for-media-using-media-intelligence/reference-index.md).
+- Open when looking up Search for similar visuals using media intelligence in Premiere Pro. [Search for similar visuals using media intelligence](search-for-similar-visuals-using-media-intelligence.md).
+- Open when looking up Search options in Premiere in Premiere Pro. [Search options in Premiere](search-options-in-premiere.md).
+- Open when looking up Search options in Premiere in Premiere Pro. [Search options in Premiere references](search-options-in-premiere/reference-index.md).
+- Open when looking up Sort and view bins in Premiere Pro. [Sort and view bins](sort-and-view-bins.md).

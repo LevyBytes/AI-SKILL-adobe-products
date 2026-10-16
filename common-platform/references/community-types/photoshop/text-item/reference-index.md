@@ -1,0 +1,64 @@
+# Shared Adobe platform — TextItem
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TextItem declaration in Shared Adobe platform. [TextItem declaration](declaration.md).
+- Open when looking up TextItem identity and parent in Shared Adobe platform. [TextItem identity and parent](identity-and-parent.md).
+- Open when looking up TextItem.alternateLigatures in Shared Adobe platform. [TextItem.alternateLigatures](alternate-ligatures.md).
+- Open when looking up TextItem.antiAliasMethod in Shared Adobe platform. [TextItem.antiAliasMethod](anti-alias-method.md).
+- Open when looking up TextItem.autoKerning in Shared Adobe platform. [TextItem.autoKerning](auto-kerning.md).
+- Open when looking up TextItem.autoLeadingAmount in Shared Adobe platform. [TextItem.autoLeadingAmount](auto-leading-amount.md).
+- Open when looking up TextItem.baselineShift in Shared Adobe platform. [TextItem.baselineShift](baseline-shift.md).
+- Open when looking up TextItem.capitalization in Shared Adobe platform. [TextItem.capitalization](capitalization.md).
+- Open when looking up TextItem.color in Shared Adobe platform. [TextItem.color](color.md).
+- Open when looking up TextItem.contents in Shared Adobe platform. [TextItem.contents](contents.md).
+- Open when looking up TextItem.convertToShape in Shared Adobe platform. [TextItem.convertToShape](convert-to-shape.md).
+- Open when looking up TextItem.createPath in Shared Adobe platform. [TextItem.createPath](create-path.md).
+- Open when looking up TextItem.desiredGlyphScaling in Shared Adobe platform. [TextItem.desiredGlyphScaling](desired-glyph-scaling.md).
+- Open when looking up TextItem.desiredLetterScaling in Shared Adobe platform. [TextItem.desiredLetterScaling](desired-letter-scaling.md).
+- Open when looking up TextItem.desiredWordScaling in Shared Adobe platform. [TextItem.desiredWordScaling](desired-word-scaling.md).
+- Open when looking up TextItem.direction in Shared Adobe platform. [TextItem.direction](direction.md).
+- Open when looking up TextItem.fauxBold in Shared Adobe platform. [TextItem.fauxBold](faux-bold.md).
+- Open when looking up TextItem.fauxItalic in Shared Adobe platform. [TextItem.fauxItalic](faux-italic.md).
+- Open when looking up TextItem.firstLineIndent in Shared Adobe platform. [TextItem.firstLineIndent](first-line-indent.md).
+- Open when looking up TextItem.font in Shared Adobe platform. [TextItem.font](font.md).
+- Open when looking up TextItem.hangingPuntuation in Shared Adobe platform. [TextItem.hangingPuntuation](hanging-puntuation.md).
+- Open when looking up TextItem.height in Shared Adobe platform. [TextItem.height](height.md).
+- Open when looking up TextItem.horizontalScale in Shared Adobe platform. [TextItem.horizontalScale](horizontal-scale.md).
+- Open when looking up TextItem.hyphenateAfterFirst in Shared Adobe platform. [TextItem.hyphenateAfterFirst](hyphenate-after-first.md).
+- Open when looking up TextItem.hyphenateBeforeLast in Shared Adobe platform. [TextItem.hyphenateBeforeLast](hyphenate-before-last.md).
+- Open when looking up TextItem.hyphenateCapitalWords in Shared Adobe platform. [TextItem.hyphenateCapitalWords](hyphenate-capital-words.md).
+- Open when looking up TextItem.hyphenateWordsLongerThan in Shared Adobe platform. [TextItem.hyphenateWordsLongerThan](hyphenate-words-longer-than.md).
+- Open when looking up TextItem.hyphenation in Shared Adobe platform. [TextItem.hyphenation](hyphenation.md).
+- Open when looking up TextItem.hyphenationZone in Shared Adobe platform. [TextItem.hyphenationZone](hyphenation-zone.md).
+- Open when looking up TextItem.hyphenLimit in Shared Adobe platform. [TextItem.hyphenLimit](hyphen-limit.md).
+- Open when looking up TextItem.justification in Shared Adobe platform. [TextItem.justification](justification.md).
+- Open when looking up TextItem.kind in Shared Adobe platform. [TextItem.kind](kind.md).
+- Open when looking up TextItem.language in Shared Adobe platform. [TextItem.language](language.md).
+- Open when looking up TextItem.leading in Shared Adobe platform. [TextItem.leading](leading.md).
+- Open when looking up TextItem.leftIndent in Shared Adobe platform. [TextItem.leftIndent](left-indent.md).
+- Open when looking up TextItem.ligatures in Shared Adobe platform. [TextItem.ligatures](ligatures.md).
+- Open when looking up TextItem.maximumGlyphScaling in Shared Adobe platform. [TextItem.maximumGlyphScaling](maximum-glyph-scaling.md).
+- Open when looking up TextItem.maximumLetterScaling in Shared Adobe platform. [TextItem.maximumLetterScaling](maximum-letter-scaling.md).
+- Open when looking up TextItem.maximumWordScaling in Shared Adobe platform. [TextItem.maximumWordScaling](maximum-word-scaling.md).
+- Open when looking up TextItem.minimumGlyphScaling in Shared Adobe platform. [TextItem.minimumGlyphScaling](minimum-glyph-scaling.md).
+- Open when looking up TextItem.minimumLetterScaling in Shared Adobe platform. [TextItem.minimumLetterScaling](minimum-letter-scaling.md).
+- Open when looking up TextItem.minimumWordScaling in Shared Adobe platform. [TextItem.minimumWordScaling](minimum-word-scaling.md).
+- Open when looking up TextItem.noBreak in Shared Adobe platform. [TextItem.noBreak](no-break.md).
+- Open when looking up TextItem.oldStyle in Shared Adobe platform. [TextItem.oldStyle](old-style.md).
+- Open when looking up TextItem.position in Shared Adobe platform. [TextItem.position](position.md).
+- Open when looking up TextItem.rightIndent in Shared Adobe platform. [TextItem.rightIndent](right-indent.md).
+- Open when looking up TextItem.size in Shared Adobe platform. [TextItem.size](size.md).
+- Open when looking up TextItem.spaceAfter in Shared Adobe platform. [TextItem.spaceAfter](space-after.md).
+- Open when looking up TextItem.spaceBefore in Shared Adobe platform. [TextItem.spaceBefore](space-before.md).
+- Open when looking up TextItem.strikeThru in Shared Adobe platform. [TextItem.strikeThru](strike-thru.md).
+- Open when looking up TextItem.textComposer in Shared Adobe platform. [TextItem.textComposer](text-composer.md).
+- Open when looking up TextItem.tracking in Shared Adobe platform. [TextItem.tracking](tracking.md).
+- Open when looking up TextItem.underline in Shared Adobe platform. [TextItem.underline](underline.md).
+- Open when looking up TextItem.useAutoLeading in Shared Adobe platform. [TextItem.useAutoLeading](use-auto-leading.md).
+- Open when looking up TextItem.verticalScale in Shared Adobe platform. [TextItem.verticalScale](vertical-scale.md).
+- Open when looking up TextItem.warpBend in Shared Adobe platform. [TextItem.warpBend](warp-bend.md).
+- Open when looking up TextItem.warpDirection in Shared Adobe platform. [TextItem.warpDirection](warp-direction.md).
+- Open when looking up TextItem.warpHorizontalDistortion in Shared Adobe platform. [TextItem.warpHorizontalDistortion](warp-horizontal-distortion.md).
+- Open when looking up TextItem.warpStyle in Shared Adobe platform. [TextItem.warpStyle](warp-style.md).
+- Open when looking up TextItem.warpVerticalDistortion in Shared Adobe platform. [TextItem.warpVerticalDistortion](warp-vertical-distortion.md).
+- Open when looking up TextItem.width in Shared Adobe platform. [TextItem.width](width.md).

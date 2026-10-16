@@ -1,0 +1,40 @@
+# Shared Adobe platform — UITools
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up UITools declaration in Shared Adobe platform. [UITools declaration](declaration.md).
+- Open when looking up UITools.ADD_ANCHOR_POINT in Shared Adobe platform. [UITools.ADD_ANCHOR_POINT](addanchorpoint.md).
+- Open when looking up UITools.CONVERT_DIRECTION_POINT in Shared Adobe platform. [UITools.CONVERT_DIRECTION_POINT](convertdirectionpoint.md).
+- Open when looking up UITools.DELETE_ANCHOR_POINT in Shared Adobe platform. [UITools.DELETE_ANCHOR_POINT](deleteanchorpoint.md).
+- Open when looking up UITools.DIRECT_SELECTION_TOOL in Shared Adobe platform. [UITools.DIRECT_SELECTION_TOOL](directselectiontool.md).
+- Open when looking up UITools.ELLIPSE_FRAME_TOOL in Shared Adobe platform. [UITools.ELLIPSE_FRAME_TOOL](ellipseframetool.md).
+- Open when looking up UITools.ELLIPSE_TOOL in Shared Adobe platform. [UITools.ELLIPSE_TOOL](ellipsetool.md).
+- Open when looking up UITools.ERASE_TOOL in Shared Adobe platform. [UITools.ERASE_TOOL](erasetool.md).
+- Open when looking up UITools.EYE_DROPPER_TOOL in Shared Adobe platform. [UITools.EYE_DROPPER_TOOL](eyedroppertool.md).
+- Open when looking up UITools.FREE_TRANSFORM_TOOL in Shared Adobe platform. [UITools.FREE_TRANSFORM_TOOL](freetransformtool.md).
+- Open when looking up UITools.GAP_TOOL in Shared Adobe platform. [UITools.GAP_TOOL](gaptool.md).
+- Open when looking up UITools.GRADIENT_FEATHER_TOOL in Shared Adobe platform. [UITools.GRADIENT_FEATHER_TOOL](gradientfeathertool.md).
+- Open when looking up UITools.GRADIENT_SWATCH_TOOL in Shared Adobe platform. [UITools.GRADIENT_SWATCH_TOOL](gradientswatchtool.md).
+- Open when looking up UITools.HAND_TOOL in Shared Adobe platform. [UITools.HAND_TOOL](handtool.md).
+- Open when looking up UITools.LINE_TOOL in Shared Adobe platform. [UITools.LINE_TOOL](linetool.md).
+- Open when looking up UITools.MEASURE_TOOL in Shared Adobe platform. [UITools.MEASURE_TOOL](measuretool.md).
+- Open when looking up UITools.MOTION_PATH_TOOL in Shared Adobe platform. [UITools.MOTION_PATH_TOOL](motionpathtool.md).
+- Open when looking up UITools.NONE in Shared Adobe platform. [UITools.NONE](none.md).
+- Open when looking up UITools.NOTE_TOOL in Shared Adobe platform. [UITools.NOTE_TOOL](notetool.md).
+- Open when looking up UITools.PAGE_TOOL in Shared Adobe platform. [UITools.PAGE_TOOL](pagetool.md).
+- Open when looking up UITools.PEN_TOOL in Shared Adobe platform. [UITools.PEN_TOOL](pentool.md).
+- Open when looking up UITools.PENCIL_TOOL in Shared Adobe platform. [UITools.PENCIL_TOOL](penciltool.md).
+- Open when looking up UITools.PLACE_CURSOR_TOOL in Shared Adobe platform. [UITools.PLACE_CURSOR_TOOL](placecursortool.md).
+- Open when looking up UITools.POLYGON_FRAME_TOOL in Shared Adobe platform. [UITools.POLYGON_FRAME_TOOL](polygonframetool.md).
+- Open when looking up UITools.POLYGON_TOOL in Shared Adobe platform. [UITools.POLYGON_TOOL](polygontool.md).
+- Open when looking up UITools.RECTANGLE_FRAME_TOOL in Shared Adobe platform. [UITools.RECTANGLE_FRAME_TOOL](rectangleframetool.md).
+- Open when looking up UITools.RECTANGLE_TOOL in Shared Adobe platform. [UITools.RECTANGLE_TOOL](rectangletool.md).
+- Open when looking up UITools.ROTATE_TOOL in Shared Adobe platform. [UITools.ROTATE_TOOL](rotatetool.md).
+- Open when looking up UITools.SCALE_TOOL in Shared Adobe platform. [UITools.SCALE_TOOL](scaletool.md).
+- Open when looking up UITools.SCISSORS_TOOL in Shared Adobe platform. [UITools.SCISSORS_TOOL](scissorstool.md).
+- Open when looking up UITools.SELECTION_TOOL in Shared Adobe platform. [UITools.SELECTION_TOOL](selectiontool.md).
+- Open when looking up UITools.SHEAR_TOOL in Shared Adobe platform. [UITools.SHEAR_TOOL](sheartool.md).
+- Open when looking up UITools.SMOOTH_TOOL in Shared Adobe platform. [UITools.SMOOTH_TOOL](smoothtool.md).
+- Open when looking up UITools.TABLE_TOOL in Shared Adobe platform. [UITools.TABLE_TOOL](tabletool.md).
+- Open when looking up UITools.TYPE_ON_PATH_TOOL in Shared Adobe platform. [UITools.TYPE_ON_PATH_TOOL](typeonpathtool.md).
+- Open when looking up UITools.TYPE_TOOL in Shared Adobe platform. [UITools.TYPE_TOOL](typetool.md).
+- Open when looking up UITools.ZOOM_TOOL in Shared Adobe platform. [UITools.ZOOM_TOOL](zoomtool.md).

@@ -1,0 +1,35 @@
+# InDesign — Index options
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up beforeCrossReferenceSeparator in InDesign. [beforeCrossReferenceSeparator](before-cross-reference-separator.md).
+- Open when looking up betweenEntriesSeparator in InDesign. [betweenEntriesSeparator](between-entries-separator.md).
+- Open when looking up betweenPageNumbersSeparator in InDesign. [betweenPageNumbersSeparator](between-page-numbers-separator.md).
+- Open when looking up crossReferenceStyle in InDesign. [crossReferenceStyle](cross-reference-style.md).
+- Open when looking up crossReferenceTopicStyle in InDesign. [crossReferenceTopicStyle](cross-reference-topic-style.md).
+- Open when looking up entryEndSeparator in InDesign. [entryEndSeparator](entry-end-separator.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up followingTopicSeparator in InDesign. [followingTopicSeparator](following-topic-separator.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up includeBookDocuments in InDesign. [includeBookDocuments](include-book-documents.md).
+- Open when looking up includeEmptyIndexSections in InDesign. [includeEmptyIndexSections](include-empty-index-sections.md).
+- Open when looking up includeHiddenEntries in InDesign. [includeHiddenEntries](include-hidden-entries.md).
+- Open when looking up includeSectionHeadings in InDesign. [includeSectionHeadings](include-section-headings.md).
+- Open when looking up indexFormat in InDesign. [indexFormat](index-format.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up level1Style in InDesign. [level1Style](level1-style.md).
+- Open when looking up level2Style in InDesign. [level2Style](level2-style.md).
+- Open when looking up level3Style in InDesign. [level3Style](level3-style.md).
+- Open when looking up level4Style in InDesign. [level4Style](level4-style.md).
+- Open when looking up pageNumberStyle in InDesign. [pageNumberStyle](page-number-style.md).
+- Open when looking up pageRangeSeparator in InDesign. [pageRangeSeparator](page-range-separator.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up replaceExistingIndex in InDesign. [replaceExistingIndex](replace-existing-index.md).
+- Open when looking up sectionHeadingStyle in InDesign. [sectionHeadingStyle](section-heading-style.md).
+- Open when looking up title in InDesign. [title](title.md).
+- Open when looking up titleStyle in InDesign. [titleStyle](title-style.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

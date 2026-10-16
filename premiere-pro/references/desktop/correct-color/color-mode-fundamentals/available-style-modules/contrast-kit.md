@@ -1,0 +1,13 @@
+# Contrast Kit
+
+Compared with the Contrast and Pivot controls in the Color & Contrast module, Contrast Kit provides finer image-contrast control. Color & Contrast supplies a linear contrast adjustment that simply stretches the image's overall contrast wider or narrower.
+
+Contrast Kit instead builds many kinds of "S" curves, adding stronger contrast by compressing the image's shadows and highlights. That lets you push contrast harder while reducing clipping and preserving detail in the toe and shoulder. The result follows a more photographic contrast style, with soft roll-off at the darkest and brightest extremes.
+
+When the Output color space is an HDR format, this module places most of the contrast work in the black-to-reference-white range, which is defined by Graphics White in the advanced color management settings. This keeps HDR highlights from blowing out every time contrast is increased. The Highlights control determines how much of the HDR highlight range is changed by the contrast adjustment.
+
+The Contrast Kit controls are described below:
+
+- Compression: Drag vertically to raise or lower contrast with an "S" curve visible in the HUD, while black and white points remain pinned. Drag horizontally to move the compression pivot point, the image-tonality level that centers the "S". Moving right puts more compression into Highlights and less into shadows, producing a brighter result. Moving left shifts more compression into Shadows and less into Highlights, producing a darker result. In either direction, pivot fine-tunes the ratio between highlight compression and shadow compression. Combining vertical compression with horizontal pivot changes creates a broad range of "S" shapes for precise contrast sculpting. Inverted "S" curves can also be created to reduce contrast softly instead of increasing it.
+- Range: Drag down or up to decrease or increase contrast in a linear way. Drag horizontally to move the pivot point used when contrast is reduced. This control cannot increase contrast past its default settings, and the HUD displays the upper and lower threshold range that limits the signal. It is useful for lowering contrast by raising black point and lowering white point, creating a more "milky" picture. Any "S" curve adjustment is applied inside the defined range, so Range and Compression can be combined to reduce overall contrast while increasing midtone contrast, enabling many low-contrast looks.
+- Highlights: Drag up to expand, or down to reduce, the highlight range affected by this module, including into the HDR highlight range when output is HDR. Drag horizontally to control how smoothly the top of the contrast curve blends into HDR-strength highlights.

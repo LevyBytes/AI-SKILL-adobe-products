@@ -1,0 +1,7 @@
+# FIRST_PAGE
+
+> _Read Only_
+>
+> Number `FIRST_PAGE` = 1700947536
+>
+> The first page is rasterized for the cover image.

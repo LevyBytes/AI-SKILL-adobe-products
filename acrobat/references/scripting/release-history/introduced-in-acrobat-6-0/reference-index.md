@@ -1,0 +1,33 @@
+# Acrobat — Introduced in acrobat 6 0
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ADBC in Acrobat. [ADBC](adbc.md).
+- Open when looking up AlternatePresentation in Acrobat. [AlternatePresentation](alternate-presentation.md).
+- Open when looking up Annotation in Acrobat. [Annotation](annotation.md).
+- Open when looking up app in Acrobat. [app](app.md).
+- Open when looking up Bookmark in Acrobat. [Bookmark](bookmark.md).
+- Open when looking up catalog in Acrobat. [catalog](catalog.md).
+- Open when looking up Certificate in Acrobat. [Certificate](certificate.md).
+- Open when looking up Collab in Acrobat. [Collab](collab.md).
+- Open when looking up console in Acrobat. [console](console.md).
+- Open when looking up dbg in Acrobat. [dbg](dbg.md).
+- Open when looking up DirConnection in Acrobat. [DirConnection](dir-connection.md).
+- Open when looking up Directory in Acrobat. [Directory](directory.md).
+- Open when looking up Doc in Acrobat. [Doc](doc.md).
+- Open when looking up Error in Acrobat. [Error](error.md).
+- Open when looking up event in Acrobat. [event](event.md).
+- Open when looking up FDF in Acrobat. [FDF](fdf.md).
+- Open when looking up Field in Acrobat. [Field](field.md).
+- Open when looking up Index in Acrobat. [Index](index.md).
+- Open when looking up Link in Acrobat. [Link](link.md).
+- Open when looking up OCG in Acrobat. [OCG](ocg.md).
+- Open when looking up PrintParams in Acrobat. [PrintParams](print-params.md).
+- Open when looking up Report in Acrobat. [Report](report.md).
+- Open when looking up search in Acrobat. [search](search.md).
+- Open when looking up security in Acrobat. [security](security.md).
+- Open when looking up SecurityHandler in Acrobat. [SecurityHandler](security-handler.md).
+- Open when looking up SOAP in Acrobat. [SOAP](soap.md).
+- Open when looking up Span in Acrobat. [Span](span.md).
+- Open when looking up spell in Acrobat. [spell](spell.md).
+- Open when looking up Thermometer in Acrobat. [Thermometer](thermometer.md).
+- Open when looking up util in Acrobat. [util](util.md).

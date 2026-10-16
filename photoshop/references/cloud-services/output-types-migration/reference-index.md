@@ -1,0 +1,21 @@
+# Photoshop — Output types migration
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Output Types Migration in Photoshop. [Output Types Migration](output-types-migration.md).
+- Open when looking up Output types migration guide common migration errors in Photoshop. [Output types migration guide common migration errors references](output-types-migration-guide-common-migration-errors/reference-index.md).
+- Open when looking up Output types migration guide jpeg output migration in Photoshop. [Output types migration guide jpeg output migration references](output-types-migration-guide-jpeg-output-migration/reference-index.md).
+- Open when looking up Output types migration guide png output migration in Photoshop. [Output types migration guide png output migration references](output-types-migration-guide-png-output-migration/reference-index.md).
+- Open when looking up Output types migration guide psd output migration in Photoshop. [Output types migration guide psd output migration references](output-types-migration-guide-psd-output-migration/reference-index.md).
+- Open when looking up Output types migration guide quick reference in Photoshop. [Output types migration guide quick reference references](output-types-migration-guide-quick-reference/reference-index.md).
+- Open when looking up Output types migration guide storage type considerations in Photoshop. [Output types migration guide storage type considerations references](output-types-migration-guide-storage-type-considerations/reference-index.md).
+- Open when looking up Output types migration guide tiff output migration in Photoshop. [Output types migration guide tiff output migration references](output-types-migration-guide-tiff-output-migration/reference-index.md).
+- Open when looking up Output Types Migration Guide — Additional resources in Photoshop. [Output Types Migration Guide — Additional resources](output-types-migration-guide-additional-resources.md).
+- Open when looking up Output Types Migration Guide — Format support: color mode and bit depth in Photoshop. [Output Types Migration Guide — Format support: color mode and bit depth](format-support-color-mode-and-bit-depth.md).
+- Open when looking up Output Types Migration Guide — Format support: color mode and bit depth in Photoshop. [Output Types Migration Guide — Format support: color mode and bit depth references](color-mode-and-bit-depth/reference-index.md).
+- Open when looking up Output Types Migration Guide — Migration checklist in Photoshop. [Output Types Migration Guide — Migration checklist](output-types-migration-guide-migration-checklist.md).
+- Open when looking up Output Types Migration Guide — Migration checklist in Photoshop. [Output Types Migration Guide — Migration checklist references](output-types-migration-guide-migration-checklist/reference-index.md).
+- Open when looking up Output Types Migration Guide — Multiple outputs in Photoshop. [Output Types Migration Guide — Multiple outputs](output-types-migration-guide-multiple-outputs.md).
+- Open when looking up Output Types Migration Guide — Multiple outputs in Photoshop. [Output Types Migration Guide — Multiple outputs references](output-types-migration-guide-multiple-outputs/reference-index.md).
+- Open when looking up Output Types Migration Guide — Structural changes (all output types) in Photoshop. [Output Types Migration Guide — Structural changes (all output types)](structural-changes-all-output-types.md).
+- Open when looking up Output Types Migration Guide — Structural changes (all output types) in Photoshop. [Output Types Migration Guide — Structural changes (all output types) references](output-types-migration-guide-structural-changes-all-output-types/reference-index.md).
+- Open when looking up Output Types Migration Guide — Summary of changes in Photoshop. [Output Types Migration Guide — Summary of changes](output-types-migration-guide-summary-of-changes.md).

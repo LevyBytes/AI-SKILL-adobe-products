@@ -1,0 +1,24 @@
+# Shared Adobe platform — MetadataPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up MetadataPreference declaration in Shared Adobe platform. [MetadataPreference declaration](declaration.md).
+- Open when looking up MetadataPreference.append in Shared Adobe platform. [MetadataPreference.append](append.md).
+- Open when looking up MetadataPreference.author in Shared Adobe platform. [MetadataPreference.author](author.md).
+- Open when looking up MetadataPreference.copyrightInfoURL in Shared Adobe platform. [MetadataPreference.copyrightInfoURL](copyright-info-url.md).
+- Open when looking up MetadataPreference.copyrightNotice in Shared Adobe platform. [MetadataPreference.copyrightNotice](copyright-notice.md).
+- Open when looking up MetadataPreference.copyrightStatus in Shared Adobe platform. [MetadataPreference.copyrightStatus](copyright-status.md).
+- Open when looking up MetadataPreference.countContainer in Shared Adobe platform. [MetadataPreference.countContainer](count-container.md).
+- Open when looking up MetadataPreference.createContainerItem in Shared Adobe platform. [MetadataPreference.createContainerItem](create-container-item.md).
+- Open when looking up MetadataPreference.creationDate in Shared Adobe platform. [MetadataPreference.creationDate](creation-date.md).
+- Open when looking up MetadataPreference.creator in Shared Adobe platform. [MetadataPreference.creator](creator.md).
+- Open when looking up MetadataPreference.description in Shared Adobe platform. [MetadataPreference.description](description.md).
+- Open when looking up MetadataPreference.documentTitle in Shared Adobe platform. [MetadataPreference.documentTitle](document-title.md).
+- Open when looking up MetadataPreference.format in Shared Adobe platform. [MetadataPreference.format](format.md).
+- Open when looking up MetadataPreference.getProperty in Shared Adobe platform. [MetadataPreference.getProperty](get-property.md).
+- Open when looking up MetadataPreference.jobName in Shared Adobe platform. [MetadataPreference.jobName](job-name.md).
+- Open when looking up MetadataPreference.keywords in Shared Adobe platform. [MetadataPreference.keywords](keywords.md).
+- Open when looking up MetadataPreference.modificationDate in Shared Adobe platform. [MetadataPreference.modificationDate](modification-date.md).
+- Open when looking up MetadataPreference.replace in Shared Adobe platform. [MetadataPreference.replace](replace.md).
+- Open when looking up MetadataPreference.save in Shared Adobe platform. [MetadataPreference.save](save.md).
+- Open when looking up MetadataPreference.serverURL in Shared Adobe platform. [MetadataPreference.serverURL](server-url.md).
+- Open when looking up MetadataPreference.setProperty in Shared Adobe platform. [MetadataPreference.setProperty](set-property.md).

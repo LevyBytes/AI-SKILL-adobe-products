@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Table.convertBulletsAndNumberingToText", "file": "references/community-types/indesign/table/convert-bullets-and-numbering-to-text.md", "summary": "Open when looking up Table.convertBulletsAndNumberingToText in Shared Adobe platform.", "keywords": ["Table.convertBulletsAndNumberingToText"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

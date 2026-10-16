@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Configure overlay display options", "file": "references/desktop/organize-media/edit-metadata/create-overlay-settings/configure-overlay-display-options.md", "summary": "Open when looking up Configure overlay display options in Premiere Pro.", "keywords": ["Configure overlay display options"]},
+  {"topic": "Save overlay settings as presets", "file": "references/desktop/organize-media/edit-metadata/create-overlay-settings/save-overlay-settings-as-presets.md", "summary": "Open when looking up Save overlay settings as presets in Premiere Pro.", "keywords": ["Save overlay settings as presets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

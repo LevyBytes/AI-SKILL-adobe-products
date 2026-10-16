@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ABBREVIATED", "file": "references/document-model/tag-text-form/abbreviated.md", "summary": "Open when looking up ABBREVIATED in InDesign.", "keywords": ["ABBREVIATED"]},
+  {"topic": "VERBOSE", "file": "references/document-model/tag-text-form/verbose.md", "summary": "Open when looking up VERBOSE in InDesign.", "keywords": ["VERBOSE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Blend property changes", "file": "references/cloud-services/layer-operations/advanced/blend-modes-and-opacity/blend-property-changes.md", "summary": "Open when looking up Blend property changes in Photoshop.", "keywords": ["Blend property changes"]},
+  {"topic": "Supported blend modes", "file": "references/cloud-services/layer-operations/advanced/blend-modes-and-opacity/supported-blend-modes.md", "summary": "Open when looking up Supported blend modes in Photoshop.", "keywords": ["Supported blend modes"]},
+  {"topic": "V1 approach", "file": "references/cloud-services/layer-operations/advanced/blend-modes-and-opacity/v1-approach.md", "summary": "Open when looking up V1 approach in Photoshop.", "keywords": ["V1 approach"]},
+  {"topic": "V2 approach", "file": "references/cloud-services/layer-operations/advanced/blend-modes-and-opacity/v2-approach.md", "summary": "Open when looking up V2 approach in Photoshop.", "keywords": ["V2 approach"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

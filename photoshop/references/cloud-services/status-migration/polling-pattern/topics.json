@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Polling with exponential backoff", "file": "references/cloud-services/status-migration/polling-pattern/polling-with-exponential-backoff.md", "summary": "Open when looking up Polling with exponential backoff in Photoshop.", "keywords": ["Polling with exponential backoff"]},
+  {"topic": "Suggested polling loop", "file": "references/cloud-services/status-migration/polling-pattern/suggested-polling-loop.md", "summary": "Open when looking up Suggested polling loop in Photoshop.", "keywords": ["Suggested polling loop"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Gradient Annotator", "file": "references/desktop/paint-and-fill/create-and-edit-gradients/gradients-overview/gradient-annotator.md", "summary": "Open when looking up Gradient Annotator in Illustrator.", "keywords": ["Gradient Annotator"]},
+  {"topic": "Gradient types", "file": "references/desktop/paint-and-fill/create-and-edit-gradients/gradients-overview/gradient-types.md", "summary": "Open when looking up Gradient types in Illustrator.", "keywords": ["Gradient types"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

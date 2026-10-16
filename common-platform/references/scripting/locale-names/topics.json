@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "How locale names are resolved", "file": "references/scripting/locale-names/how-locale-names-are-resolved.md", "summary": "Open when looking up How locale names are resolved in Shared Adobe platform.", "keywords": ["How locale names are resolved"]},
+  {"topic": "Localizing ExtendScript strings — Locale names", "file": "references/scripting/locale-names/localizing-extend-script-strings-locale-names.md", "summary": "Open when looking up Localizing ExtendScript strings — Locale names in Shared Adobe platform.", "keywords": ["Localizing ExtendScript strings — Locale names"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CUSTOM_CROSS_REFERENCE", "file": "references/document-model/cross-reference-type/customcrossreference.md", "summary": "Open when looking up CUSTOM_CROSS_REFERENCE in InDesign.", "keywords": ["CUSTOM_CROSS_REFERENCE"]},
+  {"topic": "CUSTOM_CROSS_REFERENCE_AFTER", "file": "references/document-model/cross-reference-type/customcrossreferenceafter.md", "summary": "Open when looking up CUSTOM_CROSS_REFERENCE_AFTER in InDesign.", "keywords": ["CUSTOM_CROSS_REFERENCE_AFTER"]},
+  {"topic": "CUSTOM_CROSS_REFERENCE_BEFORE", "file": "references/document-model/cross-reference-type/customcrossreferencebefore.md", "summary": "Open when looking up CUSTOM_CROSS_REFERENCE_BEFORE in InDesign.", "keywords": ["CUSTOM_CROSS_REFERENCE_BEFORE"]},
+  {"topic": "SEE", "file": "references/document-model/cross-reference-type/see.md", "summary": "Open when looking up SEE in InDesign.", "keywords": ["SEE"]},
+  {"topic": "SEE_ALSO", "file": "references/document-model/cross-reference-type/seealso.md", "summary": "Open when looking up SEE_ALSO in InDesign.", "keywords": ["SEE_ALSO"]},
+  {"topic": "SEE_ALSO_HEREIN", "file": "references/document-model/cross-reference-type/seealsoherein.md", "summary": "Open when looking up SEE_ALSO_HEREIN in InDesign.", "keywords": ["SEE_ALSO_HEREIN"]},
+  {"topic": "SEE_HEREIN", "file": "references/document-model/cross-reference-type/seeherein.md", "summary": "Open when looking up SEE_HEREIN in InDesign.", "keywords": ["SEE_HEREIN"]},
+  {"topic": "SEE_OR_ALSO_BRACKET", "file": "references/document-model/cross-reference-type/seeoralsobracket.md", "summary": "Open when looking up SEE_OR_ALSO_BRACKET in InDesign.", "keywords": ["SEE_OR_ALSO_BRACKET"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

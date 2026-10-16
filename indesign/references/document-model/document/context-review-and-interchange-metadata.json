@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "dtds", "file": "references/document-model/document/dtds.md", "summary": "Open when looking up dtds in InDesign.", "keywords": ["dtds"]},
+  {"topic": "importPdfComments", "file": "references/document-model/document/import-pdf-comments.md", "summary": "Open when looking up importPdfComments in InDesign.", "keywords": ["importPdfComments"]},
+  {"topic": "metadataPreferences", "file": "references/document-model/document/metadata-preferences.md", "summary": "Open when looking up metadataPreferences in InDesign.", "keywords": ["metadataPreferences"]},
+  {"topic": "pdfComments", "file": "references/document-model/document/pdf-comments.md", "summary": "Open when looking up pdfComments in InDesign.", "keywords": ["pdfComments"]},
+  {"topic": "validationErrors", "file": "references/document-model/document/validation-errors.md", "summary": "Open when looking up validationErrors in InDesign.", "keywords": ["validationErrors"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

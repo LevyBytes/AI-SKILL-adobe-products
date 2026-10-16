@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PathItems declaration", "file": "references/community-types/illustrator/path-items/declaration.md", "summary": "Open when looking up PathItems declaration in Shared Adobe platform.", "keywords": ["PathItems declaration"]},
+  {"topic": "PathItems identity and parent", "file": "references/community-types/illustrator/path-items/identity-and-parent.md", "summary": "Open when looking up PathItems identity and parent in Shared Adobe platform.", "keywords": ["PathItems identity and parent"]},
+  {"topic": "PathItems.add", "file": "references/community-types/illustrator/path-items/add.md", "summary": "Open when looking up PathItems.add in Shared Adobe platform.", "keywords": ["PathItems.add"]},
+  {"topic": "PathItems.ellipse", "file": "references/community-types/illustrator/path-items/ellipse.md", "summary": "Open when looking up PathItems.ellipse in Shared Adobe platform.", "keywords": ["PathItems.ellipse"]},
+  {"topic": "PathItems.getByName", "file": "references/community-types/illustrator/path-items/get-by-name.md", "summary": "Open when looking up PathItems.getByName in Shared Adobe platform.", "keywords": ["PathItems.getByName"]},
+  {"topic": "PathItems.length", "file": "references/community-types/illustrator/path-items/length.md", "summary": "Open when looking up PathItems.length in Shared Adobe platform.", "keywords": ["PathItems.length"]},
+  {"topic": "PathItems.polygon", "file": "references/community-types/illustrator/path-items/polygon.md", "summary": "Open when looking up PathItems.polygon in Shared Adobe platform.", "keywords": ["PathItems.polygon"]},
+  {"topic": "PathItems.rectangle", "file": "references/community-types/illustrator/path-items/rectangle.md", "summary": "Open when looking up PathItems.rectangle in Shared Adobe platform.", "keywords": ["PathItems.rectangle"]},
+  {"topic": "PathItems.removeAll", "file": "references/community-types/illustrator/path-items/remove-all.md", "summary": "Open when looking up PathItems.removeAll in Shared Adobe platform.", "keywords": ["PathItems.removeAll"]},
+  {"topic": "PathItems.roundedRectangle", "file": "references/community-types/illustrator/path-items/rounded-rectangle.md", "summary": "Open when looking up PathItems.roundedRectangle in Shared Adobe platform.", "keywords": ["PathItems.roundedRectangle"]},
+  {"topic": "PathItems.star", "file": "references/community-types/illustrator/path-items/star.md", "summary": "Open when looking up PathItems.star in Shared Adobe platform.", "keywords": ["PathItems.star"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

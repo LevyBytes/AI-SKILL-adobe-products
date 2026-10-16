@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ASSIGNED_SPREADS", "file": "references/document-model/assignment-export-options/assignedspreads.md", "summary": "Open when looking up ASSIGNED_SPREADS in InDesign.", "keywords": ["ASSIGNED_SPREADS"]},
+  {"topic": "EMPTY_FRAMES", "file": "references/document-model/assignment-export-options/emptyframes.md", "summary": "Open when looking up EMPTY_FRAMES in InDesign.", "keywords": ["EMPTY_FRAMES"]},
+  {"topic": "EVERYTHING", "file": "references/document-model/assignment-export-options/everything.md", "summary": "Open when looking up EVERYTHING in InDesign.", "keywords": ["EVERYTHING"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

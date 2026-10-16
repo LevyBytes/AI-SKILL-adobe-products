@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Create a data point preset", "file": "references/desktop/grids-and-measurement/measure-and-scale/create-edit-and-delete-data-point-presets/create-a-data-point-preset.md", "summary": "Open when looking up Create a data point preset in Photoshop.", "keywords": ["Create a data point preset"]},
+  {"topic": "Delete a data point preset", "file": "references/desktop/grids-and-measurement/measure-and-scale/create-edit-and-delete-data-point-presets/delete-a-data-point-preset.md", "summary": "Open when looking up Delete a data point preset in Photoshop.", "keywords": ["Delete a data point preset"]},
+  {"topic": "Edit a data point preset", "file": "references/desktop/grids-and-measurement/measure-and-scale/create-edit-and-delete-data-point-presets/edit-a-data-point-preset.md", "summary": "Open when looking up Edit a data point preset in Photoshop.", "keywords": ["Edit a data point preset"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

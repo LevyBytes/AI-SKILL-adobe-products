@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "SpotColor creation sample", "file": "references/scripting/spot-example/spot-color-creation-sample.md", "summary": "Open when looking up SpotColor creation sample in Illustrator.", "keywords": ["SpotColor creation sample"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

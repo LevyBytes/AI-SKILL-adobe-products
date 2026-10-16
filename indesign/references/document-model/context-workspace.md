@@ -1,0 +1,95 @@
+# InDesign — InDesign document object model: workspace, windows and menus
+
+Open when working with workspace, windows and menus in InDesign — InDesign document object model.
+
+Open when selecting an exact reference: [Topic catalog](context-workspace.json).
+
+- Open when looking up CharacterCountLocation in InDesign [CharacterCountLocation](character-count-location.md).
+- Open when looking up CharacterCountLocation in InDesign [CharacterCountLocation references](character-count-location/reference-index.md).
+- Open when looking up Cursor types in InDesign [Cursor types references](cursor-types/reference-index.md).
+- Open when looking up DisplayPerformancePreference in InDesign [DisplayPerformancePreference](display-performance-preference.md).
+- Open when looking up DisplayPerformancePreference in InDesign [DisplayPerformancePreference references](display-performance-preference/reference-index.md).
+- Open when looking up DisplaySetting in InDesign [DisplaySetting](display-setting.md).
+- Open when looking up DisplaySetting in InDesign [DisplaySetting references](display-setting/reference-index.md).
+- Open when looking up DisplaySettingOptions in InDesign [DisplaySettingOptions](display-setting-options.md).
+- Open when looking up DisplaySettingOptions in InDesign [DisplaySettingOptions references](display-setting-options/reference-index.md).
+- Open when looking up DisplaySettings in InDesign [DisplaySettings](display-settings.md).
+- Open when looking up DisplaySettings in InDesign [DisplaySettings references](display-settings/reference-index.md).
+- Open when looking up GpuPerformancePreference in InDesign [GpuPerformancePreference](gpu-performance-preference.md).
+- Open when looking up GpuPerformancePreference in InDesign [GpuPerformancePreference references](gpu-performance-preference/reference-index.md).
+- Open when looking up Grabber preference in InDesign [Grabber preference references](grabber-preference/reference-index.md).
+- Open when looking up IconSizes in InDesign [IconSizes](icon-sizes.md).
+- Open when looking up IconSizes in InDesign [IconSizes references](icon-sizes/reference-index.md).
+- Open when looking up InCopyUIColors in InDesign [InCopyUIColors](in-copy-ui-colors.md).
+- Open when looking up InCopyUIColors in InDesign [InCopyUIColors references](in-copy-ui-colors/reference-index.md).
+- Open when looking up LayoutWindow in InDesign [LayoutWindow](layout-window.md).
+- Open when looking up LayoutWindow in InDesign [LayoutWindow references](layout-window/reference-index.md).
+- Open when looking up LayoutWindows in InDesign [LayoutWindows](layout-windows.md).
+- Open when looking up LayoutWindows in InDesign [LayoutWindows references](layout-windows/reference-index.md).
+- Open when looking up Library panel in InDesign [Library panel references](library-panel/reference-index.md).
+- Open when looking up LibraryPanelViews in InDesign [LibraryPanelViews](library-panel-views.md).
+- Open when looking up LibraryPanelViews in InDesign [LibraryPanelViews references](library-panel-views/reference-index.md).
+- Open when looking up LiveDrawingOptions in InDesign [LiveDrawingOptions](live-drawing-options.md).
+- Open when looking up LiveDrawingOptions in InDesign [LiveDrawingOptions references](live-drawing-options/reference-index.md).
+- Open when looking up Menu in InDesign [Menu references](menu/reference-index.md).
+- Open when looking up MenuAction in InDesign [MenuAction](menu-action.md).
+- Open when looking up MenuAction in InDesign [MenuAction references](menu-action/reference-index.md).
+- Open when looking up MenuActions in InDesign [MenuActions](menu-actions.md).
+- Open when looking up MenuActions in InDesign [MenuActions references](menu-actions/reference-index.md).
+- Open when looking up MenuElement in InDesign [MenuElement](menu-element.md).
+- Open when looking up MenuElement in InDesign [MenuElement references](menu-element/reference-index.md).
+- Open when looking up MenuElements in InDesign [MenuElements](menu-elements.md).
+- Open when looking up MenuElements in InDesign [MenuElements references](menu-elements/reference-index.md).
+- Open when looking up MenuItem in InDesign [MenuItem](menu-item.md).
+- Open when looking up MenuItem in InDesign [MenuItem references](menu-item/reference-index.md).
+- Open when looking up MenuItems in InDesign [MenuItems](menu-items.md).
+- Open when looking up MenuItems in InDesign [MenuItems references](menu-items/reference-index.md).
+- Open when looking up Menus in InDesign [Menus](menus.md).
+- Open when looking up Menus in InDesign [Menus references](menus/reference-index.md).
+- Open when looking up MenuSeparator in InDesign [MenuSeparator](menu-separator.md).
+- Open when looking up MenuSeparator in InDesign [MenuSeparator references](menu-separator/reference-index.md).
+- Open when looking up MenuSeparators in InDesign [MenuSeparators](menu-separators.md).
+- Open when looking up MenuSeparators in InDesign [MenuSeparators references](menu-separators/reference-index.md).
+- Open when looking up Panel in InDesign [Panel](panel.md).
+- Open when looking up Panel in InDesign [Panel references](panel/reference-index.md).
+- Open when looking up PanelLayoutResize in InDesign [PanelLayoutResize](panel-layout-resize.md).
+- Open when looking up PanelLayoutResize in InDesign [PanelLayoutResize references](panel-layout-resize/reference-index.md).
+- Open when looking up Panels in InDesign [Panels](panels.md).
+- Open when looking up Panels in InDesign [Panels references](panels/reference-index.md).
+- Open when looking up PanningTypes in InDesign [PanningTypes](panning-types.md).
+- Open when looking up PanningTypes in InDesign [PanningTypes references](panning-types/reference-index.md).
+- Open when looking up ScreenModeOptions in InDesign [ScreenModeOptions](screen-mode-options.md).
+- Open when looking up ScreenModeOptions in InDesign [ScreenModeOptions references](screen-mode-options/reference-index.md).
+- Open when looking up SmoothScrollingOptions in InDesign [SmoothScrollingOptions](smooth-scrolling-options.md).
+- Open when looking up SmoothScrollingOptions in InDesign [SmoothScrollingOptions references](smooth-scrolling-options/reference-index.md).
+- Open when looking up StoryWindow in InDesign [StoryWindow](story-window.md).
+- Open when looking up StoryWindow in InDesign [StoryWindow references](story-window/reference-index.md).
+- Open when looking up StoryWindows in InDesign [StoryWindows](story-windows.md).
+- Open when looking up StoryWindows in InDesign [StoryWindows references](story-windows/reference-index.md).
+- Open when looking up Submenu in InDesign [Submenu references](submenu/reference-index.md).
+- Open when looking up Submenus in InDesign [Submenus](submenus.md).
+- Open when looking up Submenus in InDesign [Submenus references](submenus/reference-index.md).
+- Open when looking up ToolBox in InDesign [ToolBox](tool-box.md).
+- Open when looking up ToolBox in InDesign [ToolBox references](tool-box/reference-index.md).
+- Open when looking up ToolsPanelOptions in InDesign [ToolsPanelOptions](tools-panel-options.md).
+- Open when looking up ToolsPanelOptions in InDesign [ToolsPanelOptions references](tools-panel-options/reference-index.md).
+- Open when looking up ToolTipOptions in InDesign [ToolTipOptions](tool-tip-options.md).
+- Open when looking up ToolTipOptions in InDesign [ToolTipOptions references](tool-tip-options/reference-index.md).
+- Open when looking up TypeContextualUiPreference in InDesign [TypeContextualUiPreference](type-contextual-ui-preference.md).
+- Open when looking up TypeContextualUiPreference in InDesign [TypeContextualUiPreference references](type-contextual-ui-preference/reference-index.md).
+- Open when looking up UIColors in InDesign [UIColors](ui-colors.md).
+- Open when looking up UIColors in InDesign [UIColors references](ui-colors/reference-index.md).
+- Open when looking up UITools in InDesign [UITools](ui-tools.md).
+- Open when looking up UITools in InDesign [UITools references](ui-tools/reference-index.md).
+- Open when looking up View preference in InDesign [View preference references](view-preference/reference-index.md).
+- Open when looking up ViewDisplaySettings in InDesign [ViewDisplaySettings](view-display-settings.md).
+- Open when looking up ViewDisplaySettings in InDesign [ViewDisplaySettings references](view-display-settings/reference-index.md).
+- Open when looking up ViewZoomStyle in InDesign [ViewZoomStyle](view-zoom-style.md).
+- Open when looking up ViewZoomStyle in InDesign [ViewZoomStyle references](view-zoom-style/reference-index.md).
+- Open when looking up Window in InDesign [Window references](window/reference-index.md).
+- Open when looking up Windows in InDesign [Windows](windows.md).
+- Open when looking up Windows in InDesign [Windows references](windows/reference-index.md).
+- Open when looking up ZoomOptions in InDesign [ZoomOptions](zoom-options.md).
+- Open when looking up ZoomOptions in InDesign [ZoomOptions references](zoom-options/reference-index.md).
+
+[Context index](reference-index.md)

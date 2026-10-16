@@ -1,0 +1,22 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Layer declaration", "file": "references/community-types/photoshop/layer/declaration.md", "summary": "Open when looking up Layer declaration in Shared Adobe platform.", "keywords": ["Layer declaration"]},
+  {"topic": "Layer identity and parent", "file": "references/community-types/photoshop/layer/identity-and-parent.md", "summary": "Open when looking up Layer identity and parent in Shared Adobe platform.", "keywords": ["Layer identity and parent"]},
+  {"topic": "Layer object lifecycle", "file": "references/community-types/photoshop/layer/object-lifecycle.md", "summary": "Open when looking up Layer object lifecycle in Shared Adobe platform.", "keywords": ["Layer object lifecycle"]},
+  {"topic": "Layer.allLocked", "file": "references/community-types/photoshop/layer/all-locked.md", "summary": "Open when looking up Layer.allLocked in Shared Adobe platform.", "keywords": ["Layer.allLocked"]},
+  {"topic": "Layer.blendMode", "file": "references/community-types/photoshop/layer/blend-mode.md", "summary": "Open when looking up Layer.blendMode in Shared Adobe platform.", "keywords": ["Layer.blendMode"]},
+  {"topic": "Layer.bounds", "file": "references/community-types/photoshop/layer/bounds.md", "summary": "Open when looking up Layer.bounds in Shared Adobe platform.", "keywords": ["Layer.bounds"]},
+  {"topic": "Layer.boundsNoEffects", "file": "references/community-types/photoshop/layer/bounds-no-effects.md", "summary": "Open when looking up Layer.boundsNoEffects in Shared Adobe platform.", "keywords": ["Layer.boundsNoEffects"]},
+  {"topic": "Layer.itemIndex", "file": "references/community-types/photoshop/layer/item-index.md", "summary": "Open when looking up Layer.itemIndex in Shared Adobe platform.", "keywords": ["Layer.itemIndex"]},
+  {"topic": "Layer.link", "file": "references/community-types/photoshop/layer/link.md", "summary": "Open when looking up Layer.link in Shared Adobe platform.", "keywords": ["Layer.link"]},
+  {"topic": "Layer.linkedLayers", "file": "references/community-types/photoshop/layer/linked-layers.md", "summary": "Open when looking up Layer.linkedLayers in Shared Adobe platform.", "keywords": ["Layer.linkedLayers"]},
+  {"topic": "Layer.moveToEnd", "file": "references/community-types/photoshop/layer/move-to-end.md", "summary": "Open when looking up Layer.moveToEnd in Shared Adobe platform.", "keywords": ["Layer.moveToEnd"]},
+  {"topic": "Layer.opacity", "file": "references/community-types/photoshop/layer/opacity.md", "summary": "Open when looking up Layer.opacity in Shared Adobe platform.", "keywords": ["Layer.opacity"]},
+  {"topic": "Layer.removeAll", "file": "references/community-types/photoshop/layer/remove-all.md", "summary": "Open when looking up Layer.removeAll in Shared Adobe platform.", "keywords": ["Layer.removeAll"]},
+  {"topic": "Layer.resize", "file": "references/community-types/photoshop/layer/resize.md", "summary": "Open when looking up Layer.resize in Shared Adobe platform.", "keywords": ["Layer.resize"]},
+  {"topic": "Layer.rotate", "file": "references/community-types/photoshop/layer/rotate.md", "summary": "Open when looking up Layer.rotate in Shared Adobe platform.", "keywords": ["Layer.rotate"]},
+  {"topic": "Layer.translate", "file": "references/community-types/photoshop/layer/translate.md", "summary": "Open when looking up Layer.translate in Shared Adobe platform.", "keywords": ["Layer.translate"]},
+  {"topic": "Layer.unlink", "file": "references/community-types/photoshop/layer/unlink.md", "summary": "Open when looking up Layer.unlink in Shared Adobe platform.", "keywords": ["Layer.unlink"]},
+  {"topic": "Layer.visible", "file": "references/community-types/photoshop/layer/visible.md", "summary": "Open when looking up Layer.visible in Shared Adobe platform.", "keywords": ["Layer.visible"]},
+  {"topic": "Layer.xmpMetadata", "file": "references/community-types/photoshop/layer/xmp-metadata.md", "summary": "Open when looking up Layer.xmpMetadata in Shared Adobe platform.", "keywords": ["Layer.xmpMetadata"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

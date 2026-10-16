@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Defining entry points for direct access — Entry Points", "file": "references/scripting/entry-points/defining-entry-points-for-direct-access-entry-points.md", "summary": "Open when looking up Defining entry points for direct access — Entry Points in Shared Adobe platform.", "keywords": ["Defining entry points for direct access — Entry Points"]},
+  {"topic": "Defining entry points for indirect access — Entry Points", "file": "references/scripting/entry-points/defining-entry-points-for-indirect-access-entry-points.md", "summary": "Open when looking up Defining entry points for indirect access — Entry Points in Shared Adobe platform.", "keywords": ["Defining entry points for indirect access — Entry Points"]},
+  {"topic": "ESClientInterface()", "file": "references/scripting/entry-points/es-client-interface.md", "summary": "Open when looking up ESClientInterface() in Shared Adobe platform.", "keywords": ["ESClientInterface()"]},
+  {"topic": "ESFreeMem()", "file": "references/scripting/entry-points/es-free-mem.md", "summary": "Open when looking up ESFreeMem() in Shared Adobe platform.", "keywords": ["ESFreeMem()"]},
+  {"topic": "ESGetVersion()", "file": "references/scripting/entry-points/es-get-version.md", "summary": "Open when looking up ESGetVersion() in Shared Adobe platform.", "keywords": ["ESGetVersion()"]},
+  {"topic": "ESInitialize()", "file": "references/scripting/entry-points/es-initialize.md", "summary": "Open when looking up ESInitialize() in Shared Adobe platform.", "keywords": ["ESInitialize()"]},
+  {"topic": "ESMallocMem()", "file": "references/scripting/entry-points/es-malloc-mem.md", "summary": "Open when looking up ESMallocMem() in Shared Adobe platform.", "keywords": ["ESMallocMem()"]},
+  {"topic": "ESTerminate()", "file": "references/scripting/entry-points/es-terminate.md", "summary": "Open when looking up ESTerminate() in Shared Adobe platform.", "keywords": ["ESTerminate()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

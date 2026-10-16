@@ -1,0 +1,43 @@
+# Shared Adobe platform — Xml
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up XML object constructor in Shared Adobe platform. [XML object constructor](xml-object-constructor.md).
+- Open when looking up XML Object Reference — XML Object in Shared Adobe platform. [XML Object Reference — XML Object](xml-object-reference-xml-object.md).
+- Open when looking up XML.addNamespace() in Shared Adobe platform. [XML.addNamespace()](add-namespace.md).
+- Open when looking up XML.appendChild() in Shared Adobe platform. [XML.appendChild()](append-child.md).
+- Open when looking up XML.attributes() in Shared Adobe platform. [XML.attributes()](attributes.md).
+- Open when looking up XML.child() in Shared Adobe platform. [XML.child()](child.md).
+- Open when looking up XML.childIndex() in Shared Adobe platform. [XML.childIndex()](child-index.md).
+- Open when looking up XML.children() in Shared Adobe platform. [XML.children()](children.md).
+- Open when looking up XML.comments() in Shared Adobe platform. [XML.comments()](comments.md).
+- Open when looking up XML.contains() in Shared Adobe platform. [XML.contains()](contains.md).
+- Open when looking up XML.copy() in Shared Adobe platform. [XML.copy()](copy.md).
+- Open when looking up XML.defaultSettings() in Shared Adobe platform. [XML.defaultSettings()](default-settings.md).
+- Open when looking up XML.descendants() in Shared Adobe platform. [XML.descendants()](descendants.md).
+- Open when looking up XML.elements() in Shared Adobe platform. [XML.elements()](elements.md).
+- Open when looking up XML.hasComplexContent() in Shared Adobe platform. [XML.hasComplexContent()](has-complex-content.md).
+- Open when looking up XML.hasSimpleContent() in Shared Adobe platform. [XML.hasSimpleContent()](has-simple-content.md).
+- Open when looking up XML.inScopeNamespaces() in Shared Adobe platform. [XML.inScopeNamespaces()](in-scope-namespaces.md).
+- Open when looking up XML.insertChildAfter() in Shared Adobe platform. [XML.insertChildAfter()](insert-child-after.md).
+- Open when looking up XML.insertChildBefore() in Shared Adobe platform. [XML.insertChildBefore()](insert-child-before.md).
+- Open when looking up XML.length() in Shared Adobe platform. [XML.length()](length.md).
+- Open when looking up XML.localName() in Shared Adobe platform. [XML.localName()](local-name.md).
+- Open when looking up XML.name() in Shared Adobe platform. [XML.name()](name.md).
+- Open when looking up XML.namespace() in Shared Adobe platform. [XML.namespace()](namespace.md).
+- Open when looking up XML.namespaceDeclarations() in Shared Adobe platform. [XML.namespaceDeclarations()](namespace-declarations.md).
+- Open when looking up XML.nodeKind() in Shared Adobe platform. [XML.nodeKind()](node-kind.md).
+- Open when looking up XML.normalize() in Shared Adobe platform. [XML.normalize()](normalize.md).
+- Open when looking up XML.parent() in Shared Adobe platform. [XML.parent()](parent.md).
+- Open when looking up XML.prependChild() in Shared Adobe platform. [XML.prependChild()](prepend-child.md).
+- Open when looking up XML.processingInstructions() in Shared Adobe platform. [XML.processingInstructions()](processing-instructions.md).
+- Open when looking up XML.replace() in Shared Adobe platform. [XML.replace()](replace.md).
+- Open when looking up XML.setChildren() in Shared Adobe platform. [XML.setChildren()](set-children.md).
+- Open when looking up XML.setLocalName() in Shared Adobe platform. [XML.setLocalName()](set-local-name.md).
+- Open when looking up XML.setName() in Shared Adobe platform. [XML.setName()](set-name.md).
+- Open when looking up XML.setNamespace() in Shared Adobe platform. [XML.setNamespace()](set-namespace.md).
+- Open when looking up XML.setSettings() in Shared Adobe platform. [XML.setSettings()](set-settings.md).
+- Open when looking up XML.settings() in Shared Adobe platform. [XML.settings()](settings.md).
+- Open when looking up XML.text() in Shared Adobe platform. [XML.text()](text.md).
+- Open when looking up XML.toString() in Shared Adobe platform. [XML.toString()](to-string.md).
+- Open when looking up XML.toXMLString() in Shared Adobe platform. [XML.toXMLString()](to-xml-string.md).
+- Open when looking up XML.xpath() in Shared Adobe platform. [XML.xpath()](xpath.md).

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "isAEInstalled", "file": "references/uxp/host-api/utils/static-methods/is-ae-installed.md", "summary": "Open when looking up isAEInstalled in Premiere Pro.", "keywords": ["isAEInstalled"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Create Nulls for Positional Properties and Paths", "file": "references/desktop/drawing-and-paths/null-controllers/create-nulls-for-positional-properties-and-paths.md", "summary": "Open when looking up Create Nulls for Positional Properties and Paths in After Effects.", "keywords": ["Create Nulls for Positional Properties and Paths"]},
+  {"topic": "Create Nulls for Positional Properties and Paths references", "file": "references/desktop/drawing-and-paths/null-controllers/positional-and-path-nulls/reference-index.md", "summary": "Open when looking up Create Nulls for Positional Properties and Paths in After Effects.", "keywords": ["Create Nulls for Positional Properties and Paths references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

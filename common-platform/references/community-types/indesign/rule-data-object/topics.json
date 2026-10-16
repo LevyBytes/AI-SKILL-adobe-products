@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "RuleDataObject declaration", "file": "references/community-types/indesign/rule-data-object/declaration.md", "summary": "Open when looking up RuleDataObject declaration in Shared Adobe platform.", "keywords": ["RuleDataObject declaration"]},
+  {"topic": "RuleDataObject event listeners", "file": "references/community-types/indesign/rule-data-object/event-listeners.md", "summary": "Open when looking up RuleDataObject event listeners in Shared Adobe platform.", "keywords": ["RuleDataObject event listeners"]},
+  {"topic": "RuleDataObject identity and parent", "file": "references/community-types/indesign/rule-data-object/identity-and-parent.md", "summary": "Open when looking up RuleDataObject identity and parent in Shared Adobe platform.", "keywords": ["RuleDataObject identity and parent"]},
+  {"topic": "RuleDataObject object resolution", "file": "references/community-types/indesign/rule-data-object/object-resolution.md", "summary": "Open when looking up RuleDataObject object resolution in Shared Adobe platform.", "keywords": ["RuleDataObject object resolution"]},
+  {"topic": "RuleDataObject.dataType", "file": "references/community-types/indesign/rule-data-object/data-type.md", "summary": "Open when looking up RuleDataObject.dataType in Shared Adobe platform.", "keywords": ["RuleDataObject.dataType"]},
+  {"topic": "RuleDataObject.dataValue", "file": "references/community-types/indesign/rule-data-object/data-value.md", "summary": "Open when looking up RuleDataObject.dataValue in Shared Adobe platform.", "keywords": ["RuleDataObject.dataValue"]},
+  {"topic": "RuleDataObject.properties", "file": "references/community-types/indesign/rule-data-object/properties.md", "summary": "Open when looking up RuleDataObject.properties in Shared Adobe platform.", "keywords": ["RuleDataObject.properties"]},
+  {"topic": "RuleDataObject.remove", "file": "references/community-types/indesign/rule-data-object/remove.md", "summary": "Open when looking up RuleDataObject.remove in Shared Adobe platform.", "keywords": ["RuleDataObject.remove"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

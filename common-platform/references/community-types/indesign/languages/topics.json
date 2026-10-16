@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Languages collection iteration", "file": "references/community-types/indesign/languages/collection-iteration.md", "summary": "Open when looking up Languages collection iteration in Shared Adobe platform.", "keywords": ["Languages collection iteration"]},
+  {"topic": "Languages declaration", "file": "references/community-types/indesign/languages/declaration.md", "summary": "Open when looking up Languages declaration in Shared Adobe platform.", "keywords": ["Languages declaration"]},
+  {"topic": "Languages named and indexed items", "file": "references/community-types/indesign/languages/named-and-indexed-items.md", "summary": "Open when looking up Languages named and indexed items in Shared Adobe platform.", "keywords": ["Languages named and indexed items"]},
+  {"topic": "Languages.count", "file": "references/community-types/indesign/languages/count.md", "summary": "Open when looking up Languages.count in Shared Adobe platform.", "keywords": ["Languages.count"]},
+  {"topic": "Languages.IndexSignature", "file": "references/community-types/indesign/languages/index-signature.md", "summary": "Open when looking up Languages.IndexSignature in Shared Adobe platform.", "keywords": ["Languages.IndexSignature"]},
+  {"topic": "Languages.itemByRange", "file": "references/community-types/indesign/languages/item-by-range.md", "summary": "Open when looking up Languages.itemByRange in Shared Adobe platform.", "keywords": ["Languages.itemByRange"]},
+  {"topic": "Languages.length", "file": "references/community-types/indesign/languages/length.md", "summary": "Open when looking up Languages.length in Shared Adobe platform.", "keywords": ["Languages.length"]},
+  {"topic": "Languages.toSource", "file": "references/community-types/indesign/languages/to-source.md", "summary": "Open when looking up Languages.toSource in Shared Adobe platform.", "keywords": ["Languages.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

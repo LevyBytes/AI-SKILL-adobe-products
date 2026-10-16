@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "LegacyTextItems.convertToNative()", "file": "references/scripting/legacy-text-items/convert-to-native.md", "summary": "Open when looking up LegacyTextItems.convertToNative() in Illustrator.", "keywords": ["LegacyTextItems.convertToNative()"]},
+  {"topic": "LegacyTextItems.getByName()", "file": "references/scripting/legacy-text-items/get-by-name.md", "summary": "Open when looking up LegacyTextItems.getByName() in Illustrator.", "keywords": ["LegacyTextItems.getByName()"]},
+  {"topic": "LegacyTextItems.index()", "file": "references/scripting/legacy-text-items/index.md", "summary": "Open when looking up LegacyTextItems.index() in Illustrator.", "keywords": ["LegacyTextItems.index()"]},
+  {"topic": "LegacyTextItems.length", "file": "references/scripting/legacy-text-items/length.md", "summary": "Open when looking up LegacyTextItems.length in Illustrator.", "keywords": ["LegacyTextItems.length"]},
+  {"topic": "LegacyTextItems.parent", "file": "references/scripting/legacy-text-items/parent.md", "summary": "Open when looking up LegacyTextItems.parent in Illustrator.", "keywords": ["LegacyTextItems.parent"]},
+  {"topic": "LegacyTextItems.removeAll()", "file": "references/scripting/legacy-text-items/remove-all.md", "summary": "Open when looking up LegacyTextItems.removeAll() in Illustrator.", "keywords": ["LegacyTextItems.removeAll()"]},
+  {"topic": "LegacyTextItems.typename", "file": "references/scripting/legacy-text-items/typename.md", "summary": "Open when looking up LegacyTextItems.typename in Illustrator.", "keywords": ["LegacyTextItems.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

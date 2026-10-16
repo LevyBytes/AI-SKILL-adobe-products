@@ -1,0 +1,34 @@
+# Universe transitions
+
+  - Warp
+  - Glitch Transition
+  - Retrograde Transition
+  - VHS Transition
+  - Carousel Transition
+  - Channel Surf
+  - Flicker Cut
+  - Color Mosaic
+  - Shape Wipe
+  - Linear Wipe
+  - Clock Wipe
+  - Channel Blur
+  - Camer Shake Transition
+  - HalfLight
+  - Exposure Blur Transition
+  - Knoll Light Transition
+  - Film Transition
+  - Swish Pan
+  - Spectralicious Transition
+  - Turbulence Transition
+  - Diamond Wave
+  - Blinds
+  - Color Stripe
+  - Cube
+  - Unfold
+  - Soft Edge Wipe
+  - Inside Cube
+  - Triangle Wave
+  - Rubix Cube
+  - Dolly Fade
+  - Fold
+  - Slide

@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application references", "file": "references/community-types/indesign/application/reference-index.md", "summary": "Open when looking up Application in Shared Adobe platform.", "keywords": ["Application references"]},
+  {"topic": "AttachedDevices", "file": "references/community-types/indesign/attached-devices.md", "summary": "Open when looking up AttachedDevices in Shared Adobe platform.", "keywords": ["AttachedDevices"]},
+  {"topic": "FeatureSetOptions", "file": "references/community-types/indesign/feature-set-options.md", "summary": "Open when looking up FeatureSetOptions in Shared Adobe platform.", "keywords": ["FeatureSetOptions"]},
+  {"topic": "GeneralPreference references", "file": "references/community-types/indesign/general-preference/reference-index.md", "summary": "Open when looking up GeneralPreference in Shared Adobe platform.", "keywords": ["GeneralPreference references"]},
+  {"topic": "Locale references", "file": "references/community-types/indesign/locale/reference-index.md", "summary": "Open when looking up Locale in Shared Adobe platform.", "keywords": ["Locale references"]},
+  {"topic": "Preference", "file": "references/community-types/indesign/preference.md", "summary": "Open when looking up Preference in Shared Adobe platform.", "keywords": ["Preference"]},
+  {"topic": "Preferences", "file": "references/community-types/indesign/preferences.md", "summary": "Open when looking up Preferences in Shared Adobe platform.", "keywords": ["Preferences"]},
+  {"topic": "UserDictionaries", "file": "references/community-types/indesign/user-dictionaries.md", "summary": "Open when looking up UserDictionaries in Shared Adobe platform.", "keywords": ["UserDictionaries"]},
+  {"topic": "UserDictionary references", "file": "references/community-types/indesign/user-dictionary/reference-index.md", "summary": "Open when looking up UserDictionary in Shared Adobe platform.", "keywords": ["UserDictionary references"]},
+  {"topic": "UserInteractionLevels", "file": "references/community-types/indesign/user-interaction-levels.md", "summary": "Open when looking up UserInteractionLevels in Shared Adobe platform.", "keywords": ["UserInteractionLevels"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

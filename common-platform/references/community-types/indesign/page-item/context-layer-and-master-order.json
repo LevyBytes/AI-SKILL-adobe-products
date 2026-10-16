@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PageItem.allowOverrides", "file": "references/community-types/indesign/page-item/allow-overrides.md", "summary": "Open when looking up PageItem.allowOverrides in Shared Adobe platform.", "keywords": ["PageItem.allowOverrides"]},
+  {"topic": "PageItem.detach", "file": "references/community-types/indesign/page-item/detach.md", "summary": "Open when looking up PageItem.detach in Shared Adobe platform.", "keywords": ["PageItem.detach"]},
+  {"topic": "PageItem.itemLayer", "file": "references/community-types/indesign/page-item/item-layer.md", "summary": "Open when looking up PageItem.itemLayer in Shared Adobe platform.", "keywords": ["PageItem.itemLayer"]},
+  {"topic": "PageItem.locked", "file": "references/community-types/indesign/page-item/locked.md", "summary": "Open when looking up PageItem.locked in Shared Adobe platform.", "keywords": ["PageItem.locked"]},
+  {"topic": "PageItem.nonprinting", "file": "references/community-types/indesign/page-item/nonprinting.md", "summary": "Open when looking up PageItem.nonprinting in Shared Adobe platform.", "keywords": ["PageItem.nonprinting"]},
+  {"topic": "PageItem.overridden", "file": "references/community-types/indesign/page-item/overridden.md", "summary": "Open when looking up PageItem.overridden in Shared Adobe platform.", "keywords": ["PageItem.overridden"]},
+  {"topic": "PageItem.overriddenMasterPageItem", "file": "references/community-types/indesign/page-item/overridden-master-page-item.md", "summary": "Open when looking up PageItem.overriddenMasterPageItem in Shared Adobe platform.", "keywords": ["PageItem.overriddenMasterPageItem"]},
+  {"topic": "PageItem.override", "file": "references/community-types/indesign/page-item/override.md", "summary": "Open when looking up PageItem.override in Shared Adobe platform.", "keywords": ["PageItem.override"]},
+  {"topic": "PageItem.parentPage", "file": "references/community-types/indesign/page-item/parent-page.md", "summary": "Open when looking up PageItem.parentPage in Shared Adobe platform.", "keywords": ["PageItem.parentPage"]},
+  {"topic": "PageItem.removeOverride", "file": "references/community-types/indesign/page-item/remove-override.md", "summary": "Open when looking up PageItem.removeOverride in Shared Adobe platform.", "keywords": ["PageItem.removeOverride"]},
+  {"topic": "PageItem.select", "file": "references/community-types/indesign/page-item/select.md", "summary": "Open when looking up PageItem.select in Shared Adobe platform.", "keywords": ["PageItem.select"]},
+  {"topic": "PageItem.visible", "file": "references/community-types/indesign/page-item/visible.md", "summary": "Open when looking up PageItem.visible in Shared Adobe platform.", "keywords": ["PageItem.visible"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

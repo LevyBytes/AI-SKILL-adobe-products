@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Factors affecting file size", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/file-size/factors-affecting-file-size.md", "summary": "Open when looking up Factors affecting file size in Photoshop.", "keywords": ["Factors affecting file size"]},
+  {"topic": "Photoshop limitations", "file": "references/desktop/image-transforms/resize-and-adjust-resolution/file-size/photoshop-limitations.md", "summary": "Open when looking up Photoshop limitations in Photoshop.", "keywords": ["Photoshop limitations"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

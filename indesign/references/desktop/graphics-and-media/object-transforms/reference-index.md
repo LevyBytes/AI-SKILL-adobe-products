@@ -1,0 +1,22 @@
+# InDesign — Transform and arrange objects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About anchored objects in InDesign. [About anchored objects](about-anchored-objects.md).
+- Open when looking up About anchored objects in InDesign. [About anchored objects references](about-anchored-objects/reference-index.md).
+- Open when looking up Align or distribute objects in InDesign. [Align or distribute objects](align-or-distribute-objects.md).
+- Open when looking up Align or distribute objects in InDesign. [Align or distribute objects references](align-or-distribute-objects/reference-index.md).
+- Open when looking up Create and position anchored objects in InDesign. [Create and position anchored objects](create-and-position-anchored-objects.md).
+- Open when looking up Create and position anchored objects in InDesign. [Create and position anchored objects references](create-and-position-anchored-objects/reference-index.md).
+- Open when looking up Create hidden and nonprinting objects in InDesign. [Create hidden and nonprinting objects](create-hidden-and-nonprinting-objects.md).
+- Open when looking up Create hidden and nonprinting objects in InDesign. [Create hidden and nonprinting objects references](create-hidden-and-nonprinting-objects/reference-index.md).
+- Open when looking up Group and lock objects in InDesign. [Group and lock objects](group-and-lock-objects.md).
+- Open when looking up Group and lock objects in InDesign. [Group and lock objects references](group-and-lock-objects/reference-index.md).
+- Open when looking up Manage and update anchored objects in InDesign. [Manage and update anchored objects](manage-and-update-anchored-objects.md).
+- Open when looking up Manage and update anchored objects in InDesign. [Manage and update anchored objects references](manage-and-update-anchored-objects/reference-index.md).
+- Open when looking up Move, scale, rotate, shear, and flip objects in InDesign. [Move, scale, rotate, shear, and flip objects](move-scale-rotate-shear-and-flip-objects.md).
+- Open when looking up Move, scale, rotate, shear, and flip objects in InDesign. [Move, scale, rotate, shear, and flip objects references](move-scale-rotate-shear-and-flip-objects/reference-index.md).
+- Open when looking up Object transformation settings and options in InDesign. [Object transformation settings and options](object-transformation-settings-and-options.md).
+- Open when looking up Object transformation settings and options in InDesign. [Object transformation settings and options references](transform-settings/reference-index.md).
+- Open when looking up Transform anchored objects in InDesign. [Transform anchored objects](transform-anchored-objects.md).
+- Open when looking up Transform multiple objects and repeat transformations in InDesign. [Transform multiple objects and repeat transformations](transform-multiple-objects-and-repeat-transformations.md).
+- Open when looking up Transform multiple objects and repeat transformations in InDesign. [Transform multiple objects and repeat transformations references](multiple-and-repeated-transforms/reference-index.md).

@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "get", "file": "references/scripting/markers/get.md", "summary": "Open when looking up get in Acrobat.", "keywords": ["get"]},
+  {"topic": "Markers methods", "file": "references/scripting/markers/markers-methods.md", "summary": "Open when looking up Markers methods in Acrobat.", "keywords": ["Markers methods"]},
+  {"topic": "Media and Marker APIs — Markers", "file": "references/scripting/markers/media-and-marker-apis-markers.md", "summary": "Open when looking up Media and Marker APIs — Markers in Acrobat.", "keywords": ["Media and Marker APIs — Markers"]},
+  {"topic": "player", "file": "references/scripting/markers/player.md", "summary": "Open when looking up player in Acrobat.", "keywords": ["player"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

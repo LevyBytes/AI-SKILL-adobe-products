@@ -1,0 +1,23 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "app", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/app.md", "summary": "Open when looking up app in Acrobat.", "keywords": ["app"]},
+  {"topic": "app.media", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/app-media.md", "summary": "Open when looking up app.media in Acrobat.", "keywords": ["app.media"]},
+  {"topic": "Doc", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/doc.md", "summary": "Open when looking up Doc in Acrobat.", "keywords": ["Doc"]},
+  {"topic": "Doc.media", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/doc-media.md", "summary": "Open when looking up Doc.media in Acrobat.", "keywords": ["Doc.media"]},
+  {"topic": "event", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/event.md", "summary": "Open when looking up event in Acrobat.", "keywords": ["event"]},
+  {"topic": "EventListener", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/event-listener.md", "summary": "Open when looking up EventListener in Acrobat.", "keywords": ["EventListener"]},
+  {"topic": "Events", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/events.md", "summary": "Open when looking up Events in Acrobat.", "keywords": ["Events"]},
+  {"topic": "Marker", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/marker.md", "summary": "Open when looking up Marker in Acrobat.", "keywords": ["Marker"]},
+  {"topic": "Markers", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/markers.md", "summary": "Open when looking up Markers in Acrobat.", "keywords": ["Markers"]},
+  {"topic": "MediaOffset", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/media-offset.md", "summary": "Open when looking up MediaOffset in Acrobat.", "keywords": ["MediaOffset"]},
+  {"topic": "MediaPlayer", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/media-player.md", "summary": "Open when looking up MediaPlayer in Acrobat.", "keywords": ["MediaPlayer"]},
+  {"topic": "MediaReject", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/media-reject.md", "summary": "Open when looking up MediaReject in Acrobat.", "keywords": ["MediaReject"]},
+  {"topic": "MediaSelection", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/media-selection.md", "summary": "Open when looking up MediaSelection in Acrobat.", "keywords": ["MediaSelection"]},
+  {"topic": "MediaSettings", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/media-settings.md", "summary": "Open when looking up MediaSettings in Acrobat.", "keywords": ["MediaSettings"]},
+  {"topic": "Monitor", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/monitor.md", "summary": "Open when looking up Monitor in Acrobat.", "keywords": ["Monitor"]},
+  {"topic": "Monitors", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/monitors.md", "summary": "Open when looking up Monitors in Acrobat.", "keywords": ["Monitors"]},
+  {"topic": "PlayerInfo", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/player-info.md", "summary": "Open when looking up PlayerInfo in Acrobat.", "keywords": ["PlayerInfo"]},
+  {"topic": "PlayerInfoList", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/player-info-list.md", "summary": "Open when looking up PlayerInfoList in Acrobat.", "keywords": ["PlayerInfoList"]},
+  {"topic": "Rendition", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/rendition.md", "summary": "Open when looking up Rendition in Acrobat.", "keywords": ["Rendition"]},
+  {"topic": "ScreenAnnot", "file": "references/scripting/release-history/introduced-in-acrobat-6-0-2/screen-annot.md", "summary": "Open when looking up ScreenAnnot in Acrobat.", "keywords": ["ScreenAnnot"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

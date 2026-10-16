@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Good Fits for Panels", "file": "references/uxp/panels/good-fits-for-panels.md", "summary": "Open when looking up Good Fits for Panels in Premiere Pro.", "keywords": ["Good Fits for Panels"]},
+  {"topic": "Panel Traits", "file": "references/uxp/panels/panel-traits.md", "summary": "Open when looking up Panel Traits in Premiere Pro.", "keywords": ["Panel Traits"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

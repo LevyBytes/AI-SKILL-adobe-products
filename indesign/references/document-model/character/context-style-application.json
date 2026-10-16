@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "appliedCharacterStyle", "file": "references/document-model/character/applied-character-style.md", "summary": "Open when looking up appliedCharacterStyle in InDesign.", "keywords": ["appliedCharacterStyle"]},
+  {"topic": "appliedNestedStyles", "file": "references/document-model/character/applied-nested-styles.md", "summary": "Open when looking up appliedNestedStyles in InDesign.", "keywords": ["appliedNestedStyles"]},
+  {"topic": "appliedParagraphStyle", "file": "references/document-model/character/applied-paragraph-style.md", "summary": "Open when looking up appliedParagraphStyle in InDesign.", "keywords": ["appliedParagraphStyle"]},
+  {"topic": "applyCharacterStyle", "file": "references/document-model/character/apply-character-style.md", "summary": "Open when looking up applyCharacterStyle in InDesign.", "keywords": ["applyCharacterStyle"]},
+  {"topic": "applyParagraphStyle", "file": "references/document-model/character/apply-paragraph-style.md", "summary": "Open when looking up applyParagraphStyle in InDesign.", "keywords": ["applyParagraphStyle"]},
+  {"topic": "createStyleThumbnailWithProperties", "file": "references/document-model/character/create-style-thumbnail-with-properties.md", "summary": "Open when looking up createStyleThumbnailWithProperties in InDesign.", "keywords": ["createStyleThumbnailWithProperties"]},
+  {"topic": "createThumbnailWithProperties", "file": "references/document-model/character/create-thumbnail-with-properties.md", "summary": "Open when looking up createThumbnailWithProperties in InDesign.", "keywords": ["createThumbnailWithProperties"]},
+  {"topic": "nestedGrepStyles", "file": "references/document-model/character/nested-grep-styles.md", "summary": "Open when looking up nestedGrepStyles in InDesign.", "keywords": ["nestedGrepStyles"]},
+  {"topic": "nestedLineStyles", "file": "references/document-model/character/nested-line-styles.md", "summary": "Open when looking up nestedLineStyles in InDesign.", "keywords": ["nestedLineStyles"]},
+  {"topic": "nestedStyles", "file": "references/document-model/character/nested-styles.md", "summary": "Open when looking up nestedStyles in InDesign.", "keywords": ["nestedStyles"]},
+  {"topic": "styleOverridden", "file": "references/document-model/character/style-overridden.md", "summary": "Open when looking up styleOverridden in InDesign.", "keywords": ["styleOverridden"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

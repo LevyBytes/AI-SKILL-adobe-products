@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Document declaration", "file": "references/community-types/animate/document/declaration.md", "summary": "Open when looking up Document declaration in Shared Adobe platform.", "keywords": ["Document declaration"]},
+  {"topic": "Document identity and parent", "file": "references/community-types/animate/document/identity-and-parent.md", "summary": "Open when looking up Document identity and parent in Shared Adobe platform.", "keywords": ["Document identity and parent"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

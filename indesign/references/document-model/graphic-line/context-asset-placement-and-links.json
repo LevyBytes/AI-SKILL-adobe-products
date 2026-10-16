@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "contentPlace", "file": "references/document-model/graphic-line/content-place.md", "summary": "Open when looking up contentPlace in InDesign.", "keywords": ["contentPlace"]},
+  {"topic": "linkedPageItemOptions", "file": "references/document-model/graphic-line/linked-page-item-options.md", "summary": "Open when looking up linkedPageItemOptions in InDesign.", "keywords": ["linkedPageItemOptions"]},
+  {"topic": "place", "file": "references/document-model/graphic-line/place.md", "summary": "Open when looking up place in InDesign.", "keywords": ["place"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": ".NET", "file": "references/document-generation/how-it-works/net.md", "summary": "Open when looking up .NET in Acrobat.", "keywords": [".NET"]},
+  {"topic": "1. Author your Word-based document templates", "file": "references/document-generation/how-it-works/author-your-word-based-document-templates.md", "summary": "Open when looking up 1. Author your Word-based document templates in Acrobat.", "keywords": ["1. Author your Word-based document templates"]},
+  {"topic": "2. Prepare your JSON data", "file": "references/document-generation/how-it-works/prepare-your-json-data.md", "summary": "Open when looking up 2. Prepare your JSON data in Acrobat.", "keywords": ["2. Prepare your JSON data"]},
+  {"topic": "3. Generate PDF and Word documents using Document Generation API", "file": "references/document-generation/how-it-works/generate-pdf-and-word-documents-using-document-generation-api.md", "summary": "Open when looking up 3. Generate PDF and Word documents using Document Generation API in Acrobat.", "keywords": ["3. Generate PDF and Word documents using Document Generation API"]},
+  {"topic": "Generate PDF or Word document", "file": "references/document-generation/how-it-works/generate-pdf-or-word-document.md", "summary": "Open when looking up Generate PDF or Word document in Acrobat.", "keywords": ["Generate PDF or Word document"]},
+  {"topic": "Java", "file": "references/document-generation/how-it-works/java.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java"]},
+  {"topic": "Node JS", "file": "references/document-generation/how-it-works/node-js.md", "summary": "Open when looking up Node JS in Acrobat.", "keywords": ["Node JS"]},
+  {"topic": "Python", "file": "references/document-generation/how-it-works/python.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

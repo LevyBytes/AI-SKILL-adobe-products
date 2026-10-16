@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Bookmarks collection iteration", "file": "references/community-types/indesign/bookmarks/collection-iteration.md", "summary": "Open when looking up Bookmarks collection iteration in Shared Adobe platform.", "keywords": ["Bookmarks collection iteration"]},
+  {"topic": "Bookmarks declaration", "file": "references/community-types/indesign/bookmarks/declaration.md", "summary": "Open when looking up Bookmarks declaration in Shared Adobe platform.", "keywords": ["Bookmarks declaration"]},
+  {"topic": "Bookmarks named and indexed items", "file": "references/community-types/indesign/bookmarks/named-and-indexed-items.md", "summary": "Open when looking up Bookmarks named and indexed items in Shared Adobe platform.", "keywords": ["Bookmarks named and indexed items"]},
+  {"topic": "Bookmarks.add", "file": "references/community-types/indesign/bookmarks/add.md", "summary": "Open when looking up Bookmarks.add in Shared Adobe platform.", "keywords": ["Bookmarks.add"]},
+  {"topic": "Bookmarks.count", "file": "references/community-types/indesign/bookmarks/count.md", "summary": "Open when looking up Bookmarks.count in Shared Adobe platform.", "keywords": ["Bookmarks.count"]},
+  {"topic": "Bookmarks.IndexSignature", "file": "references/community-types/indesign/bookmarks/index-signature.md", "summary": "Open when looking up Bookmarks.IndexSignature in Shared Adobe platform.", "keywords": ["Bookmarks.IndexSignature"]},
+  {"topic": "Bookmarks.itemByRange", "file": "references/community-types/indesign/bookmarks/item-by-range.md", "summary": "Open when looking up Bookmarks.itemByRange in Shared Adobe platform.", "keywords": ["Bookmarks.itemByRange"]},
+  {"topic": "Bookmarks.length", "file": "references/community-types/indesign/bookmarks/length.md", "summary": "Open when looking up Bookmarks.length in Shared Adobe platform.", "keywords": ["Bookmarks.length"]},
+  {"topic": "Bookmarks.toSource", "file": "references/community-types/indesign/bookmarks/to-source.md", "summary": "Open when looking up Bookmarks.toSource in Shared Adobe platform.", "keywords": ["Bookmarks.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

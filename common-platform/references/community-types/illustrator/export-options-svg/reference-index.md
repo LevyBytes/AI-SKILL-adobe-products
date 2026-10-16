@@ -1,0 +1,22 @@
+# Shared Adobe platform — ExportOptionsSVG
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ExportOptionsSVG declaration in Shared Adobe platform. [ExportOptionsSVG declaration](declaration.md).
+- Open when looking up ExportOptionsSVG.artboardRange in Shared Adobe platform. [ExportOptionsSVG.artboardRange](artboard-range.md).
+- Open when looking up ExportOptionsSVG.compressed in Shared Adobe platform. [ExportOptionsSVG.compressed](compressed.md).
+- Open when looking up ExportOptionsSVG.coordinatePrecision in Shared Adobe platform. [ExportOptionsSVG.coordinatePrecision](coordinate-precision.md).
+- Open when looking up ExportOptionsSVG.cssProperties in Shared Adobe platform. [ExportOptionsSVG.cssProperties](css-properties.md).
+- Open when looking up ExportOptionsSVG.documentEncoding in Shared Adobe platform. [ExportOptionsSVG.documentEncoding](document-encoding.md).
+- Open when looking up ExportOptionsSVG.DTD in Shared Adobe platform. [ExportOptionsSVG.DTD](dtd.md).
+- Open when looking up ExportOptionsSVG.embedRasterImages in Shared Adobe platform. [ExportOptionsSVG.embedRasterImages](embed-raster-images.md).
+- Open when looking up ExportOptionsSVG.fontSubsetting in Shared Adobe platform. [ExportOptionsSVG.fontSubsetting](font-subsetting.md).
+- Open when looking up ExportOptionsSVG.fontType in Shared Adobe platform. [ExportOptionsSVG.fontType](font-type.md).
+- Open when looking up ExportOptionsSVG.includeFileInfo in Shared Adobe platform. [ExportOptionsSVG.includeFileInfo](include-file-info.md).
+- Open when looking up ExportOptionsSVG.includeUnusedStyles in Shared Adobe platform. [ExportOptionsSVG.includeUnusedStyles](include-unused-styles.md).
+- Open when looking up ExportOptionsSVG.includeVariablesAndDatasets in Shared Adobe platform. [ExportOptionsSVG.includeVariablesAndDatasets](include-variables-and-datasets.md).
+- Open when looking up ExportOptionsSVG.optimizeForSVGViewer in Shared Adobe platform. [ExportOptionsSVG.optimizeForSVGViewer](optimize-for-svg-viewer.md).
+- Open when looking up ExportOptionsSVG.preserveEditability in Shared Adobe platform. [ExportOptionsSVG.preserveEditability](preserve-editability.md).
+- Open when looking up ExportOptionsSVG.saveMultipleArtboards in Shared Adobe platform. [ExportOptionsSVG.saveMultipleArtboards](save-multiple-artboards.md).
+- Open when looking up ExportOptionsSVG.slices in Shared Adobe platform. [ExportOptionsSVG.slices](slices.md).
+- Open when looking up ExportOptionsSVG.sVGAutoKerning in Shared Adobe platform. [ExportOptionsSVG.sVGAutoKerning](s-vg-auto-kerning.md).
+- Open when looking up ExportOptionsSVG.sVGTextOnPath in Shared Adobe platform. [ExportOptionsSVG.sVGTextOnPath](s-vg-text-on-path.md).

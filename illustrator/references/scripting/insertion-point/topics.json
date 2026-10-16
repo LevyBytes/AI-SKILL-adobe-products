@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "InsertionPoint.characters", "file": "references/scripting/insertion-point/characters.md", "summary": "Open when looking up InsertionPoint.characters in Illustrator.", "keywords": ["InsertionPoint.characters"]},
+  {"topic": "InsertionPoint.lines", "file": "references/scripting/insertion-point/lines.md", "summary": "Open when looking up InsertionPoint.lines in Illustrator.", "keywords": ["InsertionPoint.lines"]},
+  {"topic": "InsertionPoint.paragraphs", "file": "references/scripting/insertion-point/paragraphs.md", "summary": "Open when looking up InsertionPoint.paragraphs in Illustrator.", "keywords": ["InsertionPoint.paragraphs"]},
+  {"topic": "InsertionPoint.parent", "file": "references/scripting/insertion-point/parent.md", "summary": "Open when looking up InsertionPoint.parent in Illustrator.", "keywords": ["InsertionPoint.parent"]},
+  {"topic": "InsertionPoint.story", "file": "references/scripting/insertion-point/story.md", "summary": "Open when looking up InsertionPoint.story in Illustrator.", "keywords": ["InsertionPoint.story"]},
+  {"topic": "InsertionPoint.textRanges", "file": "references/scripting/insertion-point/text-ranges.md", "summary": "Open when looking up InsertionPoint.textRanges in Illustrator.", "keywords": ["InsertionPoint.textRanges"]},
+  {"topic": "InsertionPoint.typename", "file": "references/scripting/insertion-point/typename.md", "summary": "Open when looking up InsertionPoint.typename in Illustrator.", "keywords": ["InsertionPoint.typename"]},
+  {"topic": "InsertionPoint.words", "file": "references/scripting/insertion-point/words.md", "summary": "Open when looking up InsertionPoint.words in Illustrator.", "keywords": ["InsertionPoint.words"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

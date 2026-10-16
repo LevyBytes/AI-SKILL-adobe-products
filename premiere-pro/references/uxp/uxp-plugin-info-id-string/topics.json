@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "UxpPluginInfo — isFirstParty()", "file": "references/uxp/uxp-plugin-info-id-string/uxp-plugin-info-is-first-party.md", "summary": "Open when looking up UxpPluginInfo — isFirstParty() in Premiere Pro.", "keywords": ["UxpPluginInfo — isFirstParty()"]},
+  {"topic": "UxpPluginInfo — manifest ⇒ JSON", "file": "references/uxp/uxp-plugin-info-id-string/uxp-plugin-info-manifest-json.md", "summary": "Open when looking up UxpPluginInfo — manifest ⇒ JSON in Premiere Pro.", "keywords": ["UxpPluginInfo — manifest ⇒ JSON"]},
+  {"topic": "UxpPluginInfo — name ⇒ String", "file": "references/uxp/uxp-plugin-info-id-string/uxp-plugin-info-name-string.md", "summary": "Open when looking up UxpPluginInfo — name ⇒ String in Premiere Pro.", "keywords": ["UxpPluginInfo — name ⇒ String"]},
+  {"topic": "UxpPluginInfo — version ⇒ String", "file": "references/uxp/uxp-plugin-info-id-string/uxp-plugin-info-version-string.md", "summary": "Open when looking up UxpPluginInfo — version ⇒ String in Premiere Pro.", "keywords": ["UxpPluginInfo — version ⇒ String"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,27 @@
+# InDesign — Galley preference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up antiAliasType in InDesign. [antiAliasType](anti-alias-type.md).
+- Open when looking up backgroundColor in InDesign. [backgroundColor](background-color.md).
+- Open when looking up blinkCursor in InDesign. [blinkCursor](blink-cursor.md).
+- Open when looking up cursorType in InDesign. [cursorType](cursor-type.md).
+- Open when looking up displayFont in InDesign. [displayFont](display-font.md).
+- Open when looking up displayFontSize in InDesign. [displayFontSize](display-font-size.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up infoColumnWidth in InDesign. [infoColumnWidth](info-column-width.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up lineSpacingValue in InDesign. [lineSpacingValue](line-spacing-value.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up showDepthRuler in InDesign. [showDepthRuler](show-depth-ruler.md).
+- Open when looking up showInfoColumn in InDesign. [showInfoColumn](show-info-column.md).
+- Open when looking up showParagraphBreakMarks in InDesign. [showParagraphBreakMarks](show-paragraph-break-marks.md).
+- Open when looking up showParagraphStyleNames in InDesign. [showParagraphStyleNames](show-paragraph-style-names.md).
+- Open when looking up smoothText in InDesign. [smoothText](smooth-text.md).
+- Open when looking up textColor in InDesign. [textColor](text-color.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "JavaScript APIs — RDN", "file": "references/scripting/rdn/java-script-apis-rdn.md", "summary": "Open when looking up JavaScript APIs — RDN in Acrobat.", "keywords": ["JavaScript APIs — RDN"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

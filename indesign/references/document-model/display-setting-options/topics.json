@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "DEFAULT_VALUE", "file": "references/document-model/display-setting-options/defaultvalue.md", "summary": "Open when looking up DEFAULT_VALUE in InDesign.", "keywords": ["DEFAULT_VALUE"]},
+  {"topic": "HIGH_QUALITY", "file": "references/document-model/display-setting-options/highquality.md", "summary": "Open when looking up HIGH_QUALITY in InDesign.", "keywords": ["HIGH_QUALITY"]},
+  {"topic": "OPTIMIZED", "file": "references/document-model/display-setting-options/optimized.md", "summary": "Open when looking up OPTIMIZED in InDesign.", "keywords": ["OPTIMIZED"]},
+  {"topic": "TYPICAL", "file": "references/document-model/display-setting-options/typical.md", "summary": "Open when looking up TYPICAL in InDesign.", "keywords": ["TYPICAL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

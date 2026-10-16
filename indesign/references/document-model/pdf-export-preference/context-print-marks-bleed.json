@@ -1,0 +1,17 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "bleedBottom", "file": "references/document-model/pdf-export-preference/bleed-bottom.md", "summary": "Open when looking up bleedBottom in InDesign.", "keywords": ["bleedBottom"]},
+  {"topic": "bleedInside", "file": "references/document-model/pdf-export-preference/bleed-inside.md", "summary": "Open when looking up bleedInside in InDesign.", "keywords": ["bleedInside"]},
+  {"topic": "bleedMarks", "file": "references/document-model/pdf-export-preference/bleed-marks.md", "summary": "Open when looking up bleedMarks in InDesign.", "keywords": ["bleedMarks"]},
+  {"topic": "bleedOutside", "file": "references/document-model/pdf-export-preference/bleed-outside.md", "summary": "Open when looking up bleedOutside in InDesign.", "keywords": ["bleedOutside"]},
+  {"topic": "bleedTop", "file": "references/document-model/pdf-export-preference/bleed-top.md", "summary": "Open when looking up bleedTop in InDesign.", "keywords": ["bleedTop"]},
+  {"topic": "colorBars", "file": "references/document-model/pdf-export-preference/color-bars.md", "summary": "Open when looking up colorBars in InDesign.", "keywords": ["colorBars"]},
+  {"topic": "cropMarks", "file": "references/document-model/pdf-export-preference/crop-marks.md", "summary": "Open when looking up cropMarks in InDesign.", "keywords": ["cropMarks"]},
+  {"topic": "includeSlugWithPDF", "file": "references/document-model/pdf-export-preference/include-slug-with-pdf.md", "summary": "Open when looking up includeSlugWithPDF in InDesign.", "keywords": ["includeSlugWithPDF"]},
+  {"topic": "pageInformationMarks", "file": "references/document-model/pdf-export-preference/page-information-marks.md", "summary": "Open when looking up pageInformationMarks in InDesign.", "keywords": ["pageInformationMarks"]},
+  {"topic": "pageMarksOffset", "file": "references/document-model/pdf-export-preference/page-marks-offset.md", "summary": "Open when looking up pageMarksOffset in InDesign.", "keywords": ["pageMarksOffset"]},
+  {"topic": "pdfMarkType", "file": "references/document-model/pdf-export-preference/pdf-mark-type.md", "summary": "Open when looking up pdfMarkType in InDesign.", "keywords": ["pdfMarkType"]},
+  {"topic": "printerMarkWeight", "file": "references/document-model/pdf-export-preference/printer-mark-weight.md", "summary": "Open when looking up printerMarkWeight in InDesign.", "keywords": ["printerMarkWeight"]},
+  {"topic": "registrationMarks", "file": "references/document-model/pdf-export-preference/registration-marks.md", "summary": "Open when looking up registrationMarks in InDesign.", "keywords": ["registrationMarks"]},
+  {"topic": "useDocumentBleedWithPDF", "file": "references/document-model/pdf-export-preference/use-document-bleed-with-pdf.md", "summary": "Open when looking up useDocumentBleedWithPDF in InDesign.", "keywords": ["useDocumentBleedWithPDF"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

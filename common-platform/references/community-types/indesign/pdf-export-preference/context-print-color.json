@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "PDFExportPreference.simulateOverprint", "file": "references/community-types/indesign/pdf-export-preference/simulate-overprint.md", "summary": "Open when looking up PDFExportPreference.simulateOverprint in Shared Adobe platform.", "keywords": ["PDFExportPreference.simulateOverprint"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

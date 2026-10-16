@@ -1,0 +1,5 @@
+# PF_OutFlag2_REVEALS_ZERO_ALPHA
+
+`PF_OutFlag2_REVEALS_ZERO_ALPHA`
+
+Of all these flags, this is the one to watch most closely, because it shifts the default behavior. Raise it when the effect can take zero-alpha pixels and surface the RGB hiding inside them (our Set Channels effect does exactly this). Doing so signals After Effects to leave such pixels in place when it works out the effect's input. You can toggle this during `PF_Cmd_QUERY_DYNAMIC_FLAGS`. Bear in mind that although it can alter the extent_hint's size, the image buffer size stays the same. Starting with 6.0, any pixels beyond the mask's bounding box get zeroed. If your effect can bring those pixels back, set this flag to keep AE from discarding their RGB values. Where the effect only sometimes reveals them, set the bit dynamically. To find out whether you need it, drop a mask much smaller than the layer onto a solid, then apply the effect and switch it into its alpha-modifying mode. Should the mask's rectangular bounding box show up, the bit is required.

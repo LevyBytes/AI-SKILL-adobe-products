@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "_BrushOrPenType", "file": "references/community-types/shared/brush-or-pen-type.md", "summary": "Open when looking up _BrushOrPenType in Shared Adobe platform.", "keywords": ["_BrushOrPenType"]},
+  {"topic": "DrawState", "file": "references/community-types/shared/draw-state.md", "summary": "Open when looking up DrawState in Shared Adobe platform.", "keywords": ["DrawState"]},
+  {"topic": "_FontStyle", "file": "references/community-types/shared/font-style.md", "summary": "Open when looking up _FontStyle in Shared Adobe platform.", "keywords": ["_FontStyle"]},
+  {"topic": "Image", "file": "references/community-types/shared/image.md", "summary": "Open when looking up Image in Shared Adobe platform.", "keywords": ["Image"]},
+  {"topic": "ScriptUIBrush", "file": "references/community-types/shared/script-ui-brush.md", "summary": "Open when looking up ScriptUIBrush in Shared Adobe platform.", "keywords": ["ScriptUIBrush"]},
+  {"topic": "ScriptUIFont", "file": "references/community-types/shared/script-ui-font.md", "summary": "Open when looking up ScriptUIFont in Shared Adobe platform.", "keywords": ["ScriptUIFont"]},
+  {"topic": "ScriptUIGraphics references", "file": "references/community-types/shared/script-ui-graphics/reference-index.md", "summary": "Open when looking up ScriptUIGraphics in Shared Adobe platform.", "keywords": ["ScriptUIGraphics references"]},
+  {"topic": "ScriptUIImage", "file": "references/community-types/shared/script-ui-image.md", "summary": "Open when looking up ScriptUIImage in Shared Adobe platform.", "keywords": ["ScriptUIImage"]},
+  {"topic": "ScriptUIPath", "file": "references/community-types/shared/script-ui-path.md", "summary": "Open when looking up ScriptUIPath in Shared Adobe platform.", "keywords": ["ScriptUIPath"]},
+  {"topic": "ScriptUIPen", "file": "references/community-types/shared/script-ui-pen.md", "summary": "Open when looking up ScriptUIPen in Shared Adobe platform.", "keywords": ["ScriptUIPen"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

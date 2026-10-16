@@ -1,0 +1,36 @@
+# Shared Adobe platform — PDFSaveOptions
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PDFSaveOptions declaration in Shared Adobe platform. [PDFSaveOptions declaration](declaration.md).
+- Open when looking up PDFSaveOptions.alphaChannels in Shared Adobe platform. [PDFSaveOptions.alphaChannels](alpha-channels.md).
+- Open when looking up PDFSaveOptions.annotations in Shared Adobe platform. [PDFSaveOptions.annotations](annotations.md).
+- Open when looking up PDFSaveOptions.colorConversion in Shared Adobe platform. [PDFSaveOptions.colorConversion](color-conversion.md).
+- Open when looking up PDFSaveOptions.convertToEightBit in Shared Adobe platform. [PDFSaveOptions.convertToEightBit](convert-to-eight-bit.md).
+- Open when looking up PDFSaveOptions.description in Shared Adobe platform. [PDFSaveOptions.description](description.md).
+- Open when looking up PDFSaveOptions.destinationProfile in Shared Adobe platform. [PDFSaveOptions.destinationProfile](destination-profile.md).
+- Open when looking up PDFSaveOptions.downgradeColorProfile in Shared Adobe platform. [PDFSaveOptions.downgradeColorProfile](downgrade-color-profile.md).
+- Open when looking up PDFSaveOptions.downSample in Shared Adobe platform. [PDFSaveOptions.downSample](down-sample.md).
+- Open when looking up PDFSaveOptions.downSampleSize in Shared Adobe platform. [PDFSaveOptions.downSampleSize](down-sample-size.md).
+- Open when looking up PDFSaveOptions.downSampleSizeLimit in Shared Adobe platform. [PDFSaveOptions.downSampleSizeLimit](down-sample-size-limit.md).
+- Open when looking up PDFSaveOptions.embedColorProfile in Shared Adobe platform. [PDFSaveOptions.embedColorProfile](embed-color-profile.md).
+- Open when looking up PDFSaveOptions.embedFonts in Shared Adobe platform. [PDFSaveOptions.embedFonts](embed-fonts.md).
+- Open when looking up PDFSaveOptions.embedThumbnail in Shared Adobe platform. [PDFSaveOptions.embedThumbnail](embed-thumbnail.md).
+- Open when looking up PDFSaveOptions.encoding in Shared Adobe platform. [PDFSaveOptions.encoding](encoding.md).
+- Open when looking up PDFSaveOptions.interpolation in Shared Adobe platform. [PDFSaveOptions.interpolation](interpolation.md).
+- Open when looking up PDFSaveOptions.jpegQuality in Shared Adobe platform. [PDFSaveOptions.jpegQuality](jpeg-quality.md).
+- Open when looking up PDFSaveOptions.layers in Shared Adobe platform. [PDFSaveOptions.layers](layers.md).
+- Open when looking up PDFSaveOptions.optimizeForWeb in Shared Adobe platform. [PDFSaveOptions.optimizeForWeb](optimize-for-web.md).
+- Open when looking up PDFSaveOptions.outputCondition in Shared Adobe platform. [PDFSaveOptions.outputCondition](output-condition.md).
+- Open when looking up PDFSaveOptions.outputConditionID in Shared Adobe platform. [PDFSaveOptions.outputConditionID](output-condition-id.md).
+- Open when looking up PDFSaveOptions.PDFCompatibility in Shared Adobe platform. [PDFSaveOptions.PDFCompatibility](pdf-compatibility.md).
+- Open when looking up PDFSaveOptions.PDFStandard in Shared Adobe platform. [PDFSaveOptions.PDFStandard](pdf-standard.md).
+- Open when looking up PDFSaveOptions.preserveEditing in Shared Adobe platform. [PDFSaveOptions.preserveEditing](preserve-editing.md).
+- Open when looking up PDFSaveOptions.presetFile in Shared Adobe platform. [PDFSaveOptions.presetFile](preset-file.md).
+- Open when looking up PDFSaveOptions.profileInclusionPolicy in Shared Adobe platform. [PDFSaveOptions.profileInclusionPolicy](profile-inclusion-policy.md).
+- Open when looking up PDFSaveOptions.registryName in Shared Adobe platform. [PDFSaveOptions.registryName](registry-name.md).
+- Open when looking up PDFSaveOptions.spotColors in Shared Adobe platform. [PDFSaveOptions.spotColors](spot-colors.md).
+- Open when looking up PDFSaveOptions.tileSize in Shared Adobe platform. [PDFSaveOptions.tileSize](tile-size.md).
+- Open when looking up PDFSaveOptions.transparency in Shared Adobe platform. [PDFSaveOptions.transparency](transparency.md).
+- Open when looking up PDFSaveOptions.useOutlines in Shared Adobe platform. [PDFSaveOptions.useOutlines](use-outlines.md).
+- Open when looking up PDFSaveOptions.vectorData in Shared Adobe platform. [PDFSaveOptions.vectorData](vector-data.md).
+- Open when looking up PDFSaveOptions.view in Shared Adobe platform. [PDFSaveOptions.view](view.md).

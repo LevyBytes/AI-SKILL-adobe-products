@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "BOTTOM_CENTER_ANCHOR", "file": "references/document-model/anchor-point/bottomcenteranchor.md", "summary": "Open when looking up BOTTOM_CENTER_ANCHOR in InDesign.", "keywords": ["BOTTOM_CENTER_ANCHOR"]},
+  {"topic": "BOTTOM_LEFT_ANCHOR", "file": "references/document-model/anchor-point/bottomleftanchor.md", "summary": "Open when looking up BOTTOM_LEFT_ANCHOR in InDesign.", "keywords": ["BOTTOM_LEFT_ANCHOR"]},
+  {"topic": "BOTTOM_RIGHT_ANCHOR", "file": "references/document-model/anchor-point/bottomrightanchor.md", "summary": "Open when looking up BOTTOM_RIGHT_ANCHOR in InDesign.", "keywords": ["BOTTOM_RIGHT_ANCHOR"]},
+  {"topic": "CENTER_ANCHOR", "file": "references/document-model/anchor-point/centeranchor.md", "summary": "Open when looking up CENTER_ANCHOR in InDesign.", "keywords": ["CENTER_ANCHOR"]},
+  {"topic": "LEFT_CENTER_ANCHOR", "file": "references/document-model/anchor-point/leftcenteranchor.md", "summary": "Open when looking up LEFT_CENTER_ANCHOR in InDesign.", "keywords": ["LEFT_CENTER_ANCHOR"]},
+  {"topic": "RIGHT_CENTER_ANCHOR", "file": "references/document-model/anchor-point/rightcenteranchor.md", "summary": "Open when looking up RIGHT_CENTER_ANCHOR in InDesign.", "keywords": ["RIGHT_CENTER_ANCHOR"]},
+  {"topic": "TOP_CENTER_ANCHOR", "file": "references/document-model/anchor-point/topcenteranchor.md", "summary": "Open when looking up TOP_CENTER_ANCHOR in InDesign.", "keywords": ["TOP_CENTER_ANCHOR"]},
+  {"topic": "TOP_LEFT_ANCHOR", "file": "references/document-model/anchor-point/topleftanchor.md", "summary": "Open when looking up TOP_LEFT_ANCHOR in InDesign.", "keywords": ["TOP_LEFT_ANCHOR"]},
+  {"topic": "TOP_RIGHT_ANCHOR", "file": "references/document-model/anchor-point/toprightanchor.md", "summary": "Open when looking up TOP_RIGHT_ANCHOR in InDesign.", "keywords": ["TOP_RIGHT_ANCHOR"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

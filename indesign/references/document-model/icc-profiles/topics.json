@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "INCLUDE_ALL", "file": "references/document-model/icc-profiles/includeall.md", "summary": "Open when looking up INCLUDE_ALL in InDesign.", "keywords": ["INCLUDE_ALL"]},
+  {"topic": "INCLUDE_NONE", "file": "references/document-model/icc-profiles/includenone.md", "summary": "Open when looking up INCLUDE_NONE in InDesign.", "keywords": ["INCLUDE_NONE"]},
+  {"topic": "INCLUDE_RGB_AND_TAGGED", "file": "references/document-model/icc-profiles/includergbandtagged.md", "summary": "Open when looking up INCLUDE_RGB_AND_TAGGED in InDesign.", "keywords": ["INCLUDE_RGB_AND_TAGGED"]},
+  {"topic": "INCLUDE_TAGGED", "file": "references/document-model/icc-profiles/includetagged.md", "summary": "Open when looking up INCLUDE_TAGGED in InDesign.", "keywords": ["INCLUDE_TAGGED"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

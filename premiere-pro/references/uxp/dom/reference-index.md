@@ -1,0 +1,26 @@
+# Premiere Pro — Dom
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Abort controller in Premiere Pro. [Abort controller references](abort-controller/reference-index.md).
+- Open when looking up Abort signal in Premiere Pro. [Abort signal references](abort-signal/reference-index.md).
+- Open when looking up Attr in Premiere Pro. [Attr references](attr/reference-index.md).
+- Open when looking up Canvas gradient in Premiere Pro. [Canvas gradient references](canvas-gradient/reference-index.md).
+- Open when looking up Character data in Premiere Pro. [Character data references](character-data/reference-index.md).
+- Open when looking up Class list in Premiere Pro. [Class list references](class-list/reference-index.md).
+- Open when looking up Comment in Premiere Pro. [Comment references](comment/reference-index.md).
+- Open when looking up Custom element registry in Premiere Pro. [Custom element registry references](custom-element-registry/reference-index.md).
+- Open when looking up Document fragment in Premiere Pro. [Document fragment references](document-fragment/reference-index.md).
+- Open when looking up Dom token list in Premiere Pro. [Dom token list references](dom-token-list/reference-index.md).
+- Open when looking up Element in Premiere Pro. [Element references](element/reference-index.md).
+- Open when looking up Html collection in Premiere Pro. [Html collection references](html-collection/reference-index.md).
+- Open when looking up HTML DOM in Premiere Pro. [HTML DOM](html-dom.md).
+- Open when looking up Intersection observer entry in Premiere Pro. [Intersection observer entry references](intersection-observer-entry/reference-index.md).
+- Open when looking up Named node map in Premiere Pro. [Named node map references](named-node-map/reference-index.md).
+- Open when looking up Node filter in Premiere Pro. [Node filter references](node-filter/reference-index.md).
+- Open when looking up Node list in Premiere Pro. [Node list references](node-list/reference-index.md).
+- Open when looking up Path2 d in Premiere Pro. [Path2 d references](path2-d/reference-index.md).
+- Open when looking up Resize observer entry in Premiere Pro. [Resize observer entry references](resize-observer-entry/reference-index.md).
+- Open when looking up Shadow root in Premiere Pro. [Shadow root references](shadow-root/reference-index.md).
+- Open when looking up Text in Premiere Pro. [Text references](text/reference-index.md).
+- Open when looking up Tree walker in Premiere Pro. [Tree walker references](tree-walker/reference-index.md).
+- Open when looking up Window in Premiere Pro. [Window references](window/reference-index.md).

@@ -1,0 +1,37 @@
+# Illustrator — Select objects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adjust parts of objects with the Direct Selection tool in Illustrator. [Adjust parts of objects with the Direct Selection tool](adjust-parts-of-objects-with-the-direct-selection-tool.md).
+- Open when looking up Arrange objects in Illustrator. [Arrange objects](arrange-objects.md).
+- Open when looking up Create traces, mockups, and symbols in Illustrator. [Create traces, mockups, and symbols](create-traces-mockups-and-symbols.md).
+- Open when looking up Customize the selection in Illustrator. [Customize the selection](customize-the-selection.md).
+- Open when looking up Edit objects in Illustrator. [Edit objects](edit-objects.md).
+- Open when looking up Group objects in Illustrator. [Group objects](group-objects.md).
+- Open when looking up Group or ungroup objects in Illustrator. [Group or ungroup objects](group-or-ungroup-objects.md).
+- Open when looking up Isolate layers or sublayers in Illustrator. [Isolate layers or sublayers](isolate-layers-or-sublayers.md).
+- Open when looking up Isolate objects in Illustrator. [Isolate objects](isolate-objects.md).
+- Open when looking up Isolate paths, objects, or groups in Illustrator. [Isolate paths, objects, or groups](isolate-paths-objects-or-groups.md).
+- Open when looking up Live Paint Selection tool options in Illustrator. [Live Paint Selection tool options](live-paint-selection-tool-options.md).
+- Open when looking up Object selection methods and preferences in Illustrator. [Object selection methods and preferences](object-selection-methods-and-preferences.md).
+- Open when looking up Object selection options in Illustrator. [Object selection options](object-selection-options.md).
+- Open when looking up Rename or delete a saved selection in Illustrator. [Rename or delete a saved selection](rename-or-delete-a-saved-selection.md).
+- Open when looking up Reshape and transform objects in Illustrator. [Reshape and transform objects](reshape-and-transform-objects.md).
+- Open when looking up Save object selections in Illustrator. [Save object selections](save-object-selections.md).
+- Open when looking up Select and move objects using the Selection tool in Illustrator. [Select and move objects using the Selection tool](select-and-move-objects-using-the-selection-tool.md).
+- Open when looking up Select faces and edges in Live Paint groups in Illustrator. [Select faces and edges in Live Paint groups](select-faces-and-edges-in-live-paint-groups.md).
+- Open when looking up Select grouped or nested objects in Illustrator. [Select grouped or nested objects](select-grouped-or-nested-objects.md).
+- Open when looking up Select object groups and nested object groups in Illustrator. [Select object groups and nested object groups](select-object-groups-and-nested-object-groups.md).
+- Open when looking up Select Objects in Illustrator. [Select Objects](select-objects.md).
+- Open when looking up Select objects and groups using the Group Selection tool in Illustrator. [Select objects and groups using the Group Selection tool](select-objects-and-groups-using-the-group-selection-tool.md).
+- Open when looking up Select objects and nested groups with the Selection tool in Illustrator. [Select objects and nested groups with the Selection tool](select-objects-and-nested-groups-with-the-selection-tool.md).
+- Open when looking up Select objects by characteristics in Illustrator. [Select objects by characteristics](select-objects-by-characteristics.md).
+- Open when looking up Select objects enclosed in a marquee in Illustrator. [Select objects enclosed in a marquee](select-objects-enclosed-in-a-marquee.md).
+- Open when looking up Select objects using layers and nested selection in Illustrator. [Select objects using layers and nested selection](select-objects-using-layers-and-nested-selection.md).
+- Open when looking up Select objects using the Magic Wand tool in Illustrator. [Select objects using the Magic Wand tool](select-objects-using-the-magic-wand-tool.md).
+- Open when looking up Select objects with similar attributes in Illustrator. [Select objects with similar attributes](select-objects-with-similar-attributes.md).
+- Open when looking up Select objects within groups with the Group Selection tool in Illustrator. [Select objects within groups with the Group Selection tool](select-objects-within-groups-with-the-group-selection-tool.md).
+- Open when looking up Select one or more groups using the Selection tool in Illustrator. [Select one or more groups using the Selection tool](select-one-or-more-groups-using-the-selection-tool.md).
+- Open when looking up Select Same by text characteristics in Illustrator. [Select Same by text characteristics](select-same-by-text-characteristics.md).
+- Open when looking up Selection preferences in Illustrator. [Selection preferences](selection-preferences.md).
+- Open when looking up Ungroup objects in Illustrator. [Ungroup objects](ungroup-objects.md).
+- Open when looking up Update a saved selection in Illustrator. [Update a saved selection](update-a-saved-selection.md).

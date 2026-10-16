@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Auto Reframe", "file": "references/desktop/add-video-effects/effects-and-transitions-library/transform-effects/auto-reframe.md", "summary": "Open when looking up Auto Reframe in Premiere Pro.", "keywords": ["Auto Reframe"]},
+  {"topic": "Crop effect", "file": "references/desktop/add-video-effects/effects-and-transitions-library/transform-effects/crop-effect.md", "summary": "Open when looking up Crop effect in Premiere Pro.", "keywords": ["Crop effect"]},
+  {"topic": "Edge Feather effect", "file": "references/desktop/add-video-effects/effects-and-transitions-library/transform-effects/edge-feather-effect.md", "summary": "Open when looking up Edge Feather effect in Premiere Pro.", "keywords": ["Edge Feather effect"]},
+  {"topic": "Horizontal Flip effect", "file": "references/desktop/add-video-effects/effects-and-transitions-library/transform-effects/horizontal-flip-effect.md", "summary": "Open when looking up Horizontal Flip effect in Premiere Pro.", "keywords": ["Horizontal Flip effect"]},
+  {"topic": "Transform", "file": "references/desktop/add-video-effects/effects-and-transitions-library/transform-effects/transform.md", "summary": "Open when looking up Transform in Premiere Pro.", "keywords": ["Transform"]},
+  {"topic": "Vertical Flip effect", "file": "references/desktop/add-video-effects/effects-and-transitions-library/transform-effects/vertical-flip-effect.md", "summary": "Open when looking up Vertical Flip effect in Premiere Pro.", "keywords": ["Vertical Flip effect"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,29 @@
+# Premiere Pro — Instance methods
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up createAddVideoTransitionAction in Premiere Pro. [createAddVideoTransitionAction](create-add-video-transition-action.md).
+- Open when looking up createMoveAction in Premiere Pro. [createMoveAction](create-move-action.md).
+- Open when looking up createRemoveVideoTransitionAction in Premiere Pro. [createRemoveVideoTransitionAction](create-remove-video-transition-action.md).
+- Open when looking up createSetDisabledAction in Premiere Pro. [createSetDisabledAction](create-set-disabled-action.md).
+- Open when looking up createSetEndAction in Premiere Pro. [createSetEndAction](create-set-end-action.md).
+- Open when looking up createSetInPointAction in Premiere Pro. [createSetInPointAction](create-set-in-point-action.md).
+- Open when looking up createSetNameAction in Premiere Pro. [createSetNameAction](create-set-name-action.md).
+- Open when looking up createSetOutPointAction in Premiere Pro. [createSetOutPointAction](create-set-out-point-action.md).
+- Open when looking up createSetStartAction in Premiere Pro. [createSetStartAction](create-set-start-action.md).
+- Open when looking up getComponentChain in Premiere Pro. [getComponentChain](get-component-chain.md).
+- Open when looking up getDuration in Premiere Pro. [getDuration](get-duration.md).
+- Open when looking up getEndTime in Premiere Pro. [getEndTime](get-end-time.md).
+- Open when looking up getInPoint in Premiere Pro. [getInPoint](get-in-point.md).
+- Open when looking up getIsSelected in Premiere Pro. [getIsSelected](get-is-selected.md).
+- Open when looking up getMatchName in Premiere Pro. [getMatchName](get-match-name.md).
+- Open when looking up getMediaType in Premiere Pro. [getMediaType](get-media-type.md).
+- Open when looking up getName in Premiere Pro. [getName](get-name.md).
+- Open when looking up getOutPoint in Premiere Pro. [getOutPoint](get-out-point.md).
+- Open when looking up getProjectItem in Premiere Pro. [getProjectItem](get-project-item.md).
+- Open when looking up getSpeed in Premiere Pro. [getSpeed](get-speed.md).
+- Open when looking up getStartTime in Premiere Pro. [getStartTime](get-start-time.md).
+- Open when looking up getTrackIndex in Premiere Pro. [getTrackIndex](get-track-index.md).
+- Open when looking up getType in Premiere Pro. [getType](get-type.md).
+- Open when looking up isAdjustmentLayer in Premiere Pro. [isAdjustmentLayer](is-adjustment-layer.md).
+- Open when looking up isDisabled in Premiere Pro. [isDisabled](is-disabled.md).
+- Open when looking up isSpeedReversed in Premiere Pro. [isSpeedReversed](is-speed-reversed.md).

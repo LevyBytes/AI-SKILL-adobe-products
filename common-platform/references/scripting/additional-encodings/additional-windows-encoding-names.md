@@ -1,0 +1,11 @@
+# Additional Windows encoding names:
+
+```text
+CP437, IBM850, WINDOWS-437
+CP709, WINDOWS-709, ASMO-449, BCONV4
+EBCDIC
+KOI-8R
+KOI-8U
+ISO-2022-JP
+ISO-2022-KR
+```

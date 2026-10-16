@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "animationSettings", "file": "references/document-model/sound/animation-settings.md", "summary": "Open when looking up animationSettings in InDesign.", "keywords": ["animationSettings"]},
+  {"topic": "doNotPrintPoster", "file": "references/document-model/sound/do-not-print-poster.md", "summary": "Open when looking up doNotPrintPoster in InDesign.", "keywords": ["doNotPrintPoster"]},
+  {"topic": "embedInPDF", "file": "references/document-model/sound/embed-in-pdf.md", "summary": "Open when looking up embedInPDF in InDesign.", "keywords": ["embedInPDF"]},
+  {"topic": "playOnPageTurn", "file": "references/document-model/sound/play-on-page-turn.md", "summary": "Open when looking up playOnPageTurn in InDesign.", "keywords": ["playOnPageTurn"]},
+  {"topic": "posterFile", "file": "references/document-model/sound/poster-file.md", "summary": "Open when looking up posterFile in InDesign.", "keywords": ["posterFile"]},
+  {"topic": "soundLoop", "file": "references/document-model/sound/sound-loop.md", "summary": "Open when looking up soundLoop in InDesign.", "keywords": ["soundLoop"]},
+  {"topic": "soundPosterType", "file": "references/document-model/sound/sound-poster-type.md", "summary": "Open when looking up soundPosterType in InDesign.", "keywords": ["soundPosterType"]},
+  {"topic": "stopOnPageTurn", "file": "references/document-model/sound/stop-on-page-turn.md", "summary": "Open when looking up stopOnPageTurn in InDesign.", "keywords": ["stopOnPageTurn"]},
+  {"topic": "timingSettings", "file": "references/document-model/sound/timing-settings.md", "summary": "Open when looking up timingSettings in InDesign.", "keywords": ["timingSettings"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

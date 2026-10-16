@@ -1,0 +1,26 @@
+# Firefly — Generate Images Using Text Prompts
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Be descriptive in Firefly. [Be descriptive](be-descriptive.md).
+- Open when looking up Be empathetic in Firefly. [Be empathetic](be-empathetic.md).
+- Open when looking up Be original in Firefly. [Be original](be-original.md).
+- Open when looking up Be specific in Firefly. [Be specific](be-specific.md).
+- Open when looking up Create compelling visual assets from short written descriptions. in Firefly. [Create compelling visual assets from short written descriptions.](text-prompt-image-generation.md).
+- Open when looking up Customize generated images in Firefly. [Customize generated images](customize-generated-images.md).
+- Open when looking up Generate images quickly using Fast mode in Firefly. [Generate images quickly using Fast mode](generate-images-quickly-using-fast-mode.md).
+- Open when looking up Generate images using 3D scenes in Firefly. [Generate images using 3D scenes](generate-images-using-3-d-scenes.md).
+- Open when looking up Generate images using FLUX 1.1 in Firefly. [Generate images using FLUX 1.1](generate-images-using-flux-1-1.md).
+- Open when looking up Generate images using FLUX Kontext Max or FLUX Kontext Pro in Firefly. [Generate images using FLUX Kontext Max or FLUX Kontext Pro](generate-images-using-flux-kontext-max-or-flux-kontext-pro.md).
+- Open when looking up Generate images using FLUX.2 in Firefly. [Generate images using FLUX.2](generate-images-using-flux-2.md).
+- Open when looking up Generate images using Gemini 2.5 (Nano Banana), Gemini 3 (Nano Banana Pro), and Gemini 3.1 (Nano Banana 2) in Firefly. [Generate images using Gemini 2.5 (Nano Banana), Gemini 3 (Nano Banana Pro), and Gemini 3.1 (Nano Banana 2)](gemini-nano-banana-image-models.md).
+- Open when looking up Generate images using Ideogram 3.0 in Firefly. [Generate images using Ideogram 3.0](generate-images-using-ideogram-3-0.md).
+- Open when looking up Generate images using Imagen 3 and Imagen 4 in Firefly. [Generate images using Imagen 3 and Imagen 4](generate-images-using-imagen-3-and-imagen-4.md).
+- Open when looking up Generate images using partner models in Firefly. [Generate images using partner models](generate-images-using-partner-models.md).
+- Open when looking up Generate images using Runway Gen-4 Image in Firefly. [Generate images using Runway Gen-4 Image](generate-images-using-runway-gen-4-image.md).
+- Open when looking up Image generation using text descriptions in Firefly. [Image generation using text descriptions](image-generation-using-text-descriptions.md).
+- Open when looking up Improve prompts for image generation in Firefly. [Improve prompts for image generation](improve-prompts-for-image-generation.md).
+- Open when looking up Save to Favorites from generation history in Firefly. [Save to Favorites from generation history](save-to-favorites-from-generation-history.md).
+- Open when looking up Save to Favorites from the generated image variations in Firefly. [Save to Favorites from the generated image variations](save-to-favorites-from-the-generated-image-variations.md).
+- Open when looking up Save your generated images as favorites in Firefly. [Save your generated images as favorites](save-your-generated-images-as-favorites.md).
+- Open when looking up Use professional tools in Firefly. [Use professional tools](use-professional-tools.md).
+- Open when looking up Writing effective text prompts in Firefly. [Writing effective text prompts](writing-effective-text-prompts.md).

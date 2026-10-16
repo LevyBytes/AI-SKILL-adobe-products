@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "appliedFont", "file": "references/document-model/list-box/applied-font.md", "summary": "Open when looking up appliedFont in InDesign.", "keywords": ["appliedFont"]},
+  {"topic": "fontSize", "file": "references/document-model/list-box/font-size.md", "summary": "Open when looking up fontSize in InDesign.", "keywords": ["fontSize"]},
+  {"topic": "fontStyle", "file": "references/document-model/list-box/font-style.md", "summary": "Open when looking up fontStyle in InDesign.", "keywords": ["fontStyle"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Advanced filtering in the Search panel", "file": "references/desktop/organize-media/organize-files/search-for-media-using-media-intelligence/advanced-filtering-in-the-search-panel.md", "summary": "Open when looking up Advanced filtering in the Search panel in Premiere Pro.", "keywords": ["Advanced filtering in the Search panel"]},
+  {"topic": "Privacy and data usage", "file": "references/desktop/organize-media/organize-files/search-for-media-using-media-intelligence/privacy-and-data-usage.md", "summary": "Open when looking up Privacy and data usage in Premiere Pro.", "keywords": ["Privacy and data usage"]},
+  {"topic": "Search for markers", "file": "references/desktop/organize-media/organize-files/search-for-media-using-media-intelligence/search-for-markers.md", "summary": "Open when looking up Search for markers in Premiere Pro.", "keywords": ["Search for markers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

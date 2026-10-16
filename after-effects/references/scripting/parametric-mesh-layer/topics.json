@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "ParametricMeshLayer object", "file": "references/scripting/parametric-mesh-layer/parametric-mesh-layer-object.md", "summary": "Open when looking up ParametricMeshLayer object in After Effects.", "keywords": ["ParametricMeshLayer object"]},
+  {"topic": "ParametricMeshLayer.parametricBevelOptions", "file": "references/scripting/parametric-mesh-layer/parametric-bevel-options.md", "summary": "Open when looking up ParametricMeshLayer.parametricBevelOptions in After Effects.", "keywords": ["ParametricMeshLayer.parametricBevelOptions"]},
+  {"topic": "ParametricMeshLayer.parametricMeshOptions", "file": "references/scripting/parametric-mesh-layer/parametric-mesh-options.md", "summary": "Open when looking up ParametricMeshLayer.parametricMeshOptions in After Effects.", "keywords": ["ParametricMeshLayer.parametricMeshOptions"]},
+  {"topic": "ParametricMeshLayer.parametricMeshType", "file": "references/scripting/parametric-mesh-layer/parametric-mesh-type.md", "summary": "Open when looking up ParametricMeshLayer.parametricMeshType in After Effects.", "keywords": ["ParametricMeshLayer.parametricMeshType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,32 @@
+# Firefly — Firefly boards
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up About Firefly Boards in Firefly. [About Firefly Boards](about-firefly-boards.md).
+- Open when looking up About Firefly Boards in Firefly. [About Firefly Boards references](about-firefly-boards/reference-index.md).
+- Open when looking up Add and edit shapes in Firefly. [Add and edit shapes](add-and-edit-shapes.md).
+- Open when looking up Add and edit texts in Firefly. [Add and edit texts](add-and-edit-texts.md).
+- Open when looking up Add artboards to the canvas in Firefly. [Add artboards to the canvas](add-artboards-to-the-canvas.md).
+- Open when looking up Add images in Firefly. [Add images](add-images.md).
+- Open when looking up Add videos in Firefly. [Add videos](add-videos.md).
+- Open when looking up Collect, arrange, and align elements in canvas in Firefly. [Collect, arrange, and align elements in canvas](collect-arrange-and-align-elements-in-canvas.md).
+- Open when looking up Collect, arrange, and align elements in canvas in Firefly. [Collect, arrange, and align elements in canvas references](collect-arrange-and-align-elements-in-canvas/reference-index.md).
+- Open when looking up Convert 2D images into 3D assets in Firefly. [Convert 2D images into 3D assets](convert-2-d-images-into-3-d-assets.md).
+- Open when looking up Create boards in Firefly. [Create boards](create-boards.md).
+- Open when looking up Create boards in Firefly. [Create boards references](create-boards/reference-index.md).
+- Open when looking up Generate image variations in Firefly. [Generate image variations](generate-image-variations.md).
+- Open when looking up Generate image variations in Firefly. [Generate image variations references](generate-image-variations/reference-index.md).
+- Open when looking up Generative Text Edit in Firefly. [Generative Text Edit](generative-text-edit.md).
+- Open when looking up Partner models to generate images in Firefly. [Partner models to generate images](partner-models-to-generate-images.md).
+- Open when looking up Partner models to generate images in Firefly. [Partner models to generate images references](partner-models-to-generate-images/reference-index.md).
+- Open when looking up Partner models to generate videos in Firefly. [Partner models to generate videos](partner-models-to-generate-videos.md).
+- Open when looking up Partner models to generate videos in Firefly. [Partner models to generate videos references](partner-models-to-generate-videos/reference-index.md).
+- Open when looking up Quick Guides overview in Firefly. [Quick Guides overview](quick-guides-overview.md).
+- Open when looking up Quick Guides overview in Firefly. [Quick Guides overview references](quick-guides-overview/reference-index.md).
+- Open when looking up Remix images in Firefly. [Remix images](remix-images.md).
+- Open when looking up Remix images in Firefly. [Remix images references](remix-images/reference-index.md).
+- Open when looking up Upscale images with Topaz Bloom in Firefly. [Upscale images with Topaz Bloom](upscale-images-with-topaz-bloom.md).
+- Open when looking up Upscale videos with Topaz Astra in Firefly. [Upscale videos with Topaz Astra](upscale-videos-with-topaz-astra.md).
+- Open when looking up Use Boards Presets for complex workflows in Firefly. [Use Boards Presets for complex workflows](use-boards-presets-for-complex-workflows.md).
+- Open when looking up Use Boards Presets for complex workflows in Firefly. [Use Boards Presets for complex workflows references](use-boards-presets-for-complex-workflows/reference-index.md).
+- Open when looking up Use Quick Guides in Firefly. [Use Quick Guides](use-quick-guides.md).
+- Open when looking up Use Quick Guides in Firefly. [Use Quick Guides references](use-quick-guides/reference-index.md).

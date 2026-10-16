@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "ALL_LAYERS", "file": "references/document-model/print-layer-options/alllayers.md", "summary": "Open when looking up ALL_LAYERS in InDesign.", "keywords": ["ALL_LAYERS"]},
+  {"topic": "VISIBLE_LAYERS", "file": "references/document-model/print-layer-options/visiblelayers.md", "summary": "Open when looking up VISIBLE_LAYERS in InDesign.", "keywords": ["VISIBLE_LAYERS"]},
+  {"topic": "VISIBLE_PRINTABLE_LAYERS", "file": "references/document-model/print-layer-options/visibleprintablelayers.md", "summary": "Open when looking up VISIBLE_PRINTABLE_LAYERS in InDesign.", "keywords": ["VISIBLE_PRINTABLE_LAYERS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

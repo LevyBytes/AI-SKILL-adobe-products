@@ -1,0 +1,26 @@
+# Premiere Pro — Track item
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up TrackItem object in Premiere Pro. [TrackItem object](track-item-object.md).
+- Open when looking up TrackItem.components in Premiere Pro. [TrackItem.components](components.md).
+- Open when looking up TrackItem.disabled in Premiere Pro. [TrackItem.disabled](disabled.md).
+- Open when looking up TrackItem.duration in Premiere Pro. [TrackItem.duration](duration.md).
+- Open when looking up TrackItem.end in Premiere Pro. [TrackItem.end](end.md).
+- Open when looking up TrackItem.getMatchName() in Premiere Pro. [TrackItem.getMatchName()](get-match-name.md).
+- Open when looking up TrackItem.getMGTComponent() in Premiere Pro. [TrackItem.getMGTComponent()](get-mgt-component.md).
+- Open when looking up TrackItem.getSpeed() in Premiere Pro. [TrackItem.getSpeed()](get-speed.md).
+- Open when looking up TrackItem.inPoint in Premiere Pro. [TrackItem.inPoint](in-point.md).
+- Open when looking up TrackItem.isAdjustmentLayer() in Premiere Pro. [TrackItem.isAdjustmentLayer()](is-adjustment-layer.md).
+- Open when looking up TrackItem.isSelected() in Premiere Pro. [TrackItem.isSelected()](is-selected.md).
+- Open when looking up TrackItem.isSpeedReversed()mm in Premiere Pro. [TrackItem.isSpeedReversed()mm](is-speed-reversed.md).
+- Open when looking up TrackItem.matchName in Premiere Pro. [TrackItem.matchName](match-name.md).
+- Open when looking up TrackItem.mediaType in Premiere Pro. [TrackItem.mediaType](media-type.md).
+- Open when looking up TrackItem.move() in Premiere Pro. [TrackItem.move()](move.md).
+- Open when looking up TrackItem.name in Premiere Pro. [TrackItem.name](name.md).
+- Open when looking up TrackItem.nodeId in Premiere Pro. [TrackItem.nodeId](node-id.md).
+- Open when looking up TrackItem.outPoint in Premiere Pro. [TrackItem.outPoint](out-point.md).
+- Open when looking up TrackItem.projectItem in Premiere Pro. [TrackItem.projectItem](project-item.md).
+- Open when looking up TrackItem.remove() in Premiere Pro. [TrackItem.remove()](remove.md).
+- Open when looking up TrackItem.setSelected() in Premiere Pro. [TrackItem.setSelected()](set-selected.md).
+- Open when looking up TrackItem.start in Premiere Pro. [TrackItem.start](start.md).
+- Open when looking up TrackItem.type in Premiere Pro. [TrackItem.type](type.md).

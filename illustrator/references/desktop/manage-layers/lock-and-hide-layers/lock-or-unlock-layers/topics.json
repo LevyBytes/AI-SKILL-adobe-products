@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Lock or unlock layers from the Layers panel", "file": "references/desktop/manage-layers/lock-and-hide-layers/lock-or-unlock-layers/lock-or-unlock-layers-from-the-layers-panel.md", "summary": "Open when looking up Lock or unlock layers from the Layers panel in Illustrator.", "keywords": ["Lock or unlock layers from the Layers panel"]},
+  {"topic": "Unlock objects directly from the canvas", "file": "references/desktop/manage-layers/lock-and-hide-layers/lock-or-unlock-layers/unlock-objects-directly-from-the-canvas.md", "summary": "Open when looking up Unlock objects directly from the canvas in Illustrator.", "keywords": ["Unlock objects directly from the canvas"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

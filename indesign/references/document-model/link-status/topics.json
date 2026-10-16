@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "LINK_EMBEDDED", "file": "references/document-model/link-status/linkembedded.md", "summary": "Open when looking up LINK_EMBEDDED in InDesign.", "keywords": ["LINK_EMBEDDED"]},
+  {"topic": "LINK_INACCESSIBLE", "file": "references/document-model/link-status/linkinaccessible.md", "summary": "Open when looking up LINK_INACCESSIBLE in InDesign.", "keywords": ["LINK_INACCESSIBLE"]},
+  {"topic": "LINK_MISSING", "file": "references/document-model/link-status/linkmissing.md", "summary": "Open when looking up LINK_MISSING in InDesign.", "keywords": ["LINK_MISSING"]},
+  {"topic": "LINK_OUT_OF_DATE", "file": "references/document-model/link-status/linkoutofdate.md", "summary": "Open when looking up LINK_OUT_OF_DATE in InDesign.", "keywords": ["LINK_OUT_OF_DATE"]},
+  {"topic": "NORMAL", "file": "references/document-model/link-status/normal.md", "summary": "Open when looking up NORMAL in InDesign.", "keywords": ["NORMAL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

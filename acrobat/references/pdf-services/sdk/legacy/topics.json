@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Dotnet references", "file": "references/pdf-services/sdk/legacy/dotnet/reference-index.md", "summary": "Open when looking up Dotnet in Acrobat.", "keywords": ["Dotnet references"]},
+  {"topic": "Java references", "file": "references/pdf-services/sdk/legacy/java/reference-index.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java references"]},
+  {"topic": "Node references", "file": "references/pdf-services/sdk/legacy/node/reference-index.md", "summary": "Open when looking up Node in Acrobat.", "keywords": ["Node references"]},
+  {"topic": "SDK", "file": "references/pdf-services/sdk/legacy/setup-requirements.md", "summary": "Open when looking up SDK in Acrobat.", "keywords": ["SDK"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

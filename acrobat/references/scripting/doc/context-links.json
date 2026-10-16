@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "addLink", "file": "references/scripting/doc/add-link.md", "summary": "Open when looking up addLink in Acrobat.", "keywords": ["addLink"]},
+  {"topic": "addWeblinks", "file": "references/scripting/doc/add-weblinks.md", "summary": "Open when looking up addWeblinks in Acrobat.", "keywords": ["addWeblinks"]},
+  {"topic": "getLinks", "file": "references/scripting/doc/get-links.md", "summary": "Open when looking up getLinks in Acrobat.", "keywords": ["getLinks"]},
+  {"topic": "removeLinks", "file": "references/scripting/doc/remove-links.md", "summary": "Open when looking up removeLinks in Acrobat.", "keywords": ["removeLinks"]},
+  {"topic": "removeWeblinks", "file": "references/scripting/doc/remove-weblinks.md", "summary": "Open when looking up removeWeblinks in Acrobat.", "keywords": ["removeWeblinks"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

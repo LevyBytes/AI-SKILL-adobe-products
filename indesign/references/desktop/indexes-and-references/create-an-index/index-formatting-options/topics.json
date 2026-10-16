@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Separator character options", "file": "references/desktop/indexes-and-references/create-an-index/index-formatting-options/separator-character-options.md", "summary": "Open when looking up Separator character options in InDesign.", "keywords": ["Separator character options"]},
+  {"topic": "Special character input", "file": "references/desktop/indexes-and-references/create-an-index/index-formatting-options/special-character-input.md", "summary": "Open when looking up Special character input in InDesign.", "keywords": ["Special character input"]},
+  {"topic": "Style assignment options", "file": "references/desktop/indexes-and-references/create-an-index/index-formatting-options/style-assignment-options.md", "summary": "Open when looking up Style assignment options in InDesign.", "keywords": ["Style assignment options"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

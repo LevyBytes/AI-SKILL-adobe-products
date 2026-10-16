@@ -1,0 +1,27 @@
+# InDesign — Pages panel
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up iconSize in InDesign. [iconSize](icon-size.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up masterIconSize in InDesign. [masterIconSize](master-icon-size.md).
+- Open when looking up mastersThumbnails in InDesign. [mastersThumbnails](masters-thumbnails.md).
+- Open when looking up masterVerticalView in InDesign. [masterVerticalView](master-vertical-view.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up pagesOnTop in InDesign. [pagesOnTop](pages-on-top.md).
+- Open when looking up pagesThumbnails in InDesign. [pagesThumbnails](pages-thumbnails.md).
+- Open when looking up pagesViewSetting in InDesign. [pagesViewSetting](pages-view-setting.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up resizeBehavior in InDesign. [resizeBehavior](resize-behavior.md).
+- Open when looking up rotationIcons in InDesign. [rotationIcons](rotation-icons.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up transitionsIcons in InDesign. [transitionsIcons](transitions-icons.md).
+- Open when looking up transparencyIcons in InDesign. [transparencyIcons](transparency-icons.md).
+- Open when looking up visible in InDesign. [visible](visible.md).

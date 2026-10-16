@@ -1,0 +1,23 @@
+# Shared Adobe platform — Change
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Change declaration in Shared Adobe platform. [Change declaration](declaration.md).
+- Open when looking up Change event listeners in Shared Adobe platform. [Change event listeners](event-listeners.md).
+- Open when looking up Change identity and parent in Shared Adobe platform. [Change identity and parent](identity-and-parent.md).
+- Open when looking up Change object resolution in Shared Adobe platform. [Change object resolution](object-resolution.md).
+- Open when looking up Change.accept in Shared Adobe platform. [Change.accept](accept.md).
+- Open when looking up Change.changeType in Shared Adobe platform. [Change.changeType](change-type.md).
+- Open when looking up Change.characters in Shared Adobe platform. [Change.characters](characters.md).
+- Open when looking up Change.date in Shared Adobe platform. [Change.date](date.md).
+- Open when looking up Change.insertionPoints in Shared Adobe platform. [Change.insertionPoints](insertion-points.md).
+- Open when looking up Change.lines in Shared Adobe platform. [Change.lines](lines.md).
+- Open when looking up Change.paragraphs in Shared Adobe platform. [Change.paragraphs](paragraphs.md).
+- Open when looking up Change.properties in Shared Adobe platform. [Change.properties](properties.md).
+- Open when looking up Change.reject in Shared Adobe platform. [Change.reject](reject.md).
+- Open when looking up Change.storyOffset in Shared Adobe platform. [Change.storyOffset](story-offset.md).
+- Open when looking up Change.textColumns in Shared Adobe platform. [Change.textColumns](text-columns.md).
+- Open when looking up Change.texts in Shared Adobe platform. [Change.texts](texts.md).
+- Open when looking up Change.textStyleRanges in Shared Adobe platform. [Change.textStyleRanges](text-style-ranges.md).
+- Open when looking up Change.textVariableInstances in Shared Adobe platform. [Change.textVariableInstances](text-variable-instances.md).
+- Open when looking up Change.userName in Shared Adobe platform. [Change.userName](user-name.md).
+- Open when looking up Change.words in Shared Adobe platform. [Change.words](words.md).

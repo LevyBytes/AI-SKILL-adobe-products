@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Story.autoLeading", "file": "references/community-types/indesign/story/auto-leading.md", "summary": "Open when looking up Story.autoLeading in Shared Adobe platform.", "keywords": ["Story.autoLeading"]},
+  {"topic": "Story.baselineShift", "file": "references/community-types/indesign/story/baseline-shift.md", "summary": "Open when looking up Story.baselineShift in Shared Adobe platform.", "keywords": ["Story.baselineShift"]},
+  {"topic": "Story.characterRotation", "file": "references/community-types/indesign/story/character-rotation.md", "summary": "Open when looking up Story.characterRotation in Shared Adobe platform.", "keywords": ["Story.characterRotation"]},
+  {"topic": "Story.horizontalScale", "file": "references/community-types/indesign/story/horizontal-scale.md", "summary": "Open when looking up Story.horizontalScale in Shared Adobe platform.", "keywords": ["Story.horizontalScale"]},
+  {"topic": "Story.kerningMethod", "file": "references/community-types/indesign/story/kerning-method.md", "summary": "Open when looking up Story.kerningMethod in Shared Adobe platform.", "keywords": ["Story.kerningMethod"]},
+  {"topic": "Story.leading", "file": "references/community-types/indesign/story/leading.md", "summary": "Open when looking up Story.leading in Shared Adobe platform.", "keywords": ["Story.leading"]},
+  {"topic": "Story.leadingModel", "file": "references/community-types/indesign/story/leading-model.md", "summary": "Open when looking up Story.leadingModel in Shared Adobe platform.", "keywords": ["Story.leadingModel"]},
+  {"topic": "Story.position", "file": "references/community-types/indesign/story/position.md", "summary": "Open when looking up Story.position in Shared Adobe platform.", "keywords": ["Story.position"]},
+  {"topic": "Story.scaleAffectsLineHeight", "file": "references/community-types/indesign/story/scale-affects-line-height.md", "summary": "Open when looking up Story.scaleAffectsLineHeight in Shared Adobe platform.", "keywords": ["Story.scaleAffectsLineHeight"]},
+  {"topic": "Story.skew", "file": "references/community-types/indesign/story/skew.md", "summary": "Open when looking up Story.skew in Shared Adobe platform.", "keywords": ["Story.skew"]},
+  {"topic": "Story.tracking", "file": "references/community-types/indesign/story/tracking.md", "summary": "Open when looking up Story.tracking in Shared Adobe platform.", "keywords": ["Story.tracking"]},
+  {"topic": "Story.verticalScale", "file": "references/community-types/indesign/story/vertical-scale.md", "summary": "Open when looking up Story.verticalScale in Shared Adobe platform.", "keywords": ["Story.verticalScale"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

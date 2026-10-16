@@ -1,0 +1,21 @@
+# Audition — Amplitude compression effects
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Amplify effect in Audition. [Amplify effect](amplify-effect.md).
+- Open when looking up Band Limiting in Audition. [Band Limiting](band-limiting.md).
+- Open when looking up Channel Mixer effect in Audition. [Channel Mixer effect](channel-mixer-effect.md).
+- Open when looking up DeEsser effect in Audition. [DeEsser effect](de-esser-effect.md).
+- Open when looking up Dynamic Effect in Audition. [Dynamic Effect](dynamic-effect.md).
+- Open when looking up Dynamics Processing effect in Audition. [Dynamics Processing effect](dynamics-processing-effect.md).
+- Open when looking up Dynamics tab in Audition. [Dynamics tab](dynamics-tab.md).
+- Open when looking up Fade Envelope effect in Audition. [Fade Envelope effect](fade-envelope-effect.md).
+- Open when looking up Gain Envelope effect in Audition. [Gain Envelope effect](gain-envelope-effect.md).
+- Open when looking up Gain Processor in Audition. [Gain Processor](gain-processor.md).
+- Open when looking up General in Audition. [General](general.md).
+- Open when looking up Hard Limiter effect in Audition. [Hard Limiter effect](hard-limiter-effect.md).
+- Open when looking up Level Detector in Audition. [Level Detector](level-detector.md).
+- Open when looking up Multiband Compressor effect in Audition. [Multiband Compressor effect](multiband-compressor-effect.md).
+- Open when looking up Normalize effect (Waveform Editor only) in Audition. [Normalize effect (Waveform Editor only)](normalize-effect-waveform-editor-only.md).
+- Open when looking up Single-band Compressor effect in Audition. [Single-band Compressor effect](single-band-compressor-effect.md).
+- Open when looking up Speech Volume Leveler effect in Audition. [Speech Volume Leveler effect](speech-volume-leveler-effect.md).
+- Open when looking up Tube-modeled Compressor effect in Audition. [Tube-modeled Compressor effect](tube-modeled-compressor-effect.md).

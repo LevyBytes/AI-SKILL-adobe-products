@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Best practices", "file": "references/desktop/effects-and-filters/blur-and-sharpen-filters/overview-of-adding-blur-to-images/best-practices.md", "summary": "Open when looking up Best practices in Photoshop.", "keywords": ["Best practices"]},
+  {"topic": "Creative uses of blur", "file": "references/desktop/effects-and-filters/blur-and-sharpen-filters/overview-of-adding-blur-to-images/creative-uses-of-blur.md", "summary": "Open when looking up Creative uses of blur in Photoshop.", "keywords": ["Creative uses of blur"]},
+  {"topic": "Types of blur effects", "file": "references/desktop/effects-and-filters/blur-and-sharpen-filters/overview-of-adding-blur-to-images/types-of-blur-effects.md", "summary": "Open when looking up Types of blur effects in Photoshop.", "keywords": ["Types of blur effects"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

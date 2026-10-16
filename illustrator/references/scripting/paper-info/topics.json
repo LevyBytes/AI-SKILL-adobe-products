@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "PaperInfo.customPaper", "file": "references/scripting/paper-info/custom-paper.md", "summary": "Open when looking up PaperInfo.customPaper in Illustrator.", "keywords": ["PaperInfo.customPaper"]},
+  {"topic": "PaperInfo.height", "file": "references/scripting/paper-info/height.md", "summary": "Open when looking up PaperInfo.height in Illustrator.", "keywords": ["PaperInfo.height"]},
+  {"topic": "PaperInfo.imageableArea", "file": "references/scripting/paper-info/imageable-area.md", "summary": "Open when looking up PaperInfo.imageableArea in Illustrator.", "keywords": ["PaperInfo.imageableArea"]},
+  {"topic": "PaperInfo.typename", "file": "references/scripting/paper-info/typename.md", "summary": "Open when looking up PaperInfo.typename in Illustrator.", "keywords": ["PaperInfo.typename"]},
+  {"topic": "PaperInfo.width", "file": "references/scripting/paper-info/width.md", "summary": "Open when looking up PaperInfo.width in Illustrator.", "keywords": ["PaperInfo.width"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

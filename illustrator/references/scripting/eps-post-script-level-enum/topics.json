@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Scripting Constants — EPSPostScriptLevelEnum", "file": "references/scripting/eps-post-script-level-enum/scripting-constants-eps-post-script-level-enum.md", "summary": "Open when looking up Scripting Constants — EPSPostScriptLevelEnum in Illustrator.", "keywords": ["Scripting Constants — EPSPostScriptLevelEnum"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

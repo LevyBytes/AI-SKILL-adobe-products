@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Cue In point and Out point", "file": "references/desktop/get-started/monitor-adjustments/set-in-and-out-points-in-the-source-monitor/cue-in-point-and-out-point.md", "summary": "Open when looking up Cue In point and Out point in Premiere Pro.", "keywords": ["Cue In point and Out point"]},
+  {"topic": "Cue to the previous or next edit", "file": "references/desktop/get-started/monitor-adjustments/set-in-and-out-points-in-the-source-monitor/cue-to-the-previous-or-next-edit.md", "summary": "Open when looking up Cue to the previous or next edit in Premiere Pro.", "keywords": ["Cue to the previous or next edit"]},
+  {"topic": "Remove In or Out point of a source clip", "file": "references/desktop/get-started/monitor-adjustments/set-in-and-out-points-in-the-source-monitor/remove-in-or-out-point-of-a-source-clip.md", "summary": "Open when looking up Remove In or Out point of a source clip in Premiere Pro.", "keywords": ["Remove In or Out point of a source clip"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

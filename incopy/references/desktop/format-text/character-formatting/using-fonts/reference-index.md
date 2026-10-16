@@ -1,0 +1,25 @@
+# InCopy — Using Fonts
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Apply OpenType font attributes using Character panel or Control panel in InCopy. [Apply OpenType font attributes using Character panel or Control panel](opentype-character-panel-attributes.md).
+- Open when looking up Apply OpenType font attributes using in-context menu in InCopy. [Apply OpenType font attributes using in-context menu](apply-open-type-font-attributes-using-in-context-menu.md).
+- Open when looking up Apply OpenType glyph forms in InCopy. [Apply OpenType glyph forms](apply-open-type-glyph-forms.md).
+- Open when looking up Create composite glyphs in InCopy. [Create composite glyphs](create-composite-glyphs.md).
+- Open when looking up OpenType font attributes in InCopy. [OpenType font attributes](open-type-font-attributes.md).
+- Open when looking up Using fonts in InCopy — Activate more fonts in InCopy. [Using fonts in InCopy — Activate more fonts](using-fonts-in-in-copy-activate-more-fonts.md).
+- Open when looking up Using fonts in InCopy — Apply a font to text in InCopy. [Using fonts in InCopy — Apply a font to text](using-fonts-in-in-copy-apply-a-font-to-text.md).
+- Open when looking up Using fonts in InCopy — Document installed fonts in InCopy. [Using fonts in InCopy — Document installed fonts](using-fonts-in-in-copy-document-installed-fonts.md).
+- Open when looking up Using fonts in InCopy — Font types in InCopy. [Using fonts in InCopy — Font types](using-fonts-in-in-copy-font-types.md).
+- Open when looking up Using fonts in InCopy — Highlight substituted fonts in your document in InCopy. [Using fonts in InCopy — Highlight substituted fonts in your document](highlight-substituted-fonts-in-your-document.md).
+- Open when looking up Using fonts in InCopy — Install fonts in InCopy. [Using fonts in InCopy — Install fonts](using-fonts-in-in-copy-install-fonts.md).
+- Open when looking up Using fonts in InCopy — Live font preview in InCopy. [Using fonts in InCopy — Live font preview](using-fonts-in-in-copy-live-font-preview.md).
+- Open when looking up Using fonts in InCopy — Live preview of font style in InCopy. [Using fonts in InCopy — Live preview of font style](using-fonts-in-in-copy-live-preview-of-font-style.md).
+- Open when looking up Using fonts in InCopy — Make missing fonts available in InCopy. [Using fonts in InCopy — Make missing fonts available](using-fonts-in-in-copy-make-missing-fonts-available.md).
+- Open when looking up Using fonts in InCopy — Multiple parent fonts in InCopy. [Using fonts in InCopy — Multiple parent fonts](using-fonts-in-in-copy-multiple-parent-fonts.md).
+- Open when looking up Using fonts in InCopy — OpenType fonts in InCopy. [Using fonts in InCopy — OpenType fonts](using-fonts-in-in-copy-open-type-fonts.md).
+- Open when looking up Using fonts in InCopy — OpenType SVG fonts in InCopy. [Using fonts in InCopy — OpenType SVG fonts](using-fonts-in-in-copy-open-type-svg-fonts.md).
+- Open when looking up Using fonts in InCopy — Organize, search, and filter fonts in InCopy. [Using fonts in InCopy — Organize, search, and filter fonts](using-fonts-in-in-copy-organize-search-and-filter-fonts.md).
+- Open when looking up Using fonts in InCopy — Specify a typeface size in InCopy. [Using fonts in InCopy — Specify a typeface size](using-fonts-in-in-copy-specify-a-typeface-size.md).
+- Open when looking up Using fonts in InCopy — Tools for searching fonts in InCopy. [Using fonts in InCopy — Tools for searching fonts](using-fonts-in-in-copy-tools-for-searching-fonts.md).
+- Open when looking up Using fonts in InCopy — Use missing glyph protection in InCopy. [Using fonts in InCopy — Use missing glyph protection](using-fonts-in-in-copy-use-missing-glyph-protection.md).
+- Open when looking up Using fonts in InCopy — Work with missing fonts in InCopy. [Using fonts in InCopy — Work with missing fonts](using-fonts-in-in-copy-work-with-missing-fonts.md).

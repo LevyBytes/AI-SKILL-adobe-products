@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "V1 implicit form", "file": "references/cloud-services/layer-operations/background/converting-background-to-regular-layer/v1-implicit-form.md", "summary": "Open when looking up V1 implicit form in Photoshop.", "keywords": ["V1 implicit form"]},
+  {"topic": "V2 conversion request", "file": "references/cloud-services/layer-operations/background/converting-background-to-regular-layer/v2-conversion-request.md", "summary": "Open when looking up V2 conversion request in Photoshop.", "keywords": ["V2 conversion request"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

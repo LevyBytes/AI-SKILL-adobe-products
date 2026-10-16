@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "C++ exception boundaries", "file": "references/plugin-sdk/c-exception-boundaries.md", "summary": "Open when looking up C++ exception boundaries in After Effects.", "keywords": ["C++ exception boundaries"]},
+  {"topic": "Dig in references", "file": "references/plugin-sdk/dig-in/reference-index.md", "summary": "Open when looking up Dig in in After Effects.", "keywords": ["Dig in references"]},
+  {"topic": "Error codes references", "file": "references/plugin-sdk/error-codes/reference-index.md", "summary": "Open when looking up Error codes in After Effects.", "keywords": ["Error codes references"]},
+  {"topic": "Error reporting policy references", "file": "references/plugin-sdk/error-reporting-policy/reference-index.md", "summary": "Open when looking up Error reporting policy in After Effects.", "keywords": ["Error reporting policy references"]},
+  {"topic": "Errors", "file": "references/plugin-sdk/errors.md", "summary": "Open when looking up Errors in After Effects.", "keywords": ["Errors"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

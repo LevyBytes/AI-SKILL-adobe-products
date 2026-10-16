@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Incompatible or outdated plugins", "file": "references/desktop/troubleshoot/font-and-plugin-issues/third-party-plugin-issues/incompatible-or-outdated-plugins.md", "summary": "Open when looking up Incompatible or outdated plugins in InDesign.", "keywords": ["Incompatible or outdated plugins"]},
+  {"topic": "System-level issues", "file": "references/desktop/troubleshoot/font-and-plugin-issues/third-party-plugin-issues/system-level-issues.md", "summary": "Open when looking up System-level issues in InDesign.", "keywords": ["System-level issues"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

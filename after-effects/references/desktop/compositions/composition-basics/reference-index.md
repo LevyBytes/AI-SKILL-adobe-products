@@ -1,0 +1,24 @@
+# After Effects — Composition Basics
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 3D renderer settings in After Effects. [3D renderer settings](3-d-renderer-settings.md).
+- Open when looking up Advanced composition settings in After Effects. [Advanced composition settings](advanced-composition-settings.md).
+- Open when looking up Basic composition settings in After Effects. [Basic composition settings](basic-composition-settings.md).
+- Open when looking up CINEMA 4D Composition Renderer options in After Effects. [CINEMA 4D Composition Renderer options](cinema-4-d-composition-renderer-options.md).
+- Open when looking up Classic 3D renderer in After Effects. [Classic 3D renderer](classic-3-d-renderer.md).
+- Open when looking up Composition settings in After Effects. [Composition settings](composition-settings.md).
+- Open when looking up Composition thumbnail images in After Effects. [Composition thumbnail images](composition-thumbnail-images.md).
+- Open when looking up Controls enabled by default in After Effects. [Controls enabled by default](controls-enabled-by-default.md).
+- Open when looking up Create a composition in After Effects. [Create a composition](create-a-composition.md).
+- Open when looking up Create a composition and manually set composition settings in After Effects. [Create a composition and manually set composition settings](create-a-composition-and-manually-set-composition-settings.md).
+- Open when looking up Create a composition from a single footage item in After Effects. [Create a composition from a single footage item](create-a-composition-from-a-single-footage-item.md).
+- Open when looking up Create a single composition from multiple footage items in After Effects. [Create a single composition from multiple footage items](create-a-single-composition-from-multiple-footage-items.md).
+- Open when looking up Create multiple compositions from multiple footage items in After Effects. [Create multiple compositions from multiple footage items](create-multiple-compositions-from-multiple-footage-items.md).
+- Open when looking up Crop composition to selected layer bounds in After Effects. [Crop composition to selected layer bounds](crop-composition-to-selected-layer-bounds.md).
+- Open when looking up Duplicate a composition in After Effects. [Duplicate a composition](duplicate-a-composition.md).
+- Open when looking up Improved composition toolbar for 3D designing in After Effects. [Improved composition toolbar for 3D designing](improved-composition-toolbar-for-3-d-designing.md).
+- Open when looking up New 3D controls in After Effects. [New 3D controls](new-3-d-controls.md).
+- Open when looking up Placement of controls in After Effects. [Placement of controls](placement-of-controls.md).
+- Open when looking up Streamlined controls in After Effects. [Streamlined controls](streamlined-controls.md).
+- Open when looking up Timeline panel in After Effects. [Timeline panel](timeline-panel.md).
+- Open when looking up Working with composition settings in After Effects. [Working with composition settings](working-with-composition-settings.md).

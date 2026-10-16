@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Available APIs", "file": "references/uxp/host-environment-information/available-apis.md", "summary": "Open when looking up Available APIs in Premiere Pro.", "keywords": ["Available APIs"]},
+  {"topic": "Console Output", "file": "references/uxp/host-environment-information/console-output.md", "summary": "Open when looking up Console Output in Premiere Pro.", "keywords": ["Console Output"]},
+  {"topic": "Example: Basic Host Detection", "file": "references/uxp/host-environment-information/example-basic-host-detection.md", "summary": "Open when looking up Example: Basic Host Detection in Premiere Pro.", "keywords": ["Example: Basic Host Detection"]},
+  {"topic": "Example: Platform-Specific Logic", "file": "references/uxp/host-environment-information/example-platform-specific-logic.md", "summary": "Open when looking up Example: Platform-Specific Logic in Premiere Pro.", "keywords": ["Example: Platform-Specific Logic"]},
+  {"topic": "Example: Version-based Feature Detection", "file": "references/uxp/host-environment-information/example-version-based-feature-detection.md", "summary": "Open when looking up Example: Version-based Feature Detection in Premiere Pro.", "keywords": ["Example: Version-based Feature Detection"]},
+  {"topic": "index.js", "file": "references/uxp/host-environment-information/index-js.md", "summary": "Open when looking up index.js in Premiere Pro.", "keywords": ["index.js"]},
+  {"topic": "Reference Material", "file": "references/uxp/host-environment-information/reference-material.md", "summary": "Open when looking up Reference Material in Premiere Pro.", "keywords": ["Reference Material"]},
+  {"topic": "Summary", "file": "references/uxp/host-environment-information/summary.md", "summary": "Open when looking up Summary in Premiere Pro.", "keywords": ["Summary"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,22 @@
+# Shared Adobe platform — AnimationSetting
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AnimationSetting declaration in Shared Adobe platform. [AnimationSetting declaration](declaration.md).
+- Open when looking up AnimationSetting.designOption in Shared Adobe platform. [AnimationSetting.designOption](design-option.md).
+- Open when looking up AnimationSetting.duration in Shared Adobe platform. [AnimationSetting.duration](duration.md).
+- Open when looking up AnimationSetting.easeType in Shared Adobe platform. [AnimationSetting.easeType](ease-type.md).
+- Open when looking up AnimationSetting.hasCustomSettings in Shared Adobe platform. [AnimationSetting.hasCustomSettings](has-custom-settings.md).
+- Open when looking up AnimationSetting.hiddenAfter in Shared Adobe platform. [AnimationSetting.hiddenAfter](hidden-after.md).
+- Open when looking up AnimationSetting.initiallyHidden in Shared Adobe platform. [AnimationSetting.initiallyHidden](initially-hidden.md).
+- Open when looking up AnimationSetting.motionPath in Shared Adobe platform. [AnimationSetting.motionPath](motion-path.md).
+- Open when looking up AnimationSetting.motionPathPoints in Shared Adobe platform. [AnimationSetting.motionPathPoints](motion-path-points.md).
+- Open when looking up AnimationSetting.opacityArray in Shared Adobe platform. [AnimationSetting.opacityArray](opacity-array.md).
+- Open when looking up AnimationSetting.plays in Shared Adobe platform. [AnimationSetting.plays](plays.md).
+- Open when looking up AnimationSetting.playsLoop in Shared Adobe platform. [AnimationSetting.playsLoop](plays-loop.md).
+- Open when looking up AnimationSetting.preset in Shared Adobe platform. [AnimationSetting.preset](preset.md).
+- Open when looking up AnimationSetting.rotationArray in Shared Adobe platform. [AnimationSetting.rotationArray](rotation-array.md).
+- Open when looking up AnimationSetting.save in Shared Adobe platform. [AnimationSetting.save](save.md).
+- Open when looking up AnimationSetting.saveACopy in Shared Adobe platform. [AnimationSetting.saveACopy](save-a-copy.md).
+- Open when looking up AnimationSetting.scaleXArray in Shared Adobe platform. [AnimationSetting.scaleXArray](scale-x-array.md).
+- Open when looking up AnimationSetting.scaleYArray in Shared Adobe platform. [AnimationSetting.scaleYArray](scale-y-array.md).
+- Open when looking up AnimationSetting.transformOffsets in Shared Adobe platform. [AnimationSetting.transformOffsets](transform-offsets.md).

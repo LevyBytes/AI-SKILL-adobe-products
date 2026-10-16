@@ -1,0 +1,22 @@
+# Photoshop — All jobs use same endpoint — V2 status response output patterns
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 1. External URL destination (presigned URLs) in Photoshop. [1. External URL destination (presigned URLs)](external-url-destination-presigned-urls.md).
+- Open when looking up 3. Hosted destination (Adobe temporary storage) in Photoshop. [3. Hosted destination (Adobe temporary storage)](hosted-destination-adobe-temporary-storage.md).
+- Open when looking up Base response structure in Photoshop. [Base response structure](base-response-structure.md).
+- Open when looking up Creative Cloud output destinations in Photoshop. [Creative Cloud output destinations](creative-cloud-destination.md).
+- Open when looking up Creative Cloud response migration in Photoshop. [Creative Cloud response migration](creative-cloud-response-migration.md).
+- Open when looking up Destination type patterns in Photoshop. [Destination type patterns](destination-type-patterns.md).
+- Open when looking up Embedded Base64 outputs in Photoshop. [Embedded Base64 outputs](embedded-base64-outputs.md).
+- Open when looking up Embedded JSON outputs in Photoshop. [Embedded JSON outputs](embedded-json-outputs.md).
+- Open when looking up Embedded output contract and migration in Photoshop. [Embedded output contract and migration](embedded-output-contract.md).
+- Open when looking up Embedded string outputs in Photoshop. [Embedded string outputs](embedded-destination-inline-content.md).
+- Open when looking up Failed job response in Photoshop. [Failed job response](failed-job-response.md).
+- Open when looking up Key migration insights in Photoshop. [Key migration insights](key-migration-insights.md).
+- Open when looking up Key structural changes from V1 in Photoshop. [Key structural changes from V1](key-structural-changes-from-v1.md).
+- Open when looking up Migration validation points in Photoshop. [Migration validation points](migration-validation-points.md).
+- Open when looking up Multiple outputs example in Photoshop. [Multiple outputs example](multiple-outputs-example.md).
+- Open when looking up Pending/running job response in Photoshop. [Pending/running job response](pending-running-job-response.md).
+- Open when looking up Script output expansion and restrictions in Photoshop. [Script output expansion and restrictions](script-output-pattern-expansion.md).
+- Open when looking up Script output patterns and discovery in Photoshop. [Script output patterns and discovery](script-output-pattern-dynamic-file-discovery.md).
+- Open when looking up Status response mapping table in Photoshop. [Status response mapping table](status-response-mapping-table.md).

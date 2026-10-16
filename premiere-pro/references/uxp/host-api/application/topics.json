@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Application — Properties", "file": "references/uxp/host-api/application/application-properties.md", "summary": "Open when looking up Application — Properties in Premiere Pro.", "keywords": ["Application — Properties"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

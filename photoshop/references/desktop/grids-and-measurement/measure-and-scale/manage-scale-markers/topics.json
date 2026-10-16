@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Add or replace scale markers", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-scale-markers/add-or-replace-scale-markers.md", "summary": "Open when looking up Add or replace scale markers in Photoshop.", "keywords": ["Add or replace scale markers"]},
+  {"topic": "Create a scale marker", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-scale-markers/create-a-scale-marker.md", "summary": "Open when looking up Create a scale marker in Photoshop.", "keywords": ["Create a scale marker"]},
+  {"topic": "Delete a scale marker", "file": "references/desktop/grids-and-measurement/measure-and-scale/manage-scale-markers/delete-a-scale-marker.md", "summary": "Open when looking up Delete a scale marker in Photoshop.", "keywords": ["Delete a scale marker"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

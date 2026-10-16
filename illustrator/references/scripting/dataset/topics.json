@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Dataset.display()", "file": "references/scripting/dataset/display.md", "summary": "Open when looking up Dataset.display() in Illustrator.", "keywords": ["Dataset.display()"]},
+  {"topic": "Dataset.name", "file": "references/scripting/dataset/name.md", "summary": "Open when looking up Dataset.name in Illustrator.", "keywords": ["Dataset.name"]},
+  {"topic": "Dataset.parent", "file": "references/scripting/dataset/parent.md", "summary": "Open when looking up Dataset.parent in Illustrator.", "keywords": ["Dataset.parent"]},
+  {"topic": "Dataset.remove()", "file": "references/scripting/dataset/remove.md", "summary": "Open when looking up Dataset.remove() in Illustrator.", "keywords": ["Dataset.remove()"]},
+  {"topic": "Dataset.typename", "file": "references/scripting/dataset/typename.md", "summary": "Open when looking up Dataset.typename in Illustrator.", "keywords": ["Dataset.typename"]},
+  {"topic": "Dataset.update()", "file": "references/scripting/dataset/update.md", "summary": "Open when looking up Dataset.update() in Illustrator.", "keywords": ["Dataset.update()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

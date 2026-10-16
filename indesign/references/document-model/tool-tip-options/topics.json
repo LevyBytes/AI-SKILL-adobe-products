@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "FAST", "file": "references/document-model/tool-tip-options/fast.md", "summary": "Open when looking up FAST in InDesign.", "keywords": ["FAST"]},
+  {"topic": "NONE", "file": "references/document-model/tool-tip-options/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "NORMAL", "file": "references/document-model/tool-tip-options/normal.md", "summary": "Open when looking up NORMAL in InDesign.", "keywords": ["NORMAL"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "addEventListener", "file": "references/document-model/text-variable/add-event-listener.md", "summary": "Open when looking up addEventListener in InDesign.", "keywords": ["addEventListener"]},
+  {"topic": "associatedInstances", "file": "references/document-model/text-variable/associated-instances.md", "summary": "Open when looking up associatedInstances in InDesign.", "keywords": ["associatedInstances"]},
+  {"topic": "convertToText", "file": "references/document-model/text-variable/convert-to-text.md", "summary": "Open when looking up convertToText in InDesign.", "keywords": ["convertToText"]},
+  {"topic": "eventListeners", "file": "references/document-model/text-variable/event-listeners.md", "summary": "Open when looking up eventListeners in InDesign.", "keywords": ["eventListeners"]},
+  {"topic": "events", "file": "references/document-model/text-variable/events.md", "summary": "Open when looking up events in InDesign.", "keywords": ["events"]},
+  {"topic": "getElements", "file": "references/document-model/text-variable/get-elements.md", "summary": "Open when looking up getElements in InDesign.", "keywords": ["getElements"]},
+  {"topic": "index", "file": "references/document-model/text-variable/index.md", "summary": "Open when looking up index in InDesign.", "keywords": ["index"]},
+  {"topic": "isValid", "file": "references/document-model/text-variable/is-valid.md", "summary": "Open when looking up isValid in InDesign.", "keywords": ["isValid"]},
+  {"topic": "name", "file": "references/document-model/text-variable/name.md", "summary": "Open when looking up name in InDesign.", "keywords": ["name"]},
+  {"topic": "parent", "file": "references/document-model/text-variable/parent.md", "summary": "Open when looking up parent in InDesign.", "keywords": ["parent"]},
+  {"topic": "preferences", "file": "references/document-model/text-variable/preferences.md", "summary": "Open when looking up preferences in InDesign.", "keywords": ["preferences"]},
+  {"topic": "properties", "file": "references/document-model/text-variable/properties.md", "summary": "Open when looking up properties in InDesign.", "keywords": ["properties"]},
+  {"topic": "remove", "file": "references/document-model/text-variable/remove.md", "summary": "Open when looking up remove in InDesign.", "keywords": ["remove"]},
+  {"topic": "removeEventListener", "file": "references/document-model/text-variable/remove-event-listener.md", "summary": "Open when looking up removeEventListener in InDesign.", "keywords": ["removeEventListener"]},
+  {"topic": "toSource", "file": "references/document-model/text-variable/to-source.md", "summary": "Open when looking up toSource in InDesign.", "keywords": ["toSource"]},
+  {"topic": "toSpecifier", "file": "references/document-model/text-variable/to-specifier.md", "summary": "Open when looking up toSpecifier in InDesign.", "keywords": ["toSpecifier"]},
+  {"topic": "variableOptions", "file": "references/document-model/text-variable/variable-options.md", "summary": "Open when looking up variableOptions in InDesign.", "keywords": ["variableOptions"]},
+  {"topic": "variableType", "file": "references/document-model/text-variable/variable-type.md", "summary": "Open when looking up variableType in InDesign.", "keywords": ["variableType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

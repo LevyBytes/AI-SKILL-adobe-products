@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "How should I begin migrating?", "file": "references/cloud-services/migration-to-v2-overview/how-should-i-begin-migrating.md", "summary": "Open when looking up How should I begin migrating? in Photoshop.", "keywords": ["How should I begin migrating?"]},
+  {"topic": "Service migration reference", "file": "references/cloud-services/migration-to-v2-overview/service-migration-reference.md", "summary": "Open when looking up Service migration reference in Photoshop.", "keywords": ["Service migration reference"]},
+  {"topic": "What about authentication?", "file": "references/cloud-services/migration-to-v2-overview/what-about-authentication.md", "summary": "Open when looking up What about authentication? in Photoshop.", "keywords": ["What about authentication?"]},
+  {"topic": "What are the breaking changes?", "file": "references/cloud-services/migration-to-v2-overview/what-are-the-breaking-changes.md", "summary": "Open when looking up What are the breaking changes? in Photoshop.", "keywords": ["What are the breaking changes?"]},
+  {"topic": "What's different?", "file": "references/cloud-services/migration-to-v2-overview/what-s-different.md", "summary": "Open when looking up What's different? in Photoshop.", "keywords": ["What's different?"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

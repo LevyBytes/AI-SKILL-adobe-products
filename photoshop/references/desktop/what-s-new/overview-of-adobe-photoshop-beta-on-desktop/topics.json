@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Choose Photoshop (beta) for:", "file": "references/desktop/what-s-new/overview-of-adobe-photoshop-beta-on-desktop/choose-photoshop-beta-for.md", "summary": "Open when looking up Choose Photoshop (beta) for: in Photoshop.", "keywords": ["Choose Photoshop (beta) for:"]},
+  {"topic": "Choose regular Photoshop for:", "file": "references/desktop/what-s-new/overview-of-adobe-photoshop-beta-on-desktop/choose-regular-photoshop-for.md", "summary": "Open when looking up Choose regular Photoshop for: in Photoshop.", "keywords": ["Choose regular Photoshop for:"]},
+  {"topic": "Generative AI features and credits", "file": "references/desktop/what-s-new/overview-of-adobe-photoshop-beta-on-desktop/generative-ai-features-and-credits.md", "summary": "Open when looking up Generative AI features and credits in Photoshop.", "keywords": ["Generative AI features and credits"]},
+  {"topic": "When to use Photoshop (beta) vs. regular Photoshop", "file": "references/desktop/what-s-new/overview-of-adobe-photoshop-beta-on-desktop/when-to-use-photoshop-beta-vs-regular-photoshop.md", "summary": "Open when looking up When to use Photoshop (beta) vs. regular Photoshop in Photoshop.", "keywords": ["When to use Photoshop (beta) vs. regular Photoshop"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

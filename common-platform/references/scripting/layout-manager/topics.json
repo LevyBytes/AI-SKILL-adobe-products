@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "LayoutManager object", "file": "references/scripting/layout-manager/layout-manager-object.md", "summary": "Open when looking up LayoutManager object in Shared Adobe platform.", "keywords": ["LayoutManager object"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

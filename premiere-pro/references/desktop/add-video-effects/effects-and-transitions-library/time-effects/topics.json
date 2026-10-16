@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Echo effect", "file": "references/desktop/add-video-effects/effects-and-transitions-library/time-effects/echo-effect.md", "summary": "Open when looking up Echo effect in Premiere Pro.", "keywords": ["Echo effect"]},
+  {"topic": "Posterize Time effect", "file": "references/desktop/add-video-effects/effects-and-transitions-library/time-effects/posterize-time-effect.md", "summary": "Open when looking up Posterize Time effect in Premiere Pro.", "keywords": ["Posterize Time effect"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

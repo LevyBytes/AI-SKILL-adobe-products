@@ -1,0 +1,13 @@
+# TextItem.maximumGlyphScaling
+
+Community declaration reference: Photoshop/2015.5.
+
+Maximum horizontal glyph scaling for text letters, as a percentage. Range: 50 - 200; at 100, character width is unscaled. Applies only to justified text.
+
+```typescript
+declare class TextItem {
+    maximumGlyphScaling: number
+}
+```
+
+Source: [Photoshop/2015.5/index.d.ts](https://raw.githubusercontent.com/docsforadobe/Types-for-Adobe/5a69e41e5c5b59f7254cc07ca1e57cf8b6884867/Photoshop/2015.5/index.d.ts).

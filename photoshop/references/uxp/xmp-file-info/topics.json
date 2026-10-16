@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "filePath : string", "file": "references/uxp/xmp-file-info/file-path-string.md", "summary": "Open when looking up filePath : string in Photoshop.", "keywords": ["filePath : string"]},
+  {"topic": "format : number", "file": "references/uxp/xmp-file-info/format-number.md", "summary": "Open when looking up format : number in Photoshop.", "keywords": ["format : number"]},
+  {"topic": "handlerFlags : number", "file": "references/uxp/xmp-file-info/handler-flags-number.md", "summary": "Open when looking up handlerFlags : number in Photoshop.", "keywords": ["handlerFlags : number"]},
+  {"topic": "openFlags : number", "file": "references/uxp/xmp-file-info/open-flags-number.md", "summary": "Open when looking up openFlags : number in Photoshop.", "keywords": ["openFlags : number"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Prerequisites", "file": "references/cloud-services/authentication/prerequisites.md", "summary": "Open when looking up Prerequisites in Firefly.", "keywords": ["Prerequisites"]},
+  {"topic": "Retrieve an access token", "file": "references/cloud-services/authentication/retrieve-an-access-token.md", "summary": "Open when looking up Retrieve an access token in Firefly.", "keywords": ["Retrieve an access token"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

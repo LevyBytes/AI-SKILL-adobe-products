@@ -1,0 +1,5 @@
+# Paths
+
+Paths collection.
+
+### Instance

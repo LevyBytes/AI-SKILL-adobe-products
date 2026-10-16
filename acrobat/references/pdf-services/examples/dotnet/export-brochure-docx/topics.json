@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Export brochure docx example setup", "file": "references/pdf-services/examples/dotnet/export-brochure-docx/export-brochure-docx-setup.md", "summary": "Open when looking up Export brochure docx example setup in Acrobat.", "keywords": ["Export brochure docx example setup"]},
+  {"topic": "Program.cs", "file": "references/pdf-services/examples/dotnet/export-brochure-docx/Program.cs", "summary": "Open when looking up Program.cs in Acrobat.", "keywords": ["Program.cs"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

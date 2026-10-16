@@ -1,0 +1,49 @@
+# Shared Adobe platform — GeneralPreference
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up GeneralPreference declaration in Shared Adobe platform. [GeneralPreference declaration](declaration.md).
+- Open when looking up GeneralPreference.applicationBarShown in Shared Adobe platform. [GeneralPreference.applicationBarShown](application-bar-shown.md).
+- Open when looking up GeneralPreference.autoAddCharStyleToCCLibraries in Shared Adobe platform. [GeneralPreference.autoAddCharStyleToCCLibraries](auto-add-char-style-to-cc-libraries.md).
+- Open when looking up GeneralPreference.autoAddParaStyleToCCLibraries in Shared Adobe platform. [GeneralPreference.autoAddParaStyleToCCLibraries](auto-add-para-style-to-cc-libraries.md).
+- Open when looking up GeneralPreference.autoAddSwatchToCCLibraries in Shared Adobe platform. [GeneralPreference.autoAddSwatchToCCLibraries](auto-add-swatch-to-cc-libraries.md).
+- Open when looking up GeneralPreference.autoCollapseIconPanels in Shared Adobe platform. [GeneralPreference.autoCollapseIconPanels](auto-collapse-icon-panels.md).
+- Open when looking up GeneralPreference.autoShowHiddenPanels in Shared Adobe platform. [GeneralPreference.autoShowHiddenPanels](auto-show-hidden-panels.md).
+- Open when looking up GeneralPreference.completeFontDownloadGlyphLimit in Shared Adobe platform. [GeneralPreference.completeFontDownloadGlyphLimit](complete-font-download-glyph-limit.md).
+- Open when looking up GeneralPreference.createLinksOnContentPlace in Shared Adobe platform. [GeneralPreference.createLinksOnContentPlace](create-links-on-content-place.md).
+- Open when looking up GeneralPreference.customMonitorPpi in Shared Adobe platform. [GeneralPreference.customMonitorPpi](custom-monitor-ppi.md).
+- Open when looking up GeneralPreference.enableContentAwareFit in Shared Adobe platform. [GeneralPreference.enableContentAwareFit](enable-content-aware-fit.md).
+- Open when looking up GeneralPreference.enableFloatingWindowDocking in Shared Adobe platform. [GeneralPreference.enableFloatingWindowDocking](enable-floating-window-docking.md).
+- Open when looking up GeneralPreference.enableMultiTouchGestures in Shared Adobe platform. [GeneralPreference.enableMultiTouchGestures](enable-multi-touch-gestures.md).
+- Open when looking up GeneralPreference.greekVectorGraphicsOnDrag in Shared Adobe platform. [GeneralPreference.greekVectorGraphicsOnDrag](greek-vector-graphics-on-drag.md).
+- Open when looking up GeneralPreference.highlightObjectUnderSelectionTool in Shared Adobe platform. [GeneralPreference.highlightObjectUnderSelectionTool](highlight-object-under-selection-tool.md).
+- Open when looking up GeneralPreference.includePreview in Shared Adobe platform. [GeneralPreference.includePreview](include-preview.md).
+- Open when looking up GeneralPreference.mainMonitorPpi in Shared Adobe platform. [GeneralPreference.mainMonitorPpi](main-monitor-ppi.md).
+- Open when looking up GeneralPreference.mapStylesOnContentPlace in Shared Adobe platform. [GeneralPreference.mapStylesOnContentPlace](map-styles-on-content-place.md).
+- Open when looking up GeneralPreference.objectsMoveWithPage in Shared Adobe platform. [GeneralPreference.objectsMoveWithPage](objects-move-with-page.md).
+- Open when looking up GeneralPreference.openDocumentsAsTabs in Shared Adobe platform. [GeneralPreference.openDocumentsAsTabs](open-documents-as-tabs.md).
+- Open when looking up GeneralPreference.openRecentLength in Shared Adobe platform. [GeneralPreference.openRecentLength](open-recent-length.md).
+- Open when looking up GeneralPreference.pageNumbering in Shared Adobe platform. [GeneralPreference.pageNumbering](page-numbering.md).
+- Open when looking up GeneralPreference.panelTabHeightPreference in Shared Adobe platform. [GeneralPreference.panelTabHeightPreference](panel-tab-height-preference.md).
+- Open when looking up GeneralPreference.pasteboardColorPreference in Shared Adobe platform. [GeneralPreference.pasteboardColorPreference](pasteboard-color-preference.md).
+- Open when looking up GeneralPreference.placeCursorUsesThumbnails in Shared Adobe platform. [GeneralPreference.placeCursorUsesThumbnails](place-cursor-uses-thumbnails.md).
+- Open when looking up GeneralPreference.preventSelectingLockedItems in Shared Adobe platform. [GeneralPreference.preventSelectingLockedItems](prevent-selecting-locked-items.md).
+- Open when looking up GeneralPreference.previewPages in Shared Adobe platform. [GeneralPreference.previewPages](preview-pages.md).
+- Open when looking up GeneralPreference.previewSize in Shared Adobe platform. [GeneralPreference.previewSize](preview-size.md).
+- Open when looking up GeneralPreference.showAnchorObjectAdornment in Shared Adobe platform. [GeneralPreference.showAnchorObjectAdornment](show-anchor-object-adornment.md).
+- Open when looking up GeneralPreference.showContentGrabber in Shared Adobe platform. [GeneralPreference.showContentGrabber](show-content-grabber.md).
+- Open when looking up GeneralPreference.showConveyor in Shared Adobe platform. [GeneralPreference.showConveyor](show-conveyor.md).
+- Open when looking up GeneralPreference.showLegacyNewDocumentDialog in Shared Adobe platform. [GeneralPreference.showLegacyNewDocumentDialog](show-legacy-new-document-dialog.md).
+- Open when looking up GeneralPreference.showLiveCorners in Shared Adobe platform. [GeneralPreference.showLiveCorners](show-live-corners.md).
+- Open when looking up GeneralPreference.showMasterPageOverlay in Shared Adobe platform. [GeneralPreference.showMasterPageOverlay](show-master-page-overlay.md).
+- Open when looking up GeneralPreference.showStartWorkspace in Shared Adobe platform. [GeneralPreference.showStartWorkspace](show-start-workspace.md).
+- Open when looking up GeneralPreference.showStockPurchaseAdornment in Shared Adobe platform. [GeneralPreference.showStockPurchaseAdornment](show-stock-purchase-adornment.md).
+- Open when looking up GeneralPreference.showTransformationValues in Shared Adobe platform. [GeneralPreference.showTransformationValues](show-transformation-values.md).
+- Open when looking up GeneralPreference.showWhatsNewOnStartup in Shared Adobe platform. [GeneralPreference.showWhatsNewOnStartup](show-whats-new-on-startup.md).
+- Open when looking up GeneralPreference.temporaryFolder in Shared Adobe platform. [GeneralPreference.temporaryFolder](temporary-folder.md).
+- Open when looking up GeneralPreference.toolsPanel in Shared Adobe platform. [GeneralPreference.toolsPanel](tools-panel.md).
+- Open when looking up GeneralPreference.toolTips in Shared Adobe platform. [GeneralPreference.toolTips](tool-tips.md).
+- Open when looking up GeneralPreference.uiBrightnessPreference in Shared Adobe platform. [GeneralPreference.uiBrightnessPreference](ui-brightness-preference.md).
+- Open when looking up GeneralPreference.ungroupRemembersLayers in Shared Adobe platform. [GeneralPreference.ungroupRemembersLayers](ungroup-remembers-layers.md).
+- Open when looking up GeneralPreference.useApplicationFrame in Shared Adobe platform. [GeneralPreference.useApplicationFrame](use-application-frame.md).
+- Open when looking up GeneralPreference.useCustomMonitorResolution in Shared Adobe platform. [GeneralPreference.useCustomMonitorResolution](use-custom-monitor-resolution.md).
+- Open when looking up GeneralPreference.useIncomingSpotUponConflict in Shared Adobe platform. [GeneralPreference.useIncomingSpotUponConflict](use-incoming-spot-upon-conflict.md).

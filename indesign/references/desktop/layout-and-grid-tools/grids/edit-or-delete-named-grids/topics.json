@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Delete a named grid format", "file": "references/desktop/layout-and-grid-tools/grids/edit-or-delete-named-grids/delete-a-named-grid-format.md", "summary": "Open when looking up Delete a named grid format in InDesign.", "keywords": ["Delete a named grid format"]},
+  {"topic": "Edit a named grid format", "file": "references/desktop/layout-and-grid-tools/grids/edit-or-delete-named-grids/edit-a-named-grid-format.md", "summary": "Open when looking up Edit a named grid format in InDesign.", "keywords": ["Edit a named grid format"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

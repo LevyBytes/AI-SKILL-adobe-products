@@ -1,0 +1,70 @@
+# Acrobat — Annotation
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up alignment in Acrobat. [alignment](alignment.md).
+- Open when looking up Annotation methods in Acrobat. [Annotation methods](annotation-methods.md).
+- Open when looking up Annotation properties in Acrobat. [Annotation properties](annotation-properties.md).
+- Open when looking up Annotation types in Acrobat. [Annotation types](annotation-types.md).
+- Open when looking up AP in Acrobat. [AP](ap.md).
+- Open when looking up arrowBegin in Acrobat. [arrowBegin](arrow-begin.md).
+- Open when looking up arrowEnd in Acrobat. [arrowEnd](arrow-end.md).
+- Open when looking up attachIcon in Acrobat. [attachIcon](attach-icon.md).
+- Open when looking up attachment in Acrobat. [attachment](attachment.md).
+- Open when looking up author in Acrobat. [author](author.md).
+- Open when looking up borderEffectIntensity in Acrobat. [borderEffectIntensity](border-effect-intensity.md).
+- Open when looking up borderEffectStyle in Acrobat. [borderEffectStyle](border-effect-style.md).
+- Open when looking up callout in Acrobat. [callout](callout.md).
+- Open when looking up caretSymbol in Acrobat. [caretSymbol](caret-symbol.md).
+- Open when looking up cAttachmentPath in Acrobat. [cAttachmentPath](c-attachment-path.md).
+- Open when looking up contents in Acrobat. [contents](contents.md).
+- Open when looking up creationDate in Acrobat. [creationDate](creation-date.md).
+- Open when looking up dash in Acrobat. [dash](dash.md).
+- Open when looking up delay in Acrobat. [delay](delay.md).
+- Open when looking up destroy in Acrobat. [destroy](destroy.md).
+- Open when looking up doc in Acrobat. [doc](doc.md).
+- Open when looking up doCaption in Acrobat. [doCaption](do-caption.md).
+- Open when looking up fillColor in Acrobat. [fillColor](fill-color.md).
+- Open when looking up gestures in Acrobat. [gestures](gestures.md).
+- Open when looking up getProps in Acrobat. [getProps](get-props.md).
+- Open when looking up getStateInModel in Acrobat. [getStateInModel](get-state-in-model.md).
+- Open when looking up hidden in Acrobat. [hidden](hidden.md).
+- Open when looking up inReplyTo in Acrobat. [inReplyTo](in-reply-to.md).
+- Open when looking up intent in Acrobat. [intent](intent.md).
+- Open when looking up JavaScript APIs — Annotation in Acrobat. [JavaScript APIs — Annotation](java-script-apis-annotation.md).
+- Open when looking up leaderExtend in Acrobat. [leaderExtend](leader-extend.md).
+- Open when looking up leaderLength in Acrobat. [leaderLength](leader-length.md).
+- Open when looking up lineEnding in Acrobat. [lineEnding](line-ending.md).
+- Open when looking up lock in Acrobat. [lock](lock.md).
+- Open when looking up modDate in Acrobat. [modDate](mod-date.md).
+- Open when looking up name in Acrobat. [name](name.md).
+- Open when looking up noteIcon in Acrobat. [noteIcon](note-icon.md).
+- Open when looking up noView in Acrobat. [noView](no-view.md).
+- Open when looking up opacity in Acrobat. [opacity](opacity.md).
+- Open when looking up overlayText in Acrobat. [overlayText](overlay-text.md).
+- Open when looking up page in Acrobat. [page](page.md).
+- Open when looking up point in Acrobat. [point](point.md).
+- Open when looking up points in Acrobat. [points](points.md).
+- Open when looking up popupOpen in Acrobat. [popupOpen](popup-open.md).
+- Open when looking up popupRect in Acrobat. [popupRect](popup-rect.md).
+- Open when looking up print in Acrobat. [print](print.md).
+- Open when looking up quads in Acrobat. [quads](quads.md).
+- Open when looking up rect in Acrobat. [rect](rect.md).
+- Open when looking up refType in Acrobat. [refType](ref-type.md).
+- Open when looking up repeat in Acrobat. [repeat](repeat.md).
+- Open when looking up richContents in Acrobat. [richContents](rich-contents.md).
+- Open when looking up richDefaults in Acrobat. [richDefaults](rich-defaults.md).
+- Open when looking up rotate in Acrobat. [rotate](rotate.md).
+- Open when looking up seqNum in Acrobat. [seqNum](seq-num.md).
+- Open when looking up setProps in Acrobat. [setProps](set-props.md).
+- Open when looking up soundIcon in Acrobat. [soundIcon](sound-icon.md).
+- Open when looking up state in Acrobat. [state](state.md).
+- Open when looking up stateModel in Acrobat. [stateModel](state-model.md).
+- Open when looking up strokeColor in Acrobat. [strokeColor](stroke-color.md).
+- Open when looking up style in Acrobat. [style](style.md).
+- Open when looking up subject in Acrobat. [subject](subject.md).
+- Open when looking up textFont in Acrobat. [textFont](text-font.md).
+- Open when looking up textSize in Acrobat. [textSize](text-size.md).
+- Open when looking up toggleNoView in Acrobat. [toggleNoView](toggle-no-view.md).
+- Open when looking up transitionToState in Acrobat. [transitionToState](transition-to-state.md).
+- Open when looking up vertices in Acrobat. [vertices](vertices.md).
+- Open when looking up width in Acrobat. [width](width.md).

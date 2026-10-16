@@ -1,0 +1,83 @@
+# InDesign — InDesign document object model: xml structure, rules and validation
+
+Open when working with xml structure, rules and validation in InDesign — InDesign document object model.
+
+Open when selecting an exact reference: [Topic catalog](context-xml.json).
+
+- Open when looking up DTD in InDesign [DTD](dtd.md).
+- Open when looking up DTD in InDesign [DTD references](dtd/reference-index.md).
+- Open when looking up DTDs in InDesign [DTDs](dtds.md).
+- Open when looking up DTDs in InDesign [DTDs references](dtds/reference-index.md).
+- Open when looking up RuleDataObject in InDesign [RuleDataObject](rule-data-object.md).
+- Open when looking up RuleDataObject in InDesign [RuleDataObject references](rule-data-object/reference-index.md).
+- Open when looking up RuleDataObjects in InDesign [RuleDataObjects](rule-data-objects.md).
+- Open when looking up RuleDataObjects in InDesign [RuleDataObjects references](rule-data-objects/reference-index.md).
+- Open when looking up RuleDataType in InDesign [RuleDataType](rule-data-type.md).
+- Open when looking up RuleDataType in InDesign [RuleDataType references](rule-data-type/reference-index.md).
+- Open when looking up ValidationError in InDesign [ValidationError](validation-error.md).
+- Open when looking up ValidationError in InDesign [ValidationError references](validation-error/reference-index.md).
+- Open when looking up ValidationErrors in InDesign [ValidationErrors](validation-errors.md).
+- Open when looking up ValidationErrors in InDesign [ValidationErrors references](validation-errors/reference-index.md).
+- Open when looking up Xml preference in InDesign [Xml preference references](xml-preference/reference-index.md).
+- Open when looking up XMLAttribute in InDesign [XMLAttribute](xml-attribute.md).
+- Open when looking up XMLAttribute in InDesign [XMLAttribute references](xml-attribute/reference-index.md).
+- Open when looking up XMLAttributes in InDesign [XMLAttributes](xml-attributes.md).
+- Open when looking up XMLAttributes in InDesign [XMLAttributes references](xml-attributes/reference-index.md).
+- Open when looking up XMLComment in InDesign [XMLComment](xml-comment.md).
+- Open when looking up XMLComment in InDesign [XMLComment references](xml-comment/reference-index.md).
+- Open when looking up XMLComments in InDesign [XMLComments](xml-comments.md).
+- Open when looking up XMLComments in InDesign [XMLComments references](xml-comments/reference-index.md).
+- Open when looking up XMLElement in InDesign [XMLElement](xml-element.md).
+- Open when looking up XMLElement in InDesign [XMLElement references](xml-element/reference-index.md).
+- Open when looking up XMLElementLocation in InDesign [XMLElementLocation](xml-element-location.md).
+- Open when looking up XMLElementLocation in InDesign [XMLElementLocation references](xml-element-location/reference-index.md).
+- Open when looking up XMLElementPosition in InDesign [XMLElementPosition](xml-element-position.md).
+- Open when looking up XMLElementPosition in InDesign [XMLElementPosition references](xml-element-position/reference-index.md).
+- Open when looking up XMLElements in InDesign [XMLElements](xml-elements.md).
+- Open when looking up XMLElements in InDesign [XMLElements references](xml-elements/reference-index.md).
+- Open when looking up XMLExportMap in InDesign [XMLExportMap](xml-export-map.md).
+- Open when looking up XMLExportMap in InDesign [XMLExportMap references](xml-export-map/reference-index.md).
+- Open when looking up XMLExportMaps in InDesign [XMLExportMaps](xml-export-maps.md).
+- Open when looking up XMLExportMaps in InDesign [XMLExportMaps references](xml-export-maps/reference-index.md).
+- Open when looking up XMLExportPreference in InDesign [XMLExportPreference](xml-export-preference.md).
+- Open when looking up XMLExportPreference in InDesign [XMLExportPreference references](xml-export-preference/reference-index.md).
+- Open when looking up XMLExportUntaggedTablesFormat in InDesign [XMLExportUntaggedTablesFormat](xml-export-untagged-tables-format.md).
+- Open when looking up XMLExportUntaggedTablesFormat in InDesign [XMLExportUntaggedTablesFormat references](xml-export-untagged-tables-format/reference-index.md).
+- Open when looking up XMLFileEncoding in InDesign [XMLFileEncoding](xml-file-encoding.md).
+- Open when looking up XMLFileEncoding in InDesign [XMLFileEncoding references](xml-file-encoding/reference-index.md).
+- Open when looking up XMLImportMap in InDesign [XMLImportMap](xml-import-map.md).
+- Open when looking up XMLImportMap in InDesign [XMLImportMap references](xml-import-map/reference-index.md).
+- Open when looking up XMLImportMaps in InDesign [XMLImportMaps](xml-import-maps.md).
+- Open when looking up XMLImportMaps in InDesign [XMLImportMaps references](xml-import-maps/reference-index.md).
+- Open when looking up XMLImportPreference in InDesign [XMLImportPreference](xml-import-preference.md).
+- Open when looking up XMLImportPreference in InDesign [XMLImportPreference references](xml-import-preference/reference-index.md).
+- Open when looking up XMLImportStyles in InDesign [XMLImportStyles](xml-import-styles.md).
+- Open when looking up XMLImportStyles in InDesign [XMLImportStyles references](xml-import-styles/reference-index.md).
+- Open when looking up XMLInstruction in InDesign [XMLInstruction](xml-instruction.md).
+- Open when looking up XMLInstruction in InDesign [XMLInstruction references](xml-instruction/reference-index.md).
+- Open when looking up XMLInstructions in InDesign [XMLInstructions](xml-instructions.md).
+- Open when looking up XMLInstructions in InDesign [XMLInstructions references](xml-instructions/reference-index.md).
+- Open when looking up XMLItem in InDesign [XMLItem](xml-item.md).
+- Open when looking up XMLItem in InDesign [XMLItem references](xml-item/reference-index.md).
+- Open when looking up XMLItems in InDesign [XMLItems](xml-items.md).
+- Open when looking up XMLItems in InDesign [XMLItems references](xml-items/reference-index.md).
+- Open when looking up XMLRuleMatchData in InDesign [XMLRuleMatchData](xml-rule-match-data.md).
+- Open when looking up XMLRuleMatchData in InDesign [XMLRuleMatchData references](xml-rule-match-data/reference-index.md).
+- Open when looking up XMLRuleProcessor in InDesign [XMLRuleProcessor](xml-rule-processor.md).
+- Open when looking up XMLRuleProcessor in InDesign [XMLRuleProcessor references](xml-rule-processor/reference-index.md).
+- Open when looking up XMLRuleProcessors in InDesign [XMLRuleProcessors](xml-rule-processors.md).
+- Open when looking up XMLRuleProcessors in InDesign [XMLRuleProcessors references](xml-rule-processors/reference-index.md).
+- Open when looking up XmlStories in InDesign [XmlStories](xml-stories.md).
+- Open when looking up XmlStories in InDesign [XmlStories references](xml-stories/reference-index.md).
+- Open when looking up XmlStory in InDesign [XmlStory](xml-story.md).
+- Open when looking up XmlStory in InDesign [XmlStory references](xml-story/reference-index.md).
+- Open when looking up XMLTag in InDesign [XMLTag](xml-tag.md).
+- Open when looking up XMLTag in InDesign [XMLTag references](xml-tag/reference-index.md).
+- Open when looking up XMLTags in InDesign [XMLTags](xml-tags.md).
+- Open when looking up XMLTags in InDesign [XMLTags references](xml-tags/reference-index.md).
+- Open when looking up XMLTransformFile in InDesign [XMLTransformFile](xml-transform-file.md).
+- Open when looking up XMLTransformFile in InDesign [XMLTransformFile references](xml-transform-file/reference-index.md).
+- Open when looking up XMLViewPreference in InDesign [XMLViewPreference](xml-view-preference.md).
+- Open when looking up XMLViewPreference in InDesign [XMLViewPreference references](xml-view-preference/reference-index.md).
+
+[Context index](reference-index.md)

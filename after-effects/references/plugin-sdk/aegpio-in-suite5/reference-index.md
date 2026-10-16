@@ -1,0 +1,38 @@
+# After Effects — AEGP_IOInSuite5
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_AddAuxExtMap in After Effects. [AEGP_AddAuxExtMap](aegp-add-aux-ext-map.md).
+- Open when looking up AEGP_ClearInSpecNativeStartTime in After Effects. [AEGP_ClearInSpecNativeStartTime](aegp-clear-in-spec-native-start-time.md).
+- Open when looking up AEGP_GetInSpecAlphaLabel in After Effects. [AEGP_GetInSpecAlphaLabel](aegp-get-in-spec-alpha-label.md).
+- Open when looking up AEGP_GetInSpecDepth in After Effects. [AEGP_GetInSpecDepth](aegp-get-in-spec-depth.md).
+- Open when looking up AEGP_GetInSpecDimensions in After Effects. [AEGP_GetInSpecDimensions](aegp-get-in-spec-dimensions.md).
+- Open when looking up AEGP_GetInSpecDuration in After Effects. [AEGP_GetInSpecDuration](aegp-get-in-spec-duration.md).
+- Open when looking up AEGP_GetInSpecFilePath in After Effects. [AEGP_GetInSpecFilePath](aegp-get-in-spec-file-path.md).
+- Open when looking up AEGP_GetInSpecHSF in After Effects. [AEGP_GetInSpecHSF](aegp-get-in-spec-hsf.md).
+- Open when looking up AEGP_GetInSpecInterlaceLabel in After Effects. [AEGP_GetInSpecInterlaceLabel](aegp-get-in-spec-interlace-label.md).
+- Open when looking up AEGP_GetInSpecNativeDisplayDropFrame in After Effects. [AEGP_GetInSpecNativeDisplayDropFrame](aegp-get-in-spec-native-display-drop-frame.md).
+- Open when looking up AEGP_GetInSpecNativeFPS in After Effects. [AEGP_GetInSpecNativeFPS](aegp-get-in-spec-native-fps.md).
+- Open when looking up AEGP_GetInSpecNativeStartTime in After Effects. [AEGP_GetInSpecNativeStartTime](aegp-get-in-spec-native-start-time.md).
+- Open when looking up AEGP_GetInSpecOptionsHandle in After Effects. [AEGP_GetInSpecOptionsHandle](aegp-get-in-spec-options-handle.md).
+- Open when looking up AEGP_GetInSpecSize in After Effects. [AEGP_GetInSpecSize](aegp-get-in-spec-size.md).
+- Open when looking up AEGP_GetInSpecSoundChannels in After Effects. [AEGP_GetInSpecSoundChannels](aegp-get-in-spec-sound-channels.md).
+- Open when looking up AEGP_GetInSpecSoundEncoding in After Effects. [AEGP_GetInSpecSoundEncoding](aegp-get-in-spec-sound-encoding.md).
+- Open when looking up AEGP_GetInSpecSoundRate in After Effects. [AEGP_GetInSpecSoundRate](aegp-get-in-spec-sound-rate.md).
+- Open when looking up AEGP_GetInSpecSoundSampleSize in After Effects. [AEGP_GetInSpecSoundSampleSize](aegp-get-in-spec-sound-sample-size.md).
+- Open when looking up AEGP_SetInSpecAlphaLabel in After Effects. [AEGP_SetInSpecAlphaLabel](aegp-set-in-spec-alpha-label.md).
+- Open when looking up AEGP_SetInSpecAssignedColorProfile in After Effects. [AEGP_SetInSpecAssignedColorProfile](aegp-set-in-spec-assigned-color-profile.md).
+- Open when looking up AEGP_SetInSpecDepth in After Effects. [AEGP_SetInSpecDepth](aegp-set-in-spec-depth.md).
+- Open when looking up AEGP_SetInSpecDimensions in After Effects. [AEGP_SetInSpecDimensions](aegp-set-in-spec-dimensions.md).
+- Open when looking up AEGP_SetInSpecDuration in After Effects. [AEGP_SetInSpecDuration](aegp-set-in-spec-duration.md).
+- Open when looking up AEGP_SetInSpecEmbeddedColorProfile in After Effects. [AEGP_SetInSpecEmbeddedColorProfile](aegp-set-in-spec-embedded-color-profile.md).
+- Open when looking up AEGP_SetInSpecHSF in After Effects. [AEGP_SetInSpecHSF](aegp-set-in-spec-hsf.md).
+- Open when looking up AEGP_SetInSpecInterlaceLabel in After Effects. [AEGP_SetInSpecInterlaceLabel](aegp-set-in-spec-interlace-label.md).
+- Open when looking up AEGP_SetInSpecNativeDisplayDropFrame in After Effects. [AEGP_SetInSpecNativeDisplayDropFrame](aegp-set-in-spec-native-display-drop-frame.md).
+- Open when looking up AEGP_SetInSpecNativeFPS in After Effects. [AEGP_SetInSpecNativeFPS](aegp-set-in-spec-native-fps.md).
+- Open when looking up AEGP_SetInSpecNativeStartTime in After Effects. [AEGP_SetInSpecNativeStartTime](aegp-set-in-spec-native-start-time.md).
+- Open when looking up AEGP_SetInSpecOptionsHandle in After Effects. [AEGP_SetInSpecOptionsHandle](aegp-set-in-spec-options-handle.md).
+- Open when looking up AEGP_SetInSpecSize in After Effects. [AEGP_SetInSpecSize](aegp-set-in-spec-size.md).
+- Open when looking up AEGP_SetInSpecSoundChannels in After Effects. [AEGP_SetInSpecSoundChannels](aegp-set-in-spec-sound-channels.md).
+- Open when looking up AEGP_SetInSpecSoundEncoding in After Effects. [AEGP_SetInSpecSoundEncoding](aegp-set-in-spec-sound-encoding.md).
+- Open when looking up AEGP_SetInSpecSoundRate in After Effects. [AEGP_SetInSpecSoundRate](aegp-set-in-spec-sound-rate.md).
+- Open when looking up AEGP_SetInSpecSoundSampleSize in After Effects. [AEGP_SetInSpecSoundSampleSize](aegp-set-in-spec-sound-sample-size.md).

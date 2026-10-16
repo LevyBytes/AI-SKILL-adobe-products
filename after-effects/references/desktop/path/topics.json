@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Path.createPath()", "file": "references/desktop/path/create-path.md", "summary": "Open when looking up Path.createPath() in After Effects.", "keywords": ["Path.createPath()"]},
+  {"topic": "Path.inTangents()", "file": "references/desktop/path/in-tangents.md", "summary": "Open when looking up Path.inTangents() in After Effects.", "keywords": ["Path.inTangents()"]},
+  {"topic": "Path.isClosed()", "file": "references/desktop/path/is-closed.md", "summary": "Open when looking up Path.isClosed() in After Effects.", "keywords": ["Path.isClosed()"]},
+  {"topic": "Path.normalOnPath()", "file": "references/desktop/path/normal-on-path.md", "summary": "Open when looking up Path.normalOnPath() in After Effects.", "keywords": ["Path.normalOnPath()"]},
+  {"topic": "Path.outTangents()", "file": "references/desktop/path/out-tangents.md", "summary": "Open when looking up Path.outTangents() in After Effects.", "keywords": ["Path.outTangents()"]},
+  {"topic": "Path.pointOnPath()", "file": "references/desktop/path/point-on-path.md", "summary": "Open when looking up Path.pointOnPath() in After Effects.", "keywords": ["Path.pointOnPath()"]},
+  {"topic": "Path.points()", "file": "references/desktop/path/points.md", "summary": "Open when looking up Path.points() in After Effects.", "keywords": ["Path.points()"]},
+  {"topic": "Path.tangentOnPath()", "file": "references/desktop/path/tangent-on-path.md", "summary": "Open when looking up Path.tangentOnPath() in After Effects.", "keywords": ["Path.tangentOnPath()"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

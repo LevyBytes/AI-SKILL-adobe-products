@@ -1,0 +1,70 @@
+# InDesign — TableStyle: alternating row and column formats
+
+Open when checking alternating row and column formats in InDesign — TableStyle.
+
+Open when selecting an exact API member: [Topic catalog](context-alternating-table-formats.json).
+
+- Open when looking up columnFillsPriority in InDesign [columnFillsPriority](column-fills-priority.md).
+- Open when looking up endColumnFillColor in InDesign [endColumnFillColor](end-column-fill-color.md).
+- Open when looking up endColumnFillCount in InDesign [endColumnFillCount](end-column-fill-count.md).
+- Open when looking up endColumnFillOverprint in InDesign [endColumnFillOverprint](end-column-fill-overprint.md).
+- Open when looking up endColumnFillTint in InDesign [endColumnFillTint](end-column-fill-tint.md).
+- Open when looking up endColumnLineStyle in InDesign [endColumnLineStyle](end-column-line-style.md).
+- Open when looking up endColumnStrokeColor in InDesign [endColumnStrokeColor](end-column-stroke-color.md).
+- Open when looking up endColumnStrokeCount in InDesign [endColumnStrokeCount](end-column-stroke-count.md).
+- Open when looking up endColumnStrokeGapColor in InDesign [endColumnStrokeGapColor](end-column-stroke-gap-color.md).
+- Open when looking up endColumnStrokeGapOverprint in InDesign [endColumnStrokeGapOverprint](end-column-stroke-gap-overprint.md).
+- Open when looking up endColumnStrokeGapTint in InDesign [endColumnStrokeGapTint](end-column-stroke-gap-tint.md).
+- Open when looking up endColumnStrokeOverprint in InDesign [endColumnStrokeOverprint](end-column-stroke-overprint.md).
+- Open when looking up endColumnStrokeTint in InDesign [endColumnStrokeTint](end-column-stroke-tint.md).
+- Open when looking up endColumnStrokeWeight in InDesign [endColumnStrokeWeight](end-column-stroke-weight.md).
+- Open when looking up endRowFillColor in InDesign [endRowFillColor](end-row-fill-color.md).
+- Open when looking up endRowFillCount in InDesign [endRowFillCount](end-row-fill-count.md).
+- Open when looking up endRowFillOverprint in InDesign [endRowFillOverprint](end-row-fill-overprint.md).
+- Open when looking up endRowFillTint in InDesign [endRowFillTint](end-row-fill-tint.md).
+- Open when looking up endRowStrokeColor in InDesign [endRowStrokeColor](end-row-stroke-color.md).
+- Open when looking up endRowStrokeCount in InDesign [endRowStrokeCount](end-row-stroke-count.md).
+- Open when looking up endRowStrokeGapColor in InDesign [endRowStrokeGapColor](end-row-stroke-gap-color.md).
+- Open when looking up endRowStrokeGapOverprint in InDesign [endRowStrokeGapOverprint](end-row-stroke-gap-overprint.md).
+- Open when looking up endRowStrokeGapTint in InDesign [endRowStrokeGapTint](end-row-stroke-gap-tint.md).
+- Open when looking up endRowStrokeOverprint in InDesign [endRowStrokeOverprint](end-row-stroke-overprint.md).
+- Open when looking up endRowStrokeTint in InDesign [endRowStrokeTint](end-row-stroke-tint.md).
+- Open when looking up endRowStrokeType in InDesign [endRowStrokeType](end-row-stroke-type.md).
+- Open when looking up endRowStrokeWeight in InDesign [endRowStrokeWeight](end-row-stroke-weight.md).
+- Open when looking up skipFirstAlternatingFillColumns in InDesign [skipFirstAlternatingFillColumns](skip-first-alternating-fill-columns.md).
+- Open when looking up skipFirstAlternatingFillRows in InDesign [skipFirstAlternatingFillRows](skip-first-alternating-fill-rows.md).
+- Open when looking up skipFirstAlternatingStrokeColumns in InDesign [skipFirstAlternatingStrokeColumns](skip-first-alternating-stroke-columns.md).
+- Open when looking up skipFirstAlternatingStrokeRows in InDesign [skipFirstAlternatingStrokeRows](skip-first-alternating-stroke-rows.md).
+- Open when looking up skipLastAlternatingFillColumns in InDesign [skipLastAlternatingFillColumns](skip-last-alternating-fill-columns.md).
+- Open when looking up skipLastAlternatingFillRows in InDesign [skipLastAlternatingFillRows](skip-last-alternating-fill-rows.md).
+- Open when looking up skipLastAlternatingStrokeColumns in InDesign [skipLastAlternatingStrokeColumns](skip-last-alternating-stroke-columns.md).
+- Open when looking up skipLastAlternatingStrokeRows in InDesign [skipLastAlternatingStrokeRows](skip-last-alternating-stroke-rows.md).
+- Open when looking up startColumnFillColor in InDesign [startColumnFillColor](start-column-fill-color.md).
+- Open when looking up startColumnFillCount in InDesign [startColumnFillCount](start-column-fill-count.md).
+- Open when looking up startColumnFillOverprint in InDesign [startColumnFillOverprint](start-column-fill-overprint.md).
+- Open when looking up startColumnFillTint in InDesign [startColumnFillTint](start-column-fill-tint.md).
+- Open when looking up startColumnStrokeColor in InDesign [startColumnStrokeColor](start-column-stroke-color.md).
+- Open when looking up startColumnStrokeCount in InDesign [startColumnStrokeCount](start-column-stroke-count.md).
+- Open when looking up startColumnStrokeGapColor in InDesign [startColumnStrokeGapColor](start-column-stroke-gap-color.md).
+- Open when looking up startColumnStrokeGapOverprint in InDesign [startColumnStrokeGapOverprint](start-column-stroke-gap-overprint.md).
+- Open when looking up startColumnStrokeGapTint in InDesign [startColumnStrokeGapTint](start-column-stroke-gap-tint.md).
+- Open when looking up startColumnStrokeOverprint in InDesign [startColumnStrokeOverprint](start-column-stroke-overprint.md).
+- Open when looking up startColumnStrokeTint in InDesign [startColumnStrokeTint](start-column-stroke-tint.md).
+- Open when looking up startColumnStrokeType in InDesign [startColumnStrokeType](start-column-stroke-type.md).
+- Open when looking up startColumnStrokeWeight in InDesign [startColumnStrokeWeight](start-column-stroke-weight.md).
+- Open when looking up startRowFillColor in InDesign [startRowFillColor](start-row-fill-color.md).
+- Open when looking up startRowFillCount in InDesign [startRowFillCount](start-row-fill-count.md).
+- Open when looking up startRowFillOverprint in InDesign [startRowFillOverprint](start-row-fill-overprint.md).
+- Open when looking up startRowFillTint in InDesign [startRowFillTint](start-row-fill-tint.md).
+- Open when looking up startRowStrokeColor in InDesign [startRowStrokeColor](start-row-stroke-color.md).
+- Open when looking up startRowStrokeCount in InDesign [startRowStrokeCount](start-row-stroke-count.md).
+- Open when looking up startRowStrokeGapColor in InDesign [startRowStrokeGapColor](start-row-stroke-gap-color.md).
+- Open when looking up startRowStrokeGapOverprint in InDesign [startRowStrokeGapOverprint](start-row-stroke-gap-overprint.md).
+- Open when looking up startRowStrokeGapTint in InDesign [startRowStrokeGapTint](start-row-stroke-gap-tint.md).
+- Open when looking up startRowStrokeOverprint in InDesign [startRowStrokeOverprint](start-row-stroke-overprint.md).
+- Open when looking up startRowStrokeTint in InDesign [startRowStrokeTint](start-row-stroke-tint.md).
+- Open when looking up startRowStrokeType in InDesign [startRowStrokeType](start-row-stroke-type.md).
+- Open when looking up startRowStrokeWeight in InDesign [startRowStrokeWeight](start-row-stroke-weight.md).
+- Open when looking up strokeOrder in InDesign [strokeOrder](stroke-order.md).
+
+[Context index](reference-index.md)

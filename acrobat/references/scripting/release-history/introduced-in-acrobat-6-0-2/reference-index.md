@@ -1,0 +1,23 @@
+# Acrobat — Introduced in acrobat 6 0 2
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up app in Acrobat. [app](app.md).
+- Open when looking up app.media in Acrobat. [app.media](app-media.md).
+- Open when looking up Doc in Acrobat. [Doc](doc.md).
+- Open when looking up Doc.media in Acrobat. [Doc.media](doc-media.md).
+- Open when looking up event in Acrobat. [event](event.md).
+- Open when looking up EventListener in Acrobat. [EventListener](event-listener.md).
+- Open when looking up Events in Acrobat. [Events](events.md).
+- Open when looking up Marker in Acrobat. [Marker](marker.md).
+- Open when looking up Markers in Acrobat. [Markers](markers.md).
+- Open when looking up MediaOffset in Acrobat. [MediaOffset](media-offset.md).
+- Open when looking up MediaPlayer in Acrobat. [MediaPlayer](media-player.md).
+- Open when looking up MediaReject in Acrobat. [MediaReject](media-reject.md).
+- Open when looking up MediaSelection in Acrobat. [MediaSelection](media-selection.md).
+- Open when looking up MediaSettings in Acrobat. [MediaSettings](media-settings.md).
+- Open when looking up Monitor in Acrobat. [Monitor](monitor.md).
+- Open when looking up Monitors in Acrobat. [Monitors](monitors.md).
+- Open when looking up PlayerInfo in Acrobat. [PlayerInfo](player-info.md).
+- Open when looking up PlayerInfoList in Acrobat. [PlayerInfoList](player-info-list.md).
+- Open when looking up Rendition in Acrobat. [Rendition](rendition.md).
+- Open when looking up ScreenAnnot in Acrobat. [ScreenAnnot](screen-annot.md).

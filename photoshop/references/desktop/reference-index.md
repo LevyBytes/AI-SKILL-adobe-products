@@ -1,0 +1,25 @@
+# Photoshop — Desktop workflows
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add video and animation in Photoshop. [Add video and animation references](add-video-and-animation/reference-index.md).
+- Open when looking up Adjust color in Photoshop. [Adjust color references](adjust-color/reference-index.md).
+- Open when looking up App integrations in Photoshop. [App integrations references](app-integrations/reference-index.md).
+- Open when looking up Apply painting techniques in Photoshop. [Apply painting techniques references](apply-painting-techniques/reference-index.md).
+- Open when looking up Automate tasks in Photoshop. [Automate tasks references](automate-tasks/reference-index.md).
+- Open when looking up Create and manage layers in Photoshop. [Create and manage layers references](layers/reference-index.md).
+- Open when looking up Create masks in Photoshop. [Create masks references](create-masks/reference-index.md).
+- Open when looking up Create open and import images in Photoshop. [Create open and import images references](create-open-and-import-images/reference-index.md).
+- Open when looking up Crop resize and transform in Photoshop. [Crop resize and transform references](image-transforms/reference-index.md).
+- Open when looking up Draw shapes and paths in Photoshop. [Draw shapes and paths references](draw-shapes-and-paths/reference-index.md).
+- Open when looking up Effects and filters in Photoshop. [Effects and filters references](effects-and-filters/reference-index.md).
+- Open when looking up Generative ai in photoshop in Photoshop. [Generative ai in photoshop references](generative-ai-in-photoshop/reference-index.md).
+- Open when looking up Get started in Photoshop. [Get started references](get-started/reference-index.md).
+- Open when looking up Gpu troubleshooting in Photoshop. [Gpu troubleshooting references](gpu-troubleshooting/reference-index.md).
+- Open when looking up Make selections in Photoshop. [Make selections references](make-selections/reference-index.md).
+- Open when looking up Repair and retouch in Photoshop. [Repair and retouch references](repair-and-retouch/reference-index.md).
+- Open when looking up Save and export in Photoshop. [Save and export references](save-and-export/reference-index.md).
+- Open when looking up Share and collaborate in Photoshop. [Share and collaborate references](share-and-collaborate/reference-index.md).
+- Open when looking up Text and typography in Photoshop. [Text and typography references](text-and-typography/reference-index.md).
+- Open when looking up Troubleshoot in Photoshop. [Troubleshoot references](troubleshoot/reference-index.md).
+- Open when looking up Use grids and measurement guides in Photoshop. [Use grids and measurement guides references](grids-and-measurement/reference-index.md).
+- Open when looking up What s new in Photoshop. [What s new references](what-s-new/reference-index.md).

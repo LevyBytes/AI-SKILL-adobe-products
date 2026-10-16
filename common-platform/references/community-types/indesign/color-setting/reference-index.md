@@ -1,0 +1,24 @@
+# Shared Adobe platform — ColorSetting
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ColorSetting declaration in Shared Adobe platform. [ColorSetting declaration](declaration.md).
+- Open when looking up ColorSetting.accurateLABSpots in Shared Adobe platform. [ColorSetting.accurateLABSpots](accurate-lab-spots.md).
+- Open when looking up ColorSetting.cmsSettings in Shared Adobe platform. [ColorSetting.cmsSettings](cms-settings.md).
+- Open when looking up ColorSetting.cmsSettingsList in Shared Adobe platform. [ColorSetting.cmsSettingsList](cms-settings-list.md).
+- Open when looking up ColorSetting.cmsSettingsPath in Shared Adobe platform. [ColorSetting.cmsSettingsPath](cms-settings-path.md).
+- Open when looking up ColorSetting.cmykPolicy in Shared Adobe platform. [ColorSetting.cmykPolicy](cmyk-policy.md).
+- Open when looking up ColorSetting.enableColorManagement in Shared Adobe platform. [ColorSetting.enableColorManagement](enable-color-management.md).
+- Open when looking up ColorSetting.engine in Shared Adobe platform. [ColorSetting.engine](engine.md).
+- Open when looking up ColorSetting.engineList in Shared Adobe platform. [ColorSetting.engineList](engine-list.md).
+- Open when looking up ColorSetting.idealizedBlackToExport in Shared Adobe platform. [ColorSetting.idealizedBlackToExport](idealized-black-to-export.md).
+- Open when looking up ColorSetting.idealizedBlackToScreen in Shared Adobe platform. [ColorSetting.idealizedBlackToScreen](idealized-black-to-screen.md).
+- Open when looking up ColorSetting.intent in Shared Adobe platform. [ColorSetting.intent](intent.md).
+- Open when looking up ColorSetting.mismatchAskWhenOpening in Shared Adobe platform. [ColorSetting.mismatchAskWhenOpening](mismatch-ask-when-opening.md).
+- Open when looking up ColorSetting.mismatchAskWhenPasting in Shared Adobe platform. [ColorSetting.mismatchAskWhenPasting](mismatch-ask-when-pasting.md).
+- Open when looking up ColorSetting.missingAskWhenOpening in Shared Adobe platform. [ColorSetting.missingAskWhenOpening](missing-ask-when-opening.md).
+- Open when looking up ColorSetting.rgbPolicy in Shared Adobe platform. [ColorSetting.rgbPolicy](rgb-policy.md).
+- Open when looking up ColorSetting.useBPC in Shared Adobe platform. [ColorSetting.useBPC](use-bpc.md).
+- Open when looking up ColorSetting.workingSpaceCMYK in Shared Adobe platform. [ColorSetting.workingSpaceCMYK](working-space-cmyk.md).
+- Open when looking up ColorSetting.workingSpaceCMYKList in Shared Adobe platform. [ColorSetting.workingSpaceCMYKList](working-space-cmyk-list.md).
+- Open when looking up ColorSetting.workingSpaceRGB in Shared Adobe platform. [ColorSetting.workingSpaceRGB](working-space-rgb.md).
+- Open when looking up ColorSetting.workingSpaceRGBList in Shared Adobe platform. [ColorSetting.workingSpaceRGBList](working-space-rgb-list.md).

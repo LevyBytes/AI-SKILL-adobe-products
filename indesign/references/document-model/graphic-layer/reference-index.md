@@ -1,0 +1,30 @@
+# InDesign — GraphicLayer
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up addEventListener in InDesign. [addEventListener](add-event-listener.md).
+- Open when looking up adjustmentLayer in InDesign. [adjustmentLayer](adjustment-layer.md).
+- Open when looking up currentVisibility in InDesign. [currentVisibility](current-visibility.md).
+- Open when looking up eventListeners in InDesign. [eventListeners](event-listeners.md).
+- Open when looking up events in InDesign. [events](events.md).
+- Open when looking up exportState in InDesign. [exportState](export-state.md).
+- Open when looking up fxLayer in InDesign. [fxLayer](fx-layer.md).
+- Open when looking up getElements in InDesign. [getElements](get-elements.md).
+- Open when looking up graphicLayers in InDesign. [graphicLayers](graphic-layers.md).
+- Open when looking up hasExportState in InDesign. [hasExportState](has-export-state.md).
+- Open when looking up hasPrintState in InDesign. [hasPrintState](has-print-state.md).
+- Open when looking up hasViewState in InDesign. [hasViewState](has-view-state.md).
+- Open when looking up id in InDesign. [id](id.md).
+- Open when looking up index in InDesign. [index](index.md).
+- Open when looking up isValid in InDesign. [isValid](is-valid.md).
+- Open when looking up locked in InDesign. [locked](locked.md).
+- Open when looking up name in InDesign. [name](name.md).
+- Open when looking up originalVisibility in InDesign. [originalVisibility](original-visibility.md).
+- Open when looking up parent in InDesign. [parent](parent.md).
+- Open when looking up printState in InDesign. [printState](print-state.md).
+- Open when looking up properties in InDesign. [properties](properties.md).
+- Open when looking up removeEventListener in InDesign. [removeEventListener](remove-event-listener.md).
+- Open when looking up sectionDividerLayer in InDesign. [sectionDividerLayer](section-divider-layer.md).
+- Open when looking up separatorLayer in InDesign. [separatorLayer](separator-layer.md).
+- Open when looking up toSource in InDesign. [toSource](to-source.md).
+- Open when looking up toSpecifier in InDesign. [toSpecifier](to-specifier.md).
+- Open when looking up viewState in InDesign. [viewState](view-state.md).

@@ -1,0 +1,37 @@
+# Universe effects
+
+  - Chromatic Aberration
+  - VHS
+  - Glitch
+  - Holomatrix II
+  - Electrify
+  - Analog
+  - Texturize Motion
+  - Glow
+  - Quantum
+  - Glimmer
+  - Retrograde
+  - Finisher
+  - Multitone
+  - Grain16
+  - Ecto
+  - Glo Fi II
+  - Long Shadow
+  - Knoll Light Factory EZ
+  - Luster
+  - OverLight
+  - Carousel
+  - AV Club
+  - Chromatic Glow
+  - Texturize
+  - Heatwave
+  - Point Zoom
+  - RGB Separation
+  - Edge Glow
+  - ShrinkRay
+  - Blur
+  - Prism Displacement
+  - Misfire
+  - Noir Moderne
+  - Compound Blur
+  - Spot Blur

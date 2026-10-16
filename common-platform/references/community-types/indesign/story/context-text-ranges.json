@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Story.characters", "file": "references/community-types/indesign/story/characters.md", "summary": "Open when looking up Story.characters in Shared Adobe platform.", "keywords": ["Story.characters"]},
+  {"topic": "Story.endnoteRanges", "file": "references/community-types/indesign/story/endnote-ranges.md", "summary": "Open when looking up Story.endnoteRanges in Shared Adobe platform.", "keywords": ["Story.endnoteRanges"]},
+  {"topic": "Story.endnotes", "file": "references/community-types/indesign/story/endnotes.md", "summary": "Open when looking up Story.endnotes in Shared Adobe platform.", "keywords": ["Story.endnotes"]},
+  {"topic": "Story.endnoteTextFrames", "file": "references/community-types/indesign/story/endnote-text-frames.md", "summary": "Open when looking up Story.endnoteTextFrames in Shared Adobe platform.", "keywords": ["Story.endnoteTextFrames"]},
+  {"topic": "Story.footnotes", "file": "references/community-types/indesign/story/footnotes.md", "summary": "Open when looking up Story.footnotes in Shared Adobe platform.", "keywords": ["Story.footnotes"]},
+  {"topic": "Story.insertionPoints", "file": "references/community-types/indesign/story/insertion-points.md", "summary": "Open when looking up Story.insertionPoints in Shared Adobe platform.", "keywords": ["Story.insertionPoints"]},
+  {"topic": "Story.lines", "file": "references/community-types/indesign/story/lines.md", "summary": "Open when looking up Story.lines in Shared Adobe platform.", "keywords": ["Story.lines"]},
+  {"topic": "Story.notes", "file": "references/community-types/indesign/story/notes.md", "summary": "Open when looking up Story.notes in Shared Adobe platform.", "keywords": ["Story.notes"]},
+  {"topic": "Story.paragraphs", "file": "references/community-types/indesign/story/paragraphs.md", "summary": "Open when looking up Story.paragraphs in Shared Adobe platform.", "keywords": ["Story.paragraphs"]},
+  {"topic": "Story.textColumns", "file": "references/community-types/indesign/story/text-columns.md", "summary": "Open when looking up Story.textColumns in Shared Adobe platform.", "keywords": ["Story.textColumns"]},
+  {"topic": "Story.textContainers", "file": "references/community-types/indesign/story/text-containers.md", "summary": "Open when looking up Story.textContainers in Shared Adobe platform.", "keywords": ["Story.textContainers"]},
+  {"topic": "Story.textFrames", "file": "references/community-types/indesign/story/text-frames.md", "summary": "Open when looking up Story.textFrames in Shared Adobe platform.", "keywords": ["Story.textFrames"]},
+  {"topic": "Story.texts", "file": "references/community-types/indesign/story/texts.md", "summary": "Open when looking up Story.texts in Shared Adobe platform.", "keywords": ["Story.texts"]},
+  {"topic": "Story.textStyleRanges", "file": "references/community-types/indesign/story/text-style-ranges.md", "summary": "Open when looking up Story.textStyleRanges in Shared Adobe platform.", "keywords": ["Story.textStyleRanges"]},
+  {"topic": "Story.words", "file": "references/community-types/indesign/story/words.md", "summary": "Open when looking up Story.words in Shared Adobe platform.", "keywords": ["Story.words"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

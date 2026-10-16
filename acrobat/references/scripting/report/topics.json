@@ -1,0 +1,16 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "absIndent", "file": "references/scripting/report/abs-indent.md", "summary": "Open when looking up absIndent in Acrobat.", "keywords": ["absIndent"]},
+  {"topic": "breakPage", "file": "references/scripting/report/break-page.md", "summary": "Open when looking up breakPage in Acrobat.", "keywords": ["breakPage"]},
+  {"topic": "color", "file": "references/scripting/report/color.md", "summary": "Open when looking up color in Acrobat.", "keywords": ["color"]},
+  {"topic": "divide", "file": "references/scripting/report/divide.md", "summary": "Open when looking up divide in Acrobat.", "keywords": ["divide"]},
+  {"topic": "indent", "file": "references/scripting/report/indent.md", "summary": "Open when looking up indent in Acrobat.", "keywords": ["indent"]},
+  {"topic": "JavaScript APIs — Report", "file": "references/scripting/report/java-script-apis-report.md", "summary": "Open when looking up JavaScript APIs — Report in Acrobat.", "keywords": ["JavaScript APIs — Report"]},
+  {"topic": "mail", "file": "references/scripting/report/mail.md", "summary": "Open when looking up mail in Acrobat.", "keywords": ["mail"]},
+  {"topic": "open", "file": "references/scripting/report/open.md", "summary": "Open when looking up open in Acrobat.", "keywords": ["open"]},
+  {"topic": "outdent", "file": "references/scripting/report/outdent.md", "summary": "Open when looking up outdent in Acrobat.", "keywords": ["outdent"]},
+  {"topic": "save", "file": "references/scripting/report/save.md", "summary": "Open when looking up save in Acrobat.", "keywords": ["save"]},
+  {"topic": "size", "file": "references/scripting/report/size.md", "summary": "Open when looking up size in Acrobat.", "keywords": ["size"]},
+  {"topic": "style", "file": "references/scripting/report/style.md", "summary": "Open when looking up style in Acrobat.", "keywords": ["style"]},
+  {"topic": "writeText", "file": "references/scripting/report/write-text.md", "summary": "Open when looking up writeText in Acrobat.", "keywords": ["writeText"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Changes Across Versions — Acrobat 8.0 changes", "file": "references/scripting/acrobat-8-0-changes/changes-across-versions-acrobat-8-0-changes.md", "summary": "Open when looking up Changes Across Versions — Acrobat 8.0 changes in Acrobat.", "keywords": ["Changes Across Versions — Acrobat 8.0 changes"]},
+  {"topic": "Modified in Acrobat 8.0", "file": "references/scripting/acrobat-8-0-changes/modified-in-acrobat-8-0.md", "summary": "Open when looking up Modified in Acrobat 8.0 in Acrobat.", "keywords": ["Modified in Acrobat 8.0"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "audition", "topics": [
+  {"topic": "Fixed issues in Adobe Audition", "file": "references/desktop/introduction/fixed-issues-in-adobe-audition.md", "summary": "Open when looking up Fixed issues in Adobe Audition in Audition.", "keywords": ["Fixed issues in Adobe Audition"]},
+  {"topic": "Fixed issues in Adobe Audition references", "file": "references/desktop/introduction/fixed-issues-in-adobe-audition/reference-index.md", "summary": "Open when looking up Fixed issues in Adobe Audition in Audition.", "keywords": ["Fixed issues in Adobe Audition references"]},
+  {"topic": "Known issues", "file": "references/desktop/introduction/known-issues.md", "summary": "Open when looking up Known issues in Audition.", "keywords": ["Known issues"]},
+  {"topic": "Known issues references", "file": "references/desktop/introduction/known-issues/reference-index.md", "summary": "Open when looking up Known issues in Audition.", "keywords": ["Known issues references"]},
+  {"topic": "Release Notes | Adobe Audition", "file": "references/desktop/introduction/release-notes-adobe-audition.md", "summary": "Open when looking up Release Notes | Adobe Audition in Audition.", "keywords": ["Release Notes | Adobe Audition"]},
+  {"topic": "Release Notes | Adobe Audition references", "file": "references/desktop/introduction/release-notes-adobe-audition/reference-index.md", "summary": "Open when looking up Release Notes | Adobe Audition in Audition.", "keywords": ["Release Notes | Adobe Audition references"]},
+  {"topic": "What's new in Adobe Audition — January 2026 release (version 26.0)", "file": "references/desktop/introduction/january-2026-release-version-26-0.md", "summary": "Open when looking up What's new in Adobe Audition — January 2026 release (version 26.0) in Audition.", "keywords": ["What's new in Adobe Audition — January 2026 release (version 26.0)"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

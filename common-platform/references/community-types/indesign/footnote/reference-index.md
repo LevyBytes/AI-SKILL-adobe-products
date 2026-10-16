@@ -1,0 +1,34 @@
+# Shared Adobe platform — Footnote
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Footnote declaration in Shared Adobe platform. [Footnote declaration](declaration.md).
+- Open when looking up Footnote event listeners in Shared Adobe platform. [Footnote event listeners](event-listeners.md).
+- Open when looking up Footnote identity and parent in Shared Adobe platform. [Footnote identity and parent](identity-and-parent.md).
+- Open when looking up Footnote labels and metadata in Shared Adobe platform. [Footnote labels and metadata](labels-and-metadata.md).
+- Open when looking up Footnote object resolution in Shared Adobe platform. [Footnote object resolution](object-resolution.md).
+- Open when looking up Footnote.allGraphics in Shared Adobe platform. [Footnote.allGraphics](all-graphics.md).
+- Open when looking up Footnote.allPageItems in Shared Adobe platform. [Footnote.allPageItems](all-page-items.md).
+- Open when looking up Footnote.characters in Shared Adobe platform. [Footnote.characters](characters.md).
+- Open when looking up Footnote.contents in Shared Adobe platform. [Footnote.contents](contents.md).
+- Open when looking up Footnote.convertToText in Shared Adobe platform. [Footnote.convertToText](convert-to-text.md).
+- Open when looking up Footnote.epstexts in Shared Adobe platform. [Footnote.epstexts](epstexts.md).
+- Open when looking up Footnote.graphicLines in Shared Adobe platform. [Footnote.graphicLines](graphic-lines.md).
+- Open when looking up Footnote.groups in Shared Adobe platform. [Footnote.groups](groups.md).
+- Open when looking up Footnote.hiddenTexts in Shared Adobe platform. [Footnote.hiddenTexts](hidden-texts.md).
+- Open when looking up Footnote.insertionPoints in Shared Adobe platform. [Footnote.insertionPoints](insertion-points.md).
+- Open when looking up Footnote.lines in Shared Adobe platform. [Footnote.lines](lines.md).
+- Open when looking up Footnote.ovals in Shared Adobe platform. [Footnote.ovals](ovals.md).
+- Open when looking up Footnote.pageItems in Shared Adobe platform. [Footnote.pageItems](page-items.md).
+- Open when looking up Footnote.paragraphs in Shared Adobe platform. [Footnote.paragraphs](paragraphs.md).
+- Open when looking up Footnote.polygons in Shared Adobe platform. [Footnote.polygons](polygons.md).
+- Open when looking up Footnote.properties in Shared Adobe platform. [Footnote.properties](properties.md).
+- Open when looking up Footnote.rectangles in Shared Adobe platform. [Footnote.rectangles](rectangles.md).
+- Open when looking up Footnote.remove in Shared Adobe platform. [Footnote.remove](remove.md).
+- Open when looking up Footnote.splineItems in Shared Adobe platform. [Footnote.splineItems](spline-items.md).
+- Open when looking up Footnote.storyOffset in Shared Adobe platform. [Footnote.storyOffset](story-offset.md).
+- Open when looking up Footnote.textColumns in Shared Adobe platform. [Footnote.textColumns](text-columns.md).
+- Open when looking up Footnote.textFrames in Shared Adobe platform. [Footnote.textFrames](text-frames.md).
+- Open when looking up Footnote.texts in Shared Adobe platform. [Footnote.texts](texts.md).
+- Open when looking up Footnote.textStyleRanges in Shared Adobe platform. [Footnote.textStyleRanges](text-style-ranges.md).
+- Open when looking up Footnote.textVariableInstances in Shared Adobe platform. [Footnote.textVariableInstances](text-variable-instances.md).
+- Open when looking up Footnote.words in Shared Adobe platform. [Footnote.words](words.md).

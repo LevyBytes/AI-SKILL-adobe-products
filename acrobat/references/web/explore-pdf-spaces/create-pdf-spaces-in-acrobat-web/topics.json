@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Create a PDF Space", "file": "references/web/explore-pdf-spaces/create-pdf-spaces-in-acrobat-web/create-a-pdf-space.md", "summary": "Open when looking up Create a PDF Space in Acrobat.", "keywords": ["Create a PDF Space"]},
+  {"topic": "Create content from your PDF Space", "file": "references/web/explore-pdf-spaces/create-pdf-spaces-in-acrobat-web/create-content-from-your-pdf-space.md", "summary": "Open when looking up Create content from your PDF Space in Acrobat.", "keywords": ["Create content from your PDF Space"]},
+  {"topic": "Customize your PDF Space", "file": "references/web/explore-pdf-spaces/create-pdf-spaces-in-acrobat-web/customize-your-pdf-space.md", "summary": "Open when looking up Customize your PDF Space in Acrobat.", "keywords": ["Customize your PDF Space"]},
+  {"topic": "Explore the PDF Space interface", "file": "references/web/explore-pdf-spaces/create-pdf-spaces-in-acrobat-web/explore-the-pdf-space-interface.md", "summary": "Open when looking up Explore the PDF Space interface in Acrobat.", "keywords": ["Explore the PDF Space interface"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

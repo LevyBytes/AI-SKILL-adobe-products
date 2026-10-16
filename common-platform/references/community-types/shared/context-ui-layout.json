@@ -1,0 +1,18 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "_Alignment", "file": "references/community-types/shared/alignment.md", "summary": "Open when looking up _Alignment in Shared Adobe platform.", "keywords": ["_Alignment"]},
+  {"topic": "_AlignmentProperty", "file": "references/community-types/shared/alignment-property.md", "summary": "Open when looking up _AlignmentProperty in Shared Adobe platform.", "keywords": ["_AlignmentProperty"]},
+  {"topic": "_AlignmentPropertyTitleLayout", "file": "references/community-types/shared/alignment-property-title-layout.md", "summary": "Open when looking up _AlignmentPropertyTitleLayout in Shared Adobe platform.", "keywords": ["_AlignmentPropertyTitleLayout"]},
+  {"topic": "AutoLayoutManager", "file": "references/community-types/shared/auto-layout-manager.md", "summary": "Open when looking up AutoLayoutManager in Shared Adobe platform.", "keywords": ["AutoLayoutManager"]},
+  {"topic": "_Bounds", "file": "references/community-types/shared/bounds-type-alias.md", "summary": "Open when looking up _Bounds in Shared Adobe platform.", "keywords": ["_Bounds"]},
+  {"topic": "Bounds", "file": "references/community-types/shared/bounds.md", "summary": "Open when looking up Bounds in Shared Adobe platform.", "keywords": ["Bounds"]},
+  {"topic": "_Dimension", "file": "references/community-types/shared/dimension-type-alias.md", "summary": "Open when looking up _Dimension in Shared Adobe platform.", "keywords": ["_Dimension"]},
+  {"topic": "Dimension", "file": "references/community-types/shared/dimension.md", "summary": "Open when looking up Dimension in Shared Adobe platform.", "keywords": ["Dimension"]},
+  {"topic": "_Justify", "file": "references/community-types/shared/justify.md", "summary": "Open when looking up _Justify in Shared Adobe platform.", "keywords": ["_Justify"]},
+  {"topic": "_Margins", "file": "references/community-types/shared/margins-type-alias.md", "summary": "Open when looking up _Margins in Shared Adobe platform.", "keywords": ["_Margins"]},
+  {"topic": "Margins", "file": "references/community-types/shared/margins.md", "summary": "Open when looking up Margins in Shared Adobe platform.", "keywords": ["Margins"]},
+  {"topic": "_Orientation", "file": "references/community-types/shared/orientation.md", "summary": "Open when looking up _Orientation in Shared Adobe platform.", "keywords": ["_Orientation"]},
+  {"topic": "Point", "file": "references/community-types/shared/point.md", "summary": "Open when looking up Point in Shared Adobe platform.", "keywords": ["Point"]},
+  {"topic": "_TitleLayout", "file": "references/community-types/shared/title-layout.md", "summary": "Open when looking up _TitleLayout in Shared Adobe platform.", "keywords": ["_TitleLayout"]},
+  {"topic": "_Truncate", "file": "references/community-types/shared/truncate.md", "summary": "Open when looking up _Truncate in Shared Adobe platform.", "keywords": ["_Truncate"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

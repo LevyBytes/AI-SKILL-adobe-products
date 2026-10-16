@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Next steps", "file": "references/uxp/building-your-first-plugin/next-steps.md", "summary": "Open when looking up Next steps in InDesign.", "keywords": ["Next steps"]},
+  {"topic": "Prerequisites", "file": "references/uxp/building-your-first-plugin/prerequisites.md", "summary": "Open when looking up Prerequisites in InDesign.", "keywords": ["Prerequisites"]},
+  {"topic": "Step 1: Create a plugin", "file": "references/uxp/building-your-first-plugin/step-1-create-a-plugin.md", "summary": "Open when looking up Step 1: Create a plugin in InDesign.", "keywords": ["Step 1: Create a plugin"]},
+  {"topic": "Step 2: Run the plugin", "file": "references/uxp/building-your-first-plugin/step-2-run-the-plugin.md", "summary": "Open when looking up Step 2: Run the plugin in InDesign.", "keywords": ["Step 2: Run the plugin"]},
+  {"topic": "Step 3: Make a change", "file": "references/uxp/building-your-first-plugin/step-3-make-a-change.md", "summary": "Open when looking up Step 3: Make a change in InDesign.", "keywords": ["Step 3: Make a change"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

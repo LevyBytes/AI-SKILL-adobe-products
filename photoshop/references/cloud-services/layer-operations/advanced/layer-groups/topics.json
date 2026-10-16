@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Adding a layer into an existing group", "file": "references/cloud-services/layer-operations/advanced/layer-groups/adding-a-layer-into-an-existing-group.md", "summary": "Open when looking up Adding a layer into an existing group in Photoshop.", "keywords": ["Adding a layer into an existing group"]},
+  {"topic": "Editing group layers", "file": "references/cloud-services/layer-operations/advanced/layer-groups/editing-group-layers.md", "summary": "Open when looking up Editing group layers in Photoshop.", "keywords": ["Editing group layers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "motionPresets", "file": "references/document-model/document/motion-presets.md", "summary": "Open when looking up motionPresets in InDesign.", "keywords": ["motionPresets"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Apply filter effects", "file": "references/desktop/effects-and-styles/apply-filter-effects.md", "summary": "Open when looking up Apply filter effects in Illustrator.", "keywords": ["Apply filter effects"]},
+  {"topic": "Apply filter effects references", "file": "references/desktop/effects-and-styles/apply-filter-effects/reference-index.md", "summary": "Open when looking up Apply filter effects in Illustrator.", "keywords": ["Apply filter effects references"]},
+  {"topic": "Apply graphic styles", "file": "references/desktop/effects-and-styles/apply-graphic-styles.md", "summary": "Open when looking up Apply graphic styles in Illustrator.", "keywords": ["Apply graphic styles"]},
+  {"topic": "Apply graphic styles references", "file": "references/desktop/effects-and-styles/apply-graphic-styles/reference-index.md", "summary": "Open when looking up Apply graphic styles in Illustrator.", "keywords": ["Apply graphic styles references"]},
+  {"topic": "Create 3D graphics", "file": "references/desktop/effects-and-styles/create-3-d-graphics.md", "summary": "Open when looking up Create 3D graphics in Illustrator.", "keywords": ["Create 3D graphics"]},
+  {"topic": "Create 3D graphics references", "file": "references/desktop/effects-and-styles/create-3-d-graphics/reference-index.md", "summary": "Open when looking up Create 3D graphics in Illustrator.", "keywords": ["Create 3D graphics references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

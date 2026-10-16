@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Apply layer properties across all frames", "file": "references/desktop/add-video-and-animation/create-animation-frames/unified-frame-layer-properties/apply-layer-properties-across-all-frames.md", "summary": "Open when looking up Apply layer properties across all frames in Photoshop.", "keywords": ["Apply layer properties across all frames"]},
+  {"topic": "Propagate changes from the first frame", "file": "references/desktop/add-video-and-animation/create-animation-frames/unified-frame-layer-properties/propagate-changes-from-the-first-frame.md", "summary": "Open when looking up Propagate changes from the first frame in Photoshop.", "keywords": ["Propagate changes from the first frame"]},
+  {"topic": "Show or hide unify layer buttons", "file": "references/desktop/add-video-and-animation/create-animation-frames/unified-frame-layer-properties/show-or-hide-unify-layer-buttons.md", "summary": "Open when looking up Show or hide unify layer buttons in Photoshop.", "keywords": ["Show or hide unify layer buttons"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

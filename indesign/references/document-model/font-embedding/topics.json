@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "COMPLETE", "file": "references/document-model/font-embedding/complete.md", "summary": "Open when looking up COMPLETE in InDesign.", "keywords": ["COMPLETE"]},
+  {"topic": "NONE", "file": "references/document-model/font-embedding/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "SUBSET", "file": "references/document-model/font-embedding/subset.md", "summary": "Open when looking up SUBSET in InDesign.", "keywords": ["SUBSET"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

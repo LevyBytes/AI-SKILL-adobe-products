@@ -1,0 +1,35 @@
+# After Effects — AEGP_UtilitySuite6
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up AEGP_CauseIdleRoutinesToBeCalled in After Effects. [AEGP_CauseIdleRoutinesToBeCalled](aegp-cause-idle-routines-to-be-called.md).
+- Open when looking up AEGP_CharPalGetFillColor in After Effects. [AEGP_CharPalGetFillColor](aegp-char-pal-get-fill-color.md).
+- Open when looking up AEGP_CharPalGetStrokeColor in After Effects. [AEGP_CharPalGetStrokeColor](aegp-char-pal-get-stroke-color.md).
+- Open when looking up AEGP_CharPalIsFillColorUIFrontmost in After Effects. [AEGP_CharPalIsFillColorUIFrontmost](aegp-char-pal-is-fill-color-ui-frontmost.md).
+- Open when looking up AEGP_CharPalSetFillColor in After Effects. [AEGP_CharPalSetFillColor](aegp-char-pal-set-fill-color.md).
+- Open when looking up AEGP_CharPalSetStrokeColor in After Effects. [AEGP_CharPalSetStrokeColor](aegp-char-pal-set-stroke-color.md).
+- Open when looking up AEGP_ConvertFpLongToHSFRatio in After Effects. [AEGP_ConvertFpLongToHSFRatio](aegp-convert-fp-long-to-hsf-ratio.md).
+- Open when looking up AEGP_ConvertHSFRatioToFpLong in After Effects. [AEGP_ConvertHSFRatioToFpLong](aegp-convert-hsf-ratio-to-fp-long.md).
+- Open when looking up AEGP_EndQuietErrors in After Effects. [AEGP_EndQuietErrors](aegp-end-quiet-errors.md).
+- Open when looking up AEGP_EndUndoGroup in After Effects. [AEGP_EndUndoGroup](aegp-end-undo-group.md).
+- Open when looking up AEGP_ExecuteScript in After Effects. [AEGP_ExecuteScript](aegp-execute-script.md).
+- Open when looking up AEGP_GetDriverSpecVersion in After Effects. [AEGP_GetDriverSpecVersion](aegp-get-driver-spec-version.md).
+- Open when looking up AEGP_GetLastErrorMessage in After Effects. [AEGP_GetLastErrorMessage](aegp-get-last-error-message.md).
+- Open when looking up AEGP_GetMainHWND in After Effects. [AEGP_GetMainHWND](aegp-get-main-hwnd.md).
+- Open when looking up AEGP_GetPluginPaths in After Effects. [AEGP_GetPluginPaths](aegp-get-plugin-paths.md).
+- Open when looking up AEGP_GetPluginPlatformRef in After Effects. [AEGP_GetPluginPlatformRef](aegp-get-plugin-platform-ref.md).
+- Open when looking up AEGP_GetSuppressInteractiveUI in After Effects. [AEGP_GetSuppressInteractiveUI](aegp-get-suppress-interactive-ui.md).
+- Open when looking up AEGP_HostIsActivated in After Effects. [AEGP_HostIsActivated](aegp-host-is-activated.md).
+- Open when looking up AEGP_IsScriptingAvailable in After Effects. [AEGP_IsScriptingAvailable](aegp-is-scripting-available.md).
+- Open when looking up AEGP_PaintPalGetBackColor in After Effects. [AEGP_PaintPalGetBackColor](aegp-paint-pal-get-back-color.md).
+- Open when looking up AEGP_PaintPalGetForeColor in After Effects. [AEGP_PaintPalGetForeColor](aegp-paint-pal-get-fore-color.md).
+- Open when looking up AEGP_PaintPalSetBackColor in After Effects. [AEGP_PaintPalSetBackColor](aegp-paint-pal-set-back-color.md).
+- Open when looking up AEGP_PaintPalSetForeColor in After Effects. [AEGP_PaintPalSetForeColor](aegp-paint-pal-set-fore-color.md).
+- Open when looking up AEGP_RegisterWithAEGP in After Effects. [AEGP_RegisterWithAEGP](aegp-register-with-aegp.md).
+- Open when looking up AEGP_ReportInfo in After Effects. [AEGP_ReportInfo](aegp-report-info.md).
+- Open when looking up AEGP_ReportInfoUnicode in After Effects. [AEGP_ReportInfoUnicode](aegp-report-info-unicode.md).
+- Open when looking up AEGP_ShowHideAllFloaters in After Effects. [AEGP_ShowHideAllFloaters](aegp-show-hide-all-floaters.md).
+- Open when looking up AEGP_StartQuietErrors in After Effects. [AEGP_StartQuietErrors](aegp-start-quiet-errors.md).
+- Open when looking up AEGP_StartUndoGroup in After Effects. [AEGP_StartUndoGroup](aegp-start-undo-group.md).
+- Open when looking up AEGP_UpdateFontList in After Effects. [AEGP_UpdateFontList](aegp-update-font-list.md).
+- Open when looking up AEGP_WriteToDebugLog in After Effects. [AEGP_WriteToDebugLog](aegp-write-to-debug-log.md).
+- Open when looking up AEGP_WriteToOSConsole in After Effects. [AEGP_WriteToOSConsole](aegp-write-to-os-console.md).

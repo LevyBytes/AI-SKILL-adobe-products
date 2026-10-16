@@ -1,0 +1,31 @@
+# Premiere Pro — Project
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up close in Premiere Pro. [close](close.md).
+- Open when looking up closeSequence in Premiere Pro. [closeSequence](close-sequence.md).
+- Open when looking up createProject in Premiere Pro. [createProject](create-project.md).
+- Open when looking up createSequence in Premiere Pro. [createSequence](create-sequence.md).
+- Open when looking up createSequenceFromMedia in Premiere Pro. [createSequenceFromMedia](create-sequence-from-media.md).
+- Open when looking up deleteSequence in Premiere Pro. [deleteSequence](delete-sequence.md).
+- Open when looking up executeTransaction in Premiere Pro. [executeTransaction](execute-transaction.md).
+- Open when looking up getActiveProject in Premiere Pro. [getActiveProject](get-active-project.md).
+- Open when looking up getActiveSequence in Premiere Pro. [getActiveSequence](get-active-sequence.md).
+- Open when looking up getColorSettings in Premiere Pro. [getColorSettings](get-color-settings.md).
+- Open when looking up getInsertionBin in Premiere Pro. [getInsertionBin](get-insertion-bin.md).
+- Open when looking up getProject in Premiere Pro. [getProject](get-project.md).
+- Open when looking up getRootItem in Premiere Pro. [getRootItem](get-root-item.md).
+- Open when looking up getSequence in Premiere Pro. [getSequence](get-sequence.md).
+- Open when looking up getSequences in Premiere Pro. [getSequences](get-sequences.md).
+- Open when looking up importAEComps in Premiere Pro. [importAEComps](import-ae-comps.md).
+- Open when looking up importAllAEComps in Premiere Pro. [importAllAEComps](import-all-ae-comps.md).
+- Open when looking up importFiles in Premiere Pro. [importFiles](import-files.md).
+- Open when looking up importSequences in Premiere Pro. [importSequences](import-sequences.md).
+- Open when looking up isProject in Premiere Pro. [isProject](is-project.md).
+- Open when looking up lockedAccess in Premiere Pro. [lockedAccess](locked-access.md).
+- Open when looking up open in Premiere Pro. [open](open.md).
+- Open when looking up openSequence in Premiere Pro. [openSequence](open-sequence.md).
+- Open when looking up pauseGrowing in Premiere Pro. [pauseGrowing](pause-growing.md).
+- Open when looking up Project — Properties in Premiere Pro. [Project — Properties](project-properties.md).
+- Open when looking up save in Premiere Pro. [save](save.md).
+- Open when looking up saveAs in Premiere Pro. [saveAs](save-as.md).
+- Open when looking up setActiveSequence in Premiere Pro. [setActiveSequence](set-active-sequence.md).

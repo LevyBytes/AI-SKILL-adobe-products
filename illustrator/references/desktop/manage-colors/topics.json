@@ -1,0 +1,13 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Apply transparency and blending", "file": "references/desktop/manage-colors/apply-transparency-and-blending.md", "summary": "Open when looking up Apply transparency and blending in Illustrator.", "keywords": ["Apply transparency and blending"]},
+  {"topic": "Apply transparency and blending references", "file": "references/desktop/manage-colors/apply-transparency-and-blending/reference-index.md", "summary": "Open when looking up Apply transparency and blending in Illustrator.", "keywords": ["Apply transparency and blending references"]},
+  {"topic": "Learn color basics", "file": "references/desktop/manage-colors/learn-color-basics.md", "summary": "Open when looking up Learn color basics in Illustrator.", "keywords": ["Learn color basics"]},
+  {"topic": "Learn color basics references", "file": "references/desktop/manage-colors/learn-color-basics/reference-index.md", "summary": "Open when looking up Learn color basics in Illustrator.", "keywords": ["Learn color basics references"]},
+  {"topic": "Modify colors", "file": "references/desktop/manage-colors/modify-colors.md", "summary": "Open when looking up Modify colors in Illustrator.", "keywords": ["Modify colors"]},
+  {"topic": "Modify colors references", "file": "references/desktop/manage-colors/modify-colors/reference-index.md", "summary": "Open when looking up Modify colors in Illustrator.", "keywords": ["Modify colors references"]},
+  {"topic": "Select and adjust colors", "file": "references/desktop/manage-colors/select-and-adjust-colors.md", "summary": "Open when looking up Select and adjust colors in Illustrator.", "keywords": ["Select and adjust colors"]},
+  {"topic": "Select and adjust colors references", "file": "references/desktop/manage-colors/select-and-adjust-colors/reference-index.md", "summary": "Open when looking up Select and adjust colors in Illustrator.", "keywords": ["Select and adjust colors references"]},
+  {"topic": "Use swatches", "file": "references/desktop/manage-colors/use-swatches.md", "summary": "Open when looking up Use swatches in Illustrator.", "keywords": ["Use swatches"]},
+  {"topic": "Use swatches references", "file": "references/desktop/manage-colors/use-swatches/reference-index.md", "summary": "Open when looking up Use swatches in Illustrator.", "keywords": ["Use swatches references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

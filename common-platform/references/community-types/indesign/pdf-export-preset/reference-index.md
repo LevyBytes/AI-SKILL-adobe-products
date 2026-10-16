@@ -1,0 +1,81 @@
+# Shared Adobe platform — PDFExportPreset
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up PDFExportPreset declaration in Shared Adobe platform. [PDFExportPreset declaration](declaration.md).
+- Open when looking up PDFExportPreset event listeners in Shared Adobe platform. [PDFExportPreset event listeners](event-listeners.md).
+- Open when looking up PDFExportPreset identity and parent in Shared Adobe platform. [PDFExportPreset identity and parent](identity-and-parent.md).
+- Open when looking up PDFExportPreset object lifecycle in Shared Adobe platform. [PDFExportPreset object lifecycle](object-lifecycle.md).
+- Open when looking up PDFExportPreset object resolution in Shared Adobe platform. [PDFExportPreset object resolution](object-resolution.md).
+- Open when looking up PDFExportPreset.acrobatCompatibility in Shared Adobe platform. [PDFExportPreset.acrobatCompatibility](acrobat-compatibility.md).
+- Open when looking up PDFExportPreset.appliedFlattenerPreset in Shared Adobe platform. [PDFExportPreset.appliedFlattenerPreset](applied-flattener-preset.md).
+- Open when looking up PDFExportPreset.bleedBottom in Shared Adobe platform. [PDFExportPreset.bleedBottom](bleed-bottom.md).
+- Open when looking up PDFExportPreset.bleedInside in Shared Adobe platform. [PDFExportPreset.bleedInside](bleed-inside.md).
+- Open when looking up PDFExportPreset.bleedMarks in Shared Adobe platform. [PDFExportPreset.bleedMarks](bleed-marks.md).
+- Open when looking up PDFExportPreset.bleedOutside in Shared Adobe platform. [PDFExportPreset.bleedOutside](bleed-outside.md).
+- Open when looking up PDFExportPreset.bleedTop in Shared Adobe platform. [PDFExportPreset.bleedTop](bleed-top.md).
+- Open when looking up PDFExportPreset.colorBars in Shared Adobe platform. [PDFExportPreset.colorBars](color-bars.md).
+- Open when looking up PDFExportPreset.colorBitmapCompression in Shared Adobe platform. [PDFExportPreset.colorBitmapCompression](color-bitmap-compression.md).
+- Open when looking up PDFExportPreset.colorBitmapQuality in Shared Adobe platform. [PDFExportPreset.colorBitmapQuality](color-bitmap-quality.md).
+- Open when looking up PDFExportPreset.colorBitmapSampling in Shared Adobe platform. [PDFExportPreset.colorBitmapSampling](color-bitmap-sampling.md).
+- Open when looking up PDFExportPreset.colorBitmapSamplingDPI in Shared Adobe platform. [PDFExportPreset.colorBitmapSamplingDPI](color-bitmap-sampling-dpi.md).
+- Open when looking up PDFExportPreset.colorTileSize in Shared Adobe platform. [PDFExportPreset.colorTileSize](color-tile-size.md).
+- Open when looking up PDFExportPreset.compressionType in Shared Adobe platform. [PDFExportPreset.compressionType](compression-type.md).
+- Open when looking up PDFExportPreset.compressTextAndLineArt in Shared Adobe platform. [PDFExportPreset.compressTextAndLineArt](compress-text-and-line-art.md).
+- Open when looking up PDFExportPreset.cropImagesToFrames in Shared Adobe platform. [PDFExportPreset.cropImagesToFrames](crop-images-to-frames.md).
+- Open when looking up PDFExportPreset.cropMarks in Shared Adobe platform. [PDFExportPreset.cropMarks](crop-marks.md).
+- Open when looking up PDFExportPreset.defaultDocumentLanguage in Shared Adobe platform. [PDFExportPreset.defaultDocumentLanguage](default-document-language.md).
+- Open when looking up PDFExportPreset.effectiveOCRegistry in Shared Adobe platform. [PDFExportPreset.effectiveOCRegistry](effective-oc-registry.md).
+- Open when looking up PDFExportPreset.effectiveOutputCondition in Shared Adobe platform. [PDFExportPreset.effectiveOutputCondition](effective-output-condition.md).
+- Open when looking up PDFExportPreset.effectivePDFDestinationProfile in Shared Adobe platform. [PDFExportPreset.effectivePDFDestinationProfile](effective-pdf-destination-profile.md).
+- Open when looking up PDFExportPreset.effectivePDFXProfile in Shared Adobe platform. [PDFExportPreset.effectivePDFXProfile](effective-pdfx-profile.md).
+- Open when looking up PDFExportPreset.exportAsSinglePages in Shared Adobe platform. [PDFExportPreset.exportAsSinglePages](export-as-single-pages.md).
+- Open when looking up PDFExportPreset.exportGuidesAndGrids in Shared Adobe platform. [PDFExportPreset.exportGuidesAndGrids](export-guides-and-grids.md).
+- Open when looking up PDFExportPreset.exportLayers in Shared Adobe platform. [PDFExportPreset.exportLayers](export-layers.md).
+- Open when looking up PDFExportPreset.exportNonprintingObjects in Shared Adobe platform. [PDFExportPreset.exportNonprintingObjects](export-nonprinting-objects.md).
+- Open when looking up PDFExportPreset.exportReaderSpreads in Shared Adobe platform. [PDFExportPreset.exportReaderSpreads](export-reader-spreads.md).
+- Open when looking up PDFExportPreset.exportWhichLayers in Shared Adobe platform. [PDFExportPreset.exportWhichLayers](export-which-layers.md).
+- Open when looking up PDFExportPreset.fullName in Shared Adobe platform. [PDFExportPreset.fullName](full-name.md).
+- Open when looking up PDFExportPreset.generateThumbnails in Shared Adobe platform. [PDFExportPreset.generateThumbnails](generate-thumbnails.md).
+- Open when looking up PDFExportPreset.grayscaleBitmapCompression in Shared Adobe platform. [PDFExportPreset.grayscaleBitmapCompression](grayscale-bitmap-compression.md).
+- Open when looking up PDFExportPreset.grayscaleBitmapQuality in Shared Adobe platform. [PDFExportPreset.grayscaleBitmapQuality](grayscale-bitmap-quality.md).
+- Open when looking up PDFExportPreset.grayscaleBitmapSampling in Shared Adobe platform. [PDFExportPreset.grayscaleBitmapSampling](grayscale-bitmap-sampling.md).
+- Open when looking up PDFExportPreset.grayscaleBitmapSamplingDPI in Shared Adobe platform. [PDFExportPreset.grayscaleBitmapSamplingDPI](grayscale-bitmap-sampling-dpi.md).
+- Open when looking up PDFExportPreset.grayTileSize in Shared Adobe platform. [PDFExportPreset.grayTileSize](gray-tile-size.md).
+- Open when looking up PDFExportPreset.ignoreSpreadOverrides in Shared Adobe platform. [PDFExportPreset.ignoreSpreadOverrides](ignore-spread-overrides.md).
+- Open when looking up PDFExportPreset.includeBookmarks in Shared Adobe platform. [PDFExportPreset.includeBookmarks](include-bookmarks.md).
+- Open when looking up PDFExportPreset.includeHyperlinks in Shared Adobe platform. [PDFExportPreset.includeHyperlinks](include-hyperlinks.md).
+- Open when looking up PDFExportPreset.includeICCProfiles in Shared Adobe platform. [PDFExportPreset.includeICCProfiles](include-icc-profiles.md).
+- Open when looking up PDFExportPreset.includeSlugWithPDF in Shared Adobe platform. [PDFExportPreset.includeSlugWithPDF](include-slug-with-pdf.md).
+- Open when looking up PDFExportPreset.includeStructure in Shared Adobe platform. [PDFExportPreset.includeStructure](include-structure.md).
+- Open when looking up PDFExportPreset.interactiveElementsOption in Shared Adobe platform. [PDFExportPreset.interactiveElementsOption](interactive-elements-option.md).
+- Open when looking up PDFExportPreset.monochromeBitmapCompression in Shared Adobe platform. [PDFExportPreset.monochromeBitmapCompression](monochrome-bitmap-compression.md).
+- Open when looking up PDFExportPreset.monochromeBitmapSampling in Shared Adobe platform. [PDFExportPreset.monochromeBitmapSampling](monochrome-bitmap-sampling.md).
+- Open when looking up PDFExportPreset.monochromeBitmapSamplingDPI in Shared Adobe platform. [PDFExportPreset.monochromeBitmapSamplingDPI](monochrome-bitmap-sampling-dpi.md).
+- Open when looking up PDFExportPreset.ocRegistry in Shared Adobe platform. [PDFExportPreset.ocRegistry](oc-registry.md).
+- Open when looking up PDFExportPreset.omitBitmaps in Shared Adobe platform. [PDFExportPreset.omitBitmaps](omit-bitmaps.md).
+- Open when looking up PDFExportPreset.omitEPS in Shared Adobe platform. [PDFExportPreset.omitEPS](omit-eps.md).
+- Open when looking up PDFExportPreset.omitPDF in Shared Adobe platform. [PDFExportPreset.omitPDF](omit-pdf.md).
+- Open when looking up PDFExportPreset.openInFullScreen in Shared Adobe platform. [PDFExportPreset.openInFullScreen](open-in-full-screen.md).
+- Open when looking up PDFExportPreset.optimizePDF in Shared Adobe platform. [PDFExportPreset.optimizePDF](optimize-pdf.md).
+- Open when looking up PDFExportPreset.outputCondition in Shared Adobe platform. [PDFExportPreset.outputCondition](output-condition.md).
+- Open when looking up PDFExportPreset.outputConditionName in Shared Adobe platform. [PDFExportPreset.outputConditionName](output-condition-name.md).
+- Open when looking up PDFExportPreset.pageInformationMarks in Shared Adobe platform. [PDFExportPreset.pageInformationMarks](page-information-marks.md).
+- Open when looking up PDFExportPreset.pageMarksOffset in Shared Adobe platform. [PDFExportPreset.pageMarksOffset](page-marks-offset.md).
+- Open when looking up PDFExportPreset.pdfColorSpace in Shared Adobe platform. [PDFExportPreset.pdfColorSpace](pdf-color-space.md).
+- Open when looking up PDFExportPreset.pdfDestinationProfile in Shared Adobe platform. [PDFExportPreset.pdfDestinationProfile](pdf-destination-profile.md).
+- Open when looking up PDFExportPreset.pdfDisplayTitle in Shared Adobe platform. [PDFExportPreset.pdfDisplayTitle](pdf-display-title.md).
+- Open when looking up PDFExportPreset.pdfMagnification in Shared Adobe platform. [PDFExportPreset.pdfMagnification](pdf-magnification.md).
+- Open when looking up PDFExportPreset.pdfMarkType in Shared Adobe platform. [PDFExportPreset.pdfMarkType](pdf-mark-type.md).
+- Open when looking up PDFExportPreset.pdfPageLayout in Shared Adobe platform. [PDFExportPreset.pdfPageLayout](pdf-page-layout.md).
+- Open when looking up PDFExportPreset.pdfXProfile in Shared Adobe platform. [PDFExportPreset.pdfXProfile](pdf-x-profile.md).
+- Open when looking up PDFExportPreset.printerMarkWeight in Shared Adobe platform. [PDFExportPreset.printerMarkWeight](printer-mark-weight.md).
+- Open when looking up PDFExportPreset.properties in Shared Adobe platform. [PDFExportPreset.properties](properties.md).
+- Open when looking up PDFExportPreset.registrationMarks in Shared Adobe platform. [PDFExportPreset.registrationMarks](registration-marks.md).
+- Open when looking up PDFExportPreset.simulateOverprint in Shared Adobe platform. [PDFExportPreset.simulateOverprint](simulate-overprint.md).
+- Open when looking up PDFExportPreset.singlePagesPDFSuffix in Shared Adobe platform. [PDFExportPreset.singlePagesPDFSuffix](single-pages-pdf-suffix.md).
+- Open when looking up PDFExportPreset.standardsCompliance in Shared Adobe platform. [PDFExportPreset.standardsCompliance](standards-compliance.md).
+- Open when looking up PDFExportPreset.subsetFontsBelow in Shared Adobe platform. [PDFExportPreset.subsetFontsBelow](subset-fonts-below.md).
+- Open when looking up PDFExportPreset.thresholdToCompressColor in Shared Adobe platform. [PDFExportPreset.thresholdToCompressColor](threshold-to-compress-color.md).
+- Open when looking up PDFExportPreset.thresholdToCompressGray in Shared Adobe platform. [PDFExportPreset.thresholdToCompressGray](threshold-to-compress-gray.md).
+- Open when looking up PDFExportPreset.thresholdToCompressMonochrome in Shared Adobe platform. [PDFExportPreset.thresholdToCompressMonochrome](threshold-to-compress-monochrome.md).
+- Open when looking up PDFExportPreset.useDocumentBleedWithPDF in Shared Adobe platform. [PDFExportPreset.useDocumentBleedWithPDF](use-document-bleed-with-pdf.md).

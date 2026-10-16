@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Articles collection iteration", "file": "references/community-types/indesign/articles/collection-iteration.md", "summary": "Open when looking up Articles collection iteration in Shared Adobe platform.", "keywords": ["Articles collection iteration"]},
+  {"topic": "Articles declaration", "file": "references/community-types/indesign/articles/declaration.md", "summary": "Open when looking up Articles declaration in Shared Adobe platform.", "keywords": ["Articles declaration"]},
+  {"topic": "Articles named and indexed items", "file": "references/community-types/indesign/articles/named-and-indexed-items.md", "summary": "Open when looking up Articles named and indexed items in Shared Adobe platform.", "keywords": ["Articles named and indexed items"]},
+  {"topic": "Articles.add", "file": "references/community-types/indesign/articles/add.md", "summary": "Open when looking up Articles.add in Shared Adobe platform.", "keywords": ["Articles.add"]},
+  {"topic": "Articles.count", "file": "references/community-types/indesign/articles/count.md", "summary": "Open when looking up Articles.count in Shared Adobe platform.", "keywords": ["Articles.count"]},
+  {"topic": "Articles.IndexSignature", "file": "references/community-types/indesign/articles/index-signature.md", "summary": "Open when looking up Articles.IndexSignature in Shared Adobe platform.", "keywords": ["Articles.IndexSignature"]},
+  {"topic": "Articles.itemByRange", "file": "references/community-types/indesign/articles/item-by-range.md", "summary": "Open when looking up Articles.itemByRange in Shared Adobe platform.", "keywords": ["Articles.itemByRange"]},
+  {"topic": "Articles.length", "file": "references/community-types/indesign/articles/length.md", "summary": "Open when looking up Articles.length in Shared Adobe platform.", "keywords": ["Articles.length"]},
+  {"topic": "Articles.toSource", "file": "references/community-types/indesign/articles/to-source.md", "summary": "Open when looking up Articles.toSource in Shared Adobe platform.", "keywords": ["Articles.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

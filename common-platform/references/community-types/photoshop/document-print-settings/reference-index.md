@@ -1,0 +1,32 @@
+# Shared Adobe platform — DocumentPrintSettings
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up DocumentPrintSettings declaration in Shared Adobe platform. [DocumentPrintSettings declaration](declaration.md).
+- Open when looking up DocumentPrintSettings identity and parent in Shared Adobe platform. [DocumentPrintSettings identity and parent](identity-and-parent.md).
+- Open when looking up DocumentPrintSettings.activePrinter in Shared Adobe platform. [DocumentPrintSettings.activePrinter](active-printer.md).
+- Open when looking up DocumentPrintSettings.backgroundColor in Shared Adobe platform. [DocumentPrintSettings.backgroundColor](background-color.md).
+- Open when looking up DocumentPrintSettings.bleedWidth in Shared Adobe platform. [DocumentPrintSettings.bleedWidth](bleed-width.md).
+- Open when looking up DocumentPrintSettings.caption in Shared Adobe platform. [DocumentPrintSettings.caption](caption.md).
+- Open when looking up DocumentPrintSettings.centerCropMarks in Shared Adobe platform. [DocumentPrintSettings.centerCropMarks](center-crop-marks.md).
+- Open when looking up DocumentPrintSettings.colorBars in Shared Adobe platform. [DocumentPrintSettings.colorBars](color-bars.md).
+- Open when looking up DocumentPrintSettings.colorHandling in Shared Adobe platform. [DocumentPrintSettings.colorHandling](color-handling.md).
+- Open when looking up DocumentPrintSettings.copies in Shared Adobe platform. [DocumentPrintSettings.copies](copies.md).
+- Open when looking up DocumentPrintSettings.cornerCropMarks in Shared Adobe platform. [DocumentPrintSettings.cornerCropMarks](corner-crop-marks.md).
+- Open when looking up DocumentPrintSettings.docPosition in Shared Adobe platform. [DocumentPrintSettings.docPosition](doc-position.md).
+- Open when looking up DocumentPrintSettings.flip in Shared Adobe platform. [DocumentPrintSettings.flip](flip.md).
+- Open when looking up DocumentPrintSettings.hardProof in Shared Adobe platform. [DocumentPrintSettings.hardProof](hard-proof.md).
+- Open when looking up DocumentPrintSettings.interpolate in Shared Adobe platform. [DocumentPrintSettings.interpolate](interpolate.md).
+- Open when looking up DocumentPrintSettings.labels in Shared Adobe platform. [DocumentPrintSettings.labels](labels.md).
+- Open when looking up DocumentPrintSettings.mapBlack in Shared Adobe platform. [DocumentPrintSettings.mapBlack](map-black.md).
+- Open when looking up DocumentPrintSettings.negative in Shared Adobe platform. [DocumentPrintSettings.negative](negative.md).
+- Open when looking up DocumentPrintSettings.posX in Shared Adobe platform. [DocumentPrintSettings.posX](pos-x.md).
+- Open when looking up DocumentPrintSettings.posY in Shared Adobe platform. [DocumentPrintSettings.posY](pos-y.md).
+- Open when looking up DocumentPrintSettings.printBorder in Shared Adobe platform. [DocumentPrintSettings.printBorder](print-border.md).
+- Open when looking up DocumentPrintSettings.printerName in Shared Adobe platform. [DocumentPrintSettings.printerName](printer-name.md).
+- Open when looking up DocumentPrintSettings.printers in Shared Adobe platform. [DocumentPrintSettings.printers](printers.md).
+- Open when looking up DocumentPrintSettings.printSpace in Shared Adobe platform. [DocumentPrintSettings.printSpace](print-space.md).
+- Open when looking up DocumentPrintSettings.registrationMarks in Shared Adobe platform. [DocumentPrintSettings.registrationMarks](registration-marks.md).
+- Open when looking up DocumentPrintSettings.renderIntent in Shared Adobe platform. [DocumentPrintSettings.renderIntent](render-intent.md).
+- Open when looking up DocumentPrintSettings.scale in Shared Adobe platform. [DocumentPrintSettings.scale](scale.md).
+- Open when looking up DocumentPrintSettings.setPagePosition in Shared Adobe platform. [DocumentPrintSettings.setPagePosition](set-page-position.md).
+- Open when looking up DocumentPrintSettings.vectorData in Shared Adobe platform. [DocumentPrintSettings.vectorData](vector-data.md).

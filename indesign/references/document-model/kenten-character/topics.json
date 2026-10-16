@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "CUSTOM", "file": "references/document-model/kenten-character/custom.md", "summary": "Open when looking up CUSTOM in InDesign.", "keywords": ["CUSTOM"]},
+  {"topic": "KENTEN_BLACK_CIRCLE", "file": "references/document-model/kenten-character/kentenblackcircle.md", "summary": "Open when looking up KENTEN_BLACK_CIRCLE in InDesign.", "keywords": ["KENTEN_BLACK_CIRCLE"]},
+  {"topic": "KENTEN_BLACK_TRIANGLE", "file": "references/document-model/kenten-character/kentenblacktriangle.md", "summary": "Open when looking up KENTEN_BLACK_TRIANGLE in InDesign.", "keywords": ["KENTEN_BLACK_TRIANGLE"]},
+  {"topic": "KENTEN_BULLSEYE", "file": "references/document-model/kenten-character/kentenbullseye.md", "summary": "Open when looking up KENTEN_BULLSEYE in InDesign.", "keywords": ["KENTEN_BULLSEYE"]},
+  {"topic": "KENTEN_FISHEYE", "file": "references/document-model/kenten-character/kentenfisheye.md", "summary": "Open when looking up KENTEN_FISHEYE in InDesign.", "keywords": ["KENTEN_FISHEYE"]},
+  {"topic": "KENTEN_SESAME_DOT", "file": "references/document-model/kenten-character/kentensesamedot.md", "summary": "Open when looking up KENTEN_SESAME_DOT in InDesign.", "keywords": ["KENTEN_SESAME_DOT"]},
+  {"topic": "KENTEN_SMALL_BLACK_CIRCLE", "file": "references/document-model/kenten-character/kentensmallblackcircle.md", "summary": "Open when looking up KENTEN_SMALL_BLACK_CIRCLE in InDesign.", "keywords": ["KENTEN_SMALL_BLACK_CIRCLE"]},
+  {"topic": "KENTEN_SMALL_WHITE_CIRCLE", "file": "references/document-model/kenten-character/kentensmallwhitecircle.md", "summary": "Open when looking up KENTEN_SMALL_WHITE_CIRCLE in InDesign.", "keywords": ["KENTEN_SMALL_WHITE_CIRCLE"]},
+  {"topic": "KENTEN_WHITE_CIRCLE", "file": "references/document-model/kenten-character/kentenwhitecircle.md", "summary": "Open when looking up KENTEN_WHITE_CIRCLE in InDesign.", "keywords": ["KENTEN_WHITE_CIRCLE"]},
+  {"topic": "KENTEN_WHITE_SESAME_DOT", "file": "references/document-model/kenten-character/kentenwhitesesamedot.md", "summary": "Open when looking up KENTEN_WHITE_SESAME_DOT in InDesign.", "keywords": ["KENTEN_WHITE_SESAME_DOT"]},
+  {"topic": "KENTEN_WHITE_TRIANGLE", "file": "references/document-model/kenten-character/kentenwhitetriangle.md", "summary": "Open when looking up KENTEN_WHITE_TRIANGLE in InDesign.", "keywords": ["KENTEN_WHITE_TRIANGLE"]},
+  {"topic": "NONE", "file": "references/document-model/kenten-character/none.md", "summary": "Open when looking up NONE in InDesign.", "keywords": ["NONE"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

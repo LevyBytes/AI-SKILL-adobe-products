@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "PF_CheckinLayerChannel", "file": "references/plugin-sdk/pf-channel-suite1/pf-checkin-layer-channel.md", "summary": "Open when looking up PF_CheckinLayerChannel in After Effects.", "keywords": ["PF_CheckinLayerChannel"]},
+  {"topic": "PF_CheckoutLayerChannel", "file": "references/plugin-sdk/pf-channel-suite1/pf-checkout-layer-channel.md", "summary": "Open when looking up PF_CheckoutLayerChannel in After Effects.", "keywords": ["PF_CheckoutLayerChannel"]},
+  {"topic": "PF_GetLayerChannelCount", "file": "references/plugin-sdk/pf-channel-suite1/pf-get-layer-channel-count.md", "summary": "Open when looking up PF_GetLayerChannelCount in After Effects.", "keywords": ["PF_GetLayerChannelCount"]},
+  {"topic": "PF_GetLayerChannelIndexedRefAndDesc", "file": "references/plugin-sdk/pf-channel-suite1/pf-get-layer-channel-indexed-ref-and-desc.md", "summary": "Open when looking up PF_GetLayerChannelIndexedRefAndDesc in After Effects.", "keywords": ["PF_GetLayerChannelIndexedRefAndDesc"]},
+  {"topic": "PF_GetLayerChannelTypedRefAndDesc", "file": "references/plugin-sdk/pf-channel-suite1/pf-get-layer-channel-typed-ref-and-desc.md", "summary": "Open when looking up PF_GetLayerChannelTypedRefAndDesc in After Effects.", "keywords": ["PF_GetLayerChannelTypedRefAndDesc"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

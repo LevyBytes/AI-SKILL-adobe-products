@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "INVERSE_PROPORTIONS", "file": "references/document-model/resize-constraints/inverseproportions.md", "summary": "Open when looking up INVERSE_PROPORTIONS in InDesign.", "keywords": ["INVERSE_PROPORTIONS"]},
+  {"topic": "KEEP_CURRENT_PROPORTIONS", "file": "references/document-model/resize-constraints/keepcurrentproportions.md", "summary": "Open when looking up KEEP_CURRENT_PROPORTIONS in InDesign.", "keywords": ["KEEP_CURRENT_PROPORTIONS"]},
+  {"topic": "KEEP_CURRENT_VALUE", "file": "references/document-model/resize-constraints/keepcurrentvalue.md", "summary": "Open when looking up KEEP_CURRENT_VALUE in InDesign.", "keywords": ["KEEP_CURRENT_VALUE"]},
+  {"topic": "TALL_PROPORTIONS", "file": "references/document-model/resize-constraints/tallproportions.md", "summary": "Open when looking up TALL_PROPORTIONS in InDesign.", "keywords": ["TALL_PROPORTIONS"]},
+  {"topic": "WIDE_PROPORTIONS", "file": "references/document-model/resize-constraints/wideproportions.md", "summary": "Open when looking up WIDE_PROPORTIONS in InDesign.", "keywords": ["WIDE_PROPORTIONS"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,14 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "PatternColor.matrix", "file": "references/scripting/pattern-color/matrix.md", "summary": "Open when looking up PatternColor.matrix in Illustrator.", "keywords": ["PatternColor.matrix"]},
+  {"topic": "PatternColor.pattern", "file": "references/scripting/pattern-color/pattern.md", "summary": "Open when looking up PatternColor.pattern in Illustrator.", "keywords": ["PatternColor.pattern"]},
+  {"topic": "PatternColor.reflect", "file": "references/scripting/pattern-color/reflect.md", "summary": "Open when looking up PatternColor.reflect in Illustrator.", "keywords": ["PatternColor.reflect"]},
+  {"topic": "PatternColor.reflectAngle", "file": "references/scripting/pattern-color/reflect-angle.md", "summary": "Open when looking up PatternColor.reflectAngle in Illustrator.", "keywords": ["PatternColor.reflectAngle"]},
+  {"topic": "PatternColor.rotation", "file": "references/scripting/pattern-color/rotation.md", "summary": "Open when looking up PatternColor.rotation in Illustrator.", "keywords": ["PatternColor.rotation"]},
+  {"topic": "PatternColor.scaleFactor", "file": "references/scripting/pattern-color/scale-factor.md", "summary": "Open when looking up PatternColor.scaleFactor in Illustrator.", "keywords": ["PatternColor.scaleFactor"]},
+  {"topic": "PatternColor.shearAngle", "file": "references/scripting/pattern-color/shear-angle.md", "summary": "Open when looking up PatternColor.shearAngle in Illustrator.", "keywords": ["PatternColor.shearAngle"]},
+  {"topic": "PatternColor.shearAxis", "file": "references/scripting/pattern-color/shear-axis.md", "summary": "Open when looking up PatternColor.shearAxis in Illustrator.", "keywords": ["PatternColor.shearAxis"]},
+  {"topic": "PatternColor.shiftAngle", "file": "references/scripting/pattern-color/shift-angle.md", "summary": "Open when looking up PatternColor.shiftAngle in Illustrator.", "keywords": ["PatternColor.shiftAngle"]},
+  {"topic": "PatternColor.shiftDistance", "file": "references/scripting/pattern-color/shift-distance.md", "summary": "Open when looking up PatternColor.shiftDistance in Illustrator.", "keywords": ["PatternColor.shiftDistance"]},
+  {"topic": "PatternColor.typename", "file": "references/scripting/pattern-color/typename.md", "summary": "Open when looking up PatternColor.typename in Illustrator.", "keywords": ["PatternColor.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "photoshop", "topics": [
+  {"topic": "Changing the font in a text layer", "file": "references/cloud-services/edit-text/changing-the-font-in-a-text-layer.md", "summary": "Open when looking up Changing the font in a text layer in Photoshop.", "keywords": ["Changing the font in a text layer"]},
+  {"topic": "Font handling", "file": "references/cloud-services/edit-text/font-handling.md", "summary": "Open when looking up Font handling in Photoshop.", "keywords": ["Font handling"]},
+  {"topic": "Handling missing fonts", "file": "references/cloud-services/edit-text/handling-missing-fonts.md", "summary": "Open when looking up Handling missing fonts in Photoshop.", "keywords": ["Handling missing fonts"]},
+  {"topic": "Known limitations", "file": "references/cloud-services/edit-text/known-limitations.md", "summary": "Open when looking up Known limitations in Photoshop.", "keywords": ["Known limitations"]},
+  {"topic": "Supported fonts", "file": "references/cloud-services/edit-text/supported-fonts.md", "summary": "Open when looking up Supported fonts in Photoshop.", "keywords": ["Supported fonts"]},
+  {"topic": "Text layer update request", "file": "references/cloud-services/edit-text/text-layer-update-request.md", "summary": "Open when looking up Text layer update request in Photoshop.", "keywords": ["Text layer update request"]},
+  {"topic": "Updating paired text layers", "file": "references/cloud-services/edit-text/updating-paired-text-layers.md", "summary": "Open when looking up Updating paired text layers in Photoshop.", "keywords": ["Updating paired text layers"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,33 @@
+# Shared Adobe platform — ColorBlendMode
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ColorBlendMode declaration in Shared Adobe platform. [ColorBlendMode declaration](declaration.md).
+- Open when looking up ColorBlendMode.BEHIND in Shared Adobe platform. [ColorBlendMode.BEHIND](behind.md).
+- Open when looking up ColorBlendMode.CLEAR in Shared Adobe platform. [ColorBlendMode.CLEAR](clear.md).
+- Open when looking up ColorBlendMode.COLOR in Shared Adobe platform. [ColorBlendMode.COLOR](color.md).
+- Open when looking up ColorBlendMode.COLORBURN in Shared Adobe platform. [ColorBlendMode.COLORBURN](colorburn.md).
+- Open when looking up ColorBlendMode.COLORDODGE in Shared Adobe platform. [ColorBlendMode.COLORDODGE](colordodge.md).
+- Open when looking up ColorBlendMode.DARKEN in Shared Adobe platform. [ColorBlendMode.DARKEN](darken.md).
+- Open when looking up ColorBlendMode.DARKERCOLOR in Shared Adobe platform. [ColorBlendMode.DARKERCOLOR](darkercolor.md).
+- Open when looking up ColorBlendMode.DIFFERENCE in Shared Adobe platform. [ColorBlendMode.DIFFERENCE](difference.md).
+- Open when looking up ColorBlendMode.DISSOLVE in Shared Adobe platform. [ColorBlendMode.DISSOLVE](dissolve.md).
+- Open when looking up ColorBlendMode.DIVIDE in Shared Adobe platform. [ColorBlendMode.DIVIDE](divide.md).
+- Open when looking up ColorBlendMode.EXCLUSION in Shared Adobe platform. [ColorBlendMode.EXCLUSION](exclusion.md).
+- Open when looking up ColorBlendMode.HARDLIGHT in Shared Adobe platform. [ColorBlendMode.HARDLIGHT](hardlight.md).
+- Open when looking up ColorBlendMode.HARDMIX in Shared Adobe platform. [ColorBlendMode.HARDMIX](hardmix.md).
+- Open when looking up ColorBlendMode.HUE in Shared Adobe platform. [ColorBlendMode.HUE](hue.md).
+- Open when looking up ColorBlendMode.LIGHTEN in Shared Adobe platform. [ColorBlendMode.LIGHTEN](lighten.md).
+- Open when looking up ColorBlendMode.LIGHTERCOLOR in Shared Adobe platform. [ColorBlendMode.LIGHTERCOLOR](lightercolor.md).
+- Open when looking up ColorBlendMode.LINEARBURN in Shared Adobe platform. [ColorBlendMode.LINEARBURN](linearburn.md).
+- Open when looking up ColorBlendMode.LINEARDODGE in Shared Adobe platform. [ColorBlendMode.LINEARDODGE](lineardodge.md).
+- Open when looking up ColorBlendMode.LINEARLIGHT in Shared Adobe platform. [ColorBlendMode.LINEARLIGHT](linearlight.md).
+- Open when looking up ColorBlendMode.LUMINOSITY in Shared Adobe platform. [ColorBlendMode.LUMINOSITY](luminosity.md).
+- Open when looking up ColorBlendMode.MULTIPLY in Shared Adobe platform. [ColorBlendMode.MULTIPLY](multiply.md).
+- Open when looking up ColorBlendMode.NORMAL in Shared Adobe platform. [ColorBlendMode.NORMAL](normal.md).
+- Open when looking up ColorBlendMode.OVERLAY in Shared Adobe platform. [ColorBlendMode.OVERLAY](overlay.md).
+- Open when looking up ColorBlendMode.PINLIGHT in Shared Adobe platform. [ColorBlendMode.PINLIGHT](pinlight.md).
+- Open when looking up ColorBlendMode.SATURATION in Shared Adobe platform. [ColorBlendMode.SATURATION](saturation.md).
+- Open when looking up ColorBlendMode.SCREEN in Shared Adobe platform. [ColorBlendMode.SCREEN](screen.md).
+- Open when looking up ColorBlendMode.SOFTLIGHT in Shared Adobe platform. [ColorBlendMode.SOFTLIGHT](softlight.md).
+- Open when looking up ColorBlendMode.SUBTRACT in Shared Adobe platform. [ColorBlendMode.SUBTRACT](subtract.md).
+- Open when looking up ColorBlendMode.VIVIDLIGHT in Shared Adobe platform. [ColorBlendMode.VIVIDLIGHT](vividlight.md).

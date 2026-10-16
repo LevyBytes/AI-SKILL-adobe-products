@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "BorderPanels collection iteration", "file": "references/community-types/indesign/border-panels/collection-iteration.md", "summary": "Open when looking up BorderPanels collection iteration in Shared Adobe platform.", "keywords": ["BorderPanels collection iteration"]},
+  {"topic": "BorderPanels declaration", "file": "references/community-types/indesign/border-panels/declaration.md", "summary": "Open when looking up BorderPanels declaration in Shared Adobe platform.", "keywords": ["BorderPanels declaration"]},
+  {"topic": "BorderPanels named and indexed items", "file": "references/community-types/indesign/border-panels/named-and-indexed-items.md", "summary": "Open when looking up BorderPanels named and indexed items in Shared Adobe platform.", "keywords": ["BorderPanels named and indexed items"]},
+  {"topic": "BorderPanels.add", "file": "references/community-types/indesign/border-panels/add.md", "summary": "Open when looking up BorderPanels.add in Shared Adobe platform.", "keywords": ["BorderPanels.add"]},
+  {"topic": "BorderPanels.count", "file": "references/community-types/indesign/border-panels/count.md", "summary": "Open when looking up BorderPanels.count in Shared Adobe platform.", "keywords": ["BorderPanels.count"]},
+  {"topic": "BorderPanels.IndexSignature", "file": "references/community-types/indesign/border-panels/index-signature.md", "summary": "Open when looking up BorderPanels.IndexSignature in Shared Adobe platform.", "keywords": ["BorderPanels.IndexSignature"]},
+  {"topic": "BorderPanels.itemByRange", "file": "references/community-types/indesign/border-panels/item-by-range.md", "summary": "Open when looking up BorderPanels.itemByRange in Shared Adobe platform.", "keywords": ["BorderPanels.itemByRange"]},
+  {"topic": "BorderPanels.length", "file": "references/community-types/indesign/border-panels/length.md", "summary": "Open when looking up BorderPanels.length in Shared Adobe platform.", "keywords": ["BorderPanels.length"]},
+  {"topic": "BorderPanels.toSource", "file": "references/community-types/indesign/border-panels/to-source.md", "summary": "Open when looking up BorderPanels.toSource in Shared Adobe platform.", "keywords": ["BorderPanels.toSource"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

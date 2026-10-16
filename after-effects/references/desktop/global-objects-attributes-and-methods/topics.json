@@ -1,0 +1,12 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "colorDepth", "file": "references/desktop/global-objects-attributes-and-methods/color-depth.md", "summary": "Open when looking up colorDepth in After Effects.", "keywords": ["colorDepth"]},
+  {"topic": "comp(name)", "file": "references/desktop/global-objects-attributes-and-methods/comp.md", "summary": "Open when looking up comp(name) in After Effects.", "keywords": ["comp(name)"]},
+  {"topic": "footage(name)", "file": "references/desktop/global-objects-attributes-and-methods/footage.md", "summary": "Open when looking up footage(name) in After Effects.", "keywords": ["footage(name)"]},
+  {"topic": "posterizeTime(framesPerSecond)", "file": "references/desktop/global-objects-attributes-and-methods/posterize-time.md", "summary": "Open when looking up posterizeTime(framesPerSecond) in After Effects.", "keywords": ["posterizeTime(framesPerSecond)"]},
+  {"topic": "thisComp", "file": "references/desktop/global-objects-attributes-and-methods/this-comp.md", "summary": "Open when looking up thisComp in After Effects.", "keywords": ["thisComp"]},
+  {"topic": "thisLayer", "file": "references/desktop/global-objects-attributes-and-methods/this-layer.md", "summary": "Open when looking up thisLayer in After Effects.", "keywords": ["thisLayer"]},
+  {"topic": "thisProject", "file": "references/desktop/global-objects-attributes-and-methods/this-project.md", "summary": "Open when looking up thisProject in After Effects.", "keywords": ["thisProject"]},
+  {"topic": "thisProperty", "file": "references/desktop/global-objects-attributes-and-methods/this-property.md", "summary": "Open when looking up thisProperty in After Effects.", "keywords": ["thisProperty"]},
+  {"topic": "time", "file": "references/desktop/global-objects-attributes-and-methods/time.md", "summary": "Open when looking up time in After Effects.", "keywords": ["time"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

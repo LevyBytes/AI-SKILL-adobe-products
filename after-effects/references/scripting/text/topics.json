@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "First-Party Effect Match Names — Text", "file": "references/scripting/text/first-party-effect-match-names-text.md", "summary": "Open when looking up First-Party Effect Match Names — Text in After Effects.", "keywords": ["First-Party Effect Match Names — Text"]},
+  {"topic": "Text Layer Match Names — Text", "file": "references/scripting/text/text-layer-match-names-text.md", "summary": "Open when looking up Text Layer Match Names — Text in After Effects.", "keywords": ["Text Layer Match Names — Text"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

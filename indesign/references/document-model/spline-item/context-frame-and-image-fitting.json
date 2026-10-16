@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "contentType", "file": "references/document-model/spline-item/content-type.md", "summary": "Open when looking up contentType in InDesign.", "keywords": ["contentType"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

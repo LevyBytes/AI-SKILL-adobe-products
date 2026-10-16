@@ -1,0 +1,50 @@
+# Shared Adobe platform — Book
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Book declaration in Shared Adobe platform. [Book declaration](declaration.md).
+- Open when looking up Book event listeners in Shared Adobe platform. [Book event listeners](event-listeners.md).
+- Open when looking up Book identity and parent in Shared Adobe platform. [Book identity and parent](identity-and-parent.md).
+- Open when looking up Book labels and metadata in Shared Adobe platform. [Book labels and metadata](labels-and-metadata.md).
+- Open when looking up Book object resolution in Shared Adobe platform. [Book object resolution](object-resolution.md).
+- Open when looking up Book.automaticDocumentConversion in Shared Adobe platform. [Book.automaticDocumentConversion](automatic-document-conversion.md).
+- Open when looking up Book.automaticPagination in Shared Adobe platform. [Book.automaticPagination](automatic-pagination.md).
+- Open when looking up Book.bookContents in Shared Adobe platform. [Book.bookContents](book-contents.md).
+- Open when looking up Book.close in Shared Adobe platform. [Book.close](close.md).
+- Open when looking up Book.epubExportPreferences in Shared Adobe platform. [Book.epubExportPreferences](epub-export-preferences.md).
+- Open when looking up Book.epubFixedLayoutExportPreferences in Shared Adobe platform. [Book.epubFixedLayoutExportPreferences](epub-fixed-layout-export-preferences.md).
+- Open when looking up Book.exportFile in Shared Adobe platform. [Book.exportFile](export-file.md).
+- Open when looking up Book.filePath in Shared Adobe platform. [Book.filePath](file-path.md).
+- Open when looking up Book.fullName in Shared Adobe platform. [Book.fullName](full-name.md).
+- Open when looking up Book.insertBlankPage in Shared Adobe platform. [Book.insertBlankPage](insert-blank-page.md).
+- Open when looking up Book.mergeIdenticalLayers in Shared Adobe platform. [Book.mergeIdenticalLayers](merge-identical-layers.md).
+- Open when looking up Book.modified in Shared Adobe platform. [Book.modified](modified.md).
+- Open when looking up Book.packageForPrint in Shared Adobe platform. [Book.packageForPrint](package-for-print.md).
+- Open when looking up Book.preferences in Shared Adobe platform. [Book.preferences](preferences.md).
+- Open when looking up Book.preflight in Shared Adobe platform. [Book.preflight](preflight.md).
+- Open when looking up Book.preflightBookOptions in Shared Adobe platform. [Book.preflightBookOptions](preflight-book-options.md).
+- Open when looking up Book.print in Shared Adobe platform. [Book.print](print.md).
+- Open when looking up Book.printPreferences in Shared Adobe platform. [Book.printPreferences](print-preferences.md).
+- Open when looking up Book.properties in Shared Adobe platform. [Book.properties](properties.md).
+- Open when looking up Book.repaginate in Shared Adobe platform. [Book.repaginate](repaginate.md).
+- Open when looking up Book.repaginationOption in Shared Adobe platform. [Book.repaginationOption](repagination-option.md).
+- Open when looking up Book.save in Shared Adobe platform. [Book.save](save.md).
+- Open when looking up Book.saved in Shared Adobe platform. [Book.saved](saved.md).
+- Open when looking up Book.smartMatchStyleGroups in Shared Adobe platform. [Book.smartMatchStyleGroups](smart-match-style-groups.md).
+- Open when looking up Book.styleSourceDocument in Shared Adobe platform. [Book.styleSourceDocument](style-source-document.md).
+- Open when looking up Book.synchronize in Shared Adobe platform. [Book.synchronize](synchronize.md).
+- Open when looking up Book.synchronizeBulletNumberingList in Shared Adobe platform. [Book.synchronizeBulletNumberingList](synchronize-bullet-numbering-list.md).
+- Open when looking up Book.synchronizeCellStyle in Shared Adobe platform. [Book.synchronizeCellStyle](synchronize-cell-style.md).
+- Open when looking up Book.synchronizeCharacterStyle in Shared Adobe platform. [Book.synchronizeCharacterStyle](synchronize-character-style.md).
+- Open when looking up Book.synchronizeConditionalText in Shared Adobe platform. [Book.synchronizeConditionalText](synchronize-conditional-text.md).
+- Open when looking up Book.synchronizeCrossReferenceFormat in Shared Adobe platform. [Book.synchronizeCrossReferenceFormat](synchronize-cross-reference-format.md).
+- Open when looking up Book.synchronizeMasterPage in Shared Adobe platform. [Book.synchronizeMasterPage](synchronize-master-page.md).
+- Open when looking up Book.synchronizeObjectStyle in Shared Adobe platform. [Book.synchronizeObjectStyle](synchronize-object-style.md).
+- Open when looking up Book.synchronizeParagraphStyle in Shared Adobe platform. [Book.synchronizeParagraphStyle](synchronize-paragraph-style.md).
+- Open when looking up Book.synchronizeSwatch in Shared Adobe platform. [Book.synchronizeSwatch](synchronize-swatch.md).
+- Open when looking up Book.synchronizeTableOfContentStyle in Shared Adobe platform. [Book.synchronizeTableOfContentStyle](synchronize-table-of-content-style.md).
+- Open when looking up Book.synchronizeTableStyle in Shared Adobe platform. [Book.synchronizeTableStyle](synchronize-table-style.md).
+- Open when looking up Book.synchronizeTextVariable in Shared Adobe platform. [Book.synchronizeTextVariable](synchronize-text-variable.md).
+- Open when looking up Book.synchronizeTrapStyle in Shared Adobe platform. [Book.synchronizeTrapStyle](synchronize-trap-style.md).
+- Open when looking up Book.updateAllCrossReferences in Shared Adobe platform. [Book.updateAllCrossReferences](update-all-cross-references.md).
+- Open when looking up Book.updateAllNumbers in Shared Adobe platform. [Book.updateAllNumbers](update-all-numbers.md).
+- Open when looking up Book.updateChapterAndParagraphNumbers in Shared Adobe platform. [Book.updateChapterAndParagraphNumbers](update-chapter-and-paragraph-numbers.md).

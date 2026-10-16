@@ -1,0 +1,21 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "balanceRaggedLines", "file": "references/document-model/change-grep-preference/balance-ragged-lines.md", "summary": "Open when looking up balanceRaggedLines in InDesign.", "keywords": ["balanceRaggedLines"]},
+  {"topic": "composer", "file": "references/document-model/change-grep-preference/composer.md", "summary": "Open when looking up composer in InDesign.", "keywords": ["composer"]},
+  {"topic": "firstLineIndent", "file": "references/document-model/change-grep-preference/first-line-indent.md", "summary": "Open when looking up firstLineIndent in InDesign.", "keywords": ["firstLineIndent"]},
+  {"topic": "justification", "file": "references/document-model/change-grep-preference/justification.md", "summary": "Open when looking up justification in InDesign.", "keywords": ["justification"]},
+  {"topic": "lastLineIndent", "file": "references/document-model/change-grep-preference/last-line-indent.md", "summary": "Open when looking up lastLineIndent in InDesign.", "keywords": ["lastLineIndent"]},
+  {"topic": "leftIndent", "file": "references/document-model/change-grep-preference/left-indent.md", "summary": "Open when looking up leftIndent in InDesign.", "keywords": ["leftIndent"]},
+  {"topic": "paragraphJustification", "file": "references/document-model/change-grep-preference/paragraph-justification.md", "summary": "Open when looking up paragraphJustification in InDesign.", "keywords": ["paragraphJustification"]},
+  {"topic": "rightIndent", "file": "references/document-model/change-grep-preference/right-indent.md", "summary": "Open when looking up rightIndent in InDesign.", "keywords": ["rightIndent"]},
+  {"topic": "sameParaStyleSpacing", "file": "references/document-model/change-grep-preference/same-para-style-spacing.md", "summary": "Open when looking up sameParaStyleSpacing in InDesign.", "keywords": ["sameParaStyleSpacing"]},
+  {"topic": "singleWordJustification", "file": "references/document-model/change-grep-preference/single-word-justification.md", "summary": "Open when looking up singleWordJustification in InDesign.", "keywords": ["singleWordJustification"]},
+  {"topic": "spaceAfter", "file": "references/document-model/change-grep-preference/space-after.md", "summary": "Open when looking up spaceAfter in InDesign.", "keywords": ["spaceAfter"]},
+  {"topic": "spaceBefore", "file": "references/document-model/change-grep-preference/space-before.md", "summary": "Open when looking up spaceBefore in InDesign.", "keywords": ["spaceBefore"]},
+  {"topic": "spanColumnMinSpaceAfter", "file": "references/document-model/change-grep-preference/span-column-min-space-after.md", "summary": "Open when looking up spanColumnMinSpaceAfter in InDesign.", "keywords": ["spanColumnMinSpaceAfter"]},
+  {"topic": "spanColumnMinSpaceBefore", "file": "references/document-model/change-grep-preference/span-column-min-space-before.md", "summary": "Open when looking up spanColumnMinSpaceBefore in InDesign.", "keywords": ["spanColumnMinSpaceBefore"]},
+  {"topic": "spanColumnType", "file": "references/document-model/change-grep-preference/span-column-type.md", "summary": "Open when looking up spanColumnType in InDesign.", "keywords": ["spanColumnType"]},
+  {"topic": "spanSplitColumnCount", "file": "references/document-model/change-grep-preference/span-split-column-count.md", "summary": "Open when looking up spanSplitColumnCount in InDesign.", "keywords": ["spanSplitColumnCount"]},
+  {"topic": "splitColumnInsideGutter", "file": "references/document-model/change-grep-preference/split-column-inside-gutter.md", "summary": "Open when looking up splitColumnInsideGutter in InDesign.", "keywords": ["splitColumnInsideGutter"]},
+  {"topic": "splitColumnOutsideGutter", "file": "references/document-model/change-grep-preference/split-column-outside-gutter.md", "summary": "Open when looking up splitColumnOutsideGutter in InDesign.", "keywords": ["splitColumnOutsideGutter"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Before you begin", "file": "references/desktop/app-connections/ai-tool-document-workflows/before-you-begin.md", "summary": "Open when looking up Before you begin in Illustrator.", "keywords": ["Before you begin"]},
+  {"topic": "Edit and manage Illustrator (Beta) documents from the AI tool", "file": "references/desktop/app-connections/ai-tool-document-workflows/edit-and-manage-illustrator-beta-documents-from-the-ai-tool.md", "summary": "Open when looking up Edit and manage Illustrator (Beta) documents from the AI tool in Illustrator.", "keywords": ["Edit and manage Illustrator (Beta) documents from the AI tool"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

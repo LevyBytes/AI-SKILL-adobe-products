@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "CTScript.CT_JAPANESE_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctjapanesescript.md", "summary": "Open when looking up CTScript.CT_JAPANESE_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_JAPANESE_SCRIPT"]},
+  {"topic": "CTScript.CT_KOREAN_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctkoreanscript.md", "summary": "Open when looking up CTScript.CT_KOREAN_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_KOREAN_SCRIPT"]},
+  {"topic": "CTScript.CT_MONGOLIAN_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctmongolianscript.md", "summary": "Open when looking up CTScript.CT_MONGOLIAN_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_MONGOLIAN_SCRIPT"]},
+  {"topic": "CTScript.CT_OLDHANGUL_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctoldhangulscript.md", "summary": "Open when looking up CTScript.CT_OLDHANGUL_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_OLDHANGUL_SCRIPT"]},
+  {"topic": "CTScript.CT_SIMPLIFIEDCHINESE_SCRIPT", "file": "references/community-types/aftereffects/ct-script/ctsimplifiedchinesescript.md", "summary": "Open when looking up CTScript.CT_SIMPLIFIEDCHINESE_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_SIMPLIFIEDCHINESE_SCRIPT"]},
+  {"topic": "CTScript.CT_TRADITIONALCHINESE_SCRIPT", "file": "references/community-types/aftereffects/ct-script/cttraditionalchinesescript.md", "summary": "Open when looking up CTScript.CT_TRADITIONALCHINESE_SCRIPT in Shared Adobe platform.", "keywords": ["CTScript.CT_TRADITIONALCHINESE_SCRIPT"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

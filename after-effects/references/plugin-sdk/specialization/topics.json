@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Implementation — Specialization", "file": "references/plugin-sdk/specialization/implementation-specialization.md", "summary": "Open when looking up Implementation — Specialization in After Effects.", "keywords": ["Implementation — Specialization"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

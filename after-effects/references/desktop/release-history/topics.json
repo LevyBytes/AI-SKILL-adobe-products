@@ -1,0 +1,7 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "April 2025 release", "file": "references/desktop/release-history/april-2025-release.md", "summary": "Open when looking up April 2025 release in After Effects.", "keywords": ["April 2025 release"]},
+  {"topic": "December 2024 release (version 25.1)", "file": "references/desktop/release-history/december-2024-release-version-25-1.md", "summary": "Open when looking up December 2024 release (version 25.1) in After Effects.", "keywords": ["December 2024 release (version 25.1)"]},
+  {"topic": "October 2024 release (version 25.0)", "file": "references/desktop/release-history/october-2024-release-version-25-0.md", "summary": "Open when looking up October 2024 release (version 25.0) in After Effects.", "keywords": ["October 2024 release (version 25.0)"]},
+  {"topic": "October 2024 release (version 25.0) references", "file": "references/desktop/release-history/october-2024-release-version-25-0/reference-index.md", "summary": "Open when looking up October 2024 release (version 25.0) in After Effects.", "keywords": ["October 2024 release (version 25.0) references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

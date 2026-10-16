@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "premiere-pro", "topics": [
+  {"topic": "Get started references", "file": "references/desktop/get-started/reference-index.md", "summary": "Open when looking up Get started in Premiere Pro.", "keywords": ["Get started references"]},
+  {"topic": "Adobe premiere faq references", "file": "references/desktop/adobe-premiere-faq/reference-index.md", "summary": "Open when looking up Adobe premiere faq in Premiere Pro.", "keywords": ["Adobe premiere faq references"]},
+  {"topic": "Accessibility overview references", "file": "references/desktop/accessibility-overview/reference-index.md", "summary": "Open when looking up Accessibility overview in Premiere Pro.", "keywords": ["Accessibility overview references"]},
+  {"topic": "What s new references", "file": "references/desktop/what-s-new/reference-index.md", "summary": "Open when looking up What s new in Premiere Pro.", "keywords": ["What s new references"]},
+  {"topic": "Copyright and notices references", "file": "references/desktop/copyright-and-notices/reference-index.md", "summary": "Open when looking up Copyright and notices in Premiere Pro.", "keywords": ["Copyright and notices references"]},
+  {"topic": "Effects and transitions removed from adobe premiere references", "file": "references/desktop/effects-and-transitions-removed-from-adobe-premiere/reference-index.md", "summary": "Open when looking up Effects and transitions removed from adobe premiere in Premiere Pro.", "keywords": ["Effects and transitions removed from adobe premiere references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

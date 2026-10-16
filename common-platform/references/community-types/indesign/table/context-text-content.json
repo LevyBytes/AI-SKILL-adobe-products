@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Table.changes", "file": "references/community-types/indesign/table/changes.md", "summary": "Open when looking up Table.changes in Shared Adobe platform.", "keywords": ["Table.changes"]},
+  {"topic": "Table.contents", "file": "references/community-types/indesign/table/contents.md", "summary": "Open when looking up Table.contents in Shared Adobe platform.", "keywords": ["Table.contents"]},
+  {"topic": "Table.convertToText", "file": "references/community-types/indesign/table/convert-to-text.md", "summary": "Open when looking up Table.convertToText in Shared Adobe platform.", "keywords": ["Table.convertToText"]},
+  {"topic": "Table.hiddenTexts", "file": "references/community-types/indesign/table/hidden-texts.md", "summary": "Open when looking up Table.hiddenTexts in Shared Adobe platform.", "keywords": ["Table.hiddenTexts"]},
+  {"topic": "Table.recompose", "file": "references/community-types/indesign/table/recompose.md", "summary": "Open when looking up Table.recompose in Shared Adobe platform.", "keywords": ["Table.recompose"]},
+  {"topic": "Table.textVariableInstances", "file": "references/community-types/indesign/table/text-variable-instances.md", "summary": "Open when looking up Table.textVariableInstances in Shared Adobe platform.", "keywords": ["Table.textVariableInstances"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

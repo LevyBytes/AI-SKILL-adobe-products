@@ -1,0 +1,5 @@
+# gapTint
+
+> Number **gapTint**
+>
+> Gap color tint percentage. Use a number from 0 to 100 for an explicit tint, or -1 for the inherited or overridden value.

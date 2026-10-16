@@ -1,0 +1,10 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Customize Requests", "file": "references/cloud-services/firefly-generate-image-api-tutorial/customize-requests.md", "summary": "Open when looking up Customize Requests in Firefly.", "keywords": ["Customize Requests"]},
+  {"topic": "Deepen Your Understanding", "file": "references/cloud-services/firefly-generate-image-api-tutorial/deepen-your-understanding.md", "summary": "Open when looking up Deepen Your Understanding in Firefly.", "keywords": ["Deepen Your Understanding"]},
+  {"topic": "Define Localized Customizations", "file": "references/cloud-services/firefly-generate-image-api-tutorial/define-localized-customizations.md", "summary": "Open when looking up Define Localized Customizations in Firefly.", "keywords": ["Define Localized Customizations"]},
+  {"topic": "Full Example", "file": "references/cloud-services/firefly-generate-image-api-tutorial/full-example.md", "summary": "Open when looking up Full Example in Firefly.", "keywords": ["Full Example"]},
+  {"topic": "Generate an Image", "file": "references/cloud-services/firefly-generate-image-api-tutorial/generate-an-image.md", "summary": "Open when looking up Generate an Image in Firefly.", "keywords": ["Generate an Image"]},
+  {"topic": "Prerequisites", "file": "references/cloud-services/firefly-generate-image-api-tutorial/prerequisites.md", "summary": "Open when looking up Prerequisites in Firefly.", "keywords": ["Prerequisites"]},
+  {"topic": "Set Up Your Environment", "file": "references/cloud-services/firefly-generate-image-api-tutorial/set-up-your-environment.md", "summary": "Open when looking up Set Up Your Environment in Firefly.", "keywords": ["Set Up Your Environment"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

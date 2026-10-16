@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Create a custom workspace", "file": "references/desktop/get-started/settings-and-preferences/create-and-manage-workspaces/create-a-custom-workspace.md", "summary": "Open when looking up Create a custom workspace in InDesign.", "keywords": ["Create a custom workspace"]},
+  {"topic": "Delete a custom workspace", "file": "references/desktop/get-started/settings-and-preferences/create-and-manage-workspaces/delete-a-custom-workspace.md", "summary": "Open when looking up Delete a custom workspace in InDesign.", "keywords": ["Delete a custom workspace"]},
+  {"topic": "Workspace overview", "file": "references/desktop/get-started/settings-and-preferences/create-and-manage-workspaces/workspace-overview.md", "summary": "Open when looking up Workspace overview in InDesign.", "keywords": ["Workspace overview"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

@@ -1,0 +1,7 @@
+# COLUMN_BREAK
+
+> _Read Only_
+>
+> Number `COLUMN_BREAK` = 1396927554
+>
+> Changes manual page breaks into column breaks.

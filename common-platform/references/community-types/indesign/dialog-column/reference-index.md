@@ -1,0 +1,27 @@
+# Shared Adobe platform — DialogColumn
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up DialogColumn declaration in Shared Adobe platform. [DialogColumn declaration](declaration.md).
+- Open when looking up DialogColumn event listeners in Shared Adobe platform. [DialogColumn event listeners](event-listeners.md).
+- Open when looking up DialogColumn identity and parent in Shared Adobe platform. [DialogColumn identity and parent](identity-and-parent.md).
+- Open when looking up DialogColumn object resolution in Shared Adobe platform. [DialogColumn object resolution](object-resolution.md).
+- Open when looking up DialogColumn.angleComboboxes in Shared Adobe platform. [DialogColumn.angleComboboxes](angle-comboboxes.md).
+- Open when looking up DialogColumn.angleEditboxes in Shared Adobe platform. [DialogColumn.angleEditboxes](angle-editboxes.md).
+- Open when looking up DialogColumn.borderPanels in Shared Adobe platform. [DialogColumn.borderPanels](border-panels.md).
+- Open when looking up DialogColumn.checkboxControls in Shared Adobe platform. [DialogColumn.checkboxControls](checkbox-controls.md).
+- Open when looking up DialogColumn.dialogRows in Shared Adobe platform. [DialogColumn.dialogRows](dialog-rows.md).
+- Open when looking up DialogColumn.dropdowns in Shared Adobe platform. [DialogColumn.dropdowns](dropdowns.md).
+- Open when looking up DialogColumn.enablingGroups in Shared Adobe platform. [DialogColumn.enablingGroups](enabling-groups.md).
+- Open when looking up DialogColumn.integerComboboxes in Shared Adobe platform. [DialogColumn.integerComboboxes](integer-comboboxes.md).
+- Open when looking up DialogColumn.integerEditboxes in Shared Adobe platform. [DialogColumn.integerEditboxes](integer-editboxes.md).
+- Open when looking up DialogColumn.measurementComboboxes in Shared Adobe platform. [DialogColumn.measurementComboboxes](measurement-comboboxes.md).
+- Open when looking up DialogColumn.measurementEditboxes in Shared Adobe platform. [DialogColumn.measurementEditboxes](measurement-editboxes.md).
+- Open when looking up DialogColumn.percentComboboxes in Shared Adobe platform. [DialogColumn.percentComboboxes](percent-comboboxes.md).
+- Open when looking up DialogColumn.percentEditboxes in Shared Adobe platform. [DialogColumn.percentEditboxes](percent-editboxes.md).
+- Open when looking up DialogColumn.properties in Shared Adobe platform. [DialogColumn.properties](properties.md).
+- Open when looking up DialogColumn.radiobuttonGroups in Shared Adobe platform. [DialogColumn.radiobuttonGroups](radiobutton-groups.md).
+- Open when looking up DialogColumn.realComboboxes in Shared Adobe platform. [DialogColumn.realComboboxes](real-comboboxes.md).
+- Open when looking up DialogColumn.realEditboxes in Shared Adobe platform. [DialogColumn.realEditboxes](real-editboxes.md).
+- Open when looking up DialogColumn.staticTexts in Shared Adobe platform. [DialogColumn.staticTexts](static-texts.md).
+- Open when looking up DialogColumn.textEditboxes in Shared Adobe platform. [DialogColumn.textEditboxes](text-editboxes.md).
+- Open when looking up DialogColumn.widgets in Shared Adobe platform. [DialogColumn.widgets](widgets.md).

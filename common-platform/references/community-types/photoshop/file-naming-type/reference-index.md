@@ -1,0 +1,22 @@
+# Shared Adobe platform — FileNamingType
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up FileNamingType declaration in Shared Adobe platform. [FileNamingType declaration](declaration.md).
+- Open when looking up FileNamingType.DDMM in Shared Adobe platform. [FileNamingType.DDMM](ddmm.md).
+- Open when looking up FileNamingType.DDMMYY in Shared Adobe platform. [FileNamingType.DDMMYY](ddmmyy.md).
+- Open when looking up FileNamingType.DOCUMENTNAMELOWER in Shared Adobe platform. [FileNamingType.DOCUMENTNAMELOWER](documentnamelower.md).
+- Open when looking up FileNamingType.DOCUMENTNAMEMIXED in Shared Adobe platform. [FileNamingType.DOCUMENTNAMEMIXED](documentnamemixed.md).
+- Open when looking up FileNamingType.DOCUMENTNAMEUPPER in Shared Adobe platform. [FileNamingType.DOCUMENTNAMEUPPER](documentnameupper.md).
+- Open when looking up FileNamingType.EXTENSIONLOWER in Shared Adobe platform. [FileNamingType.EXTENSIONLOWER](extensionlower.md).
+- Open when looking up FileNamingType.EXTENSIONUPPER in Shared Adobe platform. [FileNamingType.EXTENSIONUPPER](extensionupper.md).
+- Open when looking up FileNamingType.MMDD in Shared Adobe platform. [FileNamingType.MMDD](mmdd.md).
+- Open when looking up FileNamingType.MMDDYY in Shared Adobe platform. [FileNamingType.MMDDYY](mmddyy.md).
+- Open when looking up FileNamingType.SERIALLETTERLOWER in Shared Adobe platform. [FileNamingType.SERIALLETTERLOWER](serialletterlower.md).
+- Open when looking up FileNamingType.SERIALLETTERUPPER in Shared Adobe platform. [FileNamingType.SERIALLETTERUPPER](serialletterupper.md).
+- Open when looking up FileNamingType.SERIALNUMBER1 in Shared Adobe platform. [FileNamingType.SERIALNUMBER1](serialnumber1.md).
+- Open when looking up FileNamingType.SERIALNUMBER2 in Shared Adobe platform. [FileNamingType.SERIALNUMBER2](serialnumber2.md).
+- Open when looking up FileNamingType.SERIALNUMBER3 in Shared Adobe platform. [FileNamingType.SERIALNUMBER3](serialnumber3.md).
+- Open when looking up FileNamingType.SERIALNUMBER4 in Shared Adobe platform. [FileNamingType.SERIALNUMBER4](serialnumber4.md).
+- Open when looking up FileNamingType.YYDDMM in Shared Adobe platform. [FileNamingType.YYDDMM](yyddmm.md).
+- Open when looking up FileNamingType.YYMMDD in Shared Adobe platform. [FileNamingType.YYMMDD](yymmdd.md).
+- Open when looking up FileNamingType.YYYYMMDD in Shared Adobe platform. [FileNamingType.YYYYMMDD](yyyymmdd.md).

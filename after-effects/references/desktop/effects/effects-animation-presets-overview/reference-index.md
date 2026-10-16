@@ -1,0 +1,65 @@
+# After Effects — Effects Animation Presets Overview
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up 3D Text in After Effects. [3D Text](3-d-text.md).
+- Open when looking up Adjustment layers in After Effects. [Adjustment layers](adjustment-layers.md).
+- Open when looking up Animate In in After Effects. [Animate In](animate-in.md).
+- Open when looking up ANIMATE OUT in After Effects. [ANIMATE OUT](animate-out.md).
+- Open when looking up Animating effects in After Effects. [Animating effects](animating-effects.md).
+- Open when looking up Animation preset list in After Effects. [Animation preset list](animation-preset-list.md).
+- Open when looking up Apply an effect or animation preset in After Effects. [Apply an effect or animation preset](apply-an-effect-or-animation-preset.md).
+- Open when looking up Backgrounds in After Effects. [Backgrounds](backgrounds.md).
+- Open when looking up Behaviors in After Effects. [Behaviors](behaviors.md).
+- Open when looking up BLURS in After Effects. [BLURS](blurs.md).
+- Open when looking up Color depth in After Effects. [Color depth](color-depth.md).
+- Open when looking up Color labels for effects in the Effect Controls panel in After Effects. [Color labels for effects in the Effect Controls panel](color-labels-for-effects-in-the-effect-controls-panel.md).
+- Open when looking up Compositing effects in After Effects. [Compositing effects](compositing-effects.md).
+- Open when looking up Compound effects and control layers in After Effects. [Compound effects and control layers](compound-effects-and-control-layers.md).
+- Open when looking up CURVES AND SPINS in After Effects. [CURVES AND SPINS](curves-and-spins.md).
+- Open when looking up Delete or disable effects and animation presets in After Effects. [Delete or disable effects and animation presets](delete-or-disable-effects-and-animation-presets.md).
+- Open when looking up Downloading, installing, and moving animation presets in After Effects. [Downloading, installing, and moving animation presets](downloading-installing-and-moving-animation-presets.md).
+- Open when looking up Effect control points in After Effects. [Effect control points](effect-control-points.md).
+- Open when looking up Effect Controls panel in After Effects. [Effect Controls panel](effect-controls-panel.md).
+- Open when looking up Effect opacity in After Effects. [Effect opacity](effect-opacity.md).
+- Open when looking up Effect plug-ins in After Effects. [Effect plug-ins](effect-plug-ins.md).
+- Open when looking up Effects and Presets panel in After Effects. [Effects and Presets panel](effects-and-presets-panel.md).
+- Open when looking up Effects applied with tools in After Effects. [Effects applied with tools](effects-applied-with-tools.md).
+- Open when looking up Effects overview and resources in After Effects. [Effects overview and resources](effects-overview-and-resources.md).
+- Open when looking up Effects with a Comp Camera attribute in After Effects. [Effects with a Comp Camera attribute](effects-with-a-comp-camera-attribute.md).
+- Open when looking up ELEMENTS in After Effects. [ELEMENTS](elements.md).
+- Open when looking up Expression Controls effects in After Effects. [Expression Controls effects](expression-controls-effects.md).
+- Open when looking up EXPRESSIONS in After Effects. [EXPRESSIONS](expressions.md).
+- Open when looking up FILL AND STROKE in After Effects. [FILL AND STROKE](fill-and-stroke.md).
+- Open when looking up GRAPHICAL in After Effects. [GRAPHICAL](graphical.md).
+- Open when looking up Image - Creative in After Effects. [Image - Creative](image-creative.md).
+- Open when looking up Image - Special Effects in After Effects. [Image - Special Effects](image-special-effects.md).
+- Open when looking up Image - Utilities in After Effects. [Image - Utilities](image-utilities.md).
+- Open when looking up IN in After Effects. [IN](in.md).
+- Open when looking up Legacy in After Effects. [Legacy](legacy.md).
+- Open when looking up LIGHTS AND OPTICAL in After Effects. [LIGHTS AND OPTICAL](lights-and-optical.md).
+- Open when looking up LOOPING in After Effects. [LOOPING](looping.md).
+- Open when looking up MECHANICAL in After Effects. [MECHANICAL](mechanical.md).
+- Open when looking up MISCELLANEOUS in After Effects. [MISCELLANEOUS](miscellaneous.md).
+- Open when looking up Move an effect control point in After Effects. [Move an effect control point](move-an-effect-control-point.md).
+- Open when looking up MULTI-LINE in After Effects. [MULTI-LINE](multi-line.md).
+- Open when looking up NUMBER COUNTERS in After Effects. [NUMBER COUNTERS](number-counters.md).
+- Open when looking up ORGANIC in After Effects. [ORGANIC](organic.md).
+- Open when looking up OUT in After Effects. [OUT](out.md).
+- Open when looking up PATHS in After Effects. [PATHS](paths.md).
+- Open when looking up Preventing edge clipping with the Grow Bounds effect in After Effects. [Preventing edge clipping with the Grow Bounds effect](preventing-edge-clipping-with-the-grow-bounds-effect.md).
+- Open when looking up Randomness and random seeds in After Effects. [Randomness and random seeds](randomness-and-random-seeds.md).
+- Open when looking up Remove an effect or animation preset in After Effects. [Remove an effect or animation preset](remove-an-effect-or-animation-preset.md).
+- Open when looking up Render order in After Effects. [Render order](render-order.md).
+- Open when looking up ROTATION in After Effects. [ROTATION](rotation.md).
+- Open when looking up Save an animation preset in After Effects. [Save an animation preset](save-an-animation-preset.md).
+- Open when looking up SCALE in After Effects. [SCALE](scale.md).
+- Open when looking up Sound Effects in After Effects. [Sound Effects](sound-effects.md).
+- Open when looking up SPRITES - ANIMATED in After Effects. [SPRITES - ANIMATED](sprites-animated.md).
+- Open when looking up SPRITES - STILL in After Effects. [SPRITES - STILL](sprites-still.md).
+- Open when looking up Synthetics in After Effects. [Synthetics](synthetics.md).
+- Open when looking up Tips for creating control layers in After Effects. [Tips for creating control layers](tips-for-creating-control-layers.md).
+- Open when looking up TRACKING in After Effects. [TRACKING](tracking.md).
+- Open when looking up Transitions - Dissolves in After Effects. [Transitions - Dissolves](transitions-dissolves.md).
+- Open when looking up Transitions - Movement in After Effects. [Transitions - Movement](transitions-movement.md).
+- Open when looking up Transitions - Wipes in After Effects. [Transitions - Wipes](transitions-wipes.md).
+- Open when looking up View an effect control point in After Effects. [View an effect control point](view-an-effect-control-point.md).

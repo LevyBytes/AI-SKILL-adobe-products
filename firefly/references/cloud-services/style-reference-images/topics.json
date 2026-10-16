@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "firefly", "topics": [
+  {"topic": "Concepts in action", "file": "references/cloud-services/style-reference-images/concepts-in-action.md", "summary": "Open when looking up Concepts in action in Firefly.", "keywords": ["Concepts in action"]},
+  {"topic": "Specifying strength", "file": "references/cloud-services/style-reference-images/specifying-strength.md", "summary": "Open when looking up Specifying strength in Firefly.", "keywords": ["Specifying strength"]},
+  {"topic": "Using a Style Reference", "file": "references/cloud-services/style-reference-images/using-a-style-reference.md", "summary": "Open when looking up Using a Style Reference in Firefly.", "keywords": ["Using a Style Reference"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

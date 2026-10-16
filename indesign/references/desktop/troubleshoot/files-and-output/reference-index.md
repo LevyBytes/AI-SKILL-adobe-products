@@ -1,0 +1,34 @@
+# InDesign — File and output issues
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Adobe Print Engine output failures in InDesign. [Adobe Print Engine output failures](adobe-print-engine-output-failures.md).
+- Open when looking up Adobe Print Engine output failures in InDesign. [Adobe Print Engine output failures references](adobe-print-engine-output-failures/reference-index.md).
+- Open when looking up Can't open PDF files created in InDesign in InDesign. [Can't open PDF files created in InDesign](can-t-open-pdf-files-created-in-in-design.md).
+- Open when looking up Can't open PDF files created in InDesign in InDesign. [Can't open PDF files created in InDesign references](can-t-open-pdf-files-created-in-in-design/reference-index.md).
+- Open when looking up Can’t open documents in previous versions in InDesign. [Can’t open documents in previous versions](can-t-open-documents-in-previous-versions.md).
+- Open when looking up Can’t open documents in previous versions in InDesign. [Can’t open documents in previous versions references](can-t-open-documents-in-previous-versions/reference-index.md).
+- Open when looking up Damaged or corrupt documents in InDesign. [Damaged or corrupt documents](damaged-or-corrupt-documents.md).
+- Open when looking up Damaged or corrupt documents in InDesign. [Damaged or corrupt documents references](damaged-or-corrupt-documents/reference-index.md).
+- Open when looking up Error codes while using publish online in InDesign. [Error codes while using publish online](error-codes-while-using-publish-online.md).
+- Open when looking up File already open error in InDesign. [File already open error](file-already-open-error.md).
+- Open when looking up File already open error in InDesign. [File already open error references](file-already-open-error/reference-index.md).
+- Open when looking up Graphics appear pixelated, fuzzy, or grainy in InDesign. [Graphics appear pixelated, fuzzy, or grainy](graphics-appear-pixelated-fuzzy-or-grainy.md).
+- Open when looking up Graphics appear pixelated, fuzzy, or grainy in InDesign. [Graphics appear pixelated, fuzzy, or grainy references](graphics-appear-pixelated-fuzzy-or-grainy/reference-index.md).
+- Open when looking up InDesign documents won't print in InDesign. [InDesign documents won't print](in-design-documents-won-t-print.md).
+- Open when looking up InDesign documents won't print in InDesign. [InDesign documents won't print references](in-design-documents-won-t-print/reference-index.md).
+- Open when looking up InDesign PDF export hangs in the background in InDesign. [InDesign PDF export hangs in the background](in-design-pdf-export-hangs-in-the-background.md).
+- Open when looking up InDesign PDF export hangs in the background in InDesign. [InDesign PDF export hangs in the background references](background-pdf-export-hangs/reference-index.md).
+- Open when looking up Insufficient system memory errors in InDesign. [Insufficient system memory errors](insufficient-system-memory-errors.md).
+- Open when looking up Insufficient system memory errors in InDesign. [Insufficient system memory errors references](insufficient-system-memory-errors/reference-index.md).
+- Open when looking up Page and layout options unavailable in InDesign. [Page and layout options unavailable](page-and-layout-options-unavailable.md).
+- Open when looking up Page and layout options unavailable in InDesign. [Page and layout options unavailable references](page-and-layout-options-unavailable/reference-index.md).
+- Open when looking up PDF export fails when downsampling large images in InDesign. [PDF export fails when downsampling large images](pdf-export-fails-when-downsampling-large-images.md).
+- Open when looking up PDF export fails when downsampling large images in InDesign. [PDF export fails when downsampling large images references](pdf-export-fails-when-downsampling-large-images/reference-index.md).
+- Open when looking up Printing and PDF export errors in InDesign. [Printing and PDF export errors](printing-and-pdf-export-errors.md).
+- Open when looking up Printing and PDF export errors in InDesign. [Printing and PDF export errors references](printing-and-pdf-export-errors/reference-index.md).
+- Open when looking up Received an error when working with HEIF or HEIC files in InDesign. [Received an error when working with HEIF or HEIC files](received-an-error-when-working-with-heif-or-heic-files.md).
+- Open when looking up Received an error when working with HEIF or HEIC files in InDesign. [Received an error when working with HEIF or HEIC files references](received-an-error-when-working-with-heif-or-heic-files/reference-index.md).
+- Open when looking up Recover InDesign documents in InDesign. [Recover InDesign documents](recover-in-design-documents.md).
+- Open when looking up Recover InDesign documents in InDesign. [Recover InDesign documents references](recover-in-design-documents/reference-index.md).
+- Open when looking up Unable to export InDesign files to PDF in InDesign. [Unable to export InDesign files to PDF](unable-to-export-in-design-files-to-pdf.md).
+- Open when looking up Unable to export InDesign files to PDF in InDesign. [Unable to export InDesign files to PDF references](unable-to-export-in-design-files-to-pdf/reference-index.md).

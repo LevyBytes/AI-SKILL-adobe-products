@@ -1,0 +1,29 @@
+# Shared Adobe platform — ExportOptionsFlash
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up ExportOptionsFlash declaration in Shared Adobe platform. [ExportOptionsFlash declaration](declaration.md).
+- Open when looking up ExportOptionsFlash.artboardRange in Shared Adobe platform. [ExportOptionsFlash.artboardRange](artboard-range.md).
+- Open when looking up ExportOptionsFlash.artClipping in Shared Adobe platform. [ExportOptionsFlash.artClipping](art-clipping.md).
+- Open when looking up ExportOptionsFlash.backgroundColor in Shared Adobe platform. [ExportOptionsFlash.backgroundColor](background-color.md).
+- Open when looking up ExportOptionsFlash.backgroundLayers in Shared Adobe platform. [ExportOptionsFlash.backgroundLayers](background-layers.md).
+- Open when looking up ExportOptionsFlash.blendAnimation in Shared Adobe platform. [ExportOptionsFlash.blendAnimation](blend-animation.md).
+- Open when looking up ExportOptionsFlash.compressed in Shared Adobe platform. [ExportOptionsFlash.compressed](compressed.md).
+- Open when looking up ExportOptionsFlash.convertTextToOutlines in Shared Adobe platform. [ExportOptionsFlash.convertTextToOutlines](convert-text-to-outlines.md).
+- Open when looking up ExportOptionsFlash.curveQuality in Shared Adobe platform. [ExportOptionsFlash.curveQuality](curve-quality.md).
+- Open when looking up ExportOptionsFlash.exportAllSymbols in Shared Adobe platform. [ExportOptionsFlash.exportAllSymbols](export-all-symbols.md).
+- Open when looking up ExportOptionsFlash.exportStyle in Shared Adobe platform. [ExportOptionsFlash.exportStyle](export-style.md).
+- Open when looking up ExportOptionsFlash.exportVersion in Shared Adobe platform. [ExportOptionsFlash.exportVersion](export-version.md).
+- Open when looking up ExportOptionsFlash.frameRate in Shared Adobe platform. [ExportOptionsFlash.frameRate](frame-rate.md).
+- Open when looking up ExportOptionsFlash.ignoreTextKerning in Shared Adobe platform. [ExportOptionsFlash.ignoreTextKerning](ignore-text-kerning.md).
+- Open when looking up ExportOptionsFlash.imageFormat in Shared Adobe platform. [ExportOptionsFlash.imageFormat](image-format.md).
+- Open when looking up ExportOptionsFlash.includeMetadata in Shared Adobe platform. [ExportOptionsFlash.includeMetadata](include-metadata.md).
+- Open when looking up ExportOptionsFlash.jpegMethod in Shared Adobe platform. [ExportOptionsFlash.jpegMethod](jpeg-method.md).
+- Open when looking up ExportOptionsFlash.jpegQuality in Shared Adobe platform. [ExportOptionsFlash.jpegQuality](jpeg-quality.md).
+- Open when looking up ExportOptionsFlash.layerOrder in Shared Adobe platform. [ExportOptionsFlash.layerOrder](layer-order.md).
+- Open when looking up ExportOptionsFlash.looping in Shared Adobe platform. [ExportOptionsFlash.looping](looping.md).
+- Open when looking up ExportOptionsFlash.playbackAccess in Shared Adobe platform. [ExportOptionsFlash.playbackAccess](playback-access.md).
+- Open when looking up ExportOptionsFlash.preserveAppearance in Shared Adobe platform. [ExportOptionsFlash.preserveAppearance](preserve-appearance.md).
+- Open when looking up ExportOptionsFlash.readOnly in Shared Adobe platform. [ExportOptionsFlash.readOnly](read-only.md).
+- Open when looking up ExportOptionsFlash.replacing in Shared Adobe platform. [ExportOptionsFlash.replacing](replacing.md).
+- Open when looking up ExportOptionsFlash.resolution in Shared Adobe platform. [ExportOptionsFlash.resolution](resolution.md).
+- Open when looking up ExportOptionsFlash.saveMultipleArtboards in Shared Adobe platform. [ExportOptionsFlash.saveMultipleArtboards](save-multiple-artboards.md).

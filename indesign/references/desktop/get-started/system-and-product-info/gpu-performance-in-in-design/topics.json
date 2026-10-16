@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "indesign", "topics": [
+  {"topic": "Animated Zoom", "file": "references/desktop/get-started/system-and-product-info/gpu-performance-in-in-design/animated-zoom.md", "summary": "Open when looking up Animated Zoom in InDesign.", "keywords": ["Animated Zoom"]},
+  {"topic": "Change preview mode", "file": "references/desktop/get-started/system-and-product-info/gpu-performance-in-in-design/change-preview-mode.md", "summary": "Open when looking up Change preview mode in InDesign.", "keywords": ["Change preview mode"]},
+  {"topic": "Deactivate GPU performance", "file": "references/desktop/get-started/system-and-product-info/gpu-performance-in-in-design/deactivate-gpu-performance.md", "summary": "Open when looking up Deactivate GPU performance in InDesign.", "keywords": ["Deactivate GPU performance"]},
+  {"topic": "macOS", "file": "references/desktop/get-started/system-and-product-info/gpu-performance-in-in-design/mac-os.md", "summary": "Open when looking up macOS in InDesign.", "keywords": ["macOS"]},
+  {"topic": "Use GPU performance", "file": "references/desktop/get-started/system-and-product-info/gpu-performance-in-in-design/use-gpu-performance.md", "summary": "Open when looking up Use GPU performance in InDesign.", "keywords": ["Use GPU performance"]},
+  {"topic": "Windows", "file": "references/desktop/get-started/system-and-product-info/gpu-performance-in-in-design/windows.md", "summary": "Open when looking up Windows in InDesign.", "keywords": ["Windows"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

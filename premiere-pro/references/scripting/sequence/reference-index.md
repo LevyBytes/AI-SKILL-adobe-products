@@ -1,0 +1,55 @@
+# Premiere Pro — Sequence
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Sequence object in Premiere Pro. [Sequence object](sequence-object.md).
+- Open when looking up Sequence.attachCustomProperty() in Premiere Pro. [Sequence.attachCustomProperty()](attach-custom-property.md).
+- Open when looking up Sequence.audioDisplayFormat in Premiere Pro. [Sequence.audioDisplayFormat](audio-display-format.md).
+- Open when looking up Sequence.audioTracks in Premiere Pro. [Sequence.audioTracks](audio-tracks.md).
+- Open when looking up Sequence.autoReframeSequence() in Premiere Pro. [Sequence.autoReframeSequence()](auto-reframe-sequence.md).
+- Open when looking up Sequence.clone() in Premiere Pro. [Sequence.clone()](clone.md).
+- Open when looking up Sequence.close() in Premiere Pro. [Sequence.close()](close.md).
+- Open when looking up Sequence.createCaptionTrack() in Premiere Pro. [Sequence.createCaptionTrack()](create-caption-track.md).
+- Open when looking up Sequence.createSubsequence() in Premiere Pro. [Sequence.createSubsequence()](create-subsequence.md).
+- Open when looking up Sequence.end in Premiere Pro. [Sequence.end](end.md).
+- Open when looking up Sequence.exportAsFinalCutProXML() in Premiere Pro. [Sequence.exportAsFinalCutProXML()](export-as-final-cut-pro-xml.md).
+- Open when looking up Sequence.exportAsMediaDirect() in Premiere Pro. [Sequence.exportAsMediaDirect()](export-as-media-direct.md).
+- Open when looking up Sequence.exportAsProject() in Premiere Pro. [Sequence.exportAsProject()](export-as-project.md).
+- Open when looking up Sequence.frameSizeHorizontal in Premiere Pro. [Sequence.frameSizeHorizontal](frame-size-horizontal.md).
+- Open when looking up Sequence.frameSizeVertical in Premiere Pro. [Sequence.frameSizeVertical](frame-size-vertical.md).
+- Open when looking up Sequence.getExportFileExtension() in Premiere Pro. [Sequence.getExportFileExtension()](get-export-file-extension.md).
+- Open when looking up Sequence.getInPoint() in Premiere Pro. [Sequence.getInPoint()](get-in-point.md).
+- Open when looking up Sequence.getInPointAsTime() in Premiere Pro. [Sequence.getInPointAsTime()](get-in-point-as-time.md).
+- Open when looking up Sequence.getOutPoint() in Premiere Pro. [Sequence.getOutPoint()](get-out-point.md).
+- Open when looking up Sequence.getOutPointAsTime() in Premiere Pro. [Sequence.getOutPointAsTime()](get-out-point-as-time.md).
+- Open when looking up Sequence.getPlayerPosition() in Premiere Pro. [Sequence.getPlayerPosition()](get-player-position.md).
+- Open when looking up Sequence.getSelection() in Premiere Pro. [Sequence.getSelection()](get-selection.md).
+- Open when looking up Sequence.getSettings() in Premiere Pro. [Sequence.getSettings()](get-settings.md).
+- Open when looking up Sequence.getWorkAreaInPoint() in Premiere Pro. [Sequence.getWorkAreaInPoint()](get-work-area-in-point.md).
+- Open when looking up Sequence.getWorkAreaInPointAsTime() in Premiere Pro. [Sequence.getWorkAreaInPointAsTime()](get-work-area-in-point-as-time.md).
+- Open when looking up Sequence.getWorkAreaOutPoint() in Premiere Pro. [Sequence.getWorkAreaOutPoint()](get-work-area-out-point.md).
+- Open when looking up Sequence.getWorkAreaOutPointAsTime() in Premiere Pro. [Sequence.getWorkAreaOutPointAsTime()](get-work-area-out-point-as-time.md).
+- Open when looking up Sequence.id in Premiere Pro. [Sequence.id](id.md).
+- Open when looking up Sequence.importMGT() in Premiere Pro. [Sequence.importMGT()](import-mgt.md).
+- Open when looking up Sequence.importMGTFromLibrary() in Premiere Pro. [Sequence.importMGTFromLibrary()](import-mgt-from-library.md).
+- Open when looking up Sequence.insertClip() in Premiere Pro. [Sequence.insertClip()](insert-clip.md).
+- Open when looking up Sequence.isDoneAnalyzingForVideoEffects() in Premiere Pro. [Sequence.isDoneAnalyzingForVideoEffects()](is-done-analyzing-for-video-effects.md).
+- Open when looking up Sequence.isWorkAreaEnabled() in Premiere Pro. [Sequence.isWorkAreaEnabled()](is-work-area-enabled.md).
+- Open when looking up Sequence.linkSelection() in Premiere Pro. [Sequence.linkSelection()](link-selection.md).
+- Open when looking up Sequence.markers in Premiere Pro. [Sequence.markers](markers.md).
+- Open when looking up Sequence.name in Premiere Pro. [Sequence.name](name.md).
+- Open when looking up Sequence.overwriteClip() in Premiere Pro. [Sequence.overwriteClip()](overwrite-clip.md).
+- Open when looking up Sequence.performSceneEditDetectionOnSelection() in Premiere Pro. [Sequence.performSceneEditDetectionOnSelection()](perform-scene-edit-detection-on-selection.md).
+- Open when looking up Sequence.projectItem in Premiere Pro. [Sequence.projectItem](project-item.md).
+- Open when looking up Sequence.sequenceID in Premiere Pro. [Sequence.sequenceID](sequence-id.md).
+- Open when looking up Sequence.setInPoint() in Premiere Pro. [Sequence.setInPoint()](set-in-point.md).
+- Open when looking up Sequence.setOutPoint() in Premiere Pro. [Sequence.setOutPoint()](set-out-point.md).
+- Open when looking up Sequence.setPlayerPosition() in Premiere Pro. [Sequence.setPlayerPosition()](set-player-position.md).
+- Open when looking up Sequence.setSettings() in Premiere Pro. [Sequence.setSettings()](set-settings.md).
+- Open when looking up Sequence.setWorkAreaInPoint() in Premiere Pro. [Sequence.setWorkAreaInPoint()](set-work-area-in-point.md).
+- Open when looking up Sequence.setWorkAreaOutPoint() in Premiere Pro. [Sequence.setWorkAreaOutPoint()](set-work-area-out-point.md).
+- Open when looking up Sequence.setZeroPoint() in Premiere Pro. [Sequence.setZeroPoint()](set-zero-point.md).
+- Open when looking up Sequence.timebase in Premiere Pro. [Sequence.timebase](timebase.md).
+- Open when looking up Sequence.unlinkSelection() in Premiere Pro. [Sequence.unlinkSelection()](unlink-selection.md).
+- Open when looking up Sequence.videoDisplayFormat in Premiere Pro. [Sequence.videoDisplayFormat](video-display-format.md).
+- Open when looking up Sequence.videoTracks in Premiere Pro. [Sequence.videoTracks](video-tracks.md).
+- Open when looking up Sequence.zeroPoint in Premiere Pro. [Sequence.zeroPoint](zero-point.md).

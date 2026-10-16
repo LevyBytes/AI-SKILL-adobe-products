@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "On desktop", "file": "references/web/get-started/learn-the-basics/technical-requirements/on-desktop.md", "summary": "Open when looking up On desktop in Acrobat.", "keywords": ["On desktop"]},
+  {"topic": "On mobile devices", "file": "references/web/get-started/learn-the-basics/technical-requirements/on-mobile-devices.md", "summary": "Open when looking up On mobile devices in Acrobat.", "keywords": ["On mobile devices"]},
+  {"topic": "Supported languages", "file": "references/web/get-started/learn-the-basics/technical-requirements/supported-languages.md", "summary": "Open when looking up Supported languages in Acrobat.", "keywords": ["Supported languages"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

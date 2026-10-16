@@ -1,0 +1,4 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Dollar ($) object", "file": "references/scripting/dollar/dollar-object.md", "summary": "Open when looking up Dollar ($) object in Shared Adobe platform.", "keywords": ["Dollar ($) object"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

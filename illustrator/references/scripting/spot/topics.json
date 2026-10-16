@@ -1,0 +1,11 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Spot.color", "file": "references/scripting/spot/color.md", "summary": "Open when looking up Spot.color in Illustrator.", "keywords": ["Spot.color"]},
+  {"topic": "Spot.colorType", "file": "references/scripting/spot/color-type.md", "summary": "Open when looking up Spot.colorType in Illustrator.", "keywords": ["Spot.colorType"]},
+  {"topic": "Spot.getInternalColor()", "file": "references/scripting/spot/get-internal-color.md", "summary": "Open when looking up Spot.getInternalColor() in Illustrator.", "keywords": ["Spot.getInternalColor()"]},
+  {"topic": "Spot.name", "file": "references/scripting/spot/name.md", "summary": "Open when looking up Spot.name in Illustrator.", "keywords": ["Spot.name"]},
+  {"topic": "Spot.parent", "file": "references/scripting/spot/parent.md", "summary": "Open when looking up Spot.parent in Illustrator.", "keywords": ["Spot.parent"]},
+  {"topic": "Spot.remove()", "file": "references/scripting/spot/remove.md", "summary": "Open when looking up Spot.remove() in Illustrator.", "keywords": ["Spot.remove()"]},
+  {"topic": "Spot.spotKind", "file": "references/scripting/spot/spot-kind.md", "summary": "Open when looking up Spot.spotKind in Illustrator.", "keywords": ["Spot.spotKind"]},
+  {"topic": "Spot.typename", "file": "references/scripting/spot/typename.md", "summary": "Open when looking up Spot.typename in Illustrator.", "keywords": ["Spot.typename"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

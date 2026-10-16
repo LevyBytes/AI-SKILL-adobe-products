@@ -1,0 +1,21 @@
+# Premiere Pro — Color correction fundamentals
+
+- Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when looking up Add color effects in Premiere Pro. [Add color effects](add-color-effects.md).
+- Open when looking up Basic color correction options in Premiere Pro. [Basic color correction options](basic-color-correction-options.md).
+- Open when looking up Color Correction Fundamentals in Premiere Pro. [Color Correction Fundamentals](color-correction-fundamentals.md).
+- Open when looking up Color mode fundamentals in Premiere Pro. [Color mode fundamentals](color-mode-fundamentals.md).
+- Open when looking up Color settings in Premiere Pro. [Color settings](color-settings.md).
+- Open when looking up Create and edit multiple Lumetri Color effects in Premiere Pro. [Create and edit multiple Lumetri Color effects](create-and-edit-multiple-lumetri-color-effects.md).
+- Open when looking up Improve video clips with color correction tools in Adobe Premiere. in Premiere Pro. [Improve video clips with color correction tools in Adobe Premiere.](color-correction-workflow.md).
+- Open when looking up Input LUT in Premiere Pro. [Input LUT](input-lut.md).
+- Open when looking up Lumetri Color Workspace overview in Premiere Pro. [Lumetri Color Workspace overview](lumetri-color-workspace-overview.md).
+- Open when looking up Preferences in Premiere Pro. [Preferences](preferences.md).
+- Open when looking up Professional color grading tools available in Adobe Premiere. in Premiere Pro. [Professional color grading tools available in Adobe Premiere.](professional-color-grading-tools-available-in-adobe-premiere.md).
+- Open when looking up Project color settings in Premiere Pro. [Project color settings](project-color-settings.md).
+- Open when looking up Sequence Clip color settings in Premiere Pro. [Sequence Clip color settings](sequence-clip-color-settings.md).
+- Open when looking up Sequence color settings in Premiere Pro. [Sequence color settings](sequence-color-settings.md).
+- Open when looking up Set up Color Management in Premiere Pro. [Set up Color Management](set-up-color-management.md).
+- Open when looking up Source Clip color settings in Premiere Pro. [Source Clip color settings](source-clip-color-settings.md).
+- Open when looking up Tone in Premiere Pro. [Tone](tone.md).
+- Open when looking up White balance in Premiere Pro. [White balance](white-balance.md).

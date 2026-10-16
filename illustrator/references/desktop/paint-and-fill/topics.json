@@ -1,0 +1,8 @@
+{"schema_version": 1, "owner": "illustrator", "topics": [
+  {"topic": "Apply and edit strokes references", "file": "references/desktop/paint-and-fill/apply-and-edit-strokes/reference-index.md", "summary": "Open when looking up Apply and edit strokes in Illustrator.", "keywords": ["Apply and edit strokes references"]},
+  {"topic": "Create and edit gradients references", "file": "references/desktop/paint-and-fill/create-and-edit-gradients/reference-index.md", "summary": "Open when looking up Create and edit gradients in Illustrator.", "keywords": ["Create and edit gradients references"]},
+  {"topic": "Create and edit meshes references", "file": "references/desktop/paint-and-fill/create-and-edit-meshes/reference-index.md", "summary": "Open when looking up Create and edit meshes in Illustrator.", "keywords": ["Create and edit meshes references"]},
+  {"topic": "Create and edit patterns references", "file": "references/desktop/paint-and-fill/create-and-edit-patterns/reference-index.md", "summary": "Open when looking up Create and edit patterns in Illustrator.", "keywords": ["Create and edit patterns references"]},
+  {"topic": "Learn painting basics references", "file": "references/desktop/paint-and-fill/learn-painting-basics/reference-index.md", "summary": "Open when looking up Learn painting basics in Illustrator.", "keywords": ["Learn painting basics references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

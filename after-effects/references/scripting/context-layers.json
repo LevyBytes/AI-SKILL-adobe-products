@@ -1,0 +1,15 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "Av layer object references", "file": "references/scripting/av-layer-object/reference-index.md", "summary": "Open when looking up Av layer object in After Effects.", "keywords": ["Av layer object references"]},
+  {"topic": "Av layer references", "file": "references/scripting/av-layer/reference-index.md", "summary": "Open when looking up Av layer in After Effects.", "keywords": ["Av layer references"]},
+  {"topic": "Camera layer references", "file": "references/scripting/camera-layer/reference-index.md", "summary": "Open when looking up Camera layer in After Effects.", "keywords": ["Camera layer references"]},
+  {"topic": "Layer collection references", "file": "references/scripting/layer-collection/reference-index.md", "summary": "Open when looking up Layer collection in After Effects.", "keywords": ["Layer collection references"]},
+  {"topic": "Layer references", "file": "references/scripting/layer/reference-index.md", "summary": "Open when looking up Layer in After Effects.", "keywords": ["Layer references"]},
+  {"topic": "Light layer object references", "file": "references/scripting/light-layer-object/reference-index.md", "summary": "Open when looking up Light layer object in After Effects.", "keywords": ["Light layer object references"]},
+  {"topic": "Light layer references", "file": "references/scripting/light-layer/reference-index.md", "summary": "Open when looking up Light layer in After Effects.", "keywords": ["Light layer references"]},
+  {"topic": "Parametric mesh layer object references", "file": "references/scripting/parametric-mesh-layer-object/reference-index.md", "summary": "Open when looking up Parametric mesh layer object in After Effects.", "keywords": ["Parametric mesh layer object references"]},
+  {"topic": "Parametric mesh layer references", "file": "references/scripting/parametric-mesh-layer/reference-index.md", "summary": "Open when looking up Parametric mesh layer in After Effects.", "keywords": ["Parametric mesh layer references"]},
+  {"topic": "Shape layer references", "file": "references/scripting/shape-layer/reference-index.md", "summary": "Open when looking up Shape layer in After Effects.", "keywords": ["Shape layer references"]},
+  {"topic": "Text layer references", "file": "references/scripting/text-layer/reference-index.md", "summary": "Open when looking up Text layer in After Effects.", "keywords": ["Text layer references"]},
+  {"topic": "Three d model layer references", "file": "references/scripting/three-d-model-layer/reference-index.md", "summary": "Open when looking up Three d model layer in After Effects.", "keywords": ["Three d model layer references"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

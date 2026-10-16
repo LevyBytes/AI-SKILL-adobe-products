@@ -1,0 +1,5 @@
+{"schema_version": 1, "owner": "after-effects", "topics": [
+  {"topic": "AEGP Suites — Working With Effects", "file": "references/plugin-sdk/working-with-effects/aegp-suites-working-with-effects.md", "summary": "Open when looking up AEGP Suites — Working With Effects in After Effects.", "keywords": ["AEGP Suites — Working With Effects"]},
+  {"topic": "AEGP_GetEffectCameraMatrix Notes", "file": "references/plugin-sdk/working-with-effects/aegp-get-effect-camera-matrix-notes.md", "summary": "Open when looking up AEGP_GetEffectCameraMatrix Notes in After Effects.", "keywords": ["AEGP_GetEffectCameraMatrix Notes"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

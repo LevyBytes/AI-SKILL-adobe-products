@@ -1,0 +1,6 @@
+{"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Set accessibility settings", "file": "references/web/get-started/preferences-settings/set-accessibility-settings.md", "summary": "Open when looking up Set accessibility settings in Acrobat.", "keywords": ["Set accessibility settings"]},
+  {"topic": "Set accessibility settings references", "file": "references/web/get-started/preferences-settings/set-accessibility-settings/reference-index.md", "summary": "Open when looking up Set accessibility settings in Acrobat.", "keywords": ["Set accessibility settings references"]},
+  {"topic": "Set light or dark mode", "file": "references/web/get-started/preferences-settings/set-light-or-dark-mode.md", "summary": "Open when looking up Set light or dark mode in Acrobat.", "keywords": ["Set light or dark mode"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}

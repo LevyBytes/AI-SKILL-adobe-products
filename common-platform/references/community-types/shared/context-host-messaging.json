@@ -1,0 +1,9 @@
+{"schema_version": 1, "owner": "common-platform", "topics": [
+  {"topic": "Application", "file": "references/community-types/shared/application.md", "summary": "Open when looking up Application in Shared Adobe platform.", "keywords": ["Application"]},
+  {"topic": "CSXSEvent", "file": "references/community-types/shared/csxs-event.md", "summary": "Open when looking up CSXSEvent in Shared Adobe platform.", "keywords": ["CSXSEvent"]},
+  {"topic": "CSXSEventConstructor", "file": "references/community-types/shared/csxs-event-constructor.md", "summary": "Open when looking up CSXSEventConstructor in Shared Adobe platform.", "keywords": ["CSXSEventConstructor"]},
+  {"topic": "declare const CSXSEvent: CSXSEventConstructor", "file": "references/community-types/shared/declare-const-csxs-event-csxs-event-constructor.md", "summary": "Open when looking up declare const CSXSEvent: CSXSEventConstructor in Shared Adobe platform.", "keywords": ["declare const CSXSEvent: CSXSEventConstructor"]},
+  {"topic": "declare var app: Application", "file": "references/community-types/shared/declare-var-app-application.md", "summary": "Open when looking up declare var app: Application in Shared Adobe platform.", "keywords": ["declare var app: Application"]},
+  {"topic": "declare var BridgeTalk: any", "file": "references/community-types/shared/declare-var-bridge-talk-any.md", "summary": "Open when looking up declare var BridgeTalk: any in Shared Adobe platform.", "keywords": ["declare var BridgeTalk: any"]},
+  {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
+]}
