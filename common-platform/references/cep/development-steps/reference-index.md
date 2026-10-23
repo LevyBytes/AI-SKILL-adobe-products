@@ -1,4 +1,4 @@
-# Shared Adobe platform — Development steps
+# Shared Adobe platform - Development steps
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Decide the folder structure in Shared Adobe platform. [1. Decide the folder structure](decide-the-folder-structure.md).

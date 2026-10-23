@@ -1,4 +1,4 @@
-# Premiere Pro — Apply video effects
+# Premiere Pro - Apply video effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Effect Controls panel in Premiere Pro. [About Effect Controls panel](about-effect-controls-panel.md).

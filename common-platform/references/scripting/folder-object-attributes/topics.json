@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Folder Object — Folder Object Attributes", "file": "references/scripting/folder-object-attributes/folder-object-folder-object-attributes.md", "summary": "Open when looking up Folder Object — Folder Object Attributes in Shared Adobe platform.", "keywords": ["Folder Object — Folder Object Attributes"]},
+  {"topic": "Folder Object - Folder Object Attributes", "file": "references/scripting/folder-object-attributes/folder-object-folder-object-attributes.md", "summary": "Open when looking up Folder Object - Folder Object Attributes in Shared Adobe platform.", "keywords": ["Folder Object - Folder Object Attributes"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

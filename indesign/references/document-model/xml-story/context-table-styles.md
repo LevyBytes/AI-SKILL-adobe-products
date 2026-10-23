@@ -1,6 +1,6 @@
-# InDesign — XmlStory: table and cell styles
+# InDesign - XmlStory: table and cell styles
 
-Open when checking table and cell styles in InDesign — XmlStory.
+Open when checking table and cell styles in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-table-styles.json).
 

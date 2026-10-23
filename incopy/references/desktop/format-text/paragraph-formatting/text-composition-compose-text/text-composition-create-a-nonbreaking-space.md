@@ -1,4 +1,4 @@
-# Text composition — Create a nonbreaking space
+# Text composition - Create a nonbreaking space
 
 With the Type tool  , set the insertion point where the space should be inserted. Use Type > Insert White Space> Nonbreaking Space (or any other white space character).
 

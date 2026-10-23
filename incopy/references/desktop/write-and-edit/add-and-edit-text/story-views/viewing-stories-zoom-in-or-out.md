@@ -1,4 +1,4 @@
-# Viewing stories — Zoom in or out
+# Viewing stories - Zoom in or out
 
 In Layout view, the page view can be enlarged or reduced. The application bar shows the current zoom percentage.
 

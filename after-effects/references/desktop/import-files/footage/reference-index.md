@@ -1,4 +1,4 @@
-# After Effects — Footage
+# After Effects - Footage
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Importing Interpreting Footage Items in After Effects. [Importing Interpreting Footage Items](importing-interpreting-footage-items.md).

@@ -1,4 +1,4 @@
-# After Effects — Output module
+# After Effects - Output module
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up OutputModule object in After Effects. [OutputModule object](output-module-object.md).

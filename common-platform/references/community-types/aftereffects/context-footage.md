@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: footage, source interpretation and import
+# Shared Adobe platform - Aftereffects: footage, source interpretation and import
 
-Open when working with footage, source interpretation and import in Shared Adobe platform — Aftereffects.
+Open when working with footage, source interpretation and import in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-footage.json).
 

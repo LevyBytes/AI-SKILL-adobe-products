@@ -1,4 +1,4 @@
-# After Effects — After Effects Workflows
+# After Effects - After Effects Workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Import and organize footage in After Effects. [1. Import and organize footage](import-and-organize-footage.md).

@@ -1,4 +1,4 @@
-# After Effects — AEGP_UtilitySuite6
+# After Effects - AEGP_UtilitySuite6
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CauseIdleRoutinesToBeCalled in After Effects. [AEGP_CauseIdleRoutinesToBeCalled](aegp-cause-idle-routines-to-be-called.md).

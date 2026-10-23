@@ -1,4 +1,4 @@
-# InDesign — Export and import user settings
+# InDesign - Export and import user settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export user settings in InDesign. [Export user settings](export-user-settings.md).

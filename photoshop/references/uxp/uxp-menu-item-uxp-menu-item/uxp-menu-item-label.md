@@ -1,4 +1,4 @@
-# UxpMenuItem — label
+# UxpMenuItem - label
 
 Sets the menu item's label. The update is applied right away and happens asynchronously.
 

@@ -1,4 +1,4 @@
-# Footnotes — Create footnotes
+# Footnotes - Create footnotes
 
 A footnote has two connected elements: the reference number in the text and the footnote text at the bottom of the column. Footnotes can be created directly or imported from Word or RTF documents. As footnotes are added, InCopy numbers them automatically, and numbering begins again in each story. You can set the numbering style, visual appearance, and layout. Footnote text itself cannot contain another footnote.
 

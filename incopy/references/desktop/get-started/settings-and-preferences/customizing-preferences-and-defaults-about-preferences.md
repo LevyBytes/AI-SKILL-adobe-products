@@ -1,4 +1,4 @@
-# Customizing preferences and defaults — About preferences
+# Customizing preferences and defaults - About preferences
 
 Preferences cover settings such as panel placement, measurement choices, and display behavior for graphics and typography.
 

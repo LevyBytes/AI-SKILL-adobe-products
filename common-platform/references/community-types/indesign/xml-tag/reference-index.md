@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLTag
+# Shared Adobe platform - XMLTag
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 

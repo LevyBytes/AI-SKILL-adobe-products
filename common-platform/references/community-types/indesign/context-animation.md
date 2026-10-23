@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: animation and timing
+# Shared Adobe platform - Indesign: animation and timing
 
-Open when working with animation and timing in Shared Adobe platform — Indesign.
+Open when working with animation and timing in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-animation.json).
 

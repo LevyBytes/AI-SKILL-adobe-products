@@ -1,4 +1,4 @@
-# Illustrator — PluginItems
+# Illustrator - PluginItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PluginItems.getByName() in Illustrator. [PluginItems.getByName()](get-by-name.md).

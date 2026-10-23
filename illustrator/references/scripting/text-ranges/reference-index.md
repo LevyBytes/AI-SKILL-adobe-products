@@ -1,4 +1,4 @@
-# Illustrator — TextRanges
+# Illustrator - TextRanges
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextRanges.index() in Illustrator. [TextRanges.index()](index.md).

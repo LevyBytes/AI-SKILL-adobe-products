@@ -1,8 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "configure-logging.cs", "file": "references/pdf-services/examples/dotnet/extract-first-level-headings/configure-logging.cs", "summary": "Open when looking up configure-logging.cs in Acrobat.", "keywords": ["configure-logging.cs"]},
   {"topic": "Extract first level headings example setup", "file": "references/pdf-services/examples/dotnet/extract-first-level-headings/extract-first-level-headings-setup.md", "summary": "Open when looking up Extract first level headings example setup in Acrobat.", "keywords": ["Extract first level headings example setup"]},
-  {"topic": "imports.cs", "file": "references/pdf-services/examples/dotnet/extract-first-level-headings/imports.cs", "summary": "Open when looking up imports.cs in Acrobat.", "keywords": ["imports.cs"]},
-  {"topic": "print-heading-output.cs", "file": "references/pdf-services/examples/dotnet/extract-first-level-headings/print-heading-output.cs", "summary": "Open when looking up print-heading-output.cs in Acrobat.", "keywords": ["print-heading-output.cs"]},
-  {"topic": "Program.cs", "file": "references/pdf-services/examples/dotnet/extract-first-level-headings/Program.cs", "summary": "Open when looking up Program.cs in Acrobat.", "keywords": ["Program.cs"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

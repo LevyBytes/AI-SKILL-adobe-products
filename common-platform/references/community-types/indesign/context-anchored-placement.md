@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: anchored objects and reference points
+# Shared Adobe platform - Indesign: anchored objects and reference points
 
-Open when working with anchored objects and reference points in Shared Adobe platform — Indesign.
+Open when working with anchored objects and reference points in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-anchored-placement.json).
 

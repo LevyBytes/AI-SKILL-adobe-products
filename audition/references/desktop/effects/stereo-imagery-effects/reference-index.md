@@ -1,4 +1,4 @@
-# Audition — Stereo imagery effects
+# Audition - Stereo imagery effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Center Channel Extractor effect in Audition. [Center Channel Extractor effect](center-channel-extractor-effect.md).

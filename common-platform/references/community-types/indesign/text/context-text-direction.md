@@ -1,6 +1,6 @@
-# Shared Adobe platform — Text: writing direction and diacritics
+# Shared Adobe platform - Text: writing direction and diacritics
 
-Open when checking writing direction and diacritics in Shared Adobe platform — Text.
+Open when checking writing direction and diacritics in Shared Adobe platform - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

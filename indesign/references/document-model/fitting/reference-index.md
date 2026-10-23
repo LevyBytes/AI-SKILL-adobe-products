@@ -1,4 +1,4 @@
-# InDesign — Fitting
+# InDesign - Fitting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CONTENT_AWARE_FITTING in InDesign. [CONTENT_AWARE_FITTING](contentawarefitting.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: indexes, topics and cross-references
+# Shared Adobe platform - Indesign: indexes, topics and cross-references
 
-Open when working with indexes, topics and cross-references in Shared Adobe platform — Indesign.
+Open when working with indexes, topics and cross-references in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-cross-references.json).
 

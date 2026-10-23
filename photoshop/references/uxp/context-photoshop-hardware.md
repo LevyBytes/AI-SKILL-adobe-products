@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: photoshop display and compute devices
+# Photoshop - UXP plugins and APIs: photoshop display and compute devices
 
-Open when working with photoshop display and compute devices in Photoshop — UXP plugins and APIs.
+Open when working with photoshop display and compute devices in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-photoshop-hardware.json).
 

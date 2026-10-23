@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: workspace, windows and menus
+# Shared Adobe platform - Document: workspace, windows and menus
 
-Open when checking workspace, windows and menus in Shared Adobe platform — Document.
+Open when checking workspace, windows and menus in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

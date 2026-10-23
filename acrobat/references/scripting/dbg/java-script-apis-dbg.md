@@ -1,4 +1,4 @@
-# JavaScript APIs — dbg
+# JavaScript APIs - dbg
 
 From a command-line console, the static dbg object lets you drive the JavaScript Debugger. Whatever the buttons on the JavaScript Debugger dialog box toolbar do, its methods do as well. On top of that, you can create, remove, and inspect breakpoints by means of the dbg object.
 

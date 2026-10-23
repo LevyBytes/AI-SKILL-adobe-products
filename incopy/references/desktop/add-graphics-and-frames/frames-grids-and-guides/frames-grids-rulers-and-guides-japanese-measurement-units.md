@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Japanese measurement units
+# Frames, grids, rulers, and guides - Japanese measurement units
 
 Q and Ha are Japanese manual or automatic photo-composer units used for font size, tracking, or leading length. Each unit equals 0.25mm. Q is reserved for font-size values, while Ha can express direction and length for leading, object spacing, and similar uses.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — SubmitFormBehaviors
+# Shared Adobe platform - SubmitFormBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SubmitFormBehaviors collection iteration in Shared Adobe platform. [SubmitFormBehaviors collection iteration](collection-iteration.md).

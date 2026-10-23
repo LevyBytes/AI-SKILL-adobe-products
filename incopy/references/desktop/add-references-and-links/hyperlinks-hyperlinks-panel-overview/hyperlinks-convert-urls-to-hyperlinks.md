@@ -1,4 +1,4 @@
-# Hyperlinks — Convert URLs to hyperlinks
+# Hyperlinks - Convert URLs to hyperlinks
 
 URLs such as “www.adobe.com” can be found in a document and converted into hyperlinks.
 

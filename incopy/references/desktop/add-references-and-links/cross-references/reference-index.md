@@ -1,4 +1,4 @@
-# InCopy — Cross References
+# InCopy - Cross References
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply character styles within a cross-reference in InCopy. [Apply character styles within a cross-reference](apply-character-styles-within-a-cross-reference.md).

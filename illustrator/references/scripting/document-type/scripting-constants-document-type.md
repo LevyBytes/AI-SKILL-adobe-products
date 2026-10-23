@@ -1,4 +1,4 @@
-# Scripting Constants — DocumentType
+# Scripting Constants - DocumentType
 
 File format used for saving.
 

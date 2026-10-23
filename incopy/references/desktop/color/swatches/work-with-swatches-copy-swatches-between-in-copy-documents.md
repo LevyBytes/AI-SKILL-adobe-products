@@ -1,4 +1,4 @@
-# Work with swatches — Copy swatches between InCopy documents
+# Work with swatches - Copy swatches between InCopy documents
 
 Swatches can be copied or dragged between documents, as can objects that have swatches applied. The destination document receives the swatch in its Swatches panel. To bring along the swatch's tints and gradients too, copy the source object itself rather than only the swatch.
 

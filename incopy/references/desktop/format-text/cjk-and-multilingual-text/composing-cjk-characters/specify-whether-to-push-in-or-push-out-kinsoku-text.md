@@ -1,4 +1,4 @@
-# Composing CJK characters — Specify whether to push in or push out kinsoku text
+# Composing CJK characters - Specify whether to push in or push out kinsoku text
 
 Kinsoku Break Type controls whether composition resolves restricted characters by pushing text inward or outward so kinsoku characters do not start or finish a line.
 

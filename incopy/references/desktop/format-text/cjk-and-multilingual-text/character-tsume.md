@@ -1,4 +1,4 @@
-# Changing spacing between charactersin CJK text — Adjust character tsume in CJK composition
+# Changing spacing between charactersin CJK text - Adjust character tsume in CJK composition
 
 Tsume proportionally tightens the space around characters; their vertical and horizontal scaling is not changed.
 

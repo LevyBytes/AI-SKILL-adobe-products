@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: layer transforms and dimension controls
+# Shared Adobe platform - _CommandID: layer transforms and dimension controls
 
-Open when working with layer transforms and dimension controls in Shared Adobe platform — _CommandID.
+Open when working with layer transforms and dimension controls in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-transforms.json).
 

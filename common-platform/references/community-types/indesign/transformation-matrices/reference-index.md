@@ -1,4 +1,4 @@
-# Shared Adobe platform — TransformationMatrices
+# Shared Adobe platform - TransformationMatrices
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TransformationMatrices collection iteration in Shared Adobe platform. [TransformationMatrices collection iteration](collection-iteration.md).

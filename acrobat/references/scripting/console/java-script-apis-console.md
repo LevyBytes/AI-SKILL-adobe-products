@@ -1,4 +1,4 @@
-# JavaScript APIs — console
+# JavaScript APIs - console
 
 A single static object, console, opens the door to the Acrobat JavaScript Console, where you can run JavaScript and watch debug output appear.
 

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: where installers should put plug-ins
+# After Effects - C++ plugin SDK: where installers should put plug-ins
 
-Open when working with where installers should put plug-ins in After Effects — C++ plugin SDK.
+Open when working with where installers should put plug-ins in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-where-installers-should-put-plug-ins.json).
 

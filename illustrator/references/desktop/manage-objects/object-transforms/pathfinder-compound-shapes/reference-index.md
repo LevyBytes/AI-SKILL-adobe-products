@@ -1,4 +1,4 @@
-# Illustrator — Create compound shapes with Pathfinder
+# Illustrator - Create compound shapes with Pathfinder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the shape mode of objects within a compound shape in Illustrator. [Change the shape mode of objects within a compound shape](change-the-shape-mode-of-objects-within-a-compound-shape.md).

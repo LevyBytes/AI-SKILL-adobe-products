@@ -1,4 +1,4 @@
-# InDesign — StrokeCornerAdjustment
+# InDesign - StrokeCornerAdjustment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DASHES in InDesign. [DASHES](dashes.md).

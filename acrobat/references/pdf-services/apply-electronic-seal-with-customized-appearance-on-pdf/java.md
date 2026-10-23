@@ -1,5 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ElectronicSealWithAppearanceOptions.java](../examples/java/electronic-seal-with-appearance-options/ElectronicSealWithAppearanceOptions.java)
-- [ElectronicSealWithAppearanceOptionsSupport.java](../examples/java/electronic-seal-with-appearance-options/ElectronicSealWithAppearanceOptionsSupport.java)
+- [electronic-seal-with-appearance-options setup and source](../examples/java/electronic-seal-with-appearance-options/electronic-seal-with-appearance-options-setup.md)

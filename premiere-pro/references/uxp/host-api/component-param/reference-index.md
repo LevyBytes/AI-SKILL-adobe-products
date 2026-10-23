@@ -1,8 +1,8 @@
-# Premiere Pro — Component param
+# Premiere Pro - Component param
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up areKeyframesSupported in Premiere Pro. [areKeyframesSupported](are-keyframes-supported.md).
-- Open when looking up ComponentParam — Properties in Premiere Pro. [ComponentParam — Properties](component-param-properties.md).
+- Open when looking up ComponentParam - Properties in Premiere Pro. [ComponentParam - Properties](component-param-properties.md).
 - Open when looking up createAddKeyframeAction in Premiere Pro. [createAddKeyframeAction](create-add-keyframe-action.md).
 - Open when looking up createKeyframe in Premiere Pro. [createKeyframe](create-keyframe.md).
 - Open when looking up createRemoveKeyframeAction in Premiere Pro. [createRemoveKeyframeAction](create-remove-keyframe-action.md).

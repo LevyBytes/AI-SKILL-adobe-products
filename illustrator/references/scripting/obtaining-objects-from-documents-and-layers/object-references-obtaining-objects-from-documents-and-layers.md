@@ -1,4 +1,4 @@
-# Object references — Obtaining objects from documents and layers
+# Object references - Obtaining objects from documents and layers
 
 This script addresses an object through the document:
 

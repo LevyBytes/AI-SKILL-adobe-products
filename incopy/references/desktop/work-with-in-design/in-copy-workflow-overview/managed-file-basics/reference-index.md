@@ -1,4 +1,4 @@
-# InCopy — Understanding a basic managed-fileworkflow
+# InCopy - Understanding a basic managed-fileworkflow
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices for working with managed files in InCopy. [Best practices for working with managed files](best-practices-for-working-with-managed-files.md).

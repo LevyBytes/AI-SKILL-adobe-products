@@ -1,4 +1,4 @@
-# Premiere Pro — Window path
+# Premiere Pro - Window path
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up basename(path, [ext]) in Premiere Pro. [basename(path, ext)](basename.md).

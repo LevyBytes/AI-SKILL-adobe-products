@@ -1,4 +1,4 @@
-# window.NamedNodeMap — NamedNodeMap(node)
+# window.NamedNodeMap - NamedNodeMap(node)
 
 Instantiates NamedNodeMap.
 

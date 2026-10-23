@@ -1,6 +1,6 @@
-# InDesign — Document: page item collections
+# InDesign - Document: page item collections
 
-Open when checking page item collections in InDesign — Document.
+Open when checking page item collections in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

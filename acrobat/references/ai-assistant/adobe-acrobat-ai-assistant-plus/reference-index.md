@@ -1,4 +1,4 @@
-# Acrobat — Adobe Acrobat AI Assistant Plus
+# Acrobat - Adobe Acrobat AI Assistant Plus
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Eligibility and availability in Acrobat. [Eligibility and availability](eligibility-and-availability.md).

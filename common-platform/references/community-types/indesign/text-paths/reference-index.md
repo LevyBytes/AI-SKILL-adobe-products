@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextPaths
+# Shared Adobe platform - TextPaths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextPaths collection iteration in Shared Adobe platform. [TextPaths collection iteration](collection-iteration.md).

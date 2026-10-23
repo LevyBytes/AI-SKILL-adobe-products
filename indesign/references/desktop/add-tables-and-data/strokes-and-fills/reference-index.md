@@ -1,4 +1,4 @@
-# InDesign — Strokes and fills
+# InDesign - Strokes and fills
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add alternating strokes and fills in InDesign. [Add alternating strokes and fills](add-alternating-strokes-and-fills.md).

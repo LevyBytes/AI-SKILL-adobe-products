@@ -1,4 +1,4 @@
-# window.PointerEvent — PointerEvent(type, eventInit)
+# window.PointerEvent - PointerEvent(type, eventInit)
 
 Builds a PointerEvent instance.
 

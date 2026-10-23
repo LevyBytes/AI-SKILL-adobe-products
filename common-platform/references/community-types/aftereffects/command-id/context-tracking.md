@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: tracking and stabilization
+# Shared Adobe platform - _CommandID: tracking and stabilization
 
-Open when working with tracking and stabilization in Shared Adobe platform — _CommandID.
+Open when working with tracking and stabilization in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-tracking.json).
 

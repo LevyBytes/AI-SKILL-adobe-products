@@ -1,4 +1,4 @@
-# Keying effects — Key out a luminance value with the Luma Key effect
+# Keying effects - Key out a luminance value with the Luma Key effect
 
 Pick the layer you intend to render partly see-through, then choose Effect > Obsolete > Luma Key.
 

@@ -1,4 +1,4 @@
-# Firefly — Firefly Generate Image API Tutorial
+# Firefly - Firefly Generate Image API Tutorial
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customize Requests in Firefly. [Customize Requests](customize-requests.md).

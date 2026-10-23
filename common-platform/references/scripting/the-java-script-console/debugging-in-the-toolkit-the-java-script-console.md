@@ -1,4 +1,4 @@
-# Debugging in the Toolkit — The JavaScript console
+# Debugging in the Toolkit - The JavaScript console
 
 The JavaScript console combines a command shell with an output window for the currently selected JavaScript engine. It gives access to that engine's global namespace.
 

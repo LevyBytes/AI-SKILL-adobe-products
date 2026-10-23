@@ -1,6 +1,6 @@
-# InDesign — Character: apply and manage styles
+# InDesign - Character: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Character.
+Open when checking apply and manage styles in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

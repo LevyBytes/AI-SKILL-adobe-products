@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: selections, paths and shapes
+# Shared Adobe platform - Photoshop: selections, paths and shapes
 
-Open when working with selections, paths and shapes in Shared Adobe platform — Photoshop.
+Open when working with selections, paths and shapes in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-selections-paths.json).
 

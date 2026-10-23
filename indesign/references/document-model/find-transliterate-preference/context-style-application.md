@@ -1,6 +1,6 @@
-# InDesign — Find transliterate preference: apply and manage styles
+# InDesign - Find transliterate preference: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Find transliterate preference.
+Open when checking apply and manage styles in InDesign - Find transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

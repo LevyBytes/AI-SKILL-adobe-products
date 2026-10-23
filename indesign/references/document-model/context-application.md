@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: application state and runtime
+# InDesign - InDesign document object model: application state and runtime
 
-Open when working with application state and runtime in InDesign — InDesign document object model.
+Open when working with application state and runtime in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-application.json).
 

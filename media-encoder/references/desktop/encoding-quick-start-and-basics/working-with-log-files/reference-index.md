@@ -1,4 +1,4 @@
-# Media Encoder — Working with log files
+# Media Encoder - Working with log files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Encoding log file in Media Encoder. [Encoding log file](encoding-log-file.md).

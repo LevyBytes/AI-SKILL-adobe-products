@@ -1,4 +1,4 @@
-# InDesign — Assign a language and change default language
+# InDesign - Assign a language and change default language
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assign a language to text inside a frame in InDesign. [Assign a language to text inside a frame](assign-a-language-to-text-inside-a-frame.md).

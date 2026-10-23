@@ -1,4 +1,4 @@
-# Photoshop — 8. Breaking changes checklist
+# Photoshop - 8. Breaking changes checklist
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Action requests in Photoshop. [Action requests](action-requests.md).

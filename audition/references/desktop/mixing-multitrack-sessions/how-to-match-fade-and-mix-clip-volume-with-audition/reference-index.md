@@ -1,4 +1,4 @@
-# Audition — How to match, fade, and mix clip volume with Audition
+# Audition - How to match, fade, and mix clip volume with Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a single audio clip from multiple clips in Audition. [Create a single audio clip from multiple clips](create-a-single-audio-clip-from-multiple-clips.md).

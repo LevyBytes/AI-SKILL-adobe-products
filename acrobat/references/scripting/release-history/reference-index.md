@@ -1,4 +1,4 @@
-# Acrobat — Release history
+# Acrobat - Release history
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Introduced in acrobat 5 0 in Acrobat. [Introduced in acrobat 5 0 references](introduced-in-acrobat-5-0/reference-index.md).

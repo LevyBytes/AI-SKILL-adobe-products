@@ -1,6 +1,6 @@
-# InDesign — Application: apply and manage styles
+# InDesign - Application: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Application.
+Open when checking apply and manage styles in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

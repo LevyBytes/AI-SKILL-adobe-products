@@ -1,4 +1,4 @@
-# InDesign — PreflightRuleFlag
+# InDesign - PreflightRuleFlag
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RETURN_AS_ERROR in InDesign. [RETURN_AS_ERROR](returnaserror.md).

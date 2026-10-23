@@ -1,4 +1,4 @@
-# InDesign — Relink or unlink assignment files
+# InDesign - Relink or unlink assignment files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Recreate in original location in InDesign. [Recreate in original location](recreate-in-original-location.md).

@@ -1,4 +1,4 @@
-# window.Text — nodeName : `string`
+# window.Text - nodeName : `string`
 
 **Read only**
 **Default**: `"\"#text\""`

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: 3d stage transforms and viewing
+# Shared Adobe platform - Document: 3d stage transforms and viewing
 
-Open when working with 3d stage transforms and viewing in Shared Adobe platform — Document.
+Open when working with 3d stage transforms and viewing in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-stage-3d.json).
 

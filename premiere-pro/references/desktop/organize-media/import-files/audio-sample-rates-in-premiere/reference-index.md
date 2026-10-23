@@ -1,4 +1,4 @@
-# Premiere Pro — Audio sample rates in Premiere
+# Premiere Pro - Audio sample rates in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio conforming behavior in Premiere Pro. [Audio conforming behavior](audio-conforming-behavior.md).

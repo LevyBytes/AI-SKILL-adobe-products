@@ -1,4 +1,4 @@
-# What's New — What's New in CC 2014 (13.0)?
+# What's New - What's New in CC 2014 (13.0)?
 
 From CC 2014 onward, After Effects will respect a change to custom UI height that was made via `PF_UpdateParamUI`.
 

@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Color Correction
+# First-Party Effect Match Names - Color Correction
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

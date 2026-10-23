@@ -1,4 +1,4 @@
-# Shared Adobe platform — Images
+# Shared Adobe platform - Images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Images collection iteration in Shared Adobe platform. [Images collection iteration](collection-iteration.md).

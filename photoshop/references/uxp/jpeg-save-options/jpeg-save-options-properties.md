@@ -1,4 +1,4 @@
-# JPEG Save Options — Properties
+# JPEG Save Options - Properties
 
 | Name | Type | Access | Default | Range | Min Version | Description |
 | --- | --- | --- | --- | --- | --- | --- |

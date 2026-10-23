@@ -1,6 +1,6 @@
-# InDesign — Rectangle: clipboard and editing defaults
+# InDesign - Rectangle: clipboard and editing defaults
 
-Open when checking clipboard and editing defaults in InDesign — Rectangle.
+Open when checking clipboard and editing defaults in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-clipboard-editing.json).
 

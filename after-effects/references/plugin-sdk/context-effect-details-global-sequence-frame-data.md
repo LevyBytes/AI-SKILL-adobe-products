@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: global, sequence, & frame data
+# After Effects - C++ plugin SDK: global, sequence, & frame data
 
-Open when working with global, sequence, & frame data in After Effects — C++ plugin SDK.
+Open when working with global, sequence, & frame data in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-global-sequence-frame-data.json).
 

@@ -1,4 +1,4 @@
-# InDesign — Define and apply table and cell styles
+# InDesign - Define and apply table and cell styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply styles to tables and cells in InDesign. [Apply styles to tables and cells](apply-styles-to-tables-and-cells.md).

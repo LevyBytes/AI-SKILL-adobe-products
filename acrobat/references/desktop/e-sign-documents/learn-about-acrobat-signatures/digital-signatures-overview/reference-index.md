@@ -1,4 +1,4 @@
-# Acrobat — Digital signatures overview
+# Acrobat - Digital signatures overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Alternatives for organizations without certificate-based signatures in Acrobat. [Alternatives for organizations without certificate-based signatures](alternatives-to-certificate-signatures.md).

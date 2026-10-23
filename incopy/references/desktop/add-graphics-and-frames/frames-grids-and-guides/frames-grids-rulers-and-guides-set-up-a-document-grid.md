@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Set up a document grid
+# Frames, grids, rulers, and guides - Set up a document grid
 
 Open Edit > Preferences > Grids (Windows) or InCopy > Preferences > Grids (Mac OS).
 

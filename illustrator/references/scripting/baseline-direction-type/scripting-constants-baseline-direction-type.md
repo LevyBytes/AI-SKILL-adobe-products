@@ -1,4 +1,4 @@
-# Scripting Constants — BaselineDirectionType
+# Scripting Constants - BaselineDirectionType
 
 BaselineDirectionType sets text baseline orientation.
 

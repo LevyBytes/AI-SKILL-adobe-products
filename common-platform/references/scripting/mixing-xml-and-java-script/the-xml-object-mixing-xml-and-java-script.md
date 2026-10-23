@@ -1,4 +1,4 @@
-# The XML Object — Mixing XML and JavaScript
+# The XML Object - Mixing XML and JavaScript
 
 JavaScript statements can be placed inside curly brackets and embedded in XML. During XML construction, the JavaScript portion is evaluated.
 

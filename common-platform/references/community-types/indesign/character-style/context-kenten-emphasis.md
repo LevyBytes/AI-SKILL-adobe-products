@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: kenten emphasis
+# Shared Adobe platform - CharacterStyle: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — CharacterStyle.
+Open when checking kenten emphasis in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

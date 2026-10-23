@@ -1,6 +1,6 @@
-# InDesign — Story: cjk grids and composition
+# InDesign - Story: cjk grids and composition
 
-Open when checking cjk grids and composition in InDesign — Story.
+Open when checking cjk grids and composition in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

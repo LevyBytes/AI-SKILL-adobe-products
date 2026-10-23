@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: measurement units
+# Shared Adobe platform - Shared: measurement units
 
-Open when working with measurement units in Shared Adobe platform — Shared.
+Open when working with measurement units in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-units.json).
 

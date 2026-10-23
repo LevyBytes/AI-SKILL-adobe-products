@@ -1,6 +1,6 @@
-# InDesign — Line: kenten emphasis
+# InDesign - Line: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — Line.
+Open when checking kenten emphasis in InDesign - Line.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

@@ -1,4 +1,4 @@
-# AEIOs — Registering Your AEIO
+# AEIOs - Registering Your AEIO
 
 During the plug-in entry point, fill an `AEIO_ModuleInfo` that describes the file type or types supported by the AEIO, and fill an `AEIO_FunctionBlock` structure pointing to the file-handling functions. Some functions can rely on After Effects default behavior by returning `AEIO_Err_USE_DFLT_CALLBACK`. You still must provide a function with the required signature that returns that value. After both structures are filled, call `AEGP_RegisterIO`() from `AEGP_RegisterSuite5`.
 

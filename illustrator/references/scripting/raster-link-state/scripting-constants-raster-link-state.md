@@ -1,4 +1,4 @@
-# Scripting Constants — RasterLinkState
+# Scripting Constants - RasterLinkState
 
 Reports the link state for a raster item whose image data lives outside the document.
 

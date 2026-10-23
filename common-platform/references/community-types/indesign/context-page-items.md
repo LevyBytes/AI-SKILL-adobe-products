@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: page items, layers and groups
+# Shared Adobe platform - Indesign: page items, layers and groups
 
-Open when working with page items, layers and groups in Shared Adobe platform — Indesign.
+Open when working with page items, layers and groups in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-page-items.json).
 

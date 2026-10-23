@@ -1,4 +1,4 @@
-# Debugging Plug-ins — Deleting Preferences
+# Debugging Plug-ins - Deleting Preferences
 
 As you build a plug-in, it may hand configuration data over to After Effects, which then keeps that data in its preferences file.
 

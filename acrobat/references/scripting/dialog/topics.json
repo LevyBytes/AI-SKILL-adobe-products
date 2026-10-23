@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "enable", "file": "references/scripting/dialog/enable.md", "summary": "Open when looking up enable in Acrobat.", "keywords": ["enable"]},
   {"topic": "end", "file": "references/scripting/dialog/end.md", "summary": "Open when looking up end in Acrobat.", "keywords": ["end"]},
-  {"topic": "JavaScript APIs — Dialog", "file": "references/scripting/dialog/java-script-apis-dialog.md", "summary": "Open when looking up JavaScript APIs — Dialog in Acrobat.", "keywords": ["JavaScript APIs — Dialog"]},
+  {"topic": "JavaScript APIs - Dialog", "file": "references/scripting/dialog/java-script-apis-dialog.md", "summary": "Open when looking up JavaScript APIs - Dialog in Acrobat.", "keywords": ["JavaScript APIs - Dialog"]},
   {"topic": "load", "file": "references/scripting/dialog/load.md", "summary": "Open when looking up load in Acrobat.", "keywords": ["load"]},
   {"topic": "store", "file": "references/scripting/dialog/store.md", "summary": "Open when looking up store in Acrobat.", "keywords": ["store"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

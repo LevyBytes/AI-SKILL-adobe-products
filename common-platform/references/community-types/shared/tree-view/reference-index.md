@@ -1,4 +1,4 @@
-# Shared Adobe platform — TreeView
+# Shared Adobe platform - TreeView
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TreeView declaration in Shared Adobe platform. [TreeView declaration](declaration.md).

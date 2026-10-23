@@ -1,4 +1,4 @@
-# Introduction — PDF Accessibility Auto-Tag API for improving accessibility in PDFs
+# Introduction - PDF Accessibility Auto-Tag API for improving accessibility in PDFs
 
 A capable tool, the [PDF Accessibility Auto-Tag API](https://raw.githubusercontent.com/AdobeDocs/pdfservices-api-documentation/main/src/pages/overview/pdf-accessibility-auto-tag-api/index.md) can serve as one stage in making individual PDFs more accessible, and it scales to clear large backlogs of PDFs. What auto-tagging does is attach document structure tags to the PDF file, and those tags let a document's text be read and presented in a way that makes sense for people relying on assistive technology. It belongs to the Adobe PDF Services API offering, comes as a REST-powered SDK backed by Sensei AI, and is readily invoked from automated workflows.
 

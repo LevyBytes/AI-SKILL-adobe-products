@@ -1,4 +1,4 @@
-# Illustrator — Swatches
+# Illustrator - Swatches
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Swatches.add() in Illustrator. [Swatches.add()](add.md).

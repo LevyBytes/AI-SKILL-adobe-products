@@ -1,4 +1,4 @@
-# Photoshop — Configuration options
+# Photoshop - Configuration options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export options in Photoshop. [Export options](export-options.md).

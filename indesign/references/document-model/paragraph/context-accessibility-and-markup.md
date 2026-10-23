@@ -1,6 +1,6 @@
-# InDesign — Paragraph: accessibility, tagging and xml
+# InDesign - Paragraph: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — Paragraph.
+Open when checking accessibility, tagging and xml in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

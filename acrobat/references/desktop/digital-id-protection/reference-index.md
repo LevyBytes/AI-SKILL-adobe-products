@@ -1,4 +1,4 @@
-# Acrobat — Digital id protection
+# Acrobat - Digital id protection
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices for creating passwords in Acrobat. [Best practices for creating passwords](best-practices-for-creating-passwords.md).

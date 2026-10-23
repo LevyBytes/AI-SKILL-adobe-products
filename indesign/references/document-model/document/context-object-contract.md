@@ -1,6 +1,6 @@
-# InDesign — Document: object identity and lifecycle
+# InDesign - Document: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Document.
+Open when checking object identity and lifecycle in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

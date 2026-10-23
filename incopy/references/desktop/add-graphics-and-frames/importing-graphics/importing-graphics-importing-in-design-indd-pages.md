@@ -1,4 +1,4 @@
-# Importing graphics — Importing InDesign (.indd) pages
+# Importing graphics - Importing InDesign (.indd) pages
 
 The Place command can bring pages from one InDesign document into another. You may import one page, a range of pages, or the full document. Imported pages behave as objects, similar to imported PDFs.
 

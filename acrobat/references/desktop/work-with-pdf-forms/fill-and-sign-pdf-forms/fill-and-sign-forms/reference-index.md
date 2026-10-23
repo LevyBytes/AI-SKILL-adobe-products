@@ -1,4 +1,4 @@
-# Acrobat — Fill and sign forms
+# Acrobat - Fill and sign forms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add crossmarks or checkmarks to PDF forms in Acrobat. [Add crossmarks or checkmarks to PDF forms](add-crossmarks-or-checkmarks-to-pdf-forms.md).

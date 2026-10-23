@@ -1,4 +1,4 @@
-# window.Element — dispatchEvent(event)
+# window.Element - dispatchEvent(event)
 
 | Param | Type |
 | --- | --- |

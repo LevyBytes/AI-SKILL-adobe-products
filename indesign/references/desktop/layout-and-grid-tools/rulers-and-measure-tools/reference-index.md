@@ -1,4 +1,4 @@
-# InDesign — Rulers and measure tools
+# InDesign - Rulers and measure tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change ruler measurement units in InDesign. [Change ruler measurement units](change-ruler-measurement-units.md).

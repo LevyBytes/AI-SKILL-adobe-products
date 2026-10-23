@@ -1,4 +1,4 @@
-# Acrobat — Access Acrobat admin settings
+# Acrobat - Access Acrobat admin settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up For Adobe admins in Acrobat. [For Adobe admins](for-adobe-admins.md).

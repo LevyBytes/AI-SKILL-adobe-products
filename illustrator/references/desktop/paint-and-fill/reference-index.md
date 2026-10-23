@@ -1,4 +1,4 @@
-# Illustrator — Paint and fill
+# Illustrator - Paint and fill
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply and edit strokes in Illustrator. [Apply and edit strokes references](apply-and-edit-strokes/reference-index.md).

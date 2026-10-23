@@ -1,4 +1,4 @@
-# Changes Across Versions — Acrobat 9.0 changes
+# Changes Across Versions - Acrobat 9.0 changes
 
 Important: On the Mac OS, the user JavaScript folder now sits in a different place. To find it, run app.getPath("user", "javascript") in the JavaScript debugger console window. Move any JavaScript files from the old user folder over to the new spot.
 

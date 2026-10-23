@@ -1,4 +1,4 @@
-# Adjusting your workflow — Re-create the assignment file in the original location
+# Adjusting your workflow - Re-create the assignment file in the original location
 
 In the Assignments panel, do one of the following:
 

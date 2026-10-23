@@ -1,4 +1,4 @@
-# InDesign — Add and manage text styles from CC libraries
+# InDesign - Add and manage text styles from CC libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add CC Library styles to Paragraph or Character panels in InDesign. [Add CC Library styles to Paragraph or Character panels](add-cc-library-styles-to-paragraph-or-character-panels.md).

@@ -1,6 +1,6 @@
-# InDesign — FindObjectPreference: events and listeners
+# InDesign - FindObjectPreference: events and listeners
 
-Open when checking events and listeners in InDesign — FindObjectPreference.
+Open when checking events and listeners in InDesign - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

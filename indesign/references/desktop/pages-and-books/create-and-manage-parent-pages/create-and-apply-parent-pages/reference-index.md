@@ -1,4 +1,4 @@
-# InDesign — Create and apply parent pages
+# InDesign - Create and apply parent pages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a parent to a single page or spread in InDesign. [Apply a parent to a single page or spread](apply-a-parent-to-a-single-page-or-spread.md).

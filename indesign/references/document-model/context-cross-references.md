@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: indexes, topics and cross-references
+# InDesign - InDesign document object model: indexes, topics and cross-references
 
-Open when working with indexes, topics and cross-references in InDesign — InDesign document object model.
+Open when working with indexes, topics and cross-references in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-cross-references.json).
 

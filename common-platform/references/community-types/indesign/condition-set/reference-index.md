@@ -1,4 +1,4 @@
-# Shared Adobe platform — ConditionSet
+# Shared Adobe platform - ConditionSet
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ConditionSet declaration in Shared Adobe platform. [ConditionSet declaration](declaration.md).

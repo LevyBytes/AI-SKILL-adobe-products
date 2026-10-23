@@ -1,4 +1,4 @@
-# Selecting and editing tables — Move within a table using Tab
+# Selecting and editing tables - Move within a table using Tab
 
 - Press Tab to go to the next cell. Pressing Tab in the last table cell creates a new row. For table tab and indent behavior, see Format text within a table.
 - Press Shift+Tab to go to the previous cell. If the first table cell contains the insertion point, Shift+Tab sends it to the last table cell.

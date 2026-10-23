@@ -1,4 +1,4 @@
-# Shared Adobe platform — CellStyleGroup
+# Shared Adobe platform - CellStyleGroup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CellStyleGroup declaration in Shared Adobe platform. [CellStyleGroup declaration](declaration.md).

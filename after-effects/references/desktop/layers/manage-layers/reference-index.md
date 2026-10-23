@@ -1,4 +1,4 @@
-# After Effects — Manage layers
+# After Effects - Manage layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Managing layers in After Effects. [Managing layers](managing-layers.md).

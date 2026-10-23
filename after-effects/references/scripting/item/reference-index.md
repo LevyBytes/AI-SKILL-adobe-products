@@ -1,4 +1,4 @@
-# After Effects — Item
+# After Effects - Item
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Item object in After Effects. [Item object](item-object.md).

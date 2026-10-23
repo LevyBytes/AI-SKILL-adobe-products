@@ -1,4 +1,4 @@
-# Shared Adobe platform — ConditionSets
+# Shared Adobe platform - ConditionSets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ConditionSets collection iteration in Shared Adobe platform. [ConditionSets collection iteration](collection-iteration.md).

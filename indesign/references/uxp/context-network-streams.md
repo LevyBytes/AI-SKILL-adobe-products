@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: network requests, streams and cryptography
+# InDesign - UXP plugins and APIs: network requests, streams and cryptography
 
-Open when working with network requests, streams and cryptography in InDesign — UXP plugins and APIs.
+Open when working with network requests, streams and cryptography in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-network-streams.json).
 

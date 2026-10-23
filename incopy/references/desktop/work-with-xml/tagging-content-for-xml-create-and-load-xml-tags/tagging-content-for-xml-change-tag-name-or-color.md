@@ -1,4 +1,4 @@
-# Tagging content for XML — Change tag name or color
+# Tagging content for XML - Change tag name or color
 
 In the Tags panel, double-click a tag name, or open Tag Options from the Tags panel menu. Edit the tag name or its color, and click OK.
 

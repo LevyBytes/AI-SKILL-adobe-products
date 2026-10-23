@@ -1,6 +1,6 @@
-# InDesign — Paragraph: fill, stroke and transparency
+# InDesign - Paragraph: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Paragraph.
+Open when checking fill, stroke and transparency in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

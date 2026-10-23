@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: paths, shapes and path points
+# Illustrator - Scripting APIs: paths, shapes and path points
 
-Open when working with paths, shapes and path points in Illustrator — Scripting APIs.
+Open when working with paths, shapes and path points in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-paths.json).
 

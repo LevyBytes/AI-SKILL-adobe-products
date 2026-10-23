@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: ui graphics, fonts and drawing
+# Shared Adobe platform - Shared: ui graphics, fonts and drawing
 
-Open when working with ui graphics, fonts and drawing in Shared Adobe platform — Shared.
+Open when working with ui graphics, fonts and drawing in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-drawing.json).
 

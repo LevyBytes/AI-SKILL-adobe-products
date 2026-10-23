@@ -1,4 +1,4 @@
-# Messaging framework API reference — Example code
+# Messaging framework API reference - Example code
 
 The Adobe ExtendScript SDK sample-code set includes these examples for interapplication messaging:
 

@@ -1,4 +1,4 @@
-# InDesign — Add and format Ruby text annotations
+# InDesign - Add and format Ruby text annotations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Ruby to selected text in InDesign. [Add Ruby to selected text](add-ruby-to-selected-text.md).

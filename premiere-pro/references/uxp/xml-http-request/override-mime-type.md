@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — overrideMimeType(mimetype)
+# window.XMLHttpRequest - overrideMimeType(mimetype)
 
 Sets a MIME type to use for interpreting the transferred request data, replacing the response-provided type.
 When MIME-type parsing fails, "application/octet-stream" is used for interpretation.

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Quick Links for CEP
+# Shared Adobe platform - Quick Links for CEP
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 32-bit application in Shared Adobe platform. [32-bit application](32-bit-application.md).

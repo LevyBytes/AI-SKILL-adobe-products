@@ -1,4 +1,4 @@
-# Media Encoder — Encode and export video and audio with Media Encoder
+# Media Encoder - Encode and export video and audio with Media Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audible alerts when jobs are completed in Media Encoder. [Audible alerts when jobs are completed](audible-alerts-when-jobs-are-completed.md).

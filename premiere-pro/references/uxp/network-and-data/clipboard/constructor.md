@@ -1,4 +1,4 @@
-# navigator.clipboard — Clipboard()
+# navigator.clipboard - Clipboard()
 
 Constructs a Clipboard instance.
 

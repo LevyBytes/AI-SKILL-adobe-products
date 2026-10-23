@@ -1,4 +1,4 @@
-# Acrobat — Protected View and Protected Mode overview
+# Acrobat - Protected View and Protected Mode overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Protected Mode in Acrobat. [About Protected Mode](about-protected-mode.md).

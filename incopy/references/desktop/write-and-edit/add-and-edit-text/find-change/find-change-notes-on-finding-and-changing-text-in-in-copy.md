@@ -1,4 +1,4 @@
-# Find/Change — Notes on finding and changing text in InCopy
+# Find/Change - Notes on finding and changing text in InCopy
 
 With Track Changes enabled during text changes or replacements, every insertion and deletion is tracked.
 

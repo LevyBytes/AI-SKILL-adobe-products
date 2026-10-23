@@ -1,4 +1,4 @@
-# Premiere Pro — Audition
+# Premiere Pro - Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit Premiere audio clips in Audition in Premiere Pro. [Edit Premiere audio clips in Audition](edit-premiere-audio-clips-in-audition.md).

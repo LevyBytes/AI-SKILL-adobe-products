@@ -1,4 +1,4 @@
-# Automated rendering and network rendering — Track dependencies of a watch-folder render
+# Automated rendering and network rendering - Track dependencies of a watch-folder render
 
 Setting Post-Render Action options lets you follow render dependencies during a network render. With those options in place, After Effects verifies that everything slated to render is on hand and ready. Say one item leans on another: if that first item has not finished rendering or has hit an error, the second one holds off.
 

@@ -1,4 +1,4 @@
-# After Effects — Content aware fill
+# After Effects - Content aware fill
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices to work with Lighting Correction in After Effects. [Best practices to work with Lighting Correction](best-practices-to-work-with-lighting-correction.md).

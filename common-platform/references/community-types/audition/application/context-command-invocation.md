@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: invoke and check command availability
+# Shared Adobe platform - Application: invoke and check command availability
 
-Open when working with invoke and check command availability in Shared Adobe platform — Application.
+Open when working with invoke and check command availability in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-command-invocation.json).
 

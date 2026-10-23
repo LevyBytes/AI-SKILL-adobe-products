@@ -1,4 +1,4 @@
-# Photoshop — Color corrections
+# Photoshop - Color corrections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a Hue or Saturation adjustment in Photoshop. [Apply a Hue or Saturation adjustment](apply-a-hue-or-saturation-adjustment.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: language, spelling and autocorrection
+# Shared Adobe platform - Application: language, spelling and autocorrection
 
-Open when checking language, spelling and autocorrection in Shared Adobe platform — Application.
+Open when checking language, spelling and autocorrection in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-language-and-dictionaries.json).
 

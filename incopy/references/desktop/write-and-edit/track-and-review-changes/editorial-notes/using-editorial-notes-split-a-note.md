@@ -1,4 +1,4 @@
-# Using editorial notes — Split a note
+# Using editorial notes - Split a note
 
 In the Notes panel or in the note content, place the insertion point where the note should be split.
 

@@ -1,4 +1,4 @@
-# InDesign — Eps texts
+# InDesign - Eps texts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up anyItem in InDesign. [anyItem](any-item.md).

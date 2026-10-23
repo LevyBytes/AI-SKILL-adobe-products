@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: typography, language and writing systems
+# Shared Adobe platform - Illustrator: typography, language and writing systems
 
-Open when working with typography, language and writing systems in Shared Adobe platform — Illustrator.
+Open when working with typography, language and writing systems in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-typography.json).
 

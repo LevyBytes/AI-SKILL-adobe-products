@@ -1,4 +1,4 @@
-# Shared Adobe platform — SaveDocumentType
+# Shared Adobe platform - SaveDocumentType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SaveDocumentType declaration in Shared Adobe platform. [SaveDocumentType declaration](declaration.md).

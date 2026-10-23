@@ -1,6 +1,6 @@
-# InDesign — Find text preference: line breaks and hyphenation
+# InDesign - Find text preference: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in InDesign — Find text preference.
+Open when checking line breaks and hyphenation in InDesign - Find text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

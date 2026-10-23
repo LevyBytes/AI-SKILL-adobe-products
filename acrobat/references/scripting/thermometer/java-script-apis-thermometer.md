@@ -1,4 +1,4 @@
-# JavaScript APIs — Thermometer
+# JavaScript APIs - Thermometer
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

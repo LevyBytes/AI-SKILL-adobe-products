@@ -1,4 +1,4 @@
-# Audition — Filter and equalizer effects
+# Audition - Filter and equalizer effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FFT Filter effect in Audition. [FFT Filter effect](fft-filter-effect.md).

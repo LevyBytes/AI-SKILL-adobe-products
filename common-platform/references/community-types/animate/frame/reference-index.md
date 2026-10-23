@@ -1,4 +1,4 @@
-# Shared Adobe platform — Frame
+# Shared Adobe platform - Frame
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Frame declaration in Shared Adobe platform. [Frame declaration](declaration.md).

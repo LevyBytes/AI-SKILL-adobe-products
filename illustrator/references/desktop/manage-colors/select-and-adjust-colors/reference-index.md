@@ -1,4 +1,4 @@
-# Illustrator — Select and adjust colors
+# Illustrator - Select and adjust colors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About selecting colors in Illustrator. [About selecting colors](about-selecting-colors.md).

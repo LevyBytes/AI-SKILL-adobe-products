@@ -1,4 +1,4 @@
-# Premiere Pro — Plugin Tutorials
+# Premiere Pro - Plugin Tutorials
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Other resources in Premiere Pro. [Other resources](other-resources.md).

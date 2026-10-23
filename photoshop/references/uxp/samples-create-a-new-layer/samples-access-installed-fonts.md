@@ -1,4 +1,4 @@
-# Samples — Access installed fonts
+# Samples - Access installed fonts
 
 Photoshop assigns the Fonts module permission `ReadInstalled`. If no font is supplied, or the named font is missing, UXP uses `"system-ui"`, the operating system's standard interface font. 
 

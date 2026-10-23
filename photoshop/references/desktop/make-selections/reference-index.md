@@ -1,4 +1,4 @@
-# Photoshop — Make selections
+# Photoshop - Make selections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automatic and color-based selections in Photoshop. [Automatic and color-based selections](automatic-and-color-based-selections.md).

@@ -1,4 +1,4 @@
-# Getting Started — Step 3: Obtain your TSP OAuth Token
+# Getting Started - Step 3: Obtain your TSP OAuth Token
 
 To the TSP's OAuth 2.0 authorization API, the client submits its `client_id` and `client_secret`. Back comes an access token, and you hand that token to the PDF Electronic Seal API as one of its [input parameters](https://raw.githubusercontent.com/AdobeDocs/pdfservices-api-documentation/main/src/pages/overview/pdf-electronic-seal-api/howtos/electronic-seal-api.md#api-parameters). That token exists so the sealing process can reach the TSP's endpoints, and it stays valid only for the window the TSP sets.
 

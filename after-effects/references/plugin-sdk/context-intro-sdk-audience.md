@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: sdk audience
+# After Effects - C++ plugin SDK: sdk audience
 
-Open when working with sdk audience in After Effects — C++ plugin SDK.
+Open when working with sdk audience in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-sdk-audience.json).
 

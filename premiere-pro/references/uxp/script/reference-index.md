@@ -1,4 +1,4 @@
-# Premiere Pro — Script
+# Premiere Pro - Script
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up args : Array in Premiere Pro. [args : Array](args-array.md).

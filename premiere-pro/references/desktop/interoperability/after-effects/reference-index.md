@@ -1,4 +1,4 @@
-# Premiere Pro — After effects
+# Premiere Pro - After effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy clips from Premiere to After Effects in Premiere Pro. [Copy clips from Premiere to After Effects](copy-clips-from-premiere-to-after-effects.md).

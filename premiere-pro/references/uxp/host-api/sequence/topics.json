@@ -25,7 +25,7 @@
   {"topic": "getVideoTrackCount", "file": "references/uxp/host-api/sequence/get-video-track-count.md", "summary": "Open when looking up getVideoTrackCount in Premiere Pro.", "keywords": ["getVideoTrackCount"]},
   {"topic": "getZeroPoint", "file": "references/uxp/host-api/sequence/get-zero-point.md", "summary": "Open when looking up getZeroPoint in Premiere Pro.", "keywords": ["getZeroPoint"]},
   {"topic": "isDoneAnalyzingForVideoEffects", "file": "references/uxp/host-api/sequence/is-done-analyzing-for-video-effects.md", "summary": "Open when looking up isDoneAnalyzingForVideoEffects in Premiere Pro.", "keywords": ["isDoneAnalyzingForVideoEffects"]},
-  {"topic": "Sequence — Properties", "file": "references/uxp/host-api/sequence/sequence-properties.md", "summary": "Open when looking up Sequence — Properties in Premiere Pro.", "keywords": ["Sequence — Properties"]},
+  {"topic": "Sequence - Properties", "file": "references/uxp/host-api/sequence/sequence-properties.md", "summary": "Open when looking up Sequence - Properties in Premiere Pro.", "keywords": ["Sequence - Properties"]},
   {"topic": "setPlayerPosition", "file": "references/uxp/host-api/sequence/set-player-position.md", "summary": "Open when looking up setPlayerPosition in Premiere Pro.", "keywords": ["setPlayerPosition"]},
   {"topic": "setSelection", "file": "references/uxp/host-api/sequence/set-selection.md", "summary": "Open when looking up setSelection in Premiere Pro.", "keywords": ["setSelection"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

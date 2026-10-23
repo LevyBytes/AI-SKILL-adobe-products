@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: scripting languages and execution
+# Illustrator - Scripting APIs: scripting languages and execution
 
-Open when working with scripting languages and execution in Illustrator — Scripting APIs.
+Open when working with scripting languages and execution in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-script-languages.json).
 

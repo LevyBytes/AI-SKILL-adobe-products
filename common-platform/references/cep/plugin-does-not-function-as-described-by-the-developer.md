@@ -1,4 +1,4 @@
-# Top 3 Rejection Reasons — _Plugin does not function as described by the developer._
+# Top 3 Rejection Reasons - _Plugin does not function as described by the developer._
 
 - During testing, the review team checks all plugin functionality. Before submitting, verify that the plugin works as advertised and that every feature functions properly.
 

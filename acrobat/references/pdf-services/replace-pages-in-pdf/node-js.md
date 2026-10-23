@@ -1,6 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [replace-pdf-pages.cjs](../examples/node/replace-pdf-pages/replace-pdf-pages.cjs)
-- [dependencies.cjs](../examples/node/replace-pdf-pages/dependencies.cjs)
-- [helpers.cjs](../examples/node/replace-pdf-pages/helpers.cjs)
+- [replace-pdf-pages setup and source](../examples/node/replace-pdf-pages/replace-pdf-pages-setup.md)

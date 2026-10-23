@@ -1,4 +1,4 @@
-# Premiere Pro — Photoshop
+# Premiere Pro - Photoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a Photoshop file in a project in Premiere Pro. [Create a Photoshop file in a project](create-a-photoshop-file-in-a-project.md).

@@ -1,4 +1,4 @@
-# Editing text — Manage conditions
+# Editing text - Manage conditions
 
 Use the following condition-management tasks as needed:
 

@@ -1,4 +1,4 @@
-# window.Text — substringData(offset, count)
+# window.Text - substringData(offset, count)
 
 **Returns**: `string`
 

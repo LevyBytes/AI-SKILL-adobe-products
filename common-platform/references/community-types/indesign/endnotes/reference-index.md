@@ -1,4 +1,4 @@
-# Shared Adobe platform — Endnotes
+# Shared Adobe platform - Endnotes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Endnotes collection iteration in Shared Adobe platform. [Endnotes collection iteration](collection-iteration.md).

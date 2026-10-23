@@ -1,4 +1,4 @@
-# Footnotes — Work with footnote text
+# Footnotes - Work with footnote text
 
 Keep these points in mind while editing footnote text:
 

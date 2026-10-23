@@ -1,4 +1,4 @@
-# Photoshop — Photoshop api changelog photoshop 23 0 october 2021
+# Photoshop - Photoshop api changelog photoshop 23 0 october 2021
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Channel support in Photoshop. [Channel support](channel-support.md).

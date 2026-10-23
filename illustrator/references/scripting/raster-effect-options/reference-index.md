@@ -1,4 +1,4 @@
-# Illustrator — RasterEffectOptions
+# Illustrator - RasterEffectOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RasterEffectOptions.antiAliasing in Illustrator. [RasterEffectOptions.antiAliasing](anti-aliasing.md).

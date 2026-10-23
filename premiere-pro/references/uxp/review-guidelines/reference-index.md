@@ -1,4 +1,4 @@
-# Premiere Pro — Review & Guidelines
+# Premiere Pro - Review & Guidelines
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Assets in Premiere Pro. [1. Assets](assets.md).

@@ -1,4 +1,4 @@
-# Color — Memory
+# Color - Memory
 
 Improve performance by tuning how memory is divided between Adobe applications and system tasks.
 

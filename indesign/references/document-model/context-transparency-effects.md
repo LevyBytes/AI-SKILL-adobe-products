@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: transparency and appearance effects
+# InDesign - InDesign document object model: transparency and appearance effects
 
-Open when working with transparency and appearance effects in InDesign — InDesign document object model.
+Open when working with transparency and appearance effects in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-transparency-effects.json).
 

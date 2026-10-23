@@ -1,4 +1,4 @@
-# Tabs and indents — Create a hanging indent
+# Tabs and indents - Create a hanging indent
 
 A hanging indent leaves the first line outdented while every other line in the paragraph is indented. This format is particularly helpful when inline graphics must appear at the paragraph's start.
 

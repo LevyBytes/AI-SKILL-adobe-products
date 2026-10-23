@@ -1,4 +1,4 @@
-# Document Generation Api — Gettingstarted
+# Document Generation Api - Gettingstarted
 
 > Adobe Acrobat reference. Original prose; identifiers preserved verbatim.
 

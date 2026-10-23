@@ -1,4 +1,4 @@
-# Scripting Constants — ExportType
+# Scripting Constants - ExportType
 
 This enum chooses which file format an export writes.
 

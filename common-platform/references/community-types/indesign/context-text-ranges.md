@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: stories, paragraphs and text ranges
+# Shared Adobe platform - Indesign: stories, paragraphs and text ranges
 
-Open when working with stories, paragraphs and text ranges in Shared Adobe platform — Indesign.
+Open when working with stories, paragraphs and text ranges in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-text-ranges.json).
 

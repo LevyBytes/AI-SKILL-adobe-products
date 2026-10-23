@@ -1,6 +1,6 @@
-# InDesign — Graphic: character spacing and geometry
+# InDesign - Graphic: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Graphic.
+Open when checking character spacing and geometry in InDesign - Graphic.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

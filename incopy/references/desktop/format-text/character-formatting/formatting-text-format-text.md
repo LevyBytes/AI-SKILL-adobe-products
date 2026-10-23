@@ -1,4 +1,4 @@
-# Formatting text — Format text
+# Formatting text - Format text
 
 The Control panel can adjust text appearance. Depending on monitor resolution, selecting text or placing the insertion point in text makes the Control panel show character formatting controls, paragraph formatting controls, or both. The Character panel and Paragraph panel contain the same controls, and the Character panel and Paragraphs panel can also be used for text appearance changes.
 

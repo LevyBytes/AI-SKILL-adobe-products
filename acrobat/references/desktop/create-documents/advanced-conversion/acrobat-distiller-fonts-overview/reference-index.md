@@ -1,4 +1,4 @@
-# Acrobat — Acrobat Distiller fonts overview
+# Acrobat - Acrobat Distiller fonts overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices for font handling in Acrobat. [Best practices for font handling](best-practices-for-font-handling.md).

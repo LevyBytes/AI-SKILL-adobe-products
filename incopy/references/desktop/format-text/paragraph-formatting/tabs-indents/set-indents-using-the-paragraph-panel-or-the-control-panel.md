@@ -1,4 +1,4 @@
-# Tabs and indents — Set indents using the Paragraph panel or the Control panel
+# Tabs and indents - Set indents using the Paragraph panel or the Control panel
 
 With the Type tool, click in the paragraph you want to indent. In the Paragraph panel or Control panel, change the relevant indent fields. For example:
 

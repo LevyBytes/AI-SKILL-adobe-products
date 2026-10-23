@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [CompressPDFWithOptions.java](../examples/java/compress-pdf-with-options/CompressPDFWithOptions.java)
+- [compress-pdf-with-options setup and source](../examples/java/compress-pdf-with-options/compress-pdf-with-options-setup.md)

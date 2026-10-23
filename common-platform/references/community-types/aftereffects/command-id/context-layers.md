@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: layer creation, sequencing and visibility
+# Shared Adobe platform - _CommandID: layer creation, sequencing and visibility
 
-Open when working with layer creation, sequencing and visibility in Shared Adobe platform — _CommandID.
+Open when working with layer creation, sequencing and visibility in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-layers.json).
 

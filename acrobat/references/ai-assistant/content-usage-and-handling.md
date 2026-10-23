@@ -45,7 +45,7 @@ For desktop and mobile apps, chat history data resides on your local device; for
 
 Even after you pull documents out of a Collection, the chat history may hold onto content from them. When the AI Assistant answers your prompts, it may also draw on this chat history for context.
 
-No — exporting or sharing chat history isn't possible. Copying responses by hand is an option if you need them.
+No: exporting or sharing chat history isn't possible. Copying responses by hand is an option if you need them.
 
 From the AI Assistant panel of a document or Collection, choose More > Clear chat history to wipe every prompt, response, and overview.
 

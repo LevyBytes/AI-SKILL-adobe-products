@@ -1,4 +1,4 @@
-# Shared Adobe platform — BuildingBlock
+# Shared Adobe platform - BuildingBlock
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BuildingBlock declaration in Shared Adobe platform. [BuildingBlock declaration](declaration.md).

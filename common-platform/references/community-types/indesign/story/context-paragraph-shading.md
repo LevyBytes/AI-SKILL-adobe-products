@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: paragraph shading
+# Shared Adobe platform - Story: paragraph shading
 
-Open when checking paragraph shading in Shared Adobe platform — Story.
+Open when checking paragraph shading in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

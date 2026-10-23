@@ -1,4 +1,4 @@
-# Firefly — Cloud service APIs
+# Firefly - Cloud service APIs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up [Admins only] Get Credentials in Firefly. [Admins only Get Credentials](admins-only-get-credentials.md).

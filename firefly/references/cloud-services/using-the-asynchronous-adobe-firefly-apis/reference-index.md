@@ -1,4 +1,4 @@
-# Firefly — Using the Asynchronous Adobe Firefly APIs
+# Firefly - Using the Asynchronous Adobe Firefly APIs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Expanding Images with Async APIs in Firefly. [Expanding Images with Async APIs](expanding-images-with-async-apis.md).

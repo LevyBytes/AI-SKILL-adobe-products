@@ -1,4 +1,4 @@
-# InDesign — Structure and tag documents for XML
+# InDesign - Structure and tag documents for XML
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add an attribute in InDesign. [Add an attribute](add-an-attribute.md).

@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [reorder-pdf-pages.py](../examples/python/reorder-pdf-pages/reorder-pdf-pages.py)
+- [reorder-pdf-pages setup and source](../examples/python/reorder-pdf-pages/reorder-pdf-pages-setup.md)

@@ -1,4 +1,4 @@
-# Tips & Tricks — Testing
+# Tips & Tricks - Testing
 
 Run your plug-in through RAM previews to confirm it copes cleanly when memory runs short. Does it degrade gracefully once memory is exhausted?
 

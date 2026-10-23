@@ -1,4 +1,4 @@
-# window.FormData — has(name)
+# window.FormData - has(name)
 
 Checks whether a FormData object includes a particular key.
 

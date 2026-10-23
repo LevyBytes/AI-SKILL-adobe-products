@@ -1,4 +1,4 @@
-# InDesign — Preview color separations and ink coverage
+# InDesign - Preview color separations and ink coverage
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Check ink coverage limits in InDesign. [Check ink coverage limits](check-ink-coverage-limits.md).

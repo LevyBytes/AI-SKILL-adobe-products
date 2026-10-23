@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/protect-pdf/Program.cs)
+- [protect-pdf setup and source](../examples/dotnet/protect-pdf/protect-pdf-setup.md)

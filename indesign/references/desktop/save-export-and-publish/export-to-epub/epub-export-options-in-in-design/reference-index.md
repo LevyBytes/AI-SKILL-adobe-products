@@ -1,4 +1,4 @@
-# InDesign — EPUB export options in InDesign
+# InDesign - EPUB export options in InDesign
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Content (Reflowable Format only) in InDesign. [Content (Reflowable Format only)](content-reflowable-format-only.md).

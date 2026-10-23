@@ -1,6 +1,6 @@
-# InDesign — Button: placement, bounds and transformations
+# InDesign - Button: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Button.
+Open when checking placement, bounds and transformations in InDesign - Button.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

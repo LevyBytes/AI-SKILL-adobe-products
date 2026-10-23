@@ -1,4 +1,4 @@
-# After Effects — Mask property group
+# After Effects - Mask property group
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MaskPropertyGroup object in After Effects. [MaskPropertyGroup object](mask-property-group-object.md).

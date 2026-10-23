@@ -1,4 +1,4 @@
-# Bullets and numbering — Convert list bullets or numbers to text
+# Bullets and numbering - Convert list bullets or numbers to text
 
 Select the paragraphs that contain the bulleted or numbered list. Use one of these methods:
 

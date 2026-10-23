@@ -1,4 +1,4 @@
-# Exporting to Adobe PDF — Adobe PDF options for Layout view
+# Exporting to Adobe PDF - Adobe PDF options for Layout view
 
 These options apply only to Layout view export:
 

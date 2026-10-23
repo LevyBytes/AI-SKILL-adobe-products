@@ -1,4 +1,4 @@
-# Composing CJK characters — Change CJK composition preferences
+# Composing CJK characters - Change CJK composition preferences
 
 Open Composition preferences: Edit > Preferences > Composition (Windows) or InCopy > Preferences > Composition (Mac OS). In Mojikumi Compatibility Mode, use any needed option:
 

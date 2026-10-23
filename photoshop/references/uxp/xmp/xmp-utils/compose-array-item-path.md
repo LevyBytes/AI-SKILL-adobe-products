@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — composeArrayItemPath(schemaNS, arrayName, itemIndex)
+# require('uxp').xmp.XMPUtils - composeArrayItemPath(schemaNS, arrayName, itemIndex)
 
 Returns a constructed path-expression string for an array item by using the namespace's registered prefix, in the form:
 schemaNS:arrayName[itemIndex]

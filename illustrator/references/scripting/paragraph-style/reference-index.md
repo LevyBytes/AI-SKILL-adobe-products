@@ -1,4 +1,4 @@
-# Illustrator — ParagraphStyle
+# Illustrator - ParagraphStyle
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParagraphStyle.applyTo() in Illustrator. [ParagraphStyle.applyTo()](apply-to.md).

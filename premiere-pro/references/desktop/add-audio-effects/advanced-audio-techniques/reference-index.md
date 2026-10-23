@@ -1,4 +1,4 @@
-# Premiere Pro — Advanced audio techniques
+# Premiere Pro - Advanced audio techniques
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assign multiple audio channels in Premiere Pro. [Assign multiple audio channels](assign-multiple-audio-channels.md).

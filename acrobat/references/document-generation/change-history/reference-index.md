@@ -1,4 +1,4 @@
-# Acrobat — Change history
+# Acrobat - Change history
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1.3.0 (March, 2021; minor release) in Acrobat. [1.3.0 (March, 2021; minor release)](1-3-0-march-2021-minor-release.md).

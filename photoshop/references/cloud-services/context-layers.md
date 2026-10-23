@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: layer contracts and editing
+# Photoshop - Cloud service APIs: layer contracts and editing
 
-Open when working with layer contracts and editing in Photoshop — Cloud service APIs.
+Open when working with layer contracts and editing in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-layers.json).
 

@@ -1,4 +1,4 @@
-# Leading — Leading Basis Position options
+# Leading - Leading Basis Position options
 
 Open Leading Basis Position in the Paragraph panel menu or Control panel menu, then choose a leading basis.
 

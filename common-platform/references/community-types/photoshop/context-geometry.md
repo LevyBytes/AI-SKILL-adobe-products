@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: image geometry, resampling and cropping
+# Shared Adobe platform - Photoshop: image geometry, resampling and cropping
 
-Open when working with image geometry, resampling and cropping in Shared Adobe platform — Photoshop.
+Open when working with image geometry, resampling and cropping in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-geometry.json).
 

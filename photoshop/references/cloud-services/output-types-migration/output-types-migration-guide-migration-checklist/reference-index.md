@@ -1,4 +1,4 @@
-# Photoshop — Output Types Migration Guide — Migration checklist
+# Photoshop - Output Types Migration Guide - Migration checklist
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up All Output Types in Photoshop. [All Output Types](all-output-types.md).

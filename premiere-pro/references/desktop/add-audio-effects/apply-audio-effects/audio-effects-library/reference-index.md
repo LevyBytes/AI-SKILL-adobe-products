@@ -1,4 +1,4 @@
-# Premiere Pro — Audio Effects Library
+# Premiere Pro - Audio Effects Library
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Amplitude and Compression in Premiere Pro. [Amplitude and Compression](amplitude-and-compression.md).

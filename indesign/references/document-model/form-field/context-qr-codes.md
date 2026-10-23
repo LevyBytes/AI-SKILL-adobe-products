@@ -1,6 +1,6 @@
-# InDesign — FormField: generate qr codes
+# InDesign - FormField: generate qr codes
 
-Open when checking generate qr codes in InDesign — FormField.
+Open when checking generate qr codes in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

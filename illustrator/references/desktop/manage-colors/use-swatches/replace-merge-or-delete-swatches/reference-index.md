@@ -1,4 +1,4 @@
-# Illustrator — Replace, merge, or delete swatches
+# Illustrator - Replace, merge, or delete swatches
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete swatches in Illustrator. [Delete swatches](delete-swatches.md).

@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — AMEBatchItemCreationFailedEvent
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - AMEBatchItemCreationFailedEvent
 
 AME sends this event when batch item creation fails. It applies to these FrontendScriptObject APIs: 'addFileToBatch', 'addTeamProjectsItemToBatch' and 'addDLToBatch'.
 

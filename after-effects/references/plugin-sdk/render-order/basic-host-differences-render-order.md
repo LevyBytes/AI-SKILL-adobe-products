@@ -1,4 +1,4 @@
-# Basic Host Differences — Render Order
+# Basic Host Differences - Render Order
 
 Premiere Pro was built for real-time playback of footage with effects whenever possible. Its render scheduling is far more aggressive, and multithreaded rendering is a baseline requirement. That differs sharply from After Effects, where users build many effect layers and are more willing to wait for a RAM preview.
 

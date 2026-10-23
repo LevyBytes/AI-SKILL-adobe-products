@@ -1,4 +1,4 @@
-# Premiere Pro — Clipboard Operations
+# Premiere Pro - Clipboard Operations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Clipboard Security in Premiere Pro. [Clipboard Security](clipboard-security.md).

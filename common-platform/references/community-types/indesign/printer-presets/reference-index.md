@@ -1,4 +1,4 @@
-# Shared Adobe platform — PrinterPresets
+# Shared Adobe platform - PrinterPresets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PrinterPresets collection iteration in Shared Adobe platform. [PrinterPresets collection iteration](collection-iteration.md).

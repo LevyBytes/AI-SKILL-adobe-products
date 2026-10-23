@@ -1,4 +1,4 @@
-# InDesign — LineAlignment
+# InDesign - LineAlignment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CENTER_LINE_ALIGN in InDesign. [CENTER_LINE_ALIGN](centerlinealign.md).

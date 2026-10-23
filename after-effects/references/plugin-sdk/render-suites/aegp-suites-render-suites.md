@@ -1,4 +1,4 @@
-# AEGP Suites — Render Suites
+# AEGP Suites - Render Suites
 
 Ever since the AEGP API arrived, people have requested ways to pull back rendered frames.
 

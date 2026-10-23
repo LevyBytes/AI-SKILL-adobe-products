@@ -1,4 +1,4 @@
-# Selecting and editing tables — Select entire columns or rows
+# Selecting and editing tables - Select entire columns or rows
 
 With the Type tool active, use one of these methods:
 

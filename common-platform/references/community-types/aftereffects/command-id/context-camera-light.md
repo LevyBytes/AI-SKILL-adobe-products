@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: cameras, lights and focus controls
+# Shared Adobe platform - _CommandID: cameras, lights and focus controls
 
-Open when working with cameras, lights and focus controls in Shared Adobe platform — _CommandID.
+Open when working with cameras, lights and focus controls in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-camera-light.json).
 

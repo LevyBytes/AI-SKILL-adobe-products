@@ -1,4 +1,4 @@
-# Photoshop — Output types migration guide psd output migration
+# Photoshop - Output types migration guide psd output migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Full PSD migration example in Photoshop. [Full PSD migration example](full-psd-migration-example.md).

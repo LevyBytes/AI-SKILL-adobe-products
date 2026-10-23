@@ -1,6 +1,6 @@
-# InDesign — ChangeObjectPreference: writing direction and diacritics
+# InDesign - ChangeObjectPreference: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — ChangeObjectPreference.
+Open when checking writing direction and diacritics in InDesign - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

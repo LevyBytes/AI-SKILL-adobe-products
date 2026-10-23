@@ -1,4 +1,4 @@
-# InDesign — Save managed layout changes
+# InDesign - Save managed layout changes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Save checked-out content in InDesign. [Save checked-out content](save-checked-out-content.md).

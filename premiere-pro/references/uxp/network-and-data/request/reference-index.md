@@ -1,4 +1,4 @@
-# Premiere Pro — Request
+# Premiere Pro - Request
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up arrayBuffer() in Premiere Pro. [arrayBuffer()](array-buffer.md).

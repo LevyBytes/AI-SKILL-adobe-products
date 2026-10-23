@@ -1,4 +1,4 @@
-# Other Hosts — Reality Sandwich
+# Other Hosts - Reality Sandwich
 
 We understand that developers can grow their market by making plug-ins work in as many hosts as possible.
 

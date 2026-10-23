@@ -1,4 +1,4 @@
-# InDesign — About PostScript and EPS files
+# InDesign - About PostScript and EPS files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose the right method for creating a PostScript file in InDesign. [Choose the right method for creating a PostScript file](choose-the-right-method-for-creating-a-post-script-file.md).

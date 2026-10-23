@@ -1,4 +1,4 @@
-# Cross-DOM functions — Application-specific exported functions
+# Cross-DOM functions - Application-specific exported functions
 
 Beyond the required base cross-DOM functions, each message-enabled application can expose application-specific features to all scripts through a simple syntax. Any script can call exported functions by placing the target application's namespace specifier before the function name (see Namespace specifiers). For example, because Photoshop CS5 exports photomerge, an Illustrator CS5 script can call photoshop.photomerge(files) directly.
 

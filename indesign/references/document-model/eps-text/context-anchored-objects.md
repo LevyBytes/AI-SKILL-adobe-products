@@ -1,6 +1,6 @@
-# InDesign — Eps text: anchored object placement
+# InDesign - Eps text: anchored object placement
 
-Open when checking anchored object placement in InDesign — Eps text.
+Open when checking anchored object placement in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

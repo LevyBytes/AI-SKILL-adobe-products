@@ -1,4 +1,4 @@
-# Photoshop — Transform stream default controller
+# Photoshop - Transform stream default controller
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up desiredSize : number in Photoshop. [desiredSize : number](desired-size-number.md).

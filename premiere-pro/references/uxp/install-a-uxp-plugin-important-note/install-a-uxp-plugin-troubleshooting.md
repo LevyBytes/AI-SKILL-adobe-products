@@ -1,4 +1,4 @@
-# Install a UXP plugin — Troubleshooting
+# Install a UXP plugin - Troubleshooting
 
 Although UXP plugin management is usually reliable, these checks can help when problems appear.
 

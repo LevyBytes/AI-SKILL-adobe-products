@@ -1,6 +1,6 @@
-# InDesign — PrinterPreset: events and listeners
+# InDesign - PrinterPreset: events and listeners
 
-Open when checking events and listeners in InDesign — PrinterPreset.
+Open when checking events and listeners in InDesign - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

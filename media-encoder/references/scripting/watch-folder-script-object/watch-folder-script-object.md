@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — WatchFolderScriptObject
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - WatchFolderScriptObject
 
 Watch folder scripting methods.
 

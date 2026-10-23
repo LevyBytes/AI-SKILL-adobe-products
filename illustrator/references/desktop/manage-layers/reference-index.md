@@ -1,4 +1,4 @@
-# Illustrator — Manage layers
+# Illustrator - Manage layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply and modify layer effects in Illustrator. [Apply and modify layer effects](apply-and-modify-layer-effects.md).

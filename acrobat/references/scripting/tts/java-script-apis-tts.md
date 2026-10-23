@@ -1,4 +1,4 @@
-# JavaScript APIs — TTS
+# JavaScript APIs - TTS
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

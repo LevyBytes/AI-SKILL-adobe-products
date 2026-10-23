@@ -1,4 +1,4 @@
-# Formatting characters — Change the color of text
+# Formatting characters - Change the color of text
 
 Select the text to color with the Type tool. Open the Swatches panel by choosing Window > Swatches, then click a color or gradient swatch. Note
 

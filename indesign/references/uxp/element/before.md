@@ -1,4 +1,4 @@
-# window.Element — before(...nodes)
+# window.Element - before(...nodes)
 
 | Param | Type |
 | --- | --- |

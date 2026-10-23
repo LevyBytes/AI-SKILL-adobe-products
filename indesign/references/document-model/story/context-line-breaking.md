@@ -1,6 +1,6 @@
-# InDesign — Story: line breaks and hyphenation
+# InDesign - Story: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in InDesign — Story.
+Open when checking line breaks and hyphenation in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

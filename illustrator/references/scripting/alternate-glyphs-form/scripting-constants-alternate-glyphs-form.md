@@ -1,4 +1,4 @@
-# Scripting Constants — AlternateGlyphsForm
+# Scripting Constants - AlternateGlyphsForm
 
 AlternateGlyphsForm specifies the alternate glyph form used for text.
 

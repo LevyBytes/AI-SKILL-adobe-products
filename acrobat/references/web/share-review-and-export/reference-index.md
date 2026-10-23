@@ -1,4 +1,4 @@
-# Acrobat — Share review and export
+# Acrobat - Share review and export
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export and print in Acrobat. [Export and print](export-and-print.md).

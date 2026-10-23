@@ -1,4 +1,4 @@
-# After Effects — Workspaces, panels, and viewers
+# After Effects - Workspaces, panels, and viewers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose a workspace in After Effects. [Choose a workspace](choose-a-workspace.md).

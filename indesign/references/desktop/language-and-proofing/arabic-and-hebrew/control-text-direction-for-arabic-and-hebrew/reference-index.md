@@ -1,4 +1,4 @@
-# InDesign — Control text direction for Arabic and Hebrew
+# InDesign - Control text direction for Arabic and Hebrew
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Set character text direction in InDesign. [Set character text direction](set-character-text-direction.md).

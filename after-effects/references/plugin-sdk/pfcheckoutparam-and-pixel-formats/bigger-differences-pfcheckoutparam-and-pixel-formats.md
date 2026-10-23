@@ -1,4 +1,4 @@
-# Bigger Differences — `PF_CHECKOUT_PARAM` and Pixel Formats
+# Bigger Differences`PF_CHECKOUT_PARAM` and Pixel Formats
 
 Before CS6, `PF_CHECKOUT_PARAM`() always returned 8-bit ARGB buffers, regardless of the pixel format being used for rendering. Beginning in CS6, an effect can opt in to receive checked-out frames in the render request's format, such as 32-bit float, YUV, and so on.
 

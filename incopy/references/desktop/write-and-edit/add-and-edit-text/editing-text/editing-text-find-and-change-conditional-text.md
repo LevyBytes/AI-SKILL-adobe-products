@@ -1,4 +1,4 @@
-# Editing text — Find and change conditional text
+# Editing text - Find and change conditional text
 
 Use the Find/Change dialog box to locate text with one or more applied conditions and replace those conditions with one or more different conditions.
 

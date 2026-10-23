@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/autotag-pdf/Program.cs)
+- [autotag-pdf setup and source](../examples/dotnet/autotag-pdf/autotag-pdf-setup.md)

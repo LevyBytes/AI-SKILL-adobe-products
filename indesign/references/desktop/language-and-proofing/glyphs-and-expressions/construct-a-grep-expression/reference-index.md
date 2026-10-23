@@ -1,4 +1,4 @@
-# InDesign — Construct a GREP expression
+# InDesign - Construct a GREP expression
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Find and change text using GREP expressions in InDesign. [Find and change text using GREP expressions](find-and-change-text-using-grep-expressions.md).

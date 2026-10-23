@@ -1,6 +1,6 @@
-# InDesign — Find text preference: warichu inline text
+# InDesign - Find text preference: warichu inline text
 
-Open when checking warichu inline text in InDesign — Find text preference.
+Open when checking warichu inline text in InDesign - Find text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

@@ -1,4 +1,4 @@
-# Errors — Error Codes
+# Errors - Error Codes
 
 Error
 

@@ -1,4 +1,4 @@
-# Photoshop — Output Types Migration Guide — Structural changes (all output types)
+# Photoshop - Output Types Migration Guide - Structural changes (all output types)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common output fields in Photoshop. [Common output fields](common-output-fields.md).

@@ -1,4 +1,4 @@
-# InDesign — Manage hyperlinks
+# InDesign - Manage hyperlinks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete hyperlinks in InDesign. [Delete hyperlinks](delete-hyperlinks.md).

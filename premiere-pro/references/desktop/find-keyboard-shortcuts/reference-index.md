@@ -1,4 +1,4 @@
-# Premiere Pro — Find keyboard shortcuts
+# Premiere Pro - Find keyboard shortcuts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Check common shortcuts in Premiere Pro. [Check common shortcuts](check-common-shortcuts.md).

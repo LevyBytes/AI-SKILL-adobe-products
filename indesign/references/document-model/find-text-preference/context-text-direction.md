@@ -1,6 +1,6 @@
-# InDesign — Find text preference: writing direction and diacritics
+# InDesign - Find text preference: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — Find text preference.
+Open when checking writing direction and diacritics in InDesign - Find text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

@@ -1,4 +1,4 @@
-# Premiere Pro — The Playground
+# Premiere Pro - The Playground
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit and Debug the code in Premiere Pro. [Edit and Debug the code](edit-and-debug-the-code.md).

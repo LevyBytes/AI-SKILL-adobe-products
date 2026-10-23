@@ -1,4 +1,4 @@
-# InDesign — Printing and PDF export errors
+# InDesign - Printing and PDF export errors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupt, incomplete, or incompatible fonts in InDesign. [Corrupt, incomplete, or incompatible fonts](corrupt-incomplete-or-incompatible-fonts.md).

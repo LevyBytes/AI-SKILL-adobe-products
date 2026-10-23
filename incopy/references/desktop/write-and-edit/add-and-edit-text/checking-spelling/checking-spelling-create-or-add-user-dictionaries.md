@@ -1,4 +1,4 @@
-# Checking spelling — Create or add user dictionaries
+# Checking spelling - Create or add user dictionaries
 
 You can create a user dictionary, or add one from an earlier InDesign or InCopy version, from a file supplied by someone else, or from a server that stores a workgroup dictionary. Once added, that dictionary is available throughout InCopy documents.
 

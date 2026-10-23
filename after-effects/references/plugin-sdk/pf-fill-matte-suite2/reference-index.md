@@ -1,4 +1,4 @@
-# After Effects — PF_FillMatteSuite2
+# After Effects - PF_FillMatteSuite2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up fill in After Effects. [fill](fill.md).

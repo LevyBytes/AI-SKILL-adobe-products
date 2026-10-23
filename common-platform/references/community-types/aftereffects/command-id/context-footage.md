@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: import, interpret, replace and locate footage
+# Shared Adobe platform - _CommandID: import, interpret, replace and locate footage
 
-Open when working with import, interpret, replace and locate footage in Shared Adobe platform — _CommandID.
+Open when working with import, interpret, replace and locate footage in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-footage.json).
 

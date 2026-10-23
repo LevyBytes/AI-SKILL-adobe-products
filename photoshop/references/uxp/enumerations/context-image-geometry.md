@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: image geometry and resampling
+# Photoshop - Enumerations: image geometry and resampling
 
-Open when working with image geometry and resampling in Photoshop — Enumerations.
+Open when working with image geometry and resampling in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-image-geometry.json).
 

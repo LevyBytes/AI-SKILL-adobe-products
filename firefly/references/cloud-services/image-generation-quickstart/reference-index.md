@@ -1,7 +1,7 @@
-# Firefly — Image generation quickstart
+# Firefly - Image generation quickstart
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Access the generated image URL — Deepen Your Understanding in Firefly. [Access the generated image URL — Deepen Your Understanding](access-the-generated-image-url-deepen-your-understanding.md).
+- Open when looking up Access the generated image URL - Deepen Your Understanding in Firefly. [Access the generated image URL - Deepen Your Understanding](access-the-generated-image-url-deepen-your-understanding.md).
 - Open when looking up Full Example in Firefly. [Full Example](full-example.md).
 - Open when looking up Full Example in Firefly. [Full Example references](full-example/reference-index.md).
 - Open when looking up Generate an Image in Firefly. [Generate an Image](generate-an-image.md).

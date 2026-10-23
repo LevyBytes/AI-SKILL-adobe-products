@@ -1,4 +1,4 @@
-# Acrobat — Print booklets, posters, and banners
+# Acrobat - Print booklets, posters, and banners
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Booklet printing with Adobe Acrobat in Acrobat. [Booklet printing with Adobe Acrobat](booklet-printing-with-adobe-acrobat.md).

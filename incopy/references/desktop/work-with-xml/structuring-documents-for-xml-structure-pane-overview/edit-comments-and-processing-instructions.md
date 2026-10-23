@@ -1,4 +1,4 @@
-# Structuring documents for XML — Edit comments and processing instructions
+# Structuring documents for XML - Edit comments and processing instructions
 
 Select the comment or processing instruction. Use any of these actions:
 

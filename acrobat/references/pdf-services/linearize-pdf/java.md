@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [LinearizePDF.java](../examples/java/linearize-pdf/LinearizePDF.java)
+- [linearize-pdf setup and source](../examples/java/linearize-pdf/linearize-pdf-setup.md)

@@ -1,4 +1,4 @@
-# Illustrator — Set artboard views
+# Illustrator - Set artboard views
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Activate an artboard in Illustrator. [Activate an artboard](activate-an-artboard.md).

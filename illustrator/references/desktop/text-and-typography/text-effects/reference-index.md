@@ -1,4 +1,4 @@
-# Illustrator — Text effects
+# Illustrator - Text effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply neon glow effect to text in Illustrator. [Apply neon glow effect to text](apply-neon-glow-effect-to-text.md).

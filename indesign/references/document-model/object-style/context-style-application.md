@@ -1,6 +1,6 @@
-# InDesign — ObjectStyle: apply and manage styles
+# InDesign - ObjectStyle: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — ObjectStyle.
+Open when checking apply and manage styles in InDesign - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

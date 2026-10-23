@@ -1,4 +1,4 @@
-# Getting Started — Step 5 : Uploading an asset
+# Getting Started - Step 5 : Uploading an asset
 
 With the access token in hand, the next job is uploading the asset, and that too breaks into two steps:
 

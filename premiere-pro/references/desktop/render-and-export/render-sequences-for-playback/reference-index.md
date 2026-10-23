@@ -1,4 +1,4 @@
-# Premiere Pro — Render sequences for playback
+# Premiere Pro - Render sequences for playback
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cross-wrapper special cases in Premiere Pro. [Cross-wrapper special cases](cross-wrapper-special-cases.md).

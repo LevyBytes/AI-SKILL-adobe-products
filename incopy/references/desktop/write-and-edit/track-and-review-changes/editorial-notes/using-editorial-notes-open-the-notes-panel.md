@@ -1,4 +1,4 @@
-# Using editorial notes — Open the Notes panel
+# Using editorial notes - Open the Notes panel
 
 Use one of these methods:
 

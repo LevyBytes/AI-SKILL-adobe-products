@@ -1,4 +1,4 @@
-# Illustrator — Modify paths
+# Illustrator - Modify paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or remove anchor points in Illustrator. [Add or remove anchor points](add-or-remove-anchor-points.md).

@@ -1,4 +1,4 @@
-# InDesign — Get started
+# InDesign - Get started
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Interface in InDesign. [Interface references](interface/reference-index.md).

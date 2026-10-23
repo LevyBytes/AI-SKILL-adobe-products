@@ -1,4 +1,4 @@
-# Shared Adobe platform — TableStyleMapping
+# Shared Adobe platform - TableStyleMapping
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TableStyleMapping declaration in Shared Adobe platform. [TableStyleMapping declaration](declaration.md).

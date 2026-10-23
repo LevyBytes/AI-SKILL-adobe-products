@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: color correction, curves, looks and luts
+# Premiere Pro - Desktop workflows: color correction, curves, looks and luts
 
-Open when working with color correction, curves, looks and luts in Premiere Pro — Desktop workflows.
+Open when working with color correction, curves, looks and luts in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-color-grading.json).
 

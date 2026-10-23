@@ -1,4 +1,4 @@
-# InDesign — ImageResolution
+# InDesign - ImageResolution
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PPI_150 in InDesign. [PPI_150](ppi150.md).

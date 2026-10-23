@@ -1,4 +1,4 @@
-# Illustrator — Font browser overview
+# Illustrator - Font browser overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Controls related to using and browsing fonts in Illustrator. [Controls related to using and browsing fonts](controls-related-to-using-and-browsing-fonts.md).

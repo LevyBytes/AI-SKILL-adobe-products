@@ -1,4 +1,4 @@
-# Composing CJK characters — Turn warichu on or off
+# Composing CJK characters - Turn warichu on or off
 
 Warichu lets body text carry an inline note, typically two parenthesized lines.
 

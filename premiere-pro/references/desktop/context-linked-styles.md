@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: reusable linked and track styles
+# Premiere Pro - Desktop workflows: reusable linked and track styles
 
-Open when working with reusable linked and track styles in Premiere Pro — Desktop workflows.
+Open when working with reusable linked and track styles in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-linked-styles.json).
 

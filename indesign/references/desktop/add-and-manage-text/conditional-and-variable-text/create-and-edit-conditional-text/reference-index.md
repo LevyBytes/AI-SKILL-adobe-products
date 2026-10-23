@@ -1,4 +1,4 @@
-# InDesign — Create and edit conditional text
+# InDesign - Create and edit conditional text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply conditions to text ranges in InDesign. [Apply conditions to text ranges](apply-conditions-to-text-ranges.md).

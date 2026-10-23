@@ -1,4 +1,4 @@
-# Premiere Pro — Modal Dialogs
+# Premiere Pro - Modal Dialogs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Commands with Modal Dialogs in Premiere Pro. [Commands with Modal Dialogs](commands-with-modal-dialogs.md).

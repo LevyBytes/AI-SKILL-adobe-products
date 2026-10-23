@@ -1,6 +1,6 @@
-# InDesign — Insertion point: generate qr codes
+# InDesign - Insertion point: generate qr codes
 
-Open when checking generate qr codes in InDesign — Insertion point.
+Open when checking generate qr codes in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

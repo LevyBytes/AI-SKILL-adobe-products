@@ -1,4 +1,4 @@
-# Photoshop — Editing the Photoshop document
+# Photoshop - Editing the Photoshop document
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Next steps in Photoshop. [Next steps](next-steps.md).

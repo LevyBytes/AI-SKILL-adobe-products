@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Round Corners
+# Shape Layer Match Names - Round Corners
 
 | Match Name | Display Name (EN) |
 | --- | --- |

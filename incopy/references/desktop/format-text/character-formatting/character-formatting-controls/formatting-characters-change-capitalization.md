@@ -1,4 +1,4 @@
-# Formatting characters — Change capitalization
+# Formatting characters - Change capitalization
 
 Select text. Choose one of these commands in the Type > Change Case submenu:
 

@@ -1,6 +1,6 @@
-# Illustrator — Document: artboards, crop bounds and coordinates
+# Illustrator - Document: artboards, crop bounds and coordinates
 
-Open when working with artboards, crop bounds and coordinates in Illustrator — Document.
+Open when working with artboards, crop bounds and coordinates in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-artboard-geometry.json).
 

@@ -1,6 +1,6 @@
-# InDesign — SignatureField: document metadata and imported review
+# InDesign - SignatureField: document metadata and imported review
 
-Open when checking document metadata and imported review in InDesign — SignatureField.
+Open when checking document metadata and imported review in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

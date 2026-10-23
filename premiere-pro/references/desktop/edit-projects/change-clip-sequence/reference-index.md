@@ -1,4 +1,4 @@
-# Premiere Pro — Change clip sequence
+# Premiere Pro - Change clip sequence
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change sequence settings in Premiere Pro. [Change sequence settings](change-sequence-settings.md).

@@ -1,6 +1,6 @@
-# InDesign — Sound: events and listeners
+# InDesign - Sound: events and listeners
 
-Open when checking events and listeners in InDesign — Sound.
+Open when checking events and listeners in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

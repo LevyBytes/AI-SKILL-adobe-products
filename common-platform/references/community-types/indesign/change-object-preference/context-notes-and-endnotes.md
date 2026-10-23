@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeObjectPreference: footnotes and endnotes
+# Shared Adobe platform - ChangeObjectPreference: footnotes and endnotes
 
-Open when checking footnotes and endnotes in Shared Adobe platform — ChangeObjectPreference.
+Open when checking footnotes and endnotes in Shared Adobe platform - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-notes-and-endnotes.json).
 

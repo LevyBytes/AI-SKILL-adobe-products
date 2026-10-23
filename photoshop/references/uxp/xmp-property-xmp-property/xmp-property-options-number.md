@@ -1,4 +1,4 @@
-# XMPProperty — options : `number`
+# XMPProperty - options : `number`
 
 **Read only**
 Numeric flags for the property type; `0` represents a simple property.

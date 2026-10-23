@@ -1,3 +1,3 @@
-# Arbitrary Data Parameters — Arbitrary Data? Re-Entrancy!
+# Arbitrary Data Parameters - Arbitrary Data? Re-Entrancy!
 
 Supporting custom data types means your plug-in code has to tolerate recursive re-entrancy, since After Effects might call into it for all sorts of reasons. Imagine your plug-in checks out a layer that itself relies on another instance of your own effect: the act of checking out that apparently unrelated layer is what kicks off your plug-in's arbitrary data handling. Stay wary of C run-time library calls that lean on static state reached through global variables. Fail to plan for this scenario and you'll lock up After Effects, leaving users cursing and pounding their monitors.

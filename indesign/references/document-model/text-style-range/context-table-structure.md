@@ -1,6 +1,6 @@
-# InDesign — Text style range: table cells, rows and columns
+# InDesign - Text style range: table cells, rows and columns
 
-Open when checking table cells, rows and columns in InDesign — Text style range.
+Open when checking table cells, rows and columns in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-table-structure.json).
 

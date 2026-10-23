@@ -1,4 +1,4 @@
-# Composing CJK characters — Edit detailed settings for mojikumi
+# Composing CJK characters - Edit detailed settings for mojikumi
 
 Pick one method:
 

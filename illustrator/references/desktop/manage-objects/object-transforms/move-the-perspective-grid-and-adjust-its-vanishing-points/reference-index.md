@@ -1,4 +1,4 @@
-# Illustrator — Move the perspective grid and adjust its vanishing points
+# Illustrator - Move the perspective grid and adjust its vanishing points
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust vanishing points in Illustrator. [Adjust vanishing points](adjust-vanishing-points.md).

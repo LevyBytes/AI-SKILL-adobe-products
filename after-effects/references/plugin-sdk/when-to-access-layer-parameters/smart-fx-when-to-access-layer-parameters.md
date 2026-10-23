@@ -1,4 +1,4 @@
-# SmartFX — When To Access Layer Parameters
+# SmartFX - When To Access Layer Parameters
 
 You're free to check out any parameter except layer inputs whenever you like. Layer inputs, by contrast, can only be reached within `PF_Cmd_SMART_PRE_RENDER`.
 

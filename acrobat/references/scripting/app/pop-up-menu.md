@@ -10,7 +10,7 @@ At the spot where the mouse currently sits, this builds a pop-up menu holding wh
 
 Parameters
 
-Parameter — Description
+Parameter: Description
 
 cItem
 

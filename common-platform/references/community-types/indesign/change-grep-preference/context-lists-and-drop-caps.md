@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeGrepPreference: lists, numbering and drop caps
+# Shared Adobe platform - ChangeGrepPreference: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in Shared Adobe platform — ChangeGrepPreference.
+Open when checking lists, numbering and drop caps in Shared Adobe platform - ChangeGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

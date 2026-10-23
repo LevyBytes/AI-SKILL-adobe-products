@@ -1,4 +1,4 @@
-# InDesign — FindChangeTransliterateCharacterTypes
+# InDesign - FindChangeTransliterateCharacterTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ARABIC_INDIC_DIGITS in InDesign. [ARABIC_INDIC_DIGITS](arabicindicdigits.md).

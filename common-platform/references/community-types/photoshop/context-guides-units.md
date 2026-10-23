@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: guides, grids and units
+# Shared Adobe platform - Photoshop: guides, grids and units
 
-Open when working with guides, grids and units in Shared Adobe platform — Photoshop.
+Open when working with guides, grids and units in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-guides-units.json).
 

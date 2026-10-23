@@ -1,4 +1,4 @@
-# Acrobat — Acrobat and PDF content security overview
+# Acrobat - Acrobat and PDF content security overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Application security in Acrobat. [Application security](application-security.md).

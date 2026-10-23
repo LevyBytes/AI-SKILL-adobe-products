@@ -1,4 +1,4 @@
-# InDesign — Align or distribute objects
+# InDesign - Align or distribute objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust spacing using the Gap tool in InDesign. [Adjust spacing using the Gap tool](adjust-spacing-using-the-gap-tool.md).

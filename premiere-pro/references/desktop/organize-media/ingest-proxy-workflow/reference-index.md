@@ -1,4 +1,4 @@
-# Premiere Pro — Ingest proxy workflow
+# Premiere Pro - Ingest proxy workflow
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Attach proxies to full-resolution media in Premiere Pro. [Attach proxies to full-resolution media](attach-proxies-to-full-resolution-media.md).

@@ -1,4 +1,4 @@
-# InDesign — Use Kinsoku settings
+# InDesign - Use Kinsoku settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Kinsoku hanging in InDesign. [Apply Kinsoku hanging](apply-kinsoku-hanging.md).

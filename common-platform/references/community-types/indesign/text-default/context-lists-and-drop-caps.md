@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: lists, numbering and drop caps
+# Shared Adobe platform - TextDefault: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in Shared Adobe platform — TextDefault.
+Open when checking lists, numbering and drop caps in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

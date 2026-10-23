@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: effect ui & events
+# After Effects - C++ plugin SDK: effect ui & events
 
-Open when working with effect ui & events in After Effects — C++ plugin SDK.
+Open when working with effect ui & events in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-ui-events-effect-ui-events.json).
 

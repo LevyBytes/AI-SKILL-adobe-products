@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Inner Shadow
+# Layer Styles Match Names - Inner Shadow
 
 | Match Name | Display Name (EN) |
 | --- | --- |

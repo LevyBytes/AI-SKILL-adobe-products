@@ -1,4 +1,4 @@
-# Premiere Pro — About trim mode
+# Premiere Pro - About trim mode
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Behavior of trim tools in Trim mode in Premiere Pro. [Behavior of trim tools in Trim mode](behavior-of-trim-tools-in-trim-mode.md).

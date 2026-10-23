@@ -1,4 +1,4 @@
-# Assignment packages — Create a package for manual distribution
+# Assignment packages - Create a package for manual distribution
 
 Start by creating an assignment, then add the content that should go into the package.
 

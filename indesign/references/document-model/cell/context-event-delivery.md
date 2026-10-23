@@ -1,6 +1,6 @@
-# InDesign — Cell: events and listeners
+# InDesign - Cell: events and listeners
 
-Open when checking events and listeners in InDesign — Cell.
+Open when checking events and listeners in InDesign - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

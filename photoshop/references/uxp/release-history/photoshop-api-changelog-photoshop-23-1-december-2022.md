@@ -1,4 +1,4 @@
-# Photoshop API Changelog — Photoshop 23.1 (December 2022)
+# Photoshop API Changelog - Photoshop 23.1 (December 2022)
 
 - Core Module: `batchPlaySync()`
 - Core Module: `validateReference()`

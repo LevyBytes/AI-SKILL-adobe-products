@@ -1,4 +1,4 @@
-# Acrobat — Media player
+# Acrobat - Media player
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up annot in Acrobat. [annot](annot.md).
@@ -12,7 +12,7 @@
 - Open when looking up isOpen in Acrobat. [isOpen](is-open.md).
 - Open when looking up isPlaying in Acrobat. [isPlaying](is-playing.md).
 - Open when looking up markers in Acrobat. [markers](markers.md).
-- Open when looking up Media and Marker APIs — MediaPlayer in Acrobat. [Media and Marker APIs — MediaPlayer](media-and-marker-apis-media-player.md).
+- Open when looking up Media and Marker APIs - MediaPlayer in Acrobat. [Media and Marker APIs - MediaPlayer](media-and-marker-apis-media-player.md).
 - Open when looking up MediaPlayer methods in Acrobat. [MediaPlayer methods](media-player-methods.md).
 - Open when looking up open in Acrobat. [open](open.md).
 - Open when looking up outerRect in Acrobat. [outerRect](outer-rect.md).

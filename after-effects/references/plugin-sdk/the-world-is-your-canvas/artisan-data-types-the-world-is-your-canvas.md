@@ -1,4 +1,4 @@
-# Artisan Data Types — The World Is Your Canvas
+# Artisan Data Types - The World Is Your Canvas
 
 `AEGP_RenderTexture`() places a layer's raw, untransformed pixels into a buffer of arbitrary size.
 

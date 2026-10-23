@@ -1,6 +1,6 @@
-# Acrobat — PDF Services API: pdf passwords and permissions
+# Acrobat - PDF Services API: pdf passwords and permissions
 
-Open when working with pdf passwords and permissions in Acrobat — PDF Services API.
+Open when working with pdf passwords and permissions in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-protection.json).
 

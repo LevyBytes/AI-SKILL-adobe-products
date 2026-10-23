@@ -1,6 +1,8 @@
-# Acrobat — Node
+# Acrobat - Node
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when writing any PDF Services call in Node.js. [Node.js call pattern](call-pattern.cjs).
+- Open when choosing an operation's job, parameter and result classes in Node.js. [Node.js operations](operations.md).
 - Open when looking up Autotag pdf parameterised in Acrobat. [Autotag pdf parameterised references](autotag-pdf-parameterised/reference-index.md).
 - Open when looking up Autotag pdf in Acrobat. [Autotag pdf references](autotag-pdf/reference-index.md).
 - Open when looking up Combine pdf in Acrobat. [Combine pdf references](combine-pdf/reference-index.md).

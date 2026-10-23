@@ -1,4 +1,4 @@
-# Firefly — Firefly boards
+# Firefly - Firefly boards
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Firefly Boards in Firefly. [About Firefly Boards](about-firefly-boards.md).

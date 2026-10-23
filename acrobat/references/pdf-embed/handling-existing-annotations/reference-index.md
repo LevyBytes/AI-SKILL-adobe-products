@@ -1,4 +1,4 @@
-# Acrobat — Handling existing annotations
+# Acrobat - Handling existing annotations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addAnnotationsInPDF API in Acrobat. [addAnnotationsInPDF API](add-annotations-in-pdf-api.md).

@@ -1,4 +1,4 @@
-# Scripting Constants — FontBaselineOption
+# Scripting Constants - FontBaselineOption
 
 | Value | Description |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Premiere Pro — Upload media to Frame.io
+# Premiere Pro - Upload media to Frame.io
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Upload Active Sequence and Active Comp in Premiere Pro. [Upload Active Sequence and Active Comp](upload-active-sequence-and-active-comp.md).

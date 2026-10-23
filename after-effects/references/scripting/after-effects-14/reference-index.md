@@ -1,4 +1,4 @@
-# After Effects — After effects 14
+# After Effects - After effects 14
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After Effects 14.0 (CC 2017) (November 2016) in After Effects. [After Effects 14.0 (CC 2017) (November 2016)](after-effects-14-0-cc-2017-november-2016.md).

@@ -1,6 +1,6 @@
-# InDesign — Paragraph: page item collections
+# InDesign - Paragraph: page item collections
 
-Open when checking page item collections in InDesign — Paragraph.
+Open when checking page item collections in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

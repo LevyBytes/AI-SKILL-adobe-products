@@ -1,4 +1,4 @@
-# Table and cell styles — Break the link to table or cell styles
+# Table and cell styles - Break the link to table or cell styles
 
 Breaking the connection between tables or cells and their assigned style leaves current formatting in place. Later edits to that style no longer change those tables or cells.
 

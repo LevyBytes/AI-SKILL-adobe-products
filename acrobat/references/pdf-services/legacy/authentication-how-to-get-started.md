@@ -1,4 +1,4 @@
-# Authentication — How to get started?
+# Authentication - How to get started?
 
 **STEP 1: Get Credentials -** An Adobe-provided credential is needed before you can invoke PDF Services API. To obtain one, [click here](https://acrobatservices.adobe.com/dc-integration-creation-app-cdn/main.html?api=pdf-services-api) and run through the workflow. Make sure you copy the credential values and stash them somewhere secure.
 

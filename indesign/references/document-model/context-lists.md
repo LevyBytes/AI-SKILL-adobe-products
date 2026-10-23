@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: bullets and numbered lists
+# InDesign - InDesign document object model: bullets and numbered lists
 
-Open when working with bullets and numbered lists in InDesign — InDesign document object model.
+Open when working with bullets and numbered lists in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-lists.json).
 

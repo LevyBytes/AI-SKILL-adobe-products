@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPDateTime — compareTo(dateTime)
+# require('uxp').xmp.XMPDateTime - compareTo(dateTime)
 
 Compares two date-time values and reports their ordering.
 

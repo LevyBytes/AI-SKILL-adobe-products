@@ -1,6 +1,6 @@
-# InDesign — Rectangle: object identity and lifecycle
+# InDesign - Rectangle: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Rectangle.
+Open when checking object identity and lifecycle in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

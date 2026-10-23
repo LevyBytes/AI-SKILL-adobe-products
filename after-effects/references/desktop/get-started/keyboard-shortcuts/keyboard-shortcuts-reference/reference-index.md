@@ -1,4 +1,4 @@
-# After Effects — Keyboard Shortcuts Reference
+# After Effects - Keyboard Shortcuts Reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D layers in After Effects. [3D layers](3-d-layers.md).

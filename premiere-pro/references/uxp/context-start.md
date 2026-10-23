@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: choose an extension and start development
+# Premiere Pro - UXP plugins and APIs: choose an extension and start development
 
-Open when working with choose an extension and start development in Premiere Pro — UXP plugins and APIs.
+Open when working with choose an extension and start development in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-start.json).
 

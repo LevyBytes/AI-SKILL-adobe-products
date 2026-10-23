@@ -1,4 +1,4 @@
-# UxpPanelInfo — description : `string`
+# UxpPanelInfo - description : `string`
 
 **Read only**
 Retrieve the panel description as a localized string.

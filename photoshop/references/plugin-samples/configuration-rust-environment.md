@@ -1,4 +1,4 @@
-# Configuration — Rust Environment
+# Configuration - Rust Environment
 
 Install and configure the [Rust toolchain](https://www.rust-lang.org/tools/install) on the machine before starting.
 

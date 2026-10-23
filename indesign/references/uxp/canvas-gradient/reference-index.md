@@ -1,4 +1,4 @@
-# InDesign — Canvas gradient
+# InDesign - Canvas gradient
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addColorStop(offset, colorValue) in InDesign. [addColorStop(offset, colorValue)](add-color-stop.md).

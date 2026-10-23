@@ -16,7 +16,7 @@ Where a settings.floating object is handed over (refer to the PlayerArgs object 
 
 Failing either, the default comes out as undefined.
 
-Example — build players that use varying window types. Because this runs as a Rendition action, no rendition needs to be specified or selected.
+Example: build players that use varying window types. Because this runs as a Rendition action, no rendition needs to be specified or selected.
 
 ```javascript
 // Docked player that will be played in the associated ScreenAnnot

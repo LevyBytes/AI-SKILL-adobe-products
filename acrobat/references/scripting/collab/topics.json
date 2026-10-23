@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "addStateModel", "file": "references/scripting/collab/add-state-model.md", "summary": "Open when looking up addStateModel in Acrobat.", "keywords": ["addStateModel"]},
   {"topic": "documentToStream", "file": "references/scripting/collab/document-to-stream.md", "summary": "Open when looking up documentToStream in Acrobat.", "keywords": ["documentToStream"]},
-  {"topic": "JavaScript APIs — Collab", "file": "references/scripting/collab/java-script-apis-collab.md", "summary": "Open when looking up JavaScript APIs — Collab in Acrobat.", "keywords": ["JavaScript APIs — Collab"]},
+  {"topic": "JavaScript APIs - Collab", "file": "references/scripting/collab/java-script-apis-collab.md", "summary": "Open when looking up JavaScript APIs - Collab in Acrobat.", "keywords": ["JavaScript APIs - Collab"]},
   {"topic": "removeStateModel", "file": "references/scripting/collab/remove-state-model.md", "summary": "Open when looking up removeStateModel in Acrobat.", "keywords": ["removeStateModel"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

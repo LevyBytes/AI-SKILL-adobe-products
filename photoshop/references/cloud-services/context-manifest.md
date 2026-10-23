@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: inspect psd manifests
+# Photoshop - Cloud service APIs: inspect psd manifests
 
-Open when working with inspect psd manifests in Photoshop — Cloud service APIs.
+Open when working with inspect psd manifests in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-manifest.json).
 

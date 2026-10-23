@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: compatibility across multiple versions?
+# After Effects - C++ plugin SDK: compatibility across multiple versions?
 
-Open when working with compatibility across multiple versions? in After Effects — C++ plugin SDK.
+Open when working with compatibility across multiple versions? in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-compatibility-across-multiple-versions.json).
 

@@ -1,6 +1,6 @@
-# Acrobat — Doc: page geometry, order and templates
+# Acrobat - Doc: page geometry, order and templates
 
-Open when working with page geometry, order and templates in Acrobat — Doc.
+Open when working with page geometry, order and templates in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-pages.json).
 

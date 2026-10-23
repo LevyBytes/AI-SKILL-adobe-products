@@ -1,6 +1,6 @@
-# InDesign — Eps text: object identity and lifecycle
+# InDesign - Eps text: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Eps text.
+Open when checking object identity and lifecycle in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

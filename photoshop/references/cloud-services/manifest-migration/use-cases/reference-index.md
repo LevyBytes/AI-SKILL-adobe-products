@@ -1,4 +1,4 @@
-# Photoshop — Use cases
+# Photoshop - Use cases
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Document analysis in Photoshop. [Document analysis](document-analysis.md).

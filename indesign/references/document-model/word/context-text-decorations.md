@@ -1,6 +1,6 @@
-# InDesign — Word: underline and strike-through
+# InDesign - Word: underline and strike-through
 
-Open when checking underline and strike-through in InDesign — Word.
+Open when checking underline and strike-through in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

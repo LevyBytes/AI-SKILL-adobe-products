@@ -1,4 +1,4 @@
-# window.FormData — append(name, value, fileName)
+# window.FormData - append(name, value, fileName)
 
 Adds a key/value pair to FormData.
 When the value is ArrayBuffer or TypedArray, both its buffer and the object are copied.

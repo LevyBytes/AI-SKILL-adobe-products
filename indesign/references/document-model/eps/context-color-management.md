@@ -1,6 +1,6 @@
-# InDesign — EPS: color profiles and rendering
+# InDesign - EPS: color profiles and rendering
 
-Open when checking color profiles and rendering in InDesign — EPS.
+Open when checking color profiles and rendering in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-color-management.json).
 

@@ -1,4 +1,4 @@
-# InDesign — LayoutWindow
+# InDesign - LayoutWindow
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up activeLayer in InDesign. [activeLayer](active-layer.md).

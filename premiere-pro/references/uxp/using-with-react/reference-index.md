@@ -1,4 +1,4 @@
-# Premiere Pro — Using with React
+# Premiere Pro - Using with React
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Boolean attributes in Premiere Pro. [Boolean attributes](boolean-attributes.md).

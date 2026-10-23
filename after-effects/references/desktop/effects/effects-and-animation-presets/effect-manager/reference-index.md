@@ -1,4 +1,4 @@
-# After Effects — Effect Manager
+# After Effects - Effect Manager
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Crash Repair Options in After Effects. [Crash Repair Options](crash-repair-options.md).

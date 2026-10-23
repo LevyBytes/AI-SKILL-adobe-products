@@ -1,4 +1,4 @@
-# Photoshop — Edit text
+# Photoshop - Edit text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Changing the font in a text layer in Photoshop. [Changing the font in a text layer](changing-the-font-in-a-text-layer.md).

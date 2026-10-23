@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: printing workflows
+# Illustrator - Scripting APIs: printing workflows
 
-Open when working with printing workflows in Illustrator — Scripting APIs.
+Open when working with printing workflows in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-print-guidance.json).
 

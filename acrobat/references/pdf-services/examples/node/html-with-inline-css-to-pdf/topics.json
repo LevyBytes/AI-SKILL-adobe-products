@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Html with inline css to pdf example setup", "file": "references/pdf-services/examples/node/html-with-inline-css-to-pdf/html-with-inline-css-to-pdf-setup.md", "summary": "Open when looking up Html with inline css to pdf example setup in Acrobat.", "keywords": ["Html with inline css to pdf example setup"]},
-  {"topic": "html-with-inline-css-to-pdf", "file": "references/pdf-services/examples/node/html-with-inline-css-to-pdf/html-with-inline-css-to-pdf.cjs", "summary": "Open when looking up html-with-inline-css-to-pdf in Acrobat.", "keywords": ["html-with-inline-css-to-pdf"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# Illustrator — Apply graphic styles
+# Illustrator - Apply graphic styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Graphic Styles panel overview in Illustrator. [Graphic Styles panel overview](graphic-styles-panel-overview.md).

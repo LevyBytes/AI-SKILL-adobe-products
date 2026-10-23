@@ -1,6 +1,6 @@
-# InDesign — MediaItem: layers, stacking and master overrides
+# InDesign - MediaItem: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — MediaItem.
+Open when checking layers, stacking and master overrides in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

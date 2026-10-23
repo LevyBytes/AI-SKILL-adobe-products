@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: find, replace and transliterate
+# InDesign - MultiStateObject: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — MultiStateObject.
+Open when checking find, replace and transliterate in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

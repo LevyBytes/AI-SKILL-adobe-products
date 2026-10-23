@@ -1,4 +1,4 @@
-# Premiere Pro — Static methods
+# Premiere Pro - Static methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addPropertyToProjectMetadataSchema in Premiere Pro. [addPropertyToProjectMetadataSchema](add-property-to-project-metadata-schema.md).

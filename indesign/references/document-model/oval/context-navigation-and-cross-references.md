@@ -1,6 +1,6 @@
-# InDesign — Oval: hyperlinks, indexes and cross-references
+# InDesign - Oval: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — Oval.
+Open when checking hyperlinks, indexes and cross-references in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

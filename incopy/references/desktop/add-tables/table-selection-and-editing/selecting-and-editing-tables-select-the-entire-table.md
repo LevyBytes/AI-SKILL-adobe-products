@@ -1,4 +1,4 @@
-# Selecting and editing tables — Select the entire table
+# Selecting and editing tables - Select the entire table
 
 With the Type tool active, use one of these methods:
 

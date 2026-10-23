@@ -1,4 +1,4 @@
-# Illustrator — Manage objects
+# Illustrator - Manage objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Arrange objects in Illustrator. [Arrange objects references](arrange-objects/reference-index.md).

@@ -1,6 +1,6 @@
-# InDesign — PrinterPreset: print job, printer and page selection
+# InDesign - PrinterPreset: print job, printer and page selection
 
-Open when checking print job, printer and page selection in InDesign — PrinterPreset.
+Open when checking print job, printer and page selection in InDesign - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-job.json).
 

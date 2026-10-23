@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "PF_InData — Point Controls And Buffer Expansion", "file": "references/plugin-sdk/point-controls-and-buffer-expansion/pf-in-data-point-controls-and-buffer-expansion.md", "summary": "Open when looking up PF_InData — Point Controls And Buffer Expansion in After Effects.", "keywords": ["PF_InData — Point Controls And Buffer Expansion"]},
+  {"topic": "PF_InData - Point Controls And Buffer Expansion", "file": "references/plugin-sdk/point-controls-and-buffer-expansion/pf-in-data-point-controls-and-buffer-expansion.md", "summary": "Open when looking up PF_InData - Point Controls And Buffer Expansion in After Effects.", "keywords": ["PF_InData - Point Controls And Buffer Expansion"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

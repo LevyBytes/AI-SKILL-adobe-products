@@ -1,4 +1,4 @@
-# Illustrator — Rotate objects by specific angles
+# Illustrator - Rotate objects by specific angles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Rotate an object by a specific angle in Illustrator. [Rotate an object by a specific angle](rotate-an-object-by-a-specific-angle.md).

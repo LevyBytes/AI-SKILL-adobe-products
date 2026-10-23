@@ -1,4 +1,4 @@
-# Sharing content — Export content as separate InCopy files (InDesign)
+# Sharing content - Export content as separate InCopy files (InDesign)
 
 If a workgroup wants separate files instead of assignments, InCopy content can be exported without an assignment file. Rather than producing one assignment file that points to multiple content files and includes layout data, this approach creates an individual .icml file for each selected text or graphics frame. To view the editing context, also open the related InDesign document (.indd).
 

@@ -1,4 +1,4 @@
-# After Effects — 3D Channel Effects
+# After Effects - 3D Channel Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Channel Extract effect in After Effects. [3D Channel Extract effect](3-d-channel-extract-effect.md).

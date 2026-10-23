@@ -1,4 +1,4 @@
-# Photoshop — Blur and sharpen filters
+# Photoshop - Blur and sharpen filters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create depth of field with lens blur in Photoshop. [Create depth of field with lens blur](create-depth-of-field-with-lens-blur.md).

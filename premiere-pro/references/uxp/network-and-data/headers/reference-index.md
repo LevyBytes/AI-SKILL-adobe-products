@@ -1,4 +1,4 @@
-# Premiere Pro — Headers
+# Premiere Pro - Headers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up append(name, value) in Premiere Pro. [append(name, value)](append.md).

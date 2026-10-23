@@ -1,4 +1,4 @@
-# Overview — Components of Document Generation
+# Overview - Components of Document Generation
 
 **Document Template**
 

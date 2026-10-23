@@ -1,6 +1,6 @@
-# InDesign — XmlStory: application session and account
+# InDesign - XmlStory: application session and account
 
-Open when checking application session and account in InDesign — XmlStory.
+Open when checking application session and account in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

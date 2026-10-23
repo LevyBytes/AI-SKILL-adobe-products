@@ -1,4 +1,4 @@
-# Photoshop — 7. Cross-cutting changes
+# Photoshop - 7. Cross-cutting changes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Base URLs in Photoshop. [Base URLs](base-urls.md).

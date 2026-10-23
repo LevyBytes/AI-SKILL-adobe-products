@@ -1,4 +1,4 @@
-# Premiere Pro — Anywhere
+# Premiere Pro - Anywhere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Anywhere object in Premiere Pro. [Anywhere object](anywhere-object.md).

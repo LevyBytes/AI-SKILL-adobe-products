@@ -1,4 +1,4 @@
-# Hyperlinks — Create hyperlinks
+# Hyperlinks - Create hyperlinks
 
 Hyperlinks can target pages, URLs, text anchors, email addresses, and files. When a link points to a page or text anchor in another document, keep the exported files together in the same folder.
 

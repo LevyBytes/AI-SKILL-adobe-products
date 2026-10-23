@@ -1,6 +1,6 @@
-# InDesign — Document: preflight and print packaging
+# InDesign - Document: preflight and print packaging
 
-Open when checking preflight and print packaging in InDesign — Document.
+Open when checking preflight and print packaging in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-preflight-and-packaging.json).
 

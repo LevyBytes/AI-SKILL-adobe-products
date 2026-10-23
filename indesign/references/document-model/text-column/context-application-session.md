@@ -1,6 +1,6 @@
-# InDesign — Text column: application session and account
+# InDesign - Text column: application session and account
 
-Open when checking application session and account in InDesign — Text column.
+Open when checking application session and account in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

@@ -26,7 +26,7 @@ Turn the camera about the Y-axis, the one running up and down from bottom to top
 
 Z Rotation
 
-Turn the camera about the Z-axis — either counterclockwise or clockwise.
+Turn the camera about the Z-axis: either counterclockwise or clockwise.
 
 Beneath Camera options, reach for the available options together with Camera Settings to govern how the camera acts and takes in the elements across your scene.
 

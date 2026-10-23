@@ -1,4 +1,4 @@
-# Audition — Edit, repair, and improve audio using Essential Sound panel
+# Audition - Edit, repair, and improve audio using Essential Sound panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Auto-ducking using the Essential Sound panel in Audition. [Auto-ducking using the Essential Sound panel](auto-ducking-using-the-essential-sound-panel.md).

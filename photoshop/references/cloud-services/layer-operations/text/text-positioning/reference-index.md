@@ -1,4 +1,4 @@
-# Photoshop — Text positioning
+# Photoshop - Text positioning
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Defaults when no frame is supplied in Photoshop. [Defaults when no frame is supplied](defaults-when-no-frame-is-supplied.md).

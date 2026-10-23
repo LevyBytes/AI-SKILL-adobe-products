@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPDateTime — toString()
+# require('uxp').xmp.XMPDateTime - toString()
 
 Returns the object's string value.
 

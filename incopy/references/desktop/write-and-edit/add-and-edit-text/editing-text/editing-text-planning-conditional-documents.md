@@ -1,4 +1,4 @@
-# Editing text — Planning conditional documents
+# Editing text - Planning conditional documents
 
 When preparing a conditional-text project, review the material itself and consider how multiple contributors may hand it off. Consistent treatment of conditional text makes the document easier to use and maintain. Follow these guidelines.
 

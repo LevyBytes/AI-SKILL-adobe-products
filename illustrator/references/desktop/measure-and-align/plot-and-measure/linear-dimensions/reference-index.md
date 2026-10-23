@@ -1,4 +1,4 @@
-# Illustrator — Plot the linear dimensions of objects
+# Illustrator - Plot the linear dimensions of objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Plot the distance between any two points in Illustrator. [Plot the distance between any two points](plot-the-distance-between-any-two-points.md).

@@ -1,4 +1,4 @@
-# InDesign — Control hyphenation and word breaks
+# InDesign - Control hyphenation and word breaks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a nonbreaking hyphen in InDesign. [Add a nonbreaking hyphen](add-a-nonbreaking-hyphen.md).

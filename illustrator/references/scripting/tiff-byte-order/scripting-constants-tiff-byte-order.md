@@ -1,4 +1,4 @@
-# Scripting Constants — TIFFByteOrder
+# Scripting Constants - TIFFByteOrder
 
 TIFF export can write bytes in either of these orders.
 

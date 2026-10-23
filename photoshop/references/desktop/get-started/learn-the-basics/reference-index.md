@@ -1,4 +1,4 @@
-# Photoshop — Learn the basics
+# Photoshop - Learn the basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access the Discover panel in Photoshop. [Access the Discover panel](access-the-discover-panel.md).

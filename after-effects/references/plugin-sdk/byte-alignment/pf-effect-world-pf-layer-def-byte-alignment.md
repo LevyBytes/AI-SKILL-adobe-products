@@ -1,4 +1,4 @@
-# `PF_EffectWorld` / `PF_LayerDef` — Byte Alignment
+# `PF_EffectWorld` / `PF_LayerDef` - Byte Alignment
 
 There's no guarantee that a `PF_EffectWorld`'s pixels sit on 16-byte boundaries. An effect might be handed a subregion of a larger `PF_EffectWorld`. Anyone using Apple's sample pixel-processing optimization code, consider this your warning.
 

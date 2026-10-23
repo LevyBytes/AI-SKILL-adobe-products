@@ -1,4 +1,4 @@
-# The Artwork Tree — Color objects
+# The Artwork Tree - Color objects
 
 Scripts can set a color, pattern, or gradient on a path item object through the fill color or stroke color properties:
 

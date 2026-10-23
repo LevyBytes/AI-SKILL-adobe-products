@@ -1,4 +1,4 @@
-# InDesign — Customize Mojikumi spacing sets
+# InDesign - Customize Mojikumi spacing sets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access detailed Mojikumi options in InDesign. [Access detailed Mojikumi options](access-detailed-mojikumi-options.md).

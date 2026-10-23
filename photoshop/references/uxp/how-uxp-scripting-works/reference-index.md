@@ -1,4 +1,4 @@
-# Photoshop — How UXP Scripting Works
+# Photoshop - How UXP Scripting Works
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Events in Photoshop. [Events](events.md).

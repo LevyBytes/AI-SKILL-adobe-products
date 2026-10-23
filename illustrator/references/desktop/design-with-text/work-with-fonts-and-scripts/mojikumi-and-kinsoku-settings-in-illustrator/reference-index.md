@@ -1,4 +1,4 @@
-# Illustrator — Mojikumi and Kinsoku settings in Illustrator
+# Illustrator - Mojikumi and Kinsoku settings in Illustrator
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Kinsoku sets in Illustrator. [Kinsoku sets](kinsoku-sets.md).

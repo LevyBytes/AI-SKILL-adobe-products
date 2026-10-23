@@ -1,4 +1,4 @@
-# Premiere Pro — Create and export HDR videos for YouTube on Mac
+# Premiere Pro - Create and export HDR videos for YouTube on Mac
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure color management settings in Premiere in Premiere Pro. [Configure color management settings in Premiere](configure-color-management-settings-in-premiere.md).

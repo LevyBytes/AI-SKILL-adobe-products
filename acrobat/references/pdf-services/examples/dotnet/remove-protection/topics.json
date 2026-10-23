@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Remove protection example setup", "file": "references/pdf-services/examples/dotnet/remove-protection/remove-protection-setup.md", "summary": "Open when looking up Remove protection example setup in Acrobat.", "keywords": ["Remove protection example setup"]},
-  {"topic": "RemoveProtection", "file": "references/pdf-services/examples/dotnet/remove-protection/Program.cs", "summary": "Open when looking up RemoveProtection in Acrobat.", "keywords": ["RemoveProtection"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

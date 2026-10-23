@@ -1,4 +1,4 @@
-# Firefly — Creative Production
+# Firefly - Creative Production
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and connect nodes in Firefly. [Add and connect nodes](add-and-connect-nodes.md).

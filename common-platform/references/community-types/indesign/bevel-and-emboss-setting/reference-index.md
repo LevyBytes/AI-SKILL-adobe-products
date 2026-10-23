@@ -1,4 +1,4 @@
-# Shared Adobe platform — BevelAndEmbossSetting
+# Shared Adobe platform - BevelAndEmbossSetting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BevelAndEmbossSetting declaration in Shared Adobe platform. [BevelAndEmbossSetting declaration](declaration.md).

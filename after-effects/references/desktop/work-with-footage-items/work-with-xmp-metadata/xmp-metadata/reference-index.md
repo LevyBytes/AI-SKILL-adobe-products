@@ -1,4 +1,4 @@
-# After Effects — XMP metadata
+# After Effects - XMP metadata
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About file, clip, and project XMP metadata in After Effects. [About file, clip, and project XMP metadata](about-file-clip-and-project-xmp-metadata.md).

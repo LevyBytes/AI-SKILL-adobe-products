@@ -1,4 +1,4 @@
-# Photoshop — UXP Plugin with Spectrum Web Component in React context
+# Photoshop - UXP Plugin with Spectrum Web Component in React context
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up **src/App.js** in Photoshop. [**src/App.js**](src-app-js.md).

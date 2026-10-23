@@ -1,4 +1,4 @@
-# Shared Adobe platform — Snippet
+# Shared Adobe platform - Snippet
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Snippet declaration in Shared Adobe platform. [Snippet declaration](declaration.md).

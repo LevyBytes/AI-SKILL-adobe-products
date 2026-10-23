@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: compositing, keying and masks
+# Premiere Pro - Desktop workflows: compositing, keying and masks
 
-Open when working with compositing, keying and masks in Premiere Pro — Desktop workflows.
+Open when working with compositing, keying and masks in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-compositing-masks.json).
 

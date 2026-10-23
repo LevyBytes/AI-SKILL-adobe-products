@@ -1,4 +1,4 @@
-# After Effects — Obsolete Effects
+# After Effects - Obsolete Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced controls in After Effects. [Advanced controls](advanced-controls.md).

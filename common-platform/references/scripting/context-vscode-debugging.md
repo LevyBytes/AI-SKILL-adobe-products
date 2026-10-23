@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: vs code debugging
+# Shared Adobe platform - Scripting APIs: vs code debugging
 
-Open when working with vs code debugging in Shared Adobe platform — Scripting APIs.
+Open when working with vs code debugging in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-vscode-debugging.json).
 

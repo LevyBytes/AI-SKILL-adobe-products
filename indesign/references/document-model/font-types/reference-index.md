@@ -1,4 +1,4 @@
-# InDesign — FontTypes
+# InDesign - FontTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ATC in InDesign. [ATC](atc.md).

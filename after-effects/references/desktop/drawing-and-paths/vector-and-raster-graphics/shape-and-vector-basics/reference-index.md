@@ -1,4 +1,4 @@
-# After Effects — Overview of shape layers, paths, and vector graphics
+# After Effects - Overview of shape layers, paths, and vector graphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About paths in After Effects. [About paths](about-paths.md).

@@ -1,4 +1,4 @@
-# JavaScript APIs — spell
+# JavaScript APIs - spell
 
 Through this object, users run spell checks over Comments, Form Fields, and additional spelling domains. Using the spell object first requires that the Acrobat Spelling plug-in and the spelling dictionaries be installed.
 

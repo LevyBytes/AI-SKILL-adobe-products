@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: audio effects, speech and loudness
+# Premiere Pro - Desktop workflows: audio effects, speech and loudness
 
-Open when working with audio effects, speech and loudness in Premiere Pro — Desktop workflows.
+Open when working with audio effects, speech and loudness in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-processing.json).
 

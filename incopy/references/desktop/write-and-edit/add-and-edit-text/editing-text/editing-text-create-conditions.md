@@ -1,4 +1,4 @@
-# Editing text — Create conditions
+# Editing text - Create conditions
 
 Newly created conditions are stored in the current document. If no document is open at creation time, the condition is added to every new document you create.
 

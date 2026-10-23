@@ -1,4 +1,4 @@
-# What's New — What's New in CC 2017.1 (14.2)?
+# What's New - What's New in CC 2017.1 (14.2)?
 
 - Layer Params can include Masks and Effects
 
@@ -17,7 +17,7 @@ Since the user sees this option, the intent is for it to stay invisible to the e
 - The effect keeps behaving the way it should.
 - Driving the layer param's new Source/Mask/Effects control works correctly with the effect.
 - Loading legacy projects, or saving down to an earlier project version, leaves the effect intact.
-- Verify the effect can't reference itself — that is, it can't feed its own layer's effects back in as input for that same layer.
+- Verify the effect can't reference itself: that is, it can't feed its own layer's effects back in as input for that same layer.
 - Suite Enhancements
 
 Now at version 3, `PF_AdvTimeSuite` ships a reworked `PF_GetTimeDisplayPref`() call built around an updated `PF_TimeDisplayPrefVersion` parameter that copes with higher frame rates. Should the values overflow the range the structure can hold, the earlier version 2 of that call may now hand back an error.

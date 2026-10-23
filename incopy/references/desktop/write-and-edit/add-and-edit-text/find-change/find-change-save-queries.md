@@ -1,4 +1,4 @@
-# Find/Change — Save queries
+# Find/Change - Save queries
 
 Save a query from the Find/Change dialog box when you need to rerun it or give it to someone else. In Find/Change, saved query names become available from Query list.
 

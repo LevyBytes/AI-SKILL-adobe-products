@@ -1,4 +1,4 @@
-# Shared Adobe platform — NavigationPoint
+# Shared Adobe platform - NavigationPoint
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NavigationPoint declaration in Shared Adobe platform. [NavigationPoint declaration](declaration.md).

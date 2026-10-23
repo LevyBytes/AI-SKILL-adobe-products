@@ -1,4 +1,4 @@
-# Scripting Constants — FontCapsOption
+# Scripting Constants - FontCapsOption
 
 | Value | Description |
 | --- | --- |

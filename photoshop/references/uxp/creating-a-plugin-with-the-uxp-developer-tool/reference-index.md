@@ -1,4 +1,4 @@
-# Photoshop — Creating a Plugin with the UXP Developer Tool
+# Photoshop - Creating a Plugin with the UXP Developer Tool
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Multiple Plugins in Photoshop. [Multiple Plugins](multiple-plugins.md).

@@ -1,6 +1,6 @@
-# InDesign — FormField: find, replace and transliterate
+# InDesign - FormField: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — FormField.
+Open when checking find, replace and transliterate in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

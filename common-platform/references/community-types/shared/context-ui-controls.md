@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: create and configure ui controls
+# Shared Adobe platform - Shared: create and configure ui controls
 
-Open when working with create and configure ui controls in Shared Adobe platform — Shared.
+Open when working with create and configure ui controls in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-controls.json).
 

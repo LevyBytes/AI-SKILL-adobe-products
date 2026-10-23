@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [split-pdf-by-number-of-pages.py](../examples/python/split-pdf-by-number-of-pages/split-pdf-by-number-of-pages.py)
+- [split-pdf-by-number-of-pages setup and source](../examples/python/split-pdf-by-number-of-pages/split-pdf-by-number-of-pages-setup.md)

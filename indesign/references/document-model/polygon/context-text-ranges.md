@@ -1,6 +1,6 @@
-# InDesign — Polygon: text ranges and containers
+# InDesign - Polygon: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Polygon.
+Open when checking text ranges and containers in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

@@ -1,4 +1,4 @@
-# What is Scripting? — Why use scripting?
+# What is Scripting? - Why use scripting?
 
 Graphic design depends on creative work, yet many production chores are not creative at all. Time spent placing and replacing images, fixing text errors, and preparing files for output at an image-setting service provider can take time away from the creative side of the job.
 

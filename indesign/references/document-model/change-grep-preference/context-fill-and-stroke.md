@@ -1,6 +1,6 @@
-# InDesign — Change grep preference: fill, stroke and transparency
+# InDesign - Change grep preference: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Change grep preference.
+Open when checking fill, stroke and transparency in InDesign - Change grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

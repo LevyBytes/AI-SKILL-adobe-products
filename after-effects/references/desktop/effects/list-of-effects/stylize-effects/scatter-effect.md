@@ -8,7 +8,7 @@ Original (left), and with effect applied (right)
 
 Grain
 
-Which way the pixels scatter—across or up and down. Pick None and the pixels scatter every which way.
+Which way the pixels scatter: across or up and down. Pick None and the pixels scatter every which way.
 
 Scatter Randomness
 

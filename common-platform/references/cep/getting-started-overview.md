@@ -16,8 +16,6 @@ The [example extension animation](https://raw.githubusercontent.com/Adobe-CEP/Ge
 - [Client-side debugging](client-side-debugging.md)
 - [CEP reference index](reference-index.md)
 
-## Sources and license
+## Source
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://github.com/Adobe-CEP/Getting-Started-guides/blob/master/readme.md) when dealing with defects or issues that may come up from interpreting this skill's references.
-
-Licensed under **AGPL-3.0**; see [LICENSE](../../../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

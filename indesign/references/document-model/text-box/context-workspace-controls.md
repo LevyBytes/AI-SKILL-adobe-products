@@ -1,6 +1,6 @@
-# InDesign — TextBox: workspace, windows and menus
+# InDesign - TextBox: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — TextBox.
+Open when checking workspace, windows and menus in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

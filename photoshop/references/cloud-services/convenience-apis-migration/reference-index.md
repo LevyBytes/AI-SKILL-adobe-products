@@ -1,4 +1,4 @@
-# Photoshop — Convenience APIs migration
+# Photoshop - Convenience APIs migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Key changes in Photoshop. [Key changes](key-changes.md).

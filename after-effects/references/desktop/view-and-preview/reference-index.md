@@ -1,4 +1,4 @@
-# After Effects — View and preview
+# After Effects - View and preview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy frames in After Effects. [Copy frames references](copy-frames/reference-index.md).

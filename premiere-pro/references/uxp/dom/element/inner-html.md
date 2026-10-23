@@ -1,4 +1,4 @@
-# window.Element — innerHTML
+# window.Element - innerHTML
 
 **See**
 

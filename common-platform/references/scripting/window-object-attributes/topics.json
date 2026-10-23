@@ -9,6 +9,6 @@
   {"topic": "minimized", "file": "references/scripting/window-object-attributes/minimized.md", "summary": "Open when looking up minimized in Shared Adobe platform.", "keywords": ["minimized"]},
   {"topic": "opacity", "file": "references/scripting/window-object-attributes/opacity.md", "summary": "Open when looking up opacity in Shared Adobe platform.", "keywords": ["opacity"]},
   {"topic": "shortcutKey", "file": "references/scripting/window-object-attributes/shortcut-key.md", "summary": "Open when looking up shortcutKey in Shared Adobe platform.", "keywords": ["shortcutKey"]},
-  {"topic": "Window object — Window Object Attributes", "file": "references/scripting/window-object-attributes/window-object-window-object-attributes.md", "summary": "Open when looking up Window object — Window Object Attributes in Shared Adobe platform.", "keywords": ["Window object — Window Object Attributes"]},
+  {"topic": "Window object - Window Object Attributes", "file": "references/scripting/window-object-attributes/window-object-window-object-attributes.md", "summary": "Open when looking up Window object - Window Object Attributes in Shared Adobe platform.", "keywords": ["Window object - Window Object Attributes"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

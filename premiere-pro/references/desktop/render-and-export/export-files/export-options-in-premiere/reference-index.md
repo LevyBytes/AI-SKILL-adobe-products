@@ -1,4 +1,4 @@
-# Premiere Pro — Export options in Premiere
+# Premiere Pro - Export options in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export files for further editing in Premiere Pro. [Export files for further editing](export-files-for-further-editing.md).

@@ -1,4 +1,4 @@
-# Acrobat — Work with Webforms
+# Acrobat - Work with Webforms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create web forms in Acrobat. [Create web forms](create-web-forms.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — RealEditboxes
+# Shared Adobe platform - RealEditboxes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RealEditboxes collection iteration in Shared Adobe platform. [RealEditboxes collection iteration](collection-iteration.md).

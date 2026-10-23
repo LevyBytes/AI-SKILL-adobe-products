@@ -1,4 +1,4 @@
-# Shared Adobe platform — Animate
+# Shared Adobe platform - Animate
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up _Math in Shared Adobe platform. [_Math](math.md).

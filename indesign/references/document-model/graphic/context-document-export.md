@@ -1,6 +1,6 @@
-# InDesign — Graphic: export documents and select formats
+# InDesign - Graphic: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — Graphic.
+Open when checking export documents and select formats in InDesign - Graphic.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

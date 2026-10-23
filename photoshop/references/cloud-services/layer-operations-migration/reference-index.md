@@ -1,4 +1,4 @@
-# Photoshop — Layer Operations Migration
+# Photoshop - Layer Operations Migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjustment Layer Operations in Photoshop. [Adjustment Layer Operations](adjustment-layer-operations.md).

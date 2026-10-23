@@ -1,4 +1,4 @@
-# Code profiling for optimization — Viewing Profiling Info
+# Code profiling for optimization - Viewing Profiling Info
 
 When execution stops, whether because the program terminates, reaches a breakpoint, or hits a runtime error, the Toolkit shows profiling information line by line in the Document Window. The data uses color coding:
 

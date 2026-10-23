@@ -1,4 +1,4 @@
-# InDesign — Interactive elements and forms
+# InDesign - Interactive elements and forms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Buttons in InDesign. [Buttons](buttons.md).

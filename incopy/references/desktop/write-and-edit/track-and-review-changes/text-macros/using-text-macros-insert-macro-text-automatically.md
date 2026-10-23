@@ -1,4 +1,4 @@
-# Using text macros — Insert macro text automatically
+# Using text macros - Insert macro text automatically
 
 When Automatically Swap Macro Text is selected, typed macro codes turn into macro text automatically. For example, after creating a macro code named "cdc," type cdc followed by a word-ending character such as a space or period, and Center for Disease Control and Prevention appears. Macro codes remain case-sensitive.
 

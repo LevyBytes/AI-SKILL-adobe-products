@@ -1,4 +1,4 @@
-# Printing stories — Print the Galley or Story view
+# Printing stories - Print the Galley or Story view
 
 Printing the Galley or Story view from InCopy produces unformatted text in one continuous column, or in multiple columns, without layout features or formatting. A Galley or Story printout gives you a hard copy similar to traditional publishing galleys. This format helps you focus on story text and review edits made by you and other contributors.
 

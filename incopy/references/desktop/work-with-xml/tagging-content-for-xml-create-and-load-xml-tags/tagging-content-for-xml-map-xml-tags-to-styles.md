@@ -1,4 +1,4 @@
-# Tagging content for XML — Map XML tags to styles
+# Tagging content for XML - Map XML tags to styles
 
 XML tags describe data only; they do not carry formatting instructions. After XML content is imported and placed, it still needs formatting. A common approach is linking XML tags with paragraph, character, table, or cell styles. For example, Byline can be mapped to the Author character style, so imported and placed XML content tagged Byline receives the Author character style automatically. Mapping tags to styles reduces the manual work needed to format imported XML content.
 

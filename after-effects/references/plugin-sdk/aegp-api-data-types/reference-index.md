@@ -1,4 +1,4 @@
-# After Effects — Aegp api data types
+# After Effects - Aegp api data types
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_Collection2H in After Effects. [AEGP_Collection2H](aegp-collection2-h.md).
@@ -25,4 +25,4 @@
 - Open when looking up AEGP_TextDocumentH in After Effects. [AEGP_TextDocumentH](aegp-text-document-h.md).
 - Open when looking up AEGP_TextOutlinesH in After Effects. [AEGP_TextOutlinesH](aegp-text-outlines-h.md).
 - Open when looking up AEGP_WorldH in After Effects. [AEGP_WorldH](aegp-world-h.md).
-- Open when looking up Data Types — AEGP API Data Types in After Effects. [Data Types — AEGP API Data Types](data-types-aegp-api-data-types.md).
+- Open when looking up Data Types - AEGP API Data Types in After Effects. [Data Types - AEGP API Data Types](data-types-aegp-api-data-types.md).

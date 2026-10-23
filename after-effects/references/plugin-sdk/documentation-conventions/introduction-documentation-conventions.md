@@ -1,4 +1,4 @@
-# Introduction — Documentation Conventions
+# Introduction - Documentation Conventions
 
 General C/C++ code, along with function and structure names, appears set in Courier; MyStruct and MyFunction();
 

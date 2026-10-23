@@ -1,4 +1,4 @@
-# After Effects — Working with Variable Font Axes
+# After Effects - Working with Variable Font Axes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding Variable Font Axes in After Effects. [Adding Variable Font Axes](adding-variable-font-axes.md).

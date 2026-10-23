@@ -1,6 +1,6 @@
-# Shared Adobe platform — AudioChannelLayout: create and inspect a channel layout
+# Shared Adobe platform - AudioChannelLayout: create and inspect a channel layout
 
-Open when working with create and inspect a channel layout in Shared Adobe platform — AudioChannelLayout.
+Open when working with create and inspect a channel layout in Shared Adobe platform - AudioChannelLayout.
 
 Open when selecting an exact reference: [Topic catalog](context-layout-contract.json).
 

@@ -1,4 +1,4 @@
-# Illustrator — GraphItems
+# Illustrator - GraphItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GraphItems.getByName() in Illustrator. [GraphItems.getByName()](get-by-name.md).

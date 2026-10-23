@@ -1,4 +1,4 @@
-# Shared Adobe platform — Ink
+# Shared Adobe platform - Ink
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ink declaration in Shared Adobe platform. [Ink declaration](declaration.md).

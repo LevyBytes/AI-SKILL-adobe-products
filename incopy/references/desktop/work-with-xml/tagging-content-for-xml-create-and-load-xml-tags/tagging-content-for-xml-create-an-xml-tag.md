@@ -1,4 +1,4 @@
-# Tagging content for XML — Create an XML tag
+# Tagging content for XML - Create an XML tag
 
 Open the Tags panel by choosing Window > Utilities > Tags. Then pick one of these actions:
 

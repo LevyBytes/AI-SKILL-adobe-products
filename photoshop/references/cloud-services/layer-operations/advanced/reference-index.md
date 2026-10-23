@@ -1,4 +1,4 @@
-# Photoshop — Advanced
+# Photoshop - Advanced
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced layer migration: V1 payload in Photoshop. [Advanced layer migration: V1 payload](advanced-layer-migration.md).

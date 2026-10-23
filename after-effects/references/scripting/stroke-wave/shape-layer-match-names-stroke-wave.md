@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Stroke Wave
+# Shape Layer Match Names - Stroke Wave
 
 | Match Name | Display Name (EN) |
 | --- | --- |

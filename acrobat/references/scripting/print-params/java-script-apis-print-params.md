@@ -1,4 +1,4 @@
-# JavaScript APIs — PrintParams
+# JavaScript APIs - PrintParams
 
 Here is an all-purpose object governing the print settings that apply to any document sent to print through JavaScript. Altering it leaves the user preferences untouched and makes no lasting modification to the document.
 

@@ -1,4 +1,4 @@
-# Working with managed files — Check in content
+# Working with managed files - Check in content
 
 Checking in a managed content file saves it to a shared file-system location, making it available for other users to check out for editing or other changes. When a text or graphics frame is exported from InDesign, that content is also checked in automatically.
 

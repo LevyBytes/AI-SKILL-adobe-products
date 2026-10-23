@@ -1,4 +1,4 @@
-# Acrobat — Organize documents
+# Acrobat - Organize documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Combine files in Acrobat. [Combine files](combine-files.md).

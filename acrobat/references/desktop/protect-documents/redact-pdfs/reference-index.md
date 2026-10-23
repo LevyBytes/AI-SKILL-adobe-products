@@ -1,4 +1,4 @@
-# Acrobat — Redact PDFs
+# Acrobat - Redact PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About redacting and sanitizing PDFs in Acrobat Pro in Acrobat. [About redacting and sanitizing PDFs in Acrobat Pro](about-redacting-and-sanitizing-pdfs-in-acrobat-pro.md).

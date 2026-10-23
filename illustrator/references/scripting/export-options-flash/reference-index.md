@@ -1,4 +1,4 @@
-# Illustrator — ExportOptionsFlash
+# Illustrator - ExportOptionsFlash
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ExportOptionsFlash.artboardRange in Illustrator. [ExportOptionsFlash.artboardRange](artboard-range.md).

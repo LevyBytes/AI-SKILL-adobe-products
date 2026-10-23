@@ -1,8 +1,8 @@
-# Keying effects — Apply the Linear Color Key effect
+# Keying effects - Apply the Linear Color Key effect
 
 Within the Effect Controls panel, the Linear Color Key effect puts up two thumbnail images: the one on the left stands for the untouched source image, and the one on the right reflects whatever view you've chosen from the View menu.
 
-Three things are yours to tune—the key color, the matching tolerance, and the matching softness. Matching tolerance fixes how near a pixel has to come to the key color before it begins turning transparent, while matching softness governs how soft the edges run between the image and the key color.
+Three things are yours to tune: the key color, the matching tolerance, and the matching softness. Matching tolerance fixes how near a pixel has to come to the key color before it begins turning transparent, while matching softness governs how soft the edges run between the image and the key color.
 
 There's also room to reapply this key so as to rescue a color the first pass turned transparent. Suppose you key out a medium-blue screen and lose some or all of a light-blue garment your subject has on: bring that light-blue back by laying down a second instance of the Linear Color Key and picking Keep Colors from the Key Operation menu.
 

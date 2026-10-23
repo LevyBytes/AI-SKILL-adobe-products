@@ -1,4 +1,4 @@
-# Data Types — AEGP API Data Types
+# Data Types - AEGP API Data Types
 
 Type
 

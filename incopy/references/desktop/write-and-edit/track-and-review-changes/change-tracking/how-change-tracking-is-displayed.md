@@ -1,4 +1,4 @@
-# Tracking and reviewing changes — How change tracking is displayed
+# Tracking and reviewing changes - How change tracking is displayed
 
 After Track Changes is enabled, edits use these default indicators in Story Editor (InDesign) and in Galley and Story views (InCopy):
 

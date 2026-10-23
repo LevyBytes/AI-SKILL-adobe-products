@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreset: printer marks, bleed and slug
+# InDesign - PDFExportPreset: printer marks, bleed and slug
 
-Open when checking printer marks, bleed and slug in InDesign — PDFExportPreset.
+Open when checking printer marks, bleed and slug in InDesign - PDFExportPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-marks-bleed.json).
 

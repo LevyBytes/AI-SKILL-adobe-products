@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: arabic, hebrew and related writing systems
+# Shared Adobe platform - CTScript: arabic, hebrew and related writing systems
 
-Open when working with arabic, hebrew and related writing systems in Shared Adobe platform — CTScript.
+Open when working with arabic, hebrew and related writing systems in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-arabic-related.json).
 

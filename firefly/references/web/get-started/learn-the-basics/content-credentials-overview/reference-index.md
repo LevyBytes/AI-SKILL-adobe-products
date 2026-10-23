@@ -1,4 +1,4 @@
-# Firefly — Content Credentials overview
+# Firefly - Content Credentials overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Content Credentials in Adobe Firefly in Firefly. [Content Credentials in Adobe Firefly](content-credentials-in-adobe-firefly.md).

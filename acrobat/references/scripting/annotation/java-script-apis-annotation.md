@@ -1,4 +1,4 @@
-# JavaScript APIs — Annotation
+# JavaScript APIs - Annotation
 
 An Acrobat annotation is what this object models. You can produce one either with Acrobat's annotation tool or programmatically through the Doc object's addAnnot method.
 

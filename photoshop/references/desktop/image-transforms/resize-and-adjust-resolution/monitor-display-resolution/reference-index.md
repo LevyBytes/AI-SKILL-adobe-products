@@ -1,4 +1,4 @@
-# Photoshop — Monitor resolution and image display size
+# Photoshop - Monitor resolution and image display size
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Factors that determine image size on screen in Photoshop. [Factors that determine image size on screen](factors-that-determine-image-size-on-screen.md).

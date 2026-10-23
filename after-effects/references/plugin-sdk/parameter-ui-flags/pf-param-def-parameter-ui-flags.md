@@ -1,4 +1,4 @@
-# `PF_ParamDef` — Parameter UI Flags
+# `PF_ParamDef` - Parameter UI Flags
 
 Steer a parameter's user interface using these flags.
 

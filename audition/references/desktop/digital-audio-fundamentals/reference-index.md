@@ -1,4 +1,4 @@
-# Audition — Digital audio fundamentals
+# Audition - Digital audio fundamentals
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Digitizing audio in Audition. [Digitizing audio](digitizing-audio.md).

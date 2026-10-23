@@ -1,4 +1,4 @@
-# After Effects — Working with footage items
+# After Effects - Working with footage items
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy items in After Effects. [Copy items](copy-items.md).

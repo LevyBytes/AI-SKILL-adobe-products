@@ -6,9 +6,6 @@ For guidance on calling these APIs, consult the [API usage guide](api-usage.md).
 
 ## Apply Electronic Seal with customized appearance on PDF
 
-Complete example files:
+Example setup and source:
 
-- [Program.cs](examples/dotnet/electronic-seal-with-appearance-options/Program.cs)
-- [imports.cs](examples/dotnet/electronic-seal-with-appearance-options/imports.cs)
-- [configure-logging.cs](examples/dotnet/electronic-seal-with-appearance-options/configure-logging.cs)
-- [create-output-file-path.cs](examples/dotnet/electronic-seal-with-appearance-options/create-output-file-path.cs)
+- [electronic-seal-with-appearance-options setup and source](examples/dotnet/electronic-seal-with-appearance-options/electronic-seal-with-appearance-options-setup.md)

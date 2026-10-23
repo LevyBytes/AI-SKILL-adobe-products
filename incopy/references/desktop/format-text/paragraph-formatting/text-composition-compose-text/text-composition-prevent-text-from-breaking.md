@@ -1,4 +1,4 @@
-# Text composition — Prevent text from breaking
+# Text composition - Prevent text from breaking
 
 Select the text that must stay on one line. From the Character panel menu or the Control panel menu, choose No Break.
 

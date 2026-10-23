@@ -1,4 +1,4 @@
-# InDesign — Known issues
+# InDesign - Known issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CSS in InDesign. [CSS](css.md).

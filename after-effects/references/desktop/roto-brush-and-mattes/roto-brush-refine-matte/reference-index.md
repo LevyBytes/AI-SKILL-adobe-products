@@ -1,4 +1,4 @@
-# After Effects — Roto Brush Refine Matte
+# After Effects - Roto Brush Refine Matte
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjusting and Refining the final matte in After Effects. [Adjusting and Refining the final matte](adjusting-and-refining-the-final-matte.md).

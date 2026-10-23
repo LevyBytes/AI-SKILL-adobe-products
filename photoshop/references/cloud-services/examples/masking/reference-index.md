@@ -1,4 +1,4 @@
-# Photoshop — Masking
+# Photoshop - Masking
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up fill-masked-areas.cjs in Photoshop. [fill-masked-areas.cjs](fill-masked-areas.cjs).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — ProjectItem
+# Shared Adobe platform - ProjectItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ProjectItem declaration in Shared Adobe platform. [ProjectItem declaration](declaration.md).

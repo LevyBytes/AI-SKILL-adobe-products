@@ -1,4 +1,4 @@
-# Firefly — Firefly Creative Production for Enterprise overview
+# Firefly - Firefly Creative Production for Enterprise overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How does pricing work? in Firefly. [How does pricing work?](how-does-pricing-work.md).

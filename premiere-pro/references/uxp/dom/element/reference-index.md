@@ -1,38 +1,38 @@
-# Premiere Pro — Element
+# Premiere Pro - Element
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up window.Element — append(...nodes) in Premiere Pro. [window.Element — append(...nodes)](append.md).
-- Open when looking up window.Element — assignedSlot : HTMLSlotElement in Premiere Pro. [window.Element — assignedSlot : HTMLSlotElement](assigned-slot.md).
-- Open when looking up window.Element — attachShadow(init) in Premiere Pro. [window.Element — attachShadow(init)](attach-shadow.md).
-- Open when looking up window.Element — autofocus : boolean in Premiere Pro. [window.Element — autofocus : boolean](autofocus.md).
-- Open when looking up window.Element — closest(selectorString) in Premiere Pro. [window.Element — closest(selectorString)](closest.md).
-- Open when looking up window.Element — getAttribute(name) in Premiere Pro. [window.Element — getAttribute(name)](get-attribute.md).
-- Open when looking up window.Element — getAttributeNames() in Premiere Pro. [window.Element — getAttributeNames()](get-attribute-names.md).
-- Open when looking up window.Element — getAttributeNode(name) in Premiere Pro. [window.Element — getAttributeNode(name)](get-attribute-node.md).
-- Open when looking up window.Element — getElementsByClassName(name) in Premiere Pro. [window.Element — getElementsByClassName(name)](get-elements-by-class-name.md).
-- Open when looking up window.Element — hasAttribute(name) in Premiere Pro. [window.Element — hasAttribute(name)](has-attribute.md).
-- Open when looking up window.Element — hasAttributes() in Premiere Pro. [window.Element — hasAttributes()](has-attributes.md).
-- Open when looking up window.Element — hasPointerCapture(pointerId) in Premiere Pro. [window.Element — hasPointerCapture(pointerId)](has-pointer-capture.md).
-- Open when looking up window.Element — id : string in Premiere Pro. [window.Element — id : string](id.md).
-- Open when looking up window.Element — innerHTML in Premiere Pro. [window.Element — innerHTML](inner-html.md).
-- Open when looking up window.Element — insertAdjacentElement(position, node) in Premiere Pro. [window.Element — insertAdjacentElement(position, node)](insert-adjacent-element.md).
-- Open when looking up window.Element — insertAdjacentHTML(position, value) in Premiere Pro. [window.Element — insertAdjacentHTML(position, value)](insert-adjacent-html.md).
-- Open when looking up window.Element — insertAdjacentText(position, text) in Premiere Pro. [window.Element — insertAdjacentText(position, text)](insert-adjacent-text.md).
-- Open when looking up window.Element — localName : string in Premiere Pro. [window.Element — localName : string](local-name.md).
-- Open when looking up window.Element — matches(selectorString) in Premiere Pro. [window.Element — matches(selectorString)](matches.md).
-- Open when looking up window.Element — namespaceURI : string in Premiere Pro. [window.Element — namespaceURI : string](namespace-uri.md).
-- Open when looking up window.Element — prepend(...nodes) in Premiere Pro. [window.Element — prepend(...nodes)](prepend.md).
-- Open when looking up window.Element — querySelector(selector) in Premiere Pro. [window.Element — querySelector(selector)](query-selector.md).
-- Open when looking up window.Element — querySelectorAll(selector) in Premiere Pro. [window.Element — querySelectorAll(selector)](query-selector-all.md).
-- Open when looking up window.Element — releasePointerCapture(pointerId) in Premiere Pro. [window.Element — releasePointerCapture(pointerId)](release-pointer-capture.md).
-- Open when looking up window.Element — removeAttribute(name) in Premiere Pro. [window.Element — removeAttribute(name)](remove-attribute.md).
-- Open when looking up window.Element — removeAttributeNode(oldAttr) in Premiere Pro. [window.Element — removeAttributeNode(oldAttr)](remove-attribute-node.md).
-- Open when looking up window.Element — replaceChildren(...nodes) in Premiere Pro. [window.Element — replaceChildren(...nodes)](replace-children.md).
-- Open when looking up window.Element — scrollIntoView(alignToTop) in Premiere Pro. [window.Element — scrollIntoView(alignToTop)](scroll-into-view.md).
-- Open when looking up window.Element — scrollTo(xOrOptions, y) in Premiere Pro. [window.Element — scrollTo(xOrOptions, y)](scroll-to.md).
-- Open when looking up window.Element — setAttribute(name, value) in Premiere Pro. [window.Element — setAttribute(name, value)](set-attribute.md).
-- Open when looking up window.Element — setAttributeNode(newAttr) in Premiere Pro. [window.Element — setAttributeNode(newAttr)](set-attribute-node.md).
-- Open when looking up window.Element — setPointerCapture(pointerId) in Premiere Pro. [window.Element — setPointerCapture(pointerId)](set-pointer-capture.md).
-- Open when looking up window.Element — shadowRoot : ShadowRoot in Premiere Pro. [window.Element — shadowRoot : ShadowRoot](shadow-root.md).
-- Open when looking up window.Element — slot : string in Premiere Pro. [window.Element — slot : string](slot.md).
-- Open when looking up window.Element — tagName : string in Premiere Pro. [window.Element — tagName : string](tag-name.md).
+- Open when looking up window.Element - append(...nodes) in Premiere Pro. [window.Element - append(...nodes)](append.md).
+- Open when looking up window.Element - assignedSlot : HTMLSlotElement in Premiere Pro. [window.Element - assignedSlot : HTMLSlotElement](assigned-slot.md).
+- Open when looking up window.Element - attachShadow(init) in Premiere Pro. [window.Element - attachShadow(init)](attach-shadow.md).
+- Open when looking up window.Element - autofocus : boolean in Premiere Pro. [window.Element - autofocus : boolean](autofocus.md).
+- Open when looking up window.Element - closest(selectorString) in Premiere Pro. [window.Element - closest(selectorString)](closest.md).
+- Open when looking up window.Element - getAttribute(name) in Premiere Pro. [window.Element - getAttribute(name)](get-attribute.md).
+- Open when looking up window.Element - getAttributeNames() in Premiere Pro. [window.Element - getAttributeNames()](get-attribute-names.md).
+- Open when looking up window.Element - getAttributeNode(name) in Premiere Pro. [window.Element - getAttributeNode(name)](get-attribute-node.md).
+- Open when looking up window.Element - getElementsByClassName(name) in Premiere Pro. [window.Element - getElementsByClassName(name)](get-elements-by-class-name.md).
+- Open when looking up window.Element - hasAttribute(name) in Premiere Pro. [window.Element - hasAttribute(name)](has-attribute.md).
+- Open when looking up window.Element - hasAttributes() in Premiere Pro. [window.Element - hasAttributes()](has-attributes.md).
+- Open when looking up window.Element - hasPointerCapture(pointerId) in Premiere Pro. [window.Element - hasPointerCapture(pointerId)](has-pointer-capture.md).
+- Open when looking up window.Element - id : string in Premiere Pro. [window.Element - id : string](id.md).
+- Open when looking up window.Element - innerHTML in Premiere Pro. [window.Element - innerHTML](inner-html.md).
+- Open when looking up window.Element - insertAdjacentElement(position, node) in Premiere Pro. [window.Element - insertAdjacentElement(position, node)](insert-adjacent-element.md).
+- Open when looking up window.Element - insertAdjacentHTML(position, value) in Premiere Pro. [window.Element - insertAdjacentHTML(position, value)](insert-adjacent-html.md).
+- Open when looking up window.Element - insertAdjacentText(position, text) in Premiere Pro. [window.Element - insertAdjacentText(position, text)](insert-adjacent-text.md).
+- Open when looking up window.Element - localName : string in Premiere Pro. [window.Element - localName : string](local-name.md).
+- Open when looking up window.Element - matches(selectorString) in Premiere Pro. [window.Element - matches(selectorString)](matches.md).
+- Open when looking up window.Element - namespaceURI : string in Premiere Pro. [window.Element - namespaceURI : string](namespace-uri.md).
+- Open when looking up window.Element - prepend(...nodes) in Premiere Pro. [window.Element - prepend(...nodes)](prepend.md).
+- Open when looking up window.Element - querySelector(selector) in Premiere Pro. [window.Element - querySelector(selector)](query-selector.md).
+- Open when looking up window.Element - querySelectorAll(selector) in Premiere Pro. [window.Element - querySelectorAll(selector)](query-selector-all.md).
+- Open when looking up window.Element - releasePointerCapture(pointerId) in Premiere Pro. [window.Element - releasePointerCapture(pointerId)](release-pointer-capture.md).
+- Open when looking up window.Element - removeAttribute(name) in Premiere Pro. [window.Element - removeAttribute(name)](remove-attribute.md).
+- Open when looking up window.Element - removeAttributeNode(oldAttr) in Premiere Pro. [window.Element - removeAttributeNode(oldAttr)](remove-attribute-node.md).
+- Open when looking up window.Element - replaceChildren(...nodes) in Premiere Pro. [window.Element - replaceChildren(...nodes)](replace-children.md).
+- Open when looking up window.Element - scrollIntoView(alignToTop) in Premiere Pro. [window.Element - scrollIntoView(alignToTop)](scroll-into-view.md).
+- Open when looking up window.Element - scrollTo(xOrOptions, y) in Premiere Pro. [window.Element - scrollTo(xOrOptions, y)](scroll-to.md).
+- Open when looking up window.Element - setAttribute(name, value) in Premiere Pro. [window.Element - setAttribute(name, value)](set-attribute.md).
+- Open when looking up window.Element - setAttributeNode(newAttr) in Premiere Pro. [window.Element - setAttributeNode(newAttr)](set-attribute-node.md).
+- Open when looking up window.Element - setPointerCapture(pointerId) in Premiere Pro. [window.Element - setPointerCapture(pointerId)](set-pointer-capture.md).
+- Open when looking up window.Element - shadowRoot : ShadowRoot in Premiere Pro. [window.Element - shadowRoot : ShadowRoot](shadow-root.md).
+- Open when looking up window.Element - slot : string in Premiere Pro. [window.Element - slot : string](slot.md).
+- Open when looking up window.Element - tagName : string in Premiere Pro. [window.Element - tagName : string](tag-name.md).

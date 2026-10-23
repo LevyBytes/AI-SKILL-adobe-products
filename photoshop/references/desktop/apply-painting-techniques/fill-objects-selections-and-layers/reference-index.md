@@ -1,4 +1,4 @@
-# Photoshop — Fill objects, selections, and layers
+# Photoshop - Fill objects, selections, and layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new layer when brushing in Photoshop. [Create a new layer when brushing](create-a-new-layer-when-brushing.md).

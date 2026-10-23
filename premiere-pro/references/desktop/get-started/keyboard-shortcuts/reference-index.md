@@ -1,4 +1,4 @@
-# Premiere Pro — Keyboard shortcuts
+# Premiere Pro - Keyboard shortcuts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About keyboard shortcuts in Premiere Pro. [About keyboard shortcuts](about-keyboard-shortcuts.md).

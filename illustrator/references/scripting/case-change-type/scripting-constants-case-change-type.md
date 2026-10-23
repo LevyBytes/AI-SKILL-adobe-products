@@ -1,4 +1,4 @@
-# Scripting Constants — CaseChangeType
+# Scripting Constants - CaseChangeType
 
 CaseChangeType selects a capitalization conversion.
 

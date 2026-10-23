@@ -1,4 +1,4 @@
-# Color — Description
+# Color - Description
 
 Color is the abstract base class for Illustrator color classes.
 

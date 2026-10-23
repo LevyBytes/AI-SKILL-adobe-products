@@ -1,5 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [autotag-pdf-parametrised.py](../examples/python/autotag-pdf-parametrised/autotag-pdf-parametrised.py)
-- [dependencies.py](../examples/python/autotag-pdf-parametrised/dependencies.py)
+- [autotag-pdf-parametrised setup and source](../examples/python/autotag-pdf-parametrised/autotag-pdf-parametrised-setup.md)

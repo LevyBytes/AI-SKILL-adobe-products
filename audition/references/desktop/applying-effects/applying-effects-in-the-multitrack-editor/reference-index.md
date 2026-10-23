@@ -1,4 +1,4 @@
-# Audition — Applying effects in the Multitrack Editor
+# Audition - Applying effects in the Multitrack Editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Insert effects before or after sends and EQ in Audition. [Insert effects before or after sends and EQ](insert-effects-before-or-after-sends-and-eq.md).

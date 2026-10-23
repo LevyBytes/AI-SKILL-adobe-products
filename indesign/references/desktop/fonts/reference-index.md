@@ -1,4 +1,4 @@
-# InDesign — Fonts
+# InDesign - Fonts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply and format fonts in your document in InDesign. [Apply and format fonts in your document](apply-and-format-fonts-in-your-document.md).

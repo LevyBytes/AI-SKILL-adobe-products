@@ -1,4 +1,4 @@
-# window.Element — querySelector(selector)
+# window.Element - querySelector(selector)
 
 **Returns**: `Element`
 

@@ -1,4 +1,4 @@
-# Leading — Apply leading to whole paragraphs
+# Leading - Apply leading to whole paragraphs
 
 Open Edit > Preferences > Type (Windows) or InCopy > Preferences > Type (Mac OS). Enable Apply Leading To Entire Paragraph, then click OK.
 

@@ -1,4 +1,4 @@
-# Photoshop — Composite API (/v2/create-composite) — key breaking changes reference
+# Photoshop - Composite API (/v2/create-composite) - key breaking changes reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjustment layer critical changes in Photoshop. [Adjustment layer critical changes](adjustment-layer-critical-changes.md).

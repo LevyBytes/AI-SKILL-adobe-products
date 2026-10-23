@@ -1,4 +1,4 @@
-# InDesign — PdfDisplayTitleOptions
+# InDesign - PdfDisplayTitleOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DISPLAY_DOCUMENT_TITLE in InDesign. [DISPLAY_DOCUMENT_TITLE](displaydocumenttitle.md).

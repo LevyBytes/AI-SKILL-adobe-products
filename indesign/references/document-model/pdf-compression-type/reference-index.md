@@ -1,4 +1,4 @@
-# InDesign — PDFCompressionType
+# InDesign - PDFCompressionType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up COMPRESS_NONE in InDesign. [COMPRESS_NONE](compressnone.md).

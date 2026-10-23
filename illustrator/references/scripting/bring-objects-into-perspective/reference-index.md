@@ -1,4 +1,4 @@
-# Illustrator — Bring objects into perspective
+# Illustrator - Bring objects into perspective
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Projecting objects with AppleScript in Illustrator. [Projecting objects with AppleScript](projecting-objects-with-applescript.md).

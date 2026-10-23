@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 6.0 | No | No | All | Monitors object | R |
 
-A Monitors object — an array of one or more Monitor objects, one per display monitor wired to the user’s system. Every read of app.monitors hands back a freshly rebuilt copy of that array.
+A Monitors object: an array of one or more Monitor objects, one per display monitor wired to the user’s system. Every read of app.monitors hands back a freshly rebuilt copy of that array.
 
 The Monitors object also offers several methods for choosing a display monitor; alternatively, your JavaScript can walk the array by hand.
 

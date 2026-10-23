@@ -1,4 +1,4 @@
-# InDesign — Share and collaborate
+# InDesign - Share and collaborate
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add files to projects in InDesign. [Add files to projects](add-files-to-projects.md).

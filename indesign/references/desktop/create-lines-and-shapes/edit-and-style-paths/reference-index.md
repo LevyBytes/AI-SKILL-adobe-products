@@ -1,4 +1,4 @@
-# InDesign — Edit and style paths
+# InDesign - Edit and style paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or delete anchor points in InDesign. [Add or delete anchor points](add-or-delete-anchor-points.md).

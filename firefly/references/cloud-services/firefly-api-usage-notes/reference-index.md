@@ -1,4 +1,4 @@
-# Firefly — Firefly API usage notes
+# Firefly - Firefly API usage notes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Allowed storage domains in Firefly. [Allowed storage domains](allowed-storage-domains.md).

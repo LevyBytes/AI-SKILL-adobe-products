@@ -1,4 +1,4 @@
-# Pdf Embed Api — Gettingstarted
+# Pdf Embed Api - Gettingstarted
 
 > Adobe Acrobat reference. Original prose; identifiers preserved verbatim.
 

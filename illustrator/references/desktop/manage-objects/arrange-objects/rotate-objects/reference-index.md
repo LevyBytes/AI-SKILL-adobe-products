@@ -1,4 +1,4 @@
-# Illustrator — Rotate objects
+# Illustrator - Rotate objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Rotate an object using the bounding box in Illustrator. [Rotate an object using the bounding box](rotate-an-object-using-the-bounding-box.md).

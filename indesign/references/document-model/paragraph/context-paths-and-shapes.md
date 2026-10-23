@@ -1,6 +1,6 @@
-# InDesign — Paragraph: paths and shape operations
+# InDesign - Paragraph: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Paragraph.
+Open when checking paths and shape operations in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

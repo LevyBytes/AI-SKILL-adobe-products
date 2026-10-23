@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: selections and in/out boundaries
+# Shared Adobe platform - Application: selections and in/out boundaries
 
-Open when working with selections and in/out boundaries in Shared Adobe platform — Application.
+Open when working with selections and in/out boundaries in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-edit-selection.json).
 

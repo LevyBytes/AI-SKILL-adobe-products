@@ -1,4 +1,4 @@
-# Shared Adobe platform — Swatches
+# Shared Adobe platform - Swatches
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Swatches collection iteration in Shared Adobe platform. [Swatches collection iteration](collection-iteration.md).

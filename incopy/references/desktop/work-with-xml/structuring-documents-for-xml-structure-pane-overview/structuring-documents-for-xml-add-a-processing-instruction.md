@@ -1,4 +1,4 @@
-# Structuring documents for XML — Add a processing instruction
+# Structuring documents for XML - Add a processing instruction
 
 Select the element for the processing instruction. Note
 

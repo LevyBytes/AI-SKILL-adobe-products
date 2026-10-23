@@ -1,10 +1,10 @@
-# Quickstart for Adobe PDF Services API (Node.js) — Step Three: Creating the application
+# Quickstart for Adobe PDF Services API (Node.js) - Step Three: Creating the application
 
 1. The starting point is pulling in the dependencies the code relies on:
 
-Complete example files:
+Example setup and source:
 
-- [export-brochure-docx.cjs](../examples/node/export-brochure-docx/export-brochure-docx.cjs)
+- [export-brochure-docx setup and source](../examples/node/export-brochure-docx/export-brochure-docx-setup.md)
 
 2. Set the environment variables `PDF_SERVICES_CLIENT_ID` and `PDF_SERVICES_CLIENT_SECRET` by running the following commands and replacing placeholders `YOUR CLIENT ID` and `YOUR CLIENT SECRET` with the credentials present in `pdfservices-api-credentials.json` file:
 

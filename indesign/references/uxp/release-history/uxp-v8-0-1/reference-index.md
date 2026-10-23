@@ -1,4 +1,4 @@
-# InDesign — Uxp v8 0 1
+# InDesign - Uxp v8 0 1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Breaking Changes in InDesign. [Breaking Changes](breaking-changes.md).

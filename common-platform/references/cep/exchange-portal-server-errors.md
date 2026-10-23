@@ -1,4 +1,4 @@
-# FAQs — How can I fix a server error encountered on the Exchange portal?
+# FAQs - How can I fix a server error encountered on the Exchange portal?
 
 _Answer:_ Clear cache and cookies before signing in to the Exchange Developer Portal, including at least the adobe.com cookies. If the problem continues, follow this sequence:
 

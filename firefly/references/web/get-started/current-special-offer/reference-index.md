@@ -1,4 +1,4 @@
-# Firefly — Current special offer
+# Firefly - Current special offer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 

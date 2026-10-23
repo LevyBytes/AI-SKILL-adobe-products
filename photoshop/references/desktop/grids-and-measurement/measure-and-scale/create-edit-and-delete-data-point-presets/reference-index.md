@@ -1,4 +1,4 @@
-# Photoshop — Create, edit, and delete data point presets
+# Photoshop - Create, edit, and delete data point presets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a data point preset in Photoshop. [Create a data point preset](create-a-data-point-preset.md).

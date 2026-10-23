@@ -1,4 +1,4 @@
-# After Effects — Folder item
+# After Effects - Folder item
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FolderItem object in After Effects. [FolderItem object](folder-item-object.md).

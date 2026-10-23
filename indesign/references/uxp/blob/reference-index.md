@@ -1,4 +1,4 @@
-# InDesign — Blob
+# InDesign - Blob
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up arrayBuffer() in InDesign. [arrayBuffer()](array-buffer.md).

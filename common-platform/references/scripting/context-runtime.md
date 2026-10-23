@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: runtime, environment and reflection
+# Shared Adobe platform - Scripting APIs: runtime, environment and reflection
 
-Open when working with runtime, environment and reflection in Shared Adobe platform — Scripting APIs.
+Open when working with runtime, environment and reflection in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-runtime.json).
 

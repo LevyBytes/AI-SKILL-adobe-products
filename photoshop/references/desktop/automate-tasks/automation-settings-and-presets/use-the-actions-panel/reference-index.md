@@ -1,4 +1,4 @@
-# Photoshop — Use the Actions panel
+# Photoshop - Use the Actions panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a group in Photoshop. [Create a group](create-a-group.md).

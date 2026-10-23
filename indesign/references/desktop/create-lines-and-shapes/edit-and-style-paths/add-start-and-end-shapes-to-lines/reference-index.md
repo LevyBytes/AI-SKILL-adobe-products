@@ -1,4 +1,4 @@
-# InDesign — Add start and end shapes to lines
+# InDesign - Add start and end shapes to lines
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add start and end shapes in InDesign. [Add start and end shapes](add-start-and-end-shapes.md).

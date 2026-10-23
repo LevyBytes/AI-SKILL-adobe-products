@@ -1,6 +1,6 @@
-# InDesign — WMF: document metadata and imported review
+# InDesign - WMF: document metadata and imported review
 
-Open when checking document metadata and imported review in InDesign — WMF.
+Open when checking document metadata and imported review in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

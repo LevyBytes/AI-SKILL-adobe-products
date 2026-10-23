@@ -1,4 +1,4 @@
-# Getting Started — Run ready samples
+# Getting Started - Run ready samples
 
 For every feature, the PDF Embed API ships sample files that are ready to run.
 

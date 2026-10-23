@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Static html to pdf example setup", "file": "references/pdf-services/examples/dotnet/static-html-to-pdf/static-html-to-pdf-setup.md", "summary": "Open when looking up Static html to pdf example setup in Acrobat.", "keywords": ["Static html to pdf example setup"]},
-  {"topic": "StaticHTMLToPDF", "file": "references/pdf-services/examples/dotnet/static-html-to-pdf/Program.cs", "summary": "Open when looking up StaticHTMLToPDF in Acrobat.", "keywords": ["StaticHTMLToPDF"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

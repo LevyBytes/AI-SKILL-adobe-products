@@ -1,4 +1,4 @@
-# After Effects — AEGP_CollectionSuite2
+# After Effects - AEGP_CollectionSuite2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CollectionErase in After Effects. [AEGP_CollectionErase](aegp-collection-erase.md).

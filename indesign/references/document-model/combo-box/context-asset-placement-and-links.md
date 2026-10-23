@@ -1,6 +1,6 @@
-# InDesign — Combo box: place and link external assets
+# InDesign - Combo box: place and link external assets
 
-Open when checking place and link external assets in InDesign — Combo box.
+Open when checking place and link external assets in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

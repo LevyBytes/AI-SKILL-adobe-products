@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — BaselineDirectionType", "file": "references/scripting/baseline-direction-type/scripting-constants-baseline-direction-type.md", "summary": "Open when looking up Scripting Constants — BaselineDirectionType in Illustrator.", "keywords": ["Scripting Constants — BaselineDirectionType"]},
+  {"topic": "Scripting Constants - BaselineDirectionType", "file": "references/scripting/baseline-direction-type/scripting-constants-baseline-direction-type.md", "summary": "Open when looking up Scripting Constants - BaselineDirectionType in Illustrator.", "keywords": ["Scripting Constants - BaselineDirectionType"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# Audition — Extracting audio from cds
+# Audition - Extracting audio from cds
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure track information and CD databases in Audition. [Configure track information and CD databases](configure-track-information-and-cd-databases.md).

@@ -1,4 +1,4 @@
-# InDesign — Draw lines and shapes
+# InDesign - Draw lines and shapes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and customize placeholder frames in InDesign. [Create and customize placeholder frames](create-and-customize-placeholder-frames.md).

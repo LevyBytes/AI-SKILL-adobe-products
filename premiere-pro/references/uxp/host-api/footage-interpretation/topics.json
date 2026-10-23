@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "FootageInterpretation — Properties", "file": "references/uxp/host-api/footage-interpretation/footage-interpretation-properties.md", "summary": "Open when looking up FootageInterpretation — Properties in Premiere Pro.", "keywords": ["FootageInterpretation — Properties"]},
+  {"topic": "FootageInterpretation - Properties", "file": "references/uxp/host-api/footage-interpretation/footage-interpretation-properties.md", "summary": "Open when looking up FootageInterpretation - Properties in Premiere Pro.", "keywords": ["FootageInterpretation - Properties"]},
   {"topic": "getAlphaUsage", "file": "references/uxp/host-api/footage-interpretation/get-alpha-usage.md", "summary": "Open when looking up getAlphaUsage in Premiere Pro.", "keywords": ["getAlphaUsage"]},
   {"topic": "getFieldType", "file": "references/uxp/host-api/footage-interpretation/get-field-type.md", "summary": "Open when looking up getFieldType in Premiere Pro.", "keywords": ["getFieldType"]},
   {"topic": "getFrameRate", "file": "references/uxp/host-api/footage-interpretation/get-frame-rate.md", "summary": "Open when looking up getFrameRate in Premiere Pro.", "keywords": ["getFrameRate"]},

@@ -1,4 +1,4 @@
-# window.WebSocket — readyState : `number`
+# window.WebSocket - readyState : `number`
 
 **Read only**
 Represents the WebSocket connection's current state.

@@ -1,6 +1,6 @@
-# InDesign — MediaItem: output color, screening and overprint
+# InDesign - MediaItem: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — MediaItem.
+Open when checking output color, screening and overprint in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

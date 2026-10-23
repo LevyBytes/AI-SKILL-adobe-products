@@ -1,4 +1,4 @@
-# Photoshop — Get started with artboards
+# Photoshop - Get started with artboards
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Artboard customization in Photoshop. [Artboard customization](artboard-customization.md).

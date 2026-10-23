@@ -1,6 +1,6 @@
-# Shared Adobe platform — PrintBookletPrintPreference: print paper, scaling and imposition
+# Shared Adobe platform - PrintBookletPrintPreference: print paper, scaling and imposition
 
-Open when checking print paper, scaling and imposition in Shared Adobe platform — PrintBookletPrintPreference.
+Open when checking print paper, scaling and imposition in Shared Adobe platform - PrintBookletPrintPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-page-layout.json).
 

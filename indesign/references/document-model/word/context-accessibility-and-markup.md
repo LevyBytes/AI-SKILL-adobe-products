@@ -1,6 +1,6 @@
-# InDesign — Word: accessibility, tagging and xml
+# InDesign - Word: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — Word.
+Open when checking accessibility, tagging and xml in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

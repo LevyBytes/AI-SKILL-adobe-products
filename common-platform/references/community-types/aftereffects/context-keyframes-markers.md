@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: keyframes, easing and markers
+# Shared Adobe platform - Aftereffects: keyframes, easing and markers
 
-Open when working with keyframes, easing and markers in Shared Adobe platform — Aftereffects.
+Open when working with keyframes, easing and markers in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-keyframes-markers.json).
 

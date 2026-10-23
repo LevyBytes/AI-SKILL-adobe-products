@@ -1,4 +1,4 @@
-# Acrobat — Explore student spaces
+# Acrobat - Explore student spaces
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Collaborate with your classmates on Student Spaces in Acrobat. [Collaborate with your classmates on Student Spaces](collaborate-with-your-classmates-on-student-spaces.md).

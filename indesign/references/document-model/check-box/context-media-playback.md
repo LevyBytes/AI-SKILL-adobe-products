@@ -1,6 +1,6 @@
-# InDesign — Check box: movie and sound playback
+# InDesign - Check box: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — Check box.
+Open when checking movie and sound playback in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Oval: events and listeners
+# InDesign - Oval: events and listeners
 
-Open when checking events and listeners in InDesign — Oval.
+Open when checking events and listeners in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

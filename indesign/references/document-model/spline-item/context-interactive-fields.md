@@ -1,6 +1,6 @@
-# InDesign — SplineItem: interactive fields and behaviors
+# InDesign - SplineItem: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — SplineItem.
+Open when checking interactive fields and behaviors in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

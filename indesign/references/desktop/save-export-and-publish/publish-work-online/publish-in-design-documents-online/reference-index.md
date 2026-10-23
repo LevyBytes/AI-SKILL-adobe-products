@@ -1,4 +1,4 @@
-# InDesign — Publish InDesign documents online
+# InDesign - Publish InDesign documents online
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced tab settings in InDesign. [Advanced tab settings](advanced-tab-settings.md).

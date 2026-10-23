@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: strokes, corners and arrowheads
+# InDesign - InDesign document object model: strokes, corners and arrowheads
 
-Open when working with strokes, corners and arrowheads in InDesign — InDesign document object model.
+Open when working with strokes, corners and arrowheads in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-strokes.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Find transliterate preference: character spacing and geometry
+# InDesign - Find transliterate preference: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Find transliterate preference.
+Open when checking character spacing and geometry in InDesign - Find transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

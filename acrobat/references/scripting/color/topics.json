@@ -4,6 +4,6 @@
   {"topic": "color properties", "file": "references/scripting/color/color-properties.md", "summary": "Open when looking up color properties in Acrobat.", "keywords": ["color properties"]},
   {"topic": "convert", "file": "references/scripting/color/convert.md", "summary": "Open when looking up convert in Acrobat.", "keywords": ["convert"]},
   {"topic": "equal", "file": "references/scripting/color/equal.md", "summary": "Open when looking up equal in Acrobat.", "keywords": ["equal"]},
-  {"topic": "JavaScript APIs — color", "file": "references/scripting/color/java-script-apis-color.md", "summary": "Open when looking up JavaScript APIs — color in Acrobat.", "keywords": ["JavaScript APIs — color"]},
+  {"topic": "JavaScript APIs - color", "file": "references/scripting/color/java-script-apis-color.md", "summary": "Open when looking up JavaScript APIs - color in Acrobat.", "keywords": ["JavaScript APIs - color"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

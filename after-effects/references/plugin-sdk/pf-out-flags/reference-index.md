@@ -1,7 +1,7 @@
-# After Effects — Pf out flags
+# After Effects - Pf out flags
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up PF_OutData — PF_OutFlags in After Effects. [PF_OutData — PF_OutFlags](pf-out-data-pf-out-flags.md).
+- Open when looking up PF_OutData - PF_OutFlags in After Effects. [PF_OutData - PF_OutFlags](pf-out-data-pf-out-flags.md).
 - Open when looking up PF_OutFlag_AUDIO_EFFECT_ONLY in After Effects. [PF_OutFlag_AUDIO_EFFECT_ONLY](pf-out-flag-audioeffectonly.md).
 - Open when looking up PF_OutFlag_AUDIO_EFFECT_TOO in After Effects. [PF_OutFlag_AUDIO_EFFECT_TOO](pf-out-flag-audioeffecttoo.md).
 - Open when looking up PF_OutFlag_AUDIO_FLOAT_ONLY in After Effects. [PF_OutFlag_AUDIO_FLOAT_ONLY](pf-out-flag-audiofloatonly.md).

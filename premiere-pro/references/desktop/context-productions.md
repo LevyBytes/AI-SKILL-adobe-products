@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: productions and shared storage
+# Premiere Pro - Desktop workflows: productions and shared storage
 
-Open when working with productions and shared storage in Premiere Pro — Desktop workflows.
+Open when working with productions and shared storage in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-productions.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Pf path data suite
+# After Effects - Pf path data suite
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PF_PathCleanupSegLength in After Effects. [PF_PathCleanupSegLength](pf-path-cleanup-seg-length.md).
@@ -12,4 +12,4 @@
 - Open when looking up PF_PathNumSegments in After Effects. [PF_PathNumSegments](pf-path-num-segments.md).
 - Open when looking up PF_PathPrepareSegLength in After Effects. [PF_PathPrepareSegLength](pf-path-prepare-seg-length.md).
 - Open when looking up PF_PathVertexInfo in After Effects. [PF_PathVertexInfo](pf-path-vertex-info.md).
-- Open when looking up Working With Paths — PF_PathDataSuite in After Effects. [Working With Paths — PF_PathDataSuite](working-with-paths-pf-path-data-suite.md).
+- Open when looking up Working With Paths - PF_PathDataSuite in After Effects. [Working With Paths - PF_PathDataSuite](working-with-paths-pf-path-data-suite.md).

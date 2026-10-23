@@ -1,4 +1,4 @@
-# After Effects — 3D depth data extraction
+# After Effects - 3D depth data extraction
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply 3D Channel effects that can reference depth data directly in After Effects. [Apply 3D Channel effects that can reference depth data directly](depth-aware-3d-channel-effects.md).

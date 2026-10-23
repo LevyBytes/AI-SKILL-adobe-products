@@ -1,4 +1,4 @@
-# Introduction — PDF Services API to automate for your document workflows
+# Introduction - PDF Services API to automate for your document workflows
 
 A range of operations comes with the [PDF Services API](../reference-index.md), letting you manipulate documents programmatically and automate a wide variety of document workflows. Generating a PDF from a dynamic HTML report is simple, as is locking a document with a password against unauthorized opening, shrinking it so it travels well as an attachment, or pulling out text, tables, images and document structure to feed downstream solutions.
 

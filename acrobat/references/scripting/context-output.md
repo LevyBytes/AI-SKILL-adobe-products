@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: printing, color conversion and preflight
+# Acrobat - Scripting APIs: printing, color conversion and preflight
 
-Open when working with printing, color conversion and preflight in Acrobat — Scripting APIs.
+Open when working with printing, color conversion and preflight in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-output.json).
 

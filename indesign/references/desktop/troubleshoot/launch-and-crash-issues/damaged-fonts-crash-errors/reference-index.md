@@ -1,4 +1,4 @@
-# InDesign — Damaged fonts crash errors
+# InDesign - Damaged fonts crash errors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupt fonts in InDesign. [Corrupt fonts](corrupt-fonts.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: xmp metadata types
+# Shared Adobe platform - Shared: xmp metadata types
 
-Open when working with xmp metadata types in Shared Adobe platform — Shared.
+Open when working with xmp metadata types in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-xmp.json).
 

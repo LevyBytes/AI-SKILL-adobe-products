@@ -1,4 +1,4 @@
-# InDesign — PathTypeAlignments
+# InDesign - PathTypeAlignments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOTTOM_PATH_ALIGNMENT in InDesign. [BOTTOM_PATH_ALIGNMENT](bottompathalignment.md).

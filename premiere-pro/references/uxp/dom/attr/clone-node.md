@@ -1,4 +1,4 @@
-# window.Attr — cloneNode(deep)
+# window.Attr - cloneNode(deep)
 
 **Returns**: `Node`
 

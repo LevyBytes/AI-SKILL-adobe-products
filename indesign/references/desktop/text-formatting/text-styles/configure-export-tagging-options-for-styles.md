@@ -1,4 +1,4 @@
-# Map styles to export tags — Configure export tagging options for styles
+# Map styles to export tags - Configure export tagging options for styles
 
 In Adobe InDesign, specify how text styles are tagged when exporting HTML, EPUB, and tagged PDF output.
 

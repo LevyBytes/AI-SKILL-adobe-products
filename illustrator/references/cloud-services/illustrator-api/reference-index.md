@@ -1,4 +1,4 @@
-# Illustrator — Illustrator API
+# Illustrator - Illustrator API
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Custom Scripts (beta) in Illustrator. [Custom Scripts (beta)](custom-scripts-beta.md).

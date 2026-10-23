@@ -1,4 +1,4 @@
-# Acrobat — Pdf Settings Overview
+# Acrobat - Pdf Settings Overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced panel options in Acrobat. [Advanced panel options](advanced-panel-options.md).

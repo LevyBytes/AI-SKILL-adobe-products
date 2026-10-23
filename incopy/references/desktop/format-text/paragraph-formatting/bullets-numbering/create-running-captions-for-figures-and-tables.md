@@ -1,4 +1,4 @@
-# Bullets and numbering — Create running captions for figures and tables
+# Bullets and numbering - Create running captions for figures and tables
 
 Running captions apply consecutive numbering to figures, tables, and similar items in a document. For example, one caption can begin with “Figure 1,” followed by another that begins with “Figure 2,” and so on. To keep figures, tables, or comparable items in sequence, define a list for that item type, then create a paragraph style that includes the list definition. Descriptive words such as “Figure” or “Table” can also be added to the paragraph style’s numbering scheme.
 

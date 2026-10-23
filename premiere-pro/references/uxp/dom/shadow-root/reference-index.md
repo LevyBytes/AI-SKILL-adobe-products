@@ -1,4 +1,4 @@
-# Premiere Pro — Shadow root
+# Premiere Pro - Shadow root
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up activeElement : Element in Premiere Pro. [activeElement : Element](active-element-element.md).

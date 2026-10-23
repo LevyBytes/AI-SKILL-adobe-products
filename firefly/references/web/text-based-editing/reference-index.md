@@ -1,4 +1,4 @@
-# Firefly — Text based editing
+# Firefly - Text based editing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Key features of Text-based editing in Firefly. [Key features of Text-based editing](key-features-of-text-based-editing.md).

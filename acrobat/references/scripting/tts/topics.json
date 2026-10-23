@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "available", "file": "references/scripting/tts/available.md", "summary": "Open when looking up available in Acrobat.", "keywords": ["available"]},
   {"topic": "getNthSpeakerName", "file": "references/scripting/tts/get-nth-speaker-name.md", "summary": "Open when looking up getNthSpeakerName in Acrobat.", "keywords": ["getNthSpeakerName"]},
-  {"topic": "JavaScript APIs — TTS", "file": "references/scripting/tts/java-script-apis-tts.md", "summary": "Open when looking up JavaScript APIs — TTS in Acrobat.", "keywords": ["JavaScript APIs — TTS"]},
+  {"topic": "JavaScript APIs - TTS", "file": "references/scripting/tts/java-script-apis-tts.md", "summary": "Open when looking up JavaScript APIs - TTS in Acrobat.", "keywords": ["JavaScript APIs - TTS"]},
   {"topic": "numSpeakers", "file": "references/scripting/tts/num-speakers.md", "summary": "Open when looking up numSpeakers in Acrobat.", "keywords": ["numSpeakers"]},
   {"topic": "pause", "file": "references/scripting/tts/pause.md", "summary": "Open when looking up pause in Acrobat.", "keywords": ["pause"]},
   {"topic": "pitch", "file": "references/scripting/tts/pitch.md", "summary": "Open when looking up pitch in Acrobat.", "keywords": ["pitch"]},

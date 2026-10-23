@@ -1,4 +1,4 @@
-# Illustrator — Organize and manage artboards
+# Illustrator - Organize and manage artboards
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align and distribute artboards. in Illustrator. [Align and distribute artboards.](align-and-distribute-artboards.md).

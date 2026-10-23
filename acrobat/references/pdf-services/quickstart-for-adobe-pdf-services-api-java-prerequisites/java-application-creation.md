@@ -1,10 +1,10 @@
-# Quickstart for Adobe PDF Services API (Java) — Step Three: Creating the application
+# Quickstart for Adobe PDF Services API (Java) - Step Three: Creating the application
 
 1. The starting point is pulling in the dependencies the code relies on:
 
-Complete example files:
+Example setup and source:
 
-- [ExportPDFToWord.java](../examples/java/export-brochure-docx/ExportPDFToWord.java)
+- [export-brochure-docx setup and source](../examples/java/export-brochure-docx/export-brochure-docx-setup.md)
 
 2. Next, lay out our main class:
 

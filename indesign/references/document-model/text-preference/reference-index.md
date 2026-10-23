@@ -1,4 +1,4 @@
-# InDesign — Text preference
+# InDesign - Text preference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up abutTextToTextWrap in InDesign. [abutTextToTextWrap](abut-text-to-text-wrap.md).

@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Delete pdf pages example setup", "file": "references/pdf-services/examples/node/delete-pdf-pages/delete-pdf-pages-setup.md", "summary": "Open when looking up Delete pdf pages example setup in Acrobat.", "keywords": ["Delete pdf pages example setup"]},
-  {"topic": "delete-pdf-pages", "file": "references/pdf-services/examples/node/delete-pdf-pages/delete-pdf-pages.cjs", "summary": "Open when looking up delete-pdf-pages in Acrobat.", "keywords": ["delete-pdf-pages"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

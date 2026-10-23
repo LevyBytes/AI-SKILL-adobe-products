@@ -1,4 +1,4 @@
-# After Effects — Loading and running scripts
+# After Effects - Loading and running scripts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How to include After Effects scripting in an AppleScript (Mac OS) in After Effects. [How to include After Effects scripting in an AppleScript (Mac OS)](applescript-script-invocation.md).

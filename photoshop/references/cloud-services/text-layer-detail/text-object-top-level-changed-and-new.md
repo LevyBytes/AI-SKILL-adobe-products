@@ -1,4 +1,4 @@
-# Text object top-level — CHANGED and NEW
+# Text object top-level - CHANGED and NEW
 
 | Field | Status | Notes |
 | --- | --- | --- |

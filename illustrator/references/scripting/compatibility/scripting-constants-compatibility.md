@@ -1,4 +1,4 @@
-# Scripting Constants — Compatibility
+# Scripting Constants - Compatibility
 
 EPS or Illustrator saves use these constants to choose the Illustrator file version to write.
 

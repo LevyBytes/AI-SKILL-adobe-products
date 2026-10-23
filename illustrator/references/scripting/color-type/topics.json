@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — ColorType", "file": "references/scripting/color-type/scripting-constants-color-type.md", "summary": "Open when looking up Scripting Constants — ColorType in Illustrator.", "keywords": ["Scripting Constants — ColorType"]},
+  {"topic": "Scripting Constants - ColorType", "file": "references/scripting/color-type/scripting-constants-color-type.md", "summary": "Open when looking up Scripting Constants - ColorType in Illustrator.", "keywords": ["Scripting Constants - ColorType"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

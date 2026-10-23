@@ -1,4 +1,4 @@
-# Color — Media
+# Color - Media
 
 Set locations for media cache files, define timebase handling, and control hardware acceleration for optimized media workflows.
 

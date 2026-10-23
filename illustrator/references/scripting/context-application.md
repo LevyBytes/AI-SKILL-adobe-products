@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: application, preferences and scripting environment
+# Illustrator - Scripting APIs: application, preferences and scripting environment
 
-Open when working with application, preferences and scripting environment in Illustrator — Scripting APIs.
+Open when working with application, preferences and scripting environment in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-application.json).
 

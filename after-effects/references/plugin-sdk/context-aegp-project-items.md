@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: aegp projects, compositions and layers
+# After Effects - C++ plugin SDK: aegp projects, compositions and layers
 
-Open when working with aegp projects, compositions and layers in After Effects — C++ plugin SDK.
+Open when working with aegp projects, compositions and layers in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegp-project-items.json).
 

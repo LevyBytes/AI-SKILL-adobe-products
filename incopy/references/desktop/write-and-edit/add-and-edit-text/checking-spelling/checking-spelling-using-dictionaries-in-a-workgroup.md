@@ -1,4 +1,4 @@
-# Checking spelling — Using dictionaries in a workgroup
+# Checking spelling - Using dictionaries in a workgroup
 
 Install and add the same customized user dictionaries on every station in the workgroup, so a document follows identical spelling and hyphenation rules no matter who edits it. You can have everyone add identical dictionaries to their computer, or you can share a user dictionary on the network server.
 

@@ -1,4 +1,4 @@
-# InDesign — Apply text wrap
+# InDesign - Apply text wrap
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust offset distances in InDesign. [Adjust offset distances](adjust-offset-distances.md).

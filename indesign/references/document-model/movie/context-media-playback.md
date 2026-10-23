@@ -1,6 +1,6 @@
-# InDesign — Movie: movie and sound playback
+# InDesign - Movie: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — Movie.
+Open when checking movie and sound playback in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

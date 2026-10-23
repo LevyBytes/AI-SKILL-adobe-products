@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: export documents and select formats
+# Shared Adobe platform - PageItem: export documents and select formats
 
-Open when checking export documents and select formats in Shared Adobe platform — PageItem.
+Open when checking export documents and select formats in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

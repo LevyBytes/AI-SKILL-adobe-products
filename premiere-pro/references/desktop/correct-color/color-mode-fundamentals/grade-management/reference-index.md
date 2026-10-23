@@ -1,4 +1,4 @@
-# Premiere Pro — Copy and paste for Grade Management
+# Premiere Pro - Copy and paste for Grade Management
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color Controls are organized into Segments, Zones or Swatches in Premiere Pro. [Color Controls are organized into Segments, Zones or Swatches](color-controls-are-organized-into-segments-zones-or-swatches.md).

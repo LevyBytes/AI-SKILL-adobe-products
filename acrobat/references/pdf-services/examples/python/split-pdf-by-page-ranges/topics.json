@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Split pdf by page ranges example setup", "file": "references/pdf-services/examples/python/split-pdf-by-page-ranges/split-pdf-by-page-ranges-setup.md", "summary": "Open when looking up Split pdf by page ranges example setup in Acrobat.", "keywords": ["Split pdf by page ranges example setup"]},
-  {"topic": "SplitPDFByPageRanges", "file": "references/pdf-services/examples/python/split-pdf-by-page-ranges/split-pdf-by-page-ranges.py", "summary": "Open when looking up SplitPDFByPageRanges in Acrobat.", "keywords": ["SplitPDFByPageRanges"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

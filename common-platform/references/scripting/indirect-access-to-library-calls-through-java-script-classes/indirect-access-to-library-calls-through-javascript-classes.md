@@ -1,4 +1,4 @@
-# Loading and using shared libraries — Indirect access to library calls through JavaScript classes
+# Loading and using shared libraries - Indirect access to library calls through JavaScript classes
 
 For classes implemented in a C++ library, use the indirect style. Each C++ class in the library automatically gets a corresponding JavaScript class, and its properties and methods are reached through an instance of that class.
 

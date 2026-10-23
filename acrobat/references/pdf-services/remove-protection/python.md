@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [remove-protection.py](../examples/python/remove-protection/remove-protection.py)
+- [remove-protection setup and source](../examples/python/remove-protection/remove-protection-setup.md)

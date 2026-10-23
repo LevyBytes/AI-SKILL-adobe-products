@@ -1,4 +1,4 @@
-# Getting Started with the VS Code Debugger — Running the debugger
+# Getting Started with the VS Code Debugger - Running the debugger
 
 After your environment is prepared and your script is built:
 

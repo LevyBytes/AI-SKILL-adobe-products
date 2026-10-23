@@ -1,4 +1,4 @@
-# InDesign — Conditional text overview
+# InDesign - Conditional text overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Hidden text stays in the document in InDesign. [Hidden text stays in the document](hidden-text-stays-in-the-document.md).

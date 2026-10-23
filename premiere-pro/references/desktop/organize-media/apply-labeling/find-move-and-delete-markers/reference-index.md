@@ -1,4 +1,4 @@
-# Premiere Pro — Find, move, and delete markers
+# Premiere Pro - Find, move, and delete markers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete a marker in Premiere Pro. [Delete a marker](delete-a-marker.md).

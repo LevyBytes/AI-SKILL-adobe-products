@@ -1,4 +1,4 @@
-# Structuring documents for XML — Rearrange structured elements
+# Structuring documents for XML - Rearrange structured elements
 
 Within the Structure pane, you can reorder elements and change their hierarchy level. Keep these constraints in mind:
 

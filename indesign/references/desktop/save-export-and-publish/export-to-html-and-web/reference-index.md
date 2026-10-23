@@ -1,4 +1,4 @@
-# InDesign — Export to html and web
+# InDesign - Export to html and web
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and manage articles in InDesign. [Create and manage articles](create-and-manage-articles.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Import files
+# Premiere Pro - Import files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio conforming specifications in Premiere Pro. [Audio conforming specifications](audio-conforming-specifications.md).

@@ -1,4 +1,4 @@
-# Photoshop — Call 3
+# Photoshop - Call 3
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Example 3: Format conversion (PSD to JPEG) in Photoshop. [Example 3: Format conversion (PSD to JPEG)](example-3-format-conversion-psd-to-jpeg.md).

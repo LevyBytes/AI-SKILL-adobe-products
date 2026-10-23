@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/create-pdf-from-docx-with-options/Program.cs)
+- [create-pdf-from-docx-with-options setup and source](../examples/dotnet/create-pdf-from-docx-with-options/create-pdf-from-docx-with-options-setup.md)

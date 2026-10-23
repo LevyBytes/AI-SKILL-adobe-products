@@ -1,6 +1,6 @@
-# InDesign — Oval: application session and account
+# InDesign - Oval: application session and account
 
-Open when checking application session and account in InDesign — Oval.
+Open when checking application session and account in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

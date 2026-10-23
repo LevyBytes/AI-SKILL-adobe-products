@@ -1,4 +1,4 @@
-# Acrobat — Combine files
+# Acrobat - Combine files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Embed PDFs in OLE container documents in Acrobat. [Embed PDFs in OLE container documents](embed-pdfs-in-ole-container-documents.md).

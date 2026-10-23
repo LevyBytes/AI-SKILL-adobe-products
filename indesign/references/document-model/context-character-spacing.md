@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: character alignment and metrics
+# InDesign - InDesign document object model: character alignment and metrics
 
-Open when working with character alignment and metrics in InDesign — InDesign document object model.
+Open when working with character alignment and metrics in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-character-spacing.json).
 

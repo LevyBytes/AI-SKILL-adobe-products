@@ -1,6 +1,6 @@
-# InDesign — Text style range: warichu inline text
+# InDesign - Text style range: warichu inline text
 
-Open when checking warichu inline text in InDesign — Text style range.
+Open when checking warichu inline text in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

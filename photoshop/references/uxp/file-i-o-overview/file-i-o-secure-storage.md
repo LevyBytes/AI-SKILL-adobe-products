@@ -1,4 +1,4 @@
-# File I/O — Secure Storage
+# File I/O - Secure Storage
 
 Plugins may need to keep sensitive values such as external service tokens or passwords. UXP handles that case with Secure Storage, a protected per-plugin store for sensitive data.
 

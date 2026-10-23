@@ -1,4 +1,4 @@
-# Hyperlinks — Create a hyperlink to a page
+# Hyperlinks - Create a hyperlink to a page
 
 A page hyperlink can be created before any destination exists. Creating a page destination first, however, lets you define the page number and view setting.
 

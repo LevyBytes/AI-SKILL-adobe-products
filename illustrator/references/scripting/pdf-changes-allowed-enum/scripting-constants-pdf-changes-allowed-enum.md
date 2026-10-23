@@ -1,4 +1,4 @@
-# Scripting Constants — PDFChangesAllowedEnum
+# Scripting Constants - PDFChangesAllowedEnum
 
 | Value | Description |
 | --- | --- |

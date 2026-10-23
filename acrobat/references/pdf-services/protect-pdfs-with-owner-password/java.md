@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ProtectPDFWithOwnerPassword.java](../examples/java/protect-pdf-with-owner-password/ProtectPDFWithOwnerPassword.java)
+- [protect-pdf-with-owner-password setup and source](../examples/java/protect-pdf-with-owner-password/protect-pdf-with-owner-password-setup.md)

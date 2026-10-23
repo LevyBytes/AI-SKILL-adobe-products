@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Change frame rate for a footage item
+# Importing and interpreting footage items - Change frame rate for a footage item
 
 Pick the footage item over in the Project panel.
 

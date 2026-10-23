@@ -1,4 +1,4 @@
-# Shared Adobe platform — OpacityGradientStop
+# Shared Adobe platform - OpacityGradientStop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up OpacityGradientStop declaration in Shared Adobe platform. [OpacityGradientStop declaration](declaration.md).

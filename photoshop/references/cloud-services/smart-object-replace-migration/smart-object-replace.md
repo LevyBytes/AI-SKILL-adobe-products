@@ -8,8 +8,8 @@ V1 workflows could also call `/pie/psdService/documentOperations` for smart obje
 
 V1 exposed `/psdService/smartObject` as a convenience endpoint dedicated to two tasks:
 
-- **Place** — insert a new smart object layer into an existing PSD
-- **Replace** — exchange the content of an existing smart object layer
+- **Place**: insert a new smart object layer into an existing PSD
+- **Replace**: exchange the content of an existing smart object layer
 
 In V2, `/v2/create-composite` performs both tasks through `edits.layers` entries whose `type` is `"smart_object_layer"`.
 

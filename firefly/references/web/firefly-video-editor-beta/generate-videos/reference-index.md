@@ -1,4 +1,4 @@
-# Firefly — Generate videos
+# Firefly - Generate videos
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add frame guidance to generate videos from images in Firefly. [Add frame guidance to generate videos from images](add-frame-guidance-to-generate-videos-from-images.md).

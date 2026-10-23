@@ -1,6 +1,6 @@
-# InDesign — PICT: generate qr codes
+# InDesign - PICT: generate qr codes
 
-Open when checking generate qr codes in InDesign — PICT.
+Open when checking generate qr codes in InDesign - PICT.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

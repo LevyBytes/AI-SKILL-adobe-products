@@ -1,4 +1,4 @@
-# Changing spacing between charactersin CJK text — Adjust tracking by using Grid Jidori
+# Changing spacing between charactersin CJK text - Adjust tracking by using Grid Jidori
 
 Grid Jidori justifies text across a specified number of grid characters. For example, selecting 3 entered characters and setting jidori to 5 spreads those 3 characters evenly over 5 character spaces.
 

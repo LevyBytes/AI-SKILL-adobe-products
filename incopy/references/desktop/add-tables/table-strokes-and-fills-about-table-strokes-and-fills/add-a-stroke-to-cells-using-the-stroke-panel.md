@@ -1,4 +1,4 @@
-# Table strokes and fills — Add a stroke to cells using the Stroke panel
+# Table strokes and fills - Add a stroke to cells using the Stroke panel
 
 Only InDesign includes the Stroke panel; InCopy does not.
 

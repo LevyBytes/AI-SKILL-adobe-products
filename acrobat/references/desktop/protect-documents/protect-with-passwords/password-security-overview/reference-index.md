@@ -1,4 +1,4 @@
-# Acrobat — Password security overview
+# Acrobat - Password security overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Benefits of using passwords in Acrobat. [Benefits of using passwords](benefits-of-using-passwords.md).

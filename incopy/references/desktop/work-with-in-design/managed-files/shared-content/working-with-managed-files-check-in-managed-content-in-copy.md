@@ -1,4 +1,4 @@
-# Working with managed files — Check in managed content (InCopy)
+# Working with managed files - Check in managed content (InCopy)
 
 Use one of these methods:
 

@@ -1,4 +1,4 @@
-# Illustrator — Make colors printable or web safe
+# Illustrator - Make colors printable or web safe
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the color mode of a document in Illustrator. [Change the color mode of a document](change-the-color-mode-of-a-document.md).

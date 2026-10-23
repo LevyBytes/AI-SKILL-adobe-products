@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ExtractTextTableInfoFromPDF.java](../examples/java/extract-text-table-info-from-pdf/ExtractTextTableInfoFromPDF.java)
+- [extract-text-table-info-from-pdf setup and source](../examples/java/extract-text-table-info-from-pdf/extract-text-table-info-from-pdf-setup.md)

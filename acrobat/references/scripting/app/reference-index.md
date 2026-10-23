@@ -1,4 +1,4 @@
-# Acrobat — App
+# Acrobat - App
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up activeDocs in Acrobat. [activeDocs](active-docs.md).
@@ -33,7 +33,7 @@
 - Open when looking up hideMenuItem in Acrobat. [hideMenuItem](hide-menu-item.md).
 - Open when looking up hideToolbarButton in Acrobat. [hideToolbarButton](hide-toolbar-button.md).
 - Open when looking up Hierarchical dialog example in Acrobat. [Hierarchical dialog example](hierarchical-dialog-example.md).
-- Open when looking up JavaScript APIs — app in Acrobat. [JavaScript APIs — app](java-script-apis-app.md).
+- Open when looking up JavaScript APIs - app in Acrobat. [JavaScript APIs - app](java-script-apis-app.md).
 - Open when looking up language in Acrobat. [language](language.md).
 - Open when looking up launchURL in Acrobat. [launchURL](launch-url.md).
 - Open when looking up List-box dialog example in Acrobat. [List-box dialog example](listbox-dialog-example.md).

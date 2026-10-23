@@ -1,4 +1,4 @@
-# Shared Adobe platform — External object
+# Shared Adobe platform - External object
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ExternalObject object in Shared Adobe platform. [ExternalObject object](external-object-object.md).

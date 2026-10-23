@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: manifest, permissions and plugin identity
+# Photoshop - UXP plugins and APIs: manifest, permissions and plugin identity
 
-Open when working with manifest, permissions and plugin identity in Photoshop — UXP plugins and APIs.
+Open when working with manifest, permissions and plugin identity in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-manifest.json).
 

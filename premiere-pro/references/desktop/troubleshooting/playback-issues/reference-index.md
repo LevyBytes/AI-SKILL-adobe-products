@@ -1,4 +1,4 @@
-# Premiere Pro — Playback issues
+# Premiere Pro - Playback issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio playback keep getting stuck in Premiere Pro. [Audio playback keep getting stuck](audio-playback-keep-getting-stuck.md).

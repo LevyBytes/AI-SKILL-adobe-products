@@ -1,6 +1,6 @@
-# InDesign — Polygon: anchored object placement
+# InDesign - Polygon: anchored object placement
 
-Open when checking anchored object placement in InDesign — Polygon.
+Open when checking anchored object placement in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

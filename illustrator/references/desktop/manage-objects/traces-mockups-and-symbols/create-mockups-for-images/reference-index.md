@@ -1,4 +1,4 @@
-# Illustrator — Create mockups for images
+# Illustrator - Create mockups for images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a mockup with a free image template in Illustrator. [Create a mockup with a free image template](create-a-mockup-with-a-free-image-template.md).

@@ -1,4 +1,4 @@
-# Illustrator — When to use Turntable and 3D
+# Illustrator - When to use Turntable and 3D
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Unsupported objects for Turntable in Illustrator. [Unsupported objects for Turntable](unsupported-objects-for-turntable.md).

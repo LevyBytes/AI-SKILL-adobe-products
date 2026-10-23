@@ -1,4 +1,4 @@
-# Frame grids — Convert a frame grid to a plain text frame
+# Frame grids - Convert a frame grid to a plain text frame
 
 Choose File > Document Setup.
 

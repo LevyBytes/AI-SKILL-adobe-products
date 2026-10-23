@@ -1,4 +1,4 @@
-# Premiere Pro — Find and group effects
+# Premiere Pro - Find and group effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Find effects in Premiere Pro. [Find effects](find-effects.md).

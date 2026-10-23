@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: migrate existing extensions
+# InDesign - UXP plugins and APIs: migrate existing extensions
 
-Open when working with migrate existing extensions in InDesign — UXP plugins and APIs.
+Open when working with migrate existing extensions in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-migration.json).
 

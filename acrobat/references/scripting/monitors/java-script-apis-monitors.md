@@ -1,4 +1,4 @@
-# JavaScript APIs — Monitors
+# JavaScript APIs - Monitors
 
 Think of a Monitors object as a read-only list whose members are individual Monitor objects, one per attached display. You reach those members with standard array indexing plus the length property.
 

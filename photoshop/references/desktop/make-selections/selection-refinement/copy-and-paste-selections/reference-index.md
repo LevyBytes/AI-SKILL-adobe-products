@@ -1,4 +1,4 @@
-# Photoshop — Copy and paste selections
+# Photoshop - Copy and paste selections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy a selection in Photoshop. [Copy a selection](copy-a-selection.md).

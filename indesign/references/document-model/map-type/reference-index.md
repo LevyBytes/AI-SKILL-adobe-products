@@ -1,4 +1,4 @@
-# InDesign — MapType
+# InDesign - MapType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GROUP_MAPPING_RULE in InDesign. [GROUP_MAPPING_RULE](groupmappingrule.md).

@@ -1,4 +1,4 @@
-# Acrobat — Use secure and special print mode
+# Acrobat - Use secure and special print mode
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enable protected print mode on Windows in Acrobat. [Enable protected print mode on Windows](enable-protected-print-mode-on-windows.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Cloud rendering
+# Premiere Pro - Cloud rendering
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About cloud rendering in Premiere Pro. [About cloud rendering](about-cloud-rendering.md).

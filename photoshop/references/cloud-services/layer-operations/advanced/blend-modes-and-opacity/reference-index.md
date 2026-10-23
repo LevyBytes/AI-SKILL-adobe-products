@@ -1,4 +1,4 @@
-# Photoshop — Blend modes and opacity
+# Photoshop - Blend modes and opacity
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blend property changes in Photoshop. [Blend property changes](blend-property-changes.md).

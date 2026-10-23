@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: editing and selection tools
+# Shared Adobe platform - Application: editing and selection tools
 
-Open when working with editing and selection tools in Shared Adobe platform — Application.
+Open when working with editing and selection tools in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-tools-commands.json).
 

@@ -1,4 +1,4 @@
-# Illustrator — Export type
+# Illustrator - Export type
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Scripting Constants — ExportType in Illustrator. [Scripting Constants — ExportType](scripting-constants-export-type.md).
+- Open when looking up Scripting Constants - ExportType in Illustrator. [Scripting Constants - ExportType](scripting-constants-export-type.md).

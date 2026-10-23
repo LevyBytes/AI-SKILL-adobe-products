@@ -1,4 +1,4 @@
-# After Effects — What is Draft 3D Preview
+# After Effects - What is Draft 3D Preview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Do more with your 3D animations in After Effects. [Do more with your 3D animations](do-more-with-your-3-d-animations.md).

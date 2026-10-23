@@ -1,4 +1,4 @@
-# Analytics — Annotation events
+# Analytics - Annotation events
 
 When someone works with an annotation, web developers can be notified through events. These fire for annotation actions carried out via the UI.
 

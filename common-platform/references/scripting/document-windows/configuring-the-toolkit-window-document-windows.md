@@ -1,4 +1,4 @@
-# Configuring the Toolkit window — Document windows
+# Configuring the Toolkit window - Document windows
 
 Opening a script or text file creates a separate Script Editor document window for that file. By default, those document windows are docked as tabbed panes in the main window. Like panels, any document window can be dragged out of the frame and used as an independent floating window.
 

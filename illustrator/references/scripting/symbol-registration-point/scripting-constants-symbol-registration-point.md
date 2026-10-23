@@ -1,4 +1,4 @@
-# Scripting Constants — SymbolRegistrationPoint
+# Scripting Constants - SymbolRegistrationPoint
 
 Symbols can be registered against these point positions.
 

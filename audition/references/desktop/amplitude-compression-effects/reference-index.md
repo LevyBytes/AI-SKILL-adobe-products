@@ -1,4 +1,4 @@
-# Audition — Amplitude compression effects
+# Audition - Amplitude compression effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Amplify effect in Audition. [Amplify effect](amplify-effect.md).

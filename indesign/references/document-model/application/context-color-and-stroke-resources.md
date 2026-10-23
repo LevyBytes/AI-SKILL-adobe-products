@@ -1,6 +1,6 @@
-# InDesign — Application: colors, swatches, inks and stroke resources
+# InDesign - Application: colors, swatches, inks and stroke resources
 
-Open when checking colors, swatches, inks and stroke resources in InDesign — Application.
+Open when checking colors, swatches, inks and stroke resources in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-color-and-stroke-resources.json).
 

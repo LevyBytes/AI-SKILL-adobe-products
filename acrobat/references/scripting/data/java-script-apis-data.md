@@ -1,4 +1,4 @@
-# JavaScript APIs — Data
+# JavaScript APIs - Data
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

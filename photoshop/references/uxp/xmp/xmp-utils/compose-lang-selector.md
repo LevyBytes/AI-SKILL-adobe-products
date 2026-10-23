@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — composeLangSelector(schemaNS, arrayName, locale)
+# require('uxp').xmp.XMPUtils - composeLangSelector(schemaNS, arrayName, locale)
 
 Builds a path expression that addresses a language-specific alternate item in an alt text array, using the namespace registered prefix, in the form:
 schemaNS:arrayName[@xml:lang='langName']

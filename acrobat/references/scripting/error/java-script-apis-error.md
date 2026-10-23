@@ -1,4 +1,4 @@
-# JavaScript APIs — Error
+# JavaScript APIs - Error
 
 Any time an exception gets thrown from a method or property written in JavaScript, an Error object is created on the fly. Core JavaScript itself can raise several Error subclasses — EvalError, RangeError, SyntaxError, TypeError, ReferenceError, URLError — all of which take the Error object as their prototype. JavaScript may raise some of these directly or, as it sees fit, derive its own subclasses of the Error object. Where your scripts lean on try/catch handling, expect the thrown object to be one of the types in the table that follows.
 

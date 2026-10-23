@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: variable data, datasets and tags
+# Shared Adobe platform - Illustrator: variable data, datasets and tags
 
-Open when working with variable data, datasets and tags in Shared Adobe platform — Illustrator.
+Open when working with variable data, datasets and tags in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-variables-metadata.json).
 

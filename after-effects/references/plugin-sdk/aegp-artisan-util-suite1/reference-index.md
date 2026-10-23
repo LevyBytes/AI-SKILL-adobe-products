@@ -1,4 +1,4 @@
-# After Effects — AEGP_ArtisanUtilSuite1
+# After Effects - AEGP_ArtisanUtilSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_GetGlobalContextFromInstanceContext in After Effects. [AEGP_GetGlobalContextFromInstanceContext](aegp-get-global-context-from-instance-context.md).

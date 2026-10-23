@@ -1,4 +1,4 @@
-# Making your Plugin Theme-aware — Overview
+# Making your Plugin Theme-aware - Overview
 
 Photoshop offers four UI theme choices:
 

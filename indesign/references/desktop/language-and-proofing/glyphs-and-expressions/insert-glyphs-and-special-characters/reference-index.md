@@ -1,4 +1,4 @@
-# InDesign — Insert glyphs and special characters
+# InDesign - Insert glyphs and special characters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Clear recently used glyphs in InDesign. [Clear recently used glyphs](clear-recently-used-glyphs.md).

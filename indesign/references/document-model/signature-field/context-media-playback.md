@@ -1,6 +1,6 @@
-# InDesign — SignatureField: movie and sound playback
+# InDesign - SignatureField: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — SignatureField.
+Open when checking movie and sound playback in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

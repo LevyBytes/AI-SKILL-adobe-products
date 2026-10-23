@@ -1,4 +1,4 @@
-# Shared Adobe platform — $
+# Shared Adobe platform - $
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up $ declaration in Shared Adobe platform. [$ declaration](declaration.md).

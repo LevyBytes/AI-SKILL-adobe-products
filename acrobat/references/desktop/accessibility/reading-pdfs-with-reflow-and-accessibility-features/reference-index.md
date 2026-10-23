@@ -1,4 +1,4 @@
-# Acrobat — Reading PDFs with reflow and accessibility features
+# Acrobat - Reading PDFs with reflow and accessibility features
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About operating system accessibility tools in Acrobat. [About operating system accessibility tools](about-operating-system-accessibility-tools.md).

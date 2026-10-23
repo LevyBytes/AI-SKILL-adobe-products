@@ -1,4 +1,4 @@
-# Tips & Tricks — Clean Slate
+# Tips & Tricks - Clean Slate
 
 The output you start with isn't guaranteed to be a clean slate. To get one, our Gaussian blur filter runs the following ahead of rendering:
 

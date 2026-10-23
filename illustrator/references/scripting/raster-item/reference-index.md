@@ -1,7 +1,7 @@
-# Illustrator — RasterItem
+# Illustrator - RasterItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up RasterItem — Methods in Illustrator. [RasterItem — Methods](raster-item-methods.md).
+- Open when looking up RasterItem - Methods in Illustrator. [RasterItem - Methods](raster-item-methods.md).
 - Open when looking up RasterItem.artworkKnockout in Illustrator. [RasterItem.artworkKnockout](artwork-knockout.md).
 - Open when looking up RasterItem.bitsPerChannel in Illustrator. [RasterItem.bitsPerChannel](bits-per-channel.md).
 - Open when looking up RasterItem.blendingMode in Illustrator. [RasterItem.blendingMode](blending-mode.md).

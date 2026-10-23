@@ -1,4 +1,4 @@
-# InDesign — Manage library objects
+# InDesign - Manage library objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change view and sort in InDesign. [Change view and sort](change-view-and-sort.md).

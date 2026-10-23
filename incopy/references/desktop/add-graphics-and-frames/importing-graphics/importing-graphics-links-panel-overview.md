@@ -1,4 +1,4 @@
-# Importing graphics — Links panel overview
+# Importing graphics - Links panel overview
 
 The Links panel lists every file placed in a document. That includes local files on disk and assets managed on a server. Files pasted from a website in Internet Explorer, however, do not appear there.
 

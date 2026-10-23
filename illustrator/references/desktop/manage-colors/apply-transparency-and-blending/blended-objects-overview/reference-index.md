@@ -1,4 +1,4 @@
-# Illustrator — Blended objects overview
+# Illustrator - Blended objects overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blend between objects in Illustrator. [Blend between objects](blend-between-objects.md).

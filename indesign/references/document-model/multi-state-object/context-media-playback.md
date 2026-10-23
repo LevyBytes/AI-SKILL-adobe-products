@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: movie and sound playback
+# InDesign - MultiStateObject: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — MultiStateObject.
+Open when checking movie and sound playback in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

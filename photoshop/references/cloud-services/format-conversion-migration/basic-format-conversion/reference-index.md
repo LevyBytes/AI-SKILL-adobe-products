@@ -1,4 +1,4 @@
-# Photoshop — Basic format conversion
+# Photoshop - Basic format conversion
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PSD to Cloud PSD in Photoshop. [PSD to Cloud PSD](psd-to-cloud-psd.md).

@@ -1,4 +1,4 @@
-# Glyphs and special characters — Insert white space characters
+# Glyphs and special characters - Insert white space characters
 
 White-space characters insert blank gaps between adjacent characters. They are useful for layout tasks such as keeping two words together so a line ending cannot split them.
 

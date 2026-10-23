@@ -1,4 +1,4 @@
-# `PF_EventExtra` — `PF_Context`
+# `PF_EventExtra``PF_Context`
 
 The event's UI context is spelled out by `PF_Context`.
 

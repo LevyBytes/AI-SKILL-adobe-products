@@ -1,4 +1,4 @@
-# Premiere Pro — Host Environment Information
+# Premiere Pro - Host Environment Information
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Available APIs in Premiere Pro. [Available APIs](available-apis.md).

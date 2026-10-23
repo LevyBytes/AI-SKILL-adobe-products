@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Keying
+# First-Party Effect Match Names - Keying
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

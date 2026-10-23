@@ -1,4 +1,4 @@
-# Premiere Pro — Debugging Techniques
+# Premiere Pro - Debugging Techniques
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Console Logging in Premiere Pro. [Console Logging](console-logging.md).

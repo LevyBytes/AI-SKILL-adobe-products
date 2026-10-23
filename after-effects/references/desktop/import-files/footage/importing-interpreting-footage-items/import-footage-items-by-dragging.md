@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Import footage items by dragging
+# Importing and interpreting footage items - Import footage items by dragging
 
 Note
 

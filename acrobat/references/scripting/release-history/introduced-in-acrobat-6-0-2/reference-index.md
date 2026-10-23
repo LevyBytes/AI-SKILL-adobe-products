@@ -1,4 +1,4 @@
-# Acrobat — Introduced in acrobat 6 0 2
+# Acrobat - Introduced in acrobat 6 0 2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up app in Acrobat. [app](app.md).

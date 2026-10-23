@@ -1,6 +1,6 @@
-# InDesign — Application: hyperlinks, indexes and cross-references
+# InDesign - Application: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — Application.
+Open when checking hyperlinks, indexes and cross-references in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

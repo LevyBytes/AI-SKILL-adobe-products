@@ -1,4 +1,4 @@
-# Premiere Pro — Audio crossfade transitions
+# Premiere Pro - Audio crossfade transitions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Constant Gain in Premiere Pro. [Constant Gain](constant-gain.md).

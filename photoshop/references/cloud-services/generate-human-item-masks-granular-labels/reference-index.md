@@ -1,4 +1,4 @@
-# Photoshop — Generate Human Item Masks: Granular Labels
+# Photoshop - Generate Human Item Masks: Granular Labels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Overview in Photoshop. [1. Overview](overview.md).

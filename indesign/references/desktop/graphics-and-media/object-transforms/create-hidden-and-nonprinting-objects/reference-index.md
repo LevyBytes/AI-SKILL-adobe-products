@@ -1,4 +1,4 @@
-# InDesign — Create hidden and nonprinting objects
+# InDesign - Create hidden and nonprinting objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create nonprinting objects in InDesign. [Create nonprinting objects](create-nonprinting-objects.md).

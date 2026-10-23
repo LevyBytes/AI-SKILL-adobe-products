@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: color values, profiles and conversion
+# Shared Adobe platform - Photoshop: color values, profiles and conversion
 
-Open when working with color values, profiles and conversion in Shared Adobe platform — Photoshop.
+Open when working with color values, profiles and conversion in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-color.json).
 

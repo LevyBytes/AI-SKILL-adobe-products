@@ -1,4 +1,4 @@
-# UxpPluginInfo — name ⇒ `String`
+# UxpPluginInfo - name ⇒ `String`
 
 Reads the plugin name.
 

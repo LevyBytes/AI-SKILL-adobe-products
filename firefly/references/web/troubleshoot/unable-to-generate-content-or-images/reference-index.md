@@ -1,4 +1,4 @@
-# Firefly — Unable to generate content or images
+# Firefly - Unable to generate content or images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generative model is at maximum capacity due to high demand in Firefly. [Generative model is at maximum capacity due to high demand](generative-model-is-at-maximum-capacity-due-to-high-demand.md).

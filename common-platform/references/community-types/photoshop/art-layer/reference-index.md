@@ -1,4 +1,4 @@
-# Shared Adobe platform — ArtLayer
+# Shared Adobe platform - ArtLayer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ArtLayer declaration in Shared Adobe platform. [ArtLayer declaration](declaration.md).

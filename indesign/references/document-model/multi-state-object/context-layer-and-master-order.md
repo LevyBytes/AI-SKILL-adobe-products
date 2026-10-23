@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: layers, stacking and master overrides
+# InDesign - MultiStateObject: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — MultiStateObject.
+Open when checking layers, stacking and master overrides in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

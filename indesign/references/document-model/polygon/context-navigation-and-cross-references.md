@@ -1,6 +1,6 @@
-# InDesign — Polygon: hyperlinks, indexes and cross-references
+# InDesign - Polygon: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — Polygon.
+Open when checking hyperlinks, indexes and cross-references in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

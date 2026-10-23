@@ -1,4 +1,4 @@
-# Firefly — Use Boards Presets for complex workflows
+# Firefly - Use Boards Presets for complex workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Illustration by Firefly Image 4 in Firefly. [3D Illustration by Firefly Image 4](3-d-illustration-by-firefly-image-4.md).

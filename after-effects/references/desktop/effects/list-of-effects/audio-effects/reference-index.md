@@ -1,4 +1,4 @@
-# After Effects — Audio Effects
+# After Effects - Audio Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Backwards effect in After Effects. [Backwards effect](backwards-effect.md).

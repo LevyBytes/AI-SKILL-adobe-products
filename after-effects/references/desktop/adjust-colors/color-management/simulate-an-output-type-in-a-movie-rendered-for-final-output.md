@@ -16,7 +16,7 @@ Project Working Space
 
 Output Profile
 
-Whichever output you're simulating — a film printing density profile, for instance, like Kodak 5218/7218 Printing Density
+Whichever output you're simulating: a film printing density profile, for instance, like Kodak 5218/7218 Printing Density
 
 Intent
 
@@ -26,11 +26,11 @@ Over in the Effect Controls panel, give the effect's second instance these optio
 
 Input Profile
 
-Whichever playback you're simulating — a theater preview profile, say
+Whichever playback you're simulating: a theater preview profile, say
 
 Output Profile
 
-The output medium's color space — HDTV (Rec. 709), for one
+The output medium's color space: HDTV (Rec. 709), for one
 
 Intent
 

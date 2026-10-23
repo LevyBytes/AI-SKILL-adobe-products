@@ -1,4 +1,4 @@
-# InDesign — Share for review overview
+# InDesign - Share for review overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Benefits for distributed teams in InDesign. [Benefits for distributed teams](benefits-for-distributed-teams.md).

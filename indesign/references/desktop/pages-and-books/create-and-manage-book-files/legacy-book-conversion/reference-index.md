@@ -1,4 +1,4 @@
-# InDesign — Convert book files from previous InDesign versions
+# InDesign - Convert book files from previous InDesign versions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert documents within the book in InDesign. [Convert documents within the book](convert-documents-within-the-book.md).

@@ -1,6 +1,6 @@
-# InDesign — PrinterPreset: printer marks, bleed and slug
+# InDesign - PrinterPreset: printer marks, bleed and slug
 
-Open when checking printer marks, bleed and slug in InDesign — PrinterPreset.
+Open when checking printer marks, bleed and slug in InDesign - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-marks-bleed.json).
 

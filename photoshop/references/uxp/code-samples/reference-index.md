@@ -1,4 +1,4 @@
-# Photoshop — Code Samples
+# Photoshop - Code Samples
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Coming Soon - One Off Scripts in Photoshop. [Coming Soon - One Off Scripts](coming-soon-one-off-scripts.md).

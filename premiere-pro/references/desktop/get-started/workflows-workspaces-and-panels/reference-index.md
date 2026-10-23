@@ -1,4 +1,4 @@
-# Premiere Pro — Workflows workspaces and panels
+# Premiere Pro - Workflows workspaces and panels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change, create, and reset workspaces in Premiere Pro. [Change, create, and reset workspaces](change-create-and-reset-workspaces.md).

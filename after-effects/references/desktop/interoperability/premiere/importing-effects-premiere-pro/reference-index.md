@@ -1,4 +1,4 @@
-# After Effects — Importing Effects Premiere Pro
+# After Effects - Importing Effects Premiere Pro
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy between After Effects and Adobe Premiere in After Effects. [Copy between After Effects and Adobe Premiere](copy-between-after-effects-and-adobe-premiere.md).

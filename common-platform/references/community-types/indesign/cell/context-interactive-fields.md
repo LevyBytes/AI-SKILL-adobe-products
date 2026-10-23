@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cell: interactive fields and behaviors
+# Shared Adobe platform - Cell: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in Shared Adobe platform — Cell.
+Open when checking interactive fields and behaviors in Shared Adobe platform - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Gaussian Blur effect
+# Blur and Sharpen effects - Gaussian Blur effect
 
 Noise drops away and the image grows softer and smoother once the Gaussian Blur effect runs. A layer's quality setting has no bearing on Gaussian Blur.
 

@@ -1,4 +1,4 @@
-# Acrobat — Conversion settings
+# Acrobat - Conversion settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Pdf Settings Overview in Acrobat. [Pdf Settings Overview](pdf-settings-overview.md).

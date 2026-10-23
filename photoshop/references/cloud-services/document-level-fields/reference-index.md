@@ -1,4 +1,4 @@
-# Photoshop — Document-level fields
+# Photoshop - Document-level fields
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Field renames in Photoshop. [Field renames](field-renames.md).

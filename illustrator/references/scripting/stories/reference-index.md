@@ -1,4 +1,4 @@
-# Illustrator — Stories
+# Illustrator - Stories
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Stories.index() in Illustrator. [Stories.index()](index.md).

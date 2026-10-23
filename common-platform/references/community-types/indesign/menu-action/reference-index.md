@@ -1,4 +1,4 @@
-# Shared Adobe platform — MenuAction
+# Shared Adobe platform - MenuAction
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MenuAction declaration in Shared Adobe platform. [MenuAction declaration](declaration.md).

@@ -1,4 +1,4 @@
-# After Effects — Work with footage items
+# After Effects - Work with footage items
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Manage footage items in After Effects. [Manage footage items references](manage-footage-items/reference-index.md).

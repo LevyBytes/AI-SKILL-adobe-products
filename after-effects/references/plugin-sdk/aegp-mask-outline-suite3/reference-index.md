@@ -1,4 +1,4 @@
-# After Effects — AEGP_MaskOutlineSuite3
+# After Effects - AEGP_MaskOutlineSuite3
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CreateMaskOutlineFeather in After Effects. [AEGP_CreateMaskOutlineFeather](aegp-create-mask-outline-feather.md).

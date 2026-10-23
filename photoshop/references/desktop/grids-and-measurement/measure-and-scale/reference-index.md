@@ -1,4 +1,4 @@
-# Photoshop — Measure and scale
+# Photoshop - Measure and scale
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About the measurement scale and scale markers in Photoshop. [About the measurement scale and scale markers](about-the-measurement-scale-and-scale-markers.md).

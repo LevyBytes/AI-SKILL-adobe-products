@@ -1,4 +1,4 @@
-# InDesign — Control blending with isolation and knockouts
+# InDesign - Control blending with isolation and knockouts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create knockout effects in a group in InDesign. [Create knockout effects in a group](create-knockout-effects-in-a-group.md).

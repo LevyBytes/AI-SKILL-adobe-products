@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: text, fonts and composition
+# Shared Adobe platform - Photoshop: text, fonts and composition
 
-Open when working with text, fonts and composition in Shared Adobe platform — Photoshop.
+Open when working with text, fonts and composition in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-fonts-text.json).
 

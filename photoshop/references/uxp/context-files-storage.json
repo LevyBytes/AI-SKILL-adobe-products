@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "photoshop", "topics": [
   {"topic": "Data Storage", "file": "references/uxp/data-storage.md", "summary": "Open when looking up Data Storage in Photoshop.", "keywords": ["Data Storage"]},
-  {"topic": "File I/O — Overview", "file": "references/uxp/file-i-o-overview.md", "summary": "Open when looking up File I/O — Overview in Photoshop.", "keywords": ["File I/O — Overview"]},
-  {"topic": "File I/O — Overview references", "file": "references/uxp/file-i-o-overview/reference-index.md", "summary": "Open when looking up File I/O — Overview in Photoshop.", "keywords": ["File I/O — Overview references"]},
+  {"topic": "File I/O - Overview", "file": "references/uxp/file-i-o-overview.md", "summary": "Open when looking up File I/O - Overview in Photoshop.", "keywords": ["File I/O - Overview"]},
+  {"topic": "File I/O - Overview references", "file": "references/uxp/file-i-o-overview/reference-index.md", "summary": "Open when looking up File I/O - Overview in Photoshop.", "keywords": ["File I/O - Overview references"]},
   {"topic": "Require fs references", "file": "references/uxp/require-fs/reference-index.md", "summary": "Open when looking up Require fs in Photoshop.", "keywords": ["Require fs references"]},
   {"topic": "Storage domains domains references", "file": "references/uxp/storage-domains-domains/reference-index.md", "summary": "Open when looking up Storage domains domains in Photoshop.", "keywords": ["Storage domains domains references"]},
   {"topic": "Storage secure storage references", "file": "references/uxp/storage-secure-storage/reference-index.md", "summary": "Open when looking up Storage secure storage in Photoshop.", "keywords": ["Storage secure storage references"]},

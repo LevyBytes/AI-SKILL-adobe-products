@@ -1,4 +1,4 @@
-# Application — Properties
+# Application - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

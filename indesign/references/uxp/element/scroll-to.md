@@ -1,4 +1,4 @@
-# window.Element — scrollTo(xOrOptions, y)
+# window.Element - scrollTo(xOrOptions, y)
 
 Move the element to the supplied x and y scroll positions. When an options object sets `behavior: "smooth"`, scrolling is animated smoothly.
 

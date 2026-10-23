@@ -1,4 +1,4 @@
-# Composing CJK characters — Turn off Roman word wrap
+# Composing CJK characters - Turn off Roman word wrap
 
 Selecting Arbitrary Hyphenation allows Roman words to break without following Roman hyphenation rules, and the line ending does not receive a hyphen character (-). When it is cleared, Roman hyphenation rules govern the breaks.
 

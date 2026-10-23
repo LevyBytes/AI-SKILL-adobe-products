@@ -1,4 +1,4 @@
-# Shared Adobe platform — PDFSaveOptions
+# Shared Adobe platform - PDFSaveOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PDFSaveOptions declaration in Shared Adobe platform. [PDFSaveOptions declaration](declaration.md).

@@ -1,8 +1,9 @@
 ---
 name: indesign
-description: Use when working with Adobe InDesign page layout, documents and books, typography, graphics, tables, interactive documents, collaboration, publishing, printing, preflight, or troubleshooting; automating the InDesign DOM; or building InDesign UXP scripts and plugins with the bundled runtime, UI, storage, and recipe references.
+description: "Use when working with Adobe InDesign page layout, documents and books, typography, graphics, tables, interactive documents, collaboration, publishing, printing, preflight or troubleshooting; automating the InDesign DOM; or building InDesign UXP scripts and plugins."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

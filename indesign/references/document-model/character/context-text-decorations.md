@@ -1,6 +1,6 @@
-# InDesign — Character: underline and strike-through
+# InDesign - Character: underline and strike-through
 
-Open when checking underline and strike-through in InDesign — Character.
+Open when checking underline and strike-through in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

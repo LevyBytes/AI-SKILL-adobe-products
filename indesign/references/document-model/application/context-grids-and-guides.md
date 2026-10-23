@@ -1,6 +1,6 @@
-# InDesign — Application: baseline grids and layout guides
+# InDesign - Application: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in InDesign — Application.
+Open when checking baseline grids and layout guides in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — MotionPreset
+# Shared Adobe platform - MotionPreset
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MotionPreset declaration in Shared Adobe platform. [MotionPreset declaration](declaration.md).

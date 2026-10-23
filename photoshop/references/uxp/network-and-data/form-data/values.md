@@ -1,4 +1,4 @@
-# window.FormData — values()
+# window.FormData - values()
 
 Provides an iterator over every value in FormData.
 Each returned item is a string or Blob object.

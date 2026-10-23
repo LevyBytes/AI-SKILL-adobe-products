@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: shared api values and sorting
+# Shared Adobe platform - Indesign: shared api values and sorting
 
-Open when working with shared api values and sorting in Shared Adobe platform — Indesign.
+Open when working with shared api values and sorting in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-api-values.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 9 0: host events and extension lifecycle
+# Shared Adobe platform - Cep 9 0: host events and extension lifecycle
 
-Open when working with host events and extension lifecycle in Shared Adobe platform — Cep 9 0.
+Open when working with host events and extension lifecycle in Shared Adobe platform - Cep 9 0.
 
 Open when selecting an exact reference: [Topic catalog](context-host-events.json).
 

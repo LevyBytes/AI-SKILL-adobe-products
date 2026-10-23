@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: host application and message apis
+# Shared Adobe platform - Shared: host application and message apis
 
-Open when working with host application and message apis in Shared Adobe platform — Shared.
+Open when working with host application and message apis in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-host-messaging.json).
 

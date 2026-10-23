@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [linearize-pdf.py](../examples/python/linearize-pdf/linearize-pdf.py)
+- [linearize-pdf setup and source](../examples/python/linearize-pdf/linearize-pdf-setup.md)

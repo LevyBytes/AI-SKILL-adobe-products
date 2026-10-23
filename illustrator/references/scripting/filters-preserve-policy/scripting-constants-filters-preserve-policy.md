@@ -1,4 +1,4 @@
-# Scripting Constants — FiltersPreservePolicy
+# Scripting Constants - FiltersPreservePolicy
 
 For FXG output, this policy controls how filters are preserved.
 

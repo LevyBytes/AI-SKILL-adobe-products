@@ -1,4 +1,4 @@
-# Firefly — Partner models to generate videos
+# Firefly - Partner models to generate videos
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate a video using Marey in Firefly. [Generate a video using Marey](generate-a-video-using-marey.md).

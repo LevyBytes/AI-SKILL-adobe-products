@@ -1,4 +1,4 @@
-# Photoshop — 5. Artboard creation
+# Photoshop - 5. Artboard creation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Behavioral changes in Photoshop. [Behavioral changes](behavioral-changes.md).

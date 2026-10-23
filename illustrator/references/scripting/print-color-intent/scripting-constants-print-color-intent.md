@@ -1,4 +1,4 @@
-# Scripting Constants — PrintColorIntent
+# Scripting Constants - PrintColorIntent
 
 | Value | Description |
 | --- | --- |

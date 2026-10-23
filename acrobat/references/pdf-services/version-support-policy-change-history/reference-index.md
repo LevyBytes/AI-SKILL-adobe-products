@@ -1,4 +1,4 @@
-# Acrobat — Version support policy change history
+# Acrobat - Version support policy change history
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up April 22, 2025; Java SDK 4.3.0 Release in Acrobat. [April 22, 2025; Java SDK 4.3.0 Release](april-22-2025-java-sdk-4-3-0-release.md).

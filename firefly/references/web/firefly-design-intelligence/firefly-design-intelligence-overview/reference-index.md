@@ -1,4 +1,4 @@
-# Firefly — Firefly Design Intelligence overview
+# Firefly - Firefly Design Intelligence overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Creation of Style IDs in Firefly. [Creation of Style IDs](creation-of-style-ids.md).

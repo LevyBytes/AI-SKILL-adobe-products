@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: text, fonts and text animators
+# After Effects - Scripting APIs: text, fonts and text animators
 
-Open when working with text, fonts and text animators in After Effects — Scripting APIs.
+Open when working with text, fonts and text animators in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-text-fonts.json).
 

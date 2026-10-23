@@ -1,4 +1,4 @@
-# Hyperlinks — Hyperlink appearance options
+# Hyperlinks - Hyperlink appearance options
 
 These settings control how the hyperlink or cross-reference source appears in the exported PDF or SWF file. In the InDesign document, the same appearance is visible after choosing View > Extras > Show Hyperlinks.
 

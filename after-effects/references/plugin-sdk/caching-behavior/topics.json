@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Tips & Tricks — Caching Behavior", "file": "references/plugin-sdk/caching-behavior/tips-tricks-caching-behavior.md", "summary": "Open when looking up Tips & Tricks — Caching Behavior in After Effects.", "keywords": ["Tips & Tricks — Caching Behavior"]},
+  {"topic": "Tips & Tricks - Caching Behavior", "file": "references/plugin-sdk/caching-behavior/tips-tricks-caching-behavior.md", "summary": "Open when looking up Tips & Tricks - Caching Behavior in After Effects.", "keywords": ["Tips & Tricks - Caching Behavior"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

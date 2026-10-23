@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: text stories, frames and ranges
+# Illustrator - Scripting APIs: text stories, frames and ranges
 
-Open when working with text stories, frames and ranges in Illustrator — Scripting APIs.
+Open when working with text stories, frames and ranges in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-text-content.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Group: hyperlinks, indexes and cross-references
+# InDesign - Group: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — Group.
+Open when checking hyperlinks, indexes and cross-references in InDesign - Group.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

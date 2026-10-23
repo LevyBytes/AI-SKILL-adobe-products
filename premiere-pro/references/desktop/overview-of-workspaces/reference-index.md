@@ -1,4 +1,4 @@
-# Premiere Pro — Overview of workspaces
+# Premiere Pro - Overview of workspaces
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Navigate the Home screen in Premiere Pro. [Navigate the Home screen](navigate-the-home-screen.md).

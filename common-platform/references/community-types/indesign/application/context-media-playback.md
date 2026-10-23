@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: movie and sound playback
+# Shared Adobe platform - Application: movie and sound playback
 
-Open when checking movie and sound playback in Shared Adobe platform — Application.
+Open when checking movie and sound playback in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

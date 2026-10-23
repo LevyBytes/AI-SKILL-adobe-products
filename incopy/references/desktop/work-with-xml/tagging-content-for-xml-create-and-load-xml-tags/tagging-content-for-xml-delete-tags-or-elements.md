@@ -1,4 +1,4 @@
-# Tagging content for XML — Delete tags or elements
+# Tagging content for XML - Delete tags or elements
 
 - To remove a tag from the Tags panel, drag it onto the Delete Tag icon at the panel bottom. If that tag is used on content, an alert appears. Choose another tag as the replacement, and click OK.
 - To remove every unused tag, choose Select All Unused Tags from the Tags panel menu, then use the Delete Tag icon at the panel bottom.

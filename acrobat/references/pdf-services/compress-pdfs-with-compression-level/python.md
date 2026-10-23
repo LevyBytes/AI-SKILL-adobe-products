@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [compress-pdf-with-options.py](../examples/python/compress-pdf-with-options/compress-pdf-with-options.py)
+- [compress-pdf-with-options setup and source](../examples/python/compress-pdf-with-options/compress-pdf-with-options-setup.md)

@@ -1,4 +1,4 @@
-# JavaScript APIs — Events
+# JavaScript APIs - Events
 
 What a multimedia Events object gathers together is a set of EventListener objects. On a MediaPlayer object or a ScreenAnnot object, the events property is one of these Events objects.
 

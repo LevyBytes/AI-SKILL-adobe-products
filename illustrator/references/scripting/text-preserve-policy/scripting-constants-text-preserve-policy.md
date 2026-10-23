@@ -1,4 +1,4 @@
-# Scripting Constants — TextPreservePolicy
+# Scripting Constants - TextPreservePolicy
 
 FXG export uses these policies for preserving text.
 

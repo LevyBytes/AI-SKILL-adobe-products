@@ -1,4 +1,4 @@
-# Artisan Data Types — How Should I Draw That?
+# Artisan Data Types - How Should I Draw That?
 
 After Effects depends on Artisans to draw 3D layer handles. When your Artisan does not respond to this call, the default Artisan draws the 3D layer handles instead. Querying transforms matters because it helps optimize After Effects' caching.
 

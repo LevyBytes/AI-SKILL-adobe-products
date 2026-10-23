@@ -1,4 +1,4 @@
-# Acrobat — Manage color and print quality
+# Acrobat - Manage color and print quality
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color management in Acrobat Pro in Acrobat. [Color management in Acrobat Pro](color-management-in-acrobat-pro.md).

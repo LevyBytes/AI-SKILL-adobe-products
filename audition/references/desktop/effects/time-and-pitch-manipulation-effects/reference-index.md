@@ -1,4 +1,4 @@
-# Audition — Time and pitch manipulation effects
+# Audition - Time and pitch manipulation effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automatic Pitch Correction effect in Audition. [Automatic Pitch Correction effect](automatic-pitch-correction-effect.md).

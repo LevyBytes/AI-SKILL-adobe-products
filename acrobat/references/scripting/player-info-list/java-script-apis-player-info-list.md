@@ -1,4 +1,4 @@
-# JavaScript APIs — PlayerInfoList
+# JavaScript APIs - PlayerInfoList
 
 Think of this object as standing in for an array of PlayerInfo objects. You reach the individual PlayerInfo elements with the ordinary array-index syntax, and you read how many there are from the length property.
 

@@ -1,6 +1,6 @@
-# InDesign — Properties: backgrounds and transparency
+# InDesign - Properties: backgrounds and transparency
 
-Open when working with backgrounds and transparency in InDesign — Properties.
+Open when working with backgrounds and transparency in InDesign - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-backgrounds.json).
 

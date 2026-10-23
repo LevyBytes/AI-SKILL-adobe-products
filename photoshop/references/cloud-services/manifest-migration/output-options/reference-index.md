@@ -1,4 +1,4 @@
-# Photoshop — Output options
+# Photoshop - Output options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Creative Cloud storage in Photoshop. [Creative Cloud storage](creative-cloud-storage.md).

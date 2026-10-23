@@ -1,4 +1,4 @@
-# Shared Adobe platform — CharacterStyles
+# Shared Adobe platform - CharacterStyles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CharacterStyles collection iteration in Shared Adobe platform. [CharacterStyles collection iteration](collection-iteration.md).

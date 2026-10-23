@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "PF_OutData — PF_OutFlags", "file": "references/plugin-sdk/pf-out-flags/pf-out-data-pf-out-flags.md", "summary": "Open when looking up PF_OutData — PF_OutFlags in After Effects.", "keywords": ["PF_OutData — PF_OutFlags"]},
+  {"topic": "PF_OutData - PF_OutFlags", "file": "references/plugin-sdk/pf-out-flags/pf-out-data-pf-out-flags.md", "summary": "Open when looking up PF_OutData - PF_OutFlags in After Effects.", "keywords": ["PF_OutData - PF_OutFlags"]},
   {"topic": "PF_OutFlag_AUDIO_EFFECT_ONLY", "file": "references/plugin-sdk/pf-out-flags/pf-out-flag-audioeffectonly.md", "summary": "Open when looking up PF_OutFlag_AUDIO_EFFECT_ONLY in After Effects.", "keywords": ["PF_OutFlag_AUDIO_EFFECT_ONLY"]},
   {"topic": "PF_OutFlag_AUDIO_EFFECT_TOO", "file": "references/plugin-sdk/pf-out-flags/pf-out-flag-audioeffecttoo.md", "summary": "Open when looking up PF_OutFlag_AUDIO_EFFECT_TOO in After Effects.", "keywords": ["PF_OutFlag_AUDIO_EFFECT_TOO"]},
   {"topic": "PF_OutFlag_AUDIO_FLOAT_ONLY", "file": "references/plugin-sdk/pf-out-flags/pf-out-flag-audiofloatonly.md", "summary": "Open when looking up PF_OutFlag_AUDIO_FLOAT_ONLY in After Effects.", "keywords": ["PF_OutFlag_AUDIO_FLOAT_ONLY"]},

@@ -1,6 +1,6 @@
-# InDesign — Eps text: placement, bounds and transformations
+# InDesign - Eps text: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Eps text.
+Open when checking placement, bounds and transformations in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

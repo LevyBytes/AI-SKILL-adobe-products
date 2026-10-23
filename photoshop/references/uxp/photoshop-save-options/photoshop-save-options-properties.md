@@ -1,4 +1,4 @@
-# Photoshop Save Options — Properties
+# Photoshop Save Options - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

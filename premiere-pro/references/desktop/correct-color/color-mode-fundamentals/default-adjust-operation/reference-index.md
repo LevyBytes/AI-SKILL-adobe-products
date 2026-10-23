@@ -1,4 +1,4 @@
-# Premiere Pro — Default Adjust Operation
+# Premiere Pro - Default Adjust Operation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust Saturation in Premiere Pro. [Adjust Saturation](adjust-saturation.md).

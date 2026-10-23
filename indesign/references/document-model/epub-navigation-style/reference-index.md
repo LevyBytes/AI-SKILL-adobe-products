@@ -1,4 +1,4 @@
-# InDesign — EpubNavigationStyle
+# InDesign - EpubNavigationStyle
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOOKMARKS_NAVIGATION in InDesign. [BOOKMARKS_NAVIGATION](bookmarksnavigation.md).

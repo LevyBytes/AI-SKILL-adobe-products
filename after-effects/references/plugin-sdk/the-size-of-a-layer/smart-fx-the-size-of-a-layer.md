@@ -1,4 +1,4 @@
-# SmartFX — The "Size" Of A Layer
+# SmartFX - The "Size" Of A Layer
 
 Just like non-smart effects, every smart effect is free to shrink or grow its requested input however it likes. They can't count on a fixed frame size, and the input's size may shift over time.
 

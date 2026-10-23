@@ -1,4 +1,4 @@
-# InDesign — Extend, join, and convert paths
+# InDesign - Extend, join, and convert paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Close or join paths in InDesign. [Close or join paths](close-or-join-paths.md).

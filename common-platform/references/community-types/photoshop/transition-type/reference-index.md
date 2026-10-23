@@ -1,4 +1,4 @@
-# Shared Adobe platform — TransitionType
+# Shared Adobe platform - TransitionType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TransitionType declaration in Shared Adobe platform. [TransitionType declaration](declaration.md).

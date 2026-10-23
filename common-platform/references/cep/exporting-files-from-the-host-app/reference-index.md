@@ -1,4 +1,4 @@
-# Shared Adobe platform — Exporting files from the host app
+# Shared Adobe platform - Exporting files from the host app
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add click handlers to the buttons in Shared Adobe platform. [Add click handlers to the buttons](add-click-handlers-to-the-buttons.md).

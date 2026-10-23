@@ -1,4 +1,4 @@
-# Acrobat — Search
+# Acrobat - Search
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addIndex in Acrobat. [addIndex](add-index.md).
@@ -12,7 +12,7 @@
 - Open when looking up ignoreAccents in Acrobat. [ignoreAccents](ignore-accents.md).
 - Open when looking up ignoreAsianCharacterWidth in Acrobat. [ignoreAsianCharacterWidth](ignore-asian-character-width.md).
 - Open when looking up indexes in Acrobat. [indexes](indexes.md).
-- Open when looking up JavaScript APIs — search in Acrobat. [JavaScript APIs — search](java-script-apis-search.md).
+- Open when looking up JavaScript APIs - search in Acrobat. [JavaScript APIs - search](java-script-apis-search.md).
 - Open when looking up jpegExif in Acrobat. [jpegExif](jpeg-exif.md).
 - Open when looking up legacySearch in Acrobat. [legacySearch](legacy-search.md).
 - Open when looking up markup in Acrobat. [markup](markup.md).

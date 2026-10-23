@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: ruby annotations
+# InDesign - Paragraph style: ruby annotations
 
-Open when checking ruby annotations in InDesign — Paragraph style.
+Open when checking ruby annotations in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

@@ -1,4 +1,4 @@
-# Firefly — Technical requirements
+# Firefly - Technical requirements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Desktop requirements in Firefly. [Desktop requirements](desktop-requirements.md).

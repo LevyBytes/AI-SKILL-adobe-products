@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: variable data, datasets and tags
+# Illustrator - Scripting APIs: variable data, datasets and tags
 
-Open when working with variable data, datasets and tags in Illustrator — Scripting APIs.
+Open when working with variable data, datasets and tags in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-variables-metadata.json).
 

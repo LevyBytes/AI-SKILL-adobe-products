@@ -1,6 +1,6 @@
-# InDesign — ObjectStyle: clipboard and editing defaults
+# InDesign - ObjectStyle: clipboard and editing defaults
 
-Open when checking clipboard and editing defaults in InDesign — ObjectStyle.
+Open when checking clipboard and editing defaults in InDesign - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-clipboard-editing.json).
 

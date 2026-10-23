@@ -1,4 +1,4 @@
-# Multichannel audio workflow — Multitrack Editor
+# Multichannel audio workflow - Multitrack Editor
 
 Within a session, multichannel audio or video can be brought into the Multitrack Editor as a single multichannel clip; that is the default behavior. To have Audition split individual channels, or groups of channels, into separate clips during drag-and-drop, hold Alt (Windows) or Option (Mac) during the drag.
 

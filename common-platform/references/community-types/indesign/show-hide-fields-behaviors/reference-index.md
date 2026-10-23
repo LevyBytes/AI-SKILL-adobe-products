@@ -1,4 +1,4 @@
-# Shared Adobe platform — ShowHideFieldsBehaviors
+# Shared Adobe platform - ShowHideFieldsBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ShowHideFieldsBehaviors collection iteration in Shared Adobe platform. [ShowHideFieldsBehaviors collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "TextDocument object — Attributes", "file": "references/scripting/text-document-object/text-document-object-attributes.md", "summary": "Open when looking up TextDocument object — Attributes in After Effects.", "keywords": ["TextDocument object — Attributes"]},
+  {"topic": "TextDocument object - Attributes", "file": "references/scripting/text-document-object/text-document-object-attributes.md", "summary": "Open when looking up TextDocument object - Attributes in After Effects.", "keywords": ["TextDocument object - Attributes"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

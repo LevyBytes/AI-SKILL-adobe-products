@@ -1,4 +1,4 @@
-# RectF — Properties
+# RectF - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

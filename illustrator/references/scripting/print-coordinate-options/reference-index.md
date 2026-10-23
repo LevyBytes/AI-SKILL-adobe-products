@@ -1,4 +1,4 @@
-# Illustrator — PrintCoordinateOptions
+# Illustrator - PrintCoordinateOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PrintCoordinateOptions.emulsion in Illustrator. [PrintCoordinateOptions.emulsion](emulsion.md).

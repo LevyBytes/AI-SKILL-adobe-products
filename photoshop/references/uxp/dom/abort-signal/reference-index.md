@@ -1,4 +1,4 @@
-# Photoshop — Abort signal
+# Photoshop - Abort signal
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up abort(reason) in Photoshop. [abort(reason)](abort.md).

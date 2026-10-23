@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: generate qr codes
+# InDesign - ImportedPage: generate qr codes
 
-Open when checking generate qr codes in InDesign — ImportedPage.
+Open when checking generate qr codes in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

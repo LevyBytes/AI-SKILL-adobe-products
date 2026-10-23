@@ -1,4 +1,4 @@
-# After Effects — AEGP_RenderSuite4
+# After Effects - AEGP_RenderSuite4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CheckinFrame in After Effects. [AEGP_CheckinFrame](aegp-checkin-frame.md).

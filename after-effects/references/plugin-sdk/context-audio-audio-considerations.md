@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: audio considerations
+# After Effects - C++ plugin SDK: audio considerations
 
-Open when working with audio considerations in After Effects — C++ plugin SDK.
+Open when working with audio considerations in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-audio-considerations.json).
 

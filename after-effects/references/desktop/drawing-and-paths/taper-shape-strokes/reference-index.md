@@ -1,4 +1,4 @@
-# After Effects — Taper shape strokes
+# After Effects - Taper shape strokes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose from the different units of wave for different results in After Effects. [Choose from the different units of wave for different results](choose-from-the-different-units-of-wave-for-different-results.md).

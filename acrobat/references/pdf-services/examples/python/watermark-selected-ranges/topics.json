@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Watermark selected ranges example setup", "file": "references/pdf-services/examples/python/watermark-selected-ranges/watermark-selected-ranges-setup.md", "summary": "Open when looking up Watermark selected ranges example setup in Acrobat.", "keywords": ["Watermark selected ranges example setup"]},
-  {"topic": "watermark_selected_ranges.py", "file": "references/pdf-services/examples/python/watermark-selected-ranges/watermark_selected_ranges.py", "summary": "Open when looking up watermark_selected_ranges.py in Acrobat.", "keywords": ["watermark_selected_ranges.py"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

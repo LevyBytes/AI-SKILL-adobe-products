@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/linearize-pdf/Program.cs)
+- [linearize-pdf setup and source](../examples/dotnet/linearize-pdf/linearize-pdf-setup.md)

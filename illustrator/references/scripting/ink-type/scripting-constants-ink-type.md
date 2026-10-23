@@ -1,4 +1,4 @@
-# Scripting Constants — InkType
+# Scripting Constants - InkType
 
 | Value | Description |
 | --- | --- |

@@ -15,7 +15,7 @@ Complete example files:
 - [export-panel.js](../examples/document-export/client/export-panel.js)
 - [export-panel.html](../examples/document-export/client/export-panel.html)
 - [export-panel.css](../examples/document-export/client/export-panel.css)
-- [manifest.xml](../examples/document-export/CSXS/manifest.xml)
+- [manifest.xml](https://github.com/Adobe-CEP/Getting-Started-guides/tree/master/Exporting%20files%20from%20the%20host%20app)
 - [example-guide.md](../examples/document-export/example-guide.md)
 
 The version values in the example above deliberately cover only one version of each host app to keep the demo simple. Real extensions often target a range of host app versions. For multiple-version support, use the Cookbook's [extension-manifest section](https://github.com/Adobe-CEP/CEP-Resources/blob/master/CEP_8.x/Documentation/CEP%208.0%20HTML%20Extension%20Cookbook.md#extension-manifest).

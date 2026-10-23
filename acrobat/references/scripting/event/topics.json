@@ -27,7 +27,7 @@
   {"topic": "Field/Validate", "file": "references/scripting/event/field-validate.md", "summary": "Open when looking up Field/Validate in Acrobat.", "keywords": ["Field/Validate"]},
   {"topic": "fieldFull", "file": "references/scripting/event/field-full.md", "summary": "Open when looking up fieldFull in Acrobat.", "keywords": ["fieldFull"]},
   {"topic": "Form event processing", "file": "references/scripting/event/form-event-processing.md", "summary": "Open when looking up Form event processing in Acrobat.", "keywords": ["Form event processing"]},
-  {"topic": "JavaScript APIs — event", "file": "references/scripting/event/java-script-apis-event.md", "summary": "Open when looking up JavaScript APIs — event in Acrobat.", "keywords": ["JavaScript APIs — event"]},
+  {"topic": "JavaScript APIs - event", "file": "references/scripting/event/java-script-apis-event.md", "summary": "Open when looking up JavaScript APIs - event in Acrobat.", "keywords": ["JavaScript APIs - event"]},
   {"topic": "keyDown", "file": "references/scripting/event/key-down.md", "summary": "Open when looking up keyDown in Acrobat.", "keywords": ["keyDown"]},
   {"topic": "Link/Mouse Up", "file": "references/scripting/event/link-mouse-up.md", "summary": "Open when looking up Link/Mouse Up in Acrobat.", "keywords": ["Link/Mouse Up"]},
   {"topic": "Menu/Exec", "file": "references/scripting/event/menu-exec.md", "summary": "Open when looking up Menu/Exec in Acrobat.", "keywords": ["Menu/Exec"]},

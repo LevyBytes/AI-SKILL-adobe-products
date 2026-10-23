@@ -1,6 +1,6 @@
-# InDesign — Eps text: export documents and select formats
+# InDesign - Eps text: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — Eps text.
+Open when checking export documents and select formats in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: data merge placeholders and options
+# Shared Adobe platform - Document: data merge placeholders and options
 
-Open when checking data merge placeholders and options in Shared Adobe platform — Document.
+Open when checking data merge placeholders and options in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-data-merge.json).
 

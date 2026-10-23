@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: events and listeners
+# InDesign - Paragraph style: events and listeners
 
-Open when checking events and listeners in InDesign — Paragraph style.
+Open when checking events and listeners in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

@@ -1,4 +1,4 @@
-# Firefly — Work with enterprise features
+# Firefly - Work with enterprise features
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Collaborate using Style Kits in Firefly. [Collaborate using Style Kits](collaborate-using-style-kits.md).

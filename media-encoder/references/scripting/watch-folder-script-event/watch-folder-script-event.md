@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — WatchFolderScriptEvent
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - WatchFolderScriptEvent
 
 Event emitted when a batch item import finishes.
 

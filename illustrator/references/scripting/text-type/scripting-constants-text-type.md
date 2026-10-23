@@ -1,4 +1,4 @@
-# Scripting Constants — TextType
+# Scripting Constants - TextType
 
 This object reports text art as one of these types.
 

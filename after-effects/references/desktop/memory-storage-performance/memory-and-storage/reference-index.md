@@ -1,4 +1,4 @@
-# After Effects — Memory and storage
+# After Effects - Memory and storage
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Caches: RAM cache, disk cache, and media cache in After Effects. [Caches: RAM cache, disk cache, and media cache](caches-ram-cache-disk-cache-and-media-cache.md).

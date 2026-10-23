@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: pipl resources
+# After Effects - C++ plugin SDK: pipl resources
 
-Open when working with pipl resources in After Effects — C++ plugin SDK.
+Open when working with pipl resources in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-pipl-resources.json).
 

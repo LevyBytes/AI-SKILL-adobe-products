@@ -1,4 +1,4 @@
-# AddTransitionOptions — Properties
+# AddTransitionOptions - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

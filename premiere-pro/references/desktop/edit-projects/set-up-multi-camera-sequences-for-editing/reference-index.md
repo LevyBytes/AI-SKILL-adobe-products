@@ -1,4 +1,4 @@
-# Premiere Pro — Set up multi-camera sequences for editing
+# Premiere Pro - Set up multi-camera sequences for editing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the order of cameras in Source and Program Monitors in Premiere Pro. [Change the order of cameras in Source and Program Monitors](change-the-order-of-cameras-in-source-and-program-monitors.md).

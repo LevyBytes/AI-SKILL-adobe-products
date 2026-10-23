@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — Preferences and composition settings that affect nested compositions
+# Precomposing, nesting, and pre-rendering - Preferences and composition settings that affect nested compositions
 
 Since a precomposition counts as a layer in its own right, its behavior responds to the layer switches and composition switches found in the Timeline panel. Whether switch changes in the parent composition carry through to the nested one is up to you. Keep layer switches from reaching nested compositions by going to Edit > Preferences > Composition (Windows) or After Effects > Settings > Composition (macOS), then turning off Switches Affect Nested Comps.
 

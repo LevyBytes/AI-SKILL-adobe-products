@@ -1,4 +1,4 @@
-# Illustrator — Learn painting basics
+# Illustrator - Learn painting basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About fills and strokes in Illustrator. [About fills and strokes](about-fills-and-strokes.md).

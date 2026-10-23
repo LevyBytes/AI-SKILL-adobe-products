@@ -1,4 +1,4 @@
-# window.Element — hasAttributes()
+# window.Element - hasAttributes()
 
 Reports whether the current element contains at least one attribute.
 

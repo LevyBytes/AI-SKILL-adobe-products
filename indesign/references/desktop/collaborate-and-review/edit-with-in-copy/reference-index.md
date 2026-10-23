@@ -1,4 +1,4 @@
-# InDesign — Edit with in copy
+# InDesign - Edit with in copy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About assignment files between InDesign and InCopy in InDesign. [About assignment files between InDesign and InCopy](about-assignment-files-between-in-design-and-in-copy.md).

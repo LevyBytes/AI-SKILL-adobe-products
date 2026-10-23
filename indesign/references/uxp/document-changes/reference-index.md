@@ -1,4 +1,4 @@
-# InDesign — Document changes
+# InDesign - Document changes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding a baseline grid in InDesign. [Adding a baseline grid](adding-a-baseline-grid.md).

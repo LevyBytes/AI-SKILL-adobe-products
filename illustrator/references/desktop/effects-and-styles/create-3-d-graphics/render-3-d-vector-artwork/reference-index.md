@@ -1,4 +1,4 @@
-# Illustrator — Render 3D vector artwork
+# Illustrator - Render 3D vector artwork
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ray Tracing settings in Illustrator. [Ray Tracing settings](ray-tracing-settings.md).

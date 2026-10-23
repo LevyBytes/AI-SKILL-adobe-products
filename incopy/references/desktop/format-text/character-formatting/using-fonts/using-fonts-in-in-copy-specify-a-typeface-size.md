@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Specify a typeface size
+# Using fonts in InCopy - Specify a typeface size
 
 The default unit for typeface size is points, with 1 point equal to 1/72 of an inch. Typeface size can be set from 0.1 to 1296 points, using increments of 0.001 point.
 

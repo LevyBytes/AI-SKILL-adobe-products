@@ -1,4 +1,6 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Python call pattern", "file": "references/pdf-services/examples/python/call-pattern.py", "summary": "Open when writing any PDF Services call in Python.", "keywords": ["Python call pattern"]},
+  {"topic": "Python operations", "file": "references/pdf-services/examples/python/operations.md", "summary": "Open when choosing an operation's job, parameter and result classes in Python.", "keywords": ["Python operations"]},
   {"topic": "Autotag pdf parametrised references", "file": "references/pdf-services/examples/python/autotag-pdf-parametrised/reference-index.md", "summary": "Open when looking up Autotag pdf parametrised in Acrobat.", "keywords": ["Autotag pdf parametrised references"]},
   {"topic": "Autotag pdf references", "file": "references/pdf-services/examples/python/autotag-pdf/reference-index.md", "summary": "Open when looking up Autotag pdf in Acrobat.", "keywords": ["Autotag pdf references"]},
   {"topic": "Combine pdf references", "file": "references/pdf-services/examples/python/combine-pdf/reference-index.md", "summary": "Open when looking up Combine pdf in Acrobat.", "keywords": ["Combine pdf references"]},

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: audio and video playback
+# Shared Adobe platform - Indesign: audio and video playback
 
-Open when working with audio and video playback in Shared Adobe platform — Indesign.
+Open when working with audio and video playback in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-video.json).
 

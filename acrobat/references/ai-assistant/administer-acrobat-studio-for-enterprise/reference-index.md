@@ -1,4 +1,4 @@
-# Acrobat — Administer Acrobat Studio for enterprise
+# Acrobat - Administer Acrobat Studio for enterprise
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assigning AI Assistant to Acrobat and Acrobat Reader in Acrobat. [Assigning AI Assistant to Acrobat and Acrobat Reader](assigning-ai-assistant-to-acrobat-and-acrobat-reader.md).

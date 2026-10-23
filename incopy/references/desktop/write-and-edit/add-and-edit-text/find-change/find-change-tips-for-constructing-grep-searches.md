@@ -1,4 +1,4 @@
-# Find/Change — Tips for constructing GREP searches
+# Find/Change - Tips for constructing GREP searches
 
 Use these guidelines when building GREP expressions.
 

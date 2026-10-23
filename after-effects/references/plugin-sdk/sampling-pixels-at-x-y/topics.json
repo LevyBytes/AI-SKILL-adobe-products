@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Tips & Tricks — Sampling Pixels At (x,y)", "file": "references/plugin-sdk/sampling-pixels-at-x-y/tips-tricks-sampling-pixels-at-x-y.md", "summary": "Open when looking up Tips & Tricks — Sampling Pixels At (x,y) in After Effects.", "keywords": ["Tips & Tricks — Sampling Pixels At (x,y)"]},
+  {"topic": "Tips & Tricks - Sampling Pixels At (x,y)", "file": "references/plugin-sdk/sampling-pixels-at-x-y/tips-tricks-sampling-pixels-at-x-y.md", "summary": "Open when looking up Tips & Tricks - Sampling Pixels At (x,y) in After Effects.", "keywords": ["Tips & Tricks - Sampling Pixels At (x,y)"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

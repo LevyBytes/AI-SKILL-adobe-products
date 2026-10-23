@@ -1,4 +1,4 @@
-# Photoshop — Create masks
+# Photoshop - Create masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blend images in Photoshop. [Blend images](blend-images.md).

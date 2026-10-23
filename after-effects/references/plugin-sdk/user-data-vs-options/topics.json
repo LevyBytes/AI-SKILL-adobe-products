@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Implementation Details — User Data vs. Options", "file": "references/plugin-sdk/user-data-vs-options/implementation-details-user-data-vs-options.md", "summary": "Open when looking up Implementation Details — User Data vs. Options in After Effects.", "keywords": ["Implementation Details — User Data vs. Options"]},
+  {"topic": "Implementation Details - User Data vs. Options", "file": "references/plugin-sdk/user-data-vs-options/implementation-details-user-data-vs-options.md", "summary": "Open when looking up Implementation Details - User Data vs. Options in After Effects.", "keywords": ["Implementation Details - User Data vs. Options"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

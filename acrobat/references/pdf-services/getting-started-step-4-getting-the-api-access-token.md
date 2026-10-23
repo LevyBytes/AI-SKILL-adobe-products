@@ -1,4 +1,4 @@
-# Getting Started — Step 4 : Getting the API access token
+# Getting Started - Step 4 : Getting the API access token
 
 The PDF Electronic Seal API exposes authenticated endpoints, and obtaining an access token takes two steps:
 

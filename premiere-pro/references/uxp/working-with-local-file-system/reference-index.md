@@ -1,4 +1,4 @@
-# Premiere Pro — Working with local file system
+# Premiere Pro - Working with local file system
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Domain tokens in Premiere Pro. [Domain tokens](domain-tokens.md).

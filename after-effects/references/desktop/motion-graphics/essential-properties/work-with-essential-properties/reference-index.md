@@ -1,4 +1,4 @@
-# After Effects — Work with Essential Properties
+# After Effects - Work with Essential Properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Glossary of terms in After Effects. [Glossary of terms](glossary-of-terms.md).

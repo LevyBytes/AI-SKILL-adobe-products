@@ -1,4 +1,4 @@
-# Defining behavior with event callbacks and listeners — Registering event listeners for windows or controls
+# Defining behavior with event callbacks and listeners - Registering event listeners for windows or controls
 
 You can define window and control behavior by registering a handler function for a particular event type on that window or control. With this approach, the script can react as the event travels through nested containers and controls.
 

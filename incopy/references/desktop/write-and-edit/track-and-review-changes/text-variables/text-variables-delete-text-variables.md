@@ -1,4 +1,4 @@
-# Text variables — Delete text variables
+# Text variables - Delete text variables
 
 To remove one placed text-variable instance from a document, select that variable and press Backspace or Delete. You can remove the variable definition as well; when you do, InCopy lets you choose what should happen to the instances already placed in the document.
 

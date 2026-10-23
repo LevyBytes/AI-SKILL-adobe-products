@@ -1,4 +1,4 @@
-# Save and export audio files — libsndfile, FLAC, and OGG format settings
+# Save and export audio files - libsndfile, FLAC, and OGG format settings
 
 These options apply across many formats.
 

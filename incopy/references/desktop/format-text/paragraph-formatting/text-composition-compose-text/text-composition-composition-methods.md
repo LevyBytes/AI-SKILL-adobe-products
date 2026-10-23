@@ -1,4 +1,4 @@
-# Text composition — Composition methods
+# Text composition - Composition methods
 
 InCopy provides Adobe Paragraph Composer as the default composition method and also offers Adobe Single-line Composer. Both methods examine possible breaks and select the ones that best match the hyphenation and justification options set for the paragraph.
 

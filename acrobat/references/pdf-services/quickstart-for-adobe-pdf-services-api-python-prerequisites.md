@@ -1,4 +1,4 @@
-# Quickstart for Adobe PDF Services API (Python) — Prerequisites
+# Quickstart for Adobe PDF Services API (Python) - Prerequisites
 
 Here's what has to be in place before you can follow this guide:
 

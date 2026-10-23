@@ -1,4 +1,4 @@
-# Pdf Electronic Seal Api — Gettingstarted
+# Pdf Electronic Seal Api - Gettingstarted
 
 > Adobe Acrobat reference. Original prose; identifiers preserved verbatim.
 

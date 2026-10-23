@@ -1,4 +1,4 @@
-# Premiere Pro — Change project lock status in Production
+# Premiere Pro - Change project lock status in Production
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change a project lock status in Premiere Pro. [Change a project lock status](change-a-project-lock-status.md).

@@ -1,4 +1,4 @@
-# Formatting characters — Determine the appearance of scaled text values
+# Formatting characters - Determine the appearance of scaled text values
 
 Scaling a frame also scales the text inside it. For example, if a text frame is doubled in size, the contained text doubles as well; 20-point text becomes 40 points.
 

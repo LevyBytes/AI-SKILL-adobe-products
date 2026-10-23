@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: search, replace and transliteration
+# Shared Adobe platform - Indesign: search, replace and transliteration
 
-Open when working with search, replace and transliteration in Shared Adobe platform — Indesign.
+Open when working with search, replace and transliteration in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-find-replace.json).
 

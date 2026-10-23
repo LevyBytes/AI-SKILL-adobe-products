@@ -1,4 +1,4 @@
-# Illustrator — Edit symbols
+# Illustrator - Edit symbols
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit a symbol in Illustrator. [Edit a symbol](edit-a-symbol.md).

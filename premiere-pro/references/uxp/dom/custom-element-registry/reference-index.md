@@ -1,4 +1,4 @@
-# Premiere Pro — Custom element registry
+# Premiere Pro - Custom element registry
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up define(name, constructor, options) in Premiere Pro. [define(name, constructor, options)](define.md).

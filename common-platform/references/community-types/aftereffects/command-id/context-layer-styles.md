@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: layer styles
+# Shared Adobe platform - _CommandID: layer styles
 
-Open when working with layer styles in Shared Adobe platform — _CommandID.
+Open when working with layer styles in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-layer-styles.json).
 

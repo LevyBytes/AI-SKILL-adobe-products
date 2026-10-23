@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: image conversion and web export
+# Shared Adobe platform - Document: image conversion and web export
 
-Open when checking image conversion and web export in Shared Adobe platform — Document.
+Open when checking image conversion and web export in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-image-web-export.json).
 

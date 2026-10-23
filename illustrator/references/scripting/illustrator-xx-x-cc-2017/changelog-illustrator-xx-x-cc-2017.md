@@ -1,3 +1,3 @@
-# Changelog — Illustrator XX.X (CC 2017) <>
+# Changelog - Illustrator XX.X (CC 2017) <>
 
 - Added: Application.getIsFileOpen()

@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: dynamic artwork
+# Illustrator - Scripting APIs: dynamic artwork
 
-Open when working with dynamic artwork in Illustrator — Scripting APIs.
+Open when working with dynamic artwork in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-dynamic-data.json).
 

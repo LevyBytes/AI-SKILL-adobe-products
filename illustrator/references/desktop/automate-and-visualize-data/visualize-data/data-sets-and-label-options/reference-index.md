@@ -1,4 +1,4 @@
-# Illustrator — Data sets and label options
+# Illustrator - Data sets and label options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Data sets in Illustrator. [Data sets](data-sets.md).

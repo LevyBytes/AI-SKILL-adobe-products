@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: stabilize camera motion
+# Premiere Pro - Desktop workflows: stabilize camera motion
 
-Open when working with stabilize camera motion in Premiere Pro — Desktop workflows.
+Open when working with stabilize camera motion in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-stabilization.json).
 

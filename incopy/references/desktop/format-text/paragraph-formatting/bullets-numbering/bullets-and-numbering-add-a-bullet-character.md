@@ -1,4 +1,4 @@
-# Bullets and numbering — Add a bullet character
+# Bullets and numbering - Add a bullet character
 
 In the Bullets And Numbering dialog box, choose Bullets from the List Type menu, then click Add. Pick the glyph that should become the bullet character. Glyph availability varies by font family and font style. To have the new bullet keep the font and style currently selected, choose Remember Font With Bullet. Click Add.
 

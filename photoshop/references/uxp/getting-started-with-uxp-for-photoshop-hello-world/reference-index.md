@@ -1,4 +1,4 @@
-# Photoshop — Getting Started with UXP for Photoshop — Hello World
+# Photoshop - Getting Started with UXP for Photoshop - Hello World
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Design guides in Photoshop. [Design guides](design-guides.md).

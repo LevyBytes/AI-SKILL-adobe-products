@@ -1,4 +1,4 @@
-# Illustrator — Identify fonts using Retype
+# Illustrator - Identify fonts using Retype
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Identify fonts in Illustrator. [Identify fonts](identify-fonts.md).

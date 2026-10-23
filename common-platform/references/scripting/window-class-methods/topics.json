@@ -3,6 +3,6 @@
   {"topic": "confirm()", "file": "references/scripting/window-class-methods/confirm.md", "summary": "Open when looking up confirm() in Shared Adobe platform.", "keywords": ["confirm()"]},
   {"topic": "find()", "file": "references/scripting/window-class-methods/find.md", "summary": "Open when looking up find() in Shared Adobe platform.", "keywords": ["find()"]},
   {"topic": "prompt()", "file": "references/scripting/window-class-methods/prompt.md", "summary": "Open when looking up prompt() in Shared Adobe platform.", "keywords": ["prompt()"]},
-  {"topic": "Window class — Window Class Methods", "file": "references/scripting/window-class-methods/window-class-window-class-methods.md", "summary": "Open when looking up Window class — Window Class Methods in Shared Adobe platform.", "keywords": ["Window class — Window Class Methods"]},
+  {"topic": "Window class - Window Class Methods", "file": "references/scripting/window-class-methods/window-class-window-class-methods.md", "summary": "Open when looking up Window class - Window Class Methods in Shared Adobe platform.", "keywords": ["Window class - Window Class Methods"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

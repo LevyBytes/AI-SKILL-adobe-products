@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: warichu inline text
+# Shared Adobe platform - CharacterStyle: warichu inline text
 
-Open when checking warichu inline text in Shared Adobe platform — CharacterStyle.
+Open when checking warichu inline text in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

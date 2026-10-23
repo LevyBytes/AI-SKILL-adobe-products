@@ -1,4 +1,4 @@
-# Photoshop — Key migration changes
+# Photoshop - Key migration changes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Type mapping in Photoshop. [1. Type mapping](type-mapping.md).

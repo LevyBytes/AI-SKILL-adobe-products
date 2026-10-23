@@ -1,4 +1,4 @@
-# After Effects — Property group
+# After Effects - Property group
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PropertyGroup.addProperty() in After Effects. [PropertyGroup.addProperty()](add-property.md).

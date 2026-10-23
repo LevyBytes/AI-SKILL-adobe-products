@@ -1,4 +1,4 @@
-# After Effects — Layer markers and composition markers
+# After Effects - Layer markers and composition markers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply layer markers in After Effects. [Apply layer markers](apply-layer-markers.md).

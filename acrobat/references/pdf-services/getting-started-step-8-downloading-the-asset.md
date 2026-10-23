@@ -1,4 +1,4 @@
-# Getting Started — Step 8 : Downloading the asset
+# Getting Started - Step 8 : Downloading the asset
 
 When the poll API comes back with a `200` response code, its response body carries a `status` field whose value is `in progress`, `done` or `failed`.
 

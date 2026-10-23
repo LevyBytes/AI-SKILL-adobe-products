@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: workspace, windows and menus
+# InDesign - InDesign document object model: workspace, windows and menus
 
-Open when working with workspace, windows and menus in InDesign — InDesign document object model.
+Open when working with workspace, windows and menus in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-workspace.json).
 

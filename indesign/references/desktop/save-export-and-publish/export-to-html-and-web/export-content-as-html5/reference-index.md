@@ -1,4 +1,4 @@
-# InDesign — Export content as HTML5
+# InDesign - Export content as HTML5
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Difference between HTML5 Package and HTML (Legacy) in InDesign. [Difference between HTML5 Package and HTML (Legacy)](difference-between-html5-package-and-html-legacy.md).

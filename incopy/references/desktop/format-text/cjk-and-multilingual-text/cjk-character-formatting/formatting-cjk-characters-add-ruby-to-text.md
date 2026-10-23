@@ -1,4 +1,4 @@
-# Formatting CJK characters — Add Ruby to text
+# Formatting CJK characters - Add Ruby to text
 
 Japanese typography uses Ruby, also called furigana, to show kanji yomi in hiragana. In Simplified Chinese, Ruby is named Pinyin; in Traditional Chinese, Ruby is named Chuyin. InDesign offers complete Japanese Ruby support and limited support for Chinese Pinyin or Chuyin. Ruby settings control Ruby location, size, and color. When ruby text is longer than its parent, you can also set the ruby distribution. Tate-chu-yoko can be applied to Ruby as well.
 

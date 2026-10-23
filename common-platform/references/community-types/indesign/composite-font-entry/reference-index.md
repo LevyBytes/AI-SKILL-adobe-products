@@ -1,4 +1,4 @@
-# Shared Adobe platform — CompositeFontEntry
+# Shared Adobe platform - CompositeFontEntry
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CompositeFontEntry declaration in Shared Adobe platform. [CompositeFontEntry declaration](declaration.md).

@@ -1,4 +1,4 @@
-# Exporting to Adobe PDF — Create secure PDF documents
+# Exporting to Adobe PDF - Create secure PDF documents
 
 Access to an Adobe PDF file can be limited during export. When security restrictions are applied, related tools and menu items appear dimmed.
 

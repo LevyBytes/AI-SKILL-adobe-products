@@ -1,6 +1,6 @@
-# InDesign — Oval: anchored object placement
+# InDesign - Oval: anchored object placement
 
-Open when checking anchored object placement in InDesign — Oval.
+Open when checking anchored object placement in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

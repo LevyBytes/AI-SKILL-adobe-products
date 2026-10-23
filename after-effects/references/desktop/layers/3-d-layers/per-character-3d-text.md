@@ -1,4 +1,4 @@
-# 3D layers — Convert a text layer to a 3D layer with per-character 3D properties enabled
+# 3D layers - Convert a text layer to a 3D layer with per-character 3D properties enabled
 
 Choose Animation > Animate Text > Enable Per-Character 3D, or for the layer in the Timeline panel pick Enable Per-Character 3D from the Animate menu.
 

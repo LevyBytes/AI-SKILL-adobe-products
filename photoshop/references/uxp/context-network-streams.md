@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: network requests, streams and cryptography
+# Photoshop - UXP plugins and APIs: network requests, streams and cryptography
 
-Open when working with network requests, streams and cryptography in Photoshop — UXP plugins and APIs.
+Open when working with network requests, streams and cryptography in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-network-streams.json).
 

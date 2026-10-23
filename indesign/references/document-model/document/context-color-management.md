@@ -1,6 +1,6 @@
-# InDesign — Document: color profiles and rendering
+# InDesign - Document: color profiles and rendering
 
-Open when checking color profiles and rendering in InDesign — Document.
+Open when checking color profiles and rendering in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-color-management.json).
 

@@ -1,3 +1,3 @@
-# Table strokes and fills — Add alternating fills to a table
+# Table strokes and fills - Add alternating fills to a table
 
 Click in a cell, then choose Table > Table Options > Alternating Fills. In Alternating Pattern, pick the pattern type to use. Choose Custom to define a sequence, such as one gray row followed by three yellow rows. Under Alternating, set the fill choices for the first pattern and the following pattern. For example, after choosing Every Second Column for Alternating Pattern, you could shade the first two columns with a gray tint and leave the next two columns blank. Enter 0 for Next when the fill should land on every row. Use Preserve Local Formatting to keep fills already formatted on the table. For Skip First and Skip Last, enter how many rows or columns at the table start and end should not receive fill attributes, then click OK.

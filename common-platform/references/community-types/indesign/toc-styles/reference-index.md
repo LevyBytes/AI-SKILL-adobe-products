@@ -1,4 +1,4 @@
-# Shared Adobe platform — TOCStyles
+# Shared Adobe platform - TOCStyles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TOCStyles collection iteration in Shared Adobe platform. [TOCStyles collection iteration](collection-iteration.md).

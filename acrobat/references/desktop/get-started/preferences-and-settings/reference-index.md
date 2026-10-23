@@ -1,4 +1,4 @@
-# Acrobat — Preferences and settings
+# Acrobat - Preferences and settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat notifications in Acrobat. [Acrobat notifications](acrobat-notifications.md).

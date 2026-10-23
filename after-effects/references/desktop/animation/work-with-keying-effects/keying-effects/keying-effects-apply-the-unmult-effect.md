@@ -1,4 +1,4 @@
-# Keying effects — Apply the Unmult effect
+# Keying effects - Apply the Unmult effect
 
 Pick the layer whose black or white backdrop you want stripped away to isolate the subject, then head to Effect > Keying > Unmult.
 

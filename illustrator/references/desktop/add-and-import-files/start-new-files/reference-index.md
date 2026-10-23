@@ -1,4 +1,4 @@
-# Illustrator — Start new files
+# Illustrator - Start new files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and save custom document presets in Illustrator. [Create and save custom document presets](create-and-save-custom-document-presets.md).

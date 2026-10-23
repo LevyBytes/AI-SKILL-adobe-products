@@ -1,4 +1,4 @@
-# Photoshop — Layer Operations Migration Overview
+# Photoshop - Layer Operations Migration Overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basic request structure in Photoshop. [Basic request structure](basic-request-structure.md).

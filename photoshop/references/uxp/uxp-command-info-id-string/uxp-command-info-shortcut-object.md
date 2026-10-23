@@ -1,4 +1,4 @@
-# UxpCommandInfo — shortcut ⇒ `Object`
+# UxpCommandInfo - shortcut ⇒ `Object`
 
 Provides the command shortcut
 

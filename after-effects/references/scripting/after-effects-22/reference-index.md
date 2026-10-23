@@ -1,4 +1,4 @@
-# After Effects — After effects 22
+# After Effects - After effects 22
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After Effects 22.0 (October 2021) in After Effects. [After Effects 22.0 (October 2021)](after-effects-22-0-october-2021.md).

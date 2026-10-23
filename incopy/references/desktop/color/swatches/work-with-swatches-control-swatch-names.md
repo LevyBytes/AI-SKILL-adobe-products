@@ -1,4 +1,4 @@
-# Work with swatches — Control swatch names
+# Work with swatches - Control swatch names
 
 Process color swatch names normally come from the color component values. For instance, a red process color built with 10% cyan, 75% magenta, 100% yellow, and 0% black receives the default name C=10 M=75 Y=100 K=0, which makes the process-color mix easier to recognize.
 

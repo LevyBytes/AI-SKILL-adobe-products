@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: premiere elements
+# After Effects - C++ plugin SDK: premiere elements
 
-Open when working with premiere elements in After Effects — C++ plugin SDK.
+Open when working with premiere elements in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-ppro-premiere-elements.json).
 

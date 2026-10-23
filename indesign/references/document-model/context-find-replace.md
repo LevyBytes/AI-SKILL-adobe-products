@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: search, replace and transliteration
+# InDesign - InDesign document object model: search, replace and transliteration
 
-Open when working with search, replace and transliteration in InDesign — InDesign document object model.
+Open when working with search, replace and transliteration in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-find-replace.json).
 

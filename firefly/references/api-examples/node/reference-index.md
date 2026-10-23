@@ -1,4 +1,4 @@
-# Firefly — Node
+# Firefly - Node
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up async function generateImagesWithCustomModel in Firefly. [async function generateImagesWithCustomModel](generate-custom-model-images.cjs).

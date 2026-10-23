@@ -1,4 +1,4 @@
-# InDesign — Create documents
+# InDesign - Create documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change document setup, margins, and columns in InDesign. [Change document setup, margins, and columns](change-document-setup-margins-and-columns.md).

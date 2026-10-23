@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: paragraph composition, rules and spacing
+# InDesign - InDesign document object model: paragraph composition, rules and spacing
 
-Open when working with paragraph composition, rules and spacing in InDesign — InDesign document object model.
+Open when working with paragraph composition, rules and spacing in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-paragraph-composition.json).
 

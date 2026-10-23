@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: cheating effect usage of aegp suites
+# After Effects - C++ plugin SDK: cheating effect usage of aegp suites
 
-Open when working with cheating effect usage of aegp suites in After Effects — C++ plugin SDK.
+Open when working with cheating effect usage of aegp suites in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegps-cheating-effect-usage-of-aegp-suites.json).
 

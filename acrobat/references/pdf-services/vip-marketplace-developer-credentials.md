@@ -1,4 +1,4 @@
-# VIP Marketplace — Creating credentials and using Adobe Acrobat Services (Developer)
+# VIP Marketplace - Creating credentials and using Adobe Acrobat Services (Developer)
 
 1. Head to the [Adobe Developer Console](https://developer.adobe.com/console/).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: keyboard interaction
+# Shared Adobe platform - Application: keyboard interaction
 
-Open when working with keyboard interaction in Shared Adobe platform — Application.
+Open when working with keyboard interaction in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-keyboard-commands.json).
 

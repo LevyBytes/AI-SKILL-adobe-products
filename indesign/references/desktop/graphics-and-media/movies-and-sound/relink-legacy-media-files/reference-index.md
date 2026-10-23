@@ -1,4 +1,4 @@
-# InDesign — Relink legacy media files
+# InDesign - Relink legacy media files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert legacy media files in InDesign. [Convert legacy media files](convert-legacy-media-files.md).

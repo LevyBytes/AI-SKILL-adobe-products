@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: gpu-accelerated effect build instructions
+# After Effects - C++ plugin SDK: gpu-accelerated effect build instructions
 
-Open when working with gpu-accelerated effect build instructions in After Effects — C++ plugin SDK.
+Open when working with gpu-accelerated effect build instructions in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-gpu-build-instructions.json).
 

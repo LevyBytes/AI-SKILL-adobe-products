@@ -1,4 +1,4 @@
-# InDesign — Edit type on path
+# InDesign - Edit type on path
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change start or end position of type on a path in InDesign. [Change start or end position of type on a path](change-start-or-end-position-of-type-on-a-path.md).

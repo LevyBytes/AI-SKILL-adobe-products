@@ -1,4 +1,4 @@
-# InDesign — BuildingBlockTypes
+# InDesign - BuildingBlockTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOOKMARK_NAME_BUILDING_BLOCK in InDesign. [BOOKMARK_NAME_BUILDING_BLOCK](bookmarknamebuildingblock.md).

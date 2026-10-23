@@ -1,4 +1,4 @@
-# Control surface support — Support for Mackie HUI
+# Control surface support - Support for Mackie HUI
 
 HUI communications protocol can connect an audio control surface with Adobe Audition. Through this protocol, Audition and the attached hardware surface keep fader, button, jog wheel, and display states synchronized.
 

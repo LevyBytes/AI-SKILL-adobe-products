@@ -1,4 +1,4 @@
-# Acrobat — Document Generation API
+# Acrobat - Document Generation API
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat services security in Acrobat. [Acrobat services security references](acrobat-services-security/reference-index.md).
@@ -12,7 +12,7 @@
 - Open when looking up Complex Table Constructs in Acrobat. [Complex Table Constructs references](complex-table-constructs/reference-index.md).
 - Open when looking up DocGen Beta in Acrobat. [DocGen Beta](doc-gen-beta.md).
 - Open when looking up DocGen Beta in Acrobat. [DocGen Beta references](doc-gen-beta/reference-index.md).
-- Open when looking up Document Generation Api — Gettingstarted in Acrobat. [Document Generation Api — Gettingstarted](document-generation-api-gettingstarted.md).
+- Open when looking up Document Generation Api - Gettingstarted in Acrobat. [Document Generation Api - Gettingstarted](document-generation-api-gettingstarted.md).
 - Open when looking up Document Transaction Definitions in Acrobat. [Document Transaction Definitions](document-transaction-definitions.md).
 - Open when looking up Examples in Acrobat. [Examples references](examples/reference-index.md).
 - Open when looking up Fragments in Acrobat. [Fragments](fragments.md).
@@ -30,8 +30,8 @@
 - Open when looking up Introduction what are acrobat services apis in Acrobat. [Introduction what are acrobat services apis references](introduction-what-are-acrobat-services-apis/reference-index.md).
 - Open when looking up Licensing Metrics & Free Tier in Acrobat. [Licensing Metrics & Free Tier](licensing-metrics-free-tier.md).
 - Open when looking up Live Demo in Acrobat. [Live Demo](live-demo.md).
-- Open when looking up Overview — What is Document Generation? in Acrobat. [Overview — What is Document Generation?](overview-what-is-document-generation.md).
-- Open when looking up Overview — What is Document Generation? in Acrobat. [Overview — What is Document Generation? references](overview-what-is-document-generation/reference-index.md).
+- Open when looking up Overview - What is Document Generation? in Acrobat. [Overview - What is Document Generation?](overview-what-is-document-generation.md).
+- Open when looking up Overview - What is Document Generation? in Acrobat. [Overview - What is Document Generation? references](overview-what-is-document-generation/reference-index.md).
 - Open when looking up Quickstart for Adobe Document Generation API (.NET) in Acrobat. [Quickstart for Adobe Document Generation API (.NET)](quickstart-for-adobe-document-generation-api-net.md).
 - Open when looking up Quickstart for Adobe Document Generation API (.NET) in Acrobat. [Quickstart for Adobe Document Generation API (.NET) references](quickstart-for-adobe-document-generation-api-net/reference-index.md).
 - Open when looking up Releases in Acrobat. [Releases references](releases/reference-index.md).

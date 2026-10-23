@@ -12,7 +12,7 @@ alert An Alert object (see below).
 
 Returns
 
-A Boolean — true halts any further alert processing, false lets processing carry on.
+A Boolean: true halts any further alert processing, false lets processing carry on.
 
 Alert object
 

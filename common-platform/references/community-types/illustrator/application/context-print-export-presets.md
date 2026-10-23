@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: print and export preset discovery
+# Shared Adobe platform - Application: print and export preset discovery
 
-Open when working with print and export preset discovery in Shared Adobe platform — Application.
+Open when working with print and export preset discovery in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-print-export-presets.json).
 

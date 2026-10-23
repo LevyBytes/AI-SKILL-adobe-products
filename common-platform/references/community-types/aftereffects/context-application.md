@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: application, settings and environment
+# Shared Adobe platform - Aftereffects: application, settings and environment
 
-Open when working with application, settings and environment in Shared Adobe platform — Aftereffects.
+Open when working with application, settings and environment in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-application.json).
 

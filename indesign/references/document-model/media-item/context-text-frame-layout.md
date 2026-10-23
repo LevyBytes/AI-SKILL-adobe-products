@@ -1,6 +1,6 @@
-# InDesign — MediaItem: text frame columns and autosizing
+# InDesign - MediaItem: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — MediaItem.
+Open when checking text frame columns and autosizing in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

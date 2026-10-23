@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: aegp streams, keyframes, effects and text
+# After Effects - C++ plugin SDK: aegp streams, keyframes, effects and text
 
-Open when working with aegp streams, keyframes, effects and text in After Effects — C++ plugin SDK.
+Open when working with aegp streams, keyframes, effects and text in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegp-properties-keyframes.json).
 

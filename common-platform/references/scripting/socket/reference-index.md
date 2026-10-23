@@ -1,4 +1,4 @@
-# Shared Adobe platform — Socket
+# Shared Adobe platform - Socket
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Socket Object in Shared Adobe platform. [Socket Object](socket-object.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Stories
+# Shared Adobe platform - Stories
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Stories collection iteration in Shared Adobe platform. [Stories collection iteration](collection-iteration.md).

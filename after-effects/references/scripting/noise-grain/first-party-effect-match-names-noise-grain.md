@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Noise & Grain
+# First-Party Effect Match Names - Noise & Grain
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

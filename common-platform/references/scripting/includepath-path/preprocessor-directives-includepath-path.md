@@ -1,4 +1,4 @@
-# Preprocessor directives — #includepath path
+# Preprocessor directives - #includepath path
 
 Specifies one or more paths used by #include when finding files to include. Semicolons (;) separate the path names.
 

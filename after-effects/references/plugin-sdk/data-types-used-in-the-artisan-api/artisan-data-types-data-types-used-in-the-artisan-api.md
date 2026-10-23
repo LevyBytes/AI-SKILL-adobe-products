@@ -1,4 +1,4 @@
-# Artisan Data Types — Data Types Used In The Artisan API
+# Artisan Data Types - Data Types Used In The Artisan API
 
 | Type | Describes |
 | --- | --- |

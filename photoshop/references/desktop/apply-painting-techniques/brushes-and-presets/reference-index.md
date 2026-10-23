@@ -1,4 +1,4 @@
-# Photoshop — Brushes and presets
+# Photoshop - Brushes and presets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a brush and set painting options in Photoshop. [Create a brush and set painting options](create-a-brush-and-set-painting-options.md).

@@ -1,4 +1,4 @@
-# After Effects — PF_AdvTimeSuite4
+# After Effects - PF_AdvTimeSuite4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PF_FormatTime in After Effects. [PF_FormatTime](pf-format-time.md).

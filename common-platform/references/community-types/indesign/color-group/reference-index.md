@@ -1,4 +1,4 @@
-# Shared Adobe platform — ColorGroup
+# Shared Adobe platform - ColorGroup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ColorGroup declaration in Shared Adobe platform. [ColorGroup declaration](declaration.md).

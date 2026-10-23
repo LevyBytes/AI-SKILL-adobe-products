@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: windows, dialogs and containers
+# Shared Adobe platform - Scripting APIs: windows, dialogs and containers
 
-Open when working with windows, dialogs and containers in Shared Adobe platform — Scripting APIs.
+Open when working with windows, dialogs and containers in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-windows.json).
 

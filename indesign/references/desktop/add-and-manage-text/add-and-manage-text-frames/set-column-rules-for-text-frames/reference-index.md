@@ -1,4 +1,4 @@
-# InDesign — Set column rules for text frames
+# InDesign - Set column rules for text frames
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access column rule settings in InDesign. [Access column rule settings](access-column-rule-settings.md).

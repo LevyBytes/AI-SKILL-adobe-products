@@ -1,4 +1,4 @@
-# Premiere Pro — Premiere exports look washed out
+# Premiere Pro - Premiere exports look washed out
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best Practices in Premiere Pro. [Best Practices](best-practices.md).

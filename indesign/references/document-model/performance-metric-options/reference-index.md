@@ -1,4 +1,4 @@
-# InDesign — PerformanceMetricOptions
+# InDesign - PerformanceMetricOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AGMXSHOWTIME in InDesign. [AGMXSHOWTIME](agmxshowtime.md).

@@ -1,4 +1,4 @@
-# ScriptUI programming model — Creating a window
+# ScriptUI programming model - Creating a window
 
 ScriptUI provides these window types:
 

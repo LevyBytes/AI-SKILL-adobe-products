@@ -1,4 +1,4 @@
-# Shared Adobe platform — ColorGroups
+# Shared Adobe platform - ColorGroups
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ColorGroups collection iteration in Shared Adobe platform. [ColorGroups collection iteration](collection-iteration.md).

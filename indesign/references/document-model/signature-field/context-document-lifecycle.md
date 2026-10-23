@@ -1,6 +1,6 @@
-# InDesign — SignatureField: create, open, save and recover documents
+# InDesign - SignatureField: create, open, save and recover documents
 
-Open when checking create, open, save and recover documents in InDesign — SignatureField.
+Open when checking create, open, save and recover documents in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-document-lifecycle.json).
 

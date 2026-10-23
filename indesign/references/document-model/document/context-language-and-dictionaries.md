@@ -1,6 +1,6 @@
-# InDesign — Document: language, spelling and autocorrection
+# InDesign - Document: language, spelling and autocorrection
 
-Open when checking language, spelling and autocorrection in InDesign — Document.
+Open when checking language, spelling and autocorrection in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-language-and-dictionaries.json).
 

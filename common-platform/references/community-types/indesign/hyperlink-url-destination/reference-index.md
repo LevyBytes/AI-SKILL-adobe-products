@@ -1,4 +1,4 @@
-# Shared Adobe platform — HyperlinkURLDestination
+# Shared Adobe platform - HyperlinkURLDestination
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HyperlinkURLDestination declaration in Shared Adobe platform. [HyperlinkURLDestination declaration](declaration.md).

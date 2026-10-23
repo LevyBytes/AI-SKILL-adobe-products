@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: sample projects
+# After Effects - C++ plugin SDK: sample projects
 
-Open when working with sample projects in After Effects — C++ plugin SDK.
+Open when working with sample projects in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-sample-projects.json).
 

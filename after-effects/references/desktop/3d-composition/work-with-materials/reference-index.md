@@ -1,4 +1,4 @@
-# After Effects — Work with materials
+# After Effects - Work with materials
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Substance 3D materials in After Effects. [Apply Substance 3D materials](apply-substance-3-d-materials.md).

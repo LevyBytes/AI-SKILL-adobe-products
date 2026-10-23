@@ -1,4 +1,4 @@
-# Formatting characters — Change text to All Caps or Small Caps
+# Formatting characters - Change text to All Caps or Small Caps
 
 All caps capitalizes all Roman text. Small caps also capitalizes Roman text, while sizing it roughly like lowercase characters.
 

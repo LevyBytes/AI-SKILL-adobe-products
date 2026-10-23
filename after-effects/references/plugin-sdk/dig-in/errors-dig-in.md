@@ -1,4 +1,4 @@
-# Errors — Dig In!
+# Errors - Dig In!
 
 With a working grasp of effect plug-ins behind you, the time has come to play with actual code. Dive in!
 

@@ -1,4 +1,4 @@
-# Map styles to export tags — Edit all export tags
+# Map styles to export tags - Edit all export tags
 
 For documents with numerous styles, changing export tags one at a time can take too long. Edit All Export Tags provides a single dialog for reviewing and changing mappings for every style. This helps when long documents, including books or technical manuals, are being prepared for digital distribution.
 

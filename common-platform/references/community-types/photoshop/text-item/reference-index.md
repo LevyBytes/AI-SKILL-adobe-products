@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextItem
+# Shared Adobe platform - TextItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextItem declaration in Shared Adobe platform. [TextItem declaration](declaration.md).

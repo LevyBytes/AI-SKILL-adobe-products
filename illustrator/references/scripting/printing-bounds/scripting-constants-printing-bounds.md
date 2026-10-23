@@ -1,4 +1,4 @@
-# Scripting Constants — PrintingBounds
+# Scripting Constants - PrintingBounds
 
 | Value | Description |
 | --- | --- |

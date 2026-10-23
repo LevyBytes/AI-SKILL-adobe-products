@@ -1,4 +1,4 @@
-# Illustrator — Desktop workflows
+# Illustrator - Desktop workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and import files in Illustrator. [Add and import files references](add-and-import-files/reference-index.md).

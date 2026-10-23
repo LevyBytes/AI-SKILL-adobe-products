@@ -1,6 +1,6 @@
-# InDesign — RadioButton: movie and sound playback
+# InDesign - RadioButton: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — RadioButton.
+Open when checking movie and sound playback in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

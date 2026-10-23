@@ -1,4 +1,4 @@
-# Resource specifications — Using resource strings
+# Resource specifications - Using resource strings
 
 These Adobe ExtendScript SDK examples show resource specification strings in use:
 

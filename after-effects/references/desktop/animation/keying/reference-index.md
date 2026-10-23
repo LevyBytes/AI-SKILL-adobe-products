@@ -1,4 +1,4 @@
-# After Effects — Keying
+# After Effects - Keying
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About keying: color keys, luminance keys, and difference keys in After Effects. [About keying: color keys, luminance keys, and difference keys](about-keying-color-keys-luminance-keys-and-difference-keys.md).

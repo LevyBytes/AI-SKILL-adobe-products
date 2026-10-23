@@ -1,4 +1,4 @@
-# Moving through documents — Jump to position markers
+# Moving through documents - Jump to position markers
 
 A marker can be placed at a chosen text location so a command or shortcut can bring you back there later. Position markers are helpful when you leave your current spot to handle another task, such as checking a fact elsewhere in the text. Each document session supports just one position marker; adding one removes the marker that was already present. The marker is also removed when the document closes.
 

@@ -1,4 +1,4 @@
-# Acrobat — Acrobat Export PDF subscription overview
+# Acrobat - Acrobat Export PDF subscription overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessing Acrobat Export PDF in Acrobat. [Accessing Acrobat Export PDF](accessing-acrobat-export-pdf.md).

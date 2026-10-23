@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Document installed fonts
+# Using fonts in InCopy - Document installed fonts
 
 When an InCopy document has a Document Fonts folder in the same location, fonts in that folder are temporarily installed as the document opens. Use the Package command to create a Document Fonts folder when sharing the document or moving it to another computer.
 

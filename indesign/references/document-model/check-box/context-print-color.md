@@ -1,6 +1,6 @@
-# InDesign — Check box: output color, screening and overprint
+# InDesign - Check box: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — Check box.
+Open when checking output color, screening and overprint in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

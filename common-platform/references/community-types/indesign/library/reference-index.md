@@ -1,4 +1,4 @@
-# Shared Adobe platform — Library
+# Shared Adobe platform - Library
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Library declaration in Shared Adobe platform. [Library declaration](declaration.md).

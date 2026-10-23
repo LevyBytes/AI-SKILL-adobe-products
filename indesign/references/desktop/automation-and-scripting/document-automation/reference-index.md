@@ -1,4 +1,4 @@
-# InDesign — Document automation
+# InDesign - Document automation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automate workflows with scripts in InDesign. [Automate workflows with scripts](automate-workflows-with-scripts.md).

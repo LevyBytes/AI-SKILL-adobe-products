@@ -1,4 +1,4 @@
-# After Effects — AEGP_LayerSuite9
+# After Effects - AEGP_LayerSuite9
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_AddLayer in After Effects. [AEGP_AddLayer](aegp-add-layer.md).

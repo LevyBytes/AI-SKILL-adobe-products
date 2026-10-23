@@ -1,6 +1,6 @@
-# InDesign — Group: layers, stacking and master overrides
+# InDesign - Group: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — Group.
+Open when checking layers, stacking and master overrides in InDesign - Group.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

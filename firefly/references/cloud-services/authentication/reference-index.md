@@ -1,4 +1,4 @@
-# Firefly — Authentication
+# Firefly - Authentication
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Prerequisites in Firefly. [Prerequisites](prerequisites.md).

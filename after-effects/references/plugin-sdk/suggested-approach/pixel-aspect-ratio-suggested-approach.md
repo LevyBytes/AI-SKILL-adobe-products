@@ -1,4 +1,4 @@
-# Pixel Aspect Ratio — Suggested Approach
+# Pixel Aspect Ratio - Suggested Approach
 
 Working start to finish in full-resolution square coordinates, and only then scaling by downsample factor and pixel aspect ratio as one last output step, is the cleanest path to correctness. Because point parameters always arrive in input-buffer coordinates, translate them into full-resolution square coordinates before you touch them. Take that route and sliders defining a size in pixels stop being a headache; simply read them as a size measured in full-resolution vertical pixels.
 

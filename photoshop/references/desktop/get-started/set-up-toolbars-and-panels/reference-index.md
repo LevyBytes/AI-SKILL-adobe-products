@@ -1,4 +1,4 @@
-# Photoshop — Set up toolbars and panels
+# Photoshop - Set up toolbars and panels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create tool presets in Photoshop. [Create tool presets](create-tool-presets.md).

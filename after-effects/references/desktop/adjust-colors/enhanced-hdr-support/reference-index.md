@@ -1,4 +1,4 @@
-# After Effects — Enhanced hdr support
+# After Effects - Enhanced hdr support
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color managed formats in After Effects in After Effects. [Color managed formats in After Effects](color-managed-formats-in-after-effects.md).

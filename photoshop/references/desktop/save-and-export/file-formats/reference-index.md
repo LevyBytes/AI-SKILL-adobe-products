@@ -1,4 +1,4 @@
-# Photoshop — Export files to different formats
+# Photoshop - Export files to different formats
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enhance animation frames in Photoshop. [Enhance animation frames](enhance-animation-frames.md).

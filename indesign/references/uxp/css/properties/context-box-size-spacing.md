@@ -1,6 +1,6 @@
-# InDesign — Properties: box dimensions and spacing
+# InDesign - Properties: box dimensions and spacing
 
-Open when working with box dimensions and spacing in InDesign — Properties.
+Open when working with box dimensions and spacing in InDesign - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-box-size-spacing.json).
 

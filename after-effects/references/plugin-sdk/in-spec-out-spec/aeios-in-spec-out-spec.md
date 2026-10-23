@@ -1,4 +1,4 @@
-# AEIOs — InSpec, OutSpec
+# AEIOs - InSpec, OutSpec
 
 Most import-related functions receive an `AEIO_InSpecH`. Most output-related functions receive an `AEIO_OutSpecH`.
 

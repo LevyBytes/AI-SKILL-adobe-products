@@ -1,6 +1,6 @@
-# InDesign — SignatureField: hyperlinks, indexes and cross-references
+# InDesign - SignatureField: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — SignatureField.
+Open when checking hyperlinks, indexes and cross-references in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

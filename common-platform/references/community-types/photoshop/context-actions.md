@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: action manager values and event notifications
+# Shared Adobe platform - Photoshop: action manager values and event notifications
 
-Open when working with action manager values and event notifications in Shared Adobe platform — Photoshop.
+Open when working with action manager values and event notifications in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-actions.json).
 

@@ -1,4 +1,4 @@
-# InDesign — ViewDisplaySettings
+# InDesign - ViewDisplaySettings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HIGH_QUALITY in InDesign. [HIGH_QUALITY](highquality.md).

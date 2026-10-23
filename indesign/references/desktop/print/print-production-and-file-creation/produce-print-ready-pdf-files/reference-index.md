@@ -1,4 +1,4 @@
-# InDesign — Produce print-ready PDF files
+# InDesign - Produce print-ready PDF files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure PDF export settings in InDesign. [Configure PDF export settings](configure-pdf-export-settings.md).

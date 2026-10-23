@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: grids, guides and baselines
+# InDesign - InDesign document object model: grids, guides and baselines
 
-Open when working with grids, guides and baselines in InDesign — InDesign document object model.
+Open when working with grids, guides and baselines in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-grids-guides.json).
 

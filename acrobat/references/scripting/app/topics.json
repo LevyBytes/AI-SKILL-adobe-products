@@ -31,7 +31,7 @@
   {"topic": "hideMenuItem", "file": "references/scripting/app/hide-menu-item.md", "summary": "Open when looking up hideMenuItem in Acrobat.", "keywords": ["hideMenuItem"]},
   {"topic": "hideToolbarButton", "file": "references/scripting/app/hide-toolbar-button.md", "summary": "Open when looking up hideToolbarButton in Acrobat.", "keywords": ["hideToolbarButton"]},
   {"topic": "Hierarchical dialog example", "file": "references/scripting/app/hierarchical-dialog-example.md", "summary": "Open when looking up Hierarchical dialog example in Acrobat.", "keywords": ["Hierarchical dialog example"]},
-  {"topic": "JavaScript APIs — app", "file": "references/scripting/app/java-script-apis-app.md", "summary": "Open when looking up JavaScript APIs — app in Acrobat.", "keywords": ["JavaScript APIs — app"]},
+  {"topic": "JavaScript APIs - app", "file": "references/scripting/app/java-script-apis-app.md", "summary": "Open when looking up JavaScript APIs - app in Acrobat.", "keywords": ["JavaScript APIs - app"]},
   {"topic": "language", "file": "references/scripting/app/language.md", "summary": "Open when looking up language in Acrobat.", "keywords": ["language"]},
   {"topic": "launchURL", "file": "references/scripting/app/launch-url.md", "summary": "Open when looking up launchURL in Acrobat.", "keywords": ["launchURL"]},
   {"topic": "List-box dialog example", "file": "references/scripting/app/listbox-dialog-example.md", "summary": "Open when looking up List-box dialog example in Acrobat.", "keywords": ["List-box dialog example"]},

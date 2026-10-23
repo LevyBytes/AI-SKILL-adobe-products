@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/remove-protection/Program.cs)
+- [remove-protection setup and source](../examples/dotnet/remove-protection/remove-protection-setup.md)

@@ -1,6 +1,6 @@
-# InDesign — Sound: output color, screening and overprint
+# InDesign - Sound: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — Sound.
+Open when checking output color, screening and overprint in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

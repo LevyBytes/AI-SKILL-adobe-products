@@ -1,6 +1,6 @@
-# InDesign — Html item: generate qr codes
+# InDesign - Html item: generate qr codes
 
-Open when checking generate qr codes in InDesign — Html item.
+Open when checking generate qr codes in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

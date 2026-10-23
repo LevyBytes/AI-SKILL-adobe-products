@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: version migration requirements
+# Shared Adobe platform - Cep 12: version migration requirements
 
-Open when working with version migration requirements in Shared Adobe platform — Cep 12.
+Open when working with version migration requirements in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-migration.json).
 

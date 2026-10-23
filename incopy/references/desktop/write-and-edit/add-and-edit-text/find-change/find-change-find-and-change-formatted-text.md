@@ -1,4 +1,4 @@
-# Find/Change — Find and change formatted text
+# Find/Change - Find and change formatted text
 
 Choose Edit > Find/Change. If Find Format and Change Format are hidden, expose them with More Options. Select the Find Format box, or use the Specify Attributes To Find icon  beside the Find Format Settings section. In the Find Format Settings dialog box, choose a formatting category on the left, set the attributes, and click OK.
 

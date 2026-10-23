@@ -1,4 +1,4 @@
-# Preferences — Properties
+# Preferences - Properties
 
 app.preferences.AutoCADFileOptions
 

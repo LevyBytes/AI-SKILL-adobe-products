@@ -1,4 +1,4 @@
-# Firefly — Best practices for Reframe Videos in Creative Production
+# Firefly - Best practices for Reframe Videos in Creative Production
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Other considerations in Firefly. [Other considerations](other-considerations.md).

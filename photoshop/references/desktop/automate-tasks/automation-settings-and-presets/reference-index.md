@@ -1,4 +1,4 @@
-# Photoshop — Automation settings and presets
+# Photoshop - Automation settings and presets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply actions in the Actions panel in Photoshop. [Apply actions in the Actions panel](apply-actions-in-the-actions-panel.md).

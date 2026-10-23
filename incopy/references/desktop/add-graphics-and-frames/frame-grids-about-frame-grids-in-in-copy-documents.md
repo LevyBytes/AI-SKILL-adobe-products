@@ -1,4 +1,4 @@
-# Frame grids — About frame grids in InCopy documents
+# Frame grids - About frame grids in InCopy documents
 
 When you make a new InCopy document, the text area can be a frame grid or a plain text frame. A frame grid provides squares for Japanese characters. In everyday use and visual form, frame grids are much like plain text frames, except that their grids can influence how text looks.
 

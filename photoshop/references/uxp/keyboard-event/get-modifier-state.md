@@ -1,4 +1,4 @@
-# window.KeyboardEvent — getModifierState(keyArgs)
+# window.KeyboardEvent - getModifierState(keyArgs)
 
 **Returns**: `boolean`
 

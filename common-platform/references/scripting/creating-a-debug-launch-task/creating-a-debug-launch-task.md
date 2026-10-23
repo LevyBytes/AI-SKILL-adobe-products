@@ -1,4 +1,4 @@
-# Getting Started with the VS Code Debugger — Creating a debug launch task
+# Getting Started with the VS Code Debugger - Creating a debug launch task
 
 Before the extension can debug extendscript, create a VS Code debug task for it to run.
 

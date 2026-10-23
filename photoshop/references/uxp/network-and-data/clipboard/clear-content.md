@@ -1,4 +1,4 @@
-# navigator.clipboard — clearContent()
+# navigator.clipboard - clearContent()
 
 Removes the current clipboard contents.
 Note: Nonstandard: This is a non-standard method.

@@ -1,4 +1,4 @@
-# Stand-alone documents — Open a stand-alone document
+# Stand-alone documents - Open a stand-alone document
 
 An InCopy content file (.icml) created in InCopy or exported from InDesign can be opened in InCopy. These InCopy content files do not display page geometry from the InDesign layout when opened in InCopy. You can also open documents saved by earlier InCopy versions, as well as InCopy template files (.icmt).
 

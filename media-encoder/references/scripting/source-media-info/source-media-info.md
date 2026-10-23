@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — SourceMediaInfo
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - SourceMediaInfo
 
 Reports width, height, PAR, duration, and related details for the imported source.
 

@@ -1,4 +1,4 @@
-# Including metadata in a story — Work with metadata
+# Including metadata in a story - Work with metadata
 
 Metadata consists of standardized file details, including author name, resolution, color space, copyright, and keywords. Those details help streamline workflows and file organization.
 

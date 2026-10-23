@@ -1,4 +1,4 @@
-# Acrobat — Share filled and signed documents
+# Acrobat - Share filled and signed documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Learn how to share your filled and signed documents with others. in Acrobat. [Learn how to share your filled and signed documents with others.](share-filled-and-signed-documents.md).

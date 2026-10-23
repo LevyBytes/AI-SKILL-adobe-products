@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Polystar
+# Shape Layer Match Names - Polystar
 
 | Match Name | Display Name (EN) |
 | --- | --- |

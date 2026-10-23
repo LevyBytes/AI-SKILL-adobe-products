@@ -1,4 +1,4 @@
-# InDesign — AnimationEaseOptions
+# InDesign - AnimationEaseOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CUSTOM_EASE in InDesign. [CUSTOM_EASE](customease.md).

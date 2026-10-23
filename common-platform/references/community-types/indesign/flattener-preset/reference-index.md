@@ -1,4 +1,4 @@
-# Shared Adobe platform — FlattenerPreset
+# Shared Adobe platform - FlattenerPreset
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FlattenerPreset declaration in Shared Adobe platform. [FlattenerPreset declaration](declaration.md).

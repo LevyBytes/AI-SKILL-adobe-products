@@ -1,4 +1,4 @@
-# InDesign — Scale and skew type
+# InDesign - Scale and skew type
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust horizontal or vertical scaling in InDesign. [Adjust horizontal or vertical scaling](adjust-horizontal-or-vertical-scaling.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Grading Clips Using Style
+# Premiere Pro - Grading Clips Using Style
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding a Style in Premiere Pro. [Adding a Style](adding-a-style.md).

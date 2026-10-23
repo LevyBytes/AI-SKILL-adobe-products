@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Use layers
+# Frames, grids, rulers, and guides - Use layers
 
 Think of layers as clear sheets placed one above another. Where a layer contains no objects, items on lower layers remain visible through it.
 

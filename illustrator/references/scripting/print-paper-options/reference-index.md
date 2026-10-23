@@ -1,4 +1,4 @@
-# Illustrator — PrintPaperOptions
+# Illustrator - PrintPaperOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PrintPaperOptions.height in Illustrator. [PrintPaperOptions.height](height.md).

@@ -1,4 +1,4 @@
-# InDesign — Booklet types
+# InDesign - Booklet types
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 2-up Perfect Bound in InDesign. [2-up Perfect Bound](2-up-perfect-bound.md).

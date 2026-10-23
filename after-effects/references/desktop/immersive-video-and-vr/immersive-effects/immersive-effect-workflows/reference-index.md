@@ -1,4 +1,4 @@
-# After Effects — Apply immersive video effects
+# After Effects - Apply immersive video effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply seamless immersive video effects to your footage in After Effects. [Apply seamless immersive video effects to your footage](apply-seamless-immersive-video-effects-to-your-footage.md).

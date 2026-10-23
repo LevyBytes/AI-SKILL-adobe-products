@@ -1,4 +1,4 @@
-# Importing graphics — Find missing links
+# Importing graphics - Find missing links
 
 InCopy normally checks for absent links and attempts to repair them as a document opens. Two preferences control whether InCopy automatically checks for missing links and locates them during document opening.
 

@@ -1,6 +1,6 @@
-# InDesign — Word: text ranges and containers
+# InDesign - Word: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Word.
+Open when checking text ranges and containers in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

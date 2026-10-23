@@ -1,6 +1,6 @@
-# InDesign — Check box: hyperlinks, indexes and cross-references
+# InDesign - Check box: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — Check box.
+Open when checking hyperlinks, indexes and cross-references in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

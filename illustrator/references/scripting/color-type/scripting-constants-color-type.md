@@ -1,4 +1,4 @@
-# Scripting Constants — ColorType
+# Scripting Constants - ColorType
 
 Color specification used for one color value.
 

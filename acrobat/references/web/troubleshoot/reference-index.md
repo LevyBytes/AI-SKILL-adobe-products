@@ -1,4 +1,4 @@
-# Acrobat — Troubleshoot
+# Acrobat - Troubleshoot
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Feature issues in Acrobat. [Feature issues](feature-issues.md).

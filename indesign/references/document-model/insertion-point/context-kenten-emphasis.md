@@ -1,6 +1,6 @@
-# InDesign — Insertion point: kenten emphasis
+# InDesign - Insertion point: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — Insertion point.
+Open when checking kenten emphasis in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

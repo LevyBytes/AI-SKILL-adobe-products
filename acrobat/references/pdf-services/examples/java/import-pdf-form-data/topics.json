@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Import pdf form data example setup", "file": "references/pdf-services/examples/java/import-pdf-form-data/import-pdf-form-data-setup.md", "summary": "Open when looking up Import pdf form data example setup in Acrobat.", "keywords": ["Import pdf form data example setup"]},
-  {"topic": "ImportPdfFormData", "file": "references/pdf-services/examples/java/import-pdf-form-data/ImportPDFFormData.java", "summary": "Open when looking up ImportPdfFormData in Acrobat.", "keywords": ["ImportPdfFormData"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

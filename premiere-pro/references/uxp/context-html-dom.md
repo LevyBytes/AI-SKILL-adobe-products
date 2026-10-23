@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: html elements, dom and ui events
+# Premiere Pro - UXP plugins and APIs: html elements, dom and ui events
 
-Open when working with html elements, dom and ui events in Premiere Pro — UXP plugins and APIs.
+Open when working with html elements, dom and ui events in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-html-dom.json).
 

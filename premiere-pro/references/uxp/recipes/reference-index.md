@@ -1,4 +1,4 @@
-# Premiere Pro — Recipes
+# Premiere Pro - Recipes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up General UXP recipes in Premiere Pro. [General UXP recipes](general-uxp-recipes.md).

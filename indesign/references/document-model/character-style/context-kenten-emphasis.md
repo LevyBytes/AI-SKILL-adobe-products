@@ -1,6 +1,6 @@
-# InDesign — CharacterStyle: kenten emphasis
+# InDesign - CharacterStyle: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — CharacterStyle.
+Open when checking kenten emphasis in InDesign - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

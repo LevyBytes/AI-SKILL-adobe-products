@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindGrepPreference: ruby annotations
+# Shared Adobe platform - FindGrepPreference: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — FindGrepPreference.
+Open when checking ruby annotations in Shared Adobe platform - FindGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

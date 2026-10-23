@@ -1,4 +1,4 @@
-# Audition — Delay and echo effects
+# Audition - Delay and echo effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Analog Delay effect in Audition. [Analog Delay effect](analog-delay-effect.md).

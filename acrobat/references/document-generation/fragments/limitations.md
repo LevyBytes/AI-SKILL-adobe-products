@@ -1,6 +1,6 @@
 # Limitations
 
-Fragments — Limitations
+Fragments: Limitations
 
 - Inside fragments, Expressions and Jsonata functions cannot be used.
 

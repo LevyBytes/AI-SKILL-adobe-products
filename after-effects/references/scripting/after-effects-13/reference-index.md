@@ -1,4 +1,4 @@
-# After Effects — After effects 13
+# After Effects - After effects 13
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After Effects 13.0 (CC 2014) (June 2014) in After Effects. [After Effects 13.0 (CC 2014) (June 2014)](after-effects-13-0-cc-2014-june-2014.md).

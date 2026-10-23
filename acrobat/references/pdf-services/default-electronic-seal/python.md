@@ -1,6 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [electronic-seal.py](../examples/python/electronic-seal/electronic-seal.py)
-- [dependencies.py](../examples/python/electronic-seal/dependencies.py)
-- [certificate_credentials.py](../examples/python/electronic-seal/certificate_credentials.py)
+- [electronic-seal setup and source](../examples/python/electronic-seal/electronic-seal-setup.md)

@@ -1,6 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [autotag-pdf-parameterised.cjs](../examples/node/autotag-pdf-parameterised/autotag-pdf-parameterised.cjs)
-- [dependencies.cjs](../examples/node/autotag-pdf-parameterised/dependencies.cjs)
-- [helpers.cjs](../examples/node/autotag-pdf-parameterised/helpers.cjs)
+- [autotag-pdf-parameterised setup and source](../examples/node/autotag-pdf-parameterised/autotag-pdf-parameterised-setup.md)

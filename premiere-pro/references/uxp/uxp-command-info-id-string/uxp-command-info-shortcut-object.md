@@ -1,4 +1,4 @@
-# UxpCommandInfo — shortcut ⇒ `Object`
+# UxpCommandInfo - shortcut ⇒ `Object`
 
 Retrieves the command shortcut.
 

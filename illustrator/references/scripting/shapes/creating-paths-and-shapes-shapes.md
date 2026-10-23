@@ -1,4 +1,4 @@
-# Creating paths and shapes — Shapes
+# Creating paths and shapes - Shapes
 
 To make a shape, choose the object matching that shape name, such as ellipse, rectangle, or polygon, and set its properties for position, dimensions, and shape-specific details such as a polygon's side count.
 

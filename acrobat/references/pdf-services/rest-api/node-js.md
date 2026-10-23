@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [compress-pdf.cjs](../examples/node/compress-pdf/compress-pdf.cjs)
+- [compress-pdf setup and source](../examples/node/compress-pdf/compress-pdf-setup.md)

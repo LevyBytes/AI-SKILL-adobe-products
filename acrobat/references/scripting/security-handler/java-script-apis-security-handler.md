@@ -1,4 +1,4 @@
-# JavaScript APIs — SecurityHandler
+# JavaScript APIs - SecurityHandler
 
 You reach signature, encryption, and directory features through SecurityHandler objects. The exact properties and methods differ from one security handler to the next. What follows lays out every property and method a security object might carry. Any given SecurityHandler object is free to implement some, all, or none of them.
 

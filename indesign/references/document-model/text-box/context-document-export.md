@@ -1,6 +1,6 @@
-# InDesign — TextBox: export documents and select formats
+# InDesign - TextBox: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — TextBox.
+Open when checking export documents and select formats in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

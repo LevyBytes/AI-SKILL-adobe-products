@@ -1,4 +1,4 @@
-# InDesign — HeaderFooterBreakTypes
+# InDesign - HeaderFooterBreakTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up IN_ALL_TEXT_COLUMNS in InDesign. [IN_ALL_TEXT_COLUMNS](inalltextcolumns.md).

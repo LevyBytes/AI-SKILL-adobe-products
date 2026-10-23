@@ -1,4 +1,4 @@
-# InDesign — Apply drop caps and text positioning
+# InDesign - Apply drop caps and text positioning
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply superscript or subscript in InDesign. [Apply superscript or subscript](apply-superscript-or-subscript.md).

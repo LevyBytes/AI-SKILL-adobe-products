@@ -1,4 +1,4 @@
-# InDesign — About overprinting
+# InDesign - About overprinting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Black ink and rich black in InDesign. [Black ink and rich black](black-ink-and-rich-black.md).

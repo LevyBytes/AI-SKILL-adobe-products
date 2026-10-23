@@ -1,4 +1,4 @@
-# After Effects — Extruding text and shape layers
+# After Effects - Extruding text and shape layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About beveled and extruded text and shape layers in After Effects. [About beveled and extruded text and shape layers](about-beveled-and-extruded-text-and-shape-layers.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Path
+# Shared Adobe platform - Path
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Path declaration in Shared Adobe platform. [Path declaration](declaration.md).

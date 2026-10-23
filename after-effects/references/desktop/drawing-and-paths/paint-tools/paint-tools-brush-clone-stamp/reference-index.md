@@ -1,4 +1,4 @@
-# After Effects — Paint Tools Brush Clone Stamp
+# After Effects - Paint Tools Brush Clone Stamp
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Animate a paint stroke by sketching with Write On in After Effects. [Animate a paint stroke by sketching with Write On](animate-a-paint-stroke-by-sketching-with-write-on.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: color conversion and active painting controls
+# Shared Adobe platform - Application: color conversion and active painting controls
 
-Open when working with color conversion and active painting controls in Shared Adobe platform — Application.
+Open when working with color conversion and active painting controls in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-color.json).
 

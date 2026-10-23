@@ -1,6 +1,6 @@
-# InDesign — WMF: fill, stroke and transparency
+# InDesign - WMF: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — WMF.
+Open when checking fill, stroke and transparency in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

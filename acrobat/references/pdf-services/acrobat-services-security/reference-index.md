@@ -1,4 +1,4 @@
-# Acrobat — Acrobat Services Security
+# Acrobat - Acrobat Services Security
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat Services Compliance in Acrobat. [Acrobat Services Compliance](acrobat-services-compliance.md).

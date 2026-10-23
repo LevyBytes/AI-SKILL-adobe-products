@@ -8,11 +8,11 @@ When a media player runs full screen, this property picks which display handles 
 
 Note
 
-Playback reads only the rect property — MediaSettings.monitor. rect when a Monitor object is supplied, or MediaSettings.monitor[0]. rect when it is a Monitors object.
+Playback reads only the rect property: MediaSettings.monitor. rect when a Monitor object is supplied, or MediaSettings.monitor[0]. rect when it is a Monitors object.
 
 How monitor and monitorType relate to one another is covered under monitorType (below).
 
-Example — drive full-screen playback of a clip off a form button.
+Example: drive full-screen playback of a clip off a form button.
 
 ```javascript
 var player = app.media.openPlayer({

@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: paragraph rules
+# InDesign - Paragraph style: paragraph rules
 
-Open when checking paragraph rules in InDesign — Paragraph style.
+Open when checking paragraph rules in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

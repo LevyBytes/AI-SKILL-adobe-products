@@ -1,4 +1,4 @@
-# Photoshop — Generative ai in photoshop
+# Photoshop - Generative ai in photoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AI Assistant overview in Photoshop. [AI Assistant overview](ai-assistant-overview.md).

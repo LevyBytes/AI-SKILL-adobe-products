@@ -1,4 +1,4 @@
-# Benefits & Best Practices — Benefits of Listing in Our Marketplace
+# Benefits & Best Practices - Benefits of Listing in Our Marketplace
 
 1.  Through the Creative Cloud desktop app or the Adobe Exchange webpage, millions of Creative Cloud users can reach your plugin(s) directly.
 

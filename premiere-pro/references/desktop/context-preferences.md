@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: application preferences and recovery
+# Premiere Pro - Desktop workflows: application preferences and recovery
 
-Open when working with application preferences and recovery in Premiere Pro — Desktop workflows.
+Open when working with application preferences and recovery in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-preferences.json).
 

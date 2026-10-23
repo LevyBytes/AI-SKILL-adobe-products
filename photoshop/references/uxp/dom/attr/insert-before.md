@@ -1,4 +1,4 @@
-# window.Attr — insertBefore(child, before)
+# window.Attr - insertBefore(child, before)
 
 **Returns**: `Node`
 

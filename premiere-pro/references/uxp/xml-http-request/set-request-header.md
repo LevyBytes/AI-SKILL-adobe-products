@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — setRequestHeader(header, data)
+# window.XMLHttpRequest - setRequestHeader(header, data)
 
 Creates a request header, or adds another value to a request header that already exists.
 Forbidden request headers are ignored, and the method simply returns.

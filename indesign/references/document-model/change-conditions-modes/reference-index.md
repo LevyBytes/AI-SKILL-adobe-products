@@ -1,4 +1,4 @@
-# InDesign — ChangeConditionsModes
+# InDesign - ChangeConditionsModes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ADD_TO in InDesign. [ADD_TO](addto.md).

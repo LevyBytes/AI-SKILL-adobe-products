@@ -1,4 +1,4 @@
-# Types of controls — Creating multi-column lists
+# Types of controls - Creating multi-column lists
 
 For list controls such as ListBox, DropDownList and TreeView, the available choices are represented by ListItem objects. A choice can use a localizable text string, an image, or both, as determined by the ListItem text and image properties; see Displaying images.
 

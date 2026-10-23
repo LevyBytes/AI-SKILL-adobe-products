@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: anchored object placement
+# Shared Adobe platform - Document: anchored object placement
 
-Open when checking anchored object placement in Shared Adobe platform — Document.
+Open when checking anchored object placement in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

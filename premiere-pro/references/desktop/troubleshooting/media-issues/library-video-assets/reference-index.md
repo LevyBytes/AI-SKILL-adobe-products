@@ -1,4 +1,4 @@
-# Premiere Pro — Video assets from Creative Cloud Libraries broken between Premiere and After Effects
+# Premiere Pro - Video assets from Creative Cloud Libraries broken between Premiere and After Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assets need to be relinked again in Premiere Pro. [Assets need to be relinked again](assets-need-to-be-relinked-again.md).

@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Text
+# First-Party Effect Match Names - Text
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

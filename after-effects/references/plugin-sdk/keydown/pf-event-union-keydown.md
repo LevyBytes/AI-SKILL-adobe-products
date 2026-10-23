@@ -1,4 +1,4 @@
-# `PF_EventUnion` — Keydown
+# `PF_EventUnion` - Keydown
 
 A key was pressed by the user while the effect's UI is active.
 

@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Bilateral Blur effect
+# Blur and Sharpen effects - Bilateral Blur effect
 
 Edges and fine detail survive when you run the Bilateral Blur effect, because the blurring is applied selectively. Where contrast runs high—pixel values that sit far apart from one another—the softening is applied more gently than across the flatter, low-contrast regions.
 

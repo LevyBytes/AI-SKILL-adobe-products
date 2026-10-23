@@ -10,6 +10,6 @@
   {"topic": "Editing the Photoshop document references", "file": "references/uxp/editing-the-photoshop-document/reference-index.md", "summary": "Open when looking up Editing the Photoshop document in Photoshop.", "keywords": ["Editing the Photoshop document references"]},
   {"topic": "Position", "file": "references/uxp/position.md", "summary": "Open when looking up Position in Photoshop.", "keywords": ["Position"]},
   {"topic": "SimpleBounds", "file": "references/uxp/simple-bounds.md", "summary": "Open when looking up SimpleBounds in Photoshop.", "keywords": ["SimpleBounds"]},
-  {"topic": "types/GeneralTypes — Interfaces", "file": "references/uxp/types-general-types-interfaces.md", "summary": "Open when looking up types/GeneralTypes — Interfaces in Photoshop.", "keywords": ["types/GeneralTypes — Interfaces"]},
+  {"topic": "types/GeneralTypes - Interfaces", "file": "references/uxp/types-general-types-interfaces.md", "summary": "Open when looking up types/GeneralTypes - Interfaces in Photoshop.", "keywords": ["types/GeneralTypes - Interfaces"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

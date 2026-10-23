@@ -1,4 +1,4 @@
-# Illustrator — Organize fonts using Creative Cloud Libraries
+# Illustrator - Organize fonts using Creative Cloud Libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add fonts to a new or existing Library in Illustrator. [Add fonts to a new or existing Library](add-fonts-to-a-new-or-existing-library.md).

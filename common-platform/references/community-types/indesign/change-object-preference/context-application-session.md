@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeObjectPreference: application session and account
+# Shared Adobe platform - ChangeObjectPreference: application session and account
 
-Open when checking application session and account in Shared Adobe platform — ChangeObjectPreference.
+Open when checking application session and account in Shared Adobe platform - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

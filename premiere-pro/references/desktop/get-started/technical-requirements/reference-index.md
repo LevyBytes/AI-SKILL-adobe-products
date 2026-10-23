@@ -1,4 +1,4 @@
-# Premiere Pro — Technical requirements
+# Premiere Pro - Technical requirements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Premiere 24.x technical requirements in Premiere Pro. [Adobe Premiere 24.x technical requirements](adobe-premiere-24-x-technical-requirements.md).

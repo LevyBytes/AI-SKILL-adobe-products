@@ -1,4 +1,4 @@
-# InDesign — Add or remove Hunspell dictionary
+# InDesign - Add or remove Hunspell dictionary
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Download and prepare dictionary files in InDesign. [Download and prepare dictionary files](download-and-prepare-dictionary-files.md).

@@ -1,4 +1,4 @@
-# Formatting text — Change which text attributes the Eyedropper tool copies
+# Formatting text - Change which text attributes the Eyedropper tool copies
 
 Double-click the Eyedropper tool in the toolbox. In the Eyedropper Options dialog box, choose Character Settings or Paragraph Settings. Select the attributes that the Eyedropper tool should copy, then click OK. Note
 

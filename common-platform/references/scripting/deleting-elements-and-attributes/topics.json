@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
   {"topic": "Deletion examples", "file": "references/scripting/deleting-elements-and-attributes/deletion-examples.md", "summary": "Open when looking up Deletion examples in Shared Adobe platform.", "keywords": ["Deletion examples"]},
-  {"topic": "The XML Object — Deleting elements and attributes", "file": "references/scripting/deleting-elements-and-attributes/the-xml-object-deleting-elements-and-attributes.md", "summary": "Open when looking up The XML Object — Deleting elements and attributes in Shared Adobe platform.", "keywords": ["The XML Object — Deleting elements and attributes"]},
+  {"topic": "The XML Object - Deleting elements and attributes", "file": "references/scripting/deleting-elements-and-attributes/the-xml-object-deleting-elements-and-attributes.md", "summary": "Open when looking up The XML Object - Deleting elements and attributes in Shared Adobe platform.", "keywords": ["The XML Object - Deleting elements and attributes"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

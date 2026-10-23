@@ -1,6 +1,6 @@
-# Acrobat — PDF Services API: import and export pdf form data
+# Acrobat - PDF Services API: import and export pdf form data
 
-Open when working with import and export pdf form data in Acrobat — PDF Services API.
+Open when working with import and export pdf form data in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-forms.json).
 

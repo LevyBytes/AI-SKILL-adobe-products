@@ -1,4 +1,4 @@
-# InDesign — Track changes and review
+# InDesign - Track changes and review
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accept or reject all changes at once in InDesign. [Accept or reject all changes at once](accept-or-reject-all-changes-at-once.md).

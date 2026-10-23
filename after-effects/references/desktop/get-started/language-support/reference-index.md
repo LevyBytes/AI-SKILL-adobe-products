@@ -1,4 +1,4 @@
-# After Effects — Language support
+# After Effects - Language support
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Improved UI language support in After Effects. [Improved UI language support](improved-ui-language-support.md).

@@ -6,7 +6,7 @@ Lists out the values a MediaSettings.layout property accepts.
 
 Values and their descriptions fill the table below.
 
-Value — Description
+Value: Description
 
 app.media.layout.meet
 

@@ -1,6 +1,6 @@
-# InDesign — Application: placement, bounds and transformations
+# InDesign - Application: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Application.
+Open when checking placement, bounds and transformations in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

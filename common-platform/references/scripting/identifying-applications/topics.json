@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Communications overview — Identifying applications", "file": "references/scripting/identifying-applications/communications-overview-identifying-applications.md", "summary": "Open when looking up Communications overview — Identifying applications in Shared Adobe platform.", "keywords": ["Communications overview — Identifying applications"]},
+  {"topic": "Communications overview - Identifying applications", "file": "references/scripting/identifying-applications/communications-overview-identifying-applications.md", "summary": "Open when looking up Communications overview - Identifying applications in Shared Adobe platform.", "keywords": ["Communications overview - Identifying applications"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

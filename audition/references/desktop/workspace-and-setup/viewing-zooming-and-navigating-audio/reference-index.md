@@ -1,4 +1,4 @@
-# Audition — Viewing, zooming, and navigating audio
+# Audition - Viewing, zooming, and navigating audio
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basic components of the editors in Audition. [Basic components of the editors](basic-components-of-the-editors.md).

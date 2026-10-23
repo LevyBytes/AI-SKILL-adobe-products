@@ -1,4 +1,4 @@
-# Photoshop — Getting started with ActionJSON
+# Photoshop - Getting started with ActionJSON
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Converting ATN files into actionJSON in Photoshop. [Converting ATN files into actionJSON](converting-atn-files-into-action-json.md).

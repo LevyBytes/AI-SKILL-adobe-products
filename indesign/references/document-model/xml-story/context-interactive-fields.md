@@ -1,6 +1,6 @@
-# InDesign — XmlStory: interactive fields and behaviors
+# InDesign - XmlStory: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — XmlStory.
+Open when checking interactive fields and behaviors in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

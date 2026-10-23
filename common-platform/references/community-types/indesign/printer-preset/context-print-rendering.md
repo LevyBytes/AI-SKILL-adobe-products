@@ -1,6 +1,6 @@
-# Shared Adobe platform — PrinterPreset: print rendering, fonts and image data
+# Shared Adobe platform - PrinterPreset: print rendering, fonts and image data
 
-Open when checking print rendering, fonts and image data in Shared Adobe platform — PrinterPreset.
+Open when checking print rendering, fonts and image data in Shared Adobe platform - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-rendering.json).
 

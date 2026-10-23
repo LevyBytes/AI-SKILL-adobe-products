@@ -1,6 +1,6 @@
-# InDesign — Rectangle: application session and account
+# InDesign - Rectangle: application session and account
 
-Open when checking application session and account in InDesign — Rectangle.
+Open when checking application session and account in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

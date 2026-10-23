@@ -1,4 +1,4 @@
-# Photoshop — Neural Filter categories and output options
+# Photoshop - Neural Filter categories and output options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Output options in Photoshop. [Output options](output-options.md).

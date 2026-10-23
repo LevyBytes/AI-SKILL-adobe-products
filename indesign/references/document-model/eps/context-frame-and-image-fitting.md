@@ -1,6 +1,6 @@
-# InDesign — EPS: image fitting, cropping and resolution
+# InDesign - EPS: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in InDesign — EPS.
+Open when checking image fitting, cropping and resolution in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

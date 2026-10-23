@@ -1,4 +1,4 @@
-# Bullets and numbering — Change bullet characters
+# Bullets and numbering - Change bullet characters
 
 When the existing choices are not the bullets you want, add different bullet characters to the Bullet Character grid. A bullet available in one font might be missing from another. For each added bullet character, you can decide whether its font is remembered.
 

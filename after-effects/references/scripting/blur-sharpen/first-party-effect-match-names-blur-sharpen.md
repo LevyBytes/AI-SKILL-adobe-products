@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Blur & Sharpen
+# First-Party Effect Match Names - Blur & Sharpen
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

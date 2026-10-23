@@ -1,4 +1,4 @@
-# InDesign — TextPaths
+# InDesign - TextPaths
 
 Open when selecting a collection operation: [Topic catalog](topics.json).
 

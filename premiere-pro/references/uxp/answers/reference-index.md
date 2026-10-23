@@ -1,4 +1,4 @@
-# Premiere Pro — Answers
+# Premiere Pro - Answers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Can installed EU users keep using the plugin when DSA trader requirements are unmet? in Premiere Pro. [Can installed EU users keep using the plugin when DSA trader requirements are unmet?](dsa-existing-eu-user-access.md).

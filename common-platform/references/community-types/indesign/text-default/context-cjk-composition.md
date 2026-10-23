@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: cjk grids and composition
+# Shared Adobe platform - TextDefault: cjk grids and composition
 
-Open when checking cjk grids and composition in Shared Adobe platform — TextDefault.
+Open when checking cjk grids and composition in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

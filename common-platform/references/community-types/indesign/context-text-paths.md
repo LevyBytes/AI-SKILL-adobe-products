@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: text on paths
+# Shared Adobe platform - Indesign: text on paths
 
-Open when working with text on paths in Shared Adobe platform — Indesign.
+Open when working with text on paths in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-text-paths.json).
 

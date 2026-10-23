@@ -1,4 +1,4 @@
-# JavaScript APIs — Icon Stream
+# JavaScript APIs - Icon Stream
 
 Standing in for an icon stream, this generic JavaScript object serves app.addToolButton and collab.addStateModel. Its properties are:
 

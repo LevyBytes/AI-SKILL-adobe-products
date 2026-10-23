@@ -1,4 +1,4 @@
-# Workspace basics — Use context menus
+# Workspace basics - Use context menus
 
 Context-sensitive menus are different from the menus across the top of the screen because they expose commands tied to the current selection or active tool. They provide a fast route to commands you use often.
 

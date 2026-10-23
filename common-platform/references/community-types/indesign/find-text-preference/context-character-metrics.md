@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: character spacing and geometry
+# Shared Adobe platform - FindTextPreference: character spacing and geometry
 
-Open when checking character spacing and geometry in Shared Adobe platform — FindTextPreference.
+Open when checking character spacing and geometry in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

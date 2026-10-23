@@ -1,4 +1,4 @@
-# After Effects — Projects
+# After Effects - Projects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About projects in After Effects. [About projects](about-projects.md).

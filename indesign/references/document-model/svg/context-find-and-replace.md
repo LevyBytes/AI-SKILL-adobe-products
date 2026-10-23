@@ -1,6 +1,6 @@
-# InDesign — SVG: find, replace and transliterate
+# InDesign - SVG: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — SVG.
+Open when checking find, replace and transliterate in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

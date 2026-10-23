@@ -1,4 +1,4 @@
-# Environment object — Keyboard state object
+# Environment object - Keyboard state object
 
 This JavaScript object reports the keyboard state at the moment it is read: the current key that is down, plus any modifier keys that are pressed.
 

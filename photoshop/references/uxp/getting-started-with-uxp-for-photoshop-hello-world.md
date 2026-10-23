@@ -1,4 +1,4 @@
-# Getting Started with UXP for Photoshop — Hello World
+# Getting Started with UXP for Photoshop - Hello World
 
 Two pieces of software are needed for a first UXP plugin, both installable through [Adobe Creative Cloud Desktop](https://www.adobe.com/creativecloud/desktop-app.html): the latest Photoshop and the [UXP Developer Tool](adobe-uxp-developer-tool.md).
 

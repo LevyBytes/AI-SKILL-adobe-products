@@ -1,4 +1,4 @@
-# Artisan Data Types — Notes On Query Time Functions
+# Artisan Data Types - Notes On Query Time Functions
 
 `AEGP_QueryXformGetTransformTime`() and `AEGP_QueryXformGetViewTime`() are both required when an artisan builds the scene representation it will render.
 

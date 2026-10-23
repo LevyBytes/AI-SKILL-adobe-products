@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: fonts and localized text
+# Shared Adobe platform - Application: fonts and localized text
 
-Open when working with fonts and localized text in Shared Adobe platform — Application.
+Open when working with fonts and localized text in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-fonts-localization.json).
 

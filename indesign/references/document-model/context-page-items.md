@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: page items, layers and groups
+# InDesign - InDesign document object model: page items, layers and groups
 
-Open when working with page items, layers and groups in InDesign — InDesign document object model.
+Open when working with page items, layers and groups in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-page-items.json).
 

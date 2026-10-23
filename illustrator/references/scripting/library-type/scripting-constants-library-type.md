@@ -1,4 +1,4 @@
-# Scripting Constants — LibraryType
+# Scripting Constants - LibraryType
 
 Library category used by Illustrator.
 

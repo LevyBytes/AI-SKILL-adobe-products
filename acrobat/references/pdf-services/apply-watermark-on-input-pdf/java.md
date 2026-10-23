@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [PDFWatermark.java](../examples/java/pdf-watermark/PDFWatermark.java)
+- [pdf-watermark setup and source](../examples/java/pdf-watermark/pdf-watermark-setup.md)

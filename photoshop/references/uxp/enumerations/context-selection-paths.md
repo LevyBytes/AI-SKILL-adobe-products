@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: selections, paths and shapes
+# Photoshop - Enumerations: selections, paths and shapes
 
-Open when working with selections, paths and shapes in Photoshop — Enumerations.
+Open when working with selections, paths and shapes in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-selection-paths.json).
 

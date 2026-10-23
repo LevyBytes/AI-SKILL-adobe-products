@@ -1,4 +1,4 @@
-# Audition — Feature summary | Adobe Audition (June and May release)
+# Audition - Feature summary | Adobe Audition (June and May release)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Default audio device switching for macOS in Audition. [Default audio device switching for macOS](default-audio-device-switching-for-mac-os.md).

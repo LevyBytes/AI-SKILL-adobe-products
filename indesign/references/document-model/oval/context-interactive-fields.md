@@ -1,6 +1,6 @@
-# InDesign — Oval: interactive fields and behaviors
+# InDesign - Oval: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — Oval.
+Open when checking interactive fields and behaviors in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

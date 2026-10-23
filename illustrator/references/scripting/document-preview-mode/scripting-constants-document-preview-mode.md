@@ -1,4 +1,4 @@
-# Scripting Constants — DocumentPreviewMode
+# Scripting Constants - DocumentPreviewMode
 
 Preview mode for a document.
 

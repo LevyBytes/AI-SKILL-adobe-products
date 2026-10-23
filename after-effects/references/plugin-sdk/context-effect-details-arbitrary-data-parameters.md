@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: arbitrary data parameters
+# After Effects - C++ plugin SDK: arbitrary data parameters
 
-Open when working with arbitrary data parameters in After Effects — C++ plugin SDK.
+Open when working with arbitrary data parameters in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-arbitrary-data-parameters.json).
 

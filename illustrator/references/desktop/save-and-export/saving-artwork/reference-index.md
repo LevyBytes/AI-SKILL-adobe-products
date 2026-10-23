@@ -1,4 +1,4 @@
-# Illustrator — Saving Artwork
+# Illustrator - Saving Artwork
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About rasterization in Illustrator. [About rasterization](about-rasterization.md).

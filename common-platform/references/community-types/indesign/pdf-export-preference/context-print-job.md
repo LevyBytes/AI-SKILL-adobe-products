@@ -1,6 +1,6 @@
-# Shared Adobe platform — PDFExportPreference: print job, printer and page selection
+# Shared Adobe platform - PDFExportPreference: print job, printer and page selection
 
-Open when checking print job, printer and page selection in Shared Adobe platform — PDFExportPreference.
+Open when checking print job, printer and page selection in Shared Adobe platform - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-job.json).
 

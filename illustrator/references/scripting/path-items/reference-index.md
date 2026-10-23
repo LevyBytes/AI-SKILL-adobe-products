@@ -1,7 +1,7 @@
-# Illustrator — PathItems
+# Illustrator - PathItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up PathItems — Methods in Illustrator. [PathItems — Methods](path-items-methods.md).
+- Open when looking up PathItems - Methods in Illustrator. [PathItems - Methods](path-items-methods.md).
 - Open when looking up PathItems.add() in Illustrator. [PathItems.add()](add.md).
 - Open when looking up PathItems.ellipse() in Illustrator. [PathItems.ellipse()](ellipse.md).
 - Open when looking up PathItems.getByName() in Illustrator. [PathItems.getByName()](get-by-name.md).

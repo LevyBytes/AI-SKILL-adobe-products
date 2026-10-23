@@ -1,9 +1,9 @@
-# Media Encoder — Scripting APIs
+# Media Encoder - Scripting APIs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z)](adobe-media-encoder-ame-scripting-api-reference-a-z.md).
-- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject](exporter-script-object.md).
-- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject references](exporter-examples/reference-index.md).
+- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - ExporterScriptObject in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z) - ExporterScriptObject](exporter-script-object.md).
+- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - ExporterScriptObject in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z) - ExporterScriptObject references](exporter-examples/reference-index.md).
 - Open when looking up Ame batch item creation failed event in Media Encoder. [Ame batch item creation failed event references](ame-batch-item-creation-failed-event/reference-index.md).
 - Open when looking up Ame export event in Media Encoder. [Ame export event references](ame-export-event/reference-index.md).
 - Open when looking up Ame frontend event in Media Encoder. [Ame frontend event references](ame-frontend-event/reference-index.md).

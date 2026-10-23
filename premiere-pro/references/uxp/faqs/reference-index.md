@@ -1,4 +1,4 @@
-# Premiere Pro — Faqs
+# Premiere Pro - Faqs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Q: Are Spectrum UXP Widgets built on Web Components too? in Premiere Pro. [Q: Are Spectrum UXP Widgets built on Web Components too?](q-are-spectrum-uxp-widgets-built-on-web-components-too.md).

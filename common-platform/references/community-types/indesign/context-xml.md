@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: xml structure, rules and validation
+# Shared Adobe platform - Indesign: xml structure, rules and validation
 
-Open when working with xml structure, rules and validation in Shared Adobe platform — Indesign.
+Open when working with xml structure, rules and validation in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-xml.json).
 

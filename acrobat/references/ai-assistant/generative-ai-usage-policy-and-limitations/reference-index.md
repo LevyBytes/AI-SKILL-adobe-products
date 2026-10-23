@@ -1,4 +1,4 @@
-# Acrobat — Generative AI usage policy and limitations
+# Acrobat - Generative AI usage policy and limitations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Beta, Prerelease, and Early Access Programs in Acrobat. [Beta, Prerelease, and Early Access Programs](beta-prerelease-and-early-access-programs.md).

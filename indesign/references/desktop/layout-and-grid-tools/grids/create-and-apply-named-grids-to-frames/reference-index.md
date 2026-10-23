@@ -1,4 +1,4 @@
-# InDesign — Create and apply named grids to frames
+# InDesign - Create and apply named grids to frames
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a named grid format to frame grids in InDesign. [Apply a named grid format to frame grids](apply-a-named-grid-format-to-frame-grids.md).

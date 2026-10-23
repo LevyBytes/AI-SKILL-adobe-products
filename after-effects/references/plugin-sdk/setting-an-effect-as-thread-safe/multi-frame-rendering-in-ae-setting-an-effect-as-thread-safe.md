@@ -1,4 +1,4 @@
-# Multi-Frame Rendering in AE — Setting an Effect as Thread-safe
+# Multi-Frame Rendering in AE - Setting an Effect as Thread-safe
 
 - In GlobalSetup, set the `PF_OutFlag2_SUPPORTS_THREADED_RENDERING` flag; this is how you signal Thread-Safety and Multi-Frame Rendering support for your effect to the host.
 - Where needed, add the `PF_OutFlag2_MUTABLE_RENDER_SEQUENCE_DATA_SLOWER` so that sequence_data can be written during the Render stage.

@@ -1,4 +1,4 @@
-# FAQs — How can I generate coupon code(s)?
+# FAQs - How can I generate coupon code(s)?
 
 _Answer:_ Ask the Review Team to create one or more coupon codes for you. Send these details to the Review Team:
 

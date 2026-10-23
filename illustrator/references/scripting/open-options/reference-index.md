@@ -1,4 +1,4 @@
-# Illustrator — OpenOptions
+# Illustrator - OpenOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up OpenOptions.convertCropAreaToArboard in Illustrator. [OpenOptions.convertCropAreaToArboard](convert-crop-area-to-arboard.md).

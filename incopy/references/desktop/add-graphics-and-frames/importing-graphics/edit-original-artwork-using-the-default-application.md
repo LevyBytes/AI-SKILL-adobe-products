@@ -1,4 +1,4 @@
-# Importing graphics — Edit original artwork using the default application
+# Importing graphics - Edit original artwork using the default application
 
 By default, the operating system tells InCopy which application should open the original file.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — FrontEnd
+# Shared Adobe platform - FrontEnd
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FrontEnd declaration in Shared Adobe platform. [FrontEnd declaration](declaration.md).

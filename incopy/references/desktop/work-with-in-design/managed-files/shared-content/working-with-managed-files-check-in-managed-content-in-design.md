@@ -1,4 +1,4 @@
-# Working with managed files — Check in managed content (InDesign)
+# Working with managed files - Check in managed content (InDesign)
 
 Use one of these methods:
 

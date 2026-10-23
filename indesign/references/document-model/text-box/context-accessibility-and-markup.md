@@ -1,6 +1,6 @@
-# InDesign — TextBox: accessibility, tagging and xml
+# InDesign - TextBox: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — TextBox.
+Open when checking accessibility, tagging and xml in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

@@ -1,4 +1,4 @@
-# InCopy — Adding Text
+# InCopy - Adding Text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Import Buzzword documents in InCopy. [Import Buzzword documents](import-buzzword-documents.md).

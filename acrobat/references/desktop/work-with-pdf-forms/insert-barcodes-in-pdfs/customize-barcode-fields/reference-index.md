@@ -1,4 +1,4 @@
-# Acrobat — Customize barcode fields
+# Acrobat - Customize barcode fields
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust data content to fit in a barcode field in Acrobat. [Adjust data content to fit in a barcode field](adjust-data-content-to-fit-in-a-barcode-field.md).

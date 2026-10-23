@@ -1,4 +1,4 @@
-# Debugging in the Toolkit — Visual indication of execution states
+# Debugging in the Toolkit - Visual indication of execution states
 
 When a script stops at a breakpoint, or reaches the next line during line-by-line stepping, the document window shows the current script and highlights the current line in yellow.
 

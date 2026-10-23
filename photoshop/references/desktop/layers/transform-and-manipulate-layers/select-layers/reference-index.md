@@ -1,4 +1,4 @@
-# Photoshop — Select layers
+# Photoshop - Select layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Select a layer in a group in Photoshop. [Select a layer in a group](select-a-layer-in-a-group.md).

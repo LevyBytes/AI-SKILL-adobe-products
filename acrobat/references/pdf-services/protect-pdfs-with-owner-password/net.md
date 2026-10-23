@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/protect-pdf-with-owner-password/Program.cs)
+- [protect-pdf-with-owner-password setup and source](../examples/dotnet/protect-pdf-with-owner-password/protect-pdf-with-owner-password-setup.md)

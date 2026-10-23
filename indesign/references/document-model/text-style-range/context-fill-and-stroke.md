@@ -1,6 +1,6 @@
-# InDesign — Text style range: fill, stroke and transparency
+# InDesign - Text style range: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Text style range.
+Open when checking fill, stroke and transparency in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

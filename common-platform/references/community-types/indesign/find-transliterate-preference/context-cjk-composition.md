@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTransliteratePreference: cjk grids and composition
+# Shared Adobe platform - FindTransliteratePreference: cjk grids and composition
 
-Open when checking cjk grids and composition in Shared Adobe platform — FindTransliteratePreference.
+Open when checking cjk grids and composition in Shared Adobe platform - FindTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

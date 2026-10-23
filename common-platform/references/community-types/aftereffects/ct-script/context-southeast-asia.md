@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: southeast asian writing systems
+# Shared Adobe platform - CTScript: southeast asian writing systems
 
-Open when working with southeast asian writing systems in Shared Adobe platform — CTScript.
+Open when working with southeast asian writing systems in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-southeast-asia.json).
 

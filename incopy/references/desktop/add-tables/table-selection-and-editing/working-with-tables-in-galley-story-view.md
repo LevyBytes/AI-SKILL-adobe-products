@@ -1,4 +1,4 @@
-# Selecting and editing tables — Working with tables in Galley/Story view
+# Selecting and editing tables - Working with tables in Galley/Story view
 
 In Galley view or Story view, tables and the content inside them remain editable.
 

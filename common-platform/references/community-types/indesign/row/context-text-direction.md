@@ -1,6 +1,6 @@
-# Shared Adobe platform — Row: writing direction and diacritics
+# Shared Adobe platform - Row: writing direction and diacritics
 
-Open when checking writing direction and diacritics in Shared Adobe platform — Row.
+Open when checking writing direction and diacritics in Shared Adobe platform - Row.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

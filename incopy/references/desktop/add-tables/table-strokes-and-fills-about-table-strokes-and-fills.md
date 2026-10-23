@@ -1,4 +1,4 @@
-# Table strokes and fills — About table strokes and fills
+# Table strokes and fills - About table strokes and fills
 
 Tables can receive strokes and fills through several controls. Use Table Options to adjust the table-border stroke and to create alternating strokes or fills for rows and columns. For individual cells, including header and footer cells, use Cell Options or the Swatches, Stroke, and Color panels.
 

@@ -1,4 +1,4 @@
-# Audition — Release history
+# Audition - Release history
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Feature summary | Adobe Audition (June and May release) in Audition. [Feature summary | Adobe Audition (June and May release)](feature-summary-adobe-audition-june-and-may-release.md).

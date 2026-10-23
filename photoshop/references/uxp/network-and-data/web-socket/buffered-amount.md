@@ -1,4 +1,4 @@
-# window.WebSocket — bufferedAmount : `number`
+# window.WebSocket - bufferedAmount : `number`
 
 **Read only**
 Bytes queued by send() calls that have not yet reached the network.

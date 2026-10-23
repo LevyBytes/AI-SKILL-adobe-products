@@ -1,6 +1,6 @@
-# Premiere Pro — Properties: layout and positioning
+# Premiere Pro - Properties: layout and positioning
 
-Open when working with layout and positioning in Premiere Pro — Properties.
+Open when working with layout and positioning in Premiere Pro - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-layout.json).
 

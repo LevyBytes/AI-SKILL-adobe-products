@@ -1,4 +1,4 @@
-# Structuring documents for XML — Insert a parent element
+# Structuring documents for XML - Insert a parent element
 
 Use a parent element in the Structure pane when the XML structure needs to stay valid or the content needs clearer organization. First select the elements that should become children of the new parent. After insertion, the selected children move down one level in the structure.
 

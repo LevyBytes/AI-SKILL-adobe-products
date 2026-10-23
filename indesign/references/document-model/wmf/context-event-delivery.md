@@ -1,6 +1,6 @@
-# InDesign — WMF: events and listeners
+# InDesign - WMF: events and listeners
 
-Open when checking events and listeners in InDesign — WMF.
+Open when checking events and listeners in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

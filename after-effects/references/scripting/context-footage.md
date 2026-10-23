@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: footage, sources and import
+# After Effects - Scripting APIs: footage, sources and import
 
-Open when working with footage, sources and import in After Effects — Scripting APIs.
+Open when working with footage, sources and import in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-footage.json).
 

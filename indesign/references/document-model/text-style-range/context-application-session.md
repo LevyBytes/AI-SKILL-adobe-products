@@ -1,6 +1,6 @@
-# InDesign — Text style range: application session and account
+# InDesign - Text style range: application session and account
 
-Open when checking application session and account in InDesign — Text style range.
+Open when checking application session and account in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

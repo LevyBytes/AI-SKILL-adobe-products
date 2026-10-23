@@ -1,4 +1,4 @@
-# Shared Adobe platform — FAQs — How can I troubleshoot the following errors on the Exchange portal?
+# Shared Adobe platform - FAQs - How can I troubleshoot the following errors on the Exchange portal?
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CEP Manifest Notes in Shared Adobe platform. [CEP Manifest Notes](cep-manifest-notes.md).

@@ -1,4 +1,4 @@
-# window.Element — getElementsByClassName(name)
+# window.Element - getElementsByClassName(name)
 
 **Returns**: `NodeList`
 

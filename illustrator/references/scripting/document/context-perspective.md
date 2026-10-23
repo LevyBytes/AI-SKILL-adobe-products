@@ -1,6 +1,6 @@
-# Illustrator — Document: perspective grids and planes
+# Illustrator - Document: perspective grids and planes
 
-Open when working with perspective grids and planes in Illustrator — Document.
+Open when working with perspective grids and planes in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-perspective.json).
 

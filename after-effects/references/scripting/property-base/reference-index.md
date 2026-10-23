@@ -1,4 +1,4 @@
-# After Effects — Property base
+# After Effects - Property base
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PropertyBase.active in After Effects. [PropertyBase.active](active.md).

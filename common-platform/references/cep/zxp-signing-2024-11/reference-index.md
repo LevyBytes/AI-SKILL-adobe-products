@@ -1,4 +1,4 @@
-# Shared Adobe platform — November 2024 Cross-platform ZXP Signing Compatibility Known Issue and Workaround
+# Shared Adobe platform - November 2024 Cross-platform ZXP Signing Compatibility Known Issue and Workaround
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Plugin Developers in Shared Adobe platform. [Plugin Developers](plugin-developers.md).

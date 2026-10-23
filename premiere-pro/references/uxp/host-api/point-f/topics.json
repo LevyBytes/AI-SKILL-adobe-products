@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
   {"topic": "distanceTo", "file": "references/uxp/host-api/point-f/distance-to.md", "summary": "Open when looking up distanceTo in Premiere Pro.", "keywords": ["distanceTo"]},
-  {"topic": "PointF — Properties", "file": "references/uxp/host-api/point-f/point-f-properties.md", "summary": "Open when looking up PointF — Properties in Premiere Pro.", "keywords": ["PointF — Properties"]},
+  {"topic": "PointF - Properties", "file": "references/uxp/host-api/point-f/point-f-properties.md", "summary": "Open when looking up PointF - Properties in Premiere Pro.", "keywords": ["PointF - Properties"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

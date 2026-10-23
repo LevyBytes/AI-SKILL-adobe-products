@@ -1,4 +1,4 @@
-# Importing graphics — Relink to a different folder
+# Importing graphics - Relink to a different folder
 
 Relink To Folder lets you redirect links to a folder holding files with the same names as the out-of-date links. For example, links that currently target low-resolution images can be redirected to another folder containing high-resolution versions. A different file extension can also be supplied, so links can move from .jpg to .tiff, for example.
 

@@ -1,4 +1,4 @@
-# window.HTMLAnchorElement — dir : `string`
+# window.HTMLAnchorElement - dir : `string`
 
 Specifies the element content's text direction, restricted to recognized values only.
 

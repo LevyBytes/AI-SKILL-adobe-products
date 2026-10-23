@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: find, replace and transliterate
+# Shared Adobe platform - FindTextPreference: find, replace and transliterate
 
-Open when checking find, replace and transliterate in Shared Adobe platform — FindTextPreference.
+Open when checking find, replace and transliterate in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

@@ -1,4 +1,4 @@
-# Scripting Constants — ColorConversion
+# Scripting Constants - ColorConversion
 
 Color conversion policy for this constant set.
 

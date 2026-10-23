@@ -1,4 +1,4 @@
-# After Effects — Marker value
+# After Effects - Marker value
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MarkerValue object in After Effects. [MarkerValue object](marker-value-object.md).

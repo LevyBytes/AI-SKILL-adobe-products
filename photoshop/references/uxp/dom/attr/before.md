@@ -1,4 +1,4 @@
-# window.Attr — before(...nodes)
+# window.Attr - before(...nodes)
 
 | Param | Type |
 | --- | --- |

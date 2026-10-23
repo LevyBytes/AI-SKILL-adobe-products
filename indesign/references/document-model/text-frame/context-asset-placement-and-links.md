@@ -1,6 +1,6 @@
-# InDesign — TextFrame: place and link external assets
+# InDesign - TextFrame: place and link external assets
 
-Open when checking place and link external assets in InDesign — TextFrame.
+Open when checking place and link external assets in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

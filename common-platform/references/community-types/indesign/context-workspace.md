@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: workspace, windows and menus
+# Shared Adobe platform - Indesign: workspace, windows and menus
 
-Open when working with workspace, windows and menus in Shared Adobe platform — Indesign.
+Open when working with workspace, windows and menus in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-workspace.json).
 

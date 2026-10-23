@@ -1,4 +1,4 @@
-# Aligning text — Split a paragraph into columns
+# Aligning text - Split a paragraph into columns
 
 Put the insertion point inside the paragraph.
 

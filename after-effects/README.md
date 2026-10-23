@@ -25,7 +25,7 @@ flowchart LR
 
 After Effects references for compositing, animation and extensibility. Creative workflows, scripting objects and native plug-in contracts have distinct entrypoints so the agent can choose the appropriate level of detail.
 
-Use when working in Adobe After Effects with compositions, footage, layers, text, shapes, animation, tracking, keying, effects, color, 3D, previews, rendering, expressions, ExtendScript automation, or C++ effect and AEGP plugins. Routes to bundled desktop help, scripting object references, and SDK contracts with their original version limits.
+Use when working in Adobe After Effects with compositions, footage, layers, text, shapes, animation, tracking, keying, effects, color, 3D, previews, rendering, expressions, ExtendScript automation, or C++ effect and AEGP plugins.
 
 ## What this skill helps with
 
@@ -49,4 +49,4 @@ Keep expression, ExtendScript and C++ SDK requirements distinct. Use the runtime
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://helpx.adobe.com/after-effects.html) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

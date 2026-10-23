@@ -1,4 +1,4 @@
-# window.BaseUIEvent — composedPath()
+# window.BaseUIEvent - composedPath()
 
 Provides the route for the event.
 

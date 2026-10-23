@@ -1,4 +1,4 @@
-# Aligning text — Create paragraphs that span or split columns
+# Aligning text - Create paragraphs that span or split columns
 
 A paragraph can span several columns in a text frame, creating a straddle head effect. The span can cover every column or only a chosen number of columns. In a multicolumn text frame, text before a spanning paragraph is balanced automatically once the paragraph spans columns.
 

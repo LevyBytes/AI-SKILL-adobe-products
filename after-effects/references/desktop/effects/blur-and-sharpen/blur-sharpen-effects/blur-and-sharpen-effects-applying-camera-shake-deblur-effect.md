@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Applying Camera-Shake Deblur effect
+# Blur and Sharpen effects - Applying Camera-Shake Deblur effect
 
 Tip
 

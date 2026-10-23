@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: paragraph rules
+# Shared Adobe platform - TextDefault: paragraph rules
 
-Open when checking paragraph rules in Shared Adobe platform — TextDefault.
+Open when checking paragraph rules in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

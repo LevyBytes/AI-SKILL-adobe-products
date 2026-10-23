@@ -1,4 +1,4 @@
-# Scripting Constants — ColorConvertPurpose
+# Scripting Constants - ColorConvertPurpose
 
 These values identify why Application.ConvertSampleColor is performing color conversion.
 

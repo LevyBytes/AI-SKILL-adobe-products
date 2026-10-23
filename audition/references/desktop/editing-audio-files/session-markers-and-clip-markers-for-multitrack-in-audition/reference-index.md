@@ -1,4 +1,4 @@
-# Audition — Session Markers and Clip Markers for Multitrack in Audition
+# Audition - Session Markers and Clip Markers for Multitrack in Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Clip Markers in Audition. [Add Clip Markers](add-clip-markers.md).

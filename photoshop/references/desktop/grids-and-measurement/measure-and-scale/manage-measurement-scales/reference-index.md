@@ -1,4 +1,4 @@
-# Photoshop — Manage measurement scales
+# Photoshop - Manage measurement scales
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a measurement scale preset in Photoshop. [Create a measurement scale preset](create-a-measurement-scale-preset.md).

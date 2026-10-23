@@ -1,6 +1,6 @@
-# InDesign — Oval: object identity and lifecycle
+# InDesign - Oval: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Oval.
+Open when checking object identity and lifecycle in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

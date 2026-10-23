@@ -1,4 +1,4 @@
-# Illustrator — Shear objects
+# Illustrator - Shear objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Shear objects with the Free Transform tool in Illustrator. [Shear objects with the Free Transform tool](shear-objects-with-the-free-transform-tool.md).

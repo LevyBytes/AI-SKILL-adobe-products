@@ -1,4 +1,4 @@
-# Premiere Pro — Isolated adjustments using masks
+# Premiere Pro - Isolated adjustments using masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy and paste masks in Premiere Pro. [Copy and paste masks](copy-and-paste-masks.md).

@@ -1,4 +1,4 @@
-# Automated rendering and network rendering — Automating rendering with aerender
+# Automated rendering and network rendering - Automating rendering with aerender
 
 With its command-line interface, the executable aerender.exe lets you script your rendering. You will find this executable sitting in the same folder as the main After Effects application. By default, the file lives here:
 

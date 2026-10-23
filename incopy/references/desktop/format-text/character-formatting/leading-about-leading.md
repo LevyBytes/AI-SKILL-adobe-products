@@ -1,4 +1,4 @@
-# Leading — About leading
+# Leading - About leading
 
 This section covers leading as it works in Roman composition. For CJK leading details, see About leading in Asian text.
 

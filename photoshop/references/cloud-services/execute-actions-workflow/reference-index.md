@@ -1,4 +1,4 @@
-# Photoshop — Execute Actions Workflow
+# Photoshop - Execute Actions Workflow
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Combining actions with UXP scripts in Photoshop. [Combining actions with UXP scripts](combining-actions-with-uxp-scripts.md).

@@ -1,4 +1,4 @@
-# Defining behavior with event callbacks and listeners — How registered event-handlers are called
+# Defining behavior with event callbacks and listeners - How registered event-handlers are called
 
 When an event fires on a target, ScriptUI invokes every handler registered for that event on that target. The same event can have handlers on several different targets, including multiple targets of one type. For instance, a dialog with two checkboxes might assign a click handler to each checkbox object when each checkbox needs different click behavior.
 

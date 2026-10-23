@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: fonts and character forms
+# InDesign - Paragraph style: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Paragraph style.
+Open when checking fonts and character forms in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

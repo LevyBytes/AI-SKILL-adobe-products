@@ -28,7 +28,7 @@
   {"topic": "hidden", "file": "references/scripting/annotation/hidden.md", "summary": "Open when looking up hidden in Acrobat.", "keywords": ["hidden"]},
   {"topic": "inReplyTo", "file": "references/scripting/annotation/in-reply-to.md", "summary": "Open when looking up inReplyTo in Acrobat.", "keywords": ["inReplyTo"]},
   {"topic": "intent", "file": "references/scripting/annotation/intent.md", "summary": "Open when looking up intent in Acrobat.", "keywords": ["intent"]},
-  {"topic": "JavaScript APIs — Annotation", "file": "references/scripting/annotation/java-script-apis-annotation.md", "summary": "Open when looking up JavaScript APIs — Annotation in Acrobat.", "keywords": ["JavaScript APIs — Annotation"]},
+  {"topic": "JavaScript APIs - Annotation", "file": "references/scripting/annotation/java-script-apis-annotation.md", "summary": "Open when looking up JavaScript APIs - Annotation in Acrobat.", "keywords": ["JavaScript APIs - Annotation"]},
   {"topic": "leaderExtend", "file": "references/scripting/annotation/leader-extend.md", "summary": "Open when looking up leaderExtend in Acrobat.", "keywords": ["leaderExtend"]},
   {"topic": "leaderLength", "file": "references/scripting/annotation/leader-length.md", "summary": "Open when looking up leaderLength in Acrobat.", "keywords": ["leaderLength"]},
   {"topic": "lineEnding", "file": "references/scripting/annotation/line-ending.md", "summary": "Open when looking up lineEnding in Acrobat.", "keywords": ["lineEnding"]},

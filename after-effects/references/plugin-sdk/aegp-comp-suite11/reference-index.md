@@ -1,4 +1,4 @@
-# After Effects — AEGP_CompSuite11
+# After Effects - AEGP_CompSuite11
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CreateBoxTextLayerInComp in After Effects. [AEGP_CreateBoxTextLayerInComp](aegp-create-box-text-layer-in-comp.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: conditional text and editorial review
+# Shared Adobe platform - Document: conditional text and editorial review
 
-Open when checking conditional text and editorial review in Shared Adobe platform — Document.
+Open when checking conditional text and editorial review in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-conditions-and-review.json).
 

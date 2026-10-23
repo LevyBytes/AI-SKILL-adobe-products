@@ -1,4 +1,4 @@
-# Shared Adobe platform — CharacterAttributes
+# Shared Adobe platform - CharacterAttributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CharacterAttributes declaration in Shared Adobe platform. [CharacterAttributes declaration](declaration.md).

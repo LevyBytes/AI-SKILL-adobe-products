@@ -1,4 +1,4 @@
-# window.Text — insertData(offset, arg)
+# window.Text - insertData(offset, arg)
 
 | Param | Type |
 | --- | --- |

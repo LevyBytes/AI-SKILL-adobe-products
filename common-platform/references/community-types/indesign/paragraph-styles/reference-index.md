@@ -1,4 +1,4 @@
-# Shared Adobe platform — ParagraphStyles
+# Shared Adobe platform - ParagraphStyles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParagraphStyles collection iteration in Shared Adobe platform. [ParagraphStyles collection iteration](collection-iteration.md).

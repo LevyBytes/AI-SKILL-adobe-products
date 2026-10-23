@@ -1,4 +1,4 @@
-# InDesign — Move, scale, rotate, shear, and flip objects
+# InDesign - Move, scale, rotate, shear, and flip objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Move objects by dragging in InDesign. [Move objects by dragging](move-objects-by-dragging.md).

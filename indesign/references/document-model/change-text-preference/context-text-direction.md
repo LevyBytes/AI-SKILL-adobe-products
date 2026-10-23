@@ -1,6 +1,6 @@
-# InDesign — Change text preference: writing direction and diacritics
+# InDesign - Change text preference: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — Change text preference.
+Open when checking writing direction and diacritics in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

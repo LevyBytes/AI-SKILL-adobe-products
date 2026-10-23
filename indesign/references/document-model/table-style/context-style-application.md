@@ -1,6 +1,6 @@
-# InDesign — TableStyle: apply and manage styles
+# InDesign - TableStyle: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — TableStyle.
+Open when checking apply and manage styles in InDesign - TableStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

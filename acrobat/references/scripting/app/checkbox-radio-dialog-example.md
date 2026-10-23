@@ -4,8 +4,8 @@ Example 2: Below, a check box teams up with a radio button field. Such code migh
 
 Load the layout script before the dialog script as document-level JavaScript. Invoke `app.execDialog(dialog2)` for the checkbox/radio example.
 
-- [checkbox-radio-layout.js](../examples/checkbox-radio-layout.js)
-- [checkbox-radio-dialog.js](../examples/checkbox-radio-dialog.js)
+- [checkbox-radio-layout.js](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#execdialog)
+- [checkbox-radio-dialog.js](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#execdialog)
 
 You can fire the following line from places like a button's mouse-up action or a menu action.
 

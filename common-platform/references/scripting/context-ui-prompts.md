@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: notifications, prompts and alerts
+# Shared Adobe platform - Scripting APIs: notifications, prompts and alerts
 
-Open when working with notifications, prompts and alerts in Shared Adobe platform — Scripting APIs.
+Open when working with notifications, prompts and alerts in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-prompts.json).
 

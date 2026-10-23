@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: raster and image export formats
+# Shared Adobe platform - Indesign: raster and image export formats
 
-Open when working with raster and image export formats in Shared Adobe platform — Indesign.
+Open when working with raster and image export formats in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-image-export.json).
 

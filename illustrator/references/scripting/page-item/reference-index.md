@@ -1,4 +1,4 @@
-# Illustrator — PageItem
+# Illustrator - PageItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PageItem.artworkKnockout in Illustrator. [PageItem.artworkKnockout](artwork-knockout.md).

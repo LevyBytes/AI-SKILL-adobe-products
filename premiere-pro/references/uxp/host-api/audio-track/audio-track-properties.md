@@ -1,4 +1,4 @@
-# AudioTrack — Properties
+# AudioTrack - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

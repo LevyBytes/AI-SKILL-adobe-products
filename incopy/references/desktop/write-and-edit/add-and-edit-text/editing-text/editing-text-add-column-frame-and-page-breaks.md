@@ -1,4 +1,4 @@
-# Editing text — Add column, frame, and page breaks
+# Editing text - Add column, frame, and page breaks
 
 Insert special break characters into text to control column, frame, and page breaks.
 

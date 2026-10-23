@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: grids, guides and baselines
+# Shared Adobe platform - Indesign: grids, guides and baselines
 
-Open when working with grids, guides and baselines in Shared Adobe platform — Indesign.
+Open when working with grids, guides and baselines in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-grids-guides.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — AudioChannelLayout: named standard channel layouts
+# Shared Adobe platform - AudioChannelLayout: named standard channel layouts
 
-Open when working with named standard channel layouts in Shared Adobe platform — AudioChannelLayout.
+Open when working with named standard channel layouts in Shared Adobe platform - AudioChannelLayout.
 
 Open when selecting an exact reference: [Topic catalog](context-standard-layouts.json).
 

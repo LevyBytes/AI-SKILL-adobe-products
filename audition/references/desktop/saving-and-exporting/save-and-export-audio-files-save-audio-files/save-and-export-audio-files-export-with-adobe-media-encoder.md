@@ -1,4 +1,4 @@
-# Save and export audio files — Export with Adobe Media Encoder
+# Save and export audio files - Export with Adobe Media Encoder
 
 Adobe Media Encoder can receive Audition audio and video, then render multitrack sessions to multiple output formats. Its formats and presets support high-quality publishing for audio and video.
 

@@ -1,4 +1,4 @@
-# InDesign — QR Codes
+# InDesign - QR Codes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate QR codes in InDesign. [Generate QR codes](generate-qr-codes.md).

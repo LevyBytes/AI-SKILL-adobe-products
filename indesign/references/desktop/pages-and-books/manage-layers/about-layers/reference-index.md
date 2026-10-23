@@ -1,4 +1,4 @@
-# InDesign — About layers
+# InDesign - About layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common layer uses in InDesign. [Common layer uses](common-layer-uses.md).

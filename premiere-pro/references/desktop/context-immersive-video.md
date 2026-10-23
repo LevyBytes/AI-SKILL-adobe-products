@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: vr editing and immersive effects
+# Premiere Pro - Desktop workflows: vr editing and immersive effects
 
-Open when working with vr editing and immersive effects in Premiere Pro — Desktop workflows.
+Open when working with vr editing and immersive effects in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-immersive-video.json).
 

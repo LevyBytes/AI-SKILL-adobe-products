@@ -1,4 +1,4 @@
-# Firefly — Generate Images Using Text Prompts
+# Firefly - Generate Images Using Text Prompts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Be descriptive in Firefly. [Be descriptive](be-descriptive.md).

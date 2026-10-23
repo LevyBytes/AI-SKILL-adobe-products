@@ -1,4 +1,4 @@
-# Scripting Constants — BlendModes
+# Scripting Constants - BlendModes
 
 BlendModes chooses how objects are composited.
 

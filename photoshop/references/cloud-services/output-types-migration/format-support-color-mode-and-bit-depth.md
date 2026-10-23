@@ -1,4 +1,4 @@
-# Output Types Migration Guide — Format support: color mode and bit depth
+# Output Types Migration Guide - Format support: color mode and bit depth
 
 During export, the API converts source images automatically when the target format cannot accept the source color mode or bit depth. The tables below list supported combinations and the fallback for each export path.
 

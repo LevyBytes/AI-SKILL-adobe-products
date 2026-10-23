@@ -1,4 +1,4 @@
-# InDesign — Troubleshoot
+# InDesign - Troubleshoot
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cloud collaboration and web issues in InDesign. [Cloud collaboration and web issues references](cloud-and-web/reference-index.md).

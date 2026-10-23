@@ -1,4 +1,4 @@
-# Scripting Constants — PDFBoxType
+# Scripting Constants - PDFBoxType
 
 | Value | Description |
 | --- | --- |

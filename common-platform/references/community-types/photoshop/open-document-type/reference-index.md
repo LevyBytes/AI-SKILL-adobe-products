@@ -1,4 +1,4 @@
-# Shared Adobe platform — OpenDocumentType
+# Shared Adobe platform - OpenDocumentType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up OpenDocumentType declaration in Shared Adobe platform. [OpenDocumentType declaration](declaration.md).

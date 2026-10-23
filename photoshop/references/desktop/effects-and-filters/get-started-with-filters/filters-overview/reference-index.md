@@ -1,4 +1,4 @@
-# Photoshop — Filters overview
+# Photoshop - Filters overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How filters work in Photoshop. [How filters work](how-filters-work.md).

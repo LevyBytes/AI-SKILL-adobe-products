@@ -1,4 +1,4 @@
-# UxpMenuItem — label ⇒ `string`
+# UxpMenuItem - label ⇒ `string`
 
 Retrieve the localized label text for the menu item.
 

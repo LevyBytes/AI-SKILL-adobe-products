@@ -1,4 +1,4 @@
-# `PF_EffectWorld` / `PF_LayerDef` — `PF_EffectWorld` Structure
+# `PF_EffectWorld` / `PF_LayerDef``PF_EffectWorld` Structure
 
 | Item | Description |
 | --- | --- |

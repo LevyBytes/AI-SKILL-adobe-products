@@ -1,6 +1,6 @@
-# InDesign — Check box: object styles and enabled attributes
+# InDesign - Check box: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — Check box.
+Open when checking object styles and enabled attributes in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

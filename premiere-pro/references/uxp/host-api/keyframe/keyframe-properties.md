@@ -1,4 +1,4 @@
-# Keyframe — Properties
+# Keyframe - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

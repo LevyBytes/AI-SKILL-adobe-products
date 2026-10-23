@@ -1,4 +1,4 @@
-# Photoshop — Replacing smart object content
+# Photoshop - Replacing smart object content
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up V1 approach in Photoshop. [V1 approach](v1-approach.md).

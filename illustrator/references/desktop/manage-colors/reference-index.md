@@ -1,4 +1,4 @@
-# Illustrator — Manage colors
+# Illustrator - Manage colors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply transparency and blending in Illustrator. [Apply transparency and blending](apply-transparency-and-blending.md).

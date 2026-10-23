@@ -1,4 +1,4 @@
-# Accessing the After Effects Function Suites — Suite Versions
+# Accessing the After Effects Function Suites - Suite Versions
 
 As an illustration, WhizBangSuite1 might expose a Foobar() entry point accepting two arguments, while WhizBangSuite2>Foobar() could accept three. A fresh release of a suite replaces its predecessor, but you are welcome to hold references to several versions at once — previously shipped suites are never withdrawn or modified on our end.
 

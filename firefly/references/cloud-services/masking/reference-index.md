@@ -1,4 +1,4 @@
-# Firefly — Masking
+# Firefly - Masking
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Inverted Mask in Firefly. [Inverted Mask](inverted-mask.md).

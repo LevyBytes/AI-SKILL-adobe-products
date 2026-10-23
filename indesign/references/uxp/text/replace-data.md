@@ -1,4 +1,4 @@
-# window.Text — replaceData(offset, count, arg)
+# window.Text - replaceData(offset, count, arg)
 
 | Param | Type |
 | --- | --- |

@@ -1,4 +1,4 @@
-# After Effects — View detailed performance information with Composition Profiler
+# After Effects - View detailed performance information with Composition Profiler
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Alternate Effects in After Effects. [Alternate Effects](alternate-effects.md).

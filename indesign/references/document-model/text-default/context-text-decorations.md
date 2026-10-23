@@ -1,6 +1,6 @@
-# InDesign — Text default: underline and strike-through
+# InDesign - Text default: underline and strike-through
 
-Open when checking underline and strike-through in InDesign — Text default.
+Open when checking underline and strike-through in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

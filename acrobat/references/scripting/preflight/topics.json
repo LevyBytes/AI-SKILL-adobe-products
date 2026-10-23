@@ -4,6 +4,6 @@
   {"topic": "getNumProfiles", "file": "references/scripting/preflight/get-num-profiles.md", "summary": "Open when looking up getNumProfiles in Acrobat.", "keywords": ["getNumProfiles"]},
   {"topic": "getProfileByFingerPrint", "file": "references/scripting/preflight/get-profile-by-finger-print.md", "summary": "Open when looking up getProfileByFingerPrint in Acrobat.", "keywords": ["getProfileByFingerPrint"]},
   {"topic": "getProfileByName", "file": "references/scripting/preflight/get-profile-by-name.md", "summary": "Open when looking up getProfileByName in Acrobat.", "keywords": ["getProfileByName"]},
-  {"topic": "Preflight APIs — Preflight", "file": "references/scripting/preflight/preflight-apis-preflight.md", "summary": "Open when looking up Preflight APIs — Preflight in Acrobat.", "keywords": ["Preflight APIs — Preflight"]},
+  {"topic": "Preflight APIs - Preflight", "file": "references/scripting/preflight/preflight-apis-preflight.md", "summary": "Open when looking up Preflight APIs - Preflight in Acrobat.", "keywords": ["Preflight APIs - Preflight"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

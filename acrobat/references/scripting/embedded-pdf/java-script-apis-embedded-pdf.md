@@ -1,4 +1,4 @@
-# JavaScript APIs — Embedded PDF
+# JavaScript APIs - Embedded PDF
 
 What this object lays out is an API surfaced to a container application's object model, letting that application trade messages with an embedded PDF document. Take a PDF embedded inside an HTML document via the &lt;OBJECT&gt; tag: the PDF object then gets scripted within the browser's scripting context.
 

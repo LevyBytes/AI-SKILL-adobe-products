@@ -1,4 +1,4 @@
-# User-interaction levels — AppleScript
+# User-interaction levels - AppleScript
 
 AppleScript can send commands between machines, which means it has additional interaction cases. In AppleScript:, the user interaction level property has four possible values:
 

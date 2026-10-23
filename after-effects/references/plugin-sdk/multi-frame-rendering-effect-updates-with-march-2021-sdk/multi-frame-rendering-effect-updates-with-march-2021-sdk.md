@@ -1,4 +1,4 @@
-# Multi-Frame Rendering in AE — Multi-Frame Rendering Effect Updates with March 2021 SDK
+# Multi-Frame Rendering in AE - Multi-Frame Rendering Effect Updates with March 2021 SDK
 
 New sequence_data behavior arrives with the March 2021 SDK, switched on as of AE beta builds 22.0x6 (released on June 29th 2021). To gain Multi-Frame Rendering support, any effect built with the June 2020 SDK has to be rebuilt against the March 2021 SDK. Such effects also have to tell AE they were compiled with version 13.25 at minimum, though leaning on the SDK constants `PF_AE_PLUG_IN_VERSION` and `PF_AE_PLUG_IN_SUBVERS` to set the associated SDK automatically is the recommended route.
 

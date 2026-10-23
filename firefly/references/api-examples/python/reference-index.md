@@ -1,4 +1,4 @@
-# Firefly — Python
+# Firefly - Python
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up def generate_images_with_custom_model in Firefly. [def generate_images_with_custom_model](generate_custom_model_images.py).

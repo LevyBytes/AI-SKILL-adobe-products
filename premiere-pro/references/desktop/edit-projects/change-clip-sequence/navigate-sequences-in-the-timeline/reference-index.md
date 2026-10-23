@@ -1,4 +1,4 @@
-# Premiere Pro — Navigate sequences in the timeline
+# Premiere Pro - Navigate sequences in the timeline
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Open a sequence in the Timeline panel in Premiere Pro. [Open a sequence in the Timeline panel](open-a-sequence-in-the-timeline-panel.md).

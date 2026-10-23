@@ -1,4 +1,4 @@
-# Creating layers — Duplicate layers using Alt/Option-drag
+# Creating layers - Duplicate layers using Alt/Option-drag
 
 Use new beta features
 

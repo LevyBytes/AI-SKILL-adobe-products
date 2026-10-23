@@ -1,4 +1,4 @@
-# IRT compliance — Applying an IRT preset to a media file
+# IRT compliance - Applying an IRT preset to a media file
 
 In Preset Browser panel, enter IRT in the search bar to show the IRT preset list.
 

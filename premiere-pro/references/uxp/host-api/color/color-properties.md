@@ -1,4 +1,4 @@
-# Color — Properties
+# Color - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

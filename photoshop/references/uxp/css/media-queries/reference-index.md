@@ -1,4 +1,4 @@
-# Photoshop — Media Queries
+# Photoshop - Media Queries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up height in Photoshop. [height](height.md).

@@ -1,4 +1,4 @@
-# Formatting characters — Skew type
+# Formatting characters - Skew type
 
 Select text. Enter a numeric Skewing value in the Character panel. Positive numbers lean type to the right; negative numbers lean it to the left.
 

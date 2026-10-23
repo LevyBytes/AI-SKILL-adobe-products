@@ -1,4 +1,4 @@
-# Premiere Pro — Time
+# Premiere Pro - Time
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Time object in Premiere Pro. [Time object](time-object.md).

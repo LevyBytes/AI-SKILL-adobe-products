@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: effect families and match names
+# After Effects - Scripting APIs: effect families and match names
 
-Open when working with effect families and match names in After Effects — Scripting APIs.
+Open when working with effect families and match names in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-identifiers.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: object declaration and identity
+# Shared Adobe platform - Application: object declaration and identity
 
-Open when working with object declaration and identity in Shared Adobe platform — Application.
+Open when working with object declaration and identity in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-contract.json).
 

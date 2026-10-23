@@ -1,4 +1,4 @@
-# Multichannel audio workflow — Effects channelization
+# Multichannel audio workflow - Effects channelization
 
 Effects can use independent input and output channel assignments, and you can check which channel layouts each effect supports. Route specific audio clip or track channels into mono, stereo, surround, or immersive effects, then review existing routing at a glance.
 

@@ -1,6 +1,6 @@
 # Embed a PDF from the OLE container application
 
-Begin in the OLE container application — Microsoft Word is a typical choice.
+Begin in the OLE container application: Microsoft Word is a typical choice.
 
 Pick whichever command fits: Insert Object or Insert Hyperlink. In Word, for example, open the Insert tab and select Object.
 

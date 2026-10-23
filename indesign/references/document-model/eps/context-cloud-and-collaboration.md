@@ -1,6 +1,6 @@
-# InDesign — EPS: cloud documents, libraries and collaboration
+# InDesign - EPS: cloud documents, libraries and collaboration
 
-Open when checking cloud documents, libraries and collaboration in InDesign — EPS.
+Open when checking cloud documents, libraries and collaboration in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-cloud-and-collaboration.json).
 

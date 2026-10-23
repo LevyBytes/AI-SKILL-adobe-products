@@ -1,4 +1,4 @@
-# Scripting Constants — FontSubstitutionPolicy
+# Scripting Constants - FontSubstitutionPolicy
 
 | Value | Description |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Links
+# Shared Adobe platform - Links
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Links collection iteration in Shared Adobe platform. [Links collection iteration](collection-iteration.md).

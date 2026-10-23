@@ -1,4 +1,4 @@
-# Shared Adobe platform — StripedStrokeStyles
+# Shared Adobe platform - StripedStrokeStyles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up StripedStrokeStyles collection iteration in Shared Adobe platform. [StripedStrokeStyles collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# InDesign — Create and manage book files
+# InDesign - Create and manage book files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add documents to book files in InDesign. [Add documents to book files](add-documents-to-book-files.md).

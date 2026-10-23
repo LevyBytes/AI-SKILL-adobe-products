@@ -1,4 +1,4 @@
-# After Effects — Drawbot_PathSuite1
+# After Effects - Drawbot_PathSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AddArc in After Effects. [AddArc](add-arc.md).

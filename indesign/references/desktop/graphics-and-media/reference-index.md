@@ -1,4 +1,4 @@
-# InDesign — Add graphics and media
+# InDesign - Add graphics and media
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and edit graphics in InDesign. [Add and edit graphics](add-and-edit-graphics.md).

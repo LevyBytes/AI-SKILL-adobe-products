@@ -1,4 +1,4 @@
-# Text Layer Match Names — Text
+# Text Layer Match Names - Text
 
 | Match Name | Display Name (EN) |
 | --- | --- |

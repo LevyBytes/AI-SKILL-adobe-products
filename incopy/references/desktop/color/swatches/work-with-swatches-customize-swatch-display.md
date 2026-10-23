@@ -1,4 +1,4 @@
-# Work with swatches — Customize swatch display
+# Work with swatches - Customize swatch display
 
 You can choose swatch size and whether swatch names are shown.
 

@@ -1,4 +1,4 @@
-# Overview — Supported Timestamping Authorities
+# Overview - Supported Timestamping Authorities
 
 Acting as a trusted party, a Timestamping Authority (TSA) applies the [RFC3161](https://www.ietf.org/rfc/rfc3161.txt) protocol to produce cryptographic timestamps and bind them to digital data; this attests that the data existed at a given moment, strengthening both its integrity and its legal standing.
 

@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — DocumentPreviewMode", "file": "references/scripting/document-preview-mode/scripting-constants-document-preview-mode.md", "summary": "Open when looking up Scripting Constants — DocumentPreviewMode in Illustrator.", "keywords": ["Scripting Constants — DocumentPreviewMode"]},
+  {"topic": "Scripting Constants - DocumentPreviewMode", "file": "references/scripting/document-preview-mode/scripting-constants-document-preview-mode.md", "summary": "Open when looking up Scripting Constants - DocumentPreviewMode in Illustrator.", "keywords": ["Scripting Constants - DocumentPreviewMode"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

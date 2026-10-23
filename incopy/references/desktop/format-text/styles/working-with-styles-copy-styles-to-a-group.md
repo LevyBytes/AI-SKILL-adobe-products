@@ -1,4 +1,4 @@
-# Working with styles — Copy styles to a group
+# Working with styles - Copy styles to a group
 
 Copied styles in another group are independent, even when they keep the same name. Changing one style does not alter the attributes of the other.
 

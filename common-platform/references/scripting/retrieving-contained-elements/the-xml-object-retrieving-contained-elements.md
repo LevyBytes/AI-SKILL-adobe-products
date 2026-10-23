@@ -1,4 +1,4 @@
-# The XML Object — Retrieving contained elements
+# The XML Object - Retrieving contained elements
 
 Several XML object methods retrieve contained elements from different depths in the tree:
 

@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — statusText : `string`
+# window.XMLHttpRequest - statusText : `string`
 
 **Read only**
 Contains the response status message.

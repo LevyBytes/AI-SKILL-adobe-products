@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: raster export options and compression
+# Shared Adobe platform - Illustrator: raster export options and compression
 
-Open when working with raster export options and compression in Shared Adobe platform — Illustrator.
+Open when working with raster export options and compression in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-raster-export.json).
 

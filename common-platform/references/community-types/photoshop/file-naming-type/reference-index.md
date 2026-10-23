@@ -1,4 +1,4 @@
-# Shared Adobe platform — FileNamingType
+# Shared Adobe platform - FileNamingType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FileNamingType declaration in Shared Adobe platform. [FileNamingType declaration](declaration.md).

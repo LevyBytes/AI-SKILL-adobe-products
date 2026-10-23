@@ -1,4 +1,4 @@
-# Parameter Supervision — Updating Parameter Values
+# Parameter Supervision - Updating Parameter Values
 
 The actual value of a parameter — not merely its UI — is editable while `PF_Cmd_USER_CHANGED_PARAM` runs, and also during `PF_Cmd_EVENT` (specifically `PF_Event_DO_CLICK`, `PF_Event_DRAG`, & `PF_Event_KEYDOWN`). Edits attempted outside those windows won't be respected by After Effects.
 

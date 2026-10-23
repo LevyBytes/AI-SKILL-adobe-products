@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: filesystem access and native processes
+# Shared Adobe platform - Cep 12: filesystem access and native processes
 
-Open when working with filesystem access and native processes in Shared Adobe platform — Cep 12.
+Open when working with filesystem access and native processes in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-files-processes.json).
 

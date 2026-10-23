@@ -1,4 +1,4 @@
-# Firefly — Collaborate using Style Kits
+# Firefly - Collaborate using Style Kits
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create Style Kits in Firefly. [Create Style Kits](create-style-kits.md).

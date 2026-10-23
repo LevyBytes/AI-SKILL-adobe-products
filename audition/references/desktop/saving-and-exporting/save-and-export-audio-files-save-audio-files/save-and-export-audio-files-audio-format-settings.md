@@ -1,4 +1,4 @@
-# Save and export audio files — Audio format settings
+# Save and export audio files - Audio format settings
 
 For most work, keep uncompressed audio in AIFF or WAV format. Use compressed MP3 only for web delivery or portable media players.
 

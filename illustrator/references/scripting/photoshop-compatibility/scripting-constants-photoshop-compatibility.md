@@ -1,4 +1,4 @@
-# Scripting Constants — PhotoshopCompatibility
+# Scripting Constants - PhotoshopCompatibility
 
 | Value | Description |
 | --- | --- |

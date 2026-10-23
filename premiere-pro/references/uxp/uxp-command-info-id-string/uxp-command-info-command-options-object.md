@@ -1,4 +1,4 @@
-# UxpCommandInfo — commandOptions ⇒ `object`
+# UxpCommandInfo - commandOptions ⇒ `object`
 
 Retrieves the command options parameter.
 

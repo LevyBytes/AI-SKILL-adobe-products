@@ -1,4 +1,4 @@
-# InDesign — GPU performance in InDesign
+# InDesign - GPU performance in InDesign
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Animated Zoom in InDesign. [Animated Zoom](animated-zoom.md).

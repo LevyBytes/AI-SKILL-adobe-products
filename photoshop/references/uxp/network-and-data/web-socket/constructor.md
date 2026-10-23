@@ -1,4 +1,4 @@
-# window.WebSocket — WebSocket(url, protocols)
+# window.WebSocket - WebSocket(url, protocols)
 
 Use WebSocket to open and control a server connection, then exchange data across that connection.
 To use `WebSocket`, add the `network.domains` permission to `manifest.json` as shown below.

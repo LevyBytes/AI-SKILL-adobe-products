@@ -1,6 +1,6 @@
-# InDesign — List box: events and listeners
+# InDesign - List box: events and listeners
 
-Open when checking events and listeners in InDesign — List box.
+Open when checking events and listeners in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: video, audio and real-time communication
+# Shared Adobe platform - Cep 12: video, audio and real-time communication
 
-Open when working with video, audio and real-time communication in Shared Adobe platform — Cep 12.
+Open when working with video, audio and real-time communication in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-media.json).
 

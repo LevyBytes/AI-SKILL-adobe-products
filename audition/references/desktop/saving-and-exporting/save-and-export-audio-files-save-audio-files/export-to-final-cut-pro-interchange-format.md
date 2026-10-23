@@ -1,4 +1,4 @@
-# Save and export audio files — Export to Final Cut Pro Interchange format
+# Save and export audio files - Export to Final Cut Pro Interchange format
 
 From Multitrack Editor, use File > Export > FCP XML Interchange Format.
 

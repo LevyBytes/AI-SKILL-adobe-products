@@ -1,24 +1,24 @@
-# InCopy — Hyperlinks — Hyperlinks panel overview
+# InCopy - Hyperlinks - Hyperlinks panel overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Hyperlinks — Convert URLs to hyperlinks in InCopy. [Hyperlinks — Convert URLs to hyperlinks](hyperlinks-convert-urls-to-hyperlinks.md).
-- Open when looking up Hyperlinks — Create a hyperlink destination in InCopy. [Hyperlinks — Create a hyperlink destination](hyperlinks-create-a-hyperlink-destination.md).
-- Open when looking up Hyperlinks — Create a hyperlink to a file in InCopy. [Hyperlinks — Create a hyperlink to a file](hyperlinks-create-a-hyperlink-to-a-file.md).
-- Open when looking up Hyperlinks — Create a hyperlink to a page in InCopy. [Hyperlinks — Create a hyperlink to a page](hyperlinks-create-a-hyperlink-to-a-page.md).
-- Open when looking up Hyperlinks — Create a hyperlink to a text anchor in InCopy. [Hyperlinks — Create a hyperlink to a text anchor](hyperlinks-create-a-hyperlink-to-a-text-anchor.md).
-- Open when looking up Hyperlinks — Create a hyperlink to a web page (URL) in InCopy. [Hyperlinks — Create a hyperlink to a web page (URL)](hyperlinks-create-a-hyperlink-to-a-web-page-url.md).
-- Open when looking up Hyperlinks — Create a hyperlink to an email message in InCopy. [Hyperlinks — Create a hyperlink to an email message](hyperlinks-create-a-hyperlink-to-an-email-message.md).
-- Open when looking up Hyperlinks — Create a hyperlink to any shared destination in InCopy. [Hyperlinks — Create a hyperlink to any shared destination](hyperlinks-create-a-hyperlink-to-any-shared-destination.md).
-- Open when looking up Hyperlinks — Create hyperlinks in InCopy. [Hyperlinks — Create hyperlinks](hyperlinks-create-hyperlinks.md).
-- Open when looking up Hyperlinks — Delete hyperlinks in InCopy. [Hyperlinks — Delete hyperlinks](hyperlinks-delete-hyperlinks.md).
-- Open when looking up Hyperlinks — Display hyperlinks in smaller rows in InCopy. [Hyperlinks — Display hyperlinks in smaller rows](hyperlinks-display-hyperlinks-in-smaller-rows.md).
-- Open when looking up Hyperlinks — Edit hyperlinks in InCopy. [Hyperlinks — Edit hyperlinks](hyperlinks-edit-hyperlinks.md).
-- Open when looking up Hyperlinks — Edit or delete hyperlink destinations in InCopy. [Hyperlinks — Edit or delete hyperlink destinations](hyperlinks-edit-or-delete-hyperlink-destinations.md).
-- Open when looking up Hyperlinks — Editing hyperlinks imported from Word in InCopy. [Hyperlinks — Editing hyperlinks imported from Word](hyperlinks-editing-hyperlinks-imported-from-word.md).
-- Open when looking up Hyperlinks — Go to a hyperlink source or anchor in InCopy. [Hyperlinks — Go to a hyperlink source or anchor](hyperlinks-go-to-a-hyperlink-source-or-anchor.md).
-- Open when looking up Hyperlinks — Hyperlink appearance options in InCopy. [Hyperlinks — Hyperlink appearance options](hyperlinks-hyperlink-appearance-options.md).
-- Open when looking up Hyperlinks — Manage hyperlinks in InCopy. [Hyperlinks — Manage hyperlinks](hyperlinks-manage-hyperlinks.md).
-- Open when looking up Hyperlinks — Open the Hyperlinks panel in InCopy. [Hyperlinks — Open the Hyperlinks panel](hyperlinks-open-the-hyperlinks-panel.md).
-- Open when looking up Hyperlinks — Rename a hyperlink source in InCopy. [Hyperlinks — Rename a hyperlink source](hyperlinks-rename-a-hyperlink-source.md).
-- Open when looking up Hyperlinks — Reset or update hyperlinks in InCopy. [Hyperlinks — Reset or update hyperlinks](hyperlinks-reset-or-update-hyperlinks.md).
-- Open when looking up Hyperlinks — Sort hyperlinks in the Hyperlinks panel in InCopy. [Hyperlinks — Sort hyperlinks in the Hyperlinks panel](hyperlinks-sort-hyperlinks-in-the-hyperlinks-panel.md).
+- Open when looking up Hyperlinks - Convert URLs to hyperlinks in InCopy. [Hyperlinks - Convert URLs to hyperlinks](hyperlinks-convert-urls-to-hyperlinks.md).
+- Open when looking up Hyperlinks - Create a hyperlink destination in InCopy. [Hyperlinks - Create a hyperlink destination](hyperlinks-create-a-hyperlink-destination.md).
+- Open when looking up Hyperlinks - Create a hyperlink to a file in InCopy. [Hyperlinks - Create a hyperlink to a file](hyperlinks-create-a-hyperlink-to-a-file.md).
+- Open when looking up Hyperlinks - Create a hyperlink to a page in InCopy. [Hyperlinks - Create a hyperlink to a page](hyperlinks-create-a-hyperlink-to-a-page.md).
+- Open when looking up Hyperlinks - Create a hyperlink to a text anchor in InCopy. [Hyperlinks - Create a hyperlink to a text anchor](hyperlinks-create-a-hyperlink-to-a-text-anchor.md).
+- Open when looking up Hyperlinks - Create a hyperlink to a web page (URL) in InCopy. [Hyperlinks - Create a hyperlink to a web page (URL)](hyperlinks-create-a-hyperlink-to-a-web-page-url.md).
+- Open when looking up Hyperlinks - Create a hyperlink to an email message in InCopy. [Hyperlinks - Create a hyperlink to an email message](hyperlinks-create-a-hyperlink-to-an-email-message.md).
+- Open when looking up Hyperlinks - Create a hyperlink to any shared destination in InCopy. [Hyperlinks - Create a hyperlink to any shared destination](hyperlinks-create-a-hyperlink-to-any-shared-destination.md).
+- Open when looking up Hyperlinks - Create hyperlinks in InCopy. [Hyperlinks - Create hyperlinks](hyperlinks-create-hyperlinks.md).
+- Open when looking up Hyperlinks - Delete hyperlinks in InCopy. [Hyperlinks - Delete hyperlinks](hyperlinks-delete-hyperlinks.md).
+- Open when looking up Hyperlinks - Display hyperlinks in smaller rows in InCopy. [Hyperlinks - Display hyperlinks in smaller rows](hyperlinks-display-hyperlinks-in-smaller-rows.md).
+- Open when looking up Hyperlinks - Edit hyperlinks in InCopy. [Hyperlinks - Edit hyperlinks](hyperlinks-edit-hyperlinks.md).
+- Open when looking up Hyperlinks - Edit or delete hyperlink destinations in InCopy. [Hyperlinks - Edit or delete hyperlink destinations](hyperlinks-edit-or-delete-hyperlink-destinations.md).
+- Open when looking up Hyperlinks - Editing hyperlinks imported from Word in InCopy. [Hyperlinks - Editing hyperlinks imported from Word](hyperlinks-editing-hyperlinks-imported-from-word.md).
+- Open when looking up Hyperlinks - Go to a hyperlink source or anchor in InCopy. [Hyperlinks - Go to a hyperlink source or anchor](hyperlinks-go-to-a-hyperlink-source-or-anchor.md).
+- Open when looking up Hyperlinks - Hyperlink appearance options in InCopy. [Hyperlinks - Hyperlink appearance options](hyperlinks-hyperlink-appearance-options.md).
+- Open when looking up Hyperlinks - Manage hyperlinks in InCopy. [Hyperlinks - Manage hyperlinks](hyperlinks-manage-hyperlinks.md).
+- Open when looking up Hyperlinks - Open the Hyperlinks panel in InCopy. [Hyperlinks - Open the Hyperlinks panel](hyperlinks-open-the-hyperlinks-panel.md).
+- Open when looking up Hyperlinks - Rename a hyperlink source in InCopy. [Hyperlinks - Rename a hyperlink source](hyperlinks-rename-a-hyperlink-source.md).
+- Open when looking up Hyperlinks - Reset or update hyperlinks in InCopy. [Hyperlinks - Reset or update hyperlinks](hyperlinks-reset-or-update-hyperlinks.md).
+- Open when looking up Hyperlinks - Sort hyperlinks in the Hyperlinks panel in InCopy. [Hyperlinks - Sort hyperlinks in the Hyperlinks panel](hyperlinks-sort-hyperlinks-in-the-hyperlinks-panel.md).

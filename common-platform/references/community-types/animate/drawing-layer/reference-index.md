@@ -1,4 +1,4 @@
-# Shared Adobe platform — DrawingLayer
+# Shared Adobe platform - DrawingLayer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DrawingLayer declaration in Shared Adobe platform. [DrawingLayer declaration](declaration.md).

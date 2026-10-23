@@ -1,4 +1,4 @@
-# VS Code Extension Features — Exporting as Binary
+# VS Code Extension Features - Exporting as Binary
 
 The older Extendscript ToolKit made it easy to save projects as obfuscated binary files. That capability is still present in the VS Code debugger.
 

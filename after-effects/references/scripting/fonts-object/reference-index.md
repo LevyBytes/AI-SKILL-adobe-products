@@ -1,4 +1,4 @@
-# After Effects — Fonts object
+# After Effects - Fonts object
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FontsObject.allFonts in After Effects. [FontsObject.allFonts](all-fonts.md).

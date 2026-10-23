@@ -1,4 +1,4 @@
-# Photoshop — Migration patterns by operation type
+# Photoshop - Migration patterns by operation type
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up A. Edit operations (Lightroom) in Photoshop. [A. Edit operations (Lightroom)](edit-operations-lightroom.md).

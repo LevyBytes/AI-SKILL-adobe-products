@@ -1,4 +1,4 @@
-# Aligning text — Set Gyoudori
+# Aligning text - Set Gyoudori
 
 Gyoudori centers a chosen count of lines within a paragraph. Use gyoudori to emphasize one-line paragraphs, including headings and titles. For paragraphs longer than one line, Paragraph Gyoudori lets the whole paragraph occupy the selected line count.
 

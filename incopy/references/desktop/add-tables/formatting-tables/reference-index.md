@@ -1,4 +1,4 @@
-# InCopy — Formatting tables
+# InCopy - Formatting tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add text before a table in InCopy. [Add text before a table](add-text-before-a-table.md).

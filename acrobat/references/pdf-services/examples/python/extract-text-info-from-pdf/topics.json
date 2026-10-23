@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Extract text info from pdf example setup", "file": "references/pdf-services/examples/python/extract-text-info-from-pdf/extract-text-info-from-pdf-setup.md", "summary": "Open when looking up Extract text info from pdf example setup in Acrobat.", "keywords": ["Extract text info from pdf example setup"]},
-  {"topic": "ExtractTextInfoFromPDF", "file": "references/pdf-services/examples/python/extract-text-info-from-pdf/extract-text-info-from-pdf.py", "summary": "Open when looking up ExtractTextInfoFromPDF in Acrobat.", "keywords": ["ExtractTextInfoFromPDF"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

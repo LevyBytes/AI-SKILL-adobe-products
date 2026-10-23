@@ -1,4 +1,4 @@
-# Premiere Pro — Playback issues due to missing sound from all clips
+# Premiere Pro - Playback issues due to missing sound from all clips
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose a system default audio device and check its volume in Premiere Pro. [Choose a system default audio device and check its volume](choose-a-system-default-audio-device-and-check-its-volume.md).

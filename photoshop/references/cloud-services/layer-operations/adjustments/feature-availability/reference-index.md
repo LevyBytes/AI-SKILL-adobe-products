@@ -1,4 +1,4 @@
-# Photoshop — Feature availability
+# Photoshop - Feature availability
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Coming Soon in Photoshop. [Coming Soon](coming-soon.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Event
+# Shared Adobe platform - Event
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Event declaration in Shared Adobe platform. [Event declaration](declaration.md).

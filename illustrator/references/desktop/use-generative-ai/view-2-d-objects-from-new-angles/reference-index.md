@@ -1,4 +1,4 @@
-# Illustrator — View 2D objects from new angles
+# Illustrator - View 2D objects from new angles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access the views later in Illustrator. [Access the views later](access-the-views-later.md).

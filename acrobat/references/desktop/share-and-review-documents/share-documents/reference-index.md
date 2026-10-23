@@ -1,4 +1,4 @@
-# Acrobat — Share documents
+# Acrobat - Share documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About reviewing on internal servers in Acrobat. [About reviewing on internal servers](about-reviewing-on-internal-servers.md).

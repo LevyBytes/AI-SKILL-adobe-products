@@ -1,4 +1,4 @@
-# InDesign — Glyphs, characters, and expressions
+# InDesign - Glyphs, characters, and expressions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Construct a GREP expression in InDesign. [Construct a GREP expression](construct-a-grep-expression.md).

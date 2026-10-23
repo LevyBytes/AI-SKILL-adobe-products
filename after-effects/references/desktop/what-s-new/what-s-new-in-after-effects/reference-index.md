@@ -1,4 +1,4 @@
-# After Effects — What's new in After Effects
+# After Effects - What's new in After Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up April 2026 release (version 26.2) in After Effects. [April 2026 release (version 26.2)](april-2026-release-version-26-2.md).

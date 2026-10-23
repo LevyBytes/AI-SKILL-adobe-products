@@ -1,4 +1,4 @@
-# Illustrator — Application
+# Illustrator - Application
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Application.activeDocument in Illustrator. [Application.activeDocument](active-document.md).
@@ -62,4 +62,4 @@
 - Open when looking up Application.userInteractionLevel in Illustrator. [Application.userInteractionLevel](user-interaction-level.md).
 - Open when looking up Application.version in Illustrator. [Application.version](version.md).
 - Open when looking up Application.visible in Illustrator. [Application.visible](visible.md).
-- Open when looking up Top-Level (containing) Objects — Application in Illustrator. [Top-Level (containing) Objects — Application](top-level-containing-objects-application.md).
+- Open when looking up Top-Level (containing) Objects - Application in Illustrator. [Top-Level (containing) Objects - Application](top-level-containing-objects-application.md).

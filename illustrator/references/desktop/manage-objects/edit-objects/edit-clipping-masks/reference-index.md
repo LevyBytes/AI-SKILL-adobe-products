@@ -1,4 +1,4 @@
-# Illustrator — Edit clipping masks
+# Illustrator - Edit clipping masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit a clipping mask in Illustrator. [Edit a clipping mask](edit-a-clipping-mask.md).

@@ -1,4 +1,4 @@
-# After Effects — PF_EffectCustomUIOverlayThemeSuite1
+# After Effects - PF_EffectCustomUIOverlayThemeSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PF_FillPath in After Effects. [PF_FillPath](pf-fill-path.md).

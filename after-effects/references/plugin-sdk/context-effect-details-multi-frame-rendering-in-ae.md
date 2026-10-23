@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: multi-frame rendering in ae
+# After Effects - C++ plugin SDK: multi-frame rendering in ae
 
-Open when working with multi-frame rendering in ae in After Effects — C++ plugin SDK.
+Open when working with multi-frame rendering in ae in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-multi-frame-rendering-in-ae.json).
 

@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: interactive fields and behaviors
+# InDesign - MultiStateObject: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — MultiStateObject.
+Open when checking interactive fields and behaviors in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

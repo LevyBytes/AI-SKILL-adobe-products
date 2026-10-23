@@ -1,4 +1,4 @@
-# JavaScript APIs — app.media
+# JavaScript APIs - app.media
 
 Properties and functions handy for multimedia JavaScript code are what this object lays out.
 

@@ -16,6 +16,6 @@ Whether a type tool's pointer hovers over a text layer in the Composition panel 
 
 Type to enter your characters. To start a fresh line, hit Enter on the main keyboard (Windows) or Return (macOS).
 
-Edit > Paste is another route — it drops in text copied from any Unicode-aware application. Whatever you paste adopts the formatting of the first character already sitting in that text layer.
+Edit > Paste is another route: it drops in text copied from any Unicode-aware application. Whatever you paste adopts the formatting of the first character already sitting in that text layer.
 
 Wrapping up text editing takes one of three moves: Enter on the numeric keypad, switching to another tool, or Ctrl+Enter (Windows) / Command+Return (macOS).

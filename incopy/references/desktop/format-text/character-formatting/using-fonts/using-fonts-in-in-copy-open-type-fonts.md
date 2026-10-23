@@ -1,4 +1,4 @@
-# Using fonts in InCopy — OpenType fonts
+# Using fonts in InCopy - OpenType fonts
 
 OpenType fonts package Windows and Macintosh versions in a single font file, letting files move between platforms without font substitution concerns and other reflow-causing issues. They can contain features such as swashes and discretionary ligatures that current PostScript and TrueType fonts do not provide.
 

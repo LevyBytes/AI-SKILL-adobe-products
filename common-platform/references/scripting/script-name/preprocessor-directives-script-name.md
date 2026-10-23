@@ -1,4 +1,4 @@
-# Preprocessor directives — #script name
+# Preprocessor directives - #script name
 
 Gives a script a name. Quotes can be omitted, except when the name includes whitespace or special characters. For example:
 

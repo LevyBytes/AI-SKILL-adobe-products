@@ -1,4 +1,4 @@
-# Firefly — Edit images
+# Firefly - Edit images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit images using text prompts in Firefly. [Edit images using text prompts](edit-images-using-text-prompts.md).

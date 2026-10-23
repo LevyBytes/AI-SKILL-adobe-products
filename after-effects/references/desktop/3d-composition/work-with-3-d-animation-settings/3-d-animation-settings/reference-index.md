@@ -1,4 +1,4 @@
-# After Effects — 3D animation settings
+# After Effects - 3D animation settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bin Breakers in After Effects. [Bin Breakers](bin-breakers.md).

@@ -1,4 +1,4 @@
-# InDesign — Use tags to create accessible PDFs
+# InDesign - Use tags to create accessible PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply tags to text frames and graphics in InDesign. [Apply tags to text frames and graphics](apply-tags-to-text-frames-and-graphics.md).

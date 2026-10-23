@@ -1,6 +1,6 @@
-# InDesign — WMF: image fitting, cropping and resolution
+# InDesign - WMF: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in InDesign — WMF.
+Open when checking image fitting, cropping and resolution in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

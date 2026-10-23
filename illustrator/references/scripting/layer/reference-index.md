@@ -1,4 +1,4 @@
-# Illustrator — Layer
+# Illustrator - Layer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Layer.artworkKnockout in Illustrator. [Layer.artworkKnockout](artwork-knockout.md).
@@ -34,4 +34,4 @@
 - Open when looking up Layer.visible in Illustrator. [Layer.visible](visible.md).
 - Open when looking up Layer.zOrder() in Illustrator. [Layer.zOrder()](z-order.md).
 - Open when looking up Layer.zOrderPosition in Illustrator. [Layer.zOrderPosition](z-order-position.md).
-- Open when looking up Top-Level (containing) Objects — Layer in Illustrator. [Top-Level (containing) Objects — Layer](top-level-containing-objects-layer.md).
+- Open when looking up Top-Level (containing) Objects - Layer in Illustrator. [Top-Level (containing) Objects - Layer](top-level-containing-objects-layer.md).

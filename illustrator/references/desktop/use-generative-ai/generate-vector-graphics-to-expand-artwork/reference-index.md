@@ -1,4 +1,4 @@
-# Illustrator — Generate vector graphics to expand artwork
+# Illustrator - Generate vector graphics to expand artwork
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Expand artwork in Illustrator. [Expand artwork](expand-artwork.md).

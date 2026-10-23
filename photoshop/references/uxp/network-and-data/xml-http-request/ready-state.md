@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — readyState : `number`
+# window.XMLHttpRequest - readyState : `number`
 
 **Read only**
 The XMLHttpRequest object's state. The states are listed below.

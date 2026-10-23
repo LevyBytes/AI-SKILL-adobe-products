@@ -1,6 +1,6 @@
-# InDesign — WMF: object identity and lifecycle
+# InDesign - WMF: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — WMF.
+Open when checking object identity and lifecycle in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

@@ -1,4 +1,4 @@
-# window.FormData — getAll(name)
+# window.FormData - getAll(name)
 
 Retrieves every value tied to a specified key inside a FormData object.
 

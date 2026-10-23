@@ -1,4 +1,4 @@
-# Shared Adobe platform — PreflightRule
+# Shared Adobe platform - PreflightRule
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PreflightRule declaration in Shared Adobe platform. [PreflightRule declaration](declaration.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Spread
+# Shared Adobe platform - Spread
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Spread declaration in Shared Adobe platform. [Spread declaration](declaration.md).

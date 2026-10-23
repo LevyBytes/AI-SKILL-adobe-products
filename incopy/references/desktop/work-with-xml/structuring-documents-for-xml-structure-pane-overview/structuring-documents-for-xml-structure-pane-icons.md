@@ -1,4 +1,4 @@
-# Structuring documents for XML — Structure pane icons
+# Structuring documents for XML - Structure pane icons
 
 These icons are used in the Structure pane:
 

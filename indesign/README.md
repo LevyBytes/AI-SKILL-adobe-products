@@ -25,7 +25,7 @@ flowchart LR
 
 Adobe InDesign references for page layout, publishing and programmable document workflows. Desktop procedures, the document object model and UXP development are separated so each task reaches the appropriate contract.
 
-Use when working with Adobe InDesign page layout, documents and books, typography, graphics, tables, interactive documents, collaboration, publishing, printing, preflight, or troubleshooting; automating the InDesign DOM; or building InDesign UXP scripts and plugins with the bundled runtime, UI, storage, and recipe references.
+Use when working with Adobe InDesign page layout, documents and books, typography, graphics, tables, interactive documents, collaboration, publishing, printing, preflight or troubleshooting; automating the InDesign DOM; or building InDesign UXP scripts and plugins.
 
 ## What this skill helps with
 
@@ -49,4 +49,4 @@ Use the host and runtime version required by the selected example. A document-mo
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://helpx.adobe.com/indesign.html) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

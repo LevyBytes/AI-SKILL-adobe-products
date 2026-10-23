@@ -1,4 +1,4 @@
-# Audition — Displaying audio in the Waveform Editor
+# Audition - Displaying audio in the Waveform Editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About the spectral display in Audition. [About the spectral display](about-the-spectral-display.md).

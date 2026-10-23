@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: raster and image export formats
+# InDesign - InDesign document object model: raster and image export formats
 
-Open when working with raster and image export formats in InDesign — InDesign document object model.
+Open when working with raster and image export formats in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-image-export.json).
 

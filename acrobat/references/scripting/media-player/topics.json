@@ -10,7 +10,7 @@
   {"topic": "isOpen", "file": "references/scripting/media-player/is-open.md", "summary": "Open when looking up isOpen in Acrobat.", "keywords": ["isOpen"]},
   {"topic": "isPlaying", "file": "references/scripting/media-player/is-playing.md", "summary": "Open when looking up isPlaying in Acrobat.", "keywords": ["isPlaying"]},
   {"topic": "markers", "file": "references/scripting/media-player/markers.md", "summary": "Open when looking up markers in Acrobat.", "keywords": ["markers"]},
-  {"topic": "Media and Marker APIs — MediaPlayer", "file": "references/scripting/media-player/media-and-marker-apis-media-player.md", "summary": "Open when looking up Media and Marker APIs — MediaPlayer in Acrobat.", "keywords": ["Media and Marker APIs — MediaPlayer"]},
+  {"topic": "Media and Marker APIs - MediaPlayer", "file": "references/scripting/media-player/media-and-marker-apis-media-player.md", "summary": "Open when looking up Media and Marker APIs - MediaPlayer in Acrobat.", "keywords": ["Media and Marker APIs - MediaPlayer"]},
   {"topic": "MediaPlayer methods", "file": "references/scripting/media-player/media-player-methods.md", "summary": "Open when looking up MediaPlayer methods in Acrobat.", "keywords": ["MediaPlayer methods"]},
   {"topic": "open", "file": "references/scripting/media-player/open.md", "summary": "Open when looking up open in Acrobat.", "keywords": ["open"]},
   {"topic": "outerRect", "file": "references/scripting/media-player/outer-rect.md", "summary": "Open when looking up outerRect in Acrobat.", "keywords": ["outerRect"]},

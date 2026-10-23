@@ -1,4 +1,4 @@
-# Editing text — Break options
+# Editing text - Break options
 
 These options are available from the Type > Insert Break Character menu:
 

@@ -1,4 +1,4 @@
-# Text composition — Set composition preferences
+# Text composition - Set composition preferences
 
 Open Edit > Preferences > Composition (Windows) or InCopy  > Preferences > Composition (Mac OS).
 

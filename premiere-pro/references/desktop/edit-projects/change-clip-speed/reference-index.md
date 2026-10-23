@@ -1,4 +1,4 @@
-# Premiere Pro — Change clip speed
+# Premiere Pro - Change clip speed
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Time Interpolation Methods to adjust clip speed in Premiere Pro. [Apply Time Interpolation Methods to adjust clip speed](apply-time-interpolation-methods-to-adjust-clip-speed.md).

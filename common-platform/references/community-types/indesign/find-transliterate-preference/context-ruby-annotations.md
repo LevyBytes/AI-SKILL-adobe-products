@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTransliteratePreference: ruby annotations
+# Shared Adobe platform - FindTransliteratePreference: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — FindTransliteratePreference.
+Open when checking ruby annotations in Shared Adobe platform - FindTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

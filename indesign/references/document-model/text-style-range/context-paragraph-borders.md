@@ -1,6 +1,6 @@
-# InDesign — Text style range: paragraph borders
+# InDesign - Text style range: paragraph borders
 
-Open when checking paragraph borders in InDesign — Text style range.
+Open when checking paragraph borders in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-borders.json).
 

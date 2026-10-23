@@ -1,4 +1,4 @@
-# AEGP Suites — Output Module Suite
+# AEGP Suites - Output Module Suite
 
 Each render queue item includes at least one specified output module.
 

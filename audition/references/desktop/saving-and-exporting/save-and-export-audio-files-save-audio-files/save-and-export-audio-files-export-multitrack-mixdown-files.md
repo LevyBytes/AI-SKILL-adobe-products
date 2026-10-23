@@ -1,4 +1,4 @@
-# Save and export audio files — Export multitrack mixdown files
+# Save and export audio files - Export multitrack mixdown files
 
 When a session mix is complete, export either the full session or a selected section in common audio formats. The exported result uses the volume, pan, and effects state currently routed through the mix track.
 

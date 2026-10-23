@@ -1,4 +1,4 @@
-# Acrobat — Edit PDFs with chat
+# Acrobat - Edit PDFs with chat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ask Acrobat to perform PDF tasks in Acrobat. [Ask Acrobat to perform PDF tasks](ask-acrobat-to-perform-pdf-tasks.md).

@@ -1,4 +1,4 @@
-# Photoshop — Photoshop api changelog photoshop 25 0 september 2023
+# Photoshop - Photoshop api changelog photoshop 25 0 september 2023
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Action Recording in Photoshop. [Action Recording](action-recording.md).

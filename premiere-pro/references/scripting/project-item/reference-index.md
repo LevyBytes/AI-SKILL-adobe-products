@@ -1,4 +1,4 @@
-# Premiere Pro — Project item
+# Premiere Pro - Project item
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ProjectItem object in Premiere Pro. [ProjectItem object](project-item-object.md).

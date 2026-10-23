@@ -1,4 +1,4 @@
-# Artisan Data Types — Query Transform Functions
+# Artisan Data Types - Query Transform Functions
 
 These functions tell artisans which transforms are needed to place layers correctly in a composition and to answer the different queries After Effects sends to the `PR_QueryFunc` entry point.
 

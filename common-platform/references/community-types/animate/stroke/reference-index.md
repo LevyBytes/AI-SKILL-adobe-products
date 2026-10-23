@@ -1,4 +1,4 @@
-# Shared Adobe platform — Stroke
+# Shared Adobe platform - Stroke
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Stroke declaration in Shared Adobe platform. [Stroke declaration](declaration.md).

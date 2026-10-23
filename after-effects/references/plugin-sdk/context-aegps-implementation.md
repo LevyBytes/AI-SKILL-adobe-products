@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: implementation
+# After Effects - C++ plugin SDK: implementation
 
-Open when working with implementation in After Effects — C++ plugin SDK.
+Open when working with implementation in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegps-implementation.json).
 

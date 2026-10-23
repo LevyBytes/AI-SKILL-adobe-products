@@ -1,8 +1,8 @@
-# Acrobat — Soap
+# Acrobat - Soap
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Authenticated SOAP request example in Acrobat. [Authenticated SOAP request example](authenticated-request-example.md).
-- Open when looking up JavaScript APIs — SOAP in Acrobat. [JavaScript APIs — SOAP](java-script-apis-soap.md).
+- Open when looking up JavaScript APIs - SOAP in Acrobat. [JavaScript APIs - SOAP](java-script-apis-soap.md).
 - Open when looking up oResult parameter in Acrobat. [oResult parameter](o-result-parameter.md).
 - Open when looking up queryServices in Acrobat. [queryServices](query-services.md).
 - Open when looking up resolveService in Acrobat. [resolveService](resolve-service.md).

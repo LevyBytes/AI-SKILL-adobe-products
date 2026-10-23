@@ -1,4 +1,4 @@
-# Premiere Pro — Grading Clips Using Adjust
+# Premiere Pro - Grading Clips Using Adjust
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced use of Texture and Sharpness in Premiere Pro. [Advanced use of Texture and Sharpness](advanced-use-of-texture-and-sharpness.md).

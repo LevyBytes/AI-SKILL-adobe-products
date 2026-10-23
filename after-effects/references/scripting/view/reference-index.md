@@ -1,4 +1,4 @@
-# After Effects — View
+# After Effects - View
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up View object in After Effects. [View object](view-object.md).

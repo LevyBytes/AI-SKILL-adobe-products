@@ -1,4 +1,4 @@
-# Firefly — Apply color adjustments and looks
+# Firefly - Apply color adjustments and looks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust color settings manually in Firefly. [Adjust color settings manually](adjust-color-settings-manually.md).

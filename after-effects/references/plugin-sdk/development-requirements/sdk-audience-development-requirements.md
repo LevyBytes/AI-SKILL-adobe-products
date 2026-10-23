@@ -1,4 +1,4 @@
-# SDK Audience — Development Requirements
+# SDK Audience - Development Requirements
 
 After Effects system requirements are published at this URL: https://helpx.adobe.com/after-effects/system-requirements.html
 

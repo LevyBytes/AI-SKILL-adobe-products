@@ -1,4 +1,4 @@
-# Checking spelling — Set the default language dictionary for the current document
+# Checking spelling - Set the default language dictionary for the current document
 
 The default language dictionary can be changed for the current document or for all new documents. In an existing document, this change leaves previously created text and new text entered into already existing frames unchanged.
 

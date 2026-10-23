@@ -1,4 +1,4 @@
-# Glyphs and special characters — Insert a glyph from a specified font
+# Glyphs and special characters - Insert a glyph from a specified font
 
 With the Type tool, click where the new character should appear. Open Type > Glyphs to show the Glyphs panel. To switch which characters the Glyphs panel displays, use any of these methods:
 

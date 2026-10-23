@@ -1,4 +1,4 @@
-# JavaScript APIs — Sound
+# JavaScript APIs - Sound
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

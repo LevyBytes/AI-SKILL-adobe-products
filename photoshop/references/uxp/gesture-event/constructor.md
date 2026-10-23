@@ -1,4 +1,4 @@
-# window.GestureEvent — GestureEvent(type, eventInit)
+# window.GestureEvent - GestureEvent(type, eventInit)
 
 Builds a GestureEvent instance.
 

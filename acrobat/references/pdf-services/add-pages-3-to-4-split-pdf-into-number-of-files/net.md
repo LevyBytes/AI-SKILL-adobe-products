@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/split-pdf-into-number-of-files/Program.cs)
+- [split-pdf-into-number-of-files setup and source](../examples/dotnet/split-pdf-into-number-of-files/split-pdf-into-number-of-files-setup.md)

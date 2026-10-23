@@ -1,4 +1,4 @@
-# Premiere Pro — Organize motion graphics templates
+# Premiere Pro - Organize motion graphics templates
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a Motion Graphics template to a library in Premiere Pro. [Add a Motion Graphics template to a library](add-a-motion-graphics-template-to-a-library.md).

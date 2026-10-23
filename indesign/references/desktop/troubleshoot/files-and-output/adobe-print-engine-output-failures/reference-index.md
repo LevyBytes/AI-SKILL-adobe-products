@@ -1,4 +1,4 @@
-# InDesign — Adobe Print Engine output failures
+# InDesign - Adobe Print Engine output failures
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conflicting page range settings in InDesign. [Conflicting page range settings](conflicting-page-range-settings.md).

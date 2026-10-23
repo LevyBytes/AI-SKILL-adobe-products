@@ -1,4 +1,4 @@
-# After Effects — Layer 3 d
+# After Effects - Layer 3 d
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up acceptsLights in After Effects. [acceptsLights](accepts-lights.md).

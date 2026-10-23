@@ -1,6 +1,6 @@
-# InDesign — Cell: find, replace and transliterate
+# InDesign - Cell: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Cell.
+Open when checking find, replace and transliterate in InDesign - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

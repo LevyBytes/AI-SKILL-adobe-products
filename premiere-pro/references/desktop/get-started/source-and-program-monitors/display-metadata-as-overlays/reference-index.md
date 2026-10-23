@@ -1,4 +1,4 @@
-# Premiere Pro — Display metadata as overlays
+# Premiere Pro - Display metadata as overlays
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Available metadata fields in Premiere Pro. [Available metadata fields](available-metadata-fields.md).

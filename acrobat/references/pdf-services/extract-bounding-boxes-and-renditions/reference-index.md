@@ -1,4 +1,4 @@
-# Acrobat — Extract Text and Tables and Character Bounding Boxes (w/ Renditions)
+# Acrobat - Extract Text and Tables and Character Bounding Boxes (w/ Renditions)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET in Acrobat. [.NET](net.md).

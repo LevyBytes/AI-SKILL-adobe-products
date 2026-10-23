@@ -1,4 +1,4 @@
-# Acrobat — Manage security policies
+# Acrobat - Manage security policies
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply security policies to Outlook attachments in Acrobat. [Apply security policies to Outlook attachments](apply-security-policies-to-outlook-attachments.md).

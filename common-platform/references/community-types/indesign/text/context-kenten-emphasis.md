@@ -1,6 +1,6 @@
-# Shared Adobe platform — Text: kenten emphasis
+# Shared Adobe platform - Text: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — Text.
+Open when checking kenten emphasis in Shared Adobe platform - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

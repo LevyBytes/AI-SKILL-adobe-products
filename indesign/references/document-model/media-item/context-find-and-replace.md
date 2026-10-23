@@ -1,6 +1,6 @@
-# InDesign — MediaItem: find, replace and transliterate
+# InDesign - MediaItem: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — MediaItem.
+Open when checking find, replace and transliterate in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

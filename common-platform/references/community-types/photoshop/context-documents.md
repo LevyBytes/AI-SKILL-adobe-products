@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: documents, creation and metadata
+# Shared Adobe platform - Photoshop: documents, creation and metadata
 
-Open when working with documents, creation and metadata in Shared Adobe platform — Photoshop.
+Open when working with documents, creation and metadata in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-documents.json).
 

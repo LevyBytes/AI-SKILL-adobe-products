@@ -10,7 +10,7 @@ You will find the SoundCues folder at the viewer’s program level — for insta
 
 Note
 
-Windows only—the only files qSound accepts are 22 KHz, 16-bit PCM .wav files. They ought to run at least 1 second so MS SAPI does not hit a queue delay snag. A sound shorter than 1 second should be edited to tack some silence onto its end.
+Windows only: the only files qSound accepts are 22 KHz, 16-bit PCM .wav files. They ought to run at least 1 second so MS SAPI does not hit a queue delay snag. A sound shorter than 1 second should be edited to tack some silence onto its end.
 
 Parameters
 

@@ -1,4 +1,4 @@
-# Acrobat — Acrobat is not responding and shows a running instance error
+# Acrobat - Acrobat is not responding and shows a running instance error
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupt installation file in Acrobat. [Corrupt installation file](corrupt-installation-file.md).

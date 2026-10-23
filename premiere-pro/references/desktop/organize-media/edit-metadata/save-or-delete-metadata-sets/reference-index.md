@@ -1,4 +1,4 @@
-# Premiere Pro — Save or delete metadata sets
+# Premiere Pro - Save or delete metadata sets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete a metadata set in Premiere Pro. [Delete a metadata set](delete-a-metadata-set.md).

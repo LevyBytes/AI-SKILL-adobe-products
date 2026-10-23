@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 10 0: network requests, cookies and browser links
+# Shared Adobe platform - Cep 10 0: network requests, cookies and browser links
 
-Open when working with network requests, cookies and browser links in Shared Adobe platform — Cep 10 0.
+Open when working with network requests, cookies and browser links in Shared Adobe platform - Cep 10 0.
 
 Open when selecting an exact reference: [Topic catalog](context-network.json).
 

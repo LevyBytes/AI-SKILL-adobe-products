@@ -1,4 +1,4 @@
-# After Effects — Cycore plugins
+# After Effects - Cycore plugins
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blur & Sharpen in After Effects. [Blur & Sharpen](blur-sharpen.md).

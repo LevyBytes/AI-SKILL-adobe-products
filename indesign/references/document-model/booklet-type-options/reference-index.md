@@ -1,4 +1,4 @@
-# InDesign — BookletTypeOptions
+# InDesign - BookletTypeOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FOUR_UP_CONSECUTIVE in InDesign. [FOUR_UP_CONSECUTIVE](fourupconsecutive.md).

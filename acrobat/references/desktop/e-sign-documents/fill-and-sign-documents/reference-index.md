@@ -1,4 +1,4 @@
-# Acrobat — Fill and sign documents
+# Acrobat - Fill and sign documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add time stamps in Acrobat. [Add time stamps](add-time-stamps.md).

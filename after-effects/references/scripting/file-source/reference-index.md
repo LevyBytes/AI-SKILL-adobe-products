@@ -1,4 +1,4 @@
-# After Effects — File source
+# After Effects - File source
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FileSource object in After Effects. [FileSource object](file-source-object.md).

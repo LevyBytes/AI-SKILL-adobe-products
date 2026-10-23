@@ -1,4 +1,4 @@
-# Scripting Constants — PrinterPostScriptLevelEnum
+# Scripting Constants - PrinterPostScriptLevelEnum
 
 | Value | Description |
 | --- | --- |

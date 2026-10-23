@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: photoshop documents and geometry
+# Photoshop - UXP plugins and APIs: photoshop documents and geometry
 
-Open when working with photoshop documents and geometry in Photoshop — UXP plugins and APIs.
+Open when working with photoshop documents and geometry in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-photoshop-document.json).
 
@@ -15,6 +15,6 @@ Open when selecting an exact reference: [Topic catalog](context-photoshop-docume
 - Open when looking up Editing the Photoshop document in Photoshop [Editing the Photoshop document references](editing-the-photoshop-document/reference-index.md).
 - Open when looking up Position in Photoshop [Position](position.md).
 - Open when looking up SimpleBounds in Photoshop [SimpleBounds](simple-bounds.md).
-- Open when looking up types/GeneralTypes — Interfaces in Photoshop [types/GeneralTypes — Interfaces](types-general-types-interfaces.md).
+- Open when looking up types/GeneralTypes - Interfaces in Photoshop [types/GeneralTypes - Interfaces](types-general-types-interfaces.md).
 
 [Context index](reference-index.md)

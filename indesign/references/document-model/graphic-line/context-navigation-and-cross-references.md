@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: hyperlinks, indexes and cross-references
+# InDesign - GraphicLine: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — GraphicLine.
+Open when checking hyperlinks, indexes and cross-references in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

@@ -1,4 +1,4 @@
-# InDesign — Arrange and order pages
+# InDesign - Arrange and order pages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add new pages to a document in InDesign. [Add new pages to a document](add-new-pages-to-a-document.md).

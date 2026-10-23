@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: filter stack and parameters
+# Shared Adobe platform - Document: filter stack and parameters
 
-Open when working with filter stack and parameters in Shared Adobe platform — Document.
+Open when working with filter stack and parameters in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-filters.json).
 

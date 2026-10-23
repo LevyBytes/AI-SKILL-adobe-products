@@ -1,4 +1,4 @@
-# Table and cell styles — Edit table and cell styles
+# Table and cell styles - Edit table and cell styles
 
 One benefit of styles is that changing a style definition also changes every table or cell using that style so it matches the new definition.
 

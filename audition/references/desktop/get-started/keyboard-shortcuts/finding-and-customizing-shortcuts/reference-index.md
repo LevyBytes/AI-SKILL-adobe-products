@@ -1,4 +1,4 @@
-# Audition — Finding and customizing shortcuts
+# Audition - Finding and customizing shortcuts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Avid ProTools shortcuts in Audition in Audition. [Avid ProTools shortcuts in Audition](avid-pro-tools-shortcuts-in-audition.md).

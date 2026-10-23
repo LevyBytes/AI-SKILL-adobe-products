@@ -1,4 +1,4 @@
-# Defining entry points for direct access — Library termination
+# Defining entry points for direct access - Library termination
 
 Use the entry point ESInitialize() to release memory allocated by your code when the library is unloaded.
 

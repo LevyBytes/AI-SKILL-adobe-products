@@ -1,4 +1,4 @@
-# Shared Adobe platform — Preferences
+# Shared Adobe platform - Preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Preferences declaration in Shared Adobe platform. [Preferences declaration](declaration.md).

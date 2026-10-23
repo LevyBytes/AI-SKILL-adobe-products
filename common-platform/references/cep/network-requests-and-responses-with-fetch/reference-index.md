@@ -1,4 +1,4 @@
-# Shared Adobe platform — Network requests and responses with Fetch
+# Shared Adobe platform - Network requests and responses with Fetch
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a click handler to the button in Shared Adobe platform. [Add a click handler to the button](add-a-click-handler-to-the-button.md).

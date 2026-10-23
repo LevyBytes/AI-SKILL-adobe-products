@@ -1,6 +1,6 @@
-# InDesign — PICT: layers, stacking and master overrides
+# InDesign - PICT: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — PICT.
+Open when checking layers, stacking and master overrides in InDesign - PICT.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

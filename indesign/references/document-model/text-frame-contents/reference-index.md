@@ -1,4 +1,4 @@
-# InDesign — TextFrameContents
+# InDesign - TextFrameContents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PLACEHOLDER_TEXT in InDesign. [PLACEHOLDER_TEXT](placeholdertext.md).

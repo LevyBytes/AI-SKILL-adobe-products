@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [combine-pdf.cjs](../examples/node/combine-pdf/combine-pdf.cjs)
+- [combine-pdf setup and source](../examples/node/combine-pdf/combine-pdf-setup.md)

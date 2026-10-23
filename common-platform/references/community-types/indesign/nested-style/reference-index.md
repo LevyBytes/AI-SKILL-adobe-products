@@ -1,4 +1,4 @@
-# Shared Adobe platform — NestedStyle
+# Shared Adobe platform - NestedStyle
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NestedStyle declaration in Shared Adobe platform. [NestedStyle declaration](declaration.md).

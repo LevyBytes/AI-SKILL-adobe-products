@@ -1,4 +1,4 @@
-# Shared Adobe platform — PlaceGun
+# Shared Adobe platform - PlaceGun
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PlaceGun declaration in Shared Adobe platform. [PlaceGun declaration](declaration.md).

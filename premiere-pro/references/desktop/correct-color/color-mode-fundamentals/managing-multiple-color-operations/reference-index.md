@@ -1,4 +1,4 @@
-# Premiere Pro — Managing multiple color operations
+# Premiere Pro - Managing multiple color operations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change an operation name in Premiere Pro. [Change an operation name](change-an-operation-name.md).

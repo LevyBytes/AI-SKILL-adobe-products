@@ -1,4 +1,4 @@
-# Photoshop — Use Undo and Redo commands
+# Photoshop - Use Undo and Redo commands
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Switch to legacy undo shortcuts in Photoshop. [Switch to legacy undo shortcuts](switch-to-legacy-undo-shortcuts.md).

@@ -1,4 +1,4 @@
-# Footnotes — Change footnote numbering and layout
+# Footnotes - Change footnote numbering and layout
 
 Changing footnote numbering or layout updates both current footnotes and footnotes added later.
 

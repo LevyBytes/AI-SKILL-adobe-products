@@ -1,6 +1,6 @@
-# InDesign — EPS: movie and sound playback
+# InDesign - EPS: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — EPS.
+Open when checking movie and sound playback in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

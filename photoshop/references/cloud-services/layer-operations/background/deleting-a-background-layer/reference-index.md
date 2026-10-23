@@ -1,4 +1,4 @@
-# Photoshop — Deleting a background layer
+# Photoshop - Deleting a background layer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up V1 delete form in Photoshop. [V1 delete form](v1-delete-form.md).

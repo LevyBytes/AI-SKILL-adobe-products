@@ -1,4 +1,4 @@
-# Control objects — Control object properties
+# Control objects - Control object properties
 
 The table below lists ScriptUI control element properties. Some values are restricted to particular control types, as noted.
 

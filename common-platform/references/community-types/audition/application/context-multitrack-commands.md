@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: multitrack tracks, routing and mixing
+# Shared Adobe platform - Application: multitrack tracks, routing and mixing
 
-Open when working with multitrack tracks, routing and mixing in Shared Adobe platform — Application.
+Open when working with multitrack tracks, routing and mixing in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-multitrack-commands.json).
 

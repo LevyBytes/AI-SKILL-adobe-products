@@ -1,4 +1,4 @@
-# Shared Adobe platform — Dialogs
+# Shared Adobe platform - Dialogs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Dialogs collection iteration in Shared Adobe platform. [Dialogs collection iteration](collection-iteration.md).

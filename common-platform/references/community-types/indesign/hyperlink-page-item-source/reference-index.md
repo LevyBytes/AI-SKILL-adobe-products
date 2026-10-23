@@ -1,4 +1,4 @@
-# Shared Adobe platform — HyperlinkPageItemSource
+# Shared Adobe platform - HyperlinkPageItemSource
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HyperlinkPageItemSource declaration in Shared Adobe platform. [HyperlinkPageItemSource declaration](declaration.md).

@@ -1,4 +1,4 @@
-# XML Object Reference — XML Settings
+# XML Object Reference - XML Settings
 
 The XML class provides these static properties. They determine parsing and generation behavior for XML:
 

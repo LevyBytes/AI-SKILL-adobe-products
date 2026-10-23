@@ -1,4 +1,4 @@
-# Illustrator — Symbols
+# Illustrator - Symbols
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Symbols.add() in Illustrator. [Symbols.add()](add.md).

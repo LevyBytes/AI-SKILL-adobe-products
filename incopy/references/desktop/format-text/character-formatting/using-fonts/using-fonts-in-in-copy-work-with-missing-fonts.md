@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Work with missing fonts
+# Using fonts in InCopy - Work with missing fonts
 
 Opening or placing a document that uses fonts not installed on your system displays an alert that identifies the missing fonts. If selected text uses a missing font, the Character panel or Control panel shows the font as missing by placing it in brackets in the font style pop-up menu.
 

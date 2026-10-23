@@ -1,6 +1,6 @@
-# InDesign — TextBox: generate qr codes
+# InDesign - TextBox: generate qr codes
 
-Open when checking generate qr codes in InDesign — TextBox.
+Open when checking generate qr codes in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

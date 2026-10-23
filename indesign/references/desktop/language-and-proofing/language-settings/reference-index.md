@@ -1,4 +1,4 @@
-# InDesign — Language settings
+# InDesign - Language settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe World-Ready Composer overview in InDesign. [Adobe World-Ready Composer overview](adobe-world-ready-composer-overview.md).

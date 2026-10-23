@@ -1,6 +1,6 @@
-# InDesign — SVG: text frame columns and autosizing
+# InDesign - SVG: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — SVG.
+Open when checking text frame columns and autosizing in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

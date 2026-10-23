@@ -1,4 +1,4 @@
-# Communications overview — Remote function calls
+# Communications overview - Remote function calls
 
 The cross-DOM is a limited group of basic functions shared by all message-enabled applications. It lets a script do tasks such as open or print files in other applications by calling that application's open or print function.
 

@@ -1,4 +1,4 @@
-# Premiere Pro — Enhance speech technical requirements
+# Premiere Pro - Enhance speech technical requirements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Minimum system requirements in Premiere Pro. [Minimum system requirements](minimum-system-requirements.md).

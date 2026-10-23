@@ -1,4 +1,4 @@
-# InDesign — Article
+# InDesign - Article
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addDocumentContent in InDesign. [addDocumentContent](add-document-content.md).

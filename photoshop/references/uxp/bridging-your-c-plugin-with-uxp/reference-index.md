@@ -1,4 +1,4 @@
-# Photoshop — Bridging your C++ Plugin with UXP
+# Photoshop - Bridging your C++ Plugin with UXP
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acquiring the suites in Photoshop. [Acquiring the suites](acquiring-the-suites.md).

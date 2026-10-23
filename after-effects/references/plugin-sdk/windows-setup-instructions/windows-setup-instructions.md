@@ -1,4 +1,4 @@
-# GPU-Accelerated Effect Build Instructions — Windows Setup Instructions
+# GPU-Accelerated Effect Build Instructions - Windows Setup Instructions
 
 - Extract the boost package and execute the bundled bootstrap.bat
   - Next, run .\b2 to compile Boost

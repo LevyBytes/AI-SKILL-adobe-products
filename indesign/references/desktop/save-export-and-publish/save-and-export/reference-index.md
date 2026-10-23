@@ -1,4 +1,4 @@
-# InDesign — Save and export
+# InDesign - Save and export
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or edit metadata in InDesign. [Add or edit metadata](add-or-edit-metadata.md).

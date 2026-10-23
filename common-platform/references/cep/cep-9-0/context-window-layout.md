@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 9 0: panel visibility, size and titles
+# Shared Adobe platform - Cep 9 0: panel visibility, size and titles
 
-Open when working with panel visibility, size and titles in Shared Adobe platform — Cep 9 0.
+Open when working with panel visibility, size and titles in Shared Adobe platform - Cep 9 0.
 
 Open when selecting an exact reference: [Topic catalog](context-window-layout.json).
 

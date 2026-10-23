@@ -1,4 +1,4 @@
-# Localizing ExtendScript strings — Enabling automatic localization
+# Localizing ExtendScript strings - Enabling automatic localization
 
 ExtendScript also supports automatic localization. Once that mode is active, a localization object can be assigned directly to any property whose value is a localizable string, without calling localize. For example:
 

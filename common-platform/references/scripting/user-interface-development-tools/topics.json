@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ExtendScript overview — User-interface development tools", "file": "references/scripting/user-interface-development-tools/extend-script-overview-user-interface-development-tools.md", "summary": "Open when looking up ExtendScript overview — User-interface development tools in Shared Adobe platform.", "keywords": ["ExtendScript overview — User-interface development tools"]},
+  {"topic": "ExtendScript overview - User-interface development tools", "file": "references/scripting/user-interface-development-tools/extend-script-overview-user-interface-development-tools.md", "summary": "Open when looking up ExtendScript overview - User-interface development tools in Shared Adobe platform.", "keywords": ["ExtendScript overview - User-interface development tools"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

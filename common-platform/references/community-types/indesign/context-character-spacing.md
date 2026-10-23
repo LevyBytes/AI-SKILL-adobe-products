@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: character alignment and metrics
+# Shared Adobe platform - Indesign: character alignment and metrics
 
-Open when working with character alignment and metrics in Shared Adobe platform — Indesign.
+Open when working with character alignment and metrics in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-character-spacing.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Colors
+# Shared Adobe platform - Colors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Colors collection iteration in Shared Adobe platform. [Colors collection iteration](collection-iteration.md).

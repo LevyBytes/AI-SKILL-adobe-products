@@ -1,4 +1,4 @@
-# The Script Editor — Searching in text
+# The Script Editor - Searching in text
 
 The search utility in the Toolkit is opened with Edit > Find and Replace. That command displays the Find and Replace panel. When the panel is undocked, ESC hides it.
 

@@ -1,4 +1,4 @@
-# window.Element — contains(node)
+# window.Element - contains(node)
 
 | Param | Type |
 | --- | --- |

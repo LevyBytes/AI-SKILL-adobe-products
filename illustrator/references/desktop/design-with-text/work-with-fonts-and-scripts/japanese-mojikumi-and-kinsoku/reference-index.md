@@ -1,4 +1,4 @@
-# Illustrator — Mojikumi and Kinsoku overview for Japanese text formatting
+# Illustrator - Mojikumi and Kinsoku overview for Japanese text formatting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Kinsoku Shori in Illustrator. [Kinsoku Shori](kinsoku-shori.md).

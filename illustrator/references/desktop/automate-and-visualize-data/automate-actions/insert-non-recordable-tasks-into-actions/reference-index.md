@@ -1,4 +1,4 @@
-# Illustrator — Insert non-recordable tasks into actions
+# Illustrator - Insert non-recordable tasks into actions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Insert a non-recordable menu command in Illustrator. [Insert a non-recordable menu command](insert-a-non-recordable-menu-command.md).

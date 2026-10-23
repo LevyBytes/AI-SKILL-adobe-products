@@ -1,4 +1,4 @@
-# InDesign — Transform and arrange objects
+# InDesign - Transform and arrange objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About anchored objects in InDesign. [About anchored objects](about-anchored-objects.md).

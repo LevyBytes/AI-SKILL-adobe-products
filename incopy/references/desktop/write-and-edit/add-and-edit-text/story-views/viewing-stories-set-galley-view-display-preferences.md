@@ -1,4 +1,4 @@
-# Viewing stories — Set Galley view display preferences
+# Viewing stories - Set Galley view display preferences
 
 On Windows, choose Edit > Preferences > Galley & Story Display. On Mac OS, choose InCopy > Preferences > Galley & Story Display. In the Text Display Options section, set these options:
 

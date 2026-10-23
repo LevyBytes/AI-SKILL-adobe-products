@@ -1,4 +1,4 @@
-# Using editorial notes — Specify note preferences
+# Using editorial notes - Specify note preferences
 
 Use Note preferences to set the colors used for inline note anchors, bookends, and backgrounds in Galley and Story views. These settings also govern note tool tips and whether Galley and Story view Find/Change operations and spell checking include note content.
 

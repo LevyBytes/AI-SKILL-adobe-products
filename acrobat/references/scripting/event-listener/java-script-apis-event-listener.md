@@ -1,4 +1,4 @@
-# JavaScript APIs — EventListener
+# JavaScript APIs - EventListener
 
 What you have here is a set of multimedia event methods bundled with optional local data. The names of these event methods open with on or after, trailed by the event name — onPause or afterPause, for example. As an event gets dispatched, the matching on event methods run right away while the matching after event methods run a little later, at the next idle moment.
 

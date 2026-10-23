@@ -1,4 +1,4 @@
-# window.CloseEvent — CloseEvent(code, reason, wasClean)
+# window.CloseEvent - CloseEvent(code, reason, wasClean)
 
 Constructs a CloseEvent instance.
 

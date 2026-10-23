@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Satin
+# Layer Styles Match Names - Satin
 
 | Match Name | Display Name (EN) |
 | --- | --- |

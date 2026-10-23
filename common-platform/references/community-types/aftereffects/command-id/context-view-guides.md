@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: viewer overlays, guides and zoom
+# Shared Adobe platform - _CommandID: viewer overlays, guides and zoom
 
-Open when working with viewer overlays, guides and zoom in Shared Adobe platform — _CommandID.
+Open when working with viewer overlays, guides and zoom in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-view-guides.json).
 

@@ -1,4 +1,4 @@
-# Sharing content — Create assignments and add content (InDesign)
+# Sharing content - Create assignments and add content (InDesign)
 
 Only InDesign users are able to create assignments and place content in them. Several creation paths are available, and the right one depends on whether content is ready when the assignment is made.
 

@@ -1,4 +1,4 @@
-# JavaScript APIs — identity
+# JavaScript APIs - identity
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

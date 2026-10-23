@@ -1,4 +1,4 @@
-# After Effects — Noise Grain Effects
+# After Effects - Noise Grain Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Grain effect in After Effects. [Add Grain effect](add-grain-effect.md).

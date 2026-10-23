@@ -1,4 +1,4 @@
-# Shared Adobe platform — CameraRAWOpenOptions
+# Shared Adobe platform - CameraRAWOpenOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CameraRAWOpenOptions declaration in Shared Adobe platform. [CameraRAWOpenOptions declaration](declaration.md).

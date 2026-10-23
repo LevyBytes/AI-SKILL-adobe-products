@@ -1,4 +1,4 @@
-# After Effects — Settings
+# After Effects - Settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Settings object in After Effects. [Settings object](settings-object.md).

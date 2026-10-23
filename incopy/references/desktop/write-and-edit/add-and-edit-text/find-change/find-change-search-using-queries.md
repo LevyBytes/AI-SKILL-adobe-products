@@ -1,4 +1,4 @@
-# Find/Change — Search using queries
+# Find/Change - Search using queries
 
 Choose Edit > Find/Change, then choose a query from the Query list.
 

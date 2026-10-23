@@ -1,4 +1,4 @@
-# Premiere Pro — Apply audio transitions
+# Premiere Pro - Apply audio transitions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio crossfade transitions in Premiere Pro. [Audio crossfade transitions](audio-crossfade-transitions.md).

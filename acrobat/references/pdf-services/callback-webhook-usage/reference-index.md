@@ -1,4 +1,4 @@
-# Acrobat — Callback Webhook Usage
+# Acrobat - Callback Webhook Usage
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Callback Payload on HTTPS URL in Acrobat. [Callback Payload on HTTPS URL](callback-payload-on-https-url.md).

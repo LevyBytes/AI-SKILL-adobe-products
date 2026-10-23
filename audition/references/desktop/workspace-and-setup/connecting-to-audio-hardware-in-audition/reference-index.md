@@ -1,4 +1,4 @@
-# Audition — Connecting to audio hardware in Audition
+# Audition - Connecting to audio hardware in Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply machine-specific hardware settings for network users in Audition. [Apply machine-specific hardware settings for network users](apply-machine-specific-hardware-settings-for-network-users.md).

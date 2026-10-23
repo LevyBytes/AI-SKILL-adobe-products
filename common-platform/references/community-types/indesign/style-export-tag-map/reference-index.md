@@ -1,4 +1,4 @@
-# Shared Adobe platform — StyleExportTagMap
+# Shared Adobe platform - StyleExportTagMap
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up StyleExportTagMap declaration in Shared Adobe platform. [StyleExportTagMap declaration](declaration.md).

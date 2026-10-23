@@ -10,6 +10,6 @@
   {"topic": "XMPFile.getPacketInfo()", "file": "references/scripting/xmp-file/get-packet-info.md", "summary": "Open when looking up XMPFile.getPacketInfo() in Shared Adobe platform.", "keywords": ["XMPFile.getPacketInfo()"]},
   {"topic": "XMPFile.getXMP()", "file": "references/scripting/xmp-file/get-xmp.md", "summary": "Open when looking up XMPFile.getXMP() in Shared Adobe platform.", "keywords": ["XMPFile.getXMP()"]},
   {"topic": "XMPFile.putXMP()", "file": "references/scripting/xmp-file/put-xmp.md", "summary": "Open when looking up XMPFile.putXMP() in Shared Adobe platform.", "keywords": ["XMPFile.putXMP()"]},
-  {"topic": "XMPScript object reference — XMPFile object", "file": "references/scripting/xmp-file/xmp-script-object-reference-xmp-file-object.md", "summary": "Open when looking up XMPScript object reference — XMPFile object in Shared Adobe platform.", "keywords": ["XMPScript object reference — XMPFile object"]},
+  {"topic": "XMPScript object reference - XMPFile object", "file": "references/scripting/xmp-file/xmp-script-object-reference-xmp-file-object.md", "summary": "Open when looking up XMPScript object reference - XMPFile object in Shared Adobe platform.", "keywords": ["XMPScript object reference - XMPFile object"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

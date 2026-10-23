@@ -1,4 +1,4 @@
-# Unable to open .icap files — Windows
+# Unable to open .icap files - Windows
 
 Close Adobe InCopy CC 2019.
 

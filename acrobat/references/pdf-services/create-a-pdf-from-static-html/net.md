@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/static-html-to-pdf/Program.cs)
+- [static-html-to-pdf setup and source](../examples/dotnet/static-html-to-pdf/static-html-to-pdf-setup.md)

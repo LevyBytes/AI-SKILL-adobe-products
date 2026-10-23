@@ -1,4 +1,4 @@
-# InDesign — App integrations
+# InDesign - App integrations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access Express templates from InDesign in InDesign. [Access Express templates from InDesign](access-express-templates-from-in-design.md).

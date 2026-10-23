@@ -1,4 +1,4 @@
-# Shared Adobe platform — File
+# Shared Adobe platform - File
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up File Object in Shared Adobe platform. [File Object](file-object.md).

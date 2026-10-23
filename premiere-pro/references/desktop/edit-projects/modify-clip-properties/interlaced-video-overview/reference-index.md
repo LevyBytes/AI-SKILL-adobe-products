@@ -1,4 +1,4 @@
-# Premiere Pro — Interlaced video overview
+# Premiere Pro - Interlaced video overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advantages of interlaced video in Premiere Pro. [Advantages of interlaced video](advantages-of-interlaced-video.md).

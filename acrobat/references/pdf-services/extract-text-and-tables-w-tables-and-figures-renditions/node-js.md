@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [extract-text-table-renditions.cjs](../examples/node/extract-figure-table-renditions/extract-text-table-renditions.cjs)
+- [extract-figure-table-renditions setup and source](../examples/node/extract-figure-table-renditions/extract-renditions-setup.md)

@@ -1,4 +1,4 @@
-# Illustrator — Create and edit meshes
+# Illustrator - Create and edit meshes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert a gradient-filled object to a mesh object in Illustrator. [Convert a gradient-filled object to a mesh object](convert-a-gradient-filled-object-to-a-mesh-object.md).

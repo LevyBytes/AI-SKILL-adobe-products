@@ -1,4 +1,4 @@
-# Photoshop — Heal and clone
+# Photoshop - Heal and clone
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust the sample source overlay options in Photoshop. [Adjust the sample source overlay options](adjust-the-sample-source-overlay-options.md).

@@ -1,4 +1,4 @@
-# Audition — Converting sample types
+# Audition - Converting sample types
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the bit depth of a file in Audition. [Change the bit depth of a file](change-the-bit-depth-of-a-file.md).

@@ -1,4 +1,4 @@
-# Viewing stories — Fit the page, spread, or pasteboard within the active window
+# Viewing stories - Fit the page, spread, or pasteboard within the active window
 
 Use any of these methods:
 

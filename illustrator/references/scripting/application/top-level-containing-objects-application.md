@@ -1,4 +1,4 @@
-# Top-Level (containing) Objects — Application
+# Top-Level (containing) Objects - Application
 
 Through properties on the application object, scripts can reach global values, including:
 

@@ -1,4 +1,4 @@
-# InDesign — VersionCueSyncStatus
+# InDesign - VersionCueSyncStatus
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FILE_DOWNLOADED in InDesign. [FILE_DOWNLOADED](filedownloaded.md).

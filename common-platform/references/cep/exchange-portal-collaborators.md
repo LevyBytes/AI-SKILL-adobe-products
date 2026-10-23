@@ -1,4 +1,4 @@
-# FAQs — How can I add a collaborator, colleague, or teammate to the Exchange Portal?
+# FAQs - How can I add a collaborator, colleague, or teammate to the Exchange Portal?
 
 _Answer:_ Give collaborators access when they need to update or revise your listing.
 

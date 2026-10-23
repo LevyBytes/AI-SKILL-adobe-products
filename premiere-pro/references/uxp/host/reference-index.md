@@ -1,4 +1,4 @@
-# Premiere Pro — Host
+# Premiere Pro - Host
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up name ⇒ string in Premiere Pro. [name ⇒ string](name-string.md).

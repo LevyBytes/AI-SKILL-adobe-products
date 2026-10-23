@@ -1,4 +1,4 @@
-# After Effects — Iteration Suites — PF_Iterate8Suite1, PF_Iterate16Suite1, PF_IterateFloatSuite1
+# After Effects - Iteration Suites - PF_Iterate8Suite1, PF_Iterate16Suite1, PF_IterateFloatSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up iterate in After Effects. [iterate](iterate.md).

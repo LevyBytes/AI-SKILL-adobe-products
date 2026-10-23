@@ -1,4 +1,4 @@
-# InDesign — Create nested styles
+# InDesign - Create nested styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create nested line styles in InDesign. [Create nested line styles](create-nested-line-styles.md).

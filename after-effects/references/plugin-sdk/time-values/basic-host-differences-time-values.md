@@ -1,4 +1,4 @@
-# Basic Host Differences — Time Values
+# Basic Host Differences - Time Values
 
 Premiere Pro uses slightly different `PF_InData` time values. For example in CS4:
 

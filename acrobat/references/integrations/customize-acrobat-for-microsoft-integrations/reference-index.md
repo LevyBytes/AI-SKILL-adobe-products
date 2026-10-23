@@ -1,4 +1,4 @@
-# Acrobat — Customize Acrobat for Microsoft integrations
+# Acrobat - Customize Acrobat for Microsoft integrations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a custom link to the company’s internal licensing portal in Acrobat. [Add a custom link to the company’s internal licensing portal](add-a-custom-link-to-the-company-s-internal-licensing-portal.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Clip project item
+# Premiere Pro - Clip project item
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up attachProxy in Premiere Pro. [attachProxy](attach-proxy.md).
@@ -6,7 +6,7 @@
 - Open when looking up canProxy in Premiere Pro. [canProxy](can-proxy.md).
 - Open when looking up cast in Premiere Pro. [cast](cast.md).
 - Open when looking up changeMediaFilePath in Premiere Pro. [changeMediaFilePath](change-media-file-path.md).
-- Open when looking up ClipProjectItem — Properties in Premiere Pro. [ClipProjectItem — Properties](clip-project-item-properties.md).
+- Open when looking up ClipProjectItem - Properties in Premiere Pro. [ClipProjectItem - Properties](clip-project-item-properties.md).
 - Open when looking up createClearInOutPointsAction in Premiere Pro. [createClearInOutPointsAction](create-clear-in-out-points-action.md).
 - Open when looking up createSetColorLabelAction in Premiere Pro. [createSetColorLabelAction](create-set-color-label-action.md).
 - Open when looking up createSetFootageInterpretationAction in Premiere Pro. [createSetFootageInterpretationAction](create-set-footage-interpretation-action.md).

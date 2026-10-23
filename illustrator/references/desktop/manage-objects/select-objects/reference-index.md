@@ -1,4 +1,4 @@
-# Illustrator — Select objects
+# Illustrator - Select objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust parts of objects with the Direct Selection tool in Illustrator. [Adjust parts of objects with the Direct Selection tool](adjust-parts-of-objects-with-the-direct-selection-tool.md).

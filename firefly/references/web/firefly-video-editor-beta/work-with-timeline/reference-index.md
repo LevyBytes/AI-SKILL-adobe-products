@@ -1,4 +1,4 @@
-# Firefly — Work with timeline
+# Firefly - Work with timeline
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust timeline zoom level in Firefly. [Adjust timeline zoom level](adjust-timeline-zoom-level.md).

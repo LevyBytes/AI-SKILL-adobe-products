@@ -1,4 +1,4 @@
-# InDesign — Arrange objects in a stack
+# InDesign - Arrange objects in a stack
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change an object's position in the stack in InDesign. [Change an object's position in the stack](change-an-object-s-position-in-the-stack.md).

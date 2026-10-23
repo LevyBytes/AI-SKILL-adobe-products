@@ -1,6 +1,6 @@
-# InDesign — Combo box: fonts and character forms
+# InDesign - Combo box: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Combo box.
+Open when checking fonts and character forms in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

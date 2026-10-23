@@ -1,6 +1,6 @@
-# InDesign — PrinterPreset: output color, screening and overprint
+# InDesign - PrinterPreset: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — PrinterPreset.
+Open when checking output color, screening and overprint in InDesign - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

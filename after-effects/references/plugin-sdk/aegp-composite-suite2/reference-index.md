@@ -1,4 +1,4 @@
-# After Effects — AEGP_CompositeSuite2
+# After Effects - AEGP_CompositeSuite2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_ClearAlphaExceptRect in After Effects. [AEGP_ClearAlphaExceptRect](aegp-clear-alpha-except-rect.md).

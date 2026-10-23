@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
   {"topic": "Contribution references", "file": "references/scripting/contribution/reference-index.md", "summary": "Open when looking up Contribution in After Effects.", "keywords": ["Contribution references"]},
-  {"topic": "Licensing ownership references", "file": "references/scripting/licensing-ownership/reference-index.md", "summary": "Open when looking up Licensing ownership in After Effects.", "keywords": ["Licensing ownership references"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

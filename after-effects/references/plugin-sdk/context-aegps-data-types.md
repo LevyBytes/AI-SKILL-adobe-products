@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: data types
+# After Effects - C++ plugin SDK: data types
 
-Open when working with data types in After Effects — C++ plugin SDK.
+Open when working with data types in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegps-data-types.json).
 

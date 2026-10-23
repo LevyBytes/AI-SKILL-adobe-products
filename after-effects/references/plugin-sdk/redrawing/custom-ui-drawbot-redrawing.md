@@ -1,4 +1,4 @@
-# Custom UI & Drawbot — Redrawing
+# Custom UI & Drawbot - Redrawing
 
 When you want one specific region of a pane redrawn, here's what we suggest:
 

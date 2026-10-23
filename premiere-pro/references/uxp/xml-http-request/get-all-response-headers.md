@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — getAllResponseHeaders()
+# window.XMLHttpRequest - getAllResponseHeaders()
 
 Provides the response header list after sorting and combining it.
 Every header field follows the form [lower cased name]": "[value]"\r\n". Combined values use ", " as the separator.

@@ -1,6 +1,6 @@
-# InDesign — Change transliterate preference: ruby annotations
+# InDesign - Change transliterate preference: ruby annotations
 
-Open when checking ruby annotations in InDesign — Change transliterate preference.
+Open when checking ruby annotations in InDesign - Change transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

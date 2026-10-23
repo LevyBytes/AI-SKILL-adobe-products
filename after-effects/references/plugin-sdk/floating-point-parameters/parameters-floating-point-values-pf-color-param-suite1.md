@@ -1,4 +1,4 @@
-# Parameters & Floating Point Values — `PF_ColorParamSuite1`
+# Parameters & Floating Point Values`PF_ColorParamSuite1`
 
 Function
 

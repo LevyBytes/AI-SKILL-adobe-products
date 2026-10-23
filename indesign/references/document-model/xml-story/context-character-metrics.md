@@ -1,6 +1,6 @@
-# InDesign — XmlStory: character spacing and geometry
+# InDesign - XmlStory: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — XmlStory.
+Open when checking character spacing and geometry in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

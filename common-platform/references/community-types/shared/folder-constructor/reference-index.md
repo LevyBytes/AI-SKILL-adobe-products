@@ -1,4 +1,4 @@
-# Shared Adobe platform — FolderConstructor
+# Shared Adobe platform - FolderConstructor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FolderConstructor declaration in Shared Adobe platform. [FolderConstructor declaration](declaration.md).

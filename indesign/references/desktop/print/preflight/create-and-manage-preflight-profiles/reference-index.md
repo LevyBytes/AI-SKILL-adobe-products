@@ -1,4 +1,4 @@
-# InDesign — Create and manage preflight profiles
+# InDesign - Create and manage preflight profiles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new preflight profile in InDesign. [Create a new preflight profile](create-a-new-preflight-profile.md).

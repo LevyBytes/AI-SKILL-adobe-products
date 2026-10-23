@@ -1,4 +1,4 @@
-# JavaScript APIs — Row
+# JavaScript APIs - Row
 
 Every column's data for a single row lands in this catch-all JavaScript object. The Statement object method hands it back. Its properties are these:
 

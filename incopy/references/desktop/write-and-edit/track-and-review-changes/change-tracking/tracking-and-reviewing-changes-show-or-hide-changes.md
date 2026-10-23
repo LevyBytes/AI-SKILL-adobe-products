@@ -1,4 +1,4 @@
-# Tracking and reviewing changes — Show or hide changes
+# Tracking and reviewing changes - Show or hide changes
 
 If tracked edits are hidden, the story is displayed as though change tracking were off: inserted text remains visible, deleted text is not shown, and moved or pasted material appears at its insertion point.
 

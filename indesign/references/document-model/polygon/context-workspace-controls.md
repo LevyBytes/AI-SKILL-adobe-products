@@ -1,6 +1,6 @@
-# InDesign — Polygon: workspace, windows and menus
+# InDesign - Polygon: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — Polygon.
+Open when checking workspace, windows and menus in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

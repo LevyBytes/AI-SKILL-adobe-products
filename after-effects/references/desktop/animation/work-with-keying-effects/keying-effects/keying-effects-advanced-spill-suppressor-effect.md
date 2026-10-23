@@ -1,4 +1,4 @@
-# Keying effects — Advanced Spill Suppressor effect
+# Keying effects - Advanced Spill Suppressor effect
 
 Where a colored backdrop has been used for color keying, the Advanced Spill Suppressor effect clears that color's spill off the foreground subject.
 

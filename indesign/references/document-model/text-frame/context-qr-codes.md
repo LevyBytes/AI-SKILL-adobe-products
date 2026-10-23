@@ -1,6 +1,6 @@
-# InDesign — TextFrame: generate qr codes
+# InDesign - TextFrame: generate qr codes
 
-Open when checking generate qr codes in InDesign — TextFrame.
+Open when checking generate qr codes in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

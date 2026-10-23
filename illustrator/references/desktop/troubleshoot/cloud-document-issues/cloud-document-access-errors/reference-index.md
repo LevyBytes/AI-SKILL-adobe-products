@@ -1,4 +1,4 @@
-# Illustrator — Cloud documents won't open and show a file access error
+# Illustrator - Cloud documents won't open and show a file access error
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up App Background Activity is inactive in Illustrator. [App Background Activity is inactive](app-background-activity-is-inactive.md).

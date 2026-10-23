@@ -1,4 +1,4 @@
-# Table and cell styles — Delete table and cell styles
+# Table and cell styles - Delete table and cell styles
 
 Deleting a style lets you choose a replacement style and decide whether the formatting stays.
 

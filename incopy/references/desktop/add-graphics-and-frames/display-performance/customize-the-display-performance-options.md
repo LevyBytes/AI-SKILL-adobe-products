@@ -1,4 +1,4 @@
-# Controlling graphics display — Customize the display performance options
+# Controlling graphics display - Customize the display performance options
 
 You can redefine what Fast, Typical, and High Quality mean for display performance. Within each display option, raster (bitmap) images, vector graphics, and transparency effects have separate controls.
 

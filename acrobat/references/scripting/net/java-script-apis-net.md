@@ -1,4 +1,4 @@
-# JavaScript APIs — Net
+# JavaScript APIs - Net
 
 Through the Net object you can discover and reach networking services over several different protocols.
 

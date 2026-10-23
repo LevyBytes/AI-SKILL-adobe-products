@@ -1,6 +1,6 @@
-# InDesign — Text default: kenten emphasis
+# InDesign - Text default: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — Text default.
+Open when checking kenten emphasis in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

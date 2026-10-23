@@ -1,4 +1,4 @@
-# After Effects — Importing and interpreting video and audio
+# After Effects - Importing and interpreting video and audio
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Determine the original field order in After Effects. [Determine the original field order](determine-the-original-field-order.md).

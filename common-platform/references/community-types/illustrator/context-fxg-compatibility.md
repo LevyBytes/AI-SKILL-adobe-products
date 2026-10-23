@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: fxg preservation and legacy flattening
+# Shared Adobe platform - Illustrator: fxg preservation and legacy flattening
 
-Open when working with fxg preservation and legacy flattening in Shared Adobe platform — Illustrator.
+Open when working with fxg preservation and legacy flattening in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-fxg-compatibility.json).
 

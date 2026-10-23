@@ -1,4 +1,4 @@
-# Shared Adobe platform — NamedGrids
+# Shared Adobe platform - NamedGrids
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NamedGrids collection iteration in Shared Adobe platform. [NamedGrids collection iteration](collection-iteration.md).

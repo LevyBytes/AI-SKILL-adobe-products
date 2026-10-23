@@ -1,4 +1,4 @@
-# InDesign — Manage project assets with Creative Cloud Libraries
+# InDesign - Manage project assets with Creative Cloud Libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add assets to a library in InDesign. [Add assets to a library](add-assets-to-a-library.md).

@@ -1,4 +1,4 @@
-# Overview — Supported Trust Service Providers
+# Overview - Supported Trust Service Providers
 
 A TSP is a company supplying a broad set of identity and transaction services. Among them are certificate authority offerings: issuing and safeguarding the digital certificates that create and validate electronic seals, plus vouching for the organizations behind any seals that get applied.
 

@@ -1,6 +1,6 @@
-# InDesign — Check box: text frame columns and autosizing
+# InDesign - Check box: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — Check box.
+Open when checking text frame columns and autosizing in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

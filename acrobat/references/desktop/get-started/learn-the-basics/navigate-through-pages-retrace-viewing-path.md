@@ -1,4 +1,4 @@
-# Navigate through pages — Retrace viewing path
+# Navigate through pages - Retrace viewing path
 
 Launch Acrobat and pick the document you'd like to read.
 

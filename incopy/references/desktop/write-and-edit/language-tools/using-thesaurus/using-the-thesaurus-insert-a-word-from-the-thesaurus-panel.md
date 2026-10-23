@@ -1,4 +1,4 @@
-# Using the thesaurus — Insert a word from the Thesaurus panel
+# Using the thesaurus - Insert a word from the Thesaurus panel
 
 Use the Thesaurus panel to insert new text or replace selected text in a document. If you replace a document selection with a Thesaurus panel word, only that selection changes; other occurrences remain unchanged. Use Find/Change when every occurrence should be replaced.
 

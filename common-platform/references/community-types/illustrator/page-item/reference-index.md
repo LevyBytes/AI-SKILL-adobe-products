@@ -1,4 +1,4 @@
-# Shared Adobe platform — PageItem
+# Shared Adobe platform - PageItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PageItem declaration in Shared Adobe platform. [PageItem declaration](declaration.md).

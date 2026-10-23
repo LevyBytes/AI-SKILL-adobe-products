@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: documents, presets and file lifecycle
+# Shared Adobe platform - Illustrator: documents, presets and file lifecycle
 
-Open when working with documents, presets and file lifecycle in Shared Adobe platform — Illustrator.
+Open when working with documents, presets and file lifecycle in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-documents.json).
 

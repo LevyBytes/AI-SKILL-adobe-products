@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Pixel Aspect Ratio — Suggested Approach", "file": "references/plugin-sdk/suggested-approach/pixel-aspect-ratio-suggested-approach.md", "summary": "Open when looking up Pixel Aspect Ratio — Suggested Approach in After Effects.", "keywords": ["Pixel Aspect Ratio — Suggested Approach"]},
+  {"topic": "Pixel Aspect Ratio - Suggested Approach", "file": "references/plugin-sdk/suggested-approach/pixel-aspect-ratio-suggested-approach.md", "summary": "Open when looking up Pixel Aspect Ratio - Suggested Approach in After Effects.", "keywords": ["Pixel Aspect Ratio - Suggested Approach"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

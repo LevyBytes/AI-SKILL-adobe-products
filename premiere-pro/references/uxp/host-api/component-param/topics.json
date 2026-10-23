@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
   {"topic": "areKeyframesSupported", "file": "references/uxp/host-api/component-param/are-keyframes-supported.md", "summary": "Open when looking up areKeyframesSupported in Premiere Pro.", "keywords": ["areKeyframesSupported"]},
-  {"topic": "ComponentParam — Properties", "file": "references/uxp/host-api/component-param/component-param-properties.md", "summary": "Open when looking up ComponentParam — Properties in Premiere Pro.", "keywords": ["ComponentParam — Properties"]},
+  {"topic": "ComponentParam - Properties", "file": "references/uxp/host-api/component-param/component-param-properties.md", "summary": "Open when looking up ComponentParam - Properties in Premiere Pro.", "keywords": ["ComponentParam - Properties"]},
   {"topic": "createAddKeyframeAction", "file": "references/uxp/host-api/component-param/create-add-keyframe-action.md", "summary": "Open when looking up createAddKeyframeAction in Premiere Pro.", "keywords": ["createAddKeyframeAction"]},
   {"topic": "createKeyframe", "file": "references/uxp/host-api/component-param/create-keyframe.md", "summary": "Open when looking up createKeyframe in Premiere Pro.", "keywords": ["createKeyframe"]},
   {"topic": "createRemoveKeyframeAction", "file": "references/uxp/host-api/component-param/create-remove-keyframe-action.md", "summary": "Open when looking up createRemoveKeyframeAction in Premiere Pro.", "keywords": ["createRemoveKeyframeAction"]},

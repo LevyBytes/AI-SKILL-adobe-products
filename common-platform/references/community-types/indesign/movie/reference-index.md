@@ -1,4 +1,4 @@
-# Shared Adobe platform — Movie
+# Shared Adobe platform - Movie
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Movie declaration in Shared Adobe platform. [Movie declaration](declaration.md).

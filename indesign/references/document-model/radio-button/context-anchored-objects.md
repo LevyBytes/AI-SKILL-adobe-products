@@ -1,6 +1,6 @@
-# InDesign — RadioButton: anchored object placement
+# InDesign - RadioButton: anchored object placement
 
-Open when checking anchored object placement in InDesign — RadioButton.
+Open when checking anchored object placement in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

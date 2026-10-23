@@ -1,4 +1,4 @@
-# Formatting characters — Scale text by resizing the text frame in InDesign
+# Formatting characters - Scale text by resizing the text frame in InDesign
 
 Do any of the following:
 

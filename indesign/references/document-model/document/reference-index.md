@@ -1,50 +1,50 @@
-# InDesign — Document
+# InDesign - Document
 
 Open when selecting a task context: [Topic catalog](topics.json).
 
-- Open when checking object identity and lifecycle in InDesign — Document. [Object identity and lifecycle](context-object-contract.md).
-- Open when checking application session and account in InDesign — Document. [Application session and account](context-application-session.md).
-- Open when checking workspace, windows and menus in InDesign — Document. [Workspace, windows and menus](context-workspace-controls.md).
-- Open when checking script execution, tasks and diagnostics in InDesign — Document. [Script execution, tasks and diagnostics](context-scripts-and-tasks.md).
-- Open when checking create, open, save and recover documents in InDesign — Document. [Create, open, save and recover documents](context-document-lifecycle.md).
-- Open when checking document pages, spreads and layers in InDesign — Document. [Document pages, spreads and layers](context-document-layout.md).
-- Open when checking cloud documents, libraries and collaboration in InDesign — Document. [Cloud documents, libraries and collaboration](context-cloud-and-collaboration.md).
-- Open when checking place and link external assets in InDesign — Document. [Place and link external assets](context-asset-placement-and-links.md).
-- Open when checking clipboard and editing defaults in InDesign — Document. [Clipboard and editing defaults](context-clipboard-editing.md).
-- Open when checking language, spelling and autocorrection in InDesign — Document. [Language, spelling and autocorrection](context-language-and-dictionaries.md).
-- Open when checking colors, swatches, inks and stroke resources in InDesign — Document. [Colors, swatches, inks and stroke resources](context-color-and-stroke-resources.md).
-- Open when checking color profiles and rendering in InDesign — Document. [Color profiles and rendering](context-color-management.md).
-- Open when checking preflight and print packaging in InDesign — Document. [Preflight and print packaging](context-preflight-and-packaging.md).
-- Open when checking export documents and select formats in InDesign — Document. [Export documents and select formats](context-document-export.md).
-- Open when checking folio and digital publication apis in InDesign — Document. [Folio and digital publication APIs](context-digital-publication.md).
-- Open when checking hyperlinks, indexes and cross-references in InDesign — Document. [Hyperlinks, indexes and cross-references](context-navigation-and-cross-references.md).
-- Open when checking data merge placeholders and options in InDesign — Document. [Data merge placeholders and options](context-data-merge.md).
-- Open when checking document metadata and imported review in InDesign — Document. [Document metadata and imported review](context-review-and-interchange-metadata.md).
-- Open when checking read and edit text in InDesign — Document. [Read and edit text](context-text-content.md).
-- Open when checking text ranges and containers in InDesign — Document. [Text ranges and containers](context-text-ranges.md).
-- Open when checking fonts and character forms in InDesign — Document. [Fonts and character forms](context-font-selection.md).
-- Open when checking line breaks and hyphenation in InDesign — Document. [Line breaks and hyphenation](context-line-breaking.md).
-- Open when checking cjk grids and composition in InDesign — Document. [CJK grids and composition](context-cjk-composition.md).
-- Open when checking writing direction and diacritics in InDesign — Document. [Writing direction and diacritics](context-text-direction.md).
-- Open when checking lists, numbering and drop caps in InDesign — Document. [Lists, numbering and drop caps](context-lists-and-drop-caps.md).
-- Open when checking apply and manage styles in InDesign — Document. [Apply and manage styles](context-style-application.md).
-- Open when checking conditional text and editorial review in InDesign — Document. [Conditional text and editorial review](context-conditions-and-review.md).
-- Open when checking find, replace and transliterate in InDesign — Document. [Find, replace and transliterate](context-find-and-replace.md).
-- Open when checking table and cell styles in InDesign — Document. [Table and cell styles](context-table-styles.md).
-- Open when checking page item collections in InDesign — Document. [Page item collections](context-page-item-collections.md).
-- Open when checking interactive fields and behaviors in InDesign — Document. [Interactive fields and behaviors](context-interactive-fields.md).
-- Open when checking object styles and enabled attributes in InDesign — Document. [Object styles and enabled attributes](context-object-style-application.md).
-- Open when checking placement, bounds and transformations in InDesign — Document. [Placement, bounds and transformations](context-object-layout.md).
-- Open when checking layers, stacking and master overrides in InDesign — Document. [Layers, stacking and master overrides](context-layer-and-master-order.md).
-- Open when checking text frame columns and autosizing in InDesign — Document. [Text frame columns and autosizing](context-text-frame-layout.md).
-- Open when checking anchored object placement in InDesign — Document. [Anchored object placement](context-anchored-objects.md).
-- Open when checking baseline grids and layout guides in InDesign — Document. [Baseline grids and layout guides](context-grids-and-guides.md).
-- Open when checking image fitting, cropping and resolution in InDesign — Document. [Image fitting, cropping and resolution](context-frame-and-image-fitting.md).
-- Open when checking movie and sound playback in InDesign — Document. [Movie and sound playback](context-media-playback.md).
-- Open when checking accessibility, tagging and xml in InDesign — Document. [Accessibility, tagging and XML](context-accessibility-and-markup.md).
-- Open when checking footnotes and endnotes in InDesign — Document. [Footnotes and endnotes](context-notes-and-endnotes.md).
-- Open when checking generate qr codes in InDesign — Document. [Generate QR codes](context-qr-codes.md).
-- Open when checking image conversion and web export in InDesign — Document. [Image conversion and web export](context-image-web-export.md).
-- Open when checking print job, printer and page selection in InDesign — Document. [Print job, printer and page selection](context-print-job.md).
-- Open when checking output color, screening and overprint in InDesign — Document. [Output color, screening and overprint](context-print-color.md).
-- Open when checking events and listeners in InDesign — Document. [Events and listeners](context-event-delivery.md).
+- Open when checking object identity and lifecycle in InDesign - Document. [Object identity and lifecycle](context-object-contract.md).
+- Open when checking application session and account in InDesign - Document. [Application session and account](context-application-session.md).
+- Open when checking workspace, windows and menus in InDesign - Document. [Workspace, windows and menus](context-workspace-controls.md).
+- Open when checking script execution, tasks and diagnostics in InDesign - Document. [Script execution, tasks and diagnostics](context-scripts-and-tasks.md).
+- Open when checking create, open, save and recover documents in InDesign - Document. [Create, open, save and recover documents](context-document-lifecycle.md).
+- Open when checking document pages, spreads and layers in InDesign - Document. [Document pages, spreads and layers](context-document-layout.md).
+- Open when checking cloud documents, libraries and collaboration in InDesign - Document. [Cloud documents, libraries and collaboration](context-cloud-and-collaboration.md).
+- Open when checking place and link external assets in InDesign - Document. [Place and link external assets](context-asset-placement-and-links.md).
+- Open when checking clipboard and editing defaults in InDesign - Document. [Clipboard and editing defaults](context-clipboard-editing.md).
+- Open when checking language, spelling and autocorrection in InDesign - Document. [Language, spelling and autocorrection](context-language-and-dictionaries.md).
+- Open when checking colors, swatches, inks and stroke resources in InDesign - Document. [Colors, swatches, inks and stroke resources](context-color-and-stroke-resources.md).
+- Open when checking color profiles and rendering in InDesign - Document. [Color profiles and rendering](context-color-management.md).
+- Open when checking preflight and print packaging in InDesign - Document. [Preflight and print packaging](context-preflight-and-packaging.md).
+- Open when checking export documents and select formats in InDesign - Document. [Export documents and select formats](context-document-export.md).
+- Open when checking folio and digital publication apis in InDesign - Document. [Folio and digital publication APIs](context-digital-publication.md).
+- Open when checking hyperlinks, indexes and cross-references in InDesign - Document. [Hyperlinks, indexes and cross-references](context-navigation-and-cross-references.md).
+- Open when checking data merge placeholders and options in InDesign - Document. [Data merge placeholders and options](context-data-merge.md).
+- Open when checking document metadata and imported review in InDesign - Document. [Document metadata and imported review](context-review-and-interchange-metadata.md).
+- Open when checking read and edit text in InDesign - Document. [Read and edit text](context-text-content.md).
+- Open when checking text ranges and containers in InDesign - Document. [Text ranges and containers](context-text-ranges.md).
+- Open when checking fonts and character forms in InDesign - Document. [Fonts and character forms](context-font-selection.md).
+- Open when checking line breaks and hyphenation in InDesign - Document. [Line breaks and hyphenation](context-line-breaking.md).
+- Open when checking cjk grids and composition in InDesign - Document. [CJK grids and composition](context-cjk-composition.md).
+- Open when checking writing direction and diacritics in InDesign - Document. [Writing direction and diacritics](context-text-direction.md).
+- Open when checking lists, numbering and drop caps in InDesign - Document. [Lists, numbering and drop caps](context-lists-and-drop-caps.md).
+- Open when checking apply and manage styles in InDesign - Document. [Apply and manage styles](context-style-application.md).
+- Open when checking conditional text and editorial review in InDesign - Document. [Conditional text and editorial review](context-conditions-and-review.md).
+- Open when checking find, replace and transliterate in InDesign - Document. [Find, replace and transliterate](context-find-and-replace.md).
+- Open when checking table and cell styles in InDesign - Document. [Table and cell styles](context-table-styles.md).
+- Open when checking page item collections in InDesign - Document. [Page item collections](context-page-item-collections.md).
+- Open when checking interactive fields and behaviors in InDesign - Document. [Interactive fields and behaviors](context-interactive-fields.md).
+- Open when checking object styles and enabled attributes in InDesign - Document. [Object styles and enabled attributes](context-object-style-application.md).
+- Open when checking placement, bounds and transformations in InDesign - Document. [Placement, bounds and transformations](context-object-layout.md).
+- Open when checking layers, stacking and master overrides in InDesign - Document. [Layers, stacking and master overrides](context-layer-and-master-order.md).
+- Open when checking text frame columns and autosizing in InDesign - Document. [Text frame columns and autosizing](context-text-frame-layout.md).
+- Open when checking anchored object placement in InDesign - Document. [Anchored object placement](context-anchored-objects.md).
+- Open when checking baseline grids and layout guides in InDesign - Document. [Baseline grids and layout guides](context-grids-and-guides.md).
+- Open when checking image fitting, cropping and resolution in InDesign - Document. [Image fitting, cropping and resolution](context-frame-and-image-fitting.md).
+- Open when checking movie and sound playback in InDesign - Document. [Movie and sound playback](context-media-playback.md).
+- Open when checking accessibility, tagging and xml in InDesign - Document. [Accessibility, tagging and XML](context-accessibility-and-markup.md).
+- Open when checking footnotes and endnotes in InDesign - Document. [Footnotes and endnotes](context-notes-and-endnotes.md).
+- Open when checking generate qr codes in InDesign - Document. [Generate QR codes](context-qr-codes.md).
+- Open when checking image conversion and web export in InDesign - Document. [Image conversion and web export](context-image-web-export.md).
+- Open when checking print job, printer and page selection in InDesign - Document. [Print job, printer and page selection](context-print-job.md).
+- Open when checking output color, screening and overprint in InDesign - Document. [Output color, screening and overprint](context-print-color.md).
+- Open when checking events and listeners in InDesign - Document. [Events and listeners](context-event-delivery.md).

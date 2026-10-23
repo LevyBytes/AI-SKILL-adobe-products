@@ -1,4 +1,4 @@
-# File- and Folder-supported encoding names — Additional encodings
+# File- and Folder-supported encoding names - Additional encodings
 
 In Windows, encodings are code pages with numeric identifiers. The usual Western Windows character set, for example, is code page 1252. Select a Windows code page by prefixing its number with "CP" or "WINDOWS"; for example, "CP1252" selects code page 1252. The File object also includes many built-in encoding names tied to predefined code page numbers. If a code page is absent, that encoding cannot be selected.
 

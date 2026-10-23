@@ -1,4 +1,4 @@
-# Fixed issues in Adobe Audition version 25.3 — Fixed issues in Adobe Audition version 23.2
+# Fixed issues in Adobe Audition version 25.3 - Fixed issues in Adobe Audition version 23.2
 
 - Fixed a recording crash that occurred when the device was disconnected.
 - Stability has been improved for VST3 effects.

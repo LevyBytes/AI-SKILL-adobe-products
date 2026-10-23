@@ -1,4 +1,4 @@
-# Shared Adobe platform — MojikumiTableDefaults
+# Shared Adobe platform - MojikumiTableDefaults
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MojikumiTableDefaults declaration in Shared Adobe platform. [MojikumiTableDefaults declaration](declaration.md).

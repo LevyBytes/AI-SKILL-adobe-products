@@ -1,4 +1,4 @@
-# InDesign — Create and manage text variables
+# InDesign - Create and manage text variables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add text before or after a variable in InDesign. [Add text before or after a variable](add-text-before-or-after-a-variable.md).

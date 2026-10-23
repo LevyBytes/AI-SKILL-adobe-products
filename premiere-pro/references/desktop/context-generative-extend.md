@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: generative extend requirements and known issues
+# Premiere Pro - Desktop workflows: generative extend requirements and known issues
 
-Open when working with generative extend requirements and known issues in Premiere Pro — Desktop workflows.
+Open when working with generative extend requirements and known issues in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-generative-extend.json).
 

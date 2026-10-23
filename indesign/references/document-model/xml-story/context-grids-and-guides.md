@@ -1,6 +1,6 @@
-# InDesign — XmlStory: baseline grids and layout guides
+# InDesign - XmlStory: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in InDesign — XmlStory.
+Open when checking baseline grids and layout guides in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

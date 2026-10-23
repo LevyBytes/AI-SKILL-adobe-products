@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTextPreference: application session and account
+# Shared Adobe platform - ChangeTextPreference: application session and account
 
-Open when checking application session and account in Shared Adobe platform — ChangeTextPreference.
+Open when checking application session and account in Shared Adobe platform - ChangeTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

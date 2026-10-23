@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: proxy files and preview media
+# Shared Adobe platform - _CommandID: proxy files and preview media
 
-Open when working with proxy files and preview media in Shared Adobe platform — _CommandID.
+Open when working with proxy files and preview media in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-proxies.json).
 

@@ -1,4 +1,4 @@
-# InDesign — Building your first plugin
+# InDesign - Building your first plugin
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Next steps in InDesign. [Next steps](next-steps.md).

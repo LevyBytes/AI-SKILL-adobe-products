@@ -7,7 +7,7 @@ Embedding fonts heads off font substitution, so readers see the text in the font
 Where fonts are concerned, embedding can be done in two ways:
 
 - Embedding the whole font
-- Embedding just a subset — only those characters the file actually uses
+- Embedding just a subset: only those characters the file actually uses
 
 Subsetting hands your fonts and font metrics a custom font name at print time. That way your own copy of Adobe Garamond — not the one at your printing service provider — is always what gets viewed and printed.
 

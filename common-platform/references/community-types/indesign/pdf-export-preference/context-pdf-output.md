@@ -1,6 +1,6 @@
-# Shared Adobe platform — PDFExportPreference: pdf pages, structure and output profiles
+# Shared Adobe platform - PDFExportPreference: pdf pages, structure and output profiles
 
-Open when checking pdf pages, structure and output profiles in Shared Adobe platform — PDFExportPreference.
+Open when checking pdf pages, structure and output profiles in Shared Adobe platform - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-pdf-output.json).
 

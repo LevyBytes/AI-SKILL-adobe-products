@@ -1,4 +1,4 @@
-# OperationCompleteEvent — Events
+# OperationCompleteEvent - Events
 
 | Name | Version | Description |
 | --- | --- | --- |

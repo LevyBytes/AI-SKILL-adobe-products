@@ -1,4 +1,4 @@
-# Audition — Arrange and edit multitrack clips with Audition
+# Audition - Arrange and edit multitrack clips with Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Collapse a gap between clips on a track in Audition. [Collapse a gap between clips on a track](collapse-a-gap-between-clips-on-a-track.md).

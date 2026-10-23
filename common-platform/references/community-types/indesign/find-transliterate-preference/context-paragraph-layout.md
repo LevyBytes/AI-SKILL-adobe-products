@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTransliteratePreference: paragraph alignment and spacing
+# Shared Adobe platform - FindTransliteratePreference: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in Shared Adobe platform — FindTransliteratePreference.
+Open when checking paragraph alignment and spacing in Shared Adobe platform - FindTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

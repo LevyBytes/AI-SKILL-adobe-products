@@ -1,4 +1,4 @@
-# Photoshop — Supported file formats in Photoshop
+# Photoshop - Supported file formats in Photoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D-related file formats supported in Photoshop. [3D-related file formats supported](3-d-related-file-formats-supported.md).

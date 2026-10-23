@@ -1,4 +1,4 @@
-# Audition — Multitrack Editor overview
+# Audition - Multitrack Editor overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customize start offset and time display for multitrack sessions in Audition. [Customize start offset and time display for multitrack sessions](multitrack-start-offset-and-time-display.md).

@@ -1,4 +1,4 @@
-# After Effects — Animation keyframes
+# After Effects - Animation keyframes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Editing, moving, and copying keyframes in After Effects. [Editing, moving, and copying keyframes](editing-moving-and-copying-keyframes.md).

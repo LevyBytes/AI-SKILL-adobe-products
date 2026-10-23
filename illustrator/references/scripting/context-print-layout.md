@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: print placement, bounds, marks and tiling
+# Illustrator - Scripting APIs: print placement, bounds, marks and tiling
 
-Open when working with print placement, bounds, marks and tiling in Illustrator — Scripting APIs.
+Open when working with print placement, bounds, marks and tiling in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-print-layout.json).
 

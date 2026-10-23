@@ -1,4 +1,4 @@
-# Scripting Reference — ExecutionContext
+# Scripting Reference - ExecutionContext
 
 The host passes this object when it invokes scripts. It includes:
 

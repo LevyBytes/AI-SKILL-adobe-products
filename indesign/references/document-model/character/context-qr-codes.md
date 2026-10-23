@@ -1,6 +1,6 @@
-# InDesign — Character: generate qr codes
+# InDesign - Character: generate qr codes
 
-Open when checking generate qr codes in InDesign — Character.
+Open when checking generate qr codes in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

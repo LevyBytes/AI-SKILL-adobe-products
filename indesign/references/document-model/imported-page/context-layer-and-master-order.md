@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: layers, stacking and master overrides
+# InDesign - ImportedPage: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — ImportedPage.
+Open when checking layers, stacking and master overrides in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

@@ -1,4 +1,4 @@
-# Acrobat — Use keyboard navigation for accessibility
+# Acrobat - Use keyboard navigation for accessibility
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Navigate the dialog boxes in Acrobat. [Navigate the dialog boxes](navigate-the-dialog-boxes.md).

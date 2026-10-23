@@ -1,4 +1,4 @@
-# Illustrator — Document example
+# Illustrator - Document example
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Closing a document in Illustrator. [Closing a document](closing-a-document.md).

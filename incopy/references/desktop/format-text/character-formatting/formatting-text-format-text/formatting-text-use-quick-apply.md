@@ -1,4 +1,4 @@
-# Formatting text — Use Quick Apply
+# Formatting text - Use Quick Apply
 
 Quick Apply lets you locate and apply styles, menu commands, scripts, variables, and most other commands listed in the Keyboard Shortcuts dialog box.
 

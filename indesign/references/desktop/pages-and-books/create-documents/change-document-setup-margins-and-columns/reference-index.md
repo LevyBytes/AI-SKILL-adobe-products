@@ -1,4 +1,4 @@
-# InDesign — Change document setup, margins, and columns
+# InDesign - Change document setup, margins, and columns
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust document setup in InDesign. [Adjust document setup](adjust-document-setup.md).

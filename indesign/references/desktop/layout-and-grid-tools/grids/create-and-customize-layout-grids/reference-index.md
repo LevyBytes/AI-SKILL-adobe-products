@@ -1,4 +1,4 @@
-# InDesign — Create and customize layout grids
+# InDesign - Create and customize layout grids
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply layout grid to documents created with Margins and Columns in InDesign. [Apply layout grid to documents created with Margins and Columns](layout-grid-from-margins-and-columns.md).

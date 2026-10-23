@@ -1,4 +1,4 @@
-# Premiere Pro — Additional considerations
+# Premiere Pro - Additional considerations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best Practices in Premiere Pro. [Best Practices](best-practices.md).

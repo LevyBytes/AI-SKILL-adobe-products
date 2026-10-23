@@ -1,4 +1,4 @@
-# InDesign — Create and import tables
+# InDesign - Create and import tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create from existing text in InDesign. [Create from existing text](create-from-existing-text.md).

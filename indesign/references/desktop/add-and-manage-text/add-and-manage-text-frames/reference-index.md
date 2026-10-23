@@ -1,4 +1,4 @@
-# InDesign — Add and manage text frames
+# InDesign - Add and manage text frames
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change text frame properties in InDesign. [Change text frame properties](change-text-frame-properties.md).

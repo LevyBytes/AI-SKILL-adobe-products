@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AVLayer Match Names — Layer", "file": "references/scripting/layer/av-layer-match-names-layer.md", "summary": "Open when looking up AVLayer Match Names — Layer in After Effects.", "keywords": ["AVLayer Match Names — Layer"]},
-  {"topic": "Camera Layer Match Names — Layer", "file": "references/scripting/layer/camera-layer-match-names-layer.md", "summary": "Open when looking up Camera Layer Match Names — Layer in After Effects.", "keywords": ["Camera Layer Match Names — Layer"]},
+  {"topic": "AVLayer Match Names - Layer", "file": "references/scripting/layer/av-layer-match-names-layer.md", "summary": "Open when looking up AVLayer Match Names - Layer in After Effects.", "keywords": ["AVLayer Match Names - Layer"]},
+  {"topic": "Camera Layer Match Names - Layer", "file": "references/scripting/layer/camera-layer-match-names-layer.md", "summary": "Open when looking up Camera Layer Match Names - Layer in After Effects.", "keywords": ["Camera Layer Match Names - Layer"]},
   {"topic": "Layer object", "file": "references/scripting/layer/layer-object.md", "summary": "Open when looking up Layer object in After Effects.", "keywords": ["Layer object"]},
   {"topic": "Layer.activeAtTime()", "file": "references/scripting/layer/active-at-time.md", "summary": "Open when looking up Layer.activeAtTime() in After Effects.", "keywords": ["Layer.activeAtTime()"]},
   {"topic": "Layer.applyPreset()", "file": "references/scripting/layer/apply-preset.md", "summary": "Open when looking up Layer.applyPreset() in After Effects.", "keywords": ["Layer.applyPreset()"]},
@@ -32,8 +32,8 @@
   {"topic": "Layer.startTime", "file": "references/scripting/layer/start-time.md", "summary": "Open when looking up Layer.startTime in After Effects.", "keywords": ["Layer.startTime"]},
   {"topic": "Layer.stretch", "file": "references/scripting/layer/stretch.md", "summary": "Open when looking up Layer.stretch in After Effects.", "keywords": ["Layer.stretch"]},
   {"topic": "Layer.time", "file": "references/scripting/layer/time.md", "summary": "Open when looking up Layer.time in After Effects.", "keywords": ["Layer.time"]},
-  {"topic": "Light Layer Match Names — Layer", "file": "references/scripting/layer/light-layer-match-names-layer.md", "summary": "Open when looking up Light Layer Match Names — Layer in After Effects.", "keywords": ["Light Layer Match Names — Layer"]},
-  {"topic": "Shape Layer Match Names — Layer", "file": "references/scripting/layer/shape-layer-match-names-layer.md", "summary": "Open when looking up Shape Layer Match Names — Layer in After Effects.", "keywords": ["Shape Layer Match Names — Layer"]},
-  {"topic": "Text Layer Match Names — Layer", "file": "references/scripting/layer/text-layer-match-names-layer.md", "summary": "Open when looking up Text Layer Match Names — Layer in After Effects.", "keywords": ["Text Layer Match Names — Layer"]},
+  {"topic": "Light Layer Match Names - Layer", "file": "references/scripting/layer/light-layer-match-names-layer.md", "summary": "Open when looking up Light Layer Match Names - Layer in After Effects.", "keywords": ["Light Layer Match Names - Layer"]},
+  {"topic": "Shape Layer Match Names - Layer", "file": "references/scripting/layer/shape-layer-match-names-layer.md", "summary": "Open when looking up Shape Layer Match Names - Layer in After Effects.", "keywords": ["Shape Layer Match Names - Layer"]},
+  {"topic": "Text Layer Match Names - Layer", "file": "references/scripting/layer/text-layer-match-names-layer.md", "summary": "Open when looking up Text Layer Match Names - Layer in After Effects.", "keywords": ["Text Layer Match Names - Layer"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# InDesign — PanningTypes
+# InDesign - PanningTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GREEK_IMAGES in InDesign. [GREEK_IMAGES](greekimages.md).

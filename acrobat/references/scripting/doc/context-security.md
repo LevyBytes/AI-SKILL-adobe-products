@@ -1,6 +1,6 @@
-# Acrobat — Doc: encryption, certification and timestamps
+# Acrobat - Doc: encryption, certification and timestamps
 
-Open when working with encryption, certification and timestamps in Acrobat — Doc.
+Open when working with encryption, certification and timestamps in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-security.json).
 

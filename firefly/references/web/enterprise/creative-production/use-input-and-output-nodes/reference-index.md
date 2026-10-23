@@ -1,4 +1,4 @@
-# Firefly — Use input and output nodes
+# Firefly - Use input and output nodes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How input and output nodes work in Firefly. [How input and output nodes work](how-input-and-output-nodes-work.md).

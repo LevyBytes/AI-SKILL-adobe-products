@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "ICC Profile Migration Guide — Overview", "file": "references/cloud-services/icc-profile-migration-guide-overview.md", "summary": "Open when looking up ICC Profile Migration Guide — Overview in Photoshop.", "keywords": ["ICC Profile Migration Guide — Overview"]},
-  {"topic": "ICC Profile Migration Guide — Overview references", "file": "references/cloud-services/icc-profile-migration-guide-overview/reference-index.md", "summary": "Open when looking up ICC Profile Migration Guide — Overview in Photoshop.", "keywords": ["ICC Profile Migration Guide — Overview references"]},
+  {"topic": "ICC Profile Migration Guide - Overview", "file": "references/cloud-services/icc-profile-migration-guide-overview.md", "summary": "Open when looking up ICC Profile Migration Guide - Overview in Photoshop.", "keywords": ["ICC Profile Migration Guide - Overview"]},
+  {"topic": "ICC Profile Migration Guide - Overview references", "file": "references/cloud-services/icc-profile-migration-guide-overview/reference-index.md", "summary": "Open when looking up ICC Profile Migration Guide - Overview in Photoshop.", "keywords": ["ICC Profile Migration Guide - Overview references"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

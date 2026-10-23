@@ -1,4 +1,4 @@
-# Shared Adobe platform — IntegerComboboxes
+# Shared Adobe platform - IntegerComboboxes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up IntegerComboboxes collection iteration in Shared Adobe platform. [IntegerComboboxes collection iteration](collection-iteration.md).

@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: application, projects and environment
+# After Effects - Scripting APIs: application, projects and environment
 
-Open when working with application, projects and environment in After Effects — Scripting APIs.
+Open when working with application, projects and environment in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-application-projects.json).
 

@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [CreatePDFFromDOCX.java](../examples/java/create-pdf-from-docx/CreatePDFFromDOCX.java)
+- [create-pdf-from-docx setup and source](../examples/java/create-pdf-from-docx/create-pdf-from-docx-setup.md)

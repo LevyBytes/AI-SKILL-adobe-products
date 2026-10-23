@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeObjectPreference: text frame columns and autosizing
+# Shared Adobe platform - ChangeObjectPreference: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in Shared Adobe platform — ChangeObjectPreference.
+Open when checking text frame columns and autosizing in Shared Adobe platform - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

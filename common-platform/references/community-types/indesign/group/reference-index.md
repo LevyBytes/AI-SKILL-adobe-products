@@ -1,4 +1,4 @@
-# Shared Adobe platform — Group
+# Shared Adobe platform - Group
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Group declaration in Shared Adobe platform. [Group declaration](declaration.md).

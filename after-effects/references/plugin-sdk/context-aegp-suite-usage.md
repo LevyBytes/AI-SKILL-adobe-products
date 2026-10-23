@@ -1,13 +1,13 @@
-# After Effects — C++ plugin SDK: aegp suite tasks and usage notes
+# After Effects - C++ plugin SDK: aegp suite tasks and usage notes
 
-Open when working with aegp suite tasks and usage notes in After Effects — C++ plugin SDK.
+Open when working with aegp suite tasks and usage notes in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegp-suite-usage.json).
 
 - Open when looking up Adding multiple keyframes in After Effects [Adding multiple keyframes references](adding-multiple-keyframes/reference-index.md).
 - Open when looking up AEGP Suites in After Effects [AEGP Suites](aegp-suites.md).
-- Open when looking up AEGP Suites — Work with Footage in After Effects [AEGP Suites — Work with Footage](aegp-suites-work-with-footage.md).
-- Open when looking up AEGP Suites — Work with Footage in After Effects [AEGP Suites — Work with Footage references](aegp-suites-work-with-footage/reference-index.md).
+- Open when looking up AEGP Suites - Work with Footage in After Effects [AEGP Suites - Work with Footage](aegp-suites-work-with-footage.md).
+- Open when looking up AEGP Suites - Work with Footage in After Effects [AEGP Suites - Work with Footage references](aegp-suites-work-with-footage/reference-index.md).
 - Open when looking up Audio settings in After Effects [Audio settings references](audio-settings/reference-index.md).
 - Open when looking up Color management in After Effects [Color management references](color-management/reference-index.md).
 - Open when looking up Communication with a layer s effects in After Effects [Communication with a layer s effects references](communication-with-a-layer-s-effects/reference-index.md).

@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [remove-protection.cjs](../examples/node/remove-protection/remove-protection.cjs)
+- [remove-protection setup and source](../examples/node/remove-protection/remove-protection-setup.md)

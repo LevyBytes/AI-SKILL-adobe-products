@@ -1,4 +1,4 @@
-# Preflight APIs — PreflightAuditTrail
+# Preflight APIs - PreflightAuditTrail
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

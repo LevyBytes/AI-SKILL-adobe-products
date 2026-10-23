@@ -1,4 +1,4 @@
-# Customizing workspaces — Resize panel groups
+# Customizing workspaces - Resize panel groups
 
 Resize icons appear when the pointer is placed over dividers between panel groups. Dragging one of these icons resizes every group that shares that divider. For example, with three vertically stacked panel groups, dragging the divider between the lower two changes those two groups while leaving the top group unchanged.
 

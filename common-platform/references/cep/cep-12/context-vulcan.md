@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: vulcan application discovery and messages
+# Shared Adobe platform - Cep 12: vulcan application discovery and messages
 
-Open when working with vulcan application discovery and messages in Shared Adobe platform — Cep 12.
+Open when working with vulcan application discovery and messages in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-vulcan.json).
 

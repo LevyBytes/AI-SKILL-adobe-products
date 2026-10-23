@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Show and hide layers
+# Frames, grids, rulers, and guides - Show and hide layers
 
 Choose Window > Layers. In the Layers panel, use any of these controls:
 

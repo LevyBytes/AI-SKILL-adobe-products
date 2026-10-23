@@ -1,4 +1,4 @@
-# Bullets and numbering — Define a list
+# Bullets and numbering - Define a list
 
 Choose Type > Bulleted And Numbered Lists > Define Lists. In the Define Lists dialog box, click New. Enter a list name, decide whether numbering should continue across stories, and decide whether numbering should continue from earlier documents in the book. Click OK twice.
 

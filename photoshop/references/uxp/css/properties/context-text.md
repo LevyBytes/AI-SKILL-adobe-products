@@ -1,6 +1,6 @@
-# Photoshop — Properties: fonts and text layout
+# Photoshop - Properties: fonts and text layout
 
-Open when working with fonts and text layout in Photoshop — Properties.
+Open when working with fonts and text layout in Photoshop - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-text.json).
 

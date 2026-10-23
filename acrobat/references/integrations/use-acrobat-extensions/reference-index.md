@@ -1,4 +1,4 @@
-# Acrobat — Use acrobat extensions
+# Acrobat - Use acrobat extensions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat for ChatGPT in Acrobat. [Acrobat for ChatGPT](acrobat-for-chat-gpt.md).

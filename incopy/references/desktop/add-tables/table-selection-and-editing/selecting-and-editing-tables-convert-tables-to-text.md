@@ -1,4 +1,4 @@
-# Selecting and editing tables — Convert tables to text
+# Selecting and editing tables - Convert tables to text
 
 With the Type tool , put the insertion point in the table, or select table text. Choose Table > Convert Table To Text. For Column Separator and Row Separator, set the separators to use.
 

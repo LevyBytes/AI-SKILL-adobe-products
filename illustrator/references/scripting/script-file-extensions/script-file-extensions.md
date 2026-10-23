@@ -1,4 +1,4 @@
-# Scripting language support in Adobe Illustrator CC — Script file extensions
+# Scripting language support in Adobe Illustrator CC - Script file extensions
 
 Adobe Illustrator CC 2017 recognizes a script file as valid only when its filename uses the proper extension:
 

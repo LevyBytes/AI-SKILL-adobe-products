@@ -1,6 +1,6 @@
-# InDesign — Combo box: layers, stacking and master overrides
+# InDesign - Combo box: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — Combo box.
+Open when checking layers, stacking and master overrides in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

@@ -1,4 +1,4 @@
-# Photoshop — Get started with selections
+# Photoshop - Get started with selections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Selection tools overview in Photoshop. [Selection tools overview](selection-tools-overview.md).

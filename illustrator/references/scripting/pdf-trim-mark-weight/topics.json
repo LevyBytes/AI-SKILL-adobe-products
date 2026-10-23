@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — PDFTrimMarkWeight", "file": "references/scripting/pdf-trim-mark-weight/scripting-constants-pdf-trim-mark-weight.md", "summary": "Open when looking up Scripting Constants — PDFTrimMarkWeight in Illustrator.", "keywords": ["Scripting Constants — PDFTrimMarkWeight"]},
+  {"topic": "Scripting Constants - PDFTrimMarkWeight", "file": "references/scripting/pdf-trim-mark-weight/scripting-constants-pdf-trim-mark-weight.md", "summary": "Open when looking up Scripting Constants - PDFTrimMarkWeight in Illustrator.", "keywords": ["Scripting Constants - PDFTrimMarkWeight"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

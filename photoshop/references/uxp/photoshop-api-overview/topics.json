@@ -4,8 +4,8 @@
   {"topic": "Detour - ExecuteAsModal", "file": "references/uxp/photoshop-api-overview/detour-execute-as-modal.md", "summary": "Open when looking up Detour - ExecuteAsModal in Photoshop.", "keywords": ["Detour - ExecuteAsModal"]},
   {"topic": "Document", "file": "references/uxp/photoshop-api-overview/document.md", "summary": "Open when looking up Document in Photoshop.", "keywords": ["Document"]},
   {"topic": "Layer", "file": "references/uxp/photoshop-api-overview/layer.md", "summary": "Open when looking up Layer in Photoshop.", "keywords": ["Layer"]},
-  {"topic": "Photoshop API — Synchronous vs Asynchronous", "file": "references/uxp/photoshop-api-overview/photoshop-api-synchronous-vs-asynchronous.md", "summary": "Open when looking up Photoshop API — Synchronous vs Asynchronous in Photoshop.", "keywords": ["Photoshop API — Synchronous vs Asynchronous"]},
-  {"topic": "Photoshop API — UXP Scripting", "file": "references/uxp/photoshop-api-overview/photoshop-api-uxp-scripting.md", "summary": "Open when looking up Photoshop API — UXP Scripting in Photoshop.", "keywords": ["Photoshop API — UXP Scripting"]},
+  {"topic": "Photoshop API - Synchronous vs Asynchronous", "file": "references/uxp/photoshop-api-overview/photoshop-api-synchronous-vs-asynchronous.md", "summary": "Open when looking up Photoshop API - Synchronous vs Asynchronous in Photoshop.", "keywords": ["Photoshop API - Synchronous vs Asynchronous"]},
+  {"topic": "Photoshop API - UXP Scripting", "file": "references/uxp/photoshop-api-overview/photoshop-api-uxp-scripting.md", "summary": "Open when looking up Photoshop API - UXP Scripting in Photoshop.", "keywords": ["Photoshop API - UXP Scripting"]},
   {"topic": "Photoshop Application", "file": "references/uxp/photoshop-api-overview/photoshop-application.md", "summary": "Open when looking up Photoshop Application in Photoshop.", "keywords": ["Photoshop Application"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

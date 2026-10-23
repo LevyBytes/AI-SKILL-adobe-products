@@ -1,4 +1,4 @@
-# After Effects — Add responsive design to your graphics
+# After Effects - Add responsive design to your graphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add the animation to another composition in After Effects. [Add the animation to another composition](add-the-animation-to-another-composition.md).

@@ -1,4 +1,4 @@
-# Importing graphics — Portable Network Graphics (.png) import options
+# Importing graphics - Portable Network Graphics (.png) import options
 
 Placing a PNG image with Show Import Options enabled in the Place dialog box opens a dialog box divided into three import-settings areas. Two areas reuse choices found with other bitmap formats. The remaining area, PNG Settings, includes these choices:
 

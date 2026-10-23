@@ -4,11 +4,11 @@ Version (Key): 6.0 | Save-Prefs: No | Security: No | Product: All | Type: Object
 
 Lists out the values that can turn up in the event.media.code property on a Status event (see onStatus and afterStatus). Most of these values carry extra information, which lands in the event.text property. The values are:
 
-Value — Description
+Value: Description
 
 app.media.status.clear
 
-Empty string—this status event wipes out any message
+Empty string: this status event wipes out any message
 
 app.media.status.message
 

@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: stories, paragraphs and text ranges
+# InDesign - InDesign document object model: stories, paragraphs and text ranges
 
-Open when working with stories, paragraphs and text ranges in InDesign — InDesign document object model.
+Open when working with stories, paragraphs and text ranges in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-text-ranges.json).
 

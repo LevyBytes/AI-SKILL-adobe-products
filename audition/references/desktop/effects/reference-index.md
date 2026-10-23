@@ -1,4 +1,4 @@
-# Audition — Effects
+# Audition - Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delay and echo effects in Audition. [Delay and echo effects](delay-and-echo-effects.md).

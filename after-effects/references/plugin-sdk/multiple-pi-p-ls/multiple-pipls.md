@@ -1,4 +1,4 @@
-# include the output of the custom build steps into the Microsoft-generated .rc file. — Multiple PiPLs
+# include the output of the custom build steps into the Microsoft-generated .rc file. - Multiple PiPLs
 
 You can pack several plug-ins — AEGPs and effects both — into one file using multiple PiPLs, though it isn't advised. When a single file holds PiPLs for AEGPs as well as effects, the AEGPs have to come first!
 

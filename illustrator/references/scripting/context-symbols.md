@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: symbols and registration points
+# Illustrator - Scripting APIs: symbols and registration points
 
-Open when working with symbols and registration points in Illustrator — Scripting APIs.
+Open when working with symbols and registration points in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-symbols.json).
 

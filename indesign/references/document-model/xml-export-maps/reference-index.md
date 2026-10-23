@@ -1,4 +1,4 @@
-# InDesign — XMLExportMaps
+# InDesign - XMLExportMaps
 
 Open when selecting a collection operation: [Topic catalog](topics.json).
 

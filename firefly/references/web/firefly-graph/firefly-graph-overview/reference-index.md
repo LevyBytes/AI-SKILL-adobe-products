@@ -1,4 +1,4 @@
-# Firefly — Firefly Graph Overview
+# Firefly - Firefly Graph Overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common use cases in Firefly. [Common use cases](common-use-cases.md).

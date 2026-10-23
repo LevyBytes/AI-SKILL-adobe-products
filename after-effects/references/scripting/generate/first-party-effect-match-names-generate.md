@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Generate
+# First-Party Effect Match Names - Generate
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

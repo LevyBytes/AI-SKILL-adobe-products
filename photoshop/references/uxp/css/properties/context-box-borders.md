@@ -1,6 +1,6 @@
-# Photoshop — Properties: border colors, styles and widths
+# Photoshop - Properties: border colors, styles and widths
 
-Open when working with border colors, styles and widths in Photoshop — Properties.
+Open when working with border colors, styles and widths in Photoshop - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-box-borders.json).
 

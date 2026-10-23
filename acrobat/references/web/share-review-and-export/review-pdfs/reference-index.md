@@ -1,4 +1,4 @@
-# Acrobat — Review PDFs
+# Acrobat - Review PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and manage comments in Acrobat. [Add and manage comments](add-and-manage-comments.md).

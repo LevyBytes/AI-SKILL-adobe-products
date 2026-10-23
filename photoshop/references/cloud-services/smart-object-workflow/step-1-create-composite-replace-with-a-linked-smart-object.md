@@ -1,4 +1,4 @@
-# Step 1 — Create composite (replace with a linked smart object)
+# Step 1 - Create composite (replace with a linked smart object)
 
 **Endpoint:** `POST /v2/create-composite`
 

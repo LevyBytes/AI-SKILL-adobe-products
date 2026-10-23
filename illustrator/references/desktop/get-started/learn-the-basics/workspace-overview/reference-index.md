@@ -1,4 +1,4 @@
-# Illustrator — Workspace overview
+# Illustrator - Workspace overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Application Bar in Illustrator. [Application Bar](application-bar.md).

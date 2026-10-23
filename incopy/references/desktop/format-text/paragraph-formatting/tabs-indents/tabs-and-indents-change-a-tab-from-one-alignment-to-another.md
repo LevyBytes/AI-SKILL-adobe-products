@@ -1,4 +1,4 @@
-# Tabs and indents — Change a tab from one alignment to another
+# Tabs and indents - Change a tab from one alignment to another
 
 In the Tabs dialog box, choose a tab on the tab ruler. Select the tab-alignment button for the alignment you want.
 

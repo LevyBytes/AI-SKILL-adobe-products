@@ -1,4 +1,4 @@
-# Acrobat — Print settings
+# Acrobat - Print settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Comments and Forms in Acrobat. [Comments and Forms](comments-and-forms.md).

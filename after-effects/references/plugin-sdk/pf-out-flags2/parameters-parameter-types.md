@@ -1,4 +1,4 @@
-# Parameters — Parameter Types
+# Parameters - Parameter Types
 
 Parameter Type
 

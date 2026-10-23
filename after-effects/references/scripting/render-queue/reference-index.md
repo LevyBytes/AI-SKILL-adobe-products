@@ -1,4 +1,4 @@
-# After Effects — Render queue
+# After Effects - Render queue
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RenderQueue object in After Effects. [RenderQueue object](render-queue-object.md).

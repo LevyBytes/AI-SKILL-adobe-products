@@ -20,7 +20,7 @@
   {"topic": "getURLSettings", "file": "references/scripting/app-media/get-url-settings.md", "summary": "Open when looking up getURLSettings in Acrobat.", "keywords": ["getURLSettings"]},
   {"topic": "getWindowBorderSize", "file": "references/scripting/app-media/get-window-border-size.md", "summary": "Open when looking up getWindowBorderSize in Acrobat.", "keywords": ["getWindowBorderSize"]},
   {"topic": "ifOffScreen", "file": "references/scripting/app-media/if-off-screen.md", "summary": "Open when looking up ifOffScreen in Acrobat.", "keywords": ["ifOffScreen"]},
-  {"topic": "JavaScript APIs — app.media", "file": "references/scripting/app-media/java-script-apis-app-media.md", "summary": "Open when looking up JavaScript APIs — app.media in Acrobat.", "keywords": ["JavaScript APIs — app.media"]},
+  {"topic": "JavaScript APIs - app.media", "file": "references/scripting/app-media/java-script-apis-app-media.md", "summary": "Open when looking up JavaScript APIs - app.media in Acrobat.", "keywords": ["JavaScript APIs - app.media"]},
   {"topic": "layout", "file": "references/scripting/app-media/layout.md", "summary": "Open when looking up layout in Acrobat.", "keywords": ["layout"]},
   {"topic": "monitorType", "file": "references/scripting/app-media/monitor-type.md", "summary": "Open when looking up monitorType in Acrobat.", "keywords": ["monitorType"]},
   {"topic": "openCode", "file": "references/scripting/app-media/open-code.md", "summary": "Open when looking up openCode in Acrobat.", "keywords": ["openCode"]},

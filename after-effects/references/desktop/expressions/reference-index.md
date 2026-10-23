@@ -1,4 +1,4 @@
-# After Effects — Expressions
+# After Effects - Expressions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit expressions in After Effects. [Edit expressions references](edit-expressions/reference-index.md).

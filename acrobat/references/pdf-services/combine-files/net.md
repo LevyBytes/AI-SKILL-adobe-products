@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/combine-pdf/Program.cs)
+- [combine-pdf setup and source](../examples/dotnet/combine-pdf/combine-pdf-setup.md)

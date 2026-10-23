@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — send([body])
+# window.XMLHttpRequest - send([body])
 
 Dispatches the request to the server.
 Accepted body values are: Blob, ArrayBuffer, TypedArray, DataView, FormData, or string.

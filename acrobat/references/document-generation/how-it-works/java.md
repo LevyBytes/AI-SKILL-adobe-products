@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [MergeDocumentToPDF.java](../../pdf-services/examples/java/merge-customer-data/MergeDocumentToPDF.java)
+- [merge-customer-data setup and source](../../pdf-services/examples/java/merge-customer-data/merge-customer-data-setup.md)

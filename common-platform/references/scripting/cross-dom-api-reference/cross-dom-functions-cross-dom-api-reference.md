@@ -1,4 +1,4 @@
-# Cross-DOM functions — Cross-DOM API reference
+# Cross-DOM functions - Cross-DOM API reference
 
 Every exported function, including cross-DOM API functions, is called through the exporting application's namespace specifier (see Namespace specifiers). The following call shows the form:
 

@@ -1,6 +1,6 @@
-# InDesign — Text default: paragraph alignment and spacing
+# InDesign - Text default: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in InDesign — Text default.
+Open when checking paragraph alignment and spacing in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

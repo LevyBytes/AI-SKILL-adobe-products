@@ -1,4 +1,4 @@
-# Working With Paths — `PF_PathDataSuite`
+# Working With Paths`PF_PathDataSuite`
 
 Details about paths — that is, runs of vertices — come from this suite.
 

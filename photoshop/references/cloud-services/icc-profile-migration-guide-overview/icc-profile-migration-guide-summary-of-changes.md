@@ -1,4 +1,4 @@
-# ICC Profile Migration Guide — Summary of changes
+# ICC Profile Migration Guide - Summary of changes
 
 | Change | V1 | V2 |
 | --- | --- | --- |

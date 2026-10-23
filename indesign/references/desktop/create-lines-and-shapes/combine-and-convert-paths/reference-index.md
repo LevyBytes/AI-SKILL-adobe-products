@@ -1,4 +1,4 @@
-# InDesign — Combine and convert paths
+# InDesign - Combine and convert paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply clipping paths to graphics in InDesign. [Apply clipping paths to graphics](apply-clipping-paths-to-graphics.md).

@@ -1,4 +1,4 @@
-# InDesign — Apply and format fonts in your document
+# InDesign - Apply and format fonts in your document
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a font to text in InDesign. [Apply a font to text](apply-a-font-to-text.md).

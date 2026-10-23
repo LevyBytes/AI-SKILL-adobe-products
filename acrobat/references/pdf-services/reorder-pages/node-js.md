@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [reorder-pdf-pages.cjs](../examples/node/reorder-pdf-pages/reorder-pdf-pages.cjs)
+- [reorder-pdf-pages setup and source](../examples/node/reorder-pdf-pages/reorder-pdf-pages-setup.md)

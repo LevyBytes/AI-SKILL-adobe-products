@@ -8,13 +8,12 @@ For guidance on working with our APIs, consult the [API usage guide](../pdf-serv
 
 ## Generate PDF or Word documents with fragments
 
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../pdf-services/examples/dotnet/merge-document-to-docx-fragments/Program.cs)
+- [merge-document-to-docx-fragments setup and source](../pdf-services/examples/dotnet/merge-document-to-docx-fragments/merge-document-to-docx-fragments-setup.md)
 
 ## Generate PDF or Word documents with fragments
 
-Complete example files:
+Example setup and source:
 
-- [merge-document-to-docx-with-fragments.py](../pdf-services/examples/python/merge-customer-fragments/merge-document-to-docx-with-fragments.py)
-- [dependencies.py](../pdf-services/examples/python/merge-customer-fragments/dependencies.py)
+- [merge-customer-fragments setup and source](../pdf-services/examples/python/merge-customer-fragments/merge-customer-fragments-setup.md)

@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: search indexes and catalog builds
+# Acrobat - Scripting APIs: search indexes and catalog builds
 
-Open when working with search indexes and catalog builds in Acrobat — Scripting APIs.
+Open when working with search indexes and catalog builds in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-search-indexes.json).
 

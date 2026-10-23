@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Export pdf to docx example setup", "file": "references/pdf-services/examples/python/export-pdf-to-docx/export-pdf-to-docx-setup.md", "summary": "Open when looking up Export pdf to docx example setup in Acrobat.", "keywords": ["Export pdf to docx example setup"]},
-  {"topic": "ExportPDFToDOCX", "file": "references/pdf-services/examples/python/export-pdf-to-docx/export-pdf-to-docx.py", "summary": "Open when looking up ExportPDFToDOCX in Acrobat.", "keywords": ["ExportPDFToDOCX"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

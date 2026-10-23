@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: clipboard, selection and undo
+# Shared Adobe platform - Application: clipboard, selection and undo
 
-Open when working with clipboard, selection and undo in Shared Adobe platform — Application.
+Open when working with clipboard, selection and undo in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-clipboard.json).
 

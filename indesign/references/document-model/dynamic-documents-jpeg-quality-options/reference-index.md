@@ -1,4 +1,4 @@
-# InDesign — DynamicDocumentsJPEGQualityOptions
+# InDesign - DynamicDocumentsJPEGQualityOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HIGH in InDesign. [HIGH](high.md).

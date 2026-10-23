@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — LanguageType", "file": "references/scripting/language-type/scripting-constants-language-type.md", "summary": "Open when looking up Scripting Constants — LanguageType in Illustrator.", "keywords": ["Scripting Constants — LanguageType"]},
+  {"topic": "Scripting Constants - LanguageType", "file": "references/scripting/language-type/scripting-constants-language-type.md", "summary": "Open when looking up Scripting Constants - LanguageType in Illustrator.", "keywords": ["Scripting Constants - LanguageType"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

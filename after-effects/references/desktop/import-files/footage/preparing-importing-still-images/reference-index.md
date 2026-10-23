@@ -1,4 +1,4 @@
-# After Effects — Preparing Importing Still Images
+# After Effects - Preparing Importing Still Images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the frame rate of a sequence in After Effects. [Change the frame rate of a sequence](change-the-frame-rate-of-a-sequence.md).

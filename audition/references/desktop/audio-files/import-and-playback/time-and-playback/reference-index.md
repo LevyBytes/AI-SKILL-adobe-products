@@ -1,4 +1,4 @@
-# Audition — Navigate time and playing audio in Adobe Audition
+# Audition - Navigate time and playing audio in Adobe Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the time display format in Audition. [Change the time display format](change-the-time-display-format.md).

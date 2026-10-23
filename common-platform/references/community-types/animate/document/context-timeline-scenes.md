@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: scenes, timelines, layers and keyframes
+# Shared Adobe platform - Document: scenes, timelines, layers and keyframes
 
-Open when working with scenes, timelines, layers and keyframes in Shared Adobe platform — Document.
+Open when working with scenes, timelines, layers and keyframes in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-timeline-scenes.json).
 

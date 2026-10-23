@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "window.KeyboardEvent — KeyboardEvent(type, eventInit)", "file": "references/uxp/keyboard-event/constructor.md", "summary": "Open when looking up window.KeyboardEvent — KeyboardEvent(type, eventInit) in Premiere Pro.", "keywords": ["window.KeyboardEvent — KeyboardEvent(type, eventInit)"]},
+  {"topic": "window.KeyboardEvent - KeyboardEvent(type, eventInit)", "file": "references/uxp/keyboard-event/constructor.md", "summary": "Open when looking up window.KeyboardEvent - KeyboardEvent(type, eventInit) in Premiere Pro.", "keywords": ["window.KeyboardEvent - KeyboardEvent(type, eventInit)"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

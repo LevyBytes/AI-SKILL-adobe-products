@@ -1,4 +1,4 @@
-# After Effects — Keyframe Interpolation
+# After Effects - Keyframe Interpolation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply and change keyframe interpolation methods in After Effects. [Apply and change keyframe interpolation methods](apply-and-change-keyframe-interpolation-methods.md).

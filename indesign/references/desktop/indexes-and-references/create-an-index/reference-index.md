@@ -1,4 +1,4 @@
-# InDesign — Create an Index
+# InDesign - Create an Index
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add items manually to an index in InDesign. [Add items manually to an index](add-items-manually-to-an-index.md).

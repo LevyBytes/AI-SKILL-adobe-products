@@ -1,4 +1,4 @@
-# After Effects — Motion graphics
+# After Effects - Motion graphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add responsive design in After Effects. [Add responsive design references](add-responsive-design/reference-index.md).

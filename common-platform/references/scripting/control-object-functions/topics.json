@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
   {"topic": "addEventListener()", "file": "references/scripting/control-object-functions/add-event-listener.md", "summary": "Open when looking up addEventListener() in Shared Adobe platform.", "keywords": ["addEventListener()"]},
-  {"topic": "Control objects — Control object functions", "file": "references/scripting/control-object-functions/control-objects-control-object-functions.md", "summary": "Open when looking up Control objects — Control object functions in Shared Adobe platform.", "keywords": ["Control objects — Control object functions"]},
+  {"topic": "Control objects - Control object functions", "file": "references/scripting/control-object-functions/control-objects-control-object-functions.md", "summary": "Open when looking up Control objects - Control object functions in Shared Adobe platform.", "keywords": ["Control objects - Control object functions"]},
   {"topic": "dispatchEvent()", "file": "references/scripting/control-object-functions/dispatch-event.md", "summary": "Open when looking up dispatchEvent() in Shared Adobe platform.", "keywords": ["dispatchEvent()"]},
   {"topic": "hide()", "file": "references/scripting/control-object-functions/hide.md", "summary": "Open when looking up hide() in Shared Adobe platform.", "keywords": ["hide()"]},
   {"topic": "notify()", "file": "references/scripting/control-object-functions/notify.md", "summary": "Open when looking up notify() in Shared Adobe platform.", "keywords": ["notify()"]},

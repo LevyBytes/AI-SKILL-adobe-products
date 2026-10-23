@@ -1,6 +1,6 @@
-# Shared Adobe platform — Table: text ranges and containers
+# Shared Adobe platform - Table: text ranges and containers
 
-Open when checking text ranges and containers in Shared Adobe platform — Table.
+Open when checking text ranges and containers in Shared Adobe platform - Table.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

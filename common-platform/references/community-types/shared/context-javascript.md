@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: javascript values, globals and constructors
+# Shared Adobe platform - Shared: javascript values, globals and constructors
 
-Open when working with javascript values, globals and constructors in Shared Adobe platform — Shared.
+Open when working with javascript values, globals and constructors in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-javascript.json).
 

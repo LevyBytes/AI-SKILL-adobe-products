@@ -1,4 +1,4 @@
-# Illustrator — Reshape and transform objects
+# Illustrator - Reshape and transform objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About perspective drawing in Illustrator. [About perspective drawing](about-perspective-drawing.md).

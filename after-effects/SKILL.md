@@ -1,8 +1,9 @@
 ---
 name: after-effects
-description: Use when working in Adobe After Effects with compositions, footage, layers, text, shapes, animation, tracking, keying, effects, color, 3D, previews, rendering, expressions, ExtendScript automation, or C++ effect and AEGP plugins. Routes to bundled desktop help, scripting object references, and SDK contracts with their original version limits.
+description: "Use when working in Adobe After Effects with compositions, footage, layers, text, shapes, animation, tracking, keying, effects, color, 3D, previews, rendering, expressions, ExtendScript automation, or C++ effect and AEGP plugins."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

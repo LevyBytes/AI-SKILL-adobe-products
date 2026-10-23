@@ -1,4 +1,4 @@
-# Premiere Pro — Audio channel mapping
+# Premiere Pro - Audio channel mapping
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AudioChannelMapping object in Premiere Pro. [AudioChannelMapping object](audio-channel-mapping-object.md).

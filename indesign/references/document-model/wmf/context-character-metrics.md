@@ -1,6 +1,6 @@
-# InDesign — WMF: character spacing and geometry
+# InDesign - WMF: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — WMF.
+Open when checking character spacing and geometry in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

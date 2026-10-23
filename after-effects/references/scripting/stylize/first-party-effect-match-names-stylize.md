@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Stylize
+# First-Party Effect Match Names - Stylize
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

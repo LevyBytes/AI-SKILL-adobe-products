@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Transition
+# First-Party Effect Match Names - Transition
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

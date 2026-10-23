@@ -1,6 +1,6 @@
-# InDesign — Line: fill, stroke and transparency
+# InDesign - Line: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Line.
+Open when checking fill, stroke and transparency in InDesign - Line.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

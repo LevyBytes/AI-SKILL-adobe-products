@@ -1,4 +1,4 @@
-# Acrobat — Use stamps
+# Acrobat - Use stamps
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or modify stamps in Acrobat. [Add or modify stamps](add-or-modify-stamps.md).

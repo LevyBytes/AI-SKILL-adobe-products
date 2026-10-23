@@ -1,4 +1,4 @@
-# InDesign — GridViewSettings
+# InDesign - GridViewSettings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ALIGN_VIEW_ENUM in InDesign. [ALIGN_VIEW_ENUM](alignviewenum.md).

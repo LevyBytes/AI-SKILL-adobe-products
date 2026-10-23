@@ -1,4 +1,4 @@
-# Firefly — Reference images for styling
+# Firefly - Reference images for styling
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Art and creative industries in Firefly. [Art and creative industries](art-and-creative-industries.md).

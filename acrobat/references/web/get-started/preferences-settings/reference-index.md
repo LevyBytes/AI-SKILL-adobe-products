@@ -1,4 +1,4 @@
-# Acrobat — Preferences & settings
+# Acrobat - Preferences & settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Set accessibility settings in Acrobat. [Set accessibility settings](set-accessibility-settings.md).

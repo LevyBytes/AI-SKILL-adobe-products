@@ -1,4 +1,4 @@
-# Shared Adobe platform — MasterSpreads
+# Shared Adobe platform - MasterSpreads
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MasterSpreads collection iteration in Shared Adobe platform. [MasterSpreads collection iteration](collection-iteration.md).

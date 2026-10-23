@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
   {"topic": "Breakpoint icons", "file": "references/scripting/setting-breakpoints/breakpoint-icons.md", "summary": "Open when looking up Breakpoint icons in Shared Adobe platform.", "keywords": ["Breakpoint icons"]},
-  {"topic": "Debugging in the Toolkit — Setting breakpoints", "file": "references/scripting/setting-breakpoints/debugging-in-the-toolkit-setting-breakpoints.md", "summary": "Open when looking up Debugging in the Toolkit — Setting breakpoints in Shared Adobe platform.", "keywords": ["Debugging in the Toolkit — Setting breakpoints"]},
+  {"topic": "Debugging in the Toolkit - Setting breakpoints", "file": "references/scripting/setting-breakpoints/debugging-in-the-toolkit-setting-breakpoints.md", "summary": "Open when looking up Debugging in the Toolkit - Setting breakpoints in Shared Adobe platform.", "keywords": ["Debugging in the Toolkit - Setting breakpoints"]},
   {"topic": "The Breakpoints panel", "file": "references/scripting/setting-breakpoints/the-breakpoints-panel.md", "summary": "Open when looking up The Breakpoints panel in Shared Adobe platform.", "keywords": ["The Breakpoints panel"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

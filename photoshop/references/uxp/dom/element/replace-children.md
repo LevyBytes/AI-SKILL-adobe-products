@@ -1,4 +1,4 @@
-# window.Element — replaceChildren(...nodes)
+# window.Element - replaceChildren(...nodes)
 
 The Node's current children are exchanged for a specified replacement set, using Node objects or strings.
 

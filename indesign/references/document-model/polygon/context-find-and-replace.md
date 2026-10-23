@@ -1,6 +1,6 @@
-# InDesign — Polygon: find, replace and transliterate
+# InDesign - Polygon: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Polygon.
+Open when checking find, replace and transliterate in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

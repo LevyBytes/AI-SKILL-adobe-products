@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — upload : `XMLHttpRequestEventUpload`
+# window.XMLHttpRequest - upload : `XMLHttpRequestEventUpload`
 
 **Read only**
 Use this XMLHttpRequestEventUpload object to observe upload progress.

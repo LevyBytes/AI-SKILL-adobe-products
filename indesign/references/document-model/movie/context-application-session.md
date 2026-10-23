@@ -1,6 +1,6 @@
-# InDesign — Movie: application session and account
+# InDesign - Movie: application session and account
 
-Open when checking application session and account in InDesign — Movie.
+Open when checking application session and account in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

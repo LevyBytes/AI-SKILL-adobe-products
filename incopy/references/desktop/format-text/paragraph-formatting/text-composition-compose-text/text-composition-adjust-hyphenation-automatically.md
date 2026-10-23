@@ -1,4 +1,4 @@
-# Text composition — Adjust hyphenation automatically
+# Text composition - Adjust hyphenation automatically
 
 Hyphenation relies on word lists, which may live in a separate user dictionary file on the computer or inside the document. For consistent results, specify the list to use when a document will go to a service provider or be shared in a workgroup.
 

@@ -1,4 +1,4 @@
-# Premiere Pro — About Productions
+# Premiere Pro - About Productions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Designed for collaboration in Premiere Pro. [Designed for collaboration](designed-for-collaboration.md).

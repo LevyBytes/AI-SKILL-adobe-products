@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: strokes, corners and arrowheads
+# Shared Adobe platform - Indesign: strokes, corners and arrowheads
 
-Open when working with strokes, corners and arrowheads in Shared Adobe platform — Indesign.
+Open when working with strokes, corners and arrowheads in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-strokes.json).
 

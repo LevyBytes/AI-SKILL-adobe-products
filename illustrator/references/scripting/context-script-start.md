@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: scripting foundations and first scripts
+# Illustrator - Scripting APIs: scripting foundations and first scripts
 
-Open when working with scripting foundations and first scripts in Illustrator — Scripting APIs.
+Open when working with scripting foundations and first scripts in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-script-start.json).
 

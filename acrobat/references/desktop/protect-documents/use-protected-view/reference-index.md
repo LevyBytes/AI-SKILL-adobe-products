@@ -1,4 +1,4 @@
-# Acrobat — Use protected view
+# Acrobat - Use protected view
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bypass protected view restrictions in Acrobat. [Bypass protected view restrictions](bypass-protected-view-restrictions.md).

@@ -1,4 +1,4 @@
-# window.DragEvent — DragEvent(type, eventInit)
+# window.DragEvent - DragEvent(type, eventInit)
 
 Constructs a `DragEvent` instance.
 

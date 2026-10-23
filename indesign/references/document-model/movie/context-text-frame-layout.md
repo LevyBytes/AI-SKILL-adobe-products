@@ -1,6 +1,6 @@
-# InDesign — Movie: text frame columns and autosizing
+# InDesign - Movie: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — Movie.
+Open when checking text frame columns and autosizing in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

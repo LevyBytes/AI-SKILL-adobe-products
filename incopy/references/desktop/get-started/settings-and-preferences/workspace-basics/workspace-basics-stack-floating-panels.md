@@ -1,4 +1,4 @@
-# Workspace basics — Stack floating panels
+# Workspace basics - Stack floating panels
 
 When a panel is dragged out of a dock and not dropped on a drop zone, it remains free-floating. You can place a floating panel anywhere in the workspace. Floating panels or panel groups can be stacked so dragging the uppermost title bar moves them together.
 

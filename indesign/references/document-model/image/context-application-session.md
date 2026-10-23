@@ -1,6 +1,6 @@
-# InDesign — Image: application session and account
+# InDesign - Image: application session and account
 
-Open when checking application session and account in InDesign — Image.
+Open when checking application session and account in InDesign - Image.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

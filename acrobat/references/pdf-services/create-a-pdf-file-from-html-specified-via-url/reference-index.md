@@ -1,4 +1,4 @@
-# Acrobat — Create a PDF File From HTML specified via URL
+# Acrobat - Create a PDF File From HTML specified via URL
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET in Acrobat. [.NET](net.md).

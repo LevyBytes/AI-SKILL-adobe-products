@@ -1,4 +1,4 @@
-# Photoshop — Photoshop api changelog photoshop 23 3 april 2022
+# Photoshop - Photoshop api changelog photoshop 23 3 april 2022
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up batchPlay development helper: Copy as Javascript in Photoshop. [batchPlay development helper: Copy as Javascript](batch-play-development-helper-copy-as-javascript.md).

@@ -1,4 +1,4 @@
-# Text variables — Create variables for running headers and footers
+# Text variables - Create variables for running headers and footers
 
 Running Header variables normally pull in the first styled text occurrence found on the page. They are useful when a header or footer needs to show the active title or heading.
 

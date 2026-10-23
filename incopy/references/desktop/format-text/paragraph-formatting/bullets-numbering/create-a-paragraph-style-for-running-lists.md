@@ -1,4 +1,4 @@
-# Bullets and numbering — Create a paragraph style for running lists
+# Bullets and numbering - Create a paragraph style for running lists
 
 For a running list, where numbering continues despite intervening paragraphs or across multiple stories or documents, make a paragraph style and apply it to each paragraph that should belong to that list. As an example, to list the tables in a document, create a paragraph style named Tables, include a defined list in that style, and apply the Tables paragraph style to every paragraph you want in the Table list.
 

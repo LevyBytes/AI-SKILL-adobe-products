@@ -1,6 +1,6 @@
-# InDesign — PrintBookletPrintPreference: object identity and lifecycle
+# InDesign - PrintBookletPrintPreference: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — PrintBookletPrintPreference.
+Open when checking object identity and lifecycle in InDesign - PrintBookletPrintPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

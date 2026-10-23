@@ -1,4 +1,4 @@
-# Premiere Pro — Instance methods
+# Premiere Pro - Instance methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up createSetColorByIndexAction in Premiere Pro. [createSetColorByIndexAction](create-set-color-by-index-action.md).

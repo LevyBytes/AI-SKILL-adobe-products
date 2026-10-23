@@ -1,4 +1,4 @@
-# Aligning text — Span a paragraph across columns
+# Aligning text - Span a paragraph across columns
 
 Put the insertion point inside the paragraph.
 

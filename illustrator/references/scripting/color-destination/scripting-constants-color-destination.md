@@ -1,4 +1,4 @@
-# Scripting Constants — ColorDestination
+# Scripting Constants - ColorDestination
 
 Color destination target.
 

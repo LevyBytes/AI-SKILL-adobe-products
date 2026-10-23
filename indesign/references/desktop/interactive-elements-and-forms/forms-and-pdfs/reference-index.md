@@ -1,4 +1,4 @@
-# InDesign — Forms and PDFs
+# InDesign - Forms and PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessible PDFs in InDesign. [Accessible PDFs](accessible-pdfs.md).

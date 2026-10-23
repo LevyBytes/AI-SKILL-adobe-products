@@ -1,4 +1,4 @@
-# After Effects — Time stretching and time remapping
+# After Effects - Time stretching and time remapping
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the pitch of an audio layer in After Effects. [Change the pitch of an audio layer](change-the-pitch-of-an-audio-layer.md).

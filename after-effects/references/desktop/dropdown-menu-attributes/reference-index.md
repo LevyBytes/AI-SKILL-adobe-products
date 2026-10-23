@@ -1,4 +1,4 @@
-# After Effects — Dropdown menu attributes
+# After Effects - Dropdown menu attributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up items in After Effects. [items](items.md).

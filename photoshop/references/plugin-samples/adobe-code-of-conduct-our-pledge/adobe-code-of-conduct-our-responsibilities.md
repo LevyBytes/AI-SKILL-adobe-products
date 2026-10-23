@@ -1,4 +1,4 @@
-# Adobe Code of Conduct — Our Responsibilities
+# Adobe Code of Conduct - Our Responsibilities
 
 Project maintainers must clarify acceptable behavior standards and should respond to unacceptable behavior with corrective action that is appropriate and fair.
 

@@ -1,4 +1,4 @@
-# ProjectClosedEvent — Properties
+# ProjectClosedEvent - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

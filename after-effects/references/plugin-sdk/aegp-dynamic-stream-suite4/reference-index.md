@@ -1,4 +1,4 @@
-# After Effects — AEGP_DynamicStreamSuite4
+# After Effects - AEGP_DynamicStreamSuite4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_AddStream in After Effects. [AEGP_AddStream](aegp-add-stream.md).

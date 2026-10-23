@@ -1,4 +1,4 @@
-# Implementation Details — User Data vs. Options
+# Implementation Details - User Data vs. Options
 
 Metadata about a file can be stored through either user-data allocations or options handles.
 

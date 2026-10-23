@@ -1,4 +1,4 @@
-# Media Encoder — Create custom presets for Media Encoder
+# Media Encoder - Create custom presets for Media Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and save a custom preset in Media Encoder. [Create and save a custom preset](create-and-save-a-custom-preset.md).

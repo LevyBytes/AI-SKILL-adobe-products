@@ -1,4 +1,4 @@
-# Tracking and reviewing changes — Accept and reject changes
+# Tracking and reviewing changes - Accept and reject changes
 
 After a story contains tracked edits, whether made by you or another contributor, change tracking gives you a review workflow for deciding which edits become part of the story. You can approve or decline one change, part of a tracked change, or every change together.
 

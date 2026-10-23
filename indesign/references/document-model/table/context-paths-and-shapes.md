@@ -1,6 +1,6 @@
-# InDesign — Table: paths and shape operations
+# InDesign - Table: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Table.
+Open when checking paths and shape operations in InDesign - Table.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

@@ -1,4 +1,4 @@
-# Illustrator — Modify brushes
+# Illustrator - Modify brushes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change brush options in Illustrator. [Change brush options](change-brush-options.md).

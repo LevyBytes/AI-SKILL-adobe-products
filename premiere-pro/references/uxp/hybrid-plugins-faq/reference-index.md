@@ -1,4 +1,4 @@
-# Premiere Pro — Hybrid Plugins FAQ
+# Premiere Pro - Hybrid Plugins FAQ
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apple Developer ID requirement in Premiere Pro. [Apple Developer ID requirement](apple-developer-id-requirement.md).

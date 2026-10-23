@@ -1,4 +1,4 @@
-# Firefly — Share projects to troubleshoot timeline issues
+# Firefly - Share projects to troubleshoot timeline issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Before you share in Firefly. [Before you share](before-you-share.md).

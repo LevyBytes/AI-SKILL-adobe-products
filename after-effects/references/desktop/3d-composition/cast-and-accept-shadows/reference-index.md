@@ -1,4 +1,4 @@
-# After Effects — Cast and accept shadows
+# After Effects - Cast and accept shadows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cast and accept shadows in After Effects. [Cast and accept shadows](cast-and-accept-shadows.md).

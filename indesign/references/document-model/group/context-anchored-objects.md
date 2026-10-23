@@ -1,6 +1,6 @@
-# InDesign — Group: anchored object placement
+# InDesign - Group: anchored object placement
 
-Open when checking anchored object placement in InDesign — Group.
+Open when checking anchored object placement in InDesign - Group.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

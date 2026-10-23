@@ -1,6 +1,6 @@
-# InDesign — SVG: export documents and select formats
+# InDesign - SVG: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — SVG.
+Open when checking export documents and select formats in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

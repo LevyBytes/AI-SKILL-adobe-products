@@ -1,4 +1,4 @@
-# InDesign — Manage style packs
+# InDesign - Manage style packs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Duplicate or delete a style pack in InDesign. [Duplicate or delete a style pack](duplicate-or-delete-a-style-pack.md).

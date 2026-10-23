@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/ocr-pdf-with-options/Program.cs)
+- [ocr-pdf-with-options setup and source](../examples/dotnet/ocr-pdf-with-options/ocr-pdf-with-options-setup.md)

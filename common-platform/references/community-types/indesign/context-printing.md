@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: printing, paper and imposition
+# Shared Adobe platform - Indesign: printing, paper and imposition
 
-Open when working with printing, paper and imposition in Shared Adobe platform — Indesign.
+Open when working with printing, paper and imposition in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-printing.json).
 

@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [autotag-pdf.cjs](../examples/node/autotag-pdf/autotag-pdf.cjs)
+- [autotag-pdf setup and source](../examples/node/autotag-pdf/autotag-pdf-setup.md)

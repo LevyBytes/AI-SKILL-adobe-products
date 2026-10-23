@@ -1,4 +1,4 @@
-# Scripting Constants — SVGDocumentEncoding
+# Scripting Constants - SVGDocumentEncoding
 
 These values set the text encoding used for SVG export.
 

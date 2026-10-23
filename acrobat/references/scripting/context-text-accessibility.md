@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: text spans, spelling and speech
+# Acrobat - Scripting APIs: text spans, spelling and speech
 
-Open when working with text spans, spelling and speech in Acrobat — Scripting APIs.
+Open when working with text spans, spelling and speech in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-text-accessibility.json).
 

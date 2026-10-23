@@ -1,6 +1,6 @@
-# InDesign — Insertion point: ruby annotations
+# InDesign - Insertion point: ruby annotations
 
-Open when checking ruby annotations in InDesign — Insertion point.
+Open when checking ruby annotations in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

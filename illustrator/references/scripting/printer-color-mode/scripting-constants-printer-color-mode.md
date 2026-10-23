@@ -1,4 +1,4 @@
-# Scripting Constants — PrinterColorMode
+# Scripting Constants - PrinterColorMode
 
 | Value | Description |
 | --- | --- |

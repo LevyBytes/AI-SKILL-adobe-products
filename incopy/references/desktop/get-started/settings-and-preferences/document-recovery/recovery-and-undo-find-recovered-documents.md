@@ -1,4 +1,4 @@
-# Recovery and undo — Find recovered documents
+# Recovery and undo - Find recovered documents
 
 Restart the computer, then open InCopy.
 

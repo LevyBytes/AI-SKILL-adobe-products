@@ -1,4 +1,4 @@
-# Shared Adobe platform — Rows
+# Shared Adobe platform - Rows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Rows collection iteration in Shared Adobe platform. [Rows collection iteration](collection-iteration.md).

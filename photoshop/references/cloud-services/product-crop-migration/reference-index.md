@@ -1,4 +1,4 @@
-# Photoshop — Product Crop Migration
+# Photoshop - Product Crop Migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. No padding (tight crop) in Photoshop. [1. No padding (tight crop)](no-padding-tight-crop.md).

@@ -1,4 +1,4 @@
-# Tips & Tricks — Some Thoughts On Time From A Long-Time Developer
+# Tips & Tricks - Some Thoughts On Time From A Long-Time Developer
 
 Stoney Ballard wrote up the following rundown of how time behaves for effects, which you might find useful.
 

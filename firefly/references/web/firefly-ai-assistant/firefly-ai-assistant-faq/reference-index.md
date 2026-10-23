@@ -1,4 +1,4 @@
-# Firefly — Firefly AI Assistant FAQ
+# Firefly - Firefly AI Assistant FAQ
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Credit Usage in Firefly. [Credit Usage](credit-usage.md).

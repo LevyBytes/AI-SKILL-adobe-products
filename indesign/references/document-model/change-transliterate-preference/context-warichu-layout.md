@@ -1,6 +1,6 @@
-# InDesign — Change transliterate preference: warichu inline text
+# InDesign - Change transliterate preference: warichu inline text
 
-Open when checking warichu inline text in InDesign — Change transliterate preference.
+Open when checking warichu inline text in InDesign - Change transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

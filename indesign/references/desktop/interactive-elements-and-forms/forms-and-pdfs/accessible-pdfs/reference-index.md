@@ -1,4 +1,4 @@
-# InDesign — Accessible PDFs
+# InDesign - Accessible PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Essential accessibility components in InDesign. [Essential accessibility components](essential-accessibility-components.md).

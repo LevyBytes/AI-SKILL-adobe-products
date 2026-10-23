@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: create and edit shapes and curves
+# Shared Adobe platform - Document: create and edit shapes and curves
 
-Open when working with create and edit shapes and curves in Shared Adobe platform — Document.
+Open when working with create and edit shapes and curves in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-drawing.json).
 

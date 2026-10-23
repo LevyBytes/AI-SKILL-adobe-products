@@ -1,4 +1,4 @@
-# Tagging content for XML — Specify Autotag defaults
+# Tagging content for XML - Specify Autotag defaults
 
 When a text frame, table, table cells, or image is selected and you click the Autotag icon in the Tags panel, InDesign assigns the selected item a default tag. Those defaults are set in the Tagging Preset Options dialog box.
 

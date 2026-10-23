@@ -1,4 +1,4 @@
-# InDesign — Apply style pack presets or create a style pack
+# InDesign - Apply style pack presets or create a style pack
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a preset Style Pack in InDesign. [Apply a preset Style Pack](apply-a-preset-style-pack.md).

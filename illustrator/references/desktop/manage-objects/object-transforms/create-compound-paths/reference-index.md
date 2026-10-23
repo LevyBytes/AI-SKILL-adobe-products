@@ -1,4 +1,4 @@
-# Illustrator — Create compound paths
+# Illustrator - Create compound paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the areas containing fills and holes in Illustrator. [Change the areas containing fills and holes](change-the-areas-containing-fills-and-holes.md).

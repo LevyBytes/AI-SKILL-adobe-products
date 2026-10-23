@@ -1,4 +1,4 @@
-# InCopy — Copyfitting text
+# InCopy - Copyfitting text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customize Copyfit Info settings in InCopy. [Customize Copyfit Info settings](customize-copyfit-info-settings.md).

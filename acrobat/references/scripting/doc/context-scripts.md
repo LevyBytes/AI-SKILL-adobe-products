@@ -1,6 +1,6 @@
-# Acrobat — Doc: document and page actions
+# Acrobat - Doc: document and page actions
 
-Open when working with document and page actions in Acrobat — Doc.
+Open when working with document and page actions in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-scripts.json).
 

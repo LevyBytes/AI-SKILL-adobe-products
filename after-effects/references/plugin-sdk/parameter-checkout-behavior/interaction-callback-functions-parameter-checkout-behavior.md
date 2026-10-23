@@ -1,4 +1,4 @@
-# Interaction Callback Functions — Parameter Checkout Behavior
+# Interaction Callback Functions - Parameter Checkout Behavior
 
 No matter whether the layer's in and out points were trimmed, the frames you receive run valid from the start of the source footage through its end, with transparency on either side of that span.
 

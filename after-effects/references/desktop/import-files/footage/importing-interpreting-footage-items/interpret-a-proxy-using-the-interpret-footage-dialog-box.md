@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Interpret a proxy using the Interpret Footage dialog box
+# Importing and interpreting footage items - Interpret a proxy using the Interpret Footage dialog box
 
 Pick the original footage item in the Project panel, then do one of these:
 

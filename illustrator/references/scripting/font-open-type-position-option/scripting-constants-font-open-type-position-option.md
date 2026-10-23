@@ -1,4 +1,4 @@
-# Scripting Constants — FontOpenTypePositionOption
+# Scripting Constants - FontOpenTypePositionOption
 
 | Value | Description |
 | --- | --- |

@@ -1,4 +1,4 @@
-# window.Attr — contains(node)
+# window.Attr - contains(node)
 
 | Param | Type |
 | --- | --- |

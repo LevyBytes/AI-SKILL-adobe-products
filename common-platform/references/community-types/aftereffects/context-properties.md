@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: property types and values
+# Shared Adobe platform - Aftereffects: property types and values
 
-Open when working with property types and values in Shared Adobe platform — Aftereffects.
+Open when working with property types and values in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-properties.json).
 

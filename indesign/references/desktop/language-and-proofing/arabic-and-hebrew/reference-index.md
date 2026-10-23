@@ -1,4 +1,4 @@
-# InDesign — Arabic and Hebrew
+# InDesign - Arabic and Hebrew
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust diacritical marks and coloring in Arabic text in InDesign. [Adjust diacritical marks and coloring in Arabic text](adjust-diacritical-marks-and-coloring-in-arabic-text.md).

@@ -1,4 +1,4 @@
-# FAQs — How can I submit a patch?
+# FAQs - How can I submit a patch?
 
 _Answer:_ Submit a patch when changing functionality for a listing that already exists. Functional updates can include bug fixes, new features, or both.
 

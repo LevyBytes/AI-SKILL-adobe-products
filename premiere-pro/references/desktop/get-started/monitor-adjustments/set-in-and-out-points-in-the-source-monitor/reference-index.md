@@ -1,4 +1,4 @@
-# Premiere Pro — Set In and Out points in the Source Monitor
+# Premiere Pro - Set In and Out points in the Source Monitor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cue In point and Out point in Premiere Pro. [Cue In point and Out point](cue-in-point-and-out-point.md).

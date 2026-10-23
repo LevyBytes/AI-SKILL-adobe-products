@@ -1,4 +1,4 @@
-# InDesign — View and select tools
+# InDesign - View and select tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access hidden tools in InDesign. [Access hidden tools](access-hidden-tools.md).

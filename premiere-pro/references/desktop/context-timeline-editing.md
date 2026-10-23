@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: timeline editing, tracks and trimming
+# Premiere Pro - Desktop workflows: timeline editing, tracks and trimming
 
-Open when working with timeline editing, tracks and trimming in Premiere Pro — Desktop workflows.
+Open when working with timeline editing, tracks and trimming in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-timeline-editing.json).
 

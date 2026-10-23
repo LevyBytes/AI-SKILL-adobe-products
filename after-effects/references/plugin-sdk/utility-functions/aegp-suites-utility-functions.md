@@ -1,4 +1,4 @@
-# AEGP Suites — Utility Functions
+# AEGP Suites - Utility Functions
 
 Error message handling, AEGP version checks, and reach into the undo stack all come from the Utility suite.
 

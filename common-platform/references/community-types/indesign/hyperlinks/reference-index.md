@@ -1,4 +1,4 @@
-# Shared Adobe platform — Hyperlinks
+# Shared Adobe platform - Hyperlinks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Hyperlinks collection iteration in Shared Adobe platform. [Hyperlinks collection iteration](collection-iteration.md).

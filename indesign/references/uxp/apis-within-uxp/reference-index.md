@@ -1,4 +1,4 @@
-# InDesign — APIs within UXP
+# InDesign - APIs within UXP
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Host-specific APIs in InDesign. [Host-specific APIs](host-specific-apis.md).

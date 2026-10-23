@@ -1,4 +1,4 @@
-# Acrobat — Verify certificate information
+# Acrobat - Verify certificate information
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Verify certificates for contacts in Acrobat. [Verify certificates for contacts](verify-certificates-for-contacts.md).

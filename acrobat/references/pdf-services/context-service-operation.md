@@ -1,6 +1,6 @@
-# Acrobat — PDF Services API: service security, status and credential handling
+# Acrobat - PDF Services API: service security, status and credential handling
 
-Open when working with service security, status and credential handling in Acrobat — PDF Services API.
+Open when working with service security, status and credential handling in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-service-operation.json).
 

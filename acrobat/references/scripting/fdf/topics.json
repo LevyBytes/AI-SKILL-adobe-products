@@ -5,7 +5,7 @@
   {"topic": "close", "file": "references/scripting/fdf/close.md", "summary": "Open when looking up close in Acrobat.", "keywords": ["close"]},
   {"topic": "deleteOption", "file": "references/scripting/fdf/delete-option.md", "summary": "Open when looking up deleteOption in Acrobat.", "keywords": ["deleteOption"]},
   {"topic": "isSigned", "file": "references/scripting/fdf/is-signed.md", "summary": "Open when looking up isSigned in Acrobat.", "keywords": ["isSigned"]},
-  {"topic": "JavaScript APIs — FDF", "file": "references/scripting/fdf/java-script-apis-fdf.md", "summary": "Open when looking up JavaScript APIs — FDF in Acrobat.", "keywords": ["JavaScript APIs — FDF"]},
+  {"topic": "JavaScript APIs - FDF", "file": "references/scripting/fdf/java-script-apis-fdf.md", "summary": "Open when looking up JavaScript APIs - FDF in Acrobat.", "keywords": ["JavaScript APIs - FDF"]},
   {"topic": "mail", "file": "references/scripting/fdf/mail.md", "summary": "Open when looking up mail in Acrobat.", "keywords": ["mail"]},
   {"topic": "numEmbeddedFiles", "file": "references/scripting/fdf/num-embedded-files.md", "summary": "Open when looking up numEmbeddedFiles in Acrobat.", "keywords": ["numEmbeddedFiles"]},
   {"topic": "save", "file": "references/scripting/fdf/save.md", "summary": "Open when looking up save in Acrobat.", "keywords": ["save"]},

@@ -1,4 +1,4 @@
-# Fixed issues in Adobe Audition version 25.3 — Fixed issues in Adobe Audition version 24.0
+# Fixed issues in Adobe Audition version 25.3 - Fixed issues in Adobe Audition version 24.0
 
 - Prevented added silence at the start and end of mp3 export output.
 - Fixed a post-recording state where a file stayed locked, blocking edits or app exit until force quit was used.

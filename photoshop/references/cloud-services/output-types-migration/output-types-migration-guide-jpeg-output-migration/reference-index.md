@@ -1,4 +1,4 @@
-# Photoshop — Output types migration guide jpeg output migration
+# Photoshop - Output types migration guide jpeg output migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Full JPEG request migration in Photoshop. [Full JPEG request migration](full-jpeg-request-migration.md).

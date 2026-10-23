@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
   {"topic": "PF_DoClickEventInfo", "file": "references/plugin-sdk/click/pf-do-click-event-info.md", "summary": "Open when looking up PF_DoClickEventInfo in After Effects.", "keywords": ["PF_DoClickEventInfo"]},
-  {"topic": "PF_EventUnion — Click", "file": "references/plugin-sdk/click/pf-event-union-click.md", "summary": "Open when looking up PF_EventUnion — Click in After Effects.", "keywords": ["PF_EventUnion — Click"]},
+  {"topic": "PF_EventUnion - Click", "file": "references/plugin-sdk/click/pf-event-union-click.md", "summary": "Open when looking up PF_EventUnion - Click in After Effects.", "keywords": ["PF_EventUnion - Click"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

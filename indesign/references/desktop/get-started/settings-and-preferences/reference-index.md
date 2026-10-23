@@ -1,4 +1,4 @@
-# InDesign — Settings and preferences
+# InDesign - Settings and preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust text display quality in InDesign. [Adjust text display quality](adjust-text-display-quality.md).

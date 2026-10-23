@@ -1,4 +1,4 @@
-# Audition — Basic multitrack controls
+# Audition - Basic multitrack controls
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add multiple tracks in Audition. [Add multiple tracks](add-multiple-tracks.md).

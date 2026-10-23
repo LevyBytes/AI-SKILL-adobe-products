@@ -1,4 +1,4 @@
-# InDesign — About object styles
+# InDesign - About object styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Control how styles affect objects in InDesign. [Control how styles affect objects](control-how-styles-affect-objects.md).

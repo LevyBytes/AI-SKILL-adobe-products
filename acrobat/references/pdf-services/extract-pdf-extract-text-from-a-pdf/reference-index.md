@@ -1,4 +1,4 @@
-# Acrobat — Extract PDF — Extract Text from a PDF
+# Acrobat - Extract PDF - Extract Text from a PDF
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET in Acrobat. [.NET](net.md).

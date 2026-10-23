@@ -1,4 +1,4 @@
-# Illustrator — CompoundPathItems
+# Illustrator - CompoundPathItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CompoundPathItems.add() in Illustrator. [CompoundPathItems.add()](add.md).

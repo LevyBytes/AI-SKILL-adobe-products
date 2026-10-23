@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Pixel aspect ratio and frame aspect ratio
+# Importing and interpreting footage items - Pixel aspect ratio and frame aspect ratio
 
 Width-to-height proportion of a single pixel in an image is what pixel aspect ratio (PAR) captures. The width-to-height proportion of the whole image frame is the frame aspect ratio—you may also hear it called image aspect ratio or IAR.
 

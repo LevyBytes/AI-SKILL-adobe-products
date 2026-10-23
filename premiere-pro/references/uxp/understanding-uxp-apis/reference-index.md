@@ -1,4 +1,4 @@
-# Premiere Pro — Understanding UXP APIs
+# Premiere Pro - Understanding UXP APIs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. In the UXP Developer Tool in Premiere Pro. [1. In the UXP Developer Tool](in-the-uxp-developer-tool.md).

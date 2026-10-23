@@ -1,4 +1,4 @@
-# XMPScript object reference — XMPUtils object
+# XMPScript object reference - XMPUtils object
 
 XMPUtils supplies static helpers for the XMP Toolkit on top of XMPMeta behavior. It exposes only static functions; instances are not created.
 

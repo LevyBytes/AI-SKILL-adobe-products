@@ -1,4 +1,4 @@
-# Premiere Pro — Plugin Manager
+# Premiere Pro - Plugin Manager
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up plugins ⇒ Set in Premiere Pro. [plugins ⇒ Set](plugins-set.md).

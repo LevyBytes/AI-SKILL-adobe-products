@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextVariableInstance
+# Shared Adobe platform - TextVariableInstance
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextVariableInstance declaration in Shared Adobe platform. [TextVariableInstance declaration](declaration.md).

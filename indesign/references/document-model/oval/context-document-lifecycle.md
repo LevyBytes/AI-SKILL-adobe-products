@@ -1,6 +1,6 @@
-# InDesign — Oval: create, open, save and recover documents
+# InDesign - Oval: create, open, save and recover documents
 
-Open when checking create, open, save and recover documents in InDesign — Oval.
+Open when checking create, open, save and recover documents in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-document-lifecycle.json).
 

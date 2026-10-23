@@ -1,4 +1,4 @@
-# Acrobat — Enhance PDFs with Adobe Express
+# Acrobat - Enhance PDFs with Adobe Express
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About cover pages in Acrobat in Acrobat. [About cover pages in Acrobat](about-cover-pages-in-acrobat.md).

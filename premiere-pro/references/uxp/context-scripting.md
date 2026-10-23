@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: script arguments, execution and results
+# Premiere Pro - UXP plugins and APIs: script arguments, execution and results
 
-Open when working with script arguments, execution and results in Premiere Pro — UXP plugins and APIs.
+Open when working with script arguments, execution and results in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-scripting.json).
 

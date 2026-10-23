@@ -1,4 +1,4 @@
-# After Effects — Command selectors table
+# After Effects - Command selectors table
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Frame Selectors in After Effects. [Frame Selectors](frame-selectors.md).

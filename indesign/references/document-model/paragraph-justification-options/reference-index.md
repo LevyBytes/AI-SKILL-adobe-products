@@ -1,4 +1,4 @@
-# InDesign — Paragraph justification options
+# InDesign - Paragraph justification options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ARABIC_JUSTIFICATION in InDesign. [ARABIC_JUSTIFICATION](arabicjustification.md).

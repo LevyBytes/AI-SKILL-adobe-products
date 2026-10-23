@@ -1,4 +1,4 @@
-# Photoshop — Headers
+# Photoshop - Headers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up append(name, value) in Photoshop. [append(name, value)](append.md).

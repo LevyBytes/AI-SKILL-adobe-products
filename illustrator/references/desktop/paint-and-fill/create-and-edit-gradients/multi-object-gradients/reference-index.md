@@ -1,4 +1,4 @@
-# Illustrator — Apply gradients across multiple objects
+# Illustrator - Apply gradients across multiple objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a Linear Gradient or a Radial Gradient for multiple objects in Illustrator. [Apply a Linear Gradient or a Radial Gradient for multiple objects](multi-object-linear-and-radial-gradients.md).

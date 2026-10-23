@@ -1,4 +1,4 @@
-# InDesign — App running slower than usual
+# InDesign - App running slower than usual
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupt fonts in InDesign. [Corrupt fonts](corrupt-fonts.md).

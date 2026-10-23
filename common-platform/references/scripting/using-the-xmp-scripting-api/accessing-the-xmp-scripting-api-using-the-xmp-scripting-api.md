@@ -1,4 +1,4 @@
-# Accessing the XMP scripting API — Using the XMP scripting API
+# Accessing the XMP scripting API - Using the XMP scripting API
 
 The XMPMeta object is the main access point for namespaces and properties in an XMP metadata packet. With it, scripts can create and remove namespaces and properties, inspect values, and change property values.
 

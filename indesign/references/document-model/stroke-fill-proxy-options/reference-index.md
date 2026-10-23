@@ -1,4 +1,4 @@
-# InDesign — StrokeFillProxyOptions
+# InDesign - StrokeFillProxyOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FILL in InDesign. [FILL](fill.md).

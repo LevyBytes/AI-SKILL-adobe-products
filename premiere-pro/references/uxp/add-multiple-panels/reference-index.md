@@ -1,4 +1,4 @@
-# Premiere Pro — Add Multiple Panels
+# Premiere Pro - Add Multiple Panels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Declare Multiple Entrypoints in Premiere Pro. [1. Declare Multiple Entrypoints](declare-multiple-entrypoints.md).

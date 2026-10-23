@@ -1,6 +1,6 @@
-# InDesign — CellStyle: cell and table border strokes
+# InDesign - CellStyle: cell and table border strokes
 
-Open when checking cell and table border strokes in InDesign — CellStyle.
+Open when checking cell and table border strokes in InDesign - CellStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-borders.json).
 

@@ -1,6 +1,6 @@
-# InDesign — List box: character spacing and geometry
+# InDesign - List box: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — List box.
+Open when checking character spacing and geometry in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

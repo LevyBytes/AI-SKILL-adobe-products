@@ -1,4 +1,4 @@
-# Shared Adobe platform — HTMLExportPreference
+# Shared Adobe platform - HTMLExportPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HTMLExportPreference declaration in Shared Adobe platform. [HTMLExportPreference declaration](declaration.md).

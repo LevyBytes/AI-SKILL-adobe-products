@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: perspective grid workflows
+# Illustrator - Scripting APIs: perspective grid workflows
 
-Open when working with perspective grid workflows in Illustrator — Scripting APIs.
+Open when working with perspective grid workflows in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-perspective-guidance.json).
 

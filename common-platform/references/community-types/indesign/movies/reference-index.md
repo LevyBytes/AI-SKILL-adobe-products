@@ -1,4 +1,4 @@
-# Shared Adobe platform — Movies
+# Shared Adobe platform - Movies
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Movies collection iteration in Shared Adobe platform. [Movies collection iteration](collection-iteration.md).

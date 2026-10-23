@@ -1,4 +1,4 @@
-# Premiere Pro — Ingest and Proxy workflow
+# Premiere Pro - Ingest and Proxy workflow
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ingest workflow in Premiere Pro. [Ingest workflow](ingest-workflow.md).

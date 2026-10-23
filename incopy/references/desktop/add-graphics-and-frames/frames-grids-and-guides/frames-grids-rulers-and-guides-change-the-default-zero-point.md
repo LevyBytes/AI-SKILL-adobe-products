@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Change the default zero point
+# Frames, grids, rulers, and guides - Change the default zero point
 
 The Origin setting in the Preferences dialog box sets the default ruler zero point and the horizontal ruler's scope. Scope controls whether measurement runs across a page, across the whole spread, or, in multipage spreads, from the spine center.
 

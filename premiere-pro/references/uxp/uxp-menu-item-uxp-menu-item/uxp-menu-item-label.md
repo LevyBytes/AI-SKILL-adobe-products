@@ -1,4 +1,4 @@
-# UxpMenuItem — label
+# UxpMenuItem - label
 
 Assign a new label to the menu item. The label refresh happens right away on an asynchronous path.
 

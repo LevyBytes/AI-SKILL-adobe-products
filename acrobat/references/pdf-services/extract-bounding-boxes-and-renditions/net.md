@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/extract-text-table-info-with-char-bounds-from-pdf/Program.cs)
+- [extract-text-table-info-with-char-bounds-from-pdf setup and source](../examples/dotnet/extract-text-table-info-with-char-bounds-from-pdf/extract-text-table-info-with-char-bounds-from-pdf-setup.md)

@@ -1,4 +1,4 @@
-# ScriptUI programming model — Window layout
+# ScriptUI programming model - Window layout
 
 After a script creates a Window and adds UI elements, the layout is the arrangement of element locations, sizes, and spacing. Each UI element has location, size, and bounds properties that define position and dimensions. These values begin undefined. When a script uses Automatic layout, it should leave them undefined on both the main window and contained elements so the automatic layout mechanism can assign them.
 

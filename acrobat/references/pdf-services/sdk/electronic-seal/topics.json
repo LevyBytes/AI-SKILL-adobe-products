@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Dotnet references", "file": "references/pdf-services/sdk/electronic-seal/dotnet/reference-index.md", "summary": "Open when looking up Dotnet in Acrobat.", "keywords": ["Dotnet references"]},
-  {"topic": "Getting Started — SDK", "file": "references/pdf-services/sdk/electronic-seal/setup-requirements.md", "summary": "Open when looking up Getting Started — SDK in Acrobat.", "keywords": ["Getting Started — SDK"]},
+  {"topic": "Getting Started - SDK", "file": "references/pdf-services/sdk/electronic-seal/setup-requirements.md", "summary": "Open when looking up Getting Started - SDK in Acrobat.", "keywords": ["Getting Started - SDK"]},
   {"topic": "Java references", "file": "references/pdf-services/sdk/electronic-seal/java/reference-index.md", "summary": "Open when looking up Java in Acrobat.", "keywords": ["Java references"]},
   {"topic": "Node references", "file": "references/pdf-services/sdk/electronic-seal/node/reference-index.md", "summary": "Open when looking up Node in Acrobat.", "keywords": ["Node references"]},
   {"topic": "Python references", "file": "references/pdf-services/sdk/electronic-seal/python/reference-index.md", "summary": "Open when looking up Python in Acrobat.", "keywords": ["Python references"]},

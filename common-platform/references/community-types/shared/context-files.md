@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: file and folder apis
+# Shared Adobe platform - Shared: file and folder apis
 
-Open when working with file and folder apis in Shared Adobe platform — Shared.
+Open when working with file and folder apis in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-files.json).
 

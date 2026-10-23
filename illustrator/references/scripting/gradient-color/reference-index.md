@@ -1,4 +1,4 @@
-# Illustrator — GradientColor
+# Illustrator - GradientColor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GradientColor.angle in Illustrator. [GradientColor.angle](angle.md).

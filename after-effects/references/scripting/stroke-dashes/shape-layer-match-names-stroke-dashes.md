@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Stroke Dashes
+# Shape Layer Match Names - Stroke Dashes
 
 | Match Name | Display Name (EN) |
 | --- | --- |

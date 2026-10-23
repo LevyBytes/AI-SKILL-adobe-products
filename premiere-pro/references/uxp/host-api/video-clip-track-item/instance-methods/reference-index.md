@@ -1,4 +1,4 @@
-# Premiere Pro — Instance methods
+# Premiere Pro - Instance methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up createAddVideoTransitionAction in Premiere Pro. [createAddVideoTransitionAction](create-add-video-transition-action.md).

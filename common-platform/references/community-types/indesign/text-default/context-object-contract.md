@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: object identity and lifecycle
+# Shared Adobe platform - TextDefault: object identity and lifecycle
 
-Open when checking object identity and lifecycle in Shared Adobe platform — TextDefault.
+Open when checking object identity and lifecycle in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

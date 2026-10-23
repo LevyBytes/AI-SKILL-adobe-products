@@ -1,4 +1,4 @@
-# Firefly — Best Practices for Adobe Firefly API
+# Firefly - Best Practices for Adobe Firefly API
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up API Requests in Firefly. [API Requests](api-requests.md).

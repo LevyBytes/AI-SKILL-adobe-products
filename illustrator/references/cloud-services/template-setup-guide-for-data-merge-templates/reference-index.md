@@ -1,4 +1,4 @@
-# Illustrator — Template setup guide for Data Merge templates
+# Illustrator - Template setup guide for Data Merge templates
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit dynamic objects in Illustrator. [Edit dynamic objects](edit-dynamic-objects.md).

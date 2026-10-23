@@ -1,4 +1,4 @@
-# Shared Adobe platform — Tables
+# Shared Adobe platform - Tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Tables collection iteration in Shared Adobe platform. [Tables collection iteration](collection-iteration.md).

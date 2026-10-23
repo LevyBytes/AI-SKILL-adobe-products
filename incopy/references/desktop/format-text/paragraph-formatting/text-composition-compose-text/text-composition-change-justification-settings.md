@@ -1,4 +1,4 @@
-# Text composition — Change Justification settings
+# Text composition - Change Justification settings
 
 Use the Justification panel when you need exact control over word spacing, letterspacing, and glyph scaling. Spacing adjustments are especially helpful for justified type, but they can be applied to unjustified type as well.
 

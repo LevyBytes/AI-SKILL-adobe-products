@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: data sets, variables and metadata
+# Shared Adobe platform - Document: data sets, variables and metadata
 
-Open when working with data sets, variables and metadata in Shared Adobe platform — Document.
+Open when working with data sets, variables and metadata in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-variables-metadata.json).
 

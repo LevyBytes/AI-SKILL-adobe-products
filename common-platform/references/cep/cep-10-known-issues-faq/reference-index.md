@@ -1,4 +1,4 @@
-# Shared Adobe platform — Cep 10 known issues faq
+# Shared Adobe platform - Cep 10 known issues faq
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CEP 10 Windows file-size limit for cep.fs.stat in Shared Adobe platform. [CEP 10 Windows file-size limit for cep.fs.stat](windows-large-file-stat.md).

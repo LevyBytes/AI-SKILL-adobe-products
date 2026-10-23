@@ -1,6 +1,6 @@
-# InDesign — Text column: read and edit text
+# InDesign - Text column: read and edit text
 
-Open when checking read and edit text in InDesign — Text column.
+Open when checking read and edit text in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

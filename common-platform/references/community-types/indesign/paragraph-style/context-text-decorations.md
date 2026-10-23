@@ -1,6 +1,6 @@
-# Shared Adobe platform — ParagraphStyle: underline and strike-through
+# Shared Adobe platform - ParagraphStyle: underline and strike-through
 
-Open when checking underline and strike-through in Shared Adobe platform — ParagraphStyle.
+Open when checking underline and strike-through in Shared Adobe platform - ParagraphStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

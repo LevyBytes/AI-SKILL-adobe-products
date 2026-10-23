@@ -1,4 +1,4 @@
-# Localizing ExtendScript strings — Variable values in localized strings
+# Localizing ExtendScript strings - Variable values in localized strings
 
 Certain localized strings must carry extra values whose placement can differ from one language to another.
 

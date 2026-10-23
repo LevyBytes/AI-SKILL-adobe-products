@@ -1,4 +1,4 @@
-# Photoshop — Text on paths and shapes
+# Photoshop - Text on paths and shapes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add drop shadows to text in Photoshop. [Add drop shadows to text](add-drop-shadows-to-text.md).

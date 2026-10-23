@@ -1,6 +1,6 @@
-# InDesign — Sound: placement, bounds and transformations
+# InDesign - Sound: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Sound.
+Open when checking placement, bounds and transformations in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

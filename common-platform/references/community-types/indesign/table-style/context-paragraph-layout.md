@@ -1,6 +1,6 @@
-# Shared Adobe platform — TableStyle: paragraph alignment and spacing
+# Shared Adobe platform - TableStyle: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in Shared Adobe platform — TableStyle.
+Open when checking paragraph alignment and spacing in Shared Adobe platform - TableStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — HeaderTypes
+# Shared Adobe platform - HeaderTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HeaderTypes declaration in Shared Adobe platform. [HeaderTypes declaration](declaration.md).

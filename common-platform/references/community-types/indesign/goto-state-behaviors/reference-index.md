@@ -1,4 +1,4 @@
-# Shared Adobe platform — GotoStateBehaviors
+# Shared Adobe platform - GotoStateBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GotoStateBehaviors collection iteration in Shared Adobe platform. [GotoStateBehaviors collection iteration](collection-iteration.md).

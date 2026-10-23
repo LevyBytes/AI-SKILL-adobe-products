@@ -1,4 +1,4 @@
-# InDesign — PDFRasterCompressionOptions
+# InDesign - PDFRasterCompressionOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AUTOMATIC_COMPRESSION in InDesign. [AUTOMATIC_COMPRESSION](automaticcompression.md).

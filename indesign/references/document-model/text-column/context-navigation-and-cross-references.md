@@ -1,6 +1,6 @@
-# InDesign — Text column: hyperlinks, indexes and cross-references
+# InDesign - Text column: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — Text column.
+Open when checking hyperlinks, indexes and cross-references in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

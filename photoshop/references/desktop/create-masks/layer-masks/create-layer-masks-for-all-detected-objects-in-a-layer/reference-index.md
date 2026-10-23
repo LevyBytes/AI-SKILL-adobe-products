@@ -1,4 +1,4 @@
-# Photoshop — Create layer masks for all detected objects in a layer
+# Photoshop - Create layer masks for all detected objects in a layer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add an adjustment or filter to a masked object in Photoshop. [Add an adjustment or filter to a masked object](add-an-adjustment-or-filter-to-a-masked-object.md).

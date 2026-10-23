@@ -1,4 +1,4 @@
-# After Effects — Effect capabilities
+# After Effects - Effect capabilities
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Channel effect capabilities in After Effects. [3D Channel effect capabilities](3d-channel.md).

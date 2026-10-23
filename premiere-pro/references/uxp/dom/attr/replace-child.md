@@ -1,4 +1,4 @@
-# window.Attr — replaceChild(newChild, oldChild)
+# window.Attr - replaceChild(newChild, oldChild)
 
 **Returns**: `Node`
 

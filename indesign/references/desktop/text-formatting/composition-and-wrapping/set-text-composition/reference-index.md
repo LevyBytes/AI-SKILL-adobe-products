@@ -1,4 +1,4 @@
-# InDesign — Set text composition
+# InDesign - Set text composition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Paragraph Composer in InDesign. [Adobe Paragraph Composer](adobe-paragraph-composer.md).

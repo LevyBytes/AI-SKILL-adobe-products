@@ -1,6 +1,6 @@
-# InDesign — Row: find, replace and transliterate
+# InDesign - Row: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Row.
+Open when checking find, replace and transliterate in InDesign - Row.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

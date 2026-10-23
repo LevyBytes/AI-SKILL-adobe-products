@@ -1,4 +1,4 @@
-# Acrobat — Manage comment preferences
+# Acrobat - Manage comment preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change author name on comments in Acrobat. [Change author name on comments](change-author-name-on-comments.md).

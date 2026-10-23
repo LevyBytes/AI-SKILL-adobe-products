@@ -1,4 +1,4 @@
-# Printing stories — Print the Layout view
+# Printing stories - Print the Layout view
 
 When InCopy prints the Layout view, the printed document matches the on-screen appearance, keeping frames and every other page element in place.
 

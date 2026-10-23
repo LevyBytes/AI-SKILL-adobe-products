@@ -1,4 +1,4 @@
-# Premiere Pro — Importing digital audio
+# Premiere Pro - Importing digital audio
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio conforming behavior in Premiere Pro. [Audio conforming behavior](audio-conforming-behavior.md).

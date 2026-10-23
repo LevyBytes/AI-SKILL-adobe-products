@@ -1,4 +1,4 @@
-# Illustrator — Import brushes
+# Illustrator - Import brushes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add brushes from the Brush Libraries in Illustrator. [Add brushes from the Brush Libraries](add-brushes-from-the-brush-libraries.md).

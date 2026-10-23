@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: display scaling, fonts and localization
+# Shared Adobe platform - Cep 12: display scaling, fonts and localization
 
-Open when working with display scaling, fonts and localization in Shared Adobe platform — Cep 12.
+Open when working with display scaling, fonts and localization in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-display-localization.json).
 

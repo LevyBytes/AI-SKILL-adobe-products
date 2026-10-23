@@ -1,4 +1,4 @@
-# Basic Host Differences — Parameter UI
+# Basic Host Differences - Parameter UI
 
 Premiere Pro does not honor `PF_ParamFlag_START_COLLAPSED`. Parameters always initialize with their twirlies collapsed, and parameter supervision cannot automatically twirl them open.
 

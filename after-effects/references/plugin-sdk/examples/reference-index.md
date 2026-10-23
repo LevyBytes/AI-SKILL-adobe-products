@@ -1,5 +1,4 @@
-# After Effects — Examples
+# After Effects - Examples
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up compute-cache-key.hpp in After Effects. [compute-cache-key.hpp](compute-cache-key.hpp).
-- Open when looking up compute-cache-pair.hpp in After Effects. [compute-cache-pair.hpp](compute-cache-pair.hpp).

@@ -1,4 +1,4 @@
-# Media Encoder — About video and audio encoding and compression
+# Media Encoder - About video and audio encoding and compression
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bitrate in Media Encoder. [Bitrate](bitrate.md).

@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/delete-pdf-pages/Program.cs)
+- [delete-pdf-pages setup and source](../examples/dotnet/delete-pdf-pages/delete-pdf-pages-setup.md)

@@ -1,4 +1,4 @@
-# InDesign — IndexFormat
+# InDesign - IndexFormat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NESTED_FORMAT in InDesign. [NESTED_FORMAT](nestedformat.md).

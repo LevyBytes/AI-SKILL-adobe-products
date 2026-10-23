@@ -1,4 +1,4 @@
-# Accessing and referencing objects — Obtaining objects from collections
+# Accessing and referencing objects - Obtaining objects from collections
 
 In most cases, a script gets a reference to a particular object by moving through the containment hierarchy. This example stores a reference to the first PathItem in the active document's second layer in the myPath variable:
 

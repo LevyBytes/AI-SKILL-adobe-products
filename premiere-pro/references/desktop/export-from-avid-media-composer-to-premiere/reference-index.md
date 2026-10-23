@@ -1,4 +1,4 @@
-# Premiere Pro — Export from avid media composer to premiere
+# Premiere Pro - Export from avid media composer to premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Migrating from Avid Media Composer in Premiere Pro. [Migrating from Avid Media Composer](migrating-from-avid-media-composer.md).

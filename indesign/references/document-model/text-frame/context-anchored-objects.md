@@ -1,6 +1,6 @@
-# InDesign — TextFrame: anchored object placement
+# InDesign - TextFrame: anchored object placement
 
-Open when checking anchored object placement in InDesign — TextFrame.
+Open when checking anchored object placement in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

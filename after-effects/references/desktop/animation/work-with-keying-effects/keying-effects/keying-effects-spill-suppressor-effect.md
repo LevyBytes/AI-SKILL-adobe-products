@@ -1,4 +1,4 @@
-# Keying effects — Spill Suppressor effect
+# Keying effects - Spill Suppressor effect
 
 Note
 

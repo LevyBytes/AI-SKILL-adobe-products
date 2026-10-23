@@ -27,5 +27,5 @@
 
 **For the full behavior reference:**
 
-- `v2-whats-new.md` — covers new V2 capabilities, including artboard metadata, smart object extraction, UXP scripts, hosted/embedded storage, ICC profiles, granular protection, scriptOutputPattern, and multiple outputs
-- `v2-api-catalog.md` — provides endpoint-by-endpoint behavior comparison tables plus a breaking changes checklist for all endpoints
+- `v2-whats-new.md`: covers new V2 capabilities, including artboard metadata, smart object extraction, UXP scripts, hosted/embedded storage, ICC profiles, granular protection, scriptOutputPattern, and multiple outputs
+- `v2-api-catalog.md`: provides endpoint-by-endpoint behavior comparison tables plus a breaking changes checklist for all endpoints

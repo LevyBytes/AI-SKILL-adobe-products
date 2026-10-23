@@ -1,4 +1,4 @@
-# Text composition — Set glyph scaling in justified text
+# Text composition - Set glyph scaling in justified text
 
 Place an insertion point in a paragraph, or select the paragraphs that need the adjustment. From the Paragraph panel menu, choose Justification. Fill in Glyph Scaling Minimum, Desired, and Maximum, then confirm with OK. Before (top) and after (bottom) glyph scaling in justified text
 

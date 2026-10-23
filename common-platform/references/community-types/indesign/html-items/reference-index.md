@@ -1,4 +1,4 @@
-# Shared Adobe platform — HtmlItems
+# Shared Adobe platform - HtmlItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HtmlItems collection iteration in Shared Adobe platform. [HtmlItems collection iteration](collection-iteration.md).

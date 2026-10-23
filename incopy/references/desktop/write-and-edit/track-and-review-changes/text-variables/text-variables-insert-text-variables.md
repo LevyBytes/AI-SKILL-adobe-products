@@ -1,4 +1,4 @@
-# Text variables — Insert text variables
+# Text variables - Insert text variables
 
 Put the insertion point at the location where the variable should be inserted.
 

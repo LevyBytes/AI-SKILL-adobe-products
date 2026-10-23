@@ -1,4 +1,4 @@
-# Acrobat — Seed value
+# Acrobat - Seed value
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SeedValue.appearanceFilter in Acrobat. [SeedValue.appearanceFilter](appearance-filter.md).

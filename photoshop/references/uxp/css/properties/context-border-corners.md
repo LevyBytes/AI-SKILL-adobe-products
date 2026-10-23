@@ -1,6 +1,6 @@
-# Photoshop — Properties: rounded border corners
+# Photoshop - Properties: rounded border corners
 
-Open when working with rounded border corners in Photoshop — Properties.
+Open when working with rounded border corners in Photoshop - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-border-corners.json).
 

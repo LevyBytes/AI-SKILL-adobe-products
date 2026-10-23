@@ -1,4 +1,4 @@
-# window.Text — Text(document, textContent)
+# window.Text - Text(document, textContent)
 
 Constructs a `Text` instance.
 

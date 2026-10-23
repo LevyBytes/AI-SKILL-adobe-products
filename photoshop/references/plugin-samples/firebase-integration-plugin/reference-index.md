@@ -1,4 +1,4 @@
-# Photoshop — Firebase Integration Plugin
+# Photoshop - Firebase Integration Plugin
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Build Process in Photoshop. [Build Process](build-process.md).

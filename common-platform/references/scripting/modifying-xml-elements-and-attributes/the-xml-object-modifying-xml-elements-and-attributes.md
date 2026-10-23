@@ -1,4 +1,4 @@
-# The XML Object — Modifying XML elements and attributes
+# The XML Object - Modifying XML elements and attributes
 
 Assigning a value to the matching property changes an element.
 

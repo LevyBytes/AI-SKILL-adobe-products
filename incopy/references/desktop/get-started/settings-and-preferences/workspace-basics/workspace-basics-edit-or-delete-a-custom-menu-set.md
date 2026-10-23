@@ -1,4 +1,4 @@
-# Workspace basics — Edit or delete a custom menu set
+# Workspace basics - Edit or delete a custom menu set
 
 Choose Edit > Menus. In the Set menu, choose the menu set, and then perform one of these actions:
 

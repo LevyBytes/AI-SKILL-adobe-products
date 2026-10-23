@@ -1,4 +1,4 @@
-# Premiere Pro — Crash issues
+# Premiere Pro - Crash issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Premiere hangs on launch on macOS in Premiere Pro. [Adobe Premiere hangs on launch on macOS](adobe-premiere-hangs-on-launch-on-mac-os.md).

@@ -1,6 +1,6 @@
-# InDesign — Application: place and link external assets
+# InDesign - Application: place and link external assets
 
-Open when checking place and link external assets in InDesign — Application.
+Open when checking place and link external assets in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

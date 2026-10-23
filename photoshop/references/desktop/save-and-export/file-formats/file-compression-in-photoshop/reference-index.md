@@ -1,4 +1,4 @@
-# Photoshop — File compression in Photoshop
+# Photoshop - File compression in Photoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Compression formats in Photoshop in Photoshop. [Compression formats in Photoshop](compression-formats-in-photoshop.md).

@@ -1,4 +1,4 @@
-# Illustrator — Maintain proportions while scaling symbols
+# Illustrator - Maintain proportions while scaling symbols
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust the 9-slice scaling guides in Illustrator. [Adjust the 9-slice scaling guides](adjust-the-9-slice-scaling-guides.md).

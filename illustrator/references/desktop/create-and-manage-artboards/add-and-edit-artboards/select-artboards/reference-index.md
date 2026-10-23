@@ -1,4 +1,4 @@
-# Illustrator — Select artboards
+# Illustrator - Select artboards
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up To select all the artboards in Illustrator. [To select all the artboards](to-select-all-the-artboards.md).

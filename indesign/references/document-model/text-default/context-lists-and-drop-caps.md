@@ -1,6 +1,6 @@
-# InDesign — Text default: lists, numbering and drop caps
+# InDesign - Text default: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in InDesign — Text default.
+Open when checking lists, numbering and drop caps in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

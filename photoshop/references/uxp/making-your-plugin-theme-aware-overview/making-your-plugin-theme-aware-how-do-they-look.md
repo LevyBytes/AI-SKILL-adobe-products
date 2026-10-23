@@ -1,4 +1,4 @@
-# Making your Plugin Theme-aware — How Do They Look?
+# Making your Plugin Theme-aware - How Do They Look?
 
 A basic HTML file that uses these CSS variables will render in Photoshop like the examples below.
 

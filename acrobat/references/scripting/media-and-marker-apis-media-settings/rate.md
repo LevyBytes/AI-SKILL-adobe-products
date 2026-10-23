@@ -8,7 +8,7 @@ Sets how fast playback runs as a number. At the default of 1, the clip runs at n
 
 The rate values on offer are capped for many players and media types, which fall back to whichever supported playback rate sits nearest.
 
-Example — run a clip at twice its normal speed; fire this from a Rendition action.
+Example: run a clip at twice its normal speed; fire this from a Rendition action.
 
 ```javascript
 var player = app.media.createPlayer();

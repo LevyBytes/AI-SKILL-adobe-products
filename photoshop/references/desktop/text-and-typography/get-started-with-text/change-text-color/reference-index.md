@@ -1,4 +1,4 @@
-# Photoshop — Change text color
+# Photoshop - Change text color
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the color of selected text within a text layer in Photoshop. [Change the color of selected text within a text layer](change-the-color-of-selected-text-within-a-text-layer.md).

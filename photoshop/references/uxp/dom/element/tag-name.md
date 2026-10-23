@@ -1,4 +1,4 @@
-# window.Element — tagName : `string`
+# window.Element - tagName : `string`
 
 **Read only**
 This string identifies the tag name for the element.

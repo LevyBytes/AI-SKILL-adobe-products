@@ -1,4 +1,4 @@
-# Acrobat — Mobile workflows
+# Acrobat - Mobile workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create PDF Spaces on mobile in Acrobat. [Create PDF Spaces on mobile](create-pdf-spaces-on-mobile.md).

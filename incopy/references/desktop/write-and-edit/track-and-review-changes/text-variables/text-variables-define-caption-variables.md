@@ -1,4 +1,4 @@
-# Text variables — Define caption variables
+# Text variables - Define caption variables
 
 When a caption-variable text frame is moved beside an image, the caption variable refreshes automatically. Choosing Type > Text Variables > Insert Variable > Image Name uses Name metadata as the default variable type. You may revise the Image Name variable or make additional variables that reference image metadata.
 

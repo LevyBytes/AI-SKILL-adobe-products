@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: photoshop actions, descriptors and notifications
+# Photoshop - UXP plugins and APIs: photoshop actions, descriptors and notifications
 
-Open when working with photoshop actions, descriptors and notifications in Photoshop — UXP plugins and APIs.
+Open when working with photoshop actions, descriptors and notifications in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-photoshop-actions.json).
 

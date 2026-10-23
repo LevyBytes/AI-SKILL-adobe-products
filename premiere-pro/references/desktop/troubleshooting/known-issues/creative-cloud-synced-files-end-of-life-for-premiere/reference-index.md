@@ -1,4 +1,4 @@
-# Premiere Pro — Creative Cloud Synced files End of life for Premiere
+# Premiere Pro - Creative Cloud Synced files End of life for Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Autosave Backup to Creative Cloud in Premiere Pro. [Autosave Backup to Creative Cloud](autosave-backup-to-creative-cloud.md).

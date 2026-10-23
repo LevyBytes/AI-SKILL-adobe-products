@@ -1,4 +1,4 @@
-# UxpPanelInfo — minimumSize ⇒ `Object`
+# UxpPanelInfo - minimumSize ⇒ `Object`
 
 **Read only**
 Retrieve the panel minimum size.

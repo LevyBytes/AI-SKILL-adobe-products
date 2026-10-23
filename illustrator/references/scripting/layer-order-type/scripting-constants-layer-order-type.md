@@ -1,4 +1,4 @@
-# Scripting Constants — LayerOrderType
+# Scripting Constants - LayerOrderType
 
 | Value | Description |
 | --- | --- |

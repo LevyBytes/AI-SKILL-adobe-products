@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Extract text table info from pdf example setup", "file": "references/pdf-services/examples/dotnet/extract-text-table-info-from-pdf/extract-text-table-info-from-pdf-setup.md", "summary": "Open when looking up Extract text table info from pdf example setup in Acrobat.", "keywords": ["Extract text table info from pdf example setup"]},
-  {"topic": "ExtractTextTableInfoFromPDF", "file": "references/pdf-services/examples/dotnet/extract-text-table-info-from-pdf/Program.cs", "summary": "Open when looking up ExtractTextTableInfoFromPDF in Acrobat.", "keywords": ["ExtractTextTableInfoFromPDF"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

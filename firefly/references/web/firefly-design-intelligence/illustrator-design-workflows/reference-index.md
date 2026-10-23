@@ -1,4 +1,4 @@
-# Firefly — Firefly Design Intelligence for Illustator
+# Firefly - Firefly Design Intelligence for Illustator
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assign channels to layouts in Firefly. [Assign channels to layouts](assign-channels-to-layouts.md).

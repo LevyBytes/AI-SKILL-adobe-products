@@ -1,4 +1,4 @@
-# Audition — Import and playback
+# Audition - Import and playback
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create, open, or import files in Adobe Audition in Audition. [Create, open, or import files in Adobe Audition](create-open-or-import-files-in-adobe-audition.md).

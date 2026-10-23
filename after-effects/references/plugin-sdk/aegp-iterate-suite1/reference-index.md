@@ -1,4 +1,4 @@
-# After Effects — AEGP_IterateSuite1
+# After Effects - AEGP_IterateSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_GetNumThreads in After Effects. [AEGP_GetNumThreads](aegp-get-num-threads.md).

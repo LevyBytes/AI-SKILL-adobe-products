@@ -1,4 +1,4 @@
-# After Effects — Examples Resources Text Animation
+# After Effects - Examples Resources Text Animation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Do more with After Effects in After Effects. [Do more with After Effects](do-more-with-after-effects.md).

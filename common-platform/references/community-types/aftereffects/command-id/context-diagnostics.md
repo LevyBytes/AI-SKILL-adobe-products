@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: find missing dependencies and external editing
+# Shared Adobe platform - _CommandID: find missing dependencies and external editing
 
-Open when working with find missing dependencies and external editing in Shared Adobe platform — _CommandID.
+Open when working with find missing dependencies and external editing in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-diagnostics.json).
 

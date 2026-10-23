@@ -1,4 +1,4 @@
-# Acrobat — Manage link destinations
+# Acrobat - Manage link destinations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new link destination in Acrobat. [Create a new link destination](create-a-new-link-destination.md).

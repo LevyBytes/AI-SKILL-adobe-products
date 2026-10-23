@@ -1,4 +1,4 @@
-# Premiere Pro — Using the Shell API
+# Premiere Pro - Using the Shell API
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Example: Launch Application with URL Scheme in Premiere Pro. [Example: Launch Application with URL Scheme](example-launch-application-with-url-scheme.md).

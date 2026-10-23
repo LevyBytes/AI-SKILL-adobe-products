@@ -1,4 +1,4 @@
-# Shared Adobe platform — FLfileClass
+# Shared Adobe platform - FLfileClass
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FLfileClass declaration in Shared Adobe platform. [FLfileClass declaration](declaration.md).

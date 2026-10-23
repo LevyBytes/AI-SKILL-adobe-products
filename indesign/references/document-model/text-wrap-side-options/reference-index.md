@@ -1,4 +1,4 @@
-# InDesign — TextWrapSideOptions
+# InDesign - TextWrapSideOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOTH_SIDES in InDesign. [BOTH_SIDES](bothsides.md).

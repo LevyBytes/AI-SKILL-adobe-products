@@ -1,4 +1,4 @@
-# InDesign — Use cross-reference formats
+# InDesign - Use cross-reference formats
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply character styles within cross-references in InDesign. [Apply character styles within cross-references](apply-character-styles-within-cross-references.md).

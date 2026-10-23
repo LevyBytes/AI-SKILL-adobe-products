@@ -1,4 +1,4 @@
-# Beta APIs (preview of upcoming surface) — Frequently asked questions
+# Beta APIs (preview of upcoming surface) - Frequently asked questions
 
 <details>
 <summary>**Premiere Pro does not show my plugin.**</summary>

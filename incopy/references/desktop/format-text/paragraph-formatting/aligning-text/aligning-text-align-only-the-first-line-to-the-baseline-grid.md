@@ -1,4 +1,4 @@
-# Aligning text — Align only the first line to the baseline grid
+# Aligning text - Align only the first line to the baseline grid
 
 Select the paragraphs to align. From the Paragraph menu or Control panel menu, choose Only Align First Line to Grid. In the Paragraph panel or Control panel, click Align to Baseline Grid. From Grid Alignment in the Paragraph panel or Control panel menu, choose any option except None.
 

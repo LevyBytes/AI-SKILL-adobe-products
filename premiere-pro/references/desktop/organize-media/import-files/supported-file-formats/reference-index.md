@@ -1,4 +1,4 @@
-# Premiere Pro — Supported file formats
+# Premiere Pro - Supported file formats
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ARRI ALEXA 35 in Premiere Pro. [ARRI ALEXA 35](arri-alexa-35.md).

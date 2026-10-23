@@ -1,6 +1,6 @@
-# InDesign — EPS: output color, screening and overprint
+# InDesign - EPS: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — EPS.
+Open when checking output color, screening and overprint in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

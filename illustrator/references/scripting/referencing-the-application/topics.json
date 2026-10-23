@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Accessing and referencing objects — Referencing the application object", "file": "references/scripting/referencing-the-application/referencing-the-application-object.md", "summary": "Open when looking up Accessing and referencing objects — Referencing the application object in Illustrator.", "keywords": ["Accessing and referencing objects — Referencing the application object"]},
+  {"topic": "Accessing and referencing objects - Referencing the application object", "file": "references/scripting/referencing-the-application/referencing-the-application-object.md", "summary": "Open when looking up Accessing and referencing objects - Referencing the application object in Illustrator.", "keywords": ["Accessing and referencing objects - Referencing the application object"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

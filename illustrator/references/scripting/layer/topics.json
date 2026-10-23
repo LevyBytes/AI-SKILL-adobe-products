@@ -32,6 +32,6 @@
   {"topic": "Layer.visible", "file": "references/scripting/layer/visible.md", "summary": "Open when looking up Layer.visible in Illustrator.", "keywords": ["Layer.visible"]},
   {"topic": "Layer.zOrder()", "file": "references/scripting/layer/z-order.md", "summary": "Open when looking up Layer.zOrder() in Illustrator.", "keywords": ["Layer.zOrder()"]},
   {"topic": "Layer.zOrderPosition", "file": "references/scripting/layer/z-order-position.md", "summary": "Open when looking up Layer.zOrderPosition in Illustrator.", "keywords": ["Layer.zOrderPosition"]},
-  {"topic": "Top-Level (containing) Objects — Layer", "file": "references/scripting/layer/top-level-containing-objects-layer.md", "summary": "Open when looking up Top-Level (containing) Objects — Layer in Illustrator.", "keywords": ["Top-Level (containing) Objects — Layer"]},
+  {"topic": "Top-Level (containing) Objects - Layer", "file": "references/scripting/layer/top-level-containing-objects-layer.md", "summary": "Open when looking up Top-Level (containing) Objects - Layer in Illustrator.", "keywords": ["Top-Level (containing) Objects - Layer"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

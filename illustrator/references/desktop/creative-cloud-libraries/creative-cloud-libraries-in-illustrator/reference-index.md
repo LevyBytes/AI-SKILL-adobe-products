@@ -1,4 +1,4 @@
-# Illustrator — Creative Cloud Libraries in Illustrator
+# Illustrator - Creative Cloud Libraries in Illustrator
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Creative Cloud Libraries in Illustrator. [About Creative Cloud Libraries](about-creative-cloud-libraries.md).

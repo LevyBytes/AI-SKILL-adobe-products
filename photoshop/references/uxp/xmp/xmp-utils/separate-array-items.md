@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — separateArrayItems(xmpObj, schemaNS, arrayName, [arrayOptions], concatString)
+# require('uxp').xmp.XMPUtils - separateArrayItems(xmpObj, schemaNS, arrayName, [arrayOptions], concatString)
 
 Parses the concatenated string returned by catenateArrayItems() and writes the resulting array item strings into the [XMPMeta object](../xmp-meta/reference-index.md).
 It recognizes many separator characters, including semicolons, commas, tab, return, linefeed, and repeated spaces.

@@ -1,4 +1,4 @@
-# Photoshop — Work with backdrops
+# Photoshop - Work with backdrops
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Backdrop options in Liquify in Photoshop. [Backdrop options in Liquify](backdrop-options-in-liquify.md).

@@ -1,4 +1,4 @@
-# InDesign — Format text in tables
+# InDesign - Format text in tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change cell inset spacing for graphic cells in InDesign. [Change cell inset spacing for graphic cells](change-cell-inset-spacing-for-graphic-cells.md).

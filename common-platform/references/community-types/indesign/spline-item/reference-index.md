@@ -1,4 +1,4 @@
-# Shared Adobe platform — SplineItem
+# Shared Adobe platform - SplineItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SplineItem declaration in Shared Adobe platform. [SplineItem declaration](declaration.md).

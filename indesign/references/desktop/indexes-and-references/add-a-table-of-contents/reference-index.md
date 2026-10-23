@@ -1,4 +1,4 @@
-# InDesign — Add a Table of Contents
+# InDesign - Add a Table of Contents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add interactivity to a table of contents in InDesign. [Add interactivity to a table of contents](add-interactivity-to-a-table-of-contents.md).

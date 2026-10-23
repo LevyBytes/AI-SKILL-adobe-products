@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: shared api values and sorting
+# InDesign - InDesign document object model: shared api values and sorting
 
-Open when working with shared api values and sorting in InDesign — InDesign document object model.
+Open when working with shared api values and sorting in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-api-values.json).
 

@@ -1,4 +1,4 @@
-# Editing text — Apply conditions to text
+# Editing text - Apply conditions to text
 
 The same text can have more than one condition applied. By default, condition indicators mark conditional text. If indicators are hidden, the Conditional Text panel can still show which conditions apply at the current selection. A solid check mark means the condition applies to the current text; a dim check mark means the condition applies to only part of the selection.
 

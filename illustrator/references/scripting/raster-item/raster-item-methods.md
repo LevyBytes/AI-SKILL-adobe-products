@@ -1,4 +1,4 @@
-# RasterItem — Methods
+# RasterItem - Methods
 
 | Parameter | Type | Description |
 | --- | --- | --- |

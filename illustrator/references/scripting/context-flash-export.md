@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: flash export, playback and layer ordering
+# Illustrator - Scripting APIs: flash export, playback and layer ordering
 
-Open when working with flash export, playback and layer ordering in Illustrator — Scripting APIs.
+Open when working with flash export, playback and layer ordering in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-flash-export.json).
 

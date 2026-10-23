@@ -1,6 +1,6 @@
-# Illustrator — Document: default fill and stroke settings
+# Illustrator - Document: default fill and stroke settings
 
-Open when working with default fill and stroke settings in Illustrator — Document.
+Open when working with default fill and stroke settings in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-default-paint.json).
 

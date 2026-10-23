@@ -1,4 +1,4 @@
-# Scripting Constants — ArtClippingOption
+# Scripting Constants - ArtClippingOption
 
 ArtClippingOption controls how artwork is clipped at output time.
 

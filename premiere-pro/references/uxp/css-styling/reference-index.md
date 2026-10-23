@@ -1,4 +1,4 @@
-# Premiere Pro — CSS Styling
+# Premiere Pro - CSS Styling
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CSS Preprocessors in Premiere Pro. [CSS Preprocessors](css-preprocessors.md).

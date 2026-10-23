@@ -1,4 +1,4 @@
-# Debugging in the Toolkit — Setting breakpoints
+# Debugging in the Toolkit - Setting breakpoints
 
 During debugging, pausing on chosen lines helps with inspecting environment state, checking function-call nesting, and confirming variable contents.
 

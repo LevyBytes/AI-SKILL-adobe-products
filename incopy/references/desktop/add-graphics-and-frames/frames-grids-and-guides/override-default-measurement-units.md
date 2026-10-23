@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Override default measurement units
+# Frames, grids, rulers, and guides - Override default measurement units
 
 A unit of measurement can be entered that differs from the default.
 

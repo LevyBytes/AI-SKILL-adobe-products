@@ -1,4 +1,4 @@
-# InDesign — BehaviorEvents
+# InDesign - BehaviorEvents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MOUSE_DOWN in InDesign. [MOUSE_DOWN](mousedown.md).

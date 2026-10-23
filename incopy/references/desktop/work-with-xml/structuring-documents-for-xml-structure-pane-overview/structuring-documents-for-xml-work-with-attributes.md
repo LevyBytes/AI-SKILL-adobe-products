@@ -1,4 +1,4 @@
-# Structuring documents for XML — Work with attributes
+# Structuring documents for XML - Work with attributes
 
 Attributes add information to XML elements. Each one has both a name and a value. In the Structure pane, attributes are visible, but they are not placed into the document and do not become document content. Add attributes to elements when downstream files or applications need that data from XML files created in InCopy .
 

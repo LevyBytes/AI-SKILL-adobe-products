@@ -1,4 +1,4 @@
-# InDesign — TaskState
+# InDesign - TaskState
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CANCELLED in InDesign. [CANCELLED](cancelled.md).

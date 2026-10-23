@@ -1,6 +1,6 @@
-# Shared Adobe platform — PDFExportPreference: pdf image compression and sampling
+# Shared Adobe platform - PDFExportPreference: pdf image compression and sampling
 
-Open when checking pdf image compression and sampling in Shared Adobe platform — PDFExportPreference.
+Open when checking pdf image compression and sampling in Shared Adobe platform - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-pdf-compression.json).
 

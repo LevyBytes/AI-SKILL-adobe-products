@@ -1,6 +1,6 @@
-# InDesign — EPS: export documents and select formats
+# InDesign - EPS: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — EPS.
+Open when checking export documents and select formats in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

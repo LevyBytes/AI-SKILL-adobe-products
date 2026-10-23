@@ -1,4 +1,4 @@
-# Photoshop — Repair and retouch
+# Photoshop - Repair and retouch
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust light and tone in Photoshop. [Adjust light and tone](adjust-light-and-tone.md).

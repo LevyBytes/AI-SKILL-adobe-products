@@ -1,4 +1,4 @@
-# After Effects — AEGP_IOInSuite5
+# After Effects - AEGP_IOInSuite5
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_AddAuxExtMap in After Effects. [AEGP_AddAuxExtMap](aegp-add-aux-ext-map.md).

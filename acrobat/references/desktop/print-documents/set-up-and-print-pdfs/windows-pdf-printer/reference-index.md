@@ -1,4 +1,4 @@
-# Acrobat — Set Adobe PDF printer properties on Windows
+# Acrobat - Set Adobe PDF printer properties on Windows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete a folder and reassign the Adobe PDF printer to the default port in Acrobat. [Delete a folder and reassign the Adobe PDF printer to the default port](reset-pdf-printer-output-port.md).

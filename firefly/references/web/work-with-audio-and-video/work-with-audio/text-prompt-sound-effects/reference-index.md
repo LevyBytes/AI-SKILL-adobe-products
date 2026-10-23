@@ -1,4 +1,4 @@
-# Firefly — Generate sound effects using text prompts
+# Firefly - Generate sound effects using text prompts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate and add sound effects to a video or audio file in Firefly. [Generate and add sound effects to a video or audio file](generate-and-add-sound-effects-to-a-video-or-audio-file.md).

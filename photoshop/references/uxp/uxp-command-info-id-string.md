@@ -1,4 +1,4 @@
-# UxpCommandInfo — id ⇒ `string`
+# UxpCommandInfo - id ⇒ `string`
 
 Provides the command id
 

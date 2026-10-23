@@ -1,4 +1,4 @@
-# Transforming graphics — Shear a graphic
+# Transforming graphics - Shear a graphic
 
 After confirming that the frame containing the target object is checked out to you, use the Position tool to select the object. Then choose Object > Transform > Shear. Enter the new shear angle in the Shear dialog box.
 

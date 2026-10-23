@@ -1,4 +1,4 @@
-# Audition — Effects controls
+# Audition - Effects controls
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About spline curves for graphs in Audition. [About spline curves for graphs](about-spline-curves-for-graphs.md).

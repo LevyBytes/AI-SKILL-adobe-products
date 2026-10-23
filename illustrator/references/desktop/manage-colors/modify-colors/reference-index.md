@@ -1,4 +1,4 @@
-# Illustrator — Modify colors
+# Illustrator - Modify colors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or remove colors from swatch groups in Illustrator. [Add or remove colors from swatch groups](add-or-remove-colors-from-swatch-groups.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLInstructions
+# Shared Adobe platform - XMLInstructions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLInstructions collection iteration in Shared Adobe platform. [XMLInstructions collection iteration](collection-iteration.md).

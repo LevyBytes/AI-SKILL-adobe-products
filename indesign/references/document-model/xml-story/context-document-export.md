@@ -1,6 +1,6 @@
-# InDesign — XmlStory: export documents and select formats
+# InDesign - XmlStory: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — XmlStory.
+Open when checking export documents and select formats in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

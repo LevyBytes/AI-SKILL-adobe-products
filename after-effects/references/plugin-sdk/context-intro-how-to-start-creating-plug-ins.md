@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: how to start creating plug-ins
+# After Effects - C++ plugin SDK: how to start creating plug-ins
 
-Open when working with how to start creating plug-ins in After Effects — C++ plugin SDK.
+Open when working with how to start creating plug-ins in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-how-to-start-creating-plug-ins.json).
 

@@ -1,4 +1,4 @@
-# Premiere Pro — Insert captions
+# Premiere Pro - Insert captions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Auto transcribe video using Speech to Text in Premiere Pro. [Auto transcribe video using Speech to Text](auto-transcribe-video-using-speech-to-text.md).

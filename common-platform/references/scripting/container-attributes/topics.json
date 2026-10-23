@@ -18,7 +18,7 @@
   {"topic": "text", "file": "references/scripting/container-attributes/text.md", "summary": "Open when looking up text in Shared Adobe platform.", "keywords": ["text"]},
   {"topic": "visible", "file": "references/scripting/container-attributes/visible.md", "summary": "Open when looking up visible in Shared Adobe platform.", "keywords": ["visible"]},
   {"topic": "window", "file": "references/scripting/container-attributes/window.md", "summary": "Open when looking up window in Shared Adobe platform.", "keywords": ["window"]},
-  {"topic": "Window object — Container Attributes", "file": "references/scripting/container-attributes/window-object-container-attributes.md", "summary": "Open when looking up Window object — Container Attributes in Shared Adobe platform.", "keywords": ["Window object — Container Attributes"]},
+  {"topic": "Window object - Container Attributes", "file": "references/scripting/container-attributes/window-object-container-attributes.md", "summary": "Open when looking up Window object - Container Attributes in Shared Adobe platform.", "keywords": ["Window object - Container Attributes"]},
   {"topic": "windowBounds", "file": "references/scripting/container-attributes/window-bounds.md", "summary": "Open when looking up windowBounds in Shared Adobe platform.", "keywords": ["windowBounds"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

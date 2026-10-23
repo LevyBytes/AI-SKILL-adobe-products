@@ -1,4 +1,4 @@
-# Working with the perspective grid — Set the active plane
+# Working with the perspective grid - Set the active plane
 
 Perspective grid plane types:
 

@@ -1,4 +1,4 @@
-# After Effects — AEGP_WorldSuite3
+# After Effects - AEGP_WorldSuite3
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_Dispose in After Effects. [AEGP_Dispose](aegp-dispose.md).

@@ -1,4 +1,4 @@
-# Getting Started — Supported browsers
+# Getting Started - Supported browsers
 
 Run PDF Embed API against current releases of these browsers:
 

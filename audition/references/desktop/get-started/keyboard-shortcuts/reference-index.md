@@ -1,4 +1,4 @@
-# Audition — Keyboard shortcuts
+# Audition - Keyboard shortcuts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Default keyboard shortcuts in Audition. [Default keyboard shortcuts](default-keyboard-shortcuts.md).

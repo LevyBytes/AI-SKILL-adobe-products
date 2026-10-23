@@ -1,4 +1,4 @@
-# Structuring documents for XML — Use DTD files to validate XML
+# Structuring documents for XML - Use DTD files to validate XML
 
 XML validation checks the document's structure, element tag names, and attributes against a DTD file's rules. Before validating against a DTD file, load it into the document in InDesign.
 

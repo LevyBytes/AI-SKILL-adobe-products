@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: ruby annotations
+# Shared Adobe platform - FindTextPreference: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — FindTextPreference.
+Open when checking ruby annotations in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

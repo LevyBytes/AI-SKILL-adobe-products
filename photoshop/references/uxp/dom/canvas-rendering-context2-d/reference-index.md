@@ -1,4 +1,4 @@
-# Photoshop — Canvas rendering context2 d
+# Photoshop - Canvas rendering context2 d
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up arc(x, y, radius, startAngle, endAngle, counterclockwise) in Photoshop. [arc(x, y, radius, startAngle, endAngle, counterclockwise)](arc.md).

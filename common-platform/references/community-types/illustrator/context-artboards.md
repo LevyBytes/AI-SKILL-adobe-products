@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: artboards, bounds and coordinates
+# Shared Adobe platform - Illustrator: artboards, bounds and coordinates
 
-Open when working with artboards, bounds and coordinates in Shared Adobe platform — Illustrator.
+Open when working with artboards, bounds and coordinates in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-artboards.json).
 

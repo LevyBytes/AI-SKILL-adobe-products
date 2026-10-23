@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Accessing and referencing objects — Accessing objects in collections", "file": "references/scripting/accessing-objects-in-collections/accessing-objects-in-collections.md", "summary": "Open when looking up Accessing and referencing objects — Accessing objects in collections in Illustrator.", "keywords": ["Accessing and referencing objects — Accessing objects in collections"]},
+  {"topic": "Accessing and referencing objects - Accessing objects in collections", "file": "references/scripting/accessing-objects-in-collections/accessing-objects-in-collections.md", "summary": "Open when looking up Accessing and referencing objects - Accessing objects in collections in Illustrator.", "keywords": ["Accessing and referencing objects - Accessing objects in collections"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

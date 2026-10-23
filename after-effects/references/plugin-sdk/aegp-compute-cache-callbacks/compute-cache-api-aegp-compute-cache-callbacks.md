@@ -1,4 +1,4 @@
-# Compute Cache API — `AEGP_ComputeCacheCallbacks`
+# Compute Cache API`AEGP_ComputeCacheCallbacks`
 
 Your effect is required to supply implementations of each of these callbacks.
 

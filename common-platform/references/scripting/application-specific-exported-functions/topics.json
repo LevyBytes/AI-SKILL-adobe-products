@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Cross-DOM functions — Application-specific exported functions", "file": "references/scripting/application-specific-exported-functions/cross-dom-functions-application-specific-exported-functions.md", "summary": "Open when looking up Cross-DOM functions — Application-specific exported functions in Shared Adobe platform.", "keywords": ["Cross-DOM functions — Application-specific exported functions"]},
+  {"topic": "Cross-DOM functions - Application-specific exported functions", "file": "references/scripting/application-specific-exported-functions/cross-dom-functions-application-specific-exported-functions.md", "summary": "Open when looking up Cross-DOM functions - Application-specific exported functions in Shared Adobe platform.", "keywords": ["Cross-DOM functions - Application-specific exported functions"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Channel Blur effect
+# Blur and Sharpen effects - Channel Blur effect
 
 Each of a layer's channels—red, green, blue, or alpha—gets blurred on its own under the Channel Blur effect.
 

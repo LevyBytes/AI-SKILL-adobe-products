@@ -1,4 +1,4 @@
-# Shared Adobe platform — ColorSetting
+# Shared Adobe platform - ColorSetting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ColorSetting declaration in Shared Adobe platform. [ColorSetting declaration](declaration.md).

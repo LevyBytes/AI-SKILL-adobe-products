@@ -1,4 +1,4 @@
-# UxpPanelInfo — shortcut ⇒ `Object`
+# UxpPanelInfo - shortcut ⇒ `Object`
 
 **Read only**
 Retrieve shortcut information for the panel.

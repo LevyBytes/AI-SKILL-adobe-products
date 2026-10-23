@@ -1,4 +1,4 @@
-# Premiere Pro — Share for review using Frame.io
+# Premiere Pro - Share for review using Frame.io
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add collaborators using the Frame.io panel in Premiere Pro. [Add collaborators using the Frame.io panel](add-collaborators-using-the-frame-io-panel.md).

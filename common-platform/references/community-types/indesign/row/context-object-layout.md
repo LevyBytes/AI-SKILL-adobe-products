@@ -1,6 +1,6 @@
-# Shared Adobe platform — Row: placement, bounds and transformations
+# Shared Adobe platform - Row: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in Shared Adobe platform — Row.
+Open when checking placement, bounds and transformations in Shared Adobe platform - Row.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

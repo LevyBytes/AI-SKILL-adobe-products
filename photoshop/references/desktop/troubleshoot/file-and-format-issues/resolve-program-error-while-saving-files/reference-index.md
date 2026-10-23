@@ -1,4 +1,4 @@
-# Photoshop — Resolve program error while saving files
+# Photoshop - Resolve program error while saving files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Complex layer structures or layer effects in Photoshop. [Complex layer structures or layer effects](complex-layer-structures-or-layer-effects.md).

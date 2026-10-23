@@ -1,4 +1,4 @@
-# Workspace basics — Display or switch workspaces
+# Workspace basics - Display or switch workspaces
 
 Choose the workspace in the workspace switcher on the Application bar.
 

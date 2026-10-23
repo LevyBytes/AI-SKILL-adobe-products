@@ -1,4 +1,4 @@
-# Scripting Constants — ElementPlacement
+# Scripting Constants - ElementPlacement
 
 | Value | Description |
 | --- | --- |

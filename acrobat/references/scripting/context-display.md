@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: windows, monitors and icons
+# Acrobat - Scripting APIs: windows, monitors and icons
 
-Open when working with windows, monitors and icons in Acrobat — Scripting APIs.
+Open when working with windows, monitors and icons in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-display.json).
 

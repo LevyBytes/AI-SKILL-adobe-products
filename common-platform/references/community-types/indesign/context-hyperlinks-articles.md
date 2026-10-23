@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: hyperlinks, bookmarks and article order
+# Shared Adobe platform - Indesign: hyperlinks, bookmarks and article order
 
-Open when working with hyperlinks, bookmarks and article order in Shared Adobe platform — Indesign.
+Open when working with hyperlinks, bookmarks and article order in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-hyperlinks-articles.json).
 

@@ -1,4 +1,4 @@
-# Illustrator — Change colors to their inverse or complement
+# Illustrator - Change colors to their inverse or complement
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the inverse or complement of a single color in Illustrator. [Change the inverse or complement of a single color](change-the-inverse-or-complement-of-a-single-color.md).

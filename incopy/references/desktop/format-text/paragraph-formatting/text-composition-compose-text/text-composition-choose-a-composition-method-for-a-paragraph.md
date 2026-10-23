@@ -1,4 +1,4 @@
-# Text composition — Choose a composition method for a paragraph
+# Text composition - Choose a composition method for a paragraph
 
 Use either route:
 

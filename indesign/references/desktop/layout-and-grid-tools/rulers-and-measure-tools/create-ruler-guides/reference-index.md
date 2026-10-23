@@ -1,4 +1,4 @@
-# InDesign — Create ruler guides
+# InDesign - Create ruler guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional guide creation methods in InDesign. [Additional guide creation methods](additional-guide-creation-methods.md).

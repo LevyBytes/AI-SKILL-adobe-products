@@ -1,4 +1,4 @@
-# Viewing stories — About frames
+# Viewing stories - About frames
 
 In Layout view for a document in progress, the page may show one or more boxes. These nonprinting boxes can hold text, graphics, or no content. They are frames, which are layout areas reserved for particular elements. Every frame is defined as either a text frame or a graphics frame. Non-managed stories in an InDesign document or assignment file are dimmed so they are easy to recognize.
 

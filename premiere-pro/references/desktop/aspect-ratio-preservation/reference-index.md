@@ -1,4 +1,4 @@
-# Premiere Pro — Aspect ratio preservation
+# Premiere Pro - Aspect ratio preservation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Aspect ratio distortion in sequences in Premiere Pro. [Aspect ratio distortion in sequences](aspect-ratio-distortion-in-sequences.md).

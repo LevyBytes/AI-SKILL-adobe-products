@@ -1,4 +1,4 @@
-# Working with styles — Delete style groups
+# Working with styles - Delete style groups
 
 Removing a style group also removes its contents: styles and any nested groups.
 

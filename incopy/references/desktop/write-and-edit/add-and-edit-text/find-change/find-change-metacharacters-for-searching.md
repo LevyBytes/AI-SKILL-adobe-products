@@ -1,4 +1,4 @@
-# Find/Change — Metacharacters for searching
+# Find/Change - Metacharacters for searching
 
 In InCopy, a metacharacter stands in for a character or symbol. In the Find/Change dialog box, Text-section metacharacters start with a caret (^), while GREP-section entries use a tilde (~) or a backslash (\). Enter these forms on either the Text tab or the GREP tab of the Find/Change dialog box.
 

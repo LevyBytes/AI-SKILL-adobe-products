@@ -1,6 +1,6 @@
-# InDesign — Insertion point: events and listeners
+# InDesign - Insertion point: events and listeners
 
-Open when checking events and listeners in InDesign — Insertion point.
+Open when checking events and listeners in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

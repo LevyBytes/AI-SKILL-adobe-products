@@ -6,6 +6,6 @@
   {"topic": "Configuration", "file": "references/plugin-samples/desktop-helper-example/configuration.md", "summary": "Open when looking up Configuration in Photoshop.", "keywords": ["Configuration"]},
   {"topic": "Load the Plugin", "file": "references/plugin-samples/desktop-helper-example/load-the-plugin.md", "summary": "Open when looking up Load the Plugin in Photoshop.", "keywords": ["Load the Plugin"]},
   {"topic": "Using the Plugin", "file": "references/plugin-samples/desktop-helper-example/using-the-plugin.md", "summary": "Open when looking up Using the Plugin in Photoshop.", "keywords": ["Using the Plugin"]},
-  {"topic": "Using the Plugin — Note On socket.io", "file": "references/plugin-samples/desktop-helper-example/using-the-plugin-note-on-socket-io.md", "summary": "Open when looking up Using the Plugin — Note On socket.io in Photoshop.", "keywords": ["Using the Plugin — Note On socket.io"]},
+  {"topic": "Using the Plugin - Note On socket.io", "file": "references/plugin-samples/desktop-helper-example/using-the-plugin-note-on-socket-io.md", "summary": "Open when looking up Using the Plugin - Note On socket.io in Photoshop.", "keywords": ["Using the Plugin - Note On socket.io"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Drop Shadow
+# Layer Styles Match Names - Drop Shadow
 
 | Match Name | Display Name (EN) |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Audition — Customizing and saving application settings
+# Audition - Customizing and saving application settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export and import customized application settings in Audition. [Export and import customized application settings](export-and-import-customized-application-settings.md).

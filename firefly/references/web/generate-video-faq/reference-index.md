@@ -1,4 +1,4 @@
-# Firefly — Generate video faq
+# Firefly - Generate video faq
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. How do I get the best result from Firefly website video generation? in Firefly. [1. How do I get the best result from Firefly website video generation?](video-generation-quality.md).

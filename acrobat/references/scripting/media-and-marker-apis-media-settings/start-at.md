@@ -8,4 +8,4 @@ Marks where playback begins, by time or by frame. As laid out under MediaOffset,
 
 See also endAt.
 
-Example — refer to the sample given just under endAt.
+Example: refer to the sample given just under endAt.

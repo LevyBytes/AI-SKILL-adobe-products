@@ -1,6 +1,6 @@
-# Acrobat — Doc: print, preflight and color conversion
+# Acrobat - Doc: print, preflight and color conversion
 
-Open when working with print, preflight and color conversion in Acrobat — Doc.
+Open when working with print, preflight and color conversion in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-output.json).
 

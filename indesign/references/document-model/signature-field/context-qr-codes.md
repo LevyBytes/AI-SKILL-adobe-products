@@ -1,6 +1,6 @@
-# InDesign — SignatureField: generate qr codes
+# InDesign - SignatureField: generate qr codes
 
-Open when checking generate qr codes in InDesign — SignatureField.
+Open when checking generate qr codes in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

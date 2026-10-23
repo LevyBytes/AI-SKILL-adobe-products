@@ -1,4 +1,4 @@
-# After Effects — Cinema 4D Composition Renderer
+# After Effects - Cinema 4D Composition Renderer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basics of Composition Settings in After Effects. [Basics of Composition Settings](basics-of-composition-settings.md).

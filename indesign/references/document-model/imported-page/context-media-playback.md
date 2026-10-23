@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: movie and sound playback
+# InDesign - ImportedPage: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — ImportedPage.
+Open when checking movie and sound playback in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

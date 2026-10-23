@@ -1,4 +1,4 @@
-# InDesign — ICCProfiles
+# InDesign - ICCProfiles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up INCLUDE_ALL in InDesign. [INCLUDE_ALL](includeall.md).

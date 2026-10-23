@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Bevel/Emboss
+# Layer Styles Match Names - Bevel/Emboss
 
 | Match Name | Display Name (EN) |
 | --- | --- |

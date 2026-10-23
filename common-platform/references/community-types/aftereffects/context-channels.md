@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: channel identifiers
+# Shared Adobe platform - Aftereffects: channel identifiers
 
-Open when working with channel identifiers in Shared Adobe platform — Aftereffects.
+Open when working with channel identifiers in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-channels.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Adjust colors
+# After Effects - Adjust colors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color basics in After Effects. [Color basics references](color-basics/reference-index.md).

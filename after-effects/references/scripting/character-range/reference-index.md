@@ -1,4 +1,4 @@
-# After Effects — Character range
+# After Effects - Character range
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CharacterRange object in After Effects. [CharacterRange object](character-range-object.md).

@@ -1,4 +1,4 @@
-# Audition — Feature summary | Adobe Audition (October and May releases)
+# Audition - Feature summary | Adobe Audition (October and May releases)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audition on Apple M1 ARM in Audition. [Audition on Apple M1 ARM](audition-on-apple-m1-arm.md).

@@ -1,4 +1,4 @@
-# Sharing content — Assignment file options (InDesign)
+# Sharing content - Assignment file options (InDesign)
 
 When creating or changing an assignment file, these options are available:
 

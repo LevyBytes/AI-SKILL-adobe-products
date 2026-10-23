@@ -1,4 +1,4 @@
-# Premiere Pro — Essential Development Tools for UXP
+# Premiere Pro - Essential Development Tools for UXP
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Code Editor in Premiere Pro. [Code Editor](code-editor.md).

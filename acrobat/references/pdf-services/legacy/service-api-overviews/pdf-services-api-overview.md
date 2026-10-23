@@ -1,4 +1,4 @@
-# Introduction — PDF Services API to automate for your document workflows
+# Introduction - PDF Services API to automate for your document workflows
 
 Through the [PDF Services API](https://raw.githubusercontent.com/AdobeDocs/pdfservices-api-documentation/main/src/pages/overview/legacy-documentation/pdf-services-api/index.md) you get many operations for manipulating documents programmatically and automating all sorts of document workflows. It's easy to spin up a PDF from a dynamic HTML report, apply a password so the document can't be opened without authorization, shrink its size so it attaches cleanly to an email, or pull out text plus tables, images and document structure that power downstream solutions.
 

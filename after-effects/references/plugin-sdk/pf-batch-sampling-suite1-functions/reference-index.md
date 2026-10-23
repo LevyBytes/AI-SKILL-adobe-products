@@ -1,4 +1,4 @@
-# After Effects — PF_BatchSamplingSuite1 Functions
+# After Effects - PF_BatchSamplingSuite1 Functions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up begin_sampling in After Effects. [begin_sampling](beginsampling.md).

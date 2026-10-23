@@ -1,4 +1,4 @@
-# Shared Adobe platform — StaticTexts
+# Shared Adobe platform - StaticTexts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up StaticTexts collection iteration in Shared Adobe platform. [StaticTexts collection iteration](collection-iteration.md).

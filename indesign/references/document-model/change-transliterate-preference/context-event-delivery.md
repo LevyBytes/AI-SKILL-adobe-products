@@ -1,6 +1,6 @@
-# InDesign — Change transliterate preference: events and listeners
+# InDesign - Change transliterate preference: events and listeners
 
-Open when checking events and listeners in InDesign — Change transliterate preference.
+Open when checking events and listeners in InDesign - Change transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

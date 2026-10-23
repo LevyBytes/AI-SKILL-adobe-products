@@ -1,4 +1,4 @@
-# window.ClassList — item(index)
+# window.ClassList - item(index)
 
 Gets the item at `index`; returns `null` when `index` falls outside the list.
 

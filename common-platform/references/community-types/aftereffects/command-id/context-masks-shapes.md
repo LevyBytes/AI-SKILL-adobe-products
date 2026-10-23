@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: masks, tracing and shape grouping
+# Shared Adobe platform - _CommandID: masks, tracing and shape grouping
 
-Open when working with masks, tracing and shape grouping in Shared Adobe platform — _CommandID.
+Open when working with masks, tracing and shape grouping in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-masks-shapes.json).
 

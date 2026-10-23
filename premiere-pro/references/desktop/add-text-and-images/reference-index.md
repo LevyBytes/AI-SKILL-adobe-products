@@ -1,4 +1,4 @@
-# Premiere Pro — Add text and images
+# Premiere Pro - Add text and images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align and distribute objects in Premiere Pro. [Align and distribute objects](align-and-distribute-objects.md).

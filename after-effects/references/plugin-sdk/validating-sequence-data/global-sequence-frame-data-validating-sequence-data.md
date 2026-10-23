@@ -1,4 +1,4 @@
-# Global, Sequence, & Frame Data — Validating Sequence Data
+# Global, Sequence, & Frame Data - Validating Sequence Data
 
 Validating sequence data carefully matters most for effects simulating across time, where frame N leans on frame N-1 and you keep a cache of computed data inside your sequence data. Change a parameter and some of that computed data may become invalid, yet mindlessly recomputing everything after each change would be wasteful too.
 

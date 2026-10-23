@@ -1,4 +1,4 @@
-# Scripting Constants — AutoKernType
+# Scripting Constants - AutoKernType
 
 AutoKernType selects an automatic kerning mode.
 

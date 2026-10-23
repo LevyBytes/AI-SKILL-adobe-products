@@ -1,4 +1,4 @@
-# Creating layers — Create a layer from a trimmed footage item
+# Creating layers - Create a layer from a trimmed footage item
 
 Before you drop a layer based on a moving-image footage item into a composition, you can trim that item in the Footage panel first.
 

@@ -1,4 +1,6 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Java call pattern", "file": "references/pdf-services/examples/java/CallPattern.java", "summary": "Open when writing any PDF Services call in Java.", "keywords": ["Java call pattern"]},
+  {"topic": "Java operations", "file": "references/pdf-services/examples/java/operations.md", "summary": "Open when choosing an operation's job, parameter and result classes in Java.", "keywords": ["Java operations"]},
   {"topic": "Autotag pdf parameterised references", "file": "references/pdf-services/examples/java/autotag-pdf-parameterised/reference-index.md", "summary": "Open when looking up Autotag pdf parameterised in Acrobat.", "keywords": ["Autotag pdf parameterised references"]},
   {"topic": "Autotag pdf references", "file": "references/pdf-services/examples/java/autotag-pdf/reference-index.md", "summary": "Open when looking up Autotag pdf in Acrobat.", "keywords": ["Autotag pdf references"]},
   {"topic": "Combine pdf references", "file": "references/pdf-services/examples/java/combine-pdf/reference-index.md", "summary": "Open when looking up Combine pdf in Acrobat.", "keywords": ["Combine pdf references"]},

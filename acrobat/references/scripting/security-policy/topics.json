@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "JavaScript APIs — SecurityPolicy", "file": "references/scripting/security-policy/java-script-apis-security-policy.md", "summary": "Open when looking up JavaScript APIs — SecurityPolicy in Acrobat.", "keywords": ["JavaScript APIs — SecurityPolicy"]},
+  {"topic": "JavaScript APIs - SecurityPolicy", "file": "references/scripting/security-policy/java-script-apis-security-policy.md", "summary": "Open when looking up JavaScript APIs - SecurityPolicy in Acrobat.", "keywords": ["JavaScript APIs - SecurityPolicy"]},
   {"topic": "SecurityPolicy properties", "file": "references/scripting/security-policy/security-policy-properties.md", "summary": "Open when looking up SecurityPolicy properties in Acrobat.", "keywords": ["SecurityPolicy properties"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

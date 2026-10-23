@@ -1,4 +1,4 @@
-# Scripting Constants — ColorDitherMethod
+# Scripting Constants - ColorDitherMethod
 
 For exported GIF and PNG8 artwork, this enum chooses the color dithering method.
 

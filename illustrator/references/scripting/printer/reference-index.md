@@ -1,4 +1,4 @@
-# Illustrator — Printer
+# Illustrator - Printer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Printer.name in Illustrator. [Printer.name](name.md).

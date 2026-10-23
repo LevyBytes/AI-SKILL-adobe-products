@@ -1,4 +1,4 @@
-# InDesign — Buttons
+# InDesign - Buttons
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change and manage button appearance in InDesign. [Change and manage button appearance](change-and-manage-button-appearance.md).

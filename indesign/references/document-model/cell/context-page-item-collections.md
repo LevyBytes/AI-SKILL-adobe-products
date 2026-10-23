@@ -1,6 +1,6 @@
-# InDesign — Cell: page item collections
+# InDesign - Cell: page item collections
 
-Open when checking page item collections in InDesign — Cell.
+Open when checking page item collections in InDesign - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

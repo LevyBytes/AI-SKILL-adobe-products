@@ -1,6 +1,6 @@
-# InDesign — ObjectStyle: layers, stacking and master overrides
+# InDesign - ObjectStyle: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — ObjectStyle.
+Open when checking layers, stacking and master overrides in InDesign - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

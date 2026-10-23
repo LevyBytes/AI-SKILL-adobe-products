@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: clip editing and clip properties
+# Shared Adobe platform - Application: clip editing and clip properties
 
-Open when working with clip editing and clip properties in Shared Adobe platform — Application.
+Open when working with clip editing and clip properties in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-clip-commands.json).
 

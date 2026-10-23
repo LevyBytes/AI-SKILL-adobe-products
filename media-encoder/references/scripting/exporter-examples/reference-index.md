@@ -1,4 +1,4 @@
-# Media Encoder — Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject
+# Media Encoder - Adobe Media Encoder (AME) Scripting API Reference (A-Z) - ExporterScriptObject
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up elapsedMilliseconds example in Media Encoder. [elapsedMilliseconds example](elapsed-milliseconds-example.md).

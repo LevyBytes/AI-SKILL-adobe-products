@@ -1,4 +1,4 @@
-# Formatting characters — Change underline or strikethrough options
+# Formatting characters - Change underline or strikethrough options
 
 Custom underlining helps create a consistent underline beneath differently sized characters, and it can also produce highlighting behind text.
 

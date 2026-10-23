@@ -1,4 +1,4 @@
-# window.Element — cloneNode(deep)
+# window.Element - cloneNode(deep)
 
 **Returns**: `Node`
 

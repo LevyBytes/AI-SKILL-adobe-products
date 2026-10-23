@@ -1,6 +1,6 @@
-# InDesign — XmlStory: underline and strike-through
+# InDesign - XmlStory: underline and strike-through
 
-Open when checking underline and strike-through in InDesign — XmlStory.
+Open when checking underline and strike-through in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Track mask
+# After Effects - Track mask
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Mask Reference in After Effects. [Mask Reference](mask-reference.md).

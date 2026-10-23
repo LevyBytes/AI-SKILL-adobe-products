@@ -1,6 +1,6 @@
-# Shared Adobe platform — PDFExportPreference: printer marks, bleed and slug
+# Shared Adobe platform - PDFExportPreference: printer marks, bleed and slug
 
-Open when checking printer marks, bleed and slug in Shared Adobe platform — PDFExportPreference.
+Open when checking printer marks, bleed and slug in Shared Adobe platform - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-marks-bleed.json).
 

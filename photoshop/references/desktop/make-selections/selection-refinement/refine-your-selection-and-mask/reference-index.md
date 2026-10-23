@@ -1,4 +1,4 @@
-# Photoshop — Refine your selection and mask
+# Photoshop - Refine your selection and mask
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Refine modes in Photoshop. [Refine modes](refine-modes.md).

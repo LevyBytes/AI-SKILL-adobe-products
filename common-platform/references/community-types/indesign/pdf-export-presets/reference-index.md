@@ -1,4 +1,4 @@
-# Shared Adobe platform — PDFExportPresets
+# Shared Adobe platform - PDFExportPresets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PDFExportPresets collection iteration in Shared Adobe platform. [PDFExportPresets collection iteration](collection-iteration.md).

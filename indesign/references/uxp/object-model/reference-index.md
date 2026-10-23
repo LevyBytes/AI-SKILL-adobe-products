@@ -1,4 +1,4 @@
-# InDesign — Object model
+# InDesign - Object model
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Application in InDesign. [Application](application.md).

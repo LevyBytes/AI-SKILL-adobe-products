@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Create pdf from docx example setup", "file": "references/pdf-services/examples/java/create-pdf-from-docx/create-pdf-from-docx-setup.md", "summary": "Open when looking up Create pdf from docx example setup in Acrobat.", "keywords": ["Create pdf from docx example setup"]},
-  {"topic": "CreatePDFFromDOCX", "file": "references/pdf-services/examples/java/create-pdf-from-docx/CreatePDFFromDOCX.java", "summary": "Open when looking up CreatePDFFromDOCX in Acrobat.", "keywords": ["CreatePDFFromDOCX"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

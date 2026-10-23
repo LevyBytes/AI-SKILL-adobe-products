@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "Changelog — Adobe Premiere Pro 23.0", "file": "references/scripting/adobe-premiere-pro-23-0/changelog-adobe-premiere-pro-23-0.md", "summary": "Open when looking up Changelog — Adobe Premiere Pro 23.0 in Premiere Pro.", "keywords": ["Changelog — Adobe Premiere Pro 23.0"]},
+  {"topic": "Changelog - Adobe Premiere Pro 23.0", "file": "references/scripting/adobe-premiere-pro-23-0/changelog-adobe-premiere-pro-23-0.md", "summary": "Open when looking up Changelog - Adobe Premiere Pro 23.0 in Premiere Pro.", "keywords": ["Changelog - Adobe Premiere Pro 23.0"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

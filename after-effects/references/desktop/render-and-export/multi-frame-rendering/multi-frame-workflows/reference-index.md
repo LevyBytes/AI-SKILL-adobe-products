@@ -1,4 +1,4 @@
-# After Effects — Preview and render with Multi-Frame Rendering
+# After Effects - Preview and render with Multi-Frame Rendering
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enable Multi-Frame Rendering in After Effects. [Enable Multi-Frame Rendering](enable-multi-frame-rendering.md).

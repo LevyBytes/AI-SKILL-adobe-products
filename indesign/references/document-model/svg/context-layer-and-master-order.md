@@ -1,6 +1,6 @@
-# InDesign — SVG: layers, stacking and master overrides
+# InDesign - SVG: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — SVG.
+Open when checking layers, stacking and master overrides in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

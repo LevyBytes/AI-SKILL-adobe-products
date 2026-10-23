@@ -1,4 +1,4 @@
-# Debugging in the Toolkit — Selecting a debugging target
+# Debugging in the Toolkit - Selecting a debugging target
 
 Multiple applications can be debugged at once by the Toolkit. When more than one Adobe application is installed, the drop-down list at the upper left of a document window selects that window's target application. The list includes every installed application that supports JavaScript. If a script is run in an application that is not already running, the Toolkit asks for permission to start it.
 

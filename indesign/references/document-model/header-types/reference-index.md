@@ -1,4 +1,4 @@
-# InDesign — HeaderTypes
+# InDesign - HeaderTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BASIC_LATIN in InDesign. [BASIC_LATIN](basiclatin.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: symbols, grouping and library assets
+# Shared Adobe platform - Document: symbols, grouping and library assets
 
-Open when working with symbols, grouping and library assets in Shared Adobe platform — Document.
+Open when working with symbols, grouping and library assets in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-symbols.json).
 

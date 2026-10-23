@@ -1,4 +1,4 @@
-# Implementation — Entry Point
+# Implementation - Entry Point
 
 ```cpp
 A_Err AEGP_PluginInitFuncPrototype(

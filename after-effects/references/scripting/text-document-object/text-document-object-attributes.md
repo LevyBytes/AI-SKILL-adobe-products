@@ -1,4 +1,4 @@
-# TextDocument object — Attributes
+# TextDocument object - Attributes
 
 Sets, by hand, where the first composed line sits measured down from the box's top edge.
 

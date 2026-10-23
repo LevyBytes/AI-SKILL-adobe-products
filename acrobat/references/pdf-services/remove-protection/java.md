@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [RemoveProtection.java](../examples/java/remove-protection/RemoveProtection.java)
+- [remove-protection setup and source](../examples/java/remove-protection/remove-protection-setup.md)

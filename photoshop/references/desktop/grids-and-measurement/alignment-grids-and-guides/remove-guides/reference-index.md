@@ -1,4 +1,4 @@
-# Photoshop — Remove guides
+# Photoshop - Remove guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Remove all guides at once in Photoshop. [Remove all guides at once](remove-all-guides-at-once.md).

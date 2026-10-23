@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: application session and account
+# Shared Adobe platform - PageItem: application session and account
 
-Open when checking application session and account in Shared Adobe platform — PageItem.
+Open when checking application session and account in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

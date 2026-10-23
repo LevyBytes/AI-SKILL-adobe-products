@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: channel selection
+# Shared Adobe platform - Application: channel selection
 
-Open when working with channel selection in Shared Adobe platform — Application.
+Open when working with channel selection in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-edit-channels.json).
 

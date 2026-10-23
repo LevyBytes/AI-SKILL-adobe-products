@@ -1,4 +1,4 @@
-# Shared Adobe platform — NamedGrid
+# Shared Adobe platform - NamedGrid
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NamedGrid declaration in Shared Adobe platform. [NamedGrid declaration](declaration.md).

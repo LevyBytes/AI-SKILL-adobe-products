@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Wiggle Transform
+# Shape Layer Match Names - Wiggle Transform
 
 | Match Name | Display Name (EN) |
 | --- | --- |

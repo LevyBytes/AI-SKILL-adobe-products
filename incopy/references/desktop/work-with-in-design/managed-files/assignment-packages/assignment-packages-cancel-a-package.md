@@ -1,4 +1,4 @@
-# Assignment packages — Cancel a package
+# Assignment packages - Cancel a package
 
 Sometimes a sent package never comes back. The message can be lost, or the recipient might have left the project. In that situation, cancel the package.
 

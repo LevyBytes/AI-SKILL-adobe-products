@@ -1,6 +1,6 @@
-# InDesign — Word: layers, stacking and master overrides
+# InDesign - Word: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — Word.
+Open when checking layers, stacking and master overrides in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: runtime modules and environment
+# InDesign - UXP plugins and APIs: runtime modules and environment
 
-Open when working with runtime modules and environment in InDesign — UXP plugins and APIs.
+Open when working with runtime modules and environment in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-runtime.json).
 

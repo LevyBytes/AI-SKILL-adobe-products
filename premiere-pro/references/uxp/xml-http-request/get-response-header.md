@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — getResponseHeader(name)
+# window.XMLHttpRequest - getResponseHeader(name)
 
 Looks up the supplied field name and returns its matching response-header value.
 Header-name matching ignores case.

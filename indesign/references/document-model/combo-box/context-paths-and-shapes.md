@@ -1,6 +1,6 @@
-# InDesign — Combo box: paths and shape operations
+# InDesign - Combo box: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Combo box.
+Open when checking paths and shape operations in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

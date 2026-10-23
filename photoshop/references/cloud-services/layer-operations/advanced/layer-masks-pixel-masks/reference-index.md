@@ -1,4 +1,4 @@
-# Photoshop — Layer masks pixel masks
+# Photoshop - Layer masks pixel masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Deleting a pixel mask in Photoshop. [Deleting a pixel mask](deleting-a-pixel-mask.md).

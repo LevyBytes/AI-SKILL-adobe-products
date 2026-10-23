@@ -1,6 +1,6 @@
-# InDesign — Sound: export documents and select formats
+# InDesign - Sound: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — Sound.
+Open when checking export documents and select formats in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

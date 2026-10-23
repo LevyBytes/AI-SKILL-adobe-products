@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: camera, lights and 3d properties
+# After Effects - Scripting APIs: camera, lights and 3d properties
 
-Open when working with camera, lights and 3d properties in After Effects — Scripting APIs.
+Open when working with camera, lights and 3d properties in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-scene-properties.json).
 

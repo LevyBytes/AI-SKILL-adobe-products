@@ -1,4 +1,4 @@
-# Scripting Constants — InkPrintStatus
+# Scripting Constants - InkPrintStatus
 
 | Value | Description |
 | --- | --- |

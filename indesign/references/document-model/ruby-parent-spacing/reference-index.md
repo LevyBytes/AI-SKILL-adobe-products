@@ -1,4 +1,4 @@
-# InDesign — RubyParentSpacing
+# InDesign - RubyParentSpacing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RUBY_PARENT_121_AKI in InDesign. [RUBY_PARENT_121_AKI](rubyparent121-aki.md).

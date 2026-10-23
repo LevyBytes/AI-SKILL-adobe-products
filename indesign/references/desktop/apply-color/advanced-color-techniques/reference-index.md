@@ -1,4 +1,4 @@
-# InDesign — Advanced color techniques
+# InDesign - Advanced color techniques
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply blending modes in InDesign. [Apply blending modes](apply-blending-modes.md).

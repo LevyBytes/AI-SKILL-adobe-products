@@ -1,4 +1,4 @@
-# After Effects — Expression basics
+# After Effects - Expression basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customize the appearance of expressions in the Expression Editor in After Effects. [Customize the appearance of expressions in the Expression Editor](expression-editor-appearance.md).

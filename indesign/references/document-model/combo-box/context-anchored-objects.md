@@ -1,6 +1,6 @@
-# InDesign — Combo box: anchored object placement
+# InDesign - Combo box: anchored object placement
 
-Open when checking anchored object placement in InDesign — Combo box.
+Open when checking anchored object placement in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

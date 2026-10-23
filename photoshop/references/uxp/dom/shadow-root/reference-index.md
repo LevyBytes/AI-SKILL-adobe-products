@@ -1,4 +1,4 @@
-# Photoshop — Shadow root
+# Photoshop - Shadow root
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up activeElement : Element in Photoshop. [activeElement : Element](active-element-element.md).

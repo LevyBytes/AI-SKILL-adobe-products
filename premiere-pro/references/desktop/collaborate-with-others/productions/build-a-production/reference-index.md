@@ -1,4 +1,4 @@
-# Premiere Pro — Build a Production
+# Premiere Pro - Build a Production
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add existing projects to a production in Premiere Pro. [Add existing projects to a production](add-existing-projects-to-a-production.md).

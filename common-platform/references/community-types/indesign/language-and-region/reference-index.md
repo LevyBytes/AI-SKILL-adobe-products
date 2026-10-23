@@ -1,4 +1,4 @@
-# Shared Adobe platform — LanguageAndRegion
+# Shared Adobe platform - LanguageAndRegion
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LanguageAndRegion declaration in Shared Adobe platform. [LanguageAndRegion declaration](declaration.md).

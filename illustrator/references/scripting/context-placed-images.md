@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: placed, embedded, mesh and raster images
+# Illustrator - Scripting APIs: placed, embedded, mesh and raster images
 
-Open when working with placed, embedded, mesh and raster images in Illustrator — Scripting APIs.
+Open when working with placed, embedded, mesh and raster images in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-placed-images.json).
 

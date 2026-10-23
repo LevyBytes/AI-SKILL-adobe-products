@@ -1,4 +1,4 @@
-# Image Buffer Management Functions — `PF_WorldSuite2`
+# Image Buffer Management Functions`PF_WorldSuite2`
 
 Function
 

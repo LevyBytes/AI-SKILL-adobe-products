@@ -1,4 +1,4 @@
-# Firefly — API example modules
+# Firefly - API example modules
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up authentication.py in Firefly. [authentication.py](authentication.py).

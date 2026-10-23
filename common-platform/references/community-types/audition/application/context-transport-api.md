@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: transport object
+# Shared Adobe platform - Application: transport object
 
-Open when working with transport object in Shared Adobe platform — Application.
+Open when working with transport object in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-transport-api.json).
 

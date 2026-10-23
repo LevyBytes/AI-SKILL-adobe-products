@@ -1,4 +1,4 @@
-# window.NodeList — NodeList(staticList, updater)
+# window.NodeList - NodeList(staticList, updater)
 
 Initializes a NodeList instance.
 

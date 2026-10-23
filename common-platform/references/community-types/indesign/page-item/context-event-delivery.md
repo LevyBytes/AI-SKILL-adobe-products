@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: events and listeners
+# Shared Adobe platform - PageItem: events and listeners
 
-Open when checking events and listeners in Shared Adobe platform — PageItem.
+Open when checking events and listeners in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

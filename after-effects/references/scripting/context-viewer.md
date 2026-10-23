@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: viewers, views and display options
+# After Effects - Scripting APIs: viewers, views and display options
 
-Open when working with viewers, views and display options in After Effects — Scripting APIs.
+Open when working with viewers, views and display options in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-viewer.json).
 

@@ -1,4 +1,4 @@
-# Photoshop — Move a selection or selection border
+# Photoshop - Move a selection or selection border
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Control the movement of a selection in Photoshop. [Control the movement of a selection](control-the-movement-of-a-selection.md).

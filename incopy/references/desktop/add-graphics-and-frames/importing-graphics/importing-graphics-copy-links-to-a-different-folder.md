@@ -1,4 +1,4 @@
-# Importing graphics — Copy links to a different folder
+# Importing graphics - Copy links to a different folder
 
 Copy Link(s) To copies graphics files into another folder and repoints the links to those copies. It is particularly helpful when moving linked files to another drive, such as transferring files from a DVD to a hard drive.
 

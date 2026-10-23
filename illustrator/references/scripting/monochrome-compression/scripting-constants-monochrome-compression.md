@@ -1,4 +1,4 @@
-# Scripting Constants — MonochromeCompression
+# Scripting Constants - MonochromeCompression
 
 Selects the compression method applied to a monochrome bitmap item during PDF file saving.
 

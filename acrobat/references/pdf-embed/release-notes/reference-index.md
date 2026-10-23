@@ -1,4 +1,4 @@
-# Acrobat — Release Notes
+# Acrobat - Release Notes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up April, 2021 in Acrobat. [April, 2021](april-2021.md).

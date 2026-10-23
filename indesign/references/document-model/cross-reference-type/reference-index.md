@@ -1,4 +1,4 @@
-# InDesign — CrossReferenceType
+# InDesign - CrossReferenceType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CUSTOM_CROSS_REFERENCE in InDesign. [CUSTOM_CROSS_REFERENCE](customcrossreference.md).

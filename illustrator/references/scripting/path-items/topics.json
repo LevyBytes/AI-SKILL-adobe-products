@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "PathItems — Methods", "file": "references/scripting/path-items/path-items-methods.md", "summary": "Open when looking up PathItems — Methods in Illustrator.", "keywords": ["PathItems — Methods"]},
+  {"topic": "PathItems - Methods", "file": "references/scripting/path-items/path-items-methods.md", "summary": "Open when looking up PathItems - Methods in Illustrator.", "keywords": ["PathItems - Methods"]},
   {"topic": "PathItems.add()", "file": "references/scripting/path-items/add.md", "summary": "Open when looking up PathItems.add() in Illustrator.", "keywords": ["PathItems.add()"]},
   {"topic": "PathItems.ellipse()", "file": "references/scripting/path-items/ellipse.md", "summary": "Open when looking up PathItems.ellipse() in Illustrator.", "keywords": ["PathItems.ellipse()"]},
   {"topic": "PathItems.getByName()", "file": "references/scripting/path-items/get-by-name.md", "summary": "Open when looking up PathItems.getByName() in Illustrator.", "keywords": ["PathItems.getByName()"]},

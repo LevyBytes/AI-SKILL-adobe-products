@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Accessing Audio Data — Extending Audio Clips", "file": "references/plugin-sdk/extending-audio-clips/accessing-audio-data-extending-audio-clips.md", "summary": "Open when looking up Accessing Audio Data — Extending Audio Clips in After Effects.", "keywords": ["Accessing Audio Data — Extending Audio Clips"]},
+  {"topic": "Accessing Audio Data - Extending Audio Clips", "file": "references/plugin-sdk/extending-audio-clips/accessing-audio-data-extending-audio-clips.md", "summary": "Open when looking up Accessing Audio Data - Extending Audio Clips in After Effects.", "keywords": ["Accessing Audio Data - Extending Audio Clips"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

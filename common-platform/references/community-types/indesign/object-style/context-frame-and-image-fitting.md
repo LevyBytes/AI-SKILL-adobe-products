@@ -1,6 +1,6 @@
-# Shared Adobe platform — ObjectStyle: image fitting, cropping and resolution
+# Shared Adobe platform - ObjectStyle: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in Shared Adobe platform — ObjectStyle.
+Open when checking image fitting, cropping and resolution in Shared Adobe platform - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

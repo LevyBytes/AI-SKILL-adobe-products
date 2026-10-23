@@ -1,6 +1,6 @@
-# InDesign — Word: read and edit text
+# InDesign - Word: read and edit text
 
-Open when checking read and edit text in InDesign — Word.
+Open when checking read and edit text in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

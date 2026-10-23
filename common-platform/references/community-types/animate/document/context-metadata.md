@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: document and selection metadata
+# Shared Adobe platform - Document: document and selection metadata
 
-Open when working with document and selection metadata in Shared Adobe platform — Document.
+Open when working with document and selection metadata in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-metadata.json).
 

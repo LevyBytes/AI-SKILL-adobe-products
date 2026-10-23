@@ -1,4 +1,4 @@
-# Measurement Units — Em space units
+# Measurement Units - Em space units
 
 Measurements expressed in em units rather than points are stored as thousandths of an em.
 

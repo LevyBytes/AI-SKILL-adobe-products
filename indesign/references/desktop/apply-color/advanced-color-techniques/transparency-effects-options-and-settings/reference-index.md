@@ -1,4 +1,4 @@
-# InDesign — Transparency effects options and settings
+# InDesign - Transparency effects options and settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common transparency settings in InDesign. [Common transparency settings](common-transparency-settings.md).

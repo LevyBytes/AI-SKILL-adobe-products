@@ -1,6 +1,6 @@
-# InDesign — ChangeObjectPreference: baseline grids and layout guides
+# InDesign - ChangeObjectPreference: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in InDesign — ChangeObjectPreference.
+Open when checking baseline grids and layout guides in InDesign - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

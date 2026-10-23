@@ -1,4 +1,4 @@
-# Changing spacing between charactersin CJK text — Adjust kerning for the half-width space between Roman words
+# Changing spacing between charactersin CJK text - Adjust kerning for the half-width space between Roman words
 
 With the Type tool, select a text range, then use the appropriate shortcut.
 

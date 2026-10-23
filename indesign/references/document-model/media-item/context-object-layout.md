@@ -1,6 +1,6 @@
-# InDesign — MediaItem: placement, bounds and transformations
+# InDesign - MediaItem: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — MediaItem.
+Open when checking placement, bounds and transformations in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

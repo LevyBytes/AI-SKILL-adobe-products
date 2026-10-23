@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: kenten emphasis
+# Shared Adobe platform - Story: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — Story.
+Open when checking kenten emphasis in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

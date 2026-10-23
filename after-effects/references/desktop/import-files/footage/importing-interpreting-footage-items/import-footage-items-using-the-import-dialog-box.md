@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Import footage items using the Import dialog box
+# Importing and interpreting footage items - Import footage items using the Import dialog box
 
 Select File > Import > File or File > Import > Multiple Files. Double-clicking an empty spot in the Project panel works too.
 

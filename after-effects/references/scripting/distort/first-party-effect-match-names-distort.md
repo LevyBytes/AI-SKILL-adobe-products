@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Distort
+# First-Party Effect Match Names - Distort
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

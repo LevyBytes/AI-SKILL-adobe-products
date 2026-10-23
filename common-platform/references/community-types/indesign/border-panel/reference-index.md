@@ -1,4 +1,4 @@
-# Shared Adobe platform — BorderPanel
+# Shared Adobe platform - BorderPanel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BorderPanel declaration in Shared Adobe platform. [BorderPanel declaration](declaration.md).

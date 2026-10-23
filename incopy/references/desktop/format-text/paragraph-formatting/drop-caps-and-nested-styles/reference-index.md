@@ -1,4 +1,4 @@
-# InCopy — Drop caps and nested styles
+# InCopy - Drop caps and nested styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a character style to a drop cap in InCopy. [Apply a character style to a drop cap](apply-a-character-style-to-a-drop-cap.md).

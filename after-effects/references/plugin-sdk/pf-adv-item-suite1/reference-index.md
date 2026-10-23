@@ -1,4 +1,4 @@
-# After Effects — PF_AdvItemSuite1
+# After Effects - PF_AdvItemSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PF_EffectIsActiveOrEnabled in After Effects. [PF_EffectIsActiveOrEnabled](pf-effect-is-active-or-enabled.md).

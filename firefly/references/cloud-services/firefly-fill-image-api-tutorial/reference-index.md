@@ -1,4 +1,4 @@
-# Firefly — Firefly Fill Image API Tutorial
+# Firefly - Firefly Fill Image API Tutorial
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Deepen your understanding in Firefly. [Deepen your understanding](deepen-your-understanding.md).

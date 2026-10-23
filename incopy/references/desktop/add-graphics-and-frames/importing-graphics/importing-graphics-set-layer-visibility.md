@@ -1,4 +1,4 @@
-# Importing graphics — Set layer visibility
+# Importing graphics - Set layer visibility
 
 Do one of the following:
 

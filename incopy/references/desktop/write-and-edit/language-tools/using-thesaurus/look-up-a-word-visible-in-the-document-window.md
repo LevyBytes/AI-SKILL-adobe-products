@@ -1,4 +1,4 @@
-# Using the thesaurus — Look up a word visible in the document window
+# Using the thesaurus - Look up a word visible in the document window
 
 Open Window > Thesaurus to display the Thesaurus panel. With the Type tool , select the word to look up, then use one of these methods:
 

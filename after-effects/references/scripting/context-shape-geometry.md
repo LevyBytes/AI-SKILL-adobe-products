@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: shape paths and geometry operators
+# After Effects - Scripting APIs: shape paths and geometry operators
 
-Open when working with shape paths and geometry operators in After Effects — Scripting APIs.
+Open when working with shape paths and geometry operators in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-shape-geometry.json).
 

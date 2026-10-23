@@ -1,6 +1,6 @@
-# InDesign — Find text preference: apply and manage styles
+# InDesign - Find text preference: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Find text preference.
+Open when checking apply and manage styles in InDesign - Find text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Text: export documents and select formats
+# InDesign - Text: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — Text.
+Open when checking export documents and select formats in InDesign - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

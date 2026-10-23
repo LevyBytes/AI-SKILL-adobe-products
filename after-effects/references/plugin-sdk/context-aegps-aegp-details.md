@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: aegp details
+# After Effects - C++ plugin SDK: aegp details
 
-Open when working with aegp details in After Effects — C++ plugin SDK.
+Open when working with aegp details in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegps-aegp-details.json).
 

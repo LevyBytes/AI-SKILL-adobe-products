@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cell: page item collections
+# Shared Adobe platform - Cell: page item collections
 
-Open when checking page item collections in Shared Adobe platform — Cell.
+Open when checking page item collections in Shared Adobe platform - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

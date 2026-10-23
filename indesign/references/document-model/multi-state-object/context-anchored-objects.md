@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: anchored object placement
+# InDesign - MultiStateObject: anchored object placement
 
-Open when checking anchored object placement in InDesign — MultiStateObject.
+Open when checking anchored object placement in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

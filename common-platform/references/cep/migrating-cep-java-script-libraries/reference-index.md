@@ -1,4 +1,4 @@
-# Shared Adobe platform — Migrating CEP JavaScript Libraries
+# Shared Adobe platform - Migrating CEP JavaScript Libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CS APIs: Communicating with your plugin and with Photoshop in Shared Adobe platform. [CS APIs: Communicating with your plugin and with Photoshop](cs-apis-communicating-with-your-plugin-and-with-photoshop.md).

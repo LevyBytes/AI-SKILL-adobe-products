@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindObjectPreference: content fit, dimensions and overflow
+# Shared Adobe platform - FindObjectPreference: content fit, dimensions and overflow
 
-Open when checking content fit, dimensions and overflow in Shared Adobe platform — FindObjectPreference.
+Open when checking content fit, dimensions and overflow in Shared Adobe platform - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-fitting.json).
 

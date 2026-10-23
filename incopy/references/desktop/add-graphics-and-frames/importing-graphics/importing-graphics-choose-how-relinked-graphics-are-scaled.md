@@ -1,4 +1,4 @@
-# Importing graphics — Choose how relinked graphics are scaled
+# Importing graphics - Choose how relinked graphics are scaled
 
 During relinking, a replacement graphic can inherit the dimensions of the graphic it replaces, or it can come in at its native size.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Date
+# Shared Adobe platform - Date
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Date declaration in Shared Adobe platform. [Date declaration](declaration.md).

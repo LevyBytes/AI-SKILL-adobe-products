@@ -1,4 +1,4 @@
-# Photoshop — Common migration patterns
+# Photoshop - Common migration patterns
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Custom fonts in Photoshop. [Custom fonts](custom-fonts.md).

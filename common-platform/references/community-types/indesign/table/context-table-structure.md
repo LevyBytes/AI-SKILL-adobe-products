@@ -1,6 +1,6 @@
-# Shared Adobe platform — Table: table cells, rows and columns
+# Shared Adobe platform - Table: table cells, rows and columns
 
-Open when checking table cells, rows and columns in Shared Adobe platform — Table.
+Open when checking table cells, rows and columns in Shared Adobe platform - Table.
 
 Open when selecting an exact API member: [Topic catalog](context-table-structure.json).
 

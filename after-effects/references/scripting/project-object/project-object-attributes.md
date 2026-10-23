@@ -1,4 +1,4 @@
-# Project object — Attributes
+# Project object - Attributes
 
 app.project.renderQueue
 

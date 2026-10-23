@@ -1,6 +1,6 @@
-# InDesign — EPS: text frame columns and autosizing
+# InDesign - EPS: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — EPS.
+Open when checking text frame columns and autosizing in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

@@ -1,4 +1,4 @@
-# Scripting Constants — GradientsPreservePolicy
+# Scripting Constants - GradientsPreservePolicy
 
 For FXG files, this policy defines how gradients are preserved.
 

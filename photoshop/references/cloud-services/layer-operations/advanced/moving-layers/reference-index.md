@@ -1,4 +1,4 @@
-# Photoshop — Moving layers
+# Photoshop - Moving layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Move operation changes in Photoshop. [Move operation changes](move-operation-changes.md).

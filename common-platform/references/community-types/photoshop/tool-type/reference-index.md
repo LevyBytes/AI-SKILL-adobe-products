@@ -1,4 +1,4 @@
-# Shared Adobe platform — ToolType
+# Shared Adobe platform - ToolType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ToolType declaration in Shared Adobe platform. [ToolType declaration](declaration.md).

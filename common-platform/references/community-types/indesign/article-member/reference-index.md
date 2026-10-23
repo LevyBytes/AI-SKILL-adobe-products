@@ -1,4 +1,4 @@
-# Shared Adobe platform — ArticleMember
+# Shared Adobe platform - ArticleMember
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ArticleMember declaration in Shared Adobe platform. [ArticleMember declaration](declaration.md).

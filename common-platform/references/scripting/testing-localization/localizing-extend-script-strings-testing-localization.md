@@ -1,4 +1,4 @@
-# Localizing ExtendScript strings — Testing localization
+# Localizing ExtendScript strings - Testing localization
 
 ExtendScript keeps the active locale in $.locale. Whenever the host application's locale changes, this variable is refreshed.
 

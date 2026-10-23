@@ -1,4 +1,4 @@
-# Premiere Pro — Network Operations
+# Premiere Pro - Network Operations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose the right Network API in Premiere Pro. [Choose the right Network API](choose-the-right-network-api.md).

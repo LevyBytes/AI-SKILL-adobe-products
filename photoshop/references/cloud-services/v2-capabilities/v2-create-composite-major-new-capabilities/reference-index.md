@@ -1,4 +1,4 @@
-# Photoshop — V2 create composite major new capabilities
+# Photoshop - V2 create composite major new capabilities
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Crop mode - unified enum for all export types in Photoshop. [Crop mode - unified enum for all export types](crop-mode-unified-enum-for-all-export-types.md).

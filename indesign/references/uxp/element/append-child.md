@@ -1,4 +1,4 @@
-# window.Element — appendChild(child)
+# window.Element - appendChild(child)
 
 **Returns**: `Node`
 

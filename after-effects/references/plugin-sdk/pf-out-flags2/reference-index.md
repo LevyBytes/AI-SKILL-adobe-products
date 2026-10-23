@@ -1,9 +1,9 @@
-# After Effects — Pf out flags2
+# After Effects - Pf out flags2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Parameters — Parameter Types in After Effects. [Parameters — Parameter Types](parameters-parameter-types.md).
-- Open when looking up Parameters — Point Parameter Origin in After Effects. [Parameters — Point Parameter Origin](parameters-point-parameter-origin.md).
-- Open when looking up Parameters — Slider Range Issues? in After Effects. [Parameters — Slider Range Issues?](parameters-slider-range-issues.md).
+- Open when looking up Parameters - Parameter Types in After Effects. [Parameters - Parameter Types](parameters-parameter-types.md).
+- Open when looking up Parameters - Point Parameter Origin in After Effects. [Parameters - Point Parameter Origin](parameters-point-parameter-origin.md).
+- Open when looking up Parameters - Slider Range Issues? in After Effects. [Parameters - Slider Range Issues?](parameters-slider-range-issues.md).
 - Open when looking up PF_AngleDef in After Effects. [PF_AngleDef](pf-angle-def.md).
 - Open when looking up PF_ArbitraryDef in After Effects. [PF_ArbitraryDef](pf-arbitrary-def.md).
 - Open when looking up PF_Boolean in After Effects. [PF_Boolean](pf-boolean.md).
@@ -15,7 +15,7 @@
 - Open when looking up PF_FloatSliderDef in After Effects. [PF_FloatSliderDef](pf-float-slider-def.md).
 - Open when looking up PF_FPLong in After Effects. [PF_FPLong](pffp-long.md).
 - Open when looking up PF_LayerDef in After Effects. [PF_LayerDef](pf-layer-def.md).
-- Open when looking up PF_OutData — PF_OutFlags2 in After Effects. [PF_OutData — PF_OutFlags2](pf-out-data-pf-out-flags2.md).
+- Open when looking up PF_OutData - PF_OutFlags2 in After Effects. [PF_OutData - PF_OutFlags2](pf-out-data-pf-out-flags2.md).
 - Open when looking up PF_OutFlag2_AUTOMATIC_WIDE_TIME_INPUT in After Effects. [PF_OutFlag2_AUTOMATIC_WIDE_TIME_INPUT](pf-out-flag2-automaticwidetimeinput.md).
 - Open when looking up PF_OutFlag2_CAN_COMBINE_WITH_DESTINATION in After Effects. [PF_OutFlag2_CAN_COMBINE_WITH_DESTINATION](pf-out-flag2-cancombinewithdestination.md).
 - Open when looking up PF_OutFlag2_DEPENDS_ON_UNREFERENCED_MASKS in After Effects. [PF_OutFlag2_DEPENDS_ON_UNREFERENCED_MASKS](pf-out-flag2-dependsonunreferencedmasks.md).

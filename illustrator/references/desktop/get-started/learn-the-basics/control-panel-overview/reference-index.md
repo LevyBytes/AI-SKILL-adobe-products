@@ -1,4 +1,4 @@
-# Illustrator — Control panel overview
+# Illustrator - Control panel overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Collapsed options in the panel in Illustrator. [Collapsed options in the panel](collapsed-options-in-the-panel.md).

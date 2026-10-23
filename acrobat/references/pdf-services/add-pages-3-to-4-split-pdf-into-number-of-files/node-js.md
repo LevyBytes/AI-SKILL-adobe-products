@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [split-pdf-into-number-of-files.cjs](../examples/node/split-pdf-into-number-of-files/split-pdf-into-number-of-files.cjs)
+- [split-pdf-into-number-of-files setup and source](../examples/node/split-pdf-into-number-of-files/split-pdf-into-number-of-files-setup.md)

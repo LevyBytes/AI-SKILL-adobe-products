@@ -1,4 +1,4 @@
-# Scripting Constants — DownsampleMethod
+# Scripting Constants - DownsampleMethod
 
 | Value | Description |
 | --- | --- |

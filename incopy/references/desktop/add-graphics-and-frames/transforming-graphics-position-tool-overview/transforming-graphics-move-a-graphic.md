@@ -1,4 +1,4 @@
-# Transforming graphics — Move a graphic
+# Transforming graphics - Move a graphic
 
 Confirm that the frame containing the target object is checked out to you, then select the object with the Position tool. Choose Object > Transform > Move. In the Move dialog box, use one of these approaches:
 

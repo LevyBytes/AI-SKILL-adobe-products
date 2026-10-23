@@ -1,6 +1,6 @@
-# InDesign — Story: find, replace and transliterate
+# InDesign - Story: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Story.
+Open when checking find, replace and transliterate in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

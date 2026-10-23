@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — Opening and navigating nested compositions
+# Precomposing, nesting, and pre-rendering - Opening and navigating nested compositions
 
 You'll hear nested compositions described as upstream relative to the compositions holding them, while those containing compositions sit downstream of whatever they enclose. Furthest downstream is the root composition; furthest upstream is the most deeply nested one. String together a series of compositions linked by containing or being contained, and you have a composition flow path. Gather every composition tied together through nesting and you have a composition network.
 

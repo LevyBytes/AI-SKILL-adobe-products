@@ -1,4 +1,4 @@
-# Premiere Pro — Common issues in premiere on apple silicon macs
+# Premiere Pro - Common issues in premiere on apple silicon macs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Are legacy versions compatible? in Premiere Pro. [Are legacy versions compatible?](are-legacy-versions-compatible.md).

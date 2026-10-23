@@ -1,4 +1,4 @@
-# Structuring documents for XML — View a DTD file
+# Structuring documents for XML - View a DTD file
 
 DTD files use ASCII text. They can include embedded instructions and explanations about proper tag usage and element order. In InDesign, only a DTD loaded in the document can be viewed.
 

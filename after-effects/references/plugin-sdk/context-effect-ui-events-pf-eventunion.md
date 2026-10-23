@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: pf_eventunion
+# After Effects - C++ plugin SDK: pf_eventunion
 
-Open when working with pf_eventunion in After Effects — C++ plugin SDK.
+Open when working with pf_eventunion in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-ui-events-pf-eventunion.json).
 

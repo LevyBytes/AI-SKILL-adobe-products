@@ -1,4 +1,4 @@
-# Photoshop — PathItem
+# Photoshop - PathItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up deselect in Photoshop. [deselect](deselect.md).

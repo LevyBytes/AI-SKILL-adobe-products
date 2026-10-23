@@ -1,4 +1,4 @@
-# Shared Adobe platform — Slider
+# Shared Adobe platform - Slider
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Slider declaration in Shared Adobe platform. [Slider declaration](declaration.md).

@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ExtractTextInfoFromPDF.java](../examples/java/extract-text-info-from-pdf/ExtractTextInfoFromPDF.java)
+- [extract-text-info-from-pdf setup and source](../examples/java/extract-text-info-from-pdf/extract-text-info-from-pdf-setup.md)

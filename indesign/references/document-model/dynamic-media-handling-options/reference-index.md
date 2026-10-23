@@ -1,4 +1,4 @@
-# InDesign — DynamicMediaHandlingOptions
+# InDesign - DynamicMediaHandlingOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up APPEARANCE_ONLY in InDesign. [APPEARANCE_ONLY](appearanceonly.md).

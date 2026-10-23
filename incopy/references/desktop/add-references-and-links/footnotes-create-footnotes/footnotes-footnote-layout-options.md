@@ -1,4 +1,4 @@
-# Footnotes — Footnote layout options
+# Footnotes - Footnote layout options
 
 The Layout section of the Footnote Options dialog box contains these options:
 

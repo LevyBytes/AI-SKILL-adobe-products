@@ -1,6 +1,6 @@
-# InDesign — Paragraph: text ranges and containers
+# InDesign - Paragraph: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Paragraph.
+Open when checking text ranges and containers in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

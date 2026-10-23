@@ -1,4 +1,4 @@
-# Find/Change — Load queries
+# Find/Change - Load queries
 
 Custom queries are saved as XML files. Their names appear in the Query list in the Find/Change dialog box.
 

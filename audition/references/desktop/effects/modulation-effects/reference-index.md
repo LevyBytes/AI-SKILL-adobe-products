@@ -1,4 +1,4 @@
-# Audition — Modulation Effects
+# Audition - Modulation Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Chorus effect in Audition. [Chorus effect](chorus-effect.md).

@@ -1,4 +1,4 @@
-# InDesign — Adjust text spacing
+# InDesign - Adjust text spacing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust letter spacing in InDesign. [Adjust letter spacing](adjust-letter-spacing.md).

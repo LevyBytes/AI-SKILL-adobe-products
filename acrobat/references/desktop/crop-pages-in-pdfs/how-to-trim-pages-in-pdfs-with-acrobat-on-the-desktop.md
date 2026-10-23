@@ -32,4 +32,4 @@ Pick OK.
 
 Note
 
-Trimming a PDF merely conceals material — it won't shrink the file. Put the page size back and the full original material returns.
+Trimming a PDF merely conceals material: it won't shrink the file. Put the page size back and the full original material returns.

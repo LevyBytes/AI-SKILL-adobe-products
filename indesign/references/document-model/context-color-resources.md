@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: colors, swatches, inks and gradients
+# InDesign - InDesign document object model: colors, swatches, inks and gradients
 
-Open when working with colors, swatches, inks and gradients in InDesign — InDesign document object model.
+Open when working with colors, swatches, inks and gradients in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-color-resources.json).
 

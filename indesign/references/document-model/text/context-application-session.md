@@ -1,6 +1,6 @@
-# InDesign — Text: application session and account
+# InDesign - Text: application session and account
 
-Open when checking application session and account in InDesign — Text.
+Open when checking application session and account in InDesign - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

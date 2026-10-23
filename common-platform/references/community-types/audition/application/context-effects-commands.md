@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: audio effects and processing
+# Shared Adobe platform - Application: audio effects and processing
 
-Open when working with audio effects and processing in Shared Adobe platform — Application.
+Open when working with audio effects and processing in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-effects-commands.json).
 

@@ -1,4 +1,4 @@
-# Illustrator — What s new
+# Illustrator - What s new
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Illustrator on desktop (Beta) overview in Illustrator. [Adobe Illustrator on desktop (Beta) overview](adobe-illustrator-on-desktop-beta-overview.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — PDFs
+# Shared Adobe platform - PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PDFs collection iteration in Shared Adobe platform. [PDFs collection iteration](collection-iteration.md).

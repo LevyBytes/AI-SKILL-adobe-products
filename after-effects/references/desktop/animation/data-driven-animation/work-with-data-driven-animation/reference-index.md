@@ -1,4 +1,4 @@
-# After Effects — Work with Data-driven animation
+# After Effects - Work with Data-driven animation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align video in time to mgJSON data in After Effects. [Align video in time to mgJSON data](align-video-in-time-to-mg-json-data.md).

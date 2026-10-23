@@ -1,4 +1,4 @@
-# Illustrator — EPSSaveOptions
+# Illustrator - EPSSaveOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EPSSaveOptions.artboardRange in Illustrator. [EPSSaveOptions.artboardRange](artboard-range.md).

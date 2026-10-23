@@ -1,4 +1,4 @@
-# Photoshop — Getting started with Photoshop Actions
+# Photoshop - Getting started with Photoshop Actions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices and limitations in Photoshop. [Best practices and limitations](best-practices-and-limitations.md).

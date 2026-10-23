@@ -1,4 +1,4 @@
-# Saving and exporting — Export InCopy documents
+# Saving and exporting - Export InCopy documents
 
 All or selected parts of an InCopy document can be saved to another format. Usually, each component in an InCopy document, such as text frames or graphics, exports as its own file. The exception is Adobe PDF export, which places all document text and graphics into one PDF file.
 

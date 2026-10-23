@@ -1,6 +1,6 @@
-# InDesign — Rectangle: generate qr codes
+# InDesign - Rectangle: generate qr codes
 
-Open when checking generate qr codes in InDesign — Rectangle.
+Open when checking generate qr codes in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

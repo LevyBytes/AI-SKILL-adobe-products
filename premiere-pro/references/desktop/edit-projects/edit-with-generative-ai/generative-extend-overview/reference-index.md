@@ -1,4 +1,4 @@
-# Premiere Pro — Generative Extend overview
+# Premiere Pro - Generative Extend overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio in Premiere Pro. [Audio](audio.md).

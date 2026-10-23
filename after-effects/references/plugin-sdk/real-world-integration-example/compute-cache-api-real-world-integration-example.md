@@ -1,4 +1,4 @@
-# Compute Cache API — Real-world Integration Example
+# Compute Cache API - Real-world Integration Example
 
 After Effects ships with the Auto Color plugin, an effect that has begun leaning on the Compute Cache plus the HashSuite1 suite to cache histogram and level data whenever its Temporal Smoothing parameter exceeds 0.
 

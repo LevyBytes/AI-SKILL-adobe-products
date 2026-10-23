@@ -1,4 +1,4 @@
-# Acrobat — Acrobat for SharePoint and OneDrive overview
+# Acrobat - Acrobat for SharePoint and OneDrive overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Data handling and privacy in Acrobat. [Data handling and privacy](data-handling-and-privacy.md).

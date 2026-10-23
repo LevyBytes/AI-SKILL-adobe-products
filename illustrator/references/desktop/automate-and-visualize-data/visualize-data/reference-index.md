@@ -1,4 +1,4 @@
-# Illustrator — Visualize data
+# Illustrator - Visualize data
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add drop shadows to graphs in Illustrator. [Add drop shadows to graphs](add-drop-shadows-to-graphs.md).

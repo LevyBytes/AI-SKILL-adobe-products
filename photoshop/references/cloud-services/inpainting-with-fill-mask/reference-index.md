@@ -1,4 +1,4 @@
-# Photoshop — Inpainting with Fill Mask
+# Photoshop - Inpainting with Fill Mask
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About the Fill Masked Areas API in Photoshop. [About the Fill Masked Areas API](about-the-fill-masked-areas-api.md).

@@ -1,4 +1,4 @@
-# Photoshop — Smart objects
+# Photoshop - Smart objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert embedded Smart Objects to linked in Photoshop. [Convert embedded Smart Objects to linked](convert-embedded-smart-objects-to-linked.md).

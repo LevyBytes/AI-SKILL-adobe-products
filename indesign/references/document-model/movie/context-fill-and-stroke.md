@@ -1,6 +1,6 @@
-# InDesign — Movie: fill, stroke and transparency
+# InDesign - Movie: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Movie.
+Open when checking fill, stroke and transparency in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

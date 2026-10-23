@@ -1,4 +1,4 @@
-# ExtendScript Reflection Interface — ReflectionInfo Object
+# ExtendScript Reflection Interface - ReflectionInfo Object
 
 A ReflectionInfo object carries metadata for a property, a method, or one argument of a method.
 

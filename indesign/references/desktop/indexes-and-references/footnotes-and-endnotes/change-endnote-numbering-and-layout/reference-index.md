@@ -1,4 +1,4 @@
-# InDesign — Change endnote numbering and layout
+# InDesign - Change endnote numbering and layout
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Format endnote content in InDesign. [Format endnote content](format-endnote-content.md).

@@ -1,4 +1,4 @@
-# Tips & Tricks — Where's The Center Of A Pixel?
+# Tips & Tricks - Where's The Center Of A Pixel?
 
 Deeeeeep, man. With the anchor point (see User Documentation) sitting at (0,0), After Effects pivots around the top-left corner of the top-left pixel.
 

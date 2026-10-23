@@ -1,4 +1,4 @@
-# Communicating through messages — Handling responses from the message target
+# Communicating through messages - Handling responses from the message target
 
 Handle replies to a message you sent by defining callback handler functions directly on that message object. The target application can return a response only when the received message object includes the relevant callback.
 

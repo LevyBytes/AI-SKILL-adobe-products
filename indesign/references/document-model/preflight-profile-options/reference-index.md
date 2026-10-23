@@ -1,4 +1,4 @@
-# InDesign — PreflightProfileOptions
+# InDesign - PreflightProfileOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up USE_EMBEDDED_PROFILE in InDesign. [USE_EMBEDDED_PROFILE](useembeddedprofile.md).

@@ -1,4 +1,4 @@
-# Illustrator — ExportOptionsPNG24
+# Illustrator - ExportOptionsPNG24
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ExportOptionsPNG24.antiAliasing in Illustrator. [ExportOptionsPNG24.antiAliasing](anti-aliasing.md).

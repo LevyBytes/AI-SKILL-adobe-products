@@ -1,6 +1,6 @@
-# InDesign — Character: ruby annotations
+# InDesign - Character: ruby annotations
 
-Open when checking ruby annotations in InDesign — Character.
+Open when checking ruby annotations in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

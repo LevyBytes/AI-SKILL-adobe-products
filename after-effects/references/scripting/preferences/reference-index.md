@@ -1,4 +1,4 @@
-# After Effects — Preferences
+# After Effects - Preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Preferences object in After Effects. [Preferences object](preferences-object.md).

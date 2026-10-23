@@ -60,6 +60,6 @@
   {"topic": "Application.userInteractionLevel", "file": "references/scripting/application/user-interaction-level.md", "summary": "Open when looking up Application.userInteractionLevel in Illustrator.", "keywords": ["Application.userInteractionLevel"]},
   {"topic": "Application.version", "file": "references/scripting/application/version.md", "summary": "Open when looking up Application.version in Illustrator.", "keywords": ["Application.version"]},
   {"topic": "Application.visible", "file": "references/scripting/application/visible.md", "summary": "Open when looking up Application.visible in Illustrator.", "keywords": ["Application.visible"]},
-  {"topic": "Top-Level (containing) Objects — Application", "file": "references/scripting/application/top-level-containing-objects-application.md", "summary": "Open when looking up Top-Level (containing) Objects — Application in Illustrator.", "keywords": ["Top-Level (containing) Objects — Application"]},
+  {"topic": "Top-Level (containing) Objects - Application", "file": "references/scripting/application/top-level-containing-objects-application.md", "summary": "Open when looking up Top-Level (containing) Objects - Application in Illustrator.", "keywords": ["Top-Level (containing) Objects - Application"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

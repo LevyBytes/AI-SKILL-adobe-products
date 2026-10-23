@@ -1,4 +1,4 @@
-# Editing text — Show or hide conditions
+# Editing text - Show or hide conditions
 
 Hiding a condition hides every text range assigned to that condition. Page numbering in a document or book often changes when conditions are hidden. Smart Text Reflow can add or remove pages automatically as conditions are shown and hidden.
 

@@ -1,4 +1,4 @@
-# InDesign — Create and name gradient swatches
+# InDesign - Create and name gradient swatches
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new gradient swatch in InDesign. [Create a new gradient swatch](create-a-new-gradient-swatch.md).

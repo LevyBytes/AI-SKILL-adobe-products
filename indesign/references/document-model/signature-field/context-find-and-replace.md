@@ -1,6 +1,6 @@
-# InDesign — SignatureField: find, replace and transliterate
+# InDesign - SignatureField: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — SignatureField.
+Open when checking find, replace and transliterate in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

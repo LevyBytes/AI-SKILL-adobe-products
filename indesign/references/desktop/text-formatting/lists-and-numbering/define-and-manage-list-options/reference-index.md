@@ -1,4 +1,4 @@
-# InDesign — Define and manage list options
+# InDesign - Define and manage list options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Define a list in InDesign. [Define a list](define-a-list.md).

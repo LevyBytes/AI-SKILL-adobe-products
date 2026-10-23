@@ -1,6 +1,6 @@
-# InDesign — FormField: interactive fields and behaviors
+# InDesign - FormField: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — FormField.
+Open when checking interactive fields and behaviors in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

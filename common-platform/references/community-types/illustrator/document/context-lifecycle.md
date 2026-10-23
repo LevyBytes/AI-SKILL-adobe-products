@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: document lifecycle and identity
+# Shared Adobe platform - Document: document lifecycle and identity
 
-Open when working with document lifecycle and identity in Shared Adobe platform — Document.
+Open when working with document lifecycle and identity in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-lifecycle.json).
 

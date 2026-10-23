@@ -1,4 +1,4 @@
-# Acrobat — Acrobat Express for enterprise and teams
+# Acrobat - Acrobat Express for enterprise and teams
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Data handling and security in Acrobat. [Data handling and security](data-handling-and-security.md).

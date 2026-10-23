@@ -1,4 +1,4 @@
-# Acrobat — Template Tags
+# Acrobat - Template Tags
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Sign in Acrobat. [Adobe Sign](adobe-sign.md).

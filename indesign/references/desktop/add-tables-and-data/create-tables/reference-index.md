@@ -1,4 +1,4 @@
-# InDesign — Create tables
+# InDesign - Create tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and import tables in InDesign. [Create and import tables](create-and-import-tables.md).

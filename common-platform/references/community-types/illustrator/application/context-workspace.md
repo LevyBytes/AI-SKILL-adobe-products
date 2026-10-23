@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: workspaces and ui presentation
+# Shared Adobe platform - Application: workspaces and ui presentation
 
-Open when working with workspaces and ui presentation in Shared Adobe platform — Application.
+Open when working with workspaces and ui presentation in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-workspace.json).
 

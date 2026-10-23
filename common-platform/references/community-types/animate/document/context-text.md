@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: text content, attributes and bounds
+# Shared Adobe platform - Document: text content, attributes and bounds
 
-Open when working with text content, attributes and bounds in Shared Adobe platform — Document.
+Open when working with text content, attributes and bounds in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-text.json).
 

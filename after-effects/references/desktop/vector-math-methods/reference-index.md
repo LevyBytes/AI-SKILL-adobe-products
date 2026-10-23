@@ -1,4 +1,4 @@
-# After Effects — Vector math methods
+# After Effects - Vector math methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up add(vec1, vec2) in After Effects. [add(vec1, vec2)](add.md).

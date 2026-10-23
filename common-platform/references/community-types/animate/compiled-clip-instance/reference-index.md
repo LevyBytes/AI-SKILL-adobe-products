@@ -1,4 +1,4 @@
-# Shared Adobe platform — CompiledClipInstance
+# Shared Adobe platform - CompiledClipInstance
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CompiledClipInstance declaration in Shared Adobe platform. [CompiledClipInstance declaration](declaration.md).

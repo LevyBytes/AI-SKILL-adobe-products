@@ -1,4 +1,4 @@
-# Arbitrary Data Parameters — Implementing Arbitrary Data
+# Arbitrary Data Parameters - Implementing Arbitrary Data
 
 Beyond the usual command and event selectors, arb data calls for an extra layer of host interaction. With other parameter types this stays hidden, because After Effects looks after the data that backs them. Building an arb data plug-in is a window into just how much parameter management After Effects carries out on your behalf, and the order those operations run in. It might even prompt you to reconsider your design and lean on the parameter types the host manages for you.
 

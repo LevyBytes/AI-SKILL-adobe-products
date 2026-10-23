@@ -1,4 +1,4 @@
-# Socket Object — Chat server sample
+# Socket Object - Chat server sample
 
 This sample code builds a minimal chat server. A chat client can connect to the server listening on port number 1234. The server sends a welcome message and waits for one input line from the client. The client enters text and sends it to the server, the server displays that text, and the person at the server computer can type a line that the client computer displays in return. Typing "bye" on either side ends the session:
 

@@ -1,6 +1,6 @@
-# InDesign — Polygon: page item collections
+# InDesign - Polygon: page item collections
 
-Open when checking page item collections in InDesign — Polygon.
+Open when checking page item collections in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

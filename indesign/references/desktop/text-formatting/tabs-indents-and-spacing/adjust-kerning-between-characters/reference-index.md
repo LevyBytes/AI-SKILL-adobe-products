@@ -1,4 +1,4 @@
-# InDesign — Adjust kerning between characters
+# InDesign - Adjust kerning between characters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust kerning manually in InDesign. [Adjust kerning manually](adjust-kerning-manually.md).

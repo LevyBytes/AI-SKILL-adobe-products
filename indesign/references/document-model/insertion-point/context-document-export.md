@@ -1,6 +1,6 @@
-# InDesign — Insertion point: export documents and select formats
+# InDesign - Insertion point: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — Insertion point.
+Open when checking export documents and select formats in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

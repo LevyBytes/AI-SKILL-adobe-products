@@ -1,4 +1,4 @@
-# Install a UXP plugin — Use a `.ccx` installer file
+# Install a UXP plugin - Use a `.ccx` installer file
 
 If you built a UXP plugin yourself or received one from a third party, install it by **double-clicking on the `.ccx` file**. When the Creative Cloud Desktop application is closed, it opens first. Because the plugin did not come from the Creative Cloud Marketplace, an additional warning dialog appears; choose **Install** to proceed.
 

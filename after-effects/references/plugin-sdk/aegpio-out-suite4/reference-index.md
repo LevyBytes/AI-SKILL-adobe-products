@@ -1,4 +1,4 @@
-# After Effects — AEGPIOOutSuite4
+# After Effects - AEGPIOOutSuite4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_GetNewOutSpecColorProfile in After Effects. [AEGP_GetNewOutSpecColorProfile](aegp-get-new-out-spec-color-profile.md).

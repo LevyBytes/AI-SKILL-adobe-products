@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: image conversion and web export
+# InDesign - ImportedPage: image conversion and web export
 
-Open when checking image conversion and web export in InDesign — ImportedPage.
+Open when checking image conversion and web export in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-image-web-export.json).
 

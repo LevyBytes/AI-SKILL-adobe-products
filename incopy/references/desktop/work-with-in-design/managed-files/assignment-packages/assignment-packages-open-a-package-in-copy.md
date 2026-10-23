@@ -1,4 +1,4 @@
-# Assignment packages — Open a package (InCopy)
+# Assignment packages - Open a package (InCopy)
 
 To open an InCopy package (_.icap or _.incp), use any of these methods:
 

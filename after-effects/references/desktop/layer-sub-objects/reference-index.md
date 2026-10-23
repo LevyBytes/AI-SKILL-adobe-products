@@ -1,4 +1,4 @@
-# After Effects — Layer sub objects
+# After Effects - Layer sub objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up effect(name) in After Effects. [effect(name)](effect.md).

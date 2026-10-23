@@ -1,4 +1,4 @@
-# `AEIO_ModuleInfo` — `AEIO_ModuleInfo` Members
+# `AEIO_ModuleInfo``AEIO_ModuleInfo` Members
 
 | Member | Purpose |
 | --- | --- |

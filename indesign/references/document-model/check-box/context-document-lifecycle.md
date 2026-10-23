@@ -1,6 +1,6 @@
-# InDesign — Check box: create, open, save and recover documents
+# InDesign - Check box: create, open, save and recover documents
 
-Open when checking create, open, save and recover documents in InDesign — Check box.
+Open when checking create, open, save and recover documents in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-document-lifecycle.json).
 

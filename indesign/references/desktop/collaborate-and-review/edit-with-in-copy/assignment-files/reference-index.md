@@ -1,4 +1,4 @@
-# InDesign — About assignment files between InDesign and InCopy
+# InDesign - About assignment files between InDesign and InCopy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assignment file options in InDesign in InDesign. [Assignment file options in InDesign](assignment-file-options-in-in-design.md).

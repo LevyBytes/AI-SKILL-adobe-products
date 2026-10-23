@@ -1,4 +1,4 @@
-# InDesign — FootnoteFirstBaseline
+# InDesign - FootnoteFirstBaseline
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ASCENT_OFFSET in InDesign. [ASCENT_OFFSET](ascentoffset.md).

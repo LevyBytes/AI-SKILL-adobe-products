@@ -1,4 +1,4 @@
-# Quickstart for Adobe PDF Services API (Node.js) — Step One: Getting credentials
+# Quickstart for Adobe PDF Services API (Node.js) - Step One: Getting credentials
 
 1. Kick things off by pointing your browser at [https://acrobatservices.adobe.com/dc-integration-creation-app-cdn/main.html?api=pdf-services-api](https://acrobatservices.adobe.com/dc-integration-creation-app-cdn/main.html?api=pdf-services-api). Should you not yet be signed in to Adobe.com, you'll have to log in or register a fresh user. A personal email account is the suggested choice here rather than a federated ID.
 

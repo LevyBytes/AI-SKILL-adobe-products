@@ -1,4 +1,4 @@
-# Using text macros — Insert macro text at the insertion point
+# Using text macros - Insert macro text at the insertion point
 
 Insert Macro Text puts the selected macro text at the current insertion point.
 

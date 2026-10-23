@@ -1,4 +1,4 @@
-# AEGP Suites — Control Items Within Projects
+# AEGP Suites - Control Items Within Projects
 
 Items held inside a project or composition are reached and changed here.
 

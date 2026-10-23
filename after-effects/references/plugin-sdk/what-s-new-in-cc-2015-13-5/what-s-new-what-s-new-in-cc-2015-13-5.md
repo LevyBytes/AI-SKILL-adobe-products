@@ -1,4 +1,4 @@
-# What's New — What's New in CC 2015 (13.5)?
+# What's New - What's New in CC 2015 (13.5)?
 
 - Separate UI and Render Threads
 

@@ -1,6 +1,6 @@
-# InDesign — Text column: cjk grids and composition
+# InDesign - Text column: cjk grids and composition
 
-Open when checking cjk grids and composition in InDesign — Text column.
+Open when checking cjk grids and composition in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

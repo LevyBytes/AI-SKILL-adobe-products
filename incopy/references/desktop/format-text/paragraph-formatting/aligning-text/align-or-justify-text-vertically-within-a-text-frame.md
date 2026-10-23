@@ -1,4 +1,4 @@
-# Aligning text — Align or justify text vertically within a text frame
+# Aligning text - Align or justify text vertically within a text frame
 
 Within a frame, lines of text can be aligned or distributed on the vertical axis so type stays vertically consistent across frames and columns.
 
@@ -6,9 +6,9 @@ Frame alignment lets text align vertically, or horizontally when vertical type i
 
 Text can sit at the top, center, or bottom of the frame according to each paragraph's leading and paragraph spacing. Vertical justification is also available; it spreads lines evenly even when their leading and paragraph spacing values differ.
 
-Vertical justification—Bottom (left) and Justify (right)
+Vertical justification: Bottom (left) and Justify (right)
 
-Vertical justification—Bottom (left) and Justify (right) Top of horizontal frame (upper left), center alignment (upper right), bottom (lower left), and justified (lower right)
+Vertical justification: Bottom (left) and Justify (right) Top of horizontal frame (upper left), center alignment (upper right), bottom (lower left), and justified (lower right)
 
 Top of horizontal frame (upper left), center alignment (upper right), bottom (lower left), and justified (lower right)
 

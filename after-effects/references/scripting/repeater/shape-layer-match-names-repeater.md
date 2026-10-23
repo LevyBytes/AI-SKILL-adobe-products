@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Repeater
+# Shape Layer Match Names - Repeater
 
 | Match Name | Display Name (EN) |
 | --- | --- |

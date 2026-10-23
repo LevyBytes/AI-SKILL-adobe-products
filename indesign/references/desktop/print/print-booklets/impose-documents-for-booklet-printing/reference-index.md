@@ -1,4 +1,4 @@
-# InDesign — Impose documents for booklet printing
+# InDesign - Impose documents for booklet printing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure and print the imposed document in InDesign. [Configure and print the imposed document](configure-and-print-the-imposed-document.md).

@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Change measurement units and rulers
+# Frames, grids, rulers, and guides - Change measurement units and rulers
 
 InCopy provides a vertical depth ruler for copyfitting in Galley and Story views, plus horizontal and vertical rulers in Layout view for layout measurement. By default, ruler measurement begins at the upper-left corner of a page or spread. Moving the zero point changes that starting location.
 

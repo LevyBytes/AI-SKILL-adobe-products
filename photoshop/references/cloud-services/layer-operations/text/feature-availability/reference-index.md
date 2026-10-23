@@ -1,4 +1,4 @@
-# Photoshop — Feature availability
+# Photoshop - Feature availability
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Available in V2 now in Photoshop. [Available in V2 now](available-in-v2-now.md).

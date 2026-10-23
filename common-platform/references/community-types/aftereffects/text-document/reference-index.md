@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextDocument
+# Shared Adobe platform - TextDocument
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextDocument declaration in Shared Adobe platform. [TextDocument declaration](declaration.md).

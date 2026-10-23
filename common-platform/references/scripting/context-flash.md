@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: flash player and actionscript interoperability
+# Shared Adobe platform - Scripting APIs: flash player and actionscript interoperability
 
-Open when working with flash player and actionscript interoperability in Shared Adobe platform — Scripting APIs.
+Open when working with flash player and actionscript interoperability in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-flash.json).
 

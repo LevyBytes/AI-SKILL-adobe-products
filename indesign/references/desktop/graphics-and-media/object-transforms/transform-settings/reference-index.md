@@ -1,4 +1,4 @@
-# InDesign — Object transformation settings and options
+# InDesign - Object transformation settings and options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the reference point using the Transform panel in InDesign. [Change the reference point using the Transform panel](change-the-reference-point-using-the-transform-panel.md).

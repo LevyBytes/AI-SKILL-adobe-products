@@ -1,6 +1,6 @@
-# InDesign — TableStyle: content fit, dimensions and overflow
+# InDesign - TableStyle: content fit, dimensions and overflow
 
-Open when checking content fit, dimensions and overflow in InDesign — TableStyle.
+Open when checking content fit, dimensions and overflow in InDesign - TableStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-fitting.json).
 

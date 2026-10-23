@@ -1,4 +1,4 @@
-# Shared Adobe platform — TrackChangesPreference
+# Shared Adobe platform - TrackChangesPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TrackChangesPreference declaration in Shared Adobe platform. [TrackChangesPreference declaration](declaration.md).

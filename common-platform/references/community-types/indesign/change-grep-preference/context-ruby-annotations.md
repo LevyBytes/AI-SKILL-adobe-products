@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeGrepPreference: ruby annotations
+# Shared Adobe platform - ChangeGrepPreference: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — ChangeGrepPreference.
+Open when checking ruby annotations in Shared Adobe platform - ChangeGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

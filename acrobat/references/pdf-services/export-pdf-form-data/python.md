@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [export-pdf-form-data.py](../examples/python/export-pdf-form-data/export-pdf-form-data.py)
+- [export-pdf-form-data setup and source](../examples/python/export-pdf-form-data/export-pdf-form-data-setup.md)

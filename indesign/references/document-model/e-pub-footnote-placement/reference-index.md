@@ -1,4 +1,4 @@
-# InDesign — EPubFootnotePlacement
+# InDesign - EPubFootnotePlacement
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FOOTNOTE_AFTER_PARAGRAPH in InDesign. [FOOTNOTE_AFTER_PARAGRAPH](footnoteafterparagraph.md).

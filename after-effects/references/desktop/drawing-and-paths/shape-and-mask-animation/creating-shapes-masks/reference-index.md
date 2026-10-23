@@ -1,4 +1,4 @@
-# After Effects — Creating Shapes Masks
+# After Effects - Creating Shapes Masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert Illustrator layers to shape layers in After Effects. [Convert Illustrator layers to shape layers](convert-illustrator-layers-to-shape-layers.md).

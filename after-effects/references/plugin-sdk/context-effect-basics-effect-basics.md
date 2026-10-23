@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: effect basics
+# After Effects - C++ plugin SDK: effect basics
 
-Open when working with effect basics in After Effects — C++ plugin SDK.
+Open when working with effect basics in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-basics-effect-basics.json).
 

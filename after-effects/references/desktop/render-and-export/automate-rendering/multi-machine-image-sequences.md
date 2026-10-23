@@ -11,7 +11,7 @@ To render a still-image sequence, follow these steps:
 
 Put After Effects on each computer that will render the project. Confirm the same fonts are installed everywhere.
 
-Keep plug-ins off the network — don't share them. Make sure a copy of the plug-ins folder sits on every computer running After Effects. With third-party plug-ins, double-check that the identical plug-ins are present on all computers and that you hold enough licenses for them.
+Keep plug-ins off the network: don't share them. Make sure a copy of the plug-ins folder sits on every computer running After Effects. With third-party plug-ins, double-check that the identical plug-ins are present on all computers and that you hold enough licenses for them.
 
 On one of the computers, open the project, then choose Composition > Add To Render Queue.
 

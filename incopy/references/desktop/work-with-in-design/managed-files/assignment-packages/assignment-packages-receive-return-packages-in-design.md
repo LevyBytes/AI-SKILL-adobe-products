@@ -1,4 +1,4 @@
-# Assignment packages — Receive return packages (InDesign)
+# Assignment packages - Receive return packages (InDesign)
 
 To open an InDesign package (_.idap or _.indp), use any of these methods:
 

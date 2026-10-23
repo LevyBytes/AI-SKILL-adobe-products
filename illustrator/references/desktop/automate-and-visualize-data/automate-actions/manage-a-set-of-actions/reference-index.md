@@ -1,4 +1,4 @@
-# Illustrator — Manage a set of actions
+# Illustrator - Manage a set of actions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Load a set of actions in Illustrator. [Load a set of actions](load-a-set-of-actions.md).

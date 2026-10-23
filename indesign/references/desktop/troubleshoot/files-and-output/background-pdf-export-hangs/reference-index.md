@@ -1,4 +1,4 @@
-# InDesign — InDesign PDF export hangs in the background
+# InDesign - InDesign PDF export hangs in the background
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Background exporting in InDesign. [Background exporting](background-exporting.md).

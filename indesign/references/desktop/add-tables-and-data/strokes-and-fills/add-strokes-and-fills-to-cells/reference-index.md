@@ -1,4 +1,4 @@
-# InDesign — Add strokes and fills to cells
+# InDesign - Add strokes and fills to cells
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a fill to cells using the Gradient panel in InDesign. [Add a fill to cells using the Gradient panel](add-a-fill-to-cells-using-the-gradient-panel.md).

@@ -1,4 +1,4 @@
-# Scripting Constants — PDFOverprint
+# Scripting Constants - PDFOverprint
 
 | Value | Description |
 | --- | --- |

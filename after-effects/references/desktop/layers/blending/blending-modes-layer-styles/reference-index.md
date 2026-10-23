@@ -1,4 +1,4 @@
-# After Effects — Blending Modes Layer Styles
+# After Effects - Blending Modes Layer Styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add, remove, and convert layer styles in After Effects. [Add, remove, and convert layer styles](add-remove-and-convert-layer-styles.md).

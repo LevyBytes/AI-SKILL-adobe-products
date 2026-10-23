@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Unsharp Mask effect
+# Blur and Sharpen effects - Unsharp Mask effect
 
 Contrast along the colors that mark an edge gets stronger under the Unsharp Mask effect.
 

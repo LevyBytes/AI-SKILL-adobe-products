@@ -1,4 +1,4 @@
-# InDesign — Set the tab order
+# InDesign - Set the tab order
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Set tab order using the Articles panel in InDesign. [Set tab order using the Articles panel](set-tab-order-using-the-articles-panel.md).

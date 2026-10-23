@@ -1,4 +1,4 @@
-# Acrobat — Create and use custom page sizes
+# Acrobat - Create and use custom page sizes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create custom page sizes in Acrobat. [Create custom page sizes](create-custom-page-sizes.md).

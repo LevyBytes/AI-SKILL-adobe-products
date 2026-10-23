@@ -1,4 +1,4 @@
-# Premiere Pro — Troubleshoot sequence and file-interpretation settings
+# Premiere Pro - Troubleshoot sequence and file-interpretation settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Diagnose file formats and codecs in Premiere Pro. [Diagnose file formats and codecs](diagnose-file-formats-and-codecs.md).

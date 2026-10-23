@@ -1,4 +1,4 @@
-# Scripting Constants — StyleRunAlignmentType
+# Scripting Constants - StyleRunAlignmentType
 
 | Value | Description |
 | --- | --- |

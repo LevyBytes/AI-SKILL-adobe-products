@@ -1,4 +1,4 @@
-# Scripting Constants — DocumentRasterResolution
+# Scripting Constants - DocumentRasterResolution
 
 Preset raster-resolution options for documents.
 

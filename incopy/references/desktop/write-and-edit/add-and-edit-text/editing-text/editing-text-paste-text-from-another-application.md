@@ -1,4 +1,4 @@
-# Editing text — Paste text from another application
+# Editing text - Paste text from another application
 
 To keep formatting and data such as styles and index markers, open Clipboard Handling in Preferences and select All Information under Paste. To strip those items and other formatting during paste, choose Text Only. In another application or in an InCopy document, cut or copy the text. Optionally select existing text or click in a text frame; otherwise the paste creates a separate new frame. Then choose one of the following:
 

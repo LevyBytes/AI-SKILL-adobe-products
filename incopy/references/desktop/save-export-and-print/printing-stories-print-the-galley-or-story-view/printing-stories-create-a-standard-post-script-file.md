@@ -1,4 +1,4 @@
-# Printing stories — Create a standard PostScript file
+# Printing stories - Create a standard PostScript file
 
 Instead of sending a document directly to a printer, you can save an Adobe PostScript® language description of it as a file for later printing on remote printers. A standard PostScript (.ps) file describes everything in the document, including linked-file information and instructions built for the currently selected output device.
 

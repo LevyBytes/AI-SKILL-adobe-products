@@ -1,4 +1,4 @@
-# Shared Adobe platform — Array
+# Shared Adobe platform - Array
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Array declaration in Shared Adobe platform. [Array declaration](declaration.md).

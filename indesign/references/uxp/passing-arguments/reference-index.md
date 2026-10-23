@@ -1,4 +1,4 @@
-# InDesign — Passing Arguments
+# InDesign - Passing Arguments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Passing Arguments to InDesign Server in InDesign. [Passing Arguments to InDesign Server](passing-arguments-to-in-design-server.md).

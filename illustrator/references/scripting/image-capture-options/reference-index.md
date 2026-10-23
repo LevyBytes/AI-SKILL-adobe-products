@@ -1,4 +1,4 @@
-# Illustrator — ImageCaptureOptions
+# Illustrator - ImageCaptureOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ImageCaptureOptions.antiAliasing in Illustrator. [ImageCaptureOptions.antiAliasing](anti-aliasing.md).

@@ -1,4 +1,4 @@
-# Workspace basics — Generate a list of shortcuts
+# Workspace basics - Generate a list of shortcuts
 
 Choose Edit > Keyboard Shortcuts. From the Set menu, select a shortcut set. Click Show Set.
 

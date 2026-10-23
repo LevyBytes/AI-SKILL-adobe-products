@@ -1,4 +1,4 @@
-# Adjusting your workflow — Unlink content files (InDesign)
+# Adjusting your workflow - Unlink content files (InDesign)
 
 When necessary, for example to meet a production deadline, unlinking lets InDesign users remove a content file from both the managed workflow and the Links panel. To make that content editable again, export it again as InCopy content using a different file name. A new name keeps the old lock file from blocking edits.
 

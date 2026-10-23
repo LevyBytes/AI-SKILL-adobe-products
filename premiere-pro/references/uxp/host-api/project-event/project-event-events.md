@@ -1,4 +1,4 @@
-# ProjectEvent — Events
+# ProjectEvent - Events
 
 | Name | Version | Description |
 | --- | --- | --- |

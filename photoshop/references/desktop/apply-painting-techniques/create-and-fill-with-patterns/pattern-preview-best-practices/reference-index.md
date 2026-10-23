@@ -1,4 +1,4 @@
-# Photoshop — Pattern Preview best practices
+# Photoshop - Pattern Preview best practices
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Limitations in Photoshop. [Limitations](limitations.md).

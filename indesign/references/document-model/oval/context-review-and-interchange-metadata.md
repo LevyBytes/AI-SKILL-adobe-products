@@ -1,6 +1,6 @@
-# InDesign — Oval: document metadata and imported review
+# InDesign - Oval: document metadata and imported review
 
-Open when checking document metadata and imported review in InDesign — Oval.
+Open when checking document metadata and imported review in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

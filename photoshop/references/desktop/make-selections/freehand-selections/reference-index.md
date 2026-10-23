@@ -1,4 +1,4 @@
-# Photoshop — Freehand selections
+# Photoshop - Freehand selections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create quick selections with the Selection Brush Tool in Photoshop. [Create quick selections with the Selection Brush Tool](create-quick-selections-with-the-selection-brush-tool.md).

@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/extract-text-table-info-from-pdf/Program.cs)
+- [extract-text-table-info-from-pdf setup and source](../examples/dotnet/extract-text-table-info-from-pdf/extract-text-table-info-from-pdf-setup.md)

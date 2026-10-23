@@ -1,4 +1,4 @@
-# Shared Adobe platform — Sections
+# Shared Adobe platform - Sections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Sections collection iteration in Shared Adobe platform. [Sections collection iteration](collection-iteration.md).

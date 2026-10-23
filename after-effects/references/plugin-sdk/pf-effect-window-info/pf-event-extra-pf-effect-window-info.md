@@ -1,4 +1,4 @@
-# `PF_EventExtra` — `PF_EffectWindowInfo`
+# `PF_EventExtra``PF_EffectWindowInfo`
 
 Should an event land in the ECP, a `PF_EffectWindowInfo` travels along in `PF_EventExtra`.
 

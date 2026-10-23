@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: metadata, accessibility and tagging
+# InDesign - InDesign document object model: metadata, accessibility and tagging
 
-Open when working with metadata, accessibility and tagging in InDesign — InDesign document object model.
+Open when working with metadata, accessibility and tagging in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-metadata-accessibility.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTransliteratePreference: underline and strike-through
+# Shared Adobe platform - FindTransliteratePreference: underline and strike-through
 
-Open when checking underline and strike-through in Shared Adobe platform — FindTransliteratePreference.
+Open when checking underline and strike-through in Shared Adobe platform - FindTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

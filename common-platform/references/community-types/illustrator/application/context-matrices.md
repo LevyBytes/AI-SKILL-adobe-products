@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: coordinate systems and matrix operations
+# Shared Adobe platform - Application: coordinate systems and matrix operations
 
-Open when working with coordinate systems and matrix operations in Shared Adobe platform — Application.
+Open when working with coordinate systems and matrix operations in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-matrices.json).
 

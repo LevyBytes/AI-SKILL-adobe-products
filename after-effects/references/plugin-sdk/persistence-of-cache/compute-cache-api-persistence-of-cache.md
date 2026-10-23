@@ -1,4 +1,4 @@
-# Compute Cache API — Persistence of Cache
+# Compute Cache API - Persistence of Cache
 
 - The Compute Cache differs from flattened sequence data in that its contents never persist with the project, so whatever was computed has to be recomputed once the project is reopened.
 - Whenever After Effects needs the memory for something else, cache entries purge on their own. Write any code that depends on a cached value as though the compute step might have to run afresh every time.

@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: generative upscale models
+# Photoshop - Enumerations: generative upscale models
 
-Open when working with generative upscale models in Photoshop — Enumerations.
+Open when working with generative upscale models in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-generative-upscale.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Formatting characters and the Character panel
+# After Effects - Formatting characters and the Character panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a stroke (outline) to text in After Effects. [Add a stroke (outline) to text](add-a-stroke-outline-to-text.md).

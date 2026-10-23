@@ -1,4 +1,4 @@
-# Shared Adobe platform — Ovals
+# Shared Adobe platform - Ovals
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ovals collection iteration in Shared Adobe platform. [Ovals collection iteration](collection-iteration.md).

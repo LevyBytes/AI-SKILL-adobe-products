@@ -1,4 +1,4 @@
-# Audition — Creating Podcasts
+# Audition - Creating Podcasts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Applying effects in Audition. [Applying effects](applying-effects.md).

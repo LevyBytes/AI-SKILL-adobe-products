@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — duplicateSubtree(source, dest, sourceNS, sourceRoot, destNS, [destRoot], [options])
+# require('uxp').xmp.XMPUtils - duplicateSubtree(source, dest, sourceNS, sourceRoot, destNS, [destRoot], [options])
 
 Copies the requested subtree from `source` into `dest`; both parameters are [XMPMeta object](../xmp-meta/reference-index.md) instances.
 

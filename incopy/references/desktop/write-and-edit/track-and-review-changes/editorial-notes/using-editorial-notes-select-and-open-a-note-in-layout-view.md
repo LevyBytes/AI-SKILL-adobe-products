@@ -1,4 +1,4 @@
-# Using editorial notes — Select and open a note in Layout view
+# Using editorial notes - Select and open a note in Layout view
 
 In Layout view, a note anchor marks where a note is located. The Notes panel shows the note's contents and specific details about that note.
 

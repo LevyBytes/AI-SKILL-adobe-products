@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: paragraph composition, rules and spacing
+# Shared Adobe platform - Indesign: paragraph composition, rules and spacing
 
-Open when working with paragraph composition, rules and spacing in Shared Adobe platform — Indesign.
+Open when working with paragraph composition, rules and spacing in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-paragraph-composition.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: default fill and stroke settings
+# Shared Adobe platform - Document: default fill and stroke settings
 
-Open when working with default fill and stroke settings in Shared Adobe platform — Document.
+Open when working with default fill and stroke settings in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-default-paint.json).
 

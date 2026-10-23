@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Camera Lens Blur effect
+# Blur and Sharpen effects - Camera Lens Blur effect
 
 Think of this as the successor to the Lens Blur effect. It carries a wider blur radius (500) and runs far quicker than Lens Blur did. Unlike its predecessor, the Camera Lens Blur effect leaves Render Multiple Frames Simultaneously multiprocessing switched on.
 

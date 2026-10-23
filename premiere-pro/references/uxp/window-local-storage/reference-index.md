@@ -1,4 +1,4 @@
-# Premiere Pro — Window local storage
+# Premiere Pro - Window local storage
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up clear() in Premiere Pro. [clear()](clear.md).

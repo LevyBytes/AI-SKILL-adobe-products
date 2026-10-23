@@ -1,4 +1,4 @@
-# Character styles — CHANGED and NEW
+# Character styles - CHANGED and NEW
 
 Earlier `characterStyles` example:
 

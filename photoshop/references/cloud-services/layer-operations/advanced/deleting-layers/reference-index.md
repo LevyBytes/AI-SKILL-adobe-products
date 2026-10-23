@@ -1,4 +1,4 @@
-# Photoshop — Deleting layers
+# Photoshop - Deleting layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete operation changes in Photoshop. [Delete operation changes](delete-operation-changes.md).

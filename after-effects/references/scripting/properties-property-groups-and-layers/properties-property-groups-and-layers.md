@@ -1,4 +1,4 @@
-# After Effects Class Hierarchy — Properties, Property Groups, and Layers
+# After Effects Class Hierarchy - Properties, Property Groups, and Layers
 
 - Property object
 

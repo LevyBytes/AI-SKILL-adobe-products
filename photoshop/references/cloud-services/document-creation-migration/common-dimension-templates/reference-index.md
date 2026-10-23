@@ -1,4 +1,4 @@
-# Photoshop — Common dimension templates
+# Photoshop - Common dimension templates
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Social media sizes in Photoshop. [Social media sizes](social-media-sizes.md).

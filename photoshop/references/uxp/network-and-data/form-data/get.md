@@ -1,4 +1,4 @@
-# window.FormData — get(name)
+# window.FormData - get(name)
 
 Retrieves the first value tied to a specified key inside a FormData object.
 Use getAll() when multiple values may exist and you need the complete set.

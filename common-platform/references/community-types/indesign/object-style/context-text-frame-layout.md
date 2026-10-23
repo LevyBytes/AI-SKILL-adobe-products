@@ -1,6 +1,6 @@
-# Shared Adobe platform — ObjectStyle: text frame columns and autosizing
+# Shared Adobe platform - ObjectStyle: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in Shared Adobe platform — ObjectStyle.
+Open when checking text frame columns and autosizing in Shared Adobe platform - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

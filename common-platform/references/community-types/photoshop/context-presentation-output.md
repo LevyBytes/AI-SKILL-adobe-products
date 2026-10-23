@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: contact sheets, presentations and picture packages
+# Shared Adobe platform - Photoshop: contact sheets, presentations and picture packages
 
-Open when working with contact sheets, presentations and picture packages in Shared Adobe platform — Photoshop.
+Open when working with contact sheets, presentations and picture packages in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-presentation-output.json).
 

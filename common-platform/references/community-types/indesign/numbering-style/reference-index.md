@@ -1,4 +1,4 @@
-# Shared Adobe platform — NumberingStyle
+# Shared Adobe platform - NumberingStyle
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NumberingStyle declaration in Shared Adobe platform. [NumberingStyle declaration](declaration.md).

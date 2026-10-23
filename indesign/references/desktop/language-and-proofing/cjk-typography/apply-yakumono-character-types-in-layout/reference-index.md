@@ -1,4 +1,4 @@
-# InDesign — Apply Yakumono character types in layout
+# InDesign - Apply Yakumono character types in layout
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust spacing for specific punctuation in InDesign. [Adjust spacing for specific punctuation](adjust-spacing-for-specific-punctuation.md).

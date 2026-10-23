@@ -1,4 +1,4 @@
-# Sharing content — Simultaneously create assignments and add content (InDesign)
+# Sharing content - Simultaneously create assignments and add content (InDesign)
 
 In InDesign, build and save a document that contains one or more text frames, graphics frames, or placeholder items. Select the text and graphics frames to include. Then use one of these commands:
 

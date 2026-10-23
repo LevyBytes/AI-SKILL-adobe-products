@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "JavaScript APIs — Sound", "file": "references/scripting/sound/java-script-apis-sound.md", "summary": "Open when looking up JavaScript APIs — Sound in Acrobat.", "keywords": ["JavaScript APIs — Sound"]},
+  {"topic": "JavaScript APIs - Sound", "file": "references/scripting/sound/java-script-apis-sound.md", "summary": "Open when looking up JavaScript APIs - Sound in Acrobat.", "keywords": ["JavaScript APIs - Sound"]},
   {"topic": "name", "file": "references/scripting/sound/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
   {"topic": "pause", "file": "references/scripting/sound/pause.md", "summary": "Open when looking up pause in Acrobat.", "keywords": ["pause"]},
   {"topic": "play", "file": "references/scripting/sound/play.md", "summary": "Open when looking up play in Acrobat.", "keywords": ["play"]},

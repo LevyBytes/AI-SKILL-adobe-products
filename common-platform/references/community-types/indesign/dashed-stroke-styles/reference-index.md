@@ -1,4 +1,4 @@
-# Shared Adobe platform — DashedStrokeStyles
+# Shared Adobe platform - DashedStrokeStyles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DashedStrokeStyles collection iteration in Shared Adobe platform. [DashedStrokeStyles collection iteration](collection-iteration.md).

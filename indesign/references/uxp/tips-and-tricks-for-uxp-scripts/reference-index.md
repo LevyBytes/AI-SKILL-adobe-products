@@ -1,4 +1,4 @@
-# InDesign — Tips and tricks for UXP scripts
+# InDesign - Tips and tricks for UXP scripts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Associate a Text-Editor for .idjs Files in InDesign. [Associate a Text-Editor for .idjs Files](associate-a-text-editor-for-idjs-files.md).

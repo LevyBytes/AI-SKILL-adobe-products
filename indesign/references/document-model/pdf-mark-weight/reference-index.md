@@ -1,4 +1,4 @@
-# InDesign — PDFMarkWeight
+# InDesign - PDFMarkWeight
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up P125PT in InDesign. [P125PT](p125-pt.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — TrapPresets
+# Shared Adobe platform - TrapPresets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TrapPresets collection iteration in Shared Adobe platform. [TrapPresets collection iteration](collection-iteration.md).

@@ -1,6 +1,6 @@
-# InDesign — Table: text ranges and containers
+# InDesign - Table: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Table.
+Open when checking text ranges and containers in InDesign - Table.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

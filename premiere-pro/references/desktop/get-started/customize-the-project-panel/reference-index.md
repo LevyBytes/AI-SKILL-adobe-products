@@ -1,4 +1,4 @@
-# Premiere Pro — Customize the project panel
+# Premiere Pro - Customize the project panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align and reset clips to grid in Freeform View in Project panel in Premiere Pro. [Align and reset clips to grid in Freeform View in Project panel](freeform-view-grid-alignment.md).

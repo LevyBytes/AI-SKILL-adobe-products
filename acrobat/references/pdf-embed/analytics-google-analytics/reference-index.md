@@ -1,4 +1,4 @@
-# Acrobat — Analytics — Google Analytics
+# Acrobat - Analytics - Google Analytics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure Google Analytics in Acrobat. [Configure Google Analytics](configure-google-analytics.md).

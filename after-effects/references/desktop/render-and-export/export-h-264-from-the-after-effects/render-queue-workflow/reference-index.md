@@ -1,4 +1,4 @@
-# After Effects — Exporting H.264 from the After Effects Render Queue
+# After Effects - Exporting H.264 from the After Effects Render Queue
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up H.264 Output Module Presets in After Effects. [H.264 Output Module Presets](h-264-output-module-presets.md).

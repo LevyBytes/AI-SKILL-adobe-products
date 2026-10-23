@@ -1,6 +1,6 @@
-# InDesign — Button: layers, stacking and master overrides
+# InDesign - Button: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — Button.
+Open when checking layers, stacking and master overrides in InDesign - Button.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

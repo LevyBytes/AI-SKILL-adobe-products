@@ -1,4 +1,4 @@
-# Photoshop — Photoshop API Key Concepts
+# Photoshop - Photoshop API Key Concepts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About layers and the target layer in Photoshop. [About layers and the target layer](about-layers-and-the-target-layer.md).

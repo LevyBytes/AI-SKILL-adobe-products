@@ -1,6 +1,6 @@
-# InDesign — SplineItem: placement, bounds and transformations
+# InDesign - SplineItem: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — SplineItem.
+Open when checking placement, bounds and transformations in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

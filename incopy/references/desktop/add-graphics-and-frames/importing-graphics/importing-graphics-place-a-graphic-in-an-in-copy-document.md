@@ -1,4 +1,4 @@
-# Importing graphics — Place a graphic in an InCopy document
+# Importing graphics - Place a graphic in an InCopy document
 
 Use one of these approaches:
 

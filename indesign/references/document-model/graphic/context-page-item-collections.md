@@ -1,6 +1,6 @@
-# InDesign — Graphic: page item collections
+# InDesign - Graphic: page item collections
 
-Open when checking page item collections in InDesign — Graphic.
+Open when checking page item collections in InDesign - Graphic.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

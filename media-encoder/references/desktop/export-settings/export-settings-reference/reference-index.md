@@ -1,4 +1,4 @@
-# Media Encoder — Export Settings Reference
+# Media Encoder - Export Settings Reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio in Media Encoder. [Audio](audio.md).

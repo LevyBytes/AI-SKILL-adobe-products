@@ -1,6 +1,6 @@
-# Shared Adobe platform — Text: generate qr codes
+# Shared Adobe platform - Text: generate qr codes
 
-Open when checking generate qr codes in Shared Adobe platform — Text.
+Open when checking generate qr codes in Shared Adobe platform - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

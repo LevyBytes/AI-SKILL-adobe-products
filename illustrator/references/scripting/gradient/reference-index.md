@@ -1,4 +1,4 @@
-# Illustrator — Gradient
+# Illustrator - Gradient
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Gradient.gradientStops in Illustrator. [Gradient.gradientStops](gradient-stops.md).

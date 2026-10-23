@@ -1,4 +1,4 @@
-# BridgeTalk message object — BridgeTalk message object constructor
+# BridgeTalk message object - BridgeTalk message object constructor
 
 Use this simple constructor to create a new message object:
 

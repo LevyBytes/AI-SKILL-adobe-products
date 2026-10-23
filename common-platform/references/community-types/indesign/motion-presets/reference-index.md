@@ -1,4 +1,4 @@
-# Shared Adobe platform — MotionPresets
+# Shared Adobe platform - MotionPresets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MotionPresets collection iteration in Shared Adobe platform. [MotionPresets collection iteration](collection-iteration.md).

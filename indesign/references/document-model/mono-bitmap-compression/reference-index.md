@@ -1,4 +1,4 @@
-# InDesign — MonoBitmapCompression
+# InDesign - MonoBitmapCompression
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CCIT3 in InDesign. [CCIT3](ccit3.md).

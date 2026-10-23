@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeGrepPreference: paragraph alignment and spacing
+# Shared Adobe platform - ChangeGrepPreference: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in Shared Adobe platform — ChangeGrepPreference.
+Open when checking paragraph alignment and spacing in Shared Adobe platform - ChangeGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

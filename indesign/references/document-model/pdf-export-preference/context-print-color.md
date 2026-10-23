@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreference: output color, screening and overprint
+# InDesign - PDFExportPreference: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — PDFExportPreference.
+Open when checking output color, screening and overprint in InDesign - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

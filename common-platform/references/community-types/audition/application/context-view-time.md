@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: time, tempo and frame-rate displays
+# Shared Adobe platform - Application: time, tempo and frame-rate displays
 
-Open when working with time, tempo and frame-rate displays in Shared Adobe platform — Application.
+Open when working with time, tempo and frame-rate displays in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-view-time.json).
 

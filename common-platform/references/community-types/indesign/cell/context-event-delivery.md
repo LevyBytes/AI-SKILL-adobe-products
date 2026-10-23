@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cell: events and listeners
+# Shared Adobe platform - Cell: events and listeners
 
-Open when checking events and listeners in Shared Adobe platform — Cell.
+Open when checking events and listeners in Shared Adobe platform - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

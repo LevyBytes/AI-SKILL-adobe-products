@@ -1,4 +1,4 @@
-# Illustrator — Use generative ai
+# Illustrator - Use generative ai
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common questions about generative AI features in Adobe Illustrator in Illustrator. [Common questions about generative AI features in Adobe Illustrator](generative-ai-feature-questions.md).

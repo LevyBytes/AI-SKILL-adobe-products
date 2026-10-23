@@ -1,4 +1,4 @@
-# Photoshop — Select a Color Range in Photoshop
+# Photoshop - Select a Color Range in Photoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Preview the selection in Photoshop. [Preview the selection](preview-the-selection.md).

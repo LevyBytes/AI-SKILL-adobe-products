@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: placement, bounds and transformations
+# Shared Adobe platform - Document: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in Shared Adobe platform — Document.
+Open when checking placement, bounds and transformations in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

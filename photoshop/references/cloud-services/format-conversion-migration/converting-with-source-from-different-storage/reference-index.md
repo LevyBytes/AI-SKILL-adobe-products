@@ -1,4 +1,4 @@
-# Photoshop — Converting with source from different storage
+# Photoshop - Converting with source from different storage
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up From Adobe Assets in Photoshop. [From Adobe Assets](from-adobe-assets.md).

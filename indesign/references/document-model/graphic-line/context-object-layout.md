@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: placement, bounds and transformations
+# InDesign - GraphicLine: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — GraphicLine.
+Open when checking placement, bounds and transformations in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

@@ -1,6 +1,6 @@
-# InDesign — MediaItem: export documents and select formats
+# InDesign - MediaItem: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — MediaItem.
+Open when checking export documents and select formats in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

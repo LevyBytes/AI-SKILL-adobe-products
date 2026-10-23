@@ -1,4 +1,4 @@
-# Scripting Constants — FlashPlaybackSecurity
+# Scripting Constants - FlashPlaybackSecurity
 
 | Value | Description |
 | --- | --- |

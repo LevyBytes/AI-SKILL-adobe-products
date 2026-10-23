@@ -1,4 +1,4 @@
-# Illustrator — GradientStop
+# Illustrator - GradientStop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GradientStop.color in Illustrator. [GradientStop.color](color.md).

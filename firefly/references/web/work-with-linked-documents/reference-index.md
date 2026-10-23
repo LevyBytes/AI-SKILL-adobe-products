@@ -1,4 +1,4 @@
-# Firefly — Work with linked documents
+# Firefly - Work with linked documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and use linked PSD or AI files directly inside Firefly Boards. in Firefly. [Create and use linked PSD or AI files directly inside Firefly Boards.](linked-psd-and-ai-board-documents.md).

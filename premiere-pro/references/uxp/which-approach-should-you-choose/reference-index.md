@@ -1,4 +1,4 @@
-# Premiere Pro — Which Approach Should You Choose?
+# Premiere Pro - Which Approach Should You Choose?
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Start with Spectrum UXP Widgets if you: in Premiere Pro. [Start with Spectrum UXP Widgets if you:](start-with-spectrum-uxp-widgets-if-you.md).

@@ -1,4 +1,4 @@
-# After Effects — Tracking 3D camera movement
+# After Effects - Tracking 3D camera movement
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D camera tracker effect in After Effects. [3D camera tracker effect](3-d-camera-tracker-effect.md).

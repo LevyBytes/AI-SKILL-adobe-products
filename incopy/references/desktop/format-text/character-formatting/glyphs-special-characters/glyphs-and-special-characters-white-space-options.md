@@ -1,4 +1,4 @@
-# Glyphs and special characters — White space options
+# Glyphs and special characters - White space options
 
 The Type > Insert White Space menu provides these options:
 

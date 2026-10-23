@@ -1,4 +1,4 @@
-# Photoshop — Create animation frames
+# Photoshop - Create animation frames
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add frames to animations in Photoshop. [Add frames to animations](add-frames-to-animations.md).

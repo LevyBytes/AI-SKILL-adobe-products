@@ -1,4 +1,4 @@
-# AEGP Suites — Layer Creation Notes
+# AEGP Suites - Layer Creation Notes
 
 Every layer made with AEGP calls begins at composition time 0 and lasts as long as the composition does.
 

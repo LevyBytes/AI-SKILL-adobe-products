@@ -1,4 +1,4 @@
-# After Effects — After effects 26
+# After Effects - After effects 26
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After Effects 26.0 (January 2026) in After Effects. [After Effects 26.0 (January 2026)](after-effects-26-0-january-2026.md).

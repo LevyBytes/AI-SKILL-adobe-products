@@ -1,4 +1,4 @@
-# Premiere Pro — Remix audio in Audition to match video duration
+# Premiere Pro - Remix audio in Audition to match video duration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export the remixed audio back to Premiere in Premiere Pro. [Export the remixed audio back to Premiere](export-the-remixed-audio-back-to-premiere.md).

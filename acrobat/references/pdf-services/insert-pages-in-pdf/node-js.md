@@ -1,6 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [insert-pdf-pages.cjs](../examples/node/insert-pdf-pages/insert-pdf-pages.cjs)
-- [dependencies.cjs](../examples/node/insert-pdf-pages/dependencies.cjs)
-- [helpers.cjs](../examples/node/insert-pdf-pages/helpers.cjs)
+- [insert-pdf-pages setup and source](../examples/node/insert-pdf-pages/insert-pdf-pages-setup.md)

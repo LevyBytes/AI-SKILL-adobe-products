@@ -1,4 +1,4 @@
-# Effect UI & Events — Events
+# Effect UI & Events - Events
 
 Event
 

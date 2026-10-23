@@ -1,4 +1,4 @@
-# Acrobat — Application integrations
+# Acrobat - Application integrations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access Acrobat admin settings in Acrobat. [Access Acrobat admin settings](access-acrobat-admin-settings.md).

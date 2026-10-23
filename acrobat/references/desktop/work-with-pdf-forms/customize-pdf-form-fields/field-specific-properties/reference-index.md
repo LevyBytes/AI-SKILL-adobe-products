@@ -1,4 +1,4 @@
-# Acrobat — Field specific properties
+# Acrobat - Field specific properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Barcode field properties in Acrobat. [Barcode field properties](barcode-field-properties.md).

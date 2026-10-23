@@ -1,4 +1,4 @@
-# Shared Adobe platform — The Script Editor
+# Shared Adobe platform - The Script Editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bookmarks in Shared Adobe platform. [Bookmarks](bookmarks.md).

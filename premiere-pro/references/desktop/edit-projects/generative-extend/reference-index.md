@@ -1,4 +1,4 @@
-# Premiere Pro — Generative extend
+# Premiere Pro - Generative extend
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choosing eight-bit Generative Extend output in Premiere Pro. [Choosing eight-bit Generative Extend output](choosing-eight-bit-generative-extend-output.md).

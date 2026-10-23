@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cell: cell and table border strokes
+# Shared Adobe platform - Cell: cell and table border strokes
 
-Open when checking cell and table border strokes in Shared Adobe platform — Cell.
+Open when checking cell and table border strokes in Shared Adobe platform - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-borders.json).
 

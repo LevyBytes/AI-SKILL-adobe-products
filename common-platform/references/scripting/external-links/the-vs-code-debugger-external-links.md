@@ -1,4 +1,4 @@
-# The VS Code Debugger — External Links
+# The VS Code Debugger - External Links
 
 For background on the VS Code debugger and official announcements about it, consult these items:
 

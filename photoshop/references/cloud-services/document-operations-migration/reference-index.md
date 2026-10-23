@@ -1,4 +1,4 @@
-# Photoshop — Document operations migration
+# Photoshop - Document operations migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Available document operations in Photoshop. [Available document operations](available-document-operations.md).

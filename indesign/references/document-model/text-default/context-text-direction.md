@@ -1,6 +1,6 @@
-# InDesign — Text default: writing direction and diacritics
+# InDesign - Text default: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — Text default.
+Open when checking writing direction and diacritics in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

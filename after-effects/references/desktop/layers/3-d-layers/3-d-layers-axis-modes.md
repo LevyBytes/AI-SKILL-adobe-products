@@ -1,4 +1,4 @@
-# 3D layers — Axis modes
+# 3D layers - Axis modes
 
 Which set of axes a 3D layer transforms along is governed by axis modes. Pick one from the Tools panel.
 

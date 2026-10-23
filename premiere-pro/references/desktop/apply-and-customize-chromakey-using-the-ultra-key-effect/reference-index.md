@@ -1,4 +1,4 @@
-# Premiere Pro — Apply and customize chromakey using the ultra key effect
+# Premiere Pro - Apply and customize chromakey using the ultra key effect
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply the Ultra Key effect in Premiere Pro. [Apply the Ultra Key effect](apply-the-ultra-key-effect.md).

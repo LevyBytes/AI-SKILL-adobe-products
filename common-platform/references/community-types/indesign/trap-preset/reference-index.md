@@ -1,4 +1,4 @@
-# Shared Adobe platform — TrapPreset
+# Shared Adobe platform - TrapPreset
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TrapPreset declaration in Shared Adobe platform. [TrapPreset declaration](declaration.md).

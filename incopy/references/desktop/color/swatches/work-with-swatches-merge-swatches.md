@@ -1,4 +1,4 @@
-# Work with swatches — Merge swatches
+# Work with swatches - Merge swatches
 
 Importing swatches or copying items from another document can create duplicate swatches, and those duplicates might be assigned to different objects. Merge Swatches combines the duplicates.
 

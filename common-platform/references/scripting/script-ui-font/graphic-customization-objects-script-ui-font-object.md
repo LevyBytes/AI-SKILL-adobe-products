@@ -1,4 +1,4 @@
-# Graphic customization objects — ScriptUIFont Object
+# Graphic customization objects - ScriptUIFont Object
 
 ScriptUIFont is a helper wrapper for the font settings used when text is drawn into a control. Create one with the ScriptUI class's newFont() method.
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — CEP and ExtendScript integration: export host files and call external services
+# Shared Adobe platform - CEP and ExtendScript integration: export host files and call external services
 
-Open when working with export host files and call external services in Shared Adobe platform — CEP and ExtendScript integration.
+Open when working with export host files and call external services in Shared Adobe platform - CEP and ExtendScript integration.
 
 Open when selecting an exact reference: [Topic catalog](context-host-files.json).
 

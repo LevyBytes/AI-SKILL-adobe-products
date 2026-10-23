@@ -1,4 +1,4 @@
-# Shared Adobe platform — CompositeFontEntries
+# Shared Adobe platform - CompositeFontEntries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CompositeFontEntries collection iteration in Shared Adobe platform. [CompositeFontEntries collection iteration](collection-iteration.md).

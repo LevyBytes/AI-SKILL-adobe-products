@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Compress pdf with options example setup", "file": "references/pdf-services/examples/dotnet/compress-pdf-with-options/compress-pdf-with-options-setup.md", "summary": "Open when looking up Compress pdf with options example setup in Acrobat.", "keywords": ["Compress pdf with options example setup"]},
-  {"topic": "CompressPDFWithOptions", "file": "references/pdf-services/examples/dotnet/compress-pdf-with-options/Program.cs", "summary": "Open when looking up CompressPDFWithOptions in Acrobat.", "keywords": ["CompressPDFWithOptions"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

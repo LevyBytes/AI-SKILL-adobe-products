@@ -1,4 +1,4 @@
-# Adjusting your workflow — Correct mistakes
+# Adjusting your workflow - Correct mistakes
 
 If you make an error, discard the edits made after the last Save command and restore the file-system copy of the content.
 

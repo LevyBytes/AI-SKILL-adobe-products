@@ -1,4 +1,4 @@
-# Premiere Pro — Generative extend known issues
+# Premiere Pro - Generative extend known issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After Effects composition replacement unsupported in Premiere Pro. [After Effects composition replacement unsupported](after-effects-composition-replacement-unsupported.md).

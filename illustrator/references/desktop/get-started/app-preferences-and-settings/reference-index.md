@@ -1,4 +1,4 @@
-# Illustrator — App preferences and settings
+# Illustrator - App preferences and settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessibility features in Adobe Illustrator in Illustrator. [Accessibility features in Adobe Illustrator](accessibility-features-in-adobe-illustrator.md).

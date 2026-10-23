@@ -1,4 +1,4 @@
-# Illustrator — PluginItem
+# Illustrator - PluginItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PluginItem.artworkKnockout in Illustrator. [PluginItem.artworkKnockout](artwork-knockout.md).

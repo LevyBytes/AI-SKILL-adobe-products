@@ -1,6 +1,6 @@
-# InDesign — Text style range: cjk grids and composition
+# InDesign - Text style range: cjk grids and composition
 
-Open when checking cjk grids and composition in InDesign — Text style range.
+Open when checking cjk grids and composition in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

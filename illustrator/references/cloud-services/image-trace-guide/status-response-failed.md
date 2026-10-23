@@ -11,5 +11,5 @@
 
 ### Related links
 
-- [**Image Trace API (public beta)**](https://raw.githubusercontent.com/AdobeDocs/ffs-illustrator-api/033ed1d5ffbf17213aefd11b5a39a0da218f8d06/src/pages/api/beta/index.md) — OpenAPI reference (`submitImageVectorizeJob`, `vectorizeJobStatus`).
-- [**Custom Script Guide**](https://raw.githubusercontent.com/AdobeDocs/ffs-illustrator-api/033ed1d5ffbf17213aefd11b5a39a0da218f8d06/src/pages/guides/custom-scripts/index.md) — A separate beta flow that also relies on asynchronous job polling.
+- [**Image Trace API (public beta)**](https://raw.githubusercontent.com/AdobeDocs/ffs-illustrator-api/033ed1d5ffbf17213aefd11b5a39a0da218f8d06/src/pages/api/beta/index.md): OpenAPI reference (`submitImageVectorizeJob`, `vectorizeJobStatus`).
+- [**Custom Script Guide**](https://raw.githubusercontent.com/AdobeDocs/ffs-illustrator-api/033ed1d5ffbf17213aefd11b5a39a0da218f8d06/src/pages/guides/custom-scripts/index.md): A separate beta flow that also relies on asynchronous job polling.

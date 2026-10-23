@@ -1,6 +1,6 @@
-# Shared Adobe platform — Table: alternating row and column formats
+# Shared Adobe platform - Table: alternating row and column formats
 
-Open when checking alternating row and column formats in Shared Adobe platform — Table.
+Open when checking alternating row and column formats in Shared Adobe platform - Table.
 
 Open when selecting an exact API member: [Topic catalog](context-alternating-table-formats.json).
 

@@ -1,4 +1,4 @@
-# Workspace basics — (Photoshop) Restore a saved workspace arrangement
+# Workspace basics - (Photoshop) Restore a saved workspace arrangement
 
 Photoshop automatically shows workspaces in their most recent arrangement, but the originally saved panel layout can still be restored.
 

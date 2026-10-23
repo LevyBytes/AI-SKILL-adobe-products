@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "JavaScript APIs — DataSourceInfo", "file": "references/scripting/data-source-info/java-script-apis-data-source-info.md", "summary": "Open when looking up JavaScript APIs — DataSourceInfo in Acrobat.", "keywords": ["JavaScript APIs — DataSourceInfo"]},
+  {"topic": "JavaScript APIs - DataSourceInfo", "file": "references/scripting/data-source-info/java-script-apis-data-source-info.md", "summary": "Open when looking up JavaScript APIs - DataSourceInfo in Acrobat.", "keywords": ["JavaScript APIs - DataSourceInfo"]},
   {"topic": "name", "file": "references/scripting/data-source-info/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -8,7 +8,7 @@ Consider a plugin that needs to combine both API categories. Suppose it must:
 
 Each step maps to a different API area:
 
-**Step 1: Read file content** — Read with the `fs` module from UXP
+**Step 1: Read file content**: Read with the `fs` module from UXP
 
 ```javascript
 const fs = require("fs");
@@ -16,7 +16,7 @@ const file = await fs.getFileForOpening();
 const content = await file.read();
 ```
 
-**Step 2: Create text layer** — Create it through the Premiere DOM APIs
+**Step 2: Create text layer**: Create it through the Premiere DOM APIs
 
 ```javascript
 const app = require("premierepro");
@@ -24,7 +24,7 @@ const sequence = app.project.activeSequence;
 // Add text layer to sequence
 ```
 
-**Step 3: Apply styling** — Combine both API areas
+**Step 3: Apply styling**: Combine both API areas
 
 ```javascript
 // Premiere APIs to modify the clip properties

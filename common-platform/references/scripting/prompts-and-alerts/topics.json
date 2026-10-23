@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Types of controls — Prompts and alerts", "file": "references/scripting/prompts-and-alerts/types-of-controls-prompts-and-alerts.md", "summary": "Open when looking up Types of controls — Prompts and alerts in Shared Adobe platform.", "keywords": ["Types of controls — Prompts and alerts"]},
+  {"topic": "Types of controls - Prompts and alerts", "file": "references/scripting/prompts-and-alerts/types-of-controls-prompts-and-alerts.md", "summary": "Open when looking up Types of controls - Prompts and alerts in Shared Adobe platform.", "keywords": ["Types of controls - Prompts and alerts"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

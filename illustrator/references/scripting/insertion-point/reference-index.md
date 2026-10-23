@@ -1,4 +1,4 @@
-# Illustrator — InsertionPoint
+# Illustrator - InsertionPoint
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up InsertionPoint.characters in Illustrator. [InsertionPoint.characters](characters.md).

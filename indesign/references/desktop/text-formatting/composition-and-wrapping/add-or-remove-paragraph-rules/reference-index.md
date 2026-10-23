@@ -1,4 +1,4 @@
-# InDesign — Add or remove paragraph rules
+# InDesign - Add or remove paragraph rules
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a rule above or below a paragraph in InDesign. [Add a rule above or below a paragraph](add-a-rule-above-or-below-a-paragraph.md).

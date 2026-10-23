@@ -1,4 +1,4 @@
-# Scripting Constants — PrintColorProfile
+# Scripting Constants - PrintColorProfile
 
 | Value | Description |
 | --- | --- |

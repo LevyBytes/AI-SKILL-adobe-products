@@ -1,4 +1,4 @@
-# Premiere Pro — Edit with Generative AI
+# Premiere Pro - Edit with Generative AI
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add frames using Generative Extend in Premiere Pro. [Add frames using Generative Extend](add-frames-using-generative-extend.md).

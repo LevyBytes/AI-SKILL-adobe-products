@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: table and cell styles
+# Shared Adobe platform - Story: table and cell styles
 
-Open when checking table and cell styles in Shared Adobe platform — Story.
+Open when checking table and cell styles in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-table-styles.json).
 

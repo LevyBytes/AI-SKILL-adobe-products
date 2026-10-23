@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: interactive form fields and states
+# Shared Adobe platform - Indesign: interactive form fields and states
 
-Open when working with interactive form fields and states in Shared Adobe platform — Indesign.
+Open when working with interactive form fields and states in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-interactive-fields.json).
 

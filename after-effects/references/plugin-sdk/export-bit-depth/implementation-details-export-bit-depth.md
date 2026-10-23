@@ -1,4 +1,4 @@
-# Implementation Details — Export Bit-Depth
+# Implementation Details - Export Bit-Depth
 
 In Output Module Settings, the user can choose Depth from the options that the AEIO declares as supported through `AEIO_GetDepths`() from `AEIO_FunctionBlock4`.
 

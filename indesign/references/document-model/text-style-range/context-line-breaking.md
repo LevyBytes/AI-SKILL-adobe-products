@@ -1,6 +1,6 @@
-# InDesign — Text style range: line breaks and hyphenation
+# InDesign - Text style range: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in InDesign — Text style range.
+Open when checking line breaks and hyphenation in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

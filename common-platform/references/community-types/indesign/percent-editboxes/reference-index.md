@@ -1,4 +1,4 @@
-# Shared Adobe platform — PercentEditboxes
+# Shared Adobe platform - PercentEditboxes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PercentEditboxes collection iteration in Shared Adobe platform. [PercentEditboxes collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# Acrobat — Share and review documents
+# Acrobat - Share and review documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Manage comment preferences in Acrobat. [Manage comment preferences](manage-comment-preferences.md).

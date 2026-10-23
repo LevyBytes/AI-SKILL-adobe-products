@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Artisan Data Types — Interactive Drawing Functions", "file": "references/plugin-sdk/interactive-drawing-functions/artisan-data-types-interactive-drawing-functions.md", "summary": "Open when looking up Artisan Data Types — Interactive Drawing Functions in After Effects.", "keywords": ["Artisan Data Types — Interactive Drawing Functions"]},
+  {"topic": "Artisan Data Types - Interactive Drawing Functions", "file": "references/plugin-sdk/interactive-drawing-functions/artisan-data-types-interactive-drawing-functions.md", "summary": "Open when looking up Artisan Data Types - Interactive Drawing Functions in After Effects.", "keywords": ["Artisan Data Types - Interactive Drawing Functions"]},
   {"topic": "PR_InteractiveDrawProcs", "file": "references/plugin-sdk/interactive-drawing-functions/pr-interactive-draw-procs.md", "summary": "Open when looking up PR_InteractiveDrawProcs in After Effects.", "keywords": ["PR_InteractiveDrawProcs"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

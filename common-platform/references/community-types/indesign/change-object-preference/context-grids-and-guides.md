@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeObjectPreference: baseline grids and layout guides
+# Shared Adobe platform - ChangeObjectPreference: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in Shared Adobe platform — ChangeObjectPreference.
+Open when checking baseline grids and layout guides in Shared Adobe platform - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

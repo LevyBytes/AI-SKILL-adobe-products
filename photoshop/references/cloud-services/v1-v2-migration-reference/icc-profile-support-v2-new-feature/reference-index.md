@@ -1,4 +1,4 @@
-# Photoshop — ICC profile support (V2 new feature)
+# Photoshop - ICC profile support (V2 new feature)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conversion behavior with ICC profile in Photoshop. [Conversion behavior with ICC profile](conversion-behavior-with-icc-profile.md).

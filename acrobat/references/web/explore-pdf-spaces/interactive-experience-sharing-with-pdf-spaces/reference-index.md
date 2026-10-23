@@ -1,4 +1,4 @@
-# Acrobat — Interactive experience sharing with PDF Spaces
+# Acrobat - Interactive experience sharing with PDF Spaces
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customizable Overview (entry point) in Acrobat. [Customizable Overview (entry point)](customizable-overview-entry-point.md).

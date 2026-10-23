@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: clipboard and communication between plugins
+# InDesign - UXP plugins and APIs: clipboard and communication between plugins
 
-Open when working with clipboard and communication between plugins in InDesign — UXP plugins and APIs.
+Open when working with clipboard and communication between plugins in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-plugin-communication.json).
 

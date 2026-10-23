@@ -1,4 +1,4 @@
-# Media Encoder — Release history
+# Media Encoder - Release history
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Media Encoder feature summary (2025 releases) in Media Encoder. [Adobe Media Encoder feature summary (2025 releases)](adobe-media-encoder-feature-summary-2025-releases.md).

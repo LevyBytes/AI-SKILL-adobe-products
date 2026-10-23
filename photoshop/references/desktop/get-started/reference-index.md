@@ -1,4 +1,4 @@
-# Photoshop — Get started
+# Photoshop - Get started
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Learn the basics in Photoshop. [Learn the basics references](learn-the-basics/reference-index.md).

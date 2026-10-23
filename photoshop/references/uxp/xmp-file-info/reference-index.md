@@ -1,4 +1,4 @@
-# Photoshop — XMPFileInfo
+# Photoshop - XMPFileInfo
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up filePath : string in Photoshop. [filePath : string](file-path-string.md).

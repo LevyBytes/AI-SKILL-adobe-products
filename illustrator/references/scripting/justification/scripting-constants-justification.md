@@ -1,4 +1,4 @@
-# Scripting Constants — Justification
+# Scripting Constants - Justification
 
 Sets paragraph text alignment and justification.
 

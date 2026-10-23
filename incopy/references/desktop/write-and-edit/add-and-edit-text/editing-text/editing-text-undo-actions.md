@@ -1,4 +1,4 @@
-# Editing text — Undo actions
+# Editing text - Undo actions
 
 InCopy can undo or redo as many as several hundred recent actions. The available undo depth depends on installed RAM and on the types of actions performed. Saving, closing, quitting, or exiting clears the recent-action record, so those actions are no longer available for undo. You can also cancel an operation before it finishes or return content to an earlier saved version.
 

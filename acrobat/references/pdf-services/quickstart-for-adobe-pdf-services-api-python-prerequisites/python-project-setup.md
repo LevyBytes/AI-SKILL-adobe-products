@@ -1,4 +1,4 @@
-# Quickstart for Adobe PDF Services API (Python) — Step Two: Setting up the project
+# Quickstart for Adobe PDF Services API (Python) - Step Two: Setting up the project
 
 1. Inside your Downloads folder, locate the credentials archive named PDFServicesSDK-PythonSamples.zip. Extracting it reveals a samples folder alongside the `pdfservices-api-credentials.json` file.
 

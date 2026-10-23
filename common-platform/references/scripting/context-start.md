@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: extendscript language and host foundations
+# Shared Adobe platform - Scripting APIs: extendscript language and host foundations
 
-Open when working with extendscript language and host foundations in Shared Adobe platform — Scripting APIs.
+Open when working with extendscript language and host foundations in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-start.json).
 

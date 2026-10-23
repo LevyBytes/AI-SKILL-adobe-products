@@ -1,4 +1,4 @@
-# InDesign — SearchModes
+# InDesign - SearchModes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up COLOR_SEARCH in InDesign. [COLOR_SEARCH](colorsearch.md).

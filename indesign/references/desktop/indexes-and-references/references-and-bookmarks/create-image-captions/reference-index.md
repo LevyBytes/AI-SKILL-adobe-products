@@ -1,4 +1,4 @@
-# InDesign — Create image captions
+# InDesign - Create image captions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create custom caption variables in InDesign. [Create custom caption variables](create-custom-caption-variables.md).

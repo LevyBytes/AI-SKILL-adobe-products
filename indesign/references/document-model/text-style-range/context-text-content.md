@@ -1,6 +1,6 @@
-# InDesign — Text style range: read and edit text
+# InDesign - Text style range: read and edit text
 
-Open when checking read and edit text in InDesign — Text style range.
+Open when checking read and edit text in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

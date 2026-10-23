@@ -1,4 +1,4 @@
-# Formatting characters — Apply underline or strikethrough
+# Formatting characters - Apply underline or strikethrough
 
 The size of the type determines the default underline and strikethrough weight.
 

@@ -1,4 +1,4 @@
-# Acrobat — Export PDF Form Data
+# Acrobat - Export PDF Form Data
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Important Notes: in Acrobat. [Important Notes:](important-notes.md).

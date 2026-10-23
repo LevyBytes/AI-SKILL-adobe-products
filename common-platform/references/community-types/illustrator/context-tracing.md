@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: image tracing
+# Shared Adobe platform - Illustrator: image tracing
 
-Open when working with image tracing in Shared Adobe platform — Illustrator.
+Open when working with image tracing in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-tracing.json).
 

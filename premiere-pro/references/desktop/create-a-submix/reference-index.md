@@ -1,4 +1,4 @@
-# Premiere Pro — Create a submix
+# Premiere Pro - Create a submix
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How Submixes Differ from Audio Tracks in Premiere Pro. [How Submixes Differ from Audio Tracks](how-submixes-differ-from-audio-tracks.md).

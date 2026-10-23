@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: color profiles and rendering intents
+# Shared Adobe platform - Indesign: color profiles and rendering intents
 
-Open when working with color profiles and rendering intents in Shared Adobe platform — Indesign.
+Open when working with color profiles and rendering intents in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-color-management.json).
 

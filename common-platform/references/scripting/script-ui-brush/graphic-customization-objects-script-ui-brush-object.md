@@ -1,4 +1,4 @@
-# Graphic customization objects — ScriptUIBrush Object
+# Graphic customization objects - ScriptUIBrush Object
 
 ScriptUIBrush is a helper wrapper for the brush settings used when a control fills a path. Create one with the ScriptUIGraphics object's newBrush() method.
 

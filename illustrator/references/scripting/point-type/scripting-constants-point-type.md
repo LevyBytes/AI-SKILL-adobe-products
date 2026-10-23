@@ -1,4 +1,4 @@
-# Scripting Constants — PointType
+# Scripting Constants - PointType
 
 Indicates which path point kind is currently selected.
 

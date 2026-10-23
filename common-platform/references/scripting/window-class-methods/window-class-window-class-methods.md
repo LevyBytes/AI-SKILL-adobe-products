@@ -1,4 +1,4 @@
-# Window class — Window Class Methods
+# Window class - Window Class Methods
 
 Call these functions on the class. Example:
 

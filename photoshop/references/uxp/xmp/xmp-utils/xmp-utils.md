@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — XMPUtils()
+# require('uxp').xmp.XMPUtils - XMPUtils()
 
 XMPUtils supplies static-only helper routines for the XMP Toolkit on top of the [XMPMeta object](../xmp-meta/reference-index.md). You do not instantiate this class.
 

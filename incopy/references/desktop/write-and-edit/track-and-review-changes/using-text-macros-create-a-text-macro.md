@@ -1,4 +1,4 @@
-# Using text macros — Create a text macro
+# Using text macros - Create a text macro
 
 A textmacro acts as a shortcut for a keystroke sequence. It may be simple, such as entering a frequently used word or phrase, or more complex, such as a formatted address. The macro code is the name assigned to the text macro. For example, rather than repeatedly typing "Centers for Disease Control and Prevention," you can define a macro code such as "cdc" that expands to the full name.
 

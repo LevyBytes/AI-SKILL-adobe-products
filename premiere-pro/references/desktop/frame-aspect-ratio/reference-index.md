@@ -1,4 +1,4 @@
-# Premiere Pro — Frame aspect ratio
+# Premiere Pro - Frame aspect ratio
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Frame aspect ratios in Adobe Premiere in Premiere Pro. [Frame aspect ratios in Adobe Premiere](frame-aspect-ratios-in-adobe-premiere.md).

@@ -1,4 +1,4 @@
-# Illustrator — Custom Script Guide
+# Illustrator - Custom Script Guide
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Custom script ZIP structure in Illustrator. [Custom script ZIP structure](custom-script-zip-structure.md).

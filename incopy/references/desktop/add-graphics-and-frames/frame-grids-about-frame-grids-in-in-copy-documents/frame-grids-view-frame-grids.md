@@ -1,4 +1,4 @@
-# Frame grids — View frame grids
+# Frame grids - View frame grids
 
 Normally, frame grids are visible.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — PreflightRuleInstances
+# Shared Adobe platform - PreflightRuleInstances
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PreflightRuleInstances collection iteration in Shared Adobe platform. [PreflightRuleInstances collection iteration](collection-iteration.md).

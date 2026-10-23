@@ -1,4 +1,4 @@
-# Structuring documents for XML — Add a comment
+# Structuring documents for XML - Add a comment
 
 Select the element that should receive the comment. Note
 

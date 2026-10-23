@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: other hosts
+# After Effects - C++ plugin SDK: other hosts
 
-Open when working with other hosts in After Effects — C++ plugin SDK.
+Open when working with other hosts in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-ppro-other-hosts.json).
 

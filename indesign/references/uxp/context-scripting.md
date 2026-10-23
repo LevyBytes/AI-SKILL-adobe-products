@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: script arguments, execution and results
+# InDesign - UXP plugins and APIs: script arguments, execution and results
 
-Open when working with script arguments, execution and results in InDesign — UXP plugins and APIs.
+Open when working with script arguments, execution and results in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-scripting.json).
 

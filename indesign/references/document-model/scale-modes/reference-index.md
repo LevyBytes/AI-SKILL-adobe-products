@@ -1,4 +1,4 @@
-# InDesign — ScaleModes
+# InDesign - ScaleModes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SCALE_TO_FIT in InDesign. [SCALE_TO_FIT](scaletofit.md).

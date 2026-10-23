@@ -1,4 +1,4 @@
-# After Effects — List of effects
+# After Effects - List of effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Channel Effects in After Effects. [3D Channel Effects](3-d-channel-effects.md).

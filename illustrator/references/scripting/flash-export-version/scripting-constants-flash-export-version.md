@@ -1,4 +1,4 @@
-# Scripting Constants — FlashExportVersion
+# Scripting Constants - FlashExportVersion
 
 This value sets the SWF version for export.
 

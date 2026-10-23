@@ -1,4 +1,4 @@
-# Communications overview — Identifying applications
+# Communications overview - Identifying applications
 
 For external function calls or message exchange, scripts identify target applications with namespace specifiers. A specifier includes a particular name string, such as photoshop, plus optional parts for targeting a release or locale version. Application specifiers also appear in some other contexts. For syntax details, see Application and namespace specifiers.
 

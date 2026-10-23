@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: socket networking
+# Shared Adobe platform - Shared: socket networking
 
-Open when working with socket networking in Shared Adobe platform — Shared.
+Open when working with socket networking in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-socket.json).
 

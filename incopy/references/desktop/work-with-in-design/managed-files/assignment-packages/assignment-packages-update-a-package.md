@@ -1,4 +1,4 @@
-# Assignment packages — Update a package
+# Assignment packages - Update a package
 
 Once a package exists, you may need to add stories, remove them, or change their size.
 

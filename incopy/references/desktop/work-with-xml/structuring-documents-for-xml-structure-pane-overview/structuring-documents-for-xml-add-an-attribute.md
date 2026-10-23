@@ -1,4 +1,4 @@
-# Structuring documents for XML — Add an attribute
+# Structuring documents for XML - Add an attribute
 
 Select an element. Use one of these options:
 

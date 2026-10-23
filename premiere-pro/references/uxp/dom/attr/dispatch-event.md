@@ -1,4 +1,4 @@
-# window.Attr — dispatchEvent(event)
+# window.Attr - dispatchEvent(event)
 
 | Param | Type |
 | --- | --- |

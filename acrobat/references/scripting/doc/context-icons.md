@@ -1,6 +1,6 @@
-# Acrobat — Doc: document icon resources
+# Acrobat - Doc: document icon resources
 
-Open when working with document icon resources in Acrobat — Doc.
+Open when working with document icon resources in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-icons.json).
 

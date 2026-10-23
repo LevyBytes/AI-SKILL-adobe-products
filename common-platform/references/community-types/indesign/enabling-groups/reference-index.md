@@ -1,4 +1,4 @@
-# Shared Adobe platform — EnablingGroups
+# Shared Adobe platform - EnablingGroups
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EnablingGroups collection iteration in Shared Adobe platform. [EnablingGroups collection iteration](collection-iteration.md).

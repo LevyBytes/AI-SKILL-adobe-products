@@ -1,4 +1,4 @@
-# Illustrator — PrintPostScriptOptions
+# Illustrator - PrintPostScriptOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PrintPostScriptOptions.binaryPrinting in Illustrator. [PrintPostScriptOptions.binaryPrinting](binary-printing.md).

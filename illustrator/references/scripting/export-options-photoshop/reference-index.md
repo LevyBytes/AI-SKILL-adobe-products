@@ -1,4 +1,4 @@
-# Illustrator — ExportOptionsPhotoshop
+# Illustrator - ExportOptionsPhotoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ExportOptionsPhotoshop.antiAliasing in Illustrator. [ExportOptionsPhotoshop.antiAliasing](anti-aliasing.md).

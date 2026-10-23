@@ -1,6 +1,6 @@
-# InDesign — List box: placement, bounds and transformations
+# InDesign - List box: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — List box.
+Open when checking placement, bounds and transformations in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

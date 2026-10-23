@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Matte
+# First-Party Effect Match Names - Matte
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

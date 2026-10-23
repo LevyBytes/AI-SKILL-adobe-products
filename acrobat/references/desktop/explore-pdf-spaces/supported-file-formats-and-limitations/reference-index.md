@@ -1,4 +1,4 @@
-# Acrobat — Supported file formats and limitations
+# Acrobat - Supported file formats and limitations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Document specifications in Acrobat. [Document specifications](document-specifications.md).

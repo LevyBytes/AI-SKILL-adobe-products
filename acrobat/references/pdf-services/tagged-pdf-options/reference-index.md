@@ -1,4 +1,4 @@
-# Acrobat — Generate tagged PDF by setting options with command line arguments
+# Acrobat - Generate tagged PDF by setting options with command line arguments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET in Acrobat. [.NET](net.md).

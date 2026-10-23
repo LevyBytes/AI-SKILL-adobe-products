@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
   {"topic": "Default and cancel elements", "file": "references/scripting/modal-dialogs/default-and-cancel-elements.md", "summary": "Open when looking up Default and cancel elements in Shared Adobe platform.", "keywords": ["Default and cancel elements"]},
   {"topic": "Dismissing a modal dialog", "file": "references/scripting/modal-dialogs/dismissing-a-modal-dialog.md", "summary": "Open when looking up Dismissing a modal dialog in Shared Adobe platform.", "keywords": ["Dismissing a modal dialog"]},
-  {"topic": "Types of controls — Modal dialogs", "file": "references/scripting/modal-dialogs/types-of-controls-modal-dialogs.md", "summary": "Open when looking up Types of controls — Modal dialogs in Shared Adobe platform.", "keywords": ["Types of controls — Modal dialogs"]},
+  {"topic": "Types of controls - Modal dialogs", "file": "references/scripting/modal-dialogs/types-of-controls-modal-dialogs.md", "summary": "Open when looking up Types of controls - Modal dialogs in Shared Adobe platform.", "keywords": ["Types of controls - Modal dialogs"]},
   {"topic": "Working with modal dialogs", "file": "references/scripting/modal-dialogs/working-with-modal-dialogs.md", "summary": "Open when looking up Working with modal dialogs in Shared Adobe platform.", "keywords": ["Working with modal dialogs"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

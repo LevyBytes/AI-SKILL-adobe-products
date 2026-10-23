@@ -1,4 +1,4 @@
-# After Effects — Viewer
+# After Effects - Viewer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Viewer object in After Effects. [Viewer object](viewer-object.md).

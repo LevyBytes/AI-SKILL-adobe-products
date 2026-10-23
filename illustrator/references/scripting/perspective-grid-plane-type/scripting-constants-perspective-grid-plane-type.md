@@ -1,4 +1,4 @@
-# Scripting Constants — PerspectiveGridPlaneType
+# Scripting Constants - PerspectiveGridPlaneType
 
 | Value | Description |
 | --- | --- |

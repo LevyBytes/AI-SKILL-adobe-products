@@ -1,4 +1,4 @@
-# Premiere Pro — Tree walker
+# Premiere Pro - Tree walker
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up filter : NodeFilter in Premiere Pro. [filter : NodeFilter](filter-node-filter.md).

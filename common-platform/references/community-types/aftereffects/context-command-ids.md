@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: application command identifiers
+# Shared Adobe platform - Aftereffects: application command identifiers
 
-Open when working with application command identifiers in Shared Adobe platform — Aftereffects.
+Open when working with application command identifiers in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-command-ids.json).
 

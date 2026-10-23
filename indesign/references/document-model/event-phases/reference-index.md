@@ -1,4 +1,4 @@
-# InDesign — EventPhases
+# InDesign - EventPhases
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AT_TARGET in InDesign. [AT_TARGET](attarget.md).

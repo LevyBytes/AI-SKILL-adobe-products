@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: folio and digital publication apis
+# Shared Adobe platform - Application: folio and digital publication apis
 
-Open when checking folio and digital publication apis in Shared Adobe platform — Application.
+Open when checking folio and digital publication apis in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-digital-publication.json).
 

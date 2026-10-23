@@ -1,4 +1,4 @@
-# PDF Accessibility Auto-Tag API — Generate tagged PDF from a PDF
+# PDF Accessibility Auto-Tag API - Generate tagged PDF from a PDF
 
 Producing a tagged PDF out of a source PDF is what the sample that follows does.
 

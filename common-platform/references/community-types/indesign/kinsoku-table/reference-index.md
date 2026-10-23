@@ -1,4 +1,4 @@
-# Shared Adobe platform — KinsokuTable
+# Shared Adobe platform - KinsokuTable
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up KinsokuTable declaration in Shared Adobe platform. [KinsokuTable declaration](declaration.md).

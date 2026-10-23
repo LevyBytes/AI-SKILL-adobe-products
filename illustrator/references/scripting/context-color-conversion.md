@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: color conversion, profiles and destinations
+# Illustrator - Scripting APIs: color conversion, profiles and destinations
 
-Open when working with color conversion, profiles and destinations in Illustrator — Scripting APIs.
+Open when working with color conversion, profiles and destinations in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-color-conversion.json).
 

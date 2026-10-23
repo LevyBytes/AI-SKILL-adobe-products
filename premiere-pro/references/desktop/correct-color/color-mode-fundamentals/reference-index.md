@@ -1,4 +1,4 @@
-# Premiere Pro — Color mode fundamentals
+# Premiere Pro - Color mode fundamentals
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Comparison View in Premiere Pro. [About Comparison View](about-comparison-view.md).

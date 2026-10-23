@@ -1,4 +1,4 @@
-# Keying effects — Using the Keylight + Key Cleaner + Advanced Spill Suppressor animation preset
+# Keying effects - Using the Keylight + Key Cleaner + Advanced Spill Suppressor animation preset
 
 Work through the steps below to lay down the Keylight effect together with the Key Cleaner and Advanced Spill Suppressor effect:
 

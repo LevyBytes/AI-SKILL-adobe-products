@@ -1,4 +1,4 @@
-# Debugging in the Toolkit — Controlling code execution
+# Debugging in the Toolkit - Controlling code execution
 
 You can invoke debugging commands through the Debug menu, the document window's right-click context menu, keyboard shortcuts, or toolbar buttons. When the JavaScript Debugger is active, use these commands and buttons to manage code execution.
 

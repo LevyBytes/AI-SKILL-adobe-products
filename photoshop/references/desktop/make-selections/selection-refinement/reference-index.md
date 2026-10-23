@@ -1,4 +1,4 @@
-# Photoshop — Refine and modify selections
+# Photoshop - Refine and modify selections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust a selection manually in Photoshop. [Adjust a selection manually](adjust-a-selection-manually.md).

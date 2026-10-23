@@ -1,4 +1,4 @@
-# Shared Adobe platform — Window object attributes
+# Shared Adobe platform - Window object attributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up active in Shared Adobe platform. [active](active.md).
@@ -11,4 +11,4 @@
 - Open when looking up minimized in Shared Adobe platform. [minimized](minimized.md).
 - Open when looking up opacity in Shared Adobe platform. [opacity](opacity.md).
 - Open when looking up shortcutKey in Shared Adobe platform. [shortcutKey](shortcut-key.md).
-- Open when looking up Window object — Window Object Attributes in Shared Adobe platform. [Window object — Window Object Attributes](window-object-window-object-attributes.md).
+- Open when looking up Window object - Window Object Attributes in Shared Adobe platform. [Window object - Window Object Attributes](window-object-window-object-attributes.md).

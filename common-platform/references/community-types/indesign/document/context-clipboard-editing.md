@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: clipboard and editing defaults
+# Shared Adobe platform - Document: clipboard and editing defaults
 
-Open when checking clipboard and editing defaults in Shared Adobe platform — Document.
+Open when checking clipboard and editing defaults in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-clipboard-editing.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Text: ruby annotations
+# Shared Adobe platform - Text: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — Text.
+Open when checking ruby annotations in Shared Adobe platform - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

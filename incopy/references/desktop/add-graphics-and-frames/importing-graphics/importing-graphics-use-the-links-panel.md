@@ -1,4 +1,4 @@
-# Importing graphics — Use the Links panel
+# Importing graphics - Use the Links panel
 
 - To show the Links panel, choose Window > Links. In the panel, linked files and automatically embedded files appear by name.
 - To choose and view a linked graphic, select a link in the Links panel, then click the Go To Link button, click the link's page number in the Page column, or choose Go To Link from the Links panel menu. InCopy centers the view on the selected graphic. To view a hidden object, show its layer, or its condition when it is anchored.

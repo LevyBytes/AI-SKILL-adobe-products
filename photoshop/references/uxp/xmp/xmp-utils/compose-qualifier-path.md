@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — composeQualifierPath(schemaNS, propName, qualNS, qualName)
+# require('uxp').xmp.XMPUtils - composeQualifierPath(schemaNS, propName, qualNS, qualName)
 
 Creates a path-expression string for a qualifier attached to a property by using the namespace's registered prefix, in the form:
 schemaNS:propName/?qualNS:qualName

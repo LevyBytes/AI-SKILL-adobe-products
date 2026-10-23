@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: timeline navigation and zoom
+# Shared Adobe platform - Application: timeline navigation and zoom
 
-Open when working with timeline navigation and zoom in Shared Adobe platform — Application.
+Open when working with timeline navigation and zoom in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-view-navigation.json).
 

@@ -1,4 +1,4 @@
-# window.Text — appendData(arg)
+# window.Text - appendData(arg)
 
 | Param | Type |
 | --- | --- |

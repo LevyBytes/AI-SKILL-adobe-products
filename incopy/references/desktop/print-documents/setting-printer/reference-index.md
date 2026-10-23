@@ -1,4 +1,4 @@
-# InCopy — Setting Printer
+# InCopy - Setting Printer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About printer drivers in InCopy. [About printer drivers](about-printer-drivers.md).

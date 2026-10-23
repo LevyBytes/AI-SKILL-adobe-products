@@ -1,6 +1,6 @@
-# InDesign — Find transliterate preference: fonts and character forms
+# InDesign - Find transliterate preference: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Find transliterate preference.
+Open when checking fonts and character forms in InDesign - Find transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

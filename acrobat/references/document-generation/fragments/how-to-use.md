@@ -1,6 +1,6 @@
 # How to use ?
 
-Fragments — How to use ?
+Fragments: How to use ?
 
 Working with fragments through the API means building a **fragments** json and supplying it as a parameter inside the request body; the SDKs offer the same capability if you prefer that route.
 

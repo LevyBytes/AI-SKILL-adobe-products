@@ -1,4 +1,4 @@
-# Calling Sequence — Export
+# Calling Sequence - Export
 
 If the user adds an item to the render queue and selects the output format supported by the AEIO, After Effects sends `AEIO_InitOutputSpec`(). Use the various get functions to read output-setting information, then store relevant information with `AEGP_SetOutSpecOptionsHandle`(), followed by `AEIO_GetFlatOutputOptions`(). `AEIO_GetDepths`() is sent so After Effects can learn which output pixel bit depths the AEIO supports. `AEIO_GetOutputInfo`() is sent so file name, type, and subtype information can appear in the output module details.
 

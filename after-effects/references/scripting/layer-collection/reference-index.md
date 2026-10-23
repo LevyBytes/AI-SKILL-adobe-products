@@ -1,4 +1,4 @@
-# After Effects — Layer collection
+# After Effects - Layer collection
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LayerCollection object in After Effects. [LayerCollection object](layer-collection-object.md).

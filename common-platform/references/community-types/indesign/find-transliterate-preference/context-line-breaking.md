@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTransliteratePreference: line breaks and hyphenation
+# Shared Adobe platform - FindTransliteratePreference: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in Shared Adobe platform — FindTransliteratePreference.
+Open when checking line breaks and hyphenation in Shared Adobe platform - FindTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

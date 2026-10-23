@@ -1,4 +1,4 @@
-# AEGP Suites — Mask Outlines
+# AEGP Suites - Mask Outlines
 
 While the Mask Suite above reports which masks sit on a layer, it stops short of describing each mask's internals.
 

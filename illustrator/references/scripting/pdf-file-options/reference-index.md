@@ -1,4 +1,4 @@
-# Illustrator — PDFFileOptions
+# Illustrator - PDFFileOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PDFFileOptions.pageToOpen in Illustrator. [PDFFileOptions.pageToOpen](page-to-open.md).

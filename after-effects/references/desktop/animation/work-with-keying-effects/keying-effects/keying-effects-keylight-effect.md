@@ -1,4 +1,4 @@
-# Keying effects — Keylight effect
+# Keying effects - Keylight effect
 
 Alongside a handful of native keying effects, After Effects ships the Academy Award–winning Keylight effect, a standout for professional-grade color keying.
 

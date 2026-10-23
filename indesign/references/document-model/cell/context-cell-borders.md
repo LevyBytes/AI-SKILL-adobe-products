@@ -1,6 +1,6 @@
-# InDesign — Cell: cell and table border strokes
+# InDesign - Cell: cell and table border strokes
 
-Open when checking cell and table border strokes in InDesign — Cell.
+Open when checking cell and table border strokes in InDesign - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-borders.json).
 

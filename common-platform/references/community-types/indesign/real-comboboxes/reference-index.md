@@ -1,4 +1,4 @@
-# Shared Adobe platform — RealComboboxes
+# Shared Adobe platform - RealComboboxes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RealComboboxes collection iteration in Shared Adobe platform. [RealComboboxes collection iteration](collection-iteration.md).

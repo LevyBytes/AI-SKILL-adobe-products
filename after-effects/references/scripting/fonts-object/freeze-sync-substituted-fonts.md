@@ -20,5 +20,5 @@ The decision about whether Adobe Fonts holds a matching font rests entirely on t
 
 Boolean; read/write. One of:
 
-- false is the default—sync from Adobe Fonts may be attempted.
+- false is the default: sync from Adobe Fonts may be attempted.
 - true means that no sync or install will be attempted.

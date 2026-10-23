@@ -1,4 +1,4 @@
-# After Effects — Work with motion graphics templates
+# After Effects - Work with motion graphics templates
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add comments in the Essential Graphics panel in After Effects. [Add comments in the Essential Graphics panel](add-comments-in-the-essential-graphics-panel.md).

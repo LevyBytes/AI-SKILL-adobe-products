@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — removeProperties(xmpObj, [schemaNS], [propName], [options])
+# require('uxp').xmp.XMPUtils - removeProperties(xmpObj, [schemaNS], [propName], [options])
 
 Use this on an [XMPMeta object](../xmp-meta/reference-index.md) when deleting more than one property.
 

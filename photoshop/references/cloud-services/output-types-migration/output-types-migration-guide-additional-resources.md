@@ -1,4 +1,4 @@
-# Output Types Migration Guide — Additional resources
+# Output Types Migration Guide - Additional resources
 
 - [Execute Actions Endpoint](../actions-migration/reference-index.md)
 - [Status Endpoint](../status-migration/reference-index.md)

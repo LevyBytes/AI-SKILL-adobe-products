@@ -1,4 +1,4 @@
-# Photoshop — UXP Manifest v5
+# Photoshop - UXP Manifest v5
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Changes to top-level metadata in Photoshop. [Changes to top-level metadata](changes-to-top-level-metadata.md).

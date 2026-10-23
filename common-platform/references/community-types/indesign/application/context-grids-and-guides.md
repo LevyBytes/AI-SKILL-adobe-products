@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: baseline grids and layout guides
+# Shared Adobe platform - Application: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in Shared Adobe platform — Application.
+Open when checking baseline grids and layout guides in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

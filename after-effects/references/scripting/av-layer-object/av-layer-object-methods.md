@@ -1,4 +1,4 @@
-# AVLayer object — Methods
+# AVLayer object - Methods
 
 - Layer.hasVideo should return true.
 - AVLayer.adjustmentLayer should return false.

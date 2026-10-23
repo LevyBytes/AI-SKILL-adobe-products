@@ -1,4 +1,4 @@
-# Photoshop — Readable stream default controller
+# Photoshop - Readable stream default controller
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up close() in Photoshop. [close()](close.md).

@@ -1,4 +1,4 @@
-# Scripting Constants — BlendAnimationType
+# Scripting Constants - BlendAnimationType
 
 | Value | Description |
 | --- | --- |

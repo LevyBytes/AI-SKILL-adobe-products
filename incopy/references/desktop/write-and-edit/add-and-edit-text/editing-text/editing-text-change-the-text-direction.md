@@ -1,4 +1,4 @@
-# Editing text — Change the text direction
+# Editing text - Change the text direction
 
 Select the text frame. Use either method:
 

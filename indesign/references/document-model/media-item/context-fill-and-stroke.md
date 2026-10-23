@@ -1,6 +1,6 @@
-# InDesign — MediaItem: fill, stroke and transparency
+# InDesign - MediaItem: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — MediaItem.
+Open when checking fill, stroke and transparency in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

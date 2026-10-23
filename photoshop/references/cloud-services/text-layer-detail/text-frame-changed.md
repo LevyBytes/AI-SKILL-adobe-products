@@ -1,4 +1,4 @@
-# Text frame — CHANGED
+# Text frame - CHANGED
 
 Old text frame fields:
 

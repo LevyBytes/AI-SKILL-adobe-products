@@ -1,4 +1,4 @@
-# InDesign — File and output issues
+# InDesign - File and output issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Print Engine output failures in InDesign. [Adobe Print Engine output failures](adobe-print-engine-output-failures.md).

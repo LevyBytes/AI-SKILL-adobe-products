@@ -1,4 +1,4 @@
-# Illustrator — Troubleshoot
+# Illustrator - Troubleshoot
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Application crash issues in Illustrator. [Application crash issues](application-crash-issues.md).

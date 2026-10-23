@@ -1,4 +1,4 @@
-# window.Element — removeAttributeNode(oldAttr)
+# window.Element - removeAttributeNode(oldAttr)
 
 | Param | Type |
 | --- | --- |

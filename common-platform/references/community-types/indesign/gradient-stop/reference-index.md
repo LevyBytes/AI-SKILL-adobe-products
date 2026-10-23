@@ -1,4 +1,4 @@
-# Shared Adobe platform — GradientStop
+# Shared Adobe platform - GradientStop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GradientStop declaration in Shared Adobe platform. [GradientStop declaration](declaration.md).

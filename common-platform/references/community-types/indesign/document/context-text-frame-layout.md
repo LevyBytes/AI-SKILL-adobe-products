@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: text frame columns and autosizing
+# Shared Adobe platform - Document: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in Shared Adobe platform — Document.
+Open when checking text frame columns and autosizing in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

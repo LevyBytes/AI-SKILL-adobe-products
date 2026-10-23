@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: audio channels, hardware and recording
+# Premiere Pro - Desktop workflows: audio channels, hardware and recording
 
-Open when working with audio channels, hardware and recording in Premiere Pro — Desktop workflows.
+Open when working with audio channels, hardware and recording in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-routing.json).
 

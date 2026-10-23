@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: pixel aspect ratio
+# After Effects - C++ plugin SDK: pixel aspect ratio
 
-Open when working with pixel aspect ratio in After Effects — C++ plugin SDK.
+Open when working with pixel aspect ratio in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-pixel-aspect-ratio.json).
 

@@ -6,7 +6,7 @@
   {"topic": "handlers", "file": "references/scripting/security/handlers.md", "summary": "Open when looking up handlers in Acrobat.", "keywords": ["handlers"]},
   {"topic": "importFromFile", "file": "references/scripting/security/import-from-file.md", "summary": "Open when looking up importFromFile in Acrobat.", "keywords": ["importFromFile"]},
   {"topic": "importSettings", "file": "references/scripting/security/import-settings.md", "summary": "Open when looking up importSettings in Acrobat.", "keywords": ["importSettings"]},
-  {"topic": "JavaScript APIs — security", "file": "references/scripting/security/java-script-apis-security.md", "summary": "Open when looking up JavaScript APIs — security in Acrobat.", "keywords": ["JavaScript APIs — security"]},
+  {"topic": "JavaScript APIs - security", "file": "references/scripting/security/java-script-apis-security.md", "summary": "Open when looking up JavaScript APIs - security in Acrobat.", "keywords": ["JavaScript APIs - security"]},
   {"topic": "Listing recipient groups and permissions", "file": "references/scripting/security/recipient-group-listing-example.md", "summary": "Open when looking up Listing recipient groups and permissions in Acrobat.", "keywords": ["Listing recipient groups and permissions"]},
   {"topic": "Preparing recipient email lists", "file": "references/scripting/security/recipient-email-list-example.md", "summary": "Open when looking up Preparing recipient email lists in Acrobat.", "keywords": ["Preparing recipient email lists"]},
   {"topic": "security constants", "file": "references/scripting/security/security-constants.md", "summary": "Open when looking up security constants in Acrobat.", "keywords": ["security constants"]},

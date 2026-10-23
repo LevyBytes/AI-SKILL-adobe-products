@@ -1,4 +1,4 @@
-# Control objects — FlashPlayer control functions
+# Control objects - FlashPlayer control functions
 
 Info
 

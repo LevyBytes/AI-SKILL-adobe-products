@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Simulation
+# First-Party Effect Match Names - Simulation
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

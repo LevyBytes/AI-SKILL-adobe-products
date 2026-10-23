@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [SplitPDFByPageRanges.java](../examples/java/split-pdf-by-page-ranges/SplitPDFByPageRanges.java)
+- [split-pdf-by-page-ranges setup and source](../examples/java/split-pdf-by-page-ranges/split-pdf-by-page-ranges-setup.md)

@@ -1,4 +1,4 @@
-# InDesign — User info
+# InDesign - User info
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up require('uxp').userInfo in InDesign. [require('uxp').userInfo](require-uxp-user-info.md).

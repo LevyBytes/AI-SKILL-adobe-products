@@ -1,10 +1,10 @@
-# All jobs use same endpoint — V2 status response output patterns
+# All jobs use same endpoint - V2 status response output patterns
 
 ### Overview
 
 V2 status payloads differ substantially from V1, especially in the representation of outputs. Migration code needs to account for the destination chosen in the original request because that choice controls the shape of `result.outputs[]`.
 
-## All jobs use same endpoint — V2 status response output patterns
+## All jobs use same endpoint - V2 status response output patterns
 
 **Request:**
 

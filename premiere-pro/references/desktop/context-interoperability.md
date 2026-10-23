@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: exchange projects and artwork with other applications
+# Premiere Pro - Desktop workflows: exchange projects and artwork with other applications
 
-Open when working with exchange projects and artwork with other applications in Premiere Pro — Desktop workflows.
+Open when working with exchange projects and artwork with other applications in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-interoperability.json).
 

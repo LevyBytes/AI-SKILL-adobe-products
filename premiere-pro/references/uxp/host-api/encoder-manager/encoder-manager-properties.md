@@ -1,4 +1,4 @@
-# EncoderManager — Properties
+# EncoderManager - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: svg export and font encoding
+# Illustrator - Scripting APIs: svg export and font encoding
 
-Open when working with svg export and font encoding in Illustrator — Scripting APIs.
+Open when working with svg export and font encoding in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-svg-export.json).
 

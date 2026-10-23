@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: ui callbacks
+# After Effects - C++ plugin SDK: ui callbacks
 
-Open when working with ui callbacks in After Effects — C++ plugin SDK.
+Open when working with ui callbacks in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-ui-events-ui-callbacks.json).
 

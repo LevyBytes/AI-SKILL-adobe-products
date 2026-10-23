@@ -1,4 +1,4 @@
-# InDesign — Use condition sets
+# InDesign - Use condition sets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a condition set in InDesign. [Apply a condition set](apply-a-condition-set.md).

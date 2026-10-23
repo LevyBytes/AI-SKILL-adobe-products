@@ -1,4 +1,4 @@
-# InDesign — AutoSizingReferenceEnum
+# InDesign - AutoSizingReferenceEnum
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOTTOM_CENTER_POINT in InDesign. [BOTTOM_CENTER_POINT](bottomcenterpoint.md).

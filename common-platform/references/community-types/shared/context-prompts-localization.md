@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: prompts and localization
+# Shared Adobe platform - Shared: prompts and localization
 
-Open when working with prompts and localization in Shared Adobe platform — Shared.
+Open when working with prompts and localization in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-prompts-localization.json).
 

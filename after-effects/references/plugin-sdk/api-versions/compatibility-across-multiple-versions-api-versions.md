@@ -1,4 +1,4 @@
-# Compatibility Across Multiple Versions? — API Versions
+# Compatibility Across Multiple Versions? - API Versions
 
 | Release | Effect API Version | AEGP API Version |
 | --- | --- | --- |

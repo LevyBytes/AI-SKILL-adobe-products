@@ -1,4 +1,4 @@
-# Premiere Pro — Export for viewing platforms
+# Premiere Pro - Export for viewing platforms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export workflows for broadcast-ready viewing-platform delivery in Premiere Pro. [Export workflows for broadcast-ready viewing-platform delivery](viewing-platform-export-workflows.md).

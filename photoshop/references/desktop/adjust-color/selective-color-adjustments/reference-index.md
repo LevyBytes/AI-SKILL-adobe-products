@@ -1,4 +1,4 @@
-# Photoshop — Selective color adjustments
+# Photoshop - Selective color adjustments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Match color between two images in Photoshop. [Match color between two images](match-color-between-two-images.md).

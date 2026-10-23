@@ -1,4 +1,4 @@
-# 3D layers — Convert a layer to a 3D layer
+# 3D layers - Convert a layer to a 3D layer
 
 For the layer in the Timeline panel, click the 3D Layer switch, or select the layer and choose Layer > 3D Layer.
 

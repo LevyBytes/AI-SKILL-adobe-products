@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Pdf watermark example setup", "file": "references/pdf-services/examples/dotnet/pdf-watermark/pdf-watermark-setup.md", "summary": "Open when looking up Pdf watermark example setup in Acrobat.", "keywords": ["Pdf watermark example setup"]},
-  {"topic": "PDFWatermark", "file": "references/pdf-services/examples/dotnet/pdf-watermark/Program.cs", "summary": "Open when looking up PDFWatermark in Acrobat.", "keywords": ["PDFWatermark"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

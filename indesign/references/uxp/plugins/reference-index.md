@@ -1,4 +1,4 @@
-# InDesign — Plugins
+# InDesign - Plugins
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced topics in InDesign. [Advanced topics](advanced-topics.md).

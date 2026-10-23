@@ -1,4 +1,4 @@
-# Media Encoder — Encoding quick start and basics
+# Media Encoder - Encoding quick start and basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About video and audio encoding and compression in Media Encoder. [About video and audio encoding and compression](about-video-and-audio-encoding-and-compression.md).

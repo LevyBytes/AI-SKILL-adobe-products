@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: documents, embedded pdfs and portfolios
+# Acrobat - Scripting APIs: documents, embedded pdfs and portfolios
 
-Open when working with documents, embedded pdfs and portfolios in Acrobat — Scripting APIs.
+Open when working with documents, embedded pdfs and portfolios in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-documents.json).
 

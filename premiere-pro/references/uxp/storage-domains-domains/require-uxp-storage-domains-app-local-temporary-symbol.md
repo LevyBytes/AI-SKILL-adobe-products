@@ -1,3 +1,3 @@
-# require('uxp').storage.domains — appLocalTemporary : `Symbol`
+# require('uxp').storage.domains - appLocalTemporary : `Symbol`
 
 Local directory for temporary files

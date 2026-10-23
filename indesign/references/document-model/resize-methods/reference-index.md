@@ -1,4 +1,4 @@
-# InDesign — Resize methods
+# InDesign - Resize methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ADDING_CURRENT_DIMENSIONS_TO in InDesign. [ADDING_CURRENT_DIMENSIONS_TO](addingcurrentdimensionsto.md).

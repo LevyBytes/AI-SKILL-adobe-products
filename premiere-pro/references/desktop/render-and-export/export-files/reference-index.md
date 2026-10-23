@@ -1,4 +1,4 @@
-# Premiere Pro — Export files
+# Premiere Pro - Export files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices for exporting video for social media and phones in Premiere Pro. [Best practices for exporting video for social media and phones](social-and-phone-export-practices.md).

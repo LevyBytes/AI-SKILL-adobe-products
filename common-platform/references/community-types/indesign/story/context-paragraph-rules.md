@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: paragraph rules
+# Shared Adobe platform - Story: paragraph rules
 
-Open when checking paragraph rules in Shared Adobe platform — Story.
+Open when checking paragraph rules in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — CEP and ExtendScript integration: migrate cep extensions to uxp
+# Shared Adobe platform - CEP and ExtendScript integration: migrate cep extensions to uxp
 
-Open when working with migrate cep extensions to uxp in Shared Adobe platform — CEP and ExtendScript integration.
+Open when working with migrate cep extensions to uxp in Shared Adobe platform - CEP and ExtendScript integration.
 
 Open when selecting an exact reference: [Topic catalog](context-migration.json).
 

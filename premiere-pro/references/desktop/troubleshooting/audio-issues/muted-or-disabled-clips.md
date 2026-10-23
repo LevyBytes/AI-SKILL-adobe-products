@@ -1,4 +1,4 @@
-# Playback issues due to missing sound from some of the clips — Check for muted, low-volume, or disabled clips
+# Playback issues due to missing sound from some of the clips - Check for muted, low-volume, or disabled clips
 
 Confirm that each individual clip is not muted and that its volume is not too low. See monitoring clip volume and pan using Audio Clip Mixer for more information.
 

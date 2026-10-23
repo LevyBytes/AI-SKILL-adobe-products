@@ -1,4 +1,4 @@
-# After Effects — Drawing painting and paths
+# After Effects - Drawing painting and paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Null controllers in After Effects. [Null controllers references](null-controllers/reference-index.md).

@@ -1,4 +1,4 @@
-# Quickstart Guide — Debug your script
+# Quickstart Guide - Debug your script
 
 Photoshop scripts can be debugged with the [UXP Developer Tools](https://creativecloud.adobe.com/apps/download/uxp-developer-tools) (UDT) application. If it is not already installed, get it through the Creative Cloud desktop application. Script debugging is available starting with UDT 1.6.
 

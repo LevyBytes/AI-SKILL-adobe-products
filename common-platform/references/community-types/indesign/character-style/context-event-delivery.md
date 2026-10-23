@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: events and listeners
+# Shared Adobe platform - CharacterStyle: events and listeners
 
-Open when checking events and listeners in Shared Adobe platform — CharacterStyle.
+Open when checking events and listeners in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

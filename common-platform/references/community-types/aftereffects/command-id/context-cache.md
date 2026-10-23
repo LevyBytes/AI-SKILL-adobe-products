@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: memory, disk cache and history cleanup
+# Shared Adobe platform - _CommandID: memory, disk cache and history cleanup
 
-Open when working with memory, disk cache and history cleanup in Shared Adobe platform — _CommandID.
+Open when working with memory, disk cache and history cleanup in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-cache.json).
 

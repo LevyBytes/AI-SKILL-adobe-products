@@ -1,6 +1,6 @@
-# InDesign — Find text preference: underline and strike-through
+# InDesign - Find text preference: underline and strike-through
 
-Open when checking underline and strike-through in InDesign — Find text preference.
+Open when checking underline and strike-through in InDesign - Find text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

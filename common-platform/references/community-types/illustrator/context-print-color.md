@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: print color, separations, screening and trapping
+# Shared Adobe platform - Illustrator: print color, separations, screening and trapping
 
-Open when working with print color, separations, screening and trapping in Shared Adobe platform — Illustrator.
+Open when working with print color, separations, screening and trapping in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-print-color.json).
 

@@ -1,4 +1,4 @@
-# Illustrator — Text and typography
+# Illustrator - Text and typography
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Manage Text in Illustrator. [Add Manage Text](add-manage-text.md).

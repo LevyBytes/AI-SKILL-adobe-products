@@ -1,6 +1,6 @@
-# InDesign — EPS: image conversion and web export
+# InDesign - EPS: image conversion and web export
 
-Open when checking image conversion and web export in InDesign — EPS.
+Open when checking image conversion and web export in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-image-web-export.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — TableStyle: events and listeners
+# Shared Adobe platform - TableStyle: events and listeners
 
-Open when checking events and listeners in Shared Adobe platform — TableStyle.
+Open when checking events and listeners in Shared Adobe platform - TableStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

@@ -1,4 +1,4 @@
-# JavaScript APIs — SOAP
+# JavaScript APIs - SOAP
 
 Through the SOAP object, JavaScript can issue remote procedure calls to a remote server or push an XML Message to one.
 

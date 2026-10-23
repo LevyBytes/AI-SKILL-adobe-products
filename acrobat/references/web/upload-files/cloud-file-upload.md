@@ -10,7 +10,7 @@ You can also drag and drop the files onto the Recent section.
 
 When the target is a new or empty folder, open it first and then pick Upload files.
 
-A dialog box opens — pick the file you want to send and then pick Open.
+A dialog box opens: pick the file you want to send and then pick Open.
 
 That file then lands in Adobe cloud storage.
 

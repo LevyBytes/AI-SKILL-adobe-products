@@ -1,6 +1,6 @@
-# InDesign — Insertion point: read and edit text
+# InDesign - Insertion point: read and edit text
 
-Open when checking read and edit text in InDesign — Insertion point.
+Open when checking read and edit text in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

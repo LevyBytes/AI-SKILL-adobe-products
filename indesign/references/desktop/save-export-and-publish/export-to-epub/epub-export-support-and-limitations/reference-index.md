@@ -1,4 +1,4 @@
-# InDesign — EPUB export support and limitations
+# InDesign - EPUB export support and limitations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Hyperlink support in InDesign. [Hyperlink support](hyperlink-support.md).

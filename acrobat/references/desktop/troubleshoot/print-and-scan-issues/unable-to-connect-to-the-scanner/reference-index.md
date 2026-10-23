@@ -1,4 +1,4 @@
-# Acrobat — Unable to connect to the scanner
+# Acrobat - Unable to connect to the scanner
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Incompatible scanner driver in Acrobat. [Incompatible scanner driver](incompatible-scanner-driver.md).

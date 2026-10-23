@@ -1,6 +1,6 @@
-# InDesign — Check box: page item collections
+# InDesign - Check box: page item collections
 
-Open when checking page item collections in InDesign — Check box.
+Open when checking page item collections in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — PageReferences
+# Shared Adobe platform - PageReferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PageReferences collection iteration in Shared Adobe platform. [PageReferences collection iteration](collection-iteration.md).

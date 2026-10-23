@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Arbitrary Data Parameters — Arbitrary Data? Re-Entrancy!", "file": "references/plugin-sdk/arbitrary-data-re-entrancy/arbitrary-data-parameters-arbitrary-data-re-entrancy.md", "summary": "Open when looking up Arbitrary Data Parameters — Arbitrary Data? Re-Entrancy! in After Effects.", "keywords": ["Arbitrary Data Parameters — Arbitrary Data? Re-Entrancy!"]},
+  {"topic": "Arbitrary Data Parameters - Arbitrary Data? Re-Entrancy!", "file": "references/plugin-sdk/arbitrary-data-re-entrancy/arbitrary-data-parameters-arbitrary-data-re-entrancy.md", "summary": "Open when looking up Arbitrary Data Parameters - Arbitrary Data? Re-Entrancy! in After Effects.", "keywords": ["Arbitrary Data Parameters - Arbitrary Data? Re-Entrancy!"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

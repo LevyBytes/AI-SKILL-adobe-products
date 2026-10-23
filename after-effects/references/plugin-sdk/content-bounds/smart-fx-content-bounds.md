@@ -1,4 +1,4 @@
-# SmartFX — Content Bounds
+# SmartFX - Content Bounds
 
 A node's content bounds are the biggest possible result rectangle a PreRender call could ever return. Under no circumstances can it shift with the current render request or anything besides; compute it with care, not casually.
 

@@ -1,4 +1,4 @@
-# Checking spelling — Correct spelling errors as you type
+# Checking spelling - Correct spelling errors as you type
 
 Autocorrect can replace capitalization mistakes and common typing errors as you type. Before it can operate, build a custom mapping that pairs frequent misspellings with their corrections.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — MultiStateObjects
+# Shared Adobe platform - MultiStateObjects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MultiStateObjects collection iteration in Shared Adobe platform. [MultiStateObjects collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# After Effects — AEGP_EffectSuite4
+# After Effects - AEGP_EffectSuite4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_AddEffectMask in After Effects. [AEGP_AddEffectMask](aegp-add-effect-mask.md).

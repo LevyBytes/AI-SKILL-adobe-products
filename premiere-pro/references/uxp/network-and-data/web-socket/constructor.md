@@ -1,4 +1,4 @@
-# window.WebSocket — WebSocket(url, protocols)
+# window.WebSocket - WebSocket(url, protocols)
 
 `WebSocket` is the interface used to open and control a WebSocket connection with a server,
 and to exchange data across that connection.

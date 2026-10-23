@@ -1,4 +1,4 @@
-# Premiere Pro — Plug ins
+# Premiere Pro - Plug ins
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ABSoft in Premiere Pro. [ABSoft](ab-soft.md).

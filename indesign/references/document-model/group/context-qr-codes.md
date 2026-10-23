@@ -1,6 +1,6 @@
-# InDesign — Group: generate qr codes
+# InDesign - Group: generate qr codes
 
-Open when checking generate qr codes in InDesign — Group.
+Open when checking generate qr codes in InDesign - Group.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

@@ -1,6 +1,6 @@
-# InDesign — List box: fonts and character forms
+# InDesign - List box: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — List box.
+Open when checking fonts and character forms in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

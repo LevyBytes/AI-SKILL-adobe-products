@@ -1,6 +1,6 @@
-# InDesign — Rectangle: placement, bounds and transformations
+# InDesign - Rectangle: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Rectangle.
+Open when checking placement, bounds and transformations in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

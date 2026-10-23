@@ -1,4 +1,4 @@
-# window.ClassList — supports(token)
+# window.ClassList - supports(token)
 
 Reports `true` when the list accepts `token`; otherwise it reports `false`.
 A `false` result means that using the token with any other method would throw an error.

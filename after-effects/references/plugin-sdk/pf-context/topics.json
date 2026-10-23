@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "PF_EventExtra — PF_Context", "file": "references/plugin-sdk/pf-context/pf-event-extra-pf-context.md", "summary": "Open when looking up PF_EventExtra — PF_Context in After Effects.", "keywords": ["PF_EventExtra — PF_Context"]},
+  {"topic": "PF_EventExtra - PF_Context", "file": "references/plugin-sdk/pf-context/pf-event-extra-pf-context.md", "summary": "Open when looking up PF_EventExtra - PF_Context in After Effects.", "keywords": ["PF_EventExtra - PF_Context"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

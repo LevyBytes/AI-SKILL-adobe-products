@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ExportPDFFormData.java](../examples/java/export-pdf-form-data/ExportPDFFormData.java)
+- [export-pdf-form-data setup and source](../examples/java/export-pdf-form-data/export-pdf-form-data-setup.md)

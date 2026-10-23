@@ -1,4 +1,4 @@
-# InDesign — Edit and reshape paths
+# InDesign - Edit and reshape paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust the length or angle of straight segments in InDesign. [Adjust the length or angle of straight segments](adjust-the-length-or-angle-of-straight-segments.md).

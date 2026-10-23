@@ -1,6 +1,6 @@
-# Shared Adobe platform — PrintPreference: print rendering, fonts and image data
+# Shared Adobe platform - PrintPreference: print rendering, fonts and image data
 
-Open when checking print rendering, fonts and image data in Shared Adobe platform — PrintPreference.
+Open when checking print rendering, fonts and image data in Shared Adobe platform - PrintPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-rendering.json).
 

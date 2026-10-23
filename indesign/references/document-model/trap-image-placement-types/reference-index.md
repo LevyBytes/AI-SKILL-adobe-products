@@ -1,4 +1,4 @@
-# InDesign — TrapImagePlacementTypes
+# InDesign - TrapImagePlacementTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CENTER_EDGES in InDesign. [CENTER_EDGES](centeredges.md).

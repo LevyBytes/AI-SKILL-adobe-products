@@ -1,4 +1,4 @@
-# Executing Scripts — Startup scripts (.jsx scripts only)
+# Executing Scripts - Startup scripts (.jsx scripts only)
 
 Place JavaScript files ending in .jsx in either of two startup locations when you want Illustrator to load them during application startup and again whenever another script is run.
 

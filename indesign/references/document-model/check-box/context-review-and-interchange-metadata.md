@@ -1,6 +1,6 @@
-# InDesign — Check box: document metadata and imported review
+# InDesign - Check box: document metadata and imported review
 
-Open when checking document metadata and imported review in InDesign — Check box.
+Open when checking document metadata and imported review in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

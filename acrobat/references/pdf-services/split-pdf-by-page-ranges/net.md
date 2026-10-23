@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/split-pdf-by-page-ranges/Program.cs)
+- [split-pdf-by-page-ranges setup and source](../examples/dotnet/split-pdf-by-page-ranges/split-pdf-by-page-ranges-setup.md)

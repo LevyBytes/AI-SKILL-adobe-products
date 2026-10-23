@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: indesign text, search and writing systems
+# InDesign - UXP plugins and APIs: indesign text, search and writing systems
 
-Open when working with indesign text, search and writing systems in InDesign — UXP plugins and APIs.
+Open when working with indesign text, search and writing systems in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-indesign-text.json).
 

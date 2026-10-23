@@ -1,4 +1,4 @@
-# 3D layers — Rotate or orient a 3D layer
+# 3D layers - Rotate or orient a 3D layer
 
 A 3D layer can be turned by editing either its Orientation or its Rotation values; whichever you pick, the layer pivots about its anchor point. Where the two properties part ways is in how the layer behaves once you animate them.
 

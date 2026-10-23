@@ -1,4 +1,4 @@
-# Acrobat — Import certificates overview
+# Acrobat - Import certificates overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Importing from certificate stores in Acrobat. [Importing from certificate stores](importing-from-certificate-stores.md).

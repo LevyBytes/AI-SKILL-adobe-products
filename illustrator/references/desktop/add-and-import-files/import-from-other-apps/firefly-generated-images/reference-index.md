@@ -1,4 +1,4 @@
-# Illustrator — Place and edit images generated on the Adobe Firefly website
+# Illustrator - Place and edit images generated on the Adobe Firefly website
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit the image in Illustrator. [Edit the image](edit-the-image.md).

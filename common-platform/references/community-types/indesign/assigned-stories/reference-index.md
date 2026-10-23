@@ -1,4 +1,4 @@
-# Shared Adobe platform — AssignedStories
+# Shared Adobe platform - AssignedStories
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AssignedStories collection iteration in Shared Adobe platform. [AssignedStories collection iteration](collection-iteration.md).

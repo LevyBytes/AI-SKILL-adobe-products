@@ -1,6 +1,6 @@
-# InDesign — Text default: warichu inline text
+# InDesign - Text default: warichu inline text
 
-Open when checking warichu inline text in InDesign — Text default.
+Open when checking warichu inline text in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Useful Utility Functions — PF_AdvAppSuite2
+# After Effects - Useful Utility Functions - PF_AdvAppSuite2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PF_AppendInfoText in After Effects. [PF_AppendInfoText](pf-append-info-text.md).

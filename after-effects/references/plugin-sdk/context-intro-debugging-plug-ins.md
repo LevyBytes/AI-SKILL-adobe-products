@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: debugging plug-ins
+# After Effects - C++ plugin SDK: debugging plug-ins
 
-Open when working with debugging plug-ins in After Effects — C++ plugin SDK.
+Open when working with debugging plug-ins in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-debugging-plug-ins.json).
 

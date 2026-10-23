@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Synthetic Aperture
+# First-Party Effect Match Names - Synthetic Aperture
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

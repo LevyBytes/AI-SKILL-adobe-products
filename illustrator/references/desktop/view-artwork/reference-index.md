@@ -1,4 +1,4 @@
-# Illustrator — View artwork
+# Illustrator - View artwork
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About print tiling in Illustrator. [About print tiling](about-print-tiling.md).

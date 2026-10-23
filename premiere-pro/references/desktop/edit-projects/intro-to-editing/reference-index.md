@@ -1,4 +1,4 @@
-# Premiere Pro — Intro to editing
+# Premiere Pro - Intro to editing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or remove clips in Premiere Pro. [Add or remove clips](add-or-remove-clips.md).

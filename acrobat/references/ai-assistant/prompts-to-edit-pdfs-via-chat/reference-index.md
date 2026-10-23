@@ -1,4 +1,4 @@
-# Acrobat — Prompts to edit PDFs via chat
+# Acrobat - Prompts to edit PDFs via chat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Content-aware prompts in Acrobat. [Content-aware prompts](content-aware-prompts.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: native library integration
+# Shared Adobe platform - Shared: native library integration
 
-Open when working with native library integration in Shared Adobe platform — Shared.
+Open when working with native library integration in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-native-libraries.json).
 

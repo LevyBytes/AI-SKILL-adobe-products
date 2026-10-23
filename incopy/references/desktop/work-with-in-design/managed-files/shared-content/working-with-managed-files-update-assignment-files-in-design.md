@@ -1,4 +1,4 @@
-# Working with managed files — Update assignment files (InDesign)
+# Working with managed files - Update assignment files (InDesign)
 
 Assignment changes can be saved manually, or during closure of the current document. To expose layout edits to InCopy users, the assignment file must be updated.
 

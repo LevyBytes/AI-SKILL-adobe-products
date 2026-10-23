@@ -1,4 +1,4 @@
-# Photoshop — Channel
+# Photoshop - Channel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up duplicate in Photoshop. [duplicate](duplicate.md).

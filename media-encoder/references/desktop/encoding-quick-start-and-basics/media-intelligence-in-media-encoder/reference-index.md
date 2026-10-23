@@ -1,4 +1,4 @@
-# Media Encoder — Media intelligence in Media Encoder
+# Media Encoder - Media intelligence in Media Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create sidecar files for all media automatically in Media Encoder. [Create sidecar files for all media automatically](create-sidecar-files-for-all-media-automatically.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: preflight and print packaging
+# Shared Adobe platform - Application: preflight and print packaging
 
-Open when checking preflight and print packaging in Shared Adobe platform — Application.
+Open when checking preflight and print packaging in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-preflight-and-packaging.json).
 

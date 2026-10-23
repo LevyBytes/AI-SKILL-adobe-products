@@ -1,4 +1,4 @@
-# window.NamedNodeMap — item(index)
+# window.NamedNodeMap - item(index)
 
 **Returns**: `_`
 

@@ -1,4 +1,4 @@
-# Getting started — File system access
+# Getting started - File system access
 
 Hybrid plugins relax UXP sandbox restrictions, allowing direct file-system access in this form:
 

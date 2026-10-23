@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Zig Zag
+# Shape Layer Match Names - Zig Zag
 
 | Match Name | Display Name (EN) |
 | --- | --- |

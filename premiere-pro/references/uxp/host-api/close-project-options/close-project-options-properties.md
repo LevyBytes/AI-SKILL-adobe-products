@@ -1,4 +1,4 @@
-# CloseProjectOptions — Properties
+# CloseProjectOptions - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

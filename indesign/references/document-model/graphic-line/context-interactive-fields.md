@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: interactive fields and behaviors
+# InDesign - GraphicLine: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — GraphicLine.
+Open when checking interactive fields and behaviors in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

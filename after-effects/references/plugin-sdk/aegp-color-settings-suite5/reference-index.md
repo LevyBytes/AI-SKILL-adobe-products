@@ -1,4 +1,4 @@
-# After Effects — AEGP_ColorSettingsSuite5
+# After Effects - AEGP_ColorSettingsSuite5
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_DisposeColorProfile in After Effects. [AEGP_DisposeColorProfile](aegp-dispose-color-profile.md).

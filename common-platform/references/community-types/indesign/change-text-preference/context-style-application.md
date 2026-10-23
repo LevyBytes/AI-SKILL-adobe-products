@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTextPreference: apply and manage styles
+# Shared Adobe platform - ChangeTextPreference: apply and manage styles
 
-Open when checking apply and manage styles in Shared Adobe platform — ChangeTextPreference.
+Open when checking apply and manage styles in Shared Adobe platform - ChangeTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

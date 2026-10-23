@@ -1,6 +1,6 @@
-# InDesign — RadioButton: fill, stroke and transparency
+# InDesign - RadioButton: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — RadioButton.
+Open when checking fill, stroke and transparency in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

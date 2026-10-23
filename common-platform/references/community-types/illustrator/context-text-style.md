@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: character and paragraph styles
+# Shared Adobe platform - Illustrator: character and paragraph styles
 
-Open when working with character and paragraph styles in Shared Adobe platform — Illustrator.
+Open when working with character and paragraph styles in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-text-style.json).
 

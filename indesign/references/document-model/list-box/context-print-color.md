@@ -1,6 +1,6 @@
-# InDesign — List box: output color, screening and overprint
+# InDesign - List box: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — List box.
+Open when checking output color, screening and overprint in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

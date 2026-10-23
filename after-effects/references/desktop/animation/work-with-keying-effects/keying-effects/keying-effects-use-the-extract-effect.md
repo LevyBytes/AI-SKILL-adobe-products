@@ -1,4 +1,4 @@
-# Keying effects — Use the Extract effect
+# Keying effects - Use the Extract effect
 
 Inside the Effect Controls panel, the Extract effect lays out a histogram for whichever channel is set in the Channel menu. That histogram is a picture of the layer's brightness levels, charting how many pixels fall at each one. Read left to right, the darkest point anchors one end at 0 while the brightest caps the other at 255.
 

@@ -1,4 +1,4 @@
-# Illustrator — OpenOptionsFreeHand
+# Illustrator - OpenOptionsFreeHand
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up OpenOptionsFreeHand.convertTextToOutlines in Illustrator. [OpenOptionsFreeHand.convertTextToOutlines](convert-text-to-outlines.md).

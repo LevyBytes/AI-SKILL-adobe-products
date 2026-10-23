@@ -1,4 +1,4 @@
-# navigator.clipboard — writeText(text)
+# navigator.clipboard - writeText(text)
 
 Writes text into the clipboard. Use it when implementing cut and copy text behavior.
 

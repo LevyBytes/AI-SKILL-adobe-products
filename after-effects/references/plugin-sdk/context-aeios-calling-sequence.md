@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: calling sequence
+# After Effects - C++ plugin SDK: calling sequence
 
-Open when working with calling sequence in After Effects — C++ plugin SDK.
+Open when working with calling sequence in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aeios-calling-sequence.json).
 

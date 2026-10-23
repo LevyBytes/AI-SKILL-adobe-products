@@ -1,4 +1,4 @@
-# Premiere Pro — Learning from broadcast production
+# Premiere Pro - Learning from broadcast production
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Broadcast production lessons for efficient operations in Premiere Pro. [Broadcast production lessons for efficient operations](broadcast-production-lessons-for-efficient-operations.md).

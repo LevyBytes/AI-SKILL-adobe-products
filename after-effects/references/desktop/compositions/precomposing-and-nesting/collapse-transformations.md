@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — Collapsing transformations
+# Precomposing, nesting, and pre-rendering - Collapsing transformations
 
 Switch on the Collapse Transformations switch for a nested composition and its transformations hold off until the masks and effects of the containing composition have rendered. Thanks to that ordering, the nested composition's transformations and the containing composition's transformations can merge — collapse — and run as one. Vector layers that aren't continuously rasterized behave the same way.
 

@@ -1,6 +1,6 @@
-# InDesign — List box: anchored object placement
+# InDesign - List box: anchored object placement
 
-Open when checking anchored object placement in InDesign — List box.
+Open when checking anchored object placement in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

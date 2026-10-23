@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: transparency flattening and trapping
+# InDesign - InDesign document object model: transparency flattening and trapping
 
-Open when working with transparency flattening and trapping in InDesign — InDesign document object model.
+Open when working with transparency flattening and trapping in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-flatten-trap.json).
 

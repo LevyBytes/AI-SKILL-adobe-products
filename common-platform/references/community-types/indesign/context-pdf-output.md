@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: pdf export, placement and compatibility
+# Shared Adobe platform - Indesign: pdf export, placement and compatibility
 
-Open when working with pdf export, placement and compatibility in Shared Adobe platform — Indesign.
+Open when working with pdf export, placement and compatibility in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-pdf-output.json).
 

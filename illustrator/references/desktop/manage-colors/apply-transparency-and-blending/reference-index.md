@@ -1,4 +1,4 @@
-# Illustrator — Apply transparency and blending
+# Illustrator - Apply transparency and blending
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust transparency using opacity masks in Illustrator. [Adjust transparency using opacity masks](adjust-transparency-using-opacity-masks.md).

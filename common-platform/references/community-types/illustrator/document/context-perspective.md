@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: perspective grids and planes
+# Shared Adobe platform - Document: perspective grids and planes
 
-Open when working with perspective grids and planes in Shared Adobe platform — Document.
+Open when working with perspective grids and planes in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-perspective.json).
 

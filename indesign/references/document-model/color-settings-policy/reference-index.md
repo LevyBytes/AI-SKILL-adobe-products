@@ -1,4 +1,4 @@
-# InDesign — ColorSettingsPolicy
+# InDesign - ColorSettingsPolicy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up COLOR_POLICY_OFF in InDesign. [COLOR_POLICY_OFF](colorpolicyoff.md).

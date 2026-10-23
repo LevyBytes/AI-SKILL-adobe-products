@@ -1,4 +1,4 @@
-# Firefly — How to train Firefly Custom Models
+# Firefly - How to train Firefly Custom Models
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Pick a use case in Firefly. [Pick a use case](pick-a-use-case.md).

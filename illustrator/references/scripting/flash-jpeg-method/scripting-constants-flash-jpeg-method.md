@@ -1,4 +1,4 @@
-# Scripting Constants — FlashJPEGMethod
+# Scripting Constants - FlashJPEGMethod
 
 This option determines how JPEG images are stored.
 

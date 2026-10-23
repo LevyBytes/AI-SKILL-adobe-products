@@ -1,4 +1,4 @@
-# Photoshop — Output types migration guide common migration errors
+# Photoshop - Output types migration guide common migration errors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Invalid PNG compression in Photoshop. [Invalid PNG compression](invalid-png-compression.md).

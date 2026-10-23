@@ -4,7 +4,7 @@ Version (Key): 6.0 | Save-Prefs: No | Security: No | Product: All | Type: Object
 
 Lists out the values a MediaSettings.floating.over property accepts; its value is what positions a floating window. See app.media.align.
 
-Value — Description
+Value: Description
 
 app.media.over.pageWindow
 

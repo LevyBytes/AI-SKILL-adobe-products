@@ -1,7 +1,7 @@
-# Illustrator — PDFSaveOptions
+# Illustrator - PDFSaveOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up PDFSaveOptions — Properties in Illustrator. [PDFSaveOptions — Properties](pdf-save-options-properties.md).
+- Open when looking up PDFSaveOptions - Properties in Illustrator. [PDFSaveOptions - Properties](pdf-save-options-properties.md).
 - Open when looking up PDFSaveOptions.acrobatLayers in Illustrator. [PDFSaveOptions.acrobatLayers](acrobat-layers.md).
 - Open when looking up PDFSaveOptions.artboardRange in Illustrator. [PDFSaveOptions.artboardRange](artboard-range.md).
 - Open when looking up PDFSaveOptions.bleedLink in Illustrator. [PDFSaveOptions.bleedLink](bleed-link.md).

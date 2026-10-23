@@ -1,6 +1,6 @@
-# InDesign — FormField: placement, bounds and transformations
+# InDesign - FormField: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — FormField.
+Open when checking placement, bounds and transformations in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

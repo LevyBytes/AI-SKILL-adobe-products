@@ -1,4 +1,4 @@
-# UxpCommandInfo — commandOptions ⇒ `object`
+# UxpCommandInfo - commandOptions ⇒ `object`
 
 Provides the command options parameter
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Swatch
+# Shared Adobe platform - Swatch
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Swatch declaration in Shared Adobe platform. [Swatch declaration](declaration.md).

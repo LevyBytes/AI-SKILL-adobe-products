@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: pf_effectworld / pf_layerdef
+# After Effects - C++ plugin SDK: pf_effectworld / pf_layerdef
 
-Open when working with pf_effectworld / pf_layerdef in After Effects — C++ plugin SDK.
+Open when working with pf_effectworld / pf_layerdef in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-basics-pf-effectworld.json).
 

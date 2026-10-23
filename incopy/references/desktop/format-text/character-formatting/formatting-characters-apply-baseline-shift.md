@@ -1,4 +1,4 @@
-# Formatting characters — Apply baseline shift
+# Formatting characters - Apply baseline shift
 
 Baseline Shift raises or lowers selected characters in relation to the baseline of adjacent text. It helps when manually setting fractions or positioning embedded objects.
 

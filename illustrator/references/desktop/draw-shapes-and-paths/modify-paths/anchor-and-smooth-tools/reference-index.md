@@ -1,4 +1,4 @@
-# Illustrator — Refine paths in Illustrator using Anchor Point and Smooth tools
+# Illustrator - Refine paths in Illustrator using Anchor Point and Smooth tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust anchor points in Illustrator. [Adjust anchor points](adjust-anchor-points.md).

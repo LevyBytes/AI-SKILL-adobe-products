@@ -1,4 +1,4 @@
-# InDesign — Manage object styles
+# InDesign - Manage object styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About object styles in InDesign. [About object styles](about-object-styles.md).

@@ -1,6 +1,6 @@
-# InDesign — WMF: accessibility, tagging and xml
+# InDesign - WMF: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — WMF.
+Open when checking accessibility, tagging and xml in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

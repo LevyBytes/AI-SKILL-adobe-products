@@ -1,4 +1,4 @@
-# Tips & Tricks — Best Practices
+# Tips & Tricks - Best Practices
 
 If your prototypes resemble ours at all, the first build of your plug-in that manages to run without crashing looks nothing like the build you eventually release.
 

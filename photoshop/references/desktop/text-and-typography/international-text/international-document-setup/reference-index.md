@@ -1,4 +1,4 @@
-# Photoshop — Create documents using international languages, scripts, and text
+# Photoshop - Create documents using international languages, scripts, and text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a document with international text in Photoshop. [Create a document with international text](create-a-document-with-international-text.md).

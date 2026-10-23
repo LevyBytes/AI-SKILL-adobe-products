@@ -1,4 +1,4 @@
-# After Effects — Expression Language Reference
+# After Effects - Expression Language Reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Camera attributes and methods (expression reference) in After Effects. [Camera attributes and methods (expression reference)](camera-attributes-and-methods-expression-reference.md).

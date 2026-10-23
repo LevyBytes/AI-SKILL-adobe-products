@@ -1,4 +1,4 @@
-# InDesign — ImageConversion
+# InDesign - ImageConversion
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AUTOMATIC in InDesign. [AUTOMATIC](automatic.md).

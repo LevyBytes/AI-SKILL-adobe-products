@@ -1,4 +1,4 @@
-# Photoshop — Use grids and measurement guides
+# Photoshop - Use grids and measurement guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Alignment grids and guides in Photoshop. [Alignment grids and guides](alignment-grids-and-guides.md).

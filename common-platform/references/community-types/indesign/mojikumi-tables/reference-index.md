@@ -1,4 +1,4 @@
-# Shared Adobe platform — MojikumiTables
+# Shared Adobe platform - MojikumiTables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MojikumiTables collection iteration in Shared Adobe platform. [MojikumiTables collection iteration](collection-iteration.md).

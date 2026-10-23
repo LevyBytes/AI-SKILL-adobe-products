@@ -1,4 +1,4 @@
-# InDesign — ConditionalTextPreference
+# InDesign - ConditionalTextPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up activeConditionSet in InDesign. [activeConditionSet](active-condition-set.md).

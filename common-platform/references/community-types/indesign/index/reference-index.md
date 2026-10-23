@@ -1,4 +1,4 @@
-# Shared Adobe platform — Index
+# Shared Adobe platform - Index
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Index declaration in Shared Adobe platform. [Index declaration](declaration.md).

@@ -1,4 +1,4 @@
-# Step 2: Poll status — Performance considerations
+# Step 2: Poll status - Performance considerations
 
 **Thumbnail Generation:**
 

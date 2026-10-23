@@ -1,6 +1,6 @@
-# Acrobat — PDF Services API: job notifications and webhook responses
+# Acrobat - PDF Services API: job notifications and webhook responses
 
-Open when working with job notifications and webhook responses in Acrobat — PDF Services API.
+Open when working with job notifications and webhook responses in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-webhooks.json).
 

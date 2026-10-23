@@ -1,4 +1,4 @@
-# PDF Electronic Seal API — API limitations
+# PDF Electronic Seal API - API limitations
 
 - **Input PDF size:** The input PDF may be at most 100 MB.
 - **Seal Image size:** A seal image file may be at most 5 MB.

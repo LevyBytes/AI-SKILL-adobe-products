@@ -1,6 +1,6 @@
-# InDesign — Change text preference: conditional text and editorial review
+# InDesign - Change text preference: conditional text and editorial review
 
-Open when checking conditional text and editorial review in InDesign — Change text preference.
+Open when checking conditional text and editorial review in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-conditions-and-review.json).
 

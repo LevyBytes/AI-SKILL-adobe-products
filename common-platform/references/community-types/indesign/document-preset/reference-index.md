@@ -1,4 +1,4 @@
-# Shared Adobe platform — DocumentPreset
+# Shared Adobe platform - DocumentPreset
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DocumentPreset declaration in Shared Adobe platform. [DocumentPreset declaration](declaration.md).

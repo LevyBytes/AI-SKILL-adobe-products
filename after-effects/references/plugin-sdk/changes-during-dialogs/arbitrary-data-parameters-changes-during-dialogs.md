@@ -1,4 +1,4 @@
-# Arbitrary Data Parameters — Changes During Dialogs
+# Arbitrary Data Parameters - Changes During Dialogs
 
 Whatever edits land on arbitrary data parameters while `PF_Cmd_DO_DIALOG` is running, After Effects throws them away.
 

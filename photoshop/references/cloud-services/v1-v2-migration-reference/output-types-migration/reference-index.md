@@ -1,4 +1,4 @@
-# Photoshop — Output types migration
+# Photoshop - Output types migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bit depth validation table in Photoshop. [Bit depth validation table](bit-depth-validation-table.md).

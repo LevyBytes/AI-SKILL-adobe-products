@@ -1,6 +1,6 @@
-# InDesign — Document: anchored object placement
+# InDesign - Document: anchored object placement
 
-Open when checking anchored object placement in InDesign — Document.
+Open when checking anchored object placement in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

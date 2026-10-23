@@ -1,4 +1,4 @@
-# window.Element — tagName : `string`
+# window.Element - tagName : `string`
 
 **Read only**
 String value that reports the element's tag name.

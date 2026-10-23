@@ -1,4 +1,4 @@
-# Table strokes and fills — Add stroke and fill using Cell Options
+# Table strokes and fills - Add stroke and fill using Cell Options
 
 Use the Preview proxy to control which cell lines receive stroke or fill formatting by selecting or clearing those lines. To change all rows or columns in the table, apply an alternating stroke or fill pattern and set the second pattern to 0.
 

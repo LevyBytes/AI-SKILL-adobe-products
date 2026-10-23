@@ -1,4 +1,4 @@
-# After Effects — Convert From Sketch Capture To Photoshop Illustrator And Animate
+# After Effects - Convert From Sketch Capture To Photoshop Illustrator And Animate
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a shape in Capture in After Effects. [Create a shape in Capture](create-a-shape-in-capture.md).

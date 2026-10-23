@@ -1,6 +1,6 @@
-# InDesign — Text style range: generate qr codes
+# InDesign - Text style range: generate qr codes
 
-Open when checking generate qr codes in InDesign — Text style range.
+Open when checking generate qr codes in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

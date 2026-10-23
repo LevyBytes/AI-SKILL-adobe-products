@@ -1,4 +1,4 @@
-# Acrobat — Field
+# Acrobat - Field
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up alignment in Acrobat. [alignment](alignment.md).
@@ -46,7 +46,7 @@
 - Open when looking up insertItemAt in Acrobat. [insertItemAt](insert-item-at.md).
 - Open when looking up isBoxChecked in Acrobat. [isBoxChecked](is-box-checked.md).
 - Open when looking up isDefaultChecked in Acrobat. [isDefaultChecked](is-default-checked.md).
-- Open when looking up JavaScript APIs — Field in Acrobat. [JavaScript APIs — Field](java-script-apis-field.md).
+- Open when looking up JavaScript APIs - Field in Acrobat. [JavaScript APIs - Field](java-script-apis-field.md).
 - Open when looking up multiline in Acrobat. [multiline](multiline.md).
 - Open when looking up multipleSelection in Acrobat. [multipleSelection](multiple-selection.md).
 - Open when looking up name in Acrobat. [name](name.md).

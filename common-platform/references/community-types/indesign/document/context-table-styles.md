@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: table and cell styles
+# Shared Adobe platform - Document: table and cell styles
 
-Open when checking table and cell styles in Shared Adobe platform — Document.
+Open when checking table and cell styles in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-table-styles.json).
 

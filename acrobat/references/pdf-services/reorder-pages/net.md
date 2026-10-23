@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/reorder-pdf-pages/Program.cs)
+- [reorder-pdf-pages setup and source](../examples/dotnet/reorder-pdf-pages/reorder-pdf-pages-setup.md)

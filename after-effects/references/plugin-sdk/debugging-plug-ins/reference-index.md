@@ -1,4 +1,4 @@
-# After Effects — Debugging Plug-ins
+# After Effects - Debugging Plug-ins
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up macOS in After Effects. [macOS](mac-os.md).

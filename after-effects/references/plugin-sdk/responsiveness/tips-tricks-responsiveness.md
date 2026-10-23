@@ -1,4 +1,4 @@
-# Tips & Tricks — Responsiveness
+# Tips & Tricks - Responsiveness
 
 Lean on `PF_ABORT`() and `PF_PROGRESS`() from Interaction Callbacks to keep your plug-ins feeling snappy.
 

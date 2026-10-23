@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindGrepPreference: fill, stroke and transparency
+# Shared Adobe platform - FindGrepPreference: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in Shared Adobe platform — FindGrepPreference.
+Open when checking fill, stroke and transparency in Shared Adobe platform - FindGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

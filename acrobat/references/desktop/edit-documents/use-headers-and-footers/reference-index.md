@@ -1,4 +1,4 @@
-# Acrobat — Use headers and footers
+# Acrobat - Use headers and footers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Modify headers and footers in PDFs in Acrobat. [Modify headers and footers in PDFs](modify-headers-and-footers-in-pdfs.md).

@@ -1,4 +1,4 @@
-# Firefly — Firefly video editor beta
+# Firefly - Firefly video editor beta
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Firefly video editor in Firefly. [About Firefly video editor](about-firefly-video-editor.md).

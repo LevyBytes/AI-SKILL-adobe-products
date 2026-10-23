@@ -1,4 +1,4 @@
-# Scripting Constants — AntiAliasingMethod
+# Scripting Constants - AntiAliasingMethod
 
 AntiAliasingMethod identifies the antialiasing approach used for rasterization.
 

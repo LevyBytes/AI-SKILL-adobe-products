@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Highlight substituted fonts in your document
+# Using fonts in InCopy - Highlight substituted fonts in your document
 
 When the Substituted Fonts preference is enabled, pink highlighting marks text formatted with missing fonts so it is easy to identify.
 

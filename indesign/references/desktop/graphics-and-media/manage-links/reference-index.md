@@ -1,4 +1,4 @@
-# InDesign — Manage links
+# InDesign - Manage links
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit original artwork in InDesign. [Edit original artwork](edit-original-artwork.md).

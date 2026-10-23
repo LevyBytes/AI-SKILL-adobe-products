@@ -4,7 +4,7 @@
   {"topic": "color", "file": "references/scripting/report/color.md", "summary": "Open when looking up color in Acrobat.", "keywords": ["color"]},
   {"topic": "divide", "file": "references/scripting/report/divide.md", "summary": "Open when looking up divide in Acrobat.", "keywords": ["divide"]},
   {"topic": "indent", "file": "references/scripting/report/indent.md", "summary": "Open when looking up indent in Acrobat.", "keywords": ["indent"]},
-  {"topic": "JavaScript APIs — Report", "file": "references/scripting/report/java-script-apis-report.md", "summary": "Open when looking up JavaScript APIs — Report in Acrobat.", "keywords": ["JavaScript APIs — Report"]},
+  {"topic": "JavaScript APIs - Report", "file": "references/scripting/report/java-script-apis-report.md", "summary": "Open when looking up JavaScript APIs - Report in Acrobat.", "keywords": ["JavaScript APIs - Report"]},
   {"topic": "mail", "file": "references/scripting/report/mail.md", "summary": "Open when looking up mail in Acrobat.", "keywords": ["mail"]},
   {"topic": "open", "file": "references/scripting/report/open.md", "summary": "Open when looking up open in Acrobat.", "keywords": ["open"]},
   {"topic": "outdent", "file": "references/scripting/report/outdent.md", "summary": "Open when looking up outdent in Acrobat.", "keywords": ["outdent"]},

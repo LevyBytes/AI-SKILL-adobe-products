@@ -1,4 +1,4 @@
-# JavaScript APIs — Link
+# JavaScript APIs - Link
 
 This object handles getting and setting a link’s properties and assigning its JavaScript action.
 

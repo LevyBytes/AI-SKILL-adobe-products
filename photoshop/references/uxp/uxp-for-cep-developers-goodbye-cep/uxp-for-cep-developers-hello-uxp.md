@@ -1,4 +1,4 @@
-# UXP for CEP Developers — Hello UXP
+# UXP for CEP Developers - Hello UXP
 
 UXP can use HTML and CSS for simple panels, or, with the React JavaScript framework added, more complex panels; it also supports dialogs and headless (no UI) plugins.
 

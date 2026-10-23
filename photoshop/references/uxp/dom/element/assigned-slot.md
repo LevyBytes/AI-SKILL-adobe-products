@@ -1,4 +1,4 @@
-# window.Element — assignedSlot : `HTMLSlotElement`
+# window.Element - assignedSlot : `HTMLSlotElement`
 
 **Read only**
 [ This feature requires a feature flag. Enable `enableSWCSupport` in the plugin manifest's featureFlags section before using it. ]

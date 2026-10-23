@@ -1,4 +1,4 @@
-# InDesign — Events
+# InDesign - Events
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Understanding Event Scripting in InDesign. [Understanding Event Scripting](understanding-event-scripting.md).

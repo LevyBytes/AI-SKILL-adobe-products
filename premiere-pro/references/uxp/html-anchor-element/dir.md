@@ -1,4 +1,4 @@
-# window.HTMLAnchorElement — dir : `string`
+# window.HTMLAnchorElement - dir : `string`
 
 Captures the writing direction used by content in the current element, limited to the recognized set.
 

@@ -1,4 +1,4 @@
-# Using the Plugin — Note On socket.io
+# Using the Plugin - Note On socket.io
 
 At present, this sample connects to the socket server through `127.0.0.1` so it works across platforms.
 

@@ -1,4 +1,4 @@
-# Acrobat — Accessibility
+# Acrobat - Accessibility
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessibility features in PDFs in Acrobat. [Accessibility features in PDFs](accessibility-features-in-pdfs.md).

@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: alternating table fills and stroke ordering
+# InDesign - InDesign document object model: alternating table fills and stroke ordering
 
-Open when working with alternating table fills and stroke ordering in InDesign — InDesign document object model.
+Open when working with alternating table fills and stroke ordering in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-table-fills.json).
 

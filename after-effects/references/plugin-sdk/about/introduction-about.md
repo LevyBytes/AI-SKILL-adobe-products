@@ -1,4 +1,4 @@
-# Introduction — About
+# Introduction - About
 
 Over many years this guide has shifted shape repeatedly. It reads partly as a reference work and partly as a tutorial, carrying layer upon layer of detail that has piled up across two-plus decades of building out and polishing the API.
 

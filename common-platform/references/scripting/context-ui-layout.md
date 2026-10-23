@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: automatic layout, dimensions and titles
+# Shared Adobe platform - Scripting APIs: automatic layout, dimensions and titles
 
-Open when working with automatic layout, dimensions and titles in Shared Adobe platform — Scripting APIs.
+Open when working with automatic layout, dimensions and titles in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-layout.json).
 

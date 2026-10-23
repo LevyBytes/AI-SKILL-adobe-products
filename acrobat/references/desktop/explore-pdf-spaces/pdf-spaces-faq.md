@@ -52,7 +52,7 @@ Out of the box, recipients reach all shared content—files and notes alike—an
 
 For more, see the steps to tailor the PDF Spaces experience and to follow how recipients engage with the PDF Spaces you've shared.
 
-Indeed—by shaping both the material and the way it reaches recipients, you can pass information along as a tailored, guided experience.
+Indeed: by shaping both the material and the way it reaches recipients, you can pass information along as a tailored, guided experience.
 
 Here are the ways to make the experience your own:
 

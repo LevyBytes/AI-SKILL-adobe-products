@@ -1,4 +1,4 @@
-# Illustrator — ParagraphStyles
+# Illustrator - ParagraphStyles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParagraphStyles.add() in Illustrator. [ParagraphStyles.add()](add.md).

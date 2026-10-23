@@ -1,4 +1,4 @@
-# Acrobat — Get started
+# Acrobat - Get started
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access the app in Acrobat. [Access the app references](access-the-app/reference-index.md).

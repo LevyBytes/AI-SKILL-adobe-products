@@ -1,4 +1,4 @@
-# Overview — Supported External Storage Solutions
+# Overview - Supported External Storage Solutions
 
 Across the range of cloud storage providers, Signed URLs work the same way for both downloads and uploads. At present the signed URLs that Adobe PDF Services APIs honor are those produced through -
 

@@ -1,4 +1,4 @@
-# InDesign — BaselineFrameGridRelativeOption
+# InDesign - BaselineFrameGridRelativeOption
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TOP_OF_FRAME in InDesign. [TOP_OF_FRAME](topofframe.md).

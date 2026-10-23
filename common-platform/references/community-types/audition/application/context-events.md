@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: application events
+# Shared Adobe platform - Application: application events
 
-Open when working with application events in Shared Adobe platform — Application.
+Open when working with application events in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-events.json).
 

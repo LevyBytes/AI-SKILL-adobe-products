@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: cad import and export
+# Shared Adobe platform - Illustrator: cad import and export
 
-Open when working with cad import and export in Shared Adobe platform — Illustrator.
+Open when working with cad import and export in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-cad-export.json).
 

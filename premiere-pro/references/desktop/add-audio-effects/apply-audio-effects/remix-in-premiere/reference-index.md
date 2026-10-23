@@ -1,4 +1,4 @@
-# Premiere Pro — Remix in Premiere
+# Premiere Pro - Remix in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enhance your workflow with Remix in Premiere Pro. [Enhance your workflow with Remix](enhance-your-workflow-with-remix.md).

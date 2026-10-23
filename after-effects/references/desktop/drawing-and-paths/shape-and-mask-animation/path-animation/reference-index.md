@@ -1,4 +1,4 @@
-# After Effects — Animating Shape Paths Masks
+# After Effects - Animating Shape Paths Masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access expression methods in After Effects. [Access expression methods](access-expression-methods.md).

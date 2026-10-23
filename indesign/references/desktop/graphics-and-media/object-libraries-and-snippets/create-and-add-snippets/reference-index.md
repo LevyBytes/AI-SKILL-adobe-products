@@ -1,4 +1,4 @@
-# InDesign — Create and add snippets
+# InDesign - Create and add snippets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose how to place snippets in InDesign. [Choose how to place snippets](choose-how-to-place-snippets.md).

@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: writing direction and diacritics
+# InDesign - Paragraph style: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — Paragraph style.
+Open when checking writing direction and diacritics in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

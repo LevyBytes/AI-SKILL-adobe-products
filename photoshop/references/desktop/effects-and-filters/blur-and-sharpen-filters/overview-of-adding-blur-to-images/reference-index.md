@@ -1,4 +1,4 @@
-# Photoshop — Overview of adding blur to images
+# Photoshop - Overview of adding blur to images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices in Photoshop. [Best practices](best-practices.md).

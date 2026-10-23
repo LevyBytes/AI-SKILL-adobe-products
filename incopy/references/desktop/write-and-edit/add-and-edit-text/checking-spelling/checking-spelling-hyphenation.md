@@ -1,4 +1,4 @@
-# Checking spelling — Hyphenation
+# Checking spelling - Hyphenation
 
 To enable Duden hyphenation, open Preferences > Dictionary and select Show Hyphenation Options.
 

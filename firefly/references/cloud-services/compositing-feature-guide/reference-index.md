@@ -1,4 +1,4 @@
-# Firefly — Compositing feature guide
+# Firefly - Compositing feature guide
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adaptive Composite in Firefly. [Adaptive Composite](adaptive-composite.md).

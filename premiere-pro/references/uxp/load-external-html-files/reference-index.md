@@ -1,4 +1,4 @@
-# Premiere Pro — Load external HTML files
+# Premiere Pro - Load external HTML files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up \_dialog.html in Premiere Pro. [\_dialog.html](dialog-html.md).

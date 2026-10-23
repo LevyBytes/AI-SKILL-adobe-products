@@ -1,4 +1,4 @@
-# Photoshop — Format conversion migration
+# Photoshop - Format conversion migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basic format conversion in Photoshop. [Basic format conversion references](basic-format-conversion/reference-index.md).

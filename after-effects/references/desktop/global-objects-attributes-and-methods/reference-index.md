@@ -1,4 +1,4 @@
-# After Effects — Global objects attributes and methods
+# After Effects - Global objects attributes and methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up colorDepth in After Effects. [colorDepth](color-depth.md).

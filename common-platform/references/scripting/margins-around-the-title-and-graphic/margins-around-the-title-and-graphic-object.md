@@ -1,4 +1,4 @@
-# Managing control titles — Margins around the title and graphic object
+# Managing control titles - Margins around the title and graphic object
 
 The margins property sets, in pixels, the distance from each edge of an element to the visible content inside that element. This replaces the default margin values: most element types have no margins, while iconbutton uses 6 pixels at each edge.
 

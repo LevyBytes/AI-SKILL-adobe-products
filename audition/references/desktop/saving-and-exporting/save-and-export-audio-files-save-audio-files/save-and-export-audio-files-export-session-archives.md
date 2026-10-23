@@ -1,4 +1,4 @@
-# Save and export audio files — Export session archives
+# Save and export audio files - Export session archives
 
 Export session archives when session and source files need to be bundled for transfer to other computers or storage devices. This workflow also lets you change a session's sample rate and bit depth.
 

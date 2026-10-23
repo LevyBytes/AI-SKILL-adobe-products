@@ -1,4 +1,4 @@
-# Creating layers — Create layers from one or more footage items
+# Creating layers - Create layers from one or more footage items
 
 Build layers from several footage items at once and they line up in the Timeline panel's stacking order following the order you selected them in the Project panel.
 

@@ -1,4 +1,4 @@
-# Illustrator — Define and manage perspective grid preset
+# Illustrator - Define and manage perspective grid preset
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Define grid presets in Illustrator. [Define grid presets](define-grid-presets.md).

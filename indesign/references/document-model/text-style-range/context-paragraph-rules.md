@@ -1,6 +1,6 @@
-# InDesign — Text style range: paragraph rules
+# InDesign - Text style range: paragraph rules
 
-Open when checking paragraph rules in InDesign — Text style range.
+Open when checking paragraph rules in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

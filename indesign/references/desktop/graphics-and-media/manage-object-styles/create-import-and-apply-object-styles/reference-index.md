@@ -1,4 +1,4 @@
-# InDesign — Create, import, and apply object styles
+# InDesign - Create, import, and apply object styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply an object style in InDesign. [Apply an object style](apply-an-object-style.md).

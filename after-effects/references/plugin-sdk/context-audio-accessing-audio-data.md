@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: accessing audio data
+# After Effects - C++ plugin SDK: accessing audio data
 
-Open when working with accessing audio data in After Effects — C++ plugin SDK.
+Open when working with accessing audio data in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-accessing-audio-data.json).
 

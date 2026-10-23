@@ -1,4 +1,4 @@
-# Shared Adobe platform — Text
+# Shared Adobe platform - Text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Text declaration in Shared Adobe platform. [Text declaration](declaration.md).

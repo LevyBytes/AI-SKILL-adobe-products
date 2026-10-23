@@ -1,4 +1,4 @@
-# Save and export audio files — Wave PCM format settings (.wav, .bwf)
+# Save and export audio files - Wave PCM format settings (.wav, .bwf)
 
 Wave PCM is the standard uncompressed audio format for Windows. Broadcast Wave metadata can be included in Windows PCM files.
 

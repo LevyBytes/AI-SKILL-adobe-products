@@ -1,4 +1,4 @@
-# Importing graphics — Work with Links panel columns
+# Importing graphics - Work with Links panel columns
 
 Additional categories, including Creation Date and Layer, can be shown in the Links panel to provide more graphic information. For each category, you decide whether that information appears as a Links panel column and whether it appears in the Link Info section at the bottom of the Links panel.
 

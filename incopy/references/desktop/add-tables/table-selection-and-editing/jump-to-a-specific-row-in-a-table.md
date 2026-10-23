@@ -1,4 +1,4 @@
-# Selecting and editing tables — Jump to a specific row in a table
+# Selecting and editing tables - Jump to a specific row in a table
 
 Choose Table > Go To Row. Then use the applicable option:
 

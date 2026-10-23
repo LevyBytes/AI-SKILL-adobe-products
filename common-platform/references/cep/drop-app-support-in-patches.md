@@ -1,4 +1,4 @@
-# FAQs — How can I drop support for a Creative Cloud app while submitting a patch?
+# FAQs - How can I drop support for a Creative Cloud app while submitting a patch?
 
 _Answer:_ Support for Creative Cloud apps cannot be removed during a patch submission (e.g., the listing supports Photoshop, Illustrator, and InDesign, and you now want to stop supporting Photoshop). The listing must continue to support every point product included in the first published version you submitted.
 

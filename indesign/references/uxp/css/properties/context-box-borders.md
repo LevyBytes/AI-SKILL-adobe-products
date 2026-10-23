@@ -1,6 +1,6 @@
-# InDesign — Properties: border colors, styles and widths
+# InDesign - Properties: border colors, styles and widths
 
-Open when working with border colors, styles and widths in InDesign — Properties.
+Open when working with border colors, styles and widths in InDesign - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-box-borders.json).
 

@@ -1,4 +1,4 @@
-# Formatting characters — Change the color, gradient, or stroke of text
+# Formatting characters - Change the color, gradient, or stroke of text
 
 Characters can receive colors, gradients, and strokes while remaining editable text. Apply those appearances with the Swatches panel and Stroke panel, or set Character Color while creating or modifying a text style definition.
 

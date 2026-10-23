@@ -1,4 +1,4 @@
-# InDesign — LinkStatus
+# InDesign - LinkStatus
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LINK_EMBEDDED in InDesign. [LINK_EMBEDDED](linkembedded.md).

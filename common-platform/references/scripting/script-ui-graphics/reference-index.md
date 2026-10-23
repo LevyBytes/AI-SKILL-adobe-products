@@ -1,4 +1,4 @@
-# Shared Adobe platform — Script ui graphics
+# Shared Adobe platform - Script ui graphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up backgroundColor in Shared Adobe platform. [backgroundColor](background-color.md).
@@ -16,7 +16,7 @@
 - Open when looking up fillPath() in Shared Adobe platform. [fillPath()](fill-path.md).
 - Open when looking up font in Shared Adobe platform. [font](font.md).
 - Open when looking up foregroundColor in Shared Adobe platform. [foregroundColor](foreground-color.md).
-- Open when looking up Graphic customization objects — ScriptUIGraphics Object in Shared Adobe platform. [Graphic customization objects — ScriptUIGraphics Object](graphic-customization-objects-script-ui-graphics-object.md).
+- Open when looking up Graphic customization objects - ScriptUIGraphics Object in Shared Adobe platform. [Graphic customization objects - ScriptUIGraphics Object](graphic-customization-objects-script-ui-graphics-object.md).
 - Open when looking up lineto() in Shared Adobe platform. [lineto()](lineto.md).
 - Open when looking up measureString() in Shared Adobe platform. [measureString()](measure-string.md).
 - Open when looking up moveto() in Shared Adobe platform. [moveto()](moveto.md).

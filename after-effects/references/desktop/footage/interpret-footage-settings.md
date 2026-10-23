@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Interpret a single footage item using the Interpret Footage dialog box
+# Importing and interpreting footage items - Interpret a single footage item using the Interpret Footage dialog box
 
 Pick a footage item in the Project panel, then do one of these:
 

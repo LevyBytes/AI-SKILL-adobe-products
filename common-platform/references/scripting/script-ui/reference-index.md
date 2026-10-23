@@ -1,4 +1,4 @@
-# Shared Adobe platform — Script ui
+# Shared Adobe platform - Script ui
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ScriptUI.Alignment in Shared Adobe platform. [ScriptUI.Alignment](alignment.md).

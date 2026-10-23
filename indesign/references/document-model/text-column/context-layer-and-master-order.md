@@ -1,6 +1,6 @@
-# InDesign — Text column: layers, stacking and master overrides
+# InDesign - Text column: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — Text column.
+Open when checking layers, stacking and master overrides in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

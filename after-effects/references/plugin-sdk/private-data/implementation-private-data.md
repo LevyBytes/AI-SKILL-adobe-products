@@ -1,4 +1,4 @@
-# Implementation — Private Data
+# Implementation - Private Data
 
 AEGPs, unlike effects, stay loaded for the whole After Effects session and are never unloaded. Even so, leaning on static and global variables still isn't a smart move.
 

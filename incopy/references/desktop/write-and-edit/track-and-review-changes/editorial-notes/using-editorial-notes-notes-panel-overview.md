@@ -1,4 +1,4 @@
-# Using editorial notes — Notes panel overview
+# Using editorial notes - Notes panel overview
 
 The Notes panel shows the note author, last-modified date and time, story label, page number, current note number out of the total notes, character and word counts, and note content.
 

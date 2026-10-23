@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: document access and opening
+# Shared Adobe platform - Application: document access and opening
 
-Open when working with document access and opening in Shared Adobe platform — Application.
+Open when working with document access and opening in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-documents.json).
 

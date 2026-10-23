@@ -1,4 +1,4 @@
-# Creating paths and shapes — Paths
+# Creating paths and shapes - Paths
 
 For a line or freeform path, provide path points as either x-y coordinate pairs or path point objects.
 

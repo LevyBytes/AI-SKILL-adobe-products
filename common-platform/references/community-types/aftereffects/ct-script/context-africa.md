@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: african writing systems
+# Shared Adobe platform - CTScript: african writing systems
 
-Open when working with african writing systems in Shared Adobe platform — CTScript.
+Open when working with african writing systems in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-africa.json).
 

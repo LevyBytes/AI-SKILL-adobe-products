@@ -1,4 +1,4 @@
-# Photoshop — Execute Actions API (/v2/execute-actions) — key breaking changes reference
+# Photoshop - Execute Actions API (/v2/execute-actions) - key breaking changes reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .atn action source nesting in Photoshop. [.atn action source nesting](atn-action-source-nesting.md).

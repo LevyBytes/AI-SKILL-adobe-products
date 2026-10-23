@@ -1,4 +1,4 @@
-# InDesign — Group and lock objects
+# InDesign - Group and lock objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Group objects in InDesign. [Group objects](group-objects.md).

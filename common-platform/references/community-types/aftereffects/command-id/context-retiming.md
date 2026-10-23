@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: time remapping, holds and stretching
+# Shared Adobe platform - _CommandID: time remapping, holds and stretching
 
-Open when working with time remapping, holds and stretching in Shared Adobe platform — _CommandID.
+Open when working with time remapping, holds and stretching in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-retiming.json).
 

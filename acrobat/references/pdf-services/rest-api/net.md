@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/compress-pdf/Program.cs)
+- [compress-pdf setup and source](../examples/dotnet/compress-pdf/compress-pdf-setup.md)

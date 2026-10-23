@@ -1,6 +1,6 @@
-# InDesign — SignatureField: fill, stroke and transparency
+# InDesign - SignatureField: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — SignatureField.
+Open when checking fill, stroke and transparency in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

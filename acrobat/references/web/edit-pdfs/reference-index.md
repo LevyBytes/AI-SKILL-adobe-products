@@ -1,4 +1,4 @@
-# Acrobat — Edit pdfs
+# Acrobat - Edit pdfs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit text, images, and objects in Acrobat. [Edit text, images, and objects](edit-text-images-and-objects.md).

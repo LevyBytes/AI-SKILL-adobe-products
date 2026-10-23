@@ -1,4 +1,4 @@
-# Top-Level (containing) Objects — Layer
+# Top-Level (containing) Objects - Layer
 
 The layer object opens access to the artwork tree and other contents belonging to one layer.
 

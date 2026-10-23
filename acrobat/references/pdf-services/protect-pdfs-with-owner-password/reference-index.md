@@ -1,4 +1,4 @@
-# Acrobat — Protect PDFs with owner password
+# Acrobat - Protect PDFs with owner password
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET in Acrobat. [.NET](net.md).

@@ -1,6 +1,6 @@
-# InDesign — PDF: events and listeners
+# InDesign - PDF: events and listeners
 
-Open when checking events and listeners in InDesign — PDF.
+Open when checking events and listeners in InDesign - PDF.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

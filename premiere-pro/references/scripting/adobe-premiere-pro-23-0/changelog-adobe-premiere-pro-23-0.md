@@ -1,4 +1,4 @@
-# Changelog — Adobe Premiere Pro 23.0
+# Changelog - Adobe Premiere Pro 23.0
 
 Warning
 

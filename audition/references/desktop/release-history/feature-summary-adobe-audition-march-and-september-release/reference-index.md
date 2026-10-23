@@ -1,4 +1,4 @@
-# Audition — Feature summary | Adobe Audition (March and September release)
+# Audition - Feature summary | Adobe Audition (March and September release)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Equitable language in Audition. [Equitable language](equitable-language.md).

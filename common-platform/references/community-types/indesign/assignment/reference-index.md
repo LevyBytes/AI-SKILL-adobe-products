@@ -1,4 +1,4 @@
-# Shared Adobe platform — Assignment
+# Shared Adobe platform - Assignment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assignment declaration in Shared Adobe platform. [Assignment declaration](declaration.md).

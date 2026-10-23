@@ -1,4 +1,4 @@
-# New features — April 2026 release (version 26.2)
+# New features - April 2026 release (version 26.2)
 
 Apply Content Credentials preferences at export
 

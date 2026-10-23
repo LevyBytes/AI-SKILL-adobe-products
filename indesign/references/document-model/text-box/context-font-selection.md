@@ -1,6 +1,6 @@
-# InDesign — TextBox: fonts and character forms
+# InDesign - TextBox: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — TextBox.
+Open when checking fonts and character forms in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

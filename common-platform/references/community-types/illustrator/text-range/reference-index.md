@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextRange
+# Shared Adobe platform - TextRange
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextRange declaration in Shared Adobe platform. [TextRange declaration](declaration.md).

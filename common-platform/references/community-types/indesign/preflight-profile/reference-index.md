@@ -1,4 +1,4 @@
-# Shared Adobe platform — PreflightProfile
+# Shared Adobe platform - PreflightProfile
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PreflightProfile declaration in Shared Adobe platform. [PreflightProfile declaration](declaration.md).

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: smartfx
+# After Effects - C++ plugin SDK: smartfx
 
-Open when working with smartfx in After Effects — C++ plugin SDK.
+Open when working with smartfx in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-smartfx-smartfx.json).
 

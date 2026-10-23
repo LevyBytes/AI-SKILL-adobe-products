@@ -1,6 +1,6 @@
-# InDesign — Polygon: accessibility, tagging and xml
+# InDesign - Polygon: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — Polygon.
+Open when checking accessibility, tagging and xml in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

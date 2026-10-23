@@ -1,4 +1,4 @@
-# Premiere Pro — Metadata in Premiere
+# Premiere Pro - Metadata in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up File metadata versus clip metadata in Premiere Pro. [File metadata versus clip metadata](file-metadata-versus-clip-metadata.md).

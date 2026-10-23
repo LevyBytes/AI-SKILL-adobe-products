@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Install fonts
+# Using fonts in InCopy - Install fonts
 
 For installing and activating fonts across all applications, consult the operating-system documentation or the documentation for your font manager.
 

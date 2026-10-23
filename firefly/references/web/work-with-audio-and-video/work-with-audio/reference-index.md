@@ -1,4 +1,4 @@
-# Firefly — Work with audio
+# Firefly - Work with audio
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add pauses to the speech text in Firefly. [Add pauses to the speech text](add-pauses-to-the-speech-text.md).

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: custom ui & drawbot
+# After Effects - C++ plugin SDK: custom ui & drawbot
 
-Open when working with custom ui & drawbot in After Effects — C++ plugin SDK.
+Open when working with custom ui & drawbot in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-ui-events-custom-ui-and-drawbot.json).
 

@@ -1,4 +1,4 @@
-# Acrobat — Manage certificates on directory servers
+# Acrobat - Manage certificates on directory servers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export directory server settings in Acrobat. [Export directory server settings](export-directory-server-settings.md).

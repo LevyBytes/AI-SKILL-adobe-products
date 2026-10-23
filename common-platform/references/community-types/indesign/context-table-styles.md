@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: table and cell styles
+# Shared Adobe platform - Indesign: table and cell styles
 
-Open when working with table and cell styles in Shared Adobe platform — Indesign.
+Open when working with table and cell styles in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-table-styles.json).
 

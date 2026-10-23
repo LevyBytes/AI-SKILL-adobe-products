@@ -1,4 +1,4 @@
-# Premiere Pro — Collaborate with others
+# Premiere Pro - Collaborate with others
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Collaborate using Creative Cloud Libraries in Premiere Pro. [Collaborate using Creative Cloud Libraries](collaborate-using-creative-cloud-libraries.md).

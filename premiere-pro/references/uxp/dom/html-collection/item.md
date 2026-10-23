@@ -1,4 +1,4 @@
-# window.HTMLCollection — item(index)
+# window.HTMLCollection - item(index)
 
 **Returns**: `Node`
 

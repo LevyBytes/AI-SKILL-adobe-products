@@ -1,4 +1,4 @@
-# Viewing stories — Change the Galley view display settings
+# Viewing stories - Change the Galley view display settings
 
 Choose an option from the Galley & Story Appearance toolbar. If the toolbar is not visible, choose Window > Galley & Story Appearance. By default, it is shown at the bottom of the application window.
 

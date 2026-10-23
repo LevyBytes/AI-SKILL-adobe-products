@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: read and edit text
+# InDesign - EndnoteTextFrame: read and edit text
 
-Open when checking read and edit text in InDesign — EndnoteTextFrame.
+Open when checking read and edit text in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

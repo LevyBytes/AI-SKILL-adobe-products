@@ -1,4 +1,4 @@
-# Submit an issue — Topic
+# Submit an issue - Topic
 
 Issue category:
 

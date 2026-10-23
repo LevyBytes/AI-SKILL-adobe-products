@@ -1,6 +1,6 @@
-# InDesign — Check box: interactive fields and behaviors
+# InDesign - Check box: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — Check box.
+Open when checking interactive fields and behaviors in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

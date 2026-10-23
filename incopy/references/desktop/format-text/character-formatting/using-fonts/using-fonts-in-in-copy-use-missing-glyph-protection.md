@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Use missing glyph protection
+# Using fonts in InCopy - Use missing glyph protection
 
 By default, InCopy blocks unsupported-character problems while you type and while you apply a font to selected text if that font lacks one or more selected glyphs. Those protections can be removed by turning off the related preferences.
 

@@ -1,4 +1,4 @@
-# Getting started — Debug
+# Getting started - Debug
 
 A UXP Hybrid plugin contains both JavaScript and C++. Set JavaScript breakpoints with the UDT Debug tool.
 

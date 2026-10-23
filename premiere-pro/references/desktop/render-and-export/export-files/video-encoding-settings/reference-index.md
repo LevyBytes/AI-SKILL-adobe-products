@@ -1,4 +1,4 @@
-# Premiere Pro — Video encoding settings
+# Premiere Pro - Video encoding settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Average (cd/m^2) in Premiere Pro. [Average (cd/m^2)](average-cd-m-2.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTransliteratePreference: warichu inline text
+# Shared Adobe platform - ChangeTransliteratePreference: warichu inline text
 
-Open when checking warichu inline text in Shared Adobe platform — ChangeTransliteratePreference.
+Open when checking warichu inline text in Shared Adobe platform - ChangeTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

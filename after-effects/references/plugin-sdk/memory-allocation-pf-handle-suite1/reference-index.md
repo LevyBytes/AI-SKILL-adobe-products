@@ -1,4 +1,4 @@
-# After Effects — Memory Allocation — PF_HandleSuite1
+# After Effects - Memory Allocation - PF_HandleSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up host_dispose_handle in After Effects. [host_dispose_handle](hostdisposehandle.md).

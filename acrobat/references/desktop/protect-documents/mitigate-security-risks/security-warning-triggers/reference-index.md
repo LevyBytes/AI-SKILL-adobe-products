@@ -1,4 +1,4 @@
-# Acrobat — Security warning triggers
+# Acrobat - Security warning triggers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common types of security warning triggers in Acrobat. [Common types of security warning triggers](common-types-of-security-warning-triggers.md).

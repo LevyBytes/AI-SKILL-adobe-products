@@ -1,6 +1,6 @@
-# Shared Adobe platform — ObjectStyle: events and listeners
+# Shared Adobe platform - ObjectStyle: events and listeners
 
-Open when checking events and listeners in Shared Adobe platform — ObjectStyle.
+Open when checking events and listeners in Shared Adobe platform - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

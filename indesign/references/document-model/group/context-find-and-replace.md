@@ -1,6 +1,6 @@
-# InDesign — Group: find, replace and transliterate
+# InDesign - Group: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Group.
+Open when checking find, replace and transliterate in InDesign - Group.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

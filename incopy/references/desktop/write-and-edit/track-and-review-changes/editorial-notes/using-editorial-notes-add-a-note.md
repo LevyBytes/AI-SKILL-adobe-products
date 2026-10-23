@@ -1,4 +1,4 @@
-# Using editorial notes — Add a note
+# Using editorial notes - Add a note
 
 Use either method:
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindObjectPreference: image conversion and web export
+# Shared Adobe platform - FindObjectPreference: image conversion and web export
 
-Open when checking image conversion and web export in Shared Adobe platform — FindObjectPreference.
+Open when checking image conversion and web export in Shared Adobe platform - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-image-web-export.json).
 

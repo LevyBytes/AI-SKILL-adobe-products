@@ -1,4 +1,4 @@
-# Shared Adobe platform — Rectangles
+# Shared Adobe platform - Rectangles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Rectangles collection iteration in Shared Adobe platform. [Rectangles collection iteration](collection-iteration.md).

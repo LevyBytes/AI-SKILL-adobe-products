@@ -1,6 +1,6 @@
-# InDesign — CharacterStyle: events and listeners
+# InDesign - CharacterStyle: events and listeners
 
-Open when checking events and listeners in InDesign — CharacterStyle.
+Open when checking events and listeners in InDesign - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

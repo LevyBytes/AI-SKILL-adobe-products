@@ -1,9 +1,9 @@
-# Media Encoder — Encoding and exporting
+# Media Encoder - Encoding and exporting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Content Credentials preferences at export in Media Encoder. [Apply Content Credentials preferences at export](apply-content-credentials-preferences-at-export.md).
-- Open when looking up Automatic loudness correction — Overview in Media Encoder. [Automatic loudness correction — Overview](automatic-loudness-correction-overview.md).
-- Open when looking up Automatic loudness correction — Overview in Media Encoder. [Automatic loudness correction — Overview references](automatic-loudness-correction-overview/reference-index.md).
+- Open when looking up Automatic loudness correction - Overview in Media Encoder. [Automatic loudness correction - Overview](automatic-loudness-correction-overview.md).
+- Open when looking up Automatic loudness correction - Overview in Media Encoder. [Automatic loudness correction - Overview references](automatic-loudness-correction-overview/reference-index.md).
 - Open when looking up Create custom presets for Media Encoder in Media Encoder. [Create custom presets for Media Encoder](create-custom-presets-for-media-encoder.md).
 - Open when looking up Create custom presets for Media Encoder in Media Encoder. [Create custom presets for Media Encoder references](create-custom-presets-for-media-encoder/reference-index.md).
 - Open when looking up Encode and export video and audio with Media Encoder in Media Encoder. [Encode and export video and audio with Media Encoder](encode-and-export-video-and-audio-with-media-encoder.md).

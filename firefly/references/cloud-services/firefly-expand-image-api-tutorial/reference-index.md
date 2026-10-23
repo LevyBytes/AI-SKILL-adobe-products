@@ -1,4 +1,4 @@
-# Firefly — Firefly Expand Image API Tutorial
+# Firefly - Firefly Expand Image API Tutorial
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Deepen Your Understanding in Firefly. [Deepen Your Understanding](deepen-your-understanding.md).

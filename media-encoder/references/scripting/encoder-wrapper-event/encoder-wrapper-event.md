@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — EncoderWrapperEvent
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderWrapperEvent
 
 Event object used for encode progress and completion notifications.
 

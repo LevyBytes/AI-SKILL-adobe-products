@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: what's new
+# After Effects - C++ plugin SDK: what's new
 
-Open when working with what's new in After Effects — C++ plugin SDK.
+Open when working with what's new in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-whats-new.json).
 

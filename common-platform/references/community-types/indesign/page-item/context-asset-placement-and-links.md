@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: place and link external assets
+# Shared Adobe platform - PageItem: place and link external assets
 
-Open when checking place and link external assets in Shared Adobe platform — PageItem.
+Open when checking place and link external assets in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

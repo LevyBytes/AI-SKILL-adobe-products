@@ -1,4 +1,4 @@
-# Illustrator — Apply and edit strokes
+# Illustrator - Apply and edit strokes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About brushes in Illustrator. [About brushes](about-brushes.md).

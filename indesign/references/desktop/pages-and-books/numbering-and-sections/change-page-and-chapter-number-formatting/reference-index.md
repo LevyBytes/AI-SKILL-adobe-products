@@ -1,4 +1,4 @@
-# InDesign — Change page and chapter number formatting
+# InDesign - Change page and chapter number formatting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add page or chapter numbers in InDesign. [Add page or chapter numbers](add-page-or-chapter-numbers.md).

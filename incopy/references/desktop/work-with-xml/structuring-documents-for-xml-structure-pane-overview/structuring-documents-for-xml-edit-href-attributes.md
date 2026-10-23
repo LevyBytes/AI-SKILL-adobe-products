@@ -1,4 +1,4 @@
-# Structuring documents for XML — Edit href attributes
+# Structuring documents for XML - Edit href attributes
 
 InCopy automatically creates href attributes for image-file handling. The href attribute stores the disk location of the image file so the file can be displayed. When you tag a placed image, InCopy writes an href attribute value containing the image path and filename.
 

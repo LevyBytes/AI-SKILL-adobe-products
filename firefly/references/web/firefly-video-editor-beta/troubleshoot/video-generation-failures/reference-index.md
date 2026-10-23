@@ -1,4 +1,4 @@
-# Firefly — Can't generate videos in Firefly video editor
+# Firefly - Can't generate videos in Firefly video editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generated videos are hidden due to filters or delayed synchronization in Firefly. [Generated videos are hidden due to filters or delayed synchronization](video-filters-and-sync-delays.md).

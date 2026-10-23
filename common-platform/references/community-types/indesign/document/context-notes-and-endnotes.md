@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: footnotes and endnotes
+# Shared Adobe platform - Document: footnotes and endnotes
 
-Open when checking footnotes and endnotes in Shared Adobe platform — Document.
+Open when checking footnotes and endnotes in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-notes-and-endnotes.json).
 

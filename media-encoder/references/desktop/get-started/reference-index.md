@@ -1,4 +1,4 @@
-# Media Encoder — Get started
+# Media Encoder - Get started
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Overview of Adobe Media Encoder in Media Encoder. [Overview of Adobe Media Encoder](overview-of-adobe-media-encoder.md).

@@ -1,6 +1,6 @@
-# InDesign — Image: image conversion and web export
+# InDesign - Image: image conversion and web export
 
-Open when checking image conversion and web export in InDesign — Image.
+Open when checking image conversion and web export in InDesign - Image.
 
 Open when selecting an exact API member: [Topic catalog](context-image-web-export.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: ruby annotations
+# Shared Adobe platform - Story: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — Story.
+Open when checking ruby annotations in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

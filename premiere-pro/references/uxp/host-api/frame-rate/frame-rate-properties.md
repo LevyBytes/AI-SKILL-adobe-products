@@ -1,4 +1,4 @@
-# FrameRate — Properties
+# FrameRate - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

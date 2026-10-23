@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: xml and e4x data types
+# Shared Adobe platform - Shared: xml and e4x data types
 
-Open when working with xml and e4x data types in Shared Adobe platform — Shared.
+Open when working with xml and e4x data types in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-xml.json).
 

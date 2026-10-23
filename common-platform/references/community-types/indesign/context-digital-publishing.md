@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: epub, html, folios and publishing
+# Shared Adobe platform - Indesign: epub, html, folios and publishing
 
-Open when working with epub, html, folios and publishing in Shared Adobe platform — Indesign.
+Open when working with epub, html, folios and publishing in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-digital-publishing.json).
 

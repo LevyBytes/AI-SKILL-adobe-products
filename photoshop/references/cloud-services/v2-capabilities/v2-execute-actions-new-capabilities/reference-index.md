@@ -1,4 +1,4 @@
-# Photoshop — V2 execute actions new capabilities
+# Photoshop - V2 execute actions new capabilities
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up New actions in Photoshop. [New actions](new-actions.md).

@@ -1,4 +1,4 @@
-# Working with managed files — Update content while working (InCopy)
+# Working with managed files - Update content while working (InCopy)
 
 Use one of these methods:
 

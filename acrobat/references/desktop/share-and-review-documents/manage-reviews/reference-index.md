@@ -1,4 +1,4 @@
-# Acrobat — Manage reviews
+# Acrobat - Manage reviews
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Find comments in Acrobat. [Find comments](find-comments.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Plugin functionality and UI (User Interface)
+# Shared Adobe platform - Plugin functionality and UI (User Interface)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Functionality in Shared Adobe platform. [Functionality](functionality.md).

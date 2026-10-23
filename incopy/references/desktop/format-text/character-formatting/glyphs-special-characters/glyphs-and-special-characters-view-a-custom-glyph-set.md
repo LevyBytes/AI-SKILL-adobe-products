@@ -1,4 +1,4 @@
-# Glyphs and special characters — View a custom glyph set
+# Glyphs and special characters - View a custom glyph set
 
 On the Glyphs panel, use either approach:
 

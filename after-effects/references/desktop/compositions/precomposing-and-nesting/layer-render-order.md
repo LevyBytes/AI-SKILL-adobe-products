@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — Render order and collapsing transformations
+# Precomposing, nesting, and pre-rendering - Render order and collapsing transformations
 
 Layers piled one above another in the Timeline panel are what make up a composition. Come render time — for a preview or the finished output — the layer at the bottom renders first. For each raster (non-vector) layer, the pieces apply in this sequence: masks, effects, transformations, and layer styles. Continuously rasterized vector layers follow a different default order — masks first, then transformations and effects.
 

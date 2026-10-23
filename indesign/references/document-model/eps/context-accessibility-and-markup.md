@@ -1,6 +1,6 @@
-# InDesign — EPS: accessibility, tagging and xml
+# InDesign - EPS: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — EPS.
+Open when checking accessibility, tagging and xml in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: object identity and lifecycle
+# InDesign - ImportedPage: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — ImportedPage.
+Open when checking object identity and lifecycle in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

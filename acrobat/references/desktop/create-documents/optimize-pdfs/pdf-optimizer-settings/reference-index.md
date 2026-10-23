@@ -1,4 +1,4 @@
-# Acrobat — PDF optimizer settings
+# Acrobat - PDF optimizer settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Clean Up settings in Acrobat. [Clean Up settings](clean-up-settings.md).

@@ -1,4 +1,4 @@
-# Illustrator — Transform symbols
+# Illustrator - Transform symbols
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Expand and modify a symbol instance in Illustrator. [Expand and modify a symbol instance](expand-and-modify-a-symbol-instance.md).

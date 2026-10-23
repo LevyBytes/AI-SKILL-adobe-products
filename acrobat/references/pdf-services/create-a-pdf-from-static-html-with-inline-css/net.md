@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/html-with-inline-css-to-pdf/Program.cs)
+- [html-with-inline-css-to-pdf setup and source](../examples/dotnet/html-with-inline-css-to-pdf/html-with-inline-css-to-pdf-setup.md)

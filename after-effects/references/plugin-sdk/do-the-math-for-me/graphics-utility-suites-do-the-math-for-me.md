@@ -1,4 +1,4 @@
-# Graphics Utility Suites — Do The Math For Me
+# Graphics Utility Suites - Do The Math For Me
 
 Beyond the assorted graphics utilities, we hand over a set of ANSI-standard routines too, sparing plug-ins from pulling in extra libraries just to call the usual functions.
 

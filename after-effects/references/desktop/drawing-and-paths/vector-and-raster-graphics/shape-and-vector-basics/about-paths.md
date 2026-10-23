@@ -4,7 +4,7 @@ The notion of a path underpins a number of After Effects features—masks, shape
 
 Two building blocks make up any path: segments and vertices. The lines or curves running between vertices are the segments, and the vertices mark the start and finish of each segment. In some Adobe products you'll see a vertex referred to instead as an anchor point or a path point.
 
-Reshaping a path happens through dragging—either the vertices themselves, the path segment, or the direction handles sitting at the ends of each vertex's direction lines (also called tangents).
+Reshaping a path happens through dragging: either the vertices themselves, the path segment, or the direction handles sitting at the ends of each vertex's direction lines (also called tangents).
 
 The course a path takes as it leaves a vertex is governed by the angle and length of that vertex's outgoing direction line. Heading toward the following vertex, the path gradually loosens its tie to the previous vertex's outgoing direction line and instead answers more to the incoming direction line belonging to the next vertex.
 
@@ -14,7 +14,7 @@ A. Selected vertex B. Selected vertex C. Unselected vertex D. Curved path segmen
 
 Components of a path
 
-Vertices come in two flavors—smooth points and corner points. Where a smooth point sits, the segments join as one continuous curve, because that point's incoming and outgoing direction lines fall along a single line. Where a corner point sits, the path snaps to a new heading, since its incoming and outgoing direction lines run along separate lines. Any mix of corner and smooth points is fair game when you draw, and a point of the wrong type is always changeable afterward.
+Vertices come in two flavors: smooth points and corner points. Where a smooth point sits, the segments join as one continuous curve, because that point's incoming and outgoing direction lines fall along a single line. Where a corner point sits, the path snaps to a new heading, since its incoming and outgoing direction lines run along separate lines. Any mix of corner and smooth points is fair game when you draw, and a point of the wrong type is always changeable afterward.
 
 Points on a path
 

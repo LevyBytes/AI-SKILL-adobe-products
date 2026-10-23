@@ -1,4 +1,4 @@
-# Shared Adobe platform — Asset
+# Shared Adobe platform - Asset
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Asset declaration in Shared Adobe platform. [Asset declaration](declaration.md).

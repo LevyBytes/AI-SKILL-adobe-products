@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: eps and pdf output, compatibility and permissions
+# Shared Adobe platform - Illustrator: eps and pdf output, compatibility and permissions
 
-Open when working with eps and pdf output, compatibility and permissions in Shared Adobe platform — Illustrator.
+Open when working with eps and pdf output, compatibility and permissions in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-eps-pdf-output.json).
 

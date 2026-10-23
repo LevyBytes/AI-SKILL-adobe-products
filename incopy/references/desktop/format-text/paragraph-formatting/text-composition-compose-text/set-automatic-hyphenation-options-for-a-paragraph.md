@@ -1,4 +1,4 @@
-# Text composition — Set automatic hyphenation options for a paragraph
+# Text composition - Set automatic hyphenation options for a paragraph
 
 Place the cursor in a paragraph, or select the paragraph range to change. From the Paragraph panel menu, choose Hyphenation. Enable the Hyphenate option. Change any required fields, then confirm with OK:
 

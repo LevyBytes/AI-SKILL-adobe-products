@@ -1,4 +1,4 @@
-# After Effects — Scripts
+# After Effects - Scripts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Load and run scripts in After Effects. [Load and run scripts](load-and-run-scripts.md).

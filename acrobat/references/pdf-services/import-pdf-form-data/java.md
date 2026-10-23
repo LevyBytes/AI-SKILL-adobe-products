@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ImportPDFFormData.java](../examples/java/import-pdf-form-data/ImportPDFFormData.java)
+- [import-pdf-form-data setup and source](../examples/java/import-pdf-form-data/import-pdf-form-data-setup.md)

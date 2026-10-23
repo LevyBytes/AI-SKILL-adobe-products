@@ -1,4 +1,4 @@
-# Shared Adobe platform — SplineItems
+# Shared Adobe platform - SplineItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SplineItems collection iteration in Shared Adobe platform. [SplineItems collection iteration](collection-iteration.md).

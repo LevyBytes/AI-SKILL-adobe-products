@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: language and writing direction
+# InDesign - InDesign document object model: language and writing direction
 
-Open when working with language and writing direction in InDesign — InDesign document object model.
+Open when working with language and writing direction in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-language-direction.json).
 

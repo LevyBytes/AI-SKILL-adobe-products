@@ -1,4 +1,4 @@
-# Acrobat — Add time stamps
+# Acrobat - Add time stamps
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply timestamps to documents in Acrobat. [Apply timestamps to documents](apply-timestamps-to-documents.md).

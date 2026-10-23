@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — AMEFrontendEvent
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - AMEFrontendEvent
 
 AME sends this event after successfully creating a batch item.
 

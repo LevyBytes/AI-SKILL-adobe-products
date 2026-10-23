@@ -1,4 +1,4 @@
-# Photoshop — Returning XMP metadata
+# Photoshop - Returning XMP metadata
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Complete Example: Auto Tone with Inline XMP in Photoshop. [Complete Example: Auto Tone with Inline XMP](complete-example-auto-tone-with-inline-xmp.md).

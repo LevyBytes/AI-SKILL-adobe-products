@@ -1,4 +1,4 @@
-# AEIOs — AEIO, or AEGP?
+# AEIOs - AEIO, or AEGP?
 
 AEIOs supply pixels and audio data to After Effects.
 

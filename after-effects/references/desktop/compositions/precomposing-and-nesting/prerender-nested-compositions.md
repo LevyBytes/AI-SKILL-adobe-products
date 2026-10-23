@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — Pre-render a nested composition
+# Precomposing, nesting, and pre-rendering - Pre-render a nested composition
 
 Rendering an elaborate nested composition — whether for previews or the final cut — can eat up considerable time. For a nested composition you figure you're finished editing, you can trim the time spent on every render by pre-rendering it into a movie and swapping the composition out for that rendered movie. The original nested composition stays editable, since it sticks around in the Project panel. Make a meaningful change to that original nested composition and you'll want to render it once more.
 

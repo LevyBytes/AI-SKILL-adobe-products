@@ -1,4 +1,4 @@
-# Photoshop — Work with Dynamic Text
+# Photoshop - Work with Dynamic Text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust formatting and resize text in Photoshop. [Adjust formatting and resize text](adjust-formatting-and-resize-text.md).

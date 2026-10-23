@@ -1,4 +1,4 @@
-# Shared Adobe platform — EPubFixedLayoutExportPreference
+# Shared Adobe platform - EPubFixedLayoutExportPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EPubFixedLayoutExportPreference declaration in Shared Adobe platform. [EPubFixedLayoutExportPreference declaration](declaration.md).

@@ -1,4 +1,4 @@
-# Scripting Constants — JavaScriptExecutionMode
+# Scripting Constants - JavaScriptExecutionMode
 
 | Value | Description |
 | --- | --- |

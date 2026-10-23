@@ -1,4 +1,4 @@
-# InDesign — SizeTypeEnum
+# InDesign - SizeTypeEnum
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DEFAULT_SIZE in InDesign. [DEFAULT_SIZE](defaultsize.md).

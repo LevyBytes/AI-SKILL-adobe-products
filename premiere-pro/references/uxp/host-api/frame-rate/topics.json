@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
   {"topic": "createWithValue", "file": "references/uxp/host-api/frame-rate/create-with-value.md", "summary": "Open when looking up createWithValue in Premiere Pro.", "keywords": ["createWithValue"]},
   {"topic": "equals", "file": "references/uxp/host-api/frame-rate/equals.md", "summary": "Open when looking up equals in Premiere Pro.", "keywords": ["equals"]},
-  {"topic": "FrameRate — Properties", "file": "references/uxp/host-api/frame-rate/frame-rate-properties.md", "summary": "Open when looking up FrameRate — Properties in Premiere Pro.", "keywords": ["FrameRate — Properties"]},
+  {"topic": "FrameRate - Properties", "file": "references/uxp/host-api/frame-rate/frame-rate-properties.md", "summary": "Open when looking up FrameRate - Properties in Premiere Pro.", "keywords": ["FrameRate - Properties"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

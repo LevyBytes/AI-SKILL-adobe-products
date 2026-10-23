@@ -1,6 +1,6 @@
-# InDesign — Polygon: output color, screening and overprint
+# InDesign - Polygon: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — Polygon.
+Open when checking output color, screening and overprint in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

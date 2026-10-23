@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [SplitPDFByNumberOfPages.java](../examples/java/split-pdf-by-number-of-pages/SplitPDFByNumberOfPages.java)
+- [split-pdf-by-number-of-pages setup and source](../examples/java/split-pdf-by-number-of-pages/split-pdf-by-number-of-pages-setup.md)

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Row: find, replace and transliterate
+# Shared Adobe platform - Row: find, replace and transliterate
 
-Open when checking find, replace and transliterate in Shared Adobe platform — Row.
+Open when checking find, replace and transliterate in Shared Adobe platform - Row.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

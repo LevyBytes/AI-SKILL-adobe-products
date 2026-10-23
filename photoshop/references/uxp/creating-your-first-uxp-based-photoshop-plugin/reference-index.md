@@ -1,4 +1,4 @@
-# Photoshop — Creating your first UXP-based Photoshop plugin
+# Photoshop - Creating your first UXP-based Photoshop plugin
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Next steps in Photoshop. [Next steps](next-steps.md).

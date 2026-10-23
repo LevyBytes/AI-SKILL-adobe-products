@@ -1,6 +1,6 @@
-# InDesign — Check box: anchored object placement
+# InDesign - Check box: anchored object placement
 
-Open when checking anchored object placement in InDesign — Check box.
+Open when checking anchored object placement in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

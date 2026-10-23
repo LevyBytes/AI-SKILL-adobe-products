@@ -1,4 +1,4 @@
-# Footnotes — Span footnotes across columns
+# Footnotes - Span footnotes across columns
 
 To set every footnote in the document to span columns:
 

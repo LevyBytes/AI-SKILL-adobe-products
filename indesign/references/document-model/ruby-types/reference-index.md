@@ -1,4 +1,4 @@
-# InDesign — RubyTypes
+# InDesign - RubyTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GROUP_RUBY in InDesign. [GROUP_RUBY](groupruby.md).

@@ -1,4 +1,4 @@
-# After Effects — Previewing
+# After Effects - Previewing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional tips and options for previewing in After Effects. [Additional tips and options for previewing](additional-tips-and-options-for-previewing.md).

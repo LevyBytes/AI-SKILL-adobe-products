@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: fit and clip graphic content
+# InDesign - InDesign document object model: fit and clip graphic content
 
-Open when working with fit and clip graphic content in InDesign — InDesign document object model.
+Open when working with fit and clip graphic content in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-fitting-clipping.json).
 

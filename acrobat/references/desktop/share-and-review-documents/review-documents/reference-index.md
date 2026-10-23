@@ -1,4 +1,4 @@
-# Acrobat — Review documents
+# Acrobat - Review documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add attachments as comments in Acrobat. [Add attachments as comments](add-attachments-as-comments.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Premiere UXP API
+# Premiere Pro - Premiere UXP API
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional Resources in Premiere Pro. [Additional Resources](additional-resources.md).

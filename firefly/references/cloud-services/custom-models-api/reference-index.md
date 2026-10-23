@@ -1,4 +1,4 @@
-# Firefly — Custom Models API
+# Firefly - Custom Models API
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up What is the Custom Models API? in Firefly. [What is the Custom Models API?](what-is-the-custom-models-api.md).

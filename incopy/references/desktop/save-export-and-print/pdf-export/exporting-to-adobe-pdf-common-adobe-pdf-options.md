@@ -1,4 +1,4 @@
-# Exporting to Adobe PDF — Common Adobe PDF options
+# Exporting to Adobe PDF - Common Adobe PDF options
 
 Several options are shared by Galley, Story, and Layout view PDF export.
 

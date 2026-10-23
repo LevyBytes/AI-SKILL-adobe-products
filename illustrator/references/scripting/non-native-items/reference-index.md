@@ -1,4 +1,4 @@
-# Illustrator — NonNativeItems
+# Illustrator - NonNativeItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NonNativeItems.getByName() in Illustrator. [NonNativeItems.getByName()](get-by-name.md).

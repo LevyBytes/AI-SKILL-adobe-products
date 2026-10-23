@@ -1,4 +1,4 @@
-# Illustrator — Pattern
+# Illustrator - Pattern
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Pattern.name in Illustrator. [Pattern.name](name.md).

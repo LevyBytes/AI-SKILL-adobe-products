@@ -1,4 +1,4 @@
-# InDesign — Add auto-update page numbers and section markers
+# InDesign - Add auto-update page numbers and section markers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a chapter number in InDesign. [Add a chapter number](add-a-chapter-number.md).

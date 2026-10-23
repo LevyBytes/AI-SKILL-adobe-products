@@ -1,4 +1,4 @@
-# Premiere Pro — Save, export, and import custom guides
+# Premiere Pro - Save, export, and import custom guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export guides in Premiere Pro. [Export guides](export-guides.md).

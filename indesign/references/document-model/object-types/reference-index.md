@@ -1,4 +1,4 @@
-# InDesign — ObjectTypes
+# InDesign - ObjectTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ALL_FRAMES_TYPE in InDesign. [ALL_FRAMES_TYPE](allframestype.md).

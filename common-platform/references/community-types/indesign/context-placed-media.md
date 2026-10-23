@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: place graphics and manage links
+# Shared Adobe platform - Indesign: place graphics and manage links
 
-Open when working with place graphics and manage links in Shared Adobe platform — Indesign.
+Open when working with place graphics and manage links in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-placed-media.json).
 

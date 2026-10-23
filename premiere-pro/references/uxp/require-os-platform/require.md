@@ -1,22 +1,22 @@
-# require('os') — platform()
+# require('os') - platform()
 
 Reports the platform that the runtime is using (eg. "win32", "win10", "darwin")
 
 **Returns**: `string` - string value for the platform
 
-### require('os') — release()
+### require('os') - release()
 
 Reports the operating system release value (eg. "10.0.1.1032")
 
 **Returns**: `string` - string value for the release
 
-### require('os') — arch()
+### require('os') - arch()
 
 Reports the active platform architecture (eg. "x32, x64, x86_64 etc")
 
 **Returns**: `string` - string value for the architecture
 
-### require('os') — cpus()
+### require('os') - cpus()
 
 Returns CPU details for the current platform (eg. "\{'Intel(R) Core(TM) i9-8950HK CPU @ 2.90GHz', 2900}")
 
@@ -26,19 +26,19 @@ On UWP, CPU details such as model string and frequency have limited availability
 For UWP, the 'model' value is reported as "ARM based architecture" or "X86 based architecture".
 For UWP, the 'speed' value is reported as 0.
 
-### require('os') — totalmem()
+### require('os') - totalmem()
 
 Reports total system memory in bytes.
 
 **Returns**: `integer` - total system memory in bytes, represented as an integer
 
-### require('os') — freemem()
+### require('os') - freemem()
 
 Reports free system memory in bytes.
 
 **Returns**: `integer` - free system memory in bytes, represented as an integer
 
-### require('os') — homedir()
+### require('os') - homedir()
 
 Reports the path to the user's home directory.
 

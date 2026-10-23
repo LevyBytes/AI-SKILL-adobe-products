@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: run and edit scripts
+# Shared Adobe platform - _CommandID: run and edit scripts
 
-Open when working with run and edit scripts in Shared Adobe platform — _CommandID.
+Open when working with run and edit scripts in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-scripts.json).
 

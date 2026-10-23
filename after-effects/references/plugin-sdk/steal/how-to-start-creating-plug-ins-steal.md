@@ -1,4 +1,4 @@
-# How To Start Creating Plug-ins — Steal!
+# How To Start Creating Plug-ins - Steal!
 
 Turning the Skeleton sample into your own project starts by duplicating the whole \Skeleton folder and renaming the copy to something such as \WhizBang. Open your preferred text editor and run a search across \WhizBang*.* — and yes, that sweep should cover the .NET and Xcode project files too — looking for every instance of Skeleton and SKELETON, then swap those for WhizBang and WHIZBANG.
 

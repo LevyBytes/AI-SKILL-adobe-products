@@ -1,4 +1,4 @@
-# OpenProjectOptions — Properties
+# OpenProjectOptions - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

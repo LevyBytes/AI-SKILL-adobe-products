@@ -1,4 +1,4 @@
-# Acrobat — Getting Started — Mobile support
+# Acrobat - Getting Started - Mobile support
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Go to a Page in Acrobat. [Go to a Page](go-to-a-page.md).

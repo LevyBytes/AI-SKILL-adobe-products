@@ -1,4 +1,4 @@
-# `bounds` — CHANGED format
+# `bounds` - CHANGED format
 
 In V2, `bounds` no longer reports `height`/`width` directly. Compute size from `right - left` and `bottom - top`.
 

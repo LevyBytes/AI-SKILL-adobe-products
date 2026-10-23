@@ -1,4 +1,4 @@
-# Table and cell styles — Load (import) table styles from other documents
+# Table and cell styles - Load (import) table styles from other documents
 
 Table and cell styles can be brought from another InDesign document into the active document. During the import, choose which styles load and how to handle a loaded style whose name matches a style already in the current document. Styles may also be imported from an InCopy document.
 

@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — composeFieldSelector(schemaNS, arrayName, fieldNS, fieldName, fieldValue)
+# require('uxp').xmp.XMPUtils - composeFieldSelector(schemaNS, arrayName, fieldNS, fieldName, fieldValue)
 
 Builds a path-expression string that selects an alternate item by matching a field value, with registered namespace prefixes; format:
 schemaNS:arrayName[fieldNS:fieldName='fieldValue']

@@ -1,3 +1,3 @@
-# Working with managed files — Accidentally updating your work
+# Working with managed files - Accidentally updating your work
 
 Update commands are usually unavailable for content checked out to you, since that content should already be current. A bad conflict can happen when another user removes the checked-out content's lock, for example by moving the lock file [.idlk] into Recycle Bin [Windows] or Trash [Mac OS], and then changes the content. Under those conditions, update commands may become available even though the content is still checked out to you, which effectively lets two people edit the same content simultaneously. Running an update in that state can discard your work. For best results, keep lock files in place.

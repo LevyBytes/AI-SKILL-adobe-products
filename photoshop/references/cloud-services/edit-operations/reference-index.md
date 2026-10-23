@@ -1,4 +1,4 @@
-# Photoshop — Edit operations
+# Photoshop - Edit operations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Benefits of the unified v2 endpoint in Photoshop. [Benefits of the unified v2 endpoint](benefits-of-the-unified-v2-endpoint.md).

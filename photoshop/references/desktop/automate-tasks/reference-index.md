@@ -1,4 +1,4 @@
-# Photoshop — Automate tasks
+# Photoshop - Automate tasks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automation settings and presets in Photoshop. [Automation settings and presets](automation-settings-and-presets.md).

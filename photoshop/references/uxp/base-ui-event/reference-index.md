@@ -1,6 +1,6 @@
-# Photoshop — Base ui event
+# Photoshop - Base ui event
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up window.BaseUIEvent — BaseUIEvent(type, eventInit) in Photoshop. [window.BaseUIEvent — BaseUIEvent(type, eventInit)](constructor.md).
-- Open when looking up window.BaseUIEvent — composedPath() in Photoshop. [window.BaseUIEvent — composedPath()](composed-path.md).
-- Open when looking up window.BaseUIEvent — initEvent(typeArg, bubblesArg, cancelableArg) in Photoshop. [window.BaseUIEvent — initEvent(typeArg, bubblesArg, cancelableArg)](init-event.md).
+- Open when looking up window.BaseUIEvent - BaseUIEvent(type, eventInit) in Photoshop. [window.BaseUIEvent - BaseUIEvent(type, eventInit)](constructor.md).
+- Open when looking up window.BaseUIEvent - composedPath() in Photoshop. [window.BaseUIEvent - composedPath()](composed-path.md).
+- Open when looking up window.BaseUIEvent - initEvent(typeArg, bubblesArg, cancelableArg) in Photoshop. [window.BaseUIEvent - initEvent(typeArg, bubblesArg, cancelableArg)](init-event.md).

@@ -1,4 +1,4 @@
-# InDesign — Use spot colors for printing
+# InDesign - Use spot colors for printing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a spot color swatch in InDesign. [Add a spot color swatch](add-a-spot-color-swatch.md).

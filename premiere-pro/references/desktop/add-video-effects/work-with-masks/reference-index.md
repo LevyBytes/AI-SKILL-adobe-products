@@ -1,4 +1,4 @@
-# Premiere Pro — Work with masks
+# Premiere Pro - Work with masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust mask properties in Premiere Pro. [Adjust mask properties](adjust-mask-properties.md).

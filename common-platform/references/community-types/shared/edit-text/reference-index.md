@@ -1,4 +1,4 @@
-# Shared Adobe platform — EditText
+# Shared Adobe platform - EditText
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EditText declaration in Shared Adobe platform. [EditText declaration](declaration.md).

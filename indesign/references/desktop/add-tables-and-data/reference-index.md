@@ -1,4 +1,4 @@
-# InDesign — Add tables and data
+# InDesign - Add tables and data
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create tables in InDesign. [Create tables](create-tables.md).

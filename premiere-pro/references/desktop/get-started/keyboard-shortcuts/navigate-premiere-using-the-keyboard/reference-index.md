@@ -1,4 +1,4 @@
-# Premiere Pro — Navigate Premiere using the keyboard
+# Premiere Pro - Navigate Premiere using the keyboard
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Explore commonly used keyboard shortcuts in Premiere in Premiere Pro. [Explore commonly used keyboard shortcuts in Premiere](explore-commonly-used-keyboard-shortcuts-in-premiere.md).

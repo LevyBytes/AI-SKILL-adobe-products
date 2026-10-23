@@ -1,4 +1,4 @@
-# Scripting Constants — CoordinateSystem
+# Scripting Constants - CoordinateSystem
 
 Illustrator coordinate system selection.
 

@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — getResponseHeader(name)
+# window.XMLHttpRequest - getResponseHeader(name)
 
 For the supplied field name, this method retrieves the corresponding response-header value.
 Header lookup treats the search key without regard to case.

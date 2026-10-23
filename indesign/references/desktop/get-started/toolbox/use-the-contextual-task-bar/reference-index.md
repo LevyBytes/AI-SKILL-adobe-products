@@ -1,4 +1,4 @@
-# InDesign — Use the Contextual Task Bar
+# InDesign - Use the Contextual Task Bar
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Use frame and image options in InDesign. [Use frame and image options](use-frame-and-image-options.md).

@@ -1,4 +1,4 @@
-# Illustrator — Draw shapes
+# Illustrator - Draw shapes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Connect two paths with the Pencil tool in Illustrator. [Connect two paths with the Pencil tool](connect-two-paths-with-the-pencil-tool.md).

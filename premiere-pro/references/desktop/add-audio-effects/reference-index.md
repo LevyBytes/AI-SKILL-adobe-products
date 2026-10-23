@@ -1,4 +1,4 @@
-# Premiere Pro — Add audio effects
+# Premiere Pro - Add audio effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust volume and levels in Premiere Pro. [Adjust volume and levels references](adjust-volume-and-levels/reference-index.md).

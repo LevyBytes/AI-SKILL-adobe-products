@@ -1,4 +1,4 @@
-# Photoshop — Adjust a selection manually
+# Photoshop - Adjust a selection manually
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add to a selection in Photoshop. [Add to a selection](add-to-a-selection.md).

@@ -1,6 +1,6 @@
-# InDesign — TextBox: writing direction and diacritics
+# InDesign - TextBox: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — TextBox.
+Open when checking writing direction and diacritics in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Combo box: movie and sound playback
+# InDesign - Combo box: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — Combo box.
+Open when checking movie and sound playback in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

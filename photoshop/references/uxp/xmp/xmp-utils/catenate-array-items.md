@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — catenateArrayItems(xmpObj, schemaNS, arrayName, [separator], [quotes =], [options])
+# require('uxp').xmp.XMPUtils - catenateArrayItems(xmpObj, schemaNS, arrayName, [separator], [quotes =], [options])
 
 Builds one string by joining a group of array item values. Pass the result to separateArrayItems() to split it back into array entries.
 

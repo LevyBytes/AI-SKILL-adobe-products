@@ -1,6 +1,6 @@
-# InDesign — Document: footnotes and endnotes
+# InDesign - Document: footnotes and endnotes
 
-Open when checking footnotes and endnotes in InDesign — Document.
+Open when checking footnotes and endnotes in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-notes-and-endnotes.json).
 

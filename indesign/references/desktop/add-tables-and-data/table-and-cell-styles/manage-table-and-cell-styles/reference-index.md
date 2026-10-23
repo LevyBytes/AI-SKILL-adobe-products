@@ -1,4 +1,4 @@
-# InDesign — Manage table and cell styles
+# InDesign - Manage table and cell styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Clear table and cell formatting in InDesign. [Clear table and cell formatting](clear-table-and-cell-formatting.md).

@@ -1,4 +1,4 @@
-# After Effects — Automate animation
+# After Effects - Automate animation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automation in After Effects. [Automation](automation.md).

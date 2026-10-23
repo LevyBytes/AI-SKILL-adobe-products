@@ -1,4 +1,4 @@
-# Scripting Constants — UserInteractionLevel
+# Scripting Constants - UserInteractionLevel
 
 Settings that determine user-interface interaction
 

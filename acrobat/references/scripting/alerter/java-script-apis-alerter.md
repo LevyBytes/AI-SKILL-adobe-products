@@ -1,4 +1,4 @@
-# JavaScript APIs — Alerter
+# JavaScript APIs - Alerter
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

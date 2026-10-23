@@ -1,4 +1,4 @@
-# Illustrator — Create and organize layers
+# Illustrator - Create and organize layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add layers and sublayers in Illustrator. [Add layers and sublayers](add-layers-and-sublayers.md).

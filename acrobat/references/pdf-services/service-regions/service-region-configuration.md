@@ -1,4 +1,4 @@
-# Service Region Configuration for PDF Services APIs — Service Region Configuration
+# Service Region Configuration for PDF Services APIs - Service Region Configuration
 
 At present, the regions these PDF Services APIs can run in are the following :
 

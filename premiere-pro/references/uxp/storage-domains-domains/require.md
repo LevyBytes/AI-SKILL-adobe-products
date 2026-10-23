@@ -1,3 +1,3 @@
-# require('uxp').storage.domains — domains()
+# require('uxp').storage.domains - domains()
 
 Reusable domain constants for file-picker starting locations.

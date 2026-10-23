@@ -5,7 +5,7 @@
   {"topic": "creator", "file": "references/scripting/doc/creator.md", "summary": "Open when looking up creator in Acrobat.", "keywords": ["creator"]},
   {"topic": "dirty", "file": "references/scripting/doc/dirty.md", "summary": "Open when looking up dirty in Acrobat.", "keywords": ["dirty"]},
   {"topic": "disclosed", "file": "references/scripting/doc/disclosed.md", "summary": "Open when looking up disclosed in Acrobat.", "keywords": ["disclosed"]},
-  {"topic": "Doc and Doc.Media APIs — Doc", "file": "references/scripting/doc/doc-and-doc-media-apis-doc.md", "summary": "Open when looking up Doc and Doc.Media APIs — Doc in Acrobat.", "keywords": ["Doc and Doc.Media APIs — Doc"]},
+  {"topic": "Doc and Doc.Media APIs - Doc", "file": "references/scripting/doc/doc-and-doc-media-apis-doc.md", "summary": "Open when looking up Doc and Doc.Media APIs - Doc in Acrobat.", "keywords": ["Doc and Doc.Media APIs - Doc"]},
   {"topic": "docID", "file": "references/scripting/doc/doc-id.md", "summary": "Open when looking up docID in Acrobat.", "keywords": ["docID"]},
   {"topic": "documentFileName", "file": "references/scripting/doc/document-file-name.md", "summary": "Open when looking up documentFileName in Acrobat.", "keywords": ["documentFileName"]},
   {"topic": "external", "file": "references/scripting/doc/external.md", "summary": "Open when looking up external in Acrobat.", "keywords": ["external"]},

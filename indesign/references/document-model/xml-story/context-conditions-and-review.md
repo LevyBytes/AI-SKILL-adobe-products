@@ -1,6 +1,6 @@
-# InDesign — XmlStory: conditional text and editorial review
+# InDesign - XmlStory: conditional text and editorial review
 
-Open when checking conditional text and editorial review in InDesign — XmlStory.
+Open when checking conditional text and editorial review in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-conditions-and-review.json).
 

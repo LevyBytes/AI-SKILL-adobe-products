@@ -1,6 +1,6 @@
-# InDesign — Story: clipboard and editing defaults
+# InDesign - Story: clipboard and editing defaults
 
-Open when checking clipboard and editing defaults in InDesign — Story.
+Open when checking clipboard and editing defaults in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-clipboard-editing.json).
 

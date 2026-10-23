@@ -1,6 +1,6 @@
-# Acrobat — Doc: embedded files and data objects
+# Acrobat - Doc: embedded files and data objects
 
-Open when working with embedded files and data objects in Acrobat — Doc.
+Open when working with embedded files and data objects in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-attachments.json).
 

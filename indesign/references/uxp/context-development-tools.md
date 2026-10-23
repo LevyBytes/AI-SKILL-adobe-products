@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: developer tools, builds and debugging
+# InDesign - UXP plugins and APIs: developer tools, builds and debugging
 
-Open when working with developer tools, builds and debugging in InDesign — UXP plugins and APIs.
+Open when working with developer tools, builds and debugging in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-development-tools.json).
 

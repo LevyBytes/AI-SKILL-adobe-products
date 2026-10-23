@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 8 0: filesystem access and native processes
+# Shared Adobe platform - Cep 8 0: filesystem access and native processes
 
-Open when working with filesystem access and native processes in Shared Adobe platform — Cep 8 0.
+Open when working with filesystem access and native processes in Shared Adobe platform - Cep 8 0.
 
 Open when selecting an exact reference: [Topic catalog](context-files-processes.json).
 

@@ -1,4 +1,4 @@
-# Photoshop — CountItems
+# Photoshop - CountItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up activateGroupByIndex in Photoshop. [activateGroupByIndex](activate-group-by-index.md).

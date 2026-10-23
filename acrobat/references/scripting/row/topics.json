@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "JavaScript APIs — Row", "file": "references/scripting/row/java-script-apis-row.md", "summary": "Open when looking up JavaScript APIs — Row in Acrobat.", "keywords": ["JavaScript APIs — Row"]},
+  {"topic": "JavaScript APIs - Row", "file": "references/scripting/row/java-script-apis-row.md", "summary": "Open when looking up JavaScript APIs - Row in Acrobat.", "keywords": ["JavaScript APIs - Row"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

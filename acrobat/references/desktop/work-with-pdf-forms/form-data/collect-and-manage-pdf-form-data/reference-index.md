@@ -1,4 +1,4 @@
-# Acrobat — Collect and manage PDF form data
+# Acrobat - Collect and manage PDF form data
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add user data to an existing response file in Acrobat. [Add user data to an existing response file](add-user-data-to-an-existing-response-file.md).

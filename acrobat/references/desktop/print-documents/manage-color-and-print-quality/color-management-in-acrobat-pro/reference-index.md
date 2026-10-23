@@ -1,4 +1,4 @@
-# Acrobat — Color management in Acrobat Pro
+# Acrobat - Color management in Acrobat Pro
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color management in Acrobat. [Color management](color-management.md).

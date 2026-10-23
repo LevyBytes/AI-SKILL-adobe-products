@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: script execution, tasks and diagnostics
+# Shared Adobe platform - Application: script execution, tasks and diagnostics
 
-Open when checking script execution, tasks and diagnostics in Shared Adobe platform — Application.
+Open when checking script execution, tasks and diagnostics in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-scripts-and-tasks.json).
 

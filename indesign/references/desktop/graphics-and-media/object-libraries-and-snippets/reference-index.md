@@ -1,4 +1,4 @@
-# InDesign — Object libraries and snippets
+# InDesign - Object libraries and snippets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and use objects in libraries in InDesign. [Add and use objects in libraries](add-and-use-objects-in-libraries.md).

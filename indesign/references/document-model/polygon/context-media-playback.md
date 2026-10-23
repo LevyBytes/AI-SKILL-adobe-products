@@ -1,6 +1,6 @@
-# InDesign — Polygon: movie and sound playback
+# InDesign - Polygon: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — Polygon.
+Open when checking movie and sound playback in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

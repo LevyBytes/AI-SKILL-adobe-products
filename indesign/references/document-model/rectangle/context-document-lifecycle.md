@@ -1,6 +1,6 @@
-# InDesign — Rectangle: create, open, save and recover documents
+# InDesign - Rectangle: create, open, save and recover documents
 
-Open when checking create, open, save and recover documents in InDesign — Rectangle.
+Open when checking create, open, save and recover documents in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-document-lifecycle.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Random numbers methods
+# After Effects - Random numbers methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up gaussRandom() in After Effects. [gaussRandom()](gauss-random.md).

@@ -1,4 +1,4 @@
-# Scripting Constants — ZOrderMethod
+# Scripting Constants - ZOrderMethod
 
 Specifies how `zOrder` changes an art item's position within its parent layer or group stacking order.
 

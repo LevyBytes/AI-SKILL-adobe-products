@@ -1,6 +1,6 @@
-# InDesign — FormField: anchored object placement
+# InDesign - FormField: anchored object placement
 
-Open when checking anchored object placement in InDesign — FormField.
+Open when checking anchored object placement in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

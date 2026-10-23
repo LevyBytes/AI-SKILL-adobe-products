@@ -1,4 +1,4 @@
-# Shared Adobe platform — Client-side debugging
+# Shared Adobe platform - Client-side debugging
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Contents in Shared Adobe platform. [Contents](contents.md).

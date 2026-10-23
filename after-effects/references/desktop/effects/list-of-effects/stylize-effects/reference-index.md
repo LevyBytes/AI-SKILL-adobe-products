@@ -1,4 +1,4 @@
-# After Effects — Stylize Effects
+# After Effects - Stylize Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Brush Strokes effect in After Effects. [Brush Strokes effect](brush-strokes-effect.md).

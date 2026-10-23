@@ -1,4 +1,4 @@
-# Premiere Pro — Correct color
+# Premiere Pro - Correct color
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add color effects in Premiere Pro. [Add color effects references](add-color-effects/reference-index.md).

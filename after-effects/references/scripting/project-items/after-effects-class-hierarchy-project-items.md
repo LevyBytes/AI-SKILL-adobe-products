@@ -1,4 +1,4 @@
-# After Effects Class Hierarchy — Project Items
+# After Effects Class Hierarchy - Project Items
 
 - CompItem object
 

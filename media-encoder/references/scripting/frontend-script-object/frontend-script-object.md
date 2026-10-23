@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — FrontendScriptObject
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - FrontendScriptObject
 
 Frontend-facing scripting methods.
 

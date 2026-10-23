@@ -1,4 +1,4 @@
-# Moving through documents — Move through a document with the Hand tool
+# Moving through documents - Move through a document with the Hand tool
 
 Movement choices vary according to whether the story is open in Galley, Story, or Layout view. In Galley and Story view, text outside the visible area is reached with the scroll bars. Layout view additionally supports the Hand tool, page buttons, and commands.
 

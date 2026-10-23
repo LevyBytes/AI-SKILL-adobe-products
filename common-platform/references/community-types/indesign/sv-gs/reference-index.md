@@ -1,4 +1,4 @@
-# Shared Adobe platform — SVGs
+# Shared Adobe platform - SVGs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SVGs collection iteration in Shared Adobe platform. [SVGs collection iteration](collection-iteration.md).

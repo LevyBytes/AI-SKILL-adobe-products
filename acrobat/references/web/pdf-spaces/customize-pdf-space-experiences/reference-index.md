@@ -1,4 +1,4 @@
-# Acrobat — Customize PDF Space experiences
+# Acrobat - Customize PDF Space experiences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and manage items in Acrobat. [Add and manage items](add-and-manage-items.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Locale
+# Shared Adobe platform - Locale
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Locale declaration in Shared Adobe platform. [Locale declaration](declaration.md).

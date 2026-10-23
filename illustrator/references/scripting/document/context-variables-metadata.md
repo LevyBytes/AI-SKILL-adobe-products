@@ -1,6 +1,6 @@
-# Illustrator — Document: data sets, variables and metadata
+# Illustrator - Document: data sets, variables and metadata
 
-Open when working with data sets, variables and metadata in Illustrator — Document.
+Open when working with data sets, variables and metadata in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-variables-metadata.json).
 

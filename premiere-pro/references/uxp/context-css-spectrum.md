@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: css, spectrum components and react
+# Premiere Pro - UXP plugins and APIs: css, spectrum components and react
 
-Open when working with css, spectrum components and react in Premiere Pro — UXP plugins and APIs.
+Open when working with css, spectrum components and react in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-css-spectrum.json).
 

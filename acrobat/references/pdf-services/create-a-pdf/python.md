@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [create-pdf-from-docx.py](../examples/python/create-pdf-from-docx/create-pdf-from-docx.py)
+- [create-pdf-from-docx setup and source](../examples/python/create-pdf-from-docx/create-pdf-from-docx-setup.md)

@@ -1,4 +1,4 @@
-# Leading — About leading in Asian text
+# Leading - About leading in Asian text
 
 Use Leading Basis Position in the Paragraph panel menu to choose the basis position for leading. With the default Embox Top/Right setting, InCopy measures line leading from the top of the current line's embox to the top of the next line's embox. If you select a line and increase its leading while using Embox Top/Right, the space below that line grows because the measurement runs from the current line toward the next line. Every other Leading Basis Position setting measures from the current line back to the previous line, so raising those values increases the line aki above the current line.
 

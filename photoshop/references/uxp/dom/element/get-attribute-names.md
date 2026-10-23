@@ -1,4 +1,4 @@
-# window.Element — getAttributeNames()
+# window.Element - getAttributeNames()
 
 Provides a string `Array` containing the element's attribute names.
 

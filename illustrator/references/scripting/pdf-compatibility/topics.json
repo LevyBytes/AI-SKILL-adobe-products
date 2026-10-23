@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — PDFCompatibility", "file": "references/scripting/pdf-compatibility/scripting-constants-pdf-compatibility.md", "summary": "Open when looking up Scripting Constants — PDFCompatibility in Illustrator.", "keywords": ["Scripting Constants — PDFCompatibility"]},
+  {"topic": "Scripting Constants - PDFCompatibility", "file": "references/scripting/pdf-compatibility/scripting-constants-pdf-compatibility.md", "summary": "Open when looking up Scripting Constants - PDFCompatibility in Illustrator.", "keywords": ["Scripting Constants - PDFCompatibility"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

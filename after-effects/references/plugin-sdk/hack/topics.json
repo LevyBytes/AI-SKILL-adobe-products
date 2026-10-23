@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "How To Start Creating Plug-ins — Hack!", "file": "references/plugin-sdk/hack/how-to-start-creating-plug-ins-hack.md", "summary": "Open when looking up How To Start Creating Plug-ins — Hack! in After Effects.", "keywords": ["How To Start Creating Plug-ins — Hack!"]},
+  {"topic": "How To Start Creating Plug-ins - Hack!", "file": "references/plugin-sdk/hack/how-to-start-creating-plug-ins-hack.md", "summary": "Open when looking up How To Start Creating Plug-ins - Hack! in After Effects.", "keywords": ["How To Start Creating Plug-ins - Hack!"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

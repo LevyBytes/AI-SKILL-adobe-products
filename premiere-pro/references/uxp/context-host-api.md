@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: host application api and object model
+# Premiere Pro - UXP plugins and APIs: host application api and object model
 
-Open when working with host application api and object model in Premiere Pro — UXP plugins and APIs.
+Open when working with host application api and object model in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-host-api.json).
 

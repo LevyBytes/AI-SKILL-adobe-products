@@ -1,4 +1,4 @@
-# Version - Support policy — Supported versions
+# Version - Support policy - Supported versions
 
 Both this document and the URLs across Adobe's website and the rest of the documentation point at the most recent product version.
 

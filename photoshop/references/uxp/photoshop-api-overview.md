@@ -1,4 +1,4 @@
-# Photoshop API — Overview
+# Photoshop API - Overview
 
 Use this line to reach the Photoshop DOM from UXP.
 

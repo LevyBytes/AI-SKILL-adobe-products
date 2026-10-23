@@ -1,4 +1,4 @@
-# Event handling — MouseEvent Object
+# Event handling - MouseEvent Object
 
 This object type is passed to a registered event handler when mouse input creates an event. Its properties capture the button state, modifier-key state, and pointer position at event creation time.
 

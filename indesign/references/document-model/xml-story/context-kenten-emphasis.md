@@ -1,6 +1,6 @@
-# InDesign — XmlStory: kenten emphasis
+# InDesign - XmlStory: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — XmlStory.
+Open when checking kenten emphasis in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

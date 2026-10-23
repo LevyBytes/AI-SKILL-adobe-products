@@ -1,4 +1,4 @@
-# Firefly — Edit videos
+# Firefly - Edit videos
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automatically split scenes in videos in Firefly. [Automatically split scenes in videos](automatically-split-scenes-in-videos.md).

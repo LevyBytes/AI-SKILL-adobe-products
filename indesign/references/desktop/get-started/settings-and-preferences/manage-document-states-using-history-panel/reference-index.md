@@ -1,4 +1,4 @@
-# InDesign — Manage document states using History Panel
+# InDesign - Manage document states using History Panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new document from a selected state in InDesign. [Create a new document from a selected state](create-a-new-document-from-a-selected-state.md).

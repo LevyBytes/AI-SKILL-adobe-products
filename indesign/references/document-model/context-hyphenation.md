@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: hyphenation and dictionaries
+# InDesign - InDesign document object model: hyphenation and dictionaries
 
-Open when working with hyphenation and dictionaries in InDesign — InDesign document object model.
+Open when working with hyphenation and dictionaries in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-hyphenation.json).
 

@@ -1,4 +1,4 @@
-# Premiere Pro — About nested sequences
+# Premiere Pro - About nested sequences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Things to remember when nesting sequences in Premiere Pro. [Things to remember when nesting sequences](things-to-remember-when-nesting-sequences.md).

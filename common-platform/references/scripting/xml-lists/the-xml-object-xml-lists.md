@@ -1,4 +1,4 @@
-# The XML Object — XML lists
+# The XML Object - XML lists
 
 ExtendScript supplies XMLList, an object like XML except that it is constructed from an XML list and produces an XML list rather than an XML tag.
 

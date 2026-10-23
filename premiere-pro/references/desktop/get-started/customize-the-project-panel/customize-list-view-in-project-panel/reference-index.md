@@ -1,4 +1,4 @@
-# Premiere Pro — Customize List View in Project panel
+# Premiere Pro - Customize List View in Project panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add columns in Premiere Pro. [Add columns](add-columns.md).

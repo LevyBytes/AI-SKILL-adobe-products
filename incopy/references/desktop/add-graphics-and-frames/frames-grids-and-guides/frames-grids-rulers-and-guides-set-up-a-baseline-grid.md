@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Set up a baseline grid
+# Frames, grids, rulers, and guides - Set up a baseline grid
 
 Set the document-wide baseline grid from Grid Preferences.
 

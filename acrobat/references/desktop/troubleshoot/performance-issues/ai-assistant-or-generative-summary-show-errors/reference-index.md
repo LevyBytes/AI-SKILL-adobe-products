@@ -1,4 +1,4 @@
-# Acrobat — AI Assistant or Generative summary show errors
+# Acrobat - AI Assistant or Generative summary show errors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Incorrect or low-quality answers in Acrobat. [Incorrect or low-quality answers](incorrect-or-low-quality-answers.md).

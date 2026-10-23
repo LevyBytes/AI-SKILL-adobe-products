@@ -1,4 +1,4 @@
-# Photoshop — Technical Usage Notes
+# Photoshop - Technical Usage Notes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About retries in Photoshop. [About retries](about-retries.md).

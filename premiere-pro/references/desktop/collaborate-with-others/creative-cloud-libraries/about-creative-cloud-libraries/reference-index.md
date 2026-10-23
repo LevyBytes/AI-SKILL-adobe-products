@@ -1,4 +1,4 @@
-# Premiere Pro — About Creative Cloud Libraries
+# Premiere Pro - About Creative Cloud Libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Across apps in Premiere Pro. [Across apps](across-apps.md).

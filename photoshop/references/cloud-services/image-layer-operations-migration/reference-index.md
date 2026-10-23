@@ -1,4 +1,4 @@
-# Photoshop — Image Layer Operations Migration
+# Photoshop - Image Layer Operations Migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Add operation structure in Photoshop. [1. Add operation structure](add-operation-structure.md).

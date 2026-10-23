@@ -1,4 +1,4 @@
-# Photoshop — Custom element registry
+# Photoshop - Custom element registry
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up define(name, constructor, options) in Photoshop. [define(name, constructor, options)](define.md).

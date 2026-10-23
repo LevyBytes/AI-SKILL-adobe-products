@@ -1,4 +1,4 @@
-# Photoshop — Create and record actions
+# Photoshop - Create and record actions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add commands to an action in Photoshop. [Add commands to an action](add-commands-to-an-action.md).

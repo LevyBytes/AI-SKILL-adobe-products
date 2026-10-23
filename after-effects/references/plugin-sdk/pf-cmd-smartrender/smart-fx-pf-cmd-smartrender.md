@@ -1,4 +1,4 @@
-# SmartFX — `PF_Cmd_SMART_RENDER`
+# SmartFX`PF_Cmd_SMART_RENDER`
 
 For any given pre-render, no more than a single `PF_Cmd_SMART_RENDER` call reaches the effect.
 

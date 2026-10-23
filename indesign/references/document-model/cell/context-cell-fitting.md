@@ -1,6 +1,6 @@
-# InDesign — Cell: content fit, dimensions and overflow
+# InDesign - Cell: content fit, dimensions and overflow
 
-Open when checking content fit, dimensions and overflow in InDesign — Cell.
+Open when checking content fit, dimensions and overflow in InDesign - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-fitting.json).
 

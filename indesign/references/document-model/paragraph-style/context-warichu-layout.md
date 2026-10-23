@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: warichu inline text
+# InDesign - Paragraph style: warichu inline text
 
-Open when checking warichu inline text in InDesign — Paragraph style.
+Open when checking warichu inline text in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

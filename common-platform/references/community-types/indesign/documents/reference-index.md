@@ -1,4 +1,4 @@
-# Shared Adobe platform — Documents
+# Shared Adobe platform - Documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Documents collection iteration in Shared Adobe platform. [Documents collection iteration](collection-iteration.md).

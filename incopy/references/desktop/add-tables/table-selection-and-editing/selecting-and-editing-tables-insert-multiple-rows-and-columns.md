@@ -1,4 +1,4 @@
-# Selecting and editing tables — Insert multiple rows and columns
+# Selecting and editing tables - Insert multiple rows and columns
 
 Click in a cell to place the insertion point, then choose Table > Table Options > Table Setup. Enter a different row and column count, then click OK.
 

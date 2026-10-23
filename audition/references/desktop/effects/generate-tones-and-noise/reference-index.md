@@ -1,4 +1,4 @@
-# Audition — Generate tones and noise
+# Audition - Generate tones and noise
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate Noise in Audition. [Generate Noise](generate-noise.md).

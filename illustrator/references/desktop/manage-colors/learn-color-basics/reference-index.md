@@ -1,4 +1,4 @@
-# Illustrator — Learn color basics
+# Illustrator - Learn color basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced recolor options overview in Illustrator. [Advanced recolor options overview](advanced-recolor-options-overview.md).

@@ -1,4 +1,4 @@
-# InDesign — Crash or Error 2 when saving documents
+# InDesign - Crash or Error 2 when saving documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Affected Windows Versions in InDesign. [Affected Windows Versions](affected-windows-versions.md).

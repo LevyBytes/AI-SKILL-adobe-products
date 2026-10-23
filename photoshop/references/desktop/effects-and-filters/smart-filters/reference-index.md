@@ -1,4 +1,4 @@
-# Photoshop — Smart filters
+# Photoshop - Smart filters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Sharpen a selection in Photoshop. [Sharpen a selection](sharpen-a-selection.md).

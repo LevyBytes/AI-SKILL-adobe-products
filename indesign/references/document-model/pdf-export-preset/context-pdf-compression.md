@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreset: pdf image compression and sampling
+# InDesign - PDFExportPreset: pdf image compression and sampling
 
-Open when checking pdf image compression and sampling in InDesign — PDFExportPreset.
+Open when checking pdf image compression and sampling in InDesign - PDFExportPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-pdf-compression.json).
 

@@ -1,6 +1,6 @@
-# InDesign — SplineItem: output color, screening and overprint
+# InDesign - SplineItem: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — SplineItem.
+Open when checking output color, screening and overprint in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

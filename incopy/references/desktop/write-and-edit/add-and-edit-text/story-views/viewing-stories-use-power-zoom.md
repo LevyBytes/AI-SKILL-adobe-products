@@ -1,4 +1,4 @@
-# Viewing stories — Use power zoom
+# Viewing stories - Use power zoom
 
 Power zoom gives you a fast way to move through document pages. With the grabber hand, you can zoom in or out while scrolling through the full document. This is especially helpful in long documents.
 

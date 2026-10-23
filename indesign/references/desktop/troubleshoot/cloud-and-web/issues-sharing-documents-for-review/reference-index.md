@@ -1,4 +1,4 @@
-# InDesign — Issues sharing documents for review
+# InDesign - Issues sharing documents for review
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CEP folder issues in InDesign. [CEP folder issues](cep-folder-issues.md).

@@ -1,9 +1,9 @@
-# Acrobat — Certificate
+# Acrobat - Certificate
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up binary in Acrobat. [binary](binary.md).
 - Open when looking up issuerDN in Acrobat. [issuerDN](issuer-dn.md).
-- Open when looking up JavaScript APIs — Certificate in Acrobat. [JavaScript APIs — Certificate](java-script-apis-certificate.md).
+- Open when looking up JavaScript APIs - Certificate in Acrobat. [JavaScript APIs - Certificate](java-script-apis-certificate.md).
 - Open when looking up keyUsage in Acrobat. [keyUsage](key-usage.md).
 - Open when looking up MD5Hash in Acrobat. [MD5Hash](md5-hash.md).
 - Open when looking up privateKeyValidityEnd in Acrobat. [privateKeyValidityEnd](private-key-validity-end.md).

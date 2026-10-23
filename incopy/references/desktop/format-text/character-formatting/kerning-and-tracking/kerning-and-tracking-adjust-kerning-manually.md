@@ -1,4 +1,4 @@
-# Kerning and tracking — Adjust kerning manually
+# Kerning and tracking - Adjust kerning manually
 
 Place the insertion point between the two characters with the Type tool.
 

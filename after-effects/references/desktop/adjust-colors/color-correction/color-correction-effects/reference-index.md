@@ -1,4 +1,4 @@
-# After Effects — Color Correction Effects
+# After Effects - Color Correction Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust colors with the Hue/Saturation effect in After Effects. [Adjust colors with the Hue/Saturation effect](adjust-colors-with-the-hue-saturation-effect.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Stream video
+# Premiere Pro - Stream video
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enable Secure Reliable Transport stream in Premiere Pro. [Enable Secure Reliable Transport stream](enable-secure-reliable-transport-stream.md).

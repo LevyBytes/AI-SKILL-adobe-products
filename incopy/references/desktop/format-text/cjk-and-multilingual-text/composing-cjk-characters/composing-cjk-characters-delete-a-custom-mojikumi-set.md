@@ -1,4 +1,4 @@
-# Composing CJK characters — Delete a custom mojikumi set
+# Composing CJK characters - Delete a custom mojikumi set
 
 Open the Mojikumi Settings dialog box. From the Mojikumi pop‑up menu, select the custom mojikumi set, then choose Delete Set.
 

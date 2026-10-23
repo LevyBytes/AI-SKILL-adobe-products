@@ -1,4 +1,4 @@
-# Overview — AEGP Communication With After Effects
+# Overview - AEGP Communication With After Effects
 
 With effect plug-ins, every exchange with After Effects flows through one entry point function — but AEGPs don't work that way.
 

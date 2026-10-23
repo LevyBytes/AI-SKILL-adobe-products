@@ -1,4 +1,4 @@
-# After Effects — Immersive video and vr
+# After Effects - Immersive video and vr
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Construct vr environments in After Effects. [Construct vr environments references](construct-vr-environments/reference-index.md).

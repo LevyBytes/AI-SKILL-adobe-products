@@ -1,6 +1,6 @@
-# InDesign — Text style range: object identity and lifecycle
+# InDesign - Text style range: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Text style range.
+Open when checking object identity and lifecycle in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

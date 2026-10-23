@@ -1,4 +1,4 @@
-# Shared Adobe platform — MenuItems
+# Shared Adobe platform - MenuItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MenuItems collection iteration in Shared Adobe platform. [MenuItems collection iteration](collection-iteration.md).

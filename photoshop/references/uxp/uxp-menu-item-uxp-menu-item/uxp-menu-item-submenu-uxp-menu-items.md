@@ -1,4 +1,4 @@
-# UxpMenuItem — submenu ⇒ `UxpMenuItems`
+# UxpMenuItem - submenu ⇒ `UxpMenuItems`
 
 Provides the submenu for the menu
 

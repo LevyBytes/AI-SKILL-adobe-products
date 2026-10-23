@@ -1,4 +1,4 @@
-# Basic Host Differences — `PF_InData`
+# Basic Host Differences`PF_InData`
 
 Premiere Pro handles field rendering differently from After Effects. During field rendering, `PF_InData`>field reports the current field being rendered, regardless of whether `PF_OutFlag_PIX_INDEPENDENT` was set.
 

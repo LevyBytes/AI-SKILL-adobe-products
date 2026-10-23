@@ -1,4 +1,4 @@
-# Acrobat — Version - Support policy — Migration Guide to PDF Services SDK
+# Acrobat - Version - Support policy - Migration Guide to PDF Services SDK
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET changes in Acrobat. [.NET changes](net-changes.md).

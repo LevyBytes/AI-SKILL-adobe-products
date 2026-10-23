@@ -1,4 +1,4 @@
-# Structuring documents for XML — Use the Structure pane
+# Structuring documents for XML - Use the Structure pane
 
 - To display the Structure pane, choose View > Structure > Show Structure.
 - To hide the Structure pane, choose View > Structure > Hide Structure, or click the splitter button.

@@ -1,4 +1,4 @@
-# Checking spelling — Hyphenation and spelling dictionaries
+# Checking spelling - Hyphenation and spelling dictionaries
 
 For most languages, InCopy relies on Proximity dictionaries to check spelling and hyphenate words. Each dictionary can be customized by adding words. Text can be assigned different languages, and InCopy uses the matching dictionary for spelling and hyphenation. Additional user dictionaries can be created, and word lists stored as plain text files can be imported or exported.
 

@@ -1,4 +1,4 @@
-# Acrobat — Fragments
+# Acrobat - Fragments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conditionals in Acrobat. [Conditionals](conditionals.md).

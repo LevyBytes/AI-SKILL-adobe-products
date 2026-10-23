@@ -1,4 +1,4 @@
-# Tabs and indents — Insert right indent tabs
+# Tabs and indents - Insert right indent tabs
 
 A single command can place a right-aligned tab at the right indent, which helps when building tabular text across a full column. Right indent tabs behave differently from ordinary tab stops. A right indent tab:
 

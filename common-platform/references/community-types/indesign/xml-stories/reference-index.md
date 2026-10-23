@@ -1,4 +1,4 @@
-# Shared Adobe platform — XmlStories
+# Shared Adobe platform - XmlStories
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XmlStories collection iteration in Shared Adobe platform. [XmlStories collection iteration](collection-iteration.md).

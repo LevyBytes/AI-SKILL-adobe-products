@@ -1,6 +1,6 @@
-# InDesign — Oval: generate qr codes
+# InDesign - Oval: generate qr codes
 
-Open when checking generate qr codes in InDesign — Oval.
+Open when checking generate qr codes in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

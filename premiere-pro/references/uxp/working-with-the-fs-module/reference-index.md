@@ -1,4 +1,4 @@
-# Premiere Pro — Working with the fs module
+# Premiere Pro - Working with the fs module
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Example 5: Reading from the Sandbox in Premiere Pro. [Example 5: Reading from the Sandbox](example-5-reading-from-the-sandbox.md).

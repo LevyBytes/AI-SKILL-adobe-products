@@ -1,4 +1,4 @@
-# Premiere Pro — How Color Management works
+# Premiere Pro - How Color Management works
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color Management and sequences in Premiere Pro. [Color Management and sequences](color-management-and-sequences.md).

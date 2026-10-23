@@ -1,6 +1,8 @@
-# Keep this skill repo clean — build/cache and OS/editor clutter.
+# Keep this skill repo clean: build/cache and OS/editor clutter.
 __pycache__/
 *.py[cod]
+.venv/
+.pytest_cache/
 
 .DS_Store
 Thumbs.db

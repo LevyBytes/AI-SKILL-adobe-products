@@ -1,4 +1,4 @@
-# Shared Adobe platform — LanguageType
+# Shared Adobe platform - LanguageType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LanguageType declaration in Shared Adobe platform. [LanguageType declaration](declaration.md).

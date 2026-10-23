@@ -1,4 +1,4 @@
-# After Effects — Animation basics
+# After Effects - Animation basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About animation, keyframes, and expressions in After Effects. [About animation, keyframes, and expressions](about-animation-keyframes-and-expressions.md).

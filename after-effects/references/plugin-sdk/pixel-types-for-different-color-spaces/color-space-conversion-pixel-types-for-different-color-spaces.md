@@ -1,4 +1,4 @@
-# Color Space Conversion — Pixel Types For Different Color Spaces
+# Color Space Conversion - Pixel Types For Different Color Spaces
 
 ```cpp
 typedef struct {

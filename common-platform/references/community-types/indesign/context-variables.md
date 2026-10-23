@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: text variables and metadata captions
+# Shared Adobe platform - Indesign: text variables and metadata captions
 
-Open when working with text variables and metadata captions in Shared Adobe platform — Indesign.
+Open when working with text variables and metadata captions in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-variables.json).
 

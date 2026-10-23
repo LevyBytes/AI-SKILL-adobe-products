@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreference: print job, printer and page selection
+# InDesign - PDFExportPreference: print job, printer and page selection
 
-Open when checking print job, printer and page selection in InDesign — PDFExportPreference.
+Open when checking print job, printer and page selection in InDesign - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-job.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Text: interactive fields and behaviors
+# InDesign - Text: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — Text.
+Open when checking interactive fields and behaviors in InDesign - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

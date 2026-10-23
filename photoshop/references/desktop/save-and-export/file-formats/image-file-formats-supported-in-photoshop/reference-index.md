@@ -1,4 +1,4 @@
-# Photoshop — Image file formats supported in Photoshop
+# Photoshop - Image file formats supported in Photoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BMP in Photoshop. [BMP](bmp.md).

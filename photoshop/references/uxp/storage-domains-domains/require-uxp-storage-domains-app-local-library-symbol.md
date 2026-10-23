@@ -1,3 +1,3 @@
-# require('uxp').storage.domains — appLocalLibrary : `Symbol`
+# require('uxp').storage.domains - appLocalLibrary : `Symbol`
 
 Application library stored locally.

@@ -1,4 +1,4 @@
-# Pdf Services Api — Gettingstarted
+# Pdf Services Api - Gettingstarted
 
 > Adobe Acrobat reference. Original prose; identifiers preserved verbatim.
 

@@ -8,4 +8,4 @@ Pseudo-code illustrating the approach follows.
 
 Supply an acquired `AEGP_ComputeCacheSuite1`, a registered class ID, valid options and a consumer for the two borrowed values. Both initial requests are issued without waiting; pending requests are then retried with the complete arguments and `wait_for_other_threadB=true`. Every acquired receipt is checked in after use, including failure paths. The consumer must not retain borrowed values after returning.
 
-[compute-cache-pair.hpp](../examples/compute-cache-pair.hpp)
+[compute-cache-pair.hpp](https://ae-plugins.docsforadobe.dev/effect-details/compute-cache-api/)

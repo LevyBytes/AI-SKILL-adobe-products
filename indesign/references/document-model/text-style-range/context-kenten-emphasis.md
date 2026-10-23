@@ -1,6 +1,6 @@
-# InDesign — Text style range: kenten emphasis
+# InDesign - Text style range: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — Text style range.
+Open when checking kenten emphasis in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

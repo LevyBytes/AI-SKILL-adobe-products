@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "BridgeTalk class — Attributes", "file": "references/scripting/bridge-talk-class/bridge-talk-class-attributes.md", "summary": "Open when looking up BridgeTalk class — Attributes in Shared Adobe platform.", "keywords": ["BridgeTalk class — Attributes"]},
-  {"topic": "BridgeTalk class — Methods", "file": "references/scripting/bridge-talk-class/bridge-talk-class-methods.md", "summary": "Open when looking up BridgeTalk class — Methods in Shared Adobe platform.", "keywords": ["BridgeTalk class — Methods"]},
+  {"topic": "BridgeTalk class - Attributes", "file": "references/scripting/bridge-talk-class/bridge-talk-class-attributes.md", "summary": "Open when looking up BridgeTalk class - Attributes in Shared Adobe platform.", "keywords": ["BridgeTalk class - Attributes"]},
+  {"topic": "BridgeTalk class - Methods", "file": "references/scripting/bridge-talk-class/bridge-talk-class-methods.md", "summary": "Open when looking up BridgeTalk class - Methods in Shared Adobe platform.", "keywords": ["BridgeTalk class - Methods"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

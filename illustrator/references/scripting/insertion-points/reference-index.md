@@ -1,4 +1,4 @@
-# Illustrator — InsertionPoints
+# Illustrator - InsertionPoints
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up InsertionPoints.index() in Illustrator. [InsertionPoints.index()](index.md).

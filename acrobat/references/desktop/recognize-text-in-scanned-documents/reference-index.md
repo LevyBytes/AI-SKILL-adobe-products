@@ -1,4 +1,4 @@
-# Acrobat — Recognize text in scanned documents
+# Acrobat - Recognize text in scanned documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Make the text inside a scanned PDF searchable, using Adobe Acrobat. in Acrobat. [Make the text inside a scanned PDF searchable, using Adobe Acrobat.](scanned-pdf-text-recognition.md).

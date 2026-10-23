@@ -1,4 +1,4 @@
-# Shared Adobe platform — Cep 12 known issues faq
+# Shared Adobe platform - Cep 12 known issues faq
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FAQ in Shared Adobe platform. [FAQ](faq.md).

@@ -1,4 +1,4 @@
-# JavaScript APIs — ScreenAnnot
+# JavaScript APIs - ScreenAnnot
 
 On the page as rendered on screen, a ScreenAnnot stands for a screen annotation — a rectangular region inside a PDF. To drive multimedia playback, Renditions and RenditionActions can be attached to that ScreenAnnot.
 

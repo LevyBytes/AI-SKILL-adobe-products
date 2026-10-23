@@ -8,7 +8,7 @@ A Boolean that governs whether the player is shown.
 
 The default value is true.
 
-Example — configure a docked clip for audio-only output; the script fires from a Rendition action.
+Example: configure a docked clip for audio-only output; the script fires from a Rendition action.
 
 ```javascript
    var args = {

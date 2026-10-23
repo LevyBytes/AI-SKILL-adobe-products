@@ -1,4 +1,4 @@
-# Defining entry points for direct access — Additional functions
+# Defining entry points for direct access - Additional functions
 
 The shared library may include any number of additional functions. Each one maps to a JavaScript method on the ExternalObject instance. When a function is missing, ExtendScript raises a run-time error.
 

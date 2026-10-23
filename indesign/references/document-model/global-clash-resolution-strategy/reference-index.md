@@ -1,4 +1,4 @@
-# InDesign — GlobalClashResolutionStrategy
+# InDesign - GlobalClashResolutionStrategy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DO_NOT_LOAD_THE_STYLE in InDesign. [DO_NOT_LOAD_THE_STYLE](donotloadthestyle.md).

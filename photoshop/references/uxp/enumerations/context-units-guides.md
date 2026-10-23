@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: units, grids and guides
+# Photoshop - Enumerations: units, grids and guides
 
-Open when working with units, grids and guides in Photoshop — Enumerations.
+Open when working with units, grids and guides in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-units-guides.json).
 

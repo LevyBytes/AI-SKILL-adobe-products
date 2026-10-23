@@ -1,4 +1,4 @@
-# Workspace basics — Customize a toolbar
+# Workspace basics - Customize a toolbar
 
 Toolbar contents, toolbar direction, and toolbar grouping can all be adjusted: choose which tools show, change the orientation, and join or split toolbars.
 

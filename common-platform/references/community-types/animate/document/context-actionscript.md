@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: actionscript compiler and source paths
+# Shared Adobe platform - Document: actionscript compiler and source paths
 
-Open when working with actionscript compiler and source paths in Shared Adobe platform — Document.
+Open when working with actionscript compiler and source paths in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-actionscript.json).
 

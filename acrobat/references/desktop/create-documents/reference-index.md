@@ -1,4 +1,4 @@
-# Acrobat — Create documents
+# Acrobat - Create documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conversion settings in Acrobat. [Conversion settings references](conversion-settings/reference-index.md).

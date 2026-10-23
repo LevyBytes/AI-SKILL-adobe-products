@@ -1,4 +1,4 @@
-# Photoshop — Layer
+# Photoshop - Layer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up applyAddNoise in Photoshop. [applyAddNoise](apply-add-noise.md).

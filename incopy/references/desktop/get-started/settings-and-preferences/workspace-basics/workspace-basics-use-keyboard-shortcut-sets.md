@@ -1,4 +1,4 @@
-# Workspace basics — Use keyboard shortcut sets
+# Workspace basics - Use keyboard shortcut sets
 
 InCopy includes keyboard shortcuts for numerous menu commands, options, scripts, and controls. You can define custom keyboard shortcuts as well. In the Keyboard Shortcuts dialog box, you can:
 

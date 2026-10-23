@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMPScript object reference — XMPMeta object
+# Shared Adobe platform - XMPScript object reference - XMPMeta object
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMPMeta class functions in Shared Adobe platform. [XMPMeta class functions](xmp-meta-class-functions.md).

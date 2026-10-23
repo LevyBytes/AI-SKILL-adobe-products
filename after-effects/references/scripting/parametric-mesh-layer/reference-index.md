@@ -1,4 +1,4 @@
-# After Effects — Parametric mesh layer
+# After Effects - Parametric mesh layer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParametricMeshLayer object in After Effects. [ParametricMeshLayer object](parametric-mesh-layer-object.md).

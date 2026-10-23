@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "photoshop", "topics": [
-  {"topic": "Quickstart Guide — Debug your script", "file": "references/uxp/quickstart-guide-creating-your-first-script/quickstart-guide-debug-your-script.md", "summary": "Open when looking up Quickstart Guide — Debug your script in Photoshop.", "keywords": ["Quickstart Guide — Debug your script"]},
-  {"topic": "Quickstart Guide — Run your script", "file": "references/uxp/quickstart-guide-creating-your-first-script/quickstart-guide-run-your-script.md", "summary": "Open when looking up Quickstart Guide — Run your script in Photoshop.", "keywords": ["Quickstart Guide — Run your script"]},
+  {"topic": "Quickstart Guide - Debug your script", "file": "references/uxp/quickstart-guide-creating-your-first-script/quickstart-guide-debug-your-script.md", "summary": "Open when looking up Quickstart Guide - Debug your script in Photoshop.", "keywords": ["Quickstart Guide - Debug your script"]},
+  {"topic": "Quickstart Guide - Run your script", "file": "references/uxp/quickstart-guide-creating-your-first-script/quickstart-guide-run-your-script.md", "summary": "Open when looking up Quickstart Guide - Run your script in Photoshop.", "keywords": ["Quickstart Guide - Run your script"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

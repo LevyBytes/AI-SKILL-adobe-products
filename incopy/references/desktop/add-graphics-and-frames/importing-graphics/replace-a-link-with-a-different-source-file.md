@@ -1,4 +1,4 @@
-# Importing graphics — Replace a link with a different source file
+# Importing graphics - Replace a link with a different source file
 
 In the Links panel, select any link and either click the Relink button or choose Relink from the Links panel menu. When the selected item is a "parent" link for multiple instances, use Relink All Instances Of [Filename] from the Links panel menu.
 

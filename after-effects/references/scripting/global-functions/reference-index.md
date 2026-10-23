@@ -1,4 +1,4 @@
-# After Effects — Global functions
+# After Effects - Global functions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up clearOutput() in After Effects. [clearOutput()](clear-output.md).

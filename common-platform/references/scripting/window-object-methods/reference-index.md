@@ -1,4 +1,4 @@
-# Shared Adobe platform — Window object methods
+# Shared Adobe platform - Window object methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up add() in Shared Adobe platform. [add()](add.md).
@@ -13,4 +13,4 @@
 - Open when looking up removeEventListener() in Shared Adobe platform. [removeEventListener()](remove-event-listener.md).
 - Open when looking up show() in Shared Adobe platform. [show()](show.md).
 - Open when looking up update() in Shared Adobe platform. [update()](update.md).
-- Open when looking up Window object — Window Object Methods in Shared Adobe platform. [Window object — Window Object Methods](window-object-window-object-methods.md).
+- Open when looking up Window object - Window Object Methods in Shared Adobe platform. [Window object - Window Object Methods](window-object-window-object-methods.md).

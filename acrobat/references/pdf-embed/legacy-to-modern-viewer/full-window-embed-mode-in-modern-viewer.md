@@ -3,7 +3,7 @@
 **New Features**
 
 - A streamlined UI with iconography kept uniform across every Acrobat PDF-viewing
-  surface — desktop, web, mobile and integrations.
+  surface: desktop, web, mobile and integrations.
 - Refreshed quick tools for annotating and commenting on documents, relocated from the upper
   right over to the left side of the viewer.
 - NEW: A Selection tool that lets you pick out particular regions of a document and pan around it

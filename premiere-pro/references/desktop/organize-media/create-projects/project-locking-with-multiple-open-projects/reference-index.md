@@ -1,4 +1,4 @@
-# Premiere Pro — Project locking with multiple open projects
+# Premiere Pro - Project locking with multiple open projects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About project locking in Premiere Pro. [About project locking](about-project-locking.md).

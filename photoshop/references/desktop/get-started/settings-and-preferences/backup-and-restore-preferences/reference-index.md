@@ -1,4 +1,4 @@
-# Photoshop — Backup and restore preferences
+# Photoshop - Backup and restore preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Backup preferences in Photoshop. [Backup preferences](backup-preferences.md).

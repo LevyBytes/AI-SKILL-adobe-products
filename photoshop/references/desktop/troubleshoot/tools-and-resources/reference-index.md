@@ -1,4 +1,4 @@
-# Photoshop — Tools and resources
+# Photoshop - Tools and resources
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Check GPU compatibility in Photoshop. [Check GPU compatibility](check-gpu-compatibility.md).

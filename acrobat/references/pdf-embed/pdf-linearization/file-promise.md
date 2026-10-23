@@ -38,6 +38,6 @@ Should the `ranges` array hold more than a single object, you have two routes fo
 
 Keep in mind that the site builder may plug in their own implementation of these functions and attach it to the `linearizationInfo` object.
 
-[Complete linearized PDF preview page](../examples/linearized-pdf-preview.html).
+[Complete linearized PDF preview page](https://developer.adobe.com/document-services/docs/overview/pdf-embed-api/howtos_ui/).
 
 Grab the runnable code sample [here](https://www.adobe.com/go/pdfembedapi_samples), located under `/More Samples/Linearization`

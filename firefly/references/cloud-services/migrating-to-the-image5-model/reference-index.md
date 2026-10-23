@@ -1,4 +1,4 @@
-# Firefly — Migrating to the Image5 Model
+# Firefly - Migrating to the Image5 Model
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Breaking schema changes in Firefly. [Breaking schema changes](breaking-schema-changes.md).

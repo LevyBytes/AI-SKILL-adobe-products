@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — KnockoutState", "file": "references/scripting/knockout-state/scripting-constants-knockout-state.md", "summary": "Open when looking up Scripting Constants — KnockoutState in Illustrator.", "keywords": ["Scripting Constants — KnockoutState"]},
+  {"topic": "Scripting Constants - KnockoutState", "file": "references/scripting/knockout-state/scripting-constants-knockout-state.md", "summary": "Open when looking up Scripting Constants - KnockoutState in Illustrator.", "keywords": ["Scripting Constants - KnockoutState"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

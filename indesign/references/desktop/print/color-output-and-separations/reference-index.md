@@ -1,4 +1,4 @@
-# InDesign — Color output and separations
+# InDesign - Color output and separations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About color separations in InDesign. [About color separations](about-color-separations.md).

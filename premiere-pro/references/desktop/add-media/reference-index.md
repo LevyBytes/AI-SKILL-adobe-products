@@ -1,4 +1,4 @@
-# Premiere Pro — Add media
+# Premiere Pro - Add media
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Decide where to share your media in Premiere Pro. [Decide where to share your media](decide-where-to-share-your-media.md).

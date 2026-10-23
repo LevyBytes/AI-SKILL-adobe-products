@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: panels and tools
+# Shared Adobe platform - _CommandID: panels and tools
 
-Open when working with panels and tools in Shared Adobe platform — _CommandID.
+Open when working with panels and tools in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-panels.json).
 

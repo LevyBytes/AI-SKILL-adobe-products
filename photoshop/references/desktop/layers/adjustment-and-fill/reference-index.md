@@ -1,4 +1,4 @@
-# Photoshop — Color adjustment and fill layers
+# Photoshop - Color adjustment and fill layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust contrast with Clarity and Dehaze in Photoshop. [Adjust contrast with Clarity and Dehaze](adjust-contrast-with-clarity-and-dehaze.md).

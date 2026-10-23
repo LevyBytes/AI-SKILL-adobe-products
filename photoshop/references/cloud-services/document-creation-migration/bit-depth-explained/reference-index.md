@@ -1,4 +1,4 @@
-# Photoshop — Bit depth explained
+# Photoshop - Bit depth explained
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1-bit in Photoshop. [1-bit](1-bit.md).

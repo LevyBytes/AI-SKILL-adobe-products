@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/replace-pdf-pages/Program.cs)
+- [replace-pdf-pages setup and source](../examples/dotnet/replace-pdf-pages/replace-pdf-pages-setup.md)

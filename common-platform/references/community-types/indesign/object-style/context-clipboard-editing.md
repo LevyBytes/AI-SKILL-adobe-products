@@ -1,6 +1,6 @@
-# Shared Adobe platform — ObjectStyle: clipboard and editing defaults
+# Shared Adobe platform - ObjectStyle: clipboard and editing defaults
 
-Open when checking clipboard and editing defaults in Shared Adobe platform — ObjectStyle.
+Open when checking clipboard and editing defaults in Shared Adobe platform - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-clipboard-editing.json).
 

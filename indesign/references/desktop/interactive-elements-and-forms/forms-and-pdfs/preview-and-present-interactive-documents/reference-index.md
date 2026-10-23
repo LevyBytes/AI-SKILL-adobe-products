@@ -1,4 +1,4 @@
-# InDesign — Preview and present interactive documents
+# InDesign - Preview and present interactive documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Present documents in Presentation Mode in InDesign. [Present documents in Presentation Mode](present-documents-in-presentation-mode.md).

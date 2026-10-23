@@ -1,4 +1,4 @@
-# Shared Adobe platform — FootnoteOption
+# Shared Adobe platform - FootnoteOption
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FootnoteOption declaration in Shared Adobe platform. [FootnoteOption declaration](declaration.md).

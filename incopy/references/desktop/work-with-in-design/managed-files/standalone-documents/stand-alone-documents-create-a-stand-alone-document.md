@@ -1,4 +1,4 @@
-# Stand-alone documents — Create a stand-alone document
+# Stand-alone documents - Create a stand-alone document
 
 Choose File > New. For a document without facing pages on each spread, turn off Facing Pages. In the Text Area menu, choose Frame Grid when the document needs a grid for Japanese character composition; choose Text Frame when it needs a plain text frame. (See About frame grids in InCopy documents.) In the Text Area section, enter values for Width and Depth. The text dimensions supply line-break accuracy without relying on InDesign copyfit data. Set the text direction to horizontal or vertical.
 

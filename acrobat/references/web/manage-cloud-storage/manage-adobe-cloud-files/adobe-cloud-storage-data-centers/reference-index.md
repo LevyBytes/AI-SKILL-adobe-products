@@ -1,4 +1,4 @@
-# Acrobat — Adobe cloud storage data centers
+# Acrobat - Adobe cloud storage data centers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional information and support in Acrobat. [Additional information and support](additional-information-and-support.md).

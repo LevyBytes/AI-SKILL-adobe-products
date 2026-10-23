@@ -1,4 +1,4 @@
-# InDesign — Manage ruler guides
+# InDesign - Manage ruler guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change ruler guide stacking order in InDesign. [Change ruler guide stacking order](change-ruler-guide-stacking-order.md).

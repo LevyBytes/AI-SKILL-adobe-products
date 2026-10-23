@@ -1,4 +1,4 @@
-# InDesign — Create multi-page spreads
+# InDesign - Create multi-page spreads
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new document with a two-page spread in InDesign. [Create a new document with a two-page spread](create-a-new-document-with-a-two-page-spread.md).

@@ -1,4 +1,4 @@
-# PreferencesTools — Properties
+# PreferencesTools - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

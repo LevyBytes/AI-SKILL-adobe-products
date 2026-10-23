@@ -1,4 +1,4 @@
-# Illustrator — RasterizeOptions
+# Illustrator - RasterizeOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RasterizeOptions.antiAliasingMethod in Illustrator. [RasterizeOptions.antiAliasingMethod](anti-aliasing-method.md).

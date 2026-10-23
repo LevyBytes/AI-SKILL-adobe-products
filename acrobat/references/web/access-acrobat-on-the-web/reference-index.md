@@ -1,4 +1,4 @@
-# Acrobat — Access acrobat on the web
+# Acrobat - Access acrobat on the web
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Find out how to sign in and reach the Acrobat on the web application. in Acrobat. [Find out how to sign in and reach the Acrobat on the web application.](web-application-sign-in.md).

@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: object model and collections
+# After Effects - Scripting APIs: object model and collections
 
-Open when working with object model and collections in After Effects — Scripting APIs.
+Open when working with object model and collections in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-object-model.json).
 

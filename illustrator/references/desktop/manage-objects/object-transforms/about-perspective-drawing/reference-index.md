@@ -1,4 +1,4 @@
-# Illustrator — About perspective drawing
+# Illustrator - About perspective drawing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Perspective grid in Illustrator. [Perspective grid](perspective-grid.md).

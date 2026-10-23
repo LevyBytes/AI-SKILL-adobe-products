@@ -1,4 +1,4 @@
-# InDesign — Remove or replace book documents
+# InDesign - Remove or replace book documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Remove a document from a book in InDesign. [Remove a document from a book](remove-a-document-from-a-book.md).

@@ -1,4 +1,4 @@
-# Including metadata in a story — Edit metadata in image files
+# Including metadata in a story - Edit metadata in image files
 
 Captions generated for placed images in InDesign draw on metadata from the placed image. InDesign lets you edit document metadata, but not metadata inside placed files. For placed images, update metadata in the original application, in Finder or Explorer, or through Adobe Bridge or Adobe Mini Bridge.
 

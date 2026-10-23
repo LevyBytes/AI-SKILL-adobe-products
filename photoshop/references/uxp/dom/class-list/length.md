@@ -1,4 +1,4 @@
-# window.ClassList — length
+# window.ClassList - length
 
 **Read only**
 Reports how many tokens the list currently contains.

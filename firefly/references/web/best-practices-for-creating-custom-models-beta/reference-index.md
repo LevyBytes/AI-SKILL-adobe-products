@@ -1,4 +1,4 @@
-# Firefly — Best practices for creating custom models beta
+# Firefly - Best practices for creating custom models beta
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Review Captions in Firefly. [Review Captions](review-captions.md).

@@ -1,4 +1,4 @@
-# Artisan Data Types — Film Size
+# Artisan Data Types - Film Size
 
 Real-world film size is measured in millimeters. After Effects measures it in pixels. To convert millimeters to pixels, multiply by 72 and divide by 25.4.
 

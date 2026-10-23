@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: overview
+# After Effects - C++ plugin SDK: overview
 
-Open when working with overview in After Effects — C++ plugin SDK.
+Open when working with overview in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegps-overview.json).
 

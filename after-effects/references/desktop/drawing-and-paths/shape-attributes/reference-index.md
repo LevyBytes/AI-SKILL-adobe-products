@@ -1,4 +1,4 @@
-# After Effects — Shapes and shape attributes
+# After Effects - Shapes and shape attributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Shape attributes, paint operations, and path operations for shape layers in After Effects. [Shape attributes, paint operations, and path operations for shape layers](shape-paint-and-path-operations.md).

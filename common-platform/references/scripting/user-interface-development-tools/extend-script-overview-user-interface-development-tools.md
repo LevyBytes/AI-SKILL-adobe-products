@@ -1,4 +1,4 @@
-# ExtendScript overview — User-interface development tools
+# ExtendScript overview - User-interface development tools
 
 Adobe's ScriptUI module works with the ExtendScript JavaScript interpreter, letting JavaScript scripts create and interact with user interface elements. Its object model covers windows and user-interface controls inside an Adobe application. See User-Interface Tools for full information.
 

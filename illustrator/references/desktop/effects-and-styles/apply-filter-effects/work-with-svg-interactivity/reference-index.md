@@ -1,4 +1,4 @@
-# Illustrator — Work with SVG Interactivity
+# Illustrator - Work with SVG Interactivity
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add SVG Interactivity to artwork in Illustrator. [Add SVG Interactivity to artwork](add-svg-interactivity-to-artwork.md).

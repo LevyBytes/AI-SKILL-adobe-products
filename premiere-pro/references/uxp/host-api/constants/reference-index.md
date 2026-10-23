@@ -1,4 +1,4 @@
-# Premiere Pro — Constants
+# Premiere Pro - Constants
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AudioChannelType in Premiere Pro. [AudioChannelType](audio-channel-type.md).

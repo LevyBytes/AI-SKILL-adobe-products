@@ -1,4 +1,4 @@
-# Shared Adobe platform — ParagraphDestinations
+# Shared Adobe platform - ParagraphDestinations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParagraphDestinations collection iteration in Shared Adobe platform. [ParagraphDestinations collection iteration](collection-iteration.md).

@@ -1,6 +1,6 @@
-# InDesign — Change text preference: events and listeners
+# InDesign - Change text preference: events and listeners
 
-Open when checking events and listeners in InDesign — Change text preference.
+Open when checking events and listeners in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

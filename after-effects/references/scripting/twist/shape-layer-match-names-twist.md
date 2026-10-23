@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Twist
+# Shape Layer Match Names - Twist
 
 | Match Name | Display Name (EN) |
 | --- | --- |

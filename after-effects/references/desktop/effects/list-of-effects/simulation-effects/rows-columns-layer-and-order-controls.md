@@ -10,7 +10,7 @@ How many rows, up to 1000.
 
 Columns
 
-How many columns, up to 1000 — except when Columns Follows Rows is on.
+How many columns, up to 1000: except when Columns Follows Rows is on.
 
 Note
 

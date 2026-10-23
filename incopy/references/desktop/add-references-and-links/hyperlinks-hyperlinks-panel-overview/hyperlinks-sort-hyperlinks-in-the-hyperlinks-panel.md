@@ -1,4 +1,4 @@
-# Hyperlinks — Sort hyperlinks in the Hyperlinks panel
+# Hyperlinks - Sort hyperlinks in the Hyperlinks panel
 
 From the Hyperlinks panel menu, choose Sort, then pick one of these choices:
 

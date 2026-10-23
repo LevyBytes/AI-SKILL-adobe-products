@@ -1,4 +1,4 @@
-# Photoshop — Faqs
+# Photoshop - Faqs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Can I build a Photoshop filter (or other such capabilities) with the new Hybrid plugin SDK? in Photoshop. [Can I build a Photoshop filter (or other such capabilities) with the new Hybrid plugin SDK?](hybrid-plugin-filter-capabilities.md).

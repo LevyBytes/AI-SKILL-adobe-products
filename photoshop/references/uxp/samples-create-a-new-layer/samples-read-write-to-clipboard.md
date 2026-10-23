@@ -1,4 +1,4 @@
-# Samples — Read/write to clipboard
+# Samples - Read/write to clipboard
 
 The clipboard module, `navigator.clipboard`, is available for these operations:
 - place data on a clipboard (`setContent()`)

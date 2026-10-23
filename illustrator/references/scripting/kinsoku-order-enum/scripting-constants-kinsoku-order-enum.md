@@ -1,4 +1,4 @@
-# Scripting Constants — KinsokuOrderEnum
+# Scripting Constants - KinsokuOrderEnum
 
 | Value | Description |
 | --- | --- |

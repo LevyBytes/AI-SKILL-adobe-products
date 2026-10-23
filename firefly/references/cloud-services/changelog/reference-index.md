@@ -1,4 +1,4 @@
-# Firefly — Changelog
+# Firefly - Changelog
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. creative_upsampler_v1 header value rejected in Firefly. [1. creative_upsampler_v1 header value rejected](creativeupsamplerv1-header-value-rejected.md).

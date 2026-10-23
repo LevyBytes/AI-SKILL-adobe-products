@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: windows and ui containers
+# Shared Adobe platform - Shared: windows and ui containers
 
-Open when working with windows and ui containers in Shared Adobe platform — Shared.
+Open when working with windows and ui containers in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-containers.json).
 

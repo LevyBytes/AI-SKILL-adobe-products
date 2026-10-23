@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Audio
+# First-Party Effect Match Names - Audio
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

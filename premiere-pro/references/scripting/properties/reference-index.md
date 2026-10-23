@@ -1,4 +1,4 @@
-# Premiere Pro — Properties
+# Premiere Pro - Properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Properties.clearProperty() in Premiere Pro. [Properties.clearProperty()](clear-property.md).

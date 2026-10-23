@@ -1,4 +1,4 @@
-# Shared Adobe platform — HiddenTexts
+# Shared Adobe platform - HiddenTexts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HiddenTexts collection iteration in Shared Adobe platform. [HiddenTexts collection iteration](collection-iteration.md).

@@ -1,6 +1,6 @@
-# InDesign — XmlStory: import and export text documents
+# InDesign - XmlStory: import and export text documents
 
-Open when checking import and export text documents in InDesign — XmlStory.
+Open when checking import and export text documents in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-text-file-interchange.json).
 

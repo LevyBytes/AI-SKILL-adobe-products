@@ -1,4 +1,4 @@
-# Photoshop — Configuration — Rust Environment
+# Photoshop - Configuration - Rust Environment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Install wasm-pack in Photoshop. [1. Install wasm-pack](install-wasm-pack.md).

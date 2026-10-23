@@ -1,4 +1,4 @@
-# Cross-DOM functions — Startup folder locations
+# Cross-DOM functions - Startup folder locations
 
 On each platform, JavaScript-capable Adobe Creative Suite 4 applications share one startup folder, and each application also has its own startup folder.
 

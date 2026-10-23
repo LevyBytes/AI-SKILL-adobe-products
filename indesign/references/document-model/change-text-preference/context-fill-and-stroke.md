@@ -1,6 +1,6 @@
-# InDesign — Change text preference: fill, stroke and transparency
+# InDesign - Change text preference: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Change text preference.
+Open when checking fill, stroke and transparency in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

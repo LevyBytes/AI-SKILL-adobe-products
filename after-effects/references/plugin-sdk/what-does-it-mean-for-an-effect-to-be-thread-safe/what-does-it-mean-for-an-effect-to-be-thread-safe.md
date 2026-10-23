@@ -1,4 +1,4 @@
-# Multi-Frame Rendering in AE — What does it mean for an effect to be thread-safe?
+# Multi-Frame Rendering in AE - What does it mean for an effect to be thread-safe?
 
 You can call an effect thread-safe when its implementation and shared data are certain to be without race conditions and remain in a valid state whenever accessed from more than one thread at once.
 

@@ -1,4 +1,4 @@
-# Illustrator — Gradients
+# Illustrator - Gradients
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Gradients.add() in Illustrator. [Gradients.add()](add.md).

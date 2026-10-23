@@ -1,4 +1,4 @@
-# Premiere Pro — Color correction fundamentals
+# Premiere Pro - Color correction fundamentals
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add color effects in Premiere Pro. [Add color effects](add-color-effects.md).

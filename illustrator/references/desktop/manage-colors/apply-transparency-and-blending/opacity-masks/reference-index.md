@@ -1,4 +1,4 @@
-# Illustrator — Adjust transparency using opacity masks
+# Illustrator - Adjust transparency using opacity masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust the relative position of masked and masking objects in Illustrator. [Adjust the relative position of masked and masking objects](adjust-the-relative-position-of-masked-and-masking-objects.md).

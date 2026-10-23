@@ -1,4 +1,4 @@
-# Premiere Pro — Control effects and transitions using keyframes
+# Premiere Pro - Control effects and transitions using keyframes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add keyframes in Premiere Pro. [Add keyframes](add-keyframes.md).

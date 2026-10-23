@@ -1,4 +1,4 @@
-# Accessing and referencing objects — Creating new objects
+# Accessing and referencing objects - Creating new objects
 
 Scripts can generate new objects. When the target object is exposed through a collection object or container, invoke add() on that container object.
 

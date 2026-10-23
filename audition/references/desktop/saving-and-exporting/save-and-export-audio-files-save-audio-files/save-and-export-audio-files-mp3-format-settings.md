@@ -1,4 +1,4 @@
-# Save and export audio files — MP3 format settings
+# Save and export audio files - MP3 format settings
 
 MP3 is the standard compressed format for distributing audio online.
 

@@ -1,6 +1,6 @@
-# InDesign — Image: object styles and enabled attributes
+# InDesign - Image: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — Image.
+Open when checking object styles and enabled attributes in InDesign - Image.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

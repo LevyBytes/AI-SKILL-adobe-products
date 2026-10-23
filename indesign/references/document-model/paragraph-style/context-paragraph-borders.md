@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: paragraph borders
+# InDesign - Paragraph style: paragraph borders
 
-Open when checking paragraph borders in InDesign — Paragraph style.
+Open when checking paragraph borders in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-borders.json).
 

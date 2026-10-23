@@ -1,4 +1,4 @@
-# Premiere Pro — Copy, paste or move masks
+# Premiere Pro - Copy, paste or move masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cut, copy, clear, or paste masks in Premiere Pro. [Cut, copy, clear, or paste masks](cut-copy-clear-or-paste-masks.md).

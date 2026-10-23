@@ -1,6 +1,6 @@
-# InDesign — FormField: object identity and lifecycle
+# InDesign - FormField: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — FormField.
+Open when checking object identity and lifecycle in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

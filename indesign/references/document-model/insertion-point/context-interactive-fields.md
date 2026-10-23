@@ -1,6 +1,6 @@
-# InDesign — Insertion point: interactive fields and behaviors
+# InDesign - Insertion point: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — Insertion point.
+Open when checking interactive fields and behaviors in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

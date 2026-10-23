@@ -1,4 +1,4 @@
-# Acrobat — Document properties and metadata overview
+# Acrobat - Document properties and metadata overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Document properties in Acrobat. [Document properties](document-properties.md).

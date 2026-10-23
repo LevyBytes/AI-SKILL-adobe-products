@@ -1,4 +1,4 @@
-# Overview — Different Tasks, Same API
+# Overview - Different Tasks, Same API
 
 No matter which specialization an AEGP takes on, it operates along the same lines.
 

@@ -1,4 +1,4 @@
-# InDesign — Import options for image formats
+# InDesign - Import options for image formats
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Format considerations in InDesign. [Format considerations](format-considerations.md).

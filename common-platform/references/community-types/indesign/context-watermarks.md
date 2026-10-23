@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: watermarks
+# Shared Adobe platform - Indesign: watermarks
 
-Open when working with watermarks in Shared Adobe platform — Indesign.
+Open when working with watermarks in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-watermarks.json).
 

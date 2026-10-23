@@ -1,4 +1,4 @@
-# Hyperlinks — Open the Hyperlinks panel
+# Hyperlinks - Open the Hyperlinks panel
 
 - Choose Window > Interactive > Hyperlinks.
 - Choose Window > Hyperlinks.

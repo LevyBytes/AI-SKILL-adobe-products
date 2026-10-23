@@ -1,4 +1,4 @@
-# Localization in ScriptUI objects — Variable values in localized strings
+# Localization in ScriptUI objects - Variable values in localized strings
 
 localize can substitute variable values into localized strings. Each variable placeholder receives the evaluated value of an extra argument.
 

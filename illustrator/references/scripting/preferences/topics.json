@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Preferences — Properties", "file": "references/scripting/preferences/preferences-properties.md", "summary": "Open when looking up Preferences — Properties in Illustrator.", "keywords": ["Preferences — Properties"]},
+  {"topic": "Preferences - Properties", "file": "references/scripting/preferences/preferences-properties.md", "summary": "Open when looking up Preferences - Properties in Illustrator.", "keywords": ["Preferences - Properties"]},
   {"topic": "Preferences.FreeHandFileOptions", "file": "references/scripting/preferences/free-hand-file-options.md", "summary": "Open when looking up Preferences.FreeHandFileOptions in Illustrator.", "keywords": ["Preferences.FreeHandFileOptions"]},
   {"topic": "Preferences.getBooleanPreference", "file": "references/scripting/preferences/get-boolean-preference.md", "summary": "Open when looking up Preferences.getBooleanPreference in Illustrator.", "keywords": ["Preferences.getBooleanPreference"]},
   {"topic": "Preferences.getIntegerPreference", "file": "references/scripting/preferences/get-integer-preference.md", "summary": "Open when looking up Preferences.getIntegerPreference in Illustrator.", "keywords": ["Preferences.getIntegerPreference"]},

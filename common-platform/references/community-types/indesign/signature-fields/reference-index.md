@@ -1,4 +1,4 @@
-# Shared Adobe platform — SignatureFields
+# Shared Adobe platform - SignatureFields
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SignatureFields collection iteration in Shared Adobe platform. [SignatureFields collection iteration](collection-iteration.md).

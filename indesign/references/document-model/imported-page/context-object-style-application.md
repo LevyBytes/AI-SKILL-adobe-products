@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: object styles and enabled attributes
+# InDesign - ImportedPage: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — ImportedPage.
+Open when checking object styles and enabled attributes in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

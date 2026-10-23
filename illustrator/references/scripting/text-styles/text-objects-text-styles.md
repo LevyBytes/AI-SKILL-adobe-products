@@ -1,4 +1,4 @@
-# Text Objects — Text styles
+# Text Objects - Text styles
 
 Paragraph attribute objects and character attribute objects represent text-style elements such as font, capitalization, and justification.
 

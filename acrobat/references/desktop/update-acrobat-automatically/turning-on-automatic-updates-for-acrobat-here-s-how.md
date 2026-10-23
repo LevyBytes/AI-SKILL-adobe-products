@@ -1,4 +1,4 @@
-# Turning on automatic updates for Acrobat — here's how.
+# Turning on automatic updates for Acrobat - here's how.
 
 Launch Adobe Acrobat.
 

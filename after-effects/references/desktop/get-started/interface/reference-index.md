@@ -1,4 +1,4 @@
-# After Effects — Get familiar with the interface
+# After Effects - Get familiar with the interface
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up General user interface items in After Effects. [General user interface items](general-user-interface-items.md).

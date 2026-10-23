@@ -37,7 +37,7 @@ console.println("Yet again: " + util.printd("yyyy mmm dd", d));
 
 Example 2: Pull a value out of a text field, check whether it is a date in the allowed format, then surface the result in an alert box or the console window.
 
-A failed conversion returns null — which happens when the user supplies data other than what was expected. So check the return value against null here.
+A failed conversion returns null: which happens when the user supplies data other than what was expected. So check the return value against null here.
 
 ```javascript
 var d= util.scand("mm/dd/yyyy", this.getField("myDate").value);

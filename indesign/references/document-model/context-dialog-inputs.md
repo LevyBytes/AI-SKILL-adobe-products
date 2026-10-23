@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: script dialog inputs and widgets
+# InDesign - InDesign document object model: script dialog inputs and widgets
 
-Open when working with script dialog inputs and widgets in InDesign — InDesign document object model.
+Open when working with script dialog inputs and widgets in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-dialog-inputs.json).
 

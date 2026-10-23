@@ -1,4 +1,4 @@
-# After Effects — Text document
+# After Effects - Text document
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextDocument object in After Effects. [TextDocument object](text-document-object.md).

@@ -25,7 +25,7 @@ flowchart LR
 
 A coordinated library of Adobe product references for creative work, automation and integration. Product-specific entrypoints keep desktop workflows, scripting environments, plug-in APIs and cloud services in their proper host and version context.
 
-Use when a task needs Adobe product documentation, workflows, scripting, plugins, SDKs, or service APIs for Acrobat, Photoshop, Illustrator, InDesign, InCopy, Premiere Pro, After Effects, Audition, Media Encoder, Firefly, or shared CEP, ExtendScript, and ScriptUI. Routes to the bundled product skill; excludes unrelated creative software and generic image or PDF tasks without an Adobe product context.
+Use when a task needs Adobe product documentation, workflows, scripting, plugins, SDKs or service APIs for Acrobat, Photoshop, Illustrator, InDesign, InCopy, Premiere Pro, After Effects, Audition, Media Encoder, Firefly, or shared CEP, ExtendScript and ScriptUI. Not for other creative software or generic image or PDF tasks without an Adobe product.
 
 ## What this skill helps with
 
@@ -66,4 +66,4 @@ Keep the complete product bundle together. Select the product entrypoint before 
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://developer.adobe.com/) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

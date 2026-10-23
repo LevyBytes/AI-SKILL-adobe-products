@@ -1,4 +1,4 @@
-# Illustrator — Composers for Asian scripts
+# Illustrator - Composers for Asian scripts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create documents using Asian languages in Illustrator. [Create documents using Asian languages](create-documents-using-asian-languages.md).

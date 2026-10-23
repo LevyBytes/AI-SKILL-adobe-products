@@ -1,4 +1,4 @@
-# After Effects — Setting, selecting, and deleting keyframes
+# After Effects - Setting, selecting, and deleting keyframes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a keyframe without changing a value in After Effects. [Add a keyframe without changing a value](add-a-keyframe-without-changing-a-value.md).

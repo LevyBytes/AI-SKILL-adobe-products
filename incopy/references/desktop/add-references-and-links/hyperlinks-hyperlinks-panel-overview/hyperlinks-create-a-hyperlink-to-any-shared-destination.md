@@ -1,4 +1,4 @@
-# Hyperlinks — Create a hyperlink to any shared destination
+# Hyperlinks - Create a hyperlink to any shared destination
 
 Choosing Shared Destination from the Link To menu while making a hyperlink lets you use any named destination. A destination receives a name when a URL is added with the URL text box, or when Shared Hyperlink Destination is selected during creation of a URL, file, or email-address hyperlink.
 

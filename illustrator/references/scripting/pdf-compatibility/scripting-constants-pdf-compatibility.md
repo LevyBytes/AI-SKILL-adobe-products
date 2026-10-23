@@ -1,4 +1,4 @@
-# Scripting Constants — PDFCompatibility
+# Scripting Constants - PDFCompatibility
 
 Chooses the Acrobat file-format version written during PDF file saving.
 

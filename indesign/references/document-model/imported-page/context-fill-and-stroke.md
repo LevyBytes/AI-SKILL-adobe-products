@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: fill, stroke and transparency
+# InDesign - ImportedPage: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — ImportedPage.
+Open when checking fill, stroke and transparency in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

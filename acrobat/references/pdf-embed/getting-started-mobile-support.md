@@ -1,4 +1,4 @@
-# Getting Started — Mobile support
+# Getting Started - Mobile support
 
 On handsets and tablets the API carries over most of its desktop behavior, though a handful of features fall away:
 

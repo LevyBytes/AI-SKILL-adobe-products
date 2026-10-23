@@ -1,4 +1,4 @@
-# Photoshop — How to Integrate with OAuth
+# Photoshop - How to Integrate with OAuth
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Add Node.js dependencies in Photoshop. [1. Add Node.js dependencies](add-node-js-dependencies.md).

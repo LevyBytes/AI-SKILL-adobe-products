@@ -1,4 +1,4 @@
-# Premiere Pro — Package a UXP plugin
+# Premiere Pro - Package a UXP plugin
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Differences with CEP Extensions in Premiere Pro. [Differences with CEP Extensions](differences-with-cep-extensions.md).

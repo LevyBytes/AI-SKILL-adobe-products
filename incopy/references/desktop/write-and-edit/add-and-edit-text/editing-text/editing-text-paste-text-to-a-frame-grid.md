@@ -1,4 +1,4 @@
-# Editing text — Paste text to a frame grid
+# Editing text - Paste text to a frame grid
 
 InCopy can paste copied text while keeping formatting attributes from its source. If text with changed attributes is copied from one frame grid into another frame grid, only those altered attributes are retained after the paste. Pasting without grid formatting is also available.
 

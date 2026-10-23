@@ -1,4 +1,4 @@
-# After Effects — Preparing and importing 3D image files
+# After Effects - Preparing and importing 3D image files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D object layers in PSD files in After Effects. [3D object layers in PSD files](3-d-object-layers-in-psd-files.md).

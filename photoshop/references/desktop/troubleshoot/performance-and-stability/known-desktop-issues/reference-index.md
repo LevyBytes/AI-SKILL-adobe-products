@@ -1,4 +1,4 @@
-# Photoshop — Known issues in Adobe Photoshop on desktop
+# Photoshop - Known issues in Adobe Photoshop on desktop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up A pixel layer below Harmonize can break additional variation generation. in Photoshop. [A pixel layer below Harmonize can break additional variation generation.](harmonize-pixel-layer-variation-failure.md).

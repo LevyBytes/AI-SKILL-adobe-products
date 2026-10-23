@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: import, organize and relink media
+# Premiere Pro - Desktop workflows: import, organize and relink media
 
-Open when working with import, organize and relink media in Premiere Pro — Desktop workflows.
+Open when working with import, organize and relink media in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-media-import.json).
 

@@ -1,4 +1,4 @@
-# Illustrator — TextFonts
+# Illustrator - TextFonts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextFonts.getByName() in Illustrator. [TextFonts.getByName()](get-by-name.md).

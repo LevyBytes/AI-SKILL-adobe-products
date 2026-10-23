@@ -1,6 +1,6 @@
-# Shared Adobe platform — PrintPreference: output color, screening and overprint
+# Shared Adobe platform - PrintPreference: output color, screening and overprint
 
-Open when checking output color, screening and overprint in Shared Adobe platform — PrintPreference.
+Open when checking output color, screening and overprint in Shared Adobe platform - PrintPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

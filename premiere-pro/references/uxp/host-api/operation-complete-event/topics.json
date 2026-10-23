@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
-  {"topic": "OperationCompleteEvent — Events", "file": "references/uxp/host-api/operation-complete-event/operation-complete-event-events.md", "summary": "Open when looking up OperationCompleteEvent — Events in Premiere Pro.", "keywords": ["OperationCompleteEvent — Events"]},
-  {"topic": "OperationCompleteEvent — Properties", "file": "references/uxp/host-api/operation-complete-event/operation-complete-event-properties.md", "summary": "Open when looking up OperationCompleteEvent — Properties in Premiere Pro.", "keywords": ["OperationCompleteEvent — Properties"]},
+  {"topic": "OperationCompleteEvent - Events", "file": "references/uxp/host-api/operation-complete-event/operation-complete-event-events.md", "summary": "Open when looking up OperationCompleteEvent - Events in Premiere Pro.", "keywords": ["OperationCompleteEvent - Events"]},
+  {"topic": "OperationCompleteEvent - Properties", "file": "references/uxp/host-api/operation-complete-event/operation-complete-event-properties.md", "summary": "Open when looking up OperationCompleteEvent - Properties in Premiere Pro.", "keywords": ["OperationCompleteEvent - Properties"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

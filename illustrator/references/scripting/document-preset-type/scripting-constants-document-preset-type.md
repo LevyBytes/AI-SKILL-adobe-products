@@ -1,4 +1,4 @@
-# Scripting Constants — DocumentPresetType
+# Scripting Constants - DocumentPresetType
 
 New-document preset categories.
 

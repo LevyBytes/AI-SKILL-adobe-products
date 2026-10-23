@@ -1,6 +1,6 @@
-# InDesign — Text column: paths and shape operations
+# InDesign - Text column: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Text column.
+Open when checking paths and shape operations in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

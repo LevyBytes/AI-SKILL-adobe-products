@@ -1,4 +1,4 @@
-# JavaScript APIs — Certificate
+# JavaScript APIs - Certificate
 
 Read-only access to the fields of an X.509 public key certificate is what the Certificate object exposes.
 

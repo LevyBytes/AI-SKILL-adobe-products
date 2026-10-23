@@ -1,4 +1,4 @@
-# `adjustments` block — CHANGED (restructured with type discriminant)
+# `adjustments` block - CHANGED (restructured with type discriminant)
 
 In the old shape, each adjustment type is represented by a camelCase sub-object key:
 

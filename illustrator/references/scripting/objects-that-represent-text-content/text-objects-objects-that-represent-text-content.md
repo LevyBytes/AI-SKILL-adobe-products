@@ -1,4 +1,4 @@
-# Text Objects — Objects that represent text content
+# Text Objects - Objects that represent text content
 
 Inside a text frame or story, the real text content is available through any of these objects:
 

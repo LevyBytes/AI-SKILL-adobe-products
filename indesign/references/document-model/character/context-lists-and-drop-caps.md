@@ -1,6 +1,6 @@
-# InDesign — Character: lists, numbering and drop caps
+# InDesign - Character: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in InDesign — Character.
+Open when checking lists, numbering and drop caps in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

@@ -1,4 +1,4 @@
-# Firefly — Firefly ai assistant
+# Firefly - Firefly ai assistant
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Firefly AI Assistant in Firefly. [Firefly AI Assistant](firefly-ai-assistant.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — HyperlinkTextSources
+# Shared Adobe platform - HyperlinkTextSources
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HyperlinkTextSources collection iteration in Shared Adobe platform. [HyperlinkTextSources collection iteration](collection-iteration.md).

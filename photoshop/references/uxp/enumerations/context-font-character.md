@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: character styling
+# Photoshop - Enumerations: character styling
 
-Open when working with character styling in Photoshop — Enumerations.
+Open when working with character styling in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-font-character.json).
 

@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Change pixel aspect ratio interpretation for a footage item
+# Importing and interpreting footage items - Change pixel aspect ratio interpretation for a footage item
 
 Pick a footage item over in the Project panel.
 

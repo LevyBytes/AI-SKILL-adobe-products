@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: print layout and color handling
+# Shared Adobe platform - Photoshop: print layout and color handling
 
-Open when working with print layout and color handling in Shared Adobe platform — Photoshop.
+Open when working with print layout and color handling in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-print-output.json).
 

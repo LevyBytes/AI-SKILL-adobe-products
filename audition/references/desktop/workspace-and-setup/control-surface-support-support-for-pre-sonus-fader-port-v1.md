@@ -1,4 +1,4 @@
-# Control surface support — Support for PreSonus FaderPort V1
+# Control surface support - Support for PreSonus FaderPort V1
 
 PreSonus FaderPort V1 is a USB-connected hardware control surface for transport and mixing operations. It can start or stop playback and recording, adjust volume through its motorized fader, handle pan, and manage automation. These controls operate in real time alongside other functions.
 

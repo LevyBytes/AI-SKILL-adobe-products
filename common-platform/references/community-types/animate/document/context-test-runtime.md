@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: test movies, debug and runtime targets
+# Shared Adobe platform - Document: test movies, debug and runtime targets
 
-Open when working with test movies, debug and runtime targets in Shared Adobe platform — Document.
+Open when working with test movies, debug and runtime targets in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-test-runtime.json).
 

@@ -1,4 +1,4 @@
-# JavaScript APIs — PlugIn
+# JavaScript APIs - PlugIn
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

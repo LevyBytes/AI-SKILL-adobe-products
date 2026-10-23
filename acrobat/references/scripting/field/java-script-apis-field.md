@@ -1,4 +1,4 @@
-# JavaScript APIs — Field
+# JavaScript APIs - Field
 
 An Acrobat form field — the kind made with the Acrobat form tool or via the Doc addField method — is what this object stands for. Just as a form author can adjust an existing field's properties such as its font or border color, the Field object lets the JavaScript user carry out those same edits.
 

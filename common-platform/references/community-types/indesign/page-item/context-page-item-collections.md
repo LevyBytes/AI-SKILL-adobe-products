@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: page item collections
+# Shared Adobe platform - PageItem: page item collections
 
-Open when checking page item collections in Shared Adobe platform — PageItem.
+Open when checking page item collections in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

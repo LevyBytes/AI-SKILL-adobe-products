@@ -1,4 +1,4 @@
-# InDesign — Turn on or off live preflight
+# InDesign - Turn on or off live preflight
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Control preflight for the active document in InDesign. [Control preflight for the active document](control-preflight-for-the-active-document.md).

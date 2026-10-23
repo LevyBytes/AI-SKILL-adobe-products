@@ -1,4 +1,4 @@
-# User-interaction levels — JavaScript
+# User-interaction levels - JavaScript
 
 JavaScript defines two values for the app.userInteractionLevel property:
 

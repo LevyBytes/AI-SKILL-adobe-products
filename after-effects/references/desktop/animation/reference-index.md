@@ -1,4 +1,4 @@
-# After Effects — Animation
+# After Effects - Animation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add timecode and time display units in After Effects. [Add timecode and time display units references](add-timecode-and-time-display-units/reference-index.md).

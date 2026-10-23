@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: dialogs and complete dialog examples
+# Acrobat - Scripting APIs: dialogs and complete dialog examples
 
-Open when working with dialogs and complete dialog examples in Acrobat — Scripting APIs.
+Open when working with dialogs and complete dialog examples in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-dialogs.json).
 

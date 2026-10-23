@@ -1,4 +1,4 @@
-# Acrobat — Basic APIs for commenting
+# Acrobat - Basic APIs for commenting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addAnnotations API in Acrobat. [addAnnotations API](add-annotations-api.md).

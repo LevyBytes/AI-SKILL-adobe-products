@@ -8,4 +8,4 @@ A preset bundles together settings that steer how a PDF gets built, and Adobe PD
 - The way images are compressed and downsampled
 - Whether fonts get embedded and subset
 - Conversion of color
-- The output intent — print production or on-screen viewing, for example
+- The output intent: print production or on-screen viewing, for example

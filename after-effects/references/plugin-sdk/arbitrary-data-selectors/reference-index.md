@@ -1,7 +1,7 @@
-# After Effects — Arbitrary data selectors
+# After Effects - Arbitrary data selectors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Arbitrary Data Parameters — Arbitrary Data Selectors in After Effects. [Arbitrary Data Parameters — Arbitrary Data Selectors](arbitrary-data-parameters-arbitrary-data-selectors.md).
+- Open when looking up Arbitrary Data Parameters - Arbitrary Data Selectors in After Effects. [Arbitrary Data Parameters - Arbitrary Data Selectors](arbitrary-data-parameters-arbitrary-data-selectors.md).
 - Open when looking up PF_Arbitrary_COMPARE_FUNC in After Effects. [PF_Arbitrary_COMPARE_FUNC](pf-arbitrary-comparefunc.md).
 - Open when looking up PF_Arbitrary_COPY_FUNC in After Effects. [PF_Arbitrary_COPY_FUNC](pf-arbitrary-copyfunc.md).
 - Open when looking up PF_Arbitrary_DISPOSE_FUNC in After Effects. [PF_Arbitrary_DISPOSE_FUNC](pf-arbitrary-disposefunc.md).

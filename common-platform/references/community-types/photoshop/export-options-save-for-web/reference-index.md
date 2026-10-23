@@ -1,4 +1,4 @@
-# Shared Adobe platform — ExportOptionsSaveForWeb
+# Shared Adobe platform - ExportOptionsSaveForWeb
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ExportOptionsSaveForWeb declaration in Shared Adobe platform. [ExportOptionsSaveForWeb declaration](declaration.md).

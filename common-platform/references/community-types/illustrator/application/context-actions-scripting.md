@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: actions, menus and scripting integration
+# Shared Adobe platform - Application: actions, menus and scripting integration
 
-Open when working with actions, menus and scripting integration in Shared Adobe platform — Application.
+Open when working with actions, menus and scripting integration in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-actions-scripting.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — PrinterPreset: output color, screening and overprint
+# Shared Adobe platform - PrinterPreset: output color, screening and overprint
 
-Open when checking output color, screening and overprint in Shared Adobe platform — PrinterPreset.
+Open when checking output color, screening and overprint in Shared Adobe platform - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

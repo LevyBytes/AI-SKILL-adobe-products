@@ -1,4 +1,4 @@
-# InDesign — Turn off automatic page numbering for books
+# InDesign - Turn off automatic page numbering for books
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Manage page and section numbering in a book in InDesign. [Manage page and section numbering in a book](manage-page-and-section-numbering-in-a-book.md).

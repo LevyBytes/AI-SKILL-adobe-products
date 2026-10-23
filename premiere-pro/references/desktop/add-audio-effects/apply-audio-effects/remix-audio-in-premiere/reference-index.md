@@ -1,4 +1,4 @@
-# Premiere Pro — Remix audio in Premiere
+# Premiere Pro - Remix audio in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Remix to adjust music duration in Premiere Pro. [Apply Remix to adjust music duration](apply-remix-to-adjust-music-duration.md).

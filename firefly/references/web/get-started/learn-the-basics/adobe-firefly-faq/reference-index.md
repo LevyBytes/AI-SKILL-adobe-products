@@ -1,4 +1,4 @@
-# Firefly — Adobe Firefly FAQ
+# Firefly - Adobe Firefly FAQ
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Adobe Firefly in Firefly. [About Adobe Firefly](about-adobe-firefly.md).

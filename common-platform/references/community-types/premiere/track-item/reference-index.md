@@ -1,4 +1,4 @@
-# Shared Adobe platform — TrackItem
+# Shared Adobe platform - TrackItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TrackItem declaration in Shared Adobe platform. [TrackItem declaration](declaration.md).

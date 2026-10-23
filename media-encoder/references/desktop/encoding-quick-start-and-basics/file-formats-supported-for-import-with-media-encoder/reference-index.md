@@ -1,4 +1,4 @@
-# Media Encoder — File formats supported for import with Media Encoder
+# Media Encoder - File formats supported for import with Media Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio formats in Media Encoder. [Audio formats](audio-formats.md).

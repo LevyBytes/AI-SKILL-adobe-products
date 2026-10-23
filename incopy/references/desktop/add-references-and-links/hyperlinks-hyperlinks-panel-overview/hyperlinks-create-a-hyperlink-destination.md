@@ -1,4 +1,4 @@
-# Hyperlinks — Create a hyperlink destination
+# Hyperlinks - Create a hyperlink destination
 
 A hyperlink destination is required only when the hyperlink or cross-reference points to a text anchor. A text anchor can refer to selected text or to the insertion point location; afterward, create the hyperlink or cross-reference that targets that destination. Page and URL hyperlink destinations can also be created, but those link types do not require one.
 

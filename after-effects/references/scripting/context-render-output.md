@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: render queues and output modules
+# After Effects - Scripting APIs: render queues and output modules
 
-Open when working with render queues and output modules in After Effects — Scripting APIs.
+Open when working with render queues and output modules in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-render-output.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Red Giant
+# After Effects - Red Giant
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Magic Bullet in After Effects. [Magic Bullet](magic-bullet.md).

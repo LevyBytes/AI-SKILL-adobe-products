@@ -1,4 +1,4 @@
-# `PF_InData` — extent_hint Usage
+# `PF_InData` - extent_hint Usage
 
 Note
 

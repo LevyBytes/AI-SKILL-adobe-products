@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Gradient Stroke
+# Shape Layer Match Names - Gradient Stroke
 
 | Match Name | Display Name (EN) |
 | --- | --- |

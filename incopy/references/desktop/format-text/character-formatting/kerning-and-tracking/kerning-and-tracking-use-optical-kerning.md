@@ -1,4 +1,4 @@
-# Kerning and tracking — Use optical kerning
+# Kerning and tracking - Use optical kerning
 
 Put the text cursor between the characters to pair kern, or select the text to kern. In the Character panel or Control panel, choose Optical from the Kerning menu. Note
 

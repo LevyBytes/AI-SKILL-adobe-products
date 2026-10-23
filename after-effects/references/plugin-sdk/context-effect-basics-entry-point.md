@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: entry point
+# After Effects - C++ plugin SDK: entry point
 
-Open when working with entry point in After Effects — C++ plugin SDK.
+Open when working with entry point in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-basics-entry-point.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — PathItem
+# Shared Adobe platform - PathItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PathItem declaration in Shared Adobe platform. [PathItem declaration](declaration.md).

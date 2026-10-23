@@ -1,4 +1,4 @@
-# Formatting CJK characters — Adjust aki before and after characters
+# Formatting CJK characters - Adjust aki before and after characters
 
 With the type tool, select an opening parenthesis or closing parenthesis. In the Character panel, choose the aki amount from the Mojikumi Before Character pop‑up menu or Mojikumi After Character pop‑up menu.
 

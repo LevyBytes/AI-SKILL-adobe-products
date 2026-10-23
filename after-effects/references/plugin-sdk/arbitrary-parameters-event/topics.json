@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
   {"topic": "PF_ArbParamsExtra", "file": "references/plugin-sdk/arbitrary-parameters-event/pf-arb-params-extra.md", "summary": "Open when looking up PF_ArbParamsExtra in After Effects.", "keywords": ["PF_ArbParamsExtra"]},
-  {"topic": "PF_EventUnion — Arbitrary Parameters Event", "file": "references/plugin-sdk/arbitrary-parameters-event/pf-event-union-arbitrary-parameters-event.md", "summary": "Open when looking up PF_EventUnion — Arbitrary Parameters Event in After Effects.", "keywords": ["PF_EventUnion — Arbitrary Parameters Event"]},
+  {"topic": "PF_EventUnion - Arbitrary Parameters Event", "file": "references/plugin-sdk/arbitrary-parameters-event/pf-event-union-arbitrary-parameters-event.md", "summary": "Open when looking up PF_EventUnion - Arbitrary Parameters Event in After Effects.", "keywords": ["PF_EventUnion - Arbitrary Parameters Event"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

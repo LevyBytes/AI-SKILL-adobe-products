@@ -1,4 +1,4 @@
-# Firefly — Best practices for using channels
+# Firefly - Best practices for using channels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Channel assignment guidelines in Firefly. [Channel assignment guidelines](channel-assignment-guidelines.md).

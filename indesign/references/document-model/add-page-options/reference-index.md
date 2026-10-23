@@ -1,4 +1,4 @@
-# InDesign — AddPageOptions
+# InDesign - AddPageOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up END_OF_DOCUMENT in InDesign. [END_OF_DOCUMENT](endofdocument.md).

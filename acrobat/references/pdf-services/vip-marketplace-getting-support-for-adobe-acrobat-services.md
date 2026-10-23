@@ -1,4 +1,4 @@
-# VIP Marketplace — Getting support for Adobe Acrobat Services
+# VIP Marketplace - Getting support for Adobe Acrobat Services
 
 Use the procedure below to raise and track a support ticket by way of our Admin Console:
 

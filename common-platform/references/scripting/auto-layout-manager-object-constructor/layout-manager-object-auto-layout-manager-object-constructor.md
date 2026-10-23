@@ -1,4 +1,4 @@
-# LayoutManager object — AutoLayoutManager object constructor
+# LayoutManager object - AutoLayoutManager object constructor
 
 Instantiate AutoLayoutManager with new:
 

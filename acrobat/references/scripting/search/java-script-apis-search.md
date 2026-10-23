@@ -1,4 +1,4 @@
-# JavaScript APIs — search
+# JavaScript APIs - search
 
 A static object, search reaches the capabilities supplied by the Acrobat Search plug-in. That plug-in has to be present for the search object to do anything (refer to available).
 

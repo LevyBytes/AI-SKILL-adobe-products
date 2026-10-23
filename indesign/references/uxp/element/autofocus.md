@@ -1,3 +1,3 @@
-# window.Element — autofocus : `boolean`
+# window.Element - autofocus : `boolean`
 
 Controls whether the element receives focus automatically once loaded.

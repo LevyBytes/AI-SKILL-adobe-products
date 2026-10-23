@@ -1,4 +1,4 @@
-# InDesign — Reset document settings and preferences
+# InDesign - Reset document settings and preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Reset all preferences to factory defaults in InDesign. [Reset all preferences to factory defaults](reset-all-preferences-to-factory-defaults.md).

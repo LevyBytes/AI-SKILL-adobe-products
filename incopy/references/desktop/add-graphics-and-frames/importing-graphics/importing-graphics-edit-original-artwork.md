@@ -1,4 +1,4 @@
-# Importing graphics — Edit original artwork
+# Importing graphics - Edit original artwork
 
 Edit Original opens most graphics in the application used to create them, allowing you to make needed changes there. After the original file is saved, the document containing the link updates to the new version.
 

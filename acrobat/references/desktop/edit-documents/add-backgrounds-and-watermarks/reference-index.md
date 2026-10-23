@@ -1,4 +1,4 @@
-# Acrobat — Add backgrounds and watermarks
+# Acrobat - Add backgrounds and watermarks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add backgrounds to PDFs in Acrobat. [Add backgrounds to PDFs](add-backgrounds-to-pdfs.md).

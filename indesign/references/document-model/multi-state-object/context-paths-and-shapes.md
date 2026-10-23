@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: paths and shape operations
+# InDesign - MultiStateObject: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — MultiStateObject.
+Open when checking paths and shape operations in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

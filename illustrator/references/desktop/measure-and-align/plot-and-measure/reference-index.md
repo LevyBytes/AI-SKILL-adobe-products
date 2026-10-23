@@ -1,4 +1,4 @@
-# Illustrator — Plot and measure
+# Illustrator - Plot and measure
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Dimension objects in Illustrator. [About Dimension objects](about-dimension-objects.md).

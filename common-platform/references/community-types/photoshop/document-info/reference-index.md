@@ -1,4 +1,4 @@
-# Shared Adobe platform — DocumentInfo
+# Shared Adobe platform - DocumentInfo
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DocumentInfo declaration in Shared Adobe platform. [DocumentInfo declaration](declaration.md).

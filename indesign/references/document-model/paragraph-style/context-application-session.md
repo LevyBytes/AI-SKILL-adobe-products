@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: application session and account
+# InDesign - Paragraph style: application session and account
 
-Open when checking application session and account in InDesign — Paragraph style.
+Open when checking application session and account in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

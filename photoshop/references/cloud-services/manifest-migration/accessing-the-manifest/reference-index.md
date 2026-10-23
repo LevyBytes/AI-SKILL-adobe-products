@@ -1,4 +1,4 @@
-# Photoshop — Accessing the manifest
+# Photoshop - Accessing the manifest
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up With embedded storage in Photoshop. [With embedded storage](with-embedded-storage.md).

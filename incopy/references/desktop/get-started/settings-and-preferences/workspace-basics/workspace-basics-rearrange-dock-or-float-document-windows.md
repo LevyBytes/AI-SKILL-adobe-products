@@ -1,4 +1,4 @@
-# Workspace basics — Rearrange, dock, or float document windows
+# Workspace basics - Rearrange, dock, or float document windows
 
 When several files are open, Document windows appear as tabs.
 

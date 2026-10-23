@@ -1,4 +1,4 @@
-# Premiere Pro — Render and export
+# Premiere Pro - Render and export
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cloud rendering in Premiere Pro. [Cloud rendering references](cloud-rendering/reference-index.md).

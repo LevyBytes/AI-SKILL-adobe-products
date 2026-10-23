@@ -1,4 +1,4 @@
-# Illustrator — TracingOptions
+# Illustrator - TracingOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 

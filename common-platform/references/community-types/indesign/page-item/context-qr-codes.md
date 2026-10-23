@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: generate qr codes
+# Shared Adobe platform - PageItem: generate qr codes
 
-Open when checking generate qr codes in Shared Adobe platform — PageItem.
+Open when checking generate qr codes in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

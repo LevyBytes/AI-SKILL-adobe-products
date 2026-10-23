@@ -1,4 +1,4 @@
-# InDesign — UXP for Adobe InDesign
+# InDesign - UXP for Adobe InDesign
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Getting started in InDesign. [Getting started](getting-started.md).

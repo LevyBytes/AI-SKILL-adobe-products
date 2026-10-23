@@ -1,4 +1,4 @@
-# Adobe Code of Conduct — Enforcement
+# Adobe Code of Conduct - Enforcement
 
 Report abusive, harassing, or otherwise unacceptable behavior by contacting the project team at Grp-opensourceoffice@adobe.com. Every complaint will be investigated and reviewed, with a response chosen according to what the circumstances require. The project team must keep the reporter of an incident confidential. Additional enforcement-policy details may be published separately.
 

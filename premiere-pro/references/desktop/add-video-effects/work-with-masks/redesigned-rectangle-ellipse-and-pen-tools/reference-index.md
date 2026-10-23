@@ -1,4 +1,4 @@
-# Premiere Pro — Redesigned Rectangle, Ellipse, and Pen tools
+# Premiere Pro - Redesigned Rectangle, Ellipse, and Pen tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bounding Box Mode in Premiere Pro. [Bounding Box Mode](bounding-box-mode.md).

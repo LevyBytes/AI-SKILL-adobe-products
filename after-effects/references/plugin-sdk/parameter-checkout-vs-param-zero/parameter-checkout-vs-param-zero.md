@@ -1,4 +1,4 @@
-# Interaction Callback Functions — Parameter Checkout vs. Param Zero
+# Interaction Callback Functions - Parameter Checkout vs. Param Zero
 
 Within the Effect Control (and Composition) panel, effects run against an image in sequence, from 0 through n.
 

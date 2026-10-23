@@ -1,4 +1,4 @@
-# AEGP Suites — Managing Selections
+# AEGP Suites - Managing Selections
 
 Selection state is tracked through this suite, which leans on the same behaviour the C++ Standard Template Library's vectors provide.
 

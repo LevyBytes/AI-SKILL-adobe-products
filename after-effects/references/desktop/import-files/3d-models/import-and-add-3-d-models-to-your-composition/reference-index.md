@@ -1,4 +1,4 @@
-# After Effects — Import and add 3D models to your composition
+# After Effects - Import and add 3D models to your composition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add imported 3D model to a composition in After Effects. [Add imported 3D model to a composition](add-imported-3-d-model-to-a-composition.md).

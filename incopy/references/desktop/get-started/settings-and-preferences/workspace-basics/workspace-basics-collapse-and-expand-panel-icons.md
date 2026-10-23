@@ -1,4 +1,4 @@
-# Workspace basics — Collapse and expand panel icons
+# Workspace basics - Collapse and expand panel icons
 
 Panels can be reduced to icons to keep the workspace less crowded. Some default workspaces already show panels in icon form.
 

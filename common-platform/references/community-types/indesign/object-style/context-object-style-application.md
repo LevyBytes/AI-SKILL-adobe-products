@@ -1,6 +1,6 @@
-# Shared Adobe platform — ObjectStyle: object styles and enabled attributes
+# Shared Adobe platform - ObjectStyle: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in Shared Adobe platform — ObjectStyle.
+Open when checking object styles and enabled attributes in Shared Adobe platform - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

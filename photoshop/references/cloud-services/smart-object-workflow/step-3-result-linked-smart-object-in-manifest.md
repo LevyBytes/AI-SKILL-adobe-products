@@ -1,4 +1,4 @@
-# Step 3 — Result: linked smart object in manifest
+# Step 3 - Result: linked smart object in manifest
 
 Manifest JSON layer excerpt:
 

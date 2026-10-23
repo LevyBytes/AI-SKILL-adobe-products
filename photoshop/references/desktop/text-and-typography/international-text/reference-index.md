@@ -1,4 +1,4 @@
-# Photoshop — International text and languages
+# Photoshop - International text and languages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create documents using international languages, scripts, and text in Photoshop. [Create documents using international languages, scripts, and text](international-script-documents.md).

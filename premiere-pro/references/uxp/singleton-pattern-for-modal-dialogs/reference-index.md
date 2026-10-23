@@ -1,4 +1,4 @@
-# Premiere Pro — Singleton pattern for Modal Dialogs
+# Premiere Pro - Singleton pattern for Modal Dialogs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up #runRoutine() in Premiere Pro. [#runRoutine()](run-routine.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Relink media in Premiere
+# Premiere Pro - Relink media in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cross-platform relinking in Premiere Pro. [Cross-platform relinking](cross-platform-relinking.md).

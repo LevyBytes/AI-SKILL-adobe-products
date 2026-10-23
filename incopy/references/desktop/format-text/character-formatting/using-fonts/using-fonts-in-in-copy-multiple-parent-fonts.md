@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Multiple parent fonts
+# Using fonts in InCopy - Multiple parent fonts
 
 Multiple master fonts are customizable Type 1 fonts whose typeface characteristics are defined through variable design axes, including weight, width, style, and optical size.
 

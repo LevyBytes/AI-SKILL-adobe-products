@@ -1,6 +1,6 @@
-# InDesign — Sound: generate qr codes
+# InDesign - Sound: generate qr codes
 
-Open when checking generate qr codes in InDesign — Sound.
+Open when checking generate qr codes in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

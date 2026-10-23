@@ -1,4 +1,4 @@
-# Premiere Pro — Correct color using HSL Secondary Controls
+# Premiere Pro - Correct color using HSL Secondary Controls
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices in Premiere Pro. [Best practices](best-practices.md).

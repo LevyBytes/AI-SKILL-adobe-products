@@ -1,6 +1,6 @@
-# Acrobat — Doc: fields, calculations and form data
+# Acrobat - Doc: fields, calculations and form data
 
-Open when working with fields, calculations and form data in Acrobat — Doc.
+Open when working with fields, calculations and form data in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-forms.json).
 

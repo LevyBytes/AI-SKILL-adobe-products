@@ -1,4 +1,4 @@
-# Transforming graphics — Position tool overview
+# Transforming graphics - Position tool overview
 
 Click the Position tool in the toolbox when you need to adjust selected graphics directly, use it with a Transform command (Object > Transform) or a context-menu command, or nudge the graphic inside its frame with keyboard shortcuts.
 

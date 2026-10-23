@@ -1,4 +1,4 @@
-# Glyphs and special characters — Create and edit custom glyph sets
+# Glyphs and special characters - Create and edit custom glyph sets
 
 A glyph set is a named group of glyphs drawn from one font or several fonts. Keeping frequently needed glyphs in a glyph set means you do not have to search for them before each use. Glyph sets are stored outside individual documents; they live in a separate file with other InDesign preferences and can be shared.
 

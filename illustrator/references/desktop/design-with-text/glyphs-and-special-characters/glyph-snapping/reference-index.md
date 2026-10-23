@@ -1,4 +1,4 @@
-# Illustrator — Snap glyph to angles, anchor points, or text area
+# Illustrator - Snap glyph to angles, anchor points, or text area
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Draw and snap to anchor points on a glyph in Illustrator. [Draw and snap to anchor points on a glyph](draw-and-snap-to-anchor-points-on-a-glyph.md).

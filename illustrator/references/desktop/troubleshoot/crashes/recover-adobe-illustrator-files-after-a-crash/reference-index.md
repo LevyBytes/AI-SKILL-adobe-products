@@ -1,4 +1,4 @@
-# Illustrator — Recover Adobe Illustrator files after a crash
+# Illustrator - Recover Adobe Illustrator files after a crash
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up macOS in Illustrator. [macOS](mac-os.md).

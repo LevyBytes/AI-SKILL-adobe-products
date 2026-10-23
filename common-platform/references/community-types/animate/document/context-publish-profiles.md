@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: publish profiles and settings
+# Shared Adobe platform - Document: publish profiles and settings
 
-Open when working with publish profiles and settings in Shared Adobe platform — Document.
+Open when working with publish profiles and settings in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-publish-profiles.json).
 

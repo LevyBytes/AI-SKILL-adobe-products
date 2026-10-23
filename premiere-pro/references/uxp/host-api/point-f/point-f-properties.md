@@ -1,4 +1,4 @@
-# PointF — Properties
+# PointF - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

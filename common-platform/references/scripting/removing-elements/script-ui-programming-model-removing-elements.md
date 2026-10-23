@@ -1,4 +1,4 @@
-# ScriptUI programming model — Removing elements
+# ScriptUI programming model - Removing elements
 
 Use the container's remove method to remove elements from a Window, Panel, or Group. The argument can be the element object, the element name, or the element's index in the container's children collection; see Accessing child elements.
 

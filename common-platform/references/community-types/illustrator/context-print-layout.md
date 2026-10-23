@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: print placement, bounds, marks and tiling
+# Shared Adobe platform - Illustrator: print placement, bounds, marks and tiling
 
-Open when working with print placement, bounds, marks and tiling in Shared Adobe platform — Illustrator.
+Open when working with print placement, bounds, marks and tiling in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-print-layout.json).
 

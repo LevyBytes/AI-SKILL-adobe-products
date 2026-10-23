@@ -1,4 +1,4 @@
-# InDesign — Restart or continue numbered lists
+# InDesign - Restart or continue numbered lists
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Continue numbered list in InDesign. [Continue numbered list](continue-numbered-list.md).

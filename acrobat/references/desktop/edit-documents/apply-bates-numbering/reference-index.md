@@ -1,4 +1,4 @@
-# Acrobat — Apply bates numbering
+# Acrobat - Apply bates numbering
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Bates numbering in Acrobat Pro in Acrobat. [Add Bates numbering in Acrobat Pro](add-bates-numbering-in-acrobat-pro.md).

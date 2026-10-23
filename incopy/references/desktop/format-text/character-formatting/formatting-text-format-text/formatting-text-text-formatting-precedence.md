@@ -1,4 +1,4 @@
-# Formatting text — Text formatting precedence
+# Formatting text - Text formatting precedence
 
 Several routes can apply attributes such as font style and text direction to text, including the Control panel, frame grid options, named grids, and text styles. When multiple methods set conflicting attributes, InDesign resolves the conflict by precedence. The priority order is:
 

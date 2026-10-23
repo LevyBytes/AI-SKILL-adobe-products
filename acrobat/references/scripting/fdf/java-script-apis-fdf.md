@@ -1,4 +1,4 @@
-# JavaScript APIs — FDF
+# JavaScript APIs - FDF
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

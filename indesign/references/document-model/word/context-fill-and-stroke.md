@@ -1,6 +1,6 @@
-# InDesign — Word: fill, stroke and transparency
+# InDesign - Word: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Word.
+Open when checking fill, stroke and transparency in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

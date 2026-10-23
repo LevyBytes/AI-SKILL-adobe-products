@@ -1,4 +1,4 @@
-# Firefly — Panels in Firefly video editor
+# Firefly - Panels in Firefly video editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate media panel in Firefly. [Generate media panel](generate-media-panel.md).

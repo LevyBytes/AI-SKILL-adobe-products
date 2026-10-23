@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Errors — Error Codes", "file": "references/plugin-sdk/error-codes/errors-error-codes.md", "summary": "Open when looking up Errors — Error Codes in After Effects.", "keywords": ["Errors — Error Codes"]},
+  {"topic": "Errors - Error Codes", "file": "references/plugin-sdk/error-codes/errors-error-codes.md", "summary": "Open when looking up Errors - Error Codes in After Effects.", "keywords": ["Errors - Error Codes"]},
   {"topic": "PF_Err_BAD_CALLBACK_PARAM", "file": "references/plugin-sdk/error-codes/pf-err-badcallbackparam.md", "summary": "Open when looking up PF_Err_BAD_CALLBACK_PARAM in After Effects.", "keywords": ["PF_Err_BAD_CALLBACK_PARAM"]},
   {"topic": "PF_Err_CANNOT_PARSE_KEYFRAME_TEXT", "file": "references/plugin-sdk/error-codes/pf-err-cannotparsekeyframetext.md", "summary": "Open when looking up PF_Err_CANNOT_PARSE_KEYFRAME_TEXT in After Effects.", "keywords": ["PF_Err_CANNOT_PARSE_KEYFRAME_TEXT"]},
   {"topic": "PF_Err_INTERNAL_STRUCT_DAMAGED", "file": "references/plugin-sdk/error-codes/pf-err-internalstructdamaged.md", "summary": "Open when looking up PF_Err_INTERNAL_STRUCT_DAMAGED in After Effects.", "keywords": ["PF_Err_INTERNAL_STRUCT_DAMAGED"]},

@@ -1,6 +1,6 @@
-# InDesign — PICT: workspace, windows and menus
+# InDesign - PICT: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — PICT.
+Open when checking workspace, windows and menus in InDesign - PICT.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

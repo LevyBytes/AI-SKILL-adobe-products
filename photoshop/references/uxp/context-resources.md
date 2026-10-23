@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: guides, samples and cross-topic questions
+# Photoshop - UXP plugins and APIs: guides, samples and cross-topic questions
 
-Open when working with guides, samples and cross-topic questions in Photoshop — UXP plugins and APIs.
+Open when working with guides, samples and cross-topic questions in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-resources.json).
 

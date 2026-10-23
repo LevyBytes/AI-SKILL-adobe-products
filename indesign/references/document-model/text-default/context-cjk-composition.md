@@ -1,6 +1,6 @@
-# InDesign — Text default: cjk grids and composition
+# InDesign - Text default: cjk grids and composition
 
-Open when checking cjk grids and composition in InDesign — Text default.
+Open when checking cjk grids and composition in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

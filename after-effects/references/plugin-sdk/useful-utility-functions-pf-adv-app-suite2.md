@@ -1,4 +1,4 @@
-# Useful Utility Functions — `PF_AdvAppSuite2`
+# Useful Utility Functions`PF_AdvAppSuite2`
 
 Function
 

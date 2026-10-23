@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Preprocessor directives — #targetengine enginename", "file": "references/scripting/targetengine-enginename/preprocessor-directives-targetengine-enginename.md", "summary": "Open when looking up Preprocessor directives — #targetengine enginename in Shared Adobe platform.", "keywords": ["Preprocessor directives — #targetengine enginename"]},
+  {"topic": "Preprocessor directives - #targetengine enginename", "file": "references/scripting/targetengine-enginename/preprocessor-directives-targetengine-enginename.md", "summary": "Open when looking up Preprocessor directives - #targetengine enginename in Shared Adobe platform.", "keywords": ["Preprocessor directives - #targetengine enginename"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# Install a UXP plugin — Uninstall a Plugin
+# Install a UXP plugin - Uninstall a Plugin
 
 In the Creative Cloud Desktop application, open the "Manage Plugins" tab; on a plugin card, right-click the **•••** icon and choose **Uninstall** to remove it. You can also choose **Disable**, which removes the plugin from the host application while leaving it installed in the Creative Cloud Desktop application. Either action shows a confirmation dialog.
 

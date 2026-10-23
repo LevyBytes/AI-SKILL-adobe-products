@@ -10,7 +10,7 @@ Whole-number repeat values are all that many players accept, though a few permit
 
 The default value is 1.
 
-Example — loop a clip endlessly straight out of a Rendition action.
+Example: loop a clip endlessly straight out of a Rendition action.
 
 ```javascript
 var player = app.media.openPlayer({settings: { repeat: Infinity } });

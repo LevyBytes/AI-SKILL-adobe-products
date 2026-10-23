@@ -1,6 +1,6 @@
-# InDesign — Oval: image fitting, cropping and resolution
+# InDesign - Oval: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in InDesign — Oval.
+Open when checking image fitting, cropping and resolution in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

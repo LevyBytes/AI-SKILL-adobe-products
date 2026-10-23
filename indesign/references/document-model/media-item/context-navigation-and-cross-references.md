@@ -1,6 +1,6 @@
-# InDesign — MediaItem: hyperlinks, indexes and cross-references
+# InDesign - MediaItem: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — MediaItem.
+Open when checking hyperlinks, indexes and cross-references in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

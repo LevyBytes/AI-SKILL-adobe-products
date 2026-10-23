@@ -1,6 +1,6 @@
-# InDesign — TextBox: layers, stacking and master overrides
+# InDesign - TextBox: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — TextBox.
+Open when checking layers, stacking and master overrides in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

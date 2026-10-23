@@ -1,6 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [combine-pdf-with-page-ranges.cjs](../examples/node/combine-pdf-with-page-ranges/combine-pdf-with-page-ranges.cjs)
-- [dependencies.cjs](../examples/node/combine-pdf-with-page-ranges/dependencies.cjs)
-- [helpers.cjs](../examples/node/combine-pdf-with-page-ranges/helpers.cjs)
+- [combine-pdf-with-page-ranges setup and source](../examples/node/combine-pdf-with-page-ranges/combine-pdf-with-page-ranges-setup.md)

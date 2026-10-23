@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [linearize-pdf.cjs](../examples/node/linearize-pdf/linearize-pdf.cjs)
+- [linearize-pdf setup and source](../examples/node/linearize-pdf/linearize-pdf-setup.md)

@@ -4,7 +4,7 @@
   {"topic": "getField", "file": "references/scripting/collection/get-field.md", "summary": "Open when looking up getField in Acrobat.", "keywords": ["getField"]},
   {"topic": "initialDoc", "file": "references/scripting/collection/initial-doc.md", "summary": "Open when looking up initialDoc in Acrobat.", "keywords": ["initialDoc"]},
   {"topic": "initialView", "file": "references/scripting/collection/initial-view.md", "summary": "Open when looking up initialView in Acrobat.", "keywords": ["initialView"]},
-  {"topic": "JavaScript APIs — Collection", "file": "references/scripting/collection/java-script-apis-collection.md", "summary": "Open when looking up JavaScript APIs — Collection in Acrobat.", "keywords": ["JavaScript APIs — Collection"]},
+  {"topic": "JavaScript APIs - Collection", "file": "references/scripting/collection/java-script-apis-collection.md", "summary": "Open when looking up JavaScript APIs - Collection in Acrobat.", "keywords": ["JavaScript APIs - Collection"]},
   {"topic": "removeField", "file": "references/scripting/collection/remove-field.md", "summary": "Open when looking up removeField in Acrobat.", "keywords": ["removeField"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

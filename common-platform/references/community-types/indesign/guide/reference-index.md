@@ -1,4 +1,4 @@
-# Shared Adobe platform — Guide
+# Shared Adobe platform - Guide
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Guide declaration in Shared Adobe platform. [Guide declaration](declaration.md).

@@ -1,4 +1,4 @@
-# InDesign — Create multiple versions of an object
+# InDesign - Create multiple versions of an object
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add navigation controls in InDesign. [Add navigation controls](add-navigation-controls.md).

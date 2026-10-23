@@ -1,6 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "dialog-layout.js", "file": "references/scripting/examples/trusted-author-dialog/dialog-layout.js", "summary": "Open when looking up dialog-layout.js in Acrobat.", "keywords": ["dialog-layout.js"]},
   {"topic": "Trusted author dialog setup", "file": "references/scripting/examples/trusted-author-dialog/setup.md", "summary": "Open when looking up Trusted author dialog setup in Acrobat.", "keywords": ["Trusted author dialog setup"]},
-  {"topic": "trusted-dialog.js", "file": "references/scripting/examples/trusted-author-dialog/trusted-dialog.js", "summary": "Open when looking up trusted-dialog.js in Acrobat.", "keywords": ["trusted-dialog.js"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

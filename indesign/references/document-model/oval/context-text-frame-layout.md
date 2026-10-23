@@ -1,6 +1,6 @@
-# InDesign — Oval: text frame columns and autosizing
+# InDesign - Oval: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — Oval.
+Open when checking text frame columns and autosizing in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

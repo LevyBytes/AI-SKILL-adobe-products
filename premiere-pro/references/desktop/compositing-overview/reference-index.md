@@ -1,4 +1,4 @@
-# Premiere Pro — Compositing overview
+# Premiere Pro - Compositing overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How compositing works in Premiere in Premiere Pro. [How compositing works in Premiere](how-compositing-works-in-premiere.md).

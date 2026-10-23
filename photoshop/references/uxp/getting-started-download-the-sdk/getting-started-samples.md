@@ -1,4 +1,4 @@
-# Getting started — Samples
+# Getting started - Samples
 
 Use the SDK's ready-to-use `template-plugin` to try a quick 'Hello world!'. Load it through UDT, then look for it in the Plugins menu.
 

@@ -1,4 +1,4 @@
-# Premiere Pro — Tips for authoring Motion Graphics templates
+# Premiere Pro - Tips for authoring Motion Graphics templates
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add keywords so the editors can easily search for the MOGRTs in Premiere Pro. [Add keywords so the editors can easily search for the MOGRTs](motion-template-search-keywords.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — CommentTypeEnum
+# Shared Adobe platform - CommentTypeEnum
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CommentTypeEnum declaration in Shared Adobe platform. [CommentTypeEnum declaration](declaration.md).

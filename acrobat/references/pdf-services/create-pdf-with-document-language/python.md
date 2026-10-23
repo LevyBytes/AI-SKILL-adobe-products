@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [create-pdf-from-docx-with-options.py](../examples/python/create-pdf-from-docx-with-options/create-pdf-from-docx-with-options.py)
+- [create-pdf-from-docx-with-options setup and source](../examples/python/create-pdf-from-docx-with-options/create-pdf-from-docx-with-options-setup.md)

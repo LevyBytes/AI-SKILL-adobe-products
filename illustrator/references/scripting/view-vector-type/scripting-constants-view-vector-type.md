@@ -1,4 +1,4 @@
-# Scripting Constants — ViewVectorType
+# Scripting Constants - ViewVectorType
 
 Vector display choice used while viewing tracing results.
 

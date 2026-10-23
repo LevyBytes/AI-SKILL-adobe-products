@@ -1,4 +1,4 @@
-# Doc and Doc.Media APIs — Doc
+# Doc and Doc.Media APIs - Doc
 
 This object is what links a PDF open in the viewer to the JavaScript interpreter, exposing methods and properties for reaching into the PDF document.
 

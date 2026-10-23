@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: printing, paper and imposition
+# InDesign - InDesign document object model: printing, paper and imposition
 
-Open when working with printing, paper and imposition in InDesign — InDesign document object model.
+Open when working with printing, paper and imposition in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-printing.json).
 

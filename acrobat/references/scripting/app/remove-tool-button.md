@@ -16,7 +16,7 @@ Should a document be the active one at the time its toolbutton is added, closing
 
 Parameters
 
-Parameter — Description
+Parameter: Description
 
 cName
 

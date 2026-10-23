@@ -1,4 +1,4 @@
-# After Effects — Work in 3 d design space
+# After Effects - Work in 3 d design space
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Transform Gizmos in After Effects. [3D Transform Gizmos](3-d-transform-gizmos.md).

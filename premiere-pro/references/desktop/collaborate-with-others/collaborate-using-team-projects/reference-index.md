@@ -1,4 +1,4 @@
-# Premiere Pro — Collaborate using Team Projects
+# Premiere Pro - Collaborate using Team Projects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Team Projects in Premiere Pro. [About Team Projects](about-team-projects.md).

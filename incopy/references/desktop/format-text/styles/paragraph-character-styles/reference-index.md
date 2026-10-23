@@ -1,4 +1,4 @@
-# InCopy — Paragraph Character Styles
+# InCopy - Paragraph Character Styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add paragraph and character styles in InCopy. [Add paragraph and character styles](add-paragraph-and-character-styles.md).

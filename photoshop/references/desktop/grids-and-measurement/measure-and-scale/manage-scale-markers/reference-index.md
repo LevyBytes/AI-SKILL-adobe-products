@@ -1,4 +1,4 @@
-# Photoshop — Manage scale markers
+# Photoshop - Manage scale markers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or replace scale markers in Photoshop. [Add or replace scale markers](add-or-replace-scale-markers.md).

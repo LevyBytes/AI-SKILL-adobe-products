@@ -1,7 +1,7 @@
-# After Effects — Parameter flags
+# After Effects - Parameter flags
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up PF_ParamDef — Parameter Flags in After Effects. [PF_ParamDef — Parameter Flags](pf-param-def-parameter-flags.md).
+- Open when looking up PF_ParamDef - Parameter Flags in After Effects. [PF_ParamDef - Parameter Flags](pf-param-def-parameter-flags.md).
 - Open when looking up PF_ParamFlag_CANNOT_INTERP in After Effects. [PF_ParamFlag_CANNOT_INTERP](pf-param-flag-cannotinterp.md).
 - Open when looking up PF_ParamFlag_CANNOT_TIME_VARY in After Effects. [PF_ParamFlag_CANNOT_TIME_VARY](pf-param-flag-cannottimevary.md).
 - Open when looking up PF_ParamFlag_COLLAPSE_TWIRLY in After Effects. [PF_ParamFlag_COLLAPSE_TWIRLY](pf-param-flag-collapsetwirly.md).

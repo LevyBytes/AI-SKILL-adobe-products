@@ -1,6 +1,6 @@
-# InDesign — Change transliterate preference: fill, stroke and transparency
+# InDesign - Change transliterate preference: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Change transliterate preference.
+Open when checking fill, stroke and transparency in InDesign - Change transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

@@ -1,4 +1,4 @@
-# Configuring the Toolkit window — Dialogs
+# Configuring the Toolkit window - Dialogs
 
 Some dialogs include the option "Don't show again". Selecting it makes the Toolkit remember the choices from that dialog and reuse them the next time, without displaying the dialog.
 

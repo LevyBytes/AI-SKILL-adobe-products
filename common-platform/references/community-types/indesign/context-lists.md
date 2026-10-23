@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: bullets and numbered lists
+# Shared Adobe platform - Indesign: bullets and numbered lists
 
-Open when working with bullets and numbered lists in Shared Adobe platform — Indesign.
+Open when working with bullets and numbered lists in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-lists.json).
 

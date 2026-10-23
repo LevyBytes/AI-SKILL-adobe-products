@@ -1,4 +1,4 @@
-# Bullets and numbering — Number a list from the previous or current story
+# Bullets and numbering - Number a list from the previous or current story
 
 The list definition determines whether numbering resumes from the previous story or begins again in the current story.
 

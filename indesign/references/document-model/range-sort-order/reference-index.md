@@ -1,4 +1,4 @@
-# InDesign — RangeSortOrder
+# InDesign - RangeSortOrder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ASCENDING_SORT in InDesign. [ASCENDING_SORT](ascendingsort.md).

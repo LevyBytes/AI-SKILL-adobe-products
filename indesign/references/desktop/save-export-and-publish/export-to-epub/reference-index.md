@@ -1,4 +1,4 @@
-# InDesign — Export to epub
+# InDesign - Export to epub
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessibility enhancements for indexes in InDesign. [Accessibility enhancements for indexes](accessibility-enhancements-for-indexes.md).

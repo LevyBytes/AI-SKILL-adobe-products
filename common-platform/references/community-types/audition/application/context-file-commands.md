@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: file and session lifecycle
+# Shared Adobe platform - Application: file and session lifecycle
 
-Open when working with file and session lifecycle in Shared Adobe platform — Application.
+Open when working with file and session lifecycle in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-file-commands.json).
 

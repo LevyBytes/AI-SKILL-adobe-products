@@ -1,4 +1,4 @@
-# Shared Adobe platform — PathPoint
+# Shared Adobe platform - PathPoint
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PathPoint declaration in Shared Adobe platform. [PathPoint declaration](declaration.md).

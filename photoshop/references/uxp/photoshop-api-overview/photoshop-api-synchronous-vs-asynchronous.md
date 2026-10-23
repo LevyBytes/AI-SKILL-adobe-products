@@ -1,4 +1,4 @@
-# Photoshop API — Synchronous vs Asynchronous
+# Photoshop API - Synchronous vs Asynchronous
 
 In Photoshop, ExtendScript and CEP differ from UXP in one key way: calls made through ExtendScript were synchronous. While they ran, Photoshop UI interaction was blocked. With UXP, method calls are _asynchronous_ and leave the UI thread unblocked.
 

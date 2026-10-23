@@ -1,6 +1,6 @@
-# InDesign — CharacterStyle: warichu inline text
+# InDesign - CharacterStyle: warichu inline text
 
-Open when checking warichu inline text in InDesign — CharacterStyle.
+Open when checking warichu inline text in InDesign - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

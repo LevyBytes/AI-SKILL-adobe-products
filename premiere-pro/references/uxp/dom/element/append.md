@@ -1,4 +1,4 @@
-# window.Element — append(...nodes)
+# window.Element - append(...nodes)
 
 Adds Node objects or string objects to the Element after its current final child.
 

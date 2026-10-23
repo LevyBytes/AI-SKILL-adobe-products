@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: new kids on the function block
+# After Effects - C++ plugin SDK: new kids on the function block
 
-Open when working with new kids on the function block in After Effects — C++ plugin SDK.
+Open when working with new kids on the function block in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aeios-new-kids-on-the-function-block.json).
 

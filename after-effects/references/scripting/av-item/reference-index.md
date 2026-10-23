@@ -1,4 +1,4 @@
-# After Effects — Av item
+# After Effects - Av item
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AVItem object in After Effects. [AVItem object](av-item-object.md).

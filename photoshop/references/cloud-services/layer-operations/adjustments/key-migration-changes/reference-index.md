@@ -1,4 +1,4 @@
-# Photoshop — Key migration changes
+# Photoshop - Key migration changes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Layer Type Name in Photoshop. [1. Layer Type Name](layer-type-name.md).

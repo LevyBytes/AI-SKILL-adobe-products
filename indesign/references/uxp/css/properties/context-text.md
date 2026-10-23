@@ -1,6 +1,6 @@
-# InDesign — Properties: fonts and text layout
+# InDesign - Properties: fonts and text layout
 
-Open when working with fonts and text layout in InDesign — Properties.
+Open when working with fonts and text layout in InDesign - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-text.json).
 

@@ -1,4 +1,4 @@
-# Illustrator — TextPath
+# Illustrator - TextPath
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextPath.area in Illustrator. [TextPath.area](area.md).

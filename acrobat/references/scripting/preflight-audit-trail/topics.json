@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "Preflight APIs — PreflightAuditTrail", "file": "references/scripting/preflight-audit-trail/preflight-apis-preflight-audit-trail.md", "summary": "Open when looking up Preflight APIs — PreflightAuditTrail in Acrobat.", "keywords": ["Preflight APIs — PreflightAuditTrail"]},
+  {"topic": "Preflight APIs - PreflightAuditTrail", "file": "references/scripting/preflight-audit-trail/preflight-apis-preflight-audit-trail.md", "summary": "Open when looking up Preflight APIs - PreflightAuditTrail in Acrobat.", "keywords": ["Preflight APIs - PreflightAuditTrail"]},
   {"topic": "preflight_executed_date", "file": "references/scripting/preflight-audit-trail/preflightexecuteddate.md", "summary": "Open when looking up preflight_executed_date in Acrobat.", "keywords": ["preflight_executed_date"]},
   {"topic": "preflight_results", "file": "references/scripting/preflight-audit-trail/preflightresults.md", "summary": "Open when looking up preflight_results in Acrobat.", "keywords": ["preflight_results"]},
   {"topic": "preflight_results_description", "file": "references/scripting/preflight-audit-trail/preflightresultsdescription.md", "summary": "Open when looking up preflight_results_description in Acrobat.", "keywords": ["preflight_results_description"]},

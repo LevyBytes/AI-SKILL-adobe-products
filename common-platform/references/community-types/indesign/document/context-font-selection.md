@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: fonts and character forms
+# Shared Adobe platform - Document: fonts and character forms
 
-Open when checking fonts and character forms in Shared Adobe platform — Document.
+Open when checking fonts and character forms in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

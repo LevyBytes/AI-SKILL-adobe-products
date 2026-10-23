@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — OutputFlattening", "file": "references/scripting/output-flattening/scripting-constants-output-flattening.md", "summary": "Open when looking up Scripting Constants — OutputFlattening in Illustrator.", "keywords": ["Scripting Constants — OutputFlattening"]},
+  {"topic": "Scripting Constants - OutputFlattening", "file": "references/scripting/output-flattening/scripting-constants-output-flattening.md", "summary": "Open when looking up Scripting Constants - OutputFlattening in Illustrator.", "keywords": ["Scripting Constants - OutputFlattening"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# Acrobat — Embed modes
+# Acrobat - Embed modes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Focus on PDF rendering in Acrobat. [Focus on PDF rendering](focus-on-pdf-rendering.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — MovieBehaviors
+# Shared Adobe platform - MovieBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MovieBehaviors collection iteration in Shared Adobe platform. [MovieBehaviors collection iteration](collection-iteration.md).

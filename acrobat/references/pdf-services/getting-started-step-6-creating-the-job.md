@@ -1,4 +1,4 @@
-# Getting Started — Step 6 : Creating the job
+# Getting Started - Step 6 : Creating the job
 
 Build the job for the operation by passing the `assetID` you got in Step 5 inside the API request body. A successful submission returns the `201` status code plus a `location` response header, which you then use for polling.
 

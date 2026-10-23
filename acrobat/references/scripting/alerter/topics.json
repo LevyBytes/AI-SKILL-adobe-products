@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "dispatch", "file": "references/scripting/alerter/dispatch.md", "summary": "Open when looking up dispatch in Acrobat.", "keywords": ["dispatch"]},
-  {"topic": "JavaScript APIs — Alerter", "file": "references/scripting/alerter/java-script-apis-alerter.md", "summary": "Open when looking up JavaScript APIs — Alerter in Acrobat.", "keywords": ["JavaScript APIs — Alerter"]},
+  {"topic": "JavaScript APIs - Alerter", "file": "references/scripting/alerter/java-script-apis-alerter.md", "summary": "Open when looking up JavaScript APIs - Alerter in Acrobat.", "keywords": ["JavaScript APIs - Alerter"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

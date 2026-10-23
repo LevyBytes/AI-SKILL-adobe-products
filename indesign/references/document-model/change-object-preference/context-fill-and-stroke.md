@@ -1,6 +1,6 @@
-# InDesign — ChangeObjectPreference: fill, stroke and transparency
+# InDesign - ChangeObjectPreference: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — ChangeObjectPreference.
+Open when checking fill, stroke and transparency in InDesign - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

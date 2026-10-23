@@ -1,6 +1,6 @@
-# InDesign — Sound: place and link external assets
+# InDesign - Sound: place and link external assets
 
-Open when checking place and link external assets in InDesign — Sound.
+Open when checking place and link external assets in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

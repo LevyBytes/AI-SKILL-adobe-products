@@ -1,4 +1,4 @@
-# Acrobat — Explore generative AI in Acrobat
+# Acrobat - Explore generative AI in Acrobat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Meet and collaborate in Acrobat. [Meet and collaborate](meet-and-collaborate.md).

@@ -1,6 +1,6 @@
-# InDesign — SplineItem: events and listeners
+# InDesign - SplineItem: events and listeners
 
-Open when checking events and listeners in InDesign — SplineItem.
+Open when checking events and listeners in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

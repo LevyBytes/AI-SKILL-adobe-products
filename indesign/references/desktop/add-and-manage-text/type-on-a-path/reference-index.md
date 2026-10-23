@@ -1,4 +1,4 @@
-# InDesign — Type on a path
+# InDesign - Type on a path
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or delete type on path in InDesign. [Add or delete type on path](add-or-delete-type-on-path.md).

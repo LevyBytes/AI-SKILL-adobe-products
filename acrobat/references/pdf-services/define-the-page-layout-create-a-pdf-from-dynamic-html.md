@@ -1,4 +1,4 @@
-# Define the page layout — Create a PDF from dynamic HTML
+# Define the page layout - Create a PDF from dynamic HTML
 
 For workflows driven by changing data, `DynamicHTMLToPDF` builds PDFs out of dynamic HTML. Enterprises frequently hand their end users an HTML template containing form fields; this API captures whatever unique values those users type and then persists the result as a PDF. The gathered entries live in a JSON file, and the originating HTML must reference `<script src='./json.js' type='text/javascript'></script>`. See the API docs for how this is used.
 

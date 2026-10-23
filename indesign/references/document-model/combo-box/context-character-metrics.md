@@ -1,6 +1,6 @@
-# InDesign — Combo box: character spacing and geometry
+# InDesign - Combo box: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Combo box.
+Open when checking character spacing and geometry in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

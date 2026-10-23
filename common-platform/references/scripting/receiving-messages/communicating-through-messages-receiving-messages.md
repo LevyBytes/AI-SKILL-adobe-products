@@ -1,4 +1,4 @@
-# Communicating through messages — Receiving messages
+# Communicating through messages - Receiving messages
 
 An application may act as a message target, meaning it can receive an unsolicited message from some other application. The target application's static BridgeTalk.onReceive callback function handles that unsolicited message. See Handling unsolicited messages.
 

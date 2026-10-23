@@ -1,4 +1,4 @@
-# InCopy — Formatting Paragraphs
+# InCopy - Formatting Paragraphs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a rule above or below a paragraph in InCopy. [Add a rule above or below a paragraph](add-a-rule-above-or-below-a-paragraph.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTransliteratePreference: ruby annotations
+# Shared Adobe platform - ChangeTransliteratePreference: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — ChangeTransliteratePreference.
+Open when checking ruby annotations in Shared Adobe platform - ChangeTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

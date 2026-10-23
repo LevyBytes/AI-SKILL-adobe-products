@@ -1,4 +1,4 @@
-# window.Element — setAttribute(name, value)
+# window.Element - setAttribute(name, value)
 
 **See**: [https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute](https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute)
 

@@ -1,4 +1,4 @@
-# InDesign — Set indents
+# InDesign - Set indents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a hanging indent in InDesign. [Create a hanging indent](create-a-hanging-indent.md).

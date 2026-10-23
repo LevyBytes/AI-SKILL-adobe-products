@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: open document types and import options
+# Shared Adobe platform - Photoshop: open document types and import options
 
-Open when working with open document types and import options in Shared Adobe platform — Photoshop.
+Open when working with open document types and import options in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-open-import.json).
 

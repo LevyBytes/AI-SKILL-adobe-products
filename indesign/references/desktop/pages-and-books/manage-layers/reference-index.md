@@ -1,4 +1,4 @@
-# InDesign — Manage layers
+# InDesign - Manage layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About layers in InDesign. [About layers](about-layers.md).

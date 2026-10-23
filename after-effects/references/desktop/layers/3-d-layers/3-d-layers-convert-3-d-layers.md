@@ -1,3 +1,3 @@
-# 3D layers — Convert 3D layers
+# 3D layers - Convert 3D layers
 
 Convert a layer to 3D and a depth (z) value joins its Position, Anchor Point, and Scale properties, while the layer takes on Orientation, Y Rotation, X Rotation, Geometry Options, and Material Options properties. What was the lone Rotation property becomes Z Rotation. Convert that 3D layer back to 2D and these properties drop away — values, keyframes, and expressions and all — with no way to bring them back by reconverting to 3D. The Anchor Point, Position, and Scale properties stick around together with their keyframes and expressions, though their z values are hidden and disregarded.

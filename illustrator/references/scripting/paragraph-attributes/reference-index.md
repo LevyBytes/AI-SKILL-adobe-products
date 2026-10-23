@@ -1,4 +1,4 @@
-# Illustrator — ParagraphAttributes
+# Illustrator - ParagraphAttributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParagraphAttributes.autoLeadingAmount in Illustrator. [ParagraphAttributes.autoLeadingAmount](auto-leading-amount.md).

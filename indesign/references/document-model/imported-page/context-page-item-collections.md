@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: page item collections
+# InDesign - ImportedPage: page item collections
 
-Open when checking page item collections in InDesign — ImportedPage.
+Open when checking page item collections in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

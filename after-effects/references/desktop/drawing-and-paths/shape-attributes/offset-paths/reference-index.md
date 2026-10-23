@@ -1,4 +1,4 @@
-# After Effects — Use Offset Paths shape effect to alter shapes
+# After Effects - Use Offset Paths shape effect to alter shapes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Controls in After Effects. [Controls](controls.md).

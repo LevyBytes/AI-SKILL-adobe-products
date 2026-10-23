@@ -1,4 +1,4 @@
-# InDesign — Toolbox
+# InDesign - Toolbox
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the toolbox layout in InDesign. [Change the toolbox layout](change-the-toolbox-layout.md).

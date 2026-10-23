@@ -1,4 +1,4 @@
-# Premiere Pro — Customization options for the project panel
+# Premiere Pro - Customization options for the project panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Freeform View in Premiere Pro. [Freeform View](freeform-view.md).

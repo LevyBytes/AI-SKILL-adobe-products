@@ -1,4 +1,4 @@
-# Photoshop — Document
+# Photoshop - Document
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up calculations in Photoshop. [calculations](calculations.md).

@@ -1,6 +1,6 @@
-# InDesign — Story: writing direction and diacritics
+# InDesign - Story: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — Story.
+Open when checking writing direction and diacritics in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

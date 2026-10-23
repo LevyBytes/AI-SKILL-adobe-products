@@ -1,4 +1,4 @@
-# Samples — Create a new layer
+# Samples - Create a new layer
 
 Through the Photoshop DOM API, a script can create a new layer: 
 

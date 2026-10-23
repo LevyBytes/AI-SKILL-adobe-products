@@ -1,4 +1,4 @@
-# Acrobat — Print params
+# Acrobat - Print params
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up binaryOK in Acrobat. [binaryOK](binary-ok.md).
@@ -14,7 +14,7 @@
 - Open when looking up fontPolicy in Acrobat. [fontPolicy](font-policy.md).
 - Open when looking up gradientDPI in Acrobat. [gradientDPI](gradient-dpi.md).
 - Open when looking up interactive in Acrobat. [interactive](interactive.md).
-- Open when looking up JavaScript APIs — PrintParams in Acrobat. [JavaScript APIs — PrintParams](java-script-apis-print-params.md).
+- Open when looking up JavaScript APIs - PrintParams in Acrobat. [JavaScript APIs - PrintParams](java-script-apis-print-params.md).
 - Open when looking up lastPage in Acrobat. [lastPage](last-page.md).
 - Open when looking up NumCopies in Acrobat. [NumCopies](num-copies.md).
 - Open when looking up nUpAutoRotate in Acrobat. [nUpAutoRotate](n-up-auto-rotate.md).

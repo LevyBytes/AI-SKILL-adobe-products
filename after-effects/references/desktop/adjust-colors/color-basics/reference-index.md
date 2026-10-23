@@ -1,4 +1,4 @@
-# After Effects — Color basics
+# After Effects - Color basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color Basics in After Effects. [Color Basics](color-basics.md).

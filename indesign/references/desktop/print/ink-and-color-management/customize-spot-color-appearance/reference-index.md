@@ -1,4 +1,4 @@
-# InDesign — Customize spot color appearance
+# InDesign - Customize spot color appearance
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure spot color display using Lab values in InDesign. [Configure spot color display using Lab values](configure-spot-color-display-using-lab-values.md).

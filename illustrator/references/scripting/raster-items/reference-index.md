@@ -1,4 +1,4 @@
-# Illustrator — RasterItems
+# Illustrator - RasterItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RasterItems.getByName() in Illustrator. [RasterItems.getByName()](get-by-name.md).

@@ -1,4 +1,4 @@
-# Object references — Working with selections
+# Object references - Working with selections
 
 After someone selects items in a document, those items are available through the document's selection property. Use this AppleScript to retrieve the selection:
 

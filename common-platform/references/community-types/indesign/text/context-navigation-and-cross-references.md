@@ -1,6 +1,6 @@
-# Shared Adobe platform — Text: hyperlinks, indexes and cross-references
+# Shared Adobe platform - Text: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in Shared Adobe platform — Text.
+Open when checking hyperlinks, indexes and cross-references in Shared Adobe platform - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

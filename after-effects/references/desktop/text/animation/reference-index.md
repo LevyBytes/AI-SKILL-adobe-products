@@ -1,4 +1,4 @@
-# After Effects — Animation
+# After Effects - Animation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Animating Text in After Effects. [Animating Text](animating-text.md).

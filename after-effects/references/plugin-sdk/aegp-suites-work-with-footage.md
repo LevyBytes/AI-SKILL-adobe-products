@@ -1,4 +1,4 @@
-# AEGP Suites — Work with Footage
+# AEGP Suites - Work with Footage
 
 Footage, along with items living in a project or composition, is described here. Bear in mind that when you read or write a footage item's interpretation, you can land on combinations of options that conflict with one another.
 

@@ -1,4 +1,4 @@
-# InDesign — Adobe World-Ready Composer overview
+# InDesign - Adobe World-Ready Composer overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Key capabilities of the World-Ready Composer in InDesign. [Key capabilities of the World-Ready Composer](key-capabilities-of-the-world-ready-composer.md).

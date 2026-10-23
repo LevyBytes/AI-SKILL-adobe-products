@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: export documents and select formats
+# InDesign - ImportedPage: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — ImportedPage.
+Open when checking export documents and select formats in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

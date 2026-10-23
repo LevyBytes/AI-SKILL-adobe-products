@@ -1,4 +1,4 @@
-# After Effects — View options
+# After Effects - View options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ViewOptions object in After Effects. [ViewOptions object](view-options-object.md).

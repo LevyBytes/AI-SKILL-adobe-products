@@ -1,4 +1,4 @@
-# Photoshop — Get started with text
+# Photoshop - Get started with text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add bulleted and numbered lists in Photoshop. [Add bulleted and numbered lists](add-bulleted-and-numbered-lists.md).

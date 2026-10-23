@@ -1,4 +1,4 @@
-# InDesign — ExportPresetFormat
+# InDesign - ExportPresetFormat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DOCUMENT_PRESETS_FORMAT in InDesign. [DOCUMENT_PRESETS_FORMAT](documentpresetsformat.md).

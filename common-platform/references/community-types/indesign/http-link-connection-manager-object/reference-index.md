@@ -1,4 +1,4 @@
-# Shared Adobe platform — HttpLinkConnectionManagerObject
+# Shared Adobe platform - HttpLinkConnectionManagerObject
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HttpLinkConnectionManagerObject declaration in Shared Adobe platform. [HttpLinkConnectionManagerObject declaration](declaration.md).

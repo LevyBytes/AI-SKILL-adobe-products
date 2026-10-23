@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Protect pdf with owner password example setup", "file": "references/pdf-services/examples/python/protect-pdf-with-owner-password/protect-pdf-with-owner-password-setup.md", "summary": "Open when looking up Protect pdf with owner password example setup in Acrobat.", "keywords": ["Protect pdf with owner password example setup"]},
-  {"topic": "ProtectPDFWithOwnerPassword", "file": "references/pdf-services/examples/python/protect-pdf-with-owner-password/protect-pdf-with-owner-password.py", "summary": "Open when looking up ProtectPDFWithOwnerPassword in Acrobat.", "keywords": ["ProtectPDFWithOwnerPassword"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

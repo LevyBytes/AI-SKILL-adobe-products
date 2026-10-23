@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — ExporterScriptObject
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - ExporterScriptObject
 
 Provides several AME encoding entry points. AMEExportEvent listeners can be attached for these event types: onEncodeComplete, onError, onMediaInfoCreated, onBatchItemStatusChanged, onItemEncodingStarted, onEncodingItemProgressUpdated, onAudioPreEncodeProgress, onPostProcessListInitialized
 

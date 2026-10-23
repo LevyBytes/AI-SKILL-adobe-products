@@ -1,4 +1,4 @@
-# Premiere Pro — Questions
+# Premiere Pro - Questions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 🇪🇺 EU Compliance & DSA Requirements in Premiere Pro. [🇪🇺 EU Compliance & DSA Requirements](eu-compliance-dsa-requirements.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — CEP and ExtendScript integration: sign, package and install extensions
+# Shared Adobe platform - CEP and ExtendScript integration: sign, package and install extensions
 
-Open when working with sign, package and install extensions in Shared Adobe platform — CEP and ExtendScript integration.
+Open when working with sign, package and install extensions in Shared Adobe platform - CEP and ExtendScript integration.
 
 Open when selecting an exact reference: [Topic catalog](context-sign-install.json).
 

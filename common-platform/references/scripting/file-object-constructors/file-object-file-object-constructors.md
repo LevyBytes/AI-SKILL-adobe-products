@@ -1,4 +1,4 @@
-# File Object — File Object Constructors
+# File Object - File Object Constructors
 
 ```javascript
 File ( [ path ] );    // Can return a Folder object

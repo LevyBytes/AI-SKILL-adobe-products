@@ -1,4 +1,4 @@
-# Shared Adobe platform — InteractivePDFExportPreference
+# Shared Adobe platform - InteractivePDFExportPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up InteractivePDFExportPreference declaration in Shared Adobe platform. [InteractivePDFExportPreference declaration](declaration.md).

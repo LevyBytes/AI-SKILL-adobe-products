@@ -1,4 +1,4 @@
-# InDesign — Print
+# InDesign - Print
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color output and separations in InDesign. [Color output and separations references](color-output-and-separations/reference-index.md).

@@ -1,3 +1,3 @@
-# Selecting and editing tables — Move within a table using arrow keys
+# Selecting and editing tables - Move within a table using arrow keys
 
 Use the arrow keys to move through table cells and from one cell to another. At the end of a row's final cell, pressing the Right Arrow key sends the insertion point back to the first cell in that same row. At the final cell in a column, pressing the Down Arrow key moves the insertion point to that column's first cell. In a vertical table, the Down Arrow key used from a row's last cell places the insertion point at the first cell of that row. Also in a vertical table, the Left Arrow key used from a column's last cell places the insertion point at the first cell of that column.

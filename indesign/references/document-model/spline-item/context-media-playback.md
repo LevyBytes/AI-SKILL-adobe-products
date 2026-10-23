@@ -1,6 +1,6 @@
-# InDesign — SplineItem: movie and sound playback
+# InDesign - SplineItem: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — SplineItem.
+Open when checking movie and sound playback in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

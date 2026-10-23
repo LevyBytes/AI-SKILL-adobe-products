@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — status : `number`
+# window.XMLHttpRequest - status : `number`
 
 **Read only**
 HTTP response status code.

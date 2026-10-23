@@ -1,4 +1,4 @@
-# AME Scripting Guide — How do I run scripts in AME?
+# AME Scripting Guide - How do I run scripts in AME?
 
 As in Premiere Pro, Visual Studio Code with the "ExtendScript Debugger" extension can send scripts from VS Code into AME and debug them inside the application. Open the script, choose the target, then run or debug it.
 

@@ -1,4 +1,4 @@
-# Checking spelling — Remove, relink, and reorder user dictionaries
+# Checking spelling - Remove, relink, and reorder user dictionaries
 
 Open Edit > Preferences > Dictionary (Windows) or InCopy  > Preferences > Dictionary (Mac OS). Use the Language menu to choose the language that owns the dictionary. Then use any of these actions:
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — DottedStrokeStyles
+# Shared Adobe platform - DottedStrokeStyles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DottedStrokeStyles collection iteration in Shared Adobe platform. [DottedStrokeStyles collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# Working with styles — Move and reorder styles
+# Working with styles - Move and reorder styles
 
 New styles normally land at the bottom of the current style group or, if no group is active, the style panel.
 

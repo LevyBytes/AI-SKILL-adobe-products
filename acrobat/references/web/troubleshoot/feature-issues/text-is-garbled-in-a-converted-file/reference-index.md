@@ -1,4 +1,4 @@
-# Acrobat — Text is garbled in a converted file
+# Acrobat - Text is garbled in a converted file
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Scan quality is low in Acrobat. [Scan quality is low](scan-quality-is-low.md).

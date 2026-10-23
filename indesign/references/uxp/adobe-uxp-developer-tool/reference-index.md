@@ -1,4 +1,4 @@
-# InDesign — Adobe UXP Developer Tool
+# InDesign - Adobe UXP Developer Tool
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Connected apps in InDesign. [Connected apps](connected-apps.md).

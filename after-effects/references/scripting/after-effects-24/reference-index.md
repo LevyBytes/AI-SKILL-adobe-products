@@ -1,4 +1,4 @@
-# After Effects — After effects 24
+# After Effects - After effects 24
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After Effects 24.0 (October 2023) in After Effects. [After Effects 24.0 (October 2023)](after-effects-24-0-october-2023.md).

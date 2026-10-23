@@ -1,4 +1,4 @@
-# Premiere Pro — Window
+# Premiere Pro - Window
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up window.alert() in Premiere Pro. [window.alert()](alert.md).

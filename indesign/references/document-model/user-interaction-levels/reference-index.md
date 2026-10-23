@@ -1,4 +1,4 @@
-# InDesign — UserInteractionLevels
+# InDesign - UserInteractionLevels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up INTERACT_WITH_ALERTS in InDesign. [INTERACT_WITH_ALERTS](interactwithalerts.md).

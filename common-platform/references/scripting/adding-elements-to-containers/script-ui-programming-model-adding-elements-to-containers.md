@@ -1,4 +1,4 @@
-# ScriptUI programming model — Adding elements to containers
+# ScriptUI programming model - Adding elements to containers
 
 Use a container's add method to add elements to a window, panel, or group. The method receives the element type to create plus optional parameters that vary by element type, then returns the new object of that type.
 

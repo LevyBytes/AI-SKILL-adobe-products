@@ -1,4 +1,4 @@
-# UxpMenuItem — parent ⇒ `UxpMenuItems`
+# UxpMenuItem - parent ⇒ `UxpMenuItems`
 
 Provides the parent menu
 

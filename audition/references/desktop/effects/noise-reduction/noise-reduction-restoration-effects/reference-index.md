@@ -1,4 +1,4 @@
-# Audition — Noise Reduction Restoration Effects
+# Audition - Noise Reduction Restoration Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adaptive Noise Reduction effect in Audition. [Adaptive Noise Reduction effect](adaptive-noise-reduction-effect.md).

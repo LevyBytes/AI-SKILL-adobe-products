@@ -1,6 +1,6 @@
-# InDesign — ObjectStyle: baseline grids and layout guides
+# InDesign - ObjectStyle: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in InDesign — ObjectStyle.
+Open when checking baseline grids and layout guides in InDesign - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

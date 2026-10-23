@@ -1,4 +1,4 @@
-# Find/Change — Find and change text
+# Find/Change - Find and change text
 
 For document font listing, font searches, or font replacement, the Find Font command may be more appropriate than Find/Change.
 

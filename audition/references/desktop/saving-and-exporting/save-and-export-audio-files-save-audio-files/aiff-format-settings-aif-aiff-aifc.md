@@ -1,4 +1,4 @@
-# Save and export audio files — AIFF format settings (_aif, _.aiff, \*.aifc)
+# Save and export audio files - AIFF format settings (_aif, _.aiff, \*.aifc)
 
 On Mac OS, AIFF is the standard format for uncompressed audio files.
 

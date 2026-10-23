@@ -1,4 +1,4 @@
-# Shared Adobe platform — Pages
+# Shared Adobe platform - Pages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Pages collection iteration in Shared Adobe platform. [Pages collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# Acrobat — E sign documents
+# Acrobat - E sign documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add e-sign branding in Acrobat. [Add e-sign branding](add-e-sign-branding.md).

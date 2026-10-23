@@ -1,4 +1,4 @@
-# Photoshop — V2 api catalog
+# Photoshop - V2 api catalog
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Edit operations in Photoshop. [1. Edit operations](edit-operations.md).

@@ -1,4 +1,4 @@
-# InDesign — OpenTypeFeature
+# InDesign - OpenTypeFeature
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ALL_SMALL_CAPS_FEATURE in InDesign. [ALL_SMALL_CAPS_FEATURE](allsmallcapsfeature.md).

@@ -1,6 +1,6 @@
-# InDesign — TextFrame: find, replace and transliterate
+# InDesign - TextFrame: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — TextFrame.
+Open when checking find, replace and transliterate in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

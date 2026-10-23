@@ -1,4 +1,4 @@
-# InDesign — AlignDistributeBounds
+# InDesign - AlignDistributeBounds
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ITEM_BOUNDS in InDesign. [ITEM_BOUNDS](itembounds.md).

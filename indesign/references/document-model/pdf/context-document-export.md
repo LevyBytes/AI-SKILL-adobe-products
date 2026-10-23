@@ -1,6 +1,6 @@
-# InDesign — PDF: export documents and select formats
+# InDesign - PDF: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — PDF.
+Open when checking export documents and select formats in InDesign - PDF.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

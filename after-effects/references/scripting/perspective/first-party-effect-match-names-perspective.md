@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Perspective
+# First-Party Effect Match Names - Perspective
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

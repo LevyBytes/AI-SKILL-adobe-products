@@ -1,4 +1,4 @@
-# Premiere Pro — Navigation controls in the timeline
+# Premiere Pro - Navigation controls in the timeline
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Navigation controls help you move through the frames in a sequence. in Premiere Pro. [Navigation controls help you move through the frames in a sequence.](timeline-frame-navigation.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Edit projects
+# Premiere Pro - Edit projects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change clip sequence in Premiere Pro. [Change clip sequence](change-clip-sequence.md).

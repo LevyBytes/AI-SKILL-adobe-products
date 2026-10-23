@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — responseText : `string`
+# window.XMLHttpRequest - responseText : `string`
 
 **Read only**
 Text received from the server after a request is sent.

@@ -1,4 +1,4 @@
-# InDesign — Hyperlinks
+# InDesign - Hyperlinks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create hyperlinks in InDesign. [Create hyperlinks](create-hyperlinks.md).

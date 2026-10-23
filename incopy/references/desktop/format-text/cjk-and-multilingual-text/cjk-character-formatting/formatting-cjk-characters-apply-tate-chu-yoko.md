@@ -1,4 +1,4 @@
-# Formatting CJK characters — Apply tate-chu-yoko
+# Formatting CJK characters - Apply tate-chu-yoko
 
 Select the text that should receive tate-chu-yoko, then use one of these methods.
 

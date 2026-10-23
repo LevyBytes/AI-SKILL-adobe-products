@@ -1,6 +1,6 @@
-# InDesign — Insertion point: warichu inline text
+# InDesign - Insertion point: warichu inline text
 
-Open when checking warichu inline text in InDesign — Insertion point.
+Open when checking warichu inline text in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

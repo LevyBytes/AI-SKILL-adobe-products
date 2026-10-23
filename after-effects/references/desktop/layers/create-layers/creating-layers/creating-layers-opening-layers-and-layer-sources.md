@@ -1,4 +1,4 @@
-# Creating layers — Opening layers and layer sources
+# Creating layers - Opening layers and layer sources
 
 - Opening a layer that isn't a precomposition layer in the Layer panel means double-clicking it, or selecting it and choosing Layer > Open Layer.
 - Opening the source composition behind a precomposition layer in the Composition panel means double-clicking the layer, or selecting it and then Layer > Open Composition.

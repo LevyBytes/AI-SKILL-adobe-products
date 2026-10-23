@@ -1,4 +1,4 @@
-# window.BaseUIEvent — initEvent(typeArg, bubblesArg, cancelableArg)
+# window.BaseUIEvent - initEvent(typeArg, bubblesArg, cancelableArg)
 
 | Param | Type |
 | --- | --- |

@@ -1,4 +1,4 @@
-# InDesign — Lists and numbering
+# InDesign - Lists and numbering
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or change bullet characters in InDesign. [Add or change bullet characters](add-or-change-bullet-characters.md).

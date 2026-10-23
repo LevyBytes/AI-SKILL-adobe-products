@@ -1,4 +1,4 @@
-# Structuring documents for XML — Delete a DTD file
+# Structuring documents for XML - Delete a DTD file
 
 Choose Delete DTD from the Structure pane menu.
 

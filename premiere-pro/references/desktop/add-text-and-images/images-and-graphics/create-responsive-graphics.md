@@ -12,7 +12,7 @@ Choose a graphic in the timeline, then open the Properties panel.
 
 Choose the layer that should respond when another layer changes.
 
-Under Responsive Design — Position, use Pin To to choose the layer that the selected layer should follow.
+Under Responsive Design: Position, use Pin To to choose the layer that the selected layer should follow.
 
 The layer that is currently selected becomes parented to the layer chosen from the drop-down list.
 

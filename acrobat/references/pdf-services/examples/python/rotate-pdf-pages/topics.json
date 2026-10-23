@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Rotate pdf pages example setup", "file": "references/pdf-services/examples/python/rotate-pdf-pages/rotate-pdf-pages-setup.md", "summary": "Open when looking up Rotate pdf pages example setup in Acrobat.", "keywords": ["Rotate pdf pages example setup"]},
-  {"topic": "RotatePDFPages", "file": "references/pdf-services/examples/python/rotate-pdf-pages/rotate-pdf-pages.py", "summary": "Open when looking up RotatePDFPages in Acrobat.", "keywords": ["RotatePDFPages"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

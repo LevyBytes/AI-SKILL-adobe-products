@@ -1,6 +1,6 @@
-# InDesign — Movie: paths and shape operations
+# InDesign - Movie: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Movie.
+Open when checking paths and shape operations in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

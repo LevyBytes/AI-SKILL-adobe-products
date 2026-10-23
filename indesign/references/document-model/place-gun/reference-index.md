@@ -1,4 +1,4 @@
-# InDesign — PlaceGun
+# InDesign - PlaceGun
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up abortPlaceGun in InDesign. [abortPlaceGun](abort-place-gun.md).

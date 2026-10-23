@@ -1,4 +1,4 @@
-# FAQs — How can I edit my metadata?
+# FAQs - How can I edit my metadata?
 
 _Answer:_ To revise the description, images, link, or any item in the list below, use these steps:
 

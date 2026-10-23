@@ -1,6 +1,6 @@
-# InDesign — Document: data merge placeholders and options
+# InDesign - Document: data merge placeholders and options
 
-Open when checking data merge placeholders and options in InDesign — Document.
+Open when checking data merge placeholders and options in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-data-merge.json).
 

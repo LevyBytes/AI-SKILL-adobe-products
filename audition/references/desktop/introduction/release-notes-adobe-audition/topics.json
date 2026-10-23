@@ -1,7 +1,6 @@
 {"schema_version": 1, "owner": "audition", "topics": [
   {"topic": "Customer support", "file": "references/desktop/introduction/release-notes-adobe-audition/customer-support.md", "summary": "Open when looking up Customer support in Audition.", "keywords": ["Customer support"]},
   {"topic": "Latest version", "file": "references/desktop/introduction/release-notes-adobe-audition/latest-version.md", "summary": "Open when looking up Latest version in Audition.", "keywords": ["Latest version"]},
-  {"topic": "License agreement", "file": "references/desktop/introduction/release-notes-adobe-audition/license-agreement.md", "summary": "Open when looking up License agreement in Audition.", "keywords": ["License agreement"]},
   {"topic": "Online resources", "file": "references/desktop/introduction/release-notes-adobe-audition/online-resources.md", "summary": "Open when looking up Online resources in Audition.", "keywords": ["Online resources"]},
   {"topic": "System requirements", "file": "references/desktop/introduction/release-notes-adobe-audition/system-requirements.md", "summary": "Open when looking up System requirements in Audition.", "keywords": ["System requirements"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}

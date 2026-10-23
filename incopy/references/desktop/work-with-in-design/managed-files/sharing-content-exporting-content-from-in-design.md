@@ -1,4 +1,4 @@
-# Sharing content — Exporting content from InDesign
+# Sharing content - Exporting content from InDesign
 
 Moving content from InDesign to InCopy creates a managed link between the apps. InDesign text frames, graphics frames, and their contents can be exported to InCopy in either of these ways:
 

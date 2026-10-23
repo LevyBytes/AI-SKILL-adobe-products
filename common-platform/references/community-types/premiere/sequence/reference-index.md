@@ -1,4 +1,4 @@
-# Shared Adobe platform — Sequence
+# Shared Adobe platform - Sequence
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Sequence declaration in Shared Adobe platform. [Sequence declaration](declaration.md).

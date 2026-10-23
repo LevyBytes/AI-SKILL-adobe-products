@@ -1,4 +1,4 @@
-# Working with managed files — Save changes (InDesign)
+# Working with managed files - Save changes (InDesign)
 
 While you edit content checked out to you, you can save changes and refresh the file-system copy.
 

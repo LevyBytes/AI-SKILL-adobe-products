@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: package, install and distribute plugins
+# Photoshop - UXP plugins and APIs: package, install and distribute plugins
 
-Open when working with package, install and distribute plugins in Photoshop — UXP plugins and APIs.
+Open when working with package, install and distribute plugins in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-distribution.json).
 

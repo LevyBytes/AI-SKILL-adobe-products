@@ -1,4 +1,4 @@
-# InDesign — ImageAlignmentType
+# InDesign - ImageAlignmentType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ALIGN_CENTER in InDesign. [ALIGN_CENTER](aligncenter.md).

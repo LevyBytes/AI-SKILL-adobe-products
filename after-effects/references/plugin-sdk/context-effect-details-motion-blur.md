@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: motion blur
+# After Effects - C++ plugin SDK: motion blur
 
-Open when working with motion blur in After Effects — C++ plugin SDK.
+Open when working with motion blur in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-motion-blur.json).
 

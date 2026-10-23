@@ -1,6 +1,6 @@
-# InDesign — Insertion point: paragraph rules
+# InDesign - Insertion point: paragraph rules
 
-Open when checking paragraph rules in InDesign — Insertion point.
+Open when checking paragraph rules in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

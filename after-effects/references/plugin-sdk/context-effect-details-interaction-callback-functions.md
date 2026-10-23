@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: interaction callback functions
+# After Effects - C++ plugin SDK: interaction callback functions
 
-Open when working with interaction callback functions in After Effects — C++ plugin SDK.
+Open when working with interaction callback functions in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-interaction-callback-functions.json).
 

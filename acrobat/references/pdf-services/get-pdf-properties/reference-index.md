@@ -1,4 +1,4 @@
-# Acrobat — Get PDF Properties
+# Acrobat - Get PDF Properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET in Acrobat. [.NET](net.md).

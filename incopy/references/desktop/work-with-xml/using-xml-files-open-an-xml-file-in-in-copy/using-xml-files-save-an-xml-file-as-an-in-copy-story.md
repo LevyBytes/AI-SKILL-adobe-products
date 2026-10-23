@@ -1,4 +1,4 @@
-# Using XML files — Save an XML file as an InCopy story
+# Using XML files - Save an XML file as an InCopy story
 
 An XML file can be saved as an InCopy story.
 

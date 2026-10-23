@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Radial Blur effect
+# Blur and Sharpen effects - Radial Blur effect
 
 Blurs that wrap around a point, mimicking what a zooming or spinning camera would capture, are what the Radial Blur effect builds.
 

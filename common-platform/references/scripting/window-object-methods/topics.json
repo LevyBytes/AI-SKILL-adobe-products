@@ -11,6 +11,6 @@
   {"topic": "removeEventListener()", "file": "references/scripting/window-object-methods/remove-event-listener.md", "summary": "Open when looking up removeEventListener() in Shared Adobe platform.", "keywords": ["removeEventListener()"]},
   {"topic": "show()", "file": "references/scripting/window-object-methods/show.md", "summary": "Open when looking up show() in Shared Adobe platform.", "keywords": ["show()"]},
   {"topic": "update()", "file": "references/scripting/window-object-methods/update.md", "summary": "Open when looking up update() in Shared Adobe platform.", "keywords": ["update()"]},
-  {"topic": "Window object — Window Object Methods", "file": "references/scripting/window-object-methods/window-object-window-object-methods.md", "summary": "Open when looking up Window object — Window Object Methods in Shared Adobe platform.", "keywords": ["Window object — Window Object Methods"]},
+  {"topic": "Window object - Window Object Methods", "file": "references/scripting/window-object-methods/window-object-window-object-methods.md", "summary": "Open when looking up Window object - Window Object Methods in Shared Adobe platform.", "keywords": ["Window object - Window Object Methods"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

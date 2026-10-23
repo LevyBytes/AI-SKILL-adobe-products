@@ -1,4 +1,4 @@
-# Photoshop — Transform and manipulate layers
+# Photoshop - Transform and manipulate layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Clean up image layers in Photoshop. [Clean up image layers](clean-up-image-layers.md).

@@ -1,4 +1,4 @@
-# Illustrator — Transform text
+# Illustrator - Transform text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust the scale of type in Illustrator. [Adjust the scale of type](adjust-the-scale-of-type.md).

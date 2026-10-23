@@ -1,4 +1,4 @@
-# Acrobat — Manage digital signatures
+# Acrobat - Manage digital signatures
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Certify PDFs in Acrobat. [Certify PDFs](certify-pdfs.md).

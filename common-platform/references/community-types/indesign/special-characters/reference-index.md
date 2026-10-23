@@ -1,4 +1,4 @@
-# Shared Adobe platform — SpecialCharacters
+# Shared Adobe platform - SpecialCharacters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SpecialCharacters declaration in Shared Adobe platform. [SpecialCharacters declaration](declaration.md).

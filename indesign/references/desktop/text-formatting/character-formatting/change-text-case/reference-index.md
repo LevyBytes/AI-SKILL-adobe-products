@@ -1,4 +1,4 @@
-# InDesign — Change text case
+# InDesign - Change text case
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply all caps or small caps in InDesign. [Apply all caps or small caps](apply-all-caps-or-small-caps.md).

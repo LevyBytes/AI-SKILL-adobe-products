@@ -1,4 +1,4 @@
-# Tagging content for XML — Tagging items
+# Tagging content for XML - Tagging items
 
 Tag the text and other exportable items, such as frames and tables, before exporting content to an XML file. Also tag any placeholder items you created for XML content that will be imported later. The Structure pane lists tagged items as elements.
 

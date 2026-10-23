@@ -1,6 +1,6 @@
-# Illustrator — Document: document lifecycle and identity
+# Illustrator - Document: document lifecycle and identity
 
-Open when working with document lifecycle and identity in Illustrator — Document.
+Open when working with document lifecycle and identity in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-lifecycle.json).
 

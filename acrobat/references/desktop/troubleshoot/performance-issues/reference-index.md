@@ -1,4 +1,4 @@
-# Acrobat — Performance issues
+# Acrobat - Performance issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat crashes on macOS in Acrobat. [Acrobat crashes on macOS](acrobat-crashes-on-mac-os.md).

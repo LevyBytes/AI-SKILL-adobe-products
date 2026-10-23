@@ -1,6 +1,6 @@
-# InDesign — SignatureField: text ranges and containers
+# InDesign - SignatureField: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — SignatureField.
+Open when checking text ranges and containers in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

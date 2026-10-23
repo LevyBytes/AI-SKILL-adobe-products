@@ -1,4 +1,4 @@
-# Photoshop — Depth Blur Migration
+# Photoshop - Depth Blur Migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ActionJSON definition in Photoshop. [ActionJSON definition](action-json-definition.md).

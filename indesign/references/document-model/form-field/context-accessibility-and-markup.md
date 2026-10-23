@@ -1,6 +1,6 @@
-# InDesign — FormField: accessibility, tagging and xml
+# InDesign - FormField: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — FormField.
+Open when checking accessibility, tagging and xml in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

@@ -1,4 +1,4 @@
-# InDesign — Composition and text wrapping
+# InDesign - Composition and text wrapping
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or remove paragraph rules in InDesign. [Add or remove paragraph rules](add-or-remove-paragraph-rules.md).

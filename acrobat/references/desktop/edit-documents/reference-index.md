@@ -1,4 +1,4 @@
-# Acrobat — Edit documents
+# Acrobat - Edit documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add backgrounds and watermarks in Acrobat. [Add backgrounds and watermarks](add-backgrounds-and-watermarks.md).

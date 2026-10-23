@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: character spacing and geometry
+# Shared Adobe platform - Story: character spacing and geometry
 
-Open when checking character spacing and geometry in Shared Adobe platform — Story.
+Open when checking character spacing and geometry in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

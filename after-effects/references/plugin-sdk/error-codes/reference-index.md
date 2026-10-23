@@ -1,7 +1,7 @@
-# After Effects — Error codes
+# After Effects - Error codes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Errors — Error Codes in After Effects. [Errors — Error Codes](errors-error-codes.md).
+- Open when looking up Errors - Error Codes in After Effects. [Errors - Error Codes](errors-error-codes.md).
 - Open when looking up PF_Err_BAD_CALLBACK_PARAM in After Effects. [PF_Err_BAD_CALLBACK_PARAM](pf-err-badcallbackparam.md).
 - Open when looking up PF_Err_CANNOT_PARSE_KEYFRAME_TEXT in After Effects. [PF_Err_CANNOT_PARSE_KEYFRAME_TEXT](pf-err-cannotparsekeyframetext.md).
 - Open when looking up PF_Err_INTERNAL_STRUCT_DAMAGED in After Effects. [PF_Err_INTERNAL_STRUCT_DAMAGED](pf-err-internalstructdamaged.md).

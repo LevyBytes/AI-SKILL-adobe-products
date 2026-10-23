@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: artboards, bounds and coordinates
+# Illustrator - Scripting APIs: artboards, bounds and coordinates
 
-Open when working with artboards, bounds and coordinates in Illustrator — Scripting APIs.
+Open when working with artboards, bounds and coordinates in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-artboards.json).
 

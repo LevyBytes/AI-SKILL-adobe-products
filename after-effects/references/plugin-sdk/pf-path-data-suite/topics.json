@@ -10,6 +10,6 @@
   {"topic": "PF_PathNumSegments", "file": "references/plugin-sdk/pf-path-data-suite/pf-path-num-segments.md", "summary": "Open when looking up PF_PathNumSegments in After Effects.", "keywords": ["PF_PathNumSegments"]},
   {"topic": "PF_PathPrepareSegLength", "file": "references/plugin-sdk/pf-path-data-suite/pf-path-prepare-seg-length.md", "summary": "Open when looking up PF_PathPrepareSegLength in After Effects.", "keywords": ["PF_PathPrepareSegLength"]},
   {"topic": "PF_PathVertexInfo", "file": "references/plugin-sdk/pf-path-data-suite/pf-path-vertex-info.md", "summary": "Open when looking up PF_PathVertexInfo in After Effects.", "keywords": ["PF_PathVertexInfo"]},
-  {"topic": "Working With Paths — PF_PathDataSuite", "file": "references/plugin-sdk/pf-path-data-suite/working-with-paths-pf-path-data-suite.md", "summary": "Open when looking up Working With Paths — PF_PathDataSuite in After Effects.", "keywords": ["Working With Paths — PF_PathDataSuite"]},
+  {"topic": "Working With Paths - PF_PathDataSuite", "file": "references/plugin-sdk/pf-path-data-suite/working-with-paths-pf-path-data-suite.md", "summary": "Open when looking up Working With Paths - PF_PathDataSuite in After Effects.", "keywords": ["Working With Paths - PF_PathDataSuite"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -35,7 +35,7 @@ For the chosen 3D object, the following Material Assignment controls govern how 
 
 When the SBSAR you applied ships with presets, look for them in the Presets dropdown menu beneath Materials in the Properties panel.
 
-Edits made here are global — every instance of that material across your project picks them up.
+Edits made here are global: every instance of that material across your project picks them up.
 
 Within the Displacement Options section, the following options help you refine the material applied to the parametric mesh:
 

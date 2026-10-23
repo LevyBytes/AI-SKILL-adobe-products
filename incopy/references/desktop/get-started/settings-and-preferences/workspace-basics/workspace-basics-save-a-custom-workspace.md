@@ -1,4 +1,4 @@
-# Workspace basics — Save a custom workspace
+# Workspace basics - Save a custom workspace
 
 When the workspace is arranged the way you want to store it, use the appropriate command below:
 

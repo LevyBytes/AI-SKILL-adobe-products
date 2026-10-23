@@ -1,4 +1,4 @@
-# InDesign — Draw lines with the pen tool
+# InDesign - Draw lines with the pen tool
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Draw curved segments in InDesign. [Draw curved segments](draw-curved-segments.md).

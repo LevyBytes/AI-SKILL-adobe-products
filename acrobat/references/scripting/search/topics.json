@@ -10,7 +10,7 @@
   {"topic": "ignoreAccents", "file": "references/scripting/search/ignore-accents.md", "summary": "Open when looking up ignoreAccents in Acrobat.", "keywords": ["ignoreAccents"]},
   {"topic": "ignoreAsianCharacterWidth", "file": "references/scripting/search/ignore-asian-character-width.md", "summary": "Open when looking up ignoreAsianCharacterWidth in Acrobat.", "keywords": ["ignoreAsianCharacterWidth"]},
   {"topic": "indexes", "file": "references/scripting/search/indexes.md", "summary": "Open when looking up indexes in Acrobat.", "keywords": ["indexes"]},
-  {"topic": "JavaScript APIs — search", "file": "references/scripting/search/java-script-apis-search.md", "summary": "Open when looking up JavaScript APIs — search in Acrobat.", "keywords": ["JavaScript APIs — search"]},
+  {"topic": "JavaScript APIs - search", "file": "references/scripting/search/java-script-apis-search.md", "summary": "Open when looking up JavaScript APIs - search in Acrobat.", "keywords": ["JavaScript APIs - search"]},
   {"topic": "jpegExif", "file": "references/scripting/search/jpeg-exif.md", "summary": "Open when looking up jpegExif in Acrobat.", "keywords": ["jpegExif"]},
   {"topic": "legacySearch", "file": "references/scripting/search/legacy-search.md", "summary": "Open when looking up legacySearch in Acrobat.", "keywords": ["legacySearch"]},
   {"topic": "markup", "file": "references/scripting/search/markup.md", "summary": "Open when looking up markup in Acrobat.", "keywords": ["markup"]},

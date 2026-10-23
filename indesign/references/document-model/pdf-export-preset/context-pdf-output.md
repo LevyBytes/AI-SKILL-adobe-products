@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreset: pdf pages, structure and output profiles
+# InDesign - PDFExportPreset: pdf pages, structure and output profiles
 
-Open when checking pdf pages, structure and output profiles in InDesign — PDFExportPreset.
+Open when checking pdf pages, structure and output profiles in InDesign - PDFExportPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-pdf-output.json).
 

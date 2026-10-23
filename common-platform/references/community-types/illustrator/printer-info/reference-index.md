@@ -1,4 +1,4 @@
-# Shared Adobe platform — PrinterInfo
+# Shared Adobe platform - PrinterInfo
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PrinterInfo declaration in Shared Adobe platform. [PrinterInfo declaration](declaration.md).

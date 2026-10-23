@@ -1,4 +1,4 @@
-# Photoshop — Save files
+# Photoshop - Save files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional file-save options in Photoshop. [Additional file-save options](additional-file-save-options.md).

@@ -13,7 +13,7 @@ Complete example files:
 - [export-panel.js](../examples/document-export/client/export-panel.js)
 - [export-panel.html](../examples/document-export/client/export-panel.html)
 - [export-panel.css](../examples/document-export/client/export-panel.css)
-- [manifest.xml](../examples/document-export/CSXS/manifest.xml)
+- [manifest.xml](https://github.com/Adobe-CEP/Getting-Started-guides/tree/master/Exporting%20files%20from%20the%20host%20app)
 - [example-guide.md](../examples/document-export/example-guide.md)
 
 Options and methods are host-specific. Keep Illustrator ExportOptionsJPEG/PNG8, Photoshop save/export options and InDesign ExportFormat values in their respective helpers.

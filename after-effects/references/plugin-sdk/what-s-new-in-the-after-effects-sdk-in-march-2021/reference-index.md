@@ -1,4 +1,4 @@
-# After Effects — What s new in the after effects sdk in march 2021
+# After Effects - What s new in the after effects sdk in march 2021
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After Effects Beta Builds in After Effects. [After Effects Beta Builds](after-effects-beta-builds.md).

@@ -1,6 +1,6 @@
-# Illustrator — Document: text stories, styles and cjk composition
+# Illustrator - Document: text stories, styles and cjk composition
 
-Open when working with text stories, styles and cjk composition in Illustrator — Document.
+Open when working with text stories, styles and cjk composition in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-text-styles.json).
 

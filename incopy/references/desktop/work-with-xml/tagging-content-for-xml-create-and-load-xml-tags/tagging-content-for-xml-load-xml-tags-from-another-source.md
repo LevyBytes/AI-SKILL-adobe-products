@@ -1,4 +1,4 @@
-# Tagging content for XML — Load XML tags from another source
+# Tagging content for XML - Load XML tags from another source
 
 Tag definitions can be loaded from an XML file, an InDesign document, or an InCopy document.
 

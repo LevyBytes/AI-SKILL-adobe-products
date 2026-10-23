@@ -1,6 +1,6 @@
-# InDesign — Application: folio and digital publication apis
+# InDesign - Application: folio and digital publication apis
 
-Open when checking folio and digital publication apis in InDesign — Application.
+Open when checking folio and digital publication apis in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-digital-publication.json).
 

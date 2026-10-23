@@ -1,4 +1,4 @@
-# Illustrator — SymbolItem
+# Illustrator - SymbolItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SymbolItem.artworkKnockout in Illustrator. [SymbolItem.artworkKnockout](artwork-knockout.md).

@@ -1,4 +1,4 @@
-# After Effects — Aeio function block4
+# After Effects - Aeio function block4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEIO_AddFrame in After Effects. [AEIO_AddFrame](aeio-add-frame.md).
@@ -48,4 +48,4 @@
 - Open when looking up AEIO_UserOptionsDialog in After Effects. [AEIO_UserOptionsDialog](aeio-user-options-dialog.md).
 - Open when looking up AEIO_VerifyFileImportable in After Effects. [AEIO_VerifyFileImportable](aeio-verify-file-importable.md).
 - Open when looking up AEIO_WriteLabels in After Effects. [AEIO_WriteLabels](aeio-write-labels.md).
-- Open when looking up New Kids On The Function Block — AEIO_FunctionBlock4 in After Effects. [New Kids On The Function Block — AEIO_FunctionBlock4](new-kids-on-the-function-block-aeio-function-block4.md).
+- Open when looking up New Kids On The Function Block - AEIO_FunctionBlock4 in After Effects. [New Kids On The Function Block - AEIO_FunctionBlock4](new-kids-on-the-function-block-aeio-function-block4.md).

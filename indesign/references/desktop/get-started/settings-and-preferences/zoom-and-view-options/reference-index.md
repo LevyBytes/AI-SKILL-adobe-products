@@ -1,4 +1,4 @@
-# InDesign — Zoom and view options
+# InDesign - Zoom and view options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Power zoom behavior in InDesign. [Power zoom behavior](power-zoom-behavior.md).

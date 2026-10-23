@@ -1,4 +1,4 @@
-# Shared Adobe platform — CharStyleMapping
+# Shared Adobe platform - CharStyleMapping
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CharStyleMapping declaration in Shared Adobe platform. [CharStyleMapping declaration](declaration.md).

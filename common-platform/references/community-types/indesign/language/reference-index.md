@@ -1,4 +1,4 @@
-# Shared Adobe platform — Language
+# Shared Adobe platform - Language
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Language declaration in Shared Adobe platform. [Language declaration](declaration.md).

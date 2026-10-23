@@ -1,6 +1,6 @@
-# InDesign — Find grep preference: kenten emphasis
+# InDesign - Find grep preference: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — Find grep preference.
+Open when checking kenten emphasis in InDesign - Find grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

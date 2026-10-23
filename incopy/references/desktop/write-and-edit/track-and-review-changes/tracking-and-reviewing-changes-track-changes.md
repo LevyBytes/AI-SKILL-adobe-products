@@ -1,4 +1,4 @@
-# Tracking and reviewing changes — Track changes
+# Tracking and reviewing changes - Track changes
 
 Track Changes lets an editorial team see how each contributor has altered a story during writing and review. When someone adds, removes, or relocates text in an existing story, InDesign marks that edit in Story Editor, while InCopy shows it in Galley and Story views. After review, each marked edit can be accepted or rejected.
 

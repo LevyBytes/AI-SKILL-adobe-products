@@ -1,4 +1,4 @@
-# window.HTMLAnchorElement — hidden : `boolean` \| `string`
+# window.HTMLAnchorElement - hidden : `boolean` \| `string`
 
 Signals that the browser should leave the element's contents unrendered. Caveat: support excludes `"until-found"`.
 

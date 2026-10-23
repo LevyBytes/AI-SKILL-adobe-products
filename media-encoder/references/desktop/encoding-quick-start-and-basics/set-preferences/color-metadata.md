@@ -1,4 +1,4 @@
-# Color — Metadata
+# Color - Metadata
 
 Set how metadata is kept, embedded, and exported for media files on import and output.
 

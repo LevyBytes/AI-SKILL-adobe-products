@@ -1,4 +1,4 @@
-# Premiere Pro — Style parameters when applying from the style browser
+# Premiere Pro - Style parameters when applying from the style browser
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up All parameters from the Align and Transform section (captions only) in Premiere Pro. [All parameters from the Align and Transform section (captions only)](caption-style-alignment-and-transforms.md).

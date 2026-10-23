@@ -1,4 +1,4 @@
-# InDesign — LockStateValues
+# InDesign - LockStateValues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CHECKED_IN_STORY in InDesign. [CHECKED_IN_STORY](checkedinstory.md).

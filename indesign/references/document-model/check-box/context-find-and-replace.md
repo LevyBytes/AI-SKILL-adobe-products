@@ -1,6 +1,6 @@
-# InDesign — Check box: find, replace and transliterate
+# InDesign - Check box: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Check box.
+Open when checking find, replace and transliterate in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

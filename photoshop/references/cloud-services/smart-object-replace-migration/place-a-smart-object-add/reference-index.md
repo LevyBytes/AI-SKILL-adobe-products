@@ -1,4 +1,4 @@
-# Photoshop — Place a smart object add
+# Photoshop - Place a smart object add
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up V1 Request in Photoshop. [V1 Request](v1-request.md).

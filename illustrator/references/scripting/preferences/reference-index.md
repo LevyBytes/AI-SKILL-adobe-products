@@ -1,7 +1,7 @@
-# Illustrator — Preferences
+# Illustrator - Preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Preferences — Properties in Illustrator. [Preferences — Properties](preferences-properties.md).
+- Open when looking up Preferences - Properties in Illustrator. [Preferences - Properties](preferences-properties.md).
 - Open when looking up Preferences.FreeHandFileOptions in Illustrator. [Preferences.FreeHandFileOptions](free-hand-file-options.md).
 - Open when looking up Preferences.getBooleanPreference in Illustrator. [Preferences.getBooleanPreference](get-boolean-preference.md).
 - Open when looking up Preferences.getIntegerPreference in Illustrator. [Preferences.getIntegerPreference](get-integer-preference.md).

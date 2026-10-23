@@ -1,4 +1,4 @@
-# Changes Across Versions — Acrobat 7.0 changes
+# Changes Across Versions - Acrobat 7.0 changes
 
 What had been a standalone document in version 6.0.2, the Acrobat Multimedia JavaScript Reference, was folded into the Acrobat JavaScript Scripting Reference, which now goes by JavaScript for Acrobat API Reference. For the full roster of multimedia JavaScript objects, properties, and methods, turn to the section Introduced in Acrobat 6.0.2.
 

@@ -1,4 +1,4 @@
-# JavaScript APIs — Span
+# JavaScript APIs - Span
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

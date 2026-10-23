@@ -1,4 +1,4 @@
-# InDesign — PreviewSizeOptions
+# InDesign - PreviewSizeOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EXTRA_LARGE in InDesign. [EXTRA_LARGE](extralarge.md).

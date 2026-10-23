@@ -1,4 +1,4 @@
-# After Effects — Effects Animation Presets Overview
+# After Effects - Effects Animation Presets Overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Text in After Effects. [3D Text](3-d-text.md).

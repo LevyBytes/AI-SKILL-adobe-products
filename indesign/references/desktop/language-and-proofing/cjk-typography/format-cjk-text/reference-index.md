@@ -1,4 +1,4 @@
-# InDesign — Format CJK text
+# InDesign - Format CJK text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ideographic space adjustments at line start and end in InDesign. [Ideographic space adjustments at line start and end](ideographic-space-adjustments-at-line-start-and-end.md).

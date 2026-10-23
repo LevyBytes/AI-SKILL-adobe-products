@@ -1,4 +1,4 @@
-# Acrobat — Acrobat on the web overview
+# Acrobat - Acrobat on the web overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Benefits of using Acrobat on the web in Acrobat. [Benefits of using Acrobat on the web](benefits-of-using-acrobat-on-the-web.md).

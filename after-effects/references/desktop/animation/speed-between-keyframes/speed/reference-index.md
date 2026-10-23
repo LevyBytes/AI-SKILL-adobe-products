@@ -1,4 +1,4 @@
-# After Effects — Speed
+# After Effects - Speed
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About the speed graph in After Effects. [About the speed graph](about-the-speed-graph.md).

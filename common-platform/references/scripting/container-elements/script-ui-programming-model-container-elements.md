@@ -1,4 +1,4 @@
-# ScriptUI programming model — Container elements
+# ScriptUI programming model - Container elements
 
 Every Window is a container, meaning it holds other elements inside its bounds. A Window can contain Panels and Groups, which are additional container types. Those containers can hold controls and can also nest other Panel and Group containers. A Window itself cannot be placed inside another container.
 

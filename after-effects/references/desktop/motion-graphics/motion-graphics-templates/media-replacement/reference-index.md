@@ -1,4 +1,4 @@
-# After Effects — Replace images and videos in Motion Graphics templates | Adobe
+# After Effects - Replace images and videos in Motion Graphics templates | Adobe
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Authoring Essential Properties in After Effects. [Authoring Essential Properties](authoring-essential-properties.md).

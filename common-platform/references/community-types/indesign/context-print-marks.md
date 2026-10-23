@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: printer marks and screening
+# Shared Adobe platform - Indesign: printer marks and screening
 
-Open when working with printer marks and screening in Shared Adobe platform — Indesign.
+Open when working with printer marks and screening in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-print-marks.json).
 

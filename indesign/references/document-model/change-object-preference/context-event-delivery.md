@@ -1,6 +1,6 @@
-# InDesign — ChangeObjectPreference: events and listeners
+# InDesign - ChangeObjectPreference: events and listeners
 
-Open when checking events and listeners in InDesign — ChangeObjectPreference.
+Open when checking events and listeners in InDesign - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Font types
+# Using fonts in InCopy - Font types
 
 Font family and font style menus in the Character panel, along with other font-selection areas of the application, can show font samples. These icons identify the font types:
 

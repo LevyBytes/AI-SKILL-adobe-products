@@ -24,8 +24,8 @@ Open the relevant setup or delivery stage. [Topic catalog](context-distribution.
 
 ## Install and manage plugins
 
-- Open when looking up Install a UXP plugin — Important Note! in Premiere Pro. [Install a UXP plugin — Important Note!](install-a-uxp-plugin-important-note.md).
-- Open when looking up Install a UXP plugin — Important Note! in Premiere Pro. [Install a UXP plugin — Important Note! references](install-a-uxp-plugin-important-note/reference-index.md).
+- Open when looking up Install a UXP plugin - Important Note! in Premiere Pro. [Install a UXP plugin - Important Note!](install-a-uxp-plugin-important-note.md).
+- Open when looking up Install a UXP plugin - Important Note! in Premiere Pro. [Install a UXP plugin - Important Note! references](install-a-uxp-plugin-important-note/reference-index.md).
 - Open when looking up Plugin Manager in Premiere Pro. [Plugin Manager](plugin-manager.md).
 - Open when looking up Plugin Manager in Premiere Pro. [Plugin Manager references](plugin-manager/reference-index.md).
 - Open when looking up Plugin management in Premiere Pro. [Plugin management](plugin-management.md).

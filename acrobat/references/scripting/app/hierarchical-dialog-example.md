@@ -4,8 +4,8 @@ Example 4: Here a hierarchical list box is demonstrated. Opening the dialog box 
 
 Load the layout script before the dialog script as document-level JavaScript. Set `dialog4.doc` to the document containing the named destinations, then invoke `app.execDialog(dialog4)`. The source’s `dotheDialog(dialog4, this)` helper performs that binding.
 
-- [chapter-selection-layout.js](../examples/chapter-selection-layout.js)
-- [chapter-selection-dialog.js](../examples/chapter-selection-dialog.js)
+- [chapter-selection-layout.js](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#execdialog)
+- [chapter-selection-dialog.js](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#execdialog)
 
 What the routine below does is bind the Doc object onto the dialog box and then hand that dialog box off to app.execDialog. Both the dialog4 object and this routine may live at the document level.
 

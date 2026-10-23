@@ -1,6 +1,6 @@
-# Acrobat — Doc: rich media, 3d and sound
+# Acrobat - Doc: rich media, 3d and sound
 
-Open when working with rich media, 3d and sound in Acrobat — Doc.
+Open when working with rich media, 3d and sound in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-media.json).
 

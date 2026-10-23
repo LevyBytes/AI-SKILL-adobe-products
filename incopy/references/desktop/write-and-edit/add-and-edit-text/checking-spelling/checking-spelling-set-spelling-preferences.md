@@ -1,4 +1,4 @@
-# Checking spelling — Set spelling preferences
+# Checking spelling - Set spelling preferences
 
 Choose Edit > Preferences > Spelling (Windows) or InCopy > Preferences > Spelling (Mac OS). Use any of these options:
 

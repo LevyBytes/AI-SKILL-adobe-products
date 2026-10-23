@@ -1,4 +1,4 @@
-# Graphic customization objects — ScriptUIPath Object
+# Graphic customization objects - ScriptUIPath Object
 
 ScriptUIPath is a helper wrapper for a drawing path that a control can render as a figure. Create it with newPath(), then define path segments with the ScriptUIGraphics object's moveto(), lineto(), rectPath(), and ellipsePath() methods.
 

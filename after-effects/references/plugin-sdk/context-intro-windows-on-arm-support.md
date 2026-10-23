@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: windows on arm support
+# After Effects - C++ plugin SDK: windows on arm support
 
-Open when working with windows on arm support in After Effects — C++ plugin SDK.
+Open when working with windows on arm support in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-windows-on-arm-support.json).
 

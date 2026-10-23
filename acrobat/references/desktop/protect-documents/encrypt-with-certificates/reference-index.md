@@ -1,4 +1,4 @@
-# Acrobat — Encrypt with certificates
+# Acrobat - Encrypt with certificates
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change encryption settings in Acrobat. [Change encryption settings](change-encryption-settings.md).

@@ -1,4 +1,4 @@
-# Illustrator — Use swatches
+# Illustrator - Use swatches
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Swatches in Illustrator. [About Swatches](about-swatches.md).

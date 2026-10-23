@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: workspace arrangements
+# Shared Adobe platform - Application: workspace arrangements
 
-Open when working with workspace arrangements in Shared Adobe platform — Application.
+Open when working with workspace arrangements in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-workspace-commands.json).
 

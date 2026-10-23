@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: script loading and preprocessor directives
+# Shared Adobe platform - Scripting APIs: script loading and preprocessor directives
 
-Open when working with script loading and preprocessor directives in Shared Adobe platform — Scripting APIs.
+Open when working with script loading and preprocessor directives in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-script-loading.json).
 

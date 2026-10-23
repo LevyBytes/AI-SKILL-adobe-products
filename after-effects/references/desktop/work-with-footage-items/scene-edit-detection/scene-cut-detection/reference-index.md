@@ -1,4 +1,4 @@
-# After Effects — Detect edit points using Scene Edit Detection
+# After Effects - Detect edit points using Scene Edit Detection
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assign a type to Layer Markers in After Effects. [Assign a type to Layer Markers](assign-a-type-to-layer-markers.md).

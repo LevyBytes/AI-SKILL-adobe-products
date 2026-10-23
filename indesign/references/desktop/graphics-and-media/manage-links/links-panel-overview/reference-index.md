@@ -1,4 +1,4 @@
-# InDesign — Links panel overview
+# InDesign - Links panel overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Link status indicators in InDesign. [Link status indicators](link-status-indicators.md).

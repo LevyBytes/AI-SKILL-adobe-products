@@ -1,4 +1,4 @@
-# Working with the perspective grid — Show or hide the grid
+# Working with the perspective grid - Show or hide the grid
 
 The following AppleScript toggles Perspective Grid visibility through a script:
 

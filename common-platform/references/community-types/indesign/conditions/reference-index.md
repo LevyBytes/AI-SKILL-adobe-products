@@ -1,4 +1,4 @@
-# Shared Adobe platform — Conditions
+# Shared Adobe platform - Conditions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conditions collection iteration in Shared Adobe platform. [Conditions collection iteration](collection-iteration.md).

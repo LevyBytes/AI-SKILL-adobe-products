@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: paths, outlines and shapes
+# Shared Adobe platform - Indesign: paths, outlines and shapes
 
-Open when working with paths, outlines and shapes in Shared Adobe platform — Indesign.
+Open when working with paths, outlines and shapes in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-paths.json).
 

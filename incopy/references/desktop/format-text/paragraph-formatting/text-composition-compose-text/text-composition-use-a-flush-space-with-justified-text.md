@@ -1,4 +1,4 @@
-# Text composition — Use a flush space with justified text
+# Text composition - Use a flush space with justified text
 
 When a fully justified paragraph ends with a decorative-font end-of-story character, a flush space can insert variable room between that character and the final word. In nonjustified text, it behaves like ordinary word spacing; in justified text, it stretches to take up all extra space on the final line. This can noticeably change how Adobe Paragraph Composer formats the whole paragraph.
 

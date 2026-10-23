@@ -1,6 +1,6 @@
-# InDesign — FindObjectPreference: content fit, dimensions and overflow
+# InDesign - FindObjectPreference: content fit, dimensions and overflow
 
-Open when checking content fit, dimensions and overflow in InDesign — FindObjectPreference.
+Open when checking content fit, dimensions and overflow in InDesign - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-fitting.json).
 

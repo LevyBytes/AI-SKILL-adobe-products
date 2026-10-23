@@ -1,4 +1,4 @@
-# Shared Adobe platform — Behaviors
+# Shared Adobe platform - Behaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Behaviors collection iteration in Shared Adobe platform. [Behaviors collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# Photoshop — Cross-Compatible JS Sample
+# Photoshop - Cross-Compatible JS Sample
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Development in Photoshop. [Development](development.md).

@@ -10,6 +10,6 @@
   {"topic": "PF_InvalidateRect", "file": "references/plugin-sdk/pf-app-suite/pf-invalidate-rect.md", "summary": "Open when looking up PF_InvalidateRect in After Effects.", "keywords": ["PF_InvalidateRect"]},
   {"topic": "PF_IsRenderEngine", "file": "references/plugin-sdk/pf-app-suite/pf-is-render-engine.md", "summary": "Open when looking up PF_IsRenderEngine in After Effects.", "keywords": ["PF_IsRenderEngine"]},
   {"topic": "PF_SetCursor", "file": "references/plugin-sdk/pf-app-suite/pf-set-cursor.md", "summary": "Open when looking up PF_SetCursor in After Effects.", "keywords": ["PF_SetCursor"]},
-  {"topic": "Useful Utility Functions — PF_AppSuite", "file": "references/plugin-sdk/pf-app-suite/useful-utility-functions-pf-app-suite.md", "summary": "Open when looking up Useful Utility Functions — PF_AppSuite in After Effects.", "keywords": ["Useful Utility Functions — PF_AppSuite"]},
+  {"topic": "Useful Utility Functions - PF_AppSuite", "file": "references/plugin-sdk/pf-app-suite/useful-utility-functions-pf-app-suite.md", "summary": "Open when looking up Useful Utility Functions - PF_AppSuite in After Effects.", "keywords": ["Useful Utility Functions - PF_AppSuite"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — responseURL : `string`
+# window.XMLHttpRequest - responseURL : `string`
 
 **Read only**
 Holds the response URL, or an empty string when the URL is null.

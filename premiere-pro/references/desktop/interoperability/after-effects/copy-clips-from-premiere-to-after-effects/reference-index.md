@@ -1,4 +1,4 @@
-# Premiere Pro — Copy clips from Premiere to After Effects
+# Premiere Pro - Copy clips from Premiere to After Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy assets to After Effects in Premiere Pro. [Copy assets to After Effects](copy-assets-to-after-effects.md).

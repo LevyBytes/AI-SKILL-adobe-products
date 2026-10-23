@@ -1,4 +1,4 @@
-# Acrobat — Digital ID overview
+# Acrobat - Digital ID overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Digital ID usage in Acrobat. [Digital ID usage](digital-id-usage.md).

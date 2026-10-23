@@ -1,4 +1,4 @@
-# Photoshop — Writable stream default controller
+# Photoshop - Writable stream default controller
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up error(message) in Photoshop. [error(message)](error.md).

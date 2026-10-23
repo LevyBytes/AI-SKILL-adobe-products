@@ -1,6 +1,6 @@
-# InDesign — RadioButton: output color, screening and overprint
+# InDesign - RadioButton: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — RadioButton.
+Open when checking output color, screening and overprint in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

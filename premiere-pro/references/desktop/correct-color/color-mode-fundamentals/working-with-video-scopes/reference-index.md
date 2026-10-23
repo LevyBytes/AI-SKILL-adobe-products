@@ -1,4 +1,4 @@
-# Premiere Pro — Working with Video Scopes
+# Premiere Pro - Working with Video Scopes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Scopes in Premiere Pro. [Add Scopes](add-scopes.md).

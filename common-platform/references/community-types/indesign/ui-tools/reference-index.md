@@ -1,4 +1,4 @@
-# Shared Adobe platform — UITools
+# Shared Adobe platform - UITools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up UITools declaration in Shared Adobe platform. [UITools declaration](declaration.md).

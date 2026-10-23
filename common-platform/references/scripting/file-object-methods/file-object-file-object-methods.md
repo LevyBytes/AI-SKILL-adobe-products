@@ -1,3 +1,3 @@
-# File Object — File Object Methods
+# File Object - File Object Methods
 
 File objects provide these functions.

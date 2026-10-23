@@ -1,6 +1,6 @@
-# InDesign — Text style range: ruby annotations
+# InDesign - Text style range: ruby annotations
 
-Open when checking ruby annotations in InDesign — Text style range.
+Open when checking ruby annotations in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

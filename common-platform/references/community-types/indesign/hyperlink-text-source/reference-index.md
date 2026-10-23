@@ -1,4 +1,4 @@
-# Shared Adobe platform — HyperlinkTextSource
+# Shared Adobe platform - HyperlinkTextSource
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HyperlinkTextSource declaration in Shared Adobe platform. [HyperlinkTextSource declaration](declaration.md).

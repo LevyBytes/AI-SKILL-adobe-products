@@ -1,4 +1,4 @@
-# Scripting Constants — PerspectiveGridType
+# Scripting Constants - PerspectiveGridType
 
 | Value | Description |
 | --- | --- |

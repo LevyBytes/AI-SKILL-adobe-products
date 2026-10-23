@@ -1,6 +1,6 @@
-# InDesign — Change transliterate preference: find, replace and transliterate
+# InDesign - Change transliterate preference: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Change transliterate preference.
+Open when checking find, replace and transliterate in InDesign - Change transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

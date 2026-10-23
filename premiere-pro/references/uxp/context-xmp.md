@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: xmp metadata
+# Premiere Pro - UXP plugins and APIs: xmp metadata
 
-Open when working with xmp metadata in Premiere Pro — UXP plugins and APIs.
+Open when working with xmp metadata in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-xmp.json).
 

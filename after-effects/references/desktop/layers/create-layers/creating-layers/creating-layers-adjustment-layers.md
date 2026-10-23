@@ -1,4 +1,4 @@
-# Creating layers — Adjustment layers
+# Creating layers - Adjustment layers
 
 Apply an effect to a layer and it touches that layer only, none of the rest. An effect can stand on its own, though, if you set up an adjustment layer to hold it. Whatever effects ride on an adjustment layer reach every layer sitting beneath it in the stacking order. Park an adjustment layer at the very bottom of the stacking order and it produces no visible result.
 

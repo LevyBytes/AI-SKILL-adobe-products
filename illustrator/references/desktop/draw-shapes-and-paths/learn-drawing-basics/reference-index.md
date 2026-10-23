@@ -1,4 +1,4 @@
-# Illustrator — Learn drawing basics
+# Illustrator - Learn drawing basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust anchor point, handle, and bounding box display size in Illustrator. [Adjust anchor point, handle, and bounding box display size](adjust-anchor-point-handle-and-bounding-box-display-size.md).

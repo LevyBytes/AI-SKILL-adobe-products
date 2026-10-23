@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: color profiles and rendering intents
+# InDesign - InDesign document object model: color profiles and rendering intents
 
-Open when working with color profiles and rendering intents in InDesign — InDesign document object model.
+Open when working with color profiles and rendering intents in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-color-management.json).
 

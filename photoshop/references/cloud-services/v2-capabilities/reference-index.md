@@ -1,4 +1,4 @@
-# Photoshop — V2 capabilities
+# Photoshop - V2 capabilities
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Architectural improvements in Photoshop. [Architectural improvements references](architectural-improvements/reference-index.md).

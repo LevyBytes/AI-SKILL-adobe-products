@@ -1,9 +1,9 @@
-# window.XMLHttpRequest — timeout : `number`
+# window.XMLHttpRequest - timeout : `number`
 
 Number of milliseconds allowed for a request before it is automatically terminated.
 The default value is 0, meaning no timeout is applied.
 
-## window.XMLHttpRequest — timeout
+## window.XMLHttpRequest - timeout
 
 **Example**
 

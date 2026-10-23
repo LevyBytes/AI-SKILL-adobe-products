@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: character spacing and geometry
+# Shared Adobe platform - CharacterStyle: character spacing and geometry
 
-Open when checking character spacing and geometry in Shared Adobe platform — CharacterStyle.
+Open when checking character spacing and geometry in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

@@ -1,4 +1,4 @@
-# Photoshop — Color modes
+# Photoshop - Color modes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conversion options for indexed-color images in Photoshop. [Conversion options for indexed-color images](conversion-options-for-indexed-color-images.md).

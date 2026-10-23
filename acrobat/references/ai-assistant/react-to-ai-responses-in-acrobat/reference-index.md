@@ -1,4 +1,4 @@
-# Acrobat — React to AI responses in Acrobat
+# Acrobat - React to AI responses in Acrobat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Like or dislike a response in Acrobat. [Like or dislike a response](like-or-dislike-a-response.md).

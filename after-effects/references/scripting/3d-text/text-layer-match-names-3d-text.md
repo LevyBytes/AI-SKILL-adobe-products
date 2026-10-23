@@ -1,4 +1,4 @@
-# Text Layer Match Names — 3d Text
+# Text Layer Match Names - 3d Text
 
 | Match Name | Display Name (EN) |
 | --- | --- |

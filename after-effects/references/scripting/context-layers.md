@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: layer types and collections
+# After Effects - Scripting APIs: layer types and collections
 
-Open when working with layer types and collections in After Effects — Scripting APIs.
+Open when working with layer types and collections in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-layers.json).
 

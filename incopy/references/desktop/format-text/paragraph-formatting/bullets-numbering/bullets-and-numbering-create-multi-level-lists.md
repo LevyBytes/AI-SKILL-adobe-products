@@ -1,4 +1,4 @@
-# Bullets and numbering — Create multi-level lists
+# Bullets and numbering - Create multi-level lists
 
 Multi-level lists express hierarchy among list paragraphs. They are also known as outline lists because their structure resembles an outline. Numbering formats and indenting both show rank and subordination, making it clear how each paragraph relates to the items before and after it. A multi-level list can include up to nine levels.
 

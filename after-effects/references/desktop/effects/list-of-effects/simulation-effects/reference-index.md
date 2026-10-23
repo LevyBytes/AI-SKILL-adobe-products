@@ -1,4 +1,4 @@
-# After Effects — Simulation Effects
+# After Effects - Simulation Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Affects controls in After Effects. [Affects controls](affects-controls.md).

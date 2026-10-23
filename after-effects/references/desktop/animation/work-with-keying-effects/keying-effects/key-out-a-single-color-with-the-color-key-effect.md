@@ -1,4 +1,4 @@
-# Keying effects — Key out a single color with the Color Key effect
+# Keying effects - Key out a single color with the Color Key effect
 
 Pick the layer you mean to render partly transparent, then choose Effect > Obsolete > Color Key.
 

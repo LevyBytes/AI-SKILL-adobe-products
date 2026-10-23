@@ -1,4 +1,4 @@
-# Acrobat — Overview of prompt writing for AI Assistant
+# Acrobat - Overview of prompt writing for AI Assistant
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common mistakes to avoid in Acrobat. [Common mistakes to avoid](common-mistakes-to-avoid.md).

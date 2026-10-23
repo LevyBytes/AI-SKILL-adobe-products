@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: eps and pdf output, compatibility and permissions
+# Illustrator - Scripting APIs: eps and pdf output, compatibility and permissions
 
-Open when working with eps and pdf output, compatibility and permissions in Illustrator — Scripting APIs.
+Open when working with eps and pdf output, compatibility and permissions in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-eps-pdf-output.json).
 

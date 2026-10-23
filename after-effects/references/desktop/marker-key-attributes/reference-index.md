@@ -1,4 +1,4 @@
-# After Effects — Marker key attributes
+# After Effects - Marker key attributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up chapter in After Effects. [chapter](chapter.md).

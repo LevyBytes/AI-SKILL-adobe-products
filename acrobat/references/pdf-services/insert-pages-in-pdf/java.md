@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [InsertPDFPages.java](../examples/java/insert-pdf-pages/InsertPDFPages.java)
+- [insert-pdf-pages setup and source](../examples/java/insert-pdf-pages/insert-pdf-pages-setup.md)

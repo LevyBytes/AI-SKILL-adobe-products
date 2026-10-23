@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindGrepPreference: kenten emphasis
+# Shared Adobe platform - FindGrepPreference: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — FindGrepPreference.
+Open when checking kenten emphasis in Shared Adobe platform - FindGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

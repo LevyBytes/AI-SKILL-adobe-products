@@ -1,4 +1,4 @@
-# Acrobat — Organize pages
+# Acrobat - Organize pages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete pages in PDFs in Acrobat. [Delete pages in PDFs](delete-pages-in-pdfs.md).

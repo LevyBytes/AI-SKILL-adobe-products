@@ -1,6 +1,6 @@
-# Acrobat — Doc: links and web links
+# Acrobat - Doc: links and web links
 
-Open when working with links and web links in Acrobat — Doc.
+Open when working with links and web links in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-links.json).
 

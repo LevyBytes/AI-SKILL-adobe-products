@@ -1,4 +1,4 @@
-# Acrobat — Learn the basics
+# Acrobat - Learn the basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessibility overview in Acrobat. [Accessibility overview](accessibility-overview.md).

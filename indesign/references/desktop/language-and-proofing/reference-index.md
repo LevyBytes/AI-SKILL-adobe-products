@@ -1,4 +1,4 @@
-# InDesign — Language and proofing
+# InDesign - Language and proofing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Arabic and Hebrew in InDesign. [Arabic and Hebrew](arabic-and-hebrew.md).

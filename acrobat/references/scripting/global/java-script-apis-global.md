@@ -1,4 +1,4 @@
-# JavaScript APIs — global
+# JavaScript APIs - global
 
 A static JavaScript object that lets you pass data between documents and keep it alive from one session to the next. Data of that kind is termed persistent global data. A subscription mechanism handles sharing and change notification for global data across documents, letting you watch global variables and broadcast their value changes from one document to another.
 

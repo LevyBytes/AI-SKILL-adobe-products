@@ -1,4 +1,4 @@
-# Shared Adobe platform — RuleDataObject
+# Shared Adobe platform - RuleDataObject
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RuleDataObject declaration in Shared Adobe platform. [RuleDataObject declaration](declaration.md).

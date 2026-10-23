@@ -1,6 +1,6 @@
-# Shared Adobe platform — ObjectStyle: anchored object placement
+# Shared Adobe platform - ObjectStyle: anchored object placement
 
-Open when checking anchored object placement in Shared Adobe platform — ObjectStyle.
+Open when checking anchored object placement in Shared Adobe platform - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

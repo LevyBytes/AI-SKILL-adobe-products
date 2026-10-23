@@ -1,6 +1,6 @@
-# InDesign — ObjectStyle: events and listeners
+# InDesign - ObjectStyle: events and listeners
 
-Open when checking events and listeners in InDesign — ObjectStyle.
+Open when checking events and listeners in InDesign - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

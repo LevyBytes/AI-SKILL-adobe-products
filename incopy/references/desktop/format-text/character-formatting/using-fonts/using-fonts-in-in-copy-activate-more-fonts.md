@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Activate more fonts
+# Using fonts in InCopy - Activate more fonts
 
 Within InCopy, you can browse thousands of fonts from hundreds of type foundries, activate them immediately, and use them in the current document. After activation, every Creative Cloud application can use those fonts.
 

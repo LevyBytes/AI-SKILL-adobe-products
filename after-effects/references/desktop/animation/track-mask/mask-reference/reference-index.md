@@ -1,4 +1,4 @@
-# After Effects — Mask Reference
+# After Effects - Mask Reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a Mask Reference in After Effects. [Create a Mask Reference](create-a-mask-reference.md).

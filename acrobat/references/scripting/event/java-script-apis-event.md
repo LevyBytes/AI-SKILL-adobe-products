@@ -1,4 +1,4 @@
-# JavaScript APIs — event
+# JavaScript APIs - event
 
 Every JavaScript script runs because some particular event fired. For each such event JavaScript builds an event object, and while that event is unfolding you can reach into the object to inspect — and sometimes alter — the event's present state.
 

@@ -1,4 +1,4 @@
-# Rest Api — Index
+# Rest Api - Index
 
 > Adobe Photoshop reference. Original prose; identifiers preserved verbatim.
 

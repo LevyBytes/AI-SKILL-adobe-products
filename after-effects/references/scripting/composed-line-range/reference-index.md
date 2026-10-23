@@ -1,4 +1,4 @@
-# After Effects — Composed line range
+# After Effects - Composed line range
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ComposedLineRange object in After Effects. [ComposedLineRange object](composed-line-range-object.md).

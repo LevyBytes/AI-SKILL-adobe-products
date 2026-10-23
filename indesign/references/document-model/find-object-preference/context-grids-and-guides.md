@@ -1,6 +1,6 @@
-# InDesign — FindObjectPreference: baseline grids and layout guides
+# InDesign - FindObjectPreference: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in InDesign — FindObjectPreference.
+Open when checking baseline grids and layout guides in InDesign - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

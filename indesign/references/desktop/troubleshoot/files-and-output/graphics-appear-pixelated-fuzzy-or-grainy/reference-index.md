@@ -1,4 +1,4 @@
-# InDesign — Graphics appear pixelated, fuzzy, or grainy
+# InDesign - Graphics appear pixelated, fuzzy, or grainy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Image is transformed beyond its native resolution in InDesign. [Image is transformed beyond its native resolution](image-is-transformed-beyond-its-native-resolution.md).

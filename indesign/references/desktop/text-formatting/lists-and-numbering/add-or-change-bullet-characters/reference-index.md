@@ -1,4 +1,4 @@
-# InDesign — Add or change bullet characters
+# InDesign - Add or change bullet characters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a bullet character in InDesign. [Add a bullet character](add-a-bullet-character.md).

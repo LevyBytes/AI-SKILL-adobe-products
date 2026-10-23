@@ -1,4 +1,4 @@
-# After Effects — Layers
+# After Effects - Layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3 d layers in After Effects. [3 d layers references](3-d-layers/reference-index.md).

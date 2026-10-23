@@ -1,6 +1,6 @@
-# InDesign — Print preference: print paper, scaling and imposition
+# InDesign - Print preference: print paper, scaling and imposition
 
-Open when checking print paper, scaling and imposition in InDesign — Print preference.
+Open when checking print paper, scaling and imposition in InDesign - Print preference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-page-layout.json).
 

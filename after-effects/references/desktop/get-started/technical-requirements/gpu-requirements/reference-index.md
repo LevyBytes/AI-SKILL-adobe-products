@@ -1,4 +1,4 @@
-# After Effects — GPU and GPU driver requirements for After Effects
+# After Effects - GPU and GPU driver requirements for After Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apple Metal GPU acceleration in After Effects. [Apple Metal GPU acceleration](apple-metal-gpu-acceleration.md).

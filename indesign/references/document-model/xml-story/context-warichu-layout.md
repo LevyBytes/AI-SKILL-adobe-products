@@ -1,6 +1,6 @@
-# InDesign — XmlStory: warichu inline text
+# InDesign - XmlStory: warichu inline text
 
-Open when checking warichu inline text in InDesign — XmlStory.
+Open when checking warichu inline text in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

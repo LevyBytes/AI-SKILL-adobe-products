@@ -1,4 +1,4 @@
-# InCopy — Working with XML
+# InCopy - Working with XML
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About DTD files in InCopy. [About DTD files](about-dtd-files.md).

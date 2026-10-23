@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ElectronicSeal.java](../examples/java/electronic-seal/ElectronicSeal.java)
+- [electronic-seal setup and source](../examples/java/electronic-seal/electronic-seal-setup.md)

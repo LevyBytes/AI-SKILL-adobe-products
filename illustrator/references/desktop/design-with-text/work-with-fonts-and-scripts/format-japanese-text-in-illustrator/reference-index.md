@@ -1,4 +1,4 @@
-# Illustrator — Format Japanese text in Illustrator
+# Illustrator - Format Japanese text in Illustrator
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a Kinsoku set in Illustrator. [Apply a Kinsoku set](apply-a-kinsoku-set.md).

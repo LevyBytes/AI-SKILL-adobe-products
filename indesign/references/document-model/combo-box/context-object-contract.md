@@ -1,6 +1,6 @@
-# InDesign — Combo box: object identity and lifecycle
+# InDesign - Combo box: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Combo box.
+Open when checking object identity and lifecycle in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

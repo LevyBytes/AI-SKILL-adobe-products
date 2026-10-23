@@ -1,11 +1,11 @@
-# InDesign — Release history
+# InDesign - Release history
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Changelog in design v18 4 in InDesign. [Changelog in design v18 4 references](changelog-in-design-v18-4/reference-index.md).
 - Open when looking up Changelog in design v19 2 in InDesign. [Changelog in design v19 2 references](changelog-in-design-v19-2/reference-index.md).
-- Open when looking up Changelog — InDesign v18.5 in InDesign. [Changelog — InDesign v18.5](changelog-in-design-v18-5.md).
-- Open when looking up Changelog — InDesign v19.0 in InDesign. [Changelog — InDesign v19.0](changelog-in-design-v19-0.md).
-- Open when looking up Changelog — InDesign v19.0 in InDesign. [Changelog — InDesign v19.0 references](changelog-in-design-v19-0/reference-index.md).
+- Open when looking up Changelog - InDesign v18.5 in InDesign. [Changelog - InDesign v18.5](changelog-in-design-v18-5.md).
+- Open when looking up Changelog - InDesign v19.0 in InDesign. [Changelog - InDesign v19.0](changelog-in-design-v19-0.md).
+- Open when looking up Changelog - InDesign v19.0 in InDesign. [Changelog - InDesign v19.0 references](changelog-in-design-v19-0/reference-index.md).
 - Open when looking up In design v20 0 in InDesign. [In design v20 0 references](in-design-v20-0/reference-index.md).
 - Open when looking up Udt v2 0 in InDesign. [Udt v2 0 references](udt-v2-0/reference-index.md).
 - Open when looking up Uxp v6 3 in InDesign. [Uxp v6 3 references](uxp-v6-3/reference-index.md).

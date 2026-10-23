@@ -1,4 +1,4 @@
-# Shared Adobe platform — GeneralPreference
+# Shared Adobe platform - GeneralPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GeneralPreference declaration in Shared Adobe platform. [GeneralPreference declaration](declaration.md).

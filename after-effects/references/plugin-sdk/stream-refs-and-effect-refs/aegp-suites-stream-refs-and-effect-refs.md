@@ -1,4 +1,4 @@
-# AEGP Suites — StreamRefs And EffectRefs
+# AEGP Suites - StreamRefs And EffectRefs
 
 Wondering how to obtain an `AEGP_StreamRef` for an effect? Begin by fetching the effect's `AEGP_EffectRef` via `AEGP_GetNewEffectForEffect`().
 

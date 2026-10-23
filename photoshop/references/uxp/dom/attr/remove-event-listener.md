@@ -1,4 +1,4 @@
-# window.Attr — removeEventListener(eventName, callback, options)
+# window.Attr - removeEventListener(eventName, callback, options)
 
 **See**: [EventTarget - removeEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener)
 

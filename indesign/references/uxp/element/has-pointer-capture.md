@@ -1,4 +1,4 @@
-# window.Element — hasPointerCapture(pointerId)
+# window.Element - hasPointerCapture(pointerId)
 
 Determines whether this element currently owns pointer capture for the specified pointer.
 

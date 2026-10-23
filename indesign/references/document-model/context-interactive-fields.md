@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: interactive form fields and states
+# InDesign - InDesign document object model: interactive form fields and states
 
-Open when working with interactive form fields and states in InDesign — InDesign document object model.
+Open when working with interactive form fields and states in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-interactive-fields.json).
 

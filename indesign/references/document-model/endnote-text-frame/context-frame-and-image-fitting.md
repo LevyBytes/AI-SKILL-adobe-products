@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: image fitting, cropping and resolution
+# InDesign - EndnoteTextFrame: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in InDesign — EndnoteTextFrame.
+Open when checking image fitting, cropping and resolution in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

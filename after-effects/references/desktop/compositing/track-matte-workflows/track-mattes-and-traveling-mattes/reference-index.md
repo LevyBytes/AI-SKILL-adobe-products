@@ -1,4 +1,4 @@
-# After Effects — Track Mattes and Traveling Mattes
+# After Effects - Track Mattes and Traveling Mattes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert a layer into a Track Matte in After Effects. [Convert a layer into a Track Matte](convert-a-layer-into-a-track-matte.md).

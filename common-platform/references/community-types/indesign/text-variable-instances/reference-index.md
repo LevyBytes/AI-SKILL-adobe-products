@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextVariableInstances
+# Shared Adobe platform - TextVariableInstances
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextVariableInstances collection iteration in Shared Adobe platform. [TextVariableInstances collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# After Effects — AEGP_PFInterfaceSuite1
+# After Effects - AEGP_PFInterfaceSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_ConvertEffectToCompTime in After Effects. [AEGP_ConvertEffectToCompTime](aegp-convert-effect-to-comp-time.md).

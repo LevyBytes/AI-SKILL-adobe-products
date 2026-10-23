@@ -1,4 +1,4 @@
-# Acrobat — PDF Accessibility Auto-Tag API — Generate tagged PDF from a PDF
+# Acrobat - PDF Accessibility Auto-Tag API - Generate tagged PDF from a PDF
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET in Acrobat. [.NET](net.md).

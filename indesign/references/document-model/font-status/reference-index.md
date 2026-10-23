@@ -1,4 +1,4 @@
-# InDesign — FontStatus
+# InDesign - FontStatus
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FAUXED in InDesign. [FAUXED](fauxed.md).

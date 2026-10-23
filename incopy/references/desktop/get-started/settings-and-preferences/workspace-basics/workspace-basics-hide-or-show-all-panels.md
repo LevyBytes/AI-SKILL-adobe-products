@@ -1,4 +1,4 @@
-# Workspace basics — Hide or show all panels
+# Workspace basics - Hide or show all panels
 
 (Illustrator, Adobe InCopy®, Adobe InDesign®, Photoshop, Fireworks) Press Tab to toggle every panel, including the Tools panel and Control panel.
 

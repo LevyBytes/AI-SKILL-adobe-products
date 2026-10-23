@@ -1,4 +1,4 @@
-# Audition — Analyze phase, frequency, and amplitude with Audition
+# Audition - Analyze phase, frequency, and amplitude with Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Analyze amplitude in Audition. [Analyze amplitude](analyze-amplitude.md).

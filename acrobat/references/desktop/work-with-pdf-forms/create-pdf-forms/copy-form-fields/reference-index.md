@@ -1,4 +1,4 @@
-# Acrobat — Copy form fields
+# Acrobat - Copy form fields
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy a single form field in Acrobat. [Copy a single form field](copy-a-single-form-field.md).

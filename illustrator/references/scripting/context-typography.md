@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: typography, language and writing systems
+# Illustrator - Scripting APIs: typography, language and writing systems
 
-Open when working with typography, language and writing systems in Illustrator — Scripting APIs.
+Open when working with typography, language and writing systems in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-typography.json).
 

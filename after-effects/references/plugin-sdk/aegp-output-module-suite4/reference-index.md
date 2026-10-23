@@ -1,4 +1,4 @@
-# After Effects — AEGP_OutputModuleSuite4
+# After Effects - AEGP_OutputModuleSuite4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_AddDefaultOutputModule in After Effects. [AEGP_AddDefaultOutputModule](aegp-add-default-output-module.md).

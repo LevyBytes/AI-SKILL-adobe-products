@@ -1,4 +1,4 @@
-# Firefly — Prerequisites
+# Firefly - Prerequisites
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Credentials in Firefly. [Credentials](credentials.md).

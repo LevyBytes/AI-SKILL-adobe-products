@@ -1,4 +1,4 @@
-# IRT compliance — Overview
+# IRT compliance - Overview
 
 IRT (Institut für Rundfunktechnik) publishes technical guidelines and specifications for Germany's public broadcasters. ARD, ZDF, ORF, and ARTE specify six MXF Profiles for HD program material, and Adobe Media Encoder includes presets that correspond to each profile.
 

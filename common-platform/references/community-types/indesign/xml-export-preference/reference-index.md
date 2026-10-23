@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLExportPreference
+# Shared Adobe platform - XMLExportPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLExportPreference declaration in Shared Adobe platform. [XMLExportPreference declaration](declaration.md).

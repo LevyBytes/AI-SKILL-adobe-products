@@ -1,4 +1,4 @@
-# Illustrator — Align graphic objects with guides
+# Illustrator - Align graphic objects with guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create guides in Illustrator. [Create guides](create-guides.md).

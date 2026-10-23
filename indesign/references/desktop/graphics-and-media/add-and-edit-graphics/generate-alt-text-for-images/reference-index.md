@@ -1,4 +1,4 @@
-# InDesign — Generate alt text for images
+# InDesign - Generate alt text for images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Admin control for Enterprise users in InDesign. [Admin control for Enterprise users](admin-control-for-enterprise-users.md).

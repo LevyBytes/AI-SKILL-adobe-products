@@ -1,6 +1,6 @@
-# InDesign — Text default: events and listeners
+# InDesign - Text default: events and listeners
 
-Open when checking events and listeners in InDesign — Text default.
+Open when checking events and listeners in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

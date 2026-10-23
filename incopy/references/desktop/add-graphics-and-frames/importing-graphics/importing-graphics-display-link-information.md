@@ -1,4 +1,4 @@
-# Importing graphics — Display link information
+# Importing graphics - Display link information
 
 The Links panel's Link Info section shows details for the selected linked file.
 

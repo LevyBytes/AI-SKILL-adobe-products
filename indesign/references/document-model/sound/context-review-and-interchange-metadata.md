@@ -1,6 +1,6 @@
-# InDesign — Sound: document metadata and imported review
+# InDesign - Sound: document metadata and imported review
 
-Open when checking document metadata and imported review in InDesign — Sound.
+Open when checking document metadata and imported review in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

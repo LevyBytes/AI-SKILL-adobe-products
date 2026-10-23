@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: script dialog containers
+# Shared Adobe platform - Indesign: script dialog containers
 
-Open when working with script dialog containers in Shared Adobe platform — Indesign.
+Open when working with script dialog containers in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-dialog-containers.json).
 

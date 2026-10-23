@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: artboards, crop bounds and coordinates
+# Shared Adobe platform - Document: artboards, crop bounds and coordinates
 
-Open when working with artboards, crop bounds and coordinates in Shared Adobe platform — Document.
+Open when working with artboards, crop bounds and coordinates in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-artboard-geometry.json).
 

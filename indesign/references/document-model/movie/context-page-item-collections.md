@@ -1,6 +1,6 @@
-# InDesign — Movie: page item collections
+# InDesign - Movie: page item collections
 
-Open when checking page item collections in InDesign — Movie.
+Open when checking page item collections in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

@@ -1,4 +1,4 @@
-# Work with swatches — Sort swatches
+# Work with swatches - Sort swatches
 
 Swatches can be ordered alphabetically or by their color values. Sorting can target every swatch or only the selected ones.
 

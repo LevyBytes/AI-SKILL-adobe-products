@@ -1,4 +1,4 @@
-# window.FormData — delete(name)
+# window.FormData - delete(name)
 
 Deletes every FormData entry whose name matches the provided name.
 

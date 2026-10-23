@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: graphics utility suites
+# After Effects - C++ plugin SDK: graphics utility suites
 
-Open when working with graphics utility suites in After Effects — C++ plugin SDK.
+Open when working with graphics utility suites in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-graphics-utility-suites.json).
 

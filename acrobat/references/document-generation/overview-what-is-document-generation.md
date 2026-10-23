@@ -1,4 +1,4 @@
-# Overview — What is Document Generation?
+# Overview - What is Document Generation?
 
 Producing business-critical paperwork — think invoices, contracts, sales proposals, and work orders — automatically is what Document Generation refers to.
 

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: errors
+# After Effects - C++ plugin SDK: errors
 
-Open when working with errors in After Effects — C++ plugin SDK.
+Open when working with errors in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-basics-errors.json).
 

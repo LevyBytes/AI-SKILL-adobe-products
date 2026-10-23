@@ -1,4 +1,4 @@
-# InDesign — Resize constraints
+# InDesign - Resize constraints
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up INVERSE_PROPORTIONS in InDesign. [INVERSE_PROPORTIONS](inverseproportions.md).

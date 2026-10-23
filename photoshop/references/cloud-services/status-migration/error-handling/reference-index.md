@@ -1,4 +1,4 @@
-# Photoshop — Error handling
+# Photoshop - Error handling
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common error codes in Photoshop. [Common error codes](common-error-codes.md).

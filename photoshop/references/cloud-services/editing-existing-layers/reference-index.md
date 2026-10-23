@@ -1,4 +1,4 @@
-# Photoshop — Editing existing layers
+# Photoshop - Editing existing layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up V1 edit-block form in Photoshop. [V1 edit-block form](v1-edit-block-form.md).

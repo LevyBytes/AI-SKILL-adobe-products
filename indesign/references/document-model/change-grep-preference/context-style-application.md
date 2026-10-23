@@ -1,6 +1,6 @@
-# InDesign — Change grep preference: apply and manage styles
+# InDesign - Change grep preference: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Change grep preference.
+Open when checking apply and manage styles in InDesign - Change grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

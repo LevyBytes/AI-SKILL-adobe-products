@@ -1,4 +1,4 @@
-# Premiere Pro — Preferences and settings issues
+# Premiere Pro - Preferences and settings issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Reset preferences at launch in Premiere Pro. [Reset preferences at launch](reset-preferences-at-launch.md).

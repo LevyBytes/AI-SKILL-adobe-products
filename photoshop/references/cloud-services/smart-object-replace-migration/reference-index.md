@@ -1,4 +1,4 @@
-# Photoshop — Smart object replace migration
+# Photoshop - Smart object replace migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional Resources in Photoshop. [Additional Resources](additional-resources.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: render queues, output modules and acceleration
+# Shared Adobe platform - Aftereffects: render queues, output modules and acceleration
 
-Open when working with render queues, output modules and acceleration in Shared Adobe platform — Aftereffects.
+Open when working with render queues, output modules and acceleration in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-render-output.json).
 

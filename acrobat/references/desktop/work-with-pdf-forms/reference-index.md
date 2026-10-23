@@ -1,4 +1,4 @@
-# Acrobat — Work with pdf forms
+# Acrobat - Work with pdf forms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create PDF forms in Acrobat. [Create PDF forms](create-pdf-forms.md).

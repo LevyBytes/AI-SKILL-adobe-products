@@ -1,24 +1,24 @@
-# InCopy — Find Change
+# InCopy - Find Change
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Find/Change — Common Find/Change techniques in InCopy. [Find/Change — Common Find/Change techniques](find-change-common-find-change-techniques.md).
-- Open when looking up Find/Change — Convert double-byte character type in InCopy. [Find/Change — Convert double-byte character type](find-change-convert-double-byte-character-type.md).
-- Open when looking up Find/Change — Delete queries in InCopy. [Find/Change — Delete queries](find-change-delete-queries.md).
-- Open when looking up Find/Change — Find and change fonts in InCopy. [Find/Change — Find and change fonts](find-change-find-and-change-fonts.md).
-- Open when looking up Find/Change — Find and change formatted text in InCopy. [Find/Change — Find and change formatted text](find-change-find-and-change-formatted-text.md).
-- Open when looking up Find/Change — Find and change glyphs in InCopy. [Find/Change — Find and change glyphs](find-change-find-and-change-glyphs.md).
-- Open when looking up Find/Change — Find and change objects in InCopy. [Find/Change — Find and change objects](find-change-find-and-change-objects.md).
-- Open when looking up Find/Change — Find and change text in InCopy. [Find/Change — Find and change text](find-change-find-and-change-text.md).
-- Open when looking up Find/Change — Find/change items using queries in InCopy. [Find/Change — Find/change items using queries](find-change-find-change-items-using-queries.md).
-- Open when looking up Find/Change — GREP search examples in InCopy. [Find/Change — GREP search examples](find-change-grep-search-examples.md).
-- Open when looking up Find/Change — Load queries in InCopy. [Find/Change — Load queries](find-change-load-queries.md).
-- Open when looking up Find/Change — Metacharacters for searching in InCopy. [Find/Change — Metacharacters for searching](find-change-metacharacters-for-searching.md).
-- Open when looking up Find/Change — Notes on finding and changing text in InCopy in InCopy. [Find/Change — Notes on finding and changing text in InCopy](find-change-notes-on-finding-and-changing-text-in-in-copy.md).
-- Open when looking up Find/Change — Save queries in InCopy. [Find/Change — Save queries](find-change-save-queries.md).
-- Open when looking up Find/Change — Search options for finding and changing text in InCopy. [Find/Change — Search options for finding and changing text](find-change-search-options-for-finding-and-changing-text.md).
-- Open when looking up Find/Change — Search using GREP expressions in InCopy. [Find/Change — Search using GREP expressions](find-change-search-using-grep-expressions.md).
-- Open when looking up Find/Change — Search using queries in InCopy. [Find/Change — Search using queries](find-change-search-using-queries.md).
-- Open when looking up Find/Change — Tips for constructing GREP searches in InCopy. [Find/Change — Tips for constructing GREP searches](find-change-tips-for-constructing-grep-searches.md).
+- Open when looking up Find/Change - Common Find/Change techniques in InCopy. [Find/Change - Common Find/Change techniques](find-change-common-find-change-techniques.md).
+- Open when looking up Find/Change - Convert double-byte character type in InCopy. [Find/Change - Convert double-byte character type](find-change-convert-double-byte-character-type.md).
+- Open when looking up Find/Change - Delete queries in InCopy. [Find/Change - Delete queries](find-change-delete-queries.md).
+- Open when looking up Find/Change - Find and change fonts in InCopy. [Find/Change - Find and change fonts](find-change-find-and-change-fonts.md).
+- Open when looking up Find/Change - Find and change formatted text in InCopy. [Find/Change - Find and change formatted text](find-change-find-and-change-formatted-text.md).
+- Open when looking up Find/Change - Find and change glyphs in InCopy. [Find/Change - Find and change glyphs](find-change-find-and-change-glyphs.md).
+- Open when looking up Find/Change - Find and change objects in InCopy. [Find/Change - Find and change objects](find-change-find-and-change-objects.md).
+- Open when looking up Find/Change - Find and change text in InCopy. [Find/Change - Find and change text](find-change-find-and-change-text.md).
+- Open when looking up Find/Change - Find/change items using queries in InCopy. [Find/Change - Find/change items using queries](find-change-find-change-items-using-queries.md).
+- Open when looking up Find/Change - GREP search examples in InCopy. [Find/Change - GREP search examples](find-change-grep-search-examples.md).
+- Open when looking up Find/Change - Load queries in InCopy. [Find/Change - Load queries](find-change-load-queries.md).
+- Open when looking up Find/Change - Metacharacters for searching in InCopy. [Find/Change - Metacharacters for searching](find-change-metacharacters-for-searching.md).
+- Open when looking up Find/Change - Notes on finding and changing text in InCopy in InCopy. [Find/Change - Notes on finding and changing text in InCopy](find-change-notes-on-finding-and-changing-text-in-in-copy.md).
+- Open when looking up Find/Change - Save queries in InCopy. [Find/Change - Save queries](find-change-save-queries.md).
+- Open when looking up Find/Change - Search options for finding and changing text in InCopy. [Find/Change - Search options for finding and changing text](find-change-search-options-for-finding-and-changing-text.md).
+- Open when looking up Find/Change - Search using GREP expressions in InCopy. [Find/Change - Search using GREP expressions](find-change-search-using-grep-expressions.md).
+- Open when looking up Find/Change - Search using queries in InCopy. [Find/Change - Search using queries](find-change-search-using-queries.md).
+- Open when looking up Find/Change - Tips for constructing GREP searches in InCopy. [Find/Change - Tips for constructing GREP searches](find-change-tips-for-constructing-grep-searches.md).
 - Open when looking up GREP assertions and capture groups in InCopy. [GREP assertions and capture groups](grep-assertions-and-captures.md).
 - Open when looking up GREP case and line modes in InCopy. [GREP case and line modes](grep-case-and-line-modes.md).
 - Open when looking up GREP character classes, captures and boundaries in InCopy. [GREP character classes, captures and boundaries](grep-classes-and-boundaries.md).

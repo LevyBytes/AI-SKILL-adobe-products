@@ -1,4 +1,4 @@
-# Shared Adobe platform — ParagraphAttributes
+# Shared Adobe platform - ParagraphAttributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParagraphAttributes declaration in Shared Adobe platform. [ParagraphAttributes declaration](declaration.md).

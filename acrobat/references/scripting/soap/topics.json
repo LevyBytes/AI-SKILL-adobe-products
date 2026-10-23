@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Authenticated SOAP request example", "file": "references/scripting/soap/authenticated-request-example.md", "summary": "Open when looking up Authenticated SOAP request example in Acrobat.", "keywords": ["Authenticated SOAP request example"]},
-  {"topic": "JavaScript APIs — SOAP", "file": "references/scripting/soap/java-script-apis-soap.md", "summary": "Open when looking up JavaScript APIs — SOAP in Acrobat.", "keywords": ["JavaScript APIs — SOAP"]},
+  {"topic": "JavaScript APIs - SOAP", "file": "references/scripting/soap/java-script-apis-soap.md", "summary": "Open when looking up JavaScript APIs - SOAP in Acrobat.", "keywords": ["JavaScript APIs - SOAP"]},
   {"topic": "oResult parameter", "file": "references/scripting/soap/o-result-parameter.md", "summary": "Open when looking up oResult parameter in Acrobat.", "keywords": ["oResult parameter"]},
   {"topic": "queryServices", "file": "references/scripting/soap/query-services.md", "summary": "Open when looking up queryServices in Acrobat.", "keywords": ["queryServices"]},
   {"topic": "resolveService", "file": "references/scripting/soap/resolve-service.md", "summary": "Open when looking up resolveService in Acrobat.", "keywords": ["resolveService"]},

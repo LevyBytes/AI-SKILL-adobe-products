@@ -1,4 +1,4 @@
-# After Effects — Effects
+# After Effects - Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blur and sharpen in After Effects. [Blur and sharpen references](blur-and-sharpen/reference-index.md).

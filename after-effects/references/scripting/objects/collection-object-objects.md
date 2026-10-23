@@ -1,4 +1,4 @@
-# Collection object — Objects
+# Collection object - Objects
 
 - ItemCollection object Every item the Project panel holds — imported files, folders, solids, and the like.
 - LayerCollection object Every layer that a composition contains.

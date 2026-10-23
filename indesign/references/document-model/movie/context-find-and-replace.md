@@ -1,6 +1,6 @@
-# InDesign — Movie: find, replace and transliterate
+# InDesign - Movie: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Movie.
+Open when checking find, replace and transliterate in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

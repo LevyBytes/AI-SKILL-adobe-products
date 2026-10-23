@@ -1,4 +1,4 @@
-# Table strokes and fills — Table stroke and fill options
+# Table strokes and fills - Table stroke and fill options
 
 For table or cell strokes and fills, these options are available:
 

@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [delete-pdf-pages.cjs](../examples/node/delete-pdf-pages/delete-pdf-pages.cjs)
+- [delete-pdf-pages setup and source](../examples/node/delete-pdf-pages/delete-pdf-pages-setup.md)

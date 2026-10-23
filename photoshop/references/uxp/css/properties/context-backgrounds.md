@@ -1,6 +1,6 @@
-# Photoshop — Properties: backgrounds and transparency
+# Photoshop - Properties: backgrounds and transparency
 
-Open when working with backgrounds and transparency in Photoshop — Properties.
+Open when working with backgrounds and transparency in Photoshop - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-backgrounds.json).
 

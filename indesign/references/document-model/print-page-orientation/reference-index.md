@@ -1,4 +1,4 @@
-# InDesign — Print page orientation
+# InDesign - Print page orientation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LANDSCAPE in InDesign. [LANDSCAPE](landscape.md).

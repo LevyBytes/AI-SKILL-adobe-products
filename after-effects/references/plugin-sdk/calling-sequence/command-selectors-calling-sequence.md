@@ -1,4 +1,4 @@
-# Command Selectors — Calling Sequence
+# Command Selectors - Calling Sequence
 
 Just the opening handful of command selectors can be counted on; from there, what the user does drives the rest of the calling sequence.
 

@@ -1,4 +1,4 @@
-# Fixed issues in Adobe Audition version 25.3 — Fixed issues in Adobe Audition version 23.6.1
+# Fixed issues in Adobe Audition version 25.3 - Fixed issues in Adobe Audition version 23.6.1
 
 - Fixed a crash that could follow the "Audition has encountered an error," message.
 - Resolved a Declicker crash with audio files using sample rates greater than 96kHz.

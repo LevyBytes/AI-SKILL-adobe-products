@@ -1,4 +1,4 @@
-# Table strokes and fills — Change the table border
+# Table strokes and fills - Change the table border
 
 The table border can be edited from Table Setup or from the Stroke panel.
 

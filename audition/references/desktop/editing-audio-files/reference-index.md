@@ -1,4 +1,4 @@
-# Audition — Editing audio files
+# Audition - Editing audio files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Analyze phase, frequency, and amplitude with Audition in Audition. [Analyze phase, frequency, and amplitude with Audition](analyze-phase-frequency-and-amplitude-with-audition.md).

@@ -1,4 +1,4 @@
-# InDesign — Set up autocorrect and dynamic spelling
+# InDesign - Set up autocorrect and dynamic spelling
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Turn on Autocorrect and add custom word corrections in InDesign. [Turn on Autocorrect and add custom word corrections](turn-on-autocorrect-and-add-custom-word-corrections.md).

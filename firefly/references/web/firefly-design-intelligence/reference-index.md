@@ -1,4 +1,4 @@
-# Firefly — Firefly design intelligence
+# Firefly - Firefly design intelligence
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Firefly Design Intelligence for Illustator in Firefly. [Firefly Design Intelligence for Illustator](firefly-design-intelligence-for-illustator.md).

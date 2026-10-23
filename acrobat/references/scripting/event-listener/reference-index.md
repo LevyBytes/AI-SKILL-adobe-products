@@ -1,4 +1,4 @@
-# Acrobat — Event listener
+# Acrobat - Event listener
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up afterBlur in Acrobat. [afterBlur](after-blur.md).
@@ -17,7 +17,7 @@
 - Open when looking up afterStatus in Acrobat. [afterStatus](after-status.md).
 - Open when looking up afterStop in Acrobat. [afterStop](after-stop.md).
 - Open when looking up EventListener methods in Acrobat. [EventListener methods](event-listener-methods.md).
-- Open when looking up JavaScript APIs — EventListener in Acrobat. [JavaScript APIs — EventListener](java-script-apis-event-listener.md).
+- Open when looking up JavaScript APIs - EventListener in Acrobat. [JavaScript APIs - EventListener](java-script-apis-event-listener.md).
 - Open when looking up onBlur in Acrobat. [onBlur](on-blur.md).
 - Open when looking up onClose in Acrobat. [onClose](on-close.md).
 - Open when looking up onDestroy in Acrobat. [onDestroy](on-destroy.md).

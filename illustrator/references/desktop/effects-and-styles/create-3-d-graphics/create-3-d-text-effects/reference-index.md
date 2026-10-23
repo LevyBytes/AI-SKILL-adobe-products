@@ -1,4 +1,4 @@
-# Illustrator — Create 3D text effects
+# Illustrator - Create 3D text effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply depth to the text in Illustrator. [Apply depth to the text](apply-depth-to-the-text.md).

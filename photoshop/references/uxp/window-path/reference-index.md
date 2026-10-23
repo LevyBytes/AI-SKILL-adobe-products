@@ -1,4 +1,4 @@
-# Photoshop — Window path
+# Photoshop - Window path
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up basename(path, [ext]) in Photoshop. [basename(path, ext)](basename.md).

@@ -1,4 +1,4 @@
-# Getting started — Photoshop C++ SDK
+# Getting started - Photoshop C++ SDK
 
 Photoshop provides multiple C based plugin APIs, documented in the [downloadable package](https://console.adobe.io/servicesandapis).
 To reach those APIs from a hybrid plugin, expose an additional function entry point.

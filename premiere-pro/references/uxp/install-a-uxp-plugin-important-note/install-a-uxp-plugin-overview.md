@@ -1,4 +1,4 @@
-# Install a UXP plugin — Overview
+# Install a UXP plugin - Overview
 
 The installation path changes with the distribution channel: Creative Cloud Marketplace installs, `.ccx` installer files from independent sources, and enterprise deployments each use a slightly different route.
 

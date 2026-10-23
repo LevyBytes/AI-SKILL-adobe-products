@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ExtractTextTableInfoWithFiguresTablesRenditionsFromPDF.java](../examples/java/extract-figure-table-renditions/ExtractTextTableInfoWithFiguresTablesRenditionsFromPDF.java)
+- [extract-figure-table-renditions setup and source](../examples/java/extract-figure-table-renditions/extract-renditions-setup.md)

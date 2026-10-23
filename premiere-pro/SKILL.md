@@ -1,8 +1,9 @@
 ---
 name: premiere-pro
-description: Use when a task concerns Adobe Premiere Pro editing, timelines, media and proxies, text-based editing, graphics and captions, audio mixing, effects, masks, color management and grading, export, collaboration, troubleshooting, ExtendScript, Premiere UXP classes, or UXP plug-in development and runtime APIs. Preserve each reference's host, platform, and version conditions.
+description: "Use when a task concerns Adobe Premiere Pro editing, timelines, media and proxies, text-based editing, graphics and captions, audio mixing, effects, masks, color management and grading, export, collaboration, troubleshooting, ExtendScript, Premiere UXP classes, or UXP plug-in development and runtime APIs."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

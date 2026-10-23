@@ -1,21 +1,21 @@
-# InCopy — Tabs Indents
+# InCopy - Tabs Indents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Tabs and indents — Add tab leaders in InCopy. [Tabs and indents — Add tab leaders](tabs-and-indents-add-tab-leaders.md).
-- Open when looking up Tabs and indents — Align the Tabs dialog box ruler with your text in InCopy. [Tabs and indents — Align the Tabs dialog box ruler with your text](align-the-tabs-dialog-box-ruler-with-your-text.md).
-- Open when looking up Tabs and indents — Change a tab from one alignment to another in InCopy. [Tabs and indents — Change a tab from one alignment to another](tabs-and-indents-change-a-tab-from-one-alignment-to-another.md).
-- Open when looking up Tabs and indents — Create a hanging indent in InCopy. [Tabs and indents — Create a hanging indent](tabs-and-indents-create-a-hanging-indent.md).
-- Open when looking up Tabs and indents — Delete a tab setting in InCopy. [Tabs and indents — Delete a tab setting](tabs-and-indents-delete-a-tab-setting.md).
-- Open when looking up Tabs and indents — Insert right indent tabs in InCopy. [Tabs and indents — Insert right indent tabs](tabs-and-indents-insert-right-indent-tabs.md).
-- Open when looking up Tabs and indents — Move a tab setting in InCopy. [Tabs and indents — Move a tab setting](tabs-and-indents-move-a-tab-setting.md).
-- Open when looking up Tabs and indents — Move, delete, and edit tab settings in InCopy. [Tabs and indents — Move, delete, and edit tab settings](tabs-and-indents-move-delete-and-edit-tab-settings.md).
-- Open when looking up Tabs and indents — Open the Tabs dialog box in InCopy. [Tabs and indents — Open the Tabs dialog box](tabs-and-indents-open-the-tabs-dialog-box.md).
-- Open when looking up Tabs and indents — Repeat tabs in InCopy. [Tabs and indents — Repeat tabs](tabs-and-indents-repeat-tabs.md).
-- Open when looking up Tabs and indents — Reset indents in InCopy. [Tabs and indents — Reset indents](tabs-and-indents-reset-indents.md).
-- Open when looking up Tabs and indents — Right-indent the last line of a paragraph in InCopy. [Tabs and indents — Right-indent the last line of a paragraph](tabs-and-indents-right-indent-the-last-line-of-a-paragraph.md).
-- Open when looking up Tabs and indents — Set an indent using the Tabs dialog box in InCopy. [Tabs and indents — Set an indent using the Tabs dialog box](tabs-and-indents-set-an-indent-using-the-tabs-dialog-box.md).
-- Open when looking up Tabs and indents — Set indents in InCopy. [Tabs and indents — Set indents](tabs-and-indents-set-indents.md).
-- Open when looking up Tabs and indents — Set indents using the Paragraph panel or the Control panel in InCopy. [Tabs and indents — Set indents using the Paragraph panel or the Control panel](set-indents-using-the-paragraph-panel-or-the-control-panel.md).
-- Open when looking up Tabs and indents — Set tabs in InCopy. [Tabs and indents — Set tabs](tabs-and-indents-set-tabs.md).
-- Open when looking up Tabs and indents — Specify characters for decimal tabs in InCopy. [Tabs and indents — Specify characters for decimal tabs](tabs-and-indents-specify-characters-for-decimal-tabs.md).
-- Open when looking up Tabs and indents — Use Indent To Here in InCopy. [Tabs and indents — Use Indent To Here](tabs-and-indents-use-indent-to-here.md).
+- Open when looking up Tabs and indents - Add tab leaders in InCopy. [Tabs and indents - Add tab leaders](tabs-and-indents-add-tab-leaders.md).
+- Open when looking up Tabs and indents - Align the Tabs dialog box ruler with your text in InCopy. [Tabs and indents - Align the Tabs dialog box ruler with your text](align-the-tabs-dialog-box-ruler-with-your-text.md).
+- Open when looking up Tabs and indents - Change a tab from one alignment to another in InCopy. [Tabs and indents - Change a tab from one alignment to another](tabs-and-indents-change-a-tab-from-one-alignment-to-another.md).
+- Open when looking up Tabs and indents - Create a hanging indent in InCopy. [Tabs and indents - Create a hanging indent](tabs-and-indents-create-a-hanging-indent.md).
+- Open when looking up Tabs and indents - Delete a tab setting in InCopy. [Tabs and indents - Delete a tab setting](tabs-and-indents-delete-a-tab-setting.md).
+- Open when looking up Tabs and indents - Insert right indent tabs in InCopy. [Tabs and indents - Insert right indent tabs](tabs-and-indents-insert-right-indent-tabs.md).
+- Open when looking up Tabs and indents - Move a tab setting in InCopy. [Tabs and indents - Move a tab setting](tabs-and-indents-move-a-tab-setting.md).
+- Open when looking up Tabs and indents - Move, delete, and edit tab settings in InCopy. [Tabs and indents - Move, delete, and edit tab settings](tabs-and-indents-move-delete-and-edit-tab-settings.md).
+- Open when looking up Tabs and indents - Open the Tabs dialog box in InCopy. [Tabs and indents - Open the Tabs dialog box](tabs-and-indents-open-the-tabs-dialog-box.md).
+- Open when looking up Tabs and indents - Repeat tabs in InCopy. [Tabs and indents - Repeat tabs](tabs-and-indents-repeat-tabs.md).
+- Open when looking up Tabs and indents - Reset indents in InCopy. [Tabs and indents - Reset indents](tabs-and-indents-reset-indents.md).
+- Open when looking up Tabs and indents - Right-indent the last line of a paragraph in InCopy. [Tabs and indents - Right-indent the last line of a paragraph](tabs-and-indents-right-indent-the-last-line-of-a-paragraph.md).
+- Open when looking up Tabs and indents - Set an indent using the Tabs dialog box in InCopy. [Tabs and indents - Set an indent using the Tabs dialog box](tabs-and-indents-set-an-indent-using-the-tabs-dialog-box.md).
+- Open when looking up Tabs and indents - Set indents in InCopy. [Tabs and indents - Set indents](tabs-and-indents-set-indents.md).
+- Open when looking up Tabs and indents - Set indents using the Paragraph panel or the Control panel in InCopy. [Tabs and indents - Set indents using the Paragraph panel or the Control panel](set-indents-using-the-paragraph-panel-or-the-control-panel.md).
+- Open when looking up Tabs and indents - Set tabs in InCopy. [Tabs and indents - Set tabs](tabs-and-indents-set-tabs.md).
+- Open when looking up Tabs and indents - Specify characters for decimal tabs in InCopy. [Tabs and indents - Specify characters for decimal tabs](tabs-and-indents-specify-characters-for-decimal-tabs.md).
+- Open when looking up Tabs and indents - Use Indent To Here in InCopy. [Tabs and indents - Use Indent To Here](tabs-and-indents-use-indent-to-here.md).

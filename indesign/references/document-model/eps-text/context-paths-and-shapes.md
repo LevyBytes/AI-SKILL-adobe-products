@@ -1,6 +1,6 @@
-# InDesign — Eps text: paths and shape operations
+# InDesign - Eps text: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Eps text.
+Open when checking paths and shape operations in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

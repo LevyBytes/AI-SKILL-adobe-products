@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — Uses for precomposing and nesting
+# Precomposing, nesting, and pre-rendering - Uses for precomposing and nesting
 
 Keeping intricate compositions tidy and controllable is what precomposing and nesting are for. The techniques unlock several capabilities:
 

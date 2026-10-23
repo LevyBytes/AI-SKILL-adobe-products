@@ -1,4 +1,4 @@
-# window.ClassList — contains(token)
+# window.ClassList - contains(token)
 
 Checks whether `token` is present in the list.
 

@@ -1,6 +1,6 @@
-# InDesign — Sound: application session and account
+# InDesign - Sound: application session and account
 
-Open when checking application session and account in InDesign — Sound.
+Open when checking application session and account in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

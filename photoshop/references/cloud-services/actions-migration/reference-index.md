@@ -1,4 +1,4 @@
-# Photoshop — Actions migration
+# Photoshop - Actions migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Actions Migration in Photoshop. [Actions Migration](actions-migration.md).

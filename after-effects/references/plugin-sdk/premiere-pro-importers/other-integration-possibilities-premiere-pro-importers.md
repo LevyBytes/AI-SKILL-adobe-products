@@ -1,4 +1,4 @@
-# Other Integration Possibilities — Premiere Pro Importers
+# Other Integration Possibilities - Premiere Pro Importers
 
 Across the bulk of Adobe Creative Cloud applications — Premiere Pro, Media Encoder, Prelude, and Audition among them — Premiere Pro importers handle bringing media in. Given that wider reach, we suggest writing a Premiere Pro importer unless what you need is the very specific After Effects integration that only this SDK's AEIO API provides. Here is where to get the Premiere Pro SDK: https://www.adobe.io/apis/creativecloud/premierepro.html
 

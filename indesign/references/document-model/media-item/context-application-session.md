@@ -1,6 +1,6 @@
-# InDesign — MediaItem: application session and account
+# InDesign - MediaItem: application session and account
 
-Open when checking application session and account in InDesign — MediaItem.
+Open when checking application session and account in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Legacy And Extend Script Engine
+# After Effects - Legacy And Extend Script Engine
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .value is no longer required when linking to other properties from Source Text in After Effects. [.value is no longer required when linking to other properties from Source Text](source-text-property-links.md).

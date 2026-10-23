@@ -1,6 +1,6 @@
-# InDesign — EPS: application session and account
+# InDesign - EPS: application session and account
 
-Open when checking application session and account in InDesign — EPS.
+Open when checking application session and account in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

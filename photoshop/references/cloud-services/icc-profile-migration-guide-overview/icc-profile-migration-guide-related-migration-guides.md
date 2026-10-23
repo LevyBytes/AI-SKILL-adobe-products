@@ -1,4 +1,4 @@
-# ICC Profile Migration Guide — Related migration guides
+# ICC Profile Migration Guide - Related migration guides
 
 - [Output Types Migration](../output-types-migration/reference-index.md) - Changes to JPEG, PNG, PSD, and TIFF output formats
 - [Composite Migration](../layer-operations-migration/reference-index.md) - Layer operations used with create-composite

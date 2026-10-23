@@ -1,4 +1,4 @@
-# InDesign — Customize panels
+# InDesign - Customize panels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a panel in InDesign. [Add a panel](add-a-panel.md).

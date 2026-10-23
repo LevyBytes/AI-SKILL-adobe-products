@@ -1,4 +1,4 @@
-# InDesign — AlignOptions
+# InDesign - AlignOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOTTOM_EDGES in InDesign. [BOTTOM_EDGES](bottomedges.md).

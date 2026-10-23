@@ -1,4 +1,4 @@
-# Acrobat — Acrobat for Microsoft Outlook overview
+# Acrobat - Acrobat for Microsoft Outlook overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Converted documents in Acrobat. [Converted documents](converted-documents.md).

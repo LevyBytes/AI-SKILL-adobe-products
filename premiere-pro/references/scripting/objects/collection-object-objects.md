@@ -1,4 +1,4 @@
-# Collection object — Objects
+# Collection object - Objects
 
 - ComponentCollection object - todo.
 - MarkerCollection object - collection containing Marker objects for a ProjectItem object and Sequence object.

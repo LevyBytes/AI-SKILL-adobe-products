@@ -1,4 +1,4 @@
-# Shared Adobe platform — AnimationBehaviors
+# Shared Adobe platform - AnimationBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AnimationBehaviors collection iteration in Shared Adobe platform. [AnimationBehaviors collection iteration](collection-iteration.md).

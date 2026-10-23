@@ -1,6 +1,6 @@
-# InDesign — XmlStory: events and listeners
+# InDesign - XmlStory: events and listeners
 
-Open when checking events and listeners in InDesign — XmlStory.
+Open when checking events and listeners in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

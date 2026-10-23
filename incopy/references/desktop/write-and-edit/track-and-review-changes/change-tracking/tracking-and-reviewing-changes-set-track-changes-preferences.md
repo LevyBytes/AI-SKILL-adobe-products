@@ -1,4 +1,4 @@
-# Tracking and reviewing changes — Set Track Changes preferences
+# Tracking and reviewing changes - Set Track Changes preferences
 
 Track Changes preferences control several tracking behaviors. You can set the color that identifies your edits and choose which edit categories are tracked: adding, deleting, or moving text. The same preferences define each tracked-change style and can add colored margin bars.
 

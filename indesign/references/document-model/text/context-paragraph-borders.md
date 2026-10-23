@@ -1,6 +1,6 @@
-# InDesign — Text: paragraph borders
+# InDesign - Text: paragraph borders
 
-Open when checking paragraph borders in InDesign — Text.
+Open when checking paragraph borders in InDesign - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-borders.json).
 

@@ -1,4 +1,4 @@
-# Formatting CJK characters — Apply kenten
+# Formatting CJK characters - Apply kenten
 
 Kenten, also known as Boten, places emphasis points on text that you want to highlight. You can pick a point style from existing kenten forms or define custom kenten characters. Kenten settings also control position, scale, and color.
 

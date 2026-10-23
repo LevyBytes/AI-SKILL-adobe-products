@@ -1,4 +1,4 @@
-# Shared Adobe platform — TableStyleMappings
+# Shared Adobe platform - TableStyleMappings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TableStyleMappings collection iteration in Shared Adobe platform. [TableStyleMappings collection iteration](collection-iteration.md).

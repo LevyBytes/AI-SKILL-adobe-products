@@ -3,7 +3,7 @@
   {"topic": "Date formatting and localized picture clauses", "file": "references/scripting/util/date-formatting-examples.md", "summary": "Open when looking up Date formatting and localized picture clauses in Acrobat.", "keywords": ["Date formatting and localized picture clauses"]},
   {"topic": "Formatted numeric and string output", "file": "references/scripting/util/formatted-output-example.md", "summary": "Open when looking up Formatted numeric and string output in Acrobat.", "keywords": ["Formatted numeric and string output"]},
   {"topic": "iconStreamFromIcon", "file": "references/scripting/util/icon-stream-from-icon.md", "summary": "Open when looking up iconStreamFromIcon in Acrobat.", "keywords": ["iconStreamFromIcon"]},
-  {"topic": "JavaScript APIs — util", "file": "references/scripting/util/java-script-apis-util.md", "summary": "Open when looking up JavaScript APIs — util in Acrobat.", "keywords": ["JavaScript APIs — util"]},
+  {"topic": "JavaScript APIs - util", "file": "references/scripting/util/java-script-apis-util.md", "summary": "Open when looking up JavaScript APIs - util in Acrobat.", "keywords": ["JavaScript APIs - util"]},
   {"topic": "printx", "file": "references/scripting/util/printx.md", "summary": "Open when looking up printx in Acrobat.", "keywords": ["printx"]},
   {"topic": "readFileIntoStream", "file": "references/scripting/util/read-file-into-stream.md", "summary": "Open when looking up readFileIntoStream in Acrobat.", "keywords": ["readFileIntoStream"]},
   {"topic": "scand", "file": "references/scripting/util/scand.md", "summary": "Open when looking up scand in Acrobat.", "keywords": ["scand"]},

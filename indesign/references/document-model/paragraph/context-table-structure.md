@@ -1,6 +1,6 @@
-# InDesign — Paragraph: table cells, rows and columns
+# InDesign - Paragraph: table cells, rows and columns
 
-Open when checking table cells, rows and columns in InDesign — Paragraph.
+Open when checking table cells, rows and columns in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-table-structure.json).
 

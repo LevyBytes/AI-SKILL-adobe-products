@@ -1,6 +1,6 @@
-# InDesign — EPS: layers, stacking and master overrides
+# InDesign - EPS: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — EPS.
+Open when checking layers, stacking and master overrides in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

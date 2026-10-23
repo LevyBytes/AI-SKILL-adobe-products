@@ -1,4 +1,4 @@
-# InDesign — Create PostScript files
+# InDesign - Create PostScript files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create device-dependent PostScript files in InDesign. [Create device-dependent PostScript files](create-device-dependent-post-script-files.md).

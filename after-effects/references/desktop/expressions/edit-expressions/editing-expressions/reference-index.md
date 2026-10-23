@@ -1,4 +1,4 @@
-# After Effects — Editing expressions
+# After Effects - Editing expressions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add comments to an expression in After Effects. [Add comments to an expression](add-comments-to-an-expression.md).

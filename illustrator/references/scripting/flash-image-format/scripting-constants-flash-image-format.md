@@ -1,4 +1,4 @@
-# Scripting Constants — FlashImageFormat
+# Scripting Constants - FlashImageFormat
 
 Flash image storage uses this selected format.
 

@@ -1,4 +1,4 @@
-# InDesign — EventListener
+# InDesign - EventListener
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up eventType in InDesign. [eventType](event-type.md).

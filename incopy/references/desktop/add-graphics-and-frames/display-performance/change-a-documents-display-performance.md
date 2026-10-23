@@ -1,4 +1,4 @@
-# Controlling graphics display — Change a document’s display performance
+# Controlling graphics display - Change a document’s display performance
 
 A document opens with the default Display Performance preferences. While the document is open, its display performance can be changed, but that choice is not saved in the document.
 

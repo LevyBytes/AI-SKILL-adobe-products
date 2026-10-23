@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: color profiles and rendering
+# Shared Adobe platform - Document: color profiles and rendering
 
-Open when checking color profiles and rendering in Shared Adobe platform — Document.
+Open when checking color profiles and rendering in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-color-management.json).
 

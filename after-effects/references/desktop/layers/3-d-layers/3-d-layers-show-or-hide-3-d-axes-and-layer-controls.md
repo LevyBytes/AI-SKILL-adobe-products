@@ -1,4 +1,4 @@
-# 3D layers — Show or hide 3D axes and layer controls
+# 3D layers - Show or hide 3D axes and layer controls
 
 Color marks the 3D axes as arrows: x is red, y is green, and z is blue.
 

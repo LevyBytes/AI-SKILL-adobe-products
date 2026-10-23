@@ -1,4 +1,4 @@
-# InDesign — PDFCrop
+# InDesign - PDFCrop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CROP_ART in InDesign. [CROP_ART](cropart.md).

@@ -1,4 +1,4 @@
-# InDesign — Movies and sound
+# InDesign - Movies and sound
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add movie and sound files in InDesign. [Add movie and sound files](add-movie-and-sound-files.md).

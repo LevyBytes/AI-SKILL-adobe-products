@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: warichu inline text
+# Shared Adobe platform - TextDefault: warichu inline text
 
-Open when checking warichu inline text in Shared Adobe platform — TextDefault.
+Open when checking warichu inline text in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

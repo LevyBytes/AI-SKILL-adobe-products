@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Stroke
+# Layer Styles Match Names - Stroke
 
 | Match Name | Display Name (EN) |
 | --- | --- |

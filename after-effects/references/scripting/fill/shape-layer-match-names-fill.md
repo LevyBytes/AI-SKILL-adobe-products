@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Fill
+# Shape Layer Match Names - Fill
 
 | Match Name | Display Name (EN) |
 | --- | --- |

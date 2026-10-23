@@ -1,4 +1,4 @@
-# Overview — External Storage for Adobe PDF Services APIs
+# Overview - External Storage for Adobe PDF Services APIs
 
 Reaching files straight from a client's own external storage is now possible with Adobe PDF Services APIs. By calling the PDF Services API with Signed URLs, the client lets files be pulled automatically from wherever they are stored.
 

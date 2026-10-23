@@ -1,4 +1,4 @@
-# Viewing stories — Display the document at 100%
+# Viewing stories - Display the document at 100%
 
 Use any of these methods:
 

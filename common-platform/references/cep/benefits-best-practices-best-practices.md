@@ -1,4 +1,4 @@
-# Benefits & Best Practices — Best Practices
+# Benefits & Best Practices - Best Practices
 
 1.  **Use same developer AdobeID for both UXP and CEP plugins:** Submit both CEP and UXP plugins from the same developer ID. A shared ID makes plugin performance easier to follow, keeps listing management together, and simplifies responses to user comments.
 

@@ -1,4 +1,4 @@
-# Viewing stories — Switch between Galley, Story, or Layout view
+# Viewing stories - Switch between Galley, Story, or Layout view
 
 Use either method:
 

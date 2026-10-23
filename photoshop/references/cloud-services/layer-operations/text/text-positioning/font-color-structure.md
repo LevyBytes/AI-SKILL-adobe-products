@@ -14,8 +14,8 @@ Each component is mandatory; omitted components resolve to `0`.
 
 V2 rejects any request whose `fontColor` component is above the permitted maximum. Before submitting a migrated V1 payload, clamp values that exceed the V2 range:
 
-- `rgb`, `cmyk`, `gray`, `lab.l` — limit to **32768**. Example: V1 `red: 40000` → V2 `red: 32768`
-- `lab.a`, `lab.b` — limit to **16384**. Example: V1 `a: 40000` → V2 `a: 16384`
+- `rgb`, `cmyk`, `gray`, `lab.l` - limit to **32768**. Example: V1 `red: 40000` → V2 `red: 32768`
+- `lab.a`, `lab.b` - limit to **16384**. Example: V1 `a: 40000` → V2 `a: 16384`
 
 **V2 field-name layout:** rgb, cmyk, lab, gray:
 

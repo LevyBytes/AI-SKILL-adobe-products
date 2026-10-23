@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: printers, paper, postscript and print jobs
+# Shared Adobe platform - Illustrator: printers, paper, postscript and print jobs
 
-Open when working with printers, paper, postscript and print jobs in Shared Adobe platform — Illustrator.
+Open when working with printers, paper, postscript and print jobs in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-print-job.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Document: cloud documents, libraries and collaboration
+# InDesign - Document: cloud documents, libraries and collaboration
 
-Open when checking cloud documents, libraries and collaboration in InDesign — Document.
+Open when checking cloud documents, libraries and collaboration in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-cloud-and-collaboration.json).
 

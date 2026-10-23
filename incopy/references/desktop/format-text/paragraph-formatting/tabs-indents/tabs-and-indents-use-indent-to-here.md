@@ -1,4 +1,4 @@
-# Tabs and indents — Use Indent To Here
+# Tabs and indents - Use Indent To Here
 
 Indent To Here is a special character that can indent selected lines in a paragraph without relying on the paragraph's left indent value. Compared with the paragraph's left indent, Indent To Here differs in these ways:
 

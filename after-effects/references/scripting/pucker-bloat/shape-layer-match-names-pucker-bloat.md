@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Pucker & Bloat
+# Shape Layer Match Names - Pucker & Bloat
 
 | Match Name | Display Name (EN) |
 | --- | --- |

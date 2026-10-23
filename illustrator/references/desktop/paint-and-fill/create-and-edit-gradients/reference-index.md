@@ -1,4 +1,4 @@
-# Illustrator — Create and edit gradients
+# Illustrator - Create and edit gradients
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply freeform gradients in Illustrator. [Apply freeform gradients](apply-freeform-gradients.md).

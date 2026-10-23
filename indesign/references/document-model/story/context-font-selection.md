@@ -1,6 +1,6 @@
-# InDesign — Story: fonts and character forms
+# InDesign - Story: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Story.
+Open when checking fonts and character forms in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

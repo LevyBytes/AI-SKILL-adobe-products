@@ -1,4 +1,4 @@
-# Shared Adobe platform — ParaStyleMappings
+# Shared Adobe platform - ParaStyleMappings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParaStyleMappings collection iteration in Shared Adobe platform. [ParaStyleMappings collection iteration](collection-iteration.md).

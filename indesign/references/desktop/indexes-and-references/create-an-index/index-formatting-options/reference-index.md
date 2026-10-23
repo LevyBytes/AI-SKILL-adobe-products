@@ -1,4 +1,4 @@
-# InDesign — Index formatting options
+# InDesign - Index formatting options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Separator character options in InDesign. [Separator character options](separator-character-options.md).

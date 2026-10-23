@@ -20,7 +20,7 @@ Parameters
 
 Returns
 
-A Boolean — true when the player plug-in can satisfy every item carried in the args object.
+A Boolean: true when the player plug-in can satisfy every item carried in the args object.
 
 Example: play a media clip through a player offering particular capabilities.
 

@@ -1,4 +1,4 @@
-# Communicating with the Flash application — Calling ActionScript functions from a ScriptUI script
+# Communicating with the Flash application - Calling ActionScript functions from a ScriptUI script
 
 From ExtendScript, call ActionScript methods defined in the Flash application by using the FlashPlayer invokePlayerFunction() method:
 

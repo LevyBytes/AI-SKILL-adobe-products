@@ -1,4 +1,4 @@
-# Photoshop — Photoshop API v2 — General Availability
+# Photoshop - Photoshop API v2 - General Availability
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Built for Scale in Photoshop. [Built for Scale](built-for-scale.md).

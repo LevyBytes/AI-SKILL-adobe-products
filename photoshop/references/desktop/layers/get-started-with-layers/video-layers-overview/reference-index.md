@@ -1,4 +1,4 @@
-# Photoshop — Video Layers overview
+# Photoshop - Video Layers overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How video layers work in Photoshop. [How video layers work](how-video-layers-work.md).

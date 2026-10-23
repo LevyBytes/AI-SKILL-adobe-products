@@ -1,4 +1,4 @@
-# Scripting Constants — PolarityValues
+# Scripting Constants - PolarityValues
 
 | Value | Description |
 | --- | --- |

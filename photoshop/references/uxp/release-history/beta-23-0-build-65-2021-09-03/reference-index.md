@@ -1,4 +1,4 @@
-# Photoshop — Photoshop api changelog adobe photoshop beta build 65 sep 3 2021 23 0
+# Photoshop - Photoshop api changelog adobe photoshop beta build 65 sep 3 2021 23 0
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up app.fonts and TextFont classes in Photoshop. [app.fonts and TextFont classes](app-fonts-and-text-font-classes.md).

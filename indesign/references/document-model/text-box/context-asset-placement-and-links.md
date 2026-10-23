@@ -1,6 +1,6 @@
-# InDesign — TextBox: place and link external assets
+# InDesign - TextBox: place and link external assets
 
-Open when checking place and link external assets in InDesign — TextBox.
+Open when checking place and link external assets in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

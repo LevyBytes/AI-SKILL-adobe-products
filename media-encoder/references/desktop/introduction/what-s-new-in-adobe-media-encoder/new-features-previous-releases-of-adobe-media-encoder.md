@@ -1,4 +1,4 @@
-# New features — Previous releases of Adobe Media Encoder
+# New features - Previous releases of Adobe Media Encoder
 
 - Feature summary for Adobe Media Encoder September 2025 release
 - Feature summary for Adobe Media Encoder August 2025 release

@@ -1,4 +1,4 @@
-# InDesign — Tabs, indents, and spacing
+# InDesign - Tabs, indents, and spacing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About kerning and tracking in InDesign. [About kerning and tracking](about-kerning-and-tracking.md).

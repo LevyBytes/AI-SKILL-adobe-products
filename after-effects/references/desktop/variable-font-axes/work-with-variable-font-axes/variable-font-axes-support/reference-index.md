@@ -1,4 +1,4 @@
-# After Effects — Variable Font Axes support
+# After Effects - Variable Font Axes support
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Variable Fonts in After Effects. [About Variable Fonts](about-variable-fonts.md).

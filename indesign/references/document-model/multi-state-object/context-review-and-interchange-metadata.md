@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: document metadata and imported review
+# InDesign - MultiStateObject: document metadata and imported review
 
-Open when checking document metadata and imported review in InDesign — MultiStateObject.
+Open when checking document metadata and imported review in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

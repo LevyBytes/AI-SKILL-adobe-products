@@ -1,4 +1,4 @@
-# Premiere Pro — Apply Sharp And Smooth Modes In Object Masking
+# Premiere Pro - Apply Sharp And Smooth Modes In Object Masking
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust edge quality mode in Premiere Pro. [Adjust edge quality mode](adjust-edge-quality-mode.md).

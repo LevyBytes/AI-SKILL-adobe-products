@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "RasterItem — Methods", "file": "references/scripting/raster-item/raster-item-methods.md", "summary": "Open when looking up RasterItem — Methods in Illustrator.", "keywords": ["RasterItem — Methods"]},
+  {"topic": "RasterItem - Methods", "file": "references/scripting/raster-item/raster-item-methods.md", "summary": "Open when looking up RasterItem - Methods in Illustrator.", "keywords": ["RasterItem - Methods"]},
   {"topic": "RasterItem.artworkKnockout", "file": "references/scripting/raster-item/artwork-knockout.md", "summary": "Open when looking up RasterItem.artworkKnockout in Illustrator.", "keywords": ["RasterItem.artworkKnockout"]},
   {"topic": "RasterItem.bitsPerChannel", "file": "references/scripting/raster-item/bits-per-channel.md", "summary": "Open when looking up RasterItem.bitsPerChannel in Illustrator.", "keywords": ["RasterItem.bitsPerChannel"]},
   {"topic": "RasterItem.blendingMode", "file": "references/scripting/raster-item/blending-mode.md", "summary": "Open when looking up RasterItem.blendingMode in Illustrator.", "keywords": ["RasterItem.blendingMode"]},

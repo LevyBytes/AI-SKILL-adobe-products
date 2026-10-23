@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTextPreference: kenten emphasis
+# Shared Adobe platform - ChangeTextPreference: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — ChangeTextPreference.
+Open when checking kenten emphasis in Shared Adobe platform - ChangeTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

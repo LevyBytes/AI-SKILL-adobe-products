@@ -1,4 +1,4 @@
-# Unable to open .icap files — macOS
+# Unable to open .icap files - macOS
 
 Close Adobe InCopy CC 2019.
 

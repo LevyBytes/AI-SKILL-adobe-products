@@ -1,4 +1,4 @@
-# Acrobat — Work with geospatial PDFs
+# Acrobat - Work with geospatial PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Calculate distances and areas on geospatial PDFs in Acrobat. [Calculate distances and areas on geospatial PDFs](calculate-distances-and-areas-on-geospatial-pdfs.md).

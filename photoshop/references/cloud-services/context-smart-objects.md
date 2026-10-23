@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: smart object content and replacement
+# Photoshop - Cloud service APIs: smart object content and replacement
 
-Open when working with smart object content and replacement in Photoshop — Cloud service APIs.
+Open when working with smart object content and replacement in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-smart-objects.json).
 

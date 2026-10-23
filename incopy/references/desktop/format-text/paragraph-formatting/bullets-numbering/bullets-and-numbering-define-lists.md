@@ -1,4 +1,4 @@
-# Bullets and numbering — Define lists
+# Bullets and numbering - Define lists
 
 A defined list can be broken up by other paragraphs and lists, and it may continue across separate stories and documents in a book. Use defined lists, for example, to build a multi-level outline or to maintain a running sequence of numbered table names throughout a document. Defined lists can also handle separately numbered or bulleted items that are interleaved. For a questions-and-answers list, for instance, create one list to number the questions and another to number the answers.
 

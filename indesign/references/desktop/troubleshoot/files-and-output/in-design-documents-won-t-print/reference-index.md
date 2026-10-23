@@ -1,4 +1,4 @@
-# InDesign — InDesign documents won't print
+# InDesign - InDesign documents won't print
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupt InDesign document in InDesign. [Corrupt InDesign document](corrupt-in-design-document.md).

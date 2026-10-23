@@ -1,4 +1,4 @@
-# Specifying measurement values — Converting pixel and percentage values
+# Specifying measurement values - Converting pixel and percentage values
 
 Converting a measurement from one unit to another depends on a shared base unit. For length measurements, for example, the meter serves as that base. Every length unit can be translated into meters, which allows conversion from any length unit to any other.
 

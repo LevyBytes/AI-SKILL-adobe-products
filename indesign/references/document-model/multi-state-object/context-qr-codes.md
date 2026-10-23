@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: generate qr codes
+# InDesign - MultiStateObject: generate qr codes
 
-Open when checking generate qr codes in InDesign — MultiStateObject.
+Open when checking generate qr codes in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

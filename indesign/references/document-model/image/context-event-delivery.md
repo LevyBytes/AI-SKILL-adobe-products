@@ -1,6 +1,6 @@
-# InDesign — Image: events and listeners
+# InDesign - Image: events and listeners
 
-Open when checking events and listeners in InDesign — Image.
+Open when checking events and listeners in InDesign - Image.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

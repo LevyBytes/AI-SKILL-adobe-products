@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: libraries, assets and snippets
+# InDesign - InDesign document object model: libraries, assets and snippets
 
-Open when working with libraries, assets and snippets in InDesign — InDesign document object model.
+Open when working with libraries, assets and snippets in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-asset-libraries.json).
 

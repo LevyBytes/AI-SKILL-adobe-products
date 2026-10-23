@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextImportCharacterSet
+# Shared Adobe platform - TextImportCharacterSet
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextImportCharacterSet declaration in Shared Adobe platform. [TextImportCharacterSet declaration](declaration.md).

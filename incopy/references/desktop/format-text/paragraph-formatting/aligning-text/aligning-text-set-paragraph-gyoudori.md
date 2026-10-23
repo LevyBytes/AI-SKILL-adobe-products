@@ -1,4 +1,4 @@
-# Aligning text — Set paragraph gyoudori
+# Aligning text - Set paragraph gyoudori
 
 For a paragraph with multiple lines, Paragraph Gyoudori makes the whole paragraph fit across the specified gyoudori lines, such as 2 paragraph lines on 3 grid lines. If Paragraph Gyoudori is off, the setting is applied line by line; a paragraph of 2 lines can therefore occupy 6 grid lines overall.
 

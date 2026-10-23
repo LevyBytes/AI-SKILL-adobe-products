@@ -1,4 +1,4 @@
-# Editing text — Paste text
+# Editing text - Paste text
 
 Text can be pasted from another application or from Adobe InCopy.
 

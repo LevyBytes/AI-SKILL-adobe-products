@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: svg export and font encoding
+# Shared Adobe platform - Illustrator: svg export and font encoding
 
-Open when working with svg export and font encoding in Shared Adobe platform — Illustrator.
+Open when working with svg export and font encoding in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-svg-export.json).
 

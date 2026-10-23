@@ -1,4 +1,4 @@
-# window.Element — replaceChild(newChild, oldChild)
+# window.Element - replaceChild(newChild, oldChild)
 
 **Returns**: `Node`
 

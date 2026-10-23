@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: shape fills and strokes
+# After Effects - Scripting APIs: shape fills and strokes
 
-Open when working with shape fills and strokes in After Effects — Scripting APIs.
+Open when working with shape fills and strokes in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-shape-paint.json).
 

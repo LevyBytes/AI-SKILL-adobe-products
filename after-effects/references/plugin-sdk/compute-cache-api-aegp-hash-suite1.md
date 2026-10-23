@@ -1,4 +1,4 @@
-# Compute Cache API — `AEGP_HashSuite1`
+# Compute Cache API`AEGP_HashSuite1`
 
 To mint a unique key inside the generate_key() callback of `AEGP_ComputeCacheCallbacks`, lean on the `AEGP_HashSuite1`.
 

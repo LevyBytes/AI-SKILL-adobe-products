@@ -5,7 +5,7 @@
 | 6.0 | No | No | All |
 
 
-Hands back a PlayerInfoList object — an array of PlayerInfo objects standing for the media players on hand.
+Hands back a PlayerInfoList object: an array of PlayerInfo objects standing for the media players on hand.
 
 You can narrow the PlayerInfoList through its select method, and you can feed it into the settings.players property when building a media player by way of createPlayer.
 

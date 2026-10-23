@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: useful utility functions
+# After Effects - C++ plugin SDK: useful utility functions
 
-Open when working with useful utility functions in After Effects — C++ plugin SDK.
+Open when working with useful utility functions in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-useful-utility-functions.json).
 
@@ -16,7 +16,7 @@ Open when selecting an exact reference: [Topic catalog](context-effect-details-u
 - Open when looking up PF_AdvTimeSuite4 in After Effects [PF_AdvTimeSuite4 references](pf-adv-time-suite4/reference-index.md).
 - Open when looking up PF_ChannelSuite1 in After Effects [PF_ChannelSuite1](pf-channel-suite1.md).
 - Open when looking up PF_ChannelSuite1 in After Effects [PF_ChannelSuite1 references](pf-channel-suite1/reference-index.md).
-- Open when looking up Useful Utility Functions — PF_AdvAppSuite2 in After Effects [Useful Utility Functions — PF_AdvAppSuite2](useful-utility-functions-pf-adv-app-suite2.md).
-- Open when looking up Useful Utility Functions — PF_AdvAppSuite2 in After Effects [Useful Utility Functions — PF_AdvAppSuite2 references](useful-utility-functions-pf-adv-app-suite2/reference-index.md).
+- Open when looking up Useful Utility Functions - PF_AdvAppSuite2 in After Effects [Useful Utility Functions - PF_AdvAppSuite2](useful-utility-functions-pf-adv-app-suite2.md).
+- Open when looking up Useful Utility Functions - PF_AdvAppSuite2 in After Effects [Useful Utility Functions - PF_AdvAppSuite2 references](useful-utility-functions-pf-adv-app-suite2/reference-index.md).
 
 [Context index](reference-index.md)

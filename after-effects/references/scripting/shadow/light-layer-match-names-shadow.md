@@ -1,4 +1,4 @@
-# Light Layer Match Names — Shadow
+# Light Layer Match Names - Shadow
 
 | Match Name | Display Name (EN) |
 | --- | --- |

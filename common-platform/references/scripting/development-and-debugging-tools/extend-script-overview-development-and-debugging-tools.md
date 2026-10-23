@@ -1,4 +1,4 @@
-# ExtendScript overview — Development and debugging tools
+# ExtendScript overview - Development and debugging tools
 
 For script development, debugging, and testing, Adobe supplies the ExtendScript Toolkit, an interactive environment for ExtendScript that is installed with JavaScript-enabled applications.
 

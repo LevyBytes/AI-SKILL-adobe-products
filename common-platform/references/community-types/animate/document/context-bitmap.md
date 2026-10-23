@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: bitmap conversion, tracing and import
+# Shared Adobe platform - Document: bitmap conversion, tracing and import
 
-Open when working with bitmap conversion, tracing and import in Shared Adobe platform — Document.
+Open when working with bitmap conversion, tracing and import in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-bitmap.json).
 

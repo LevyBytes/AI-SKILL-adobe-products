@@ -1,4 +1,4 @@
-# Acrobat — Print documents
+# Acrobat - Print documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Manage color and print quality in Acrobat. [Manage color and print quality](manage-color-and-print-quality.md).

@@ -1,4 +1,4 @@
-# InDesign — Apply layout adjustments
+# InDesign - Apply layout adjustments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access Flex Layout options in InDesign. [Access Flex Layout options](access-flex-layout-options.md).

@@ -1,6 +1,6 @@
-# InDesign — RadioButton: page item collections
+# InDesign - RadioButton: page item collections
 
-Open when checking page item collections in InDesign — RadioButton.
+Open when checking page item collections in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

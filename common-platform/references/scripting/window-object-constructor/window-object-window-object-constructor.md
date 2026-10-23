@@ -1,4 +1,4 @@
-# Window object — Window Object constructor
+# Window object - Window Object constructor
 
 A `new Window` call returns a Window object, or returns null when the window cannot be created.
 

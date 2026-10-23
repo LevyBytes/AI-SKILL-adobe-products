@@ -1,4 +1,4 @@
-# InDesign — Use Adobe Stock images
+# InDesign - Use Adobe Stock images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Find visually similar images in InDesign. [Find visually similar images](find-visually-similar-images.md).

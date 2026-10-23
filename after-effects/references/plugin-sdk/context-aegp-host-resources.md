@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: aegp registration, commands and resources
+# After Effects - C++ plugin SDK: aegp registration, commands and resources
 
-Open when working with aegp registration, commands and resources in After Effects — C++ plugin SDK.
+Open when working with aegp registration, commands and resources in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegp-host-resources.json).
 

@@ -1,6 +1,6 @@
-# InDesign — EPS: place and link external assets
+# InDesign - EPS: place and link external assets
 
-Open when checking place and link external assets in InDesign — EPS.
+Open when checking place and link external assets in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

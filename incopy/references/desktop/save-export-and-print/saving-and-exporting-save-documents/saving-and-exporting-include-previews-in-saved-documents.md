@@ -1,4 +1,4 @@
-# Saving and exporting — Include previews in saved documents
+# Saving and exporting - Include previews in saved documents
 
 Document and template thumbnail previews make files easier to identify in Adobe Bridge and Adobe Mini Bridge. Saving a document or template creates the preview. For documents, only the first spread is saved as a JPEG preview; for templates, each template page is saved as a JPEG image. Preview size and page count can be adjusted. For example, Extra Large 1024x1024 helps you inspect a page at high resolution before opening the file.
 

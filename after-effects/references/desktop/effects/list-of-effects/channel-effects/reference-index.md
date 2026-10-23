@@ -1,4 +1,4 @@
-# After Effects — Channel Effects
+# After Effects - Channel Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional resources about Channel effects in After Effects. [Additional resources about Channel effects](additional-resources-about-channel-effects.md).

@@ -1,6 +1,6 @@
-# InDesign — CellStyle: placement, bounds and transformations
+# InDesign - CellStyle: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — CellStyle.
+Open when checking placement, bounds and transformations in InDesign - CellStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

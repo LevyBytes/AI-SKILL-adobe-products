@@ -1,4 +1,4 @@
-# Photoshop — Show or hide guides, grids, and smart guides
+# Photoshop - Show or hide guides, grids, and smart guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Show or hide visual alignment tools in Photoshop. [Show or hide visual alignment tools](show-or-hide-visual-alignment-tools.md).

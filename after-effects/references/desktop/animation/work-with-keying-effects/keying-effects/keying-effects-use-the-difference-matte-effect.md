@@ -1,4 +1,4 @@
-# Keying effects — Use the Difference Matte effect
+# Keying effects - Use the Difference Matte effect
 
 1. Select a motion footage layer as the source layer.
    Within the source layer, track down a frame holding nothing but background, and save that all-background frame to an image file. (See the steps for rendering and exporting one frame out of a composition.)

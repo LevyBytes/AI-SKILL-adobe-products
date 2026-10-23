@@ -1,4 +1,4 @@
-# Analytics — Default analytics
+# Analytics - Default analytics
 
 No subscription to Adobe Analytics or Google Analytics? PDF analytics events are still within reach as people work with your PDFs. Switch them on by registering a callback through the API that listens for the events. Watching these PDF events sheds light on what users do, which in turn helps you steer and refine the PDF experience you put in front of customers.
 

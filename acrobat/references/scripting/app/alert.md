@@ -19,7 +19,7 @@ Parameters
 
 Returns
 
-nButton — a code identifying which button the user clicked:
+nButton: a code identifying which button the user clicked:
 
 1: OK
 

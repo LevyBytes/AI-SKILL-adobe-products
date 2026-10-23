@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/watermark-selected-ranges/Program.cs)
+- [watermark-selected-ranges setup and source](../examples/dotnet/watermark-selected-ranges/watermark-selected-ranges-setup.md)

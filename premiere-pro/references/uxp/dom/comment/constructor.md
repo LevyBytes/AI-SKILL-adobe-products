@@ -1,4 +1,4 @@
-# window.Comment — Comment(document, comment)
+# window.Comment - Comment(document, comment)
 
 Instantiates `Comment` with `document` and `comment`.
 

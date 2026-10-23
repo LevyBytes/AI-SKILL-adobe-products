@@ -1,4 +1,4 @@
-# InDesign — ChapterNumberSources
+# InDesign - ChapterNumberSources
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CONTINUE_FROM_PREVIOUS_DOCUMENT in InDesign. [CONTINUE_FROM_PREVIOUS_DOCUMENT](continuefrompreviousdocument.md).

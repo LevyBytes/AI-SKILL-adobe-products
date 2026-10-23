@@ -1,4 +1,4 @@
-# Scripting Constants — OutputFlattening
+# Scripting Constants - OutputFlattening
 
 Determines transparency flattening for EPS and Illustrator saves when compatibility targets releases before Illustrator 10.
 

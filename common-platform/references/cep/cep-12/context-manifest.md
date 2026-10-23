@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: manifest schema, permissions and versions
+# Shared Adobe platform - Cep 12: manifest schema, permissions and versions
 
-Open when working with manifest schema, permissions and versions in Shared Adobe platform — Cep 12.
+Open when working with manifest schema, permissions and versions in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-manifest.json).
 

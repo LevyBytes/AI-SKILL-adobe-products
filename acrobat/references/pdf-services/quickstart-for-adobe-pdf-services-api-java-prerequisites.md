@@ -1,4 +1,4 @@
-# Quickstart for Adobe PDF Services API (Java) — Prerequisites
+# Quickstart for Adobe PDF Services API (Java) - Prerequisites
 
 Here's what has to be in place before you can follow this guide:
 

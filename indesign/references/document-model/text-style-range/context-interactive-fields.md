@@ -1,6 +1,6 @@
-# InDesign — Text style range: interactive fields and behaviors
+# InDesign - Text style range: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — Text style range.
+Open when checking interactive fields and behaviors in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

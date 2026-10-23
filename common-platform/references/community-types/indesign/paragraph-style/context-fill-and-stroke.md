@@ -1,6 +1,6 @@
-# Shared Adobe platform — ParagraphStyle: fill, stroke and transparency
+# Shared Adobe platform - ParagraphStyle: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in Shared Adobe platform — ParagraphStyle.
+Open when checking fill, stroke and transparency in Shared Adobe platform - ParagraphStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

@@ -1,4 +1,4 @@
-# InDesign — RubyAlignments
+# InDesign - RubyAlignments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RUBY_1_AKI in InDesign. [RUBY_1_AKI](ruby1-aki.md).

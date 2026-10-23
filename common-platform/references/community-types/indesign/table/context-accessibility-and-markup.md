@@ -1,6 +1,6 @@
-# Shared Adobe platform — Table: accessibility, tagging and xml
+# Shared Adobe platform - Table: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in Shared Adobe platform — Table.
+Open when checking accessibility, tagging and xml in Shared Adobe platform - Table.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

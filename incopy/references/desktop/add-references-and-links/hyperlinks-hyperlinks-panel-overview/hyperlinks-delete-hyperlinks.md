@@ -1,4 +1,4 @@
-# Hyperlinks — Delete hyperlinks
+# Hyperlinks - Delete hyperlinks
 
 Removing a hyperlink leaves the source text or graphic in place.
 

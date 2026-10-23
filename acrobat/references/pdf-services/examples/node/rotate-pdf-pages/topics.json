@@ -1,7 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Rotate pdf pages example setup", "file": "references/pdf-services/examples/node/rotate-pdf-pages/rotate-pdf-pages-setup.md", "summary": "Open when looking up Rotate pdf pages example setup in Acrobat.", "keywords": ["Rotate pdf pages example setup"]},
-  {"topic": "Node.js rotate pdf pages: SDK and runtime imports", "file": "references/pdf-services/examples/node/rotate-pdf-pages/dependencies.cjs", "summary": "Open when checking SDK and runtime imports for the Node.js rotate pdf pages example.", "keywords": ["rotate-pdf-pages"]},
-  {"topic": "Node.js rotate pdf pages: page-range and output path helpers", "file": "references/pdf-services/examples/node/rotate-pdf-pages/helpers.cjs", "summary": "Open when checking page-range and output path helpers for the Node.js rotate pdf pages example.", "keywords": ["rotate-pdf-pages"]},
-  {"topic": "Node.js rotate pdf pages: job submission and result handling", "file": "references/pdf-services/examples/node/rotate-pdf-pages/rotate-pdf-pages.cjs", "summary": "Open when checking job submission and result handling for the Node.js rotate pdf pages example.", "keywords": ["rotate-pdf-pages"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

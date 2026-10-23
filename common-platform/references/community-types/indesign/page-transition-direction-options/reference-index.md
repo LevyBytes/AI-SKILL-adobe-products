@@ -1,4 +1,4 @@
-# Shared Adobe platform — PageTransitionDirectionOptions
+# Shared Adobe platform - PageTransitionDirectionOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PageTransitionDirectionOptions declaration in Shared Adobe platform. [PageTransitionDirectionOptions declaration](declaration.md).

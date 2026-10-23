@@ -1,4 +1,4 @@
-# Acrobat — PDF security options
+# Acrobat - PDF security options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional security options in Acrobat. [Additional security options](additional-security-options.md).

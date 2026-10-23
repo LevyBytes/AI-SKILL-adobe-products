@@ -1,4 +1,4 @@
-# Graphic customization objects — ScriptUIImage Object
+# Graphic customization objects - ScriptUIImage Object
 
 ScriptUIImage is a helper wrapper for a set of images that a control can draw. Alternate image versions can represent control states, for example a dimmed image for a disabled control.
 

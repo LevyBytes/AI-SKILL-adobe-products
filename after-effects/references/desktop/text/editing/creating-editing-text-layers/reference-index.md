@@ -1,4 +1,4 @@
-# After Effects — Creating Editing Text Layers
+# After Effects - Creating Editing Text Layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices for creating text and vector graphics for video in After Effects. [Best practices for creating text and vector graphics for video](video-text-and-vector-practices.md).

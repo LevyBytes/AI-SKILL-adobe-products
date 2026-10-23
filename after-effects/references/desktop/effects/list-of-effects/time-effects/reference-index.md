@@ -1,4 +1,4 @@
-# After Effects — Time Effects
+# After Effects - Time Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply the Time Displacement effect in After Effects. [Apply the Time Displacement effect](apply-the-time-displacement-effect.md).

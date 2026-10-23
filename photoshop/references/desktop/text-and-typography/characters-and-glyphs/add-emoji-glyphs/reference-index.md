@@ -1,4 +1,4 @@
-# Photoshop — Add Emoji glyphs
+# Photoshop - Add Emoji glyphs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Using Character Viewer on macOS in Photoshop. [Using Character Viewer on macOS](using-character-viewer-on-mac-os.md).

@@ -1,4 +1,4 @@
-# InDesign — Set up a printer
+# InDesign - Set up a printer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure the PPD file for PostScript printers in InDesign. [Configure the PPD file for PostScript printers](configure-the-ppd-file-for-post-script-printers.md).

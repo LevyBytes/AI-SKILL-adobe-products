@@ -1,4 +1,4 @@
-# Working with managed files — Check out content
+# Working with managed files - Check out content
 
 Checking out an item creates a hidden lock file (.idlk) on the file system. After checkout, editing control belongs only to you, so other users cannot change that content. InCopy content can be checked out; InDesign documents that contain layout information cannot.
 

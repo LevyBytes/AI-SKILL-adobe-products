@@ -1,4 +1,4 @@
-# PDF Services API Licensing — Paid programs
+# PDF Services API Licensing - Paid programs
 
 Licensing for the Adobe PDF Services API is metered by Document Transaction (the former name was PDF Transactions), counted from the opening endpoint request — that is, the API call — together with the digital output, and each operation in the table that follows is spelled out below. Content limits are in force, and examples accompany them to keep things clear.
 

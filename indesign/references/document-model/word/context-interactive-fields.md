@@ -1,6 +1,6 @@
-# InDesign — Word: interactive fields and behaviors
+# InDesign - Word: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — Word.
+Open when checking interactive fields and behaviors in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

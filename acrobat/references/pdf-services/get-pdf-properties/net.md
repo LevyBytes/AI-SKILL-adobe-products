@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/get-pdf-properties/Program.cs)
+- [get-pdf-properties setup and source](../examples/dotnet/get-pdf-properties/get-pdf-properties-setup.md)

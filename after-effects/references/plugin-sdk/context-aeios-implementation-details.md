@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: implementation details
+# After Effects - C++ plugin SDK: implementation details
 
-Open when working with implementation details in After Effects — C++ plugin SDK.
+Open when working with implementation details in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aeios-implementation-details.json).
 

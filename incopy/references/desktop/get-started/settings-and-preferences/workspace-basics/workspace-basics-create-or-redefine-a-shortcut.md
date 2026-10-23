@@ -1,4 +1,4 @@
-# Workspace basics — Create or redefine a shortcut
+# Workspace basics - Create or redefine a shortcut
 
 Choose Edit > Keyboard Shortcuts. For Set, choose a shortcut set, or click New Set to make a new shortcut set. Note
 

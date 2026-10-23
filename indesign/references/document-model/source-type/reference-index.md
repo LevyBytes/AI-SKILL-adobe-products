@@ -1,4 +1,4 @@
-# InDesign — SourceType
+# InDesign - SourceType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SOURCE_CUSTOM in InDesign. [SOURCE_CUSTOM](sourcecustom.md).

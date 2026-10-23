@@ -1,4 +1,4 @@
-# Shared Adobe platform — NumberingList
+# Shared Adobe platform - NumberingList
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NumberingList declaration in Shared Adobe platform. [NumberingList declaration](declaration.md).

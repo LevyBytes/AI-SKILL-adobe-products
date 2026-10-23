@@ -1,4 +1,4 @@
-# Selecting and editing tables — Cut, copy, and paste table contents
+# Selecting and editing tables - Cut, copy, and paste table contents
 
 For selected text inside a cell, Cut, Copy, and Paste work as they do with ordinary selected text outside tables. Entire cells, along with their contents, can be cut, copied, and pasted too. Pasting while the insertion point is inside a table creates a nested table from multiple pasted cells. The whole table can also be moved or duplicated.
 

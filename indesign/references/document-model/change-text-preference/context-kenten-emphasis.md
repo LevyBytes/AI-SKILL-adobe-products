@@ -1,6 +1,6 @@
-# InDesign — Change text preference: kenten emphasis
+# InDesign - Change text preference: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — Change text preference.
+Open when checking kenten emphasis in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

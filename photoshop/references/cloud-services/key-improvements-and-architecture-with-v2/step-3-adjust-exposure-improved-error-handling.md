@@ -1,4 +1,4 @@
-# Step 3: Adjust exposure — Improved error handling
+# Step 3: Adjust exposure - Improved error handling
 
 V2 returns richer validation and error information:
 

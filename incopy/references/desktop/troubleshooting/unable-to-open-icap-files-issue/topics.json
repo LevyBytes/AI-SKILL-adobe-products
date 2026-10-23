@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "incopy", "topics": [
-  {"topic": "Unable to open .icap files — macOS", "file": "references/desktop/troubleshooting/unable-to-open-icap-files-issue/unable-to-open-icap-files-mac-os.md", "summary": "Open when looking up Unable to open .icap files — macOS in InCopy.", "keywords": ["Unable to open .icap files — macOS"]},
-  {"topic": "Unable to open .icap files — Windows", "file": "references/desktop/troubleshooting/unable-to-open-icap-files-issue/unable-to-open-icap-files-windows.md", "summary": "Open when looking up Unable to open .icap files — Windows in InCopy.", "keywords": ["Unable to open .icap files — Windows"]},
+  {"topic": "Unable to open .icap files - macOS", "file": "references/desktop/troubleshooting/unable-to-open-icap-files-issue/unable-to-open-icap-files-mac-os.md", "summary": "Open when looking up Unable to open .icap files - macOS in InCopy.", "keywords": ["Unable to open .icap files - macOS"]},
+  {"topic": "Unable to open .icap files - Windows", "file": "references/desktop/troubleshooting/unable-to-open-icap-files-issue/unable-to-open-icap-files-windows.md", "summary": "Open when looking up Unable to open .icap files - Windows in InCopy.", "keywords": ["Unable to open .icap files - Windows"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

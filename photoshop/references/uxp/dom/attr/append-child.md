@@ -1,4 +1,4 @@
-# window.Attr — appendChild(child)
+# window.Attr - appendChild(child)
 
 **Returns**: `Node`
 

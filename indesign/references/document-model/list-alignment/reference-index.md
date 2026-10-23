@@ -1,4 +1,4 @@
-# InDesign — ListAlignment
+# InDesign - ListAlignment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CENTER_ALIGN in InDesign. [CENTER_ALIGN](centeralign.md).

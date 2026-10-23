@@ -1,4 +1,4 @@
-# InDesign — Format text variables
+# InDesign - Format text variables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Control numbering style for numbered variables in InDesign. [Control numbering style for numbered variables](control-numbering-style-for-numbered-variables.md).

@@ -1,6 +1,6 @@
-# InDesign — TextBox: interactive fields and behaviors
+# InDesign - TextBox: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — TextBox.
+Open when checking interactive fields and behaviors in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

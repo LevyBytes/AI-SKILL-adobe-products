@@ -1,4 +1,4 @@
-# Other Integration Possibilities — Scripting
+# Other Integration Possibilities - Scripting
 
 As a fairly light and agile route to automating After Effects tasks, scripting fits the bill. For UI integration, ScriptUI offers one path — letting you build custom dialogs and panels (HTML5 Panels are worth a look as well). Scripting can also work hand in hand with plug-in development whenever some capability is surfaced through scripting but not through the C APIs covered in this document.
 

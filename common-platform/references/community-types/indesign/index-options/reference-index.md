@@ -1,4 +1,4 @@
-# Shared Adobe platform — IndexOptions
+# Shared Adobe platform - IndexOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up IndexOptions declaration in Shared Adobe platform. [IndexOptions declaration](declaration.md).

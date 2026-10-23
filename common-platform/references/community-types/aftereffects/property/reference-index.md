@@ -1,4 +1,4 @@
-# Shared Adobe platform — Property
+# Shared Adobe platform - Property
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Property declaration in Shared Adobe platform. [Property declaration](declaration.md).

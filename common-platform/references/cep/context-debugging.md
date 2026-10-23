@@ -1,6 +1,6 @@
-# Shared Adobe platform — CEP and ExtendScript integration: cep debugging and known issues
+# Shared Adobe platform - CEP and ExtendScript integration: cep debugging and known issues
 
-Open when working with cep debugging and known issues in Shared Adobe platform — CEP and ExtendScript integration.
+Open when working with cep debugging and known issues in Shared Adobe platform - CEP and ExtendScript integration.
 
 Open when selecting an exact reference: [Topic catalog](context-debugging.json).
 

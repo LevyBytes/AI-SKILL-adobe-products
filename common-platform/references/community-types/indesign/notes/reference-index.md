@@ -1,4 +1,4 @@
-# Shared Adobe platform — Notes
+# Shared Adobe platform - Notes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Notes collection iteration in Shared Adobe platform. [Notes collection iteration](collection-iteration.md).

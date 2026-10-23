@@ -1,4 +1,4 @@
-# XMPScript object reference — XMPFile object
+# XMPScript object reference - XMPFile object
 
 This class maps to the File Handler component in the Adobe XMP Toolkit and gives scripts convenient I/O access to a file's main, document-level XMP.
 

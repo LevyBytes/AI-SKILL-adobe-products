@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: placement, bounds and transformations
+# Shared Adobe platform - PageItem: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in Shared Adobe platform — PageItem.
+Open when checking placement, bounds and transformations in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

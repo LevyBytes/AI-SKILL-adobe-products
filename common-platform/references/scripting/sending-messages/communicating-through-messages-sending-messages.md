@@ -1,4 +1,4 @@
-# Communicating through messages — Sending messages
+# Communicating through messages - Sending messages
 
 Sending a script or other payload to a different application starts with creating and configuring a BridgeTalk message object.
 

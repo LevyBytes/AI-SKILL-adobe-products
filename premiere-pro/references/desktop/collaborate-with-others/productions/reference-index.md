@@ -1,4 +1,4 @@
-# Premiere Pro — Collaborate using Productions
+# Premiere Pro - Collaborate using Productions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Productions in Premiere Pro. [About Productions](about-productions.md).

@@ -1,4 +1,4 @@
-# InDesign — Import or export word lists
+# InDesign - Import or export word lists
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export a word list in InDesign. [Export a word list](export-a-word-list.md).

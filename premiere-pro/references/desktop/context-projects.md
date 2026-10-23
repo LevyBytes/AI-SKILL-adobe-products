@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: project lifecycle and recovery
+# Premiere Pro - Desktop workflows: project lifecycle and recovery
 
-Open when working with project lifecycle and recovery in Premiere Pro — Desktop workflows.
+Open when working with project lifecycle and recovery in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-projects.json).
 

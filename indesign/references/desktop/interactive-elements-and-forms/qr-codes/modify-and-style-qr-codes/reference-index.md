@@ -1,4 +1,4 @@
-# InDesign — Modify and style QR codes
+# InDesign - Modify and style QR codes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply frame styling in InDesign. [Apply frame styling](apply-frame-styling.md).

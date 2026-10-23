@@ -1,8 +1,9 @@
 ---
 name: illustrator
-description: 'Use when creating or editing vector artwork in Adobe Illustrator: paths, shapes, typography, color, artboards, layers, effects, generative artwork, saving and export; automating Illustrator through JavaScript, AppleScript, or VBScript; or integrating Illustrator Custom Scripts, Image Trace, and Data Merge cloud APIs.'
+description: "Use when creating or editing vector artwork in Adobe Illustrator: paths, shapes, typography, color, artboards, layers, effects, generative artwork, saving and export; automating Illustrator through JavaScript, AppleScript, or VBScript; or integrating Illustrator Custom Scripts, Image Trace, and Data Merge cloud APIs."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

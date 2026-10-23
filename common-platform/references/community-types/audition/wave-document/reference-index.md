@@ -1,4 +1,4 @@
-# Shared Adobe platform — WaveDocument
+# Shared Adobe platform - WaveDocument
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up WaveDocument declaration in Shared Adobe platform. [WaveDocument declaration](declaration.md).

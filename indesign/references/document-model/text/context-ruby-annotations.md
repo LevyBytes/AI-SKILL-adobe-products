@@ -1,6 +1,6 @@
-# InDesign — Text: ruby annotations
+# InDesign - Text: ruby annotations
 
-Open when checking ruby annotations in InDesign — Text.
+Open when checking ruby annotations in InDesign - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

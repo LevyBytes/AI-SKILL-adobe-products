@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: captions, transcription and text based editing
+# Premiere Pro - Desktop workflows: captions, transcription and text based editing
 
-Open when working with captions, transcription and text based editing in Premiere Pro — Desktop workflows.
+Open when working with captions, transcription and text based editing in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-captions-transcription.json).
 

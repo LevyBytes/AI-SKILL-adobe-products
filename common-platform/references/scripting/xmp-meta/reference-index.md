@@ -1,4 +1,4 @@
-# Shared Adobe platform — Xmp meta
+# Shared Adobe platform - Xmp meta
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 

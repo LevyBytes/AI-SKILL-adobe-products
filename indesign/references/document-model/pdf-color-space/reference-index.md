@@ -1,4 +1,4 @@
-# InDesign — PDFColorSpace
+# InDesign - PDFColorSpace
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CMYK in InDesign. [CMYK](cmyk.md).

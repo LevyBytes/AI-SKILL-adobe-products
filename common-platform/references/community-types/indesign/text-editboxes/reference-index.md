@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextEditboxes
+# Shared Adobe platform - TextEditboxes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextEditboxes collection iteration in Shared Adobe platform. [TextEditboxes collection iteration](collection-iteration.md).

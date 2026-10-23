@@ -1,4 +1,4 @@
-# Save and export audio files — Close files
+# Save and export audio files - Close files
 
 Use any of these commands:
 

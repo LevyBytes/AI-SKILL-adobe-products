@@ -1,4 +1,4 @@
-# Shared Adobe platform — Endnote
+# Shared Adobe platform - Endnote
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Endnote declaration in Shared Adobe platform. [Endnote declaration](declaration.md).

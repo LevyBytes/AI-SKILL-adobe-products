@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: color conversion, profiles and destinations
+# Shared Adobe platform - Illustrator: color conversion, profiles and destinations
 
-Open when working with color conversion, profiles and destinations in Shared Adobe platform — Illustrator.
+Open when working with color conversion, profiles and destinations in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-color-conversion.json).
 

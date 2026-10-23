@@ -1,4 +1,4 @@
-# Compute Cache API — Checking Cache State
+# Compute Cache API - Checking Cache State
 
 - An effect might want to test whether a cache value has been computed yet without actually running the compute or stalling while it waits on a different thread to finish. `AEGP_CheckoutCached`() is how you do that.
 - One use is a polling arrangement in which some other code is meant to fill the cache. A UI thread, say, could keep polling for a histogram being produced over on a render thread.

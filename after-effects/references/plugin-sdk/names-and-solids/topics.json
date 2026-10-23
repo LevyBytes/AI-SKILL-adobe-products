@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP Details — Names And Solids", "file": "references/plugin-sdk/names-and-solids/aegp-details-names-and-solids.md", "summary": "Open when looking up AEGP Details — Names And Solids in After Effects.", "keywords": ["AEGP Details — Names And Solids"]},
+  {"topic": "AEGP Details - Names And Solids", "file": "references/plugin-sdk/names-and-solids/aegp-details-names-and-solids.md", "summary": "Open when looking up AEGP Details - Names And Solids in After Effects.", "keywords": ["AEGP Details - Names And Solids"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

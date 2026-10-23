@@ -1,4 +1,4 @@
-# After Effects — AEGP_KeyframeSuite4
+# After Effects - AEGP_KeyframeSuite4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_AddKeyframes in After Effects. [AEGP_AddKeyframes](aegp-add-keyframes.md).

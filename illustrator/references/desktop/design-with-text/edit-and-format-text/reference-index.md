@@ -1,4 +1,4 @@
-# Illustrator — Edit and format text
+# Illustrator - Edit and format text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust kerning and tracking in Illustrator. [Adjust kerning and tracking](adjust-kerning-and-tracking.md).

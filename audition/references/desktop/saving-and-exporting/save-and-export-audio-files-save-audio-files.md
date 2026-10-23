@@ -1,4 +1,4 @@
-# Save and export audio files — Save audio files
+# Save and export audio files - Save audio files
 
 Save, export, and convert audio in Adobe Audition with multiple formats, mixdown choices, and export settings.
 

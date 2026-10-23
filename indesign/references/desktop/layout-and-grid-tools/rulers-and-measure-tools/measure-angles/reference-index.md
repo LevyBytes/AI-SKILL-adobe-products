@@ -1,4 +1,4 @@
-# InDesign — Measure angles
+# InDesign - Measure angles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Measure a custom angle between two lines in InDesign. [Measure a custom angle between two lines](measure-a-custom-angle-between-two-lines.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: invoke host scripts and exchange dom data
+# Shared Adobe platform - Cep 12: invoke host scripts and exchange dom data
 
-Open when working with invoke host scripts and exchange dom data in Shared Adobe platform — Cep 12.
+Open when working with invoke host scripts and exchange dom data in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-host-scripting.json).
 

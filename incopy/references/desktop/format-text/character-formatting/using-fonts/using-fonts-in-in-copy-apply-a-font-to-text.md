@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Apply a font to text
+# Using fonts in InCopy - Apply a font to text
 
 Specifying a font lets you choose the font family separately from its type style. When switching from one font family to another, InCopy tries to pair the current style with an available style in the replacement family. Example: changing Arial to Times turns Arial Bold into Times Bold.
 

@@ -1,4 +1,4 @@
-# InDesign — ArrowHead
+# InDesign - ArrowHead
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BAR_ARROW_HEAD in InDesign. [BAR_ARROW_HEAD](bararrowhead.md).

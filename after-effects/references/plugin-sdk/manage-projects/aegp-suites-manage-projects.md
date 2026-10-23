@@ -1,4 +1,4 @@
-# AEGP Suites — Manage Projects
+# AEGP Suites - Manage Projects
 
 Project data is read and altered through these functions. Although the API carries support for more than one project against possible future growth, today After Effects sticks to a one-project-at-a-time model.
 

@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ProtectPDF.java](../examples/java/protect-pdf/ProtectPDF.java)
+- [protect-pdf setup and source](../examples/java/protect-pdf/protect-pdf-setup.md)

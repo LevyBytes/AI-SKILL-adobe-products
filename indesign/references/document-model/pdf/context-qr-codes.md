@@ -1,6 +1,6 @@
-# InDesign — PDF: generate qr codes
+# InDesign - PDF: generate qr codes
 
-Open when checking generate qr codes in InDesign — PDF.
+Open when checking generate qr codes in InDesign - PDF.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

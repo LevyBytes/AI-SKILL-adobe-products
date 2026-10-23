@@ -1,4 +1,4 @@
-# Shared Adobe platform — Submenus
+# Shared Adobe platform - Submenus
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Submenus collection iteration in Shared Adobe platform. [Submenus collection iteration](collection-iteration.md).

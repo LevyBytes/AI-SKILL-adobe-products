@@ -1,4 +1,4 @@
-# Acrobat — Collaborating on PDF Spaces
+# Acrobat - Collaborating on PDF Spaces
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access and permission levels in Acrobat. [Access and permission levels](access-and-permission-levels.md).

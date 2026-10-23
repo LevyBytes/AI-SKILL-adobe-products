@@ -1,4 +1,4 @@
-# window.Element — id : `string`
+# window.Element - id : `string`
 
 For the `Element` interface, this property exposes the element identifier and reflects the id global attribute.
 

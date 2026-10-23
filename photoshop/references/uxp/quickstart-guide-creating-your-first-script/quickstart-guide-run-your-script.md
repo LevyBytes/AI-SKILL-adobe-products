@@ -1,4 +1,4 @@
-# Quickstart Guide — Run your script
+# Quickstart Guide - Run your script
 
 Scripts can be launched through more than one entry point.
 

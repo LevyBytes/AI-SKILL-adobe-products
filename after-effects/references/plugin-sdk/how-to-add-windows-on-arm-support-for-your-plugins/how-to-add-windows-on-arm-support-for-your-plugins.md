@@ -1,4 +1,4 @@
-# Windows on Arm Support — How to add Windows on Arm Support for your Plugins
+# Windows on Arm Support - How to add Windows on Arm Support for your Plugins
 
 Bring up your plugin's Visual Studio solution under release 17.4 or above and pick the ARM64 target.
 

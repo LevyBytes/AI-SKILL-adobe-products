@@ -1,4 +1,4 @@
-# After Effects — Shape attributes, paint operations, and path operations for shape layers
+# After Effects - Shape attributes, paint operations, and path operations for shape layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding attributes to shape layers in After Effects. [Adding attributes to shape layers](adding-attributes-to-shape-layers.md).

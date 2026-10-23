@@ -1,4 +1,4 @@
-# Tabs and indents — Delete a tab setting
+# Tabs and indents - Delete a tab setting
 
 Put the insertion point in the paragraph. Then use one of these methods:
 

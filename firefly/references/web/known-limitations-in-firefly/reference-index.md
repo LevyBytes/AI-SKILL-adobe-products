@@ -1,4 +1,4 @@
-# Firefly — Known limitations in firefly
+# Firefly - Known limitations in firefly
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Artist, band, or song names are not used for music generation in Firefly. [Artist, band, or song names are not used for music generation](artist-band-or-song-names-are-not-used-for-music-generation.md).

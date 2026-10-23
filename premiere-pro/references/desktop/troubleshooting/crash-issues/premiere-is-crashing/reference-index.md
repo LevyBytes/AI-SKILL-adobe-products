@@ -1,4 +1,4 @@
-# Premiere Pro — Premiere is crashing
+# Premiere Pro - Premiere is crashing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Check Windows build number in Premiere Pro. [Check Windows build number](check-windows-build-number.md).

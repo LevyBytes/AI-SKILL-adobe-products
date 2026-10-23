@@ -2,32 +2,13 @@
 
 Open when running or adapting the linked autotag pdf parameterised example.
 
-Use the dependencies and resource layout from the [captured source project](https://raw.githubusercontent.com/adobe/PDFServices.NET.SDK.Samples/4360e3f042cd3395e399c572490e411b0e3e314d/AutotagPDFParameterised/Program.cs). Copy the linked modules together into that project’s matching example/package directory. Run from its project root so relative resource and output paths resolve as documented.
+The complete program is Adobe's [source sample](https://raw.githubusercontent.com/adobe/PDFServices.NET.SDK.Samples/4360e3f042cd3395e399c572490e411b0e3e314d/AutotagPDFParameterised/Program.cs). The [call pattern](../CallPattern.cs) shows the shared upload, submit, wait and download sequence; the [operations table](../operations.md) lists this example's job, parameter and result classes.
 
 Supply your own PDF Services credentials through the environment variables or credentials object used by the example. The SDK, service access and input documents are external prerequisites; no credentials or sample binaries are bundled here.
 
-These files illustrate source-backed API calls and recorded repairs. Local checks cover syntax and isolated mocks; they do not claim a successful live service request or native Java/.NET build.
-
-## Example files
-
-- [Program.cs](Program.cs)
-- [imports.cs](imports.cs)
-- [get-params-from-cmd-args.cs](get-params-from-cmd-args.cs)
-- [get-shift-headings-from-cmd-args.cs](get-shift-headings-from-cmd-args.cs)
-- [get-generate-report-from-cmd-args.cs](get-generate-report-from-cmd-args.cs)
-- [get-input-file-path-from-cmd-args.cs](get-input-file-path-from-cmd-args.cs)
-- [get-output-file-path-from-cmd-args.cs](get-output-file-path-from-cmd-args.cs)
-- [configure-logging.cs](configure-logging.cs)
-- [create-output-file-path-for-tagged-pdf.cs](create-output-file-path-for-tagged-pdf.cs)
-- [create-output-file-path-for-tagging-report.cs](create-output-file-path-for-tagging-report.cs)
-
 ## Source implementation notes
 
-- / <summary>
-- / This sample illustrates how to generate a tagged PDF by setting options with command line arguments.
-- / &lt;para/&gt;
-- / Refer to README.md for instructions on how to run the samples.
-- / </summary>
+- This sample illustrates how to generate a tagged PDF by setting options with command line arguments.
 - Configure the logging
 - Initial setup, create credentials instance
 - Creates a PDF Services instance
@@ -41,7 +22,3 @@ These files illustrate source-backed API calls and recorded repairs. Local check
 - Creating output streams and copying stream asset's content to it
 - Generates a string containing a directory structure and file name for the output file.
 - Generates a string containing a directory structure and file name for the output file.
-
-## Source licensing
-
-- [Captured pdfservices-dotnet license](../../../../../assets/licenses/pdfservices-dotnet-license.txt)

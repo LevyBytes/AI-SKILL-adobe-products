@@ -1,4 +1,4 @@
-# InDesign — Edit or delete named grids
+# InDesign - Edit or delete named grids
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete a named grid format in InDesign. [Delete a named grid format](delete-a-named-grid-format.md).

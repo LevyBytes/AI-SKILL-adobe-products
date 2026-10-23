@@ -1,4 +1,4 @@
-# Implementation — Example: Adding A Menu Item
+# Implementation - Example: Adding A Menu Item
 
 Inside your entry point function, call `AEGP_GetUniqueCommand`() from the Command Suite to have After Effects give you a command ID to hand to `AEGP_InsertMenuCommand`. Assign a distinct ID to every menu item you create.
 

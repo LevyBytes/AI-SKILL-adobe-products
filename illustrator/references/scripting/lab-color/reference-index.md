@@ -1,4 +1,4 @@
-# Illustrator — LabColor
+# Illustrator - LabColor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LabColor.a in Illustrator. [LabColor.a](a.md).

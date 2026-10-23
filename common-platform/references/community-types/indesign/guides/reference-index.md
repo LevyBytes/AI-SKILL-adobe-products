@@ -1,4 +1,4 @@
-# Shared Adobe platform — Guides
+# Shared Adobe platform - Guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Guides collection iteration in Shared Adobe platform. [Guides collection iteration](collection-iteration.md).

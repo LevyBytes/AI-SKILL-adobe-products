@@ -1,4 +1,4 @@
-# Shared Adobe platform — ActionDescriptor
+# Shared Adobe platform - ActionDescriptor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ActionDescriptor declaration in Shared Adobe platform. [ActionDescriptor declaration](declaration.md).

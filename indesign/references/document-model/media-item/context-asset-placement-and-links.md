@@ -1,6 +1,6 @@
-# InDesign — MediaItem: place and link external assets
+# InDesign - MediaItem: place and link external assets
 
-Open when checking place and link external assets in InDesign — MediaItem.
+Open when checking place and link external assets in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

@@ -1,4 +1,4 @@
-# Premiere Pro — Relink offline clips
+# Premiere Pro - Relink offline clips
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Relink clips automatically when opening a project in Premiere Pro. [Relink clips automatically when opening a project](relink-clips-automatically-when-opening-a-project.md).

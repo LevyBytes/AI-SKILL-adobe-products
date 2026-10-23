@@ -14,7 +14,7 @@ monitorType points instead at a broad class of monitor, judged by traits like pr
 
 A monitor type can still be requested by a PDF that runs no JavaScript, even though such a file cannot name a specific monitor. Whenever monitorType reaches app.media.createPlayer or app.media.openPlayer, the JavaScript code pulls the system's roster of monitors and applies monitorType to pick one for playback. That monitor's rectangle is what gets used at the point MediaPlayer.open runs to settle on the monitor.
 
-Example — send a clip full screen onto whichever monitor offers the deepest color.
+Example: send a clip full screen onto whichever monitor offers the deepest color.
 
 ```javascript
 var player = app.media.openPlayer({

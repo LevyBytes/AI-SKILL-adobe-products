@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLItem
+# Shared Adobe platform - XMLItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 

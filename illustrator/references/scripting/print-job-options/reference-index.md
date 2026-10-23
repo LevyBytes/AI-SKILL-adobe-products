@@ -1,4 +1,4 @@
-# Illustrator — PrintJobOptions
+# Illustrator - PrintJobOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PrintJobOptions.artboardRange in Illustrator. [PrintJobOptions.artboardRange](artboard-range.md).

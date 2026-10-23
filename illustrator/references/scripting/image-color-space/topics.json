@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — ImageColorSpace", "file": "references/scripting/image-color-space/scripting-constants-image-color-space.md", "summary": "Open when looking up Scripting Constants — ImageColorSpace in Illustrator.", "keywords": ["Scripting Constants — ImageColorSpace"]},
+  {"topic": "Scripting Constants - ImageColorSpace", "file": "references/scripting/image-color-space/scripting-constants-image-color-space.md", "summary": "Open when looking up Scripting Constants - ImageColorSpace in Illustrator.", "keywords": ["Scripting Constants - ImageColorSpace"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

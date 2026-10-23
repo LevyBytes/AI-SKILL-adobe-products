@@ -1,4 +1,4 @@
-# Shared Adobe platform — EndnoteTextFrames
+# Shared Adobe platform - EndnoteTextFrames
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EndnoteTextFrames collection iteration in Shared Adobe platform. [EndnoteTextFrames collection iteration](collection-iteration.md).

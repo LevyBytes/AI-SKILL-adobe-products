@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "User-interaction levels — AppleScript", "file": "references/scripting/apple-script/user-interaction-levels-apple-script.md", "summary": "Open when looking up User-interaction levels — AppleScript in Illustrator.", "keywords": ["User-interaction levels — AppleScript"]},
+  {"topic": "User-interaction levels - AppleScript", "file": "references/scripting/apple-script/user-interaction-levels-apple-script.md", "summary": "Open when looking up User-interaction levels - AppleScript in Illustrator.", "keywords": ["User-interaction levels - AppleScript"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

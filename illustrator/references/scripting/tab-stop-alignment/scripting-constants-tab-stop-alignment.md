@@ -1,4 +1,4 @@
-# Scripting Constants — TabStopAlignment
+# Scripting Constants - TabStopAlignment
 
 Tab stops use these alignment choices.
 

@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: colors, brushes, patterns and artwork styles
+# Illustrator - Scripting APIs: colors, brushes, patterns and artwork styles
 
-Open when working with colors, brushes, patterns and artwork styles in Illustrator — Scripting APIs.
+Open when working with colors, brushes, patterns and artwork styles in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-paint-resources.json).
 

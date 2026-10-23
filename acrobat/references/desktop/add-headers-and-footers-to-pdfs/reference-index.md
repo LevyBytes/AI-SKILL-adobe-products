@@ -1,4 +1,4 @@
-# Acrobat — Add headers and footers to pdfs
+# Acrobat - Add headers and footers to pdfs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a header and footer in Acrobat. [Add a header and footer](add-a-header-and-footer.md).

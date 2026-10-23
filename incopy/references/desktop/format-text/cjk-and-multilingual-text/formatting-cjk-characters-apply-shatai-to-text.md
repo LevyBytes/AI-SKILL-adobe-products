@@ -1,4 +1,4 @@
-# Formatting CJK characters — Apply shatai to text
+# Formatting CJK characters - Apply shatai to text
 
 Traditional typesetting could slant characters by distorting glyphs with a lens during film setting; that oblique treatment is called shatai. Unlike a simple glyph slant, shatai also changes scale. InDesign provides the shatai feature for setting text magnification or angle from the center point while keeping glyph height unchanged.
 

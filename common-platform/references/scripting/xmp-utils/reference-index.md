@@ -1,10 +1,10 @@
-# Shared Adobe platform — Xmp utils
+# Shared Adobe platform - Xmp utils
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 
 ## Utility object
 
-- Open when looking up XMPScript object reference — XMPUtils object in Shared Adobe platform. [XMPScript object reference — XMPUtils object](xmp-script-object-reference-xmp-utils-object.md).
+- Open when looking up XMPScript object reference - XMPUtils object in Shared Adobe platform. [XMPScript object reference - XMPUtils object](xmp-script-object-reference-xmp-utils-object.md).
 
 ## Compose property paths
 

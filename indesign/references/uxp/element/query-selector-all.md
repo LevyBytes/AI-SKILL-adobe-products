@@ -1,4 +1,4 @@
-# window.Element — querySelectorAll(selector)
+# window.Element - querySelectorAll(selector)
 
 **Returns**: `NodeList`
 

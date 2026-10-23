@@ -1,4 +1,4 @@
-# Illustrator — Format columns, bars, and lines
+# Illustrator - Format columns, bars, and lines
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust column, bar, and cluster spacing in Illustrator. [Adjust column, bar, and cluster spacing](adjust-column-bar-and-cluster-spacing.md).

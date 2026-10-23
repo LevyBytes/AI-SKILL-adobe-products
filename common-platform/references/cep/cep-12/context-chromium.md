@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: cef runtime and browser compatibility
+# Shared Adobe platform - Cep 12: cef runtime and browser compatibility
 
-Open when working with cef runtime and browser compatibility in Shared Adobe platform — Cep 12.
+Open when working with cef runtime and browser compatibility in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-chromium.json).
 

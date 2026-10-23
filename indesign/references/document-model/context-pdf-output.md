@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: pdf export, placement and compatibility
+# InDesign - InDesign document object model: pdf export, placement and compatibility
 
-Open when working with pdf export, placement and compatibility in InDesign — InDesign document object model.
+Open when working with pdf export, placement and compatibility in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-pdf-output.json).
 

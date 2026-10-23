@@ -1,4 +1,4 @@
-# Keying effects — Preserve a color after applying Linear Color Key
+# Keying effects - Preserve a color after applying Linear Color Key
 
 1. Over in the Effect Controls panel or Timeline panel, switch off every key or matte effect already in play by clearing the Effect option that sits to the left of each key or tool name. Clearing it brings the original image back into the Composition panel, giving you something to pick a preserve color from.
 2. Choose Effect > Keying > Linear Color Key. Below the first group, a second set of Linear Color Key controls shows up in the Effect Controls panel.

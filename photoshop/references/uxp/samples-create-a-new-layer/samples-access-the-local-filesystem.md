@@ -1,4 +1,4 @@
-# Samples — Access the local filesystem
+# Samples - Access the local filesystem
 
 Use the UXP storage module when a script needs to reach the local filesystem: 
 

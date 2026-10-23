@@ -1,4 +1,4 @@
-# Save and export audio files — Export to OMF
+# Save and export audio files - Export to OMF
 
 In Multitrack Editor, select File > Export > OMF.
 

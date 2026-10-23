@@ -1,6 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [dynamic-html-to-pdf.cjs](../examples/node/dynamic-html-to-pdf/dynamic-html-to-pdf.cjs)
-- [dependencies.cjs](../examples/node/dynamic-html-to-pdf/dependencies.cjs)
-- [helpers.cjs](../examples/node/dynamic-html-to-pdf/helpers.cjs)
+- [dynamic-html-to-pdf setup and source](../examples/node/dynamic-html-to-pdf/dynamic-html-to-pdf-setup.md)

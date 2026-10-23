@@ -1,4 +1,4 @@
-# Text composition — Adjust word and letterspacing in justified text
+# Text composition - Adjust word and letterspacing in justified text
 
 Put the cursor in the paragraph to edit, or select a type object or frame when every paragraph inside it should change. From the Paragraph panel menu, choose Justification. Enter Word Spacing, Letter Spacing, and Glyph Spacing values. Minimum and Maximum set the allowed spacing range for justified paragraphs only; Desired applies to both justified and unjustified paragraphs:
 

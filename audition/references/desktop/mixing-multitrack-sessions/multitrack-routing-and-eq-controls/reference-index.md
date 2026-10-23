@@ -1,4 +1,4 @@
-# Audition — Multitrack routing and EQ controls
+# Audition - Multitrack routing and EQ controls
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assign audio inputs and outputs to tracks in Audition. [Assign audio inputs and outputs to tracks](assign-audio-inputs-and-outputs-to-tracks.md).

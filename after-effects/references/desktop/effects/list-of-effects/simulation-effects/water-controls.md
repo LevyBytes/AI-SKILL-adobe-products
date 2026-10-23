@@ -34,4 +34,4 @@ Push Surface Opacity to 1.0 for a flawless mirror of a sky layer. Pair that with
 
 Caustics Strength
 
-Renders the caustics themselves — the pools of light gathered on the bottom by the lensing of the waves. Flipping this on transforms the whole look: the wave troughs deepen sharply while the crests brighten well beyond before. Leave it unset and the effect still bends the bottom layer as waves roll across, but skips rendering the lighting.
+Renders the caustics themselves: the pools of light gathered on the bottom by the lensing of the waves. Flipping this on transforms the whole look: the wave troughs deepen sharply while the crests brighten well beyond before. Leave it unset and the effect still bends the bottom layer as waves roll across, but skips rendering the lighting.

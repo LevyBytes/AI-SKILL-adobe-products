@@ -1,4 +1,4 @@
-# InDesign — Apply opacity and transparency effects
+# InDesign - Apply opacity and transparency effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply transparency to grouped objects in InDesign. [Apply transparency to grouped objects](apply-transparency-to-grouped-objects.md).

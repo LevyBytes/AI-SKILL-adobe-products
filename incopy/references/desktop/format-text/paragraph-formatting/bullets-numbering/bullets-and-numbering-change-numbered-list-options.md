@@ -1,4 +1,4 @@
-# Bullets and numbering — Change numbered list options
+# Bullets and numbering - Change numbered list options
 
 In a numbered list, adding or removing list paragraphs updates the numbers automatically. Paragraphs in the same list receive sequential numbering. They do not need to sit next to each other, provided that a list is defined for them.
 

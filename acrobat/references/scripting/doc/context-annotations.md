@@ -1,6 +1,6 @@
-# Acrobat — Doc: annotations and redaction
+# Acrobat - Doc: annotations and redaction
 
-Open when working with annotations and redaction in Acrobat — Doc.
+Open when working with annotations and redaction in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-annotations.json).
 

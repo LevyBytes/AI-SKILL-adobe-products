@@ -1,4 +1,4 @@
-# InDesign — Faqs
+# InDesign - Faqs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Applications Integrated with UXP in InDesign. [Applications Integrated with UXP](applications-integrated-with-uxp.md).

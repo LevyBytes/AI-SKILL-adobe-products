@@ -1,6 +1,6 @@
-# Acrobat — PDF Services API: extract api authentication and job lifecycle
+# Acrobat - PDF Services API: extract api authentication and job lifecycle
 
-Open when working with extract api authentication and job lifecycle in Acrobat — PDF Services API.
+Open when working with extract api authentication and job lifecycle in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-extract-lifecycle.json).
 

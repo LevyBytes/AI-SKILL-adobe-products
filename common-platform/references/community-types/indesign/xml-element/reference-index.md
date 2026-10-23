@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLElement
+# Shared Adobe platform - XMLElement
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLElement declaration in Shared Adobe platform. [XMLElement declaration](declaration.md).

@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: layer styles
+# After Effects - Scripting APIs: layer styles
 
-Open when working with layer styles in After Effects — Scripting APIs.
+Open when working with layer styles in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-layer-styles.json).
 

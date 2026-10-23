@@ -1,4 +1,4 @@
-# Premiere Pro — Object masking in Premiere
+# Premiere Pro - Object masking in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Locating an offline mask in Premiere Pro. [Locating an offline mask](locating-an-offline-mask.md).

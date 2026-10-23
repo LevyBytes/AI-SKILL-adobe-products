@@ -1,6 +1,6 @@
-# InDesign — Rectangle: events and listeners
+# InDesign - Rectangle: events and listeners
 
-Open when checking events and listeners in InDesign — Rectangle.
+Open when checking events and listeners in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

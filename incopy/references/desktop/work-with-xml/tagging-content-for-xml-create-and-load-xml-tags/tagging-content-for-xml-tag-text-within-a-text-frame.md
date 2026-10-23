@@ -1,4 +1,4 @@
-# Tagging content for XML — Tag text within a text frame
+# Tagging content for XML - Tag text within a text frame
 
 Choose View > Layout View. Confirm that the frame containing the text already has a tag. If the frame has not been tagged when you try to tag its text, InCopy applies default tags to the story. Then use one of these methods:
 

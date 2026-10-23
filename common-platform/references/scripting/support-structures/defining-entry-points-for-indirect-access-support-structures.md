@@ -1,4 +1,4 @@
-# Defining entry points for indirect access — Support structures
+# Defining entry points for indirect access - Support structures
 
 Functions that you define for the JavaScript interface receive these support structures:
 

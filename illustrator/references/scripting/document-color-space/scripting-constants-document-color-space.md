@@ -1,4 +1,4 @@
-# Scripting Constants — DocumentColorSpace
+# Scripting Constants - DocumentColorSpace
 
 Document color space.
 

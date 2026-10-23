@@ -1,4 +1,4 @@
-# Photoshop — Overview of distortion tools
+# Photoshop - Overview of distortion tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Correction-focused distortion tools in Photoshop. [Correction-focused distortion tools](correction-focused-distortion-tools.md).

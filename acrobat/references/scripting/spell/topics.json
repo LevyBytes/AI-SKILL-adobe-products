@@ -14,7 +14,7 @@
   {"topic": "dictionaryOrder", "file": "references/scripting/spell/dictionary-order.md", "summary": "Open when looking up dictionaryOrder in Acrobat.", "keywords": ["dictionaryOrder"]},
   {"topic": "domainNames", "file": "references/scripting/spell/domain-names.md", "summary": "Open when looking up domainNames in Acrobat.", "keywords": ["domainNames"]},
   {"topic": "ignoreAll", "file": "references/scripting/spell/ignore-all.md", "summary": "Open when looking up ignoreAll in Acrobat.", "keywords": ["ignoreAll"]},
-  {"topic": "JavaScript APIs — spell", "file": "references/scripting/spell/java-script-apis-spell.md", "summary": "Open when looking up JavaScript APIs — spell in Acrobat.", "keywords": ["JavaScript APIs — spell"]},
+  {"topic": "JavaScript APIs - spell", "file": "references/scripting/spell/java-script-apis-spell.md", "summary": "Open when looking up JavaScript APIs - spell in Acrobat.", "keywords": ["JavaScript APIs - spell"]},
   {"topic": "languageOrder", "file": "references/scripting/spell/language-order.md", "summary": "Open when looking up languageOrder in Acrobat.", "keywords": ["languageOrder"]},
   {"topic": "languages", "file": "references/scripting/spell/languages.md", "summary": "Open when looking up languages in Acrobat.", "keywords": ["languages"]},
   {"topic": "removeDictionary", "file": "references/scripting/spell/remove-dictionary.md", "summary": "Open when looking up removeDictionary in Acrobat.", "keywords": ["removeDictionary"]},

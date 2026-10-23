@@ -1,6 +1,6 @@
-# InDesign — Sound: fill, stroke and transparency
+# InDesign - Sound: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Sound.
+Open when checking fill, stroke and transparency in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

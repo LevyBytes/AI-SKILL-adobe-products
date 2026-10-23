@@ -1,4 +1,4 @@
-# Acrobat — Color convert action
+# Acrobat - Color convert action
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up action in Acrobat. [action](action.md).
@@ -8,7 +8,7 @@
 - Open when looking up convertProfile in Acrobat. [convertProfile](convert-profile.md).
 - Open when looking up embed in Acrobat. [embed](embed.md).
 - Open when looking up isProcessColor in Acrobat. [isProcessColor](is-process-color.md).
-- Open when looking up JavaScript APIs — colorConvertAction in Acrobat. [JavaScript APIs — colorConvertAction](java-script-apis-color-convert-action.md).
+- Open when looking up JavaScript APIs - colorConvertAction in Acrobat. [JavaScript APIs - colorConvertAction](java-script-apis-color-convert-action.md).
 - Open when looking up matchAttributesAll in Acrobat. [matchAttributesAll](match-attributes-all.md).
 - Open when looking up matchAttributesAny in Acrobat. [matchAttributesAny](match-attributes-any.md).
 - Open when looking up matchIntent in Acrobat. [matchIntent](match-intent.md).

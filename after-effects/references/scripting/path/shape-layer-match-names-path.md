@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Path
+# Shape Layer Match Names - Path
 
 | Match Name | Display Name (EN) |
 | --- | --- |

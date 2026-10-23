@@ -23,7 +23,7 @@ A distribution option spreads the chosen layers evenly across the gap between th
 
 Distributing layers of unequal size can leave the gaps between them uneven. Distributing by center, say, puts equal spacing between centers, yet layers of different sizes reach by different amounts into the space separating them.
 
-Locked layers stay put — alignment and distribution options can't budge them.
+Locked layers stay put: alignment and distribution options can't budge them.
 
 The Align panel has no bearing on how characters line up inside a text layer.
 

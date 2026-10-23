@@ -1,4 +1,4 @@
-# Glyphs and special characters — Insert glyphs and special characters
+# Glyphs and special characters - Insert glyphs and special characters
 
 A glyph is one visible design for a character. In some fonts, for example, capital letter A comes in several forms, including swash and small cap. To find any glyph available in a font, use the Glyphs panel.
 

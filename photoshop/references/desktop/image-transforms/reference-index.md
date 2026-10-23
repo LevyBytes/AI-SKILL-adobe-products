@@ -1,4 +1,4 @@
-# Photoshop — Crop resize and transform
+# Photoshop - Crop resize and transform
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Crop and straighten in Photoshop. [Crop and straighten](crop-and-straighten.md).

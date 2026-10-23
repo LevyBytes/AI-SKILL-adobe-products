@@ -1,6 +1,6 @@
-# Premiere Pro — Properties: backgrounds and transparency
+# Premiere Pro - Properties: backgrounds and transparency
 
-Open when working with backgrounds and transparency in Premiere Pro — Properties.
+Open when working with backgrounds and transparency in Premiere Pro - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-backgrounds.json).
 

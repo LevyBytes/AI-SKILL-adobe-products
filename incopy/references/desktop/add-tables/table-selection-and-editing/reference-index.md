@@ -1,24 +1,24 @@
-# InCopy — Selecting and editing tables — Select table cells, rows, and columns
+# InCopy - Selecting and editing tables - Select table cells, rows, and columns
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Selecting and editing tables — Change the alignment of a table within a frame in InCopy. [Selecting and editing tables — Change the alignment of a table within a frame](change-the-alignment-of-a-table-within-a-frame.md).
-- Open when looking up Selecting and editing tables — Combine tables in InCopy. [Selecting and editing tables — Combine tables](selecting-and-editing-tables-combine-tables.md).
-- Open when looking up Selecting and editing tables — Convert tables to text in InCopy. [Selecting and editing tables — Convert tables to text](selecting-and-editing-tables-convert-tables-to-text.md).
-- Open when looking up Selecting and editing tables — Cut, copy, and paste table contents in InCopy. [Selecting and editing tables — Cut, copy, and paste table contents](cut-copy-and-paste-table-contents.md).
-- Open when looking up Selecting and editing tables — Delete rows, columns, or tables in InCopy. [Selecting and editing tables — Delete rows, columns, or tables](selecting-and-editing-tables-delete-rows-columns-or-tables.md).
-- Open when looking up Selecting and editing tables — Insert a column in InCopy. [Selecting and editing tables — Insert a column](selecting-and-editing-tables-insert-a-column.md).
-- Open when looking up Selecting and editing tables — Insert a row in InCopy. [Selecting and editing tables — Insert a row](selecting-and-editing-tables-insert-a-row.md).
-- Open when looking up Selecting and editing tables — Insert a row or column by dragging in InCopy. [Selecting and editing tables — Insert a row or column by dragging](insert-a-row-or-column-by-dragging.md).
-- Open when looking up Selecting and editing tables — Insert multiple rows and columns in InCopy. [Selecting and editing tables — Insert multiple rows and columns](selecting-and-editing-tables-insert-multiple-rows-and-columns.md).
-- Open when looking up Selecting and editing tables — Insert rows and columns in InCopy. [Selecting and editing tables — Insert rows and columns](selecting-and-editing-tables-insert-rows-and-columns.md).
-- Open when looking up Selecting and editing tables — Jump to a specific row in a table in InCopy. [Selecting and editing tables — Jump to a specific row in a table](jump-to-a-specific-row-in-a-table.md).
-- Open when looking up Selecting and editing tables — Move or copy a table in InCopy. [Selecting and editing tables — Move or copy a table](selecting-and-editing-tables-move-or-copy-a-table.md).
-- Open when looking up Selecting and editing tables — Move within a table using arrow keys in InCopy. [Selecting and editing tables — Move within a table using arrow keys](move-within-a-table-using-arrow-keys.md).
-- Open when looking up Selecting and editing tables — Move within a table using Tab in InCopy. [Selecting and editing tables — Move within a table using Tab](selecting-and-editing-tables-move-within-a-table-using-tab.md).
-- Open when looking up Selecting and editing tables — Navigate within a table in InCopy. [Selecting and editing tables — Navigate within a table](selecting-and-editing-tables-navigate-within-a-table.md).
-- Open when looking up Selecting and editing tables — Select all header, body, or footer rows in InCopy. [Selecting and editing tables — Select all header, body, or footer rows](select-all-header-body-or-footer-rows.md).
-- Open when looking up Selecting and editing tables — Select cells in InCopy. [Selecting and editing tables — Select cells](selecting-and-editing-tables-select-cells.md).
-- Open when looking up Selecting and editing tables — Select entire columns or rows in InCopy. [Selecting and editing tables — Select entire columns or rows](selecting-and-editing-tables-select-entire-columns-or-rows.md).
-- Open when looking up Selecting and editing tables — Select the entire table in InCopy. [Selecting and editing tables — Select the entire table](selecting-and-editing-tables-select-the-entire-table.md).
-- Open when looking up Selecting and editing tables — Working with tables in Galley/Story view in InCopy. [Selecting and editing tables — Working with tables in Galley/Story view](working-with-tables-in-galley-story-view.md).
-- Open when looking up Selecting and editing tables — Working with tables in Story Editor in InCopy. [Selecting and editing tables — Working with tables in Story Editor](working-with-tables-in-story-editor.md).
+- Open when looking up Selecting and editing tables - Change the alignment of a table within a frame in InCopy. [Selecting and editing tables - Change the alignment of a table within a frame](change-the-alignment-of-a-table-within-a-frame.md).
+- Open when looking up Selecting and editing tables - Combine tables in InCopy. [Selecting and editing tables - Combine tables](selecting-and-editing-tables-combine-tables.md).
+- Open when looking up Selecting and editing tables - Convert tables to text in InCopy. [Selecting and editing tables - Convert tables to text](selecting-and-editing-tables-convert-tables-to-text.md).
+- Open when looking up Selecting and editing tables - Cut, copy, and paste table contents in InCopy. [Selecting and editing tables - Cut, copy, and paste table contents](cut-copy-and-paste-table-contents.md).
+- Open when looking up Selecting and editing tables - Delete rows, columns, or tables in InCopy. [Selecting and editing tables - Delete rows, columns, or tables](selecting-and-editing-tables-delete-rows-columns-or-tables.md).
+- Open when looking up Selecting and editing tables - Insert a column in InCopy. [Selecting and editing tables - Insert a column](selecting-and-editing-tables-insert-a-column.md).
+- Open when looking up Selecting and editing tables - Insert a row in InCopy. [Selecting and editing tables - Insert a row](selecting-and-editing-tables-insert-a-row.md).
+- Open when looking up Selecting and editing tables - Insert a row or column by dragging in InCopy. [Selecting and editing tables - Insert a row or column by dragging](insert-a-row-or-column-by-dragging.md).
+- Open when looking up Selecting and editing tables - Insert multiple rows and columns in InCopy. [Selecting and editing tables - Insert multiple rows and columns](selecting-and-editing-tables-insert-multiple-rows-and-columns.md).
+- Open when looking up Selecting and editing tables - Insert rows and columns in InCopy. [Selecting and editing tables - Insert rows and columns](selecting-and-editing-tables-insert-rows-and-columns.md).
+- Open when looking up Selecting and editing tables - Jump to a specific row in a table in InCopy. [Selecting and editing tables - Jump to a specific row in a table](jump-to-a-specific-row-in-a-table.md).
+- Open when looking up Selecting and editing tables - Move or copy a table in InCopy. [Selecting and editing tables - Move or copy a table](selecting-and-editing-tables-move-or-copy-a-table.md).
+- Open when looking up Selecting and editing tables - Move within a table using arrow keys in InCopy. [Selecting and editing tables - Move within a table using arrow keys](move-within-a-table-using-arrow-keys.md).
+- Open when looking up Selecting and editing tables - Move within a table using Tab in InCopy. [Selecting and editing tables - Move within a table using Tab](selecting-and-editing-tables-move-within-a-table-using-tab.md).
+- Open when looking up Selecting and editing tables - Navigate within a table in InCopy. [Selecting and editing tables - Navigate within a table](selecting-and-editing-tables-navigate-within-a-table.md).
+- Open when looking up Selecting and editing tables - Select all header, body, or footer rows in InCopy. [Selecting and editing tables - Select all header, body, or footer rows](select-all-header-body-or-footer-rows.md).
+- Open when looking up Selecting and editing tables - Select cells in InCopy. [Selecting and editing tables - Select cells](selecting-and-editing-tables-select-cells.md).
+- Open when looking up Selecting and editing tables - Select entire columns or rows in InCopy. [Selecting and editing tables - Select entire columns or rows](selecting-and-editing-tables-select-entire-columns-or-rows.md).
+- Open when looking up Selecting and editing tables - Select the entire table in InCopy. [Selecting and editing tables - Select the entire table](selecting-and-editing-tables-select-the-entire-table.md).
+- Open when looking up Selecting and editing tables - Working with tables in Galley/Story view in InCopy. [Selecting and editing tables - Working with tables in Galley/Story view](working-with-tables-in-galley-story-view.md).
+- Open when looking up Selecting and editing tables - Working with tables in Story Editor in InCopy. [Selecting and editing tables - Working with tables in Story Editor](working-with-tables-in-story-editor.md).

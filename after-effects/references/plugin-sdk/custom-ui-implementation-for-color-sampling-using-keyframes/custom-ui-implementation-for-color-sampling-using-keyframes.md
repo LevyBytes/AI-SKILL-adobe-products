@@ -1,4 +1,4 @@
-# Tips & Tricks — Custom UI Implementation for Color Sampling, Using Keyframes
+# Tips & Tricks - Custom UI Implementation for Color Sampling, Using Keyframes
 
 Say a plug-in needs to sample a color from some layer inside a composition. To pick the point, the user either reaches for the eyedropper tied to a color parameter or works through the plug-in's own custom composition panel UI.
 

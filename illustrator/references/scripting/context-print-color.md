@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: print color, separations, screening and trapping
+# Illustrator - Scripting APIs: print color, separations, screening and trapping
 
-Open when working with print color, separations, screening and trapping in Illustrator — Scripting APIs.
+Open when working with print color, separations, screening and trapping in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-print-color.json).
 

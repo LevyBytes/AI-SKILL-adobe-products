@@ -1,6 +1,6 @@
-# InDesign — Word: ruby annotations
+# InDesign - Word: ruby annotations
 
-Open when checking ruby annotations in InDesign — Word.
+Open when checking ruby annotations in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

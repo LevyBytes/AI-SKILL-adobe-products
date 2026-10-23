@@ -1,4 +1,4 @@
-# Extract PDF — Extract Text from a PDF
+# Extract PDF - Extract Text from a PDF
 
 Pulling text element data out of a PDF and handing back a JSON file is what the sample below demonstrates.
 

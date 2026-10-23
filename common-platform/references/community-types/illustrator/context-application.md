@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: application, preferences and scripting environment
+# Shared Adobe platform - Illustrator: application, preferences and scripting environment
 
-Open when working with application, preferences and scripting environment in Shared Adobe platform — Illustrator.
+Open when working with application, preferences and scripting environment in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-application.json).
 

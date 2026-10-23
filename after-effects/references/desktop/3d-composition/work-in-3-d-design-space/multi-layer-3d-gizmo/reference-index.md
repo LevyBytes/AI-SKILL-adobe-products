@@ -1,4 +1,4 @@
-# After Effects — Single 3D Gizmo for multiple 3D layers
+# After Effects - Single 3D Gizmo for multiple 3D layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Impact on After Effects performance in After Effects. [Impact on After Effects performance](impact-on-after-effects-performance.md).

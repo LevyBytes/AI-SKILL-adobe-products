@@ -1,4 +1,4 @@
-# Acrobat — PDF Services API Licensing — Paid programs
+# Acrobat - PDF Services API Licensing - Paid programs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Metrics in Acrobat. [Metrics](metrics.md).

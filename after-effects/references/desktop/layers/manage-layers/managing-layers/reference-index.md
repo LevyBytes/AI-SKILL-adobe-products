@@ -1,4 +1,4 @@
-# After Effects — Managing layers
+# After Effects - Managing layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bilinear and bicubic sampling in After Effects. [Bilinear and bicubic sampling](bilinear-and-bicubic-sampling.md).

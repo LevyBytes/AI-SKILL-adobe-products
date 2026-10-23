@@ -12,7 +12,7 @@
 - [ ] Convert font options from `options.fonts` (href+storage) to `fontOptions.additionalFonts` with `source.url`; convert `options.globalFont` to `fontOptions.defaultFontPostScriptName`; convert `manageMissingFonts:"useDefault"` to `missingFontStrategy:"use_default"`
 - [ ] `lineHeight` / `autoLeading` are V2-only controls. Because V1 always used automatic leading and had no line-height override, match that behavior with `autoLeading: true` (line height = 120% of `fontSize`); for custom leading, send `autoLeading: false` plus an explicit `lineHeight`:
 
-auto — matches V1 behavior
+auto: matches V1 behavior
 
 ```json
 {

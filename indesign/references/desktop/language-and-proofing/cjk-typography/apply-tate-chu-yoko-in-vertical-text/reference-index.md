@@ -1,4 +1,4 @@
-# InDesign — Apply Tate‑chu‑yoko in vertical text
+# InDesign - Apply Tate‑chu‑yoko in vertical text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Tate-chu-yoko to selected text in InDesign. [Apply Tate-chu-yoko to selected text](apply-tate-chu-yoko-to-selected-text.md).

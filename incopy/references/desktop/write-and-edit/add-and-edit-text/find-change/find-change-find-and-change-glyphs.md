@@ -1,4 +1,4 @@
-# Find/Change — Find and change glyphs
+# Find/Change - Find and change glyphs
 
 Use the Glyph section of Find/Change when one glyph needs to be replaced by another similar glyph with the same unicode value, such as an alternate glyph.
 

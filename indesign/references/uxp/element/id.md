@@ -1,4 +1,4 @@
-# window.Element — id : `string`
+# window.Element - id : `string`
 
 On `Element`, this property represents the element's identifier and mirrors global attribute `id`.
 

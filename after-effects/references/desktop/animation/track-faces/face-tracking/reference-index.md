@@ -1,4 +1,4 @@
-# After Effects — Face Tracking
+# After Effects - Face Tracking
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Face Measurements in After Effects. [Face Measurements](face-measurements.md).

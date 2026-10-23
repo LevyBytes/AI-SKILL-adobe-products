@@ -1,6 +1,6 @@
-# InDesign — Document: table and cell styles
+# InDesign - Document: table and cell styles
 
-Open when checking table and cell styles in InDesign — Document.
+Open when checking table and cell styles in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-table-styles.json).
 

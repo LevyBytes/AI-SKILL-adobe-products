@@ -1,4 +1,4 @@
-# Kerning and tracking — Turn off kerning for selected text
+# Kerning and tracking - Turn off kerning for selected text
 
 Select the text. In the Character panel or Control panel, set the Kerning menu to 0 by typing or choosing it.
 

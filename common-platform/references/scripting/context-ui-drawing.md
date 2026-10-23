@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: ui drawing, images, fonts and graphics
+# Shared Adobe platform - Scripting APIs: ui drawing, images, fonts and graphics
 
-Open when working with ui drawing, images, fonts and graphics in Shared Adobe platform — Scripting APIs.
+Open when working with ui drawing, images, fonts and graphics in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-drawing.json).
 

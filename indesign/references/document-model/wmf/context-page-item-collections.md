@@ -1,6 +1,6 @@
-# InDesign — WMF: page item collections
+# InDesign - WMF: page item collections
 
-Open when checking page item collections in InDesign — WMF.
+Open when checking page item collections in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

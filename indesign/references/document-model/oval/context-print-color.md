@@ -1,6 +1,6 @@
-# InDesign — Oval: output color, screening and overprint
+# InDesign - Oval: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — Oval.
+Open when checking output color, screening and overprint in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

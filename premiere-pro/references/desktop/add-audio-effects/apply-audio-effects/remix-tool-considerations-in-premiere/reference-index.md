@@ -1,4 +1,4 @@
-# Premiere Pro — Remix tool considerations in Premiere
+# Premiere Pro - Remix tool considerations in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Music characteristics that affect remixing in Premiere Pro. [Music characteristics that affect remixing](music-characteristics-that-affect-remixing.md).

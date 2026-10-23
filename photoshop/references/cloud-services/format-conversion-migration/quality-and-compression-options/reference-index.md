@@ -1,4 +1,4 @@
-# Photoshop — Quality and compression options
+# Photoshop - Quality and compression options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up JPEG quality settings in Photoshop. [JPEG quality settings](jpeg-quality-settings.md).

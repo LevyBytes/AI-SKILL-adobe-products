@@ -1,4 +1,4 @@
-# Table and cell styles — Table/Cell Styles panels overview
+# Table and cell styles - Table/Cell Styles panels overview
 
 Create and name table styles in the Table Styles panel (Window > Styles >Table Styles), then apply them to existing, newly created, or imported tables. In the Cell Styles panel (Window > Styles > Cell Styles), create and name cell styles and apply them to table cells. A document stores its styles, so those styles return in the panel whenever you reopen that document. For easier management, put table and cell styles into groups.
 

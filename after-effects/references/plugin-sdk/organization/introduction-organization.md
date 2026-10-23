@@ -1,4 +1,4 @@
-# Introduction — Organization
+# Introduction - Organization
 
 An overview of how you can build atop After Effects lives in What Can I Do With This SDK? — it lays out what plug-ins are and the way they cooperate with the application, walks through the sample projects and how to adapt them, and points out where plug-ins get installed and which resources they draw on.
 

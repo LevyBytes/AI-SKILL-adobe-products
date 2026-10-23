@@ -1,4 +1,4 @@
-# Text variables — Import text variables from another document
+# Text variables - Import text variables from another document
 
 Open Type > Text Variables > Define.
 

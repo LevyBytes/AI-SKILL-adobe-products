@@ -4,7 +4,7 @@ In text-based XML project files, a portion of the project data sits as hexadecim
 
 Inside an XML project file, these are the project elements open to your edits:
 
-Marker attributes—among them comments, chapter point parameters, and cue point parameters
+Marker attributes: among them comments, chapter point parameters, and cue point parameters
 
 File paths for source footage items, proxies included
 

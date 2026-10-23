@@ -1,4 +1,4 @@
-# Workspace basics — Display panel options
+# Workspace basics - Display panel options
 
 Click the panel menu icon at the panel's upper-right corner.
 

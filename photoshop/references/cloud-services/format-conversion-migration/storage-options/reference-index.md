@@ -1,4 +1,4 @@
-# Photoshop — Storage options
+# Photoshop - Storage options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cloud PSD storage support in Photoshop. [Cloud PSD storage support](cloud-psd-storage-support.md).

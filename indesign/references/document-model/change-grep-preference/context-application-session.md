@@ -1,6 +1,6 @@
-# InDesign — Change grep preference: application session and account
+# InDesign - Change grep preference: application session and account
 
-Open when checking application session and account in InDesign — Change grep preference.
+Open when checking application session and account in InDesign - Change grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

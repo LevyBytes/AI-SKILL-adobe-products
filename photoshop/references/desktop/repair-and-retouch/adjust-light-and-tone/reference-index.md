@@ -1,4 +1,4 @@
-# Photoshop — Adjust light and tone
+# Photoshop - Adjust light and tone
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blending mode descriptions in Photoshop. [Blending mode descriptions](blending-mode-descriptions.md).

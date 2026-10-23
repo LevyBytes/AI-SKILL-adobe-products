@@ -1,6 +1,6 @@
-# InDesign — PageItem: text frame columns and autosizing
+# InDesign - PageItem: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — PageItem.
+Open when checking text frame columns and autosizing in InDesign - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

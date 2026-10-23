@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "canPlay", "file": "references/scripting/doc-media/can-play.md", "summary": "Open when looking up canPlay in Acrobat.", "keywords": ["canPlay"]},
   {"topic": "deleteRendition", "file": "references/scripting/doc-media/delete-rendition.md", "summary": "Open when looking up deleteRendition in Acrobat.", "keywords": ["deleteRendition"]},
-  {"topic": "Doc and Doc.Media APIs — Doc.media", "file": "references/scripting/doc-media/doc-and-doc-media-apis-doc-media.md", "summary": "Open when looking up Doc and Doc.Media APIs — Doc.media in Acrobat.", "keywords": ["Doc and Doc.Media APIs — Doc.media"]},
+  {"topic": "Doc and Doc.Media APIs - Doc.media", "file": "references/scripting/doc-media/doc-and-doc-media-apis-doc-media.md", "summary": "Open when looking up Doc and Doc.Media APIs - Doc.media in Acrobat.", "keywords": ["Doc and Doc.Media APIs - Doc.media"]},
   {"topic": "getAnnot", "file": "references/scripting/doc-media/get-annot.md", "summary": "Open when looking up getAnnot in Acrobat.", "keywords": ["getAnnot"]},
   {"topic": "getAnnots", "file": "references/scripting/doc-media/get-annots.md", "summary": "Open when looking up getAnnots in Acrobat.", "keywords": ["getAnnots"]},
   {"topic": "getOpenPlayers", "file": "references/scripting/doc-media/get-open-players.md", "summary": "Open when looking up getOpenPlayers in Acrobat.", "keywords": ["getOpenPlayers"]},

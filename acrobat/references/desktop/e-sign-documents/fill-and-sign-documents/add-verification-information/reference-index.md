@@ -1,4 +1,4 @@
-# Acrobat — Add verification information
+# Acrobat - Add verification information
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add verification information after signing in Acrobat. [Add verification information after signing](add-verification-information-after-signing.md).

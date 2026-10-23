@@ -1,4 +1,4 @@
-# Acrobat — E-signatures overview
+# Acrobat - E-signatures overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Requesting signatures from others in Acrobat. [Requesting signatures from others](requesting-signatures-from-others.md).

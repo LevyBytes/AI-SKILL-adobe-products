@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Stroke Taper
+# Shape Layer Match Names - Stroke Taper
 
 | Match Name | Display Name (EN) |
 | --- | --- |

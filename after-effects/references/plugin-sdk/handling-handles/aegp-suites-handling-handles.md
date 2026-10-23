@@ -1,4 +1,4 @@
-# AEGP Suites — Handling Handles
+# AEGP Suites - Handling Handles
 
 Memory consumed by an AEGP is best handled through the AEGP Memory Suite. Catching memory-related faults early is possible because After Effects will surface such errors back to you.
 

@@ -1,4 +1,4 @@
-# InDesign — Create and organize pages
+# InDesign - Create and organize pages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Arrange and order pages in InDesign. [Arrange and order pages references](arrange-and-order-pages/reference-index.md).

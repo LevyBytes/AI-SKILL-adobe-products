@@ -1,6 +1,6 @@
-# InDesign — Combo box: generate qr codes
+# InDesign - Combo box: generate qr codes
 
-Open when checking generate qr codes in InDesign — Combo box.
+Open when checking generate qr codes in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

@@ -1,6 +1,6 @@
-# InDesign — List box: fill, stroke and transparency
+# InDesign - List box: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — List box.
+Open when checking fill, stroke and transparency in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

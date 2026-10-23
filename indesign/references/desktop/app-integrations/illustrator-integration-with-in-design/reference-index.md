@@ -1,4 +1,4 @@
-# InDesign — Illustrator integration with InDesign
+# InDesign - Illustrator integration with InDesign
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure Illustrator import options in InDesign. [Configure Illustrator import options](configure-illustrator-import-options.md).

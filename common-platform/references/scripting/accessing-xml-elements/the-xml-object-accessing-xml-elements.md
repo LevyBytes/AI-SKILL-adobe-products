@@ -1,4 +1,4 @@
-# The XML Object — Accessing XML elements
+# The XML Object - Accessing XML elements
 
 The examples in this chapter use the following sample XML:
 

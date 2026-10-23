@@ -7,7 +7,7 @@ Launch the PDF, then pick All tools > Organize pages.
 Pick one of these methods to set which pages get rotated:
 
 - Open the dropdown beneath PAGES SELECTED and pick whichever option fits.
-- Pick a ready-made choice — Even pages, Odd pages, or All pages.
+- Pick a ready-made choice: Even pages, Odd pages, or All pages.
 - Type the page numbers yourself.
 
 Set which way the pages turn:

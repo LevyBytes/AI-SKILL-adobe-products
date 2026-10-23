@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: save, export and format compatibility
+# Shared Adobe platform - Photoshop: save, export and format compatibility
 
-Open when working with save, export and format compatibility in Shared Adobe platform — Photoshop.
+Open when working with save, export and format compatibility in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-save-export.json).
 

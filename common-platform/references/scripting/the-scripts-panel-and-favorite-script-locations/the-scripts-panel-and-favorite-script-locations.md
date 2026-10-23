@@ -1,4 +1,4 @@
-# Selecting Scripts — The Scripts panel and favorite script locations
+# Selecting Scripts - The Scripts panel and favorite script locations
 
 The Scripts panel lists scripts that can be debugged. Entries can be JS or JSX files, and in some applications they can also be HTML files that include embedded scripts.
 

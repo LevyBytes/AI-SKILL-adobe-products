@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: fill, stroke and transparency
+# Shared Adobe platform - CharacterStyle: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in Shared Adobe platform — CharacterStyle.
+Open when checking fill, stroke and transparency in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

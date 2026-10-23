@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: other integration possibilities
+# After Effects - C++ plugin SDK: other integration possibilities
 
-Open when working with other integration possibilities in After Effects — C++ plugin SDK.
+Open when working with other integration possibilities in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-other-integration-possibilities.json).
 

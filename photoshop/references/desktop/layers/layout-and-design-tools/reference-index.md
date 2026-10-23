@@ -1,4 +1,4 @@
-# Photoshop — Layout and design tools
+# Photoshop - Layout and design tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a stroke to a frame in Photoshop. [Add a stroke to a frame](add-a-stroke-to-a-frame.md).

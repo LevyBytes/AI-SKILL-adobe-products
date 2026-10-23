@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [create-pdf-from-docx.cjs](../examples/node/create-pdf-from-docx/create-pdf-from-docx.cjs)
+- [create-pdf-from-docx setup and source](../examples/node/create-pdf-from-docx/create-pdf-from-docx-setup.md)

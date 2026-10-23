@@ -1,4 +1,4 @@
-# Configuring the Toolkit window — Panel menus
+# Configuring the Toolkit window - Panel menus
 
 Panel groups include a context menu, opened by right-clicking a tab or the title bar background. These menus contain panel-control commands such as Close Panel and Close Group, which hide one panel or the whole group.
 

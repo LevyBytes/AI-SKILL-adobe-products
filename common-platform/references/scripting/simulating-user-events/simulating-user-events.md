@@ -1,4 +1,4 @@
-# Defining behavior with event callbacks and listeners — Simulating user events
+# Defining behavior with event callbacks and listeners - Simulating user events
 
 Scripts can imitate user actions by calling notify on a window or control to send an event notification directly. Using notify, a script can generate window-control events as though the user had clicked buttons, typed text, or moved the window. If the element has an event-handler callback, notify calls it.
 

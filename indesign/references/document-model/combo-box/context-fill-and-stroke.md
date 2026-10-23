@@ -1,6 +1,6 @@
-# InDesign — Combo box: fill, stroke and transparency
+# InDesign - Combo box: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Combo box.
+Open when checking fill, stroke and transparency in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

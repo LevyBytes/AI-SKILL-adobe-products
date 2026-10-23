@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeObjectPreference: fill, stroke and transparency
+# Shared Adobe platform - ChangeObjectPreference: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in Shared Adobe platform — ChangeObjectPreference.
+Open when checking fill, stroke and transparency in Shared Adobe platform - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

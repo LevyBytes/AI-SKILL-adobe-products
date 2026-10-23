@@ -1,6 +1,6 @@
-# InDesign — Find grep preference: character spacing and geometry
+# InDesign - Find grep preference: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Find grep preference.
+Open when checking character spacing and geometry in InDesign - Find grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

@@ -1,4 +1,4 @@
-# Premiere Pro — Transfer of information from Premiere to Audition
+# Premiere Pro - Transfer of information from Premiere to Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio clip effects in Premiere Pro. [Audio clip effects](audio-clip-effects.md).

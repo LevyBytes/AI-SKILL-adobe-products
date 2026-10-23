@@ -1,4 +1,4 @@
-# Shared Adobe platform — DialogRow
+# Shared Adobe platform - DialogRow
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DialogRow declaration in Shared Adobe platform. [DialogRow declaration](declaration.md).

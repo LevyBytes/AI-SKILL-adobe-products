@@ -1,4 +1,4 @@
-# Media Encoder — Overview of Adobe Media Encoder
+# Media Encoder - Overview of Adobe Media Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding, deleting, and rearranging sources in stitched clips in Media Encoder. [Adding, deleting, and rearranging sources in stitched clips](adding-deleting-and-rearranging-sources-in-stitched-clips.md).

@@ -1,6 +1,6 @@
-# InDesign — Insertion point: page item collections
+# InDesign - Insertion point: page item collections
 
-Open when checking page item collections in InDesign — Insertion point.
+Open when checking page item collections in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

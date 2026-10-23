@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [CombinePDFWithPageRanges.java](../examples/java/combine-pdf-with-page-ranges/CombinePDFWithPageRanges.java)
+- [combine-pdf-with-page-ranges setup and source](../examples/java/combine-pdf-with-page-ranges/combine-pdf-with-page-ranges-setup.md)

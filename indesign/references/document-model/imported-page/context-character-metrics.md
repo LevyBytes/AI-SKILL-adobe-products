@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: character spacing and geometry
+# InDesign - ImportedPage: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — ImportedPage.
+Open when checking character spacing and geometry in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

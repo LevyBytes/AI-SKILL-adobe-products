@@ -1,4 +1,4 @@
-# Automatic layout — Default layout behavior
+# Automatic layout - Default layout behavior
 
 By default, autoLayoutManager provides the standard layout behavior. A script may change properties on the default layout manager object, or it may create a custom layout manager when the layout needs specialized handling. See Custom layout-manager example.
 

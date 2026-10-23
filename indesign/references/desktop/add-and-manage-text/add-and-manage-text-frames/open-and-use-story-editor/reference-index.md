@@ -1,4 +1,4 @@
-# InDesign — Open and use Story Editor
+# InDesign - Open and use Story Editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure Story Editor preferences in InDesign. [Configure Story Editor preferences](configure-story-editor-preferences.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Articles
+# Shared Adobe platform - Articles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Articles collection iteration in Shared Adobe platform. [Articles collection iteration](collection-iteration.md).

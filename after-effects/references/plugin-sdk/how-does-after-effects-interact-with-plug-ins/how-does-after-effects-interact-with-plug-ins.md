@@ -1,4 +1,4 @@
-# What Can I Do With This SDK? — How Does After Effects Interact With Plug-ins?
+# What Can I Do With This SDK? - How Does After Effects Interact With Plug-ins?
 
 Authored in C or C++, plug-ins take the form of bundle packages under macOS and DLLs under Windows. On either platform a Plug-in Property List (PiPL Resources) resource has to be present inside them. For After Effects to load and run them, the plug-ins have to sit in one of a small number of designated folders.
 

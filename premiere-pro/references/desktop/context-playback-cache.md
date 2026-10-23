@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: playback, monitoring and media cache
+# Premiere Pro - Desktop workflows: playback, monitoring and media cache
 
-Open when working with playback, monitoring and media cache in Premiere Pro — Desktop workflows.
+Open when working with playback, monitoring and media cache in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-playback-cache.json).
 

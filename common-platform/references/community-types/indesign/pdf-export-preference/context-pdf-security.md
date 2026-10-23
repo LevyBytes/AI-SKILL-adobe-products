@@ -1,6 +1,6 @@
-# Shared Adobe platform — PDFExportPreference: pdf permissions and passwords
+# Shared Adobe platform - PDFExportPreference: pdf permissions and passwords
 
-Open when checking pdf permissions and passwords in Shared Adobe platform — PDFExportPreference.
+Open when checking pdf permissions and passwords in Shared Adobe platform - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-pdf-security.json).
 

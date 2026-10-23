@@ -1,4 +1,4 @@
-# window.HTMLAnchorElement — lang : `string`
+# window.HTMLAnchorElement - lang : `string`
 
 Sets the base language used for the element's text and attribute values.
 

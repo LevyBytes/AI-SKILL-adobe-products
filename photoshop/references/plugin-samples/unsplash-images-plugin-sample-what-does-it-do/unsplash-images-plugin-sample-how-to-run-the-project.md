@@ -1,4 +1,4 @@
-# Unsplash Images Plugin Sample — How to run the project?
+# Unsplash Images Plugin Sample - How to run the project?
 
 The project is split into two main pieces:
 

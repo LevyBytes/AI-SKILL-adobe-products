@@ -1,4 +1,4 @@
-# Acrobat — Field formatting options
+# Acrobat - Field formatting options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Barcode value properties in Acrobat. [Barcode value properties](barcode-value-properties.md).

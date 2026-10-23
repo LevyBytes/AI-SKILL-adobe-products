@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Text Layer Match Names — 3d Text", "file": "references/scripting/3d-text/text-layer-match-names-3d-text.md", "summary": "Open when looking up Text Layer Match Names — 3d Text in After Effects.", "keywords": ["Text Layer Match Names — 3d Text"]},
+  {"topic": "Text Layer Match Names - 3d Text", "file": "references/scripting/3d-text/text-layer-match-names-3d-text.md", "summary": "Open when looking up Text Layer Match Names - 3d Text in After Effects.", "keywords": ["Text Layer Match Names - 3d Text"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# Tabs and indents — Add tab leaders
+# Tabs and indents - Add tab leaders
 
 A tab leader fills the space from a tab to the following text with a repeated character sequence, for example dots or dashes.
 

@@ -1,11 +1,11 @@
-# Acrobat — PDF Services API: combine, split and rearrange pages
+# Acrobat - PDF Services API: combine, split and rearrange pages
 
-Open when working with combine, split and rearrange pages in Acrobat — PDF Services API.
+Open when working with combine, split and rearrange pages in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-pages.json).
 
-- Open when looking up Add pages 3 to 4 — Split PDF into number of files in Acrobat [Add pages 3 to 4 — Split PDF into number of files](add-pages-3-to-4-split-pdf-into-number-of-files.md).
-- Open when looking up Add pages 3 to 4 — Split PDF into number of files in Acrobat [Add pages 3 to 4 — Split PDF into number of files references](add-pages-3-to-4-split-pdf-into-number-of-files/reference-index.md).
+- Open when looking up Add pages 3 to 4 - Split PDF into number of files in Acrobat [Add pages 3 to 4 - Split PDF into number of files](add-pages-3-to-4-split-pdf-into-number-of-files.md).
+- Open when looking up Add pages 3 to 4 - Split PDF into number of files in Acrobat [Add pages 3 to 4 - Split PDF into number of files references](add-pages-3-to-4-split-pdf-into-number-of-files/reference-index.md).
 - Open when looking up Combine Files in Acrobat [Combine Files](combine-files.md).
 - Open when looking up Combine Files in Acrobat [Combine Files references](combine-files/reference-index.md).
 - Open when looking up Combine pages from multiple files in Acrobat [Combine pages from multiple files](combine-pages-from-multiple-files.md).

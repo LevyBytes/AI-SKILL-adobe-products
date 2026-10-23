@@ -1,4 +1,4 @@
-# InDesign — Merge data
+# InDesign - Merge data
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and edit data fields in InDesign. [Add and edit data fields](add-and-edit-data-fields.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: read and edit text
+# Shared Adobe platform - Document: read and edit text
 
-Open when checking read and edit text in Shared Adobe platform — Document.
+Open when checking read and edit text in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

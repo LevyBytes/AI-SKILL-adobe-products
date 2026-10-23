@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — GradientsPreservePolicy", "file": "references/scripting/gradients-preserve-policy/scripting-constants-gradients-preserve-policy.md", "summary": "Open when looking up Scripting Constants — GradientsPreservePolicy in Illustrator.", "keywords": ["Scripting Constants — GradientsPreservePolicy"]},
+  {"topic": "Scripting Constants - GradientsPreservePolicy", "file": "references/scripting/gradients-preserve-policy/scripting-constants-gradients-preserve-policy.md", "summary": "Open when looking up Scripting Constants - GradientsPreservePolicy in Illustrator.", "keywords": ["Scripting Constants - GradientsPreservePolicy"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

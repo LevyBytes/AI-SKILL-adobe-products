@@ -1,6 +1,6 @@
-# InDesign — Text default: fill, stroke and transparency
+# InDesign - Text default: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Text default.
+Open when checking fill, stroke and transparency in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

@@ -1,4 +1,4 @@
-# Photoshop — Common migration issues and solutions
+# Photoshop - Common migration issues and solutions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Issue: Embedded storage for images in Photoshop. [Issue: Embedded storage for images](issue-embedded-storage-for-images.md).

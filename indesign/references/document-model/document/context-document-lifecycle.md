@@ -1,6 +1,6 @@
-# InDesign — Document: create, open, save and recover documents
+# InDesign - Document: create, open, save and recover documents
 
-Open when checking create, open, save and recover documents in InDesign — Document.
+Open when checking create, open, save and recover documents in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-document-lifecycle.json).
 

@@ -1,4 +1,4 @@
-# Photoshop — Xmp meta
+# Photoshop - Xmp meta
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up appendArrayItem(schemaNS, arrayName, itemValue, [itemOptions], [arrayOptions]) in Photoshop. [appendArrayItem(schemaNS, arrayName, itemValue, itemOptions, arrayOptions)](append-array-item.md).

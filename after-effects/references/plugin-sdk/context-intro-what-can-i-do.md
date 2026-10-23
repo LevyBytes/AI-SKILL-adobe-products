@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: what can i do with this sdk?
+# After Effects - C++ plugin SDK: what can i do with this sdk?
 
-Open when working with what can i do with this sdk? in After Effects — C++ plugin SDK.
+Open when working with what can i do with this sdk? in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-what-can-i-do.json).
 

@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: output color, screening and overprint
+# InDesign - ImportedPage: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — ImportedPage.
+Open when checking output color, screening and overprint in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

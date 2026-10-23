@@ -1,4 +1,4 @@
-# Photoshop — Layer level edits
+# Photoshop - Layer level edits
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding a new adjustment layer in Photoshop. [Adding a new adjustment layer](adding-a-new-adjustment-layer.md).

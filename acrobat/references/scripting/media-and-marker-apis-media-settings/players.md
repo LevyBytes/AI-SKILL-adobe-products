@@ -6,7 +6,7 @@
 
 Lists the media players capable of playing this rendition, held as an array of objects. Rather than reaching into this array on its own, JavaScript code typically forwards it straight from Rendition.select into the settings object handed to app.media.createPlayer.
 
-Example — enumerate which players are on hand for this rendition. Run the script as a Rendition action carrying an associated rendition.
+Example: enumerate which players are on hand for this rendition. Run the script as a Rendition action carrying an associated rendition.
 
 ```javascript
 var player = app.media.openPlayer({ settings: {autoPlay: false} });

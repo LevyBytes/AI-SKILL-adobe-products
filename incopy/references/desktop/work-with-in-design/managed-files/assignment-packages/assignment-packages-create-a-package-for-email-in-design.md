@@ -1,4 +1,4 @@
-# Assignment packages — Create a package for email (InDesign)
+# Assignment packages - Create a package for email (InDesign)
 
 Start by creating an assignment, then add the content that should go into the package.
 

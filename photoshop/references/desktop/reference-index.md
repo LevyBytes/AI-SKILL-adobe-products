@@ -1,4 +1,4 @@
-# Photoshop — Desktop workflows
+# Photoshop - Desktop workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add video and animation in Photoshop. [Add video and animation references](add-video-and-animation/reference-index.md).

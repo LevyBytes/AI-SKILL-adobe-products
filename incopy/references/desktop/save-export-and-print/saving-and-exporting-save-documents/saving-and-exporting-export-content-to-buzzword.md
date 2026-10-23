@@ -1,4 +1,4 @@
-# Saving and exporting — Export content to Buzzword
+# Saving and exporting - Export content to Buzzword
 
 Buzzword is a web-based text editor for creating and storing text files on a web server. Exporting a story to Buzzword creates a text file on the Buzzword server.
 

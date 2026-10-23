@@ -1,4 +1,4 @@
-# Premiere Pro — Use touch and gesture controls
+# Premiere Pro - Use touch and gesture controls
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Learn how touch and gesture actions work with buttons in Premiere Pro. [Learn how touch and gesture actions work with buttons](learn-how-touch-and-gesture-actions-work-with-buttons.md).

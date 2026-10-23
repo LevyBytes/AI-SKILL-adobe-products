@@ -1,4 +1,4 @@
-# Photoshop — Text
+# Photoshop - Text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding text to existing document in Photoshop. [Adding text to existing document references](adding-text-to-existing-document/reference-index.md).

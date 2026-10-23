@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — The Composition Navigator
+# Precomposing, nesting, and pre-rendering - The Composition Navigator
 
 Running along the top edge of the Composition panel, the Composition Navigator is a bar that places the composition shown in that viewer alongside the other compositions of its network. What you see are the compositions most recently active within the flow path of the one you're currently in.
 

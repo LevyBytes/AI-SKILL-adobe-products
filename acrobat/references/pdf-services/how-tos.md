@@ -12,7 +12,7 @@ The [PDFServices SDK](sdk/pdf-extract/reference-index.md) also ships code exampl
 - Running OCR so a PDF becomes searchable, with a locale you specify
 - Shrinking PDFs at a chosen compression level and linearizing them
 - Locking PDFs behind password(s) and stripping password protection back off
-- Routine page handling — inserting, replacing, deleting, reordering, and rotating
+- Routine page handling: inserting, replacing, deleting, reordering, and rotating
 - Breaking a single PDF apart into several files
 
 ## How Tos

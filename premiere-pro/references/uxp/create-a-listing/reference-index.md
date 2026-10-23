@@ -1,4 +1,4 @@
-# Premiere Pro — Create a Listing
+# Premiere Pro - Create a Listing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Metadata in Premiere Pro. [1. Metadata](metadata.md).

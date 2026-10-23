@@ -1,4 +1,4 @@
-# Photoshop — Convert text to shapes or work paths
+# Photoshop - Convert text to shapes or work paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert text to shapes in Photoshop. [Convert text to shapes](convert-text-to-shapes.md).

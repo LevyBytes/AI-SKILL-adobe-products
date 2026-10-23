@@ -1,4 +1,4 @@
-# Acrobat — Geospatial PDFs overview
+# Acrobat - Geospatial PDFs overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Benefits in Acrobat. [Benefits](benefits.md).

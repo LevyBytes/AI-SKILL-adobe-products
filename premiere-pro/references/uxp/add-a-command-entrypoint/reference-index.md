@@ -1,4 +1,4 @@
-# Premiere Pro — Add a Command Entrypoint
+# Premiere Pro - Add a Command Entrypoint
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Register a new Entrypoint in Premiere Pro. [1. Register a new Entrypoint](register-a-new-entrypoint.md).

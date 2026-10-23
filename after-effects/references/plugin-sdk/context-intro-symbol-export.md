@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: exporting symbols in effects
+# After Effects - C++ plugin SDK: exporting symbols in effects
 
-Open when working with exporting symbols in effects in After Effects — C++ plugin SDK.
+Open when working with exporting symbols in effects in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-symbol-export.json).
 

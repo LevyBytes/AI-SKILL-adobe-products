@@ -1,4 +1,4 @@
-# Premiere Pro — About the Clip Grid
+# Premiere Pro - About the Clip Grid
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copying and pasting grades in Premiere Pro. [Copying and pasting grades](copying-and-pasting-grades.md).

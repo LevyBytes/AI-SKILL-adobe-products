@@ -1,4 +1,4 @@
-# InDesign — Select tables, rows, and columns
+# InDesign - Select tables, rows, and columns
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Select a column or row using the menu in InDesign. [Select a column or row using the menu](select-a-column-or-row-using-the-menu.md).

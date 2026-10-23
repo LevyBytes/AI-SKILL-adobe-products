@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: properties, keyframes and markers
+# After Effects - Scripting APIs: properties, keyframes and markers
 
-Open when working with properties, keyframes and markers in After Effects — Scripting APIs.
+Open when working with properties, keyframes and markers in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-properties-animation.json).
 

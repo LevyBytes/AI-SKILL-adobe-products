@@ -1,4 +1,4 @@
-# Photoshop — UXP for ExtendScript Developers
+# Photoshop - UXP for ExtendScript Developers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Development environment in Photoshop. [Development environment](development-environment.md).

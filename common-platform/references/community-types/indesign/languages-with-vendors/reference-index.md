@@ -1,4 +1,4 @@
-# Shared Adobe platform — LanguagesWithVendors
+# Shared Adobe platform - LanguagesWithVendors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LanguagesWithVendors collection iteration in Shared Adobe platform. [LanguagesWithVendors collection iteration](collection-iteration.md).

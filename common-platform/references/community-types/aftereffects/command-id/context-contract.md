@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: command identifier declaration
+# Shared Adobe platform - _CommandID: command identifier declaration
 
-Open when working with command identifier declaration in Shared Adobe platform — _CommandID.
+Open when working with command identifier declaration in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-contract.json).
 

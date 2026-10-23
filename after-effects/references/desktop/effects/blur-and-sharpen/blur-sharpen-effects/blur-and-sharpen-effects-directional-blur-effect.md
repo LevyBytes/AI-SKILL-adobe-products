@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Directional Blur effect
+# Blur and Sharpen effects - Directional Blur effect
 
 A layer takes on the illusion of motion under the Directional Blur effect.
 

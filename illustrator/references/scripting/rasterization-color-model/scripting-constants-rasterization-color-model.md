@@ -1,4 +1,4 @@
-# Scripting Constants — RasterizationColorModel
+# Scripting Constants - RasterizationColorModel
 
 Defines the color model used for raster output.
 

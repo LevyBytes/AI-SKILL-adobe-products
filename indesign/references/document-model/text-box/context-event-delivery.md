@@ -1,6 +1,6 @@
-# InDesign — TextBox: events and listeners
+# InDesign - TextBox: events and listeners
 
-Open when checking events and listeners in InDesign — TextBox.
+Open when checking events and listeners in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

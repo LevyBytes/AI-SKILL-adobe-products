@@ -1,4 +1,4 @@
-# InDesign — Transparency flattening overview
+# InDesign - Transparency flattening overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Flattener presets in InDesign. [Flattener presets](flattener-presets.md).

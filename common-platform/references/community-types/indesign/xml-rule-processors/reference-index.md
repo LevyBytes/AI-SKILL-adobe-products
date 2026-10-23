@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLRuleProcessors
+# Shared Adobe platform - XMLRuleProcessors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLRuleProcessors collection iteration in Shared Adobe platform. [XMLRuleProcessors collection iteration](collection-iteration.md).

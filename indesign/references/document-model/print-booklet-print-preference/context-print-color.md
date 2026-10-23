@@ -1,6 +1,6 @@
-# InDesign — PrintBookletPrintPreference: output color, screening and overprint
+# InDesign - PrintBookletPrintPreference: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — PrintBookletPrintPreference.
+Open when checking output color, screening and overprint in InDesign - PrintBookletPrintPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

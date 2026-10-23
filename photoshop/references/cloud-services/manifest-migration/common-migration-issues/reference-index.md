@@ -1,4 +1,4 @@
-# Photoshop — Common migration issues
+# Photoshop - Common migration issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Issue: Expecting manifest in response in Photoshop. [Issue: Expecting manifest in response](issue-expecting-manifest-in-response.md).

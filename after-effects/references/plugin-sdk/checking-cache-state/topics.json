@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Compute Cache API — Checking Cache State", "file": "references/plugin-sdk/checking-cache-state/compute-cache-api-checking-cache-state.md", "summary": "Open when looking up Compute Cache API — Checking Cache State in After Effects.", "keywords": ["Compute Cache API — Checking Cache State"]},
+  {"topic": "Compute Cache API - Checking Cache State", "file": "references/plugin-sdk/checking-cache-state/compute-cache-api-checking-cache-state.md", "summary": "Open when looking up Compute Cache API - Checking Cache State in After Effects.", "keywords": ["Compute Cache API - Checking Cache State"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

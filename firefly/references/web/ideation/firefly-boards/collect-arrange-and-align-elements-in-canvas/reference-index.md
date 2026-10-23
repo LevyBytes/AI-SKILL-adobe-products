@@ -1,4 +1,4 @@
-# Firefly — Collect, arrange, and align elements in canvas
+# Firefly - Collect, arrange, and align elements in canvas
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align images, videos, and shapes in Firefly. [Align images, videos, and shapes](align-images-videos-and-shapes.md).

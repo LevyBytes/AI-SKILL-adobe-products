@@ -1,6 +1,6 @@
-# InDesign — Character: paragraph alignment and spacing
+# InDesign - Character: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in InDesign — Character.
+Open when checking paragraph alignment and spacing in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

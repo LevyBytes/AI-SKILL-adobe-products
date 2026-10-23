@@ -1,4 +1,4 @@
-# InDesign — InDesign Server licensing issues
+# InDesign - InDesign Server licensing issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupted licensing cache in InDesign. [Corrupted licensing cache](corrupted-licensing-cache.md).

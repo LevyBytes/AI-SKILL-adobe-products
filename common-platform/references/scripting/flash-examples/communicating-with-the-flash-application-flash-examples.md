@@ -1,4 +1,4 @@
-# Communicating with the Flash application — Flash Examples
+# Communicating with the Flash application - Flash Examples
 
 The Adobe ExtendScript SDK includes these examples for working with Flash Player:
 

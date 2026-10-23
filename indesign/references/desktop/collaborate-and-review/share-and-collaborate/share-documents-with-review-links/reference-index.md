@@ -1,4 +1,4 @@
-# InDesign — Share documents with review links
+# InDesign - Share documents with review links
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a review link in InDesign. [Create a review link](create-a-review-link.md).

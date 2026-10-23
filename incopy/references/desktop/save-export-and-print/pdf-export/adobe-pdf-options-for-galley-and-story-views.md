@@ -1,4 +1,4 @@
-# Exporting to Adobe PDF — Adobe PDF options for Galley and Story views
+# Exporting to Adobe PDF - Adobe PDF options for Galley and Story views
 
 Galley and Story views have their own options in the PDF Export dialog box.
 

@@ -1,4 +1,4 @@
-# Premiere Pro — Work in Color mode
+# Premiere Pro - Work in Color mode
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basic workflow in Premiere Pro. [Basic workflow](basic-workflow.md).

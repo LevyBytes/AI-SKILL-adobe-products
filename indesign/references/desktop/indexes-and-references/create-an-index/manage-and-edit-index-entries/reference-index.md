@@ -1,4 +1,4 @@
-# InDesign — Manage and edit index entries
+# InDesign - Manage and edit index entries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete an index entry in InDesign. [Delete an index entry](delete-an-index-entry.md).

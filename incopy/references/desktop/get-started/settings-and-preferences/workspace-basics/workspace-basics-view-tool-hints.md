@@ -1,4 +1,4 @@
-# Workspace basics — View tool hints
+# Workspace basics - View tool hints
 
 Use the Tool Hints panel to see how modifier keys behave for the tool currently selected.
 

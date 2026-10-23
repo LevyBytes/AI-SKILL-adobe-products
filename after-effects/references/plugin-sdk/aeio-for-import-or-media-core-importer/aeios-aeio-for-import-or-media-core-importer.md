@@ -1,4 +1,4 @@
-# AEIOs — AEIO For Import, Or MediaCore Importer?
+# AEIOs - AEIO For Import, Or MediaCore Importer?
 
 After Effects supports MediaCore importer plug-ins. MediaCore is a shared-library set that originated in Premiere Pro, so the Premiere Pro SDK documents the MediaCore APIs.
 

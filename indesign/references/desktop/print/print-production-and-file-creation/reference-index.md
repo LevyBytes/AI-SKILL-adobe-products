@@ -1,4 +1,4 @@
-# InDesign — Print production and file creation
+# InDesign - Print production and file creation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About PostScript and EPS files in InDesign. [About PostScript and EPS files](about-post-script-and-eps-files.md).

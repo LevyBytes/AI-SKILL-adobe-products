@@ -1,4 +1,4 @@
-# Tips & Tricks — How Deep Are My Pixels?
+# Tips & Tricks - How Deep Are My Pixels?
 
 While events are being handled, the bit depth of the layer or layers under processing simply isn't exposed.
 

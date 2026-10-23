@@ -1,4 +1,4 @@
-# InDesign — Edit InDesign documents with InCopy on the web (beta)
+# InDesign - Edit InDesign documents with InCopy on the web (beta)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit text in the browser in InDesign. [Edit text in the browser](edit-text-in-the-browser.md).

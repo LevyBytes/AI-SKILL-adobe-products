@@ -1,4 +1,6 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": ".NET call pattern", "file": "references/pdf-services/examples/dotnet/CallPattern.cs", "summary": "Open when writing any PDF Services call in .NET.", "keywords": [".NET call pattern"]},
+  {"topic": ".NET operations", "file": "references/pdf-services/examples/dotnet/operations.md", "summary": "Open when choosing an operation's job, parameter and result classes in .NET.", "keywords": [".NET operations"]},
   {"topic": "Autotag pdf parameterised references", "file": "references/pdf-services/examples/dotnet/autotag-pdf-parameterised/reference-index.md", "summary": "Open when looking up Autotag pdf parameterised in Acrobat.", "keywords": ["Autotag pdf parameterised references"]},
   {"topic": "Autotag pdf references", "file": "references/pdf-services/examples/dotnet/autotag-pdf/reference-index.md", "summary": "Open when looking up Autotag pdf in Acrobat.", "keywords": ["Autotag pdf references"]},
   {"topic": "Combine pdf references", "file": "references/pdf-services/examples/dotnet/combine-pdf/reference-index.md", "summary": "Open when looking up Combine pdf in Acrobat.", "keywords": ["Combine pdf references"]},

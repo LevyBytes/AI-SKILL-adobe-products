@@ -1,4 +1,4 @@
-# Audio-Specific Float Slider Variables — Flags
+# Audio-Specific Float Slider Variables - Flags
 
 `PF_FSliderFlag_WANT_PHASE` is the lone flag on offer.
 

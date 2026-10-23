@@ -1,4 +1,4 @@
-# Premiere Pro — Apply labeling
+# Premiere Pro - Apply labeling
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a marker to a clip in Premiere Pro. [Add a marker to a clip](add-a-marker-to-a-clip.md).

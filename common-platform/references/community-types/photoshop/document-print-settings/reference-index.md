@@ -1,4 +1,4 @@
-# Shared Adobe platform — DocumentPrintSettings
+# Shared Adobe platform - DocumentPrintSettings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DocumentPrintSettings declaration in Shared Adobe platform. [DocumentPrintSettings declaration](declaration.md).

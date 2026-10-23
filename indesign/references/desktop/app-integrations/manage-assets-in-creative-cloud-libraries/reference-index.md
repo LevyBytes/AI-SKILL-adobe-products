@@ -1,4 +1,4 @@
-# InDesign — Manage assets in Creative Cloud Libraries
+# InDesign - Manage assets in Creative Cloud Libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy or move assets between libraries in InDesign. [Copy or move assets between libraries](copy-or-move-assets-between-libraries.md).

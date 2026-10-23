@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Export brochure docx example setup", "file": "references/pdf-services/examples/java/export-brochure-docx/export-brochure-docx-setup.md", "summary": "Open when looking up Export brochure docx example setup in Acrobat.", "keywords": ["Export brochure docx example setup"]},
-  {"topic": "ExportPDFToWord.java", "file": "references/pdf-services/examples/java/export-brochure-docx/ExportPDFToWord.java", "summary": "Open when looking up ExportPDFToWord.java in Acrobat.", "keywords": ["ExportPDFToWord.java"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

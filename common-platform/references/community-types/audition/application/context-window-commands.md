@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: panels and analysis windows
+# Shared Adobe platform - Application: panels and analysis windows
 
-Open when working with panels and analysis windows in Shared Adobe platform — Application.
+Open when working with panels and analysis windows in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-window-commands.json).
 

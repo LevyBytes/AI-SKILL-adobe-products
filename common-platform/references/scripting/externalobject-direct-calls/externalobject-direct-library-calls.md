@@ -1,4 +1,4 @@
-# Loading and using shared libraries — Direct access to library calls through the ExternalObject instance
+# Loading and using shared libraries - Direct access to library calls through the ExternalObject instance
 
 For C-language libraries, use direct access. Each function from the C library has a matching method on the ExternalObject object. Data can be passed into those methods, and the return value can be received directly.
 

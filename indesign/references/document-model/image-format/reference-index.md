@@ -1,4 +1,4 @@
-# InDesign — ImageFormat
+# InDesign - ImageFormat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GIF in InDesign. [GIF](gif.md).

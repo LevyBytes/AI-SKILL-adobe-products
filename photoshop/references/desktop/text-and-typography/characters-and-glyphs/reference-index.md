@@ -1,4 +1,4 @@
-# Photoshop — Characters and glyphs
+# Photoshop - Characters and glyphs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Emoji glyphs in Photoshop. [Add Emoji glyphs](add-emoji-glyphs.md).

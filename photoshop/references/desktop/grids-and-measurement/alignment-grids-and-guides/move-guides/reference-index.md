@@ -1,4 +1,4 @@
-# Photoshop — Move guides
+# Photoshop - Move guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit guide position numerically in Photoshop. [Edit guide position numerically](edit-guide-position-numerically.md).

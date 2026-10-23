@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: cjk composition and emphasis
+# InDesign - InDesign document object model: cjk composition and emphasis
 
-Open when working with cjk composition and emphasis in InDesign — InDesign document object model.
+Open when working with cjk composition and emphasis in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-cjk-writing.json).
 

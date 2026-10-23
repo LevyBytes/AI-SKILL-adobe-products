@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: typescript utility declarations
+# Shared Adobe platform - Shared: typescript utility declarations
 
-Open when working with typescript utility declarations in Shared Adobe platform — Shared.
+Open when working with typescript utility declarations in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-type-utilities.json).
 

@@ -1,4 +1,4 @@
-# Media Encoder — Sync settings in Media Encoder
+# Media Encoder - Sync settings in Media Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Manage Sync Settings in Media Encoder. [Manage Sync Settings](manage-sync-settings.md).

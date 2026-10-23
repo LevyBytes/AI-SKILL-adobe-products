@@ -1,4 +1,4 @@
-# ExternalObject object — ExternalObject constructor
+# ExternalObject object - ExternalObject constructor
 
 obj = new ExternalObject ("lib:" + filespec, arg1, ...argn);
 

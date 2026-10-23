@@ -7,7 +7,7 @@
   {"topic": "docEncrypt", "file": "references/scripting/security-handler/doc-encrypt.md", "summary": "Open when looking up docEncrypt in Acrobat.", "keywords": ["docEncrypt"]},
   {"topic": "Encryption-handler login and cleanup", "file": "references/scripting/security-handler/encryption-handler-login.md", "summary": "Open when looking up Encryption-handler login and cleanup in Acrobat.", "keywords": ["Encryption-handler login and cleanup"]},
   {"topic": "isLoggedIn", "file": "references/scripting/security-handler/is-logged-in.md", "summary": "Open when looking up isLoggedIn in Acrobat.", "keywords": ["isLoggedIn"]},
-  {"topic": "JavaScript APIs — SecurityHandler", "file": "references/scripting/security-handler/java-script-apis-security-handler.md", "summary": "Open when looking up JavaScript APIs — SecurityHandler in Acrobat.", "keywords": ["JavaScript APIs — SecurityHandler"]},
+  {"topic": "JavaScript APIs - SecurityHandler", "file": "references/scripting/security-handler/java-script-apis-security-handler.md", "summary": "Open when looking up JavaScript APIs - SecurityHandler in Acrobat.", "keywords": ["JavaScript APIs - SecurityHandler"]},
   {"topic": "loginName", "file": "references/scripting/security-handler/login-name.md", "summary": "Open when looking up loginName in Acrobat.", "keywords": ["loginName"]},
   {"topic": "loginPath", "file": "references/scripting/security-handler/login-path.md", "summary": "Open when looking up loginPath in Acrobat.", "keywords": ["loginPath"]},
   {"topic": "logout", "file": "references/scripting/security-handler/logout.md", "summary": "Open when looking up logout in Acrobat.", "keywords": ["logout"]},

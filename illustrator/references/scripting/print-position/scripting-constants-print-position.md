@@ -1,4 +1,4 @@
-# Scripting Constants — PrintPosition
+# Scripting Constants - PrintPosition
 
 | Value | Description |
 | --- | --- |

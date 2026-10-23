@@ -1,4 +1,4 @@
-# Importing graphics — Acrobat (.pdf) and Illustrator (.ai) import options
+# Importing graphics - Acrobat (.pdf) and Illustrator (.ai) import options
 
 Placed PDFs keep their layout, graphics, and typography. Like other placed graphics, a placed PDF page cannot be edited inside InCopy. Layer visibility can be controlled for a layered PDF, and multiple pages from a multipage PDF can also be placed.
 

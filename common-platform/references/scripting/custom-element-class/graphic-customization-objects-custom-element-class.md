@@ -1,4 +1,4 @@
-# Graphic customization objects — Custom element class
+# Graphic customization objects - Custom element class
 
 Custom class elements differ from ordinary UI elements because they start with no built-in visual appearance. The script that creates a custom element must draw it in the element's onDraw event handler function, which lets the script render any look supported by the drawing functions on the UI element's graphics object.
 

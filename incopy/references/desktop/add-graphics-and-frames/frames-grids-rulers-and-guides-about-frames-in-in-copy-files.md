@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — About frames in InCopy files
+# Frames, grids, rulers, and guides - About frames in InCopy files
 
 As in Adobe InDesign, InCopy places all text and graphics inside frames. In linked documents, frame placement and publication design are controlled in InDesign. InCopy Layout view lets you inspect the frame structure from the InDesign document.
 

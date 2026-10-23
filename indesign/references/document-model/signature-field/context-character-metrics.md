@@ -1,6 +1,6 @@
-# InDesign — SignatureField: character spacing and geometry
+# InDesign - SignatureField: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — SignatureField.
+Open when checking character spacing and geometry in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

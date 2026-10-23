@@ -1,4 +1,4 @@
-# window.ClassList — ClassList(node)
+# window.ClassList - ClassList(node)
 
 Instantiates `ClassList` for the supplied `node`.
 

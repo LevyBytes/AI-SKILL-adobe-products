@@ -1,4 +1,4 @@
-# After Effects — Roto brush and mattes
+# After Effects - Roto brush and mattes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Roto brush in After Effects. [Roto brush references](roto-brush/reference-index.md).

@@ -1,4 +1,4 @@
-# ClipProjectItem — Properties
+# ClipProjectItem - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

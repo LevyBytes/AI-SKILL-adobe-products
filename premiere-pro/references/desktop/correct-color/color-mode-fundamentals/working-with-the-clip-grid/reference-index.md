@@ -1,4 +1,4 @@
-# Premiere Pro — Working with the Clip Grid
+# Premiere Pro - Working with the Clip Grid
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Clip Grid layout in Premiere Pro. [Clip Grid layout](clip-grid-layout.md).

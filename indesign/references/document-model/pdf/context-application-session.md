@@ -1,6 +1,6 @@
-# InDesign — PDF: application session and account
+# InDesign - PDF: application session and account
 
-Open when checking application session and account in InDesign — PDF.
+Open when checking application session and account in InDesign - PDF.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

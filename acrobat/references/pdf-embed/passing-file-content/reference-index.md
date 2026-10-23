@@ -1,4 +1,4 @@
-# Acrobat — Passing file content
+# Acrobat - Passing file content
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cross-origin resource sharing in Acrobat. [Cross-origin resource sharing](cross-origin-resource-sharing.md).

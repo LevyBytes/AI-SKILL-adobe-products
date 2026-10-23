@@ -1,4 +1,4 @@
-# Premiere Pro — Morph Cut overview
+# Premiere Pro - Morph Cut overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional tips and tricks in Premiere Pro. [Additional tips and tricks](additional-tips-and-tricks.md).

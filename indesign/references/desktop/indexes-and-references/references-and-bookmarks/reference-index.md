@@ -1,4 +1,4 @@
-# InDesign — References and bookmarks
+# InDesign - References and bookmarks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Arrange, group, and sort bookmarks in InDesign. [Arrange, group, and sort bookmarks](arrange-group-and-sort-bookmarks.md).

@@ -1,4 +1,4 @@
-# InDesign — StoryTypes
+# InDesign - StoryTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ENDNOTE_STORY in InDesign. [ENDNOTE_STORY](endnotestory.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: layer types and collections
+# Shared Adobe platform - Aftereffects: layer types and collections
 
-Open when working with layer types and collections in Shared Adobe platform — Aftereffects.
+Open when working with layer types and collections in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-layers.json).
 

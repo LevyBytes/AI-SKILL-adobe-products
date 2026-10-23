@@ -1,4 +1,4 @@
-# Acrobat — Work with PDF layers
+# Acrobat - Work with PDF layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add layer navigation in Acrobat. [Add layer navigation](add-layer-navigation.md).

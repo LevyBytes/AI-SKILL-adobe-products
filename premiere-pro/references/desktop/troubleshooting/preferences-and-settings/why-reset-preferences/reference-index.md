@@ -1,4 +1,4 @@
-# Premiere Pro — Why reset preferences
+# Premiere Pro - Why reset preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Impact of resetting preferences in Premiere Pro. [Impact of resetting preferences](impact-of-resetting-preferences.md).

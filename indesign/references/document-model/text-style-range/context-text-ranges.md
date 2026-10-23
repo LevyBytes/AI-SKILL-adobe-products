@@ -1,6 +1,6 @@
-# InDesign — Text style range: text ranges and containers
+# InDesign - Text style range: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Text style range.
+Open when checking text ranges and containers in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

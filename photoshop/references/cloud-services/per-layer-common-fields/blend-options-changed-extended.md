@@ -1,4 +1,4 @@
-# `blendOptions` — CHANGED (extended)
+# `blendOptions` - CHANGED (extended)
 
 Earlier `blendOptions` data contained only `{blendMode, opacity}`.
 

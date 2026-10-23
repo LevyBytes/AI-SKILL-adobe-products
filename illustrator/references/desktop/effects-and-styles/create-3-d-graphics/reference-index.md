@@ -1,4 +1,4 @@
-# Illustrator — Create 3D graphics
+# Illustrator - Create 3D graphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D and Materials panel options in Illustrator. [3D and Materials panel options](3-d-and-materials-panel-options.md).

@@ -1,6 +1,6 @@
 # Specify kerning
 
-Automatic kerning comes in two flavors—metrics kerning and optical kerning. Metrics kerning draws on kern pairs, the data bundled inside most fonts. Those kern pairs record how far apart specific letter combinations should sit, such as LA, To, Tr, Ta, Tu, Te, Ty, Wa, WA, We, Wo, Ya, and Yo. By default, After Effects leans on metrics kerning to build kernel-specific pairs as you import or type. Certain fonts arrive with especially thorough kern-pair data.
+Automatic kerning comes in two flavors: metrics kerning and optical kerning. Metrics kerning draws on kern pairs, the data bundled inside most fonts. Those kern pairs record how far apart specific letter combinations should sit, such as LA, To, Tr, Ta, Tu, Te, Ty, Wa, WA, We, Wo, Ya, and Yo. By default, After Effects leans on metrics kerning to build kernel-specific pairs as you import or type. Certain fonts arrive with especially thorough kern-pair data.
 
 When metrics kerning falls short, or when a single line mixes two typefaces or two sizes, the optical kerning option is worth trying. Optical kerning sizes the gap between neighboring characters according to how those characters are shaped.
 

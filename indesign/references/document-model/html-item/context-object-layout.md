@@ -1,6 +1,6 @@
-# InDesign — Html item: placement, bounds and transformations
+# InDesign - Html item: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Html item.
+Open when checking placement, bounds and transformations in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

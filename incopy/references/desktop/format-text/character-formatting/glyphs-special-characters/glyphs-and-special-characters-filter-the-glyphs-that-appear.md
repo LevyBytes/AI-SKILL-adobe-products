@@ -1,4 +1,4 @@
-# Glyphs and special characters — Filter the glyphs that appear
+# Glyphs and special characters - Filter the glyphs that appear
 
 Use one of these choices on the Show list to control which glyphs are displayed in the Glyphs panel:
 

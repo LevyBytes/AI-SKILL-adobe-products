@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: preflight processes, profiles and rules
+# InDesign - InDesign document object model: preflight processes, profiles and rules
 
-Open when working with preflight processes, profiles and rules in InDesign — InDesign document object model.
+Open when working with preflight processes, profiles and rules in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-preflight.json).
 

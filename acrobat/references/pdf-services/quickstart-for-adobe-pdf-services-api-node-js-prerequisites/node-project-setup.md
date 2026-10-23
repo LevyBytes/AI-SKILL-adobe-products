@@ -1,4 +1,4 @@
-# Quickstart for Adobe PDF Services API (Node.js) — Step Two: Setting up the project
+# Quickstart for Adobe PDF Services API (Node.js) - Step Two: Setting up the project
 
 1. Look inside your Downloads folder for the credentials ZIP, PDFServicesSDK-Node.jsSamples.zip. Extracting it reveals a samples folder plus the `pdfservices-api-credentials.json` file.
 

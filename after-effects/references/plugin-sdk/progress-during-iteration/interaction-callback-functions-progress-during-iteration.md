@@ -1,4 +1,4 @@
-# Interaction Callback Functions — Progress During Iteration
+# Interaction Callback Functions - Progress During Iteration
 
 Keeping the interface lively for the person at the keyboard matters to After Effects even mid-render, and your plug-in should match that behavior by leaning on `PF_ITERATE`() wherever it fits. Imagine, say, that a single `PF_Cmd_RENDER` response leans on a `PF_ITERATE`'d routine across three separate passes.
 

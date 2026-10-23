@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: timeline snapping
+# Shared Adobe platform - Application: timeline snapping
 
-Open when working with timeline snapping in Shared Adobe platform — Application.
+Open when working with timeline snapping in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-edit-snapping.json).
 

@@ -1,4 +1,4 @@
-# InDesign — Change ruler measurement units
+# InDesign - Change ruler measurement units
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change units through preferences in InDesign. [Change units through preferences](change-units-through-preferences.md).

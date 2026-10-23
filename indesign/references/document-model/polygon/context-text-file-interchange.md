@@ -1,6 +1,6 @@
-# InDesign — Polygon: import and export text documents
+# InDesign - Polygon: import and export text documents
 
-Open when checking import and export text documents in InDesign — Polygon.
+Open when checking import and export text documents in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-text-file-interchange.json).
 

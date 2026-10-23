@@ -1,4 +1,4 @@
-# InDesign — GoToZoomOptions
+# InDesign - GoToZoomOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ACTUAL_SIZE in InDesign. [ACTUAL_SIZE](actualsize.md).

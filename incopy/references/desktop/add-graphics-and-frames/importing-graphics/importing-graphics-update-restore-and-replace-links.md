@@ -1,4 +1,4 @@
-# Importing graphics — Update, restore, and replace links
+# Importing graphics - Update, restore, and replace links
 
 The Links panel lets you inspect link status and replace files with updated files or alternate files.
 

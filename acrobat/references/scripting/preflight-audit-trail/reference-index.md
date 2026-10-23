@@ -1,7 +1,7 @@
-# Acrobat — Preflight audit trail
+# Acrobat - Preflight audit trail
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Preflight APIs — PreflightAuditTrail in Acrobat. [Preflight APIs — PreflightAuditTrail](preflight-apis-preflight-audit-trail.md).
+- Open when looking up Preflight APIs - PreflightAuditTrail in Acrobat. [Preflight APIs - PreflightAuditTrail](preflight-apis-preflight-audit-trail.md).
 - Open when looking up preflight_executed_date in Acrobat. [preflight_executed_date](preflightexecuteddate.md).
 - Open when looking up preflight_results in Acrobat. [preflight_results](preflightresults.md).
 - Open when looking up preflight_results_description in Acrobat. [preflight_results_description](preflightresultsdescription.md).

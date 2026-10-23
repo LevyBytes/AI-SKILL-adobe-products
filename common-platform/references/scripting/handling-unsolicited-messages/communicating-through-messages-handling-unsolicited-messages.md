@@ -1,4 +1,4 @@
-# Communicating through messages — Handling unsolicited messages
+# Communicating through messages - Handling unsolicited messages
 
 Set the static onReceive property of the BridgeTalk class to a callback handler function when you need to control how the application treats unsolicited incoming messages. The handler receives one argument: a BridgeTalk message object.
 

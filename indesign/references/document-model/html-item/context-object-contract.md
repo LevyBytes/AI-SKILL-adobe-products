@@ -1,6 +1,6 @@
-# InDesign — Html item: object identity and lifecycle
+# InDesign - Html item: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Html item.
+Open when checking object identity and lifecycle in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

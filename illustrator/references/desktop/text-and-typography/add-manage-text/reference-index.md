@@ -1,4 +1,4 @@
-# Illustrator — Add Manage Text
+# Illustrator - Add Manage Text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and manage text in Illustrator. [Add and manage text](add-and-manage-text.md).

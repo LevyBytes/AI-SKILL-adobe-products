@@ -1,4 +1,4 @@
-# Tips & Tricks — Rate x Time == Pain!
+# Tips & Tricks - Rate x Time == Pain!
 
 Take care whenever a parameter of yours stands for speed or velocity. Take the ripple effect: it treats the value as constant and reads the current time to work out how far the ripple has traveled (d = v \* t). Should the user interpolate that speed across time, the right move is to integrate the velocity function from time zero up to the current time. Ripple skips that, offering instead a "phase" parameter the user can interpolate however they like, which gives correct output so long as the speed stays at zero. To deliver correct behavior yourself, either sample and integrate the speed parameter from the start of time through the current time with `PF_CHECKOUT_PARAM`(), or expose a "phase" or "distance" parameter and caution the user against interpolating the speed. Checking out plenty of parameter values barely costs anything next to rendering, which makes it the approach we recommend.
 

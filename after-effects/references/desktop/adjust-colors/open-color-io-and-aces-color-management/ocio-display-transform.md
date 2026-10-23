@@ -22,7 +22,7 @@ Choose a view transform tied to the chosen display. The entries that show up var
 
 Inverse Transform
 
-Lets you reverse the transform — handy, for instance, during an import workflow.
+Lets you reverse the transform: handy, for instance, during an import workflow.
 
 Information
 

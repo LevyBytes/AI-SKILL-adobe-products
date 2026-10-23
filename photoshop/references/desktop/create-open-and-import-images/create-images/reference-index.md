@@ -1,4 +1,4 @@
-# Photoshop — Create images
+# Photoshop - Create images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit images with Generative Fill in Photoshop. [Edit images with Generative Fill](edit-images-with-generative-fill.md).

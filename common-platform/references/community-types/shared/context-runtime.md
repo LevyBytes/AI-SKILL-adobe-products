@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: extendscript runtime and reflection
+# Shared Adobe platform - Shared: extendscript runtime and reflection
 
-Open when working with extendscript runtime and reflection in Shared Adobe platform — Shared.
+Open when working with extendscript runtime and reflection in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-runtime.json).
 

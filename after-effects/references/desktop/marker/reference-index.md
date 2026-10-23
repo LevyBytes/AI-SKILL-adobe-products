@@ -1,4 +1,4 @@
-# After Effects — Marker
+# After Effects - Marker
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up marker.key(index) in After Effects. [marker.key(index)](key.md).

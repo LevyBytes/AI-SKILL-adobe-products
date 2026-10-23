@@ -1,4 +1,4 @@
-# InDesign — Add and manage graphics from CC libraries
+# InDesign - Add and manage graphics from CC libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit library graphics in InDesign. [Edit library graphics](edit-library-graphics.md).

@@ -1,6 +1,6 @@
-# InDesign — Text column: text ranges and containers
+# InDesign - Text column: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Text column.
+Open when checking text ranges and containers in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

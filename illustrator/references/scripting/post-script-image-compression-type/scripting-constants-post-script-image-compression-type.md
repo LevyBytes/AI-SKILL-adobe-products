@@ -1,4 +1,4 @@
-# Scripting Constants — PostScriptImageCompressionType
+# Scripting Constants - PostScriptImageCompressionType
 
 | Value | Description |
 | --- | --- |

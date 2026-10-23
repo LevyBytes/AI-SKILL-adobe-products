@@ -1,4 +1,4 @@
-# Artisan Data Types — Orthographic Camera Matrix
+# Artisan Data Types - Orthographic Camera Matrix
 
 Internally, composition width and height define the matrix that OpenGL writes this way:
 

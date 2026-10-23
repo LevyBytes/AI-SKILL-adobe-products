@@ -1,4 +1,4 @@
-# Workspace basics — Customize menus
+# Workspace basics - Customize menus
 
 Reducing menu clutter is possible by hiding menu commands, and color can be applied to make frequently used commands stand out. Hiding a command only removes it from display; the feature itself remains available. Hidden commands can be revealed whenever needed by selecting Show All Menu Items at the bottom of a menu, or by choosing Window > Workspace > Show Full Menus to display every menu for the active workspace. Saved workspaces can include your customized menu setup.
 

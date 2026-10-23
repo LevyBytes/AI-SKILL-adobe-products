@@ -1,4 +1,4 @@
-# InDesign — About Mojikumi and Yakumono in Japanese layout
+# InDesign - About Mojikumi and Yakumono in Japanese layout
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Mojikumi and text composition in InDesign. [Mojikumi and text composition](mojikumi-and-text-composition.md).

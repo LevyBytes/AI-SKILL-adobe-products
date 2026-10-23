@@ -1,6 +1,6 @@
-# InDesign — Eps text: events and listeners
+# InDesign - Eps text: events and listeners
 
-Open when checking events and listeners in InDesign — Eps text.
+Open when checking events and listeners in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

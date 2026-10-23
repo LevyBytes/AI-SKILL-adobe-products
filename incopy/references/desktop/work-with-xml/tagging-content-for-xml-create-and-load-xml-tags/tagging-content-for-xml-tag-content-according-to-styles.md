@@ -1,4 +1,4 @@
-# Tagging content for XML — Tag content according to styles
+# Tagging content for XML - Tag content according to styles
 
 Paragraph, character, table, and cell styles assigned to text can serve as XML tagging input. For instance, a paragraph style named Body can be linked to a tag named StoryText. After that, the Map Styles To Tags command can place the StoryText tag on every paragraph in the document that uses the Body paragraph style. Multiple styles may point to the same tag.
 

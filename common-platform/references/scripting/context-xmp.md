@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: xmp metadata apis
+# Shared Adobe platform - Scripting APIs: xmp metadata apis
 
-Open when working with xmp metadata apis in Shared Adobe platform — Scripting APIs.
+Open when working with xmp metadata apis in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-xmp.json).
 
@@ -18,7 +18,7 @@ Open when selecting an exact reference: [Topic catalog](context-xmp.json).
 - Open when looking up Xmp property in Shared Adobe platform [Xmp property references](xmp-property/reference-index.md).
 - Open when looking up Xmp utils in Shared Adobe platform [Xmp utils references](xmp-utils/reference-index.md).
 - Open when looking up XMPScript object reference in Shared Adobe platform [XMPScript object reference](xmp-script-object-reference.md).
-- Open when looking up XMPScript object reference — XMPMeta object in Shared Adobe platform [XMPScript object reference — XMPMeta object](xmp-script-object-reference-xmp-meta-object.md).
-- Open when looking up XMPScript object reference — XMPMeta object in Shared Adobe platform [XMPScript object reference — XMPMeta object references](xmp-script-object-reference-xmp-meta-object/reference-index.md).
+- Open when looking up XMPScript object reference - XMPMeta object in Shared Adobe platform [XMPScript object reference - XMPMeta object](xmp-script-object-reference-xmp-meta-object.md).
+- Open when looking up XMPScript object reference - XMPMeta object in Shared Adobe platform [XMPScript object reference - XMPMeta object references](xmp-script-object-reference-xmp-meta-object/reference-index.md).
 
 [Context index](reference-index.md)

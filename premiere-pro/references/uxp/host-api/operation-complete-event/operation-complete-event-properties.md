@@ -1,4 +1,4 @@
-# OperationCompleteEvent — Properties
+# OperationCompleteEvent - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

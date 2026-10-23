@@ -1,4 +1,4 @@
-# Checking spelling — Assign a language dictionary to selected text
+# Checking spelling - Assign a language dictionary to selected text
 
 When a stand-alone story (stories not linked to an InDesign layout) uses more than one language, InCopy can be told which language dictionary should handle spell checking and hyphenation for each language. Dictionary assignments can vary throughout the document, including individual characters.
 

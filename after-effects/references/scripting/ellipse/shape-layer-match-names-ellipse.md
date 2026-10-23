@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Ellipse
+# Shape Layer Match Names - Ellipse
 
 | Match Name | Display Name (EN) |
 | --- | --- |

@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — open(method, url, [async], [user], [password])
+# window.XMLHttpRequest - open(method, url, [async], [user], [password])
 
 Starts a request, or resets an already-created request for reuse.
 HTTPS connections currently do not support self-signed certificates.

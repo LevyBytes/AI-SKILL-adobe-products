@@ -1,4 +1,4 @@
-# InDesign — LineSpacingType
+# InDesign - LineSpacingType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DOUBLE_SPACE in InDesign. [DOUBLE_SPACE](doublespace.md).

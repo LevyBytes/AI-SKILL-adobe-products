@@ -1,4 +1,4 @@
-# 3D layers — Rotate or orient a 3D layer in the Composition panel
+# 3D layers - Rotate or orient a 3D layer in the Composition panel
 
 1. Pick the 3D layer you mean to turn.
    Grab the Rotation tool, then set the Set menu to either Orientation or Rotation depending on which properties you want the tool to drive.

@@ -1,4 +1,4 @@
-# InDesign — CompressionQuality
+# InDesign - CompressionQuality
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EIGHT_BIT in InDesign. [EIGHT_BIT](eightbit.md).

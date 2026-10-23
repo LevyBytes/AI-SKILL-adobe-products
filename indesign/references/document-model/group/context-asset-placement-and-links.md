@@ -1,6 +1,6 @@
-# InDesign — Group: place and link external assets
+# InDesign - Group: place and link external assets
 
-Open when checking place and link external assets in InDesign — Group.
+Open when checking place and link external assets in InDesign - Group.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

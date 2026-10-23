@@ -1,4 +1,4 @@
-# InDesign — About anchored objects
+# InDesign - About anchored objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Behavior with text frame properties in InDesign. [Behavior with text frame properties](behavior-with-text-frame-properties.md).

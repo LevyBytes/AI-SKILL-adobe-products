@@ -1,4 +1,4 @@
-# Tips & Tricks — Make Your Effect Easy To Find
+# Tips & Tricks - Make Your Effect Easy To Find
 
 You can arrange for your effect to surface in the "Effects & Presets" palette even when a user searches on a term that isn't the plug-in's actual name.
 

@@ -1,4 +1,4 @@
-# Tracking and reviewing changes — View change information in the Track Changes panel
+# Tracking and reviewing changes - View change information in the Track Changes panel
 
 Choose Window > Track Changes.
 

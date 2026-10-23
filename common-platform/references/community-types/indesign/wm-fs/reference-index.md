@@ -1,4 +1,4 @@
-# Shared Adobe platform — WMFs
+# Shared Adobe platform - WMFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up WMFs collection iteration in Shared Adobe platform. [WMFs collection iteration](collection-iteration.md).

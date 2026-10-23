@@ -1,4 +1,4 @@
-# Premiere Pro — Effects and transitions reorganization
+# Premiere Pro - Effects and transitions reorganization
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Default transition update in Premiere Pro. [Default transition update](default-transition-update.md).

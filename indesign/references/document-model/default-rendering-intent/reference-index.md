@@ -1,4 +1,4 @@
-# InDesign — DefaultRenderingIntent
+# InDesign - DefaultRenderingIntent
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ABSOLUTE_COLORIMETRIC in InDesign. [ABSOLUTE_COLORIMETRIC](absolutecolorimetric.md).

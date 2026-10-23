@@ -1,4 +1,4 @@
-# Premiere Pro — Interoperability
+# Premiere Pro - Interoperability
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After effects in Premiere Pro. [After effects references](after-effects/reference-index.md).

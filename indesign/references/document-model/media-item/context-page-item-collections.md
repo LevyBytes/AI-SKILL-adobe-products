@@ -1,6 +1,6 @@
-# InDesign — MediaItem: page item collections
+# InDesign - MediaItem: page item collections
 
-Open when checking page item collections in InDesign — MediaItem.
+Open when checking page item collections in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

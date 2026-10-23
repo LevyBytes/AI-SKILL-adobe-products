@@ -1,4 +1,4 @@
-# After Effects — Parametric mesh layer object
+# After Effects - Parametric mesh layer object
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up For ParametricMeshType.CONE in After Effects. [For ParametricMeshType.CONE](for-parametric-mesh-type-cone.md).

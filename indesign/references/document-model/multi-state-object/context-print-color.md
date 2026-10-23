@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: output color, screening and overprint
+# InDesign - MultiStateObject: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — MultiStateObject.
+Open when checking output color, screening and overprint in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Flash
+# Shared Adobe platform - Flash
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Flash declaration in Shared Adobe platform. [Flash declaration](declaration.md).

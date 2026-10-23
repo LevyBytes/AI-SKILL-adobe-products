@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: indesign document changes and xml
+# InDesign - UXP plugins and APIs: indesign document changes and xml
 
-Open when working with indesign document changes and xml in InDesign — UXP plugins and APIs.
+Open when working with indesign document changes and xml in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-indesign-documents.json).
 

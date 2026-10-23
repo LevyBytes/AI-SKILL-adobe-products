@@ -1,4 +1,4 @@
-# After Effects — Cameras Lights Points Interest
+# After Effects - Cameras Lights Points Interest
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust a 3D view or move a camera, light, or point of interest in After Effects. [Adjust a 3D view or move a camera, light, or point of interest](adjust-a-3-d-view-or-move-a-camera-light-or-point-of-interest.md).

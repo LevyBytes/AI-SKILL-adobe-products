@@ -1,4 +1,4 @@
-# Firefly — [Admins only] Get Credentials
+# Firefly - [Admins only] Get Credentials
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access Adobe Developer Console in Firefly. [Access Adobe Developer Console](access-adobe-developer-console.md).

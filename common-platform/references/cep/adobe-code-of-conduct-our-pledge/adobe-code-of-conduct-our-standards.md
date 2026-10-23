@@ -1,4 +1,4 @@
-# Adobe Code of Conduct — Our Standards
+# Adobe Code of Conduct - Our Standards
 
 Behavior that helps create a positive environment includes:
 

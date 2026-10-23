@@ -1,4 +1,4 @@
-# Photoshop — Enhance image mask quality with Refine Mask
+# Photoshop - Enhance image mask quality with Refine Mask
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About the Refine Masks API in Photoshop. [About the Refine Masks API](about-the-refine-masks-api.md).

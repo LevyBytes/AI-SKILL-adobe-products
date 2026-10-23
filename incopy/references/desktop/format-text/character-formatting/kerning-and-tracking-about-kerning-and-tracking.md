@@ -1,4 +1,4 @@
-# Kerning and tracking — About kerning and tracking
+# Kerning and tracking - About kerning and tracking
 
 Kerning adds or removes space between selected character pairs. Tracking loosens or tightens spacing across a block of text.
 

@@ -1,4 +1,4 @@
-# Illustrator — Work with fonts and scripts
+# Illustrator - Work with fonts and scripts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Adobe Asian composers in Illustrator. [About Adobe Asian composers](about-adobe-asian-composers.md).

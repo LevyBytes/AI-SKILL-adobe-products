@@ -1,4 +1,4 @@
-# Shared Adobe platform — PICTs
+# Shared Adobe platform - PICTs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PICTs collection iteration in Shared Adobe platform. [PICTs collection iteration](collection-iteration.md).

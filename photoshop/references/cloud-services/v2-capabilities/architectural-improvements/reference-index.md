@@ -1,4 +1,4 @@
-# Photoshop — Architectural improvements
+# Photoshop - Architectural improvements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Better error handling and job timeouts in Photoshop. [Better error handling and job timeouts](better-error-handling-and-job-timeouts.md).

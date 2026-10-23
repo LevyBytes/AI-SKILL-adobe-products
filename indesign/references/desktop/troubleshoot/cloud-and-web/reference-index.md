@@ -1,4 +1,4 @@
-# InDesign — Cloud collaboration and web issues
+# InDesign - Cloud collaboration and web issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Creative Cloud issues with InDesign in InDesign. [Creative Cloud issues with InDesign](creative-cloud-issues-with-in-design.md).

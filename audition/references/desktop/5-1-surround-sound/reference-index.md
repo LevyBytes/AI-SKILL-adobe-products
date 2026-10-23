@@ -1,4 +1,4 @@
-# Audition — 5 1 surround sound
+# Audition - 5 1 surround sound
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create 5.1 surround mixes in Adobe Audition in Audition. [Create 5.1 surround mixes in Adobe Audition](create-5-1-surround-mixes-in-adobe-audition.md).

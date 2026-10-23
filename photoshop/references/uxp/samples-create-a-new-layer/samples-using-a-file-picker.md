@@ -1,4 +1,4 @@
-# Samples — Using a file picker
+# Samples - Using a file picker
 
 For file output, a script can open a save picker and write content through the selected file entry. 
 

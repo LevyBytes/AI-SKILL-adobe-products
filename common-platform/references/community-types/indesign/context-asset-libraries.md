@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: libraries, assets and snippets
+# Shared Adobe platform - Indesign: libraries, assets and snippets
 
-Open when working with libraries, assets and snippets in Shared Adobe platform — Indesign.
+Open when working with libraries, assets and snippets in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-asset-libraries.json).
 

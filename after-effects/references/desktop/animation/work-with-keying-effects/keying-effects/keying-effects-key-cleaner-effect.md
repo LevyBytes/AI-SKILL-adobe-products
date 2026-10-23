@@ -1,4 +1,4 @@
-# Keying effects — Key Cleaner effect
+# Keying effects - Key Cleaner effect
 
 Alpha-channel detail that a standard keying effect leaves behind in a scene gets recovered by the Key Cleaner effect, which also brings back detail surrendered to compression artifacts.
 

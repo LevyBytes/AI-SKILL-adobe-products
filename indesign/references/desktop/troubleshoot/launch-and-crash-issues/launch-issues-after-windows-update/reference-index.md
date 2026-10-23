@@ -1,4 +1,4 @@
-# InDesign — Launch issues after Windows update
+# InDesign - Launch issues after Windows update
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional information requested by Microsoft to assist with the issue investigation in InDesign. [Additional information requested by Microsoft to assist with the issue investigation](microsoft-launch-investigation-data.md).

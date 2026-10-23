@@ -6,7 +6,7 @@ Lists out the values a MediaSettings.floating.ifOffScreen property accepts, the 
 
 The table below pairs these values with their descriptions.
 
-Value — Description
+Value: Description
 
 app.media.ifOffScreen.allow
 

@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: save and export formats
+# Photoshop - Enumerations: save and export formats
 
-Open when working with save and export formats in Photoshop — Enumerations.
+Open when working with save and export formats in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-save-export.json).
 

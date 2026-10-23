@@ -1,4 +1,4 @@
-# Shared Adobe platform — ParaStyleMapping
+# Shared Adobe platform - ParaStyleMapping
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParaStyleMapping declaration in Shared Adobe platform. [ParaStyleMapping declaration](declaration.md).

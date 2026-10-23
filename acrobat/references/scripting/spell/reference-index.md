@@ -1,4 +1,4 @@
-# Acrobat — Spell
+# Acrobat - Spell
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addDictionary in Acrobat. [addDictionary](add-dictionary.md).
@@ -16,7 +16,7 @@
 - Open when looking up dictionaryOrder in Acrobat. [dictionaryOrder](dictionary-order.md).
 - Open when looking up domainNames in Acrobat. [domainNames](domain-names.md).
 - Open when looking up ignoreAll in Acrobat. [ignoreAll](ignore-all.md).
-- Open when looking up JavaScript APIs — spell in Acrobat. [JavaScript APIs — spell](java-script-apis-spell.md).
+- Open when looking up JavaScript APIs - spell in Acrobat. [JavaScript APIs - spell](java-script-apis-spell.md).
 - Open when looking up languageOrder in Acrobat. [languageOrder](language-order.md).
 - Open when looking up languages in Acrobat. [languages](languages.md).
 - Open when looking up removeDictionary in Acrobat. [removeDictionary](remove-dictionary.md).

@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: character and paragraph styles
+# Illustrator - Scripting APIs: character and paragraph styles
 
-Open when working with character and paragraph styles in Illustrator — Scripting APIs.
+Open when working with character and paragraph styles in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-text-style.json).
 

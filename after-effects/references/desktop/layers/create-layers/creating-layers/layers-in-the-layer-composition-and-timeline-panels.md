@@ -1,4 +1,4 @@
-# Creating layers — Layers in the Layer, Composition, and Timeline panels
+# Creating layers - Layers in the Layer, Composition, and Timeline panels
 
 Once a layer is in a composition, the Composition panel lets you reposition it. Over in the Timeline panel, you can alter a layer's duration, its start time, and where it falls in the stacking order — and you can change any of its properties there too.
 

@@ -1,4 +1,4 @@
-# Hyperlinks — Edit hyperlinks
+# Hyperlinks - Edit hyperlinks
 
 In the Hyperlinks panel, double-click the item to edit. In the Edit Hyperlinks dialog box, make the needed hyperlink changes, then click OK.
 

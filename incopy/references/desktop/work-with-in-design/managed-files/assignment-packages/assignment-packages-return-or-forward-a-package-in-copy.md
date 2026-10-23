@@ -1,4 +1,4 @@
-# Assignment packages — Return or forward a package (InCopy)
+# Assignment packages - Return or forward a package (InCopy)
 
 After opening and editing a package, either pass it to another InCopy user or send it back to the InDesign user who originally created it. Packages meant for other InCopy users use the .icap extension; packages returned to InDesign users use .idap.
 

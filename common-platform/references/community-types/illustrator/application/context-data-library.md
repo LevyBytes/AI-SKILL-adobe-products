@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: data-driven artwork and cloud library assets
+# Shared Adobe platform - Application: data-driven artwork and cloud library assets
 
-Open when working with data-driven artwork and cloud library assets in Shared Adobe platform — Application.
+Open when working with data-driven artwork and cloud library assets in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-data-library.json).
 

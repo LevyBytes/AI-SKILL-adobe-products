@@ -1,4 +1,4 @@
-# Fixed issues in Adobe Audition version 25.3 — Fixed issues in Adobe Audition version 23.6
+# Fixed issues in Adobe Audition version 25.3 - Fixed issues in Adobe Audition version 23.6
 
 - Fixed a case where Audition remained hung instead of quitting completely after user sign-out.
 - Resolved an assert triggered by enabling Edit metronome pattern > Play.

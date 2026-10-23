@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
   {"topic": "Add Timing Info", "file": "references/scripting/profiling-options/add-timing-info.md", "summary": "Open when looking up Add Timing Info in Shared Adobe platform.", "keywords": ["Add Timing Info"]},
-  {"topic": "Code profiling for optimization — Profiling Options", "file": "references/scripting/profiling-options/code-profiling-for-optimization-profiling-options.md", "summary": "Open when looking up Code profiling for optimization — Profiling Options in Shared Adobe platform.", "keywords": ["Code profiling for optimization — Profiling Options"]},
+  {"topic": "Code profiling for optimization - Profiling Options", "file": "references/scripting/profiling-options/code-profiling-for-optimization-profiling-options.md", "summary": "Open when looking up Code profiling for optimization - Profiling Options in Shared Adobe platform.", "keywords": ["Code profiling for optimization - Profiling Options"]},
   {"topic": "Erase Profiler Data", "file": "references/scripting/profiling-options/erase-profiler-data.md", "summary": "Open when looking up Erase Profiler Data in Shared Adobe platform.", "keywords": ["Erase Profiler Data"]},
   {"topic": "Functions", "file": "references/scripting/profiling-options/functions.md", "summary": "Open when looking up Functions in Shared Adobe platform.", "keywords": ["Functions"]},
   {"topic": "Lines", "file": "references/scripting/profiling-options/lines.md", "summary": "Open when looking up Lines in Shared Adobe platform.", "keywords": ["Lines"]},

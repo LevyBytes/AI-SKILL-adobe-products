@@ -1,4 +1,4 @@
-# New Kids On The Function Block — `AEIO_FunctionBlock4`
+# New Kids On The Function Block`AEIO_FunctionBlock4`
 
 Function
 

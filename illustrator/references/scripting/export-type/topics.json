@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — ExportType", "file": "references/scripting/export-type/scripting-constants-export-type.md", "summary": "Open when looking up Scripting Constants — ExportType in Illustrator.", "keywords": ["Scripting Constants — ExportType"]},
+  {"topic": "Scripting Constants - ExportType", "file": "references/scripting/export-type/scripting-constants-export-type.md", "summary": "Open when looking up Scripting Constants - ExportType in Illustrator.", "keywords": ["Scripting Constants - ExportType"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

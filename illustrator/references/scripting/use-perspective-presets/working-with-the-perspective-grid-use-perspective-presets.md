@@ -1,4 +1,4 @@
-# Working with the perspective grid — Use perspective presets
+# Working with the perspective grid - Use perspective presets
 
 Illustrator's built-in grid-parameter presets cover one-point, two-point, and three-point perspective. The preset names are "[1P-NormalView]", "[2P-NormalView]", and "[3P-NormalView]".
 

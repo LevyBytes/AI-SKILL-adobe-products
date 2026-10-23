@@ -1,4 +1,4 @@
-# Acrobat — Event
+# Acrobat - Event
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up App/Init in Acrobat. [App/Init](app-init.md).
@@ -29,7 +29,7 @@
 - Open when looking up Field/Validate in Acrobat. [Field/Validate](field-validate.md).
 - Open when looking up fieldFull in Acrobat. [fieldFull](field-full.md).
 - Open when looking up Form event processing in Acrobat. [Form event processing](form-event-processing.md).
-- Open when looking up JavaScript APIs — event in Acrobat. [JavaScript APIs — event](java-script-apis-event.md).
+- Open when looking up JavaScript APIs - event in Acrobat. [JavaScript APIs - event](java-script-apis-event.md).
 - Open when looking up keyDown in Acrobat. [keyDown](key-down.md).
 - Open when looking up Link/Mouse Up in Acrobat. [Link/Mouse Up](link-mouse-up.md).
 - Open when looking up Menu/Exec in Acrobat. [Menu/Exec](menu-exec.md).

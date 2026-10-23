@@ -1,4 +1,4 @@
-# After Effects — Create Masks
+# After Effects - Create Masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a mask by dragging with shape tools in After Effects. [Create a mask by dragging with shape tools](create-a-mask-by-dragging-with-shape-tools.md).

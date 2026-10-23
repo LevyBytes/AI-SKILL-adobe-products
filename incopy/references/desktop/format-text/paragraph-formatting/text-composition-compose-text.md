@@ -1,4 +1,4 @@
-# Text composition — Compose text
+# Text composition - Compose text
 
 Text appearance on the page is shaped by a complex set of processes known as composition. Based on the selected word spacing, letterspacing, glyph scaling, and hyphenation settings, InCopy composes type to fit the specified parameters as well as possible.
 

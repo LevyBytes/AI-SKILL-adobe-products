@@ -1,6 +1,6 @@
-# InDesign — Combo box: text frame columns and autosizing
+# InDesign - Combo box: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — Combo box.
+Open when checking text frame columns and autosizing in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

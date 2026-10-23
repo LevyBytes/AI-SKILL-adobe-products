@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Defining entry points for direct access — Library initialization", "file": "references/scripting/library-initialization/library-initialization.md", "summary": "Open when looking up Defining entry points for direct access — Library initialization in Shared Adobe platform.", "keywords": ["Defining entry points for direct access — Library initialization"]},
+  {"topic": "Defining entry points for direct access - Library initialization", "file": "references/scripting/library-initialization/library-initialization.md", "summary": "Open when looking up Defining entry points for direct access - Library initialization in Shared Adobe platform.", "keywords": ["Defining entry points for direct access - Library initialization"]},
   {"topic": "Function signatures", "file": "references/scripting/library-initialization/function-signatures.md", "summary": "Open when looking up Function signatures in Shared Adobe platform.", "keywords": ["Function signatures"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

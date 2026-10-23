@@ -1,4 +1,4 @@
-# Acrobat — Version support policy change history
+# Acrobat - Version support policy change history
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up April 25, 2025; Adobe Document Generation Server Side Release in Acrobat. [April 25, 2025; Adobe Document Generation Server Side Release](april-25-2025-adobe-document-generation-server-side-release.md).

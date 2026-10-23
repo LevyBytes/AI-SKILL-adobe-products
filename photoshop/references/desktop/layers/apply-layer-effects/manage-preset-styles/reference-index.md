@@ -1,4 +1,4 @@
-# Photoshop — Manage preset styles
+# Photoshop - Manage preset styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a preset style in Photoshop. [Create a preset style](create-a-preset-style.md).

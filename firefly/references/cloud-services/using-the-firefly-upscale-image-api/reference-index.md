@@ -1,4 +1,4 @@
-# Firefly — Using the Firefly Upscale Image API
+# Firefly - Using the Firefly Upscale Image API
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Upscaling product images for eCommerce in Firefly. [1. Upscaling product images for eCommerce](upscaling-product-images-for-e-commerce.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — About keyframes
+# Premiere Pro - About keyframes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Keyframes in the Effect Controls panel in Premiere Pro. [Keyframes in the Effect Controls panel](keyframes-in-the-effect-controls-panel.md).

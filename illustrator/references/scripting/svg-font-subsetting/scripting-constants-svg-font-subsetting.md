@@ -1,4 +1,4 @@
-# Scripting Constants — SVGFontSubsetting
+# Scripting Constants - SVGFontSubsetting
 
 SVG export can include font glyphs according to these subsetting choices.
 

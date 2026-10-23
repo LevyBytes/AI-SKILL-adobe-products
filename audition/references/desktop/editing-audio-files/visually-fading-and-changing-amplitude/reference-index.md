@@ -1,4 +1,4 @@
-# Audition — Visually fading and changing amplitude
+# Audition - Visually fading and changing amplitude
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Pin or hide the visual amplitude control in Audition. [Pin or hide the visual amplitude control](pin-or-hide-the-visual-amplitude-control.md).

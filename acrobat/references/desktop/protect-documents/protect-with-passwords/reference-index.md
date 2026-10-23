@@ -1,4 +1,4 @@
-# Acrobat — Protect with passwords
+# Acrobat - Protect with passwords
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add passwords to PDFs in Acrobat. [Add passwords to PDFs](add-passwords-to-pdfs.md).

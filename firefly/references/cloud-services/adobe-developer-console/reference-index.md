@@ -1,4 +1,4 @@
-# Firefly — Adobe Developer Console
+# Firefly - Adobe Developer Console
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access Tokens in Firefly. [Access Tokens](access-tokens.md).

@@ -1,4 +1,4 @@
-# Acrobat — File size storage limitations
+# Acrobat - File size storage limitations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Compress PDF limit in Acrobat. [Compress PDF limit](compress-pdf-limit.md).

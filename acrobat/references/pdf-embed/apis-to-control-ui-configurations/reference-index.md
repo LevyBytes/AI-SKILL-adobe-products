@@ -1,4 +1,4 @@
-# Acrobat — APIs to control UI configurations
+# Acrobat - APIs to control UI configurations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up endAnnotationMode API in Acrobat. [endAnnotationMode API](end-annotation-mode-api.md).

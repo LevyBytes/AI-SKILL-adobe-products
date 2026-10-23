@@ -1,4 +1,4 @@
-# Bigger Differences — Pixel Formats
+# Bigger Differences - Pixel Formats
 
 Premiere Pro supplies function suites that let effects declare support for pixel formats beyond After Effects' 8-bit RGB format, `ARGB_8u`. Those formats include Premiere Pro's native 8-bit RGB format, `BGRA_8u`, plus YUV, 32-bit formats, and others. For a fuller discussion of pixel formats, see "Pixel Formats and Colorspaces" in the Premiere Pro SDK Guide.
 

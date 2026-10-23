@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: localized strings and ui
+# Shared Adobe platform - Scripting APIs: localized strings and ui
 
-Open when working with localized strings and ui in Shared Adobe platform — Scripting APIs.
+Open when working with localized strings and ui in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-localization.json).
 

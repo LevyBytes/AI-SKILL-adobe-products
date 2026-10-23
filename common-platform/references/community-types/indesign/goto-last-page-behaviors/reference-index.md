@@ -1,4 +1,4 @@
-# Shared Adobe platform — GotoLastPageBehaviors
+# Shared Adobe platform - GotoLastPageBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GotoLastPageBehaviors collection iteration in Shared Adobe platform. [GotoLastPageBehaviors collection iteration](collection-iteration.md).

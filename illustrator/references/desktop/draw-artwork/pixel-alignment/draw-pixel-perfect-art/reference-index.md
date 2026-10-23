@@ -1,4 +1,4 @@
-# Illustrator — Draw pixel-perfect art
+# Illustrator - Draw pixel-perfect art
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align existing objects with the pixel grid in Illustrator. [Align existing objects with the pixel grid](align-existing-objects-with-the-pixel-grid.md).

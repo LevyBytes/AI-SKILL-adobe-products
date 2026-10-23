@@ -1,4 +1,4 @@
-# InDesign — Format tables
+# InDesign - Format tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust rows, columns, and cells in tables in InDesign. [Adjust rows, columns, and cells in tables](adjust-rows-columns-and-cells-in-tables.md).

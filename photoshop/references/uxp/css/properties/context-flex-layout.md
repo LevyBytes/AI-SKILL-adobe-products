@@ -1,6 +1,6 @@
-# Photoshop — Properties: flex layout and alignment
+# Photoshop - Properties: flex layout and alignment
 
-Open when working with flex layout and alignment in Photoshop — Properties.
+Open when working with flex layout and alignment in Photoshop - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-flex-layout.json).
 

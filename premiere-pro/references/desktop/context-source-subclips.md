@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: source clips and subclips
+# Premiere Pro - Desktop workflows: source clips and subclips
 
-Open when working with source clips and subclips in Premiere Pro — Desktop workflows.
+Open when working with source clips and subclips in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-source-subclips.json).
 

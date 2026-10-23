@@ -1,6 +1,6 @@
-# InDesign — PrintBookletPrintPreference: printer marks, bleed and slug
+# InDesign - PrintBookletPrintPreference: printer marks, bleed and slug
 
-Open when checking printer marks, bleed and slug in InDesign — PrintBookletPrintPreference.
+Open when checking printer marks, bleed and slug in InDesign - PrintBookletPrintPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-marks-bleed.json).
 

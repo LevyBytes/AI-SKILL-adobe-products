@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: layer rendering and geometry
+# Shared Adobe platform - Aftereffects: layer rendering and geometry
 
-Open when working with layer rendering and geometry in Shared Adobe platform — Aftereffects.
+Open when working with layer rendering and geometry in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-layer-rendering.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTextPreference: lists, numbering and drop caps
+# Shared Adobe platform - ChangeTextPreference: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in Shared Adobe platform — ChangeTextPreference.
+Open when checking lists, numbering and drop caps in Shared Adobe platform - ChangeTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

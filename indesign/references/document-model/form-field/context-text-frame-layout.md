@@ -1,6 +1,6 @@
-# InDesign — FormField: text frame columns and autosizing
+# InDesign - FormField: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — FormField.
+Open when checking text frame columns and autosizing in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

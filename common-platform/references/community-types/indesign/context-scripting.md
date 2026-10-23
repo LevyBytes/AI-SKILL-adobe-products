@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: scripts, tasks and application events
+# Shared Adobe platform - Indesign: scripts, tasks and application events
 
-Open when working with scripts, tasks and application events in Shared Adobe platform — Indesign.
+Open when working with scripts, tasks and application events in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-scripting.json).
 

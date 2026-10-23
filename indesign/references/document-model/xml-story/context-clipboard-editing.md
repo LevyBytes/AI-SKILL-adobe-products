@@ -1,6 +1,6 @@
-# InDesign — XmlStory: clipboard and editing defaults
+# InDesign - XmlStory: clipboard and editing defaults
 
-Open when checking clipboard and editing defaults in InDesign — XmlStory.
+Open when checking clipboard and editing defaults in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-clipboard-editing.json).
 

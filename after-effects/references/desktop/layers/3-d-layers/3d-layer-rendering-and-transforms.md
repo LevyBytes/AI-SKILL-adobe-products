@@ -1,4 +1,4 @@
-# 3D layers — 3D layer interactions, render order, and collapsed transformations
+# 3D layers - 3D layer interactions, render order, and collapsed transformations
 
 When certain layer types sit at particular spots in the layer stacking order within the Timeline panel, they stop groups of 3D layers from being evaluated as one unit for intersections and shadows.
 

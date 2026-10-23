@@ -1,9 +1,9 @@
-# Acrobat — Tts
+# Acrobat - Tts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up available in Acrobat. [available](available.md).
 - Open when looking up getNthSpeakerName in Acrobat. [getNthSpeakerName](get-nth-speaker-name.md).
-- Open when looking up JavaScript APIs — TTS in Acrobat. [JavaScript APIs — TTS](java-script-apis-tts.md).
+- Open when looking up JavaScript APIs - TTS in Acrobat. [JavaScript APIs - TTS](java-script-apis-tts.md).
 - Open when looking up numSpeakers in Acrobat. [numSpeakers](num-speakers.md).
 - Open when looking up pause in Acrobat. [pause](pause.md).
 - Open when looking up pitch in Acrobat. [pitch](pitch.md).

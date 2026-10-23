@@ -1,4 +1,4 @@
-# Executing Scripts — Installing scripts in the Scripts menu
+# Executing Scripts - Installing scripts in the Scripts menu
 
 To add a script to the Scripts menu (File > Scripts), place the script in the Scripts folder under the /lllustrator CC/Presets folder in the lllustrator CC installation directory.
 

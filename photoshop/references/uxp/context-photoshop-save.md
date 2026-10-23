@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: photoshop save options
+# Photoshop - UXP plugins and APIs: photoshop save options
 
-Open when working with photoshop save options in Photoshop — UXP plugins and APIs.
+Open when working with photoshop save options in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-photoshop-save.json).
 

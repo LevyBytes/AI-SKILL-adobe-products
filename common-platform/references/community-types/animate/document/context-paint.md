@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: fill, stroke and instance color
+# Shared Adobe platform - Document: fill, stroke and instance color
 
-Open when working with fill, stroke and instance color in Shared Adobe platform — Document.
+Open when working with fill, stroke and instance color in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-paint.json).
 

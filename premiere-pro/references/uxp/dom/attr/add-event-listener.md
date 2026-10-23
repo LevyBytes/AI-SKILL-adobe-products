@@ -1,4 +1,4 @@
-# window.Attr — addEventListener(eventName, callback, options)
+# window.Attr - addEventListener(eventName, callback, options)
 
 **See**: [EventTarget - addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 

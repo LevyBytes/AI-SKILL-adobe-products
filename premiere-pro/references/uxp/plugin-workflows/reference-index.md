@@ -1,4 +1,4 @@
-# Premiere Pro — Plugin workflows
+# Premiere Pro - Plugin workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add to the UDT workspace in Premiere Pro. [Add to the UDT workspace](add-to-the-udt-workspace.md).

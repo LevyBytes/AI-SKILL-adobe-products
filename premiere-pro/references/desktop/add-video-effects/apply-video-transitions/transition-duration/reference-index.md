@@ -1,4 +1,4 @@
-# Premiere Pro — Change transition duration using the Effect Controls panel
+# Premiere Pro - Change transition duration using the Effect Controls panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change transition duration in the Effect Controls panel in Premiere Pro. [Change transition duration in the Effect Controls panel](change-transition-duration-in-the-effect-controls-panel.md).

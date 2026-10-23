@@ -1,4 +1,4 @@
-# Premiere Pro — Host api
+# Premiere Pro - Host api
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add transition options in Premiere Pro. [Add transition options references](add-transition-options/reference-index.md).
@@ -36,8 +36,8 @@
 - Open when looking up Operation complete event in Premiere Pro. [Operation complete event references](operation-complete-event/reference-index.md).
 - Open when looking up Point f in Premiere Pro. [Point f references](point-f/reference-index.md).
 - Open when looking up Pr production in Premiere Pro. [Pr production references](pr-production/reference-index.md).
-- Open when looking up Premiere API — Overview in Premiere Pro. [Premiere API — Overview](premiere-api-overview.md).
-- Open when looking up Premiere API — Overview in Premiere Pro. [Premiere API — Overview references](premiere-api-overview/reference-index.md).
+- Open when looking up Premiere API - Overview in Premiere Pro. [Premiere API - Overview](premiere-api-overview.md).
+- Open when looking up Premiere API - Overview in Premiere Pro. [Premiere API - Overview references](premiere-api-overview/reference-index.md).
 - Open when looking up Project closed event in Premiere Pro. [Project closed event references](project-closed-event/reference-index.md).
 - Open when looking up Project color settings in Premiere Pro. [Project color settings references](project-color-settings/reference-index.md).
 - Open when looking up Project converter in Premiere Pro. [Project converter references](project-converter/reference-index.md).

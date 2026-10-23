@@ -1,6 +1,6 @@
-# InDesign — WMF: cloud documents, libraries and collaboration
+# InDesign - WMF: cloud documents, libraries and collaboration
 
-Open when checking cloud documents, libraries and collaboration in InDesign — WMF.
+Open when checking cloud documents, libraries and collaboration in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-cloud-and-collaboration.json).
 

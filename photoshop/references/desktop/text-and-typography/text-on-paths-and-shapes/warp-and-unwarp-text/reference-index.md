@@ -1,4 +1,4 @@
-# Photoshop — Warp and unwarp text
+# Photoshop - Warp and unwarp text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Unwarp text in Photoshop. [Unwarp text](unwarp-text.md).

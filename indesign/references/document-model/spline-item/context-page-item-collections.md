@@ -1,6 +1,6 @@
-# InDesign — SplineItem: page item collections
+# InDesign - SplineItem: page item collections
 
-Open when checking page item collections in InDesign — SplineItem.
+Open when checking page item collections in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

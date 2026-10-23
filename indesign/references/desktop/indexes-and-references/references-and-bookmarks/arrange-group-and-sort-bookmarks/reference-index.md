@@ -1,4 +1,4 @@
-# InDesign — Arrange, group, and sort bookmarks
+# InDesign - Arrange, group, and sort bookmarks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Nest bookmarks under a parent bookmark in InDesign. [Nest bookmarks under a parent bookmark](nest-bookmarks-under-a-parent-bookmark.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: tools, painting cursors and display scale
+# Shared Adobe platform - Photoshop: tools, painting cursors and display scale
 
-Open when working with tools, painting cursors and display scale in Shared Adobe platform — Photoshop.
+Open when working with tools, painting cursors and display scale in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-tools.json).
 

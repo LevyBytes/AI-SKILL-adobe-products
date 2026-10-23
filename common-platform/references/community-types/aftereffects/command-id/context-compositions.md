@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: composition setup and work areas
+# Shared Adobe platform - _CommandID: composition setup and work areas
 
-Open when working with composition setup and work areas in Shared Adobe platform — _CommandID.
+Open when working with composition setup and work areas in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-compositions.json).
 

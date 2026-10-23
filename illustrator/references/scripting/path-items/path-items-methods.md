@@ -1,4 +1,4 @@
-# PathItems — Methods
+# PathItems - Methods
 
 | Parameter | Type | Description |
 | --- | --- | --- |

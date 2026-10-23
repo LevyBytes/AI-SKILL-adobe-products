@@ -1,4 +1,4 @@
-# Illustrator — Work with Adobe Illustrator (Beta) documents from AI tools
+# Illustrator - Work with Adobe Illustrator (Beta) documents from AI tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Before you begin in Illustrator. [Before you begin](before-you-begin.md).

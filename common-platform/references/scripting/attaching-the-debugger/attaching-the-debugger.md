@@ -1,4 +1,4 @@
-# Getting Started with the VS Code Debugger — Attaching the debugger
+# Getting Started with the VS Code Debugger - Attaching the debugger
 
 After the extension is installed:
 

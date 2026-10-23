@@ -1,4 +1,4 @@
-# Using editorial notes — Use Notes Mode
+# Using editorial notes - Use Notes Mode
 
 Notes Mode provides a quick route to create, split, or delete notes based on the insertion-point position or the selected text.
 

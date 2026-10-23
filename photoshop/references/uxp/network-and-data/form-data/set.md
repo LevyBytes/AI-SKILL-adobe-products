@@ -1,4 +1,4 @@
-# window.FormData — set(name, value, filename)
+# window.FormData - set(name, value, filename)
 
 When entries already use the input name, this operation replaces the first existing entry with the new entry and removes the rest.
 If no matching entry exists, it appends a new name/value entry.

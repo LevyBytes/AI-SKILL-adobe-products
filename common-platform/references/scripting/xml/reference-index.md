@@ -1,8 +1,8 @@
-# Shared Adobe platform — Xml
+# Shared Adobe platform - Xml
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XML object constructor in Shared Adobe platform. [XML object constructor](xml-object-constructor.md).
-- Open when looking up XML Object Reference — XML Object in Shared Adobe platform. [XML Object Reference — XML Object](xml-object-reference-xml-object.md).
+- Open when looking up XML Object Reference - XML Object in Shared Adobe platform. [XML Object Reference - XML Object](xml-object-reference-xml-object.md).
 - Open when looking up XML.addNamespace() in Shared Adobe platform. [XML.addNamespace()](add-namespace.md).
 - Open when looking up XML.appendChild() in Shared Adobe platform. [XML.appendChild()](append-child.md).
 - Open when looking up XML.attributes() in Shared Adobe platform. [XML.attributes()](attributes.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Timecode display options
+# Premiere Pro - Timecode display options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Compact display in Premiere Pro. [Compact display](compact-display.md).

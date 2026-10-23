@@ -1,6 +1,6 @@
-# InDesign — Movie: object styles and enabled attributes
+# InDesign - Movie: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — Movie.
+Open when checking object styles and enabled attributes in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

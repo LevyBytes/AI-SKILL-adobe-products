@@ -1,4 +1,4 @@
-# Sharing content — Assignment files
+# Sharing content - Assignment files
 
 Within InDesign, assignment files serve as containers for groups of page items. For instance, you could gather a story's headline, byline, body text, graphics, and captions, then assign that set to one InCopy user. Placing those items in an assignment lets InCopy users reach just the content they are responsible for. Assignment files (\*.icma) are visible in the file system, the InCopy story bar, and status messages. Creation is limited to InDesign users, and opening is limited to InCopy users.
 

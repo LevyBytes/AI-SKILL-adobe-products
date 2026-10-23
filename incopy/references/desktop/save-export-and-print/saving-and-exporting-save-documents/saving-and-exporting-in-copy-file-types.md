@@ -1,4 +1,4 @@
-# Saving and exporting — InCopy file types
+# Saving and exporting - InCopy file types
 
 Several file types can be used in InCopy.
 

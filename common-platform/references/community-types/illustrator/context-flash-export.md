@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: flash export, playback and layer ordering
+# Shared Adobe platform - Illustrator: flash export, playback and layer ordering
 
-Open when working with flash export, playback and layer ordering in Shared Adobe platform — Illustrator.
+Open when working with flash export, playback and layer ordering in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-flash-export.json).
 

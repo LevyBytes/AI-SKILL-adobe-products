@@ -30,6 +30,6 @@
   {"topic": "AEIO_MFlag_VIDEO", "file": "references/plugin-sdk/behavior-flags/aeiom-flag-video.md", "summary": "Open when looking up AEIO_MFlag_VIDEO in After Effects.", "keywords": ["AEIO_MFlag_VIDEO"]},
   {"topic": "AEIO_ModuleFlags", "file": "references/plugin-sdk/behavior-flags/aeio-module-flags.md", "summary": "Open when looking up AEIO_ModuleFlags in After Effects.", "keywords": ["AEIO_ModuleFlags"]},
   {"topic": "AEIO_ModuleFlags2", "file": "references/plugin-sdk/behavior-flags/aeio-module-flags2.md", "summary": "Open when looking up AEIO_ModuleFlags2 in After Effects.", "keywords": ["AEIO_ModuleFlags2"]},
-  {"topic": "AEIO_ModuleInfo — Behavior Flags", "file": "references/plugin-sdk/behavior-flags/aeio-module-info-behavior-flags.md", "summary": "Open when looking up AEIO_ModuleInfo — Behavior Flags in After Effects.", "keywords": ["AEIO_ModuleInfo — Behavior Flags"]},
+  {"topic": "AEIO_ModuleInfo - Behavior Flags", "file": "references/plugin-sdk/behavior-flags/aeio-module-info-behavior-flags.md", "summary": "Open when looking up AEIO_ModuleInfo - Behavior Flags in After Effects.", "keywords": ["AEIO_ModuleInfo - Behavior Flags"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

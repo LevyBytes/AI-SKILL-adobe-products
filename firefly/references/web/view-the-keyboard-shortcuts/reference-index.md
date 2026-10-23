@@ -1,4 +1,4 @@
-# Firefly — View the keyboard shortcuts
+# Firefly - View the keyboard shortcuts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up List of keyboard shortcuts in Firefly. [List of keyboard shortcuts](list-of-keyboard-shortcuts.md).

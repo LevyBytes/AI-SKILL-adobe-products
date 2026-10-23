@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Group
+# Shape Layer Match Names - Group
 
 | Match Name | Display Name (EN) |
 | --- | --- |

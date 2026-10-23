@@ -1,4 +1,4 @@
-# InDesign — SortAssets
+# InDesign - SortAssets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BY_NAME in InDesign. [BY_NAME](byname.md).

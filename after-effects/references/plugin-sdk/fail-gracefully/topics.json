@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP Suites — Fail Gracefully", "file": "references/plugin-sdk/fail-gracefully/aegp-suites-fail-gracefully.md", "summary": "Open when looking up AEGP Suites — Fail Gracefully in After Effects.", "keywords": ["AEGP Suites — Fail Gracefully"]},
+  {"topic": "AEGP Suites - Fail Gracefully", "file": "references/plugin-sdk/fail-gracefully/aegp-suites-fail-gracefully.md", "summary": "Open when looking up AEGP Suites - Fail Gracefully in After Effects.", "keywords": ["AEGP Suites - Fail Gracefully"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

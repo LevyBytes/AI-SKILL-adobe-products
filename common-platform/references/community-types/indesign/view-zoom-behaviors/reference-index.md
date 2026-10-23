@@ -1,4 +1,4 @@
-# Shared Adobe platform — ViewZoomBehaviors
+# Shared Adobe platform - ViewZoomBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ViewZoomBehaviors collection iteration in Shared Adobe platform. [ViewZoomBehaviors collection iteration](collection-iteration.md).

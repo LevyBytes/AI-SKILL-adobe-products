@@ -1,4 +1,4 @@
-# After Effects — Improved UI language support
+# After Effects - Improved UI language support
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enter Unicode characters in UI text fields in After Effects. [Enter Unicode characters in UI text fields](enter-unicode-characters-in-ui-text-fields.md).

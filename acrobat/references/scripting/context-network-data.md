@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: network, database and directory apis
+# Acrobat - Scripting APIs: network, database and directory apis
 
-Open when working with network, database and directory apis in Acrobat — Scripting APIs.
+Open when working with network, database and directory apis in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-network-data.json).
 

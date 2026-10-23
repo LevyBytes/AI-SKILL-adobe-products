@@ -1,4 +1,4 @@
-# InDesign — Trap preset options
+# InDesign - Trap preset options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Black Trap Width Application in InDesign. [Black Trap Width Application](black-trap-width-application.md).

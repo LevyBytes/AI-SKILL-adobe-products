@@ -1,4 +1,4 @@
-# InDesign — Settings interface and feature issues
+# InDesign - Settings interface and feature issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Data merge fails with absolute paths on macOS in InDesign. [Data merge fails with absolute paths on macOS](data-merge-fails-with-absolute-paths-on-mac-os.md).

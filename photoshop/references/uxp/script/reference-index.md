@@ -1,4 +1,4 @@
-# Photoshop — Script
+# Photoshop - Script
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up args : Array in Photoshop. [args : Array](args-array.md).

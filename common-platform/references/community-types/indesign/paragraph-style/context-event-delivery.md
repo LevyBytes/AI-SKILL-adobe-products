@@ -1,6 +1,6 @@
-# Shared Adobe platform — ParagraphStyle: events and listeners
+# Shared Adobe platform - ParagraphStyle: events and listeners
 
-Open when checking events and listeners in Shared Adobe platform — ParagraphStyle.
+Open when checking events and listeners in Shared Adobe platform - ParagraphStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

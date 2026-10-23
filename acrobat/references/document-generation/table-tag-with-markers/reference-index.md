@@ -1,4 +1,4 @@
-# Acrobat — Table Tag with Markers
+# Acrobat - Table Tag with Markers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Complex Table Constructs with Table markers in Acrobat. [Complex Table Constructs with Table markers](complex-table-constructs-with-table-markers.md).

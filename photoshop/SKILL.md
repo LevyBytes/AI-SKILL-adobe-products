@@ -1,8 +1,9 @@
 ---
 name: photoshop
-description: Use when working with Adobe Photoshop desktop images, layers, selections, masks, color, typography, filters, automation and export; developing Photoshop UXP plugins with the object model, batchPlay, executeAsModal, imaging, storage, UI and XMP APIs; or integrating Photoshop cloud APIs and their versioned migration contracts. Keep Photoshop UXP, legacy scripting, and cloud-service behavior distinct.
+description: "Use when working with Adobe Photoshop desktop images, layers, selections, masks, color, typography, filters, automation and export; developing Photoshop UXP plugins with the object model, batchPlay, executeAsModal, imaging, storage, UI and XMP APIs; or integrating Photoshop cloud APIs and their versioned migration contracts."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

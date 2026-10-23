@@ -1,6 +1,6 @@
-# InDesign — PrintBookletPrintPreference: print job, printer and page selection
+# InDesign - PrintBookletPrintPreference: print job, printer and page selection
 
-Open when checking print job, printer and page selection in InDesign — PrintBookletPrintPreference.
+Open when checking print job, printer and page selection in InDesign - PrintBookletPrintPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-job.json).
 

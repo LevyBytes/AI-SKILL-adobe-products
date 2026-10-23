@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: editor modes, panels, envelopes and channel displays
+# Shared Adobe platform - Application: editor modes, panels, envelopes and channel displays
 
-Open when working with editor modes, panels, envelopes and channel displays in Shared Adobe platform — Application.
+Open when working with editor modes, panels, envelopes and channel displays in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-view-editors.json).
 

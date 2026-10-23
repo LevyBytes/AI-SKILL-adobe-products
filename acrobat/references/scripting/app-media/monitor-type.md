@@ -6,7 +6,7 @@ Lists out the values a MediaSettings.monitorType property accepts.
 
 Values and their descriptions fill the table below:
 
-Value — Description
+Value: Description
 
 app.media.monitorType.document
 

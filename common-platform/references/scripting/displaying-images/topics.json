@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Types of controls — Displaying images", "file": "references/scripting/displaying-images/types-of-controls-displaying-images.md", "summary": "Open when looking up Types of controls — Displaying images in Shared Adobe platform.", "keywords": ["Types of controls — Displaying images"]},
+  {"topic": "Types of controls - Displaying images", "file": "references/scripting/displaying-images/types-of-controls-displaying-images.md", "summary": "Open when looking up Types of controls - Displaying images in Shared Adobe platform.", "keywords": ["Types of controls - Displaying images"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

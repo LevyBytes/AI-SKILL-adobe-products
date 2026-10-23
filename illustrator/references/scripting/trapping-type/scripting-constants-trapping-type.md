@@ -1,4 +1,4 @@
-# Scripting Constants — TrappingType
+# Scripting Constants - TrappingType
 
 | Value | Description |
 | --- | --- |

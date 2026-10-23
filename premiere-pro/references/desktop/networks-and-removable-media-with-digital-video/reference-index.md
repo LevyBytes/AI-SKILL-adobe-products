@@ -1,4 +1,4 @@
-# Premiere Pro — Networks and removable media with digital video
+# Premiere Pro - Networks and removable media with digital video
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional variables when using networks in Premiere Pro. [Additional variables when using networks](additional-variables-when-using-networks.md).

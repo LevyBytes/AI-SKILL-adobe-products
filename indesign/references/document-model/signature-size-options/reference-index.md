@@ -1,4 +1,4 @@
-# InDesign — SignatureSizeOptions
+# InDesign - SignatureSizeOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SIGNATURE_SIZE_12 in InDesign. [SIGNATURE_SIZE_12](signaturesize12.md).

@@ -1,4 +1,4 @@
-# Global, Sequence, & Frame Data — Resizing Sequence Data
+# Global, Sequence, & Frame Data - Resizing Sequence Data
 
 Under `PF_Cmd_SEQUENCE_SETUP`, set aside a handle for whatever data is unique to this instance of your effect.
 

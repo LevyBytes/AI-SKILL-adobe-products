@@ -1,0 +1,54 @@
+# PDF Services operations: .NET
+
+Open when choosing the job, parameter and result classes for a PDF Services operation in .NET. Use them in the shared [call pattern](CallPattern.cs); each example's setup page links Adobe's complete sample.
+
+Jobs use `Adobe.PDFServicesSDK.pdfjobs.jobs` and results `Adobe.PDFServicesSDK.pdfjobs.results`; the last column lists the other `Adobe.PDFServicesSDK` namespaces each sample adds.
+
+| Example | Job | Parameters and options | Result | Namespaces |
+| --- | --- | --- | --- | --- |
+| [autotag-pdf](autotag-pdf/autotag-pdf-setup.md) | `AutotagPDFJob` |  | `AutotagPDFResult` via `TaggedPDF` |  |
+| [autotag-pdf-parameterised](autotag-pdf-parameterised/autotag-pdf-parameterised-setup.md) | `AutotagPDFJob` | `AutotagPDFParams` | `AutotagPDFResult` via `Report`, `TaggedPDF` | `pdfjobs.parameters.autotag` |
+| [combine-pdf](combine-pdf/combine-pdf-setup.md) | `CombinePDFJob` | `CombinePDFParams` | `CombinePDFResult` via `Asset` | `pdfjobs.parameters.combinepdf` |
+| [combine-pdf-with-page-ranges](combine-pdf-with-page-ranges/combine-pdf-with-page-ranges-setup.md) | `CombinePDFJob` | `CombinePDFParams`, `PageRanges` | `CombinePDFResult` via `Asset` | `pdfjobs.parameters`, `pdfjobs.parameters.combinepdf` |
+| [compress-pdf](compress-pdf/compress-pdf-setup.md) | `CompressPDFJob` |  | `CompressPDFResult` via `Asset` |  |
+| [compress-pdf-with-options](compress-pdf-with-options/compress-pdf-with-options-setup.md) | `CompressPDFJob` | `CompressPDFParams`, `CompressionLevel` | `CompressPDFResult` via `Asset` | `pdfjobs.parameters.compresspdf` |
+| [create-pdf-from-docx](create-pdf-from-docx/create-pdf-from-docx-setup.md) | `CreatePDFJob` |  | `CreatePDFResult` via `Asset` |  |
+| [create-pdf-from-docx-with-options](create-pdf-from-docx-with-options/create-pdf-from-docx-with-options-setup.md) | `CreatePDFJob` | `CreatePDFParams`, `DocumentLanguage` | `CreatePDFResult` via `Asset` | `pdfjobs.parameters.createpdf`, `pdfjobs.parameters.createpdf.word` |
+| [delete-pdf-pages](delete-pdf-pages/delete-pdf-pages-setup.md) | `DeletePagesJob` | `DeletePagesParams`, `PageRanges` | `DeletePagesResult` via `Asset` | `pdfjobs.parameters`, `pdfjobs.parameters.deletepages` |
+| [dynamic-html-to-pdf](dynamic-html-to-pdf/dynamic-html-to-pdf-setup.md) | `HTMLToPDFJob` | `HTMLToPDFParams`, `PageLayout` | `HTMLToPDFResult` via `Asset` | `pdfjobs.parameters.htmltopdf` |
+| [electronic-seal](electronic-seal/electronic-seal-setup.md) | `PDFElectronicSealJob` | `CSCAuthContext`, `CertificateCredentials`, `DocumentLevelPermission`, `FieldLocation`, `FieldOptions`, `PDFElectronicSealParams` | `PDFElectronicSealResult` via `Asset` | `pdfjobs.parameters.electronicseal` |
+| [electronic-seal-with-appearance-options](electronic-seal-with-appearance-options/electronic-seal-with-appearance-options-setup.md) | `PDFElectronicSealJob` | `AppearanceItem`, `AppearanceOptions`, `CSCAuthContext`, `CertificateCredentials`, `DocumentLevelPermission`, `FieldLocation`, `FieldOptions`, `PDFElectronicSealParams` | `PDFElectronicSealResult` via `Asset` | `pdfjobs.parameters.electronicseal` |
+| [electronic-seal-with-time-stamp-authority](electronic-seal-with-time-stamp-authority/electronic-seal-with-time-stamp-authority-setup.md) | `PDFElectronicSealJob` | `CSCAuthContext`, `CertificateCredentials`, `DocumentLevelPermission`, `FieldLocation`, `FieldOptions`, `PDFElectronicSealParams`, `RFC3161TSAOptions`, `TSABasicAuthCredentials`, `TSAOptions` | `PDFElectronicSealResult` via `Asset` | `pdfjobs.parameters.electronicseal` |
+| [export-brochure-docx](export-brochure-docx/export-brochure-docx-setup.md) | `ExportPDFJob` | `ExportPDFParams`, `ExportPDFTargetFormat` | `ExportPDFResult` | `pdfjobs.parameters.exportpdf` |
+| [extract-figure-table-renditions](extract-figure-table-renditions/extract-renditions-setup.md) | `ExtractPDFJob` | `ExtractElementType`, `ExtractPDFParams`, `ExtractRenditionsElementType` | `ExtractPDFResult` via `Resource` | `pdfjobs.parameters.extractpdf` |
+| [extract-first-level-headings](extract-first-level-headings/extract-first-level-headings-setup.md) | `ExtractPDFJob` | `ExtractElementType`, `ExtractPDFParams` | `ExtractPDFResult` via `Resource` | `pdfjobs.parameters.extractpdf` |
+| [extract-table-structure](extract-table-structure/extract-text-table-info-with-table-structure-from-pdf-setup.md) | `ExtractPDFJob` | `ExtractElementType`, `ExtractPDFParams`, `ExtractRenditionsElementType`, `TableStructureType` | `ExtractPDFResult` via `Resource` | `pdfjobs.parameters.extractpdf` |
+| [extract-text-info-from-pdf](extract-text-info-from-pdf/extract-text-info-from-pdf-setup.md) | `ExtractPDFJob` | `ExtractElementType`, `ExtractPDFParams` | `ExtractPDFResult` via `Resource` | `pdfjobs.parameters.extractpdf` |
+| [extract-text-table-info-from-pdf](extract-text-table-info-from-pdf/extract-text-table-info-from-pdf-setup.md) | `ExtractPDFJob` | `ExtractElementType`, `ExtractPDFParams` | `ExtractPDFResult` via `Resource` | `pdfjobs.parameters.extractpdf` |
+| [extract-text-table-info-with-char-bounds-from-pdf](extract-text-table-info-with-char-bounds-from-pdf/extract-text-table-info-with-char-bounds-from-pdf-setup.md) | `ExtractPDFJob` | `ExtractElementType`, `ExtractPDFParams` | `ExtractPDFResult` via `Resource` | `pdfjobs.parameters.extractpdf` |
+| [extract-text-table-info-with-renditions-from-pdf](extract-text-table-info-with-renditions-from-pdf/extract-text-table-info-with-renditions-from-pdf-setup.md) | `ExtractPDFJob` | `ExtractElementType`, `ExtractPDFParams`, `ExtractRenditionsElementType` | `ExtractPDFResult` via `Resource` | `pdfjobs.parameters.extractpdf` |
+| [extract-text-table-info-with-styling-from-pdf](extract-text-table-info-with-styling-from-pdf/extract-text-table-info-with-styling-from-pdf-setup.md) | `ExtractPDFJob` | `ExtractElementType`, `ExtractPDFParams` | `ExtractPDFResult` via `Resource` | `pdfjobs.parameters.extractpdf` |
+| [generate-receipt-pdf](generate-receipt-pdf/generate-receipt-pdf-setup.md) | `DocumentMergeJob` | `DocumentMergeParams`, `OutputFormat` | `DocumentMergeResult` via `Asset` | `pdfjobs.parameters.documentmerge` |
+| [get-pdf-properties](get-pdf-properties/get-pdf-properties-setup.md) | `PDFPropertiesJob` | `PDFProperties`, `PDFPropertiesParams` | `PDFPropertiesResult` via `PDFProperties` | `pdfjobs.parameters.pdfproperties`, `pdfjobs.results.pdfproperties` |
+| [html-to-pdf-from-url](html-to-pdf-from-url/html-to-pdf-from-url-setup.md) | `HTMLToPDFJob` | `HTMLToPDFParams`, `PageLayout` | `HTMLToPDFResult` via `Asset` | `pdfjobs.parameters.htmltopdf` |
+| [html-with-inline-css-to-pdf](html-with-inline-css-to-pdf/html-with-inline-css-to-pdf-setup.md) | `HTMLToPDFJob` | `HTMLToPDFParams`, `PageLayout` | `HTMLToPDFResult` via `Asset` | `pdfjobs.parameters.htmltopdf` |
+| [insert-pdf-pages](insert-pdf-pages/insert-pdf-pages-setup.md) | `InsertPagesPDFJob` | `InsertPagesParams`, `PageRanges` | `InsertPagesResult` via `Asset` | `pdfjobs.parameters`, `pdfjobs.parameters.insertpages` |
+| [linearize-pdf](linearize-pdf/linearize-pdf-setup.md) | `LinearizePDFJob` |  | `LinearizePDFResult` via `Asset` |  |
+| [merge-customer-data](merge-customer-data/merge-customer-data-setup.md) | `DocumentMergeJob` | `DocumentMergeParams`, `OutputFormat` | `DocumentMergeResult` via `Asset` | `pdfjobs.parameters.documentmerge` |
+| [merge-document-to-docx-fragments](merge-document-to-docx-fragments/merge-document-to-docx-fragments-setup.md) | `DocumentMergeJob` | `DocumentMergeParams`, `Fragments`, `OutputFormat` | `DocumentMergeResult` via `Asset` | `pdfjobs.parameters.documentmerge` |
+| [merge-document-to-pdf](merge-document-to-pdf/merge-document-to-pdf-setup.md) | `DocumentMergeJob` | `DocumentMergeParams`, `OutputFormat` | `DocumentMergeResult` via `Asset` | `pdfjobs.parameters.documentmerge` |
+| [ocr-pdf](ocr-pdf/ocr-pdf-setup.md) | `OCRJob` |  | `OCRResult` via `Asset` |  |
+| [ocr-pdf-with-options](ocr-pdf-with-options/ocr-pdf-with-options-setup.md) | `OCRJob` | `OCRParams`, `OCRSupportedLocale`, `OCRSupportedType` | `OCRResult` via `Asset` | `pdfjobs.parameters.ocr` |
+| [pdf-watermark](pdf-watermark/pdf-watermark-setup.md) | `PDFWatermarkJob` |  | `PDFWatermarkResult` via `Asset` |  |
+| [pdf-watermark-with-options](pdf-watermark-with-options/pdf-watermark-with-options-setup.md) | `PDFWatermarkJob` | `PDFWatermarkParams`, `PageRanges`, `WatermarkAppearance` | `PDFWatermarkResult` via `Asset` | `pdfjobs.parameters`, `pdfjobs.parameters.pdfwatermark` |
+| [protect-pdf](protect-pdf/protect-pdf-setup.md) | `ProtectPDFJob` | `EncryptionAlgorithm`, `ProtectPDFParams` | `ProtectPDFResult` via `Asset` | `pdfjobs.parameters.protectpdf` |
+| [protect-pdf-with-owner-password](protect-pdf-with-owner-password/protect-pdf-with-owner-password-setup.md) | `ProtectPDFJob` | `ContentEncryption`, `EncryptionAlgorithm`, `Permission`, `Permissions`, `ProtectPDFParams` | `ProtectPDFResult` via `Asset` | `pdfjobs.parameters.protectpdf` |
+| [remove-protection](remove-protection/remove-protection-setup.md) | `RemoveProtectionJob` | `RemoveProtectionParams` | `RemoveProtectionResult` via `Asset` | `pdfjobs.parameters.removeprotection` |
+| [reorder-pdf-pages](reorder-pdf-pages/reorder-pdf-pages-setup.md) | `ReorderPagesPDFJob` | `PageRanges`, `ReorderPagesParams` | `ReorderPagesResult` via `Asset` | `pdfjobs.parameters`, `pdfjobs.parameters.reorderpages` |
+| [replace-pdf-pages](replace-pdf-pages/replace-pdf-pages-setup.md) | `ReplacePagesPDFJob` | `PageRanges`, `ReplacePagesParams` | `ReplacePagesResult` via `Asset` | `pdfjobs.parameters`, `pdfjobs.parameters.replacepages` |
+| [rotate-pdf-pages](rotate-pdf-pages/rotate-pdf-pages-setup.md) | `RotatePagesJob` | `Angle`, `PageRanges`, `RotatePagesParams` | `RotatePagesResult` via `Asset` | `pdfjobs.parameters`, `pdfjobs.parameters.rotatepages` |
+| [split-pdf-by-number-of-pages](split-pdf-by-number-of-pages/split-pdf-by-number-of-pages-setup.md) | `SplitPDFJob` | `SplitPDFParams` | `SplitPDFResult` via `Assets` | `pdfjobs.parameters.splitpdf` |
+| [split-pdf-by-page-ranges](split-pdf-by-page-ranges/split-pdf-by-page-ranges-setup.md) | `SplitPDFJob` | `PageRanges`, `SplitPDFParams` | `SplitPDFResult` via `Assets` | `pdfjobs.parameters`, `pdfjobs.parameters.splitpdf` |
+| [split-pdf-into-number-of-files](split-pdf-into-number-of-files/split-pdf-into-number-of-files-setup.md) | `SplitPDFJob` | `SplitPDFParams` | `SplitPDFResult` via `Assets` | `pdfjobs.parameters.splitpdf` |
+| [static-html-to-pdf](static-html-to-pdf/static-html-to-pdf-setup.md) | `HTMLToPDFJob` | `HTMLToPDFParams`, `PageLayout` | `HTMLToPDFResult` via `Asset` | `pdfjobs.parameters.htmltopdf` |
+| [watermark-selected-ranges](watermark-selected-ranges/watermark-selected-ranges-setup.md) | `PDFWatermarkJob` | `PDFWatermarkParams`, `PageRanges`, `WatermarkAppearance` | `PDFWatermarkResult` via `Asset` | `pdfjobs.parameters`, `pdfjobs.parameters.pdfwatermark` |

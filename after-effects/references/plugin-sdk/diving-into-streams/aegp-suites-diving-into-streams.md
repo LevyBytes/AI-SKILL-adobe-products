@@ -1,4 +1,4 @@
-# AEGP Suites — Diving Into Streams!
+# AEGP Suites - Diving Into Streams!
 
 Practically everything within After Effects is a stream. Under the hood, effect parameters, layers, masks, and shapes all take the form of streams. Nearly every facet of every stream is reachable through the AEGP API.
 

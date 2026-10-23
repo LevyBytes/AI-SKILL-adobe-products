@@ -1,4 +1,4 @@
-# Acrobat — Annotation
+# Acrobat - Annotation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up alignment in Acrobat. [alignment](alignment.md).
@@ -30,7 +30,7 @@
 - Open when looking up hidden in Acrobat. [hidden](hidden.md).
 - Open when looking up inReplyTo in Acrobat. [inReplyTo](in-reply-to.md).
 - Open when looking up intent in Acrobat. [intent](intent.md).
-- Open when looking up JavaScript APIs — Annotation in Acrobat. [JavaScript APIs — Annotation](java-script-apis-annotation.md).
+- Open when looking up JavaScript APIs - Annotation in Acrobat. [JavaScript APIs - Annotation](java-script-apis-annotation.md).
 - Open when looking up leaderExtend in Acrobat. [leaderExtend](leader-extend.md).
 - Open when looking up leaderLength in Acrobat. [leaderLength](leader-length.md).
 - Open when looking up lineEnding in Acrobat. [lineEnding](line-ending.md).

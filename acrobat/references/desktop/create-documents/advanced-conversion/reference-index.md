@@ -1,4 +1,4 @@
-# Acrobat — Explore advanced conversion settings
+# Acrobat - Explore advanced conversion settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat Distiller fonts overview in Acrobat. [Acrobat Distiller fonts overview](acrobat-distiller-fonts-overview.md).

@@ -1,4 +1,4 @@
-# InDesign — Set frame grid properties
+# InDesign - Set frame grid properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure display and grid structure in InDesign. [Configure display and grid structure](configure-display-and-grid-structure.md).

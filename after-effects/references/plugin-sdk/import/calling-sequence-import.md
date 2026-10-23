@@ -1,4 +1,4 @@
-# Calling Sequence — Import
+# Calling Sequence - Import
 
 When users choose a file in the import dialog and the file type is handled by your AEIO, After Effects calls `AEIO_VerifyFileImportable`(); it calls the same function again for each imported file of that kind. `AEIO_InitInSpecFromFile`() follows for each file. Parse that file, describe it to After Effects with the relevant set functions, build any file-related options data, and store that data with `AEGP_SetInSpecOptionsHandle`().
 

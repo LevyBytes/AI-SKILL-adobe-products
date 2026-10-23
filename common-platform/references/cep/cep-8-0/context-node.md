@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 8 0: node.js modules and javascript compatibility
+# Shared Adobe platform - Cep 8 0: node.js modules and javascript compatibility
 
-Open when working with node.js modules and javascript compatibility in Shared Adobe platform — Cep 8 0.
+Open when working with node.js modules and javascript compatibility in Shared Adobe platform - Cep 8 0.
 
 Open when selecting an exact reference: [Topic catalog](context-node.json).
 

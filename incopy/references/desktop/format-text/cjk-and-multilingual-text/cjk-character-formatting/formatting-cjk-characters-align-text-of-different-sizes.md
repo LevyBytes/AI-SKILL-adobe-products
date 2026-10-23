@@ -1,4 +1,4 @@
-# Formatting CJK characters — Align text of different sizes
+# Formatting CJK characters - Align text of different sizes
 
 When characters of different sizes share 1 line, Character Alignment controls how smaller text lines up against the largest characters. Alignment can be to the embox top, center, or bottom (right, center, and left in vertical frames), the roman baseline, or the ICF box top or bottom (right or left in vertical frames). ICF (Ideographic Character Face) means the average height and width that the font designer uses when designing ideographic characters for the typeface.
 

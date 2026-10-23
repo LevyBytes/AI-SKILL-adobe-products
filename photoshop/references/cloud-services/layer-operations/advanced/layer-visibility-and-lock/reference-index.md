@@ -1,4 +1,4 @@
-# Photoshop — Layer visibility and lock
+# Photoshop - Layer visibility and lock
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Artboard visibility behavior differs between V1 and V2 in Photoshop. [Artboard visibility behavior differs between V1 and V2](artboard-visibility-behavior-differs-between-v1-and-v2.md).

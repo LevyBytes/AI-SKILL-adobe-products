@@ -1,4 +1,4 @@
-# InDesign — Share libraries with Creative Cloud users
+# InDesign - Share libraries with Creative Cloud users
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accept a collaboration invitation in InDesign. [Accept a collaboration invitation](accept-a-collaboration-invitation.md).

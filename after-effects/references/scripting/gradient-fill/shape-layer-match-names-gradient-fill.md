@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Gradient Fill
+# Shape Layer Match Names - Gradient Fill
 
 | Match Name | Display Name (EN) |
 | --- | --- |

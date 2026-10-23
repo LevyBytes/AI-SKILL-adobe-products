@@ -1,4 +1,4 @@
-# Sharing content — Assignments panel overview
+# Sharing content - Assignments panel overview
 
 Assignment work centers on the Assignments panel (Window > Assignments in InCopy, Window > Editorial > Assignments in InDesign). This panel lists files exported from the active InDesign document, and status icons show each file's state. Its panel menu includes commands for import versions and file management between InCopy and InDesign. When an assignment is opened in InCopy, both the assignment name and its contents are shown in the Assignments panel. Double-clicking text or graphics frames in the panel selects them in the document window.
 

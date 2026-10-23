@@ -1,4 +1,4 @@
-# Premiere Pro — Tick time
+# Premiere Pro - Tick time
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up add in Premiere Pro. [add](add.md).
@@ -11,4 +11,4 @@
 - Open when looking up equals in Premiere Pro. [equals](equals.md).
 - Open when looking up multiply in Premiere Pro. [multiply](multiply.md).
 - Open when looking up subtract in Premiere Pro. [subtract](subtract.md).
-- Open when looking up TickTime — Properties in Premiere Pro. [TickTime — Properties](tick-time-properties.md).
+- Open when looking up TickTime - Properties in Premiere Pro. [TickTime - Properties](tick-time-properties.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — AnimationSetting
+# Shared Adobe platform - AnimationSetting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AnimationSetting declaration in Shared Adobe platform. [AnimationSetting declaration](declaration.md).

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: plug-ins... reloaded
+# After Effects - C++ plugin SDK: plug-ins... reloaded
 
-Open when working with plug-ins... reloaded in After Effects — C++ plugin SDK.
+Open when working with plug-ins... reloaded in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-ppro-plug-ins-reloaded.json).
 

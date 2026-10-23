@@ -1,4 +1,4 @@
-# Acrobat — Control PDFs opening from Gmail and Google Drive
+# Acrobat - Control PDFs opening from Gmail and Google Drive
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Turn off PDFs from Gmail opening automatically in Acrobat in Acrobat. [Turn off PDFs from Gmail opening automatically in Acrobat](turn-off-pdfs-from-gmail-opening-automatically-in-acrobat.md).

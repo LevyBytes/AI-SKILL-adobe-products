@@ -1,4 +1,4 @@
-# Sharing content — Add content to existing assignments (InDesign)
+# Sharing content - Add content to existing assignments (InDesign)
 
 Save the InDesign document, then select the text and graphics frames to add. Use one of these methods:
 

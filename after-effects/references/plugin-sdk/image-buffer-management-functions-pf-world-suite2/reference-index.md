@@ -1,4 +1,4 @@
-# After Effects — Image Buffer Management Functions — PF_WorldSuite2
+# After Effects - Image Buffer Management Functions - PF_WorldSuite2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PF_DisposeWorld in After Effects. [PF_DisposeWorld](pf-dispose-world.md).

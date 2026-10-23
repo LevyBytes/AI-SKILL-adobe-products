@@ -1,6 +1,6 @@
-# InDesign — SVG: object styles and enabled attributes
+# InDesign - SVG: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — SVG.
+Open when checking object styles and enabled attributes in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

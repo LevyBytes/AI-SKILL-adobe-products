@@ -1,4 +1,4 @@
-# Photoshop — UXP Scripts
+# Photoshop - UXP Scripts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basic manifest.json in Photoshop. [Basic manifest.json](basic-manifest-json.md).

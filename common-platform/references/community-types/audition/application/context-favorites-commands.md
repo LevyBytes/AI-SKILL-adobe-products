@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: favorite processing actions
+# Shared Adobe platform - Application: favorite processing actions
 
-Open when working with favorite processing actions in Shared Adobe platform — Application.
+Open when working with favorite processing actions in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-favorites-commands.json).
 

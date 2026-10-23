@@ -1,4 +1,4 @@
-# InDesign — BulletCharacterType
+# InDesign - BulletCharacterType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GLYPH_WITH_FONT in InDesign. [GLYPH_WITH_FONT](glyphwithfont.md).

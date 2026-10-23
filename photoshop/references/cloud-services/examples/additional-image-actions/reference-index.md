@@ -1,8 +1,7 @@
-# Photoshop — Additional image actions
+# Photoshop - Additional image actions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional-image Action JSON request in Photoshop. [Additional-image Action JSON request](request-setup.md).
-- Open when looking up align-and-deselect-actions.json in Photoshop. [align-and-deselect-actions.json](align-and-deselect-actions.json).
 - Open when looking up build-request.cjs in Photoshop. [build-request.cjs](build-request.cjs).
 - Open when looking up create-selection-mask-actions.json in Photoshop. [create-selection-mask-actions.json](create-selection-mask-actions.json).
 - Open when looking up place-image-action.json in Photoshop. [place-image-action.json](place-image-action.json).

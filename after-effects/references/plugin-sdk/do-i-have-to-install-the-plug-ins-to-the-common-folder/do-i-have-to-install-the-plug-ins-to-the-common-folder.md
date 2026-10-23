@@ -1,4 +1,4 @@
-# Where Installers Should Put Plug-ins — Do I Have To Install The Plug-ins To The Common Folder?
+# Where Installers Should Put Plug-ins - Do I Have To Install The Plug-ins To The Common Folder?
 
 There can be legitimate motivation to scope your plug-in to After Effects alone — say it leans on suites or capabilities that Premiere Pro simply doesn't expose. The shared folder remains our strong recommendation wherever it's workable, yet the AE-only plug-in folder stays on hand for those edge cases.
 

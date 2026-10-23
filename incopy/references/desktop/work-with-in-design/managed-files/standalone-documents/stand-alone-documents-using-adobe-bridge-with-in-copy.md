@@ -1,4 +1,4 @@
-# Stand-alone documents — Using Adobe Bridge with InCopy
+# Stand-alone documents - Using Adobe Bridge with InCopy
 
 Adobe Bridge runs on multiple platforms and ships with AdobeCreative Suite components. It is used to find, arrange, and browse assets for print, web, video, and audio work. You can launch Adobe Bridge from any Creative Suitecomponent except Adobe Acrobat, then use it with Adobe asset types as well as non-Adobe files.
 

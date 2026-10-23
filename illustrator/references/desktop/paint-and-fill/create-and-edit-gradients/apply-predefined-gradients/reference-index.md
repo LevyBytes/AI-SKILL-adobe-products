@@ -1,4 +1,4 @@
-# Illustrator — Apply predefined gradients
+# Illustrator - Apply predefined gradients
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a predefined gradient from the swatch library in Illustrator. [Apply a predefined gradient from the swatch library](apply-a-predefined-gradient-from-the-swatch-library.md).

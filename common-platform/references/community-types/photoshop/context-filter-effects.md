@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: filters, noise and distortion
+# Shared Adobe platform - Photoshop: filters, noise and distortion
 
-Open when working with filters, noise and distortion in Shared Adobe platform — Photoshop.
+Open when working with filters, noise and distortion in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-filter-effects.json).
 

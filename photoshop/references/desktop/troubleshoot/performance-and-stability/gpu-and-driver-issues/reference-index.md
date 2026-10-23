@@ -1,4 +1,4 @@
-# Photoshop — Resolve graphics processor (GPU) and graphics driver issues
+# Photoshop - Resolve graphics processor (GPU) and graphics driver issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupt Photoshop preference files in Photoshop. [Corrupt Photoshop preference files](corrupt-photoshop-preference-files.md).

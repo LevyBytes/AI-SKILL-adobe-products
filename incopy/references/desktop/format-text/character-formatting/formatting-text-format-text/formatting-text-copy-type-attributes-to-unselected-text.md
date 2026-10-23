@@ -1,4 +1,4 @@
-# Formatting text — Copy type attributes to unselected text
+# Formatting text - Copy type attributes to unselected text
 
 With the Eyedropper tool  , click text that already uses the attributes you need. (This text may be in a different open document.) The eyedropper pointer flips direction and becomes full  , showing that the copied attributes are loaded. When the pointer is over text, an I-beam appears beside the loaded eyedropper  . With the Eyedropper tool, select the text to change.
 

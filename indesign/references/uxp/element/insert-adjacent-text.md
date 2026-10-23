@@ -1,4 +1,4 @@
-# window.Element — insertAdjacentText(position, text)
+# window.Element - insertAdjacentText(position, text)
 
 | Param | Type |
 | --- | --- |

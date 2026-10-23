@@ -1,6 +1,6 @@
-# InDesign — Paragraph: apply and manage styles
+# InDesign - Paragraph: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Paragraph.
+Open when checking apply and manage styles in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

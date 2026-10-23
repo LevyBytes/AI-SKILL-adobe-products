@@ -1,4 +1,4 @@
-# InDesign — Adjust creep settings in booklets
+# InDesign - Adjust creep settings in booklets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust spacing alongside creep in InDesign. [Adjust spacing alongside creep](adjust-spacing-alongside-creep.md).

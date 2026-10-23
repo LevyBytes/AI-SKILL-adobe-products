@@ -1,6 +1,6 @@
-# InDesign — MediaItem: character spacing and geometry
+# InDesign - MediaItem: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — MediaItem.
+Open when checking character spacing and geometry in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

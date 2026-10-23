@@ -1,4 +1,4 @@
-# Creating layers — Create layers from footage items or change layer source
+# Creating layers - Create layers from footage items or change layer source
 
 Any footage item sitting in the Project panel can become a layer, another composition included. Once you drop a footage item into a composition, the layer it produces is yours to modify and animate.
 

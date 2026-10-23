@@ -1,4 +1,4 @@
-# Importing graphics — Update modified links
+# Importing graphics - Update modified links
 
 When resolving a missing link, InDesign searches first in the folder where another file was relinked during the current session. It then checks the folder that contains the document, and if the link is still unresolved, it checks the document folder's parent.
 

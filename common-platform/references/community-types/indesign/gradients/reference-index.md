@@ -1,4 +1,4 @@
-# Shared Adobe platform — Gradients
+# Shared Adobe platform - Gradients
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Gradients collection iteration in Shared Adobe platform. [Gradients collection iteration](collection-iteration.md).

@@ -1,6 +1,6 @@
-# InDesign — Print preference: print rendering, fonts and image data
+# InDesign - Print preference: print rendering, fonts and image data
 
-Open when checking print rendering, fonts and image data in InDesign — Print preference.
+Open when checking print rendering, fonts and image data in InDesign - Print preference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-rendering.json).
 

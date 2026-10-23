@@ -1,4 +1,4 @@
-# InDesign — Character direction options
+# InDesign - Character direction options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DEFAULT_DIRECTION in InDesign. [DEFAULT_DIRECTION](defaultdirection.md).

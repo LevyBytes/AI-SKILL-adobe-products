@@ -1,4 +1,4 @@
-# InDesign — Grids
+# InDesign - Grids
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert between text frames and frame grids in InDesign. [Convert between text frames and frame grids](convert-between-text-frames-and-frame-grids.md).

@@ -1,4 +1,4 @@
-# Importing graphics — Create an inline graphic
+# Importing graphics - Create an inline graphic
 
 Confirm that the text frame is checked out to you. The Editing icon appears at the upper-left corner of the frame. Then use one of these methods:
 

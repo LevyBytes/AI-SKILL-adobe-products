@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 8 0: video, audio and real-time communication
+# Shared Adobe platform - Cep 8 0: video, audio and real-time communication
 
-Open when working with video, audio and real-time communication in Shared Adobe platform — Cep 8 0.
+Open when working with video, audio and real-time communication in Shared Adobe platform - Cep 8 0.
 
 Open when selecting an exact reference: [Topic catalog](context-media.json).
 

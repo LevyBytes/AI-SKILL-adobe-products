@@ -1,4 +1,4 @@
-# Shared Adobe platform — BorderPanels
+# Shared Adobe platform - BorderPanels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BorderPanels collection iteration in Shared Adobe platform. [BorderPanels collection iteration](collection-iteration.md).

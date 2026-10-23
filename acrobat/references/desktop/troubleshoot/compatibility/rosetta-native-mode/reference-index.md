@@ -1,4 +1,4 @@
-# Acrobat — Acrobat compatibility warning for Rosetta on Mac with Apple Silicon
+# Acrobat - Acrobat compatibility warning for Rosetta on Mac with Apple Silicon
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cause in Acrobat. [Cause](cause.md).

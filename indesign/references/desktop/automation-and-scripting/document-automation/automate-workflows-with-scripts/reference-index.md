@@ -1,4 +1,4 @@
-# InDesign — Automate workflows with scripts
+# InDesign - Automate workflows with scripts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Available sample scripts in InDesign in InDesign. [Available sample scripts in InDesign](available-sample-scripts-in-in-design.md).

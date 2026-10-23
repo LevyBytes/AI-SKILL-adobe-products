@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: application session and account
+# InDesign - MultiStateObject: application session and account
 
-Open when checking application session and account in InDesign — MultiStateObject.
+Open when checking application session and account in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

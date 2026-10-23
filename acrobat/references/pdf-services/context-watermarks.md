@@ -1,6 +1,6 @@
-# Acrobat — PDF Services API: watermark inputs, parameters and pages
+# Acrobat - PDF Services API: watermark inputs, parameters and pages
 
-Open when working with watermark inputs, parameters and pages in Acrobat — PDF Services API.
+Open when working with watermark inputs, parameters and pages in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-watermarks.json).
 

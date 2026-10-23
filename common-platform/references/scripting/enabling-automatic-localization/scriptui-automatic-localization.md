@@ -1,4 +1,4 @@
-# Localization in ScriptUI objects — Enabling automatic localization
+# Localization in ScriptUI objects - Enabling automatic localization
 
 When variable replacement is unnecessary, automatic localization is available. Enable it by setting the global value:
 

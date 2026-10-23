@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Edit interpretation rules for all items of a specific kind
+# Importing and interpreting footage items - Edit interpretation rules for all items of a specific kind
 
 Holding the rules for how After Effects interprets footage items is the interpretation rules file. Customizing it isn't something you'll usually need to do. As a footage item comes in, After Effects hunts for a match within the interpretation rules file and from that works out the footage item's interpretation settings. After import, the Interpret Footage dialog box lets you override those settings.
 

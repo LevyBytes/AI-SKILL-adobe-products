@@ -1,4 +1,4 @@
-# Firefly — Blend modes in Firefly video editor
+# Firefly - Blend modes in Firefly video editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Blend in Firefly. [Apply Blend](apply-blend.md).

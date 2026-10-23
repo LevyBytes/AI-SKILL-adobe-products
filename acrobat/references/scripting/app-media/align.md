@@ -6,7 +6,7 @@ Lists out the values that can turn up in the MediaSettings.floating.align proper
 
 The table below holds the valid values.
 
-Value — Position of floating window
+Value: Position of floating window
 
 app.media.align.topLeft
 

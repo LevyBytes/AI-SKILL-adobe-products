@@ -1,6 +1,8 @@
-# Acrobat — Python
+# Acrobat - Python
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
+- Open when writing any PDF Services call in Python. [Python call pattern](call-pattern.py).
+- Open when choosing an operation's job, parameter and result classes in Python. [Python operations](operations.md).
 - Open when looking up Autotag pdf parametrised in Acrobat. [Autotag pdf parametrised references](autotag-pdf-parametrised/reference-index.md).
 - Open when looking up Autotag pdf in Acrobat. [Autotag pdf references](autotag-pdf/reference-index.md).
 - Open when looking up Combine pdf in Acrobat. [Combine pdf references](combine-pdf/reference-index.md).

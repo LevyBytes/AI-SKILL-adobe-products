@@ -1,4 +1,4 @@
-# Premiere Pro — Understand the Options
+# Premiere Pro - Understand the Options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Spectrum UXP Widgets in Premiere Pro. [Spectrum UXP Widgets](spectrum-uxp-widgets.md).

@@ -1,4 +1,4 @@
-# Illustrator — Edit objects
+# Illustrator - Edit objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About clipping masks in Illustrator. [About clipping masks](about-clipping-masks.md).

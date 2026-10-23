@@ -1,6 +1,6 @@
-# InDesign — Eps text: fill, stroke and transparency
+# InDesign - Eps text: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Eps text.
+Open when checking fill, stroke and transparency in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Inner Glow
+# Layer Styles Match Names - Inner Glow
 
 | Match Name | Display Name (EN) |
 | --- | --- |

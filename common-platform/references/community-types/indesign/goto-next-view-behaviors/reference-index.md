@@ -1,4 +1,4 @@
-# Shared Adobe platform — GotoNextViewBehaviors
+# Shared Adobe platform - GotoNextViewBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GotoNextViewBehaviors collection iteration in Shared Adobe platform. [GotoNextViewBehaviors collection iteration](collection-iteration.md).

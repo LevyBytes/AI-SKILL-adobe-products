@@ -1,4 +1,4 @@
-# Photoshop — Clean and restore images
+# Photoshop - Clean and restore images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Auto Erase with the Pencil tool in Photoshop. [Auto Erase with the Pencil tool](auto-erase-with-the-pencil-tool.md).

@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Create pdf from docx with options example setup", "file": "references/pdf-services/examples/node/create-pdf-from-docx-with-options/create-pdf-from-docx-with-options-setup.md", "summary": "Open when looking up Create pdf from docx with options example setup in Acrobat.", "keywords": ["Create pdf from docx with options example setup"]},
-  {"topic": "create-pdf-from-docx-with-options", "file": "references/pdf-services/examples/node/create-pdf-from-docx-with-options/create-pdf-from-docx-with-options.cjs", "summary": "Open when looking up create-pdf-from-docx-with-options in Acrobat.", "keywords": ["create-pdf-from-docx-with-options"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: views, preview modes and perspective grids
+# Shared Adobe platform - Illustrator: views, preview modes and perspective grids
 
-Open when working with views, preview modes and perspective grids in Shared Adobe platform — Illustrator.
+Open when working with views, preview modes and perspective grids in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-views.json).
 

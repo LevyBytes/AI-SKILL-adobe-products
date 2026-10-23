@@ -1,4 +1,4 @@
-# Tagging content for XML — Untag a page item
+# Tagging content for XML - Untag a page item
 
 Use untagging when the tag should be removed but the item's content should stay.
 

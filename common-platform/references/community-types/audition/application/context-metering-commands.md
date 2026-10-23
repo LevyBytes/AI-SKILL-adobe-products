@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: audio metering
+# Shared Adobe platform - Application: audio metering
 
-Open when working with audio metering in Shared Adobe platform — Application.
+Open when working with audio metering in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-metering-commands.json).
 

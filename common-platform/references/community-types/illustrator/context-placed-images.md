@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: placed, embedded, mesh and raster images
+# Shared Adobe platform - Illustrator: placed, embedded, mesh and raster images
 
-Open when working with placed, embedded, mesh and raster images in Shared Adobe platform — Illustrator.
+Open when working with placed, embedded, mesh and raster images in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-placed-images.json).
 

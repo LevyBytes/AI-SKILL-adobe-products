@@ -1,4 +1,4 @@
-# Photoshop — Adjustment and fill layers overview
+# Photoshop - Adjustment and fill layers overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjustment layers in Photoshop. [Adjustment layers](adjustment-layers.md).

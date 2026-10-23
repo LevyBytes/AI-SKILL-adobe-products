@@ -1,4 +1,4 @@
-# Submit a pull request — Topic
+# Submit a pull request - Topic
 
 Pull request topic:
 

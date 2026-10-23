@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: anchored object placement
+# InDesign - GraphicLine: anchored object placement
 
-Open when checking anchored object placement in InDesign — GraphicLine.
+Open when checking anchored object placement in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

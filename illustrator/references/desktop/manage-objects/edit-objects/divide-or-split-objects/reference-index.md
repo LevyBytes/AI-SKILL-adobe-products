@@ -1,4 +1,4 @@
-# Illustrator — Divide or split objects
+# Illustrator - Divide or split objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Divide objects in Illustrator. [Divide objects](divide-objects.md).

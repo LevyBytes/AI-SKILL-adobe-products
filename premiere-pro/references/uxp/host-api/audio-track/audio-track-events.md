@@ -1,4 +1,4 @@
-# AudioTrack — Events
+# AudioTrack - Events
 
 | Name | Version | Description |
 | --- | --- | --- |

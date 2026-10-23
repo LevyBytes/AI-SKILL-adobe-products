@@ -1,4 +1,4 @@
-# InDesign — MarkLineWeight
+# InDesign - MarkLineWeight
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up P05MM in InDesign. [P05MM](p05-mm.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Correct mistakes
+# Premiere Pro - Correct mistakes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up View or make changes in the History panel in Premiere Pro. [View or make changes in the History panel](view-or-make-changes-in-the-history-panel.md).

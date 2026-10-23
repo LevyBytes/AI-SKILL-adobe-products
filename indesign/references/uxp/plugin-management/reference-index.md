@@ -1,4 +1,4 @@
-# InDesign — Plugin management
+# InDesign - Plugin management
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding an existing plugin in InDesign. [Adding an existing plugin](adding-an-existing-plugin.md).

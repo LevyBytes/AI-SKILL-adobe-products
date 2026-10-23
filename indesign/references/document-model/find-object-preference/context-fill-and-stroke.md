@@ -1,6 +1,6 @@
-# InDesign — FindObjectPreference: fill, stroke and transparency
+# InDesign - FindObjectPreference: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — FindObjectPreference.
+Open when checking fill, stroke and transparency in InDesign - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

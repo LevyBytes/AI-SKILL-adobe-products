@@ -1,4 +1,4 @@
-# Premiere Pro — Shell
+# Premiere Pro - Shell
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up openExternal(url, developerText) in Premiere Pro. [openExternal(url, developerText)](open-external.md).

@@ -7,7 +7,7 @@
 
 ### See also
 
-- [Actions Migration](../actions-migration/reference-index.md) — Guided walkthrough with examples and best practices
-- [Output Types Migration](../output-types-migration/reference-index.md) — JPEG, PNG, TIFF output format details
-- [ICC Profile Migration](../icc-profile-migration-guide-overview.md) — Color management options
-- [Product Crop](../product-crop-migration.md) — Full ActionJSON definition
+- [Actions Migration](../actions-migration/reference-index.md): Guided walkthrough with examples and best practices
+- [Output Types Migration](../output-types-migration/reference-index.md): JPEG, PNG, TIFF output format details
+- [ICC Profile Migration](../icc-profile-migration-guide-overview.md): Color management options
+- [Product Crop](../product-crop-migration.md): Full ActionJSON definition

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Assignments
+# Shared Adobe platform - Assignments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assignments collection iteration in Shared Adobe platform. [Assignments collection iteration](collection-iteration.md).

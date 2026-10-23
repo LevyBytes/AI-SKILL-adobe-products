@@ -1,4 +1,4 @@
-# After Effects — Open color io and aces color management
+# After Effects - Open color io and aces color management
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Layer effects for applying OpenColorIO in After Effects. [Layer effects for applying OpenColorIO](layer-effects-for-applying-open-color-io.md).

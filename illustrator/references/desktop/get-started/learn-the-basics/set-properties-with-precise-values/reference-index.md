@@ -1,4 +1,4 @@
-# Illustrator — Set properties with precise values
+# Illustrator - Set properties with precise values
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust values in specific increments in Illustrator. [Adjust values in specific increments](adjust-values-in-specific-increments.md).

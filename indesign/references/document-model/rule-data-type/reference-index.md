@@ -1,4 +1,4 @@
-# InDesign — RuleDataType
+# InDesign - RuleDataType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOOLEAN_DATA_TYPE in InDesign. [BOOLEAN_DATA_TYPE](booleandatatype.md).

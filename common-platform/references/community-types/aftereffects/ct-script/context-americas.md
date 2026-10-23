@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: indigenous american writing systems
+# Shared Adobe platform - CTScript: indigenous american writing systems
 
-Open when working with indigenous american writing systems in Shared Adobe platform — CTScript.
+Open when working with indigenous american writing systems in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-americas.json).
 

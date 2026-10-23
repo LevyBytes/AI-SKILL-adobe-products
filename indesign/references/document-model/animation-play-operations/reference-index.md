@@ -1,4 +1,4 @@
-# InDesign — Animation play operations
+# InDesign - Animation play operations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PAUSE in InDesign. [PAUSE](pause.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Source monitor
+# Premiere Pro - Source monitor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SourceMonitor object in Premiere Pro. [SourceMonitor object](source-monitor-object.md).

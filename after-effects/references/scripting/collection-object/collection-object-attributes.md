@@ -1,4 +1,4 @@
-# Collection object — Attributes
+# Collection object - Attributes
 
 | Attribute | Type | Description |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
-# InDesign — Insertion point: paragraph alignment and spacing
+# InDesign - Insertion point: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in InDesign — Insertion point.
+Open when checking paragraph alignment and spacing in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

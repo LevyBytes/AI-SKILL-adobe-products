@@ -1,4 +1,4 @@
-# Photoshop — Recording an Action Step Provided by a UXP Plugin
+# Photoshop - Recording an Action Step Provided by a UXP Plugin
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional Notes in Photoshop. [Additional Notes](additional-notes.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Marker collection
+# Premiere Pro - Marker collection
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MarkerCollection object in Premiere Pro. [MarkerCollection object](marker-collection-object.md).

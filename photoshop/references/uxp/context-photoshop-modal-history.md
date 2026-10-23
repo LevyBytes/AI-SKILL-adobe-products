@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: photoshop modal execution and history
+# Photoshop - UXP plugins and APIs: photoshop modal execution and history
 
-Open when working with photoshop modal execution and history in Photoshop — UXP plugins and APIs.
+Open when working with photoshop modal execution and history in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-photoshop-modal-history.json).
 
@@ -16,8 +16,8 @@ Open when selecting an exact reference: [Topic catalog](context-photoshop-modal-
 - Open when looking up HistoryStateInfo in Photoshop [HistoryStateInfo](history-state-info.md).
 - Open when looking up HistorySuspension in Photoshop [HistorySuspension](history-suspension.md).
 - Open when looking up Interactive Mode in Photoshop [Interactive Mode](interactive-mode.md).
-- Open when looking up Known Issues and Workarounds — Dialog modal state in Photoshop [Known Issues and Workarounds — Dialog modal state](known-issues-and-workarounds-dialog-modal-state.md).
-- Open when looking up Known Issues and Workarounds — Dialog modal state in Photoshop [Known Issues and Workarounds — Dialog modal state references](known-issues-and-workarounds-dialog-modal-state/reference-index.md).
+- Open when looking up Known Issues and Workarounds - Dialog modal state in Photoshop [Known Issues and Workarounds - Dialog modal state](known-issues-and-workarounds-dialog-modal-state.md).
+- Open when looking up Known Issues and Workarounds - Dialog modal state in Photoshop [Known Issues and Workarounds - Dialog modal state references](known-issues-and-workarounds-dialog-modal-state/reference-index.md).
 - Open when looking up photoshopCore in Photoshop [photoshopCore](photoshop-core.md).
 - Open when looking up photoshopCore in Photoshop [photoshopCore references](photoshop-core/reference-index.md).
 - Open when looking up Progress bar in Photoshop [Progress bar](progress-bar.md).

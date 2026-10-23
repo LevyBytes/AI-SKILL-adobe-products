@@ -1,4 +1,4 @@
-# After Effects — Basics Rendering Exporting
+# After Effects - Basics Rendering Exporting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a composition directly to Adobe Media Encoder in After Effects. [Add a composition directly to Adobe Media Encoder](add-a-composition-directly-to-adobe-media-encoder.md).

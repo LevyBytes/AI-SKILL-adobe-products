@@ -1,4 +1,4 @@
-# InDesign — JPEGOptionsFormat
+# InDesign - JPEGOptionsFormat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BASELINE_ENCODING in InDesign. [BASELINE_ENCODING](baselineencoding.md).

@@ -1,4 +1,4 @@
-# After Effects — Understanding the expression language
+# After Effects - Understanding the expression language
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessing attributes and methods in After Effects. [Accessing attributes and methods](accessing-attributes-and-methods.md).

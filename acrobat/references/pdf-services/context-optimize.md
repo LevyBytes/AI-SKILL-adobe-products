@@ -1,6 +1,6 @@
-# Acrobat — PDF Services API: compress and linearize pdfs
+# Acrobat - PDF Services API: compress and linearize pdfs
 
-Open when working with compress and linearize pdfs in Acrobat — PDF Services API.
+Open when working with compress and linearize pdfs in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-optimize.json).
 

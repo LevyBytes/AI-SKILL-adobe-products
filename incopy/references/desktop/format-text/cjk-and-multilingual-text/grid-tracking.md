@@ -1,4 +1,4 @@
-# Changing spacing between charactersin CJK text — Using grid tracking to adjust character spacing
+# Changing spacing between charactersin CJK text - Using grid tracking to adjust character spacing
 
 Aki between characters can be tightened by setting tsume on the frame grid itself and adjusting tracking for placed text. This character-compression method is also called grid tracking and uses Adjust Tracking With CJK Grid, available from the Character panel menu or the Control panel.
 

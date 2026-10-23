@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: video display quality and scaling
+# Shared Adobe platform - Application: video display quality and scaling
 
-Open when working with video display quality and scaling in Shared Adobe platform — Application.
+Open when working with video display quality and scaling in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-view-video.json).
 

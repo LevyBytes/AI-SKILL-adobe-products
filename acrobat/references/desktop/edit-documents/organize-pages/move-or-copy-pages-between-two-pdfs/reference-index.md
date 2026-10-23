@@ -1,4 +1,4 @@
-# Acrobat — Move or copy pages between two PDFs
+# Acrobat - Move or copy pages between two PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up macOS in Acrobat. [macOS](mac-os.md).

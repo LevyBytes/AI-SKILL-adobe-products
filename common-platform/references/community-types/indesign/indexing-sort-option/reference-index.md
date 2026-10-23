@@ -1,4 +1,4 @@
-# Shared Adobe platform — IndexingSortOption
+# Shared Adobe platform - IndexingSortOption
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up IndexingSortOption declaration in Shared Adobe platform. [IndexingSortOption declaration](declaration.md).

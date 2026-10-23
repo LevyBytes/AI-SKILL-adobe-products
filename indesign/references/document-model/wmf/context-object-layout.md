@@ -1,6 +1,6 @@
-# InDesign — WMF: placement, bounds and transformations
+# InDesign - WMF: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — WMF.
+Open when checking placement, bounds and transformations in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

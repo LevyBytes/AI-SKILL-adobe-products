@@ -1,4 +1,4 @@
-# AEGP Suites — Adding Multiple Keyframes
+# AEGP Suites - Adding Multiple Keyframes
 
 Every single call to `AEGP_InsertKeyframe`() pushes the whole stream onto the undo stack.
 

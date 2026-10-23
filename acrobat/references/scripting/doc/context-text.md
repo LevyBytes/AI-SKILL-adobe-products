@@ -1,6 +1,6 @@
-# Acrobat — Doc: page words, text export and spelling
+# Acrobat - Doc: page words, text export and spelling
 
-Open when working with page words, text export and spelling in Acrobat — Doc.
+Open when working with page words, text export and spelling in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-text.json).
 

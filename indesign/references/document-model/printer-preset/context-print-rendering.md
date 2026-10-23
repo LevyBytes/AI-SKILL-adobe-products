@@ -1,6 +1,6 @@
-# InDesign — PrinterPreset: print rendering, fonts and image data
+# InDesign - PrinterPreset: print rendering, fonts and image data
 
-Open when checking print rendering, fonts and image data in InDesign — PrinterPreset.
+Open when checking print rendering, fonts and image data in InDesign - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-rendering.json).
 

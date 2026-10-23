@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: certificates, signatures and security
+# Acrobat - Scripting APIs: certificates, signatures and security
 
-Open when working with certificates, signatures and security in Acrobat — Scripting APIs.
+Open when working with certificates, signatures and security in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-security.json).
 

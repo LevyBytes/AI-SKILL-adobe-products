@@ -1,6 +1,6 @@
-# InDesign — Combo box: writing direction and diacritics
+# InDesign - Combo box: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — Combo box.
+Open when checking writing direction and diacritics in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

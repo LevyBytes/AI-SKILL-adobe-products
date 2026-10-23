@@ -1,4 +1,4 @@
-# Adjusting your workflow — Change the assignment location
+# Adjusting your workflow - Change the assignment location
 
 To rebuild the assignment file somewhere else, do one of the following in the Assignments panel:
 

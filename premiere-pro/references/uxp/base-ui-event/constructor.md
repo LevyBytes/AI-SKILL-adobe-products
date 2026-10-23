@@ -1,4 +1,4 @@
-# window.BaseUIEvent — BaseUIEvent(type, eventInit)
+# window.BaseUIEvent - BaseUIEvent(type, eventInit)
 
 Constructs a `BaseUIEvent` instance.
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: camera and light option groups
+# Shared Adobe platform - Aftereffects: camera and light option groups
 
-Open when working with camera and light option groups in Shared Adobe platform — Aftereffects.
+Open when working with camera and light option groups in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-camera-light.json).
 

@@ -1,6 +1,6 @@
-# InDesign — TextFrame: read and edit text
+# InDesign - TextFrame: read and edit text
 
-Open when checking read and edit text in InDesign — TextFrame.
+Open when checking read and edit text in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

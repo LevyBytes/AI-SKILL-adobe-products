@@ -1,4 +1,4 @@
-# Shared Adobe platform — States
+# Shared Adobe platform - States
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up States collection iteration in Shared Adobe platform. [States collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# InDesign — TextPathEffects
+# InDesign - TextPathEffects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GRAVITY_PATH_EFFECT in InDesign. [GRAVITY_PATH_EFFECT](gravitypatheffect.md).

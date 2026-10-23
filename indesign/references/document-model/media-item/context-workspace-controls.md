@@ -1,6 +1,6 @@
-# InDesign — MediaItem: workspace, windows and menus
+# InDesign - MediaItem: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — MediaItem.
+Open when checking workspace, windows and menus in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

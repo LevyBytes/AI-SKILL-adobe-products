@@ -10,7 +10,7 @@ Select Security (Enhanced) from the Categories list.
 
 Select Enable Enhanced Security in the Enhanced Security section.
 
-(Optional—Windows only) Select Cross Domain Log File. Cross‑domain access attempts are then logged by Acrobat to aid troubleshooting.
+(Optional: Windows only) Select Cross Domain Log File. Cross‑domain access attempts are then logged by Acrobat to aid troubleshooting.
 
 Select OK to apply the changes.
 

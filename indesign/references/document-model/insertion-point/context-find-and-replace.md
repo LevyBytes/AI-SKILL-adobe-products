@@ -1,6 +1,6 @@
-# InDesign — Insertion point: find, replace and transliterate
+# InDesign - Insertion point: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Insertion point.
+Open when checking find, replace and transliterate in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

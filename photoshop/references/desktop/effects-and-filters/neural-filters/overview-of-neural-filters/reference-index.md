@@ -1,4 +1,4 @@
-# Photoshop — Overview of Neural Filters
+# Photoshop - Overview of Neural Filters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Neural Filter categories in Photoshop. [Neural Filter categories](neural-filter-categories.md).

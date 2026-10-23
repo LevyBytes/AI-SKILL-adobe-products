@@ -1,6 +1,6 @@
-# InDesign — Properties: layout and positioning
+# InDesign - Properties: layout and positioning
 
-Open when working with layout and positioning in InDesign — Properties.
+Open when working with layout and positioning in InDesign - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-layout.json).
 

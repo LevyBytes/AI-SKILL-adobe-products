@@ -1,4 +1,4 @@
-# Shared Adobe platform — PreflightProcesses
+# Shared Adobe platform - PreflightProcesses
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PreflightProcesses collection iteration in Shared Adobe platform. [PreflightProcesses collection iteration](collection-iteration.md).

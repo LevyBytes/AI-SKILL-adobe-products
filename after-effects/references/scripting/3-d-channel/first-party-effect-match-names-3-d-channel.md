@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — 3D Channel
+# First-Party Effect Match Names - 3D Channel
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

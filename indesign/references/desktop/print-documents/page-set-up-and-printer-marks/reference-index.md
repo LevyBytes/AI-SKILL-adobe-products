@@ -1,4 +1,4 @@
-# InDesign — Page Set Up And Printer Marks
+# InDesign - Page Set Up And Printer Marks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bleed and slug modes for verification in InDesign. [Bleed and slug modes for verification](bleed-and-slug-modes-for-verification.md).

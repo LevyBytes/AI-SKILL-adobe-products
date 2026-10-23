@@ -1,6 +1,6 @@
-# InDesign — SplineItem: text frame columns and autosizing
+# InDesign - SplineItem: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — SplineItem.
+Open when checking text frame columns and autosizing in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

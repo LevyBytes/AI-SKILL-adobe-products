@@ -1,6 +1,6 @@
-# InDesign — PrinterPreset: print paper, scaling and imposition
+# InDesign - PrinterPreset: print paper, scaling and imposition
 
-Open when checking print paper, scaling and imposition in InDesign — PrinterPreset.
+Open when checking print paper, scaling and imposition in InDesign - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-page-layout.json).
 

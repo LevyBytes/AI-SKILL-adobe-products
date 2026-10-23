@@ -1,4 +1,4 @@
-# Acrobat — Adobe Express in Acrobat overview
+# Acrobat - Adobe Express in Acrobat overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Benefits of Express design features in Acrobat in Acrobat. [Benefits of Express design features in Acrobat](benefits-of-express-design-features-in-acrobat.md).

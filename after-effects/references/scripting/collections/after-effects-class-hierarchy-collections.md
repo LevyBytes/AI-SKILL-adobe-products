@@ -1,4 +1,4 @@
-# After Effects Class Hierarchy — Collections
+# After Effects Class Hierarchy - Collections
 
 - ItemCollection object
   - LayerCollection object

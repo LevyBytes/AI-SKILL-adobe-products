@@ -44,7 +44,7 @@
   {"topic": "insertItemAt", "file": "references/scripting/field/insert-item-at.md", "summary": "Open when looking up insertItemAt in Acrobat.", "keywords": ["insertItemAt"]},
   {"topic": "isBoxChecked", "file": "references/scripting/field/is-box-checked.md", "summary": "Open when looking up isBoxChecked in Acrobat.", "keywords": ["isBoxChecked"]},
   {"topic": "isDefaultChecked", "file": "references/scripting/field/is-default-checked.md", "summary": "Open when looking up isDefaultChecked in Acrobat.", "keywords": ["isDefaultChecked"]},
-  {"topic": "JavaScript APIs — Field", "file": "references/scripting/field/java-script-apis-field.md", "summary": "Open when looking up JavaScript APIs — Field in Acrobat.", "keywords": ["JavaScript APIs — Field"]},
+  {"topic": "JavaScript APIs - Field", "file": "references/scripting/field/java-script-apis-field.md", "summary": "Open when looking up JavaScript APIs - Field in Acrobat.", "keywords": ["JavaScript APIs - Field"]},
   {"topic": "multiline", "file": "references/scripting/field/multiline.md", "summary": "Open when looking up multiline in Acrobat.", "keywords": ["multiline"]},
   {"topic": "multipleSelection", "file": "references/scripting/field/multiple-selection.md", "summary": "Open when looking up multipleSelection in Acrobat.", "keywords": ["multipleSelection"]},
   {"topic": "name", "file": "references/scripting/field/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},

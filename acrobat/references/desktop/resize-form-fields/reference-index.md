@@ -1,4 +1,4 @@
-# Acrobat — Resize form fields
+# Acrobat - Resize form fields
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Resize a single form field in Acrobat. [Resize a single form field](resize-a-single-form-field.md).

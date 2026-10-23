@@ -1,4 +1,4 @@
-# After Effects — Footage source
+# After Effects - Footage source
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FootageSource object in After Effects. [FootageSource object](footage-source-object.md).

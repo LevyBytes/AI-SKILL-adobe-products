@@ -1,6 +1,6 @@
-# InDesign — XmlStory: paragraph shading
+# InDesign - XmlStory: paragraph shading
 
-Open when checking paragraph shading in InDesign — XmlStory.
+Open when checking paragraph shading in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

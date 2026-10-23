@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: blending, knockout and stroke geometry
+# Shared Adobe platform - Illustrator: blending, knockout and stroke geometry
 
-Open when working with blending, knockout and stroke geometry in Shared Adobe platform — Illustrator.
+Open when working with blending, knockout and stroke geometry in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-appearance.json).
 

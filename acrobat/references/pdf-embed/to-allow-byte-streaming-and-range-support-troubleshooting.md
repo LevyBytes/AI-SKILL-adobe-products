@@ -1,4 +1,4 @@
-# To allow byte-streaming and range support — Troubleshooting
+# To allow byte-streaming and range support - Troubleshooting
 
 Debugging a web app alongside the PDF Embed API is just ordinary web development. Reach for whatever tooling you already know — Chrome Developer Tools, or your own IDE, for instance.
 

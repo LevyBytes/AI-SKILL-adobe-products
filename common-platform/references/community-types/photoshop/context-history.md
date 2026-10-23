@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: history states and edit logs
+# Shared Adobe platform - Photoshop: history states and edit logs
 
-Open when working with history states and edit logs in Shared Adobe platform — Photoshop.
+Open when working with history states and edit logs in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-history.json).
 

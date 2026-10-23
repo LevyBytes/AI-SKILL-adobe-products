@@ -1,4 +1,4 @@
-# After Effects — Expression errors
+# After Effects - Expression errors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Errors caused by precomposing layers in After Effects. [Errors caused by precomposing layers](errors-caused-by-precomposing-layers.md).

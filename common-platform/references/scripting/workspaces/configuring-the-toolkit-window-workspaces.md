@@ -1,4 +1,4 @@
-# Configuring the Toolkit window — Workspaces
+# Configuring the Toolkit window - Workspaces
 
 When you exit, the Toolkit records the current layout and brings it back at the next startup. It also saves and restores open documents, document positions, breakpoints, and other settings from the Preferences dialog.
 

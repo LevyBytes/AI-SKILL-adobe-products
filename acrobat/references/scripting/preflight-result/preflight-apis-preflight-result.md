@@ -1,4 +1,4 @@
-# Preflight APIs — PreflightResult
+# Preflight APIs - PreflightResult
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

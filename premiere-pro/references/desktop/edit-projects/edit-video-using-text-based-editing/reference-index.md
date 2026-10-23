@@ -1,4 +1,4 @@
-# Premiere Pro — Edit video using Text-based editing
+# Premiere Pro - Edit video using Text-based editing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add clips to the timeline using Text-Based Editing in Premiere Pro. [Add clips to the timeline using Text-Based Editing](add-clips-to-the-timeline-using-text-based-editing.md).

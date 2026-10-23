@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: text layer content and operations
+# Photoshop - Cloud service APIs: text layer content and operations
 
-Open when working with text layer content and operations in Photoshop — Cloud service APIs.
+Open when working with text layer content and operations in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-text.json).
 

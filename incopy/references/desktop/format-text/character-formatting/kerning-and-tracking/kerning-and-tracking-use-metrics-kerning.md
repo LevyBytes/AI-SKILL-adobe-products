@@ -1,4 +1,4 @@
-# Kerning and tracking — Use metrics kerning
+# Kerning and tracking - Use metrics kerning
 
 Put the text cursor between a pair to kern, or select the text. Use the Character panel or Control panel to choose Metrics from the Kerning menu. In the Character panel or Control panel, choose Metrics or Metrics - Roman Only from the Kerning menu. Note
 

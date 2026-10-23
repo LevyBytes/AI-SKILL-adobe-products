@@ -1,4 +1,4 @@
-# Shared Adobe platform — MeasurementComboboxes
+# Shared Adobe platform - MeasurementComboboxes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MeasurementComboboxes collection iteration in Shared Adobe platform. [MeasurementComboboxes collection iteration](collection-iteration.md).

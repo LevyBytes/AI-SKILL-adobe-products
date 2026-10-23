@@ -1,4 +1,4 @@
-# InDesign — Apply color
+# InDesign - Apply color
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced color techniques in InDesign. [Advanced color techniques references](advanced-color-techniques/reference-index.md).

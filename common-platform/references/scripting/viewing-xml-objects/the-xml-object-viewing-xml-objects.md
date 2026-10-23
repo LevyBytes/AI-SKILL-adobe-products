@@ -1,4 +1,4 @@
-# The XML Object — Viewing XML objects
+# The XML Object - Viewing XML objects
 
 Like other ExtendScript objects, the XML object includes the ref:controlobj-toString method, which serializes its contents as a string. Here, the returned string includes the element's text content only, excluding its tags. For the element &lt;x&gt;text&lt;/x&gt;, for instance, toString() returns "text".
 

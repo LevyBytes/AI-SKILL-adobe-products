@@ -1,4 +1,4 @@
-# Premiere Pro — Accessibility overview
+# Premiere Pro - Accessibility overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessibility features in Premiere in Premiere Pro. [Accessibility features in Premiere](accessibility-features-in-premiere.md).

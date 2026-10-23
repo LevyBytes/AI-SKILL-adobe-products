@@ -1,4 +1,4 @@
-# Shared Adobe platform — HiddenText
+# Shared Adobe platform - HiddenText
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HiddenText declaration in Shared Adobe platform. [HiddenText declaration](declaration.md).

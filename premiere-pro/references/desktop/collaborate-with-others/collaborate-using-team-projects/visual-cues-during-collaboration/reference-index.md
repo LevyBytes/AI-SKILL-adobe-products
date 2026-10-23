@@ -1,4 +1,4 @@
-# Premiere Pro — Visual cues during collaboration
+# Premiere Pro - Visual cues during collaboration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Active collaborator in Premiere Pro. [Active collaborator](active-collaborator.md).

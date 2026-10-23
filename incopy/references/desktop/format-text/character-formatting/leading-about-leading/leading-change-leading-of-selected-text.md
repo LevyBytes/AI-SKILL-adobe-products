@@ -1,4 +1,4 @@
-# Leading — Change leading of selected text
+# Leading - Change leading of selected text
 
 Select the text to modify. Then use any of these actions:
 

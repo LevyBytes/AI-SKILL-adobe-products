@@ -1,4 +1,4 @@
-# Firefly — Partner models to generate images
+# Firefly - Partner models to generate images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate images using FLUX Kontext MAX and FLUX Kontext Pro in Firefly. [Generate images using FLUX Kontext MAX and FLUX Kontext Pro](generate-images-using-flux-kontext-max-and-flux-kontext-pro.md).

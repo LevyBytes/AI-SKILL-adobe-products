@@ -1,4 +1,4 @@
-# Premiere Pro — Time controls in the Source and Program Monitors
+# Premiere Pro - Time controls in the Source and Program Monitors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Current time displays in Premiere Pro. [Current time displays](current-time-displays.md).

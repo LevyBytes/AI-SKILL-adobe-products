@@ -1,4 +1,4 @@
-# UxpPanelInfo — preferredDockedSize ⇒ `Object`
+# UxpPanelInfo - preferredDockedSize ⇒ `Object`
 
 **Read only**
 Retrieve the panel preferred docked size.

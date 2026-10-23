@@ -1,4 +1,4 @@
-# InDesign — Hide and unhide spreads
+# InDesign - Hide and unhide spreads
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Hide a spread in InDesign. [Hide a spread](hide-a-spread.md).

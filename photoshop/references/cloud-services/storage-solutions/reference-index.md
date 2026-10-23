@@ -1,4 +1,4 @@
-# Photoshop — Storage Solutions
+# Photoshop - Storage Solutions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AWS S3 in Photoshop. [AWS S3](aws-s3.md).

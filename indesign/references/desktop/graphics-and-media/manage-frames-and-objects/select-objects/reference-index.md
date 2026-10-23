@@ -1,4 +1,4 @@
-# InDesign — Select objects
+# InDesign - Select objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Select a single object in InDesign. [Select a single object](select-a-single-object.md).

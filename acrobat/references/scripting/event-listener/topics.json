@@ -15,7 +15,7 @@
   {"topic": "afterStatus", "file": "references/scripting/event-listener/after-status.md", "summary": "Open when looking up afterStatus in Acrobat.", "keywords": ["afterStatus"]},
   {"topic": "afterStop", "file": "references/scripting/event-listener/after-stop.md", "summary": "Open when looking up afterStop in Acrobat.", "keywords": ["afterStop"]},
   {"topic": "EventListener methods", "file": "references/scripting/event-listener/event-listener-methods.md", "summary": "Open when looking up EventListener methods in Acrobat.", "keywords": ["EventListener methods"]},
-  {"topic": "JavaScript APIs — EventListener", "file": "references/scripting/event-listener/java-script-apis-event-listener.md", "summary": "Open when looking up JavaScript APIs — EventListener in Acrobat.", "keywords": ["JavaScript APIs — EventListener"]},
+  {"topic": "JavaScript APIs - EventListener", "file": "references/scripting/event-listener/java-script-apis-event-listener.md", "summary": "Open when looking up JavaScript APIs - EventListener in Acrobat.", "keywords": ["JavaScript APIs - EventListener"]},
   {"topic": "onBlur", "file": "references/scripting/event-listener/on-blur.md", "summary": "Open when looking up onBlur in Acrobat.", "keywords": ["onBlur"]},
   {"topic": "onClose", "file": "references/scripting/event-listener/on-close.md", "summary": "Open when looking up onClose in Acrobat.", "keywords": ["onClose"]},
   {"topic": "onDestroy", "file": "references/scripting/event-listener/on-destroy.md", "summary": "Open when looking up onDestroy in Acrobat.", "keywords": ["onDestroy"]},

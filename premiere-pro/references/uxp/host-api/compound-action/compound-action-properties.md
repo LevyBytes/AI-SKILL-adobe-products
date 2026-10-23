@@ -1,4 +1,4 @@
-# CompoundAction — Properties
+# CompoundAction - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

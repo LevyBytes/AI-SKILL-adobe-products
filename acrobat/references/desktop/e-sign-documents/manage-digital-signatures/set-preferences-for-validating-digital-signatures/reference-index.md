@@ -1,4 +1,4 @@
-# Acrobat — Set preferences for validating digital signatures
+# Acrobat - Set preferences for validating digital signatures
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up macOS in Acrobat. [macOS](mac-os.md).

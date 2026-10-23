@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: transparency and appearance effects
+# Shared Adobe platform - Indesign: transparency and appearance effects
 
-Open when working with transparency and appearance effects in Shared Adobe platform — Indesign.
+Open when working with transparency and appearance effects in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-transparency-effects.json).
 

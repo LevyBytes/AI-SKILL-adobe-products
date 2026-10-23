@@ -1,4 +1,4 @@
-# Firefly — Known limitations in firefly video editor
+# Firefly - Known limitations in firefly video editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Browser compatibility for Firefly video editor in Firefly. [Browser compatibility for Firefly video editor](browser-compatibility-for-firefly-video-editor.md).

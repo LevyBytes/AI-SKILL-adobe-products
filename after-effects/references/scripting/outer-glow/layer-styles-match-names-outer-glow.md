@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Outer Glow
+# Layer Styles Match Names - Outer Glow
 
 | Match Name | Display Name (EN) |
 | --- | --- |

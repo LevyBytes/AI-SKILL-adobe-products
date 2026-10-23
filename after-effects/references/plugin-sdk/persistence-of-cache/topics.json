@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Compute Cache API — Persistence of Cache", "file": "references/plugin-sdk/persistence-of-cache/compute-cache-api-persistence-of-cache.md", "summary": "Open when looking up Compute Cache API — Persistence of Cache in After Effects.", "keywords": ["Compute Cache API — Persistence of Cache"]},
+  {"topic": "Compute Cache API - Persistence of Cache", "file": "references/plugin-sdk/persistence-of-cache/compute-cache-api-persistence-of-cache.md", "summary": "Open when looking up Compute Cache API - Persistence of Cache in After Effects.", "keywords": ["Compute Cache API - Persistence of Cache"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

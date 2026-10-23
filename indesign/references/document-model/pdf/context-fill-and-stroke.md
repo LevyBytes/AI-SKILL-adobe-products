@@ -1,6 +1,6 @@
-# InDesign — PDF: fill, stroke and transparency
+# InDesign - PDF: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — PDF.
+Open when checking fill, stroke and transparency in InDesign - PDF.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

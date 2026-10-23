@@ -1,4 +1,4 @@
-# Adding Visual Analysis to an Ingest Preset — Working with Ingest Outputs in the Queue Panel
+# Adding Visual Analysis to an Ingest Preset - Working with Ingest Outputs in the Queue Panel
 
 Queue-panel ingest outputs resemble Encoding outputs, but a few behaviors differ. Ingest-output format is always displayed as 'Ingest'. When transcoding is enabled, the ingest output tool tip shows the associated encoding preset's format and preset. For example: 'H.264 (Match Source - High bitrate)'
 

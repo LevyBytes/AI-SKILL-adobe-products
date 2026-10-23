@@ -1,4 +1,4 @@
-# Illustrator — Technical usage notes
+# Illustrator - Technical usage notes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About auto-mapping for Data Merge in Illustrator. [About auto-mapping for Data Merge](about-auto-mapping-for-data-merge.md).

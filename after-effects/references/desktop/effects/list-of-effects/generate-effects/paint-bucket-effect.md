@@ -38,7 +38,7 @@ How far a pixel's color values may sit from the Fill Point color values and stil
 
 View Threshold
 
-Reveals which pixels match — that is, which fall within the Tolerance value of the Fill Point pixel's color values. It's especially handy for hunting down leaks: a small gap lets the color spill over and fill areas you never meant to fill.
+Reveals which pixels match: that is, which fall within the Tolerance value of the Fill Point pixel's color values. It's especially handy for hunting down leaks: a small gap lets the color spill over and fill areas you never meant to fill.
 
 Stroke
 

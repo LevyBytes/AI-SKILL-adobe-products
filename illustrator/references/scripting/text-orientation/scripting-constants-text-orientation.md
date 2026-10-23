@@ -1,4 +1,4 @@
-# Scripting Constants — TextOrientation
+# Scripting Constants - TextOrientation
 
 Text art items use one of these orientation values.
 

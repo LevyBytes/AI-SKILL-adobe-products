@@ -1,6 +1,6 @@
-# InDesign — Document: script execution, tasks and diagnostics
+# InDesign - Document: script execution, tasks and diagnostics
 
-Open when checking script execution, tasks and diagnostics in InDesign — Document.
+Open when checking script execution, tasks and diagnostics in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-scripts-and-tasks.json).
 

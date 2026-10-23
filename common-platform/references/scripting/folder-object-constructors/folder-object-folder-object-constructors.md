@@ -1,4 +1,4 @@
-# Folder Object — Folder Object Constructors
+# Folder Object - Folder Object Constructors
 
 ```javascript
 Folder( [path] ); // Can return a File object

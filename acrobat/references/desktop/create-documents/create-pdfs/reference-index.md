@@ -1,4 +1,4 @@
-# Acrobat — Create pdfs
+# Acrobat - Create pdfs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Files (Acrobat Pro only) in Acrobat. [3D Files (Acrobat Pro only)](3-d-files-acrobat-pro-only.md).

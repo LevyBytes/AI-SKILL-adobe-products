@@ -1,4 +1,4 @@
-# Implementation — Specialization
+# Implementation - Specialization
 
 To get the messaging streams they count on, AEIOs and Artisans have to register themselves with After Effects.
 

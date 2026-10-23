@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Grad Fill
+# Layer Styles Match Names - Grad Fill
 
 | Match Name | Display Name (EN) |
 | --- | --- |

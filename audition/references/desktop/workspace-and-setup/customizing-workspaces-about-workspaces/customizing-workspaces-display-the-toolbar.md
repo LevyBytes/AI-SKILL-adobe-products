@@ -1,4 +1,4 @@
-# Customizing workspaces — Display the toolbar
+# Customizing workspaces - Display the toolbar
 
 The toolbar gives fast access to tools, the Workspace menu, and the controls that switch between the Waveform and Multitrack editors. Some tools exist only in one view, and some Waveform Editor tools appear only while using the spectral display.
 

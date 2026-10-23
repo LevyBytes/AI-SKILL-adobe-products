@@ -1,4 +1,4 @@
-# Acrobat — Version - Support policy
+# Acrobat - Version - Support policy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Deprecated docs - past versions in Acrobat. [Deprecated docs - past versions](deprecated-docs-past-versions.md).

@@ -1,4 +1,4 @@
-# AEGP Suites — Fail Gracefully
+# AEGP Suites - Fail Gracefully
 
 Should a suite be missing, do everything you can to fail gracefully. Put a message in front of the user that explains what's gone wrong. Try falling back to an older release of that same suite.
 

@@ -1,4 +1,4 @@
-# Defining behavior with event callbacks and listeners — Defining event-handler callback functions
+# Defining behavior with event callbacks and listeners - Defining event-handler callback functions
 
 A script may define an event handler either as a named function referenced from the callback property, or as an inline anonymous function assigned directly to that property.
 

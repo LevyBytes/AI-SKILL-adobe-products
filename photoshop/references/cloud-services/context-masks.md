@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: mask creation, refinement and filling
+# Photoshop - Cloud service APIs: mask creation, refinement and filling
 
-Open when working with mask creation, refinement and filling in Photoshop — Cloud service APIs.
+Open when working with mask creation, refinement and filling in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-masks.json).
 

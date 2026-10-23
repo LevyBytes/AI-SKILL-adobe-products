@@ -1,4 +1,4 @@
-# PDF Accessibility Auto-Tag API — Error codes
+# PDF Accessibility Auto-Tag API - Error codes
 
 | Scenario | Error code | Error message |
 | --- | --- | --- |

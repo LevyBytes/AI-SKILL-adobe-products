@@ -1,4 +1,4 @@
-# Editing text — Adjust spacing automatically when pasting text
+# Editing text - Adjust spacing automatically when pasting text
 
 When text is pasted, InCopy can insert or suppress spaces based on the surrounding text. A word cut from one place and dropped between two other words gets spacing on both sides; placing that word before a sentence-ending period does not add an extra space.
 

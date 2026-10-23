@@ -1,4 +1,4 @@
-# InDesign — LeadingModel
+# InDesign - LeadingModel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LEADING_MODEL_AKI_ABOVE in InDesign. [LEADING_MODEL_AKI_ABOVE](leadingmodelakiabove.md).

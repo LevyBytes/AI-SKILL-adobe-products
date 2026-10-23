@@ -1,4 +1,4 @@
-# Photoshop — UXP scripts (limited availability)
+# Photoshop - UXP scripts (limited availability)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional contents in UXP scripts in Photoshop. [Additional contents in UXP scripts](additional-contents-in-uxp-scripts.md).

@@ -1,6 +1,6 @@
-# InDesign — Text column: fill, stroke and transparency
+# InDesign - Text column: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Text column.
+Open when checking fill, stroke and transparency in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

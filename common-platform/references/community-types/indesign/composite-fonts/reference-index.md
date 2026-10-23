@@ -1,4 +1,4 @@
-# Shared Adobe platform — CompositeFonts
+# Shared Adobe platform - CompositeFonts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CompositeFonts collection iteration in Shared Adobe platform. [CompositeFonts collection iteration](collection-iteration.md).

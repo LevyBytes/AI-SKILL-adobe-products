@@ -1,4 +1,4 @@
-# Premiere Pro — HTML Events and Listeners
+# Premiere Pro - HTML Events and Listeners
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Common Event Types in Premiere Pro. [Common Event Types](common-event-types.md).

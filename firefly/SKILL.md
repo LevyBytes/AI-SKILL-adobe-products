@@ -1,8 +1,9 @@
 ---
 name: firefly
-description: Use when working with Adobe Firefly image, vector, audio, or video generation and editing; Boards and video editor; custom models, enterprise Creative Production, Graph, and brand workflows; or Firefly Services image-generation, compositing, upscale, and asynchronous REST API guides.
+description: "Use when working with Adobe Firefly image, vector, audio, or video generation and editing; Boards and video editor; custom models, enterprise Creative Production, Graph, and brand workflows; or Firefly Services image-generation, compositing, upscale, and asynchronous REST API guides."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

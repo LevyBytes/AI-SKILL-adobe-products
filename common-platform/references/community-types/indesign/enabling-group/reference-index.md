@@ -1,4 +1,4 @@
-# Shared Adobe platform — EnablingGroup
+# Shared Adobe platform - EnablingGroup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EnablingGroup declaration in Shared Adobe platform. [EnablingGroup declaration](declaration.md).

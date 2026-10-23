@@ -1,6 +1,6 @@
-# InDesign — Button: text ranges and containers
+# InDesign - Button: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Button.
+Open when checking text ranges and containers in InDesign - Button.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

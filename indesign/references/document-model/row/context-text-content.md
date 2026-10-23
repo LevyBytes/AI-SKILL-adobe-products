@@ -1,6 +1,6 @@
-# InDesign — Row: read and edit text
+# InDesign - Row: read and edit text
 
-Open when checking read and edit text in InDesign — Row.
+Open when checking read and edit text in InDesign - Row.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

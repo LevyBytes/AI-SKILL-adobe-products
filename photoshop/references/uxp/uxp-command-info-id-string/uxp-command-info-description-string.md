@@ -1,4 +1,4 @@
-# UxpCommandInfo — description ⇒ `string`
+# UxpCommandInfo - description ⇒ `string`
 
 Provides the command description as a localized string
 

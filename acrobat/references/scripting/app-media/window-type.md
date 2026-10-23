@@ -4,7 +4,7 @@ Version (Key): 6.0 | Save-Prefs: No | Security: No | Product: All | Type: Object
 
 Lists out the values a MediaSettings.windowType property accepts. The table below holds these values.
 
-Value — Description
+Value: Description
 
 app.media.windowType.docked
 

@@ -1,4 +1,4 @@
-# Photoshop — Editing pixel content
+# Photoshop - Editing pixel content
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up V1 internal form in Photoshop. [V1 internal form](v1-internal-form.md).

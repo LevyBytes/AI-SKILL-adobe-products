@@ -1,4 +1,4 @@
-# InDesign — Adjust spacing around Japanese punctuation
+# InDesign - Adjust spacing around Japanese punctuation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access detailed Mojikumi settings in InDesign. [Access detailed Mojikumi settings](access-detailed-mojikumi-settings.md).

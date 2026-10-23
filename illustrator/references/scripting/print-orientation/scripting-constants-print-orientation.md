@@ -1,4 +1,4 @@
-# Scripting Constants — PrintOrientation
+# Scripting Constants - PrintOrientation
 
 Specifies the orientation used when artwork is printed.
 

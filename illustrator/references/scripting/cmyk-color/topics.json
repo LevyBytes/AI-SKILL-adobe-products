@@ -4,6 +4,6 @@
   {"topic": "CMYKColor.magenta", "file": "references/scripting/cmyk-color/magenta.md", "summary": "Open when looking up CMYKColor.magenta in Illustrator.", "keywords": ["CMYKColor.magenta"]},
   {"topic": "CMYKColor.typename", "file": "references/scripting/cmyk-color/typename.md", "summary": "Open when looking up CMYKColor.typename in Illustrator.", "keywords": ["CMYKColor.typename"]},
   {"topic": "CMYKColor.yellow", "file": "references/scripting/cmyk-color/yellow.md", "summary": "Open when looking up CMYKColor.yellow in Illustrator.", "keywords": ["CMYKColor.yellow"]},
-  {"topic": "Color — Description", "file": "references/scripting/cmyk-color/color-description.md", "summary": "Open when looking up Color — Description in Illustrator.", "keywords": ["Color — Description"]},
+  {"topic": "Color - Description", "file": "references/scripting/cmyk-color/color-description.md", "summary": "Open when looking up Color - Description in Illustrator.", "keywords": ["Color - Description"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

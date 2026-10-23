@@ -1,4 +1,4 @@
-# Overview — Introduction to scripting in After Effects
+# Overview - Introduction to scripting in After Effects
 
 Think of a script as an ordered set of commands directing an application through a sequence of operations. Most Adobe applications let you run scripts to take over repetitive chores, work through involved calculations, and even reach functionality the graphical user interface never surfaces. After Effects, for instance, can be told to restack a composition's layers, swap source text inside text layers, or fire off an e-mail once a render finishes.
 

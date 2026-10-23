@@ -1,6 +1,6 @@
-# InDesign — Text column: page item collections
+# InDesign - Text column: page item collections
 
-Open when checking page item collections in InDesign — Text column.
+Open when checking page item collections in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

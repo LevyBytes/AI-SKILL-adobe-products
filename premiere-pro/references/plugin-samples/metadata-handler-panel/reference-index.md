@@ -1,4 +1,4 @@
-# Premiere Pro — Metadata Handler Panel
+# Premiere Pro - Metadata Handler Panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Preview and Known Issues in Premiere Pro. [Preview and Known Issues](preview-and-known-issues.md).

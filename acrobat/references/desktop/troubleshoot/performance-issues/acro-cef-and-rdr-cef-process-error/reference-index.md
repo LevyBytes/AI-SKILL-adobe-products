@@ -1,4 +1,4 @@
-# Acrobat — AcroCEF and RdrCEF process error
+# Acrobat - AcroCEF and RdrCEF process error
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Antivirus software causes performance issues in Acrobat. [Antivirus software causes performance issues](antivirus-software-causes-performance-issues.md).

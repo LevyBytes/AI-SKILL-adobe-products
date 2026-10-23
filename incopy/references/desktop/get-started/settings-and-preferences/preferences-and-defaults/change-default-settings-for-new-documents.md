@@ -1,4 +1,4 @@
-# Customizing preferences and defaults — Change default settings for new documents
+# Customizing preferences and defaults - Change default settings for new documents
 
 Close every document. Change any menu items, panel settings, or dialog box settings. Note
 

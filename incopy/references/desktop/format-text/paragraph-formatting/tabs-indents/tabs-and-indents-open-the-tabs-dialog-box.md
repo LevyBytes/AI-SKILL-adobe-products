@@ -1,4 +1,4 @@
-# Tabs and indents — Open the Tabs dialog box
+# Tabs and indents - Open the Tabs dialog box
 
 With the Type tool, click inside the text frame. Choose Type > Tabs.
 

@@ -1,4 +1,4 @@
-# Footnotes — Footnote numbering and formatting options
+# Footnotes - Footnote numbering and formatting options
 
 The Footnote Options dialog box provides these choices in the Numbering And Formatting section:
 

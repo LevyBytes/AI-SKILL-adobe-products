@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLAttributes
+# Shared Adobe platform - XMLAttributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLAttributes collection iteration in Shared Adobe platform. [XMLAttributes collection iteration](collection-iteration.md).

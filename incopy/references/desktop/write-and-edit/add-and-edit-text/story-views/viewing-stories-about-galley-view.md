@@ -1,4 +1,4 @@
-# Viewing stories — About Galley view
+# Viewing stories - About Galley view
 
 Galley view is designed for efficient text work, with copy that remains readable and easy to mark up. It is also useful for copyfitting and other production tasks.
 

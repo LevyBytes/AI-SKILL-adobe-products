@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: find, replace and transliterate
+# InDesign - EndnoteTextFrame: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — EndnoteTextFrame.
+Open when checking find, replace and transliterate in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

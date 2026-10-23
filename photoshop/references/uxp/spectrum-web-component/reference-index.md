@@ -1,4 +1,4 @@
-# Photoshop — Spectrum Web Component
+# Photoshop - Spectrum Web Component
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Command line Templates in Photoshop. [Command line Templates](command-line-templates.md).

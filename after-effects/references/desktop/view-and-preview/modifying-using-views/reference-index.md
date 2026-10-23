@@ -1,4 +1,4 @@
-# After Effects — Modifying Using Views
+# After Effects - Modifying Using Views
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About title-safe and action-safe zones in After Effects. [About title-safe and action-safe zones](about-title-safe-and-action-safe-zones.md).

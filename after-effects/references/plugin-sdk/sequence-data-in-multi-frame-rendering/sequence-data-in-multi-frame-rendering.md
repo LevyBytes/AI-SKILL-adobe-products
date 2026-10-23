@@ -1,4 +1,4 @@
-# Multi-Frame Rendering in AE — Sequence Data in Multi-Frame rendering
+# Multi-Frame Rendering in AE - Sequence Data in Multi-Frame rendering
 
 Across the years, the sequence_data object together with its related Sequence Selectors have offered a means of holding data for the duration of an effect's lifetime. A few shifts worth noting come in with Multi-Frame Rendering:
 

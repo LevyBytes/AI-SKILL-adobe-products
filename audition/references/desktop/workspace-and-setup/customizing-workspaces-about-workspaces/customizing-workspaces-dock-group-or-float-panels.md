@@ -1,4 +1,4 @@
-# Customizing workspaces — Dock, group, or float panels
+# Customizing workspaces - Dock, group, or float panels
 
 Panels can be docked together, placed into or removed from groups, or undocked so they float above the application window. While a panel is dragged, highlighted drop zones show the places where it can be moved. The selected drop zone controls the insertion point and whether the panel docks beside others or joins a group.
 

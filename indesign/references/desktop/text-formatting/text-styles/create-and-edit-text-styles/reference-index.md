@@ -1,4 +1,4 @@
-# InDesign — Create and edit text styles
+# InDesign - Create and edit text styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new Character style in InDesign. [Create a new Character style](create-a-new-character-style.md).

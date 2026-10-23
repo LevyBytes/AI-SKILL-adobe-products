@@ -1,6 +1,6 @@
-# InDesign — Paragraph: paragraph alignment and spacing
+# InDesign - Paragraph: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in InDesign — Paragraph.
+Open when checking paragraph alignment and spacing in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

@@ -1,6 +1,6 @@
-# InDesign — FormField: character spacing and geometry
+# InDesign - FormField: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — FormField.
+Open when checking character spacing and geometry in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

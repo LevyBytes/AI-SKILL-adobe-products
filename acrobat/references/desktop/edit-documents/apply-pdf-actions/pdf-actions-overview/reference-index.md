@@ -1,4 +1,4 @@
-# Acrobat — PDF actions overview
+# Acrobat - PDF actions overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Action types in Acrobat. [Action types](action-types.md).

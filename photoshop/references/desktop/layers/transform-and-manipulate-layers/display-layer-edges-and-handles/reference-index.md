@@ -1,4 +1,4 @@
-# Photoshop — Display layer edges and handles
+# Photoshop - Display layer edges and handles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Show layer edges in Photoshop. [Show layer edges](show-layer-edges.md).

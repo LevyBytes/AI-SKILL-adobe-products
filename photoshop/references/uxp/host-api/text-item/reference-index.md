@@ -1,4 +1,4 @@
-# Photoshop — TextItem
+# Photoshop - TextItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up characterStyle in Photoshop. [characterStyle](character-style.md).

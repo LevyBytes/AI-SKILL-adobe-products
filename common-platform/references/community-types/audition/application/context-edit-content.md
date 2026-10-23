@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: clipboard, deletion, undo and repeated edits
+# Shared Adobe platform - Application: clipboard, deletion, undo and repeated edits
 
-Open when working with clipboard, deletion, undo and repeated edits in Shared Adobe platform — Application.
+Open when working with clipboard, deletion, undo and repeated edits in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-edit-content.json).
 

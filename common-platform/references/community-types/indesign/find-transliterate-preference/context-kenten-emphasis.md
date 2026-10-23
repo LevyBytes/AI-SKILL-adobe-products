@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTransliteratePreference: kenten emphasis
+# Shared Adobe platform - FindTransliteratePreference: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — FindTransliteratePreference.
+Open when checking kenten emphasis in Shared Adobe platform - FindTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

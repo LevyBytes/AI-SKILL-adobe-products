@@ -1,4 +1,4 @@
-# Firefly — Learn the basics
+# Firefly - Learn the basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Firefly FAQ in Firefly. [Adobe Firefly FAQ](adobe-firefly-faq.md).

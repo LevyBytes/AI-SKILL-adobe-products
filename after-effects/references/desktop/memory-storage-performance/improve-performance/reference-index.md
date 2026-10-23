@@ -1,4 +1,4 @@
-# After Effects — Improve performance
+# After Effects - Improve performance
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Improve performance in After Effects. [Improve performance](improve-performance.md).

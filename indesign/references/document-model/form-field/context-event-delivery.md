@@ -1,6 +1,6 @@
-# InDesign — FormField: events and listeners
+# InDesign - FormField: events and listeners
 
-Open when checking events and listeners in InDesign — FormField.
+Open when checking events and listeners in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

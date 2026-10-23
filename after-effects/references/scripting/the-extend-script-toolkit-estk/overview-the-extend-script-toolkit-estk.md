@@ -1,4 +1,4 @@
-# Overview — The ExtendScript Toolkit (ESTK)
+# Overview - The ExtendScript Toolkit (ESTK)
 
 Bundled with After Effects is a script editor and debugger — the ExtendScript Toolkit (ESTK) — that gives you a handy place to author and try out your own scripts.
 

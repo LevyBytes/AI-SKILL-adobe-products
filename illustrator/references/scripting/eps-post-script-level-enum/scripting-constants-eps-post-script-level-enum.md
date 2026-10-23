@@ -1,4 +1,4 @@
-# Scripting Constants — EPSPostScriptLevelEnum
+# Scripting Constants - EPSPostScriptLevelEnum
 
 | Value | Description |
 | --- | --- |

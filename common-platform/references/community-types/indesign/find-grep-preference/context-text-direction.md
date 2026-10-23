@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindGrepPreference: writing direction and diacritics
+# Shared Adobe platform - FindGrepPreference: writing direction and diacritics
 
-Open when checking writing direction and diacritics in Shared Adobe platform — FindGrepPreference.
+Open when checking writing direction and diacritics in Shared Adobe platform - FindGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

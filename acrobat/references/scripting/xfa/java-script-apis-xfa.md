@@ -1,4 +1,4 @@
-# JavaScript APIs — XFA
+# JavaScript APIs - XFA
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

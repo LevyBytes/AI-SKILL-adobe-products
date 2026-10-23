@@ -1,4 +1,4 @@
-# Automated rendering and network rendering — Network rendering with watch folders and render engines
+# Automated rendering and network rendering - Network rendering with watch folders and render engines
 
 Spreading one or several compositions from a project across multiple networked computers lets you finish in a fraction of the time one machine would take. The workflow means copying the project and its source files into a folder on the network, then rendering from there. People sometimes call a cluster of computers rendering one composition together a render farm.
 

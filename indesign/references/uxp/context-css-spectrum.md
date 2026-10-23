@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: css, spectrum components and react
+# InDesign - UXP plugins and APIs: css, spectrum components and react
 
-Open when working with css, spectrum components and react in InDesign — UXP plugins and APIs.
+Open when working with css, spectrum components and react in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-css-spectrum.json).
 

@@ -1,4 +1,4 @@
-# Saving and exporting — Rename InCopy stories
+# Saving and exporting - Rename InCopy stories
 
 When InDesign exports a story, the resulting document filename uses the .icml extension. InCopy uses that filename automatically as the story name shown in the Assignments panel in InDesign and in the story separator bar. The story name is stored inside the file, unlike the filename.
 

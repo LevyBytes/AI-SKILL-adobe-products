@@ -1,4 +1,4 @@
-# After Effects — Copy a frame to the clipboard
+# After Effects - Copy a frame to the clipboard
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color and transparency behavior in After Effects. [Color and transparency behavior](color-and-transparency-behavior.md).

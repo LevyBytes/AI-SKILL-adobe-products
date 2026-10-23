@@ -1,4 +1,4 @@
-# Premiere Pro — Get started
+# Premiere Pro - Get started
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customize the project panel in Premiere Pro. [Customize the project panel references](customize-the-project-panel/reference-index.md).

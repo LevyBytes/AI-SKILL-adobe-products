@@ -1,4 +1,4 @@
-# Composing CJK characters — Create a new mojikumi set
+# Composing CJK characters - Create a new mojikumi set
 
 Use one of these methods:
 

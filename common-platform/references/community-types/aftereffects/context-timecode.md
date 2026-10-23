@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: time display and frame counting
+# Shared Adobe platform - Aftereffects: time display and frame counting
 
-Open when working with time display and frame counting in Shared Adobe platform — Aftereffects.
+Open when working with time display and frame counting in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-timecode.json).
 

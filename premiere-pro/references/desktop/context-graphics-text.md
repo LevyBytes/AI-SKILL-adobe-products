@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: graphics, titles, shapes and text styling
+# Premiere Pro - Desktop workflows: graphics, titles, shapes and text styling
 
-Open when working with graphics, titles, shapes and text styling in Premiere Pro — Desktop workflows.
+Open when working with graphics, titles, shapes and text styling in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-graphics-text.json).
 

@@ -1,4 +1,4 @@
-# InDesign — Page transitions
+# InDesign - Page transitions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply page transitions in InDesign. [Apply page transitions](apply-page-transitions.md).

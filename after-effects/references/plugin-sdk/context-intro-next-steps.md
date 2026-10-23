@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: next steps
+# After Effects - C++ plugin SDK: next steps
 
-Open when working with next steps in After Effects — C++ plugin SDK.
+Open when working with next steps in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-next-steps.json).
 

@@ -1,4 +1,4 @@
-# InDesign — Apply and save line stroke styles
+# InDesign - Apply and save line stroke styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply strokes to paths and frames in InDesign. [Apply strokes to paths and frames](apply-strokes-to-paths-and-frames.md).

@@ -1,4 +1,4 @@
-# window.WebSocket — close([code], [reason])
+# window.WebSocket - close([code], [reason])
 
 Ends an active WebSocket session.
 

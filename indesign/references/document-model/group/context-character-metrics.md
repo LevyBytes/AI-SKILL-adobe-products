@@ -1,6 +1,6 @@
-# InDesign — Group: character spacing and geometry
+# InDesign - Group: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Group.
+Open when checking character spacing and geometry in InDesign - Group.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

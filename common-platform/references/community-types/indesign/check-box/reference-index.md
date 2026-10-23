@@ -1,4 +1,4 @@
-# Shared Adobe platform — CheckBox
+# Shared Adobe platform - CheckBox
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CheckBox declaration in Shared Adobe platform. [CheckBox declaration](declaration.md).

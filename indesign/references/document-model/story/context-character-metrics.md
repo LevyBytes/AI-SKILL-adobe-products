@@ -1,6 +1,6 @@
-# InDesign — Story: character spacing and geometry
+# InDesign - Story: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Story.
+Open when checking character spacing and geometry in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

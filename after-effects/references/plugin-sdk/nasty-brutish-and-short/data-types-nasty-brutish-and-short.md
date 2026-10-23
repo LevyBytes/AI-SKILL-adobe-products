@@ -1,4 +1,4 @@
-# Data Types — Nasty, Brutish, and Short
+# Data Types - Nasty, Brutish, and Short
 
 Details about layers, streams, and plenty of other items are short-lived — user actions tend to invalidate them in short order.
 

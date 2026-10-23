@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
-  {"topic": "JavaScript APIs — Net.HTTP", "file": "references/scripting/net-http/java-script-apis-net-http.md", "summary": "Open when looking up JavaScript APIs — Net.HTTP in Acrobat.", "keywords": ["JavaScript APIs — Net.HTTP"]},
+  {"topic": "JavaScript APIs - Net.HTTP", "file": "references/scripting/net-http/java-script-apis-net-http.md", "summary": "Open when looking up JavaScript APIs - Net.HTTP in Acrobat.", "keywords": ["JavaScript APIs - Net.HTTP"]},
   {"topic": "request", "file": "references/scripting/net-http/request.md", "summary": "Open when looking up request in Acrobat.", "keywords": ["request"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

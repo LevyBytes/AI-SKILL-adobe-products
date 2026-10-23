@@ -1,4 +1,4 @@
-# SmartFX — Rectangles
+# SmartFX - Rectangles
 
 Both result rectangles must be set precisely by the effect. Because After Effects' caching depends on them, wrong values can trigger no end of trouble. Should the plug-in hand back a result_rect smaller than the request_rect, After Effects reads the pixels that lie inside request_rect but outside result_rect as empty.
 

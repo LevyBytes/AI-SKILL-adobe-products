@@ -1,4 +1,4 @@
-# Keying effects — Color Range effect
+# Keying effects - Color Range effect
 
 Note
 

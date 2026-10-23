@@ -1,4 +1,4 @@
-# Acrobat — Image and document editing
+# Acrobat - Image and document editing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Stylize PDFs using Adobe Express in Acrobat. [Stylize PDFs using Adobe Express](stylize-pdfs-using-adobe-express.md).

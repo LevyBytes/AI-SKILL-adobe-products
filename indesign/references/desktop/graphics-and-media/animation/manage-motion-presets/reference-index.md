@@ -1,4 +1,4 @@
-# InDesign — Manage motion presets
+# InDesign - Manage motion presets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete a custom motion preset in InDesign. [Delete a custom motion preset](delete-a-custom-motion-preset.md).

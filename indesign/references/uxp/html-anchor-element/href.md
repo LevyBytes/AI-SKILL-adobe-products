@@ -1,3 +1,3 @@
-# window.HTMLAnchorElement — href : `string`
+# window.HTMLAnchorElement - href : `string`
 
 Anchor target stored in `href`.

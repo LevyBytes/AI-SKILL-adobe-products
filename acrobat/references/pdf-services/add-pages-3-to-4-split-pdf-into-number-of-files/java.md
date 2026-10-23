@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [SplitPDFIntoNumberOfFiles.java](../examples/java/split-pdf-into-number-of-files/SplitPDFIntoNumberOfFiles.java)
+- [split-pdf-into-number-of-files setup and source](../examples/java/split-pdf-into-number-of-files/split-pdf-into-number-of-files-setup.md)

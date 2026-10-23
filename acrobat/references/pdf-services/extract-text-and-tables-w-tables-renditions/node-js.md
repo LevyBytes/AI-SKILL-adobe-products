@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [extract-text-table-info-with-tables-renditions-from-pdf.cjs](../examples/node/extract-table-renditions/extract-text-table-info-with-tables-renditions-from-pdf.cjs)
+- [extract-table-renditions setup and source](../examples/node/extract-table-renditions/extract-text-table-info-with-tables-renditions-from-pdf-setup.md)

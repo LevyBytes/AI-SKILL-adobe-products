@@ -1,4 +1,4 @@
-# Formatting CJK characters — Change kenten settings and color
+# Formatting CJK characters - Change kenten settings and color
 
 Choose Kenten > Kenten from the Character panel menu or Control panel menu. Under Kenten Settings, set the options below:
 

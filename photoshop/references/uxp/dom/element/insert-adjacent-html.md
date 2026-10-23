@@ -1,4 +1,4 @@
-# window.Element — insertAdjacentHTML(position, value)
+# window.Element - insertAdjacentHTML(position, value)
 
 | Param | Type |
 | --- | --- |

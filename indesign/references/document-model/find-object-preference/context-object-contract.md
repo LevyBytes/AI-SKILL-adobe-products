@@ -1,6 +1,6 @@
-# InDesign — FindObjectPreference: object identity and lifecycle
+# InDesign - FindObjectPreference: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — FindObjectPreference.
+Open when checking object identity and lifecycle in InDesign - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

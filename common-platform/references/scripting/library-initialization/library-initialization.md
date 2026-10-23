@@ -1,4 +1,4 @@
-# Defining entry points for direct access — Library initialization
+# Defining entry points for direct access - Library initialization
 
 ExtendScript invokes ESInitialize() during library initialization.
 

@@ -1,4 +1,4 @@
-# Illustrator — Create and add new artboards
+# Illustrator - Create and add new artboards
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add artboards instantly in Illustrator. [Add artboards instantly](add-artboards-instantly.md).

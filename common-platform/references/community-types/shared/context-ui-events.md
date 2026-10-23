@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: ui events and keyboard state
+# Shared Adobe platform - Shared: ui events and keyboard state
 
-Open when working with ui events and keyboard state in Shared Adobe platform — Shared.
+Open when working with ui events and keyboard state in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-events.json).
 

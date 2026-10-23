@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [get-pdf-properties.py](../examples/python/get-pdf-properties/get-pdf-properties.py)
+- [get-pdf-properties setup and source](../examples/python/get-pdf-properties/get-pdf-properties-setup.md)

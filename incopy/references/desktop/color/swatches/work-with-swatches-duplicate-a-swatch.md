@@ -1,4 +1,4 @@
-# Work with swatches — Duplicate a swatch
+# Work with swatches - Duplicate a swatch
 
 Copying a swatch is useful when the next color should be a warmer or cooler version of one already present. Be aware that copying a spot color creates another spot color printing plate.
 

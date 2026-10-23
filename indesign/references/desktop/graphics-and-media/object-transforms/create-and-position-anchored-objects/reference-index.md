@@ -1,4 +1,4 @@
-# InDesign — Create and position anchored objects
+# InDesign - Create and position anchored objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust or release anchored objects in InDesign. [Adjust or release anchored objects](adjust-or-release-anchored-objects.md).

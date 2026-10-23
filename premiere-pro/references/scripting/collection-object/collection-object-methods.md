@@ -1,4 +1,4 @@
-# Collection object — Methods
+# Collection object - Methods
 
 | Method | Return Type | Description |
 | --- | --- | --- |

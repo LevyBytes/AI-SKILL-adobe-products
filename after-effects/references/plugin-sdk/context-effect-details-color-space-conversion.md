@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: color space conversion
+# After Effects - C++ plugin SDK: color space conversion
 
-Open when working with color space conversion in After Effects — C++ plugin SDK.
+Open when working with color space conversion in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-color-space-conversion.json).
 

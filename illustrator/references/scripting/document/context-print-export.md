@@ -1,6 +1,6 @@
-# Illustrator — Document: printing, color space and export
+# Illustrator - Document: printing, color space and export
 
-Open when working with printing, color space and export in Illustrator — Document.
+Open when working with printing, color space and export in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-print-export.json).
 

@@ -1,4 +1,4 @@
-# window.Element — slot : `string`
+# window.Element - slot : `string`
 
 [ This feature requires a feature flag. Enable `enableSWCSupport` in the plugin manifest's featureFlags section before using it. ]
 

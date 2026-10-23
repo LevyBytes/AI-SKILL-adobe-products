@@ -1,6 +1,6 @@
-# InDesign — FormField: layers, stacking and master overrides
+# InDesign - FormField: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — FormField.
+Open when checking layers, stacking and master overrides in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

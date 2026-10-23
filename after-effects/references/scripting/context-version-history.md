@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: version-specific scripting changes
+# After Effects - Scripting APIs: version-specific scripting changes
 
-Open when working with version-specific scripting changes in After Effects — Scripting APIs.
+Open when working with version-specific scripting changes in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-version-history.json).
 

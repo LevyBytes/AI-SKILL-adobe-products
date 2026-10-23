@@ -1,4 +1,4 @@
-# Premiere Pro — Frame io overview
+# Premiere Pro - Frame io overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Collaborating on video edits and collecting feedback with Frame.io. in Premiere Pro. [Collaborating on video edits and collecting feedback with Frame.io.](frame-io-edit-review.md).

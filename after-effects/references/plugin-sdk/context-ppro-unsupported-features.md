@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: unsupported features
+# After Effects - C++ plugin SDK: unsupported features
 
-Open when working with unsupported features in After Effects — C++ plugin SDK.
+Open when working with unsupported features in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-ppro-unsupported-features.json).
 

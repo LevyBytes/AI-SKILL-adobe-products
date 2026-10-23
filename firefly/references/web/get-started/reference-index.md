@@ -1,4 +1,4 @@
-# Firefly — Get started
+# Firefly - Get started
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access the app in Firefly. [Access the app](access-the-app.md).

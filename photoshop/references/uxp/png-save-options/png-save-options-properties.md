@@ -1,4 +1,4 @@
-# PNG Save Options — Properties
+# PNG Save Options - Properties
 
 | Name | Type | Access | Default | Range | Min Version | Description |
 | --- | --- | --- | --- | --- | --- | --- |

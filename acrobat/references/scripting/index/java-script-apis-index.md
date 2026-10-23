@@ -1,4 +1,4 @@
-# JavaScript APIs — Index
+# JavaScript APIs - Index
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

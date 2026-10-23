@@ -1,4 +1,4 @@
-# Shared Adobe platform — PreflightRules
+# Shared Adobe platform - PreflightRules
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PreflightRules collection iteration in Shared Adobe platform. [PreflightRules collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# Illustrator — CharacterAttributes
+# Illustrator - CharacterAttributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CharacterAttributes.akiLeft in Illustrator. [CharacterAttributes.akiLeft](aki-left.md).

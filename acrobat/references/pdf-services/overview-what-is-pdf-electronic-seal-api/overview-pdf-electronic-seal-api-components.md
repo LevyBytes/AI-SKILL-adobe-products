@@ -1,4 +1,4 @@
-# Overview — PDF Electronic Seal API Components
+# Overview - PDF Electronic Seal API Components
 
 These pieces come together in a PDF Electronic Seal API workflow:
 

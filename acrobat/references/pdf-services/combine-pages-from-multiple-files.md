@@ -4,11 +4,6 @@ Drawing from as many as 20 source PDFs, this example pulls selected pages out an
 
 ## Combine pages from multiple files
 
-Complete example files:
+Example setup and source:
 
-- [Program.cs](examples/dotnet/combine-pdf-with-page-ranges/Program.cs)
-- [imports.cs](examples/dotnet/combine-pdf-with-page-ranges/imports.cs)
-- [get-page-range-for-second-file.cs](examples/dotnet/combine-pdf-with-page-ranges/get-page-range-for-second-file.cs)
-- [get-page-range-for-first-file.cs](examples/dotnet/combine-pdf-with-page-ranges/get-page-range-for-first-file.cs)
-- [configure-logging.cs](examples/dotnet/combine-pdf-with-page-ranges/configure-logging.cs)
-- [create-output-file-path.cs](examples/dotnet/combine-pdf-with-page-ranges/create-output-file-path.cs)
+- [combine-pdf-with-page-ranges setup and source](examples/dotnet/combine-pdf-with-page-ranges/combine-pdf-with-page-ranges-setup.md)

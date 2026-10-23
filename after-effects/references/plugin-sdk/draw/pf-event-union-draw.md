@@ -1,4 +1,4 @@
-# `PF_EventUnion` — Draw
+# `PF_EventUnion` - Draw
 
 Your custom UI has to be refreshed by After Effects.
 

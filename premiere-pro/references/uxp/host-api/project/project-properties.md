@@ -1,4 +1,4 @@
-# Project — Properties
+# Project - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

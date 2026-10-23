@@ -1,4 +1,4 @@
-# After Effects — Utility effects
+# After Effects - Utility effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Color LUT effect in After Effects. [Apply Color LUT effect](apply-color-lut-effect.md).

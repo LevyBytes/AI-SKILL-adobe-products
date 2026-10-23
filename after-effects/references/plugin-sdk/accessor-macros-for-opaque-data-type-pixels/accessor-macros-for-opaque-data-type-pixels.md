@@ -1,4 +1,4 @@
-# `PF_EffectWorld` / `PF_LayerDef` — Accessor Macros For Opaque (Data Type) Pixels
+# `PF_EffectWorld` / `PF_LayerDef` - Accessor Macros For Opaque (Data Type) Pixels
 
 Reach into the contents of (opaque) `PF_PixelPtrs` through the macros listed below.
 

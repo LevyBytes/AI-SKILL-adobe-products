@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: symbols and registration points
+# Shared Adobe platform - Illustrator: symbols and registration points
 
-Open when working with symbols and registration points in Shared Adobe platform — Illustrator.
+Open when working with symbols and registration points in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-symbols.json).
 

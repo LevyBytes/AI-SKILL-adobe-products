@@ -1,6 +1,6 @@
-# InDesign — Document: clipboard and editing defaults
+# InDesign - Document: clipboard and editing defaults
 
-Open when checking clipboard and editing defaults in InDesign — Document.
+Open when checking clipboard and editing defaults in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-clipboard-editing.json).
 

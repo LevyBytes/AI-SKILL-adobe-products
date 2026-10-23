@@ -1,4 +1,4 @@
-# window.Element — prepend(...nodes)
+# window.Element - prepend(...nodes)
 
 Adds Node objects or string objects to the Element before its current first child.
 

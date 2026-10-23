@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Wiggle Paths
+# Shape Layer Match Names - Wiggle Paths
 
 | Match Name | Display Name (EN) |
 | --- | --- |

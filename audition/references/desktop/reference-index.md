@@ -1,4 +1,4 @@
-# Audition — Desktop workflows
+# Audition - Desktop workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 5 1 surround sound in Audition. [5 1 surround sound references](5-1-surround-sound/reference-index.md).

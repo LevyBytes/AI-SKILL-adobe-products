@@ -1,4 +1,4 @@
-# InDesign — Interactive PDF options
+# InDesign - Interactive PDF options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced tab options in InDesign. [Advanced tab options](advanced-tab-options.md).

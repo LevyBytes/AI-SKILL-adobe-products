@@ -1,4 +1,4 @@
-# Acrobat — Export PDF overview
+# Acrobat - Export PDF overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conversion quality in Acrobat. [Conversion quality](conversion-quality.md).

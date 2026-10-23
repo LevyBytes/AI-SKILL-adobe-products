@@ -12,7 +12,7 @@ After its command fires, an AEGP turns to the many PICA function suites (covered
 
 An AEGP can expose function suites for plug-ins to call, work over every part of a project, alter interpretations, swap files, and decide which external files feed into a project's render.
 
-A handful of AEGP variants exist — Keyframers, Artisans, and I/O modules (AEIOs). Each remains an AEGP at heart, but gains entry to specialized messaging streams that it registers for with After Effects.
+A handful of AEGP variants exist: Keyframers, Artisans, and I/O modules (AEIOs). Each remains an AEGP at heart, but gains entry to specialized messaging streams that it registers for with After Effects.
 
 ## Overview
 

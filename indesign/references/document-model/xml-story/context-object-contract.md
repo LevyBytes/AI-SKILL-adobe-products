@@ -1,6 +1,6 @@
-# InDesign — XmlStory: object identity and lifecycle
+# InDesign - XmlStory: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — XmlStory.
+Open when checking object identity and lifecycle in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

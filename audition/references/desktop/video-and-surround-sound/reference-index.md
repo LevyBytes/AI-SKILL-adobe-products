@@ -1,4 +1,4 @@
-# Audition — Video and surround sound
+# Audition - Video and surround sound
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Importing video and working with video clips in Audition. [Importing video and working with video clips](importing-video-and-working-with-video-clips.md).

@@ -1,4 +1,4 @@
-# VIP Marketplace — Developer Resources
+# VIP Marketplace - Developer Resources
 
 To begin and to stay connected over time with both the Adobe team and other developers building on the Adobe APIs, the links below are worth keeping handy.
 

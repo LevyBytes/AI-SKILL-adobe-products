@@ -1,6 +1,6 @@
-# InDesign — Html item: page item collections
+# InDesign - Html item: page item collections
 
-Open when checking page item collections in InDesign — Html item.
+Open when checking page item collections in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

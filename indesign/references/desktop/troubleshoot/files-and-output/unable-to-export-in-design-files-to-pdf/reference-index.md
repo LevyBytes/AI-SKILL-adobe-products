@@ -1,4 +1,4 @@
-# InDesign — Unable to export InDesign files to PDF
+# InDesign - Unable to export InDesign files to PDF
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conflict with third-party plugins in InDesign. [Conflict with third-party plugins](conflict-with-third-party-plugins.md).

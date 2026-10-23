@@ -1,4 +1,4 @@
-# After Effects — Proportional Scrubbing in timeline
+# After Effects - Proportional Scrubbing in timeline
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Proportional Scrubbing in After Effects. [About Proportional Scrubbing](about-proportional-scrubbing.md).

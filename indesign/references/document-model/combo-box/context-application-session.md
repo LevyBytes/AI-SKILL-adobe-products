@@ -1,6 +1,6 @@
-# InDesign — Combo box: application session and account
+# InDesign - Combo box: application session and account
 
-Open when checking application session and account in InDesign — Combo box.
+Open when checking application session and account in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

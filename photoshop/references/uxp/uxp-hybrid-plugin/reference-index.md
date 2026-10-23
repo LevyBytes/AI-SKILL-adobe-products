@@ -1,4 +1,4 @@
-# Photoshop — UXP Hybrid plugin
+# Photoshop - UXP Hybrid plugin
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Minimum Version Requirements in Photoshop. [Minimum Version Requirements](minimum-version-requirements.md).

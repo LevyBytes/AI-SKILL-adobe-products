@@ -1,4 +1,4 @@
-# Premiere Pro — Creating HTML Elements
+# Premiere Pro - Creating HTML Elements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Creating Spectrum Components in Premiere Pro. [Creating Spectrum Components](creating-spectrum-components.md).

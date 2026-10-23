@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Extract text table info with renditions from pdf example setup", "file": "references/pdf-services/examples/python/extract-text-table-info-with-renditions-from-pdf/extract-text-table-info-with-renditions-from-pdf-setup.md", "summary": "Open when looking up Extract text table info with renditions from pdf example setup in Acrobat.", "keywords": ["Extract text table info with renditions from pdf example setup"]},
-  {"topic": "ExtractTextTableInfoWithRenditionsFromPDF", "file": "references/pdf-services/examples/python/extract-text-table-info-with-renditions-from-pdf/extract-text-table-info-with-renditions-from-pdf.py", "summary": "Open when looking up ExtractTextTableInfoWithRenditionsFromPDF in Acrobat.", "keywords": ["ExtractTextTableInfoWithRenditionsFromPDF"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

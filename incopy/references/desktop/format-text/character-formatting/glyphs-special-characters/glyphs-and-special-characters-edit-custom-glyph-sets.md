@@ -1,4 +1,4 @@
-# Glyphs and special characters — Edit custom glyph sets
+# Glyphs and special characters - Edit custom glyph sets
 
 From the Glyph panel menu, choose Edit Glyph Set, then select the custom glyph set. Select the glyph to change, use any of the controls below, and click OK:
 

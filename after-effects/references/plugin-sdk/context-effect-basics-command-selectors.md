@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: command selectors
+# After Effects - C++ plugin SDK: command selectors
 
-Open when working with command selectors in After Effects — C++ plugin SDK.
+Open when working with command selectors in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-basics-command-selectors.json).
 

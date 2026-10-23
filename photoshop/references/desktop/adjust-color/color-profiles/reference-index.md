@@ -1,4 +1,4 @@
-# Photoshop — Color profiles
+# Photoshop - Color profiles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About color profiles in Photoshop. [About color profiles](about-color-profiles.md).

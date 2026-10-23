@@ -1,8 +1,8 @@
-# Getting Started — Analytics
+# Getting Started - Analytics
 
 **What information is collected to analyze PDF Embed API usage?**
 
-Only the bare essentials get gathered — just enough for Adobe to learn how the product is used and figure out how to scale it. Here is what gets recorded:
+Only the bare essentials get gathered: just enough for Adobe to learn how the product is used and figure out how to scale it. Here is what gets recorded:
 
 - Browser and operating system type and version.
 - Type of device used to open the PDF - desktop, mobile or tablet.

@@ -1,4 +1,4 @@
-# window.ClassList — add(...tokens)
+# window.ClassList - add(...tokens)
 
 Places the supplied tokens into the token list; an already-present token does not raise an error.
 

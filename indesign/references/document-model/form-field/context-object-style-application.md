@@ -1,6 +1,6 @@
-# InDesign — FormField: object styles and enabled attributes
+# InDesign - FormField: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — FormField.
+Open when checking object styles and enabled attributes in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: scripts, tasks and application events
+# InDesign - InDesign document object model: scripts, tasks and application events
 
-Open when working with scripts, tasks and application events in InDesign — InDesign document object model.
+Open when working with scripts, tasks and application events in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-scripting.json).
 

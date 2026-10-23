@@ -1,4 +1,4 @@
-# Photoshop — Keyboard shortcuts not working
+# Photoshop - Keyboard shortcuts not working
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupt Photoshop preferences in Photoshop. [Corrupt Photoshop preferences](corrupt-photoshop-preferences.md).

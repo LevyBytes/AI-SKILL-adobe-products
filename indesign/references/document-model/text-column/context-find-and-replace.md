@@ -1,6 +1,6 @@
-# InDesign — Text column: find, replace and transliterate
+# InDesign - Text column: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Text column.
+Open when checking find, replace and transliterate in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

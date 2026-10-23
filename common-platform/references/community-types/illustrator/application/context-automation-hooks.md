@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: application automation and test hooks
+# Shared Adobe platform - Application: application automation and test hooks
 
-Open when working with application automation and test hooks in Shared Adobe platform — Application.
+Open when working with application automation and test hooks in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-automation-hooks.json).
 

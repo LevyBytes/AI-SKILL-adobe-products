@@ -1,4 +1,4 @@
-# Illustrator — Characters
+# Illustrator - Characters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Characters.add() in Illustrator. [Characters.add()](add.md).

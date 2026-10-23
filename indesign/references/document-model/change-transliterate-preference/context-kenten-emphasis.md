@@ -1,6 +1,6 @@
-# InDesign — Change transliterate preference: kenten emphasis
+# InDesign - Change transliterate preference: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — Change transliterate preference.
+Open when checking kenten emphasis in InDesign - Change transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

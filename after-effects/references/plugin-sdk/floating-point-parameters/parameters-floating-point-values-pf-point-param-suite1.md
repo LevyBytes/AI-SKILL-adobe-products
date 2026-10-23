@@ -1,4 +1,4 @@
-# Parameters & Floating Point Values — `PF_PointParamSuite1`
+# Parameters & Floating Point Values`PF_PointParamSuite1`
 
 Point parameters can be fetched as floating-point values too, by way of the following.
 

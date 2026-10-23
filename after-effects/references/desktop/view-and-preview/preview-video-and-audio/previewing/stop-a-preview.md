@@ -10,7 +10,7 @@ Any of these will halt a preview:
 After Effects will also halt a preview when you do any of the following:
 
 - Select the previewing viewer panel. Clicking that viewer panel's tab, though, won't stop the preview.
-- Tweak any time-related property — the Work Area bar or the Time Navigator bar, for example.
+- Tweak any time-related property: the Work Area bar or the Time Navigator bar, for example.
 - Drag the current-time indicator (CTI), or click the time ruler, without holding Option (macOS) or Alt (Windows). Doing so also shifts the current time.
 - Change the composition settings of a previewing composition.
 - Tuck the previewing viewer panel behind another panel in the workspace — for instance, by clicking a different panel in the same group or opening a fresh viewer panel within that group.

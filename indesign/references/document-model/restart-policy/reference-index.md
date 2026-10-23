@@ -1,4 +1,4 @@
-# InDesign — RestartPolicy
+# InDesign - RestartPolicy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AFTER_SPECIFIC_LEVEL in InDesign. [AFTER_SPECIFIC_LEVEL](afterspecificlevel.md).

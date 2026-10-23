@@ -1,4 +1,4 @@
-# Shared Adobe platform — Element
+# Shared Adobe platform - Element
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Element declaration in Shared Adobe platform. [Element declaration](declaration.md).

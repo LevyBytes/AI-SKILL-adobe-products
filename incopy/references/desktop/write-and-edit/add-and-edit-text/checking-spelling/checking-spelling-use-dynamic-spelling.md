@@ -1,4 +1,4 @@
-# Checking spelling — Use dynamic spelling
+# Checking spelling - Use dynamic spelling
 
 With dynamic spelling enabled, spelling problems can be corrected from the context menu. Words that may be misspelled are underlined according to the dictionary for the text language. For multilingual text, select the relevant text and assign the correct language.
 

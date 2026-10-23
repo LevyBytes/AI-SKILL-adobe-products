@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: fxg preservation and legacy flattening
+# Illustrator - Scripting APIs: fxg preservation and legacy flattening
 
-Open when working with fxg preservation and legacy flattening in Illustrator — Scripting APIs.
+Open when working with fxg preservation and legacy flattening in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-fxg-compatibility.json).
 

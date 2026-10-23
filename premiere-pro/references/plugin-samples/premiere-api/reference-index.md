@@ -1,4 +1,4 @@
-# Premiere Pro — premiere-api
+# Premiere Pro - premiere-api
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Build in Premiere Pro. [Build](build.md).

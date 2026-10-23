@@ -1,4 +1,4 @@
-# InDesign — PreserveAppearanceFromLayoutEnum
+# InDesign - PreserveAppearanceFromLayoutEnum
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PRESERVE_APPEARANCE_DEFAULT in InDesign. [PRESERVE_APPEARANCE_DEFAULT](preserveappearancedefault.md).

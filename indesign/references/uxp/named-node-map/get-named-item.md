@@ -1,4 +1,4 @@
-# window.NamedNodeMap — getNamedItem(name)
+# window.NamedNodeMap - getNamedItem(name)
 
 **Returns**: `_`
 

@@ -1,4 +1,4 @@
-# AME Scripting Guide — What is a good starting point to understand the scripting objects?
+# AME Scripting Guide - What is a good starting point to understand the scripting objects?
 
 Start from this minimal script:
 

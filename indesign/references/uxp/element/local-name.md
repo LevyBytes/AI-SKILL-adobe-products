@@ -1,4 +1,4 @@
-# window.Element — localName : `string`
+# window.Element - localName : `string`
 
 **Read only**
 The local portion of the element's qualified name, represented as a string.

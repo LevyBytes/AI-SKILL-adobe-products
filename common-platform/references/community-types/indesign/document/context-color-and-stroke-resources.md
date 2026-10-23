@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: colors, swatches, inks and stroke resources
+# Shared Adobe platform - Document: colors, swatches, inks and stroke resources
 
-Open when checking colors, swatches, inks and stroke resources in Shared Adobe platform — Document.
+Open when checking colors, swatches, inks and stroke resources in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-color-and-stroke-resources.json).
 

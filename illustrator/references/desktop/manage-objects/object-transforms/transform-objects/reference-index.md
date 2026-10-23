@@ -1,4 +1,4 @@
-# Illustrator — Transform objects
+# Illustrator - Transform objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Prevent patterns from transforming when using transform tools in Illustrator. [Prevent patterns from transforming when using transform tools](prevent-patterns-from-transforming-when-using-transform-tools.md).

@@ -1,4 +1,4 @@
-# InDesign — ColorSetting
+# InDesign - ColorSetting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up accurateLABSpots in InDesign. [accurateLABSpots](accurate-lab-spots.md).

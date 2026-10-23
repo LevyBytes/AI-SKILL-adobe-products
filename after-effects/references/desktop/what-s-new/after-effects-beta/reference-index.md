@@ -1,4 +1,4 @@
-# After Effects — After Effects Beta
+# After Effects - After Effects Beta
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional resources in After Effects. [Additional resources](additional-resources.md).

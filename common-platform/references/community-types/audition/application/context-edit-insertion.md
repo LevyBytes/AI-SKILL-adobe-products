@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: insert material into sessions and cd layouts
+# Shared Adobe platform - Application: insert material into sessions and cd layouts
 
-Open when working with insert material into sessions and cd layouts in Shared Adobe platform — Application.
+Open when working with insert material into sessions and cd layouts in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-edit-insertion.json).
 

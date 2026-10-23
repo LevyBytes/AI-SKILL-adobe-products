@@ -1,4 +1,4 @@
-# After Effects — Working With Paths — PF_PathQuerySuite1
+# After Effects - Working With Paths - PF_PathQuerySuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PF_CheckinPath in After Effects. [PF_CheckinPath](pf-checkin-path.md).

@@ -1,6 +1,6 @@
-# InDesign — Story: apply and manage styles
+# InDesign - Story: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Story.
+Open when checking apply and manage styles in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

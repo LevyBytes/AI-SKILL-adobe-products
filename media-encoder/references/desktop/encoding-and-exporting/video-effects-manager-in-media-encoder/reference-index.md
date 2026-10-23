@@ -1,4 +1,4 @@
-# Media Encoder — Video Effects Manager in Media Encoder
+# Media Encoder - Video Effects Manager in Media Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Disable effects after a Media Encoder crash in Media Encoder. [Disable effects after a Media Encoder crash](disable-effects-after-a-media-encoder-crash.md).

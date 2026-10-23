@@ -1,4 +1,4 @@
-# InDesign — Invite collaborators to edit cloud documents
+# InDesign - Invite collaborators to edit cloud documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Invite collaborators from Creative Cloud in InDesign. [Invite collaborators from Creative Cloud](invite-collaborators-from-creative-cloud.md).

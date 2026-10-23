@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindGrepPreference: fonts and character forms
+# Shared Adobe platform - FindGrepPreference: fonts and character forms
 
-Open when checking fonts and character forms in Shared Adobe platform — FindGrepPreference.
+Open when checking fonts and character forms in Shared Adobe platform - FindGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

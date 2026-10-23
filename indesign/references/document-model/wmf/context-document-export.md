@@ -1,6 +1,6 @@
-# InDesign — WMF: export documents and select formats
+# InDesign - WMF: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — WMF.
+Open when checking export documents and select formats in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

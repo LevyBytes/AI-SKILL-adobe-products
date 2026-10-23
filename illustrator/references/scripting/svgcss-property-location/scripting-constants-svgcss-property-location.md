@@ -1,4 +1,4 @@
-# Scripting Constants — SVGCSSPropertyLocation
+# Scripting Constants - SVGCSSPropertyLocation
 
 These values control where document CSS properties are written during SVG export.
 

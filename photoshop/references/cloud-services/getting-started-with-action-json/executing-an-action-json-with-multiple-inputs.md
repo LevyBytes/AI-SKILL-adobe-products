@@ -13,7 +13,7 @@ Complete example files:
 
 - [place-image-action.json](../examples/additional-image-actions/place-image-action.json)
 - [create-selection-mask-actions.json](../examples/additional-image-actions/create-selection-mask-actions.json)
-- [align-and-deselect-actions.json](../examples/additional-image-actions/align-and-deselect-actions.json)
+- [align-and-deselect-actions.json](https://developer.adobe.com/firefly-services/docs/photoshop/guides/actionjson-endpoint/)
 - [request-settings.json](../examples/additional-image-actions/request-settings.json)
 - [build-request.cjs](../examples/additional-image-actions/build-request.cjs)
 - [submit-request.sh](../examples/additional-image-actions/submit-request.sh)

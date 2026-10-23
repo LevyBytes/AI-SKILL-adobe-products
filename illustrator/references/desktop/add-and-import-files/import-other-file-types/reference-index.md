@@ -1,4 +1,4 @@
-# Illustrator — Import other file types
+# Illustrator - Import other file types
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Import Adobe PDF files in Illustrator. [Import Adobe PDF files](import-adobe-pdf-files.md).

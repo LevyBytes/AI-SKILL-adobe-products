@@ -1,4 +1,4 @@
-# Shared Adobe platform — RegExpConstructor
+# Shared Adobe platform - RegExpConstructor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RegExpConstructor declaration in Shared Adobe platform. [RegExpConstructor declaration](declaration.md).

@@ -1,4 +1,4 @@
-# Photoshop — Common migration issues
+# Photoshop - Common migration issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Issue: blend mode naming in Photoshop. [Issue: blend mode naming](issue-blend-mode-naming.md).

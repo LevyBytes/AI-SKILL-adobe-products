@@ -1,4 +1,4 @@
-# Global, Sequence, & Frame Data — Flattened And Unflattened Sequence Data
+# Global, Sequence, & Frame Data - Flattened And Unflattened Sequence Data
 
 Whenever your sequence data points off to external memory through pointers or handles, you have to flatten and unflatten it so it stores safely to disk. Think of it as rolling your own tiny file format.
 

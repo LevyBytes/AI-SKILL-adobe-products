@@ -1,4 +1,4 @@
-# InDesign — Create and manage print presets
+# InDesign - Create and manage print presets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a print preset in InDesign. [Apply a print preset](apply-a-print-preset.md).

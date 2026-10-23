@@ -1,6 +1,6 @@
-# InDesign — RadioButton: cloud documents, libraries and collaboration
+# InDesign - RadioButton: cloud documents, libraries and collaboration
 
-Open when checking cloud documents, libraries and collaboration in InDesign — RadioButton.
+Open when checking cloud documents, libraries and collaboration in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-cloud-and-collaboration.json).
 

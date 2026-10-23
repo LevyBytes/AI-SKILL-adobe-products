@@ -1,4 +1,4 @@
-# Scripting Constants — ScreenMode
+# Scripting Constants - ScreenMode
 
 A view's display mode is selected from these values.
 

@@ -1,4 +1,4 @@
-# Firefly — Understanding Firefly API Seeds
+# Firefly - Understanding Firefly API Seeds
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About seeds in Firefly. [About seeds](about-seeds.md).

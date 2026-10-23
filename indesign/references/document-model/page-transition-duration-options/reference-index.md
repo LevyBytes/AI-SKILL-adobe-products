@@ -1,4 +1,4 @@
-# InDesign — PageTransitionDurationOptions
+# InDesign - PageTransitionDurationOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FAST in InDesign. [FAST](fast.md).

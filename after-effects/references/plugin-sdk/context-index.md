@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: introduction
+# After Effects - C++ plugin SDK: introduction
 
-Open when working with introduction in After Effects — C++ plugin SDK.
+Open when working with introduction in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-index.json).
 

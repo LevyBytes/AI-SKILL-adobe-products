@@ -1,4 +1,4 @@
-# Using editorial notes — Convert notes to text
+# Using editorial notes - Convert notes to text
 
 Open the Notes panel. In the Notes panel, select the text to add to the document text. Alternatively, in Galley view, select text inside the inline note. Choose Notes > Convert To Text.
 

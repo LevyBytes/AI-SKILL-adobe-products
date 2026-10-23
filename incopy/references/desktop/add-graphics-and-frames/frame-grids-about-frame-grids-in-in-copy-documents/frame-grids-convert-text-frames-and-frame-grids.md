@@ -1,4 +1,4 @@
-# Frame grids — Convert text frames and frame grids
+# Frame grids - Convert text frames and frame grids
 
 In stand-alone documents, plain text frames can be converted to grid frames, and frame grids can be converted to text frames. If a plain text frame becomes a frame grid, any story text without an applied character style or paragraph style receives the frame grid document defaults. (See About frame grids in InCopy documents.)
 

@@ -1,4 +1,4 @@
-# InDesign — Middle Eastern Scripting Guide
+# InDesign - Middle Eastern Scripting Guide
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Characters direction in InDesign. [Characters direction](characters-direction.md).

@@ -1,6 +1,6 @@
-# InDesign — Rectangle: find, replace and transliterate
+# InDesign - Rectangle: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Rectangle.
+Open when checking find, replace and transliterate in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

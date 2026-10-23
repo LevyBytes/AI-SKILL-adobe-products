@@ -5,7 +5,7 @@
   {"topic": "doc", "file": "references/scripting/bookmark/doc.md", "summary": "Open when looking up doc in Acrobat.", "keywords": ["doc"]},
   {"topic": "execute", "file": "references/scripting/bookmark/execute.md", "summary": "Open when looking up execute in Acrobat.", "keywords": ["execute"]},
   {"topic": "insertChild", "file": "references/scripting/bookmark/insert-child.md", "summary": "Open when looking up insertChild in Acrobat.", "keywords": ["insertChild"]},
-  {"topic": "JavaScript APIs — Bookmark", "file": "references/scripting/bookmark/java-script-apis-bookmark.md", "summary": "Open when looking up JavaScript APIs — Bookmark in Acrobat.", "keywords": ["JavaScript APIs — Bookmark"]},
+  {"topic": "JavaScript APIs - Bookmark", "file": "references/scripting/bookmark/java-script-apis-bookmark.md", "summary": "Open when looking up JavaScript APIs - Bookmark in Acrobat.", "keywords": ["JavaScript APIs - Bookmark"]},
   {"topic": "name", "file": "references/scripting/bookmark/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},
   {"topic": "open", "file": "references/scripting/bookmark/open.md", "summary": "Open when looking up open in Acrobat.", "keywords": ["open"]},
   {"topic": "parent", "file": "references/scripting/bookmark/parent.md", "summary": "Open when looking up parent in Acrobat.", "keywords": ["parent"]},

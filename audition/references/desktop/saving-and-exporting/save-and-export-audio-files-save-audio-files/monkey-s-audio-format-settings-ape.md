@@ -1,4 +1,4 @@
-# Save and export audio files — Monkey's Audio format settings (.ape)
+# Save and export audio files - Monkey's Audio format settings (.ape)
 
 Monkey's Audio uses lossless compression to reduce files to about one-half of their starting size while keeping sonic fidelity intact.
 

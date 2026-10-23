@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: anchored objects and reference points
+# InDesign - InDesign document object model: anchored objects and reference points
 
-Open when working with anchored objects and reference points in InDesign — InDesign document object model.
+Open when working with anchored objects and reference points in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-anchored-placement.json).
 

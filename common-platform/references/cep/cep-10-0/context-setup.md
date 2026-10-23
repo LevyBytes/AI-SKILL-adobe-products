@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 10 0: host support, extension setup and architecture
+# Shared Adobe platform - Cep 10 0: host support, extension setup and architecture
 
-Open when working with host support, extension setup and architecture in Shared Adobe platform — Cep 10 0.
+Open when working with host support, extension setup and architecture in Shared Adobe platform - Cep 10 0.
 
 Open when selecting an exact reference: [Topic catalog](context-setup.json).
 

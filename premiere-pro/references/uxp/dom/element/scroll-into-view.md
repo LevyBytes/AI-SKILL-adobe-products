@@ -1,4 +1,4 @@
-# window.Element — scrollIntoView(alignToTop)
+# window.Element - scrollIntoView(alignToTop)
 
 | Param | Type |
 | --- | --- |

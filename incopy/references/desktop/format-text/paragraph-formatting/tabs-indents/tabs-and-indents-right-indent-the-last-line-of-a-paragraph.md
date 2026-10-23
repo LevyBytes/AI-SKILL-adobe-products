@@ -1,4 +1,4 @@
-# Tabs and indents — Right-indent the last line of a paragraph
+# Tabs and indents - Right-indent the last line of a paragraph
 
 Last Line Right Indent lets you create a right-side hanging indent for the final line of a paragraph. It is useful, for example, when prices in a sales catalog need to align on the right.
 

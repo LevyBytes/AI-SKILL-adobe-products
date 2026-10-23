@@ -1,4 +1,4 @@
-# Illustrator — RGBColor
+# Illustrator - RGBColor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RGBColor.blue in Illustrator. [RGBColor.blue](blue.md).

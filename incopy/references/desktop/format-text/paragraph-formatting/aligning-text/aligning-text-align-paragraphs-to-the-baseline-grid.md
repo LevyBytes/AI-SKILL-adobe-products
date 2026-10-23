@@ -1,4 +1,4 @@
-# Aligning text — Align paragraphs to the baseline grid
+# Aligning text - Align paragraphs to the baseline grid
 
 Select the text. From the Paragraph panel menu, choose Grid Alignment > Roman Baseline.
 

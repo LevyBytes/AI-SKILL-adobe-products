@@ -1,4 +1,4 @@
-# Checking spelling — Add words to dictionaries
+# Checking spelling - Add words to dictionaries
 
 During a spell check, if InDesign shows an unknown word in the Check Spelling dialog box, choose the dictionary in the Add To menu, then click Add. The Dictionary dialog box also lets you set the destination dictionary and language, and control how exception-word entries are recorded.
 

@@ -1,6 +1,6 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
   {"topic": "Combining path point types", "file": "references/scripting/paths/combining-path-point-types.md", "summary": "Open when looking up Combining path point types in Illustrator.", "keywords": ["Combining path point types"]},
-  {"topic": "Creating paths and shapes — Paths", "file": "references/scripting/paths/creating-paths-and-shapes-paths.md", "summary": "Open when looking up Creating paths and shapes — Paths in Illustrator.", "keywords": ["Creating paths and shapes — Paths"]},
+  {"topic": "Creating paths and shapes - Paths", "file": "references/scripting/paths/creating-paths-and-shapes-paths.md", "summary": "Open when looking up Creating paths and shapes - Paths in Illustrator.", "keywords": ["Creating paths and shapes - Paths"]},
   {"topic": "Mixing path point forms", "file": "references/scripting/paths/mixing-path-point-forms.md", "summary": "Open when looking up Mixing path point forms in Illustrator.", "keywords": ["Mixing path point forms"]},
   {"topic": "Providing x-y coordinate pairs", "file": "references/scripting/paths/providing-x-y-coordinate-pairs.md", "summary": "Open when looking up Providing x-y coordinate pairs in Illustrator.", "keywords": ["Providing x-y coordinate pairs"]},
   {"topic": "Specifying a series of x-y coordinates", "file": "references/scripting/paths/specifying-a-series-of-x-y-coordinates.md", "summary": "Open when looking up Specifying a series of x-y coordinates in Illustrator.", "keywords": ["Specifying a series of x-y coordinates"]},

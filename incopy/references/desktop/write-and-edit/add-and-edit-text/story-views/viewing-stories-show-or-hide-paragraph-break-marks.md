@@ -1,4 +1,4 @@
-# Viewing stories — Show or hide paragraph break marks
+# Viewing stories - Show or hide paragraph break marks
 
 Paragraph break marks can be displayed or hidden in Galley and Story view. An arrow symbol identifies where a new paragraph begins.
 

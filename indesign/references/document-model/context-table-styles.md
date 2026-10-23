@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: table and cell styles
+# InDesign - InDesign document object model: table and cell styles
 
-Open when working with table and cell styles in InDesign — InDesign document object model.
+Open when working with table and cell styles in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-table-styles.json).
 

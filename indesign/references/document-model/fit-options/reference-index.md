@@ -1,4 +1,4 @@
-# InDesign — FitOptions
+# InDesign - FitOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up APPLY_FRAME_FITTING_OPTIONS in InDesign. [APPLY_FRAME_FITTING_OPTIONS](applyframefittingoptions.md).

@@ -1,4 +1,4 @@
-# InDesign — ImportExportEvent
+# InDesign - ImportExportEvent
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AFTER_EXPORT in InDesign. [AFTER_EXPORT](afterexport.md).

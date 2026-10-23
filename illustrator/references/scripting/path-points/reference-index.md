@@ -1,4 +1,4 @@
-# Illustrator — PathPoints
+# Illustrator - PathPoints
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PathPoints.add() in Illustrator. [PathPoints.add()](add.md).

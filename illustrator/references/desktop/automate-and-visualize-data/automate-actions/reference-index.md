@@ -1,4 +1,4 @@
-# Illustrator — Automate actions
+# Illustrator - Automate actions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Actions panel overview in Illustrator. [Actions panel overview](actions-panel-overview.md).

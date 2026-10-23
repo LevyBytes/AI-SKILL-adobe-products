@@ -1,6 +1,6 @@
-# InDesign — PageItem: layers, stacking and master overrides
+# InDesign - PageItem: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — PageItem.
+Open when checking layers, stacking and master overrides in InDesign - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

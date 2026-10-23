@@ -1,4 +1,4 @@
-# Shared Adobe platform — InCopyUIColors
+# Shared Adobe platform - InCopyUIColors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up InCopyUIColors declaration in Shared Adobe platform. [InCopyUIColors declaration](declaration.md).

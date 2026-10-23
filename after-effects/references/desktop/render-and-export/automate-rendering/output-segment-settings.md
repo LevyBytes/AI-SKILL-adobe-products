@@ -1,4 +1,4 @@
-# Automated rendering and network rendering — Segment settings
+# Automated rendering and network rendering - Segment settings
 
 You will find Segment settings within the Output preferences category.
 

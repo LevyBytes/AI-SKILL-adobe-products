@@ -1,4 +1,4 @@
-# Shared Adobe platform — GotoFirstPageBehaviors
+# Shared Adobe platform - GotoFirstPageBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GotoFirstPageBehaviors collection iteration in Shared Adobe platform. [GotoFirstPageBehaviors collection iteration](collection-iteration.md).

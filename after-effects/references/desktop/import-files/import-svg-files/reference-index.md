@@ -1,4 +1,4 @@
-# After Effects — Import svg files
+# After Effects - Import svg files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy and paste Illustrator and SVG content in After Effects. [Copy and paste Illustrator and SVG content](copy-and-paste-illustrator-and-svg-content.md).

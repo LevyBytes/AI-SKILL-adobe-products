@@ -1,4 +1,4 @@
-# Shared Adobe platform — Container attributes
+# Shared Adobe platform - Container attributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up alignChildren in Shared Adobe platform. [alignChildren](align-children.md).
@@ -20,5 +20,5 @@
 - Open when looking up text in Shared Adobe platform. [text](text.md).
 - Open when looking up visible in Shared Adobe platform. [visible](visible.md).
 - Open when looking up window in Shared Adobe platform. [window](window.md).
-- Open when looking up Window object — Container Attributes in Shared Adobe platform. [Window object — Container Attributes](window-object-container-attributes.md).
+- Open when looking up Window object - Container Attributes in Shared Adobe platform. [Window object - Container Attributes](window-object-container-attributes.md).
 - Open when looking up windowBounds in Shared Adobe platform. [windowBounds](window-bounds.md).

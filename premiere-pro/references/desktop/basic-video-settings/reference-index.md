@@ -1,4 +1,4 @@
-# Premiere Pro — Basic video settings
+# Premiere Pro - Basic video settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Aspect in Premiere Pro. [Aspect](aspect.md).

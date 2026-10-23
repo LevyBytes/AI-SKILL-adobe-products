@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: hyperlinks, indexes and cross-references
+# InDesign - MultiStateObject: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — MultiStateObject.
+Open when checking hyperlinks, indexes and cross-references in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

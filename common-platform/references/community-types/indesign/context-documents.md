@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: documents, books and persistence
+# Shared Adobe platform - Indesign: documents, books and persistence
 
-Open when working with documents, books and persistence in Shared Adobe platform — Indesign.
+Open when working with documents, books and persistence in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-documents.json).
 

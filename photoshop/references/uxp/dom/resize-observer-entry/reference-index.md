@@ -1,4 +1,4 @@
-# Photoshop — Resize observer entry
+# Photoshop - Resize observer entry
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up borderBoxSize : Array&lt;ResizeObserverSize&gt; in Photoshop. [borderBoxSize : Array&lt;ResizeObserverSize&gt;](border-box-size-array-resize-observer-size.md).

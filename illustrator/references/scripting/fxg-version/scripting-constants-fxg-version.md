@@ -1,4 +1,4 @@
-# Scripting Constants — FXGVersion
+# Scripting Constants - FXGVersion
 
 This identifies which FXG file-format version applies.
 

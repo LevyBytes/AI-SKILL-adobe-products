@@ -1,4 +1,4 @@
-# InDesign — ThumbsPerPage
+# InDesign - ThumbsPerPage
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up K1X2 in InDesign. [K1X2](k1-x2.md).

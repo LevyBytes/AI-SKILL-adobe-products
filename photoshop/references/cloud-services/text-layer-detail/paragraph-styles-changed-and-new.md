@@ -1,4 +1,4 @@
-# Paragraph styles — CHANGED and NEW
+# Paragraph styles - CHANGED and NEW
 
 The old paragraph style collection was named `paragraphStyles`:
 

@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: place graphics and manage links
+# InDesign - InDesign document object model: place graphics and manage links
 
-Open when working with place graphics and manage links in InDesign — InDesign document object model.
+Open when working with place graphics and manage links in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-placed-media.json).
 

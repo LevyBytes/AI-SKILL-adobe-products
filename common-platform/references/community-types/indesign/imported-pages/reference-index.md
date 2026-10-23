@@ -1,4 +1,4 @@
-# Shared Adobe platform — ImportedPages
+# Shared Adobe platform - ImportedPages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ImportedPages collection iteration in Shared Adobe platform. [ImportedPages collection iteration](collection-iteration.md).

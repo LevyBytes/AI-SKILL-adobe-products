@@ -13,6 +13,6 @@
   {"topic": "Scrollbar", "file": "references/scripting/user-interface-controls/scrollbar.md", "summary": "Open when looking up Scrollbar in Shared Adobe platform.", "keywords": ["Scrollbar"]},
   {"topic": "Slider", "file": "references/scripting/user-interface-controls/slider.md", "summary": "Open when looking up Slider in Shared Adobe platform.", "keywords": ["Slider"]},
   {"topic": "StaticText", "file": "references/scripting/user-interface-controls/static-text.md", "summary": "Open when looking up StaticText in Shared Adobe platform.", "keywords": ["StaticText"]},
-  {"topic": "Types of controls — User-interface controls", "file": "references/scripting/user-interface-controls/types-of-controls-user-interface-controls.md", "summary": "Open when looking up Types of controls — User-interface controls in Shared Adobe platform.", "keywords": ["Types of controls — User-interface controls"]},
+  {"topic": "Types of controls - User-interface controls", "file": "references/scripting/user-interface-controls/types-of-controls-user-interface-controls.md", "summary": "Open when looking up Types of controls - User-interface controls in Shared Adobe platform.", "keywords": ["Types of controls - User-interface controls"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

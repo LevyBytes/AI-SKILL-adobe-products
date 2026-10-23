@@ -1,4 +1,4 @@
-# Premiere Pro — Xmp xmp const
+# Premiere Pro - Xmp xmp const
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up File format numeric constants in Premiere Pro. [File format numeric constants](file-format-numeric-constants.md).

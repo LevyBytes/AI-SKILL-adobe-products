@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Solid Fill
+# Layer Styles Match Names - Solid Fill
 
 | Match Name | Display Name (EN) |
 | --- | --- |

@@ -1,9 +1,9 @@
-# Media Encoder — Using the Preset Browser
+# Media Encoder - Using the Preset Browser
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding Metadata to Files During Ingest in Media Encoder. [Adding Metadata to Files During Ingest](adding-metadata-to-files-during-ingest.md).
 - Open when looking up Adding Visual Analysis to an Ingest Preset in Media Encoder. [Adding Visual Analysis to an Ingest Preset](adding-visual-analysis-to-an-ingest-preset.md).
-- Open when looking up Adding Visual Analysis to an Ingest Preset — Working with Ingest Outputs in the Queue Panel in Media Encoder. [Adding Visual Analysis to an Ingest Preset — Working with Ingest Outputs in the Queue Panel](working-with-ingest-outputs-in-the-queue-panel.md).
+- Open when looking up Adding Visual Analysis to an Ingest Preset - Working with Ingest Outputs in the Queue Panel in Media Encoder. [Adding Visual Analysis to an Ingest Preset - Working with Ingest Outputs in the Queue Panel](working-with-ingest-outputs-in-the-queue-panel.md).
 - Open when looking up Apply presets or preset groups to the Queue in Media Encoder. [Apply presets or preset groups to the Queue](apply-presets-or-preset-groups-to-the-queue.md).
 - Open when looking up Apply presets or preset groups to Watch Folders in Media Encoder. [Apply presets or preset groups to Watch Folders](apply-presets-or-preset-groups-to-watch-folders.md).
 - Open when looking up Apply presets to After Effects compositions in Media Encoder. [Apply presets to After Effects compositions](apply-presets-to-after-effects-compositions.md).

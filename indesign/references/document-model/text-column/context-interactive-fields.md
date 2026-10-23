@@ -1,6 +1,6 @@
-# InDesign — Text column: interactive fields and behaviors
+# InDesign - Text column: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — Text column.
+Open when checking interactive fields and behaviors in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

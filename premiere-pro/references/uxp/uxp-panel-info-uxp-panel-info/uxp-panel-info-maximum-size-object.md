@@ -1,4 +1,4 @@
-# UxpPanelInfo — maximumSize ⇒ `Object`
+# UxpPanelInfo - maximumSize ⇒ `Object`
 
 **Read only**
 Retrieve the panel maximum size.

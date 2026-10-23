@@ -1,4 +1,4 @@
-# After Effects — Vendors
+# After Effects - Vendors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Boris FX in After Effects. [Boris FX](boris-fx.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — ComboBoxes
+# Shared Adobe platform - ComboBoxes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ComboBoxes collection iteration in Shared Adobe platform. [ComboBoxes collection iteration](collection-iteration.md).

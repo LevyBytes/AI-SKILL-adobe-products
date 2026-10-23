@@ -1,4 +1,4 @@
-# Illustrator — Replace characters with alternate glyphs
+# Illustrator - Replace characters with alternate glyphs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Highlight alternate glyphs in the text in Illustrator. [Highlight alternate glyphs in the text](highlight-alternate-glyphs-in-the-text.md).

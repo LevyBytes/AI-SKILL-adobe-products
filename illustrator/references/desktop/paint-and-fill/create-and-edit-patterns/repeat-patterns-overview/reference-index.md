@@ -1,4 +1,4 @@
-# Illustrator — Repeat patterns overview
+# Illustrator - Repeat patterns overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Grid Repeat in Illustrator. [Grid Repeat](grid-repeat.md).

@@ -1,4 +1,4 @@
-# Entry Point — Entry Point Function Parameters
+# Entry Point - Entry Point Function Parameters
 
 | Argument | Purpose |
 | --- | --- |

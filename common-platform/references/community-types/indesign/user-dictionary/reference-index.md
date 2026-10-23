@@ -1,4 +1,4 @@
-# Shared Adobe platform — UserDictionary
+# Shared Adobe platform - UserDictionary
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up UserDictionary declaration in Shared Adobe platform. [UserDictionary declaration](declaration.md).

@@ -1,4 +1,4 @@
-# window.CharacterData — deleteData(offset, count)
+# window.CharacterData - deleteData(offset, count)
 
 | Param | Type |
 | --- | --- |

@@ -1,4 +1,4 @@
-# Workspace basics — Delete a custom workspace
+# Workspace basics - Delete a custom workspace
 
 Open Manage Workspaces from the workspace switcher in the Application bar, choose the workspace, then click Delete. (Fireworks does not offer this option.)
 

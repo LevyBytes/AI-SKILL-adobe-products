@@ -1,4 +1,4 @@
-# Premiere Pro — Inter Plugin Communication
+# Premiere Pro - Inter Plugin Communication
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional notes in Premiere Pro. [Additional notes](additional-notes.md).

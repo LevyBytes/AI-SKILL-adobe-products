@@ -1,4 +1,4 @@
-# Tabs and indents — Specify characters for decimal tabs
+# Tabs and indents - Specify characters for decimal tabs
 
 With decimal tabs, text aligns on a user-chosen character, for example a period or dollar sign.
 

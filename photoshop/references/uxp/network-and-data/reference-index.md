@@ -1,4 +1,4 @@
-# Photoshop — Network and data
+# Photoshop - Network and data
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blob in Photoshop. [Blob references](blob/reference-index.md).

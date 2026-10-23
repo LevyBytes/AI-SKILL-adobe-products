@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: footnotes, endnotes and notes
+# InDesign - InDesign document object model: footnotes, endnotes and notes
 
-Open when working with footnotes, endnotes and notes in InDesign — InDesign document object model.
+Open when working with footnotes, endnotes and notes in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-notes.json).
 

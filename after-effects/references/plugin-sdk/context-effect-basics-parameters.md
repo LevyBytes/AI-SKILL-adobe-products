@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: parameters
+# After Effects - C++ plugin SDK: parameters
 
-Open when working with parameters in After Effects — C++ plugin SDK.
+Open when working with parameters in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-basics-parameters.json).
 

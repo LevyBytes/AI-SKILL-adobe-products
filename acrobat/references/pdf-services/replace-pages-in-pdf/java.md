@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ReplacePDFPages.java](../examples/java/replace-pdf-pages/ReplacePDFPages.java)
+- [replace-pdf-pages setup and source](../examples/java/replace-pdf-pages/replace-pdf-pages-setup.md)

@@ -1,6 +1,6 @@
-# InDesign — Html item: hyperlinks, indexes and cross-references
+# InDesign - Html item: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — Html item.
+Open when checking hyperlinks, indexes and cross-references in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

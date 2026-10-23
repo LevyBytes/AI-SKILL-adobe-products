@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: team projects and collaboration
+# Premiere Pro - Desktop workflows: team projects and collaboration
 
-Open when working with team projects and collaboration in Premiere Pro — Desktop workflows.
+Open when working with team projects and collaboration in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-team-projects.json).
 

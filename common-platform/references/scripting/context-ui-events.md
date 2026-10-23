@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: ui callbacks, input and event listeners
+# Shared Adobe platform - Scripting APIs: ui callbacks, input and event listeners
 
-Open when working with ui callbacks, input and event listeners in Shared Adobe platform — Scripting APIs.
+Open when working with ui callbacks, input and event listeners in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-events.json).
 

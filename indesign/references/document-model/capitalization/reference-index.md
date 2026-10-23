@@ -1,4 +1,4 @@
-# InDesign — Capitalization
+# InDesign - Capitalization
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ALL_CAPS in InDesign. [ALL_CAPS](allcaps.md).

@@ -1,4 +1,4 @@
-# Work with swatches — Create color swatches
+# Work with swatches - Create color swatches
 
 A swatch may define spot or process colors, mixed inks made from process colors plus one or more spot colors, RGB or Lab colors, gradients, or tints.
 

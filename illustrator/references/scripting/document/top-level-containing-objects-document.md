@@ -1,4 +1,4 @@
-# Top-Level (containing) Objects — Document
+# Top-Level (containing) Objects - Document
 
 A document object represents an Illustrator art canvas or an opened Illustrator file; scripts can create one or obtain it through the application object.
 

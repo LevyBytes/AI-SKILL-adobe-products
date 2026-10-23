@@ -1,6 +1,6 @@
-# InDesign — Check box: fill, stroke and transparency
+# InDesign - Check box: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Check box.
+Open when checking fill, stroke and transparency in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

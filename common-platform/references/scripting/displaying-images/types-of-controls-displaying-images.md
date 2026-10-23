@@ -1,4 +1,4 @@
-# Types of controls — Displaying images
+# Types of controls - Displaying images
 
 Image and IconButton controls can show icon images. Listbox or DropdownList controls can also use images as selectable items, either instead of text strings or alongside them. Each of these uses the element's image property. The property value may be a named icon resource, a ScriptUIImage object, a File object, a path string pointing to the image file, or a path string for an alias or shortcut to that file; see Specifying paths.
 

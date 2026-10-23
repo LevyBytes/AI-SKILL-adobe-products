@@ -1,4 +1,4 @@
-# Audition — How to import files with Files panel
+# Audition - How to import files with Files panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change displayed metadata in the Files panel in Audition. [Change displayed metadata in the Files panel](change-displayed-metadata-in-the-files-panel.md).

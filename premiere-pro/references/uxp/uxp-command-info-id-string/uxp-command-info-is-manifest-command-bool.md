@@ -1,4 +1,4 @@
-# UxpCommandInfo — isManifestCommand ⇒ `bool`
+# UxpCommandInfo - isManifestCommand ⇒ `bool`
 
 Retrieves the `isManifestCommand` value.
 

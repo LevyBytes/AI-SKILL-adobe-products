@@ -1,4 +1,4 @@
-# Scripting Constants — FigureStyleType
+# Scripting Constants - FigureStyleType
 
 | Value | Description |
 | --- | --- |

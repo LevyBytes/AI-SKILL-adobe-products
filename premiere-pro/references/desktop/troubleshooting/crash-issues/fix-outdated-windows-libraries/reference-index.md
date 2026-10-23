@@ -1,4 +1,4 @@
-# Premiere Pro — Fix outdated Windows Libraries
+# Premiere Pro - Fix outdated Windows Libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Need more help? in Premiere Pro. [Need more help?](need-more-help.md).

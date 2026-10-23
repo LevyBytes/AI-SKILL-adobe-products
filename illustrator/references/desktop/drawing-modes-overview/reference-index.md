@@ -1,4 +1,4 @@
-# Illustrator — Drawing modes overview
+# Illustrator - Drawing modes overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Draw Behind Mode in Illustrator. [Draw Behind Mode](draw-behind-mode.md).

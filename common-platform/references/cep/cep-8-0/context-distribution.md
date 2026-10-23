@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 8 0: signing and distribution
+# Shared Adobe platform - Cep 8 0: signing and distribution
 
-Open when working with signing and distribution in Shared Adobe platform — Cep 8 0.
+Open when working with signing and distribution in Shared Adobe platform - Cep 8 0.
 
 Open when selecting an exact reference: [Topic catalog](context-distribution.json).
 

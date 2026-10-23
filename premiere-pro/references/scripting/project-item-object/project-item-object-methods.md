@@ -1,4 +1,4 @@
-# ProjectItem object — Methods
+# ProjectItem object - Methods
 
 - 0 = Violet
 - 1 = Iris

@@ -1,4 +1,4 @@
-# `PF_EffectWorld` / `PF_LayerDef` — Rowbytes In `PF_EffectWorlds`
+# `PF_EffectWorld` / `PF_LayerDef` - Rowbytes In `PF_EffectWorlds`
 
 Don't count on reaching a `PF_EffectWorld`'s next scanline with (width \* sizeof(current_pixel_type)) + 4 or anything similar; rely on the `PF_EffectWorld`'s rowbytes instead.
 

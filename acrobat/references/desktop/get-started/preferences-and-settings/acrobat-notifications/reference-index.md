@@ -1,4 +1,4 @@
-# Acrobat — Acrobat notifications
+# Acrobat - Acrobat notifications
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Fill, sign, and send workflow in Acrobat. [Fill, sign, and send workflow](fill-sign-and-send-workflow.md).

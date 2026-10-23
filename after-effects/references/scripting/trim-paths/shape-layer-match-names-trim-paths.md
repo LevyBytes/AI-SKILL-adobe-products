@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Trim Paths
+# Shape Layer Match Names - Trim Paths
 
 | Match Name | Display Name (EN) |
 | --- | --- |

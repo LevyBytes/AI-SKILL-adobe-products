@@ -1,4 +1,4 @@
-# Scripting Constants — VariableKind
+# Scripting Constants - VariableKind
 
 Identifies the included variable category.
 

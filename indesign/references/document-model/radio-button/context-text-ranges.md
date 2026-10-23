@@ -1,6 +1,6 @@
-# InDesign — RadioButton: text ranges and containers
+# InDesign - RadioButton: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — RadioButton.
+Open when checking text ranges and containers in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

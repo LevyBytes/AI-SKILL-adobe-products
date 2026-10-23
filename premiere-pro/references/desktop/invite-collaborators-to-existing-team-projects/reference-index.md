@@ -1,4 +1,4 @@
-# Premiere Pro — Invite collaborators to existing team projects
+# Premiere Pro - Invite collaborators to existing team projects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Invite groups to collaborate in Premiere Pro. [Invite groups to collaborate](invite-groups-to-collaborate.md).

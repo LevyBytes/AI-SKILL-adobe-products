@@ -1,4 +1,4 @@
-# SmartFX — Flag On The Play
+# SmartFX - Flag On The Play
 
 Ordinarily a given `PF_RenderRequest` has its max_result_rect clipped to whatever applied mask bounds it.
 

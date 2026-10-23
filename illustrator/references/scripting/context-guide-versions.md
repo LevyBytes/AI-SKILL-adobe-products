@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: version-specific scripting changes
+# Illustrator - Scripting APIs: version-specific scripting changes
 
-Open when working with version-specific scripting changes in Illustrator — Scripting APIs.
+Open when working with version-specific scripting changes in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-guide-versions.json).
 

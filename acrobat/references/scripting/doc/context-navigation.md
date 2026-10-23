@@ -1,6 +1,6 @@
-# Acrobat — Doc: document windows, navigation and zoom
+# Acrobat - Doc: document windows, navigation and zoom
 
-Open when working with document windows, navigation and zoom in Acrobat — Doc.
+Open when working with document windows, navigation and zoom in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-navigation.json).
 

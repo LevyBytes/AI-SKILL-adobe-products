@@ -1,4 +1,4 @@
-# InDesign — HyphenationStyleEnum
+# InDesign - HyphenationStyleEnum
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HYPH_AESTHETIC in InDesign. [HYPH_AESTHETIC](hyphaesthetic.md).

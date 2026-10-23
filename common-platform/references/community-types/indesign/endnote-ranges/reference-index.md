@@ -1,4 +1,4 @@
-# Shared Adobe platform — EndnoteRanges
+# Shared Adobe platform - EndnoteRanges
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EndnoteRanges collection iteration in Shared Adobe platform. [EndnoteRanges collection iteration](collection-iteration.md).

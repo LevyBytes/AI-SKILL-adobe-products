@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: web photo gallery output
+# Shared Adobe platform - Photoshop: web photo gallery output
 
-Open when working with web photo gallery output in Shared Adobe platform — Photoshop.
+Open when working with web photo gallery output in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-web-galleries.json).
 

@@ -1,4 +1,4 @@
-# Endnotes — Work with endnote text
+# Endnotes - Work with endnote text
 
 While editing endnote text, keep these behaviors in mind:
 

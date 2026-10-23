@@ -1,4 +1,4 @@
-# Tracking and reviewing changes — Turn off change tracking
+# Tracking and reviewing changes - Turn off change tracking
 
 Put the insertion point in text, then choose the needed action:
 

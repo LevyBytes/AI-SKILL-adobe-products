@@ -1,4 +1,4 @@
-# Shared Adobe platform — GotoURLBehaviors
+# Shared Adobe platform - GotoURLBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GotoURLBehaviors collection iteration in Shared Adobe platform. [GotoURLBehaviors collection iteration](collection-iteration.md).

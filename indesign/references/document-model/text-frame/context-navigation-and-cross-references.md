@@ -1,6 +1,6 @@
-# InDesign — TextFrame: hyperlinks, indexes and cross-references
+# InDesign - TextFrame: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — TextFrame.
+Open when checking hyperlinks, indexes and cross-references in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Text: fill, stroke and transparency
+# Shared Adobe platform - Text: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in Shared Adobe platform — Text.
+Open when checking fill, stroke and transparency in Shared Adobe platform - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

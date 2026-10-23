@@ -1,4 +1,4 @@
-# Parameters & Floating Point Values — `PF_AngleParamSuite1`
+# Parameters & Floating Point Values`PF_AngleParamSuite1`
 
 As of CS6.0.2, angle parameters can likewise be retrieved in floating-point form.
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: status bar information
+# Shared Adobe platform - Application: status bar information
 
-Open when working with status bar information in Shared Adobe platform — Application.
+Open when working with status bar information in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-view-status.json).
 

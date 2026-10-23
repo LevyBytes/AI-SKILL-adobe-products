@@ -1,4 +1,4 @@
-# Acrobat — Error while printing pdfs in acrobat
+# Acrobat - Error while printing pdfs in acrobat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat isn't updated in Acrobat. [Acrobat isn't updated](acrobat-isn-t-updated.md).

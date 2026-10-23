@@ -1,4 +1,4 @@
-# InDesign — Override table style
+# InDesign - Override table style
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply formatting to create an override in InDesign. [Apply formatting to create an override](apply-formatting-to-create-an-override.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Time effects
+# Premiere Pro - Time effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Echo effect in Premiere Pro. [Echo effect](echo-effect.md).

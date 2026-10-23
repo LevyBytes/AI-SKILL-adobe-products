@@ -1,4 +1,4 @@
-# Selecting and editing tables — Change the alignment of a table within a frame
+# Selecting and editing tables - Change the alignment of a table within a frame
 
 A table takes on the width of the paragraph or table cell where it was created. The text frame or table can still be resized so the table becomes wider or narrower than the frame. When the sizes differ, choose the table's alignment position inside the frame.
 

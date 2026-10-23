@@ -1,4 +1,4 @@
-# Scripting Constants — DocumentTransparencyGrid
+# Scripting Constants - DocumentTransparencyGrid
 
 Document transparency-grid color choices.
 

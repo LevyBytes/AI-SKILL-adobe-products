@@ -1,4 +1,4 @@
-# Scripting Constants — StrokeJoin
+# Scripting Constants - StrokeJoin
 
 Path strokes use these join styles at corners.
 

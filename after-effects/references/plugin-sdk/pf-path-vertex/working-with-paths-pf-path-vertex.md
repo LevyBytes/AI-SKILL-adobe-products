@@ -1,4 +1,4 @@
-# Working With Paths — `PF_PathVertex`
+# Working With Paths`PF_PathVertex`
 
 | Member | Description |
 | --- | --- |

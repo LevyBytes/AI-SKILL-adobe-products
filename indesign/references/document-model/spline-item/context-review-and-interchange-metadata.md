@@ -1,6 +1,6 @@
-# InDesign — SplineItem: document metadata and imported review
+# InDesign - SplineItem: document metadata and imported review
 
-Open when checking document metadata and imported review in InDesign — SplineItem.
+Open when checking document metadata and imported review in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

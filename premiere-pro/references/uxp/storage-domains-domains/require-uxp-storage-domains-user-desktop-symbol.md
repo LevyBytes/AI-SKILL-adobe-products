@@ -1,3 +1,3 @@
-# require('uxp').storage.domains — userDesktop : `Symbol`
+# require('uxp').storage.domains - userDesktop : `Symbol`
 
 The user's desktop folder

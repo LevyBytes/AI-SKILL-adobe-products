@@ -1,4 +1,4 @@
-# Illustrator — Justify text using Kashida and hyphenation
+# Illustrator - Justify text using Kashida and hyphenation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automatic Kashida insertion in Illustrator. [Automatic Kashida insertion](automatic-kashida-insertion.md).

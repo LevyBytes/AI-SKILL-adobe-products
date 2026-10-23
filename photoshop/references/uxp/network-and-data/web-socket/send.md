@@ -1,4 +1,4 @@
-# window.WebSocket — send(data)
+# window.WebSocket - send(data)
 
 Queues data for delivery to the peer over the WebSocket connection,
 and raises bufferedAmount by the byte count required for that payload.

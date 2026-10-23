@@ -1,4 +1,4 @@
-# Scripting Constants — ColorModel
+# Scripting Constants - ColorModel
 
 Color model selection.
 

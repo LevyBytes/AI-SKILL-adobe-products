@@ -1,4 +1,4 @@
-# Photoshop — Create and fill with patterns
+# Photoshop - Create and fill with patterns
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new pattern in Photoshop. [Create a new pattern](create-a-new-pattern.md).

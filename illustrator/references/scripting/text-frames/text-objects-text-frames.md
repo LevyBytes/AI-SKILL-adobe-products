@@ -1,4 +1,4 @@
-# Text Objects — Text Frames
+# Text Objects - Text Frames
 
 Text frames are available in three forms:
 

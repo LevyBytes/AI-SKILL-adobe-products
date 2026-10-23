@@ -1,4 +1,4 @@
-# InDesign — CSS styling
+# InDesign - CSS styling
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional notes in InDesign. [Additional notes](additional-notes.md).

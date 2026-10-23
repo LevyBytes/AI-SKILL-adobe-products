@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — open(method, url, [async], [user], [password])
+# window.XMLHttpRequest - open(method, url, [async], [user], [password])
 
 Use open() to start a new request definition or replace the current one.
 HTTPS connections with self-signed certificates are not supported at this time.

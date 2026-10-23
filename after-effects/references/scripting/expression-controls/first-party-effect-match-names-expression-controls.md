@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Expression Controls
+# First-Party Effect Match Names - Expression Controls
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

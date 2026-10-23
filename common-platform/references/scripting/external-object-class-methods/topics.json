@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ExternalObject object — ExternalObject Class Methods", "file": "references/scripting/external-object-class-methods/external-object-object-external-object-class-methods.md", "summary": "Open when looking up ExternalObject object — ExternalObject Class Methods in Shared Adobe platform.", "keywords": ["ExternalObject object — ExternalObject Class Methods"]},
+  {"topic": "ExternalObject object - ExternalObject Class Methods", "file": "references/scripting/external-object-class-methods/external-object-object-external-object-class-methods.md", "summary": "Open when looking up ExternalObject object - ExternalObject Class Methods in Shared Adobe platform.", "keywords": ["ExternalObject object - ExternalObject Class Methods"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

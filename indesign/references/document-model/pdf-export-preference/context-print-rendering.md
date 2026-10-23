@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreference: print rendering, fonts and image data
+# InDesign - PDFExportPreference: print rendering, fonts and image data
 
-Open when checking print rendering, fonts and image data in InDesign — PDFExportPreference.
+Open when checking print rendering, fonts and image data in InDesign - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-rendering.json).
 

@@ -1,4 +1,4 @@
-# Analytics — Basic events
+# Analytics - Basic events
 
 Beyond the PDF analytics events, the PDF Embed API also raises events that reveal what users do around file preview. The same events callback delivers them. With that callback registered, these file preview events fire:
 

@@ -1,4 +1,4 @@
-# Acrobat — Manage Adobe cloud files
+# Acrobat - Manage Adobe cloud files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe cloud storage data centers in Acrobat. [Adobe cloud storage data centers](adobe-cloud-storage-data-centers.md).

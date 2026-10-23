@@ -1,4 +1,4 @@
-# Save and export audio files — MP2 Audio format settings
+# Save and export audio files - MP2 Audio format settings
 
 MP2 (MPEG-1 Audio Layer II) is a lossy compression format widely used in radio broadcasting.
 

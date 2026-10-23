@@ -1,4 +1,4 @@
-# JavaScript APIs — this
+# JavaScript APIs - this
 
 Inside JavaScript, the reserved word this points at the current object. Acrobat fixes what the current object is as follows:
 

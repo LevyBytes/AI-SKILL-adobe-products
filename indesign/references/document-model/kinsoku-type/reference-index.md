@@ -1,4 +1,4 @@
-# InDesign — KinsokuType
+# InDesign - KinsokuType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up KINSOKU_PRIORITIZE_ADJUSTMENT_AMOUNT in InDesign. [KINSOKU_PRIORITIZE_ADJUSTMENT_AMOUNT](kinsokuprioritizeadjustmentamount.md).

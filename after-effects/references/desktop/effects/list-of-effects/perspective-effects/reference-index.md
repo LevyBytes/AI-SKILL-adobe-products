@@ -1,4 +1,4 @@
-# After Effects — Perspective Effects
+# After Effects - Perspective Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Camera Tracker in After Effects. [3D Camera Tracker](3-d-camera-tracker.md).

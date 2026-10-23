@@ -1,6 +1,6 @@
-# InDesign — Eps text: cloud documents, libraries and collaboration
+# InDesign - Eps text: cloud documents, libraries and collaboration
 
-Open when checking cloud documents, libraries and collaboration in InDesign — Eps text.
+Open when checking cloud documents, libraries and collaboration in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-cloud-and-collaboration.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: create, open, save and recover documents
+# Shared Adobe platform - Application: create, open, save and recover documents
 
-Open when checking create, open, save and recover documents in Shared Adobe platform — Application.
+Open when checking create, open, save and recover documents in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-document-lifecycle.json).
 

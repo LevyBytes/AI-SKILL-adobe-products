@@ -1,4 +1,4 @@
-# InDesign — What s new
+# InDesign - What s new
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe InDesign (Beta) overview in InDesign. [Adobe InDesign (Beta) overview](adobe-in-design-beta-overview.md).

@@ -1,4 +1,4 @@
-# InDesign — Adjust rows, columns, and cells in tables
+# InDesign - Adjust rows, columns, and cells in tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change spacing before or after a table in InDesign. [Change spacing before or after a table](change-spacing-before-or-after-a-table.md).

@@ -1,4 +1,4 @@
-# InDesign — Add, move, or duplicate objects across layers
+# InDesign - Add, move, or duplicate objects across layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add new objects to a specific layer in InDesign. [Add new objects to a specific layer](add-new-objects-to-a-specific-layer.md).

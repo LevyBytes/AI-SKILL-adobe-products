@@ -1,4 +1,4 @@
-# Hyperlinks — Editing hyperlinks imported from Word
+# Hyperlinks - Editing hyperlinks imported from Word
 
 After importing a Microsoft Word file that contains hyperlinks into an InDesign document, hyperlink URLs may show a box or border, for example www.adobe.com. The imported InDesign file also gets a blue swatch named Word\_`R0_G0_B255`. It also receives a “Hyperlink” character style, which applies underlining and the blue color to the text.
 

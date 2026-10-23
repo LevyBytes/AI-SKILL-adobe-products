@@ -1,4 +1,4 @@
-# Premiere Pro — Metadata
+# Premiere Pro - Metadata
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Metadata object in Premiere Pro. [Metadata object](metadata-object.md).

@@ -1,4 +1,4 @@
-# Photoshop — Html
+# Photoshop - Html
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up body in Photoshop. [body](body.md).

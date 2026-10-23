@@ -1,4 +1,4 @@
-# Checking spelling — Spell-check
+# Checking spelling - Spell-check
 
 German permits several valid spellings for many words, including Delphin vs Delfin and Graphik vs Grafik.
 

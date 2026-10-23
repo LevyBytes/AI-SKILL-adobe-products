@@ -1,6 +1,6 @@
-# InDesign — SVG: placement, bounds and transformations
+# InDesign - SVG: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — SVG.
+Open when checking placement, bounds and transformations in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

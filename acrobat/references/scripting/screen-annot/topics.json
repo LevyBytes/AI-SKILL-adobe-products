@@ -7,7 +7,7 @@
   {"topic": "extFocusRect", "file": "references/scripting/screen-annot/ext-focus-rect.md", "summary": "Open when looking up extFocusRect in Acrobat.", "keywords": ["extFocusRect"]},
   {"topic": "hasFocus", "file": "references/scripting/screen-annot/has-focus.md", "summary": "Open when looking up hasFocus in Acrobat.", "keywords": ["hasFocus"]},
   {"topic": "innerDeviceRect", "file": "references/scripting/screen-annot/inner-device-rect.md", "summary": "Open when looking up innerDeviceRect in Acrobat.", "keywords": ["innerDeviceRect"]},
-  {"topic": "JavaScript APIs — ScreenAnnot", "file": "references/scripting/screen-annot/java-script-apis-screen-annot.md", "summary": "Open when looking up JavaScript APIs — ScreenAnnot in Acrobat.", "keywords": ["JavaScript APIs — ScreenAnnot"]},
+  {"topic": "JavaScript APIs - ScreenAnnot", "file": "references/scripting/screen-annot/java-script-apis-screen-annot.md", "summary": "Open when looking up JavaScript APIs - ScreenAnnot in Acrobat.", "keywords": ["JavaScript APIs - ScreenAnnot"]},
   {"topic": "noTrigger", "file": "references/scripting/screen-annot/no-trigger.md", "summary": "Open when looking up noTrigger in Acrobat.", "keywords": ["noTrigger"]},
   {"topic": "outerDeviceRect", "file": "references/scripting/screen-annot/outer-device-rect.md", "summary": "Open when looking up outerDeviceRect in Acrobat.", "keywords": ["outerDeviceRect"]},
   {"topic": "page", "file": "references/scripting/screen-annot/page.md", "summary": "Open when looking up page in Acrobat.", "keywords": ["page"]},

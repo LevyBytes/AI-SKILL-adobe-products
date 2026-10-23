@@ -1,4 +1,4 @@
-# JavaScript APIs — TableInfo
+# JavaScript APIs - TableInfo
 
 Holding nothing but the essentials about a table, this generic JavaScript object comes back from connection.getTableList and carries the properties below.
 

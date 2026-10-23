@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: help and application information
+# Shared Adobe platform - Application: help and application information
 
-Open when working with help and application information in Shared Adobe platform — Application.
+Open when working with help and application information in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-help-commands.json).
 

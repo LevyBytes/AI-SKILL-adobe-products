@@ -1,4 +1,4 @@
-# InDesign — Modify and adjust gradients
+# InDesign - Modify and adjust gradients
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust gradient colors and transitions in InDesign. [Adjust gradient colors and transitions](adjust-gradient-colors-and-transitions.md).

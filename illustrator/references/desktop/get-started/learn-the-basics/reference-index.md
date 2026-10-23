@@ -1,4 +1,4 @@
-# Illustrator — Learn the basics
+# Illustrator - Learn the basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Contextual Task Bar overview in Illustrator. [Contextual Task Bar overview](contextual-task-bar-overview.md).

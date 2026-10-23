@@ -1,4 +1,4 @@
-# Formatting characters — Add transparency effects to text
+# Formatting characters - Add transparency effects to text
 
 Add transparency treatments, including drop shadows, to text through the Effects panel.
 

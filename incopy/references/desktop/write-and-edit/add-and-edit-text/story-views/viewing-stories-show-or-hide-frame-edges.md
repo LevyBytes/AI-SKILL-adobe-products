@@ -1,4 +1,4 @@
-# Viewing stories — Show or hide frame edges
+# Viewing stories - Show or hide frame edges
 
 When frame edges are hidden, the X in an empty graphics frame is hidden as well.
 

@@ -1,4 +1,4 @@
-# UxpPluginInfo — version ⇒ `String`
+# UxpPluginInfo - version ⇒ `String`
 
 Retrieve the plugin version.
 

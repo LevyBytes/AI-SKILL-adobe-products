@@ -1,4 +1,4 @@
-# Photoshop — Use the measurement log for performing measurements
+# Photoshop - Use the measurement log for performing measurements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Measure and record data in Photoshop. [Measure and record data](measure-and-record-data.md).

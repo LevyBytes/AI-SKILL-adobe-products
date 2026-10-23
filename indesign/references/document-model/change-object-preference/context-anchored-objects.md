@@ -1,6 +1,6 @@
-# InDesign — ChangeObjectPreference: anchored object placement
+# InDesign - ChangeObjectPreference: anchored object placement
 
-Open when checking anchored object placement in InDesign — ChangeObjectPreference.
+Open when checking anchored object placement in InDesign - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

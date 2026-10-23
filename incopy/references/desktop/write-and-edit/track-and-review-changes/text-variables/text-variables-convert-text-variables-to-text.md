@@ -1,4 +1,4 @@
-# Text variables — Convert text variables to text
+# Text variables - Convert text variables to text
 
 For one instance, highlight the text variable in the document window, then use Type > Text Variables > Convert Variable To Text.
 

@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: placement, bounds and transformations
+# InDesign - ImportedPage: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — ImportedPage.
+Open when checking placement, bounds and transformations in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

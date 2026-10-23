@@ -1,4 +1,4 @@
-# Command Selectors — What's The Difference?
+# Command Selectors - What's The Difference?
 
 A fine distinction separates `PF_Cmd_USER_CHANGED_PARAM` from `PF_Cmd_UPDATE_PARAMS_UI`.
 

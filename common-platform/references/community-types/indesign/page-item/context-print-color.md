@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: output color, screening and overprint
+# Shared Adobe platform - PageItem: output color, screening and overprint
 
-Open when checking output color, screening and overprint in Shared Adobe platform — PageItem.
+Open when checking output color, screening and overprint in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

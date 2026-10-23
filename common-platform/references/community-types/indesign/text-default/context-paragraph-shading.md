@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: paragraph shading
+# Shared Adobe platform - TextDefault: paragraph shading
 
-Open when checking paragraph shading in Shared Adobe platform — TextDefault.
+Open when checking paragraph shading in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

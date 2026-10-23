@@ -1,4 +1,4 @@
-# Photoshop — Spot color libraries
+# Photoshop - Spot color libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ANPA-COLOR in Photoshop. [ANPA-COLOR](anpa-color.md).

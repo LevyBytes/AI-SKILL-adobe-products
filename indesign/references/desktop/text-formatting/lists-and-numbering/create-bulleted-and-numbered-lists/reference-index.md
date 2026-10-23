@@ -1,4 +1,4 @@
-# InDesign — Create bulleted and numbered lists
+# InDesign - Create bulleted and numbered lists
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert list bullets, numbers, or both to text in InDesign. [Convert list bullets, numbers, or both to text](convert-list-bullets-numbers-or-both-to-text.md).

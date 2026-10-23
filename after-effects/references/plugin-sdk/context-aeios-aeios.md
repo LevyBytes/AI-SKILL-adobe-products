@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: aeios
+# After Effects - C++ plugin SDK: aeios
 
-Open when working with aeios in After Effects — C++ plugin SDK.
+Open when working with aeios in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aeios-aeios.json).
 

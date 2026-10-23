@@ -1,6 +1,6 @@
-# InDesign — Oval: movie and sound playback
+# InDesign - Oval: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — Oval.
+Open when checking movie and sound playback in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

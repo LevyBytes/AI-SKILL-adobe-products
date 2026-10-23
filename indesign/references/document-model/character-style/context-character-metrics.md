@@ -1,6 +1,6 @@
-# InDesign — CharacterStyle: character spacing and geometry
+# InDesign - CharacterStyle: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — CharacterStyle.
+Open when checking character spacing and geometry in InDesign - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

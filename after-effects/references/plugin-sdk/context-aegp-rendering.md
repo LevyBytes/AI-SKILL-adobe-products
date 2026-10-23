@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: aegp rendering, cameras and output
+# After Effects - C++ plugin SDK: aegp rendering, cameras and output
 
-Open when working with aegp rendering, cameras and output in After Effects — C++ plugin SDK.
+Open when working with aegp rendering, cameras and output in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegp-rendering.json).
 

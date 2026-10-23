@@ -1,4 +1,4 @@
-# Output Types Migration Guide — Structural changes (all output types)
+# Output Types Migration Guide - Structural changes (all output types)
 
 **Key structural changes:**
 

@@ -1,4 +1,4 @@
-# Composing CJK characters — Change the display of mojikumi presets
+# Composing CJK characters - Change the display of mojikumi presets
 
 Open Mojikumi Options preferences: Edit > Preferences > Mojikumi Options (Windows) or InCopy > Preferences > Mojikumi Options (Mac OS). Then mark the entries that should appear in the Mojikumi pop-up menu and click OK.
 

@@ -1,4 +1,4 @@
-# Photoshop — Validation checklist
+# Photoshop - Validation checklist
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Action operations specific in Photoshop. [Action operations specific](action-operations-specific.md).

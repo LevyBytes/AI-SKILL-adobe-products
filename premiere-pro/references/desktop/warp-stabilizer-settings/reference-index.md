@@ -1,4 +1,4 @@
-# Premiere Pro — Warp stabilizer settings
+# Premiere Pro - Warp stabilizer settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Borders in Premiere Pro. [Borders](borders.md).

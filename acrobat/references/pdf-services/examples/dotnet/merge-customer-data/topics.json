@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Merge customer data example setup", "file": "references/pdf-services/examples/dotnet/merge-customer-data/merge-customer-data-setup.md", "summary": "Open when looking up Merge customer data example setup in Acrobat.", "keywords": ["Merge customer data example setup"]},
-  {"topic": "MergeDocumentToPDF", "file": "references/pdf-services/examples/dotnet/merge-customer-data/Program.cs", "summary": "Open when looking up MergeDocumentToPDF in Acrobat.", "keywords": ["MergeDocumentToPDF"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

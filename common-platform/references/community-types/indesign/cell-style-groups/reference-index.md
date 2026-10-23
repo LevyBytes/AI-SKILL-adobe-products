@@ -1,4 +1,4 @@
-# Shared Adobe platform — CellStyleGroups
+# Shared Adobe platform - CellStyleGroups
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CellStyleGroups collection iteration in Shared Adobe platform. [CellStyleGroups collection iteration](collection-iteration.md).

@@ -1,21 +1,21 @@
-# Audition — Save and export audio files — Save audio files
+# Audition - Save and export audio files - Save audio files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Save and export audio files — AIFF format settings (_aif, _.aiff, \*.aifc) in Audition. [Save and export audio files — AIFF format settings (_aif, _.aiff, \*.aifc)](aiff-format-settings-aif-aiff-aifc.md).
-- Open when looking up Save and export audio files — Audio format settings in Audition. [Save and export audio files — Audio format settings](save-and-export-audio-files-audio-format-settings.md).
-- Open when looking up Save and export audio files — Close files in Audition. [Save and export audio files — Close files](save-and-export-audio-files-close-files.md).
-- Open when looking up Save and export audio files — Export multitrack mixdown files in Audition. [Save and export audio files — Export multitrack mixdown files](save-and-export-audio-files-export-multitrack-mixdown-files.md).
-- Open when looking up Save and export audio files — Export session archives in Audition. [Save and export audio files — Export session archives](save-and-export-audio-files-export-session-archives.md).
-- Open when looking up Save and export audio files — Export session templates in Audition. [Save and export audio files — Export session templates](save-and-export-audio-files-export-session-templates.md).
-- Open when looking up Save and export audio files — Export sessions to OMF or Final Cut Pro Interchange format in Audition. [Save and export audio files — Export sessions to OMF or Final Cut Pro Interchange format](export-sessions-to-omf-or-final-cut-pro-interchange-format.md).
-- Open when looking up Save and export audio files — Export to Final Cut Pro Interchange format in Audition. [Save and export audio files — Export to Final Cut Pro Interchange format](export-to-final-cut-pro-interchange-format.md).
-- Open when looking up Save and export audio files — Export to OMF in Audition. [Save and export audio files — Export to OMF](save-and-export-audio-files-export-to-omf.md).
-- Open when looking up Save and export audio files — Export with Adobe Media Encoder in Audition. [Save and export audio files — Export with Adobe Media Encoder](save-and-export-audio-files-export-with-adobe-media-encoder.md).
-- Open when looking up Save and export audio files — Extract audio channels to mono files in Audition. [Save and export audio files — Extract audio channels to mono files](extract-audio-channels-to-mono-files.md).
-- Open when looking up Save and export audio files — libsndfile, FLAC, and OGG format settings in Audition. [Save and export audio files — libsndfile, FLAC, and OGG format settings](libsndfile-flac-and-ogg-format-settings.md).
-- Open when looking up Save and export audio files — Monkey's Audio format settings (.ape) in Audition. [Save and export audio files — Monkey's Audio format settings (.ape)](monkey-s-audio-format-settings-ape.md).
-- Open when looking up Save and export audio files — MP2 Audio format settings in Audition. [Save and export audio files — MP2 Audio format settings](save-and-export-audio-files-mp2-audio-format-settings.md).
-- Open when looking up Save and export audio files — MP3 format settings in Audition. [Save and export audio files — MP3 format settings](save-and-export-audio-files-mp3-format-settings.md).
-- Open when looking up Save and export audio files — QuickTime format settings (audio-only \*.mov) in Audition. [Save and export audio files — QuickTime format settings (audio-only \*.mov)](quicktime-format-settings-audio-only-mov.md).
-- Open when looking up Save and export audio files — Save multitrack sessions in Audition. [Save and export audio files — Save multitrack sessions](save-and-export-audio-files-save-multitrack-sessions.md).
-- Open when looking up Save and export audio files — Wave PCM format settings (.wav, .bwf) in Audition. [Save and export audio files — Wave PCM format settings (.wav, .bwf)](save-and-export-audio-files-wave-pcm-format-settings-wav-bwf.md).
+- Open when looking up Save and export audio files - AIFF format settings (_aif, _.aiff, \*.aifc) in Audition. [Save and export audio files - AIFF format settings (_aif, _.aiff, \*.aifc)](aiff-format-settings-aif-aiff-aifc.md).
+- Open when looking up Save and export audio files - Audio format settings in Audition. [Save and export audio files - Audio format settings](save-and-export-audio-files-audio-format-settings.md).
+- Open when looking up Save and export audio files - Close files in Audition. [Save and export audio files - Close files](save-and-export-audio-files-close-files.md).
+- Open when looking up Save and export audio files - Export multitrack mixdown files in Audition. [Save and export audio files - Export multitrack mixdown files](save-and-export-audio-files-export-multitrack-mixdown-files.md).
+- Open when looking up Save and export audio files - Export session archives in Audition. [Save and export audio files - Export session archives](save-and-export-audio-files-export-session-archives.md).
+- Open when looking up Save and export audio files - Export session templates in Audition. [Save and export audio files - Export session templates](save-and-export-audio-files-export-session-templates.md).
+- Open when looking up Save and export audio files - Export sessions to OMF or Final Cut Pro Interchange format in Audition. [Save and export audio files - Export sessions to OMF or Final Cut Pro Interchange format](export-sessions-to-omf-or-final-cut-pro-interchange-format.md).
+- Open when looking up Save and export audio files - Export to Final Cut Pro Interchange format in Audition. [Save and export audio files - Export to Final Cut Pro Interchange format](export-to-final-cut-pro-interchange-format.md).
+- Open when looking up Save and export audio files - Export to OMF in Audition. [Save and export audio files - Export to OMF](save-and-export-audio-files-export-to-omf.md).
+- Open when looking up Save and export audio files - Export with Adobe Media Encoder in Audition. [Save and export audio files - Export with Adobe Media Encoder](save-and-export-audio-files-export-with-adobe-media-encoder.md).
+- Open when looking up Save and export audio files - Extract audio channels to mono files in Audition. [Save and export audio files - Extract audio channels to mono files](extract-audio-channels-to-mono-files.md).
+- Open when looking up Save and export audio files - libsndfile, FLAC, and OGG format settings in Audition. [Save and export audio files - libsndfile, FLAC, and OGG format settings](libsndfile-flac-and-ogg-format-settings.md).
+- Open when looking up Save and export audio files - Monkey's Audio format settings (.ape) in Audition. [Save and export audio files - Monkey's Audio format settings (.ape)](monkey-s-audio-format-settings-ape.md).
+- Open when looking up Save and export audio files - MP2 Audio format settings in Audition. [Save and export audio files - MP2 Audio format settings](save-and-export-audio-files-mp2-audio-format-settings.md).
+- Open when looking up Save and export audio files - MP3 format settings in Audition. [Save and export audio files - MP3 format settings](save-and-export-audio-files-mp3-format-settings.md).
+- Open when looking up Save and export audio files - QuickTime format settings (audio-only \*.mov) in Audition. [Save and export audio files - QuickTime format settings (audio-only \*.mov)](quicktime-format-settings-audio-only-mov.md).
+- Open when looking up Save and export audio files - Save multitrack sessions in Audition. [Save and export audio files - Save multitrack sessions](save-and-export-audio-files-save-multitrack-sessions.md).
+- Open when looking up Save and export audio files - Wave PCM format settings (.wav, .bwf) in Audition. [Save and export audio files - Wave PCM format settings (.wav, .bwf)](save-and-export-audio-files-wave-pcm-format-settings-wav-bwf.md).

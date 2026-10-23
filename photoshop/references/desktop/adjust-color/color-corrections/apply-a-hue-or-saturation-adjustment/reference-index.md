@@ -1,4 +1,4 @@
-# Photoshop — Apply a Hue or Saturation adjustment
+# Photoshop - Apply a Hue or Saturation adjustment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust Colors capability and Improved Hue/Saturation Adjustment Panel in Photoshop. [Adjust Colors capability and Improved Hue/Saturation Adjustment Panel](adjust-colors-and-hue-saturation-panel.md).

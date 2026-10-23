@@ -1,4 +1,4 @@
-# Audition — Working with video applications
+# Audition - Working with video applications
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit a mixdown file via a video application in Audition. [Edit a mixdown file via a video application](edit-a-mixdown-file-via-a-video-application.md).

@@ -1,4 +1,4 @@
-# Version - Support policy — Change types
+# Version - Support policy - Change types
 
 The categories of change break down as follows:
 

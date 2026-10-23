@@ -1,4 +1,4 @@
-# InDesign — Text direction
+# InDesign - Text direction
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HORIZONTAL_TYPE in InDesign. [HORIZONTAL_TYPE](horizontaltype.md).

@@ -1,6 +1,6 @@
-# InDesign — PageItem: object identity and lifecycle
+# InDesign - PageItem: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — PageItem.
+Open when checking object identity and lifecycle in InDesign - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

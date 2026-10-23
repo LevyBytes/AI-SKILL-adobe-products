@@ -1,4 +1,4 @@
-# Illustrator — ExportOptionsGIF
+# Illustrator - ExportOptionsGIF
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ExportOptionsGIF.antiAliasing in Illustrator. [ExportOptionsGIF.antiAliasing](anti-aliasing.md).

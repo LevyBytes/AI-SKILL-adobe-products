@@ -1,4 +1,4 @@
-# Shared Adobe platform — Control object properties
+# Shared Adobe platform - Control object properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up active in Shared Adobe platform. [active](active.md).
@@ -7,7 +7,7 @@
 - Open when looking up characters in Shared Adobe platform. [characters](characters.md).
 - Open when looking up checked in Shared Adobe platform. [checked](checked.md).
 - Open when looking up columns in Shared Adobe platform. [columns](columns.md).
-- Open when looking up Control objects — Control object properties in Shared Adobe platform. [Control objects — Control object properties](control-objects-control-object-properties.md).
+- Open when looking up Control objects - Control object properties in Shared Adobe platform. [Control objects - Control object properties](control-objects-control-object-properties.md).
 - Open when looking up enabled in Shared Adobe platform. [enabled](enabled.md).
 - Open when looking up expanded in Shared Adobe platform. [expanded](expanded.md).
 - Open when looking up function_name in Shared Adobe platform. [function_name](functionname.md).

@@ -1,4 +1,4 @@
-# Acrobat — Text-based study tools
+# Acrobat - Text-based study tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose the right tool for your goal in Acrobat. [Choose the right tool for your goal](choose-the-right-tool-for-your-goal.md).

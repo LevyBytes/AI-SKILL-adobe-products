@@ -1,4 +1,4 @@
-# Illustrator — Save and export
+# Illustrator - Save and export
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export artwork in Illustrator. [Export artwork](export-artwork.md).

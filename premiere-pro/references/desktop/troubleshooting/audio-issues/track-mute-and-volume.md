@@ -1,4 +1,4 @@
-# Playback issues due to missing sound from some of the clips — Check for muted or low track volume
+# Playback issues due to missing sound from some of the clips - Check for muted or low track volume
 
 Use the Audio Mixer or Timeline panel to check whether an audio track is muted or set to a low level, and raise the volume when needed.
 

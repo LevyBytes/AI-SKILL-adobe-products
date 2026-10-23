@@ -1,4 +1,4 @@
-# Extract PDF — Error codes
+# Extract PDF - Error codes
 
 | Scenario | Error code | Error message |
 | --- | --- | --- |

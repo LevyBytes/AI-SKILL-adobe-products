@@ -1,4 +1,4 @@
-# InDesign — Add movie and sound files
+# InDesign - Add movie and sound files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Place a movie or sound file from a disk in InDesign. [Place a movie or sound file from a disk](place-a-movie-or-sound-file-from-a-disk.md).

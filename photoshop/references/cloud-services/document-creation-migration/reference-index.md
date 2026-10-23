@@ -1,4 +1,4 @@
-# Photoshop — Document creation migration
+# Photoshop - Document creation migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Background fill options in Photoshop. [Background fill options references](background-fill-options/reference-index.md).

@@ -1,4 +1,4 @@
-# Photoshop — Authentication
+# Photoshop - Authentication
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Execute an API call in Photoshop. [Execute an API call](execute-an-api-call.md).

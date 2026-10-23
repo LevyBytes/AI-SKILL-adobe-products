@@ -1,4 +1,4 @@
-# Kerning and tracking — Adjust kerning between words
+# Kerning and tracking - Adjust kerning between words
 
 With the Type tool, select the text range, then use the appropriate shortcut:
 

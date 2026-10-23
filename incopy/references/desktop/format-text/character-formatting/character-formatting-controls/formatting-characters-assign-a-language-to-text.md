@@ -1,4 +1,4 @@
-# Formatting characters — Assign a language to text
+# Formatting characters - Assign a language to text
 
 The language assigned to text controls the spelling and hyphenation dictionary used for it. That assignment does not alter the characters themselves.
 

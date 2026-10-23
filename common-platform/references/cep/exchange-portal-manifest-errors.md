@@ -1,4 +1,4 @@
-# FAQs — How can I troubleshoot the following errors on the Exchange portal?
+# FAQs - How can I troubleshoot the following errors on the Exchange portal?
 
 _- Plugin manifest has an invalid host app min version_
 

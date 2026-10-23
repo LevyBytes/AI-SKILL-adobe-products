@@ -1,6 +1,6 @@
-# Shared Adobe platform — Column: object identity and lifecycle
+# Shared Adobe platform - Column: object identity and lifecycle
 
-Open when checking object identity and lifecycle in Shared Adobe platform — Column.
+Open when checking object identity and lifecycle in Shared Adobe platform - Column.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

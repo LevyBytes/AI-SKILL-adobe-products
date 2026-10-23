@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: aeio_moduleinfo
+# After Effects - C++ plugin SDK: aeio_moduleinfo
 
-Open when working with aeio_moduleinfo in After Effects — C++ plugin SDK.
+Open when working with aeio_moduleinfo in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aeios-aeio-moduleinfo.json).
 

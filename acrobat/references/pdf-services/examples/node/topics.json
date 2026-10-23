@@ -1,4 +1,6 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
+  {"topic": "Node.js call pattern", "file": "references/pdf-services/examples/node/call-pattern.cjs", "summary": "Open when writing any PDF Services call in Node.js.", "keywords": ["Node.js call pattern"]},
+  {"topic": "Node.js operations", "file": "references/pdf-services/examples/node/operations.md", "summary": "Open when choosing an operation's job, parameter and result classes in Node.js.", "keywords": ["Node.js operations"]},
   {"topic": "Autotag pdf parameterised references", "file": "references/pdf-services/examples/node/autotag-pdf-parameterised/reference-index.md", "summary": "Open when looking up Autotag pdf parameterised in Acrobat.", "keywords": ["Autotag pdf parameterised references"]},
   {"topic": "Autotag pdf references", "file": "references/pdf-services/examples/node/autotag-pdf/reference-index.md", "summary": "Open when looking up Autotag pdf in Acrobat.", "keywords": ["Autotag pdf references"]},
   {"topic": "Combine pdf references", "file": "references/pdf-services/examples/node/combine-pdf/reference-index.md", "summary": "Open when looking up Combine pdf in Acrobat.", "keywords": ["Combine pdf references"]},

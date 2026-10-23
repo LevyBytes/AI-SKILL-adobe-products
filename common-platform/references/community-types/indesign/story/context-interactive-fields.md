@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: interactive fields and behaviors
+# Shared Adobe platform - Story: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in Shared Adobe platform — Story.
+Open when checking interactive fields and behaviors in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

@@ -1,4 +1,4 @@
-# InDesign — Manage language dictionaries
+# InDesign - Manage language dictionaries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add or remove Hunspell dictionary in InDesign. [Add or remove Hunspell dictionary](add-or-remove-hunspell-dictionary.md).

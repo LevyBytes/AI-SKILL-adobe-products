@@ -1,4 +1,4 @@
-# Photoshop — Export your work using the Quick Export as option
+# Photoshop - Export your work using the Quick Export as option
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export instantly in Photoshop. [Export instantly](export-instantly.md).

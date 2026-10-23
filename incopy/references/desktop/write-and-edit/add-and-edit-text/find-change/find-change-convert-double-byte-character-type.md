@@ -1,4 +1,4 @@
-# Find/Change — Convert double-byte character type
+# Find/Change - Convert double-byte character type
 
 Use Find/Change when Asian-language text needs its character type converted.
 

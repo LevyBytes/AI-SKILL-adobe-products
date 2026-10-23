@@ -1,4 +1,4 @@
-# User-interaction levels — VBScript
+# User-interaction levels - VBScript
 
 VBScript provides two values for the UserInteractionLevel property of the Application object:
 

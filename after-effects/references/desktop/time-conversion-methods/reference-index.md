@@ -1,4 +1,4 @@
-# After Effects — Time conversion methods
+# After Effects - Time conversion methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up framesToTime(frames, fps = 1.0 / thisComp.frameDuration) in After Effects. [framesToTime(frames, fps = 1.0 / thisComp.frameDuration)](frames-to-time.md).

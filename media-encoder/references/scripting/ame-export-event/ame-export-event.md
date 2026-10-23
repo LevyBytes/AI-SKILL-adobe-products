@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — AMEExportEvent
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - AMEExportEvent
 
 Available event types are: onMediaInfoCreated, onBatchItemStatusChanged, onItemEncodingStarted, onAudioPreEncodeProgress, onEncodingItemProgressUpdated, onEncodeComplete, onError, onPostProcessListInitialized.
 

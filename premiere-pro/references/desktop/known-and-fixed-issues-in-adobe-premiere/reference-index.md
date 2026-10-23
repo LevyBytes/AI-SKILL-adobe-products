@@ -1,4 +1,4 @@
-# Premiere Pro — Known and fixed issues in adobe premiere
+# Premiere Pro - Known and fixed issues in adobe premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Marker shortcut opens Edit Marker in Premiere Pro. [Add Marker shortcut opens Edit Marker](add-marker-shortcut-opens-edit-marker.md).

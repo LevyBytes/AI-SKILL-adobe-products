@@ -1,4 +1,4 @@
-# Illustrator — Vectorize images using Image Trace
+# Illustrator - Vectorize images using Image Trace
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Release the trace in Illustrator. [Release the trace](release-the-trace.md).

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: plug-in installation
+# After Effects - C++ plugin SDK: plug-in installation
 
-Open when working with plug-in installation in After Effects — C++ plugin SDK.
+Open when working with plug-in installation in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-ppro-plug-in-installation.json).
 

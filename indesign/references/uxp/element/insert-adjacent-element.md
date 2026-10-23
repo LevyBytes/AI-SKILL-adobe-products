@@ -1,4 +1,4 @@
-# window.Element — insertAdjacentElement(position, node)
+# window.Element - insertAdjacentElement(position, node)
 
 **Returns**: `Node`
 

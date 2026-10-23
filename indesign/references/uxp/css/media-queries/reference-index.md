@@ -1,4 +1,4 @@
-# InDesign — Media Queries
+# InDesign - Media Queries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up height in InDesign. [height](height.md).

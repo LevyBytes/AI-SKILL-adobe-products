@@ -1,4 +1,4 @@
-# Acrobat — Permissions and limitations of signed PDFs
+# Acrobat - Permissions and limitations of signed PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Handling locked PDFs and multiple signatures in Acrobat. [Handling locked PDFs and multiple signatures](handling-locked-pdfs-and-multiple-signatures.md).

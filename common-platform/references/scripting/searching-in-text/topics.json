@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "The Script Editor — Searching in text", "file": "references/scripting/searching-in-text/the-script-editor-searching-in-text.md", "summary": "Open when looking up The Script Editor — Searching in text in Shared Adobe platform.", "keywords": ["The Script Editor — Searching in text"]},
+  {"topic": "The Script Editor - Searching in text", "file": "references/scripting/searching-in-text/the-script-editor-searching-in-text.md", "summary": "Open when looking up The Script Editor - Searching in text in Shared Adobe platform.", "keywords": ["The Script Editor - Searching in text"]},
   {"topic": "Using regular-expression syntax", "file": "references/scripting/searching-in-text/using-regular-expression-syntax.md", "summary": "Open when looking up Using regular-expression syntax in Shared Adobe platform.", "keywords": ["Using regular-expression syntax"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

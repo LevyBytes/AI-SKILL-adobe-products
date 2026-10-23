@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "File Object — File Class Methods", "file": "references/scripting/file-class-methods/file-object-file-class-methods.md", "summary": "Open when looking up File Object — File Class Methods in Shared Adobe platform.", "keywords": ["File Object — File Class Methods"]},
+  {"topic": "File Object - File Class Methods", "file": "references/scripting/file-class-methods/file-object-file-class-methods.md", "summary": "Open when looking up File Object - File Class Methods in Shared Adobe platform.", "keywords": ["File Object - File Class Methods"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

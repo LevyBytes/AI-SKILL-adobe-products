@@ -1,4 +1,4 @@
-# Audition — Default keyboard shortcuts
+# Audition - Default keyboard shortcuts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Keys for editing audio files in Audition. [Keys for editing audio files](keys-for-editing-audio-files.md).

@@ -1,6 +1,6 @@
-# InDesign — Change text preference: lists, numbering and drop caps
+# InDesign - Change text preference: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in InDesign — Change text preference.
+Open when checking lists, numbering and drop caps in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [AutotagPDF.java](../examples/java/autotag-pdf/AutotagPDF.java)
+- [autotag-pdf setup and source](../examples/java/autotag-pdf/autotag-pdf-setup.md)

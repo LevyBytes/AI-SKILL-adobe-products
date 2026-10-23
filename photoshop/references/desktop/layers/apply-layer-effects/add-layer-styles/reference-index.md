@@ -1,4 +1,4 @@
-# Photoshop — Add layer styles
+# Photoshop - Add layer styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Use the layer effects icon in Photoshop. [Use the layer effects icon](use-the-layer-effects-icon.md).

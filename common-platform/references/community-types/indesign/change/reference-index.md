@@ -1,4 +1,4 @@
-# Shared Adobe platform — Change
+# Shared Adobe platform - Change
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change declaration in Shared Adobe platform. [Change declaration](declaration.md).

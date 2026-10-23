@@ -1,4 +1,4 @@
-# After Effects — Import files
+# After Effects - Import files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Footage in After Effects. [Footage references](footage/reference-index.md).

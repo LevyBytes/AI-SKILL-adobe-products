@@ -1,4 +1,4 @@
-# InDesign — Process colors (CMYK) overview
+# InDesign - Process colors (CMYK) overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Color mode and final values in InDesign. [Color mode and final values](color-mode-and-final-values.md).

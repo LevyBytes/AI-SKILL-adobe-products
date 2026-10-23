@@ -23,7 +23,7 @@
   {"topic": "open", "file": "references/uxp/host-api/project/open.md", "summary": "Open when looking up open in Premiere Pro.", "keywords": ["open"]},
   {"topic": "openSequence", "file": "references/uxp/host-api/project/open-sequence.md", "summary": "Open when looking up openSequence in Premiere Pro.", "keywords": ["openSequence"]},
   {"topic": "pauseGrowing", "file": "references/uxp/host-api/project/pause-growing.md", "summary": "Open when looking up pauseGrowing in Premiere Pro.", "keywords": ["pauseGrowing"]},
-  {"topic": "Project — Properties", "file": "references/uxp/host-api/project/project-properties.md", "summary": "Open when looking up Project — Properties in Premiere Pro.", "keywords": ["Project — Properties"]},
+  {"topic": "Project - Properties", "file": "references/uxp/host-api/project/project-properties.md", "summary": "Open when looking up Project - Properties in Premiere Pro.", "keywords": ["Project - Properties"]},
   {"topic": "save", "file": "references/uxp/host-api/project/save.md", "summary": "Open when looking up save in Premiere Pro.", "keywords": ["save"]},
   {"topic": "saveAs", "file": "references/uxp/host-api/project/save-as.md", "summary": "Open when looking up saveAs in Premiere Pro.", "keywords": ["saveAs"]},
   {"topic": "setActiveSequence", "file": "references/uxp/host-api/project/set-active-sequence.md", "summary": "Open when looking up setActiveSequence in Premiere Pro.", "keywords": ["setActiveSequence"]},

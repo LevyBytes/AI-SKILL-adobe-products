@@ -1,4 +1,4 @@
-# Photoshop — Photoshop api changelog photoshop 24 0 october 2022
+# Photoshop - Photoshop api changelog photoshop 24 0 october 2022
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ColorSamplers support in Photoshop. [ColorSamplers support](color-samplers-support.md).

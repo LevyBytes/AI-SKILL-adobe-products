@@ -1,4 +1,4 @@
-# Photoshop — Migration examples
+# Photoshop - Migration examples
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjustment categories in v2 in Photoshop. [Adjustment categories in v2](adjustment-categories-in-v2.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTextPreference: fonts and character forms
+# Shared Adobe platform - ChangeTextPreference: fonts and character forms
 
-Open when checking fonts and character forms in Shared Adobe platform — ChangeTextPreference.
+Open when checking fonts and character forms in Shared Adobe platform - ChangeTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

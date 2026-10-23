@@ -1,4 +1,4 @@
-# `pixelMask` — CHANGED (was `mask`)
+# `pixelMask` - CHANGED (was `mask`)
 
 In the old response, layer-level mask data sits in `mask`:
 

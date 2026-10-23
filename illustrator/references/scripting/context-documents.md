@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: documents, presets and file lifecycle
+# Illustrator - Scripting APIs: documents, presets and file lifecycle
 
-Open when working with documents, presets and file lifecycle in Illustrator — Scripting APIs.
+Open when working with documents, presets and file lifecycle in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-documents.json).
 

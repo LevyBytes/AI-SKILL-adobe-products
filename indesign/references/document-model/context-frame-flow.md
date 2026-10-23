@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: text frames, wrapping and autosizing
+# InDesign - InDesign document object model: text frames, wrapping and autosizing
 
-Open when working with text frames, wrapping and autosizing in InDesign — InDesign document object model.
+Open when working with text frames, wrapping and autosizing in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-frame-flow.json).
 

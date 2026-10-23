@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextFramePreference
+# Shared Adobe platform - TextFramePreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextFramePreference declaration in Shared Adobe platform. [TextFramePreference declaration](declaration.md).

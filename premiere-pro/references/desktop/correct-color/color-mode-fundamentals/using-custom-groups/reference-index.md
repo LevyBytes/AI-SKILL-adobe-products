@@ -1,4 +1,4 @@
-# Premiere Pro — Using Custom Groups
+# Premiere Pro - Using Custom Groups
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add an additional clip to a group by copying entire grade in Premiere Pro. [Add an additional clip to a group by copying entire grade](add-an-additional-clip-to-a-group-by-copying-entire-grade.md).

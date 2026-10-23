@@ -1,4 +1,4 @@
-# Photoshop — Output types migration guide tiff output migration
+# Photoshop - Output types migration guide tiff output migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Full TIFF request migration in Photoshop. [Full TIFF request migration](full-tiff-request-migration.md).

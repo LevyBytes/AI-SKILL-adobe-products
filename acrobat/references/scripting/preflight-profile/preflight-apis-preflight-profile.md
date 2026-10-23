@@ -1,4 +1,4 @@
-# Preflight APIs — PreflightProfile
+# Preflight APIs - PreflightProfile
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

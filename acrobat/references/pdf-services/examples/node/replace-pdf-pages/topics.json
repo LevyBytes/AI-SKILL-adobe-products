@@ -1,7 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Replace pdf pages example setup", "file": "references/pdf-services/examples/node/replace-pdf-pages/replace-pdf-pages-setup.md", "summary": "Open when looking up Replace pdf pages example setup in Acrobat.", "keywords": ["Replace pdf pages example setup"]},
-  {"topic": "Node.js replace pdf pages: SDK and runtime imports", "file": "references/pdf-services/examples/node/replace-pdf-pages/dependencies.cjs", "summary": "Open when checking SDK and runtime imports for the Node.js replace pdf pages example.", "keywords": ["replace-pdf-pages"]},
-  {"topic": "Node.js replace pdf pages: page-range and output path helpers", "file": "references/pdf-services/examples/node/replace-pdf-pages/helpers.cjs", "summary": "Open when checking page-range and output path helpers for the Node.js replace pdf pages example.", "keywords": ["replace-pdf-pages"]},
-  {"topic": "Node.js replace pdf pages: job submission and result handling", "file": "references/pdf-services/examples/node/replace-pdf-pages/replace-pdf-pages.cjs", "summary": "Open when checking job submission and result handling for the Node.js replace pdf pages example.", "keywords": ["replace-pdf-pages"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

@@ -1,4 +1,4 @@
-# Illustrator — Scale objects
+# Illustrator - Scale objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Scale objects by a specific percentage in Illustrator. [Scale objects by a specific percentage](scale-objects-by-a-specific-percentage.md).

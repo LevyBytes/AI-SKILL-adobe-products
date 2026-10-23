@@ -1,4 +1,4 @@
-# Photoshop — Add video and animation
+# Photoshop - Add video and animation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create animation frames in Photoshop. [Create animation frames](create-animation-frames.md).

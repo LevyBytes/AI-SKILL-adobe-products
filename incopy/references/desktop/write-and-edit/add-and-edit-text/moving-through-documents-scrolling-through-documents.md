@@ -1,4 +1,4 @@
-# Moving through documents — Scrolling through documents
+# Moving through documents - Scrolling through documents
 
 Scroll bars along the bottom and right edges of the InCopy window work in every view, as do a mouse wheel or sensor.
 

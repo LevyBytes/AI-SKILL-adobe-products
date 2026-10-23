@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: cloud documents, libraries and collaboration
+# Shared Adobe platform - Story: cloud documents, libraries and collaboration
 
-Open when checking cloud documents, libraries and collaboration in Shared Adobe platform — Story.
+Open when checking cloud documents, libraries and collaboration in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-cloud-and-collaboration.json).
 

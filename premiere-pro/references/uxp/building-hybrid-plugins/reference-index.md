@@ -1,4 +1,4 @@
-# Premiere Pro — Building Hybrid Plugins
+# Premiere Pro - Building Hybrid Plugins
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Create a Native Library Project in Premiere Pro. [1. Create a Native Library Project](create-a-native-library-project.md).

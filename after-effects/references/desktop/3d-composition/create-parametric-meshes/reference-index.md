@@ -1,4 +1,4 @@
-# After Effects — Create parametric meshes
+# After Effects - Create parametric meshes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cone in After Effects. [Cone](cone.md).

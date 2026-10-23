@@ -1,11 +1,11 @@
-# Photoshop — Plugin examples
+# Photoshop - Plugin examples
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Adobe Code of Conduct — Our Pledge in Photoshop. [Adobe Code of Conduct — Our Pledge](adobe-code-of-conduct-our-pledge.md).
-- Open when looking up Adobe Code of Conduct — Our Pledge in Photoshop. [Adobe Code of Conduct — Our Pledge references](adobe-code-of-conduct-our-pledge/reference-index.md).
+- Open when looking up Adobe Code of Conduct - Our Pledge in Photoshop. [Adobe Code of Conduct - Our Pledge](adobe-code-of-conduct-our-pledge.md).
+- Open when looking up Adobe Code of Conduct - Our Pledge in Photoshop. [Adobe Code of Conduct - Our Pledge references](adobe-code-of-conduct-our-pledge/reference-index.md).
 - Open when looking up Configuration node js in Photoshop. [Configuration node js references](configuration-node-js/reference-index.md).
-- Open when looking up Configuration — Rust Environment in Photoshop. [Configuration — Rust Environment](configuration-rust-environment.md).
-- Open when looking up Configuration — Rust Environment in Photoshop. [Configuration — Rust Environment references](configuration-rust-environment/reference-index.md).
+- Open when looking up Configuration - Rust Environment in Photoshop. [Configuration - Rust Environment](configuration-rust-environment.md).
+- Open when looking up Configuration - Rust Environment in Photoshop. [Configuration - Rust Environment references](configuration-rust-environment/reference-index.md).
 - Open when looking up Contributing in Photoshop. [Contributing](contributing.md).
 - Open when looking up Contributing in Photoshop. [Contributing references](contributing/reference-index.md).
 - Open when looking up Cross-Compatible JS Sample in Photoshop. [Cross-Compatible JS Sample](cross-compatible-js-sample.md).
@@ -19,7 +19,7 @@
 - Open when looking up JSZip Sample in Photoshop. [JSZip Sample](js-zip-sample.md).
 - Open when looking up JSZip Sample in Photoshop. [JSZip Sample references](js-zip-sample/reference-index.md).
 - Open when looking up Layer names panel sample in Photoshop. [Layer names panel sample](layer-names-panel-sample.md).
-- Open when looking up OR — What this plugin does in Photoshop. [OR — What this plugin does](or-what-this-plugin-does.md).
+- Open when looking up OR - What this plugin does in Photoshop. [OR - What this plugin does](or-what-this-plugin-does.md).
 - Open when looking up Photoshop TypeScript / Webpack Sample in Photoshop. [Photoshop TypeScript / Webpack Sample](photoshop-type-script-webpack-sample.md).
 - Open when looking up Photoshop TypeScript / Webpack Sample in Photoshop. [Photoshop TypeScript / Webpack Sample references](photoshop-type-script-webpack-sample/reference-index.md).
 - Open when looking up Photoshop UXP Playground Plugin in Photoshop. [Photoshop UXP Playground Plugin](photoshop-uxp-playground-plugin.md).
@@ -35,8 +35,8 @@
 - Open when looking up Tailwind CSS plugin sample in Photoshop. [Tailwind CSS plugin sample](tailwind-css-plugin-sample.md).
 - Open when looking up Tailwind CSS plugin sample in Photoshop. [Tailwind CSS plugin sample references](tailwind-css-plugin-sample/reference-index.md).
 - Open when looking up Text-layer creation sample in Photoshop. [Text-layer creation sample](text-layer-creation-sample.md).
-- Open when looking up Unsplash Images Plugin Sample — What does it do? in Photoshop. [Unsplash Images Plugin Sample — What does it do?](unsplash-images-plugin-sample-what-does-it-do.md).
-- Open when looking up Unsplash Images Plugin Sample — What does it do? in Photoshop. [Unsplash Images Plugin Sample — What does it do? references](unsplash-images-plugin-sample-what-does-it-do/reference-index.md).
+- Open when looking up Unsplash Images Plugin Sample - What does it do? in Photoshop. [Unsplash Images Plugin Sample - What does it do?](unsplash-images-plugin-sample-what-does-it-do.md).
+- Open when looking up Unsplash Images Plugin Sample - What does it do? in Photoshop. [Unsplash Images Plugin Sample - What does it do? references](unsplash-images-plugin-sample-what-does-it-do/reference-index.md).
 - Open when looking up Unsplash plugin setup in Photoshop. [Unsplash plugin setup](unsplash-plugin-setup.md).
 - Open when looking up Unsplash plugin setup in Photoshop. [Unsplash plugin setup references](unsplash-plugin-setup/reference-index.md).
 - Open when looking up Unsplash server setup in Photoshop. [Unsplash server setup](unsplash-server-setup.md).

@@ -26,7 +26,7 @@ Pass your implemented callback to `app.trustPropagatorFunction(callback)` and re
 
 Parameters
 
-Parameter — Description
+Parameter: Description
 
 oFunc
 
@@ -74,8 +74,8 @@ Take note of the ANTrustPropagateAll function, a handy tool when you are buildin
 
 Complete example files:
 
-- [dialog-layout.js](../examples/trusted-author-dialog/dialog-layout.js)
-- [trusted-dialog.js](../examples/trusted-author-dialog/trusted-dialog.js)
+- [dialog-layout.js](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#trustpropagatorfunction)
+- [trusted-dialog.js](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#trustpropagatorfunction)
 - [setup.md](../examples/trusted-author-dialog/setup.md)
 
 Triggering this dialog box can happen from a button, though a menu item or a toolbar button suits it better. To add a menu item onto the Tools menu, for instance, set the code below into a User JavaScript file.

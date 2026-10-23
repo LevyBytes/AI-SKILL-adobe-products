@@ -1,4 +1,4 @@
-# Workspace basics — Move panels
+# Workspace basics - Move panels
 
 As you drag panels, blue highlighted drop zones mark places where the panel can land. For instance, dragging to the slim blue zone above or below another panel moves a panel higher or lower in a dock. Dragging somewhere outside any drop zone leaves the panel floating in the workspace.
 

@@ -1,6 +1,6 @@
-# InDesign — MultiStateObject: object styles and enabled attributes
+# InDesign - MultiStateObject: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — MultiStateObject.
+Open when checking object styles and enabled attributes in InDesign - MultiStateObject.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

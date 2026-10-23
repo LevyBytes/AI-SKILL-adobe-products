@@ -1,4 +1,4 @@
-# After Effects — Formatting paragraphs and the Paragraph panel
+# After Effects - Formatting paragraphs and the Paragraph panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align and justify text in After Effects. [Align and justify text](align-and-justify-text.md).

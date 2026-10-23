@@ -1,4 +1,4 @@
-# Workspace basics — Add and remove panels
+# Workspace basics - Add and remove panels
 
 If every panel is removed from a dock, that dock vanishes. To create a dock, move panels toward the right edge of the workspace until a drop zone shows.
 

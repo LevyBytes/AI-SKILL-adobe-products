@@ -1,8 +1,9 @@
 ---
 name: media-encoder
-description: Use when working with Adobe Media Encoder queues, presets, ingest and watch folders, media formats, encoding and export settings, publishing destinations, audio channelization, loudness, preferences, or media cache; or automating AME with ExtendScript encoder, exporter, frontend, event, and watch-folder objects.
+description: "Use when working with Adobe Media Encoder queues, presets, ingest and watch folders, media formats, encoding and export settings, publishing destinations, audio channelization, loudness, preferences, or media cache; or automating AME with ExtendScript encoder, exporter, frontend, event, and watch-folder objects."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

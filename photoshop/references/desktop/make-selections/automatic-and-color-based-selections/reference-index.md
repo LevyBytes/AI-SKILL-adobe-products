@@ -1,4 +1,4 @@
-# Photoshop — Automatic and color-based selections
+# Photoshop - Automatic and color-based selections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Detect subject using Select Subject in Photoshop. [Detect subject using Select Subject](detect-subject-using-select-subject.md).

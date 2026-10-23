@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: text and spreadsheet interchange
+# InDesign - InDesign document object model: text and spreadsheet interchange
 
-Open when working with text and spreadsheet interchange in InDesign — InDesign document object model.
+Open when working with text and spreadsheet interchange in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-text-import-export.json).
 

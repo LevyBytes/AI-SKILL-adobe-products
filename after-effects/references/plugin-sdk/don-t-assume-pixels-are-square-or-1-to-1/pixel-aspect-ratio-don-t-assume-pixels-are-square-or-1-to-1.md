@@ -1,4 +1,4 @@
-# Pixel Aspect Ratio — Don't Assume Pixels Are Square, Or 1-To-1
+# Pixel Aspect Ratio - Don't Assume Pixels Are Square, Or 1-To-1
 
 To begin with, pixel aspect ratio together with a non-uniform downsample factor mean this coordinate system may not be square at all. Horizontally, the finished render can end up stretched or compressed compared with the pixels your effect actually touches. The result: circles turn into ellipses and squares into rectangles. How far apart two points sit depends on the angle between them in such a system, and anything you rotate there comes out skewed once rendered.
 

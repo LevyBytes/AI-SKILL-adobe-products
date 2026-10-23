@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Discovery", "file": "references/scripting/net/discovery.md", "summary": "Open when looking up Discovery in Acrobat.", "keywords": ["Discovery"]},
   {"topic": "HTTP", "file": "references/scripting/net/http.md", "summary": "Open when looking up HTTP in Acrobat.", "keywords": ["HTTP"]},
-  {"topic": "JavaScript APIs — Net", "file": "references/scripting/net/java-script-apis-net.md", "summary": "Open when looking up JavaScript APIs — Net in Acrobat.", "keywords": ["JavaScript APIs — Net"]},
+  {"topic": "JavaScript APIs - Net", "file": "references/scripting/net/java-script-apis-net.md", "summary": "Open when looking up JavaScript APIs - Net in Acrobat.", "keywords": ["JavaScript APIs - Net"]},
   {"topic": "Net methods", "file": "references/scripting/net/net-methods.md", "summary": "Open when looking up Net methods in Acrobat.", "keywords": ["Net methods"]},
   {"topic": "Net.SOAP methods", "file": "references/scripting/net/net-soap-methods.md", "summary": "Open when looking up Net.SOAP methods in Acrobat.", "keywords": ["Net.SOAP methods"]},
   {"topic": "Net.SOAP properties", "file": "references/scripting/net/net-soap-properties.md", "summary": "Open when looking up Net.SOAP properties in Acrobat.", "keywords": ["Net.SOAP properties"]},

@@ -1,4 +1,4 @@
-# Working with managed files — Update content while working (InDesign)
+# Working with managed files - Update content while working (InDesign)
 
 Use one of these methods:
 

@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Preprocessor directives — #script name", "file": "references/scripting/script-name/preprocessor-directives-script-name.md", "summary": "Open when looking up Preprocessor directives — #script name in Shared Adobe platform.", "keywords": ["Preprocessor directives — #script name"]},
+  {"topic": "Preprocessor directives - #script name", "file": "references/scripting/script-name/preprocessor-directives-script-name.md", "summary": "Open when looking up Preprocessor directives - #script name in Shared Adobe platform.", "keywords": ["Preprocessor directives - #script name"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

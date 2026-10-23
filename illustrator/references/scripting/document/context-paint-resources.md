@@ -1,6 +1,6 @@
-# Illustrator — Document: colors, gradients, patterns, brushes and symbols
+# Illustrator - Document: colors, gradients, patterns, brushes and symbols
 
-Open when working with colors, gradients, patterns, brushes and symbols in Illustrator — Document.
+Open when working with colors, gradients, patterns, brushes and symbols in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-paint-resources.json).
 

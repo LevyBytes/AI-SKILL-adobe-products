@@ -1,4 +1,4 @@
-# UxpPanelInfo — preferredFloatingSize ⇒ `Object`
+# UxpPanelInfo - preferredFloatingSize ⇒ `Object`
 
 **Read only**
 Retrieve the panel preferred floating size.

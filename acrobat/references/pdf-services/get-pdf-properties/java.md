@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [GetPDFProperties.java](../examples/java/get-pdf-properties/GetPDFProperties.java)
+- [get-pdf-properties setup and source](../examples/java/get-pdf-properties/get-pdf-properties-setup.md)

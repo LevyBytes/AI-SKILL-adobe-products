@@ -1,4 +1,4 @@
-# After Effects — Editing, moving, and copying keyframes
+# After Effects - Editing, moving, and copying keyframes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change multiple keyframe values at once in After Effects. [Change multiple keyframe values at once](change-multiple-keyframe-values-at-once.md).

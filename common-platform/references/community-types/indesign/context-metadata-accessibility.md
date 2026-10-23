@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: metadata, accessibility and tagging
+# Shared Adobe platform - Indesign: metadata, accessibility and tagging
 
-Open when working with metadata, accessibility and tagging in Shared Adobe platform — Indesign.
+Open when working with metadata, accessibility and tagging in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-metadata-accessibility.json).
 

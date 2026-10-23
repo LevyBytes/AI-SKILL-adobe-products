@@ -1,4 +1,4 @@
-# Acrobat — Quickstart for Adobe Document Generation API (.NET)
+# Acrobat - Quickstart for Adobe Document Generation API (.NET)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Next Steps in Acrobat. [Next Steps](next-steps.md).

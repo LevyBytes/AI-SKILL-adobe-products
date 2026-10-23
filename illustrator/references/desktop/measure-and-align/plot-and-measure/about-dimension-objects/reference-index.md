@@ -1,4 +1,4 @@
-# Illustrator — About Dimension objects
+# Illustrator - About Dimension objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Dimension object in Illustrator. [Dimension object](dimension-object.md).

@@ -1,4 +1,4 @@
-# Photoshop — ICC Profile Migration Guide — Overview
+# Photoshop - ICC Profile Migration Guide - Overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Case 1: PSDC output includes ICC profile data in Photoshop. [Case 1: PSDC output includes ICC profile data](case-1-psdc-output-includes-icc-profile-data.md).
@@ -12,12 +12,12 @@
 - Open when looking up Custom profiles in Photoshop. [Custom profiles](custom-profiles.md).
 - Open when looking up Format support in Photoshop. [Format support](format-support.md).
 - Open when looking up General in Photoshop. [General](general.md).
-- Open when looking up ICC Profile Migration Guide — Custom ICC profile in Photoshop. [ICC Profile Migration Guide — Custom ICC profile](icc-profile-migration-guide-custom-icc-profile.md).
-- Open when looking up ICC Profile Migration Guide — Format support in Photoshop. [ICC Profile Migration Guide — Format support](icc-profile-migration-guide-format-support.md).
-- Open when looking up ICC Profile Migration Guide — Migration checklist in Photoshop. [ICC Profile Migration Guide — Migration checklist](icc-profile-migration-guide-migration-checklist.md).
-- Open when looking up ICC Profile Migration Guide — Related migration guides in Photoshop. [ICC Profile Migration Guide — Related migration guides](icc-profile-migration-guide-related-migration-guides.md).
-- Open when looking up ICC Profile Migration Guide — Standard ICC profile in Photoshop. [ICC Profile Migration Guide — Standard ICC profile](icc-profile-migration-guide-standard-icc-profile.md).
-- Open when looking up ICC Profile Migration Guide — Summary of changes in Photoshop. [ICC Profile Migration Guide — Summary of changes](icc-profile-migration-guide-summary-of-changes.md).
+- Open when looking up ICC Profile Migration Guide - Custom ICC profile in Photoshop. [ICC Profile Migration Guide - Custom ICC profile](icc-profile-migration-guide-custom-icc-profile.md).
+- Open when looking up ICC Profile Migration Guide - Format support in Photoshop. [ICC Profile Migration Guide - Format support](icc-profile-migration-guide-format-support.md).
+- Open when looking up ICC Profile Migration Guide - Migration checklist in Photoshop. [ICC Profile Migration Guide - Migration checklist](icc-profile-migration-guide-migration-checklist.md).
+- Open when looking up ICC Profile Migration Guide - Related migration guides in Photoshop. [ICC Profile Migration Guide - Related migration guides](icc-profile-migration-guide-related-migration-guides.md).
+- Open when looking up ICC Profile Migration Guide - Standard ICC profile in Photoshop. [ICC Profile Migration Guide - Standard ICC profile](icc-profile-migration-guide-standard-icc-profile.md).
+- Open when looking up ICC Profile Migration Guide - Summary of changes in Photoshop. [ICC Profile Migration Guide - Summary of changes](icc-profile-migration-guide-summary-of-changes.md).
 - Open when looking up imageMode values in Photoshop. [imageMode values](image-mode-values.md).
 - Open when looking up On outputs (export color management) in Photoshop. [On outputs (export color management)](on-outputs-export-color-management.md).
 - Open when looking up On the image block (document creation color management) in Photoshop. [On the image block (document creation color management)](on-the-image-block-document-creation-color-management.md).

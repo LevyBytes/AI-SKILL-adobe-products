@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLTags
+# Shared Adobe platform - XMLTags
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLTags collection iteration in Shared Adobe platform. [XMLTags collection iteration](collection-iteration.md).

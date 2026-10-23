@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Fast Box Blur effect
+# Blur and Sharpen effects - Fast Box Blur effect
 
 You get the same rendering outcome as Fast Blur (Legacy), only quicker, from this effect. Apply it by choosing Effect > Blur & Sharpen > Fast Box Blur. Your computer's GPU handles rendering for the Fast Box Blur effect.
 

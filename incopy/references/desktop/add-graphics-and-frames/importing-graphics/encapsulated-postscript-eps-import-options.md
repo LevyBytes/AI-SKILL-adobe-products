@@ -1,4 +1,4 @@
-# Importing graphics — Encapsulated PostScript (.eps) import options
+# Importing graphics - Encapsulated PostScript (.eps) import options
 
 For an EPS graphic, including a file saved with Illustrator 8.0 or earlier, enabling Show Import Options in the Place dialog box opens a dialog box with these choices:
 

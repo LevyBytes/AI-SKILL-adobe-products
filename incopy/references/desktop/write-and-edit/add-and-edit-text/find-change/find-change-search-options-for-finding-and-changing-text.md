@@ -1,4 +1,4 @@
-# Find/Change — Search options for finding and changing text
+# Find/Change - Search options for finding and changing text
 
 Search menu
 

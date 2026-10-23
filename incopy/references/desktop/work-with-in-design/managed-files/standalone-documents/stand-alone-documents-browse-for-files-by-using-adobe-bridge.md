@@ -1,4 +1,4 @@
-# Stand-alone documents — Browse for files by using Adobe Bridge
+# Stand-alone documents - Browse for files by using Adobe Bridge
 
 Adobe Bridge helps organize, browse, and locate assets for print, web, and mobile content.
 

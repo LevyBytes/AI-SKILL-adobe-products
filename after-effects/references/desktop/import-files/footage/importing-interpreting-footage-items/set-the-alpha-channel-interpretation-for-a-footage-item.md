@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Set the alpha channel interpretation for a footage item
+# Importing and interpreting footage items - Set the alpha channel interpretation for a footage item
 
 In the Project panel, pick a footage item.
 

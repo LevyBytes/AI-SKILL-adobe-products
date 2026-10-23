@@ -1,6 +1,6 @@
-# InDesign — PrintBookletPrintPreference: print paper, scaling and imposition
+# InDesign - PrintBookletPrintPreference: print paper, scaling and imposition
 
-Open when checking print paper, scaling and imposition in InDesign — PrintBookletPrintPreference.
+Open when checking print paper, scaling and imposition in InDesign - PrintBookletPrintPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-print-page-layout.json).
 

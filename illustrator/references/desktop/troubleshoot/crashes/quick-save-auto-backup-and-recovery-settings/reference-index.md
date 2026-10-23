@@ -1,4 +1,4 @@
-# Illustrator — Quick save, auto-backup, and recovery settings
+# Illustrator - Quick save, auto-backup, and recovery settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Requirements for the new quick save and recovery experience in Illustrator. [Requirements for the new quick save and recovery experience](requirements-for-the-new-quick-save-and-recovery-experience.md).

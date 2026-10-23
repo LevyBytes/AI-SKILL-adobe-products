@@ -1,4 +1,4 @@
-# Illustrator — Use special characters and glyphs
+# Illustrator - Use special characters and glyphs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About character sets and alternate glyphs in Illustrator. [About character sets and alternate glyphs](about-character-sets-and-alternate-glyphs.md).

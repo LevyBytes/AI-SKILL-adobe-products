@@ -1,4 +1,4 @@
-# Premiere Pro — Correct color using hue and saturation curves
+# Premiere Pro - Correct color using hue and saturation curves
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Example of this behavior in Premiere Pro. [Example of this behavior](example-of-this-behavior.md).

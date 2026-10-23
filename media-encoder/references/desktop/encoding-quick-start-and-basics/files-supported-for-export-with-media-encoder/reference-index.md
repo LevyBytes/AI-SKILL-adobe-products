@@ -1,4 +1,4 @@
-# Media Encoder — Files supported for export with Media Encoder
+# Media Encoder - Files supported for export with Media Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apple ProRes MXF OP1a in Media Encoder. [Apple ProRes MXF OP1a](apple-pro-res-mxf-op1a.md).

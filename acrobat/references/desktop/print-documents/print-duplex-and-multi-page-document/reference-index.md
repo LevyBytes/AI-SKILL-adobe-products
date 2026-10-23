@@ -1,4 +1,4 @@
-# Acrobat — Print duplex and multi-page document
+# Acrobat - Print duplex and multi-page document
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create print presets in Acrobat. [Create print presets](create-print-presets.md).

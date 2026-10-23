@@ -1,4 +1,4 @@
-# Shared Adobe platform — MetadataPreference
+# Shared Adobe platform - MetadataPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MetadataPreference declaration in Shared Adobe platform. [MetadataPreference declaration](declaration.md).

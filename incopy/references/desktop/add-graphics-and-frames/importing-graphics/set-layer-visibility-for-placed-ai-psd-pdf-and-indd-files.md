@@ -1,4 +1,4 @@
-# Importing graphics — Set layer visibility for placed AI, PSD, PDF, and INDD files
+# Importing graphics - Set layer visibility for placed AI, PSD, PDF, and INDD files
 
 Layer visibility remains adjustable after placement for Illustrator AI, InDesign INDD, Photoshop PSD, and layered PDF files by using the Object Layer Options dialog box. If a Photoshop PSD file has layer comps, you can pick the comp to display. You can also decide whether link updates preserve the visibility overrides or synchronize with the original file's settings.
 

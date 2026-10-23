@@ -1,6 +1,6 @@
-# Acrobat — Doc: open, close, save and document requirements
+# Acrobat - Doc: open, close, save and document requirements
 
-Open when working with open, close, save and document requirements in Acrobat — Doc.
+Open when working with open, close, save and document requirements in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-lifecycle.json).
 

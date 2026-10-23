@@ -1,4 +1,4 @@
-# InDesign — Advanced topics
+# InDesign - Advanced topics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up And much more in InDesign. [And much more](and-much-more.md).

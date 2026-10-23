@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: fit and clip graphic content
+# Shared Adobe platform - Indesign: fit and clip graphic content
 
-Open when working with fit and clip graphic content in Shared Adobe platform — Indesign.
+Open when working with fit and clip graphic content in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-fitting-clipping.json).
 

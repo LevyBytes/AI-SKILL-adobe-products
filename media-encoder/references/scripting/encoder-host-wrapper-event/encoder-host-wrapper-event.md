@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — EncoderHostWrapperEvent
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderHostWrapperEvent
 
 For batch-queue items, this event supports onItemEncodingStarted, onAudioPreEncodeProgress, onEncodingItemProgressUpdate, and onItemEncodeComplete. When the queue contains multiple batch items, use this event so every item can receive those event types. For the full batch queue, the event type is onBatchEncoderStatusChanged.
 

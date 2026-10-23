@@ -1,4 +1,4 @@
-# After Effects — Drawbot_SupplierSuite1
+# After Effects - Drawbot_SupplierSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GetDefaultFontSize in After Effects. [GetDefaultFontSize](get-default-font-size.md).

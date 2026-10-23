@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: chinese, japanese, korean and mongolian writing systems
+# Shared Adobe platform - CTScript: chinese, japanese, korean and mongolian writing systems
 
-Open when working with chinese, japanese, korean and mongolian writing systems in Shared Adobe platform — CTScript.
+Open when working with chinese, japanese, korean and mongolian writing systems in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-east-inner-asia.json).
 

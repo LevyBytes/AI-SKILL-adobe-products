@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: read and edit text
+# Shared Adobe platform - Story: read and edit text
 
-Open when checking read and edit text in Shared Adobe platform — Story.
+Open when checking read and edit text in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

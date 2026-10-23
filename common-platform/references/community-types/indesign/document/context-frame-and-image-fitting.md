@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: image fitting, cropping and resolution
+# Shared Adobe platform - Document: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in Shared Adobe platform — Document.
+Open when checking image fitting, cropping and resolution in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

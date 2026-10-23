@@ -1,4 +1,4 @@
-# AEGP Suites — File Import Manager Suite
+# AEGP Suites - File Import Manager Suite
 
 FIMSuite lets file types handled by AEGPs appear in the After Effects import dialog and in drag-and-drop messaging.
 

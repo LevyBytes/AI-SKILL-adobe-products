@@ -1,4 +1,4 @@
-# Text Layer Match Names — Animators
+# Text Layer Match Names - Animators
 
 | Match Name | Display Name (EN) |
 | --- | --- |

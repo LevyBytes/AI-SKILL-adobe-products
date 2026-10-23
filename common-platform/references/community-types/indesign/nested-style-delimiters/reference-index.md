@@ -1,4 +1,4 @@
-# Shared Adobe platform — NestedStyleDelimiters
+# Shared Adobe platform - NestedStyleDelimiters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NestedStyleDelimiters declaration in Shared Adobe platform. [NestedStyleDelimiters declaration](declaration.md).

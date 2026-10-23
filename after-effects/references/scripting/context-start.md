@@ -1,6 +1,6 @@
-# After Effects — Scripting APIs: scripting setup and language foundations
+# After Effects - Scripting APIs: scripting setup and language foundations
 
-Open when working with scripting setup and language foundations in After Effects — Scripting APIs.
+Open when working with scripting setup and language foundations in After Effects - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-start.json).
 

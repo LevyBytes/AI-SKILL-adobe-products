@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: layer quality and preview resolution
+# Shared Adobe platform - _CommandID: layer quality and preview resolution
 
-Open when working with layer quality and preview resolution in Shared Adobe platform — _CommandID.
+Open when working with layer quality and preview resolution in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-preview-quality.json).
 

@@ -1,4 +1,4 @@
-# Glyphs and special characters — Delete custom glyph sets
+# Glyphs and special characters - Delete custom glyph sets
 
 Use one of these commands:
 

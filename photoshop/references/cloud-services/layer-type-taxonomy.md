@@ -2,7 +2,7 @@
 
 V2 changed every layer type string. Any `switch` statements or `if/else` chains that compare `layer.type` need updates.
 
-**CHANGED** — V2 uses snake_case type names, and artboards no longer share the group type.
+**CHANGED**: V2 uses snake_case type names, and artboards no longer share the group type.
 
 | Old type string | New type string | Notes |
 | --- | --- | --- |

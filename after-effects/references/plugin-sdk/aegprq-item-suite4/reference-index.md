@@ -1,4 +1,4 @@
-# After Effects — AEGP_RQItemSuite4
+# After Effects - AEGP_RQItemSuite4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_DeleteRQItem in After Effects. [AEGP_DeleteRQItem](aegp-delete-rq-item.md).

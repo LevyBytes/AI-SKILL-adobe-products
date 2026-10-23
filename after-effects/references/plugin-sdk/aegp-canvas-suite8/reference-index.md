@@ -1,4 +1,4 @@
-# After Effects — AEGP_CanvasSuite8
+# After Effects - AEGP_CanvasSuite8
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_ArtisanMustRenderAsLayer in After Effects. [AEGP_ArtisanMustRenderAsLayer](aegp-artisan-must-render-as-layer.md).

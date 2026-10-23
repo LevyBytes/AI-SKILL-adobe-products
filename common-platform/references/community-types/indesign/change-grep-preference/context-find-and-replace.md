@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeGrepPreference: find, replace and transliterate
+# Shared Adobe platform - ChangeGrepPreference: find, replace and transliterate
 
-Open when checking find, replace and transliterate in Shared Adobe platform — ChangeGrepPreference.
+Open when checking find, replace and transliterate in Shared Adobe platform - ChangeGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — ObjectExportOption
+# Shared Adobe platform - ObjectExportOption
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ObjectExportOption declaration in Shared Adobe platform. [ObjectExportOption declaration](declaration.md).

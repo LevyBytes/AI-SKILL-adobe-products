@@ -1,4 +1,4 @@
-# Premiere Pro — Overlay settings reference
+# Premiere Pro - Overlay settings reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Available overlay metadata types in Premiere Pro. [Available overlay metadata types](available-overlay-metadata-types.md).

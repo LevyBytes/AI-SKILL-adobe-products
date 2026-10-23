@@ -12,7 +12,7 @@ Only during batch, console and application initialization events is this method 
 
 Parameters
 
-Parameter — Description
+Parameter: Description
 
 oFunc
 

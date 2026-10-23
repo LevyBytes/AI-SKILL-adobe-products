@@ -1,4 +1,4 @@
-# Acrobat — Acrobat failed to load core DLL
+# Acrobat - Acrobat failed to load core DLL
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Corrupted application files in Acrobat. [Corrupted application files](corrupted-application-files.md).

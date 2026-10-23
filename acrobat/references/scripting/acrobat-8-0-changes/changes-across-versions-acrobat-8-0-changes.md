@@ -1,4 +1,4 @@
-# Changes Across Versions — Acrobat 8.0 changes
+# Changes Across Versions - Acrobat 8.0 changes
 
 E4X — that is, ECMA-357 — is now understood by the JavaScript interpreter. The specification itself is documented in "EMCAScript for XML (E4X) Specification", http://www.ecma-international/publications/standards/Ecma-357.htm . The following metadata example shows E4X in action.
 

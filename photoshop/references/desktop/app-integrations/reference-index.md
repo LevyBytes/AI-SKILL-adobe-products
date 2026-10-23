@@ -1,4 +1,4 @@
-# Photoshop — App integrations
+# Photoshop - App integrations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access Adobe Express Templates in Photoshop. [Access Adobe Express Templates](access-adobe-express-templates.md).

@@ -1,6 +1,6 @@
-# InDesign — Html item: object styles and enabled attributes
+# InDesign - Html item: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — Html item.
+Open when checking object styles and enabled attributes in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

@@ -1,4 +1,4 @@
-# Acrobat — Access the app
+# Acrobat - Access the app
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Download font and spelling packs in Acrobat. [Download font and spelling packs](download-font-and-spelling-packs.md).

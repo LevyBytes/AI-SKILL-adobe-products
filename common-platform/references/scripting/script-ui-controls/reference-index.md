@@ -1,9 +1,9 @@
-# Shared Adobe platform — Script ui controls
+# Shared Adobe platform - Script ui controls
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up button in Shared Adobe platform. [button](button.md).
 - Open when looking up checkbox in Shared Adobe platform. [checkbox](checkbox.md).
-- Open when looking up Control objects — Control types and creation parameters in Shared Adobe platform. [Control objects — Control types and creation parameters](control-objects-control-types-and-creation-parameters.md).
+- Open when looking up Control objects - Control types and creation parameters in Shared Adobe platform. [Control objects - Control types and creation parameters](control-objects-control-types-and-creation-parameters.md).
 - Open when looking up dropdownlist in Shared Adobe platform. [dropdownlist](dropdownlist.md).
 - Open when looking up editnumber in Shared Adobe platform. [editnumber](editnumber.md).
 - Open when looking up edittext in Shared Adobe platform. [edittext](edittext.md).

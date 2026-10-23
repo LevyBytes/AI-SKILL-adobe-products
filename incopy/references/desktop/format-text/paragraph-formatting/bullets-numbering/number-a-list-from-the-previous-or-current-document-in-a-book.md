@@ -1,4 +1,4 @@
-# Bullets and numbering — Number a list from the previous or current document in a book
+# Bullets and numbering - Number a list from the previous or current document in a book
 
 List settings control whether numbering continues from the previous document in a book or starts over in the current document.
 

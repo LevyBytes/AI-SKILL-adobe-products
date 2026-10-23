@@ -1,4 +1,4 @@
-# Photoshop — Artboard Migration
+# Photoshop - Artboard Migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional output capabilities in Photoshop. [Additional output capabilities](additional-output-capabilities.md).

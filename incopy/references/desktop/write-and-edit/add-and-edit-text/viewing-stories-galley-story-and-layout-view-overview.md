@@ -1,4 +1,4 @@
-# Viewing stories — Galley, Story, and Layout view overview
+# Viewing stories - Galley, Story, and Layout view overview
 
 InCopy has three story views: Galley, Story, and Layout. The naming comes from traditional publishing practice.
 

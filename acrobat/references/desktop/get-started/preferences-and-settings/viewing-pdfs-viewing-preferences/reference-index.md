@@ -1,4 +1,4 @@
-# Acrobat — Viewing Pdfs Viewing Preferences
+# Acrobat - Viewing Pdfs Viewing Preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the PDF/A viewing mode in Acrobat. [Change the PDF/A viewing mode](change-the-pdf-a-viewing-mode.md).

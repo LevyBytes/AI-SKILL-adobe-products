@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [merge-document-to-pdf.cjs](../../pdf-services/examples/node/merge-customer-data/merge-document-to-pdf.cjs)
+- [merge-customer-data setup and source](../../pdf-services/examples/node/merge-customer-data/merge-customer-data-setup.md)

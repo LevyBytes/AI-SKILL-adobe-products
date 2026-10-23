@@ -1,4 +1,4 @@
-# Adobe Code of Conduct — Our Responsibilities
+# Adobe Code of Conduct - Our Responsibilities
 
 Maintainers of the project define what counts as acceptable behavior and should respond to unacceptable behavior with corrective action that is both fair and appropriate.
 

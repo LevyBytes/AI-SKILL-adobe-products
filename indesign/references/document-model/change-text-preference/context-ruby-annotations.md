@@ -1,6 +1,6 @@
-# InDesign — Change text preference: ruby annotations
+# InDesign - Change text preference: ruby annotations
 
-Open when checking ruby annotations in InDesign — Change text preference.
+Open when checking ruby annotations in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

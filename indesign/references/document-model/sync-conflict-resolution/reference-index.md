@@ -1,4 +1,4 @@
-# InDesign — SyncConflictResolution
+# InDesign - SyncConflictResolution
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ASK_ABOUT_CONFLICTS in InDesign. [ASK_ABOUT_CONFLICTS](askaboutconflicts.md).

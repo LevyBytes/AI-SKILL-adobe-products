@@ -1,4 +1,4 @@
-# Shared Adobe platform — User interface controls
+# Shared Adobe platform - User interface controls
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Button in Shared Adobe platform. [Button](button.md).
@@ -15,4 +15,4 @@
 - Open when looking up Scrollbar in Shared Adobe platform. [Scrollbar](scrollbar.md).
 - Open when looking up Slider in Shared Adobe platform. [Slider](slider.md).
 - Open when looking up StaticText in Shared Adobe platform. [StaticText](static-text.md).
-- Open when looking up Types of controls — User-interface controls in Shared Adobe platform. [Types of controls — User-interface controls](types-of-controls-user-interface-controls.md).
+- Open when looking up Types of controls - User-interface controls in Shared Adobe platform. [Types of controls - User-interface controls](types-of-controls-user-interface-controls.md).

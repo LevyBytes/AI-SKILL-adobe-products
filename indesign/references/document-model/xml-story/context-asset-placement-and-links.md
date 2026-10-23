@@ -1,6 +1,6 @@
-# InDesign — XmlStory: place and link external assets
+# InDesign - XmlStory: place and link external assets
 
-Open when checking place and link external assets in InDesign — XmlStory.
+Open when checking place and link external assets in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

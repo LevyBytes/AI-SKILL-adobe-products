@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: multimedia, rich media and 3d annotations
+# Acrobat - Scripting APIs: multimedia, rich media and 3d annotations
 
-Open when working with multimedia, rich media and 3d annotations in Acrobat — Scripting APIs.
+Open when working with multimedia, rich media and 3d annotations in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-media.json).
 
@@ -12,8 +12,8 @@ Open when selecting an exact reference: [Topic catalog](context-media.json).
 - Open when looking up HonorsArgs in Acrobat [HonorsArgs](honors-args.md).
 - Open when looking up Marker in Acrobat [Marker references](marker/reference-index.md).
 - Open when looking up Markers in Acrobat [Markers references](markers/reference-index.md).
-- Open when looking up Media and Marker APIs — MediaSettings in Acrobat [Media and Marker APIs — MediaSettings](media-and-marker-apis-media-settings.md).
-- Open when looking up Media and Marker APIs — MediaSettings in Acrobat [Media and Marker APIs — MediaSettings references](media-and-marker-apis-media-settings/reference-index.md).
+- Open when looking up Media and Marker APIs - MediaSettings in Acrobat [Media and Marker APIs - MediaSettings](media-and-marker-apis-media-settings.md).
+- Open when looking up Media and Marker APIs - MediaSettings in Acrobat [Media and Marker APIs - MediaSettings references](media-and-marker-apis-media-settings/reference-index.md).
 - Open when looking up Media offset in Acrobat [Media offset references](media-offset/reference-index.md).
 - Open when looking up Media player in Acrobat [Media player references](media-player/reference-index.md).
 - Open when looking up Media reject in Acrobat [Media reject references](media-reject/reference-index.md).

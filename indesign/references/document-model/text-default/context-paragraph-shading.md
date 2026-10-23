@@ -1,6 +1,6 @@
-# InDesign — Text default: paragraph shading
+# InDesign - Text default: paragraph shading
 
-Open when checking paragraph shading in InDesign — Text default.
+Open when checking paragraph shading in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

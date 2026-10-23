@@ -1,4 +1,4 @@
-# Illustrator — Illustrator API Key Concepts
+# Illustrator - Illustrator API Key Concepts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About custom script bundles in Illustrator. [About custom script bundles](about-custom-script-bundles.md).

@@ -1,4 +1,4 @@
-# Photoshop — V1 deprecation announcement
+# Photoshop - V1 deprecation announcement
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up What should I do? in Photoshop. [What should I do?](what-should-i-do.md).

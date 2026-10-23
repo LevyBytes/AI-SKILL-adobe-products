@@ -1,4 +1,4 @@
-# InDesign — Matrix content
+# InDesign - Matrix content
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ROTATION_VALUE in InDesign. [ROTATION_VALUE](rotationvalue.md).

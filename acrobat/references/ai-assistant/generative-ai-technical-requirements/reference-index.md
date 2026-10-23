@@ -1,4 +1,4 @@
-# Acrobat — Generative AI technical requirements
+# Acrobat - Generative AI technical requirements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Account and login requirements in Acrobat. [Account and login requirements](account-and-login-requirements.md).

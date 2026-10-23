@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: object styles and enabled attributes
+# Shared Adobe platform - Indesign: object styles and enabled attributes
 
-Open when working with object styles and enabled attributes in Shared Adobe platform — Indesign.
+Open when working with object styles and enabled attributes in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-object-styles.json).
 

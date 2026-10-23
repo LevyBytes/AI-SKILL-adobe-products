@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: apply and manage styles
+# Shared Adobe platform - CharacterStyle: apply and manage styles
 
-Open when checking apply and manage styles in Shared Adobe platform — CharacterStyle.
+Open when checking apply and manage styles in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

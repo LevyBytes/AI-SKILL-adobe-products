@@ -1,6 +1,6 @@
-# InDesign — RadioButton: find, replace and transliterate
+# InDesign - RadioButton: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — RadioButton.
+Open when checking find, replace and transliterate in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

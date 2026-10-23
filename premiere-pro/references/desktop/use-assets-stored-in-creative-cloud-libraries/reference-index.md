@@ -1,4 +1,4 @@
-# Premiere Pro — Use assets stored in creative cloud libraries
+# Premiere Pro - Use assets stored in creative cloud libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Drag a Look to the Project panel in Premiere Pro. [Drag a Look to the Project panel](drag-a-look-to-the-project-panel.md).

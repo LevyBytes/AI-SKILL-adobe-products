@@ -20,7 +20,7 @@ var myPositionProperty = app.project.item(1).layer(1).property("Position");
 myPositionProperty.setTemporalEaseAtKey(2, [easeIn], [easeOut]);
 ```
 
-Here Scale is set — a temporal property carrying either two or three dimensions. With 2D and 3D properties, every dimension needs its own easeIn and easeOut value:
+Here Scale is set: a temporal property carrying either two or three dimensions. With 2D and 3D properties, every dimension needs its own easeIn and easeOut value:
 
 ```javascript
 var easeIn = new KeyframeEase(0.5, 50);

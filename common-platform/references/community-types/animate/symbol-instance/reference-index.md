@@ -1,4 +1,4 @@
-# Shared Adobe platform — SymbolInstance
+# Shared Adobe platform - SymbolInstance
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SymbolInstance declaration in Shared Adobe platform. [SymbolInstance declaration](declaration.md).

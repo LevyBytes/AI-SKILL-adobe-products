@@ -1,4 +1,4 @@
-# Shared Adobe platform — _AddControl
+# Shared Adobe platform - _AddControl
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up _AddControl button in Shared Adobe platform. [_AddControl button](button.md).

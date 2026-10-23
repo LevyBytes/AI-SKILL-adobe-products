@@ -1,6 +1,6 @@
-# InDesign — Text column: conditional text and editorial review
+# InDesign - Text column: conditional text and editorial review
 
-Open when checking conditional text and editorial review in InDesign — Text column.
+Open when checking conditional text and editorial review in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-conditions-and-review.json).
 

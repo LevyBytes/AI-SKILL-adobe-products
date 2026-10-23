@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: kenten emphasis
+# Shared Adobe platform - FindTextPreference: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — FindTextPreference.
+Open when checking kenten emphasis in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

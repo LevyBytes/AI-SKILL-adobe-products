@@ -1,4 +1,4 @@
-# Tips & Tricks — UI Performance
+# Tips & Tricks - UI Performance
 
 Try toggling `PF_EO_ALWAYS_UPDATE` against `PF_EO_NEVER_UPDATE` (both from `PF_EventExtra`) until you strike the right balance of speed versus precision.
 

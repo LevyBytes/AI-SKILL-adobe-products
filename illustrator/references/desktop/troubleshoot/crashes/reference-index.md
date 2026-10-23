@@ -1,4 +1,4 @@
-# Illustrator — Application crash issues
+# Illustrator - Application crash issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Quick save, auto-backup, and recovery settings in Illustrator. [Quick save, auto-backup, and recovery settings](quick-save-auto-backup-and-recovery-settings.md).

@@ -1,4 +1,4 @@
-# Work with swatches — Edit a swatch
+# Work with swatches - Edit a swatch
 
 To revise a swatch, change its per-swatch attributes in the Swatch Options dialog box. When the target is a mixed ink swatch or a mixed ink group, extra controls are available.
 

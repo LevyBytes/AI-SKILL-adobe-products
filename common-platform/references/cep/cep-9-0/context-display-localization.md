@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 9 0: display scaling, fonts and localization
+# Shared Adobe platform - Cep 9 0: display scaling, fonts and localization
 
-Open when working with display scaling, fonts and localization in Shared Adobe platform — Cep 9 0.
+Open when working with display scaling, fonts and localization in Shared Adobe platform - Cep 9 0.
 
 Open when selecting an exact reference: [Topic catalog](context-display-localization.json).
 

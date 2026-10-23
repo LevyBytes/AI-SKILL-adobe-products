@@ -1,4 +1,4 @@
-# Errors — Error Reporting Policy
+# Errors - Error Reporting Policy
 
 A uniform error-handling policy governs After Effects, and you're expected to follow it.
 

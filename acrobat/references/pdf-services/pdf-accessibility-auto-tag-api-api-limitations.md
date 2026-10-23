@@ -1,4 +1,4 @@
-# PDF Accessibility Auto-Tag API — API limitations
+# PDF Accessibility Auto-Tag API - API limitations
 
 - **File size:** The maximum accepted file size is 100 MB.
 - **Number of Pages:** Up to 200 pages are handled for non-scanned PDFs and up to 100 pages for scanned ones, though documents carrying many tables may hit a lower ceiling.

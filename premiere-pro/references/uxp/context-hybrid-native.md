@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: native and hybrid plugins
+# Premiere Pro - UXP plugins and APIs: native and hybrid plugins
 
-Open when working with native and hybrid plugins in Premiere Pro — UXP plugins and APIs.
+Open when working with native and hybrid plugins in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-hybrid-native.json).
 

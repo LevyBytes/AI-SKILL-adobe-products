@@ -1,4 +1,4 @@
-# Acrobat — Learn the basics
+# Acrobat - Learn the basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access the app in Acrobat. [Access the app](access-the-app.md).
@@ -18,11 +18,11 @@
 - Open when looking up Learn about the key features of Acrobat on desktop. in Acrobat. [Learn about the key features of Acrobat on desktop.](learn-about-the-key-features-of-acrobat-on-desktop.md).
 - Open when looking up Learn The Basics in Acrobat. [Learn The Basics](learn-the-basics.md).
 - Open when looking up macOS in Acrobat. [macOS](mac-os.md).
-- Open when looking up Moving from page to page inside Acrobat — here's the how-to. in Acrobat. [Moving from page to page inside Acrobat — here's the how-to.](moving-from-page-to-page-inside-acrobat-here-s-the-how-to.md).
-- Open when looking up Navigate through pages — Automatically scroll through pages in Acrobat. [Navigate through pages — Automatically scroll through pages](navigate-through-pages-automatically-scroll-through-pages.md).
-- Open when looking up Navigate through pages — Navigate bookmarked pages in Acrobat. [Navigate through pages — Navigate bookmarked pages](navigate-through-pages-navigate-bookmarked-pages.md).
-- Open when looking up Navigate through pages — Open and navigate an article thread in Acrobat. [Navigate through pages — Open and navigate an article thread](navigate-through-pages-open-and-navigate-an-article-thread.md).
-- Open when looking up Navigate through pages — Retrace viewing path in Acrobat. [Navigate through pages — Retrace viewing path](navigate-through-pages-retrace-viewing-path.md).
+- Open when looking up Moving from page to page inside Acrobat - here's the how-to. in Acrobat. [Moving from page to page inside Acrobat - here's the how-to.](moving-from-page-to-page-inside-acrobat-here-s-the-how-to.md).
+- Open when looking up Navigate through pages - Automatically scroll through pages in Acrobat. [Navigate through pages - Automatically scroll through pages](navigate-through-pages-automatically-scroll-through-pages.md).
+- Open when looking up Navigate through pages - Navigate bookmarked pages in Acrobat. [Navigate through pages - Navigate bookmarked pages](navigate-through-pages-navigate-bookmarked-pages.md).
+- Open when looking up Navigate through pages - Open and navigate an article thread in Acrobat. [Navigate through pages - Open and navigate an article thread](navigate-through-pages-open-and-navigate-an-article-thread.md).
+- Open when looking up Navigate through pages - Retrace viewing path in Acrobat. [Navigate through pages - Retrace viewing path](navigate-through-pages-retrace-viewing-path.md).
 - Open when looking up Pinning down which track and version your Acrobat product runs on. in Acrobat. [Pinning down which track and version your Acrobat product runs on.](identify-acrobat-track-and-version.md).
 - Open when looking up Preferences and settings in Acrobat. [Preferences and settings](preferences-and-settings.md).
 - Open when looking up Quick action toolbar in Acrobat. [Quick action toolbar](quick-action-toolbar.md).

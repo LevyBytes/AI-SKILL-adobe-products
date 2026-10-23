@@ -1,4 +1,4 @@
-# InDesign — TrackChangesPreference
+# InDesign - TrackChangesPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addedBackgroundColorChoice in InDesign. [addedBackgroundColorChoice](added-background-color-choice.md).

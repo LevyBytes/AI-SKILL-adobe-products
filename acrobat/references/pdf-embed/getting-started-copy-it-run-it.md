@@ -1,4 +1,4 @@
-# Getting Started — Copy it. Run it.
+# Getting Started - Copy it. Run it.
 
 Copying the code below into an index.html file is the fastest route to a running setup. An online PDF is already wired into the example.
 

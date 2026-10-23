@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [watermark_selected_ranges.py](../examples/python/watermark-selected-ranges/watermark_selected_ranges.py)
+- [watermark-selected-ranges setup and source](../examples/python/watermark-selected-ranges/watermark-selected-ranges-setup.md)

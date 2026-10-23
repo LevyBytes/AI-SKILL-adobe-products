@@ -1,4 +1,4 @@
-# Illustrator — Export files to different formats
+# Illustrator - Export files to different formats
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export for screens in Illustrator. [Export for screens](export-for-screens.md).

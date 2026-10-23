@@ -1,4 +1,4 @@
-# PreferencesGeneral — Properties
+# PreferencesGeneral - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

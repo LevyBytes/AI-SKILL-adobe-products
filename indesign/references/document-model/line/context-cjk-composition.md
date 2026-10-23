@@ -1,6 +1,6 @@
-# InDesign — Line: cjk grids and composition
+# InDesign - Line: cjk grids and composition
 
-Open when checking cjk grids and composition in InDesign — Line.
+Open when checking cjk grids and composition in InDesign - Line.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

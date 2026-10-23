@@ -1,4 +1,4 @@
-# Illustrator — Design with text
+# Illustrator - Design with text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit and format text in Illustrator. [Edit and format text references](edit-and-format-text/reference-index.md).

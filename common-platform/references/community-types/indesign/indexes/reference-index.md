@@ -1,4 +1,4 @@
-# Shared Adobe platform — Indexes
+# Shared Adobe platform - Indexes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Indexes collection iteration in Shared Adobe platform. [Indexes collection iteration](collection-iteration.md).

@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: script dialog containers
+# InDesign - InDesign document object model: script dialog containers
 
-Open when working with script dialog containers in InDesign — InDesign document object model.
+Open when working with script dialog containers in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-dialog-containers.json).
 

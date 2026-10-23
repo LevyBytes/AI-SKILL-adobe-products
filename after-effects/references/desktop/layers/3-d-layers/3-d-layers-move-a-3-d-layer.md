@@ -1,4 +1,4 @@
-# 3D layers — Move a 3D layer
+# 3D layers - Move a 3D layer
 
 1. Pick the 3D layer you intend to reposition.
 

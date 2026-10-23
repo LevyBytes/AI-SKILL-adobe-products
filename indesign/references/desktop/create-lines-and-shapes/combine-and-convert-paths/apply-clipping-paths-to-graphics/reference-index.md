@@ -1,4 +1,4 @@
-# InDesign — Apply clipping paths to graphics
+# InDesign - Apply clipping paths to graphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert a clipping path to a graphics frame in InDesign. [Convert a clipping path to a graphics frame](convert-a-clipping-path-to-a-graphics-frame.md).

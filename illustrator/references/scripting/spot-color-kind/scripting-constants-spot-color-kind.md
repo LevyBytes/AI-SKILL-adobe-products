@@ -1,4 +1,4 @@
-# Scripting Constants — SpotColorKind
+# Scripting Constants - SpotColorKind
 
 Spot-color swatches use these model identifiers.
 

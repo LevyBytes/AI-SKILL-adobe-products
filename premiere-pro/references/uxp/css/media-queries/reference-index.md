@@ -1,4 +1,4 @@
-# Premiere Pro — Media Queries
+# Premiere Pro - Media Queries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up height in Premiere Pro. [height](height.md).

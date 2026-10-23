@@ -1,4 +1,4 @@
-# Scripting Constants — FlashExportStyle
+# Scripting Constants - FlashExportStyle
 
 During export, this setting chooses how Illustrator images are converted.
 

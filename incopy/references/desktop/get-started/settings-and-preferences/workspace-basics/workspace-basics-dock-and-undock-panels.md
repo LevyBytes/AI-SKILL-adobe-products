@@ -1,4 +1,4 @@
-# Workspace basics — Dock and undock panels
+# Workspace basics - Dock and undock panels
 
 A dock groups panels or panel groups together, usually vertically. Move panels into a dock to dock them, and move them out to undock them.
 

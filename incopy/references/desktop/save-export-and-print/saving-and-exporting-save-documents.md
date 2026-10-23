@@ -1,4 +1,4 @@
-# Saving and exporting — Save documents
+# Saving and exporting - Save documents
 
 Use one of these commands:
 

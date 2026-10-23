@@ -1,4 +1,4 @@
-# Working with managed files — Update content while opening a managed document (InDesign)
+# Working with managed files - Update content while opening a managed document (InDesign)
 
 Choose File > Open, find the target file, and click Open. When asked whether to update the document with modified file-system content, click Yes. Then use one of these methods:
 

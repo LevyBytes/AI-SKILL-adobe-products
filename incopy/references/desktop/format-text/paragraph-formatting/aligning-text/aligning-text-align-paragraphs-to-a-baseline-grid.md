@@ -1,4 +1,4 @@
-# Aligning text — Align paragraphs to a baseline grid
+# Aligning text - Align paragraphs to a baseline grid
 
 For paragraphs in a plain text frame, aligning them to the baseline grid can be especially helpful. Frame-grid text is aligned to the embox center by default, but individual paragraph grid alignment can be switched among the roman baseline, the frame grid embox, and the frame grid ICF.
 

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: pf_eventextra
+# After Effects - C++ plugin SDK: pf_eventextra
 
-Open when working with pf_eventextra in After Effects — C++ plugin SDK.
+Open when working with pf_eventextra in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-ui-events-pf-eventextra.json).
 

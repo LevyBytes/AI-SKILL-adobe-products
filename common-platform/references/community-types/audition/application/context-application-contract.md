@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: application contract and environment
+# Shared Adobe platform - Application: application contract and environment
 
-Open when working with application contract and environment in Shared Adobe platform — Application.
+Open when working with application contract and environment in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-application-contract.json).
 

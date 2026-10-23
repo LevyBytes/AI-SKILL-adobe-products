@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP Suites — Manage Projects", "file": "references/plugin-sdk/manage-projects/aegp-suites-manage-projects.md", "summary": "Open when looking up AEGP Suites — Manage Projects in After Effects.", "keywords": ["AEGP Suites — Manage Projects"]},
+  {"topic": "AEGP Suites - Manage Projects", "file": "references/plugin-sdk/manage-projects/aegp-suites-manage-projects.md", "summary": "Open when looking up AEGP Suites - Manage Projects in After Effects.", "keywords": ["AEGP Suites - Manage Projects"]},
   {"topic": "AEGP_TimeDisplay2", "file": "references/plugin-sdk/manage-projects/aegp-time-display2.md", "summary": "Open when looking up AEGP_TimeDisplay2 in After Effects.", "keywords": ["AEGP_TimeDisplay2"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

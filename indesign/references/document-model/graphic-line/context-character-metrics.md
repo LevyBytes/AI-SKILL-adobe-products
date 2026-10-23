@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: character spacing and geometry
+# InDesign - GraphicLine: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — GraphicLine.
+Open when checking character spacing and geometry in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

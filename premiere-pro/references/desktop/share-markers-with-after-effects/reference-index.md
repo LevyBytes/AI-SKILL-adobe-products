@@ -1,4 +1,4 @@
-# Premiere Pro — Share markers with after effects
+# Premiere Pro - Share markers with after effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy and paste clips with markers in Premiere Pro. [Copy and paste clips with markers](copy-and-paste-clips-with-markers.md).

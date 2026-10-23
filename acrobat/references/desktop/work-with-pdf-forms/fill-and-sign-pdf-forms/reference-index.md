@@ -1,4 +1,4 @@
-# Acrobat — Fill and sign PDF forms
+# Acrobat - Fill and sign PDF forms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Fill and sign flat forms in Acrobat. [Fill and sign flat forms](fill-and-sign-flat-forms.md).

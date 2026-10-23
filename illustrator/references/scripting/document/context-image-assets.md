@@ -1,6 +1,6 @@
-# Illustrator — Document: embedded, placed and raster artwork
+# Illustrator - Document: embedded, placed and raster artwork
 
-Open when working with embedded, placed and raster artwork in Illustrator — Document.
+Open when working with embedded, placed and raster artwork in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-image-assets.json).
 

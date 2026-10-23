@@ -1,4 +1,4 @@
-# Media — Properties
+# Media - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

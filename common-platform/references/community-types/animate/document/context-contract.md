@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: document declaration and identity
+# Shared Adobe platform - Document: document declaration and identity
 
-Open when working with document declaration and identity in Shared Adobe platform — Document.
+Open when working with document declaration and identity in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-contract.json).
 

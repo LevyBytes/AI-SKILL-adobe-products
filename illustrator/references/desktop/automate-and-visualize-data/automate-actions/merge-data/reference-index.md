@@ -1,4 +1,4 @@
-# Illustrator — Merge data
+# Illustrator - Merge data
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Quick steps for merging data in Illustrator. [Quick steps for merging data](quick-steps-for-merging-data.md).

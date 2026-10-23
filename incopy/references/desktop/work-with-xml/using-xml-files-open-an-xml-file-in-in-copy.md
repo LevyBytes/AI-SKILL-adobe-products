@@ -1,4 +1,4 @@
-# Using XML files — Open an XML file in InCopy
+# Using XML files - Open an XML file in InCopy
 
 Any existing XML file can be opened in InCopy for editing and tagging.
 

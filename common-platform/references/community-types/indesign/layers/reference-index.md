@@ -1,4 +1,4 @@
-# Shared Adobe platform — Layers
+# Shared Adobe platform - Layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Layers collection iteration in Shared Adobe platform. [Layers collection iteration](collection-iteration.md).

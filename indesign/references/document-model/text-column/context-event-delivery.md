@@ -1,6 +1,6 @@
-# InDesign — Text column: events and listeners
+# InDesign - Text column: events and listeners
 
-Open when checking events and listeners in InDesign — Text column.
+Open when checking events and listeners in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

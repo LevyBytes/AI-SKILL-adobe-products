@@ -1,4 +1,4 @@
-# Tips & Tricks — Text Layer Origin
+# Tips & Tricks - Text Layer Origin
 
 The origin for nearly every kind of layer lands in the top-left corner. Text layers break that rule!
 

@@ -1,4 +1,4 @@
-# InDesign — Manage parent items
+# InDesign - Manage parent items
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Detach parent items in InDesign. [Detach parent items](detach-parent-items.md).

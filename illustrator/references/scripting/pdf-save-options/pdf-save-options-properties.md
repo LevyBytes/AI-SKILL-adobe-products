@@ -1,4 +1,4 @@
-# PDFSaveOptions — Properties
+# PDFSaveOptions - Properties
 
 Optional. Comment added to the PDF file to state the target print condition.
 

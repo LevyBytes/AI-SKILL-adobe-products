@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ExtractTextTableInfoWithStylingFromPDF.java](../examples/java/extract-text-table-info-with-styling-from-pdf/ExtractTextTableInfoWithStylingFromPDF.java)
+- [extract-text-table-info-with-styling-from-pdf setup and source](../examples/java/extract-text-table-info-with-styling-from-pdf/extract-text-table-info-with-styling-from-pdf-setup.md)

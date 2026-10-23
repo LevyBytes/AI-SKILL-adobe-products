@@ -1,4 +1,4 @@
-# InDesign — CoordinateSpaces
+# InDesign - CoordinateSpaces
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up INNER_COORDINATES in InDesign. [INNER_COORDINATES](innercoordinates.md).

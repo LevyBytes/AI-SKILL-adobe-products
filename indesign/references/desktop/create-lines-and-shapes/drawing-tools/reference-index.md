@@ -1,4 +1,4 @@
-# InDesign — Drawing tools
+# InDesign - Drawing tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Draw lines with the pen tool in InDesign. [Draw lines with the pen tool](draw-lines-with-the-pen-tool.md).

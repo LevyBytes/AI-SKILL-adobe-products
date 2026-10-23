@@ -1,4 +1,4 @@
-# AEGP Suites — Mask Feathering
+# AEGP Suites - Mask Feathering
 
 New for CS6, feathering can be applied to masks.
 

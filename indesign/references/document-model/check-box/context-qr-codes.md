@@ -1,6 +1,6 @@
-# InDesign — Check box: generate qr codes
+# InDesign - Check box: generate qr codes
 
-Open when checking generate qr codes in InDesign — Check box.
+Open when checking generate qr codes in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

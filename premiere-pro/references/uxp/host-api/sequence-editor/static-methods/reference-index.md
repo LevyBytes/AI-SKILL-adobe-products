@@ -1,4 +1,4 @@
-# Premiere Pro — Static methods
+# Premiere Pro - Static methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up createCloneTrackItemAction in Premiere Pro. [createCloneTrackItemAction](create-clone-track-item-action.md).

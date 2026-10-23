@@ -1,4 +1,4 @@
-# Hyperlinks — Create a hyperlink to a file
+# Hyperlinks - Create a hyperlink to a file
 
 A file hyperlink opens its target file in the native application from the exported PDF or SWF file, such as Microsoft Word for .doc files.
 

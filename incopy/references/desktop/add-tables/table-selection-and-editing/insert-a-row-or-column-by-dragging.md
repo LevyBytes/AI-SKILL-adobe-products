@@ -1,4 +1,4 @@
-# Selecting and editing tables — Insert a row or column by dragging
+# Selecting and editing tables - Insert a row or column by dragging
 
 When columns are added by dragging, dragging beyond one and one-half times the width of the dragged column creates new columns that match the original column's width. If the drag inserts only one column, that column may be narrower or wider than the column used as the drag source. Rows follow the same pattern unless the dragged row has Row Height set to At Least. In that situation, when only one row is created, InDesign resizes the new row as needed so it is tall enough for the text.
 

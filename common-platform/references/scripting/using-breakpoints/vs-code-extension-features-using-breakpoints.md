@@ -1,4 +1,4 @@
-# VS Code Extension Features — Using Breakpoints
+# VS Code Extension Features - Using Breakpoints
 
 Breakpoints pause code execution on a chosen line so you can inspect the call stack, variable state, and function arguments at that moment.
 

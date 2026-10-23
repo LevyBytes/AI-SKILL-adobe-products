@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Change the zero point
+# Frames, grids, rulers, and guides - Change the zero point
 
 The zero point is where the zeros of the horizontal and vertical rulers meet. By default it sits at the upper-left corner of the first page in each spread. As a result, its default location remains consistent within a spread, although it can appear to shift when judged against the pasteboard.
 

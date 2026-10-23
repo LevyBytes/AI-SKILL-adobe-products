@@ -1,4 +1,4 @@
-# InDesign — Create and deploy InDesign server packages
+# InDesign - Create and deploy InDesign server packages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create online and offline activation for the InDesign Server package in InDesign. [Create online and offline activation for the InDesign Server package](indesign-server-online-offline-activation.md).

@@ -1,4 +1,4 @@
-# `PF_EventUnion` — Arbitrary Parameters Event
+# `PF_EventUnion` - Arbitrary Parameters Event
 
 After Effects is asking your plug-in to handle its arbitrary data parameter(s).
 

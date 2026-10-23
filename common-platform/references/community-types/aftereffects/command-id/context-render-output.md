@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: render queues, output modules and export
+# Shared Adobe platform - _CommandID: render queues, output modules and export
 
-Open when working with render queues, output modules and export in Shared Adobe platform — _CommandID.
+Open when working with render queues, output modules and export in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-render-output.json).
 

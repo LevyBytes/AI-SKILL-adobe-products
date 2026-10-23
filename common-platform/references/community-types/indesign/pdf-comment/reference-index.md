@@ -1,4 +1,4 @@
-# Shared Adobe platform — PDFComment
+# Shared Adobe platform - PDFComment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PDFComment declaration in Shared Adobe platform. [PDFComment declaration](declaration.md).

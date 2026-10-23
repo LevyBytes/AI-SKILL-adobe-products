@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: playback, recording and transport
+# Shared Adobe platform - Application: playback, recording and transport
 
-Open when working with playback, recording and transport in Shared Adobe platform — Application.
+Open when working with playback, recording and transport in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-transport-commands.json).
 

@@ -1,6 +1,6 @@
-# InDesign — MediaItem: events and listeners
+# InDesign - MediaItem: events and listeners
 
-Open when checking events and listeners in InDesign — MediaItem.
+Open when checking events and listeners in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

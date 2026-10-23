@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: runtime debugging and diagnostics
+# Shared Adobe platform - Scripting APIs: runtime debugging and diagnostics
 
-Open when working with runtime debugging and diagnostics in Shared Adobe platform — Scripting APIs.
+Open when working with runtime debugging and diagnostics in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-runtime-debugging.json).
 

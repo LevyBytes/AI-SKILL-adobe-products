@@ -1,4 +1,4 @@
-# Acrobat — Export documents
+# Acrobat - Export documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert To Other Formats in Acrobat. [Convert To Other Formats](convert-to-other-formats.md).

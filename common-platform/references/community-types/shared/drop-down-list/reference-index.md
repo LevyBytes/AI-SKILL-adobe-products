@@ -1,4 +1,4 @@
-# Shared Adobe platform — DropDownList
+# Shared Adobe platform - DropDownList
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DropDownList declaration in Shared Adobe platform. [DropDownList declaration](declaration.md).

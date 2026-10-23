@@ -1,4 +1,4 @@
-# InDesign — Save export and publish
+# InDesign - Save export and publish
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export to epub in InDesign. [Export to epub references](export-to-epub/reference-index.md).

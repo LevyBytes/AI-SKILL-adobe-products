@@ -1,4 +1,4 @@
-# InDesign — Add and import text
+# InDesign - Add and import text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add text to documents in InDesign. [Add text to documents](add-text-to-documents.md).

@@ -1,4 +1,4 @@
-# After Effects — Distort Effects
+# After Effects - Distort Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and match lens distortion with Optics Compensation in After Effects. [Add and match lens distortion with Optics Compensation](add-and-match-lens-distortion-with-optics-compensation.md).

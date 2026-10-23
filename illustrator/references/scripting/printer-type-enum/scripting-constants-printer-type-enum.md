@@ -1,4 +1,4 @@
-# Scripting Constants — PrinterTypeEnum
+# Scripting Constants - PrinterTypeEnum
 
 | Value | Description |
 | --- | --- |

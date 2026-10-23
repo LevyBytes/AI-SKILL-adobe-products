@@ -1,4 +1,4 @@
-# InDesign — InDesign Rosetta version won’t open in future macOS releases
+# InDesign - InDesign Rosetta version won’t open in future macOS releases
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Current behavior in InDesign. [Current behavior](current-behavior.md).

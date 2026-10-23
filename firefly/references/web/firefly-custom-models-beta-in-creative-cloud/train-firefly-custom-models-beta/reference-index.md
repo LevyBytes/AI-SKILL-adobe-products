@@ -1,4 +1,4 @@
-# Firefly — Train Firefly Custom Models (beta)
+# Firefly - Train Firefly Custom Models (beta)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit, duplicate, and delete in Firefly. [Edit, duplicate, and delete](edit-duplicate-and-delete.md).

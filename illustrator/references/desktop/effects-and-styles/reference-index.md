@@ -1,4 +1,4 @@
-# Illustrator — Apply special effects and styles
+# Illustrator - Apply special effects and styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply filter effects in Illustrator. [Apply filter effects](apply-filter-effects.md).

@@ -1,6 +1,6 @@
-# InDesign — Group: object styles and enabled attributes
+# InDesign - Group: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — Group.
+Open when checking object styles and enabled attributes in InDesign - Group.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

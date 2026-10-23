@@ -1,4 +1,4 @@
-# Shared Adobe platform — State
+# Shared Adobe platform - State
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up State declaration in Shared Adobe platform. [State declaration](declaration.md).

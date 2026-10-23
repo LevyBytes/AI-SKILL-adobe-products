@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: export documents and select formats
+# Shared Adobe platform - Document: export documents and select formats
 
-Open when checking export documents and select formats in Shared Adobe platform — Document.
+Open when checking export documents and select formats in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

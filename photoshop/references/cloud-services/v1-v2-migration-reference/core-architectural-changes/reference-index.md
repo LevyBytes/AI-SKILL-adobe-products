@@ -1,4 +1,4 @@
-# Photoshop — Core architectural changes
+# Photoshop - Core architectural changes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Base URL changes in Photoshop. [1. Base URL changes](base-url-changes.md).

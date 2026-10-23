@@ -1,6 +1,6 @@
-# InDesign — Document: events and listeners
+# InDesign - Document: events and listeners
 
-Open when checking events and listeners in InDesign — Document.
+Open when checking events and listeners in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

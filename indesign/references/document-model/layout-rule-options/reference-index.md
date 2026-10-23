@@ -1,4 +1,4 @@
-# InDesign — LayoutRuleOptions
+# InDesign - LayoutRuleOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GUIDE_BASED in InDesign. [GUIDE_BASED](guidebased.md).

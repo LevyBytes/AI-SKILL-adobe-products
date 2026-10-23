@@ -1,4 +1,4 @@
-# Premiere Pro — Add video effects
+# Premiere Pro - Add video effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply video effects in Premiere Pro. [Apply video effects references](apply-video-effects/reference-index.md).

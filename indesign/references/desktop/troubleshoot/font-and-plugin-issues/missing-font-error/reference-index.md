@@ -1,4 +1,4 @@
-# InDesign — Missing font error
+# InDesign - Missing font error
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Deactivated fonts in the font management utility in InDesign. [Deactivated fonts in the font management utility](deactivated-fonts-in-the-font-management-utility.md).

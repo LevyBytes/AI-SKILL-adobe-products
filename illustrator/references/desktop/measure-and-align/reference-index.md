@@ -1,4 +1,4 @@
-# Illustrator — Measure and align
+# Illustrator - Measure and align
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Measure and plot in Illustrator. [Measure and plot](measure-and-plot.md).

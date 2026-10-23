@@ -1,4 +1,4 @@
-# InDesign — Import text files
+# InDesign - Import text files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Import text in InDesign. [Import text](import-text.md).

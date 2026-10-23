@@ -1,4 +1,4 @@
-# Automated rendering and network rendering — Start in watch-folder mode
+# Automated rendering and network rendering - Start in watch-folder mode
 
 Only renders from a folder on your own local computer fall under watch-folder mode.
 

@@ -1,4 +1,4 @@
-# Compute Cache API — `AEGP_ComputeCacheSuite1`
+# Compute Cache API`AEGP_ComputeCacheSuite1`
 
 Function
 

@@ -1,4 +1,4 @@
-# Tabs and indents — Set tabs
+# Tabs and indents - Set tabs
 
 You can create left, center, right, decimal, and special-character tabs. With a special-character tab, the alignment character can be any character you choose, such as a colon or dollar sign.
 

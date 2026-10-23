@@ -1,4 +1,4 @@
-# Audition — Copy, cut, paste, and delete audio in Audition
+# Audition - Copy, cut, paste, and delete audio in Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy or cut audio data in Audition. [Copy or cut audio data](copy-or-cut-audio-data.md).

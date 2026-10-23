@@ -1,4 +1,4 @@
-# Firefly — Work with video
+# Firefly - Work with video
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices for writing content for Text to avatar in Firefly. [Best practices for writing content for Text to avatar](best-practices-for-writing-content-for-text-to-avatar.md).

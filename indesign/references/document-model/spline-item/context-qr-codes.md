@@ -1,6 +1,6 @@
-# InDesign — SplineItem: generate qr codes
+# InDesign - SplineItem: generate qr codes
 
-Open when checking generate qr codes in InDesign — SplineItem.
+Open when checking generate qr codes in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

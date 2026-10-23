@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — responseType : `string`
+# window.XMLHttpRequest - responseType : `string`
 
 The response data format is controlled by this value.
 Supported values:
@@ -10,7 +10,7 @@ Supported values:
      "document"       : an HTML Document or XML Document selected from the MIME type of the received data.
      "json"           : an object produced by parsing the received data contents as JSON.
 
-## window.XMLHttpRequest — responseType
+## window.XMLHttpRequest - responseType
 
 **Throws**:
 

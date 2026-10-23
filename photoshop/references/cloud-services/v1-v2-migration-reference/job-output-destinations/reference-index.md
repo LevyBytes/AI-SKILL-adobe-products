@@ -1,4 +1,4 @@
-# Photoshop — All jobs use same endpoint — V2 status response output patterns
+# Photoshop - All jobs use same endpoint - V2 status response output patterns
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. External URL destination (presigned URLs) in Photoshop. [1. External URL destination (presigned URLs)](external-url-destination-presigned-urls.md).

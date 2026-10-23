@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEGP Suites — Render Suites", "file": "references/plugin-sdk/render-suites/aegp-suites-render-suites.md", "summary": "Open when looking up AEGP Suites — Render Suites in After Effects.", "keywords": ["AEGP Suites — Render Suites"]},
+  {"topic": "AEGP Suites - Render Suites", "file": "references/plugin-sdk/render-suites/aegp-suites-render-suites.md", "summary": "Open when looking up AEGP Suites - Render Suites in After Effects.", "keywords": ["AEGP Suites - Render Suites"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

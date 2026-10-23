@@ -1,6 +1,6 @@
-# Shared Adobe platform — ParagraphStyle: paragraph shading
+# Shared Adobe platform - ParagraphStyle: paragraph shading
 
-Open when checking paragraph shading in Shared Adobe platform — ParagraphStyle.
+Open when checking paragraph shading in Shared Adobe platform - ParagraphStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

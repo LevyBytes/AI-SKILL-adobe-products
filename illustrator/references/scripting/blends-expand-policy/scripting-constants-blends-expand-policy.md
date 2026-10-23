@@ -1,4 +1,4 @@
-# Scripting Constants — BlendsExpandPolicy
+# Scripting Constants - BlendsExpandPolicy
 
 BlendsExpandPolicy defines how the FXG file format expands blends.
 

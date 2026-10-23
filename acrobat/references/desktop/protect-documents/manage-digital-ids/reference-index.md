@@ -1,4 +1,4 @@
-# Acrobat — Manage digital IDs
+# Acrobat - Manage digital IDs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create self-signed digital IDs in Acrobat. [Create self-signed digital IDs](create-self-signed-digital-ids.md).

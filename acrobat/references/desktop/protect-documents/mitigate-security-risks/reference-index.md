@@ -1,4 +1,4 @@
-# Acrobat — Mitigate security risks
+# Acrobat - Mitigate security risks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat and PDF content security overview in Acrobat. [Acrobat and PDF content security overview](acrobat-and-pdf-content-security-overview.md).

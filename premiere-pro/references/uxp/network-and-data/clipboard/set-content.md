@@ -1,4 +1,4 @@
-# navigator.clipboard — setContent(data)
+# navigator.clipboard - setContent(data)
 
 Place data on the clipboard.
 Note: This API is non-standard.

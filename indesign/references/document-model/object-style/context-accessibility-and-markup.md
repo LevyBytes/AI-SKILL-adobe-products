@@ -1,6 +1,6 @@
-# InDesign — ObjectStyle: accessibility, tagging and xml
+# InDesign - ObjectStyle: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — ObjectStyle.
+Open when checking accessibility, tagging and xml in InDesign - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

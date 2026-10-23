@@ -1,4 +1,4 @@
-# InDesign — Open documents
+# InDesign - Open documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Check your InDesign version in InDesign. [Check your InDesign version](check-your-in-design-version.md).

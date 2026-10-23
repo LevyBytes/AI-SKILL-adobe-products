@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Obsolete
+# First-Party Effect Match Names - Obsolete
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |
@@ -13,7 +13,7 @@
 | ADBE Reduce Interlace Flicker | Reduce Interlace Flicker | 32 |  |
 | ADBE Spill Suppressor | Spill Suppressor | 32 |  |
 
-### First-Party Effect Match Names — \_Obsolete
+### First-Party Effect Match Names - \_Obsolete
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

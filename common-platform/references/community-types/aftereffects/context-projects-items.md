@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: projects, compositions and item collections
+# Shared Adobe platform - Aftereffects: projects, compositions and item collections
 
-Open when working with projects, compositions and item collections in Shared Adobe platform — Aftereffects.
+Open when working with projects, compositions and item collections in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-projects-items.json).
 

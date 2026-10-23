@@ -1,4 +1,4 @@
-# InDesign — Types of paths and shapes
+# InDesign - Types of paths and shapes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Compound paths in InDesign. [Compound paths](compound-paths.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — TracingOptions
+# Shared Adobe platform - TracingOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TracingOptions declaration in Shared Adobe platform. [TracingOptions declaration](declaration.md).

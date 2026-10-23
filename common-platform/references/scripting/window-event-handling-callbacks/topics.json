@@ -9,6 +9,6 @@
   {"topic": "onResizing", "file": "references/scripting/window-event-handling-callbacks/on-resizing.md", "summary": "Open when looking up onResizing in Shared Adobe platform.", "keywords": ["onResizing"]},
   {"topic": "onShortcutKey", "file": "references/scripting/window-event-handling-callbacks/on-shortcut-key.md", "summary": "Open when looking up onShortcutKey in Shared Adobe platform.", "keywords": ["onShortcutKey"]},
   {"topic": "onShow", "file": "references/scripting/window-event-handling-callbacks/on-show.md", "summary": "Open when looking up onShow in Shared Adobe platform.", "keywords": ["onShow"]},
-  {"topic": "Window object — Window event-handling callbacks", "file": "references/scripting/window-event-handling-callbacks/window-object-window-event-handling-callbacks.md", "summary": "Open when looking up Window object — Window event-handling callbacks in Shared Adobe platform.", "keywords": ["Window object — Window event-handling callbacks"]},
+  {"topic": "Window object - Window event-handling callbacks", "file": "references/scripting/window-event-handling-callbacks/window-object-window-event-handling-callbacks.md", "summary": "Open when looking up Window object - Window event-handling callbacks in Shared Adobe platform.", "keywords": ["Window object - Window event-handling callbacks"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

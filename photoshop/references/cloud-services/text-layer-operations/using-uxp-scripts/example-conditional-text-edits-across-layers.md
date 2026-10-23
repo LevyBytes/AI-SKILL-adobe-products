@@ -4,65 +4,7 @@ The UXP script selects each layer and toggles bold and italic on every text laye
 
 **Script**
 
-```javascript
-const { app, core } = require("photoshop");
-
-// Recursively collect all layers including those in groups
-function getAllLayers(layers, result = []) {
-  for (let i = 0; i < layers.length; i++) {
-    const layer = layers[i];
-    result.push(layer);
-    if (layer.layers && layer.layers.length > 0) {
-      getAllLayers(layer.layers, result);
-    }
-  }
-  return result;
-}
-
-async function main() {
-  if (!app.activeDocument) {
-    console.error("No active document");
-    return;
-  }
-
-  await core.executeAsModal(
-    async () => {
-      const doc = app.activeDocument;
-      const allLayers = getAllLayers(doc.layers);
-      let editCount = 0;
-
-      for (const layer of allLayers) {
-        try {
-          // Select the layer
-          doc.activeLayers = [layer];
-
-          if (layer.kind === "text" && layer.textItem) {
-            const cs = layer.textItem.characterStyle;
-
-            // Toggle bold: if not bold → bold; if bold → regular
-            cs.fauxBold = !cs.fauxBold;
-
-            // Toggle italic: if not italic → italic; if italic → regular
-            cs.fauxItalic = !cs.fauxItalic;
-
-            editCount++;
-          }
-        } catch (err) {
-          console.warn(`Could not edit layer "${layer.name}":`, err.message);
-        }
-      }
-
-      console.log(`Toggled bold/italic on ${editCount} text layer(s)`);
-    },
-    { commandName: "Conditional Text Layer Edits" },
-  );
-}
-
-main().catch((err) => {
-  console.error("Conditional text edit failed:", err);
-  throw err;
-});
-```
+The complete program is in the [upstream source](https://raw.githubusercontent.com/AdobeDocs/ffs-photoshop-API/f87035468ed78c735de8a1d4a0c5525f8aa658c5/src/pages/guides/photoshop-v2/v1-to-v2/convenience-apis/text-layer-operations.md).
 
 **Request:**
 

@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "AnnotRichMedia", "file": "references/scripting/acrobat-9-0-changes/annot-rich-media.md", "summary": "Open when looking up AnnotRichMedia in Acrobat.", "keywords": ["AnnotRichMedia"]},
   {"topic": "App", "file": "references/scripting/acrobat-9-0-changes/app.md", "summary": "Open when looking up App in Acrobat.", "keywords": ["App"]},
-  {"topic": "Changes Across Versions — Acrobat 9.0 changes", "file": "references/scripting/acrobat-9-0-changes/changes-across-versions-acrobat-9-0-changes.md", "summary": "Open when looking up Changes Across Versions — Acrobat 9.0 changes in Acrobat.", "keywords": ["Changes Across Versions — Acrobat 9.0 changes"]},
+  {"topic": "Changes Across Versions - Acrobat 9.0 changes", "file": "references/scripting/acrobat-9-0-changes/changes-across-versions-acrobat-9-0-changes.md", "summary": "Open when looking up Changes Across Versions - Acrobat 9.0 changes in Acrobat.", "keywords": ["Changes Across Versions - Acrobat 9.0 changes"]},
   {"topic": "Collection", "file": "references/scripting/acrobat-9-0-changes/collection.md", "summary": "Open when looking up Collection in Acrobat.", "keywords": ["Collection"]},
   {"topic": "collectionField", "file": "references/scripting/acrobat-9-0-changes/collection-field.md", "summary": "Open when looking up collectionField in Acrobat.", "keywords": ["collectionField"]},
   {"topic": "Data", "file": "references/scripting/acrobat-9-0-changes/data.md", "summary": "Open when looking up Data in Acrobat.", "keywords": ["Data"]},

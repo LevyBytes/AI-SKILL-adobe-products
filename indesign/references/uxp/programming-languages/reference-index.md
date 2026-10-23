@@ -1,4 +1,4 @@
-# InDesign — Programming languages
+# InDesign - Programming languages
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Chrome debug tool (CDT) in InDesign. [Chrome debug tool (CDT)](chrome-debug-tool-cdt.md).

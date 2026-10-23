@@ -1,4 +1,4 @@
-# InDesign — Print booklets
+# InDesign - Print booklets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust creep settings in booklets in InDesign. [Adjust creep settings in booklets](adjust-creep-settings-in-booklets.md).

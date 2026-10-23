@@ -1,4 +1,4 @@
-# Shared Adobe platform — BookContents
+# Shared Adobe platform - BookContents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BookContents collection iteration in Shared Adobe platform. [BookContents collection iteration](collection-iteration.md).

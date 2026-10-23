@@ -1,4 +1,4 @@
-# InDesign — Change default shaping engine
+# InDesign - Change default shaping engine
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and save the script in InDesign. [Create and save the script](create-and-save-the-script.md).

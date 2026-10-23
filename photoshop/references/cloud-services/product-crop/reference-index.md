@@ -1,4 +1,4 @@
-# Photoshop — Product Crop
+# Photoshop - Product Crop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Implementation example in Photoshop. [Implementation example](implementation-example.md).

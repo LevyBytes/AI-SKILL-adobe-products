@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: image fitting, cropping and resolution
+# InDesign - ImportedPage: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in InDesign — ImportedPage.
+Open when checking image fitting, cropping and resolution in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

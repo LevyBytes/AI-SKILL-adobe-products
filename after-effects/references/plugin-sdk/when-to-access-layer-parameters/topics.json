@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "SmartFX — When To Access Layer Parameters", "file": "references/plugin-sdk/when-to-access-layer-parameters/smart-fx-when-to-access-layer-parameters.md", "summary": "Open when looking up SmartFX — When To Access Layer Parameters in After Effects.", "keywords": ["SmartFX — When To Access Layer Parameters"]},
+  {"topic": "SmartFX - When To Access Layer Parameters", "file": "references/plugin-sdk/when-to-access-layer-parameters/smart-fx-when-to-access-layer-parameters.md", "summary": "Open when looking up SmartFX - When To Access Layer Parameters in After Effects.", "keywords": ["SmartFX - When To Access Layer Parameters"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

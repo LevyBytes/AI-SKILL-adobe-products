@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Common pixel aspect ratios
+# Importing and interpreting footage items - Common pixel aspect ratios
 
 | Format | Pixel aspect ratio | When to use |
 | --- | --- | --- |

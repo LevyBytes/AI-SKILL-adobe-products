@@ -1,4 +1,4 @@
-# Keying effects — Unmult effect
+# Keying effects - Unmult effect
 
 Anywhere a layer carries a flat black or flat white backdrop, the Unmult effect keys those regions out so they turn transparent.
 

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: threading contracts for effect suites and aegps
+# After Effects - C++ plugin SDK: threading contracts for effect suites and aegps
 
-Open when working with threading contracts for effect suites and aegps in After Effects — C++ plugin SDK.
+Open when working with threading contracts for effect suites and aegps in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-threading-contracts.json).
 

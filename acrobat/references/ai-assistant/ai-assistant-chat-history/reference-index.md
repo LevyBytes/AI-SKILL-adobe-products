@@ -1,4 +1,4 @@
-# Acrobat — AI Assistant chat history
+# Acrobat - AI Assistant chat history
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access chat history in Acrobat. [Access chat history](access-chat-history.md).

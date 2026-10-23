@@ -1,6 +1,6 @@
-# InDesign — Text default: paragraph borders
+# InDesign - Text default: paragraph borders
 
-Open when checking paragraph borders in InDesign — Text default.
+Open when checking paragraph borders in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-borders.json).
 

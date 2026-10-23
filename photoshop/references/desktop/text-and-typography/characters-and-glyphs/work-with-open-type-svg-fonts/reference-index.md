@@ -1,4 +1,4 @@
-# Photoshop — Work with OpenType SVG fonts
+# Photoshop - Work with OpenType SVG fonts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How OpenType SVG fonts differ from standard fonts in Photoshop. [How OpenType SVG fonts differ from standard fonts](how-open-type-svg-fonts-differ-from-standard-fonts.md).

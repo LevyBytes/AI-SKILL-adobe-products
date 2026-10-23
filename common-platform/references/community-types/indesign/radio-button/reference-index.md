@@ -1,4 +1,4 @@
-# Shared Adobe platform — RadioButton
+# Shared Adobe platform - RadioButton
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RadioButton declaration in Shared Adobe platform. [RadioButton declaration](declaration.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: bridgetalk and communication between applications
+# Shared Adobe platform - Scripting APIs: bridgetalk and communication between applications
 
-Open when working with bridgetalk and communication between applications in Shared Adobe platform — Scripting APIs.
+Open when working with bridgetalk and communication between applications in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-messaging.json).
 

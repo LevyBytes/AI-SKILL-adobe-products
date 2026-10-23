@@ -1,4 +1,4 @@
-# Introduction — Document Generation API for automating document workflows
+# Introduction - Document Generation API for automating document workflows
 
 Serving as a cloud-based web service, the [Document Generation API](https://raw.githubusercontent.com/AdobeDocs/pdfservices-api-documentation/main/src/pages/overview/legacy-documentation/document-generation-api/index.md) lets you generate high fidelity PDF and Word documents fed by dynamic data inputs. With Document Generation API in hand, merging your data(e.g. JSON file) into Word templates yields dynamic documents — think contracts and agreements, invoices, proposals, reports, forms, branded marketing documents and more.
 

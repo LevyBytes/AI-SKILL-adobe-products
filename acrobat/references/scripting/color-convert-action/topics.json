@@ -6,7 +6,7 @@
   {"topic": "convertProfile", "file": "references/scripting/color-convert-action/convert-profile.md", "summary": "Open when looking up convertProfile in Acrobat.", "keywords": ["convertProfile"]},
   {"topic": "embed", "file": "references/scripting/color-convert-action/embed.md", "summary": "Open when looking up embed in Acrobat.", "keywords": ["embed"]},
   {"topic": "isProcessColor", "file": "references/scripting/color-convert-action/is-process-color.md", "summary": "Open when looking up isProcessColor in Acrobat.", "keywords": ["isProcessColor"]},
-  {"topic": "JavaScript APIs — colorConvertAction", "file": "references/scripting/color-convert-action/java-script-apis-color-convert-action.md", "summary": "Open when looking up JavaScript APIs — colorConvertAction in Acrobat.", "keywords": ["JavaScript APIs — colorConvertAction"]},
+  {"topic": "JavaScript APIs - colorConvertAction", "file": "references/scripting/color-convert-action/java-script-apis-color-convert-action.md", "summary": "Open when looking up JavaScript APIs - colorConvertAction in Acrobat.", "keywords": ["JavaScript APIs - colorConvertAction"]},
   {"topic": "matchAttributesAll", "file": "references/scripting/color-convert-action/match-attributes-all.md", "summary": "Open when looking up matchAttributesAll in Acrobat.", "keywords": ["matchAttributesAll"]},
   {"topic": "matchAttributesAny", "file": "references/scripting/color-convert-action/match-attributes-any.md", "summary": "Open when looking up matchAttributesAny in Acrobat.", "keywords": ["matchAttributesAny"]},
   {"topic": "matchIntent", "file": "references/scripting/color-convert-action/match-intent.md", "summary": "Open when looking up matchIntent in Acrobat.", "keywords": ["matchIntent"]},

@@ -1,4 +1,4 @@
-# InDesign — Conditional and variable text
+# InDesign - Conditional and variable text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conditional text overview in InDesign. [Conditional text overview](conditional-text-overview.md).

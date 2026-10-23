@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [OcrPDF.java](../examples/java/ocr-pdf/OcrPDF.java)
+- [ocr-pdf setup and source](../examples/java/ocr-pdf/ocr-pdf-setup.md)

@@ -1,6 +1,6 @@
-# InDesign — Rectangle: text ranges and containers
+# InDesign - Rectangle: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Rectangle.
+Open when checking text ranges and containers in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

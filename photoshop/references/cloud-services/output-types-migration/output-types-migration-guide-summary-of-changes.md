@@ -1,4 +1,4 @@
-# Output Types Migration Guide — Summary of changes
+# Output Types Migration Guide - Summary of changes
 
 Every output format in v2 follows the same broad structural updates:
 

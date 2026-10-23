@@ -1,4 +1,4 @@
-# Photoshop — Unsupported Elements
+# Photoshop - Unsupported Elements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ordered Lists in Photoshop. [Ordered Lists](ordered-lists.md).

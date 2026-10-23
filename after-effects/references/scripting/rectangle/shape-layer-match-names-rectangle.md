@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Rectangle
+# Shape Layer Match Names - Rectangle
 
 | Match Name | Display Name (EN) |
 | --- | --- |

@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [RotatePDFPages.java](../examples/java/rotate-pdf-pages/RotatePDFPages.java)
+- [rotate-pdf-pages setup and source](../examples/java/rotate-pdf-pages/rotate-pdf-pages-setup.md)

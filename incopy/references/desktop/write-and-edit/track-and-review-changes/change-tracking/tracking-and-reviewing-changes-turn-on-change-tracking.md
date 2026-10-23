@@ -1,4 +1,4 @@
-# Tracking and reviewing changes — Turn on change tracking
+# Tracking and reviewing changes - Turn on change tracking
 
 Open the Track Changes controls by choosing Window > Editorial > Track Changes for the Track Changes panel (InDesign), or Window > Track Changes for the Track Changes toolbar (InCopy).
 

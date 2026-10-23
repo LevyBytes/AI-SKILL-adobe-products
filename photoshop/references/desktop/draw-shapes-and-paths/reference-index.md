@@ -1,4 +1,4 @@
-# Photoshop — Draw shapes and paths
+# Photoshop - Draw shapes and paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create shapes in Photoshop. [Create shapes](create-shapes.md).

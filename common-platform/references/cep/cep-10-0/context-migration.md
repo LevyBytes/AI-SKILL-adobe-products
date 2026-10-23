@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 10 0: version migration requirements
+# Shared Adobe platform - Cep 10 0: version migration requirements
 
-Open when working with version migration requirements in Shared Adobe platform — Cep 10 0.
+Open when working with version migration requirements in Shared Adobe platform - Cep 10 0.
 
 Open when selecting an exact reference: [Topic catalog](context-migration.json).
 

@@ -1,4 +1,4 @@
-# Premiere Pro — Encoder
+# Premiere Pro - Encoder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Encoder object in Premiere Pro. [Encoder object](encoder-object.md).

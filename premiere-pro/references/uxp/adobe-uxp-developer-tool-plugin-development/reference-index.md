@@ -1,4 +1,4 @@
-# Premiere Pro — Adobe UXP Developer Tool plugin development
+# Premiere Pro - Adobe UXP Developer Tool plugin development
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Connected Applications in Premiere Pro. [Connected Applications](connected-applications.md).

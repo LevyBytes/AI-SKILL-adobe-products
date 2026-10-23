@@ -1,6 +1,6 @@
-# InDesign — PICT: image fitting, cropping and resolution
+# InDesign - PICT: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in InDesign — PICT.
+Open when checking image fitting, cropping and resolution in InDesign - PICT.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

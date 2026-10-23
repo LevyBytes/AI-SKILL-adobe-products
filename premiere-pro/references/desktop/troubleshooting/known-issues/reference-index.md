@@ -1,4 +1,4 @@
-# Premiere Pro — Limitations and known issues
+# Premiere Pro - Limitations and known issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Creative Cloud Synced files End of life for Premiere in Premiere Pro. [Creative Cloud Synced files End of life for Premiere](creative-cloud-synced-files-end-of-life-for-premiere.md).

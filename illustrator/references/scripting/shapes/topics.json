@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
   {"topic": "Creating a polygon", "file": "references/scripting/shapes/creating-a-polygon.md", "summary": "Open when looking up Creating a polygon in Illustrator.", "keywords": ["Creating a polygon"]},
   {"topic": "Creating a rectangle", "file": "references/scripting/shapes/creating-a-rectangle.md", "summary": "Open when looking up Creating a rectangle in Illustrator.", "keywords": ["Creating a rectangle"]},
-  {"topic": "Creating paths and shapes — Shapes", "file": "references/scripting/shapes/creating-paths-and-shapes-shapes.md", "summary": "Open when looking up Creating paths and shapes — Shapes in Illustrator.", "keywords": ["Creating paths and shapes — Shapes"]},
+  {"topic": "Creating paths and shapes - Shapes", "file": "references/scripting/shapes/creating-paths-and-shapes-shapes.md", "summary": "Open when looking up Creating paths and shapes - Shapes in Illustrator.", "keywords": ["Creating paths and shapes - Shapes"]},
   {"topic": "Write-once access", "file": "references/scripting/shapes/write-once-access.md", "summary": "Open when looking up Write-once access in Illustrator.", "keywords": ["Write-once access"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

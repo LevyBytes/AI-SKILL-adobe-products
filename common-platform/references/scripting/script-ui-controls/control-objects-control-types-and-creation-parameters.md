@@ -1,10 +1,10 @@
-# Control objects — Control types and creation parameters
+# Control objects - Control types and creation parameters
 
 These keywords may be used in string literals as the add method's type specifier on Window and container (Panel and Group) objects. Class names may appear in resource specifications to define controls inside a container element, such as Window, Panel, or Group.
 
 Every control type, containers included, has an optional creation parameter name for assigning a unique object name.
 
-## Control objects — Control types and creation parameters
+## Control objects - Control types and creation parameters
 
 Containers expose extra child-management properties; see Container Attributes. Hiding a panel also hides its children. Showing it again displays only those children whose own hidden state does not suppress them.
 

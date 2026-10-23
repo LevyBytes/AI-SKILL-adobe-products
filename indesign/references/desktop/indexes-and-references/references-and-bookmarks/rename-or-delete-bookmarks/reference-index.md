@@ -1,4 +1,4 @@
-# InDesign — Rename or delete bookmarks
+# InDesign - Rename or delete bookmarks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete a bookmark in InDesign. [Delete a bookmark](delete-a-bookmark.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — SoundBehaviors
+# Shared Adobe platform - SoundBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SoundBehaviors collection iteration in Shared Adobe platform. [SoundBehaviors collection iteration](collection-iteration.md).

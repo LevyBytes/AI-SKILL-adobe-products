@@ -1,4 +1,4 @@
-# Shared Adobe platform — DocumentPreference
+# Shared Adobe platform - DocumentPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DocumentPreference declaration in Shared Adobe platform. [DocumentPreference declaration](declaration.md).

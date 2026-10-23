@@ -1,4 +1,4 @@
-# Workspace basics — Change Interface preferences
+# Workspace basics - Change Interface preferences
 
 Choose Edit > Preferences > Interface (Windows) or InCopy  > Preferences > Interface (Mac OS).
 

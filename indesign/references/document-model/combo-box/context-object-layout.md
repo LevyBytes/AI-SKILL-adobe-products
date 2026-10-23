@@ -1,6 +1,6 @@
-# InDesign — Combo box: placement, bounds and transformations
+# InDesign - Combo box: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Combo box.
+Open when checking placement, bounds and transformations in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

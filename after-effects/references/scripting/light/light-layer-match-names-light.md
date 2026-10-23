@@ -1,4 +1,4 @@
-# Light Layer Match Names — Light
+# Light Layer Match Names - Light
 
 | Match Name | Display Name (EN) |
 | --- | --- |

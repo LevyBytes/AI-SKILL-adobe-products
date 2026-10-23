@@ -1,4 +1,4 @@
-# Defining entry points for indirect access — Shared-library function API
+# Defining entry points for indirect access - Shared-library function API
 
 Your shared-library C/C++ code presents its JavaScript interface through two groups of functions, gathered in the SoServerInterface and SoObjectInterface function-pointer structures.
 

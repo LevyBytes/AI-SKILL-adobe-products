@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLComments
+# Shared Adobe platform - XMLComments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLComments collection iteration in Shared Adobe platform. [XMLComments collection iteration](collection-iteration.md).

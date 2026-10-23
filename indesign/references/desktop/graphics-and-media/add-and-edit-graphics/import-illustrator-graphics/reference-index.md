@@ -1,4 +1,4 @@
-# InDesign — Import Illustrator graphics
+# InDesign - Import Illustrator graphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Control layer visibility in InDesign. [Control layer visibility](control-layer-visibility.md).

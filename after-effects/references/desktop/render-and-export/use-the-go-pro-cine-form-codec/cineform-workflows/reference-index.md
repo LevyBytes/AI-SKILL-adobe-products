@@ -1,4 +1,4 @@
-# After Effects — Using the GoPro CineForm codec in After Effects
+# After Effects - Using the GoPro CineForm codec in After Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About the GoPro CineForm codec in After Effects. [About the GoPro CineForm codec](about-the-go-pro-cine-form-codec.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: application identity and environment
+# Shared Adobe platform - Application: application identity and environment
 
-Open when working with application identity and environment in Shared Adobe platform — Application.
+Open when working with application identity and environment in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-identity.json).
 

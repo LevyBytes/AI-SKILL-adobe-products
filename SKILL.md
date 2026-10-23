@@ -1,9 +1,10 @@
 ---
 name: adobe-products
-description: Use when a task needs Adobe product documentation, workflows, scripting, plugins, SDKs, or service APIs for Acrobat, Photoshop, Illustrator, InDesign, InCopy, Premiere Pro, After Effects, Audition, Media Encoder, Firefly, or shared CEP, ExtendScript, and ScriptUI. Routes to the bundled product skill; excludes unrelated creative software and generic image or PDF tasks without an Adobe product context.
+description: "Use when a task needs Adobe product documentation, workflows, scripting, plugins, SDKs or service APIs for Acrobat, Photoshop, Illustrator, InDesign, InCopy, Premiere Pro, After Effects, Audition, Media Encoder, Firefly, or shared CEP, ExtendScript and ScriptUI. Not for other creative software or generic image or PDF tasks without an Adobe product."
+license: Apache-2.0
 metadata:
   skill-type: "collection"
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

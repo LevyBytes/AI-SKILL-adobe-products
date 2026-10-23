@@ -1,4 +1,4 @@
-# Photoshop — Adjust color
+# Photoshop - Adjust color
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose colors in Photoshop. [Choose colors](choose-colors.md).

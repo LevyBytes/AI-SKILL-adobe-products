@@ -6,7 +6,7 @@ See how to pull SVG files straight in as native, editable shape layers that anim
 
 Either double-click somewhere inside the Project panel or go through File > Import > File to track down and bring in the SVG file.
 
-Footage or a composition—After Effects in its newest version lets you import the file either way.
+Footage or a composition: After Effects in its newest version lets you import the file either way.
 
 Pull the imported SVG file over into the Timeline panel by dragging it.
 

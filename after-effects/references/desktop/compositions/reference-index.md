@@ -1,4 +1,4 @@
-# After Effects — Compositions
+# After Effects - Compositions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cinema 4 d compositions in After Effects. [Cinema 4 d compositions references](cinema-4-d-compositions/reference-index.md).

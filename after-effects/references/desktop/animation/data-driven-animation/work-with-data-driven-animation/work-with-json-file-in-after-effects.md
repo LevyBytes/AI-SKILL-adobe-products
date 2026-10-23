@@ -8,7 +8,7 @@ Pick a .JSON file, then click Open.
 
 Your project window now holds the file. Build a composition out of that footage.
 
-The composition needs a solid—create one via Layer > New > Solid.
+The composition needs a solid: create one via Layer > New > Solid.
 
 Over in the Timeline panel, spin down the solid layer's properties, then reveal the Opacity parameter with Alt + Click on Windows or ⌥ + Click on macOS.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — EPSs
+# Shared Adobe platform - EPSs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EPSs collection iteration in Shared Adobe platform. [EPSs collection iteration](collection-iteration.md).

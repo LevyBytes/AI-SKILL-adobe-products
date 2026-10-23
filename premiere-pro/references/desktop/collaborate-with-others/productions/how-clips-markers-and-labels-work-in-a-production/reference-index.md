@@ -1,4 +1,4 @@
-# Premiere Pro — How clips, markers, and labels work in a Production
+# Premiere Pro - How clips, markers, and labels work in a Production
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Clips in a Production in Premiere Pro. [Clips in a Production](clips-in-a-production.md).

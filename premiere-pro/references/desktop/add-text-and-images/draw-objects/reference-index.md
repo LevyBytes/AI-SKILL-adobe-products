@@ -1,4 +1,4 @@
-# Premiere Pro — Draw objects
+# Premiere Pro - Draw objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a shape in Premiere Pro. [Create a shape](create-a-shape.md).

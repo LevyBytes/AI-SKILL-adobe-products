@@ -1,4 +1,4 @@
-# Data Types — Data Types Requiring Disposal
+# Data Types - Data Types Requiring Disposal
 
 | Data Type | Disposal Function |
 | --- | --- |

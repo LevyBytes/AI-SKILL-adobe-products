@@ -1,4 +1,4 @@
-# Importing graphics — Fit a graphic to its frame
+# Importing graphics - Fit a graphic to its frame
 
 After a graphic is placed or pasted into a frame, it appears by default at the frame's upper-left corner. When the frame and its content have different sizes, Fitting commands can be used to make them align properly.
 

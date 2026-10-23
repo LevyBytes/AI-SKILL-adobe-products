@@ -1,6 +1,6 @@
-# InDesign — Word: writing direction and diacritics
+# InDesign - Word: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — Word.
+Open when checking writing direction and diacritics in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

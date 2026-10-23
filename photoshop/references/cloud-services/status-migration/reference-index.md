@@ -1,4 +1,4 @@
-# Photoshop — Status migration
+# Photoshop - Status migration
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basic migration example in Photoshop. [Basic migration example](basic-migration-example.md).

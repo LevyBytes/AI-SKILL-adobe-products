@@ -1,4 +1,4 @@
-# window.NamedNodeMap — setNamedItem(attr)
+# window.NamedNodeMap - setNamedItem(attr)
 
 | Param | Type |
 | --- | --- |

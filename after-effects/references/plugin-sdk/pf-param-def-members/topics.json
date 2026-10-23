@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "PF_ParamDef — PF_ParamDef Members", "file": "references/plugin-sdk/pf-param-def-members/pf-param-def-pf-param-def-members.md", "summary": "Open when looking up PF_ParamDef — PF_ParamDef Members in After Effects.", "keywords": ["PF_ParamDef — PF_ParamDef Members"]},
+  {"topic": "PF_ParamDef - PF_ParamDef Members", "file": "references/plugin-sdk/pf-param-def-members/pf-param-def-pf-param-def-members.md", "summary": "Open when looking up PF_ParamDef - PF_ParamDef Members in After Effects.", "keywords": ["PF_ParamDef - PF_ParamDef Members"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

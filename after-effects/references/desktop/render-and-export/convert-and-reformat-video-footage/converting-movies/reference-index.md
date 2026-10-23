@@ -1,4 +1,4 @@
-# After Effects — Converting movies
+# After Effects - Converting movies
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert DV footage from PAL to NTSC using pulldown in After Effects. [Convert DV footage from PAL to NTSC using pulldown](convert-dv-footage-from-pal-to-ntsc-using-pulldown.md).

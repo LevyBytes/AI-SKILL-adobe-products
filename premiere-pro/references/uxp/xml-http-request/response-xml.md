@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — responseXML : `Document`
+# window.XMLHttpRequest - responseXML : `Document`
 
 **Read only**
 Contains the XML or HTML `Document` received by the request, or

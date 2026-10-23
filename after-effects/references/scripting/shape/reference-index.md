@@ -1,4 +1,4 @@
-# After Effects — Shape
+# After Effects - Shape
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Shape object in After Effects. [Shape object](shape-object.md).

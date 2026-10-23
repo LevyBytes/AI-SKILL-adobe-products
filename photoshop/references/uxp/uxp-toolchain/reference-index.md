@@ -1,4 +1,4 @@
-# Photoshop — UXP Toolchain
+# Photoshop - UXP Toolchain
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up A Basic Toolchain in Photoshop. [A Basic Toolchain](a-basic-toolchain.md).

@@ -1,4 +1,4 @@
-# window.Element — setPointerCapture(pointerId)
+# window.Element - setPointerCapture(pointerId)
 
 Applies pointer capture to this element. In this implementation, the element does not receive a `gotpointercapture` event.
 

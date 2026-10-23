@@ -1,6 +1,6 @@
-# InDesign — Find grep preference: warichu inline text
+# InDesign - Find grep preference: warichu inline text
 
-Open when checking warichu inline text in InDesign — Find grep preference.
+Open when checking warichu inline text in InDesign - Find grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

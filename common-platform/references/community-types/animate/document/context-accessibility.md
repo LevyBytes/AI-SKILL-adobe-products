@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: document accessibility
+# Shared Adobe platform - Document: document accessibility
 
-Open when working with document accessibility in Shared Adobe platform — Document.
+Open when working with document accessibility in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-accessibility.json).
 

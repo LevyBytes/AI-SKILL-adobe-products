@@ -1,4 +1,4 @@
-# Photoshop — Resize and adjust resolution
+# Photoshop - Resize and adjust resolution
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change print dimensions and resolution in Photoshop. [Change print dimensions and resolution](change-print-dimensions-and-resolution.md).

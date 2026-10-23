@@ -1,4 +1,4 @@
-# Premiere Pro — Dom
+# Premiere Pro - Dom
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Abort controller in Premiere Pro. [Abort controller references](abort-controller/reference-index.md).

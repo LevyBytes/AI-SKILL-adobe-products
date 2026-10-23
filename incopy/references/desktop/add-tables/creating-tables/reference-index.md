@@ -1,4 +1,4 @@
-# InCopy — Creating tables
+# InCopy - Creating tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add graphics to a table in InCopy. [Add graphics to a table](add-graphics-to-a-table.md).

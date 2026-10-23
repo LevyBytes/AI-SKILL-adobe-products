@@ -1,6 +1,6 @@
-# InDesign — Button: application session and account
+# InDesign - Button: application session and account
 
-Open when checking application session and account in InDesign — Button.
+Open when checking application session and account in InDesign - Button.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

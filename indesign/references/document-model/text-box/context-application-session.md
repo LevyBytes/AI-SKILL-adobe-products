@@ -1,6 +1,6 @@
-# InDesign — TextBox: application session and account
+# InDesign - TextBox: application session and account
 
-Open when checking application session and account in InDesign — TextBox.
+Open when checking application session and account in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

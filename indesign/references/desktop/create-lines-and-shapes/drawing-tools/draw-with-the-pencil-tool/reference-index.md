@@ -1,4 +1,4 @@
-# InDesign — Draw with the pencil tool
+# InDesign - Draw with the pencil tool
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust Pencil tool settings in InDesign. [Adjust Pencil tool settings](adjust-pencil-tool-settings.md).

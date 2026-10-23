@@ -1,4 +1,4 @@
-# JavaScript APIs — security
+# JavaScript APIs - security
 
 As a static JavaScript object, security surfaces PDF security operations such as encryption and digital signatures. Those operations run through a SecurityHandler object, which the security object yields by way of its getHandler method.
 

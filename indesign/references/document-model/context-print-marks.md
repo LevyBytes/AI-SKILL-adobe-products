@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: printer marks and screening
+# InDesign - InDesign document object model: printer marks and screening
 
-Open when working with printer marks and screening in InDesign — InDesign document object model.
+Open when working with printer marks and screening in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-print-marks.json).
 

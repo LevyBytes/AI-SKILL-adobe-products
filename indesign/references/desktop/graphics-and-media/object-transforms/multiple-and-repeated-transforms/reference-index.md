@@ -1,4 +1,4 @@
-# InDesign — Transform multiple objects and repeat transformations
+# InDesign - Transform multiple objects and repeat transformations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Duplicate objects while transforming in InDesign. [Duplicate objects while transforming](duplicate-objects-while-transforming.md).

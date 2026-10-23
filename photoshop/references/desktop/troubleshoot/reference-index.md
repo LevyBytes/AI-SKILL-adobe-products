@@ -1,4 +1,4 @@
-# Photoshop — Troubleshoot
+# Photoshop - Troubleshoot
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up File and format issues in Photoshop. [File and format issues](file-and-format-issues.md).

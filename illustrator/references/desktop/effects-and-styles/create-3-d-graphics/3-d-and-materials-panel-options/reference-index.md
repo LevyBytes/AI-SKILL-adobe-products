@@ -1,4 +1,4 @@
-# Illustrator — 3D and Materials panel options
+# Illustrator - 3D and Materials panel options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Type in Illustrator. [3D Type](3-d-type.md).

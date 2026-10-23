@@ -1,4 +1,4 @@
-# Acrobat — Monitors
+# Acrobat - Monitors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up bestColor in Acrobat. [bestColor](best-color.md).
@@ -6,7 +6,7 @@
 - Open when looking up desktop in Acrobat. [desktop](desktop.md).
 - Open when looking up document in Acrobat. [document](document.md).
 - Open when looking up filter in Acrobat. [filter](filter.md).
-- Open when looking up JavaScript APIs — Monitors in Acrobat. [JavaScript APIs — Monitors](java-script-apis-monitors.md).
+- Open when looking up JavaScript APIs - Monitors in Acrobat. [JavaScript APIs - Monitors](java-script-apis-monitors.md).
 - Open when looking up largest in Acrobat. [largest](largest.md).
 - Open when looking up leastOverlap in Acrobat. [leastOverlap](least-overlap.md).
 - Open when looking up mostOverlap in Acrobat. [mostOverlap](most-overlap.md).

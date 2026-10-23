@@ -4,8 +4,8 @@
   {"topic": "How UXP Scripting Works references", "file": "references/uxp/how-uxp-scripting-works/reference-index.md", "summary": "Open when looking up How UXP Scripting Works in Photoshop.", "keywords": ["How UXP Scripting Works references"]},
   {"topic": "Running a file", "file": "references/uxp/running-a-file.md", "summary": "Open when looking up Running a file in Photoshop.", "keywords": ["Running a file"]},
   {"topic": "Script references", "file": "references/uxp/script/reference-index.md", "summary": "Open when looking up Script in Photoshop.", "keywords": ["Script references"]},
-  {"topic": "Scripting Reference — Script module", "file": "references/uxp/scripting-reference-script-module.md", "summary": "Open when looking up Scripting Reference — Script module in Photoshop.", "keywords": ["Scripting Reference — Script module"]},
-  {"topic": "Scripting Reference — Script module references", "file": "references/uxp/scripting-reference-script-module/reference-index.md", "summary": "Open when looking up Scripting Reference — Script module in Photoshop.", "keywords": ["Scripting Reference — Script module references"]},
+  {"topic": "Scripting Reference - Script module", "file": "references/uxp/scripting-reference-script-module.md", "summary": "Open when looking up Scripting Reference - Script module in Photoshop.", "keywords": ["Scripting Reference - Script module"]},
+  {"topic": "Scripting Reference - Script module references", "file": "references/uxp/scripting-reference-script-module/reference-index.md", "summary": "Open when looking up Scripting Reference - Script module in Photoshop.", "keywords": ["Scripting Reference - Script module references"]},
   {"topic": "Uxpscripting", "file": "references/uxp/uxpscripting.md", "summary": "Open when looking up Uxpscripting in Photoshop.", "keywords": ["Uxpscripting"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

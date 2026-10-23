@@ -1,4 +1,4 @@
-# InDesign — DocumentPrintUiOptions
+# InDesign - DocumentPrintUiOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SUPPRESS_FILE_SAVE_DIALOG in InDesign. [SUPPRESS_FILE_SAVE_DIALOG](suppressfilesavedialog.md).

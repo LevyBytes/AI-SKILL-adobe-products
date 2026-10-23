@@ -1,4 +1,4 @@
-# After Effects — Import and add 3 d models
+# After Effects - Import and add 3 d models
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Import 3D models from Creative Cloud Libraries in After Effects. [Import 3D models from Creative Cloud Libraries](import-3-d-models-from-creative-cloud-libraries.md).

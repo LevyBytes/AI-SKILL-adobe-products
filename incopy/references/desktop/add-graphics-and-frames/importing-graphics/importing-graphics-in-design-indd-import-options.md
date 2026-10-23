@@ -1,4 +1,4 @@
-# Importing graphics — InDesign (.indd) import options
+# Importing graphics - InDesign (.indd) import options
 
 Placed INDD files keep the InDesign layout, graphics, and typography. The file is handled as an object, so it cannot be edited, but layer visibility can be controlled and chosen pages from a multi-page INDD file can be imported.
 

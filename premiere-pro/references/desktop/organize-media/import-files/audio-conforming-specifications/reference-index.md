@@ -1,4 +1,4 @@
-# Premiere Pro — Audio conforming specifications
+# Premiere Pro - Audio conforming specifications
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio conforming overview in Premiere Pro. [Audio conforming overview](audio-conforming-overview.md).

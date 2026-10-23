@@ -1,4 +1,4 @@
-# Table strokes and fills — Alternate strokes and fills in a table
+# Table strokes and fills - Alternate strokes and fills in a table
 
 Alternating strokes and fills can make a table easier to read or improve how it looks. Alternating strokes and fills in rows leave header and footer rows unchanged. Alternating strokes and fills in columns, however, do affect header and footer rows.
 

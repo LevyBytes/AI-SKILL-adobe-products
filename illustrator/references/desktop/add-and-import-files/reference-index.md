@@ -1,4 +1,4 @@
-# Illustrator — Add and import files
+# Illustrator - Add and import files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Import from other apps in Illustrator. [Import from other apps](import-from-other-apps.md).

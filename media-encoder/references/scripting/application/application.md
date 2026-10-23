@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — Application
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - Application
 
 Top-level app object.
 

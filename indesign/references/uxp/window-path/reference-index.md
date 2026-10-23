@@ -1,4 +1,4 @@
-# InDesign — Window path
+# InDesign - Window path
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up basename(path, [ext]) in InDesign. [basename(path, ext)](basename.md).

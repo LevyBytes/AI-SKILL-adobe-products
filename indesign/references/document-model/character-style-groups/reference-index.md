@@ -1,4 +1,4 @@
-# InDesign — CharacterStyleGroups
+# InDesign - CharacterStyleGroups
 
 Open when selecting a collection operation: [Topic catalog](topics.json).
 

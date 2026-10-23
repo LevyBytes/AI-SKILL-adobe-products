@@ -1,4 +1,4 @@
-# window.ClassList — toggle(token, force)
+# window.ClassList - toggle(token, force)
 
 Changes membership for `token` in the list. When `force` is omitted, these outcomes apply:
 

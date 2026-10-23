@@ -1,4 +1,4 @@
-# Getting Started — Step 7 : Fetching the status
+# Getting Started - Step 7 : Fetching the status
 
 With the job created, poll the `location` handed back in the Step 3 response header by calling the API below.
 

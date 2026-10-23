@@ -1,6 +1,6 @@
-# InDesign — EPS: workspace, windows and menus
+# InDesign - EPS: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — EPS.
+Open when checking workspace, windows and menus in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

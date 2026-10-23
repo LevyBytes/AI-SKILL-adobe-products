@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: interactive fields and behaviors
+# Shared Adobe platform - Document: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in Shared Adobe platform — Document.
+Open when checking interactive fields and behaviors in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

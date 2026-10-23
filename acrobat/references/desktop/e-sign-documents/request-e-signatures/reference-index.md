@@ -1,4 +1,4 @@
-# Acrobat — Request e-signatures
+# Acrobat - Request e-signatures
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Manage agreements sent in bulk in Acrobat. [Manage agreements sent in bulk](manage-agreements-sent-in-bulk.md).

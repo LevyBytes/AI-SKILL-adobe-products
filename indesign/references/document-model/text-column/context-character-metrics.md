@@ -1,6 +1,6 @@
-# InDesign — Text column: character spacing and geometry
+# InDesign - Text column: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Text column.
+Open when checking character spacing and geometry in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

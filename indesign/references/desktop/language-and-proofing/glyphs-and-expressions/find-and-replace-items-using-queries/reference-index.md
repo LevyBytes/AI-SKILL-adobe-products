@@ -1,4 +1,4 @@
-# InDesign — Find and replace items using queries
+# InDesign - Find and replace items using queries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply an existing query in InDesign. [Apply an existing query](apply-an-existing-query.md).

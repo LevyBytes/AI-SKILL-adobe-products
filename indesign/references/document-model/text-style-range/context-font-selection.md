@@ -1,6 +1,6 @@
-# InDesign — Text style range: fonts and character forms
+# InDesign - Text style range: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Text style range.
+Open when checking fonts and character forms in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

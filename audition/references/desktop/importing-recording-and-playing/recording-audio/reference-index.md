@@ -1,4 +1,4 @@
-# Audition — Recording audio
+# Audition - Recording audio
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose punch-in takes in Audition. [Choose punch-in takes](choose-punch-in-takes.md).

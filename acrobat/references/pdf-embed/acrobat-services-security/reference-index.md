@@ -1,4 +1,4 @@
-# Acrobat — Acrobat services security
+# Acrobat - Acrobat services security
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat Services APIs Hosting and Security in Acrobat. [Acrobat Services APIs Hosting and Security](acrobat-services-apis-hosting-and-security.md).

@@ -1,6 +1,6 @@
-# InDesign — XmlStory: paragraph borders
+# InDesign - XmlStory: paragraph borders
 
-Open when checking paragraph borders in InDesign — XmlStory.
+Open when checking paragraph borders in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-borders.json).
 

@@ -1,6 +1,6 @@
-# InDesign — RadioButton: character spacing and geometry
+# InDesign - RadioButton: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — RadioButton.
+Open when checking character spacing and geometry in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

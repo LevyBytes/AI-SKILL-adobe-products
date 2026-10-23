@@ -1,4 +1,4 @@
-# Premiere Pro — Manage media
+# Premiere Pro - Manage media
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Media mapping using Media Management in Premiere Pro. [Media mapping using Media Management](media-mapping-using-media-management.md).

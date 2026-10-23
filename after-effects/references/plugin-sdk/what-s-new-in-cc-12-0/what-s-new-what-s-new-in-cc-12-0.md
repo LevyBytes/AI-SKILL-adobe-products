@@ -1,4 +1,4 @@
-# What's New — What's New in CC (12.0)?
+# What's New - What's New in CC (12.0)?
 
 Effect names are now allowed up to 47 characters, raised from the prior limit of 31.
 

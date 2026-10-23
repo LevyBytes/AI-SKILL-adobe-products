@@ -1,4 +1,4 @@
-# Shared Adobe platform — Cep 11 debugging on windows
+# Shared Adobe platform - Cep 11 debugging on windows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Checking & Editing Logging Settings in Shared Adobe platform. [Checking & Editing Logging Settings](checking-editing-logging-settings.md).

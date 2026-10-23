@@ -1,6 +1,6 @@
-# InDesign — Html item: movie and sound playback
+# InDesign - Html item: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — Html item.
+Open when checking movie and sound playback in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

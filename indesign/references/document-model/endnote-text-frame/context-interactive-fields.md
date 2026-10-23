@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: interactive fields and behaviors
+# InDesign - EndnoteTextFrame: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — EndnoteTextFrame.
+Open when checking interactive fields and behaviors in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

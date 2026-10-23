@@ -1,4 +1,4 @@
-# Photoshop — Remove objects
+# Photoshop - Remove objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose how generative AI is used in Photoshop. [Choose how generative AI is used](choose-how-generative-ai-is-used.md).

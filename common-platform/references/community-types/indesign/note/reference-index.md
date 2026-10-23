@@ -1,4 +1,4 @@
-# Shared Adobe platform — Note
+# Shared Adobe platform - Note
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Note declaration in Shared Adobe platform. [Note declaration](declaration.md).

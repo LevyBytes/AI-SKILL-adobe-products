@@ -1,4 +1,4 @@
-# TickTime — Properties
+# TickTime - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

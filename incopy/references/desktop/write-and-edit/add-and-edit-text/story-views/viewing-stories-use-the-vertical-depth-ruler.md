@@ -1,4 +1,4 @@
-# Viewing stories — Use the vertical depth ruler
+# Viewing stories - Use the vertical depth ruler
 
 While entering text, you may need both the story's line count and its physical depth in Layout view. The vertical depth ruler places a ruler on the left edge of Galley and Story views. Every tick mark lines up with the bottom of a text line. A value appears after each group of five tick marks, showing the cumulative vertical depth of the text up to that location. Once layout composition for that part of the document finishes, the depth updates automatically.
 

@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Set the default alpha channel preferences
+# Importing and interpreting footage items - Set the default alpha channel preferences
 
 Select Edit > Preferences > Import (Windows) or After Effects > Preferences > Import (macOS).
 

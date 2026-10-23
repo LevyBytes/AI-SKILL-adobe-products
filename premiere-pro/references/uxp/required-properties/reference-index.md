@@ -1,4 +1,4 @@
-# Premiere Pro — Required properties
+# Premiere Pro - Required properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up entrypoints in Premiere Pro. [entrypoints](entrypoints.md).

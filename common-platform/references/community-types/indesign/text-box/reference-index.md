@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextBox
+# Shared Adobe platform - TextBox
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextBox declaration in Shared Adobe platform. [TextBox declaration](declaration.md).

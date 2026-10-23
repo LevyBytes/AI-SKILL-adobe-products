@@ -1,4 +1,4 @@
-# Scripting Constants — DocumentLayoutStyle
+# Scripting Constants - DocumentLayoutStyle
 
 Document layout-style constant group.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — ExportOptionsSVG
+# Shared Adobe platform - ExportOptionsSVG
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ExportOptionsSVG declaration in Shared Adobe platform. [ExportOptionsSVG declaration](declaration.md).

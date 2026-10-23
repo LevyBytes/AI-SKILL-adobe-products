@@ -1,4 +1,4 @@
-# Tips & Tricks — Sampling Pixels At (x,y)
+# Tips & Tricks - Sampling Pixels At (x,y)
 
 There are times you don't want to walk every pixel and instead need to jump straight to a particular offset inside the input frame. The snippet below shows one approach to reading the pixel at a chosen (x,y) spot; writing to that same spot would look much the same.
 

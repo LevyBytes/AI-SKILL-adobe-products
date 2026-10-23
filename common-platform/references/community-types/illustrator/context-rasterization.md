@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: rasterization, image capture and resolution
+# Shared Adobe platform - Illustrator: rasterization, image capture and resolution
 
-Open when working with rasterization, image capture and resolution in Shared Adobe platform — Illustrator.
+Open when working with rasterization, image capture and resolution in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-rasterization.json).
 

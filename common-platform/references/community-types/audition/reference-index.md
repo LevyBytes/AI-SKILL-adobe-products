@@ -1,4 +1,4 @@
-# Shared Adobe platform — Audition
+# Shared Adobe platform - Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AMEAddMultitrackDocumentToQueueEvent in Shared Adobe platform. [AMEAddMultitrackDocumentToQueueEvent](ame-add-multitrack-document-to-queue-event.md).

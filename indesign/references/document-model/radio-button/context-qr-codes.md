@@ -1,6 +1,6 @@
-# InDesign — RadioButton: generate qr codes
+# InDesign - RadioButton: generate qr codes
 
-Open when checking generate qr codes in InDesign — RadioButton.
+Open when checking generate qr codes in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

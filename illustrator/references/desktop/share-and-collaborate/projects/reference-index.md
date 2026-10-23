@@ -1,4 +1,4 @@
-# Illustrator — Projects
+# Illustrator - Projects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access projects in the Illustrator workspace and other apps in Illustrator. [Access projects in the Illustrator workspace and other apps](access-projects-in-the-illustrator-workspace-and-other-apps.md).

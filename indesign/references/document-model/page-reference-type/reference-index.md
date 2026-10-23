@@ -1,4 +1,4 @@
-# InDesign — PageReferenceType
+# InDesign - PageReferenceType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CURRENT_PAGE in InDesign. [CURRENT_PAGE](currentpage.md).

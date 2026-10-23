@@ -1,4 +1,4 @@
-# Shared Adobe platform — AngleComboboxes
+# Shared Adobe platform - AngleComboboxes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AngleComboboxes collection iteration in Shared Adobe platform. [AngleComboboxes collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# AEGP Suites — Masks
+# AEGP Suites - Masks
 
 A layer can carry more than one mask, so you reach each mask with `AEGP_GetLayerMaskByIndex` from `AEGP_MaskSuite6`.
 

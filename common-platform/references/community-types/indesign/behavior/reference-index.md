@@ -1,4 +1,4 @@
-# Shared Adobe platform — Behavior
+# Shared Adobe platform - Behavior
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Behavior declaration in Shared Adobe platform. [Behavior declaration](declaration.md).

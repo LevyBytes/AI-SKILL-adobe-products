@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLExportMap
+# Shared Adobe platform - XMLExportMap
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLExportMap declaration in Shared Adobe platform. [XMLExportMap declaration](declaration.md).

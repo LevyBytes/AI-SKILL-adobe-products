@@ -1,4 +1,4 @@
-# UxpPanelInfo — icons ⇒ `Array`
+# UxpPanelInfo - icons ⇒ `Array`
 
 **Read only**
 Retrieve the panel icons.

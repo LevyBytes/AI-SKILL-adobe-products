@@ -1,4 +1,4 @@
-# window.KeyboardEvent — KeyboardEvent(type, eventInit)
+# window.KeyboardEvent - KeyboardEvent(type, eventInit)
 
 Constructs a `KeyboardEvent` instance.
 

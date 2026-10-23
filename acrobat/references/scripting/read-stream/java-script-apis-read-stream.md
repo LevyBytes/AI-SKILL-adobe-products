@@ -1,4 +1,4 @@
-# JavaScript APIs — ReadStream
+# JavaScript APIs - ReadStream
 
 A ReadStream is an object literal standing in for a stream of data. One method on it lets you read that data stream.
 

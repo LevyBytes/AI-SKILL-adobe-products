@@ -1,4 +1,4 @@
-# Editing text — Jump to a position marker
+# Editing text - Jump to a position marker
 
 A position marker works like a bookmark for a location in a document. Use it when you need a fast return point, especially for a place you visit often. Each document can contain only one position marker.
 

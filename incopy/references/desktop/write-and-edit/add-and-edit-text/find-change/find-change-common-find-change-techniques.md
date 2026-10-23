@@ -1,4 +1,4 @@
-# Find/Change — Common Find/Change techniques
+# Find/Change - Common Find/Change techniques
 
 Wildcard searches
 

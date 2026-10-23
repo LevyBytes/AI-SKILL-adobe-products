@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: aegp footage, media i/o and sound
+# After Effects - C++ plugin SDK: aegp footage, media i/o and sound
 
-Open when working with aegp footage, media i/o and sound in After Effects — C++ plugin SDK.
+Open when working with aegp footage, media i/o and sound in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-aegp-footage-io.json).
 

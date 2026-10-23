@@ -1,4 +1,4 @@
-# Acrobat — Scan documents to pdfs
+# Acrobat - Scan documents to pdfs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit scanned documents in Acrobat. [Edit scanned documents](edit-scanned-documents.md).

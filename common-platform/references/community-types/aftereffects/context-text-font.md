@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: text ranges, fonts and typography
+# Shared Adobe platform - Aftereffects: text ranges, fonts and typography
 
-Open when working with text ranges, fonts and typography in Shared Adobe platform — Aftereffects.
+Open when working with text ranges, fonts and typography in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-text-font.json).
 

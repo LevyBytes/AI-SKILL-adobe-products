@@ -1,4 +1,4 @@
-# Adjusting your workflow — Placing InCopy files in InDesign documents
+# Adjusting your workflow - Placing InCopy files in InDesign documents
 
 A common workflow starts in InDesign, where the basic layout plus text and graphics placeholders are created and exported to InCopy. Another workflow can begin with a stand-alone InCopy content file (.icml or .incx), which you place in InDesign with the FileÂ > Place command.
 

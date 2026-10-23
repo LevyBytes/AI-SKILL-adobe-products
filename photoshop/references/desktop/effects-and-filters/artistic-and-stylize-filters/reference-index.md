@@ -1,4 +1,4 @@
-# Photoshop — Artistic and stylize filters
+# Photoshop - Artistic and stylize filters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Distort specific image areas with Puppet Warp in Photoshop. [Distort specific image areas with Puppet Warp](distort-specific-image-areas-with-puppet-warp.md).

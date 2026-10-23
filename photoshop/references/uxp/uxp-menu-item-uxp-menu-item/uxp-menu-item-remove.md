@@ -1,3 +1,3 @@
-# UxpMenuItem — remove()
+# UxpMenuItem - remove()
 
 Removes the menu item

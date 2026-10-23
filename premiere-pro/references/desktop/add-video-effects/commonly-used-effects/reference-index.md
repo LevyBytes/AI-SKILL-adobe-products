@@ -1,4 +1,4 @@
-# Premiere Pro — Commonly used effects
+# Premiere Pro - Commonly used effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Auto Reframe overview in Premiere Pro. [Auto Reframe overview](auto-reframe-overview.md).

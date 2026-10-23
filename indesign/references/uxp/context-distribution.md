@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: package, install and distribute plugins
+# InDesign - UXP plugins and APIs: package, install and distribute plugins
 
-Open when working with package, install and distribute plugins in InDesign — UXP plugins and APIs.
+Open when working with package, install and distribute plugins in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-distribution.json).
 

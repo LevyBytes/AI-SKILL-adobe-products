@@ -1,6 +1,6 @@
-# InDesign — SignatureField: export documents and select formats
+# InDesign - SignatureField: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — SignatureField.
+Open when checking export documents and select formats in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

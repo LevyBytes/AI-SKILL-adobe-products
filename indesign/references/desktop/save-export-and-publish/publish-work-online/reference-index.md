@@ -1,4 +1,4 @@
-# InDesign — Publish work online
+# InDesign - Publish work online
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Publish InDesign documents online in InDesign. [Publish InDesign documents online](publish-in-design-documents-online.md).

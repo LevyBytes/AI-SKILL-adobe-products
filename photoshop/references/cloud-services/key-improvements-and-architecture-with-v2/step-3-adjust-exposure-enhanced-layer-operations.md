@@ -1,4 +1,4 @@
-# Step 3: Adjust exposure — Enhanced layer operations
+# Step 3: Adjust exposure - Enhanced layer operations
 
 The v2 `/create-composite` endpoint gives layer manipulation a broader surface:
 

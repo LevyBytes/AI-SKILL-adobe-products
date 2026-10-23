@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [PDFWatermarkWithOptions.java](../examples/java/watermark-selected-ranges/PDFWatermarkWithOptions.java)
+- [watermark-selected-ranges setup and source](../examples/java/watermark-selected-ranges/watermark-selected-ranges-setup.md)

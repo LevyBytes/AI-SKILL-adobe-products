@@ -1,4 +1,4 @@
-# Shared Adobe platform — TimingTarget
+# Shared Adobe platform - TimingTarget
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TimingTarget declaration in Shared Adobe platform. [TimingTarget declaration](declaration.md).

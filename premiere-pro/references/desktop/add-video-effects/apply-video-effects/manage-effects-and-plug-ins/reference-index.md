@@ -1,4 +1,4 @@
-# Premiere Pro — Manage effects and plug-ins
+# Premiere Pro - Manage effects and plug-ins
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cause in Premiere Pro. [Cause](cause.md).

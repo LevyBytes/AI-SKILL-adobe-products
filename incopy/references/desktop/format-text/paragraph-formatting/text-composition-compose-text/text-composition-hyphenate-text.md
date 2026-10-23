@@ -1,4 +1,4 @@
-# Text composition — Hyphenate text
+# Text composition - Hyphenate text
 
 Hyphenation and justification choices shape line spacing across the page and influence how polished the type looks. The hyphenation controls decide whether a word may break, and if so, which break points are permitted.
 

@@ -1,4 +1,4 @@
-# InDesign — PageSideOptions
+# InDesign - PageSideOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LEFT_HAND in InDesign. [LEFT_HAND](lefthand.md).

@@ -1,4 +1,4 @@
-# Viewing the object model — Viewing the AppleScript object model
+# Viewing the object model - Viewing the AppleScript object model
 
 Every Mac OS system includes Apple's Script Editor. Use Script Editor to inspect the AppleScript dictionary describing Illustrator objects and commands.
 

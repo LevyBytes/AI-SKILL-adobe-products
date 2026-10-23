@@ -1,4 +1,4 @@
-# Selecting and editing tables — Delete rows, columns, or tables
+# Selecting and editing tables - Delete rows, columns, or tables
 
 - To remove a row, column, or table, put the insertion point inside the table or select text in it, then choose Table > Delete > Row, Column, or Table.
 - To remove rows and columns through the Table Options dialog box, choose Table > Table Options > Table Setup. Enter a different row and column count, then click OK. Rows are removed from the table bottom; columns are removed from the right side.

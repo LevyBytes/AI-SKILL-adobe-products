@@ -1,4 +1,4 @@
-# Shared Adobe platform — Section
+# Shared Adobe platform - Section
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Section declaration in Shared Adobe platform. [Section declaration](declaration.md).

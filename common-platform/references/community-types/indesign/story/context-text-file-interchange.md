@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: import and export text documents
+# Shared Adobe platform - Story: import and export text documents
 
-Open when checking import and export text documents in Shared Adobe platform — Story.
+Open when checking import and export text documents in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-text-file-interchange.json).
 

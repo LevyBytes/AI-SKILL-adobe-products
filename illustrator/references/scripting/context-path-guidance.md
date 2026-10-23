@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: create paths and shapes
+# Illustrator - Scripting APIs: create paths and shapes
 
-Open when working with create paths and shapes in Illustrator — Scripting APIs.
+Open when working with create paths and shapes in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-path-guidance.json).
 

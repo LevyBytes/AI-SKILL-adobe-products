@@ -1,4 +1,4 @@
-# Shared Adobe platform — Sounds
+# Shared Adobe platform - Sounds
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Sounds collection iteration in Shared Adobe platform. [Sounds collection iteration](collection-iteration.md).

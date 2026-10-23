@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: api benchmark context and timings
+# Photoshop - Cloud service APIs: api benchmark context and timings
 
-Open when working with api benchmark context and timings in Photoshop — Cloud service APIs.
+Open when working with api benchmark context and timings in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-benchmarks.json).
 

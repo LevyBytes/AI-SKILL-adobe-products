@@ -1,4 +1,4 @@
-# After Effects — Animate quickly using the After Effects Properties panel
+# After Effects - Animate quickly using the After Effects Properties panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ask questions in After Effects. [Ask questions](ask-questions.md).

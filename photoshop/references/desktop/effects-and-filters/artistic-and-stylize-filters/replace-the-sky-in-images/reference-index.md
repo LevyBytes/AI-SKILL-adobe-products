@@ -1,4 +1,4 @@
-# Photoshop — Replace the sky in images
+# Photoshop - Replace the sky in images
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Improve edge quaity in sky replacement in Photoshop. [Improve edge quaity in sky replacement](improve-edge-quaity-in-sky-replacement.md).

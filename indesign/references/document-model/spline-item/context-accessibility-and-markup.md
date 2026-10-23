@@ -1,6 +1,6 @@
-# InDesign — SplineItem: accessibility, tagging and xml
+# InDesign - SplineItem: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — SplineItem.
+Open when checking accessibility, tagging and xml in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

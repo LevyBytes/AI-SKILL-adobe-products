@@ -1,4 +1,4 @@
-# InDesign — VariableTypes
+# InDesign - VariableTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CHAPTER_NUMBER_TYPE in InDesign. [CHAPTER_NUMBER_TYPE](chapternumbertype.md).

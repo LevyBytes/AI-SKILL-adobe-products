@@ -1,4 +1,4 @@
-# After Effects — Pr artisan entry points
+# After Effects - Pr artisan entry points
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up do_instance_dialog_func0 in After Effects. [do_instance_dialog_func0](doinstancedialogfunc0.md).

@@ -1,4 +1,4 @@
-# After Effects Class Hierarchy — Footage Item Sources
+# After Effects Class Hierarchy - Footage Item Sources
 
 - FileSource object
   - PlaceholderSource object

@@ -1,4 +1,4 @@
-# Audition — Known issues
+# Audition - Known issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .ape import fails on Windows Arm devices in Audition. [.ape import fails on Windows Arm devices](ape-import-fails-on-windows-arm-devices.md).

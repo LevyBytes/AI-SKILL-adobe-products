@@ -1,4 +1,4 @@
-# Acrobat — E-signatures legal compliance overview
+# Acrobat - E-signatures legal compliance overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe trust programs in Acrobat. [Adobe trust programs](adobe-trust-programs.md).

@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreference: pdf pages, structure and output profiles
+# InDesign - PDFExportPreference: pdf pages, structure and output profiles
 
-Open when checking pdf pages, structure and output profiles in InDesign — PDFExportPreference.
+Open when checking pdf pages, structure and output profiles in InDesign - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-pdf-output.json).
 

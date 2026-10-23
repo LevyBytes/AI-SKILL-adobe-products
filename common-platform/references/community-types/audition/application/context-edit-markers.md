@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: markers, ranges and marker export
+# Shared Adobe platform - Application: markers, ranges and marker export
 
-Open when working with markers, ranges and marker export in Shared Adobe platform — Application.
+Open when working with markers, ranges and marker export in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-edit-markers.json).
 

@@ -1,4 +1,4 @@
-# `thumbnail` — CHANGED object shape
+# `thumbnail` - CHANGED object shape
 
 The response no longer treats `thumbnail` as a URL-valued string. Update any client path that reads it that way.
 

@@ -1,4 +1,4 @@
-# Scripting Constants — SaveOptions
+# Scripting Constants - SaveOptions
 
 These constants specify what happens to changes when a document closes.
 

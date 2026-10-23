@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: authentication and asset storage
+# Photoshop - Cloud service APIs: authentication and asset storage
 
-Open when working with authentication and asset storage in Photoshop — Cloud service APIs.
+Open when working with authentication and asset storage in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-authentication-storage.json).
 

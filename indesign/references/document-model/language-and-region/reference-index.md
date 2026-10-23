@@ -1,4 +1,4 @@
-# InDesign — LanguageAndRegion
+# InDesign - LanguageAndRegion
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ALBANIA_ALBANIAN in InDesign. [ALBANIA_ALBANIAN](albaniaalbanian.md).

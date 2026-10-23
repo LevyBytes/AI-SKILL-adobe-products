@@ -1,4 +1,4 @@
-# After Effects — Expressions Text Properties
+# After Effects - Expressions Text Properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional uses for expressions on source text in After Effects. [Additional uses for expressions on source text](additional-uses-for-expressions-on-source-text.md).

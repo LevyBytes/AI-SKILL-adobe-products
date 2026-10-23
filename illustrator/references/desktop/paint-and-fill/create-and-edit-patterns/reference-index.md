@@ -1,4 +1,4 @@
-# Illustrator — Create and edit patterns
+# Illustrator - Create and edit patterns
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and modify a grid repeat in Illustrator. [Create and modify a grid repeat](create-and-modify-a-grid-repeat.md).

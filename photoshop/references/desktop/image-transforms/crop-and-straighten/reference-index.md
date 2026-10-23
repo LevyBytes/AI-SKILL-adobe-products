@@ -1,4 +1,4 @@
-# Photoshop — Crop and straighten
+# Photoshop - Crop and straighten
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Content-Aware Fill while cropping images in Photoshop. [Apply Content-Aware Fill while cropping images](apply-content-aware-fill-while-cropping-images.md).

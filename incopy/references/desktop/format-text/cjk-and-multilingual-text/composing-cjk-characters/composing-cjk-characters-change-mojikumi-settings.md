@@ -1,4 +1,4 @@
-# Composing CJK characters — Change mojikumi settings
+# Composing CJK characters - Change mojikumi settings
 
 Frequently used spacing rules, such as the gap between a period and the following opening parenthesis, can be edited in a custom mojikumi set.
 

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: audio
+# After Effects - C++ plugin SDK: audio
 
-Open when working with audio in After Effects — C++ plugin SDK.
+Open when working with audio in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-audio.json).
 

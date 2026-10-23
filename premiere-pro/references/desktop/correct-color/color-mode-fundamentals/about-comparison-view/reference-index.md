@@ -1,4 +1,4 @@
-# Premiere Pro — About Comparison View
+# Premiere Pro - About Comparison View
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Changing the Comparison Frame of items in the Reference List in Premiere Pro. [Changing the Comparison Frame of items in the Reference List](changing-the-comparison-frame-of-items-in-the-reference-list.md).

@@ -1,4 +1,4 @@
-# window.MessageEvent — MessageEvent(data, origin, source, eventInit)
+# window.MessageEvent - MessageEvent(data, origin, source, eventInit)
 
 Builds a MessageEvent instance.
 

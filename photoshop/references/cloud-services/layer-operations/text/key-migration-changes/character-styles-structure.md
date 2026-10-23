@@ -2,7 +2,7 @@
 
 **Breaking change: V1 and V2 interpret character and paragraph style ranges differently.** V1 treated the `to` field on each range entry as a **length**, so `from: 0, to: 5` selected 5 characters beginning at index 0, meaning indices 0-4. In V2, `apply.to` is a 0-based **inclusive end index**; therefore `apply: {from: 0, to: 4}` selects characters 0, 1, 2, 3, and 4, the first 5 characters. During migration, set V2 `apply.to` to the **last character index** covered by the style, not to the character count.
 
-**Off-by-one example** — applying a style to "Hello" within "Hello World":
+**Off-by-one example**: applying a style to "Hello" within "Hello World":
 
 V1: to=5 means length 5 â†’ characters 0,1,2,3,4
 

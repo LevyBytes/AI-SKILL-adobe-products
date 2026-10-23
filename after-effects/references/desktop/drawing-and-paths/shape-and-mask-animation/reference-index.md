@@ -1,4 +1,4 @@
-# After Effects — Shape and mask animation
+# After Effects - Shape and mask animation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Animating Shape Paths Masks in After Effects. [Animating Shape Paths Masks](animating-shape-paths-masks.md).

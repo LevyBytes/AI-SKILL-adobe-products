@@ -1,6 +1,6 @@
-# InDesign — Button: output color, screening and overprint
+# InDesign - Button: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — Button.
+Open when checking output color, screening and overprint in InDesign - Button.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

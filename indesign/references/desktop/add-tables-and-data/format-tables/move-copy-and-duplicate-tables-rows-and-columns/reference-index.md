@@ -1,4 +1,4 @@
-# InDesign — Move, copy, and duplicate tables, rows, and columns
+# InDesign - Move, copy, and duplicate tables, rows, and columns
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy rows or columns and paste before or after in InDesign. [Copy rows or columns and paste before or after](copy-rows-or-columns-and-paste-before-or-after.md).

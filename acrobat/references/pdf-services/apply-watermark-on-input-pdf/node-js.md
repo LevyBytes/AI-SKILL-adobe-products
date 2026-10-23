@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [pdf-watermark.cjs](../examples/node/pdf-watermark/pdf-watermark.cjs)
+- [pdf-watermark setup and source](../examples/node/pdf-watermark/pdf-watermark-setup.md)

@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: workspace, windows and menus
+# InDesign - EndnoteTextFrame: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — EndnoteTextFrame.
+Open when checking workspace, windows and menus in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

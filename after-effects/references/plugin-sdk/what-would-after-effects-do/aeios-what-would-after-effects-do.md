@@ -1,4 +1,4 @@
-# AEIOs — What Would After Effects Do?
+# AEIOs - What Would After Effects Do?
 
 For many AEIO hook functions, After Effects can be asked to perform the default processing; each hook description notes when this is available.
 

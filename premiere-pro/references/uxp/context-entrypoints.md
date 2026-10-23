@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: commands, panels and lifecycle
+# Premiere Pro - UXP plugins and APIs: commands, panels and lifecycle
 
-Open when working with commands, panels and lifecycle in Premiere Pro — UXP plugins and APIs.
+Open when working with commands, panels and lifecycle in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-entrypoints.json).
 
@@ -23,13 +23,13 @@ Open when selecting an exact reference: [Topic catalog](context-entrypoints.json
 - Open when looking up Panels in Premiere Pro [Panels references](panels/reference-index.md).
 - Open when looking up UXP Entrypoints in Premiere Pro [UXP Entrypoints](uxp-entrypoints.md).
 - Open when looking up UXP Entrypoints in Premiere Pro [UXP Entrypoints references](uxp-entrypoints/reference-index.md).
-- Open when looking up UxpCommandInfo — id ⇒ string in Premiere Pro [UxpCommandInfo — id ⇒ string](uxp-command-info-id-string.md).
-- Open when looking up UxpCommandInfo — id ⇒ string in Premiere Pro [UxpCommandInfo — id ⇒ string references](uxp-command-info-id-string/reference-index.md).
-- Open when looking up UxpMenuItem — UxpMenuItem() in Premiere Pro [UxpMenuItem — UxpMenuItem()](uxp-menu-item-uxp-menu-item.md).
-- Open when looking up UxpMenuItem — UxpMenuItem() in Premiere Pro [UxpMenuItem — UxpMenuItem() references](uxp-menu-item-uxp-menu-item/reference-index.md).
-- Open when looking up UxpPanelInfo — UxpPanelInfo() in Premiere Pro [UxpPanelInfo — UxpPanelInfo()](uxp-panel-info-uxp-panel-info.md).
-- Open when looking up UxpPanelInfo — UxpPanelInfo() in Premiere Pro [UxpPanelInfo — UxpPanelInfo() references](uxp-panel-info-uxp-panel-info/reference-index.md).
-- Open when looking up UxpPluginInfo — id ⇒ String in Premiere Pro [UxpPluginInfo — id ⇒ String](uxp-plugin-info-id-string.md).
-- Open when looking up UxpPluginInfo — id ⇒ String in Premiere Pro [UxpPluginInfo — id ⇒ String references](uxp-plugin-info-id-string/reference-index.md).
+- Open when looking up UxpCommandInfo - id ⇒ string in Premiere Pro [UxpCommandInfo - id ⇒ string](uxp-command-info-id-string.md).
+- Open when looking up UxpCommandInfo - id ⇒ string in Premiere Pro [UxpCommandInfo - id ⇒ string references](uxp-command-info-id-string/reference-index.md).
+- Open when looking up UxpMenuItem - UxpMenuItem() in Premiere Pro [UxpMenuItem - UxpMenuItem()](uxp-menu-item-uxp-menu-item.md).
+- Open when looking up UxpMenuItem - UxpMenuItem() in Premiere Pro [UxpMenuItem - UxpMenuItem() references](uxp-menu-item-uxp-menu-item/reference-index.md).
+- Open when looking up UxpPanelInfo - UxpPanelInfo() in Premiere Pro [UxpPanelInfo - UxpPanelInfo()](uxp-panel-info-uxp-panel-info.md).
+- Open when looking up UxpPanelInfo - UxpPanelInfo() in Premiere Pro [UxpPanelInfo - UxpPanelInfo() references](uxp-panel-info-uxp-panel-info/reference-index.md).
+- Open when looking up UxpPluginInfo - id ⇒ String in Premiere Pro [UxpPluginInfo - id ⇒ String](uxp-plugin-info-id-string.md).
+- Open when looking up UxpPluginInfo - id ⇒ String in Premiere Pro [UxpPluginInfo - id ⇒ String references](uxp-plugin-info-id-string/reference-index.md).
 
 [Context index](reference-index.md)

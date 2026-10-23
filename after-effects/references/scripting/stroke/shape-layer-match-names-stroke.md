@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Stroke
+# Shape Layer Match Names - Stroke
 
 | Match Name | Display Name (EN) |
 | --- | --- |

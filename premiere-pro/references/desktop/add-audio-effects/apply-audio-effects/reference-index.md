@@ -1,4 +1,4 @@
-# Premiere Pro — Apply audio effects
+# Premiere Pro - Apply audio effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add effects to audio tracks in Premiere Pro. [Add effects to audio tracks](add-effects-to-audio-tracks.md).

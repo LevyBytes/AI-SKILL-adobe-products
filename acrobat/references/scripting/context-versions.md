@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: version-specific api changes
+# Acrobat - Scripting APIs: version-specific api changes
 
-Open when working with version-specific api changes in Acrobat — Scripting APIs.
+Open when working with version-specific api changes in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-versions.json).
 

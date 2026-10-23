@@ -1,4 +1,4 @@
-# AVLayer Match Names — Essential Properties
+# AVLayer Match Names - Essential Properties
 
 | Match Name | Display Name (EN) |
 | --- | --- |

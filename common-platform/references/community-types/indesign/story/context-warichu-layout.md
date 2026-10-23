@@ -1,6 +1,6 @@
-# Shared Adobe platform — Story: warichu inline text
+# Shared Adobe platform - Story: warichu inline text
 
-Open when checking warichu inline text in Shared Adobe platform — Story.
+Open when checking warichu inline text in Shared Adobe platform - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

@@ -1,4 +1,4 @@
-# Photoshop — Application
+# Photoshop - Application
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up batchPlay in Photoshop. [batchPlay](batch-play.md).

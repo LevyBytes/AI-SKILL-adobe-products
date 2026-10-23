@@ -1,4 +1,4 @@
-# AEGP Suites — Audio Settings
+# AEGP Suites - Audio Settings
 
 `AEGP_SoundDataFormat` represents audio render settings.
 

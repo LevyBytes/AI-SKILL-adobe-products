@@ -1,6 +1,6 @@
-# InDesign — ChangeObjectPreference: text frame columns and autosizing
+# InDesign - ChangeObjectPreference: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — ChangeObjectPreference.
+Open when checking text frame columns and autosizing in InDesign - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

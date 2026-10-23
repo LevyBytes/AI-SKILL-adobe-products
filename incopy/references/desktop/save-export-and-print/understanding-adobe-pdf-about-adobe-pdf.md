@@ -1,4 +1,4 @@
-# Understanding Adobe PDF — About Adobe PDF
+# Understanding Adobe PDF - About Adobe PDF
 
 Portable Document Format (PDF) works across applications and platforms as a general-purpose file format while retaining the fonts, images, and page layout from the original documents. For electronic documents and forms, Adobe PDF serves as a secure, dependable standard for worldwide distribution and exchange. Adobe PDF files package the full document into a compact form, and anyone with free Adobe Reader® software can share, view, or print them.
 

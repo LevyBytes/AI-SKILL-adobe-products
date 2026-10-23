@@ -1,6 +1,6 @@
-# InDesign — ObjectStyle: text frame columns and autosizing
+# InDesign - ObjectStyle: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — ObjectStyle.
+Open when checking text frame columns and autosizing in InDesign - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

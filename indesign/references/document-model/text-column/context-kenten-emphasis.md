@@ -1,6 +1,6 @@
-# InDesign — Text column: kenten emphasis
+# InDesign - Text column: kenten emphasis
 
-Open when checking kenten emphasis in InDesign — Text column.
+Open when checking kenten emphasis in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

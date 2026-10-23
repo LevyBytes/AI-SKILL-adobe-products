@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindObjectPreference: text frame columns and autosizing
+# Shared Adobe platform - FindObjectPreference: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in Shared Adobe platform — FindObjectPreference.
+Open when checking text frame columns and autosizing in Shared Adobe platform - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

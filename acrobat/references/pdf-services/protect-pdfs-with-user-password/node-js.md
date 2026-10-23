@@ -1,5 +1,5 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [protect-pdf.cjs](../examples/node/protect-pdf/protect-pdf.cjs)
-- [protect-pdf.py](../examples/python/protect-pdf/protect-pdf.py)
+- [protect-pdf setup and source](../examples/node/protect-pdf/protect-pdf-setup.md)
+- [protect-pdf setup and source](../examples/python/protect-pdf/protect-pdf-setup.md)

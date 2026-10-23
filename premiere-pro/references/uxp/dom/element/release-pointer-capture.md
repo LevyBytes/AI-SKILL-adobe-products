@@ -1,4 +1,4 @@
-# window.Element — releasePointerCapture(pointerId)
+# window.Element - releasePointerCapture(pointerId)
 
 Removes pointer capture from this element. This implementation does not send a `lostpointercapture` event to the element.
 

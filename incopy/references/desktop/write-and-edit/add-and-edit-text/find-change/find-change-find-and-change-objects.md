@@ -1,4 +1,4 @@
-# Find/Change — Find and change objects
+# Find/Change - Find and change objects
 
 Find/Change can locate and replace object, graphics-frame, and text-frame attributes or effects. For instance, a document-wide search can standardize drop shadows by changing their color, transparency, and offset distance.
 

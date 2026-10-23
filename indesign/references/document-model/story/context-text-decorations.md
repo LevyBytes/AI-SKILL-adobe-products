@@ -1,6 +1,6 @@
-# InDesign — Story: underline and strike-through
+# InDesign - Story: underline and strike-through
 
-Open when checking underline and strike-through in InDesign — Story.
+Open when checking underline and strike-through in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

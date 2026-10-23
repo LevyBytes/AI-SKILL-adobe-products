@@ -1,4 +1,4 @@
-# After Effects — Desktop workflows
+# After Effects - Desktop workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust colors in After Effects. [Adjust colors references](adjust-colors/reference-index.md).

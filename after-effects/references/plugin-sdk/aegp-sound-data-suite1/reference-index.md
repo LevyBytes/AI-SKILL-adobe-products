@@ -1,4 +1,4 @@
-# After Effects — AEGP_SoundDataSuite1
+# After Effects - AEGP_SoundDataSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_DisposeSoundData in After Effects. [AEGP_DisposeSoundData](aegp-dispose-sound-data.md).

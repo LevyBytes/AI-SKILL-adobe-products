@@ -1,4 +1,4 @@
-# What's New — What's New in CC 2014.1 (13.1)?
+# What's New - What's New in CC 2014.1 (13.1)?
 
 `PF_CreateNewAppProgressDialog`()
 

@@ -1,6 +1,6 @@
-# InDesign — Check box: workspace, windows and menus
+# InDesign - Check box: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — Check box.
+Open when checking workspace, windows and menus in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

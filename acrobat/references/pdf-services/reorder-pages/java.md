@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [ReorderPDFPages.java](../examples/java/reorder-pdf-pages/ReorderPDFPages.java)
+- [reorder-pdf-pages setup and source](../examples/java/reorder-pdf-pages/reorder-pdf-pages-setup.md)

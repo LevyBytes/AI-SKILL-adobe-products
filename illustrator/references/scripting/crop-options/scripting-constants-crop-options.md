@@ -1,4 +1,4 @@
-# Scripting Constants — CropOptions
+# Scripting Constants - CropOptions
 
 Cropping-box style for a document.
 

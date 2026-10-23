@@ -1,4 +1,4 @@
-# Moving through documents — Go to another page in Layout view
+# Moving through documents - Go to another page in Layout view
 
 Use one of these methods:
 

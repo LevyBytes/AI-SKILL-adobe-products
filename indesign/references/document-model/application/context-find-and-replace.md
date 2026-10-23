@@ -1,6 +1,6 @@
-# InDesign — Application: find, replace and transliterate
+# InDesign - Application: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Application.
+Open when checking find, replace and transliterate in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Button
+# Shared Adobe platform - Button
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Button declaration in Shared Adobe platform. [Button declaration](declaration.md).

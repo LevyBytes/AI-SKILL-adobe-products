@@ -1,6 +1,6 @@
-# InDesign — Word: apply and manage styles
+# InDesign - Word: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Word.
+Open when checking apply and manage styles in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

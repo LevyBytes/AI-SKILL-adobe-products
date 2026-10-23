@@ -1,4 +1,4 @@
-# Shared Adobe platform — IndexSections
+# Shared Adobe platform - IndexSections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up IndexSections collection iteration in Shared Adobe platform. [IndexSections collection iteration](collection-iteration.md).

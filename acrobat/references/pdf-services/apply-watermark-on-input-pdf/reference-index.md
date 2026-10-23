@@ -1,4 +1,4 @@
-# Acrobat — Apply Watermark on Input PDF
+# Acrobat - Apply Watermark on Input PDF
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up .NET in Acrobat. [.NET](net.md).

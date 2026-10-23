@@ -1,4 +1,4 @@
-# Overview — Activating full scripting features
+# Overview - Activating full scripting features
 
 By default, scripts may neither write files nor send or receive traffic across a network. Turn that on by choosing Edit > Preferences > General (Windows) or After Effects > Preferences > General (Mac OS) and ticking the Allow Scripts To Write Files And Access Network option.
 

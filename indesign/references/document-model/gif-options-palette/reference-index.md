@@ -1,4 +1,4 @@
-# InDesign — GIFOptionsPalette
+# InDesign - GIFOptionsPalette
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ADAPTIVE_PALETTE in InDesign. [ADAPTIVE_PALETTE](adaptivepalette.md).

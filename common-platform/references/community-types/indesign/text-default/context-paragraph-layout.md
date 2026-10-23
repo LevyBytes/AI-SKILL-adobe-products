@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: paragraph alignment and spacing
+# Shared Adobe platform - TextDefault: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in Shared Adobe platform — TextDefault.
+Open when checking paragraph alignment and spacing in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [DeletePDFPages.java](../examples/java/delete-pdf-pages/DeletePDFPages.java)
+- [delete-pdf-pages setup and source](../examples/java/delete-pdf-pages/delete-pdf-pages-setup.md)

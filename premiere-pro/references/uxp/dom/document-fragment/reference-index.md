@@ -1,4 +1,4 @@
-# Premiere Pro — Document fragment
+# Premiere Pro - Document fragment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up append(...args) in Premiere Pro. [append(...args)](append.md).

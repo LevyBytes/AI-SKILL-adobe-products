@@ -1,4 +1,4 @@
-# Shared Adobe platform — XMLElements
+# Shared Adobe platform - XMLElements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XMLElements collection iteration in Shared Adobe platform. [XMLElements collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# Acrobat — Generative AI overview
+# Acrobat - Generative AI overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About generative AI in Acrobat apps in Acrobat. [About generative AI in Acrobat apps](about-generative-ai-in-acrobat-apps.md).

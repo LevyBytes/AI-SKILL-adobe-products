@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: application, tools and history logs
+# Photoshop - Enumerations: application, tools and history logs
 
-Open when working with application, tools and history logs in Photoshop — Enumerations.
+Open when working with application, tools and history logs in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-application-tools.json).
 

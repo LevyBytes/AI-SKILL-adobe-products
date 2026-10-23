@@ -1,4 +1,4 @@
-# Illustrator — Convert color modes
+# Illustrator - Convert color modes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Colorize Grayscale or 1-bit images in Illustrator. [Colorize Grayscale or 1-bit images](colorize-grayscale-or-1-bit-images.md).

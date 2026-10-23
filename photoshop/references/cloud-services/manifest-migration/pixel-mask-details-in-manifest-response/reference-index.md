@@ -1,4 +1,4 @@
-# Photoshop — Pixel mask details in manifest response
+# Photoshop - Pixel mask details in manifest response
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. userMask - Common Mask Properties in Photoshop. [1. userMask - Common Mask Properties](user-mask-common-mask-properties.md).

@@ -1,4 +1,4 @@
-# Acrobat — Payment field values overview
+# Acrobat - Payment field values overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Dynamic value (order form) in Acrobat. [Dynamic value (order form)](dynamic-value-order-form.md).

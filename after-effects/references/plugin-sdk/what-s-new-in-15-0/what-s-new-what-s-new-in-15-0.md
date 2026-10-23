@@ -1,4 +1,4 @@
-# What's New — What's New in 15.0?
+# What's New - What's New in 15.0?
 
 Rendering of GPU effects, a capability that Premiere Pro already had, now works in After Effects too. Be aware that any unrecognized effect whose match name carries the "ADBE " prefix gets dropped from GPU rendering, so confirm your own GPU effects ship with a custom match name of your own. Once an effect can render on the GPU, the Effect panel marks it with the GPU badge.
 

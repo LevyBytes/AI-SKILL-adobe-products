@@ -1,4 +1,4 @@
-# After Effects — Javascript classes
+# After Effects - Javascript classes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Checking Classes in After Effects. [Checking Classes](checking-classes.md).

@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Organize, search, and filter fonts
+# Using fonts in InCopy - Organize, search, and filter fonts
 
 Font families you use frequently are easier to find when you star them as favorites or choose from the recently used fonts shown at the top of the font list. InCopy preserves recently used and starred fonts between sessions.
 

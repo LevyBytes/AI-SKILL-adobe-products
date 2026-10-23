@@ -1,4 +1,4 @@
-# Shared Adobe platform — Groups
+# Shared Adobe platform - Groups
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Groups collection iteration in Shared Adobe platform. [Groups collection iteration](collection-iteration.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Overview of Text-Based editing
+# Premiere Pro - Overview of Text-Based editing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enhance your workflows in Premiere Pro. [Enhance your workflows](enhance-your-workflows.md).

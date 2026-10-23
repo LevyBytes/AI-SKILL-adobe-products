@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: audio analysis commands
+# Shared Adobe platform - Application: audio analysis commands
 
-Open when working with audio analysis commands in Shared Adobe platform — Application.
+Open when working with audio analysis commands in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-analysis-commands.json).
 

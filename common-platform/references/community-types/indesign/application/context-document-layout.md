@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: document pages, spreads and layers
+# Shared Adobe platform - Application: document pages, spreads and layers
 
-Open when checking document pages, spreads and layers in Shared Adobe platform — Application.
+Open when checking document pages, spreads and layers in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-document-layout.json).
 

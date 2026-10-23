@@ -1,6 +1,6 @@
-# Shared Adobe platform — CEP and ExtendScript integration: versioned cep development resources
+# Shared Adobe platform - CEP and ExtendScript integration: versioned cep development resources
 
-Open when working with versioned cep development resources in Shared Adobe platform — CEP and ExtendScript integration.
+Open when working with versioned cep development resources in Shared Adobe platform - CEP and ExtendScript integration.
 
 Open when selecting an exact reference: [Topic catalog](context-versions.json).
 

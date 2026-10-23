@@ -1,4 +1,4 @@
-# Introduction — What are Acrobat Services APIs?
+# Introduction - What are Acrobat Services APIs?
 
 More and more, the people who own content and applications want PDF features that are simple to use as they build today's web experiences. Their preference runs toward cloud platforms offering dependable, plug-and-play services with minimal setup.
 

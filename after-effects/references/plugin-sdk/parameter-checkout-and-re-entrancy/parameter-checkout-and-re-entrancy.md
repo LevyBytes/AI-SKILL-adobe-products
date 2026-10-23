@@ -1,4 +1,4 @@
-# Interaction Callback Functions — Parameter Checkout And Re-Entrancy
+# Interaction Callback Functions - Parameter Checkout And Re-Entrancy
 
 Re-entrant behavior can arise from plug-ins that check out layers at differing times. Picture the Checkout sample plug-in applied to a layer inside composition B, where B is then pre-composed into composition A and Checkout is applied there too.
 

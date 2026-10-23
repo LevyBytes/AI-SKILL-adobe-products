@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Frame rate
+# Importing and interpreting footage items - Frame rate
 
 How many frames show up each second is governed by the composition frame rate, which also dictates the way the time ruler and time display carve time into individual frames. Put differently, that rate fixes the sampling cadence at which source footage gets read each second, and it pins down the time intervals where keyframes are allowed to land.
 

@@ -1,6 +1,6 @@
-# InDesign — Line: warichu inline text
+# InDesign - Line: warichu inline text
 
-Open when checking warichu inline text in InDesign — Line.
+Open when checking warichu inline text in InDesign - Line.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

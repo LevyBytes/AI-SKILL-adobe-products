@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/pdf-watermark/Program.cs)
+- [pdf-watermark setup and source](../examples/dotnet/pdf-watermark/pdf-watermark-setup.md)

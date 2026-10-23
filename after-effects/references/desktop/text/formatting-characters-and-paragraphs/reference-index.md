@@ -1,4 +1,4 @@
-# After Effects — Formatting characters and paragraphs
+# After Effects - Formatting characters and paragraphs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Formatting characters and the Character panel in After Effects. [Formatting characters and the Character panel](formatting-characters-and-the-character-panel.md).

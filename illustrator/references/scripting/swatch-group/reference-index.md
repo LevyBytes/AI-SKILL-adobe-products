@@ -1,4 +1,4 @@
-# Illustrator — SwatchGroup
+# Illustrator - SwatchGroup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SwatchGroup.addSpot() in Illustrator. [SwatchGroup.addSpot()](add-spot.md).

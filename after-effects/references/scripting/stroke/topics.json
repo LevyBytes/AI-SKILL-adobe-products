@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Layer Styles Match Names — Stroke", "file": "references/scripting/stroke/layer-styles-match-names-stroke.md", "summary": "Open when looking up Layer Styles Match Names — Stroke in After Effects.", "keywords": ["Layer Styles Match Names — Stroke"]},
-  {"topic": "Shape Layer Match Names — Stroke", "file": "references/scripting/stroke/shape-layer-match-names-stroke.md", "summary": "Open when looking up Shape Layer Match Names — Stroke in After Effects.", "keywords": ["Shape Layer Match Names — Stroke"]},
+  {"topic": "Layer Styles Match Names - Stroke", "file": "references/scripting/stroke/layer-styles-match-names-stroke.md", "summary": "Open when looking up Layer Styles Match Names - Stroke in After Effects.", "keywords": ["Layer Styles Match Names - Stroke"]},
+  {"topic": "Shape Layer Match Names - Stroke", "file": "references/scripting/stroke/shape-layer-match-names-stroke.md", "summary": "Open when looking up Shape Layer Match Names - Stroke in After Effects.", "keywords": ["Shape Layer Match Names - Stroke"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

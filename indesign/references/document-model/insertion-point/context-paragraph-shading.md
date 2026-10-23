@@ -1,6 +1,6 @@
-# InDesign — Insertion point: paragraph shading
+# InDesign - Insertion point: paragraph shading
 
-Open when checking paragraph shading in InDesign — Insertion point.
+Open when checking paragraph shading in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

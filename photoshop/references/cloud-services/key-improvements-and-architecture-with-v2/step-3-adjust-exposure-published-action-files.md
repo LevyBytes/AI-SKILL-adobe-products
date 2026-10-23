@@ -1,4 +1,4 @@
-# Step 3: Adjust exposure — Published action files
+# Step 3: Adjust exposure - Published action files
 
 In v1, convenience APIs for focused workflows, such as `productCrop` and `depthBlur`, relied on hidden server-side action files.
 

@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Measurement Units — Em space units", "file": "references/scripting/em-space-units/measurement-units-em-space-units.md", "summary": "Open when looking up Measurement Units — Em space units in Illustrator.", "keywords": ["Measurement Units — Em space units"]},
+  {"topic": "Measurement Units - Em space units", "file": "references/scripting/em-space-units/measurement-units-em-space-units.md", "summary": "Open when looking up Measurement Units - Em space units in Illustrator.", "keywords": ["Measurement Units - Em space units"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

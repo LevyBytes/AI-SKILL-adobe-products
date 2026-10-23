@@ -1,6 +1,6 @@
-# Beta APIs (preview of upcoming surface) — Additional resources
+# Beta APIs (preview of upcoming surface) - Additional resources
 
-- [UXP for Premiere Pro — Introduction](https://developer.adobe.com/premiere-pro/uxp/)
+- [UXP for Premiere Pro - Introduction](https://developer.adobe.com/premiere-pro/uxp/)
 - [Building your first UXP plugin](https://developer.adobe.com/premiere-pro/uxp/plugins/)
 - [Plugin concepts: panels, commands, manifest](https://developer.adobe.com/premiere-pro/uxp/plugins/concepts/)
 - [Hybrid plugins](https://developer.adobe.com/premiere-pro/uxp/plugins/hybrid-plugins/)

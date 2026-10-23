@@ -1,6 +1,6 @@
-# InDesign — MediaItem: generate qr codes
+# InDesign - MediaItem: generate qr codes
 
-Open when checking generate qr codes in InDesign — MediaItem.
+Open when checking generate qr codes in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

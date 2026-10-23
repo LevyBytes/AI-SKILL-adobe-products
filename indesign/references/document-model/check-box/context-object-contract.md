@@ -1,6 +1,6 @@
-# InDesign — Check box: object identity and lifecycle
+# InDesign - Check box: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Check box.
+Open when checking object identity and lifecycle in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

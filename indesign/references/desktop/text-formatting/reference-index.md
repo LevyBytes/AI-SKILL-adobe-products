@@ -1,4 +1,4 @@
-# InDesign — Format and style text
+# InDesign - Format and style text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Character formatting in InDesign. [Character formatting](character-formatting.md).

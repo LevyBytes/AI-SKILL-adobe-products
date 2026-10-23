@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: export image sequences, svg, swf and video
+# Shared Adobe platform - Document: export image sequences, svg, swf and video
 
-Open when working with export image sequences, svg, swf and video in Shared Adobe platform — Document.
+Open when working with export image sequences, svg, swf and video in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-export.json).
 

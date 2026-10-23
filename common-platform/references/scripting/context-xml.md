@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: xml and e4x data access
+# Shared Adobe platform - Scripting APIs: xml and e4x data access
 
-Open when working with xml and e4x data access in Shared Adobe platform — Scripting APIs.
+Open when working with xml and e4x data access in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-xml.json).
 

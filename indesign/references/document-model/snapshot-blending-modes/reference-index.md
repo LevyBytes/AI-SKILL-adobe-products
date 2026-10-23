@@ -1,4 +1,4 @@
-# InDesign — SnapshotBlendingModes
+# InDesign - SnapshotBlendingModes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FULL_SNAPSHOT_BLENDING in InDesign. [FULL_SNAPSHOT_BLENDING](fullsnapshotblending.md).

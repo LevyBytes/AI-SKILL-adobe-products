@@ -1,4 +1,4 @@
-# Audition — Diagnostics effects (Waveform Editor only)
+# Audition - Diagnostics effects (Waveform Editor only)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DeClicker options in Audition. [DeClicker options](de-clicker-options.md).

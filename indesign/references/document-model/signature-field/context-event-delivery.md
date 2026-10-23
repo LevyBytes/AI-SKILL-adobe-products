@@ -1,6 +1,6 @@
-# InDesign — SignatureField: events and listeners
+# InDesign - SignatureField: events and listeners
 
-Open when checking events and listeners in InDesign — SignatureField.
+Open when checking events and listeners in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

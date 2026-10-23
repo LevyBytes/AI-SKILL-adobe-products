@@ -1,4 +1,4 @@
-# Structuring documents for XML — Structure pane overview
+# Structuring documents for XML - Structure pane overview
 
 In the Structure pane, XML-tagged document items are shown as a hierarchy. These tagged items are elements. Reordering elements in the Structure pane changes the sequence and parent-child arrangement of the items. Each element shows an icon for its type plus a tag name.
 

@@ -1,4 +1,4 @@
-# Multichannel audio workflow — Modify the channels in a specific clip
+# Multichannel audio workflow - Modify the channels in a specific clip
 
 Use the following steps when you need to change channels already assigned to a particular clip.
 

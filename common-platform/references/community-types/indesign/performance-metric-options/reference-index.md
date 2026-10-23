@@ -1,4 +1,4 @@
-# Shared Adobe platform — PerformanceMetricOptions
+# Shared Adobe platform - PerformanceMetricOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PerformanceMetricOptions declaration in Shared Adobe platform. [PerformanceMetricOptions declaration](declaration.md).

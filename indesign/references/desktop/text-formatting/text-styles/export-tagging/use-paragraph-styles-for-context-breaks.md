@@ -1,4 +1,4 @@
-# Map styles to export tags — Use paragraph styles for context breaks
+# Map styles to export tags - Use paragraph styles for context breaks
 
 Open Window > Styles > Paragraph Styles.
 

@@ -1,4 +1,4 @@
-# Acrobat — Insert barcodes in PDFs
+# Acrobat - Insert barcodes in PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and test barcode fields in Acrobat. [Add and test barcode fields](add-and-test-barcode-fields.md).

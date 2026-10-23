@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTransliteratePreference: character spacing and geometry
+# Shared Adobe platform - ChangeTransliteratePreference: character spacing and geometry
 
-Open when checking character spacing and geometry in Shared Adobe platform — ChangeTransliteratePreference.
+Open when checking character spacing and geometry in Shared Adobe platform - ChangeTransliteratePreference.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

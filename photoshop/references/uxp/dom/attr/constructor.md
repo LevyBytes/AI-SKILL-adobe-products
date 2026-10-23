@@ -1,4 +1,4 @@
-# window.Attr — Attr(document, nodeName)
+# window.Attr - Attr(document, nodeName)
 
 Constructs an `Attr` instance.
 

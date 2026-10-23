@@ -1,4 +1,4 @@
-# Firefly — Work with audio and video
+# Firefly - Work with audio and video
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Work with audio in Firefly. [Work with audio](work-with-audio.md).

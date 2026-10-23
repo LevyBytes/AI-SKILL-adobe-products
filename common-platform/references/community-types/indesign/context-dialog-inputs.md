@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: script dialog inputs and widgets
+# Shared Adobe platform - Indesign: script dialog inputs and widgets
 
-Open when working with script dialog inputs and widgets in Shared Adobe platform — Indesign.
+Open when working with script dialog inputs and widgets in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-dialog-inputs.json).
 

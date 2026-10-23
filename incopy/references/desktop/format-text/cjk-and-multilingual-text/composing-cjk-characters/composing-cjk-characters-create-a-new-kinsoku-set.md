@@ -1,4 +1,4 @@
-# Composing CJK characters — Create a new kinsoku set
+# Composing CJK characters - Create a new kinsoku set
 
 Start with one of these commands.
 

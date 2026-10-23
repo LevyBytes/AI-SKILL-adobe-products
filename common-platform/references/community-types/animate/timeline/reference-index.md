@@ -1,4 +1,4 @@
-# Shared Adobe platform — Timeline
+# Shared Adobe platform - Timeline
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Timeline declaration in Shared Adobe platform. [Timeline declaration](declaration.md).

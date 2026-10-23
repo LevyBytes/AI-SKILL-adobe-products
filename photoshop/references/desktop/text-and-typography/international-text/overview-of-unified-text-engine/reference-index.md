@@ -1,4 +1,4 @@
-# Photoshop — Overview of Unified Text Engine
+# Photoshop - Overview of Unified Text Engine
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Better bidirectional text support in Photoshop. [Better bidirectional text support](better-bidirectional-text-support.md).

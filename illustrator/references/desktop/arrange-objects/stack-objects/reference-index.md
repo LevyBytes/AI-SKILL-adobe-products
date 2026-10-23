@@ -1,4 +1,4 @@
-# Illustrator — Stack objects
+# Illustrator - Stack objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add new objects in the stacking order in Illustrator. [Add new objects in the stacking order](add-new-objects-in-the-stacking-order.md).

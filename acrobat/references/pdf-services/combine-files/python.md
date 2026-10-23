@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [combine-pdf.py](../examples/python/combine-pdf/combine-pdf.py)
+- [combine-pdf setup and source](../examples/python/combine-pdf/combine-pdf-setup.md)

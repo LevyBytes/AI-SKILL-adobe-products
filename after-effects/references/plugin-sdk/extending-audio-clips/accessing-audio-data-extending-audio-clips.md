@@ -1,4 +1,4 @@
-# Accessing Audio Data — Extending Audio Clips
+# Accessing Audio Data - Extending Audio Clips
 
 There is no API call that lengthens an audio clip for you.
 

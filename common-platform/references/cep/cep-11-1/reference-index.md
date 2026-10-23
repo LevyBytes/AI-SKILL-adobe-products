@@ -1,4 +1,4 @@
-# Shared Adobe platform — Cep 11 1
+# Shared Adobe platform - Cep 11 1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Absolute require paths in Shared Adobe platform. [Absolute require paths](absolute-require-paths.md).

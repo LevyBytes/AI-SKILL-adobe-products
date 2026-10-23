@@ -1,4 +1,4 @@
-# Basic Host Differences — Frame Dimensions
+# Basic Host Differences - Frame Dimensions
 
 Differences between source footage and the project or composition are handled differently.
 

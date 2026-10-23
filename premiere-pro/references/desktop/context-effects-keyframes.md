@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: effects, presets, animation and transitions
+# Premiere Pro - Desktop workflows: effects, presets, animation and transitions
 
-Open when working with effects, presets, animation and transitions in Premiere Pro — Desktop workflows.
+Open when working with effects, presets, animation and transitions in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-effects-keyframes.json).
 

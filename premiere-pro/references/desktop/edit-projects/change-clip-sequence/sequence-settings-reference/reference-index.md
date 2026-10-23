@@ -1,4 +1,4 @@
-# Premiere Pro — Sequence settings reference
+# Premiere Pro - Sequence settings reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Composite In linear color (requires GPU acceleration or max render quality) in Premiere Pro. [Composite In linear color (requires GPU acceleration or max render quality)](linear-color-compositing-requirements.md).

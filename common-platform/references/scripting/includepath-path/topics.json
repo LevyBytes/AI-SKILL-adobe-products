@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Preprocessor directives — #includepath path", "file": "references/scripting/includepath-path/preprocessor-directives-includepath-path.md", "summary": "Open when looking up Preprocessor directives — #includepath path in Shared Adobe platform.", "keywords": ["Preprocessor directives — #includepath path"]},
+  {"topic": "Preprocessor directives - #includepath path", "file": "references/scripting/includepath-path/preprocessor-directives-includepath-path.md", "summary": "Open when looking up Preprocessor directives - #includepath path in Shared Adobe platform.", "keywords": ["Preprocessor directives - #includepath path"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

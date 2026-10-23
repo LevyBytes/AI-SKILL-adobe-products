@@ -1,9 +1,9 @@
-# require('uxp').xmp.XMPDateTime — XMPDateTime()
+# require('uxp').xmp.XMPDateTime - XMPDateTime()
 
 `XMPDateTime` models date-time values.
 XMP timestamps include zone information and may reach nanosecond precision.
 
-### require('uxp').xmp.XMPDateTime — XMPDateTime(date)
+### require('uxp').xmp.XMPDateTime - XMPDateTime(date)
 
 Create XMPDateTime
 

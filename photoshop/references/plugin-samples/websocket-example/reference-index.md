@@ -1,4 +1,4 @@
-# Photoshop — Websocket Example
+# Photoshop - Websocket Example
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Control in Photoshop. [Control](control.md).

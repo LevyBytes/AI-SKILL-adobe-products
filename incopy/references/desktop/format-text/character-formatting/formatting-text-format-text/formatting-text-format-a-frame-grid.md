@@ -1,4 +1,4 @@
-# Formatting text — Format a frame grid
+# Formatting text - Format a frame grid
 
 Selecting a frame grid makes grid-formatting choices appear in the Control panel.
 

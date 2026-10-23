@@ -1,4 +1,4 @@
-# Premiere Pro — Stylize effects
+# Premiere Pro - Stylize effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Alpha Glow effect in Premiere Pro. [Alpha Glow effect](alpha-glow-effect.md).

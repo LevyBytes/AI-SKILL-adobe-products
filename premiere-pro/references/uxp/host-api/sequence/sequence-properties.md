@@ -1,4 +1,4 @@
-# Sequence — Properties
+# Sequence - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

@@ -1,4 +1,4 @@
-# Viewing stories — Set Story view preferences
+# Viewing stories - Set Story view preferences
 
 Use the Galley & Story Display section of the Preferences dialog box to adjust how Story view appears.
 

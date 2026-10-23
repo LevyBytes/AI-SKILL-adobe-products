@@ -1,4 +1,4 @@
-# After Effects — AEGP_StreamSuite5
+# After Effects - AEGP_StreamSuite5
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CanVaryOverTime in After Effects. [AEGP_CanVaryOverTime](aegp-can-vary-over-time.md).

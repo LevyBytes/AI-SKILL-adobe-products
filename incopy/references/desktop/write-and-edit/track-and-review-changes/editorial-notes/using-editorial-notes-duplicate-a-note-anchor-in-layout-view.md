@@ -1,4 +1,4 @@
-# Using editorial notes — Duplicate a note anchor in Layout view
+# Using editorial notes - Duplicate a note anchor in Layout view
 
 Use either method:
 

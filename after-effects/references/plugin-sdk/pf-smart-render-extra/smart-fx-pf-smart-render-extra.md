@@ -1,4 +1,4 @@
-# SmartFX — `PF_SmartRenderExtra`
+# SmartFX`PF_SmartRenderExtra`
 
 Member
 

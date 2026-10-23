@@ -1,4 +1,4 @@
-# Debugging in the Toolkit — The call stack
+# Debugging in the Toolkit - The call stack
 
 The Call Stack panel is active during program debugging. When a running program stops at a breakpoint or runtime error, the panel lists the function-call sequence that led to the current execution point. It shows active function names together with the actual arguments passed to each function.
 

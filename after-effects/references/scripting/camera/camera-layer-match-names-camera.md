@@ -1,4 +1,4 @@
-# Camera Layer Match Names — Camera
+# Camera Layer Match Names - Camera
 
 | Match Name | Display Name (EN) |
 | --- | --- |

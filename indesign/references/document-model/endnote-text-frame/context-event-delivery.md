@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: events and listeners
+# InDesign - EndnoteTextFrame: events and listeners
 
-Open when checking events and listeners in InDesign — EndnoteTextFrame.
+Open when checking events and listeners in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

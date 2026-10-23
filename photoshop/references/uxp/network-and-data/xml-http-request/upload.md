@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — upload : `XMLHttpRequestEventUpload`
+# window.XMLHttpRequest - upload : `XMLHttpRequestEventUpload`
 
 **Read only**
 For upload progress tracking, this property exposes an XMLHttpRequestEventUpload object.

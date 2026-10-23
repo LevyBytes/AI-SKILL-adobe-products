@@ -1,4 +1,4 @@
-# InDesign — Adjust text resizing for accessibility
+# InDesign - Adjust text resizing for accessibility
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enhancements and limitations in InDesign. [Enhancements and limitations](enhancements-and-limitations.md).

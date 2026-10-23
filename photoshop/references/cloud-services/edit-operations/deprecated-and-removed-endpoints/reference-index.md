@@ -1,4 +1,4 @@
-# Photoshop — Deprecated and removed endpoints
+# Photoshop - Deprecated and removed endpoints
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Coming soon in Photoshop. [Coming soon](coming-soon.md).

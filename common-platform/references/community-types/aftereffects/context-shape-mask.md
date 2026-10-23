@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: shape paths and masks
+# Shared Adobe platform - Aftereffects: shape paths and masks
 
-Open when working with shape paths and masks in Shared Adobe platform — Aftereffects.
+Open when working with shape paths and masks in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-shape-mask.json).
 

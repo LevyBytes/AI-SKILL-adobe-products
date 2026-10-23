@@ -1,4 +1,4 @@
-# Shared Adobe platform — Filter
+# Shared Adobe platform - Filter
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Filter declaration in Shared Adobe platform. [Filter declaration](declaration.md).

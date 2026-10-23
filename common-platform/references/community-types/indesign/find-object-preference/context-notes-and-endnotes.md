@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindObjectPreference: footnotes and endnotes
+# Shared Adobe platform - FindObjectPreference: footnotes and endnotes
 
-Open when checking footnotes and endnotes in Shared Adobe platform — FindObjectPreference.
+Open when checking footnotes and endnotes in Shared Adobe platform - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-notes-and-endnotes.json).
 

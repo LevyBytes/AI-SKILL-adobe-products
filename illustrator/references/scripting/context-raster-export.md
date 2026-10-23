@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: raster export options and compression
+# Illustrator - Scripting APIs: raster export options and compression
 
-Open when working with raster export options and compression in Illustrator — Scripting APIs.
+Open when working with raster export options and compression in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-raster-export.json).
 

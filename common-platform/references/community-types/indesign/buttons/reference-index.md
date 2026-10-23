@@ -1,4 +1,4 @@
-# Shared Adobe platform — Buttons
+# Shared Adobe platform - Buttons
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Buttons collection iteration in Shared Adobe platform. [Buttons collection iteration](collection-iteration.md).

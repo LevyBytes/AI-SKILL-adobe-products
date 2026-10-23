@@ -1,4 +1,4 @@
-# What is Scripting? — What about actions?
+# What is Scripting? - What about actions?
 
 Actions and scripts both automate repeated work, but their operating models are different:
 

@@ -1,4 +1,4 @@
-# Photoshop — Get started with layers
+# Photoshop - Get started with layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change transparency preferences in Photoshop. [Change transparency preferences](change-transparency-preferences.md).

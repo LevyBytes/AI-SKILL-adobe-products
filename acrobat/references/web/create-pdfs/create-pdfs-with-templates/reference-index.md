@@ -1,4 +1,4 @@
-# Acrobat — Create PDFs with templates
+# Acrobat - Create PDFs with templates
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create agreement templates in Acrobat. [Create agreement templates](create-agreement-templates.md).

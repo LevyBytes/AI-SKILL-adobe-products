@@ -1,4 +1,4 @@
-# Firefly — Use 3D digital twin workflows
+# Firefly - Use 3D digital twin workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Digital Twin workflows in Firefly. [3D Digital Twin workflows](3-d-digital-twin-workflows.md).

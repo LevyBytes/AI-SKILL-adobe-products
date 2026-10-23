@@ -1,6 +1,6 @@
-# InDesign — WMF: image conversion and web export
+# InDesign - WMF: image conversion and web export
 
-Open when checking image conversion and web export in InDesign — WMF.
+Open when checking image conversion and web export in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-image-web-export.json).
 

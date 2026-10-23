@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Native encoding and decoding of QuickTime files
+# Importing and interpreting footage items - Native encoding and decoding of QuickTime files
 
 On both macOS and Windows, After Effects can decode and encode QuickTime (.mov) files natively by way of the GoPro CineForm codecs. So working with and producing such files calls for no extra codec installs.
 

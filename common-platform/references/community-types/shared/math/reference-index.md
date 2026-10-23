@@ -1,4 +1,4 @@
-# Shared Adobe platform — Math
+# Shared Adobe platform - Math
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Math declaration in Shared Adobe platform. [Math declaration](declaration.md).

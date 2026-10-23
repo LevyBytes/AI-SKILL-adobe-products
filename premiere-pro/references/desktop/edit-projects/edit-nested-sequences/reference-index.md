@@ -1,4 +1,4 @@
-# Premiere Pro — Edit nested sequences
+# Premiere Pro - Edit nested sequences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About nested sequences in Premiere Pro. [About nested sequences](about-nested-sequences.md).

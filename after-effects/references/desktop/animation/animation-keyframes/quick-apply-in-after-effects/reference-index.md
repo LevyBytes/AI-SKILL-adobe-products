@@ -1,4 +1,4 @@
-# After Effects — Quick Apply in After Effects
+# After Effects - Quick Apply in After Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Animation Presets in After Effects. [Animation Presets](animation-presets.md).

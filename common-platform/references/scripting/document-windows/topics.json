@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Configuring the Toolkit window — Document windows", "file": "references/scripting/document-windows/configuring-the-toolkit-window-document-windows.md", "summary": "Open when looking up Configuring the Toolkit window — Document windows in Shared Adobe platform.", "keywords": ["Configuring the Toolkit window — Document windows"]},
+  {"topic": "Configuring the Toolkit window - Document windows", "file": "references/scripting/document-windows/configuring-the-toolkit-window-document-windows.md", "summary": "Open when looking up Configuring the Toolkit window - Document windows in Shared Adobe platform.", "keywords": ["Configuring the Toolkit window - Document windows"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

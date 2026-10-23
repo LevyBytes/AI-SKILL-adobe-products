@@ -1,4 +1,4 @@
-# InDesign — Adjust line spacing with leading
+# InDesign - Adjust line spacing with leading
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply leading to whole paragraphs in InDesign. [Apply leading to whole paragraphs](apply-leading-to-whole-paragraphs.md).

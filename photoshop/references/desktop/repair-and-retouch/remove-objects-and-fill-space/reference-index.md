@@ -1,4 +1,4 @@
-# Photoshop — Remove objects and fill space
+# Photoshop - Remove objects and fill space
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust Content-Aware Fill settings in Photoshop. [Adjust Content-Aware Fill settings](adjust-content-aware-fill-settings.md).

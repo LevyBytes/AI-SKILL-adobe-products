@@ -1,4 +1,4 @@
-# Graphics Utility Suites — Kernel Flags
+# Graphics Utility Suites - Kernel Flags
 
 Routines like convolve or gaussian kernel operate on kernels — that is, matrices holding filter-weight values — and those matrices may take any format. How a matrix gets built and applied is governed by the kernel flags, which you OR together as needed.
 

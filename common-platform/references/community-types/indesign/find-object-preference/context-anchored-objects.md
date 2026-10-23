@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindObjectPreference: anchored object placement
+# Shared Adobe platform - FindObjectPreference: anchored object placement
 
-Open when checking anchored object placement in Shared Adobe platform — FindObjectPreference.
+Open when checking anchored object placement in Shared Adobe platform - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

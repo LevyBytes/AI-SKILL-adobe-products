@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: interactive navigation and page transitions
+# InDesign - InDesign document object model: interactive navigation and page transitions
 
-Open when working with interactive navigation and page transitions in InDesign — InDesign document object model.
+Open when working with interactive navigation and page transitions in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-interactive-navigation.json).
 

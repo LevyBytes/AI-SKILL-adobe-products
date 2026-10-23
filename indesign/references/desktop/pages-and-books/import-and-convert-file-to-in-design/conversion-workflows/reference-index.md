@@ -1,4 +1,4 @@
-# InDesign — Import And Convert File To Indesign
+# InDesign - Import And Convert File To Indesign
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Arrange and order pages in InDesign. [Arrange and order pages](arrange-and-order-pages.md).

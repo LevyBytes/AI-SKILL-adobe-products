@@ -1,4 +1,4 @@
-# After Effects — Create Nulls for Positional Properties and Paths
+# After Effects - Create Nulls for Positional Properties and Paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Applications in After Effects. [3D Applications](3-d-applications.md).

@@ -1,4 +1,4 @@
-# Layer Styles Match Names — Pattern
+# Layer Styles Match Names - Pattern
 
 | Match Name | Display Name (EN) |
 | --- | --- |

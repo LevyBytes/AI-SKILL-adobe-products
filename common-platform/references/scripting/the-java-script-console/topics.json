@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Debugging in the Toolkit — The JavaScript console", "file": "references/scripting/the-java-script-console/debugging-in-the-toolkit-the-java-script-console.md", "summary": "Open when looking up Debugging in the Toolkit — The JavaScript console in Shared Adobe platform.", "keywords": ["Debugging in the Toolkit — The JavaScript console"]},
+  {"topic": "Debugging in the Toolkit - The JavaScript console", "file": "references/scripting/the-java-script-console/debugging-in-the-toolkit-the-java-script-console.md", "summary": "Open when looking up Debugging in the Toolkit - The JavaScript console in Shared Adobe platform.", "keywords": ["Debugging in the Toolkit - The JavaScript console"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

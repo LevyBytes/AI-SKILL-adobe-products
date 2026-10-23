@@ -1,6 +1,6 @@
-# InDesign — RadioButton: paths and shape operations
+# InDesign - RadioButton: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — RadioButton.
+Open when checking paths and shape operations in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

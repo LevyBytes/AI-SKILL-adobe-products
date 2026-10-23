@@ -1,4 +1,4 @@
-# Acrobat — Technical requirements
+# Acrobat - Technical requirements
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up On desktop in Acrobat. [On desktop](on-desktop.md).

@@ -1,4 +1,4 @@
-# After Effects — Layer space transforms methods
+# After Effects - Layer space transforms methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up fromComp(point, t=time) in After Effects. [fromComp(point, t=time)](from-comp.md).

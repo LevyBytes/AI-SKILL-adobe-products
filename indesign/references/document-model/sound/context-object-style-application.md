@@ -1,6 +1,6 @@
-# InDesign — Sound: object styles and enabled attributes
+# InDesign - Sound: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — Sound.
+Open when checking object styles and enabled attributes in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

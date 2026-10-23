@@ -1,4 +1,4 @@
-# Formatting characters — Adjust vertical or horizontal scaling
+# Formatting characters - Adjust vertical or horizontal scaling
 
 Select the text to scale. In the Character panel or Control panel, enter a numeric value for Vertical Scaling or Horizontal Scaling.
 

@@ -1,4 +1,4 @@
-# InDesign — Known And Fixed Issues
+# InDesign - Known And Fixed Issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Can't view the outdated Alt Text icon for cropped images in existing documents in InDesign. [Can't view the outdated Alt Text icon for cropped images in existing documents](cropped-image-alt-text-indicator.md).

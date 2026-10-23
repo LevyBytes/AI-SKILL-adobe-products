@@ -1,4 +1,4 @@
-# Shared Adobe platform — EPSTexts
+# Shared Adobe platform - EPSTexts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EPSTexts collection iteration in Shared Adobe platform. [EPSTexts collection iteration](collection-iteration.md).

@@ -7,3 +7,5 @@ Load `dialog-layout.js` before `trusted-dialog.js` during Acrobat's trusted fold
 The layout preserves the Name field, identity email, Browse button and OK/Cancel controls. Each restricted operation balances `beginPriv()` with `endPriv()` even on failure. Cancelling the dialog does not open a file. An existing Author value is retained.
 
 These files use Acrobat JavaScript globals, not Node modules. The host supplies `app`, `identity` and `console`; native Acrobat execution is required to verify host-specific trust enforcement.
+
+Both files come from the `trustPropagatorFunction` example in the [Acrobat JavaScript reference](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#trustpropagatorfunction).

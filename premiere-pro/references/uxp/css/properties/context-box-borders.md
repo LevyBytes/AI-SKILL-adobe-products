@@ -1,6 +1,6 @@
-# Premiere Pro — Properties: border colors, styles and widths
+# Premiere Pro - Properties: border colors, styles and widths
 
-Open when working with border colors, styles and widths in Premiere Pro — Properties.
+Open when working with border colors, styles and widths in Premiere Pro - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-box-borders.json).
 

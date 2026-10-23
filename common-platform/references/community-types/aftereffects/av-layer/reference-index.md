@@ -1,4 +1,4 @@
-# Shared Adobe platform — AVLayer
+# Shared Adobe platform - AVLayer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AVLayer declaration in Shared Adobe platform. [AVLayer declaration](declaration.md).

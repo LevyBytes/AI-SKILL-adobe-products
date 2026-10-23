@@ -1,6 +1,6 @@
-# InDesign — ObjectStyle: anchored object placement
+# InDesign - ObjectStyle: anchored object placement
 
-Open when checking anchored object placement in InDesign — ObjectStyle.
+Open when checking anchored object placement in InDesign - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

@@ -1,6 +1,6 @@
-# Premiere Pro — Properties: fonts and text layout
+# Premiere Pro - Properties: fonts and text layout
 
-Open when working with fonts and text layout in Premiere Pro — Properties.
+Open when working with fonts and text layout in Premiere Pro - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-text.json).
 

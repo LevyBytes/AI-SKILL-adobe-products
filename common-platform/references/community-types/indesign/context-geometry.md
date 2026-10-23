@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: bounds, dimensions and transforms
+# Shared Adobe platform - Indesign: bounds, dimensions and transforms
 
-Open when working with bounds, dimensions and transforms in Shared Adobe platform — Indesign.
+Open when working with bounds, dimensions and transforms in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-geometry.json).
 

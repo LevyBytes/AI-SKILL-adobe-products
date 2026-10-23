@@ -1,4 +1,4 @@
-# Scripting Constants — PageMarksTypes
+# Scripting Constants - PageMarksTypes
 
 | Value | Description |
 | --- | --- |

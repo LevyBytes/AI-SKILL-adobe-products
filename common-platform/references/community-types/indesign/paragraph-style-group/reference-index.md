@@ -1,4 +1,4 @@
-# Shared Adobe platform — ParagraphStyleGroup
+# Shared Adobe platform - ParagraphStyleGroup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ParagraphStyleGroup declaration in Shared Adobe platform. [ParagraphStyleGroup declaration](declaration.md).

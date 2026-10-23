@@ -1,4 +1,4 @@
-# Photoshop — Apply transformations
+# Photoshop - Apply transformations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Repeat a transformation in Photoshop. [Repeat a transformation](repeat-a-transformation.md).

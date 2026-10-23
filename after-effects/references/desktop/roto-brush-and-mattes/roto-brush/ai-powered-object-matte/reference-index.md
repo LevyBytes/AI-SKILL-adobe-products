@@ -1,4 +1,4 @@
-# After Effects — AI-powered Object Matte
+# After Effects - AI-powered Object Matte
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Object Matte Tool in After Effects. [Object Matte Tool](object-matte-tool.md).

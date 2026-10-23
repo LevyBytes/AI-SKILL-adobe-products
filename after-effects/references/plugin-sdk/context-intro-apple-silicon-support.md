@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: apple silicon support
+# After Effects - C++ plugin SDK: apple silicon support
 
-Open when working with apple silicon support in After Effects — C++ plugin SDK.
+Open when working with apple silicon support in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-intro-apple-silicon-support.json).
 

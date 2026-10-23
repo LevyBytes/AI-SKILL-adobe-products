@@ -1,4 +1,4 @@
-# Acrobat — Desktop workflows
+# Acrobat - Desktop workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessibility in Acrobat. [Accessibility references](accessibility/reference-index.md).

@@ -1,4 +1,4 @@
-# InDesign — AlternateGlyphForms
+# InDesign - AlternateGlyphForms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EXPERT_FORM in InDesign. [EXPERT_FORM](expertform.md).

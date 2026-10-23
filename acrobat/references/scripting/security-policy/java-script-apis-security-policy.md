@@ -1,4 +1,4 @@
-# JavaScript APIs — SecurityPolicy
+# JavaScript APIs - SecurityPolicy
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

@@ -1,4 +1,4 @@
-# SmartFX — The Way Things Are Now
+# SmartFX - The Way Things Are Now
 
 By flipping the calling sequence around, SmartFX gets past this problem. Now the effect learns how much of its output is wanted and has to ask the host outright for the inputs it requires. Rendering breaks into two phases: pre-render and render.
 

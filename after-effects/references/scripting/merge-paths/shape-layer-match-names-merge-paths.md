@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Merge Paths
+# Shape Layer Match Names - Merge Paths
 
 | Match Name | Display Name (EN) |
 | --- | --- |

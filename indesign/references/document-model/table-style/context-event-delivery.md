@@ -1,6 +1,6 @@
-# InDesign — TableStyle: events and listeners
+# InDesign - TableStyle: events and listeners
 
-Open when checking events and listeners in InDesign — TableStyle.
+Open when checking events and listeners in InDesign - TableStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

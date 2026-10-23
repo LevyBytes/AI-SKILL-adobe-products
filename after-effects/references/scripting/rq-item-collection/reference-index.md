@@ -1,4 +1,4 @@
-# After Effects — Rq item collection
+# After Effects - Rq item collection
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RQItemCollection object in After Effects. [RQItemCollection object](rq-item-collection-object.md).

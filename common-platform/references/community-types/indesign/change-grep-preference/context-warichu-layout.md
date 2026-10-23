@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeGrepPreference: warichu inline text
+# Shared Adobe platform - ChangeGrepPreference: warichu inline text
 
-Open when checking warichu inline text in Shared Adobe platform — ChangeGrepPreference.
+Open when checking warichu inline text in Shared Adobe platform - ChangeGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

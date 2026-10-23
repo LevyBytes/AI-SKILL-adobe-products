@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Working With Paths — PF_PathVertex", "file": "references/plugin-sdk/pf-path-vertex/working-with-paths-pf-path-vertex.md", "summary": "Open when looking up Working With Paths — PF_PathVertex in After Effects.", "keywords": ["Working With Paths — PF_PathVertex"]},
+  {"topic": "Working With Paths - PF_PathVertex", "file": "references/plugin-sdk/pf-path-vertex/working-with-paths-pf-path-vertex.md", "summary": "Open when looking up Working With Paths - PF_PathVertex in After Effects.", "keywords": ["Working With Paths - PF_PathVertex"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

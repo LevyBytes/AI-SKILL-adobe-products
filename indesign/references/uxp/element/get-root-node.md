@@ -1,4 +1,4 @@
-# window.Element — getRootNode(options)
+# window.Element - getRootNode(options)
 
 **Returns**: `Node` - resolved root node
 

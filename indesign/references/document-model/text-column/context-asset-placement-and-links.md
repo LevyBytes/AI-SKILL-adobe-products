@@ -1,6 +1,6 @@
-# InDesign — Text column: place and link external assets
+# InDesign - Text column: place and link external assets
 
-Open when checking place and link external assets in InDesign — Text column.
+Open when checking place and link external assets in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

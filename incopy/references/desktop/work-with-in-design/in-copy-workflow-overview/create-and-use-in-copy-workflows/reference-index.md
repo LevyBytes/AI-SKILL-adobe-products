@@ -1,4 +1,4 @@
-# InCopy — Create and use InCopy workflows
+# InCopy - Create and use InCopy workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About InCopy workflows in InCopy. [About InCopy workflows](about-in-copy-workflows.md).

@@ -1,6 +1,6 @@
-# InDesign — FormField: hyperlinks, indexes and cross-references
+# InDesign - FormField: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — FormField.
+Open when checking hyperlinks, indexes and cross-references in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

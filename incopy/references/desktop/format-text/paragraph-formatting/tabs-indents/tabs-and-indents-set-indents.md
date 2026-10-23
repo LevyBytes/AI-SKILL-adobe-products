@@ -1,4 +1,4 @@
-# Tabs and indents — Set indents
+# Tabs and indents - Set indents
 
 Indents shift text inward from the frame's left and right sides. For paragraph starts, first-line indents are usually the better choice than spaces or tabs.
 

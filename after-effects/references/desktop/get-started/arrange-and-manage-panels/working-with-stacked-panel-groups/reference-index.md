@@ -1,4 +1,4 @@
-# After Effects — Working with stacked panel groups
+# After Effects - Working with stacked panel groups
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Creating a stacked panel group in After Effects. [Creating a stacked panel group](creating-a-stacked-panel-group.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — HyperlinkExternalPageDestinations
+# Shared Adobe platform - HyperlinkExternalPageDestinations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HyperlinkExternalPageDestinations collection iteration in Shared Adobe platform. [HyperlinkExternalPageDestinations collection iteration](collection-iteration.md).

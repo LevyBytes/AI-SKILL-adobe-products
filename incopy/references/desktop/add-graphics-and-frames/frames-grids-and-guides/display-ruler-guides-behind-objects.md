@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Display ruler guides behind objects
+# Frames, grids, rulers, and guides - Display ruler guides behind objects
 
 Ruler guides normally draw in front of the other guides and objects. Some guides can obscure artwork, for example lines with very small stroke widths.
 

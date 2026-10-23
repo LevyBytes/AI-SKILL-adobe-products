@@ -1,4 +1,4 @@
-# Preprocessor directives — #target name
+# Preprocessor directives - #target name
 
 Targets this JSX file at the named application. Treat name as an application specifier; see Application and namespace specifiers. Quotes around the value are optional.
 

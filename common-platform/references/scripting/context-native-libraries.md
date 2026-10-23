@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: native shared libraries and entry points
+# Shared Adobe platform - Scripting APIs: native shared libraries and entry points
 
-Open when working with native shared libraries and entry points in Shared Adobe platform — Scripting APIs.
+Open when working with native shared libraries and entry points in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-native-libraries.json).
 

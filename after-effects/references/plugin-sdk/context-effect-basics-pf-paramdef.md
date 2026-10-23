@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: pf_paramdef
+# After Effects - C++ plugin SDK: pf_paramdef
 
-Open when working with pf_paramdef in After Effects — C++ plugin SDK.
+Open when working with pf_paramdef in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-basics-pf-paramdef.json).
 

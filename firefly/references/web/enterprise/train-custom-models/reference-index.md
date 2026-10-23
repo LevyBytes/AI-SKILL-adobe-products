@@ -1,4 +1,4 @@
-# Firefly — Train custom models
+# Firefly - Train custom models
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate images using Firefly Custom Models in Firefly. [Generate images using Firefly Custom Models](generate-images-using-firefly-custom-models.md).

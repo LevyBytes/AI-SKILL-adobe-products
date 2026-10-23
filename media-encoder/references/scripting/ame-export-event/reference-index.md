@@ -1,7 +1,7 @@
-# Media Encoder — Ame export event
+# Media Encoder - Ame export event
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) — AMEExportEvent in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z) — AMEExportEvent](ame-export-event.md).
+- Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - AMEExportEvent in Media Encoder. [Adobe Media Encoder (AME) Scripting API Reference (A-Z) - AMEExportEvent](ame-export-event.md).
 - Open when looking up encodeCompleteStatus example in Media Encoder. [encodeCompleteStatus example](encode-complete-status-example.md).
 - Open when looking up encodeCompleteTime example in Media Encoder. [encodeCompleteTime example](encode-complete-time-example.md).
 - Open when looking up onBatchItemStatusChanged example in Media Encoder. [onBatchItemStatusChanged example](on-batch-item-status-changed-example.md).

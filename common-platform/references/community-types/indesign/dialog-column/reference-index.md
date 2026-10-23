@@ -1,4 +1,4 @@
-# Shared Adobe platform — DialogColumn
+# Shared Adobe platform - DialogColumn
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DialogColumn declaration in Shared Adobe platform. [DialogColumn declaration](declaration.md).

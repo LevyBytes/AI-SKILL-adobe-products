@@ -1,4 +1,4 @@
-# Acrobat — Create PDF forms
+# Acrobat - Create PDF forms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align form fields in Acrobat. [Align form fields](align-form-fields.md).

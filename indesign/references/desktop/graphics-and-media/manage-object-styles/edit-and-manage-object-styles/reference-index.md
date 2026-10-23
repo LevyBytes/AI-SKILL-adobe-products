@@ -1,4 +1,4 @@
-# InDesign — Edit and manage object styles
+# InDesign - Edit and manage object styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete an object style in InDesign. [Delete an object style](delete-an-object-style.md).

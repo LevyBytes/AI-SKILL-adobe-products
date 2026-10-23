@@ -1,4 +1,4 @@
-# Stand-alone documents — Work with stand-alone documents
+# Stand-alone documents - Work with stand-alone documents
 
 An InCopy document with no associated InDesign document is a stand-alone document. For stand-alone documents, you can configure and change text area, page size, and orientation. If the story is later linked to an InDesign document, however, the InDesign settings take precedence over the settings chosen in InCopy.
 

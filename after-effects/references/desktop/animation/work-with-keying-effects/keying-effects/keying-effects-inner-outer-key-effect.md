@@ -1,4 +1,4 @@
-# Keying effects — Inner/Outer Key effect
+# Keying effects - Inner/Outer Key effect
 
 Note
 

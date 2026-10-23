@@ -1,4 +1,4 @@
-# Frame grids — Document setup options for frame grids
+# Frame grids - Document setup options for frame grids
 
 These controls become available in the New Document or Document Setupdialog box when Text Area is set to Frame Grid:
 

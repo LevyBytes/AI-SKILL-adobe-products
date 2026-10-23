@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: audio-specific float slider variables
+# After Effects - C++ plugin SDK: audio-specific float slider variables
 
-Open when working with audio-specific float slider variables in After Effects — C++ plugin SDK.
+Open when working with audio-specific float slider variables in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-audio-specific-float-slider-variables.json).
 

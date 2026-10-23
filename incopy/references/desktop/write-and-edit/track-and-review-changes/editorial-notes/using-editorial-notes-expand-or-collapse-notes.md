@@ -1,4 +1,4 @@
-# Using editorial notes — Expand or collapse notes
+# Using editorial notes - Expand or collapse notes
 
 Expanded notes show their content between the bookends. As note content is entered, the bookends move farther apart to fit the text. Collapsing the bookends hides the note content.
 

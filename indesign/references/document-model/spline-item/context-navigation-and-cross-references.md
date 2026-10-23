@@ -1,6 +1,6 @@
-# InDesign — SplineItem: hyperlinks, indexes and cross-references
+# InDesign - SplineItem: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — SplineItem.
+Open when checking hyperlinks, indexes and cross-references in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

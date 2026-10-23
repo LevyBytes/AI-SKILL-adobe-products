@@ -1,4 +1,4 @@
-# Shared Adobe platform — RadiobuttonGroups
+# Shared Adobe platform - RadiobuttonGroups
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up RadiobuttonGroups collection iteration in Shared Adobe platform. [RadiobuttonGroups collection iteration](collection-iteration.md).

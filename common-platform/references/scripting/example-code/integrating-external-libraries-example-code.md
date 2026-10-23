@@ -1,4 +1,4 @@
-# Integrating External Libraries — Example code
+# Integrating External Libraries - Example code
 
 The Adobe ExtendScript SDK sample code includes an example showing how to write a C/C++ shared library for JavaScript integration. It is located in this directory:
 

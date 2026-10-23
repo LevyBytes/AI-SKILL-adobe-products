@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Interpret footage items
+# Importing and interpreting footage items - Interpret footage items
 
 As each footage item arrives, internal rules let After Effects guess at four things about the source file: its frame rate, its alpha channel type, its color profile, and its pixel aspect ratio. A wrong guess — or a wish to put the footage to different use — leaves you two options: rewrite the rules covering all footage items of a given kind by editing the interpretation rules file (interpretation rules.txt), or tweak just one footage item's interpretation in the Interpret Footage dialog box.
 

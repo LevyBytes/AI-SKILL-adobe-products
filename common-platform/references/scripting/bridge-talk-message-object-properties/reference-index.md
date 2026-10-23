@@ -1,4 +1,4 @@
-# Shared Adobe platform — Bridge talk message object properties
+# Shared Adobe platform - Bridge talk message object properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up body in Shared Adobe platform. [body](body.md).

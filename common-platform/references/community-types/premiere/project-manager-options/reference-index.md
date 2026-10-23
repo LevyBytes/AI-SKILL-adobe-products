@@ -1,4 +1,4 @@
-# Shared Adobe platform — ProjectManagerOptions
+# Shared Adobe platform - ProjectManagerOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ProjectManagerOptions declaration in Shared Adobe platform. [ProjectManagerOptions declaration](declaration.md).

@@ -1,4 +1,4 @@
-# Photoshop — UXP Manifest v4
+# Photoshop - UXP Manifest v4
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Entry Points in Photoshop. [Entry Points](entry-points.md).

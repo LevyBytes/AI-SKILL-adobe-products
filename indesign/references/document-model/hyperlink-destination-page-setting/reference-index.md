@@ -1,4 +1,4 @@
-# InDesign — HyperlinkDestinationPageSetting
+# InDesign - HyperlinkDestinationPageSetting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FIT_HEIGHT in InDesign. [FIT_HEIGHT](fitheight.md).

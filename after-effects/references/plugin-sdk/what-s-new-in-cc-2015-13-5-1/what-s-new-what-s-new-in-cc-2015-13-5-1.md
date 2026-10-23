@@ -1,4 +1,4 @@
-# What's New — What's New in CC 2015 (13.5.1)?
+# What's New - What's New in CC 2015 (13.5.1)?
 
 Some audio APIs that 13.5 broke through its threading changes are repaired in this release. Under 13.5, invoking `AEGP_RenderNewItemSoundData`() from the UI thread produced `A_Err_GENERIC`. Calling it on the UI thread now works again.
 

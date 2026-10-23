@@ -1,4 +1,4 @@
-# Customizing workspaces — Save, reset, or delete workspaces
+# Customizing workspaces - Save, reset, or delete workspaces
 
 Save a custom workspace
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Dialog
+# Shared Adobe platform - Dialog
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Dialog declaration in Shared Adobe platform. [Dialog declaration](declaration.md).

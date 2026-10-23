@@ -1,4 +1,4 @@
-# Controlling graphics display — Set default display performance
+# Controlling graphics display - Set default display performance
 
 Display Performance preferences define the default display option that InCopy applies to every document. You can adjust a document through the View menu, or apply a separate setting to specific objects through the Object menu. For instance, when a project contains many high-resolution photos, such as a catalog, you may want documents to open faster. Set the default display option to Fast; when you need a closer look at the images, switch the current document view to Typical or High Quality while the preference remains Fast.
 

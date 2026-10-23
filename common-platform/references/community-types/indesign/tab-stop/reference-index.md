@@ -1,4 +1,4 @@
-# Shared Adobe platform — TabStop
+# Shared Adobe platform - TabStop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TabStop declaration in Shared Adobe platform. [TabStop declaration](declaration.md).

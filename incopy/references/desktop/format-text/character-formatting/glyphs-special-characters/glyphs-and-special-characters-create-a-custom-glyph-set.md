@@ -1,4 +1,4 @@
-# Glyphs and special characters — Create a custom glyph set
+# Glyphs and special characters - Create a custom glyph set
 
 Open Type > Glyphs. Then use one of these commands:
 

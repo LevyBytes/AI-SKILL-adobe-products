@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: document import and export choices
+# InDesign - InDesign document object model: document import and export choices
 
-Open when working with document import and export choices in InDesign — InDesign document object model.
+Open when working with document import and export choices in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-document-export.json).
 

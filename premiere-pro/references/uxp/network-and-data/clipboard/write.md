@@ -1,4 +1,4 @@
-# navigator.clipboard — write(data)
+# navigator.clipboard - write(data)
 
 Send data to the clipboard. Use this for cut and copy behavior.
 

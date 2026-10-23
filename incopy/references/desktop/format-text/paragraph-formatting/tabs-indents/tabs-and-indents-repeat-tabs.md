@@ -1,4 +1,4 @@
-# Tabs and indents — Repeat tabs
+# Tabs and indents - Repeat tabs
 
 Use Repeat Tab when you need InCopy to generate additional tab stops from the spacing between the chosen tab and either the left indent or the tab stop before it.
 

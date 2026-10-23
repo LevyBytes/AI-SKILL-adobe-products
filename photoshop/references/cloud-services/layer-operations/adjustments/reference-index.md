@@ -1,4 +1,4 @@
-# Photoshop — Adjustments
+# Photoshop - Adjustments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding adjustment layers in Photoshop. [Adding adjustment layers references](adding-adjustment-layers/reference-index.md).

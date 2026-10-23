@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: premiere pro & other hosts
+# After Effects - C++ plugin SDK: premiere pro & other hosts
 
-Open when working with premiere pro & other hosts in After Effects — C++ plugin SDK.
+Open when working with premiere pro & other hosts in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-ppro-ppro.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — DigitsTypeOptions
+# Shared Adobe platform - DigitsTypeOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DigitsTypeOptions declaration in Shared Adobe platform. [DigitsTypeOptions declaration](declaration.md).

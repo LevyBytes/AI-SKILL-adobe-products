@@ -1,5 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [merge-document-to-docx-with-fragments.py](../../pdf-services/examples/python/merge-customer-fragments/merge-document-to-docx-with-fragments.py)
-- [dependencies.py](../../pdf-services/examples/python/merge-customer-fragments/dependencies.py)
+- [merge-customer-fragments setup and source](../../pdf-services/examples/python/merge-customer-fragments/merge-customer-fragments-setup.md)

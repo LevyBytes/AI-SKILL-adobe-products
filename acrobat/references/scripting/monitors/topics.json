@@ -4,7 +4,7 @@
   {"topic": "desktop", "file": "references/scripting/monitors/desktop.md", "summary": "Open when looking up desktop in Acrobat.", "keywords": ["desktop"]},
   {"topic": "document", "file": "references/scripting/monitors/document.md", "summary": "Open when looking up document in Acrobat.", "keywords": ["document"]},
   {"topic": "filter", "file": "references/scripting/monitors/filter.md", "summary": "Open when looking up filter in Acrobat.", "keywords": ["filter"]},
-  {"topic": "JavaScript APIs — Monitors", "file": "references/scripting/monitors/java-script-apis-monitors.md", "summary": "Open when looking up JavaScript APIs — Monitors in Acrobat.", "keywords": ["JavaScript APIs — Monitors"]},
+  {"topic": "JavaScript APIs - Monitors", "file": "references/scripting/monitors/java-script-apis-monitors.md", "summary": "Open when looking up JavaScript APIs - Monitors in Acrobat.", "keywords": ["JavaScript APIs - Monitors"]},
   {"topic": "largest", "file": "references/scripting/monitors/largest.md", "summary": "Open when looking up largest in Acrobat.", "keywords": ["largest"]},
   {"topic": "leastOverlap", "file": "references/scripting/monitors/least-overlap.md", "summary": "Open when looking up leastOverlap in Acrobat.", "keywords": ["leastOverlap"]},
   {"topic": "mostOverlap", "file": "references/scripting/monitors/most-overlap.md", "summary": "Open when looking up mostOverlap in Acrobat.", "keywords": ["mostOverlap"]},

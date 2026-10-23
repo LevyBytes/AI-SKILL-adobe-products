@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: apply and manage styles
+# Shared Adobe platform - Document: apply and manage styles
 
-Open when checking apply and manage styles in Shared Adobe platform — Document.
+Open when checking apply and manage styles in Shared Adobe platform - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

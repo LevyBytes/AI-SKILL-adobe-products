@@ -1,4 +1,4 @@
-# Stand-alone documents — Define custom document presets
+# Stand-alone documents - Define custom document presets
 
 Custom document settings can be created and shared with the workgroup, which saves time and keeps similar documents consistent.
 

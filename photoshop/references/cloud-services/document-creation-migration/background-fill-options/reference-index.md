@@ -1,4 +1,4 @@
-# Photoshop — Background fill options
+# Photoshop - Background fill options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Custom background color in Photoshop. [Custom background color](custom-background-color.md).

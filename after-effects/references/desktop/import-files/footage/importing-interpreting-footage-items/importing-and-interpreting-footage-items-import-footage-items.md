@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Import footage items
+# Importing and interpreting footage items - Import footage items
 
 Bringing media files into your project happens either through the Import dialog box or by dragging them in. Whatever you import shows up as footage items in the Project panel.
 

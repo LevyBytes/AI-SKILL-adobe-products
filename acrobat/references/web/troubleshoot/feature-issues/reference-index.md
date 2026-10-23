@@ -1,4 +1,4 @@
-# Acrobat — Feature issues
+# Acrobat - Feature issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Disrupted transaction between payment and signature in Acrobat. [Disrupted transaction between payment and signature](disrupted-transaction-between-payment-and-signature.md).

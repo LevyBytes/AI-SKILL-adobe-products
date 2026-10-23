@@ -1,4 +1,4 @@
-# Firefly — Access your files
+# Firefly - Access your files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access your generation history in other Adobe apps in Firefly. [Access your generation history in other Adobe apps](access-your-generation-history-in-other-adobe-apps.md).

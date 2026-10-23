@@ -1,4 +1,4 @@
-# Scripting Constants — DocumentArtboardLayout
+# Scripting Constants - DocumentArtboardLayout
 
 New-document artboard layout choice.
 

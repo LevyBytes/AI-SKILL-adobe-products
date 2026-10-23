@@ -1,4 +1,4 @@
-# InDesign — Manage and update anchored objects
+# InDesign - Manage and update anchored objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Release an anchored object in InDesign. [Release an anchored object](release-an-anchored-object.md).

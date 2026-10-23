@@ -1,4 +1,4 @@
-# After Effects — AEGP_ItemSuite9
+# After Effects - AEGP_ItemSuite9
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CreateNewFolder in After Effects. [AEGP_CreateNewFolder](aegp-create-new-folder.md).

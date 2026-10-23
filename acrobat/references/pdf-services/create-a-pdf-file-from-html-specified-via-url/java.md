@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [HTMLToPDFFromURL.java](../examples/java/html-to-pdf-from-url/HTMLToPDFFromURL.java)
+- [html-to-pdf-from-url setup and source](../examples/java/html-to-pdf-from-url/html-to-pdf-from-url-setup.md)

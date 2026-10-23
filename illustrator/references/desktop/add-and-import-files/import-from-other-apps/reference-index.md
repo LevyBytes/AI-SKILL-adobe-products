@@ -1,4 +1,4 @@
-# Illustrator — Import from other apps
+# Illustrator - Import from other apps
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Move part of an image from Photoshop to Illustrator in Illustrator. [Move part of an image from Photoshop to Illustrator](move-part-of-an-image-from-photoshop-to-illustrator.md).

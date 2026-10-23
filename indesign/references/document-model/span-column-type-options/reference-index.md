@@ -1,4 +1,4 @@
-# InDesign — SpanColumnTypeOptions
+# InDesign - SpanColumnTypeOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SINGLE_COLUMN in InDesign. [SINGLE_COLUMN](singlecolumn.md).

@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: paths and shape operations
+# InDesign - EndnoteTextFrame: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — EndnoteTextFrame.
+Open when checking paths and shape operations in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

@@ -1,4 +1,4 @@
-# JavaScript APIs — DirConnection
+# JavaScript APIs - DirConnection
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

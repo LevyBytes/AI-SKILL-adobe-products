@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: generic, directional and special script identifiers
+# Shared Adobe platform - CTScript: generic, directional and special script identifiers
 
-Open when working with generic, directional and special script identifiers in Shared Adobe platform — CTScript.
+Open when working with generic, directional and special script identifiers in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-generic-special.json).
 

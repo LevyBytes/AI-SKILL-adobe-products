@@ -1,4 +1,4 @@
-# InDesign — About ink trapping
+# InDesign - About ink trapping
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How trapping works in InDesign. [How trapping works](how-trapping-works.md).

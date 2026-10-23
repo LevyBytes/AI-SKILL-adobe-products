@@ -1,4 +1,4 @@
-# InDesign — Collaborate and review
+# InDesign - Collaborate and review
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit with in copy in InDesign. [Edit with in copy references](edit-with-in-copy/reference-index.md).

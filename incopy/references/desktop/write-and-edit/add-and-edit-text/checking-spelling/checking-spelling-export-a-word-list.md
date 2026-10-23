@@ -1,4 +1,4 @@
-# Checking spelling — Export a word list
+# Checking spelling - Export a word list
 
 Word lists can be exported to a text file (.txt) and then imported into an InCopy user dictionary. In the text file, separate words with a space, tab, or paragraph return. Added words and removed words can be exported; ignored words cannot, because they apply only during the current session.
 

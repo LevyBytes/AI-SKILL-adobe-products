@@ -1,4 +1,4 @@
-# Photoshop — Apply painting techniques
+# Photoshop - Apply painting techniques
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Brushes and presets in Photoshop. [Brushes and presets](brushes-and-presets.md).

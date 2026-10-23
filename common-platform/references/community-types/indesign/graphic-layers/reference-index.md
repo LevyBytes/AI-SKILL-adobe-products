@@ -1,4 +1,4 @@
-# Shared Adobe platform — GraphicLayers
+# Shared Adobe platform - GraphicLayers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GraphicLayers collection iteration in Shared Adobe platform. [GraphicLayers collection iteration](collection-iteration.md).

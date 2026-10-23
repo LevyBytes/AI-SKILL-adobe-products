@@ -1,4 +1,4 @@
-# Premiere Pro — Edit VR content
+# Premiere Pro - Edit VR content
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 360-degree panning in Premiere Pro. [360-degree panning](360-degree-panning.md).

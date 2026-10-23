@@ -1,4 +1,4 @@
-# Premiere Pro — Track
+# Premiere Pro - Track
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Track object in Premiere Pro. [Track object](track-object.md).

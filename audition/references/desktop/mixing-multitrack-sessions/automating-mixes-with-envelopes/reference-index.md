@@ -1,4 +1,4 @@
-# Audition — Automating mixes with envelopes
+# Audition - Automating mixes with envelopes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust automation with keyframes in Audition. [Adjust automation with keyframes](adjust-automation-with-keyframes.md).

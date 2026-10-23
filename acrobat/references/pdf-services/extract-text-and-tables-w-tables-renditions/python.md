@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [extract-text-table-info-with-renditions-from-pdf.py](../examples/python/extract-text-table-info-with-renditions-from-pdf/extract-text-table-info-with-renditions-from-pdf.py)
+- [extract-text-table-info-with-renditions-from-pdf setup and source](../examples/python/extract-text-table-info-with-renditions-from-pdf/extract-text-table-info-with-renditions-from-pdf-setup.md)

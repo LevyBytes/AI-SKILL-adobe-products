@@ -1,4 +1,4 @@
-# window.NamedNodeMap — removeNamedItem(name)
+# window.NamedNodeMap - removeNamedItem(name)
 
 | Param | Type |
 | --- | --- |

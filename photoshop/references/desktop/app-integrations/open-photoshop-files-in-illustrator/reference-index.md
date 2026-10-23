@@ -1,4 +1,4 @@
-# Photoshop — Open Photoshop files in Illustrator
+# Photoshop - Open Photoshop files in Illustrator
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Embed a Photoshop image into an existing Illustrator file in Photoshop. [Embed a Photoshop image into an existing Illustrator file](embed-a-photoshop-image-into-an-existing-illustrator-file.md).

@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: xml structure, rules and validation
+# InDesign - InDesign document object model: xml structure, rules and validation
 
-Open when working with xml structure, rules and validation in InDesign — InDesign document object model.
+Open when working with xml structure, rules and validation in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-xml.json).
 

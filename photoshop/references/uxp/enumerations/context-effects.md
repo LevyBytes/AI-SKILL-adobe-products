@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: filter and effect controls
+# Photoshop - Enumerations: filter and effect controls
 
-Open when working with filter and effect controls in Photoshop — Enumerations.
+Open when working with filter and effect controls in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-effects.json).
 

@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — abort()
+# window.XMLHttpRequest - abort()
 
 Cancels the request after it has been sent.
 Aborting a request moves readyState to UNSENT(0) and changes the request status code to 0.

@@ -1,4 +1,4 @@
-# window.Element — shadowRoot : `ShadowRoot`
+# window.Element - shadowRoot : `ShadowRoot`
 
 **Read only**
 [ Requires a feature flag: set `enableSWCSupport` under the plugin manifest's featureFlags section before using it. ]

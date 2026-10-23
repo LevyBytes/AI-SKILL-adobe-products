@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: application, preferences and host integration
+# Shared Adobe platform - Photoshop: application, preferences and host integration
 
-Open when working with application, preferences and host integration in Shared Adobe platform — Photoshop.
+Open when working with application, preferences and host integration in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-application.json).
 

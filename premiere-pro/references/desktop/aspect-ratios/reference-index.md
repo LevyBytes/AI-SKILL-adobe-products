@@ -1,4 +1,4 @@
-# Premiere Pro — Aspect ratios
+# Premiere Pro - Aspect ratios
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Anamorphic (2.40:1) in Premiere Pro. [Anamorphic (2.40:1)](anamorphic-2-40-1.md).

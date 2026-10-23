@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: apply and manage styles
+# Shared Adobe platform - FindTextPreference: apply and manage styles
 
-Open when checking apply and manage styles in Shared Adobe platform — FindTextPreference.
+Open when checking apply and manage styles in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

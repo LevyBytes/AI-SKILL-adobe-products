@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [CombinePDF.java](../examples/java/combine-pdf/CombinePDF.java)
+- [combine-pdf setup and source](../examples/java/combine-pdf/combine-pdf-setup.md)

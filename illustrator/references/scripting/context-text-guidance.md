@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: text objects, threads and measurement
+# Illustrator - Scripting APIs: text objects, threads and measurement
 
-Open when working with text objects, threads and measurement in Illustrator — Scripting APIs.
+Open when working with text objects, threads and measurement in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-text-guidance.json).
 

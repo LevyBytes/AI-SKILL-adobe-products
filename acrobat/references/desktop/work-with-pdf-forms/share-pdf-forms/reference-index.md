@@ -1,4 +1,4 @@
-# Acrobat — Share PDF forms
+# Acrobat - Share PDF forms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Print PDF forms in Acrobat. [Print PDF forms](print-pdf-forms.md).

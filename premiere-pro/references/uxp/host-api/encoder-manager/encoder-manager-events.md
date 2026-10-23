@@ -1,4 +1,4 @@
-# EncoderManager — Events
+# EncoderManager - Events
 
 | Name | Version | Description |
 | --- | --- | --- |

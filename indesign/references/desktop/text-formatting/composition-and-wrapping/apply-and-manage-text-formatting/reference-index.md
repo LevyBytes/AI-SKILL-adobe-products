@@ -1,4 +1,4 @@
-# InDesign — Apply and manage text formatting
+# InDesign - Apply and manage text formatting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access dedicated formatting panels in InDesign. [Access dedicated formatting panels](access-dedicated-formatting-panels.md).

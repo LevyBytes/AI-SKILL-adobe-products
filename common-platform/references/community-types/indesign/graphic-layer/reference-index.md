@@ -1,4 +1,4 @@
-# Shared Adobe platform — GraphicLayer
+# Shared Adobe platform - GraphicLayer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GraphicLayer declaration in Shared Adobe platform. [GraphicLayer declaration](declaration.md).

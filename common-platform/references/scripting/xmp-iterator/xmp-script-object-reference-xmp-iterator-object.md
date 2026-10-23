@@ -1,4 +1,4 @@
-# XMPScript object reference — XMPIterator object
+# XMPScript object reference - XMPIterator object
 
 Created by calling XMPMeta.iterator. It traverses an XMPMeta object's properties and qualifiers recursively; each item returned is XMPProperty object.
 

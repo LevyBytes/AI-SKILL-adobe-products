@@ -2,6 +2,6 @@
   {"topic": "Namespace object constructor", "file": "references/scripting/namespace/namespace-object-constructor.md", "summary": "Open when looking up Namespace object constructor in Shared Adobe platform.", "keywords": ["Namespace object constructor"]},
   {"topic": "Namespace.prefix", "file": "references/scripting/namespace/prefix.md", "summary": "Open when looking up Namespace.prefix in Shared Adobe platform.", "keywords": ["Namespace.prefix"]},
   {"topic": "Namespace.uri", "file": "references/scripting/namespace/uri.md", "summary": "Open when looking up Namespace.uri in Shared Adobe platform.", "keywords": ["Namespace.uri"]},
-  {"topic": "XML Object Reference — Namespace object", "file": "references/scripting/namespace/xml-object-reference-namespace-object.md", "summary": "Open when looking up XML Object Reference — Namespace object in Shared Adobe platform.", "keywords": ["XML Object Reference — Namespace object"]},
+  {"topic": "XML Object Reference - Namespace object", "file": "references/scripting/namespace/xml-object-reference-namespace-object.md", "summary": "Open when looking up XML Object Reference - Namespace object in Shared Adobe platform.", "keywords": ["XML Object Reference - Namespace object"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

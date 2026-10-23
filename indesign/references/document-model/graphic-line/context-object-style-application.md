@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: object styles and enabled attributes
+# InDesign - GraphicLine: object styles and enabled attributes
 
-Open when checking object styles and enabled attributes in InDesign — GraphicLine.
+Open when checking object styles and enabled attributes in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-object-style-application.json).
 

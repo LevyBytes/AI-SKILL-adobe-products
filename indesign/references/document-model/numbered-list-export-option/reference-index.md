@@ -1,4 +1,4 @@
-# InDesign — NumberedListExportOption
+# InDesign - NumberedListExportOption
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AS_TEXT in InDesign. [AS_TEXT](astext.md).

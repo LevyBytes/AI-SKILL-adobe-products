@@ -1,6 +1,6 @@
-# InDesign — Text column: generate qr codes
+# InDesign - Text column: generate qr codes
 
-Open when checking generate qr codes in InDesign — Text column.
+Open when checking generate qr codes in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

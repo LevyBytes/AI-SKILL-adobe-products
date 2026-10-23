@@ -1,4 +1,4 @@
-# InDesign — ChangecaseMode
+# InDesign - ChangecaseMode
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LOWERCASE in InDesign. [LOWERCASE](lowercase.md).

@@ -1,4 +1,4 @@
-# AEGP Suites — Working With Text Outlines
+# AEGP Suites - Working With Text Outlines
 
 Through the `AEGP_TextLayerSuite` you can reach the real outlines of the text that text layers display.
 

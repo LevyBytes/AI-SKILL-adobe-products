@@ -1,6 +1,6 @@
-# Shared Adobe platform — ObjectStyle: fill, stroke and transparency
+# Shared Adobe platform - ObjectStyle: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in Shared Adobe platform — ObjectStyle.
+Open when checking fill, stroke and transparency in Shared Adobe platform - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

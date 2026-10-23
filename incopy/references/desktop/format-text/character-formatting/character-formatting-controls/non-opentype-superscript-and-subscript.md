@@ -1,4 +1,4 @@
-# Formatting characters — Make characters superscript or subscript in a non-OpenType font
+# Formatting characters - Make characters superscript or subscript in a non-OpenType font
 
 Select the target text. In the Character panel menu or the Control panel, choose Superscript or Subscript.
 

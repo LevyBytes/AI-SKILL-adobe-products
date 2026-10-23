@@ -6,8 +6,6 @@ For guidance on calling these APIs, consult the [API usage guide](https://raw.gi
 
 ## Apply Watermark on specified pages
 
-Complete example files:
+Example setup and source:
 
-- [pdf-watermark-with-options.cjs](examples/node/watermark-selected-ranges/pdf-watermark-with-options.cjs)
-- [dependencies.cjs](examples/node/watermark-selected-ranges/dependencies.cjs)
-- [helpers.cjs](examples/node/watermark-selected-ranges/helpers.cjs)
+- [watermark-selected-ranges setup and source](examples/node/watermark-selected-ranges/watermark-selected-ranges-setup.md)

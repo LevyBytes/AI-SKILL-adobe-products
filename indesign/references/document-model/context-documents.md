@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: documents, books and persistence
+# InDesign - InDesign document object model: documents, books and persistence
 
-Open when working with documents, books and persistence in InDesign — InDesign document object model.
+Open when working with documents, books and persistence in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-documents.json).
 

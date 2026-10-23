@@ -1,6 +1,6 @@
-# InDesign — Insertion point: paths and shape operations
+# InDesign - Insertion point: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Insertion point.
+Open when checking paths and shape operations in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

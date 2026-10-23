@@ -1,4 +1,4 @@
-# Shared Adobe platform — Cells
+# Shared Adobe platform - Cells
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Cells collection iteration in Shared Adobe platform. [Cells collection iteration](collection-iteration.md).

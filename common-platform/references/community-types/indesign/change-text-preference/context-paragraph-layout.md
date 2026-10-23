@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTextPreference: paragraph alignment and spacing
+# Shared Adobe platform - ChangeTextPreference: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in Shared Adobe platform — ChangeTextPreference.
+Open when checking paragraph alignment and spacing in Shared Adobe platform - ChangeTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

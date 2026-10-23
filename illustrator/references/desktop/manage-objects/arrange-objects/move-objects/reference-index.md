@@ -1,4 +1,4 @@
-# Illustrator — Move objects
+# Illustrator - Move objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Move an object by dragging in Illustrator. [Move an object by dragging](move-an-object-by-dragging.md).

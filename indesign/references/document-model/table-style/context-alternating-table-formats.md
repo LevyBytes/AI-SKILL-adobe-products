@@ -1,6 +1,6 @@
-# InDesign — TableStyle: alternating row and column formats
+# InDesign - TableStyle: alternating row and column formats
 
-Open when checking alternating row and column formats in InDesign — TableStyle.
+Open when checking alternating row and column formats in InDesign - TableStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-alternating-table-formats.json).
 

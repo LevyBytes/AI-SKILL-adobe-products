@@ -1,4 +1,4 @@
-# Illustrator — Lock and hide layers
+# Illustrator - Lock and hide layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete layers in Illustrator. [Delete layers](delete-layers.md).

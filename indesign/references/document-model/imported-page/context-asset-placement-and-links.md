@@ -1,6 +1,6 @@
-# InDesign — ImportedPage: place and link external assets
+# InDesign - ImportedPage: place and link external assets
 
-Open when checking place and link external assets in InDesign — ImportedPage.
+Open when checking place and link external assets in InDesign - ImportedPage.
 
 Open when selecting an exact API member: [Topic catalog](context-asset-placement-and-links.json).
 

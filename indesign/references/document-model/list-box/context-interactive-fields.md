@@ -1,6 +1,6 @@
-# InDesign — List box: interactive fields and behaviors
+# InDesign - List box: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — List box.
+Open when checking interactive fields and behaviors in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

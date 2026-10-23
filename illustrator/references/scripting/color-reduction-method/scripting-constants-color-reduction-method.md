@@ -1,4 +1,4 @@
-# Scripting Constants — ColorReductionMethod
+# Scripting Constants - ColorReductionMethod
 
 For exported GIF and PNG8 artwork, this enum chooses how the color count is reduced.
 

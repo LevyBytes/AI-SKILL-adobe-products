@@ -1,4 +1,4 @@
-# After Effects — Advanced 3 d renderer
+# After Effects - Advanced 3 d renderer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advanced 3D renderer in After Effects. [Advanced 3D renderer](advanced-3-d-renderer.md).

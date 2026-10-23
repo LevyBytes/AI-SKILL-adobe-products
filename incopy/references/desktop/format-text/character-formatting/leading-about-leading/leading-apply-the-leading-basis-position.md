@@ -1,4 +1,4 @@
-# Leading — Apply the leading basis position
+# Leading - Apply the leading basis position
 
 When grid alignment is None, leading is applied by default from the top or right of the current line's embox to the top or right of the next line's embox. Raising the leading value applies the new value to every selected line.
 

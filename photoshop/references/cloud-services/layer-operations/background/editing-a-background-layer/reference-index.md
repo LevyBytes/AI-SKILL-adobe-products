@@ -1,4 +1,4 @@
-# Photoshop — Editing a background layer
+# Photoshop - Editing a background layer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up V1 Approach in Photoshop. [V1 Approach](v1-approach.md).

@@ -1,6 +1,6 @@
-# InDesign — XmlStory: read and edit text
+# InDesign - XmlStory: read and edit text
 
-Open when checking read and edit text in InDesign — XmlStory.
+Open when checking read and edit text in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-text-content.json).
 

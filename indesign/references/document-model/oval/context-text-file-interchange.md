@@ -1,6 +1,6 @@
-# InDesign — Oval: import and export text documents
+# InDesign - Oval: import and export text documents
 
-Open when checking import and export text documents in InDesign — Oval.
+Open when checking import and export text documents in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-text-file-interchange.json).
 

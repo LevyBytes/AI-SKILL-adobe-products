@@ -1,4 +1,4 @@
-# Premiere Pro — Color mode in Premiere (beta)
+# Premiere Pro - Color mode in Premiere (beta)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Public Beta in Premiere Pro. [About Public Beta](about-public-beta.md).

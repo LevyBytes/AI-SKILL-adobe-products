@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: cjk grids and composition
+# InDesign - Paragraph style: cjk grids and composition
 
-Open when checking cjk grids and composition in InDesign — Paragraph style.
+Open when checking cjk grids and composition in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: character, paragraph and nested styles
+# Shared Adobe platform - Indesign: character, paragraph and nested styles
 
-Open when working with character, paragraph and nested styles in Shared Adobe platform — Indesign.
+Open when working with character, paragraph and nested styles in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-text-styles.json).
 

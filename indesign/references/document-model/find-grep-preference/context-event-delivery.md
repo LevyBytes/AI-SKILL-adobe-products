@@ -1,6 +1,6 @@
-# InDesign — Find grep preference: events and listeners
+# InDesign - Find grep preference: events and listeners
 
-Open when checking events and listeners in InDesign — Find grep preference.
+Open when checking events and listeners in InDesign - Find grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

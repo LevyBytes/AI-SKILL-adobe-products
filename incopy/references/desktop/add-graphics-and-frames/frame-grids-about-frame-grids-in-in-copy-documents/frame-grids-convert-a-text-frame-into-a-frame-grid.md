@@ -1,4 +1,4 @@
-# Frame grids — Convert a text frame into a frame grid
+# Frame grids - Convert a text frame into a frame grid
 
 Choose File > Document Setup.
 

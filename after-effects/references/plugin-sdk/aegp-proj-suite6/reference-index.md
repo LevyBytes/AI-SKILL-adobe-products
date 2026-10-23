@@ -1,4 +1,4 @@
-# After Effects — AEGP_ProjSuite6
+# After Effects - AEGP_ProjSuite6
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_GetIndProject in After Effects. [AEGP_GetIndProject](aegp-get-ind-project.md).

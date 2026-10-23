@@ -1,4 +1,4 @@
-# InDesign — Create documents with presets
+# InDesign - Create documents with presets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a document using a preset in InDesign. [Create a document using a preset](create-a-document-using-a-preset.md).

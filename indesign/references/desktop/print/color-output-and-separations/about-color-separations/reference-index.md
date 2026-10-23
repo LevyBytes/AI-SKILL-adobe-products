@@ -1,4 +1,4 @@
-# InDesign — About color separations
+# InDesign - About color separations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Host-based separations in InDesign. [Host-based separations](host-based-separations.md).

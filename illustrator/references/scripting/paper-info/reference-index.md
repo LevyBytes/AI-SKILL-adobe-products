@@ -1,4 +1,4 @@
-# Illustrator — PaperInfo
+# Illustrator - PaperInfo
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PaperInfo.customPaper in Illustrator. [PaperInfo.customPaper](custom-paper.md).

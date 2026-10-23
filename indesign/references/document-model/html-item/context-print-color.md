@@ -1,6 +1,6 @@
-# InDesign — Html item: output color, screening and overprint
+# InDesign - Html item: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — Html item.
+Open when checking output color, screening and overprint in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

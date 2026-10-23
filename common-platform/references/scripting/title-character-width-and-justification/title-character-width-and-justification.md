@@ -1,4 +1,4 @@
-# Managing control titles — Title character width and justification
+# Managing control titles - Title character width and justification
 
 ```javascript
 droplist.titleLayout = { alignment: ["left", "center"], characters: 20 };

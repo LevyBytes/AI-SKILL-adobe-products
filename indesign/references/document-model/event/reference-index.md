@@ -1,4 +1,4 @@
-# InDesign — Event
+# InDesign - Event
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AFTER_ACTIVATE in InDesign. [AFTER_ACTIVATE](afteractivate.md).

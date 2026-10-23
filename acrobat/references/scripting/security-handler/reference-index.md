@@ -1,4 +1,4 @@
-# Acrobat — Security handler
+# Acrobat - Security handler
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up appearances in Acrobat. [appearances](appearances.md).
@@ -9,7 +9,7 @@
 - Open when looking up docEncrypt in Acrobat. [docEncrypt](doc-encrypt.md).
 - Open when looking up Encryption-handler login and cleanup in Acrobat. [Encryption-handler login and cleanup](encryption-handler-login.md).
 - Open when looking up isLoggedIn in Acrobat. [isLoggedIn](is-logged-in.md).
-- Open when looking up JavaScript APIs — SecurityHandler in Acrobat. [JavaScript APIs — SecurityHandler](java-script-apis-security-handler.md).
+- Open when looking up JavaScript APIs - SecurityHandler in Acrobat. [JavaScript APIs - SecurityHandler](java-script-apis-security-handler.md).
 - Open when looking up loginName in Acrobat. [loginName](login-name.md).
 - Open when looking up loginPath in Acrobat. [loginPath](login-path.md).
 - Open when looking up logout in Acrobat. [logout](logout.md).

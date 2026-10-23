@@ -1,4 +1,4 @@
-# Illustrator — Image Trace Guide
+# Illustrator - Image Trace Guide
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Example request body in Illustrator. [Example request body](example-request-body.md).

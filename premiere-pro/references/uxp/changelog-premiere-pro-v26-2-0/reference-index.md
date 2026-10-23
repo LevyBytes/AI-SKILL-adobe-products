@@ -1,4 +1,4 @@
-# Premiere Pro — Changelog premiere pro v26 2 0
+# Premiere Pro - Changelog premiere pro v26 2 0
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Documentation update in Premiere Pro. [Documentation update](documentation-update.md).

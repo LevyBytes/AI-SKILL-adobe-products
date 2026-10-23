@@ -1,4 +1,4 @@
-# Hyperlinks — Create a hyperlink to a web page (URL)
+# Hyperlinks - Create a hyperlink to a web page (URL)
 
 Several workflows can create URL hyperlinks. For any specified URL, valid Internet resource protocols include http://, file://, ftp://, and mailto://.
 

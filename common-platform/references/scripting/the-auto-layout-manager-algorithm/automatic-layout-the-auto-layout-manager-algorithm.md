@@ -1,4 +1,4 @@
-# Automatic layout — The AutoLayoutManager algorithm
+# Automatic layout - The AutoLayoutManager algorithm
 
 When a script creates a Window object with elements and shows it for the first time, the visible platform UI window and controls are created. If the script has not supplied explicit control placement, all controls begin at [0, 0] inside their containers and use default dimensions. Before the window becomes visible, the layout manager's layout method assigns positions and sizes to all elements and containers.
 

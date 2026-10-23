@@ -1,4 +1,4 @@
-# Sample Projects — Sample Project Descriptions
+# Sample Projects - Sample Project Descriptions
 
 | Project | Description |
 | --- | --- |

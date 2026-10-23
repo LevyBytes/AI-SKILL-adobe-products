@@ -1,6 +1,6 @@
-# InDesign — Sound: paths and shape operations
+# InDesign - Sound: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Sound.
+Open when checking paths and shape operations in InDesign - Sound.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

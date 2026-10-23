@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Change frame rate for a composition
+# Importing and interpreting footage items - Change frame rate for a composition
 
 Select Composition > Composition Settings.
 

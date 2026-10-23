@@ -1,4 +1,4 @@
-# InDesign — Create a running list with paragraph styles
+# InDesign - Create a running list with paragraph styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply style to the content in InDesign. [Apply style to the content](apply-style-to-the-content.md).

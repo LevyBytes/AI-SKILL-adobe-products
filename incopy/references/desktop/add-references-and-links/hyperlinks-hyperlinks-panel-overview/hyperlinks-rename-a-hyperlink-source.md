@@ -1,4 +1,4 @@
-# Hyperlinks — Rename a hyperlink source
+# Hyperlinks - Rename a hyperlink source
 
 Renaming a hyperlink source changes its displayed name in the Hyperlinks panel.
 

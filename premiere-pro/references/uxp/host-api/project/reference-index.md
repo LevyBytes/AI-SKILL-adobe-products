@@ -1,4 +1,4 @@
-# Premiere Pro — Project
+# Premiere Pro - Project
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up close in Premiere Pro. [close](close.md).
@@ -25,7 +25,7 @@
 - Open when looking up open in Premiere Pro. [open](open.md).
 - Open when looking up openSequence in Premiere Pro. [openSequence](open-sequence.md).
 - Open when looking up pauseGrowing in Premiere Pro. [pauseGrowing](pause-growing.md).
-- Open when looking up Project — Properties in Premiere Pro. [Project — Properties](project-properties.md).
+- Open when looking up Project - Properties in Premiere Pro. [Project - Properties](project-properties.md).
 - Open when looking up save in Premiere Pro. [save](save.md).
 - Open when looking up saveAs in Premiere Pro. [saveAs](save-as.md).
 - Open when looking up setActiveSequence in Premiere Pro. [setActiveSequence](set-active-sequence.md).

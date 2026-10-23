@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — responseType : `string`
+# window.XMLHttpRequest - responseType : `string`
 
 Response payloads use this setting to indicate the data format.
 The available choices are:
@@ -10,7 +10,7 @@ The available choices are:
      "document"       : HTML Document or XML Document selected from the received data's MIME type.
      "json"           : Object produced by parsing the received data contents as JSON.
 
-## window.XMLHttpRequest — responseType
+## window.XMLHttpRequest - responseType
 
 **Throws**:
 

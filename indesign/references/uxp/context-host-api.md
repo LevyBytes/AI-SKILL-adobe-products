@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: host application api and object model
+# InDesign - UXP plugins and APIs: host application api and object model
 
-Open when working with host application api and object model in InDesign — UXP plugins and APIs.
+Open when working with host application api and object model in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-host-api.json).
 

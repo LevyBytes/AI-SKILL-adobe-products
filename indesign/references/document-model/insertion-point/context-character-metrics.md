@@ -1,6 +1,6 @@
-# InDesign — Insertion point: character spacing and geometry
+# InDesign - Insertion point: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Insertion point.
+Open when checking character spacing and geometry in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

@@ -1,4 +1,4 @@
-# Premiere Pro — Track item
+# Premiere Pro - Track item
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TrackItem object in Premiere Pro. [TrackItem object](track-item-object.md).

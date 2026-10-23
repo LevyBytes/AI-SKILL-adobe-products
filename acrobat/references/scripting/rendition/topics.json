@@ -3,7 +3,7 @@
   {"topic": "doc", "file": "references/scripting/rendition/doc.md", "summary": "Open when looking up doc in Acrobat.", "keywords": ["doc"]},
   {"topic": "fileName", "file": "references/scripting/rendition/file-name.md", "summary": "Open when looking up fileName in Acrobat.", "keywords": ["fileName"]},
   {"topic": "getPlaySettings", "file": "references/scripting/rendition/get-play-settings.md", "summary": "Open when looking up getPlaySettings in Acrobat.", "keywords": ["getPlaySettings"]},
-  {"topic": "JavaScript APIs — Rendition", "file": "references/scripting/rendition/java-script-apis-rendition.md", "summary": "Open when looking up JavaScript APIs — Rendition in Acrobat.", "keywords": ["JavaScript APIs — Rendition"]},
+  {"topic": "JavaScript APIs - Rendition", "file": "references/scripting/rendition/java-script-apis-rendition.md", "summary": "Open when looking up JavaScript APIs - Rendition in Acrobat.", "keywords": ["JavaScript APIs - Rendition"]},
   {"topic": "select", "file": "references/scripting/rendition/select.md", "summary": "Open when looking up select in Acrobat.", "keywords": ["select"]},
   {"topic": "testCriteria", "file": "references/scripting/rendition/test-criteria.md", "summary": "Open when looking up testCriteria in Acrobat.", "keywords": ["testCriteria"]},
   {"topic": "uiName", "file": "references/scripting/rendition/ui-name.md", "summary": "Open when looking up uiName in Acrobat.", "keywords": ["uiName"]},

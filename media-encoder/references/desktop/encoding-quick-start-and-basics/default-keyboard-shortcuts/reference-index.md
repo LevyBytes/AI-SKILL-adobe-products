@@ -1,4 +1,4 @@
-# Media Encoder — Default keyboard shortcuts
+# Media Encoder - Default keyboard shortcuts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Application shortcuts in Media Encoder. [Application shortcuts](application-shortcuts.md).

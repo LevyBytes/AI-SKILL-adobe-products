@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: artboard structure and migration
+# Photoshop - Cloud service APIs: artboard structure and migration
 
-Open when working with artboard structure and migration in Photoshop — Cloud service APIs.
+Open when working with artboard structure and migration in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-artboards.json).
 

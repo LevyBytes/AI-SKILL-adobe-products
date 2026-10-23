@@ -1,4 +1,4 @@
-# Premiere Pro — Manage bins
+# Premiere Pro - Manage bins
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a custom bin in Premiere Pro. [Create a custom bin](create-a-custom-bin.md).

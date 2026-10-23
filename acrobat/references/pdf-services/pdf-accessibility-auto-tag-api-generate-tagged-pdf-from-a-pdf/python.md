@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [autotag-pdf.py](../examples/python/autotag-pdf/autotag-pdf.py)
+- [autotag-pdf setup and source](../examples/python/autotag-pdf/autotag-pdf-setup.md)

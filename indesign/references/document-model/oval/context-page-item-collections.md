@@ -1,6 +1,6 @@
-# InDesign — Oval: page item collections
+# InDesign - Oval: page item collections
 
-Open when checking page item collections in InDesign — Oval.
+Open when checking page item collections in InDesign - Oval.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

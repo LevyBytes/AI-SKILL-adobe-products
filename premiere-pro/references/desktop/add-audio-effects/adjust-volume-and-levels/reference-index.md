@@ -1,4 +1,4 @@
-# Premiere Pro — Adjust volume and levels
+# Premiere Pro - Adjust volume and levels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust gain in audio in Premiere Pro. [Adjust gain in audio](adjust-gain-in-audio.md).

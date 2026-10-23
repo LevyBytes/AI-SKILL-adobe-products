@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: pages, spreads and layout rules
+# Shared Adobe platform - Indesign: pages, spreads and layout rules
 
-Open when working with pages, spreads and layout rules in Shared Adobe platform — Indesign.
+Open when working with pages, spreads and layout rules in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-page-layout.json).
 

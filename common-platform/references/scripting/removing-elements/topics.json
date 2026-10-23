@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "ScriptUI programming model — Removing elements", "file": "references/scripting/removing-elements/script-ui-programming-model-removing-elements.md", "summary": "Open when looking up ScriptUI programming model — Removing elements in Shared Adobe platform.", "keywords": ["ScriptUI programming model — Removing elements"]},
+  {"topic": "ScriptUI programming model - Removing elements", "file": "references/scripting/removing-elements/script-ui-programming-model-removing-elements.md", "summary": "Open when looking up ScriptUI programming model - Removing elements in Shared Adobe platform.", "keywords": ["ScriptUI programming model - Removing elements"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

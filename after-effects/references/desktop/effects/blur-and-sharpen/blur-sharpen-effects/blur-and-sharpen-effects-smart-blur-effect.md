@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Smart Blur effect
+# Blur and Sharpen effects - Smart Blur effect
 
 Lines and edges hold their definition while the rest of the image softens under the Smart Blur effect. You might use it, for instance, to gently soften shaded regions while the crisp outlines of text and vector graphics stay sharp.
 

@@ -1,4 +1,4 @@
-# InDesign — TagType
+# InDesign - TagType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TAG_ARTIFACT in InDesign. [TAG_ARTIFACT](tagartifact.md).

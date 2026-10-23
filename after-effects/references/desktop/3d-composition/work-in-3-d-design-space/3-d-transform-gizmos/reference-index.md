@@ -1,4 +1,4 @@
-# After Effects — 3D Transform Gizmos
+# After Effects - 3D Transform Gizmos
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Different axis modes in After Effects. [Different axis modes](different-axis-modes.md).

@@ -1,4 +1,4 @@
-# Viewing stories — Magnify by dragging
+# Viewing stories - Magnify by dragging
 
 Activate the Zoom tool, then drag a marquee around the area to enlarge.
 

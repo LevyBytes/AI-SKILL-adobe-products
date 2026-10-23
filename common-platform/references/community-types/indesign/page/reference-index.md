@@ -1,4 +1,4 @@
-# Shared Adobe platform — Page
+# Shared Adobe platform - Page
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Page declaration in Shared Adobe platform. [Page declaration](declaration.md).

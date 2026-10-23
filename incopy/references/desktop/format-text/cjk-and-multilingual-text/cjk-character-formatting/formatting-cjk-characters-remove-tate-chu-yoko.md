@@ -1,4 +1,4 @@
-# Formatting CJK characters — Remove tate-chu-yoko
+# Formatting CJK characters - Remove tate-chu-yoko
 
 Select the text whose tate-chu-yoko formatting should be removed, then use one of these methods.
 

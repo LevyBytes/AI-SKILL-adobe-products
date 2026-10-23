@@ -1,4 +1,4 @@
-# Acrobat — Unable to fill forms in acrobat
+# Acrobat - Unable to fill forms in acrobat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Form is non-interactive in Acrobat. [Form is non-interactive](form-is-non-interactive.md).

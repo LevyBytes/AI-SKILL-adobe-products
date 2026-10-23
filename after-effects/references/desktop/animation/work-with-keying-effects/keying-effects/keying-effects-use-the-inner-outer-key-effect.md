@@ -1,4 +1,4 @@
-# Keying effects — Use the Inner/Outer Key effect
+# Keying effects - Use the Inner/Outer Key effect
 
 Working with Inner/Outer Key starts with drawing a mask that marks the inner and outer edges of the object you mean to isolate. That mask can stay fairly loose—there's no need for it to sit precisely along the object's edges.
 
@@ -6,7 +6,7 @@ Beyond lifting a soft-edged object off its background, Inner/Outer Key also rewo
 
 Trace a single closed mask along the object's border, then choose that mask from the Foreground menu and leave the Background menu on None. Dial the Single Mask Highlight Radius to set how wide a border surrounds this mask. (Count on this approach only for objects whose edges are simple.)
 
-Trace two closed masks—an inner one just inside the object and an outer one just outside it. See that every fuzzy or doubtful patch of the object sits between the two. From the Foreground menu pick the inner mask, and assign the outer one through the Background menu.
+Trace two closed masks: an inner one just inside the object and an outer one just outside it. See that every fuzzy or doubtful patch of the object sits between the two. From the Foreground menu pick the inner mask, and assign the outer one through the Background menu.
 
 See that every mask has its mask mode set to None.
 

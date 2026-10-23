@@ -1,4 +1,4 @@
-# Importing graphics — Relink files with different file extensions
+# Importing graphics - Relink files with different file extensions
 
 Relink File Extension replaces images according to file extension. For instance, several JPEG images in a document can be replaced by PSD files. The replacement files with the other extensions must be stored in the same folder as the linked files that are being replaced.
 

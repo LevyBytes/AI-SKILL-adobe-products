@@ -1,4 +1,4 @@
-# navigator.clipboard — read()
+# navigator.clipboard - read()
 
 Retrieve clipboard data.
 

@@ -1,4 +1,4 @@
-# Structuring documents for XML — Load a DTD file
+# Structuring documents for XML - Load a DTD file
 
 Loading a DTD file embeds that file in the InDesign document.
 

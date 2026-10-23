@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: launch, quit and select artwork
+# Illustrator - Scripting APIs: launch, quit and select artwork
 
-Open when working with launch, quit and select artwork in Illustrator — Scripting APIs.
+Open when working with launch, quit and select artwork in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-script-application.json).
 

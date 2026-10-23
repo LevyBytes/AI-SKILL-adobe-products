@@ -1,4 +1,4 @@
-# Shared Adobe platform — ObjectStyleGroups
+# Shared Adobe platform - ObjectStyleGroups
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ObjectStyleGroups collection iteration in Shared Adobe platform. [ObjectStyleGroups collection iteration](collection-iteration.md).

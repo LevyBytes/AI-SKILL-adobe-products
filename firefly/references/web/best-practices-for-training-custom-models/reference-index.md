@@ -1,4 +1,4 @@
-# Firefly — Best practices for training custom models
+# Firefly - Best practices for training custom models
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Review Captions in Firefly. [Review Captions](review-captions.md).

@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Supported import formats
+# Importing and interpreting footage items - Supported import formats
 
 A handful of filename extensions — MOV, AVI, MXF, FLV, and F4V among them — name a container file format rather than one specific audio, video, or image data format. The data packed inside a container file may be encoded with all sorts of compression and encoding schemes. After Effects will import the container files themselves, but whether it can import the data they hold turns on which codecs (decoders, specifically) you've got installed.
 

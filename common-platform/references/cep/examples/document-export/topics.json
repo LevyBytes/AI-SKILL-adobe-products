@@ -1,7 +1,6 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
   {"topic": "CEP document export example", "file": "references/cep/examples/document-export/example-guide.md", "summary": "Open when looking up CEP document export example in Shared Adobe platform.", "keywords": ["CEP document export example"]},
   {"topic": "Client references", "file": "references/cep/examples/document-export/client/reference-index.md", "summary": "Open when looking up Client in Shared Adobe platform.", "keywords": ["Client references"]},
-  {"topic": "Csxs references", "file": "references/cep/examples/document-export/CSXS/reference-index.md", "summary": "Open when looking up Csxs in Shared Adobe platform.", "keywords": ["Csxs references"]},
   {"topic": "Host references", "file": "references/cep/examples/document-export/host/reference-index.md", "summary": "Open when looking up Host in Shared Adobe platform.", "keywords": ["Host references"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

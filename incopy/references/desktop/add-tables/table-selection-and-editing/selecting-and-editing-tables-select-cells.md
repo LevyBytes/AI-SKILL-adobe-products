@@ -1,4 +1,4 @@
-# Selecting and editing tables — Select cells
+# Selecting and editing tables - Select cells
 
 With the Type tool active, use one of these methods:
 

@@ -1,4 +1,4 @@
-# InDesign — FitDimension
+# InDesign - FitDimension
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FIT1024X768 in InDesign. [FIT1024X768](fit1024-x768.md).

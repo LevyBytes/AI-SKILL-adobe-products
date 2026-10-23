@@ -1,4 +1,4 @@
-# Scripting Constants — AutoLeadingType
+# Scripting Constants - AutoLeadingType
 
 AutoLeadingType selects an automatic leading mode.
 

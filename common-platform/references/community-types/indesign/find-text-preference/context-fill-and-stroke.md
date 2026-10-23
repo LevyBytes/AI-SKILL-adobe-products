@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: fill, stroke and transparency
+# Shared Adobe platform - FindTextPreference: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in Shared Adobe platform — FindTextPreference.
+Open when checking fill, stroke and transparency in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

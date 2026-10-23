@@ -1,6 +1,6 @@
-# InDesign — Change text preference: cjk grids and composition
+# InDesign - Change text preference: cjk grids and composition
 
-Open when checking cjk grids and composition in InDesign — Change text preference.
+Open when checking cjk grids and composition in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

@@ -1,4 +1,4 @@
-# Acrobat — Personalize digital signatures
+# Acrobat - Personalize digital signatures
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up macOS in Acrobat. [macOS](mac-os.md).

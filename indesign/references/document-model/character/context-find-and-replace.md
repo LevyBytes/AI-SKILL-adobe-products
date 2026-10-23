@@ -1,6 +1,6 @@
-# InDesign — Character: find, replace and transliterate
+# InDesign - Character: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Character.
+Open when checking find, replace and transliterate in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

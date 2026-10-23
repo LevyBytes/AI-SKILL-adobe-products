@@ -1,4 +1,4 @@
-# InDesign — Customize menus
+# InDesign - Customize menus
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a custom menu set in InDesign. [Create a custom menu set](create-a-custom-menu-set.md).

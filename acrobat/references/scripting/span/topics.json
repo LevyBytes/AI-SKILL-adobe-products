@@ -4,7 +4,7 @@
   {"topic": "fontStretch", "file": "references/scripting/span/font-stretch.md", "summary": "Open when looking up fontStretch in Acrobat.", "keywords": ["fontStretch"]},
   {"topic": "fontStyle", "file": "references/scripting/span/font-style.md", "summary": "Open when looking up fontStyle in Acrobat.", "keywords": ["fontStyle"]},
   {"topic": "fontWeight", "file": "references/scripting/span/font-weight.md", "summary": "Open when looking up fontWeight in Acrobat.", "keywords": ["fontWeight"]},
-  {"topic": "JavaScript APIs — Span", "file": "references/scripting/span/java-script-apis-span.md", "summary": "Open when looking up JavaScript APIs — Span in Acrobat.", "keywords": ["JavaScript APIs — Span"]},
+  {"topic": "JavaScript APIs - Span", "file": "references/scripting/span/java-script-apis-span.md", "summary": "Open when looking up JavaScript APIs - Span in Acrobat.", "keywords": ["JavaScript APIs - Span"]},
   {"topic": "strikethrough", "file": "references/scripting/span/strikethrough.md", "summary": "Open when looking up strikethrough in Acrobat.", "keywords": ["strikethrough"]},
   {"topic": "subscript", "file": "references/scripting/span/subscript.md", "summary": "Open when looking up subscript in Acrobat.", "keywords": ["subscript"]},
   {"topic": "superscript", "file": "references/scripting/span/superscript.md", "summary": "Open when looking up superscript in Acrobat.", "keywords": ["superscript"]},

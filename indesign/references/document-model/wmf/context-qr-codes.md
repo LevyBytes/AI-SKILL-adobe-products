@@ -1,6 +1,6 @@
-# InDesign — WMF: generate qr codes
+# InDesign - WMF: generate qr codes
 
-Open when checking generate qr codes in InDesign — WMF.
+Open when checking generate qr codes in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

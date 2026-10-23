@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Apply Interpret Footage settings to multiple footage items
+# Importing and interpreting footage items - Apply Interpret Footage settings to multiple footage items
 
 Getting different footage items onto the same settings is a matter of copying one item's interpretation settings and applying them to the rest.
 

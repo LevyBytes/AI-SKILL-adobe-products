@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: align, space and transform selected objects
+# Shared Adobe platform - Document: align, space and transform selected objects
 
-Open when working with align, space and transform selected objects in Shared Adobe platform — Document.
+Open when working with align, space and transform selected objects in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-geometry.json).
 

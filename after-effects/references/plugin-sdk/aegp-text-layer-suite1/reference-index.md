@@ -1,4 +1,4 @@
-# After Effects — AEGP_TextLayerSuite1
+# After Effects - AEGP_TextLayerSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_DisposeTextOutlines in After Effects. [AEGP_DisposeTextOutlines](aegp-dispose-text-outlines.md).

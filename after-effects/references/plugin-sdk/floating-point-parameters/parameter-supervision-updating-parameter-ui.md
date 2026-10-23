@@ -1,4 +1,4 @@
-# Parameter Supervision — Updating Parameter UI
+# Parameter Supervision - Updating Parameter UI
 
 Apply `PF_ParamFlag_SUPERVISE` to even a single parameter and After Effects responds by delivering `PF_Cmd_UPDATE_PARAMS_UI`, exactly as though `PF_OutFlag_SEND_UPDATE_PARAMS_UI` had been set.
 

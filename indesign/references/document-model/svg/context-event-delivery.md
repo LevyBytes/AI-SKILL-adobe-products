@@ -1,6 +1,6 @@
-# InDesign — SVG: events and listeners
+# InDesign - SVG: events and listeners
 
-Open when checking events and listeners in InDesign — SVG.
+Open when checking events and listeners in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

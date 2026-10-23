@@ -1,4 +1,4 @@
-# InDesign — ContainerType
+# InDesign - ContainerType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ALT in InDesign. [ALT](alt.md).

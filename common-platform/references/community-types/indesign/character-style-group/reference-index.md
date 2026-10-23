@@ -1,4 +1,4 @@
-# Shared Adobe platform — CharacterStyleGroup
+# Shared Adobe platform - CharacterStyleGroup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CharacterStyleGroup declaration in Shared Adobe platform. [CharacterStyleGroup declaration](declaration.md).

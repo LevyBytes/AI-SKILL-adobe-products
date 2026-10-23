@@ -1,4 +1,4 @@
-# Importing graphics — Drag a graphic into a frame
+# Importing graphics - Drag a graphic into a frame
 
 Use one of these approaches:
 

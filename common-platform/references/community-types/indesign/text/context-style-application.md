@@ -1,6 +1,6 @@
-# Shared Adobe platform — Text: apply and manage styles
+# Shared Adobe platform - Text: apply and manage styles
 
-Open when checking apply and manage styles in Shared Adobe platform — Text.
+Open when checking apply and manage styles in Shared Adobe platform - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

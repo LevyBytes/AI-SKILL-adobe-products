@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: baseline grids and layout guides
+# Shared Adobe platform - TextDefault: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in Shared Adobe platform — TextDefault.
+Open when checking baseline grids and layout guides in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

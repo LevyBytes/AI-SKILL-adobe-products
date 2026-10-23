@@ -26,7 +26,7 @@ The options you can supply through `metaData` are laid out in the table that fol
 | id | None | Pass the PDF ID when annotation APIs are enabled to uniquely identify the PDF. For more details, see [Annotations API overview](annotations-api-overview.md). |
 | hasReadOnlyAccess | false | Set this flag to _true_ if you want to render the PDF in read-only mode. Commenting is not allowed and existing PDF comments are displayed as read only. |
 
-And you're done — open the page in a browser and your PDF viewer is up and running.
+And you're done: open the page in a browser and your PDF viewer is up and running.
 
 ```html
 <html>

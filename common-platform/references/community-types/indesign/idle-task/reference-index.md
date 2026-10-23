@@ -1,4 +1,4 @@
-# Shared Adobe platform — IdleTask
+# Shared Adobe platform - IdleTask
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up IdleTask declaration in Shared Adobe platform. [IdleTask declaration](declaration.md).

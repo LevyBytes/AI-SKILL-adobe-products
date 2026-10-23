@@ -1,4 +1,4 @@
-# Acrobat — Customize PDF form fields
+# Acrobat - Customize PDF form fields
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure form fields for calculations in Acrobat. [Configure form fields for calculations](configure-form-fields-for-calculations.md).

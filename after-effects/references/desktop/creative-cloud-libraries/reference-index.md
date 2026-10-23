@@ -1,4 +1,4 @@
-# After Effects — Creative cloud libraries
+# After Effects - Creative cloud libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Accessing Creative Cloud Libraries in After Effects. [Accessing Creative Cloud Libraries](accessing-creative-cloud-libraries.md).

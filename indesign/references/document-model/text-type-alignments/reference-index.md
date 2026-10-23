@@ -1,4 +1,4 @@
-# InDesign — TextTypeAlignments
+# InDesign - TextTypeAlignments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ABOVE_RIGHT_EM_BOX_TEXT_ALIGNMENT in InDesign. [ABOVE_RIGHT_EM_BOX_TEXT_ALIGNMENT](aboverightemboxtextalignment.md).

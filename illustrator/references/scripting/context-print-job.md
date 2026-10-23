@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: printers, paper, postscript and print jobs
+# Illustrator - Scripting APIs: printers, paper, postscript and print jobs
 
-Open when working with printers, paper, postscript and print jobs in Illustrator — Scripting APIs.
+Open when working with printers, paper, postscript and print jobs in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-print-job.json).
 

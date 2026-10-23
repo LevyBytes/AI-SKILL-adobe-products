@@ -1,4 +1,4 @@
-# InDesign — Generative ai features
+# InDesign - Generative ai features
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generative AI features in InDesign. [Generative AI features](generative-ai-features.md).

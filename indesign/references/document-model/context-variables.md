@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: text variables and metadata captions
+# InDesign - InDesign document object model: text variables and metadata captions
 
-Open when working with text variables and metadata captions in InDesign — InDesign document object model.
+Open when working with text variables and metadata captions in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-variables.json).
 

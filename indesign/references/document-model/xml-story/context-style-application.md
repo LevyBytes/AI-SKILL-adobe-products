@@ -1,6 +1,6 @@
-# InDesign — XmlStory: apply and manage styles
+# InDesign - XmlStory: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — XmlStory.
+Open when checking apply and manage styles in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

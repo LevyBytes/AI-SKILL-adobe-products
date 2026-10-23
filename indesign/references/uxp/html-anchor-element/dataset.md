@@ -1,4 +1,4 @@
-# window.HTMLAnchorElement — dataset
+# window.HTMLAnchorElement - dataset
 
 Provides the complete set of custom `data-*` attributes present on the element.
 

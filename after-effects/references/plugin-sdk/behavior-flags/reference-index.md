@@ -1,4 +1,4 @@
-# After Effects — Behavior flags
+# After Effects - Behavior flags
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEIO_MFlag_AUDIO in After Effects. [AEIO_MFlag_AUDIO](aeiom-flag-audio.md).
@@ -32,4 +32,4 @@
 - Open when looking up AEIO_MFlag_VIDEO in After Effects. [AEIO_MFlag_VIDEO](aeiom-flag-video.md).
 - Open when looking up AEIO_ModuleFlags in After Effects. [AEIO_ModuleFlags](aeio-module-flags.md).
 - Open when looking up AEIO_ModuleFlags2 in After Effects. [AEIO_ModuleFlags2](aeio-module-flags2.md).
-- Open when looking up AEIO_ModuleInfo — Behavior Flags in After Effects. [AEIO_ModuleInfo — Behavior Flags](aeio-module-info-behavior-flags.md).
+- Open when looking up AEIO_ModuleInfo - Behavior Flags in After Effects. [AEIO_ModuleInfo - Behavior Flags](aeio-module-info-behavior-flags.md).

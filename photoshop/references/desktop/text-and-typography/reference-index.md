@@ -1,4 +1,4 @@
-# Photoshop — Text and typography
+# Photoshop - Text and typography
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Characters and glyphs in Photoshop. [Characters and glyphs](characters-and-glyphs.md).

@@ -1,4 +1,4 @@
-# After Effects — Planning and setup
+# After Effects - Planning and setup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acquiring, choosing, and preparing footage in After Effects. [Acquiring, choosing, and preparing footage](acquiring-choosing-and-preparing-footage.md).

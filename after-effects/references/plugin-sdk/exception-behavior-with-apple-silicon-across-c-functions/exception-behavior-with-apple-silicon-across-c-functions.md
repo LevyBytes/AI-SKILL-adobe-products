@@ -1,4 +1,4 @@
-# Apple Silicon Support — Exception Behavior with Apple Silicon Across "C" Functions
+# Apple Silicon Support - Exception Behavior with Apple Silicon Across "C" Functions
 
 Exceptions warrant extra caution on Apple Silicon. Plenty of environments let you throw exceptions that travel up through classic "C" functions without trouble. The practice was poor and its behavior undefined, yet it tended to "work" regardless.
 

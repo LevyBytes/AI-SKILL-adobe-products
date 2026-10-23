@@ -1,6 +1,6 @@
-# InDesign — Document: document pages, spreads and layers
+# InDesign - Document: document pages, spreads and layers
 
-Open when checking document pages, spreads and layers in InDesign — Document.
+Open when checking document pages, spreads and layers in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-document-layout.json).
 

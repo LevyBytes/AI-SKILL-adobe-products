@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Export brochure docx example setup", "file": "references/pdf-services/examples/python/export-brochure-docx/export-brochure-docx-setup.md", "summary": "Open when looking up Export brochure docx example setup in Acrobat.", "keywords": ["Export brochure docx example setup"]},
-  {"topic": "export_brochure_docx.py", "file": "references/pdf-services/examples/python/export-brochure-docx/export_brochure_docx.py", "summary": "Open when looking up export_brochure_docx.py in Acrobat.", "keywords": ["export_brochure_docx.py"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

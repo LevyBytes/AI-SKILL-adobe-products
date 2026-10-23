@@ -1,4 +1,4 @@
-# InDesign — Open and update managed content
+# InDesign - Open and update managed content
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Open shared content in InDesign. [Open shared content](open-shared-content.md).

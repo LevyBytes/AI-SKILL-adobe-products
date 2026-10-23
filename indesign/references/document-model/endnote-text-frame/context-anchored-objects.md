@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: anchored object placement
+# InDesign - EndnoteTextFrame: anchored object placement
 
-Open when checking anchored object placement in InDesign — EndnoteTextFrame.
+Open when checking anchored object placement in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

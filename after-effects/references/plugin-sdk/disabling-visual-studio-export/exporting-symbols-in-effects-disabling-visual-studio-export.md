@@ -1,4 +1,4 @@
-# Exporting Symbols in Effects — Disabling Visual Studio Export
+# Exporting Symbols in Effects - Disabling Visual Studio Export
 
 Out of the box, Visual Studio builds switch symbol exports off. Getting symbols exported means either providing a module definition file or applying the __declspec(dllexport) keyword inside the function definition.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Folder
+# Shared Adobe platform - Folder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Folder Object in Shared Adobe platform. [Folder Object](folder-object.md).

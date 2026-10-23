@@ -1,4 +1,4 @@
-# Media Encoder — Desktop workflows
+# Media Encoder - Desktop workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Beta in Media Encoder. [Beta references](beta/reference-index.md).

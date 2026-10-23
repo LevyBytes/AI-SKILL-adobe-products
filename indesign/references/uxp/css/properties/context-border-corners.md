@@ -1,6 +1,6 @@
-# InDesign — Properties: rounded border corners
+# InDesign - Properties: rounded border corners
 
-Open when working with rounded border corners in InDesign — Properties.
+Open when working with rounded border corners in InDesign - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-border-corners.json).
 

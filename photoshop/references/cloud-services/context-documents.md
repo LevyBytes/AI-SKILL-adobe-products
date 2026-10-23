@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: create and edit documents
+# Photoshop - Cloud service APIs: create and edit documents
 
-Open when working with create and edit documents in Photoshop — Cloud service APIs.
+Open when working with create and edit documents in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-documents.json).
 

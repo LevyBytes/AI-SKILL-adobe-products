@@ -1,4 +1,4 @@
-# Acrobat — Word Add-in
+# Acrobat - Word Add-in
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add-In Demo in Acrobat. [Add-In Demo](add-in-demo.md).

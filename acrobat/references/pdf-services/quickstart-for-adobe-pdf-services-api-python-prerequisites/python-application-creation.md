@@ -1,10 +1,10 @@
-# Quickstart for Adobe PDF Services API (Python) — Step Three: Creating the application
+# Quickstart for Adobe PDF Services API (Python) - Step Three: Creating the application
 
 1. The first thing to do is pull in every dependency the script relies on:
 
-Complete example files:
+Example setup and source:
 
-- [export_brochure_docx.py](../examples/python/export-brochure-docx/export_brochure_docx.py)
+- [export-brochure-docx setup and source](../examples/python/export-brochure-docx/export-brochure-docx-setup.md)
 
 2. Define the two environment variables `PDF_SERVICES_CLIENT_ID` and `PDF_SERVICES_CLIENT_SECRET` by executing the commands below, swapping the placeholders `YOUR CLIENT ID` and `YOUR CLIENT SECRET` for the actual values found inside the `pdfservices-api-credentials.json` file:
 

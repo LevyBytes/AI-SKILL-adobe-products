@@ -1,4 +1,4 @@
-# Audition — Special effects
+# Audition - Special effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How to use special effects with Audition in Audition. [How to use special effects with Audition](how-to-use-special-effects-with-audition.md).

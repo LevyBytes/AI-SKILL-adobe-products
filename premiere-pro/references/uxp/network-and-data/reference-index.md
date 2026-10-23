@@ -1,4 +1,4 @@
-# Premiere Pro — Network and data
+# Premiere Pro - Network and data
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blob in Premiere Pro. [Blob references](blob/reference-index.md).

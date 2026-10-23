@@ -1,4 +1,4 @@
-# Creating layers — Create a layer and new Photoshop footage item
+# Creating layers - Create a layer and new Photoshop footage item
 
 Generating a Photoshop document from within After Effects launches Photoshop, which builds a PSD on disk. That PSD holds a single empty layer matched to your composition's dimensions and fitted with the right title-safe and action-safe guides. Whatever color bit depth your After Effects project uses, the PSD inherits the same depth.
 

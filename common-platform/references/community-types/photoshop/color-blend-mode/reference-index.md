@@ -1,4 +1,4 @@
-# Shared Adobe platform — ColorBlendMode
+# Shared Adobe platform - ColorBlendMode
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ColorBlendMode declaration in Shared Adobe platform. [ColorBlendMode declaration](declaration.md).

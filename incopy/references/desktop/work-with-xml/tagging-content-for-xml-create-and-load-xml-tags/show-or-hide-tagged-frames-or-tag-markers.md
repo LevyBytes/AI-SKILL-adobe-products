@@ -1,4 +1,4 @@
-# Tagging content for XML — Show or hide tagged frames or tag markers
+# Tagging content for XML - Show or hide tagged frames or tag markers
 
 In Galley and Story views, tag markers show where page items have tags. In Layout view, tagged frames show tagged items such as tables and images. The marker or frame color comes from the tag color.
 

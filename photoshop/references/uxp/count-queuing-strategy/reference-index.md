@@ -1,4 +1,4 @@
-# Photoshop — Count queuing strategy
+# Photoshop - Count queuing strategy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CountQueuingStrategy(init) in Photoshop. [CountQueuingStrategy(init)](count-queuing-strategy.md).

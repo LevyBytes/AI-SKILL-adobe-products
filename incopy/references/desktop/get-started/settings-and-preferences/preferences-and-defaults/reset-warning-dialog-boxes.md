@@ -1,4 +1,4 @@
-# Customizing preferences and defaults — Reset warning dialog boxes
+# Customizing preferences and defaults - Reset warning dialog boxes
 
 Open Edit > Preferences > General (Windows) or InCopy > Preferences > General (Mac OS).
 

@@ -1,4 +1,4 @@
-# Scripting Constants — WariChuJustificationType
+# Scripting Constants - WariChuJustificationType
 
 | Value | Description |
 | --- | --- |

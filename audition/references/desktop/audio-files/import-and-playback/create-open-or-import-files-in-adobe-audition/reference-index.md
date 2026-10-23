@@ -1,4 +1,4 @@
-# Audition — Create, open, or import files in Adobe Audition
+# Audition - Create, open, or import files in Adobe Audition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Append audio files to another in Audition. [Append audio files to another](append-audio-files-to-another.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Applying operations to the Sequence
+# Premiere Pro - Applying operations to the Sequence
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How Sequence operations work in Premiere Pro. [How Sequence operations work](how-sequence-operations-work.md).

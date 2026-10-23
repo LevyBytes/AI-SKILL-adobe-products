@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: document modes and creation
+# Photoshop - Enumerations: document modes and creation
 
-Open when working with document modes and creation in Photoshop — Enumerations.
+Open when working with document modes and creation in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-document-setup.json).
 

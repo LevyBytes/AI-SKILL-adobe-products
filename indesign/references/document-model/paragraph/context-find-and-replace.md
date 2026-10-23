@@ -1,6 +1,6 @@
-# InDesign — Paragraph: find, replace and transliterate
+# InDesign - Paragraph: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Paragraph.
+Open when checking find, replace and transliterate in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: color models, profiles and conversion
+# Photoshop - Enumerations: color models, profiles and conversion
 
-Open when working with color models, profiles and conversion in Photoshop — Enumerations.
+Open when working with color models, profiles and conversion in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-color.json).
 

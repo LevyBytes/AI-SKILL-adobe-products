@@ -1,4 +1,4 @@
-# InDesign — View and resolve preflight errors
+# InDesign - View and resolve preflight errors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Fix errors and verify resolution in InDesign. [Fix errors and verify resolution](fix-errors-and-verify-resolution.md).

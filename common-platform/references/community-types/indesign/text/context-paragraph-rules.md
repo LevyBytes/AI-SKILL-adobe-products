@@ -1,6 +1,6 @@
-# Shared Adobe platform — Text: paragraph rules
+# Shared Adobe platform - Text: paragraph rules
 
-Open when checking paragraph rules in Shared Adobe platform — Text.
+Open when checking paragraph rules in Shared Adobe platform - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

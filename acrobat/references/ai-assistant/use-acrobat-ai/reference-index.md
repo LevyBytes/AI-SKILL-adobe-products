@@ -1,4 +1,4 @@
-# Acrobat — Use acrobat ai
+# Acrobat - Use acrobat ai
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Explore generative AI features in Acrobat in Acrobat. [Explore generative AI features in Acrobat](explore-generative-ai-features-in-acrobat.md).

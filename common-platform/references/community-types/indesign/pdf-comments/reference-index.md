@@ -1,4 +1,4 @@
-# Shared Adobe platform — PDFComments
+# Shared Adobe platform - PDFComments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PDFComments collection iteration in Shared Adobe platform. [PDFComments collection iteration](collection-iteration.md).

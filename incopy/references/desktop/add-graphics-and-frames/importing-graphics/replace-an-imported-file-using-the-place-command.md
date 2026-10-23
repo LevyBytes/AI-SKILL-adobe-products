@@ -1,4 +1,4 @@
-# Importing graphics — Replace an imported file using the Place command
+# Importing graphics - Replace an imported file using the Place command
 
 Do one of the following:
 

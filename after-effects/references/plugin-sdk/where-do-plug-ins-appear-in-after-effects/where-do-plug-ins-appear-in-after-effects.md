@@ -1,4 +1,4 @@
-# What Can I Do With This SDK? — Where Do Plug-ins Appear In After Effects?
+# What Can I Do With This SDK? - Where Do Plug-ins Appear In After Effects?
 
 Within whichever effect category their PiPL names, effects plug-ins show up under the Effect menu as well as in the Effects & Presets panel. After one is applied, the Effect Controls panel (ECP) is where that effect's parameter controls — sliders, pop-ups, and so on — become visible.
 

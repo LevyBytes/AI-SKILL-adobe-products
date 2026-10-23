@@ -1,4 +1,4 @@
-# Customizing workspaces — About workspaces
+# Customizing workspaces - About workspaces
 
 Adobe video and audio applications use a workspace model that can be customized while remaining consistent across products. Individual applications have their own panels, such as Project, Metadata, and Timeline, but panel movement and grouping work the same way.
 

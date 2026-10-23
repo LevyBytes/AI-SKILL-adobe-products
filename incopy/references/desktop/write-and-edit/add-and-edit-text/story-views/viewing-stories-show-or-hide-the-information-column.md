@@ -1,4 +1,4 @@
-# Viewing stories — Show or hide the information column
+# Viewing stories - Show or hide the information column
 
 In Galley and Story views, the information column is shown along the left side of the document window. It provides read-only details such as paragraph styles, line numbers, and vertical text depth, and text cannot be entered there.
 

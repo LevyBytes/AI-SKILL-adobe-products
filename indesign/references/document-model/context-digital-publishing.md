@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: epub, html, folios and publishing
+# InDesign - InDesign document object model: epub, html, folios and publishing
 
-Open when working with epub, html, folios and publishing in InDesign — InDesign document object model.
+Open when working with epub, html, folios and publishing in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-digital-publishing.json).
 

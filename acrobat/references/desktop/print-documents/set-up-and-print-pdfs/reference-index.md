@@ -1,4 +1,4 @@
-# Acrobat — Set up and print PDFs
+# Acrobat - Set up and print PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe PDF printer settings on Windows in Acrobat. [Adobe PDF printer settings on Windows](adobe-pdf-printer-settings-on-windows.md).

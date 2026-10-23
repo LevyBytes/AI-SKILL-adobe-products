@@ -1,4 +1,4 @@
-# Shared Adobe platform — BlendMode
+# Shared Adobe platform - BlendMode
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BlendMode declaration in Shared Adobe platform. [BlendMode declaration](declaration.md).

@@ -1,4 +1,4 @@
-# InDesign — Third-party plugin issues
+# InDesign - Third-party plugin issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Incompatible or outdated plugins in InDesign. [Incompatible or outdated plugins](incompatible-or-outdated-plugins.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — ActionReference
+# Shared Adobe platform - ActionReference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ActionReference declaration in Shared Adobe platform. [ActionReference declaration](declaration.md).

@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Automatic layout — The AutoLayoutManager algorithm", "file": "references/scripting/the-auto-layout-manager-algorithm/automatic-layout-the-auto-layout-manager-algorithm.md", "summary": "Open when looking up Automatic layout — The AutoLayoutManager algorithm in Shared Adobe platform.", "keywords": ["Automatic layout — The AutoLayoutManager algorithm"]},
+  {"topic": "Automatic layout - The AutoLayoutManager algorithm", "file": "references/scripting/the-auto-layout-manager-algorithm/automatic-layout-the-auto-layout-manager-algorithm.md", "summary": "Open when looking up Automatic layout - The AutoLayoutManager algorithm in Shared Adobe platform.", "keywords": ["Automatic layout - The AutoLayoutManager algorithm"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

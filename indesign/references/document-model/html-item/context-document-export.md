@@ -1,6 +1,6 @@
-# InDesign — Html item: export documents and select formats
+# InDesign - Html item: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — Html item.
+Open when checking export documents and select formats in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

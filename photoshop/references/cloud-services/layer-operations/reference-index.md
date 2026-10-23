@@ -1,4 +1,4 @@
-# Photoshop — Layer operations
+# Photoshop - Layer operations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjustments in Photoshop. [Adjustments references](adjustments/reference-index.md).

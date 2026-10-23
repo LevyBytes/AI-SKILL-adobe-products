@@ -1,4 +1,4 @@
-# Scripting Constants — PrintArtworkDesignation
+# Scripting Constants - PrintArtworkDesignation
 
 | Value | Description |
 | --- | --- |

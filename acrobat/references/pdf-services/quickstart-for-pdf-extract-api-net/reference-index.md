@@ -1,4 +1,4 @@
-# Acrobat — Quickstart for PDF Extract API (.NET)
+# Acrobat - Quickstart for PDF Extract API (.NET)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Prerequisites in Acrobat. [Prerequisites](prerequisites.md).

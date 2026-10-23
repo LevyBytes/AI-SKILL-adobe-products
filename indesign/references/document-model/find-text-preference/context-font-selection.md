@@ -1,6 +1,6 @@
-# InDesign — Find text preference: fonts and character forms
+# InDesign - Find text preference: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Find text preference.
+Open when checking fonts and character forms in InDesign - Find text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

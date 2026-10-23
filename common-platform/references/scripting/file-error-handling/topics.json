@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Using File and Folder objects — File error handling", "file": "references/scripting/file-error-handling/using-file-and-folder-objects-file-error-handling.md", "summary": "Open when looking up Using File and Folder objects — File error handling in Shared Adobe platform.", "keywords": ["Using File and Folder objects — File error handling"]},
+  {"topic": "Using File and Folder objects - File error handling", "file": "references/scripting/file-error-handling/using-file-and-folder-objects-file-error-handling.md", "summary": "Open when looking up Using File and Folder objects - File error handling in Shared Adobe platform.", "keywords": ["Using File and Folder objects - File error handling"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

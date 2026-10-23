@@ -1,4 +1,4 @@
-# After Effects — General user interface items
+# After Effects - General user interface items
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Activate a tool in After Effects. [Activate a tool](activate-a-tool.md).

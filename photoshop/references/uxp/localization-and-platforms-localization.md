@@ -1,4 +1,4 @@
-# Localization and Platforms — Localization
+# Localization and Platforms - Localization
 
 For localization and similar host-aware logic, a plugin may need details about its host environment. Use this pattern to retrieve them:
 

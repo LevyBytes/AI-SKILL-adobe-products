@@ -1,4 +1,4 @@
-# After Effects — Render and export
+# After Effects - Render and export
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automate rendering in After Effects. [Automate rendering references](automate-rendering/reference-index.md).

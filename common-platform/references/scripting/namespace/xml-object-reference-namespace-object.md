@@ -1,4 +1,4 @@
-# XML Object Reference — Namespace object
+# XML Object Reference - Namespace object
 
 This object represents an XML namespace definition. A namespace links an XML-name prefix to a full URI. The prefix is the string before an XML element or attribute's local name and identifies the namespace; the URI indicates where the namespace definition is located.
 

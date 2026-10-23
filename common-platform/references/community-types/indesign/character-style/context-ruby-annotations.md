@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: ruby annotations
+# Shared Adobe platform - CharacterStyle: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — CharacterStyle.
+Open when checking ruby annotations in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

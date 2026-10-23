@@ -1,4 +1,4 @@
-# Creating layers — Solid-color layers and solid-color footage items
+# Creating layers - Solid-color layers and solid-color footage items
 
 Layers can be made in any solid color and at any size you like, right up to 30,000x30,000 pixels. Behind a solid-color layer sits a solid-color footage item as its source, and people commonly call both the layers and the footage items solids.
 

@@ -1,4 +1,4 @@
-# Glyphs and special characters — Search for glyphs in the Glyphs panel
+# Glyphs and special characters - Search for glyphs in the Glyphs panel
 
 Inside the Glyph panel, place the cursor in the Search box and type the query.
 

@@ -1,4 +1,4 @@
-# Editing text — Drag and drop text
+# Editing text - Drag and drop text
 
 InDesign lets you move text with the mouse in the Story Editor or in Layout View. Text can be dragged between the Story Editor and the layout window, or into some dialog boxes, including Find/Change. When the source is a locked or checked-in story, the drag operation copies the text instead of moving it. During drag and drop, you can also copy the text or create a new frame.
 

@@ -1,6 +1,6 @@
-# InDesign — Movie: workspace, windows and menus
+# InDesign - Movie: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — Movie.
+Open when checking workspace, windows and menus in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

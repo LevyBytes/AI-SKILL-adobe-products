@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: basic host differences
+# After Effects - C++ plugin SDK: basic host differences
 
-Open when working with basic host differences in After Effects — C++ plugin SDK.
+Open when working with basic host differences in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-ppro-basic-host-differences.json).
 

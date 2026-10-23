@@ -1,4 +1,4 @@
-# Scripting Constants — PrintColorSeparationMode
+# Scripting Constants - PrintColorSeparationMode
 
 | Value | Description |
 | --- | --- |

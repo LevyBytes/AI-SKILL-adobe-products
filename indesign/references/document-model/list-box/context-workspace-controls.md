@@ -1,6 +1,6 @@
-# InDesign — List box: workspace, windows and menus
+# InDesign - List box: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — List box.
+Open when checking workspace, windows and menus in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

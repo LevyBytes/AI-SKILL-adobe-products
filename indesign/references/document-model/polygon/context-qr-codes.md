@@ -1,6 +1,6 @@
-# InDesign — Polygon: generate qr codes
+# InDesign - Polygon: generate qr codes
 
-Open when checking generate qr codes in InDesign — Polygon.
+Open when checking generate qr codes in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

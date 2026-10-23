@@ -1,6 +1,6 @@
-# Illustrator — Document: drawing objects and layer collections
+# Illustrator - Document: drawing objects and layer collections
 
-Open when working with drawing objects and layer collections in Illustrator — Document.
+Open when working with drawing objects and layer collections in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-drawing-collections.json).
 

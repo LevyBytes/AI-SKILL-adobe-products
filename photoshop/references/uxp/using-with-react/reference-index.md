@@ -1,4 +1,4 @@
-# Photoshop — Using with React
+# Photoshop - Using with React
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Boolean attributes in Photoshop. [Boolean attributes](boolean-attributes.md).

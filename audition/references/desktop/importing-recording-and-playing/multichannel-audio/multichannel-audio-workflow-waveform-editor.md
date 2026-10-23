@@ -1,4 +1,4 @@
-# Multichannel audio workflow — Waveform Editor
+# Multichannel audio workflow - Waveform Editor
 
 For multichannel audio or video files, edit each audio channel on its own in the Waveform Editor with these steps.
 

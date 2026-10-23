@@ -1,4 +1,4 @@
-# Table and cell styles — Remove overrides while applying a cell style
+# Table and cell styles - Remove overrides while applying a cell style
 
 Alt (Windows) or Option (Mac OS) + click the style name in the Cell Styles panel: applies a cell style and clears overrides.
 

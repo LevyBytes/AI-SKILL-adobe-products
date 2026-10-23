@@ -1,6 +1,6 @@
-# InDesign — Change grep preference: line breaks and hyphenation
+# InDesign - Change grep preference: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in InDesign — Change grep preference.
+Open when checking line breaks and hyphenation in InDesign - Change grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

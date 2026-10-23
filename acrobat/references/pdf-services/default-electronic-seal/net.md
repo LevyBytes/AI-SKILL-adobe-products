@@ -1,7 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/electronic-seal/Program.cs)
-- [imports.cs](../examples/dotnet/electronic-seal/imports.cs)
-- [configure-logging.cs](../examples/dotnet/electronic-seal/configure-logging.cs)
-- [create-output-file-path.cs](../examples/dotnet/electronic-seal/create-output-file-path.cs)
+- [electronic-seal setup and source](../examples/dotnet/electronic-seal/electronic-seal-setup.md)

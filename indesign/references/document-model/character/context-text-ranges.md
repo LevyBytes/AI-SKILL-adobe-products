@@ -1,6 +1,6 @@
-# InDesign — Character: text ranges and containers
+# InDesign - Character: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Character.
+Open when checking text ranges and containers in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

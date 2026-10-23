@@ -1,4 +1,4 @@
-# Photoshop — Messaging
+# Photoshop - Messaging
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Alerts in Photoshop. [Alerts](alerts.md).

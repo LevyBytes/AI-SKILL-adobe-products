@@ -1,4 +1,4 @@
-# InDesign — Chinese, Japanese, and Korean
+# InDesign - Chinese, Japanese, and Korean
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Mojikumi and Yakumono in Japanese layout in InDesign. [About Mojikumi and Yakumono in Japanese layout](about-mojikumi-and-yakumono-in-japanese-layout.md).

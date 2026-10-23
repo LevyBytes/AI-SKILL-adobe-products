@@ -1,6 +1,6 @@
-# Shared Adobe platform — ObjectStyle: accessibility, tagging and xml
+# Shared Adobe platform - ObjectStyle: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in Shared Adobe platform — ObjectStyle.
+Open when checking accessibility, tagging and xml in Shared Adobe platform - ObjectStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

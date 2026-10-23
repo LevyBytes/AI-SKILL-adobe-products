@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: input, selection and progress controls
+# Shared Adobe platform - Shared: input, selection and progress controls
 
-Open when working with input, selection and progress controls in Shared Adobe platform — Shared.
+Open when working with input, selection and progress controls in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-inputs.json).
 

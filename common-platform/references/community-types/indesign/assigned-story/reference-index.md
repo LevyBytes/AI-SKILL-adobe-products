@@ -1,4 +1,4 @@
-# Shared Adobe platform — AssignedStory
+# Shared Adobe platform - AssignedStory
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AssignedStory declaration in Shared Adobe platform. [AssignedStory declaration](declaration.md).

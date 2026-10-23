@@ -1,6 +1,6 @@
-# InDesign — SignatureField: interactive fields and behaviors
+# InDesign - SignatureField: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — SignatureField.
+Open when checking interactive fields and behaviors in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

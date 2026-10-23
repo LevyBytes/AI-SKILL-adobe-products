@@ -1,4 +1,4 @@
-# Shared Adobe platform — ActionList
+# Shared Adobe platform - ActionList
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ActionList declaration in Shared Adobe platform. [ActionList declaration](declaration.md).

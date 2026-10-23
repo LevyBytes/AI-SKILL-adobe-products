@@ -1,4 +1,4 @@
-# InDesign — ConditionIndicatorMode
+# InDesign - ConditionIndicatorMode
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HIDE_INDICATORS in InDesign. [HIDE_INDICATORS](hideindicators.md).

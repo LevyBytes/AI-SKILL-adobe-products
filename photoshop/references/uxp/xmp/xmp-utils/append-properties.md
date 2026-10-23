@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — appendProperties(source, dest, [options])
+# require('uxp').xmp.XMPUtils - appendProperties(source, dest, [options])
 
 Reads properties from `source` and appends them into `dest`; both are [XMPMeta object](../xmp-meta/reference-index.md) instances.
 

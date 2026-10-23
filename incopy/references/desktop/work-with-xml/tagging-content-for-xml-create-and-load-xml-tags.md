@@ -1,4 +1,4 @@
-# Tagging content for XML — Create and load XML tags
+# Tagging content for XML - Create and load XML tags
 
 Set up or import tags before assigning them to page items, so each document item or content category has an XML identifier. Tags can be made directly or brought in from another source, including an InDesign document, InCopy document, or DTD file. The document can receive tags through any of these approaches:
 

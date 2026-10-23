@@ -1,4 +1,4 @@
-# Photoshop — V2 generate manifest richer document intelligence
+# Photoshop - V2 generate manifest richer document intelligence
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Distinct artboard layer type in Photoshop. [Distinct artboard layer type](distinct-artboard-layer-type.md).

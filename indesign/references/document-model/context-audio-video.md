@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: audio and video playback
+# InDesign - InDesign document object model: audio and video playback
 
-Open when working with audio and video playback in InDesign — InDesign document object model.
+Open when working with audio and video playback in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-video.json).
 

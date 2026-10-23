@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: object identity and lifecycle
+# Shared Adobe platform - FindTextPreference: object identity and lifecycle
 
-Open when checking object identity and lifecycle in Shared Adobe platform — FindTextPreference.
+Open when checking object identity and lifecycle in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

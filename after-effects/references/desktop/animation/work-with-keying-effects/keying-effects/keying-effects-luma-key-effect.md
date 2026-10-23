@@ -1,4 +1,4 @@
-# Keying effects — Luma Key effect
+# Keying effects - Luma Key effect
 
 Every part of a layer that falls at a chosen luminance or brightness gets keyed away by the Luma Key effect. Whatever quality setting the layer carries has no bearing on how Luma Key behaves.
 

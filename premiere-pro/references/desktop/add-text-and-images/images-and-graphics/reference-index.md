@@ -1,4 +1,4 @@
-# Premiere Pro — Insert images and graphics
+# Premiere Pro - Insert images and graphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add gradients in Premiere Pro. [Add gradients](add-gradients.md).

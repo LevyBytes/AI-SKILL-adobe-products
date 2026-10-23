@@ -1,4 +1,4 @@
-# Photoshop — Create shapes
+# Photoshop - Create shapes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add legacy custom shapes in Photoshop. [Add legacy custom shapes](add-legacy-custom-shapes.md).

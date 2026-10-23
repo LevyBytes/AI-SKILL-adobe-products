@@ -1,4 +1,4 @@
-# Shared Adobe platform — OpenTypeFeature
+# Shared Adobe platform - OpenTypeFeature
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up OpenTypeFeature declaration in Shared Adobe platform. [OpenTypeFeature declaration](declaration.md).

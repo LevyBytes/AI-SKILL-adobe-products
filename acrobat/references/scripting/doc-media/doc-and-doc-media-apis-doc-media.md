@@ -1,4 +1,4 @@
-# Doc and Doc.Media APIs — Doc.media
+# Doc and Doc.Media APIs - Doc.media
 
 Within every document, the media property holds an object whose multimedia properties and methods operate on that document.
 

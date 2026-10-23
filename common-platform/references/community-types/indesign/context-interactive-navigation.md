@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: interactive navigation and page transitions
+# Shared Adobe platform - Indesign: interactive navigation and page transitions
 
-Open when working with interactive navigation and page transitions in Shared Adobe platform — Indesign.
+Open when working with interactive navigation and page transitions in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-interactive-navigation.json).
 

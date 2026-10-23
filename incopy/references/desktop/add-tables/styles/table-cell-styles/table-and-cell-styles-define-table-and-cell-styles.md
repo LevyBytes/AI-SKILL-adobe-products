@@ -1,4 +1,4 @@
-# Table and cell styles — Define table and cell styles
+# Table and cell styles - Define table and cell styles
 
 Standalone stories allow InCopy to define, modify, and apply table and cell styles. Styles from another InCopy document can be imported into the current document, but table or cell styles cannot be imported from an InDesign document.
 

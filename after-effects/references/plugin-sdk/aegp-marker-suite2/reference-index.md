@@ -1,4 +1,4 @@
-# After Effects — AEGP_MarkerSuite2
+# After Effects - AEGP_MarkerSuite2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CountCuePointParams in After Effects. [AEGP_CountCuePointParams](aegp-count-cue-point-params.md).

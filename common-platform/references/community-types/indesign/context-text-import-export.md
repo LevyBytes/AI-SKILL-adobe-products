@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: text and spreadsheet interchange
+# Shared Adobe platform - Indesign: text and spreadsheet interchange
 
-Open when working with text and spreadsheet interchange in Shared Adobe platform — Indesign.
+Open when working with text and spreadsheet interchange in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-text-import-export.json).
 

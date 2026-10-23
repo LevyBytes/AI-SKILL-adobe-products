@@ -1,6 +1,6 @@
-# InDesign — Text column: paragraph shading
+# InDesign - Text column: paragraph shading
 
-Open when checking paragraph shading in InDesign — Text column.
+Open when checking paragraph shading in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: optional content groups
+# Acrobat - Scripting APIs: optional content groups
 
-Open when working with optional content groups in Acrobat — Scripting APIs.
+Open when working with optional content groups in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-layers.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: fonts and character forms
+# Shared Adobe platform - TextDefault: fonts and character forms
 
-Open when checking fonts and character forms in Shared Adobe platform — TextDefault.
+Open when checking fonts and character forms in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

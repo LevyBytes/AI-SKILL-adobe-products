@@ -1,4 +1,4 @@
-# Working with managed files — Update the InDesign layout
+# Working with managed files - Update the InDesign layout
 
 InDesign users can change layout, such as the size or position of a story's text frames, and save those edits while InCopy users are editing text in the same frames. In a shared-server workflow, notification behavior for layout changes depends on whether InCopy users opened an assignment file or checked out separate content files and also opened the linked InDesign file.
 

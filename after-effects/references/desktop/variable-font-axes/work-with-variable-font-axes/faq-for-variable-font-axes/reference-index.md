@@ -1,4 +1,4 @@
-# After Effects — FAQ for Variable Font Axes
+# After Effects - FAQ for Variable Font Axes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Best practices in After Effects. [Best practices](best-practices.md).

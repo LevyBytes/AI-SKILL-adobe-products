@@ -1,4 +1,4 @@
-# XMPScript object reference — XMPFileInfo object
+# XMPScript object reference - XMPFileInfo object
 
 XMPFile.getFileInfo returns this object. Its read-only properties describe the file associated with the XMPFile object.
 

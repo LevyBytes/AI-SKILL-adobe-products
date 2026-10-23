@@ -1,4 +1,4 @@
-# Shared Adobe platform — StrokeStyle
+# Shared Adobe platform - StrokeStyle
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up StrokeStyle declaration in Shared Adobe platform. [StrokeStyle declaration](declaration.md).

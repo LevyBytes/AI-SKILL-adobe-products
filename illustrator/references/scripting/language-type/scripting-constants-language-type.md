@@ -1,4 +1,4 @@
-# Scripting Constants — LanguageType
+# Scripting Constants - LanguageType
 
 | Value | Description |
 | --- | --- |

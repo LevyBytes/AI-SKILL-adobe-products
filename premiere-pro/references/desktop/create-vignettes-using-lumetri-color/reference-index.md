@@ -1,4 +1,4 @@
-# Premiere Pro — Create vignettes using lumetri color
+# Premiere Pro - Create vignettes using lumetri color
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply and adjust the vignette effect in Premiere Pro. [Apply and adjust the vignette effect](apply-and-adjust-the-vignette-effect.md).

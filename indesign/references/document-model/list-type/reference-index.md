@@ -1,4 +1,4 @@
-# InDesign — ListType
+# InDesign - ListType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BULLET_LIST in InDesign. [BULLET_LIST](bulletlist.md).

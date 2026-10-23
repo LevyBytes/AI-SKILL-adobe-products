@@ -6,7 +6,7 @@ For color and grayscale images, aim for a resolution roughly 1.5 to 2 times the 
 
 Note
 
-Resampling monochrome images sometimes yields surprises — for instance, the image may not display at all. Should that occur, switch resampling off and convert the file once more. Subsampling is the likeliest culprit, while bicubic downsampling is the least likely.
+Resampling monochrome images sometimes yields surprises: for instance, the image may not display at all. Should that occur, switch resampling off and convert the file once more. Subsampling is the likeliest culprit, while bicubic downsampling is the least likely.
 
 The table below lists familiar printer categories alongside their resolution in dpi. It also gives the default screen ruling in lines per inch (lpi) and a resampling resolution for images in pixels per inch (ppi). As an example, when printing to a 600-dpi laser printer you would set 170 as the resolution at which images get resampled.
 

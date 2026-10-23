@@ -1,4 +1,4 @@
-# VIP Marketplace — Prerequisites (IT Administrator)
+# VIP Marketplace - Prerequisites (IT Administrator)
 
 1. Sign in to your [VIP Admin Console](https://adminconsole.adobe.com/) and verify that the "Acrobat Services API - DOC TRANS PACK" product shows up among your available products, as illustrated below.
 

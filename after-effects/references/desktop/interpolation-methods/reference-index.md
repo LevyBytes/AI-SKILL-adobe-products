@@ -1,4 +1,4 @@
-# After Effects — Interpolation methods
+# After Effects - Interpolation methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ease(t, value1, value2) in After Effects. [ease(t, value1, value2)](ease.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: document import and export choices
+# Shared Adobe platform - Indesign: document import and export choices
 
-Open when working with document import and export choices in Shared Adobe platform — Indesign.
+Open when working with document import and export choices in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-document-export.json).
 

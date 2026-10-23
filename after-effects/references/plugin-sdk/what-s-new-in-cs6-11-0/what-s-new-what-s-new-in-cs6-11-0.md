@@ -1,4 +1,4 @@
-# What's New — What's New in CS6 (11.0)?
+# What's New - What's New in CS6 (11.0)?
 
 A handful of refinements went into smoother parameter UI handling. The `PF_PUI_INVISIBLE` parameter UI flag now works in After Effects, which comes in handy if your plug-in calls for hidden parameters that still affect rendering. These days, when a plug-in disables a parameter through `PF_UpdateParamUI`, we record that state in the UI flags so the plug-in can later inspect the flag and learn whether it's disabled. There's also a new flag, `PF_ParamFlag_SKIP_REVEAL_WHEN_UNHIDDEN`, that lets a parameter be unhidden without twirling any parents open and without scrolling it into view within the Effect Controls panel and the Timeline panel.
 

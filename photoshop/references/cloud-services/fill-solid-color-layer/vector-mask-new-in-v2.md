@@ -1,4 +1,4 @@
-# Vector mask — NEW in V2
+# Vector mask - NEW in V2
 
 The old `fillLayer` response does not expose vector mask details. The new `solid_color_layer` response includes:
 

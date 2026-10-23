@@ -1,4 +1,4 @@
-# Acrobat — Server-based security policies overview
+# Acrobat - Server-based security policies overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Authentication of organizational policies in Acrobat. [Authentication of organizational policies](authentication-of-organizational-policies.md).

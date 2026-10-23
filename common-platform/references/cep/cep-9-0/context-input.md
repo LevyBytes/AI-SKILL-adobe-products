@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 9 0: keyboard, cursor, drag and drop
+# Shared Adobe platform - Cep 9 0: keyboard, cursor, drag and drop
 
-Open when working with keyboard, cursor, drag and drop in Shared Adobe platform — Cep 9 0.
+Open when working with keyboard, cursor, drag and drop in Shared Adobe platform - Cep 9 0.
 
 Open when selecting an exact reference: [Topic catalog](context-input.json).
 

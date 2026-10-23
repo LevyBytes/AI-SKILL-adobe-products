@@ -1,4 +1,4 @@
-# ICC Profile Migration Guide — Format support
+# ICC Profile Migration Guide - Format support
 
 These output formats can carry ICC profiles:
 

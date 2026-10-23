@@ -1,4 +1,4 @@
-# After Effects — Layer properties
+# After Effects - Layer properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust audio volume levels in After Effects. [Adjust audio volume levels](adjust-audio-volume-levels.md).

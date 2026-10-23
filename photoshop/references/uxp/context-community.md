@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: developer community
+# Photoshop - UXP plugins and APIs: developer community
 
-Open when working with developer community in Photoshop — UXP plugins and APIs.
+Open when working with developer community in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-community.json).
 

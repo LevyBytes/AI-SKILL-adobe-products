@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: editorial changes, comments and synchronization
+# InDesign - InDesign document object model: editorial changes, comments and synchronization
 
-Open when working with editorial changes, comments and synchronization in InDesign — InDesign document object model.
+Open when working with editorial changes, comments and synchronization in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-editorial-review.json).
 

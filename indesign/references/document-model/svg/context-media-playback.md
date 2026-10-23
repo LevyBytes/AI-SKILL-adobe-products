@@ -1,6 +1,6 @@
-# InDesign — SVG: movie and sound playback
+# InDesign - SVG: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — SVG.
+Open when checking movie and sound playback in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

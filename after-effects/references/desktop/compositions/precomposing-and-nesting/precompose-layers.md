@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — Precompose layers
+# Precomposing, nesting, and pre-rendering - Precompose layers
 
 When you precompose layers, they move into a fresh composition — the precomposition, or precomp for short. Back in the original composition, those selected layers collapse into a single layer that stands in for this new precomposition. Precomposing just one layer comes in handy when you want to give a layer transform properties and shape the sequence in which a composition's pieces render.
 

@@ -1,4 +1,4 @@
-# Scripting Constants — BurasagariTypeEnum
+# Scripting Constants - BurasagariTypeEnum
 
 BurasagariTypeEnum selects a Burasagari behavior.
 

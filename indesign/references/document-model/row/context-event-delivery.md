@@ -1,6 +1,6 @@
-# InDesign — Row: events and listeners
+# InDesign - Row: events and listeners
 
-Open when checking events and listeners in InDesign — Row.
+Open when checking events and listeners in InDesign - Row.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

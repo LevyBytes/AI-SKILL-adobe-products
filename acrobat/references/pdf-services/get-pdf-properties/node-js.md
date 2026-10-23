@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [get-pdf-properties.cjs](../examples/node/get-pdf-properties/get-pdf-properties.cjs)
+- [get-pdf-properties setup and source](../examples/node/get-pdf-properties/get-pdf-properties-setup.md)

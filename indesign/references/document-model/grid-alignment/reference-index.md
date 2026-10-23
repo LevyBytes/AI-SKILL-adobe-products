@@ -1,4 +1,4 @@
-# InDesign — GridAlignment
+# InDesign - GridAlignment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ALIGN_BASELINE in InDesign. [ALIGN_BASELINE](alignbaseline.md).

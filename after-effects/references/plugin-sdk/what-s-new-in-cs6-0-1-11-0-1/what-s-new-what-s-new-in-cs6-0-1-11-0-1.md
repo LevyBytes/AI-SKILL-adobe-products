@@ -1,4 +1,4 @@
-# What's New — What's New in CS6.0.1 (11.0.1)?
+# What's New - What's New in CS6.0.1 (11.0.1)?
 
 As of 11.0.1, the AE effect API version was bumped to 13.3.
 

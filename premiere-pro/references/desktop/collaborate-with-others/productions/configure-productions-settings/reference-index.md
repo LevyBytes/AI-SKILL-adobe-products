@@ -1,4 +1,4 @@
-# Premiere Pro — Configure Productions settings
+# Premiere Pro - Configure Productions settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose your Production settings in Premiere Pro. [Choose your Production settings](choose-your-production-settings.md).

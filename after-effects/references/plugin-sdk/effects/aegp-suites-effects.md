@@ -1,4 +1,4 @@
-# AEGP Suites — Effects
+# AEGP Suites - Effects
 
 The count of streams/parameters they carry varies, and neither the ordering nor the definition of those is known at the time the AEGP gets written.
 

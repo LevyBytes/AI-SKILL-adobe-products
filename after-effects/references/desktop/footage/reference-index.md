@@ -1,4 +1,4 @@
-# After Effects — Footage
+# After Effects - Footage
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up dataKeyCount(dataPath) in After Effects. [dataKeyCount(dataPath)](data-key-count.md).
@@ -8,7 +8,7 @@
 - Open when looking up duration in After Effects. [duration](duration.md).
 - Open when looking up frameDuration in After Effects. [frameDuration](frame-duration.md).
 - Open when looking up height in After Effects. [height](height.md).
-- Open when looking up Importing and interpreting footage items — Interpret a single footage item using the Interpret Footage dialog box in After Effects. [Importing and interpreting footage items — Interpret a single footage item using the Interpret Footage dialog box](interpret-footage-settings.md).
+- Open when looking up Importing and interpreting footage items - Interpret a single footage item using the Interpret Footage dialog box in After Effects. [Importing and interpreting footage items - Interpret a single footage item using the Interpret Footage dialog box](interpret-footage-settings.md).
 - Open when looking up name in After Effects. [name](name.md).
 - Open when looking up ntscDropFrame in After Effects. [ntscDropFrame](ntsc-drop-frame.md).
 - Open when looking up pixelAspect in After Effects. [pixelAspect](pixel-aspect.md).

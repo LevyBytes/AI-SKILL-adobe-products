@@ -1,4 +1,4 @@
-# Illustrator — Cloud service APIs
+# Illustrator - Cloud service APIs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Authentication in Illustrator. [Authentication](authentication.md).

@@ -1,4 +1,4 @@
-# Scripting Constants — KnockoutState
+# Scripting Constants - KnockoutState
 
 Specifies which knockout mode a page item uses.
 

@@ -1,4 +1,4 @@
-# Photoshop — Work with meshes
+# Photoshop - Work with meshes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Benefits of using meshes in Photoshop. [Benefits of using meshes](benefits-of-using-meshes.md).

@@ -1,4 +1,4 @@
-# UxpMenuItem — enabled ⇒ `boolean`
+# UxpMenuItem - enabled ⇒ `boolean`
 
 Retrieve whether the menu item is enabled.
 

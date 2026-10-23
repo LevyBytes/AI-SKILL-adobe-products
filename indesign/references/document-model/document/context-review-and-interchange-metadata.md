@@ -1,6 +1,6 @@
-# InDesign — Document: document metadata and imported review
+# InDesign - Document: document metadata and imported review
 
-Open when checking document metadata and imported review in InDesign — Document.
+Open when checking document metadata and imported review in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

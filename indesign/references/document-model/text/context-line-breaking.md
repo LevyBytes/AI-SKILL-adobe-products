@@ -1,6 +1,6 @@
-# InDesign — Text: line breaks and hyphenation
+# InDesign - Text: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in InDesign — Text.
+Open when checking line breaks and hyphenation in InDesign - Text.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

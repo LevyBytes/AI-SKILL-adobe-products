@@ -1,6 +1,6 @@
-# InDesign — SVG: generate qr codes
+# InDesign - SVG: generate qr codes
 
-Open when checking generate qr codes in InDesign — SVG.
+Open when checking generate qr codes in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

@@ -1,4 +1,4 @@
-# InDesign — StrokeOrderTypes
+# InDesign - StrokeOrderTypes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BEST_JOINS in InDesign. [BEST_JOINS](bestjoins.md).

@@ -1,4 +1,4 @@
-# Keying effects — Use the Color Range effect
+# Keying effects - Use the Color Range effect
 
 Pick the layer you mean to render partly transparent, then choose Effect > Keying > Color Range.
 

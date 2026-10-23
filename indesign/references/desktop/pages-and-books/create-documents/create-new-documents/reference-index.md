@@ -1,4 +1,4 @@
-# InDesign — Create new documents
+# InDesign - Create new documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a document from a preset in InDesign. [Create a document from a preset](create-a-document-from-a-preset.md).

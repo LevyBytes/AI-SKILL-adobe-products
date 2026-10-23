@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: events and listeners
+# InDesign - GraphicLine: events and listeners
 
-Open when checking events and listeners in InDesign — GraphicLine.
+Open when checking events and listeners in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

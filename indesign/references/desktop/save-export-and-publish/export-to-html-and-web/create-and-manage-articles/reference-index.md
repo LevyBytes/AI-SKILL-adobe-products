@@ -1,4 +1,4 @@
-# InDesign — Create and manage articles
+# InDesign - Create and manage articles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add all page items in a document to an article in InDesign. [Add all page items in a document to an article](add-all-page-items-in-a-document-to-an-article.md).

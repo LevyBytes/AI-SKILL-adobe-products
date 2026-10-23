@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Overview — Introduction to scripting in After Effects", "file": "references/scripting/introduction-to-scripting-in-after-effects/overview-introduction-to-scripting-in-after-effects.md", "summary": "Open when looking up Overview — Introduction to scripting in After Effects in After Effects.", "keywords": ["Overview — Introduction to scripting in After Effects"]},
+  {"topic": "Overview - Introduction to scripting in After Effects", "file": "references/scripting/introduction-to-scripting-in-after-effects/overview-introduction-to-scripting-in-after-effects.md", "summary": "Open when looking up Overview - Introduction to scripting in After Effects in After Effects.", "keywords": ["Overview - Introduction to scripting in After Effects"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

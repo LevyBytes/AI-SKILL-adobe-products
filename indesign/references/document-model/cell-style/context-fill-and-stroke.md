@@ -1,6 +1,6 @@
-# InDesign — CellStyle: fill, stroke and transparency
+# InDesign - CellStyle: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — CellStyle.
+Open when checking fill, stroke and transparency in InDesign - CellStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

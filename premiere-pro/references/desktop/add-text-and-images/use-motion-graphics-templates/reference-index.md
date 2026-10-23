@@ -1,4 +1,4 @@
-# Premiere Pro — Use Motion Graphics templates
+# Premiere Pro - Use Motion Graphics templates
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Motion Graphic templates to a sequence in Premiere Pro. [Add Motion Graphic templates to a sequence](add-motion-graphic-templates-to-a-sequence.md).

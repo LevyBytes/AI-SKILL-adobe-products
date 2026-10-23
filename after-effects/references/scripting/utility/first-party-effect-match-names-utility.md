@@ -1,4 +1,4 @@
-# First-Party Effect Match Names — Utility
+# First-Party Effect Match Names - Utility
 
 | Match Name | Display Name (EN) | BPC | GPU |
 | --- | --- | --- | --- |

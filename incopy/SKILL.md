@@ -1,8 +1,9 @@
 ---
 name: incopy
-description: 'Use when a task concerns Adobe InCopy editorial work: managed stories and assignments, InDesign collaboration, copy editing, tracked changes and notes, typography and CJK text, tables, placed graphics, references and links, XML, or document export and printing.'
+description: "Use when a task concerns Adobe InCopy editorial work: managed stories and assignments, InDesign collaboration, copy editing, tracked changes and notes, typography and CJK text, tables, placed graphics, references and links, XML, or document export and printing."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

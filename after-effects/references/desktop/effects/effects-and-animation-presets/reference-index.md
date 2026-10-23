@@ -1,4 +1,4 @@
-# After Effects — Effects and animation presets
+# After Effects - Effects and animation presets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Effect list in After Effects. [Effect list](effect-list.md).

@@ -1,4 +1,4 @@
-# Media and Marker APIs — MediaOffset
+# Media and Marker APIs - MediaOffset
 
 Inside a MediaClip, a MediaOffset marks one playback position, given either as a time value or as a frame count. That position is either absolute — measured from where the media starts — or stated relative to a marker you name.
 

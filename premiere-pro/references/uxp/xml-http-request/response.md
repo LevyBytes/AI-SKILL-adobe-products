@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — response : `string` \| `ArrayBuffer` \| `Blob` \| `Document` \| `Object`
+# window.XMLHttpRequest - response : `string` \| `ArrayBuffer` \| `Blob` \| `Document` \| `Object`
 
 **Read only**
 Provides the response body content.

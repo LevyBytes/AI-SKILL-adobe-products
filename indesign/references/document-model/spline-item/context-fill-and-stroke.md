@@ -1,6 +1,6 @@
-# InDesign — SplineItem: fill, stroke and transparency
+# InDesign - SplineItem: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — SplineItem.
+Open when checking fill, stroke and transparency in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

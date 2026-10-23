@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Compound Blur effect
+# Blur and Sharpen effects - Compound Blur effect
 
 The Compound Blur effect softens pixels in the effect layer according to the luminance of a control layer, which also goes by the name blur layer or blurring map. Out of the box, brighter spots in the blur layer drive heavier blurring of the effect layer and darker spots drive lighter blurring—tick Invert Blur to flip that so light values mean less blurring.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Tints
+# Shared Adobe platform - Tints
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Tints collection iteration in Shared Adobe platform. [Tints collection iteration](collection-iteration.md).

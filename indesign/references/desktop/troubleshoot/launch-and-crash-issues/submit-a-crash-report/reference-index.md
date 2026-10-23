@@ -1,4 +1,4 @@
-# InDesign — Submit a crash report
+# InDesign - Submit a crash report
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Crash reporter triggered with a particular document in InDesign. [Crash reporter triggered with a particular document](crash-reporter-triggered-with-a-particular-document.md).

@@ -1,6 +1,6 @@
-# InDesign — ChangeObjectPreference: image fitting, cropping and resolution
+# InDesign - ChangeObjectPreference: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in InDesign — ChangeObjectPreference.
+Open when checking image fitting, cropping and resolution in InDesign - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

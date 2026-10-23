@@ -1,6 +1,6 @@
-# Shared Adobe platform — Row: content fit, dimensions and overflow
+# Shared Adobe platform - Row: content fit, dimensions and overflow
 
-Open when checking content fit, dimensions and overflow in Shared Adobe platform — Row.
+Open when checking content fit, dimensions and overflow in Shared Adobe platform - Row.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-fitting.json).
 

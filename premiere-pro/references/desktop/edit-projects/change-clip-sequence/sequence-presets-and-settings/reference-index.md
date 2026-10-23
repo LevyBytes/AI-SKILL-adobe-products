@@ -1,4 +1,4 @@
-# Premiere Pro — Sequence presets and settings
+# Premiere Pro - Sequence presets and settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Selecting a Sequence Presets in Premiere Pro. [Selecting a Sequence Presets](selecting-a-sequence-presets.md).

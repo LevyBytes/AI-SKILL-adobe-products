@@ -1,4 +1,4 @@
-# Photoshop — Troubleshoot scratch disk full errors in Photoshop
+# Photoshop - Troubleshoot scratch disk full errors in Photoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Optimize Photoshop settings in Photoshop. [Optimize Photoshop settings](optimize-photoshop-settings.md).

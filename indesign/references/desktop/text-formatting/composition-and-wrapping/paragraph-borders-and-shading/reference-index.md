@@ -1,4 +1,4 @@
-# InDesign — Apply paragraph borders and backgrounds
+# InDesign - Apply paragraph borders and backgrounds
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a border to selected paragraphs in InDesign. [Apply a border to selected paragraphs](apply-a-border-to-selected-paragraphs.md).

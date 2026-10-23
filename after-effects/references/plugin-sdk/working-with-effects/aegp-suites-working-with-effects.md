@@ -1,4 +1,4 @@
-# AEGP Suites — Working With Effects
+# AEGP Suites - Working With Effects
 
 Effects and AEGPs use these functions to inspect the context around an applied effect.
 

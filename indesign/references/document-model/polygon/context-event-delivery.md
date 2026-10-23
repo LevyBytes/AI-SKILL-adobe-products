@@ -1,6 +1,6 @@
-# InDesign — Polygon: events and listeners
+# InDesign - Polygon: events and listeners
 
-Open when checking events and listeners in InDesign — Polygon.
+Open when checking events and listeners in InDesign - Polygon.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

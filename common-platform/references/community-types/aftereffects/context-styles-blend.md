@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: layer styles, colors and blending
+# Shared Adobe platform - Aftereffects: layer styles, colors and blending
 
-Open when working with layer styles, colors and blending in Shared Adobe platform — Aftereffects.
+Open when working with layer styles, colors and blending in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-styles-blend.json).
 

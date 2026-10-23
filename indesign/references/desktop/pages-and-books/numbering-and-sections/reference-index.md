@@ -1,4 +1,4 @@
-# InDesign — Page numbers chapters and sections
+# InDesign - Page numbers chapters and sections
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add auto-update page numbers and section markers in InDesign. [Add auto-update page numbers and section markers](add-auto-update-page-numbers-and-section-markers.md).

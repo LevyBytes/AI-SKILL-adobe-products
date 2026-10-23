@@ -1,4 +1,4 @@
-# Editing text — Edit text on a parent page
+# Editing text - Edit text on a parent page
 
 In InDesign documents, a parent page acts as a template for multiple pages. Parent pages usually hold recurring layout elements used throughout the document, including margins, page numbers, headers, and footers. InCopy can edit text on an InDesign parent page when that text is a linked file. It cannot change frame attributes controlled by the parent, and parent-page text cannot be edited from other regular pages in the document.
 

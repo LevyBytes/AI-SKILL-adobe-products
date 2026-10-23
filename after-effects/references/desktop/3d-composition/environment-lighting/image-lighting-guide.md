@@ -1,4 +1,4 @@
-# After Effects — Create realistic reflections and ambient lighting in a 3D scene
+# After Effects - Create realistic reflections and ambient lighting in a 3D scene
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics-image-lighting.json).
 - Open when looking up Add an environment light in After Effects. [Add an environment light](add-environment-light.md).

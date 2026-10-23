@@ -1,4 +1,4 @@
-# Getting Started — SDK
+# Getting Started - SDK
 
 Beyond the REST interface, the PDF Services API can be reached through SDKs in widely used languages — Node.js, Java, .NET and Python.
 

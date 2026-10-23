@@ -1,4 +1,4 @@
-# Audition — Digitizing audio
+# Audition - Digitizing audio
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio file contents and size in Audition. [Audio file contents and size](audio-file-contents-and-size.md).

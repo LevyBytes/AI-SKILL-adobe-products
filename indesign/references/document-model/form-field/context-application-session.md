@@ -1,6 +1,6 @@
-# InDesign — FormField: application session and account
+# InDesign - FormField: application session and account
 
-Open when checking application session and account in InDesign — FormField.
+Open when checking application session and account in InDesign - FormField.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

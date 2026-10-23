@@ -14,9 +14,9 @@ See how the tokens in the Word file line up with the values held in our JSON. Ou
 
 3. First off, we'll pull in the dependencies we need:
 
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../../pdf-services/examples/dotnet/generate-receipt-pdf/Program.cs)
+- [generate-receipt-pdf setup and source](../../pdf-services/examples/dotnet/generate-receipt-pdf/generate-receipt-pdf-setup.md)
 
 4. Now let's define our main class and `Main` method:
 

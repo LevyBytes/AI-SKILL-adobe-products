@@ -1,4 +1,4 @@
-# InDesign — About kerning and tracking
+# InDesign - About kerning and tracking
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How kerning and tracking are measured in InDesign. [How kerning and tracking are measured](how-kerning-and-tracking-are-measured.md).

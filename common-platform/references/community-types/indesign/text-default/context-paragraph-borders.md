@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: paragraph borders
+# Shared Adobe platform - TextDefault: paragraph borders
 
-Open when checking paragraph borders in Shared Adobe platform — TextDefault.
+Open when checking paragraph borders in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-borders.json).
 

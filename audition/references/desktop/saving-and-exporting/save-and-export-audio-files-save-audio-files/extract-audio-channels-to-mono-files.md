@@ -1,4 +1,4 @@
-# Save and export audio files — Extract audio channels to mono files
+# Save and export audio files - Extract audio channels to mono files
 
 To work on or export separate channels from a stereo or surround-sound file, extract those channels as mono files. Each extracted filename receives the channel name from Adobe Audition.
 

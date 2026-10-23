@@ -1,4 +1,4 @@
-# ExtendScript Reflection Interface — ReflectionObject
+# ExtendScript Reflection Interface - ReflectionObject
 
 On any object, the reflect property yields a Reflection Object that describes what the object contains. For instance, this code prints every property name together with its current value:
 

@@ -1,4 +1,4 @@
-# Working with objects — Creating new objects
+# Working with objects - Creating new objects
 
 Some objects, not including the application object itself, are not retrieved through containers or parent objects. Scripts have to instantiate those objects directly.
 

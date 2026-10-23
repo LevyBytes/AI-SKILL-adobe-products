@@ -1,4 +1,4 @@
-# Checking spelling — Duden dictionary
+# Checking spelling - Duden dictionary
 
 Duden is built directly into InCopy. For German text, Duden can provide more precise hyphenation and spell checking.
 

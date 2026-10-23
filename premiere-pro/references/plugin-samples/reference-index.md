@@ -1,4 +1,4 @@
-# Premiere Pro — Plugin examples
+# Premiere Pro - Plugin examples
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How to Integrate with OAuth in Premiere Pro. [How to Integrate with OAuth](how-to-integrate-with-o-auth.md).

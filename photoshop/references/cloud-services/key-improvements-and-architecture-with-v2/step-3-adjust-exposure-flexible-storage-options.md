@@ -1,4 +1,4 @@
-# Step 3: Adjust exposure — Flexible storage options
+# Step 3: Adjust exposure - Flexible storage options
 
 V2 adds storage choices beyond presigned URLs:
 

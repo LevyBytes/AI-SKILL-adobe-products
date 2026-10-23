@@ -1,4 +1,4 @@
-# Formatting characters — Specify the type of swatches to display
+# Formatting characters - Specify the type of swatches to display
 
 Choose Window > Swatches to display the Swatches panel. At the bottom of that panel, choose one of these display filters:
 

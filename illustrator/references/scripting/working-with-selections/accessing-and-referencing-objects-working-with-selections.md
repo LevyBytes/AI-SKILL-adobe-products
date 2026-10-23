@@ -1,4 +1,4 @@
-# Accessing and referencing objects — Working with selections
+# Accessing and referencing objects - Working with selections
 
 After a document selection is made, the chosen objects live in the document's selection property. This retrieves every selected object from the active document:
 

@@ -1,4 +1,4 @@
-# 3d Layer Match Names — Materials
+# 3d Layer Match Names - Materials
 
 | Match Name | Display Name (EN) |
 | --- | --- |

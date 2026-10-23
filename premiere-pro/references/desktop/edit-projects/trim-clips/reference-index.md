@@ -1,4 +1,4 @@
-# Premiere Pro — Trim clips
+# Premiere Pro - Trim clips
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Asymmetrical trimming in Premiere Pro. [Asymmetrical trimming](asymmetrical-trimming.md).

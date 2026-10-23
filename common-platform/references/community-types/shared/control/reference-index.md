@@ -1,4 +1,4 @@
-# Shared Adobe platform — _Control
+# Shared Adobe platform - _Control
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up _Control declaration in Shared Adobe platform. [_Control declaration](declaration.md).

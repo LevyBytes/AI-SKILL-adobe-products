@@ -1,4 +1,4 @@
-# InDesign — TaskAlertType
+# InDesign - TaskAlertType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TASK_ERROR in InDesign. [TASK_ERROR](taskerror.md).

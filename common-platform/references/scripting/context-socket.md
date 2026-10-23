@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: sockets and external communication
+# Shared Adobe platform - Scripting APIs: sockets and external communication
 
-Open when working with sockets and external communication in Shared Adobe platform — Scripting APIs.
+Open when working with sockets and external communication in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-socket.json).
 

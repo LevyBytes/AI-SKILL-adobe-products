@@ -1,6 +1,6 @@
 # Add or modify stamps
 
-Working with stamps in Adobe Acrobat — applying, tailoring, and organizing them to signal document status and convey important details to signers and reviewers.
+Working with stamps in Adobe Acrobat: applying, tailoring, and organizing them to signal document status and convey important details to signers and reviewers.
 
 Choose All tools > View more > Add a stamp.
 

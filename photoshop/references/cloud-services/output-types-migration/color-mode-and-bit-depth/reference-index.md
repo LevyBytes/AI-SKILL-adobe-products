@@ -1,4 +1,4 @@
-# Photoshop — Output Types Migration Guide — Format support: color mode and bit depth
+# Photoshop - Output Types Migration Guide - Format support: color mode and bit depth
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bit depth validation in Photoshop. [Bit depth validation](bit-depth-validation.md).

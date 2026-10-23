@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: scriptui programming model and controls
+# Shared Adobe platform - Scripting APIs: scriptui programming model and controls
 
-Open when working with scriptui programming model and controls in Shared Adobe platform — Scripting APIs.
+Open when working with scriptui programming model and controls in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-foundations.json).
 

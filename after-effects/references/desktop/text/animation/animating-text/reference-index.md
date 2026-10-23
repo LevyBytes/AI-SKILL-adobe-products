@@ -1,4 +1,4 @@
-# After Effects — Animating Text
+# After Effects - Animating Text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Additional online resources for animation presets in After Effects. [Additional online resources for animation presets](additional-online-resources-for-animation-presets.md).

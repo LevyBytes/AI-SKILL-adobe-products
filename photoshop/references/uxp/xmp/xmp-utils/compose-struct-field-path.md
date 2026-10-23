@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPUtils — composeStructFieldPath(schemaNS, structName, fieldNS, fieldName)
+# require('uxp').xmp.XMPUtils - composeStructFieldPath(schemaNS, structName, fieldNS, fieldName)
 
 Creates a path-expression string for a field inside a structure by using the registered namespace prefixes, in the form:
 schemaNS:structName/fieldNS:fieldName

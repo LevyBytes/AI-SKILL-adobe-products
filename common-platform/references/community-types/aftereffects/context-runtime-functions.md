@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: runtime utility functions
+# Shared Adobe platform - Aftereffects: runtime utility functions
 
-Open when working with runtime utility functions in Shared Adobe platform — Aftereffects.
+Open when working with runtime utility functions in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-runtime-functions.json).
 

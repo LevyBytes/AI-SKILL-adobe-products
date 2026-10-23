@@ -1,4 +1,4 @@
-# Apple Silicon Support — How to add Universal Binary Support for your Plugins
+# Apple Silicon Support - How to add Universal Binary Support for your Plugins
 
 Load your plugin's Xcode project under 12.2 or later and Xcode will set up an Apple Silicon target on its own.
 

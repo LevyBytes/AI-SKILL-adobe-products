@@ -1,4 +1,4 @@
-# AEGP Suites — Managing Menu Items
+# AEGP Suites - Managing Menu Items
 
 Any menu-driven event can be created and serviced through the Command Suites.
 

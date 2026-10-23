@@ -1,4 +1,4 @@
-# Shared Adobe platform — Windows
+# Shared Adobe platform - Windows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Windows collection iteration in Shared Adobe platform. [Windows collection iteration](collection-iteration.md).

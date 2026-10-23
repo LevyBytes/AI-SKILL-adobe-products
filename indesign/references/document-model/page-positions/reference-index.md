@@ -1,4 +1,4 @@
-# InDesign — PagePositions
+# InDesign - PagePositions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CENTER_HORIZONTALLY in InDesign. [CENTER_HORIZONTALLY](centerhorizontally.md).

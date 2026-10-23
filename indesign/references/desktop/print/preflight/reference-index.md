@@ -1,4 +1,4 @@
-# InDesign — Preflight
+# InDesign - Preflight
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure and use the preflight panel in InDesign. [Configure and use the preflight panel](configure-and-use-the-preflight-panel.md).

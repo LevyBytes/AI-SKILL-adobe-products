@@ -1,4 +1,4 @@
-# InDesign — Edit math expressions
+# InDesign - Edit math expressions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit directly on the canvas in InDesign. [Edit directly on the canvas](edit-directly-on-the-canvas.md).

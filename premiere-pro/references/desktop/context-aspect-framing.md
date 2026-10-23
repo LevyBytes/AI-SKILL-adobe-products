@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: aspect ratios, framing and interlaced footage
+# Premiere Pro - Desktop workflows: aspect ratios, framing and interlaced footage
 
-Open when working with aspect ratios, framing and interlaced footage in Premiere Pro — Desktop workflows.
+Open when working with aspect ratios, framing and interlaced footage in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-aspect-framing.json).
 

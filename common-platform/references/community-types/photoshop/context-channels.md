@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: channels and pixel color sampling
+# Shared Adobe platform - Photoshop: channels and pixel color sampling
 
-Open when working with channels and pixel color sampling in Shared Adobe platform — Photoshop.
+Open when working with channels and pixel color sampling in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-channels.json).
 

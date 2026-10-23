@@ -1,4 +1,4 @@
-# Shared Adobe platform — String
+# Shared Adobe platform - String
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up String declaration in Shared Adobe platform. [String declaration](declaration.md).

@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [extract_text_table_renditions.py](../examples/python/extract-figure-table-renditions/extract_text_table_renditions.py)
+- [extract-figure-table-renditions setup and source](../examples/python/extract-figure-table-renditions/extract-renditions-setup.md)

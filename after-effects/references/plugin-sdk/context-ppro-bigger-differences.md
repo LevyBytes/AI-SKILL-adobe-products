@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: bigger differences
+# After Effects - C++ plugin SDK: bigger differences
 
-Open when working with bigger differences in After Effects — C++ plugin SDK.
+Open when working with bigger differences in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-ppro-bigger-differences.json).
 

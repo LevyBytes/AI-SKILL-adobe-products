@@ -1,6 +1,6 @@
-# Photoshop — Properties: box dimensions and spacing
+# Photoshop - Properties: box dimensions and spacing
 
-Open when working with box dimensions and spacing in Photoshop — Properties.
+Open when working with box dimensions and spacing in Photoshop - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-box-size-spacing.json).
 

@@ -1,4 +1,4 @@
-# Acrobat — Merge and flatten layers
+# Acrobat - Merge and flatten layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Flatten all layers in Acrobat. [Flatten all layers](flatten-all-layers.md).

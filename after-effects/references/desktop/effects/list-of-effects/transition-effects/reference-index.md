@@ -1,4 +1,4 @@
-# After Effects — Transition effects
+# After Effects - Transition effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Transition effects and the Transition Completion property in After Effects. [About Transition effects and the Transition Completion property](transition-completion-property.md).

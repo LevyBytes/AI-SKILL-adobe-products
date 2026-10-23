@@ -1,6 +1,6 @@
-# InDesign — Movie: generate qr codes
+# InDesign - Movie: generate qr codes
 
-Open when checking generate qr codes in InDesign — Movie.
+Open when checking generate qr codes in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

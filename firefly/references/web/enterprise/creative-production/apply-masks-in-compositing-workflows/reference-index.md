@@ -1,4 +1,4 @@
-# Firefly — Apply masks in compositing workflows
+# Firefly - Apply masks in compositing workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Binary mask interpretation in Firefly. [Binary mask interpretation](binary-mask-interpretation.md).

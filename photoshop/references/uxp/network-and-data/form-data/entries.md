@@ -1,4 +1,4 @@
-# window.FormData — entries()
+# window.FormData - entries()
 
 Provides an iterator over every key/value pair stored in FormData.
 Each entry has a string object as its key; the associated value is a string or Blob object.

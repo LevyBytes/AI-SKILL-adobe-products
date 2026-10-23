@@ -1,6 +1,6 @@
-# InDesign — Text column: paragraph rules
+# InDesign - Text column: paragraph rules
 
-Open when checking paragraph rules in InDesign — Text column.
+Open when checking paragraph rules in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

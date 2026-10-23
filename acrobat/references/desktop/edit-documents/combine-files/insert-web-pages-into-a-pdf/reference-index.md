@@ -1,4 +1,4 @@
-# Acrobat — Insert web pages into a PDF
+# Acrobat - Insert web pages into a PDF
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a linked web page to an existing PDF in Acrobat. [Add a linked web page to an existing PDF](add-a-linked-web-page-to-an-existing-pdf.md).

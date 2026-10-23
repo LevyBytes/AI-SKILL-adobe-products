@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: editable text and text animators
+# Shared Adobe platform - _CommandID: editable text and text animators
 
-Open when working with editable text and text animators in Shared Adobe platform — _CommandID.
+Open when working with editable text and text animators in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-text.json).
 

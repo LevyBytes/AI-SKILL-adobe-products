@@ -1,4 +1,4 @@
-# After Effects — AEGP_FootageSuite5
+# After Effects - AEGP_FootageSuite5
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_AddFootageToProject in After Effects. [AEGP_AddFootageToProject](aegp-add-footage-to-project.md).

@@ -1,4 +1,4 @@
-# ExtendScript overview — Interapplication communication and messaging
+# ExtendScript overview - Interapplication communication and messaging
 
 Across Adobe applications that enable JavaScript, ExtendScript supplies a shared scripting environment and supports script-based communication between applications.
 

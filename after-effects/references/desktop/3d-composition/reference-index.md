@@ -1,4 +1,4 @@
-# After Effects — Work with 3 d composition
+# After Effects - Work with 3 d composition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3 d camera tracker effect in After Effects. [3 d camera tracker effect references](3-d-camera-tracker-effect/reference-index.md).

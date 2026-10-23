@@ -1,4 +1,4 @@
-# Analytics — Control analytics collection
+# Analytics - Control analytics collection
 
 Where your site is already hooked into an analytics tool — Adobe Analytics or Google Analytics — a few extra setup steps let you gather PDF analytics. For the full procedure, check the [Adobe Analytics](configure-adobe-analytics.md) and [Google Analytics](analytics-google-analytics/reference-index.md) sections.
 

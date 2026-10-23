@@ -1,4 +1,4 @@
-# Illustrator — Dataset
+# Illustrator - Dataset
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Dataset.display() in Illustrator. [Dataset.display()](display.md).

@@ -1,4 +1,4 @@
-# Artisan Data Types — Notes Regarding Camera Behavior
+# Artisan Data Types - Notes Regarding Camera Behavior
 
 Camera orientation uses composition coordinates, while rotations use the camera layer's coordinates.
 

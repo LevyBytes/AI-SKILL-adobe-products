@@ -1,4 +1,4 @@
-# Property object — Methods
+# Property object - Methods
 
 | Parameter | Type | Description |
 | --- | --- | --- |
@@ -12,7 +12,7 @@ A KeyframeInterpolationType enumerated value; one of:
 - KeyframeInterpolationType.BEZIER
 - KeyframeInterpolationType.HOLD
 
-## Property object — Methods
+## Property object - Methods
 
 | Parameter | Type | Description |
 | --- | --- | --- |

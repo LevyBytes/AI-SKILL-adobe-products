@@ -1,4 +1,4 @@
-# After Effects — Animated Environment Lights
+# After Effects - Animated Environment Lights
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a composition as a source of Environment Light in After Effects. [Add a composition as a source of Environment Light](composition-light-source.md).

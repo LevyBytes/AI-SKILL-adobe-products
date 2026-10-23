@@ -1,6 +1,6 @@
-# InDesign — Row: fill, stroke and transparency
+# InDesign - Row: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Row.
+Open when checking fill, stroke and transparency in InDesign - Row.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

@@ -1,4 +1,4 @@
-# InDesign — BevelAndEmbossStyle
+# InDesign - BevelAndEmbossStyle
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up EMBOSS in InDesign. [EMBOSS](emboss.md).

@@ -1,4 +1,4 @@
-# Acrobat — Create pdfs
+# Acrobat - Create pdfs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Convert to PDFs in Acrobat. [Convert to PDFs](convert-to-pdfs.md).

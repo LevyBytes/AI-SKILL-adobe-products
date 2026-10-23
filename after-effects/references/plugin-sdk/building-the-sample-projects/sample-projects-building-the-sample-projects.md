@@ -1,4 +1,4 @@
-# Sample Projects — Building The Sample Projects
+# Sample Projects - Building The Sample Projects
 
 The sample projects have all been rolled up into one master project that sits in the SDK's Examples folder. On macOS that's Buildall.xcodeproj; on Windows it's BuildAll.sln.
 

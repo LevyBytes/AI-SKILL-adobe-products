@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: bounds, dimensions and transforms
+# InDesign - InDesign document object model: bounds, dimensions and transforms
 
-Open when working with bounds, dimensions and transforms in InDesign — InDesign document object model.
+Open when working with bounds, dimensions and transforms in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-geometry.json).
 

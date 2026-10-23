@@ -1,4 +1,4 @@
-# Glyphs and special characters — Insert straight quotation marks
+# Glyphs and special characters - Insert straight quotation marks
 
 Use one of these methods:
 

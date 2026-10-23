@@ -1,4 +1,4 @@
-# Acrobat — Generative summary in Acrobat
+# Acrobat - Generative summary in Acrobat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Advantages of real-time summaries in Acrobat. [Advantages of real-time summaries](advantages-of-real-time-summaries.md).

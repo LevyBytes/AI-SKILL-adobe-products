@@ -1,4 +1,4 @@
-# PrintFlattenerOptions — Properties
+# PrintFlattenerOptions - Properties
 
 printFlattenerOptions.clipComplexRegions
 

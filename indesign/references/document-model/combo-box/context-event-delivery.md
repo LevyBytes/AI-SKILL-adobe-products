@@ -1,6 +1,6 @@
-# InDesign — Combo box: events and listeners
+# InDesign - Combo box: events and listeners
 
-Open when checking events and listeners in InDesign — Combo box.
+Open when checking events and listeners in InDesign - Combo box.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

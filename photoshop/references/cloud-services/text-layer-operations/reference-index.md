@@ -1,4 +1,4 @@
-# Photoshop — Text layer operations
+# Photoshop - Text layer operations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ActionJSON definition in Photoshop. [ActionJSON definition](action-json-definition.md).

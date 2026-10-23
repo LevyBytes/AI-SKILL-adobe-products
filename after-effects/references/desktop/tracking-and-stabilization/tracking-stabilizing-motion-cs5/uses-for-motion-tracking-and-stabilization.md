@@ -2,7 +2,7 @@
 
 Motion tracking serves a wide range of purposes. A few illustrations:
 
-Merging footage shot at different times — for instance, dropping video onto the flank of a city bus in motion, or placing a star at the tip of a wand as it sweeps through the air.
+Merging footage shot at different times: for instance, dropping video onto the flank of a city bus in motion, or placing a star at the tip of a wand as it sweeps through the air.
 
 Driving a static image so it travels in step with live action, like a cartoon bumblebee perched on a flower that sways back and forth.
 

@@ -1,4 +1,4 @@
-# Localization and Platforms — OS Identification
+# Localization and Platforms - OS Identification
 
 When plugin code must branch between macOS and Windows, query the OS platform from the host environment this way:
 

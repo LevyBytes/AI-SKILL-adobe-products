@@ -1,6 +1,6 @@
-# InDesign — Button: object identity and lifecycle
+# InDesign - Button: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Button.
+Open when checking object identity and lifecycle in InDesign - Button.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

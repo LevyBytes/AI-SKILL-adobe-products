@@ -1,6 +1,6 @@
-# InDesign — CellStyle: apply and manage styles
+# InDesign - CellStyle: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — CellStyle.
+Open when checking apply and manage styles in InDesign - CellStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

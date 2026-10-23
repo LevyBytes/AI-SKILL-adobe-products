@@ -1,4 +1,4 @@
-# Scripting Constants — SVGFontType
+# Scripting Constants - SVGFontType
 
 Exported SVG font output can use these font-type choices.
 

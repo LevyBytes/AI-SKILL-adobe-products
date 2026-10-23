@@ -1,4 +1,4 @@
-# Color Space Conversion — Color Space Conversion Callbacks
+# Color Space Conversion - Color Space Conversion Callbacks
 
 | Function | Purpose | Replaces |
 | --- | --- | --- |

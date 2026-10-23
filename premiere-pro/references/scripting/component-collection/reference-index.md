@@ -1,4 +1,4 @@
-# Premiere Pro — Component collection
+# Premiere Pro - Component collection
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ComponentCollection object in Premiere Pro. [ComponentCollection object](component-collection-object.md).

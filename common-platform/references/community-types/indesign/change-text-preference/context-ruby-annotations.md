@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeTextPreference: ruby annotations
+# Shared Adobe platform - ChangeTextPreference: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — ChangeTextPreference.
+Open when checking ruby annotations in Shared Adobe platform - ChangeTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

@@ -1,4 +1,4 @@
-# Firefly — Train Style IDs
+# Firefly - Train Style IDs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Test and publish your trained Style ID in Firefly. [Test and publish your trained Style ID](test-and-publish-your-trained-style-id.md).

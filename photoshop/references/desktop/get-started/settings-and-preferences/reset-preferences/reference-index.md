@@ -1,4 +1,4 @@
-# Photoshop — Reset preferences
+# Photoshop - Reset preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Manually reset preferences in Photoshop. [Manually reset preferences](manually-reset-preferences.md).

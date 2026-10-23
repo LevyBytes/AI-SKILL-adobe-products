@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: renditions, layer export and file formats
+# Photoshop - Cloud service APIs: renditions, layer export and file formats
 
-Open when working with renditions, layer export and file formats in Photoshop — Cloud service APIs.
+Open when working with renditions, layer export and file formats in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-renditions-output.json).
 

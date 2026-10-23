@@ -1,4 +1,4 @@
-# Making your Plugin Theme-aware — Built-in Theme Colors
+# Making your Plugin Theme-aware - Built-in Theme Colors
 
 The simplest path to theme awareness is a CSS capability named `CSS variables`. In CSS, these variables let property definitions change dynamically.
 

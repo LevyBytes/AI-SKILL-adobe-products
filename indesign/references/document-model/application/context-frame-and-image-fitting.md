@@ -1,6 +1,6 @@
-# InDesign — Application: image fitting, cropping and resolution
+# InDesign - Application: image fitting, cropping and resolution
 
-Open when checking image fitting, cropping and resolution in InDesign — Application.
+Open when checking image fitting, cropping and resolution in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-frame-and-image-fitting.json).
 

@@ -1,4 +1,4 @@
-# Photoshop — Reshape and distort images with Transform Warp
+# Photoshop - Reshape and distort images with Transform Warp
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customize warp guide display options in Photoshop. [Customize warp guide display options](customize-warp-guide-display-options.md).

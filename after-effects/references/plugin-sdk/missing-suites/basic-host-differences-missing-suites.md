@@ -1,4 +1,4 @@
-# Basic Host Differences — Missing Suites
+# Basic Host Differences - Missing Suites
 
 Many suites supported by After Effects are absent from the Premiere Pro host. In several cases, even when a suite is missing in Premiere Pro, an equivalent macro function exists. Examples:
 

@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: cloud documents, libraries and collaboration
+# InDesign - GraphicLine: cloud documents, libraries and collaboration
 
-Open when checking cloud documents, libraries and collaboration in InDesign — GraphicLine.
+Open when checking cloud documents, libraries and collaboration in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-cloud-and-collaboration.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Text style range: lists, numbering and drop caps
+# InDesign - Text style range: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in InDesign — Text style range.
+Open when checking lists, numbering and drop caps in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

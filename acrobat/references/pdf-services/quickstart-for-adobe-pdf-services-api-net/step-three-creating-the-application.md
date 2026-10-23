@@ -2,9 +2,9 @@
 
 1. The starting point is pulling in the dependencies the code relies on:
 
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/export-brochure-docx/Program.cs)
+- [export-brochure-docx setup and source](../examples/dotnet/export-brochure-docx/export-brochure-docx-setup.md)
 
 2. Next, lay out our main class together with its `Main` method:
 

@@ -1,4 +1,4 @@
-# Editing text — Apply grid format to text
+# Editing text - Apply grid format to text
 
 Grid format can be assigned to text that is not currently matching the grid format.
 

@@ -1,4 +1,4 @@
-# window.ClassList — remove(...tokens)
+# window.ClassList - remove(...tokens)
 
 Deletes the supplied items from the token list; missing tokens do not raise an error.
 

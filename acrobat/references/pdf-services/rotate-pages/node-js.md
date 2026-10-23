@@ -1,6 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [rotate-pdf-pages.cjs](../examples/node/rotate-pdf-pages/rotate-pdf-pages.cjs)
-- [dependencies.cjs](../examples/node/rotate-pdf-pages/dependencies.cjs)
-- [helpers.cjs](../examples/node/rotate-pdf-pages/helpers.cjs)
+- [rotate-pdf-pages setup and source](../examples/node/rotate-pdf-pages/rotate-pdf-pages-setup.md)

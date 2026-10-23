@@ -1,4 +1,4 @@
-# Working with managed files — Open shared content
+# Working with managed files - Open shared content
 
 Assignment files (.inca) open only in InCopy. When an InCopy user opens an InDesign file that includes assignments, all managed content becomes available to that user, independent of assignment membership.
 

@@ -1,4 +1,4 @@
-# Preprocessor directives — #targetengine enginename
+# Preprocessor directives - #targetengine enginename
 
 Identifies the JavaScript engine, inside the selected target application, that should run this JSX file.
 

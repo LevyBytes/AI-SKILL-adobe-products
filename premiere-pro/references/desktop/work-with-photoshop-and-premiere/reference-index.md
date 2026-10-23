@@ -1,4 +1,4 @@
-# Premiere Pro — Work with photoshop and premiere
+# Premiere Pro - Work with photoshop and premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Combine Photoshop edits with Premiere animation and sequencing tools. in Premiere Pro. [Combine Photoshop edits with Premiere animation and sequencing tools.](photoshop-editing-and-premiere-sequencing.md).

@@ -1,4 +1,4 @@
-# Photoshop — Save and export
+# Photoshop - Save and export
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export files to different formats in Photoshop. [Export files to different formats references](file-formats/reference-index.md).

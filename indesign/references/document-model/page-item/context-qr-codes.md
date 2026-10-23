@@ -1,6 +1,6 @@
-# InDesign — PageItem: generate qr codes
+# InDesign - PageItem: generate qr codes
 
-Open when checking generate qr codes in InDesign — PageItem.
+Open when checking generate qr codes in InDesign - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

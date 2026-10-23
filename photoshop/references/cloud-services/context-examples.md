@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: cross-operation request examples
+# Photoshop - Cloud service APIs: cross-operation request examples
 
-Open when working with cross-operation request examples in Photoshop — Cloud service APIs.
+Open when working with cross-operation request examples in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-examples.json).
 

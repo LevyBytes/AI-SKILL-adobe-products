@@ -1,4 +1,4 @@
-# Scripting Constants — ViewRasterType
+# Scripting Constants - ViewRasterType
 
 Raster display choice used while viewing tracing results.
 

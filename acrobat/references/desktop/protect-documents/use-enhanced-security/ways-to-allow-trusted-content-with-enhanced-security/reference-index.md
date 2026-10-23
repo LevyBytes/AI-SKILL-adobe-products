@@ -1,4 +1,4 @@
-# Acrobat — Ways to allow trusted content with enhanced security
+# Acrobat - Ways to allow trusted content with enhanced security
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Privileged locations in Acrobat. [Privileged locations](privileged-locations.md).

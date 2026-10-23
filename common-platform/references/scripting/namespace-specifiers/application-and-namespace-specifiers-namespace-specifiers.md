@@ -1,4 +1,4 @@
-# Application and namespace specifiers — Namespace specifiers
+# Application and namespace specifiers - Namespace specifiers
 
 For cross-DOM and exported function calls into other applications, a namespace specifier qualifies the call and routes it to the correct application.
 

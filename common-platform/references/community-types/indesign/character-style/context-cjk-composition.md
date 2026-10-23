@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: cjk grids and composition
+# Shared Adobe platform - CharacterStyle: cjk grids and composition
 
-Open when checking cjk grids and composition in Shared Adobe platform — CharacterStyle.
+Open when checking cjk grids and composition in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-cjk-composition.json).
 

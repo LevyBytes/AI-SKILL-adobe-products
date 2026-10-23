@@ -1,4 +1,4 @@
-# Tips & Tricks — Global Performance Cache Consideratons
+# Tips & Tricks - Global Performance Cache Consideratons
 
 Under the revamped CS6 caching, a change to how your effect renders may require clearing already-cached frames so that frames rendered and saved before the change don't get reused. Here's how to do that by hand during development:
 

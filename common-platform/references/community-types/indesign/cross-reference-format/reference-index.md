@@ -1,4 +1,4 @@
-# Shared Adobe platform — CrossReferenceFormat
+# Shared Adobe platform - CrossReferenceFormat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CrossReferenceFormat declaration in Shared Adobe platform. [CrossReferenceFormat declaration](declaration.md).

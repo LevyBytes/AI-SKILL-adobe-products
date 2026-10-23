@@ -1,4 +1,4 @@
-# Shared Adobe platform — CrossReferenceSources
+# Shared Adobe platform - CrossReferenceSources
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CrossReferenceSources collection iteration in Shared Adobe platform. [CrossReferenceSources collection iteration](collection-iteration.md).

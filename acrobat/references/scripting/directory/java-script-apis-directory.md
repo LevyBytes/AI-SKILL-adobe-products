@@ -1,4 +1,4 @@
-# JavaScript APIs — Directory
+# JavaScript APIs - Directory
 
 | Version (Key) | Save-Prefs | Security | Product |
 | --- | --- | --- | --- |

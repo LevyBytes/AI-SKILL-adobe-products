@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: measurements, counting and logs
+# Shared Adobe platform - Photoshop: measurements, counting and logs
 
-Open when working with measurements, counting and logs in Shared Adobe platform — Photoshop.
+Open when working with measurements, counting and logs in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-measurements.json).
 

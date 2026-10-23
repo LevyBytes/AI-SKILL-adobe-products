@@ -1,4 +1,4 @@
-# Photoshop — Manage measurement logs
+# Photoshop - Manage measurement logs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Display the Measurement Log in Photoshop. [Display the Measurement Log](display-the-measurement-log.md).

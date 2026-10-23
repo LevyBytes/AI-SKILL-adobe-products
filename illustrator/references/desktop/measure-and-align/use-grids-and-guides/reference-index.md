@@ -1,4 +1,4 @@
-# Illustrator — Use grids and guides
+# Illustrator - Use grids and guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About rulers in Illustrator. [About rulers](about-rulers.md).

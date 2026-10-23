@@ -4,7 +4,7 @@ Version (Key): 6.0 | Save-Prefs: No | Security: No | Product: All | Type: Object
 
 Lists out the values that can turn up in Rendition.type. The values and what they describe appear below.
 
-Value — Description
+Value: Description
 
 app.media.renditionType.unknown
 

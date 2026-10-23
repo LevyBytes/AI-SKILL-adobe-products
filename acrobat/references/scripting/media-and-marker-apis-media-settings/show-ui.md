@@ -8,7 +8,7 @@ A Boolean that decides whether the media player shows its controls or hides them
 
 The default value is false.
 
-Example — surface the player's controls; this code runs from a Rendition action.
+Example: surface the player's controls; this code runs from a Rendition action.
 
 ```javascript
 var player = app.media.createPlayer();

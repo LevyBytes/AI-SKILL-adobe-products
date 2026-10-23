@@ -1,4 +1,4 @@
-# Photoshop — Dom
+# Photoshop - Dom
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Abort controller in Photoshop. [Abort controller references](abort-controller/reference-index.md).

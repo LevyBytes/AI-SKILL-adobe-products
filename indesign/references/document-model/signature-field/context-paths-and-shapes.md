@@ -1,6 +1,6 @@
-# InDesign — SignatureField: paths and shape operations
+# InDesign - SignatureField: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — SignatureField.
+Open when checking paths and shape operations in InDesign - SignatureField.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

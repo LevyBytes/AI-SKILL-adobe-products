@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Group Transform Properties
+# Shape Layer Match Names - Group Transform Properties
 
 | Match Name | Display Name (EN) |
 | --- | --- |

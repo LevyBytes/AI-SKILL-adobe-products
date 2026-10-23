@@ -1,4 +1,4 @@
-# Premiere Pro — Correct color using color wheels
+# Premiere Pro - Correct color using color wheels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Click the wheel to add color in Premiere Pro. [Click the wheel to add color](click-the-wheel-to-add-color.md).

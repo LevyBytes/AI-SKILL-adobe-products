@@ -1,4 +1,4 @@
-# Premiere Pro — Source and program monitors
+# Premiere Pro - Source and program monitors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Compare edits to clips in the Program Monitor in Premiere Pro. [Compare edits to clips in the Program Monitor](compare-edits-to-clips-in-the-program-monitor.md).

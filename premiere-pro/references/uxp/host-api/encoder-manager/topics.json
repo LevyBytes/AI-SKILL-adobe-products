@@ -1,8 +1,8 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
   {"topic": "encodeFile", "file": "references/uxp/host-api/encoder-manager/encode-file.md", "summary": "Open when looking up encodeFile in Premiere Pro.", "keywords": ["encodeFile"]},
   {"topic": "encodeProjectItem", "file": "references/uxp/host-api/encoder-manager/encode-project-item.md", "summary": "Open when looking up encodeProjectItem in Premiere Pro.", "keywords": ["encodeProjectItem"]},
-  {"topic": "EncoderManager — Events", "file": "references/uxp/host-api/encoder-manager/encoder-manager-events.md", "summary": "Open when looking up EncoderManager — Events in Premiere Pro.", "keywords": ["EncoderManager — Events"]},
-  {"topic": "EncoderManager — Properties", "file": "references/uxp/host-api/encoder-manager/encoder-manager-properties.md", "summary": "Open when looking up EncoderManager — Properties in Premiere Pro.", "keywords": ["EncoderManager — Properties"]},
+  {"topic": "EncoderManager - Events", "file": "references/uxp/host-api/encoder-manager/encoder-manager-events.md", "summary": "Open when looking up EncoderManager - Events in Premiere Pro.", "keywords": ["EncoderManager - Events"]},
+  {"topic": "EncoderManager - Properties", "file": "references/uxp/host-api/encoder-manager/encoder-manager-properties.md", "summary": "Open when looking up EncoderManager - Properties in Premiere Pro.", "keywords": ["EncoderManager - Properties"]},
   {"topic": "exportSequence", "file": "references/uxp/host-api/encoder-manager/export-sequence.md", "summary": "Open when looking up exportSequence in Premiere Pro.", "keywords": ["exportSequence"]},
   {"topic": "getExportFileExtension", "file": "references/uxp/host-api/encoder-manager/get-export-file-extension.md", "summary": "Open when looking up getExportFileExtension in Premiere Pro.", "keywords": ["getExportFileExtension"]},
   {"topic": "getManager", "file": "references/uxp/host-api/encoder-manager/get-manager.md", "summary": "Open when looking up getManager in Premiere Pro.", "keywords": ["getManager"]},

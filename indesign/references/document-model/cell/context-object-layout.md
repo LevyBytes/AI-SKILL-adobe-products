@@ -1,6 +1,6 @@
-# InDesign — Cell: placement, bounds and transformations
+# InDesign - Cell: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Cell.
+Open when checking placement, bounds and transformations in InDesign - Cell.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

@@ -1,4 +1,4 @@
-# Version - Support policy — Migration Guide to PDF Services SDK
+# Version - Support policy - Migration Guide to PDF Services SDK
 
 To move onto PDF Services SDK version 3.4.0, consult the table that follows; the Samples (
 [Java](https://www.adobe.com/go/pdftoolsapi_java_samples), [Node

@@ -1,4 +1,4 @@
-# Premiere Pro — Add Content Credentials to exported videos
+# Premiere Pro - Add Content Credentials to exported videos
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure your Content Credentials preferences in Premiere Pro. [Configure your Content Credentials preferences](configure-your-content-credentials-preferences.md).

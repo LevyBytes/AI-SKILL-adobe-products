@@ -1,4 +1,4 @@
-# Selecting and editing tables — Working with tables in Story Editor
+# Selecting and editing tables - Working with tables in Story Editor
 
 Choosing Edit > Edit In Story Editor shows tables and their contents in Story Editor. Tables can also be edited there.
 

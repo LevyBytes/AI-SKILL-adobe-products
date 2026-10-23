@@ -1,4 +1,4 @@
-# Premiere Pro — TypeScript Support
+# Premiere Pro - TypeScript Support
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Development Workflow in Premiere Pro. [Development Workflow](development-workflow.md).

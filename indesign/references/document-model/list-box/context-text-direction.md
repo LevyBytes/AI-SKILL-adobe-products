@@ -1,6 +1,6 @@
-# InDesign — List box: writing direction and diacritics
+# InDesign - List box: writing direction and diacritics
 
-Open when checking writing direction and diacritics in InDesign — List box.
+Open when checking writing direction and diacritics in InDesign - List box.
 
 Open when selecting an exact API member: [Topic catalog](context-text-direction.json).
 

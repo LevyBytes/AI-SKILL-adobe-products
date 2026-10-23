@@ -1,4 +1,4 @@
-# Photoshop — Remove layer effects
+# Photoshop - Remove layer effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Remove all layer effects at once in Photoshop. [Remove all layer effects at once](remove-all-layer-effects-at-once.md).

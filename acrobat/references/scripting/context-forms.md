@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: forms, fdf, xfa and field data
+# Acrobat - Scripting APIs: forms, fdf, xfa and field data
 
-Open when working with forms, fdf, xfa and field data in Acrobat — Scripting APIs.
+Open when working with forms, fdf, xfa and field data in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-forms.json).
 

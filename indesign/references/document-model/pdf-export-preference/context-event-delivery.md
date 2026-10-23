@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreference: events and listeners
+# InDesign - PDFExportPreference: events and listeners
 
-Open when checking events and listeners in InDesign — PDFExportPreference.
+Open when checking events and listeners in InDesign - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Condition
+# Shared Adobe platform - Condition
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Condition declaration in Shared Adobe platform. [Condition declaration](declaration.md).

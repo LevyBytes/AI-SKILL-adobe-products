@@ -1,6 +1,6 @@
-# InDesign — PICT: placement, bounds and transformations
+# InDesign - PICT: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — PICT.
+Open when checking placement, bounds and transformations in InDesign - PICT.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

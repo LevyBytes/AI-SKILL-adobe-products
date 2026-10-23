@@ -1,4 +1,4 @@
-# Acrobat — Commenting feature overview
+# Acrobat - Commenting feature overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add text comments in Acrobat. [Add text comments](add-text-comments.md).

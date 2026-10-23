@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: document lifecycle and stage properties
+# Shared Adobe platform - Document: document lifecycle and stage properties
 
-Open when working with document lifecycle and stage properties in Shared Adobe platform — Document.
+Open when working with document lifecycle and stage properties in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-document.json).
 

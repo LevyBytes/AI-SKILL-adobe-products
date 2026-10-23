@@ -1,6 +1,6 @@
-# InDesign — Insertion point: text ranges and containers
+# InDesign - Insertion point: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Insertion point.
+Open when checking text ranges and containers in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

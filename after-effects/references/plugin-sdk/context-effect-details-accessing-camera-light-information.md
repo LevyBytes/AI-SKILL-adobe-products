@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: accessing camera & light information
+# After Effects - C++ plugin SDK: accessing camera & light information
 
-Open when working with accessing camera & light information in After Effects — C++ plugin SDK.
+Open when working with accessing camera & light information in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-accessing-camera-light-information.json).
 

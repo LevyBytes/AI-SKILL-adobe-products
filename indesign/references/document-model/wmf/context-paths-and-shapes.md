@@ -1,6 +1,6 @@
-# InDesign — WMF: paths and shape operations
+# InDesign - WMF: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — WMF.
+Open when checking paths and shape operations in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

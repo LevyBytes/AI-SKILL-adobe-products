@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [pdf-watermark.py](../examples/python/pdf-watermark/pdf-watermark.py)
+- [pdf-watermark setup and source](../examples/python/pdf-watermark/pdf-watermark-setup.md)

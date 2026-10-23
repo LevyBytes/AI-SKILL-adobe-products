@@ -1,4 +1,4 @@
-# InDesign — NestedStyleDelimiters
+# InDesign - NestedStyleDelimiters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ANY_CHARACTER in InDesign. [ANY_CHARACTER](anycharacter.md).

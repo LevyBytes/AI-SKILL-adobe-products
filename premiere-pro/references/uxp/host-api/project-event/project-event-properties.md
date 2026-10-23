@@ -1,4 +1,4 @@
-# ProjectEvent — Properties
+# ProjectEvent - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

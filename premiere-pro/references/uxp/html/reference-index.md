@@ -1,4 +1,4 @@
-# Premiere Pro — Html
+# Premiere Pro - Html
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up body in Premiere Pro. [body](body.md).

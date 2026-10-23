@@ -1,4 +1,4 @@
-# Illustrator — Recolor artwork
+# Illustrator - Recolor artwork
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Recolor using Color Library in Illustrator. [Recolor using Color Library](recolor-using-color-library.md).

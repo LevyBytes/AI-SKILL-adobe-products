@@ -1,4 +1,4 @@
-# After Effects — Work in 3D Design Animation Space
+# After Effects - Work in 3D Design Animation Space
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Draft Preview in After Effects. [3D Draft Preview](3-d-draft-preview.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: file, folder, path and encoding apis
+# Shared Adobe platform - Scripting APIs: file, folder, path and encoding apis
 
-Open when working with file, folder, path and encoding apis in Shared Adobe platform — Scripting APIs.
+Open when working with file, folder, path and encoding apis in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-files.json).
 

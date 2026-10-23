@@ -1,4 +1,4 @@
-# InDesign — Prepare documents for color separation
+# InDesign - Prepare documents for color separation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Configure ink settings in Ink Manager in InDesign. [Configure ink settings in Ink Manager](configure-ink-settings-in-ink-manager.md).

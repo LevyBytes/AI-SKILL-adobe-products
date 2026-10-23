@@ -1,4 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [StaticHTMLToPDF.java](../examples/java/static-html-to-pdf/StaticHTMLToPDF.java)
+- [static-html-to-pdf setup and source](../examples/java/static-html-to-pdf/static-html-to-pdf-setup.md)

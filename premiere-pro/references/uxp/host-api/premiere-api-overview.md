@@ -1,4 +1,4 @@
-# Premiere API — Overview
+# Premiere API - Overview
 
 Use the following line to access the Premiere DOM through UXP.
 

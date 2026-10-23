@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: application, events and scripting environment
+# Acrobat - Scripting APIs: application, events and scripting environment
 
-Open when working with application, events and scripting environment in Acrobat — Scripting APIs.
+Open when working with application, events and scripting environment in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-application.json).
 

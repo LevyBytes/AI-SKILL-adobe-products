@@ -1,4 +1,4 @@
-# Premiere Pro — Enterprise Distribution
+# Premiere Pro - Enterprise Distribution
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Deploy plugins through the Admin Console in Premiere Pro. [1. Deploy plugins through the Admin Console](deploy-plugins-through-the-admin-console.md).

@@ -1,4 +1,4 @@
-# Automatic layout — Automatic layout restrictions
+# Automatic layout - Automatic layout restrictions
 
 These restrictions apply to automatic layout:
 

@@ -1,6 +1,6 @@
-# InDesign — Application: print job, printer and page selection
+# InDesign - Application: print job, printer and page selection
 
-Open when checking print job, printer and page selection in InDesign — Application.
+Open when checking print job, printer and page selection in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-print-job.json).
 

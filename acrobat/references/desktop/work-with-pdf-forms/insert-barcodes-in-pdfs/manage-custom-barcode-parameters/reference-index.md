@@ -1,4 +1,4 @@
-# Acrobat — Manage custom barcode parameters
+# Acrobat - Manage custom barcode parameters
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a new barcode parameter set in Acrobat. [Create a new barcode parameter set](create-a-new-barcode-parameter-set.md).

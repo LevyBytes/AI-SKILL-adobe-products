@@ -1,4 +1,4 @@
-# Workspace basics — Reconfigure the Tools panel
+# Workspace basics - Reconfigure the Tools panel
 
 The Tools panel can show tools in one column or arranged side by side as two columns. (Fireworks and Flash do not include this feature in the Tools panel.)
 

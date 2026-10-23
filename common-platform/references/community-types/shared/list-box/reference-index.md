@@ -1,4 +1,4 @@
-# Shared Adobe platform — ListBox
+# Shared Adobe platform - ListBox
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ListBox declaration in Shared Adobe platform. [ListBox declaration](declaration.md).

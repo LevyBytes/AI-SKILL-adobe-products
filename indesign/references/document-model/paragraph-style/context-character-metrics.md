@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: character spacing and geometry
+# InDesign - Paragraph style: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Paragraph style.
+Open when checking character spacing and geometry in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

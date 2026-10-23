@@ -4,7 +4,7 @@ Example 1: Either a document-level or a folder-level JavaScript can hold the dia
 
 
 
-[Personal-data dialog implementation](../examples/personal-data-dialog.js).
+[Personal-data dialog implementation](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#execdialog).
 
 This next line is now runnable from an action — the mouse-up action on a button, or a menu action, for instance.
 

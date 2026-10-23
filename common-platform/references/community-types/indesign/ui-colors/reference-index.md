@@ -1,4 +1,4 @@
-# Shared Adobe platform — UIColors
+# Shared Adobe platform - UIColors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up UIColors declaration in Shared Adobe platform. [UIColors declaration](declaration.md).

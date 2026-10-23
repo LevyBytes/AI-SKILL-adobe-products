@@ -1,4 +1,4 @@
-# Implementation — Threading
+# Implementation - Threading
 
 Threading gets no support whatsoever in AEGP. The main thread has to do all the work, whether driven by a callback or by the idle hook.
 

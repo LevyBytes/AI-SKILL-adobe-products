@@ -1,4 +1,4 @@
-# Viewing the object model — Viewing the VBScript object model
+# Viewing the object model - Viewing the VBScript object model
 
 VBScript exposes a type library for inspecting Illustrator object properties and methods. The following procedure uses a Microsoft Office program to view that library. Your VBScript editor may also offer library access; consult the editor's Help for details.
 

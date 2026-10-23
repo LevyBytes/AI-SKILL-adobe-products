@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: application state and runtime
+# Shared Adobe platform - Indesign: application state and runtime
 
-Open when working with application state and runtime in Shared Adobe platform — Indesign.
+Open when working with application state and runtime in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-application.json).
 

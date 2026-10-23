@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Tools for searching fonts
+# Using fonts in InCopy - Tools for searching fonts
 
 A. Show Fonts By Classification B. Show Favorite Fonts C. Show Recently Added D. Show Activated Fonts
 

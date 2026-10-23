@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: image tracing
+# Illustrator - Scripting APIs: image tracing
 
-Open when working with image tracing in Illustrator — Scripting APIs.
+Open when working with image tracing in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-tracing.json).
 

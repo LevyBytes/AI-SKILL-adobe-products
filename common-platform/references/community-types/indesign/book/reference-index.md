@@ -1,4 +1,4 @@
-# Shared Adobe platform — Book
+# Shared Adobe platform - Book
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Book declaration in Shared Adobe platform. [Book declaration](declaration.md).

@@ -1,4 +1,4 @@
-# Aligning text — Create balanced headline text
+# Aligning text - Create balanced headline text
 
 Balance Ragged Lines redistributes ragged-aligned text over multiple lines. It is useful for centered paragraphs, pull-quotes, and headings that run across more than one line.
 

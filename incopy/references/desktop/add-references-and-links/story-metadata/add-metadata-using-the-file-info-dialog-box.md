@@ -1,4 +1,4 @@
-# Including metadata in a story — Add metadata using the File Info dialog box
+# Including metadata in a story - Add metadata using the File Info dialog box
 
 The current document's camera data, file properties, edit history, copyright details, and author information appear in the File Info dialog box, along with any custom metadata panels. Metadata can be entered directly in the File Information dialog box. Values typed into fields replace existing metadata and are applied to every selected file.
 

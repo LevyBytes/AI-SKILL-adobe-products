@@ -1,6 +1,6 @@
-# InDesign — MediaItem: accessibility, tagging and xml
+# InDesign - MediaItem: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — MediaItem.
+Open when checking accessibility, tagging and xml in InDesign - MediaItem.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

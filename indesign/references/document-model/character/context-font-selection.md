@@ -1,6 +1,6 @@
-# InDesign — Character: fonts and character forms
+# InDesign - Character: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Character.
+Open when checking fonts and character forms in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

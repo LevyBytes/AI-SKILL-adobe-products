@@ -1,4 +1,4 @@
-# InDesign — Desktop workflows
+# InDesign - Desktop workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and manage text in InDesign. [Add and manage text references](add-and-manage-text/reference-index.md).

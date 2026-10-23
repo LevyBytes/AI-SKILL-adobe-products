@@ -1,4 +1,4 @@
 # Python
-Complete example files:
+Example setup and source:
 
-- [ocr-pdf-with-options.py](../examples/python/ocr-pdf-with-options/ocr-pdf-with-options.py)
+- [ocr-pdf-with-options setup and source](../examples/python/ocr-pdf-with-options/ocr-pdf-with-options-setup.md)

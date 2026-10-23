@@ -1,4 +1,4 @@
-# InDesign — Damaged or corrupt documents
+# InDesign - Damaged or corrupt documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Document contains corrupted page elements in InDesign. [Document contains corrupted page elements](document-contains-corrupted-page-elements.md).

@@ -1,4 +1,4 @@
-# Formatting characters — Apply ligatures to letter pairs
+# Formatting characters - Apply ligatures to letter pairs
 
 When the selected font supplies them, InDesign can substitute ligature glyphs for letter combinations such as "fi" and "fl" automatically. Text formatted with the Ligature option still behaves like editable text, and spell checking does not mistake the substituted glyphs for misspellings.
 

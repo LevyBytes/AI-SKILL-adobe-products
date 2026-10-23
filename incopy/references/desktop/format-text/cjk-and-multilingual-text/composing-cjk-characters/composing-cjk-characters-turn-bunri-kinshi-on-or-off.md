@@ -1,4 +1,4 @@
-# Composing CJK characters — Turn bunri-kinshi on or off
+# Composing CJK characters - Turn bunri-kinshi on or off
 
 With bunri-kinshi enabled, entries listed in the Bunri-kinshi Characters section of the Kinsoku Settings dialog box stay together across line breaks and are not spread apart by full justification.
 

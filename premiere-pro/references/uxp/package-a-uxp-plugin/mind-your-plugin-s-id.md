@@ -6,4 +6,4 @@ For a plugin you intend to **publish to the Adobe Creative Cloud Marketplace**, 
 
 For additional detail on retrieving the ID string from the Developer Distribution portal, see [this guide](../create-a-listing/reference-index.md).
 
-[[Figure: Developer Distribution - plugin ID](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/plugins/distribution/listing/img/listing-new-listing-created.png)](../listing/index.md#2-create-a-new-listing)
+[[Figure: Developer Distribution - plugin ID](https://raw.githubusercontent.com/AdobeDocs/uxp-premiere-pro/main/src/pages/plugins/distribution/listing/img/listing-new-listing-created.png)](../create-a-listing/create-a-new-listing.md)

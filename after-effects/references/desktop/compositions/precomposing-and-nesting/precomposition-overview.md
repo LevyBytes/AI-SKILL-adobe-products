@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — About precomposing and nesting
+# Precomposing, nesting, and pre-rendering - About precomposing and nesting
 
 Got a handful of layers already living in a composition that you'd like to bundle? Precompose them. Doing so tucks those layers into a brand-new composition that takes their place back in the original. From there the new nested composition feeds a single layer inside the original composition. It also shows up in the Project panel, ready to render or to drop into any other composition. Nesting compositions is just a matter of adding one existing composition into another, no different from dropping in any other footage item. Precomposing one lone layer earns its keep when you want to hang transform properties on a layer and steer the order its composition elements render in.
 

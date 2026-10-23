@@ -1,4 +1,4 @@
-# Photoshop — Use keyframes
+# Photoshop - Use keyframes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a timeline animation workflow in Photoshop. [Create a timeline animation workflow](create-a-timeline-animation-workflow.md).

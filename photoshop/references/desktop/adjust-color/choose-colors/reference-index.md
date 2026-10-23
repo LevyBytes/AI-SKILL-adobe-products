@@ -1,4 +1,4 @@
-# Photoshop — Choose colors
+# Photoshop - Choose colors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Choose a CMYK equivalent for a non-printable color in Photoshop. [Choose a CMYK equivalent for a non-printable color](choose-a-cmyk-equivalent-for-a-non-printable-color.md).

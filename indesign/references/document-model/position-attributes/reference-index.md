@@ -1,4 +1,4 @@
-# InDesign — PositionAttributes
+# InDesign - PositionAttributes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOTH_X_Y_ATTRIBUTE in InDesign. [BOTH_X_Y_ATTRIBUTE](bothxyattribute.md).

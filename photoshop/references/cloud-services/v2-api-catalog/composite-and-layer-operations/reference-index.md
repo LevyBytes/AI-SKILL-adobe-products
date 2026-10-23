@@ -1,4 +1,4 @@
-# Photoshop — 2. Composite and layer operations
+# Photoshop - 2. Composite and layer operations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Behavioral changes in Photoshop. [Behavioral changes](behavioral-changes.md).

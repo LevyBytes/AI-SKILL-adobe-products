@@ -1,4 +1,4 @@
-# Using fonts in InCopy — OpenType SVG fonts
+# Using fonts in InCopy - OpenType SVG fonts
 
 InCopy can use OpenType SVG fonts, including color fonts and emoji fonts. A single OpenType SVG glyph can contain multiple colors and gradients.
 

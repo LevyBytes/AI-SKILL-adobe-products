@@ -1,4 +1,4 @@
-# Using text macros — Swap text with macro text
+# Using text macros - Swap text with macro text
 
 Swap Macro Text checks the text immediately before the current insertion point for a defined macro code (case-sensitive). When it finds one, the command deletes that code and inserts the associated macro text. For example, suppose you created a text macro for Centers for Disease Control and Prevention with CDC as the macro code. To use it, type The CDC, place the insertion point immediately after the macro code, and choose Swap Macro Text. InCopy examines the text just before the insertion point and changes CDC to the macro text Centers for Disease Control and Prevention.
 

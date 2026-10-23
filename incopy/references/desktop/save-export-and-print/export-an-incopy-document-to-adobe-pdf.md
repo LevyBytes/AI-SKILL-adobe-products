@@ -1,4 +1,4 @@
-# Exporting to Adobe PDF — Export an InCopy document to Adobe PDF
+# Exporting to Adobe PDF - Export an InCopy document to Adobe PDF
 
 InCopy documents can be exported directly as Adobe PDF. Export is available from Galley, Story, or Layout view. Layout view produces a PDF that keeps layout and design elements. Galley or Story view instead produces output similar to the text-focused display shown in those InCopy views. A Galley or Story PDF can be useful for writers, editors, or other reviewers who do not have InCopy installed. It preserves the advantages of InCopy Galley and Story views, including strong text readability and annotation features.
 

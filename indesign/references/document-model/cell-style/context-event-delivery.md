@@ -1,6 +1,6 @@
-# InDesign — CellStyle: events and listeners
+# InDesign - CellStyle: events and listeners
 
-Open when checking events and listeners in InDesign — CellStyle.
+Open when checking events and listeners in InDesign - CellStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

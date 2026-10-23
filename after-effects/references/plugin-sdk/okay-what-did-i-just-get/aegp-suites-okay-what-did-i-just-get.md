@@ -1,4 +1,4 @@
-# AEGP Suites — Okay, What Did I Just Get?
+# AEGP Suites - Okay, What Did I Just Get?
 
 What a stream value amounts to is a big union, of which just one structure - the one matching the stream type - holds data. Notice how closely it resembles the `PF_ParamDef`.
 

@@ -1,4 +1,4 @@
-# Acrobat — Fill and sign documents
+# Acrobat - Fill and sign documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add signature and initials in Acrobat. [Add signature and initials](add-signature-and-initials.md).

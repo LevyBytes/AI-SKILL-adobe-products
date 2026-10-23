@@ -1,4 +1,4 @@
-# Printing stories — Change the default print setting
+# Printing stories - Change the default print setting
 
 Print settings can be stored with the application so new InCopy documents start with those same settings. On Mac OS, the saved print settings also become the printer defaults. Individual print settings can still be overridden.
 

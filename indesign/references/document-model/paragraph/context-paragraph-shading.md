@@ -1,6 +1,6 @@
-# InDesign — Paragraph: paragraph shading
+# InDesign - Paragraph: paragraph shading
 
-Open when checking paragraph shading in InDesign — Paragraph.
+Open when checking paragraph shading in InDesign - Paragraph.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

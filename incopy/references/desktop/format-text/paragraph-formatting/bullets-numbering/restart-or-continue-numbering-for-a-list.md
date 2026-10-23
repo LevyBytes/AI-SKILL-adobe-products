@@ -1,4 +1,4 @@
-# Bullets and numbering — Restart or continue numbering for a list
+# Bullets and numbering - Restart or continue numbering for a list
 
 InDesign provides commands to restart list numbering or continue it:
 

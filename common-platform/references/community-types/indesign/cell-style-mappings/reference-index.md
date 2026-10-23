@@ -1,4 +1,4 @@
-# Shared Adobe platform — CellStyleMappings
+# Shared Adobe platform - CellStyleMappings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CellStyleMappings collection iteration in Shared Adobe platform. [CellStyleMappings collection iteration](collection-iteration.md).

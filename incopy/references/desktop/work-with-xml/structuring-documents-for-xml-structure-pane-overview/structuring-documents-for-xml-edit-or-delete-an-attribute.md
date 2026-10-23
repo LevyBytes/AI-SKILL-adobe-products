@@ -1,4 +1,4 @@
-# Structuring documents for XML — Edit or delete an attribute
+# Structuring documents for XML - Edit or delete an attribute
 
 In the Structure pane, select an attribute. Then do one of the following:
 

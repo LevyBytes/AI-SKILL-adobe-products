@@ -1,4 +1,4 @@
-# Shared Adobe platform — MediaItems
+# Shared Adobe platform - MediaItems
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MediaItems collection iteration in Shared Adobe platform. [MediaItems collection iteration](collection-iteration.md).

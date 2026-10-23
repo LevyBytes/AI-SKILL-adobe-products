@@ -1,4 +1,4 @@
-# Acrobat — Security policies overview
+# Acrobat - Security policies overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Organizational policies in Acrobat. [Organizational policies](organizational-policies.md).

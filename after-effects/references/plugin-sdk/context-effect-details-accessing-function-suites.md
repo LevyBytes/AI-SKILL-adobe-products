@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: accessing the after effects function suites
+# After Effects - C++ plugin SDK: accessing the after effects function suites
 
-Open when working with accessing the after effects function suites in After Effects — C++ plugin SDK.
+Open when working with accessing the after effects function suites in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-accessing-function-suites.json).
 

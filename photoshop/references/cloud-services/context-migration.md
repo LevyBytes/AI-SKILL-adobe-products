@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: v1-to-v2 compatibility and architecture
+# Photoshop - Cloud service APIs: v1-to-v2 compatibility and architecture
 
-Open when working with v1-to-v2 compatibility and architecture in Photoshop — Cloud service APIs.
+Open when working with v1-to-v2 compatibility and architecture in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-migration.json).
 

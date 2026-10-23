@@ -1,4 +1,4 @@
-# After Effects — Light
+# After Effects - Light
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up color in After Effects. [color](color.md).

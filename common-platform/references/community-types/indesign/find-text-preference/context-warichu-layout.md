@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: warichu inline text
+# Shared Adobe platform - FindTextPreference: warichu inline text
 
-Open when checking warichu inline text in Shared Adobe platform — FindTextPreference.
+Open when checking warichu inline text in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

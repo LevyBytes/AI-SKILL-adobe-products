@@ -1,4 +1,4 @@
-# Find/Change — GREP search examples
+# Find/Change - GREP search examples
 
 - [GREP characters and paragraph starts](grep-character-and-paragraph-examples.md)
 - [GREP assertions and capture groups](grep-assertions-and-captures.md)

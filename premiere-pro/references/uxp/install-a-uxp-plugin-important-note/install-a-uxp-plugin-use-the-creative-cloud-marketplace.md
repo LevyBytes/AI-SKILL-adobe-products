@@ -1,4 +1,4 @@
-# Install a UXP plugin — Use the Creative Cloud Marketplace
+# Install a UXP plugin - Use the Creative Cloud Marketplace
 
 Open the Creative Cloud Desktop application, switch to the **Plugins** tab, and choose the **Stock & Marketplace** category in the left-hand sidebar to browse UXP plugins. The Plugins sidebar includes curated views for "Featured plugins" and "All plugins".
 

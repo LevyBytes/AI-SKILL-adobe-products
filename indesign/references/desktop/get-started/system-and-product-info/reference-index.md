@@ -1,4 +1,4 @@
-# InDesign — System and product info
+# InDesign - System and product info
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe InDesign FAQ in InDesign. [Adobe InDesign FAQ](adobe-in-design-faq.md).

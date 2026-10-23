@@ -1,4 +1,4 @@
-# Photoshop — Count item
+# Photoshop - Count item
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up groupIndex in Photoshop. [groupIndex](group-index.md).

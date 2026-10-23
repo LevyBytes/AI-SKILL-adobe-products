@@ -1,4 +1,4 @@
-# InDesign — Manage inks for separation
+# InDesign - Manage inks for separation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust ink density in InDesign. [Adjust ink density](adjust-ink-density.md).

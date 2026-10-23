@@ -1,4 +1,4 @@
-# Hyperlinks — Edit or delete hyperlink destinations
+# Hyperlinks - Edit or delete hyperlink destinations
 
 Start with the document that contains the destination. From the Hyperlinks panel menu, choose Hyperlink Destination Options. In Destination, pick the destination name that needs revision. Then use the applicable control:
 

@@ -1,6 +1,6 @@
-# InDesign — SplineItem: paths and shape operations
+# InDesign - SplineItem: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — SplineItem.
+Open when checking paths and shape operations in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

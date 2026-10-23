@@ -1,4 +1,4 @@
-# Communicating with the Flash application — Calling ExtendScript functions from ActionScript
+# Communicating with the Flash application - Calling ExtendScript functions from ActionScript
 
 The ActionScript ExternalInterface class can call an ExtendScript function that is defined on the FlashPlayer element in the Adobe application script, then run that call from the ActionScript environment. The FlashPlayer element must define a method with the same function name.
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — MeasurementUnits
+# Shared Adobe platform - MeasurementUnits
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MeasurementUnits declaration in Shared Adobe platform. [MeasurementUnits declaration](declaration.md).

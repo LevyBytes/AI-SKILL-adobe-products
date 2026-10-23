@@ -1,4 +1,4 @@
-# InDesign — Create fillable forms
+# InDesign - Create fillable forms
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add form fields to your document in InDesign. [Add form fields to your document](add-form-fields-to-your-document.md).

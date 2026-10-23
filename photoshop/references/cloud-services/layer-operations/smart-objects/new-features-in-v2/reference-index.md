@@ -1,4 +1,4 @@
-# Photoshop — New features in V2
+# Photoshop - New features in V2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Replacement of embedded smart object with linked smart object in Photoshop. [Replacement of embedded smart object with linked smart object](replacement-of-embedded-smart-object-with-linked-smart-object.md).

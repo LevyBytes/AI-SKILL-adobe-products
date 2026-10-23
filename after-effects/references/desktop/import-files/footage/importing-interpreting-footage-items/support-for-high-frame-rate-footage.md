@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Support for high-frame-rate footage
+# Importing and interpreting footage items - Support for high-frame-rate footage
 
 Any frame rate field accepts values as high as 999 fps, so rendering at elevated frame rates is on the table.
 

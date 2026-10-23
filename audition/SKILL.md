@@ -1,8 +1,9 @@
 ---
 name: audition
-description: Use when a task concerns Adobe Audition audio recording, Waveform editing, Multitrack mixing, restoration, effects, audio analysis, podcast production, surround sound, or saving and exporting audio.
+description: "Use when a task concerns Adobe Audition audio recording, Waveform editing, Multitrack mixing, restoration, effects, audio analysis, podcast production, surround sound, or saving and exporting audio."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

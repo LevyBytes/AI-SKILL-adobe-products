@@ -4,7 +4,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 6.0 | No | No | All | Number | R |
 
-The monitor’s color depth — in other words, its bits per pixel.
+The monitor’s color depth: in other words, its bits per pixel.
 
 Example: Grab the primary monitor and inspect its color depth, picking that monitor out with the Monitors.primary method.
 

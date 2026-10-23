@@ -1,4 +1,4 @@
-# GIF Save Options — Properties
+# GIF Save Options - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

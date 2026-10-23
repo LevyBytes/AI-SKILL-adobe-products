@@ -1,4 +1,4 @@
-# Importing graphics — Specify a default Relink folder
+# Importing graphics - Specify a default Relink folder
 
 In the Preferences dialog box, select File Handling. From Default Relink Folder, choose one of these options, and then click OK:
 

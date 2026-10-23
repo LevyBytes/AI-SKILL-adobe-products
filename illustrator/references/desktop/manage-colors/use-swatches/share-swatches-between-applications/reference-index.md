@@ -1,4 +1,4 @@
-# Illustrator — Share swatches between applications
+# Illustrator - Share swatches between applications
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Import Swatches from Illustrator to InDesign in Illustrator. [Import Swatches from Illustrator to InDesign](import-swatches-from-illustrator-to-in-design.md).

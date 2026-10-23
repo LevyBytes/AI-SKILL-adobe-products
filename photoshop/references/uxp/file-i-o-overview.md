@@ -1,4 +1,4 @@
-# File I/O — Overview
+# File I/O - Overview
 
 Many plugins need file and folder access. UXP can work with files and folders from these places:
 

@@ -15,7 +15,7 @@ Parameters
 
 Returns
 
-Whichever array the user built — the added words, or the removed ones.
+Whichever array the user built: the added words, or the removed ones.
 
 Example: List the words added to the “JavaScript” dictionary. (Refer to the example that comes after the customDictionaryCreate description.)
 

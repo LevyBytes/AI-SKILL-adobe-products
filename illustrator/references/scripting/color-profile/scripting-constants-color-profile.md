@@ -1,4 +1,4 @@
-# Scripting Constants — ColorProfile
+# Scripting Constants - ColorProfile
 
 | Value | Description |
 | --- | --- |

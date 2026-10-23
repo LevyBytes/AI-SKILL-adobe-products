@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: latin, european and caucasian writing systems
+# Shared Adobe platform - CTScript: latin, european and caucasian writing systems
 
-Open when working with latin, european and caucasian writing systems in Shared Adobe platform — CTScript.
+Open when working with latin, european and caucasian writing systems in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-europe-caucasus.json).
 

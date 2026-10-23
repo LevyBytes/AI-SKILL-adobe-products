@@ -1,8 +1,9 @@
 ---
 name: acrobat
-description: Use when creating, editing, reviewing, signing, securing, or troubleshooting PDFs in Adobe Acrobat desktop, web, or Reader; automating Acrobat with JavaScript; or integrating Adobe PDF Services, Document Generation, PDF Extract, PDF Embed, or electronic seals. Includes forms, accessibility, printing, and Acrobat AI workflows.
+description: "Use when creating, editing, reviewing, signing, securing, or troubleshooting PDFs in Adobe Acrobat desktop, web, or Reader; automating Acrobat with JavaScript; or integrating Adobe PDF Services, Document Generation, PDF Extract, PDF Embed, or electronic seals. Includes forms, accessibility, printing, and Acrobat AI workflows."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

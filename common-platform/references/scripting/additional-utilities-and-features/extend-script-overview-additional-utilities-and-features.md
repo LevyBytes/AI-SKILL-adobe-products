@@ -1,4 +1,4 @@
-# ExtendScript overview — Additional utilities and features
+# ExtendScript overview - Additional utilities and features
 
 ExtendScript includes these utilities and features:
 

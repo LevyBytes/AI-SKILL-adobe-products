@@ -1,4 +1,4 @@
-# Acrobat — Create and design with Adobe Express
+# Acrobat - Create and design with Adobe Express
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Edit images with Adobe Express editing tools in Acrobat. [Edit images with Adobe Express editing tools](edit-images-with-adobe-express-editing-tools.md).

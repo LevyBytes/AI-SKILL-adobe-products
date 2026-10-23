@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/extract-table-structure/Program.cs)
+- [extract-table-structure setup and source](../examples/dotnet/extract-table-structure/extract-text-table-info-with-table-structure-from-pdf-setup.md)

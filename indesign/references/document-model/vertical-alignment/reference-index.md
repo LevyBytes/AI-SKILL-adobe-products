@@ -1,4 +1,4 @@
-# InDesign — VerticalAlignment
+# InDesign - VerticalAlignment
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BOTTOM_ALIGN in InDesign. [BOTTOM_ALIGN](bottomalign.md).

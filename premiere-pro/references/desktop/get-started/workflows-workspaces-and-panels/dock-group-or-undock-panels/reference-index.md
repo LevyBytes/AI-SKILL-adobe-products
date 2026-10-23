@@ -1,4 +1,4 @@
-# Premiere Pro — Dock, group, or undock panels
+# Premiere Pro - Dock, group, or undock panels
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Dock or group panels in Premiere Pro. [Dock or group panels](dock-or-group-panels.md).

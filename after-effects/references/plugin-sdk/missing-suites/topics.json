@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Basic Host Differences — Missing Suites", "file": "references/plugin-sdk/missing-suites/basic-host-differences-missing-suites.md", "summary": "Open when looking up Basic Host Differences — Missing Suites in After Effects.", "keywords": ["Basic Host Differences — Missing Suites"]},
+  {"topic": "Basic Host Differences - Missing Suites", "file": "references/plugin-sdk/missing-suites/basic-host-differences-missing-suites.md", "summary": "Open when looking up Basic Host Differences - Missing Suites in After Effects.", "keywords": ["Basic Host Differences - Missing Suites"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

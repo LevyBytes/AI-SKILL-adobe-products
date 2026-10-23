@@ -1,4 +1,4 @@
-# InDesign — EndJoin
+# InDesign - EndJoin
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BEVEL_END_JOIN in InDesign. [BEVEL_END_JOIN](bevelendjoin.md).

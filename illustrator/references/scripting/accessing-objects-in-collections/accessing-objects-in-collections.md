@@ -1,4 +1,4 @@
-# Accessing and referencing objects — Accessing objects in collections
+# Accessing and referencing objects - Accessing objects in collections
 
 Open documents and the objects inside a document are grouped into collection objects for each object type. A collection object stores an array of objects addressable by index or by name. The collection object's name is the plural version of the object name; for example, document objects are held in documents.
 

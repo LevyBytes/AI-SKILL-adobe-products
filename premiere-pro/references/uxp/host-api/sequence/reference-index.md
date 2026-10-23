@@ -1,4 +1,4 @@
-# Premiere Pro — Sequence
+# Premiere Pro - Sequence
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up clearSelection in Premiere Pro. [clearSelection](clear-selection.md).
@@ -27,6 +27,6 @@
 - Open when looking up getVideoTrackCount in Premiere Pro. [getVideoTrackCount](get-video-track-count.md).
 - Open when looking up getZeroPoint in Premiere Pro. [getZeroPoint](get-zero-point.md).
 - Open when looking up isDoneAnalyzingForVideoEffects in Premiere Pro. [isDoneAnalyzingForVideoEffects](is-done-analyzing-for-video-effects.md).
-- Open when looking up Sequence — Properties in Premiere Pro. [Sequence — Properties](sequence-properties.md).
+- Open when looking up Sequence - Properties in Premiere Pro. [Sequence - Properties](sequence-properties.md).
 - Open when looking up setPlayerPosition in Premiere Pro. [setPlayerPosition](set-player-position.md).
 - Open when looking up setSelection in Premiere Pro. [setSelection](set-selection.md).

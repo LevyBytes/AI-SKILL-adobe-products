@@ -1,4 +1,4 @@
-# Customizing workspaces — Open, close, and scroll to panels
+# Customizing workspaces - Open, close, and scroll to panels
 
 Closing a panel group in the application window lets the remaining groups expand into the freed space. Closing a floating window also closes the panels contained in it.
 

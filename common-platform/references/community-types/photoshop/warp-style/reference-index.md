@@ -1,4 +1,4 @@
-# Shared Adobe platform — WarpStyle
+# Shared Adobe platform - WarpStyle
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up WarpStyle declaration in Shared Adobe platform. [WarpStyle declaration](declaration.md).

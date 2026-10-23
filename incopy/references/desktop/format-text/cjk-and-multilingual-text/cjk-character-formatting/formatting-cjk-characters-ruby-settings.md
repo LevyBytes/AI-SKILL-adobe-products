@@ -1,4 +1,4 @@
-# Formatting CJK characters — Ruby settings
+# Formatting CJK characters - Ruby settings
 
 These settings are available in the panels of the Ruby dialog box.
 

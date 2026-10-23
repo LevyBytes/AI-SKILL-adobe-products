@@ -1,4 +1,4 @@
-# Acrobat — PDF viewing and editing issues
+# Acrobat - PDF viewing and editing issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Can't enable forms for Acrobat Reader users in Acrobat. [Can't enable forms for Acrobat Reader users](can-t-enable-forms-for-acrobat-reader-users.md).

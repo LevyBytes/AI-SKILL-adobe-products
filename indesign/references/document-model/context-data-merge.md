@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: data merge sources and fields
+# InDesign - InDesign document object model: data merge sources and fields
 
-Open when working with data merge sources and fields in InDesign — InDesign document object model.
+Open when working with data merge sources and fields in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-data-merge.json).
 

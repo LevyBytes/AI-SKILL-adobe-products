@@ -1,4 +1,4 @@
-# Illustrator — SpotColor
+# Illustrator - SpotColor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up SpotColor.spot in Illustrator. [SpotColor.spot](spot.md).

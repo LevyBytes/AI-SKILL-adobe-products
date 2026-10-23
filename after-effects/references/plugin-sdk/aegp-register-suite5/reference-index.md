@@ -1,4 +1,4 @@
-# After Effects — AEGP_RegisterSuite5
+# After Effects - AEGP_RegisterSuite5
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_RegisterAboutHook in After Effects. [AEGP_RegisterAboutHook](aegp-register-about-hook.md).

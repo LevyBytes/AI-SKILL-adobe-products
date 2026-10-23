@@ -1,4 +1,4 @@
-# Scripting Constants — PDFTrimMarkWeight
+# Scripting Constants - PDFTrimMarkWeight
 
 | Value | Description |
 | --- | --- |

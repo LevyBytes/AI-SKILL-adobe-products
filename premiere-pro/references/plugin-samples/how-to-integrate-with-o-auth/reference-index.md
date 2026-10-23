@@ -1,4 +1,4 @@
-# Premiere Pro — How to Integrate with OAuth
+# Premiere Pro - How to Integrate with OAuth
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. Install Node.js packages in Premiere Pro. [1. Install Node.js packages](install-node-js-packages.md).

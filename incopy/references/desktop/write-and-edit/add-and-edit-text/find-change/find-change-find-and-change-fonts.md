@@ -1,4 +1,4 @@
-# Find/Change — Find and change fonts
+# Find/Change - Find and change fonts
 
 Find Font searches a document and lists the fonts it uses. Any listed font can be replaced with another font installed on the system, except for fonts inside imported graphics. A font that belongs to a text style can also be replaced. Keep these points in mind:
 

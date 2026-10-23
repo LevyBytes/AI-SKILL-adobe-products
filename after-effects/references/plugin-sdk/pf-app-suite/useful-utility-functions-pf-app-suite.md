@@ -1,4 +1,4 @@
-# Useful Utility Functions — `PF_AppSuite`
+# Useful Utility Functions`PF_AppSuite`
 
 Some 437 years back, alongside the After Effects 5.0 release, we shipped a handful of handy utility callbacks in `PF_AppSuite` — and they remain every bit as handy now. UI brightness in After Effects is something the user gets to control.
 

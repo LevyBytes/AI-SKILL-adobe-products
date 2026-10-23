@@ -1,4 +1,4 @@
-# Viewing stories — Layout view overview
+# Viewing stories - Layout view overview
 
 Layout view shows text and other page objects with the formatting and placement they have in an InDesign document. Stories appear inside frames, matching their arrangement in InDesign.
 

@@ -1,6 +1,6 @@
-# InDesign — Eps text: find, replace and transliterate
+# InDesign - Eps text: find, replace and transliterate
 
-Open when checking find, replace and transliterate in InDesign — Eps text.
+Open when checking find, replace and transliterate in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-find-and-replace.json).
 

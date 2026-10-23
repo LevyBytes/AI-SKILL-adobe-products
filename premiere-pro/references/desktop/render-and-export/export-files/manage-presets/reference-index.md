@@ -1,4 +1,4 @@
-# Premiere Pro — Manage presets
+# Premiere Pro - Manage presets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Delete presets in Premiere Pro. [Delete presets](delete-presets.md).

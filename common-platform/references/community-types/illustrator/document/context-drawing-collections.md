@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: drawing objects and layer collections
+# Shared Adobe platform - Document: drawing objects and layer collections
 
-Open when working with drawing objects and layer collections in Shared Adobe platform — Document.
+Open when working with drawing objects and layer collections in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-drawing-collections.json).
 

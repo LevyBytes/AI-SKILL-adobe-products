@@ -1,4 +1,4 @@
-# Using editorial notes — Navigate between notes
+# Using editorial notes - Navigate between notes
 
 Moving through notes shifts the active text insertion point from the current note anchor to the next or previous note anchor. In Layout view, click the Go to Note Anchor button to show the anchor tied to the note currently displayed in the Notes panel.
 

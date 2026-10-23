@@ -1,4 +1,4 @@
-# After Effects — Import 3D models from Creative Cloud Libraries
+# After Effects - Import 3D models from Creative Cloud Libraries
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add 3D models from Adobe Stock in After Effects. [Add 3D models from Adobe Stock](add-3-d-models-from-adobe-stock.md).

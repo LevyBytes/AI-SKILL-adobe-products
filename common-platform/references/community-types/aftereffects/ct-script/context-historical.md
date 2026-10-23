@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: historical and classical writing systems
+# Shared Adobe platform - CTScript: historical and classical writing systems
 
-Open when working with historical and classical writing systems in Shared Adobe platform — CTScript.
+Open when working with historical and classical writing systems in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-historical.json).
 

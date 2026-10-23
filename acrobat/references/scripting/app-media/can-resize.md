@@ -6,7 +6,7 @@ Lists out the values that can turn up in the MediaSettings.floating.canResize pr
 
 The table below holds these values.
 
-Value — Description
+Value: Description
 
 app.media.canResize.no
 

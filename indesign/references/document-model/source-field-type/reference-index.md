@@ -1,4 +1,4 @@
-# InDesign — SourceFieldType
+# InDesign - SourceFieldType
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up IMAGE_FIELD in InDesign. [IMAGE_FIELD](imagefield.md).

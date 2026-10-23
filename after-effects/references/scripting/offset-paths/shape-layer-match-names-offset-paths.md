@@ -1,4 +1,4 @@
-# Shape Layer Match Names — Offset Paths
+# Shape Layer Match Names - Offset Paths
 
 | Match Name | Display Name (EN) |
 | --- | --- |

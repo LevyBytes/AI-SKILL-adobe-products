@@ -1,6 +1,6 @@
-# InDesign — Character: line breaks and hyphenation
+# InDesign - Character: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in InDesign — Character.
+Open when checking line breaks and hyphenation in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

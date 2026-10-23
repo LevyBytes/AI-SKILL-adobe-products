@@ -1,4 +1,4 @@
-# Illustrator — Advanced recolor options overview
+# Illustrator - Advanced recolor options overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assign tab in Illustrator. [Assign tab](assign-tab.md).

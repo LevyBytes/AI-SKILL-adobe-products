@@ -1,4 +1,4 @@
-# Structuring documents for XML — Validate XML structure
+# Structuring documents for XML - Validate XML structure
 
 During validation, InCopy warns you when the XML does not follow the rules defined by the DTD file. It offers fixes that can bring the XML into compliance with DTD file requirements. You can address errors individually or display every error in a separate window.
 

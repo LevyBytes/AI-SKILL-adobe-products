@@ -1,4 +1,4 @@
-# InCopy — Write and edit
+# InCopy - Write and edit
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and edit text in InCopy. [Add and edit text references](add-and-edit-text/reference-index.md).

@@ -1,4 +1,4 @@
-# Compute Cache API — Impact of wait_for_other_threadB on `AEGP_ComputeIfNeededAndCheckout`
+# Compute Cache API - Impact of wait_for_other_threadB on `AEGP_ComputeIfNeededAndCheckout`
 
 Across almost every combination of the parameters, `AEGP_ComputeIfNeededAndCheckout` will give you back a checkout receipt for the cache value; the lone exception is a false wait_for_other_threadB while another thread is already rendering that requested value.
 

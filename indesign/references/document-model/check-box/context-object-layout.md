@@ -1,6 +1,6 @@
-# InDesign — Check box: placement, bounds and transformations
+# InDesign - Check box: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — Check box.
+Open when checking placement, bounds and transformations in InDesign - Check box.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

@@ -1,4 +1,4 @@
-# After Effects — What s new
+# After Effects - What s new
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up After Effects Beta in After Effects. [After Effects Beta](after-effects-beta.md).

@@ -1,4 +1,4 @@
-# InDesign — Create multi-level lists
+# InDesign - Create multi-level lists
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust indentation in InDesign. [Adjust indentation](adjust-indentation.md).

@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — The Composition Mini-Flowchart
+# Precomposing, nesting, and pre-rendering - The Composition Mini-Flowchart
 
 A fleeting control for darting around a composition network, that's the Composition Mini-Flowchart. Open it and it reveals the compositions sitting directly upstream and downstream of the one you've selected.
 

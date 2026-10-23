@@ -1,4 +1,4 @@
-# Illustrator — Create and manage artboards
+# Illustrator - Create and manage artboards
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and edit artboards in Illustrator. [Add and edit artboards](add-and-edit-artboards.md).

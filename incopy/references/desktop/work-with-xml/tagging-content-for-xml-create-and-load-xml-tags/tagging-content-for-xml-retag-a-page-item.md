@@ -1,4 +1,4 @@
-# Tagging content for XML — Retag a page item
+# Tagging content for XML - Retag a page item
 
 Retag an item when you want to swap its current tag without untagging it first.
 

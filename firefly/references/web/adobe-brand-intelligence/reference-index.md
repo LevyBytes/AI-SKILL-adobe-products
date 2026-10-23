@@ -1,4 +1,4 @@
-# Firefly — Adobe brand intelligence
+# Firefly - Adobe brand intelligence
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adobe Brand Intelligence in Firefly. [Adobe Brand Intelligence](adobe-brand-intelligence.md).

@@ -1,4 +1,4 @@
-# InDesign — Supported file formats
+# InDesign - Supported file formats
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export formats in InDesign. [Export formats](export-formats.md).

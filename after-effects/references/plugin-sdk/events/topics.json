@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Effect UI & Events — Events", "file": "references/plugin-sdk/events/effect-ui-events-events.md", "summary": "Open when looking up Effect UI & Events — Events in After Effects.", "keywords": ["Effect UI & Events — Events"]},
+  {"topic": "Effect UI & Events - Events", "file": "references/plugin-sdk/events/effect-ui-events-events.md", "summary": "Open when looking up Effect UI & Events - Events in After Effects.", "keywords": ["Effect UI & Events - Events"]},
   {"topic": "PF_Event_ACTIVATE", "file": "references/plugin-sdk/events/pf-event-activate.md", "summary": "Open when looking up PF_Event_ACTIVATE in After Effects.", "keywords": ["PF_Event_ACTIVATE"]},
   {"topic": "PF_Event_ADJUST_CURSOR", "file": "references/plugin-sdk/events/pf-event-adjustcursor.md", "summary": "Open when looking up PF_Event_ADJUST_CURSOR in After Effects.", "keywords": ["PF_Event_ADJUST_CURSOR"]},
   {"topic": "PF_Event_CLOSE_CONTEXT", "file": "references/plugin-sdk/events/pf-event-closecontext.md", "summary": "Open when looking up PF_Event_CLOSE_CONTEXT in After Effects.", "keywords": ["PF_Event_CLOSE_CONTEXT"]},

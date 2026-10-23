@@ -1,6 +1,6 @@
-# InDesign — Insertion point: fonts and character forms
+# InDesign - Insertion point: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Insertion point.
+Open when checking fonts and character forms in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

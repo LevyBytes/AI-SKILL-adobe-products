@@ -1,4 +1,4 @@
-# Audition — Mixing multitrack sessions
+# Audition - Mixing multitrack sessions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Arrange and edit multitrack clips with Audition in Audition. [Arrange and edit multitrack clips with Audition](arrange-and-edit-multitrack-clips-with-audition.md).

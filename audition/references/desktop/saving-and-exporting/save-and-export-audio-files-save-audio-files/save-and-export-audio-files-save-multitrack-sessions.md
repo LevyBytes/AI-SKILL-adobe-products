@@ -1,4 +1,4 @@
-# Save and export audio files — Save multitrack sessions
+# Save and export audio files - Save multitrack sessions
 
 A multitrack session file is a compact non-audio file. It records where related audio files live on the hard drive, how long each audio file lasts inside the session, envelopes and effects assigned to tracks, and similar mix data. Reopen the saved session later to continue changing the mix.
 

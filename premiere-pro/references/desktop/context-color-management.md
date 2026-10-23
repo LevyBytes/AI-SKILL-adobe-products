@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: color management, hdr and output appearance
+# Premiere Pro - Desktop workflows: color management, hdr and output appearance
 
-Open when working with color management, hdr and output appearance in Premiere Pro — Desktop workflows.
+Open when working with color management, hdr and output appearance in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-color-management.json).
 

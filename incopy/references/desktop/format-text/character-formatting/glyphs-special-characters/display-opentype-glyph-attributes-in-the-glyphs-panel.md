@@ -1,4 +1,4 @@
-# Glyphs and special characters — Display OpenType glyph attributes in the Glyphs panel
+# Glyphs and special characters - Display OpenType glyph attributes in the Glyphs panel
 
 For selection work, limit the Glyphs panel display to characters matching selected OpenType attributes. The Show menu in the Glyphs panel contains these choices.
 

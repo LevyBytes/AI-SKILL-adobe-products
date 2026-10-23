@@ -1,4 +1,4 @@
-# Photoshop — Common migration issues
+# Photoshop - Common migration issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Issue: Incorrect status value handling in Photoshop. [Issue: Incorrect status value handling](issue-incorrect-status-value-handling.md).

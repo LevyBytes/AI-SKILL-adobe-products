@@ -1,4 +1,4 @@
-# InDesign — HyphenationException
+# InDesign - HyphenationException
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addedExceptions in InDesign. [addedExceptions](added-exceptions.md).

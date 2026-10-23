@@ -1,4 +1,4 @@
-# Illustrator — Known and fixed issues in Adobe Illustrator
+# Illustrator - Known and fixed issues in Adobe Illustrator
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blank screen appears when trying to save files to Adobe Cloud in Illustrator. [Blank screen appears when trying to save files to Adobe Cloud](blank-screen-appears-when-trying-to-save-files-to-adobe-cloud.md).

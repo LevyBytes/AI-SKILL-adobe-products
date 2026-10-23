@@ -2,7 +2,7 @@
 
 Example 3: This example uses a list box.
 
-[List-box dialog implementation](../examples/listbox-selection-dialog.js).
+[List-box dialog implementation](https://opensource.adobe.com/dc-acrobat-sdk-docs/library/jsapiref/JS_API_AcroJS.html#execdialog).
 
 Then execute
 

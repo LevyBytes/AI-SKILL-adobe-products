@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: data merge sources and fields
+# Shared Adobe platform - Indesign: data merge sources and fields
 
-Open when working with data merge sources and fields in Shared Adobe platform — Indesign.
+Open when working with data merge sources and fields in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-data-merge.json).
 

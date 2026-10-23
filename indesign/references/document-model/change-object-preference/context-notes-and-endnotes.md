@@ -1,6 +1,6 @@
-# InDesign — ChangeObjectPreference: footnotes and endnotes
+# InDesign - ChangeObjectPreference: footnotes and endnotes
 
-Open when checking footnotes and endnotes in InDesign — ChangeObjectPreference.
+Open when checking footnotes and endnotes in InDesign - ChangeObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-notes-and-endnotes.json).
 

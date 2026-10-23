@@ -1,4 +1,4 @@
-# Illustrator — Gradients and meshes
+# Illustrator - Gradients and meshes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a gradual blend in colors using the Gradient tool in Illustrator. [Create a gradual blend in colors using the Gradient tool](create-a-gradual-blend-in-colors-using-the-gradient-tool.md).

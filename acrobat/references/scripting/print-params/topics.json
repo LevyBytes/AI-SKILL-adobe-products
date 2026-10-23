@@ -12,7 +12,7 @@
   {"topic": "fontPolicy", "file": "references/scripting/print-params/font-policy.md", "summary": "Open when looking up fontPolicy in Acrobat.", "keywords": ["fontPolicy"]},
   {"topic": "gradientDPI", "file": "references/scripting/print-params/gradient-dpi.md", "summary": "Open when looking up gradientDPI in Acrobat.", "keywords": ["gradientDPI"]},
   {"topic": "interactive", "file": "references/scripting/print-params/interactive.md", "summary": "Open when looking up interactive in Acrobat.", "keywords": ["interactive"]},
-  {"topic": "JavaScript APIs — PrintParams", "file": "references/scripting/print-params/java-script-apis-print-params.md", "summary": "Open when looking up JavaScript APIs — PrintParams in Acrobat.", "keywords": ["JavaScript APIs — PrintParams"]},
+  {"topic": "JavaScript APIs - PrintParams", "file": "references/scripting/print-params/java-script-apis-print-params.md", "summary": "Open when looking up JavaScript APIs - PrintParams in Acrobat.", "keywords": ["JavaScript APIs - PrintParams"]},
   {"topic": "lastPage", "file": "references/scripting/print-params/last-page.md", "summary": "Open when looking up lastPage in Acrobat.", "keywords": ["lastPage"]},
   {"topic": "NumCopies", "file": "references/scripting/print-params/num-copies.md", "summary": "Open when looking up NumCopies in Acrobat.", "keywords": ["NumCopies"]},
   {"topic": "nUpAutoRotate", "file": "references/scripting/print-params/n-up-auto-rotate.md", "summary": "Open when looking up nUpAutoRotate in Acrobat.", "keywords": ["nUpAutoRotate"]},

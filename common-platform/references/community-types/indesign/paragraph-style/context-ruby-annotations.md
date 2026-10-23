@@ -1,6 +1,6 @@
-# Shared Adobe platform — ParagraphStyle: ruby annotations
+# Shared Adobe platform - ParagraphStyle: ruby annotations
 
-Open when checking ruby annotations in Shared Adobe platform — ParagraphStyle.
+Open when checking ruby annotations in Shared Adobe platform - ParagraphStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

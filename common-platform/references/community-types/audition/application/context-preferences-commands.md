@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: application and audio preferences
+# Shared Adobe platform - Application: application and audio preferences
 
-Open when working with application and audio preferences in Shared Adobe platform — Application.
+Open when working with application and audio preferences in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-preferences-commands.json).
 

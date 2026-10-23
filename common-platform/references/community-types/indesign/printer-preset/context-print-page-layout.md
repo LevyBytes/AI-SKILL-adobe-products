@@ -1,6 +1,6 @@
-# Shared Adobe platform — PrinterPreset: print paper, scaling and imposition
+# Shared Adobe platform - PrinterPreset: print paper, scaling and imposition
 
-Open when checking print paper, scaling and imposition in Shared Adobe platform — PrinterPreset.
+Open when checking print paper, scaling and imposition in Shared Adobe platform - PrinterPreset.
 
 Open when selecting an exact API member: [Topic catalog](context-print-page-layout.json).
 

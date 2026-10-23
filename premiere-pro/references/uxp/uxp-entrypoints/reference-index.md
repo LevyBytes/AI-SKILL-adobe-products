@@ -1,4 +1,4 @@
-# Premiere Pro — UXP Entrypoints
+# Premiere Pro - UXP Entrypoints
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Code implementation in Premiere Pro. [Code implementation](code-implementation.md).

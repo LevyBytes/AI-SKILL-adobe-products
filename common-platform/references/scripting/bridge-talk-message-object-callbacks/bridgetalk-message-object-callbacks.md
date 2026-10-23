@@ -1,4 +1,4 @@
-# BridgeTalk message object — BridgeTalk message object callbacks
+# BridgeTalk message object - BridgeTalk message object callbacks
 
 Note
 

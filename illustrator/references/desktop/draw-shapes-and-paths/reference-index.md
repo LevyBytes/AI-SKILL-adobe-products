@@ -1,4 +1,4 @@
-# Illustrator — Draw shapes and paths
+# Illustrator - Draw shapes and paths
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Draw shapes in Illustrator. [Draw shapes](draw-shapes.md).

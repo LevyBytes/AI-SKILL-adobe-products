@@ -1,4 +1,4 @@
-# Exporting to XML — Export an InCopy file to XML
+# Exporting to XML - Export an InCopy file to XML
 
 Before converting InCopy stories to XML data, complete these tasks:
 

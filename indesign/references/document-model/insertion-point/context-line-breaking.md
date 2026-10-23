@@ -1,6 +1,6 @@
-# InDesign — Insertion point: line breaks and hyphenation
+# InDesign - Insertion point: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in InDesign — Insertion point.
+Open when checking line breaks and hyphenation in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

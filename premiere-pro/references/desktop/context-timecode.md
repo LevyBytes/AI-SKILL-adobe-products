@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: sequence timecode and display formats
+# Premiere Pro - Desktop workflows: sequence timecode and display formats
 
-Open when working with sequence timecode and display formats in Premiere Pro — Desktop workflows.
+Open when working with sequence timecode and display formats in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-timecode.json).
 

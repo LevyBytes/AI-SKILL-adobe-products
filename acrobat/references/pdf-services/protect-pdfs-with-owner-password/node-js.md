@@ -1,6 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [protect-pdf-with-owner-password.cjs](../examples/node/protect-pdf-with-owner-password/protect-pdf-with-owner-password.cjs)
-- [dependencies.cjs](../examples/node/protect-pdf-with-owner-password/dependencies.cjs)
-- [helpers.cjs](../examples/node/protect-pdf-with-owner-password/helpers.cjs)
+- [protect-pdf-with-owner-password setup and source](../examples/node/protect-pdf-with-owner-password/protect-pdf-with-owner-password-setup.md)

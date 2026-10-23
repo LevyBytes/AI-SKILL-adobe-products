@@ -1,4 +1,4 @@
-# Firefly — Add comments
+# Firefly - Add comments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a comment in Firefly. [Add a comment](add-a-comment.md).

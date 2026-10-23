@@ -1,4 +1,4 @@
-# Find/Change — Search using GREP expressions
+# Find/Change - Search using GREP expressions
 
 The GREP tab in Find/Change lets you build GREP expressions for locating alphanumeric strings and patterns across long documents or across multiple open documents. GREP metacharacters may be entered by hand or chosen from the Special Characters For Search list. By default, GREP searches distinguish case.
 

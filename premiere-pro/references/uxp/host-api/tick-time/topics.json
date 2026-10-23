@@ -9,6 +9,6 @@
   {"topic": "equals", "file": "references/uxp/host-api/tick-time/equals.md", "summary": "Open when looking up equals in Premiere Pro.", "keywords": ["equals"]},
   {"topic": "multiply", "file": "references/uxp/host-api/tick-time/multiply.md", "summary": "Open when looking up multiply in Premiere Pro.", "keywords": ["multiply"]},
   {"topic": "subtract", "file": "references/uxp/host-api/tick-time/subtract.md", "summary": "Open when looking up subtract in Premiere Pro.", "keywords": ["subtract"]},
-  {"topic": "TickTime — Properties", "file": "references/uxp/host-api/tick-time/tick-time-properties.md", "summary": "Open when looking up TickTime — Properties in Premiere Pro.", "keywords": ["TickTime — Properties"]},
+  {"topic": "TickTime - Properties", "file": "references/uxp/host-api/tick-time/tick-time-properties.md", "summary": "Open when looking up TickTime - Properties in Premiere Pro.", "keywords": ["TickTime - Properties"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

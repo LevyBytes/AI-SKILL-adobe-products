@@ -1,6 +1,6 @@
-# InDesign — PDFExportPreference: pdf permissions and passwords
+# InDesign - PDFExportPreference: pdf permissions and passwords
 
-Open when checking pdf permissions and passwords in InDesign — PDFExportPreference.
+Open when checking pdf permissions and passwords in InDesign - PDFExportPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-pdf-security.json).
 

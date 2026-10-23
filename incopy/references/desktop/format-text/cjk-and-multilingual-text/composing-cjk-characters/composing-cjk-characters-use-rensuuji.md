@@ -1,4 +1,4 @@
-# Composing CJK characters — Use rensuuji
+# Composing CJK characters - Use rensuuji
 
 Rensuuji keeps number strings from breaking and applies JIS specifications to punctuation spacing within those number strings.
 

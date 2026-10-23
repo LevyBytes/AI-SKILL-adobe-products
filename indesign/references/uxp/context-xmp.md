@@ -1,6 +1,6 @@
-# InDesign — UXP plugins and APIs: xmp metadata
+# InDesign - UXP plugins and APIs: xmp metadata
 
-Open when working with xmp metadata in InDesign — UXP plugins and APIs.
+Open when working with xmp metadata in InDesign - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-xmp.json).
 

@@ -1,6 +1,6 @@
-# InDesign — Change grep preference: underline and strike-through
+# InDesign - Change grep preference: underline and strike-through
 
-Open when checking underline and strike-through in InDesign — Change grep preference.
+Open when checking underline and strike-through in InDesign - Change grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-text-decorations.json).
 

@@ -1,4 +1,4 @@
-# Acrobat — Create PDF Spaces in Acrobat web
+# Acrobat - Create PDF Spaces in Acrobat web
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a PDF Space in Acrobat. [Create a PDF Space](create-a-pdf-space.md).

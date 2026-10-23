@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Upgrade pixel aspect ratios to correct values
+# Importing and interpreting footage items - Upgrade pixel aspect ratios to correct values
 
 For standard-definition video formats, the pixel aspect ratios baked into After Effects CS3 and earlier left the notion of clean aperture out of the picture. Overlooking the gap between clean aperture and production aperture in standard-definition video left those CS3-and-earlier ratios a little bit off. Because the ratios were wrong, certain images came out faintly distorted.
 

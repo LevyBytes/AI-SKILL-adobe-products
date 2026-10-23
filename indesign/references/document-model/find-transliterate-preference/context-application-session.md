@@ -1,6 +1,6 @@
-# InDesign — Find transliterate preference: application session and account
+# InDesign - Find transliterate preference: application session and account
 
-Open when checking application session and account in InDesign — Find transliterate preference.
+Open when checking application session and account in InDesign - Find transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

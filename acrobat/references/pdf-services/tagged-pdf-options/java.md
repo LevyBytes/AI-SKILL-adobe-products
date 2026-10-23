@@ -1,5 +1,4 @@
 # Java
-Complete example files:
+Example setup and source:
 
-- [AutotagPDFParameterised.java](../examples/java/autotag-pdf-parameterised/AutotagPDFParameterised.java)
-- [AutotagPDFParameterisedSupport.java](../examples/java/autotag-pdf-parameterised/AutotagPDFParameterisedSupport.java)
+- [autotag-pdf-parameterised setup and source](../examples/java/autotag-pdf-parameterised/autotag-pdf-parameterised-setup.md)

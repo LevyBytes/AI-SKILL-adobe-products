@@ -1,6 +1,5 @@
 {"schema_version": 1, "owner": "media-encoder", "topics": [
   {"topic": "Batch progress references", "file": "references/automation/examples/batch-progress/reference-index.md", "summary": "Open when looking up Batch progress in Media Encoder.", "keywords": ["Batch progress references"]},
-  {"topic": "Export progress references", "file": "references/automation/examples/export-progress/reference-index.md", "summary": "Open when looking up Export progress in Media Encoder.", "keywords": ["Export progress references"]},
   {"topic": "Multiple preset export references", "file": "references/automation/examples/multiple-preset-export/reference-index.md", "summary": "Open when looking up Multiple preset export in Media Encoder.", "keywords": ["Multiple preset export references"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

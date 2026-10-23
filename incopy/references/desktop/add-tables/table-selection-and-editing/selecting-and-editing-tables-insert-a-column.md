@@ -1,4 +1,4 @@
-# Selecting and editing tables — Insert a column
+# Selecting and editing tables - Insert a column
 
 Place the insertion point in a column beside the location for the new column. Choose Table > Insert > Column. Enter the number of columns to add. Choose whether the new column or columns go before or after the current column, then click OK.
 

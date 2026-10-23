@@ -1,6 +1,6 @@
-# Shared Adobe platform — Aftereffects: viewers and preview quality
+# Shared Adobe platform - Aftereffects: viewers and preview quality
 
-Open when working with viewers and preview quality in Shared Adobe platform — Aftereffects.
+Open when working with viewers and preview quality in Shared Adobe platform - Aftereffects.
 
 Open when selecting an exact reference: [Topic catalog](context-views.json).
 

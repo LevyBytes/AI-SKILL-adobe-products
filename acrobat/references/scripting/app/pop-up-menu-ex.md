@@ -18,7 +18,7 @@ MenuItem Object
 
 A single menu entry is modeled by this plain JavaScript object, which carries the properties below.
 
-Property — Description
+Property: Description
 
 cName
 

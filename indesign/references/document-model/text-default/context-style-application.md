@@ -1,6 +1,6 @@
-# InDesign — Text default: apply and manage styles
+# InDesign - Text default: apply and manage styles
 
-Open when checking apply and manage styles in InDesign — Text default.
+Open when checking apply and manage styles in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

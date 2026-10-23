@@ -1,4 +1,4 @@
-# Scripting Constants — SVGDTDVersion
+# Scripting Constants - SVGDTDVersion
 
 Exported files can target these SVG compatibility versions.
 

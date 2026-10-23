@@ -1,6 +1,6 @@
-# InDesign — RadioButton: interactive fields and behaviors
+# InDesign - RadioButton: interactive fields and behaviors
 
-Open when checking interactive fields and behaviors in InDesign — RadioButton.
+Open when checking interactive fields and behaviors in InDesign - RadioButton.
 
 Open when selecting an exact API member: [Topic catalog](context-interactive-fields.json).
 

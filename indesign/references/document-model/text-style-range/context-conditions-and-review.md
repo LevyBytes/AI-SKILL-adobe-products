@@ -1,6 +1,6 @@
-# InDesign — Text style range: conditional text and editorial review
+# InDesign - Text style range: conditional text and editorial review
 
-Open when checking conditional text and editorial review in InDesign — Text style range.
+Open when checking conditional text and editorial review in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-conditions-and-review.json).
 

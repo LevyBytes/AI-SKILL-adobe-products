@@ -1,4 +1,4 @@
-# Table and cell styles — Redefine table or cell styles based on current formatting
+# Table and cell styles - Redefine table or cell styles based on current formatting
 
 After a style is applied, any of its settings can be overridden. If the changed formatting is the result you want, redefine the style so it keeps that new formatting.
 

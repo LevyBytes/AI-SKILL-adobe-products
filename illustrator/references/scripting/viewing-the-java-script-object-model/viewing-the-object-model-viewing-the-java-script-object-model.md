@@ -1,4 +1,4 @@
-# Viewing the object model — Viewing the JavaScript object model
+# Viewing the object model - Viewing the JavaScript object model
 
 Use this procedure to inspect Illustrator's JavaScript object model:
 

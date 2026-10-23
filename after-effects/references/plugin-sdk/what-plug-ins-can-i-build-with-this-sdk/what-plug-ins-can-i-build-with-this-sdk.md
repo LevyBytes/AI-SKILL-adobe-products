@@ -1,4 +1,4 @@
-# What Can I Do With This SDK? — What Plug-Ins Can I Build With This SDK?
+# What Can I Do With This SDK? - What Plug-Ins Can I Build With This SDK?
 
 Applied to the video or audio of a composition, effect plug-ins process that image and/or sound data. Brightness and Contast, Hue/Saturation, Gaussian Blur, and Warp Stabilizer are a few of the effects that ship built in. To let users tune the result, an effect can expose its own parameter controls, and the values of those parameters are free to change across time; an effect may also pull from other layers and parameters at various moments while computing its output. A common misconception is that every plug-in is an effect — in reality, effects are only one of the plug-in categories After Effects relies on.
 

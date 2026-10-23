@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: creative cloud libraries and shared assets
+# Premiere Pro - Desktop workflows: creative cloud libraries and shared assets
 
-Open when working with creative cloud libraries and shared assets in Premiere Pro — Desktop workflows.
+Open when working with creative cloud libraries and shared assets in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-creative-libraries.json).
 

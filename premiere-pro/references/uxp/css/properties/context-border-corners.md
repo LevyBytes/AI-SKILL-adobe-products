@@ -1,6 +1,6 @@
-# Premiere Pro — Properties: rounded border corners
+# Premiere Pro - Properties: rounded border corners
 
-Open when working with rounded border corners in Premiere Pro — Properties.
+Open when working with rounded border corners in Premiere Pro - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-border-corners.json).
 

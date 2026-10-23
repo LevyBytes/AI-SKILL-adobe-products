@@ -1,6 +1,6 @@
-# InDesign — Rectangle: paths and shape operations
+# InDesign - Rectangle: paths and shape operations
 
-Open when checking paths and shape operations in InDesign — Rectangle.
+Open when checking paths and shape operations in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-paths-and-shapes.json).
 

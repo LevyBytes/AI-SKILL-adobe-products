@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: tables, rows and cells
+# InDesign - InDesign document object model: tables, rows and cells
 
-Open when working with tables, rows and cells in InDesign — InDesign document object model.
+Open when working with tables, rows and cells in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-table-structure.json).
 

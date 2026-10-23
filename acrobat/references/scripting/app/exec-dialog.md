@@ -24,7 +24,7 @@ Parameters
 
 Returns
 
-A string — the ItemID of whichever element dismissed the dialog box. That value is "ok" or "cancel" when the dismissing element is the ok or cancel button.
+A string: the ItemID of whichever element dismissed the dialog box. That value is "ok" or "cancel" when the dismissing element is the ok or cancel button.
 
 Note
 

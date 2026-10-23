@@ -1,4 +1,4 @@
-# Photoshop — Placement Options
+# Photoshop - Placement Options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up V1 Placement in Photoshop. [V1 Placement](v1-placement.md).

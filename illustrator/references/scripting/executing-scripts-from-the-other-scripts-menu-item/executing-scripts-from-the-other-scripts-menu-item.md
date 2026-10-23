@@ -1,4 +1,4 @@
-# Executing Scripts — Executing scripts from the Other Scripts menu item
+# Executing Scripts - Executing scripts from the Other Scripts menu item
 
 At the bottom of the Scripts menu, the Other Scripts command (File > Scripts > Other Scripts) runs scripts that are not stored in the Scripts folder.
 

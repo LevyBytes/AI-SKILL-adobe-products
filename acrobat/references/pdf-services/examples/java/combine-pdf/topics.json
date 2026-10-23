@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Combine pdf example setup", "file": "references/pdf-services/examples/java/combine-pdf/combine-pdf-setup.md", "summary": "Open when looking up Combine pdf example setup in Acrobat.", "keywords": ["Combine pdf example setup"]},
-  {"topic": "CombinePDF", "file": "references/pdf-services/examples/java/combine-pdf/CombinePDF.java", "summary": "Open when looking up CombinePDF in Acrobat.", "keywords": ["CombinePDF"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

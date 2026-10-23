@@ -1,6 +1,6 @@
-# Shared Adobe platform — CTScript: ctscript enum declaration
+# Shared Adobe platform - CTScript: ctscript enum declaration
 
-Open when working with ctscript enum declaration in Shared Adobe platform — CTScript.
+Open when working with ctscript enum declaration in Shared Adobe platform - CTScript.
 
 Open when selecting an exact reference: [Topic catalog](context-declaration.json).
 

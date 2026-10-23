@@ -1,4 +1,4 @@
-# InDesign — DynamicTriggerEvents
+# InDesign - DynamicTriggerEvents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ON_CLICK in InDesign. [ON_CLICK](onclick.md).

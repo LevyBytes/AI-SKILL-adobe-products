@@ -1,6 +1,6 @@
-# InDesign — Document: lists, numbering and drop caps
+# InDesign - Document: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in InDesign — Document.
+Open when checking lists, numbering and drop caps in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

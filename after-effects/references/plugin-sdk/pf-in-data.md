@@ -4,9 +4,9 @@ System, project, layer, and audio details are relayed from After Effects by way 
 
 Where a field only carries valid data during particular `PF_Cmds`, that's called out.
 
-And relax — `PF_InData` may look intimidatingly big, but committing every member's role to memory isn't necessary; only some of the fields will matter to you, and only some of the time.
+And relax: `PF_InData` may look intimidatingly big, but committing every member's role to memory isn't necessary; only some of the fields will matter to you, and only some of the time.
 
-### `PF_InData` — `PF_InData` Members
+### `PF_InData``PF_InData` Members
 
 | Name | Description |
 | --- | --- |

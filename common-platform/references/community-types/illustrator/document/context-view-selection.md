@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: views, selection and window capture
+# Shared Adobe platform - Document: views, selection and window capture
 
-Open when working with views, selection and window capture in Shared Adobe platform — Document.
+Open when working with views, selection and window capture in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-view-selection.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: tables, rows and cells
+# Shared Adobe platform - Indesign: tables, rows and cells
 
-Open when working with tables, rows and cells in Shared Adobe platform — Indesign.
+Open when working with tables, rows and cells in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-table-structure.json).
 

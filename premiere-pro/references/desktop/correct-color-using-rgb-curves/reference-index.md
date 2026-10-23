@@ -1,4 +1,4 @@
-# Premiere Pro — Correct color using rgb curves
+# Premiere Pro - Correct color using rgb curves
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust luma and tonal ranges using control points in Premiere Pro. [Adjust luma and tonal ranges using control points](adjust-luma-and-tonal-ranges-using-control-points.md).

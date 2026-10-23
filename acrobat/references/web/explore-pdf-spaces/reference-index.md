@@ -1,4 +1,4 @@
-# Acrobat — Explore pdf spaces
+# Acrobat - Explore pdf spaces
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create PDF Spaces in Acrobat web in Acrobat. [Create PDF Spaces in Acrobat web](create-pdf-spaces-in-acrobat-web.md).

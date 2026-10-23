@@ -1,6 +1,6 @@
-# Acrobat — Doc: add document watermarks
+# Acrobat - Doc: add document watermarks
 
-Open when working with add document watermarks in Acrobat — Doc.
+Open when working with add document watermarks in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-watermarks.json).
 

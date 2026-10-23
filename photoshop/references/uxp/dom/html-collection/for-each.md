@@ -1,4 +1,4 @@
-# window.HTMLCollection — forEach(callback)
+# window.HTMLCollection - forEach(callback)
 
 | Param | Type |
 | --- | --- |

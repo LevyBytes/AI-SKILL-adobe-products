@@ -1,4 +1,4 @@
-# InDesign — Ink and color management
+# InDesign - Ink and color management
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customize spot color appearance in InDesign. [Customize spot color appearance](customize-spot-color-appearance.md).

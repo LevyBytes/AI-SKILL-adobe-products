@@ -1,4 +1,4 @@
-# Illustrator — Arrange objects
+# Illustrator - Arrange objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align or distribute selected objects in Illustrator. [Align or distribute selected objects](align-or-distribute-selected-objects.md).

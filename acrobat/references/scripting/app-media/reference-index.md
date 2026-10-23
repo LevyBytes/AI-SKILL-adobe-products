@@ -1,4 +1,4 @@
-# Acrobat — App media
+# Acrobat - App media
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up alertFileNotFound in Acrobat. [alertFileNotFound](alert-file-not-found.md).
@@ -22,7 +22,7 @@
 - Open when looking up getURLSettings in Acrobat. [getURLSettings](get-url-settings.md).
 - Open when looking up getWindowBorderSize in Acrobat. [getWindowBorderSize](get-window-border-size.md).
 - Open when looking up ifOffScreen in Acrobat. [ifOffScreen](if-off-screen.md).
-- Open when looking up JavaScript APIs — app.media in Acrobat. [JavaScript APIs — app.media](java-script-apis-app-media.md).
+- Open when looking up JavaScript APIs - app.media in Acrobat. [JavaScript APIs - app.media](java-script-apis-app-media.md).
 - Open when looking up layout in Acrobat. [layout](layout.md).
 - Open when looking up monitorType in Acrobat. [monitorType](monitor-type.md).
 - Open when looking up openCode in Acrobat. [openCode](open-code.md).

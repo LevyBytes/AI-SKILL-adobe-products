@@ -1,6 +1,6 @@
-# InDesign — Document: text frame columns and autosizing
+# InDesign - Document: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — Document.
+Open when checking text frame columns and autosizing in InDesign - Document.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

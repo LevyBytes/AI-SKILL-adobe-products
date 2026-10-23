@@ -1,4 +1,4 @@
-# Premiere Pro — Touch and Gesture controls on Windows Devices
+# Premiere Pro - Touch and Gesture controls on Windows Devices
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up One-finger tap/drag in Premiere Pro. [One-finger tap/drag](one-finger-tap-drag.md).

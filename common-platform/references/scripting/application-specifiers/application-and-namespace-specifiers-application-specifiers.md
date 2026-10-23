@@ -1,4 +1,4 @@
-# Application and namespace specifiers — Application specifiers
+# Application and namespace specifiers - Application specifiers
 
 Application specifiers are strings that combine the application name with a version number and a language code. Their syntax is: appname[\_instance[[-version[-locale]]]
 

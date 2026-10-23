@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextPreference
+# Shared Adobe platform - TextPreference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextPreference declaration in Shared Adobe platform. [TextPreference declaration](declaration.md).

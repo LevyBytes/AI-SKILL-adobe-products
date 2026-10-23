@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: adjustment and solid-color layers
+# Photoshop - Cloud service APIs: adjustment and solid-color layers
 
-Open when working with adjustment and solid-color layers in Photoshop — Cloud service APIs.
+Open when working with adjustment and solid-color layers in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-adjustments-fill.json).
 

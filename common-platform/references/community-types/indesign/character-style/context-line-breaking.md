@@ -1,6 +1,6 @@
-# Shared Adobe platform — CharacterStyle: line breaks and hyphenation
+# Shared Adobe platform - CharacterStyle: line breaks and hyphenation
 
-Open when checking line breaks and hyphenation in Shared Adobe platform — CharacterStyle.
+Open when checking line breaks and hyphenation in Shared Adobe platform - CharacterStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-line-breaking.json).
 

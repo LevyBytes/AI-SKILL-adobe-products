@@ -1,4 +1,4 @@
-# window.Element — setPointerCapture(pointerId)
+# window.Element - setPointerCapture(pointerId)
 
 Pointer capture is enabled for this element. In this UXP implementation, `gotpointercapture` is not emitted there.
 

@@ -1,6 +1,6 @@
-# InDesign — Paragraph style: lists, numbering and drop caps
+# InDesign - Paragraph style: lists, numbering and drop caps
 
-Open when checking lists, numbering and drop caps in InDesign — Paragraph style.
+Open when checking lists, numbering and drop caps in InDesign - Paragraph style.
 
 Open when selecting an exact API member: [Topic catalog](context-lists-and-drop-caps.json).
 

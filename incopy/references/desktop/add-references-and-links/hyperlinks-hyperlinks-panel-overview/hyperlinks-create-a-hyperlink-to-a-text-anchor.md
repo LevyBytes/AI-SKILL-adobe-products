@@ -1,3 +1,3 @@
-# Hyperlinks — Create a hyperlink to a text anchor
+# Hyperlinks - Create a hyperlink to a text anchor
 
 Select the text, frame, or graphic that will serve as the hyperlink source. From the Hyperlinks panel menu, choose New Hyperlink, or use the Hyperlinks panel's bottom Create New Hyperlink button. Set Link To to Text Anchor. For Document, choose the document that contains the destination. Saved documents that are open appear in the pop‑up menu. If the needed document is not open, choose Browse from the pop‑up menu, find the file, and click Open. From the Text Anchor menu, choose the text anchor destination already created. Set hyperlink appearance options, then click OK.

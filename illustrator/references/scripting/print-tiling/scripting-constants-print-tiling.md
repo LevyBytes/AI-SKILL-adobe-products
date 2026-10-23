@@ -1,4 +1,4 @@
-# Scripting Constants — PrintTiling
+# Scripting Constants - PrintTiling
 
 | Value | Description |
 | --- | --- |

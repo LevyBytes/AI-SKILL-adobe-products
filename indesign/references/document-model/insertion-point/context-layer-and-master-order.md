@@ -1,6 +1,6 @@
-# InDesign — Insertion point: layers, stacking and master overrides
+# InDesign - Insertion point: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — Insertion point.
+Open when checking layers, stacking and master overrides in InDesign - Insertion point.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

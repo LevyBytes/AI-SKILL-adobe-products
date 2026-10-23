@@ -1,4 +1,4 @@
-# Scripting Constants — Transformation
+# Scripting Constants - Transformation
 
 Use this anchor point when an object is rotated, resized, or otherwise modified.
 

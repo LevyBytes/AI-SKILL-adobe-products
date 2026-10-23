@@ -1,4 +1,4 @@
-# Using editorial notes — Check spelling or find/change text in notes
+# Using editorial notes - Check spelling or find/change text in notes
 
 Open the Galley or Story view tab. Expand any notes that need spell-checking or text search. To open every note, use Notes > Expand/Collapse Notes In Story. Then run Edit > Spelling > Check Spelling or Edit > Find/Change.
 

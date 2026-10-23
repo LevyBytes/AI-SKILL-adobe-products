@@ -1,4 +1,4 @@
-# Shared Adobe platform — Package, Distribute, Install Guide
+# Shared Adobe platform - Package, Distribute, Install Guide
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acquiring a signed certificate in Shared Adobe platform. [Acquiring a signed certificate](acquiring-a-signed-certificate.md).

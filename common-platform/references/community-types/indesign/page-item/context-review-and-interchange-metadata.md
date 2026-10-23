@@ -1,6 +1,6 @@
-# Shared Adobe platform — PageItem: document metadata and imported review
+# Shared Adobe platform - PageItem: document metadata and imported review
 
-Open when checking document metadata and imported review in Shared Adobe platform — PageItem.
+Open when checking document metadata and imported review in Shared Adobe platform - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-review-and-interchange-metadata.json).
 

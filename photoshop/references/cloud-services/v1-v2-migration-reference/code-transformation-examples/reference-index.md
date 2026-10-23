@@ -1,4 +1,4 @@
-# Photoshop — Code transformation examples
+# Photoshop - Code transformation examples
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Example 1: Simple edit (auto tone) in Photoshop. [Example 1: Simple edit (auto tone)](example-1-simple-edit-auto-tone.md).

@@ -1,4 +1,4 @@
-# Illustrator — PrintPageMarksOptions
+# Illustrator - PrintPageMarksOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PrintPageMarksOptions.bleedOffsetRect in Illustrator. [PrintPageMarksOptions.bleedOffsetRect](bleed-offset-rect.md).

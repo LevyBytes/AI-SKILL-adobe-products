@@ -1,4 +1,4 @@
-# Photoshop — Add layer masks
+# Photoshop - Add layer masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a layer mask that hides part of a layer in Photoshop. [Add a layer mask that hides part of a layer](add-a-layer-mask-that-hides-part-of-a-layer.md).

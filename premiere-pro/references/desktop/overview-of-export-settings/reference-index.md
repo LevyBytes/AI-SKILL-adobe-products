@@ -1,4 +1,4 @@
-# Premiere Pro — Overview of export settings
+# Premiere Pro - Overview of export settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio Format Settings in Premiere Pro. [Audio Format Settings](audio-format-settings.md).

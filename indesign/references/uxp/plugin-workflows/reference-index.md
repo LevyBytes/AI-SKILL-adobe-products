@@ -1,4 +1,4 @@
-# InDesign — Plugin workflows
+# InDesign - Plugin workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Debug your plugin in InDesign. [Debug your plugin](debug-your-plugin.md).

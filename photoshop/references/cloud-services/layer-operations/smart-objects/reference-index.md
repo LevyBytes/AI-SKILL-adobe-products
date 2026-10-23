@@ -1,4 +1,4 @@
-# Photoshop — Smart objects
+# Photoshop - Smart objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adding smart object layers in Photoshop. [Adding smart object layers references](adding-smart-object-layers/reference-index.md).

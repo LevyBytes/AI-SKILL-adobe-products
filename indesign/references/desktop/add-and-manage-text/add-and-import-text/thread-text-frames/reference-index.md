@@ -1,4 +1,4 @@
-# InDesign — Thread text frames
+# InDesign - Thread text frames
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a frame inside a sequence of threaded frames in InDesign. [Add a frame inside a sequence of threaded frames](add-a-frame-inside-a-sequence-of-threaded-frames.md).

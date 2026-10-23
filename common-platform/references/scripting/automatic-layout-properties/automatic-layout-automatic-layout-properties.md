@@ -1,4 +1,4 @@
-# Automatic layout — Automatic layout properties
+# Automatic layout - Automatic layout properties
 
 A script sets rules for the layout manager by assigning particular properties on the container object and on child elements. The examples below demonstrate how different combinations of those values affect layout. They use a simple window, built with Resource specifications, that contains StaticText, Button, and EditText elements:
 

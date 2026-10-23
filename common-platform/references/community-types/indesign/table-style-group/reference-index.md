@@ -1,4 +1,4 @@
-# Shared Adobe platform — TableStyleGroup
+# Shared Adobe platform - TableStyleGroup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TableStyleGroup declaration in Shared Adobe platform. [TableStyleGroup declaration](declaration.md).

@@ -1,4 +1,4 @@
-# Workspace basics — Restore the default workspace
+# Workspace basics - Restore the default workspace
 
 Choose Default or Essentials in the application-bar workspace switcher.
 

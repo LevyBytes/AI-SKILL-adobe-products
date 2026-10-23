@@ -1,6 +1,6 @@
-# InDesign — Text style range: paragraph shading
+# InDesign - Text style range: paragraph shading
 
-Open when checking paragraph shading in InDesign — Text style range.
+Open when checking paragraph shading in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-shading.json).
 

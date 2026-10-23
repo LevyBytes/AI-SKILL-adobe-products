@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: artisan data types
+# After Effects - C++ plugin SDK: artisan data types
 
-Open when working with artisan data types in After Effects — C++ plugin SDK.
+Open when working with artisan data types in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-artisans-artisan-data-types.json).
 

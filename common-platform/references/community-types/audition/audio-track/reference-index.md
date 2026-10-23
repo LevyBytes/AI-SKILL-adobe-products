@@ -1,4 +1,4 @@
-# Shared Adobe platform — AudioTrack
+# Shared Adobe platform - AudioTrack
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AudioTrack declaration in Shared Adobe platform. [AudioTrack declaration](declaration.md).

@@ -1,4 +1,4 @@
-# InDesign — Footnotes and endnotes
+# InDesign - Footnotes and endnotes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply text wrap to footnotes in InDesign. [Apply text wrap to footnotes](apply-text-wrap-to-footnotes.md).

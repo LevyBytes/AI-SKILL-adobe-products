@@ -1,4 +1,4 @@
-# Tips & Tricks — Arbitrary Data
+# Tips & Tricks - Arbitrary Data
 
 For wrangling your custom UI, few things work as well as an arbitrary data parameter.
 

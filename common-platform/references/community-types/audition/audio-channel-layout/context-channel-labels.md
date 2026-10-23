@@ -1,6 +1,6 @@
-# Shared Adobe platform — AudioChannelLayout: speaker positions and channel labels
+# Shared Adobe platform - AudioChannelLayout: speaker positions and channel labels
 
-Open when working with speaker positions and channel labels in Shared Adobe platform — AudioChannelLayout.
+Open when working with speaker positions and channel labels in Shared Adobe platform - AudioChannelLayout.
 
 Open when selecting an exact reference: [Topic catalog](context-channel-labels.json).
 

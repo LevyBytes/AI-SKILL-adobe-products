@@ -1,6 +1,6 @@
-# InDesign — Text column: warichu inline text
+# InDesign - Text column: warichu inline text
 
-Open when checking warichu inline text in InDesign — Text column.
+Open when checking warichu inline text in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-warichu-layout.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — ScriptUIGraphics
+# Shared Adobe platform - ScriptUIGraphics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ScriptUIGraphics declaration in Shared Adobe platform. [ScriptUIGraphics declaration](declaration.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeGrepPreference: apply and manage styles
+# Shared Adobe platform - ChangeGrepPreference: apply and manage styles
 
-Open when checking apply and manage styles in Shared Adobe platform — ChangeGrepPreference.
+Open when checking apply and manage styles in Shared Adobe platform - ChangeGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-style-application.json).
 

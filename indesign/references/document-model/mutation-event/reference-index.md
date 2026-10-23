@@ -1,4 +1,4 @@
-# InDesign — MutationEvent
+# InDesign - MutationEvent
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AFTER_ATTRIBUTE_CHANGED in InDesign. [AFTER_ATTRIBUTE_CHANGED](afterattributechanged.md).

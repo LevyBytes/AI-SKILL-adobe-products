@@ -1,6 +1,6 @@
-# Acrobat — PDF Services API: recognize scanned text
+# Acrobat - PDF Services API: recognize scanned text
 
-Open when working with recognize scanned text in Acrobat — PDF Services API.
+Open when working with recognize scanned text in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-ocr.json).
 

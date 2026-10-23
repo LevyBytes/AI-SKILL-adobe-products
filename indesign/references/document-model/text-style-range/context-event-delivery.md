@@ -1,6 +1,6 @@
-# InDesign — Text style range: events and listeners
+# InDesign - Text style range: events and listeners
 
-Open when checking events and listeners in InDesign — Text style range.
+Open when checking events and listeners in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

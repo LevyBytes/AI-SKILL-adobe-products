@@ -1,6 +1,6 @@
-# Premiere Pro — UXP plugins and APIs: files and persistent storage
+# Premiere Pro - UXP plugins and APIs: files and persistent storage
 
-Open when working with files and persistent storage in Premiere Pro — UXP plugins and APIs.
+Open when working with files and persistent storage in Premiere Pro - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-files-storage.json).
 

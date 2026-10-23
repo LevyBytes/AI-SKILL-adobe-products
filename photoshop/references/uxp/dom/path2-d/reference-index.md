@@ -1,4 +1,4 @@
-# Photoshop — Path2 d
+# Photoshop - Path2 d
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addPath(path) in Photoshop. [addPath(path)](add-path.md).

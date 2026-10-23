@@ -1,4 +1,4 @@
-# Premiere Pro — Commands
+# Premiere Pro - Commands
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Command Traits in Premiere Pro. [Command Traits](command-traits.md).

@@ -1,4 +1,4 @@
-# InDesign — Change footnote numbering and layout options
+# InDesign - Change footnote numbering and layout options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Set footnote first baseline options in InDesign. [Set footnote first baseline options](set-footnote-first-baseline-options.md).

@@ -1,8 +1,9 @@
 ---
 name: common-platform
-description: 'Use when a task concerns Adobe shared developer-platform APIs: ExtendScript, ScriptUI, BridgeTalk, Socket, ExternalObject, XMPScript, CEP extensions and version-specific runtimes, CEP-to-UXP migration, or bundled community Adobe application type declarations.'
+description: "Use when a task concerns Adobe shared developer-platform APIs: ExtendScript, ScriptUI, BridgeTalk, Socket, ExternalObject, XMPScript, CEP extensions and version-specific runtimes, CEP-to-UXP migration, or bundled community Adobe application type declarations."
+license: Apache-2.0
 metadata:
-  last-updated: "2026-10-16"
+  last-updated: "2026-10-22"
 ---
 
 # Context Router

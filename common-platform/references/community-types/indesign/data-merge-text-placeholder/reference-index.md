@@ -1,4 +1,4 @@
-# Shared Adobe platform — DataMergeTextPlaceholder
+# Shared Adobe platform - DataMergeTextPlaceholder
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DataMergeTextPlaceholder declaration in Shared Adobe platform. [DataMergeTextPlaceholder declaration](declaration.md).

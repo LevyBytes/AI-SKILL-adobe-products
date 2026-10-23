@@ -1,4 +1,4 @@
-# Photoshop — Unsplash plugin setup
+# Photoshop - Unsplash plugin setup
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Environment Variables Setup in Photoshop. [Environment Variables Setup](environment-variables-setup.md).

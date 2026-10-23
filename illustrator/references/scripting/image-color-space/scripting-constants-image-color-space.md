@@ -1,4 +1,4 @@
-# Scripting Constants — ImageColorSpace
+# Scripting Constants - ImageColorSpace
 
 This value reports the color space for a raster item or export.
 

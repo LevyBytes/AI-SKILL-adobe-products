@@ -1,4 +1,4 @@
-# Selecting and editing tables — Combine tables
+# Selecting and editing tables - Combine tables
 
 The Paste command can combine two or more tables into one table.
 

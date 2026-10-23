@@ -1,4 +1,4 @@
-# Composing CJK characters — Use mojikumi
+# Composing CJK characters - Use mojikumi
 
 Mojikumi controls composition spacing for Japanese and Chinese characters, roman characters, punctuation, special characters, numbers, line start behavior, and line end behavior. It can also define paragraph indents. Korean text may not use mojikumi.
 

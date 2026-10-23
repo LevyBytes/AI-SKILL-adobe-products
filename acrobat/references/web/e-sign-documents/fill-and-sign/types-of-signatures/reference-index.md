@@ -1,4 +1,4 @@
-# Acrobat — Types of signatures
+# Acrobat - Types of signatures
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Approval signature (Acrobat) in Acrobat. [Approval signature (Acrobat)](approval-signature-acrobat.md).

@@ -1,4 +1,4 @@
-# Tabs and indents — Set an indent using the Tabs dialog box
+# Tabs and indents - Set an indent using the Tabs dialog box
 
 Using the Type tool, click inside the paragraph that needs an indent. Choose Type > Tabs to open the Tabs dialog box. For the indent markers in the Tabs dialog box, use one of these approaches:
 

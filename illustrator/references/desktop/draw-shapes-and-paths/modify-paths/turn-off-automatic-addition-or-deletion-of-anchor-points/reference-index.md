@@ -1,4 +1,4 @@
-# Illustrator — Turn off automatic addition or deletion of anchor points
+# Illustrator - Turn off automatic addition or deletion of anchor points
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Using Illustrator preferences in Illustrator. [Using Illustrator preferences](using-illustrator-preferences.md).

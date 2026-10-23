@@ -1,4 +1,4 @@
-# InDesign — Change text color, gradient or stroke
+# InDesign - Change text color, gradient or stroke
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change gradient settings in InDesign. [Change gradient settings](change-gradient-settings.md).

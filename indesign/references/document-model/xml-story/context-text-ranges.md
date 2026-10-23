@@ -1,6 +1,6 @@
-# InDesign — XmlStory: text ranges and containers
+# InDesign - XmlStory: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — XmlStory.
+Open when checking text ranges and containers in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

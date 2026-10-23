@@ -1,4 +1,4 @@
-# Composing CJK characters — Rotate half-width characters in vertical text
+# Composing CJK characters - Rotate half-width characters in vertical text
 
 Select the text to change. Choose Roman rotation in Vertical Text from either the Paragraph panel menu or the Control panel menu.
 

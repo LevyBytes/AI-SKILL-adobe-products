@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: hyphenation and dictionaries
+# Shared Adobe platform - Indesign: hyphenation and dictionaries
 
-Open when working with hyphenation and dictionaries in Shared Adobe platform — Indesign.
+Open when working with hyphenation and dictionaries in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-hyphenation.json).
 

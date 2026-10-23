@@ -1,4 +1,4 @@
-# Formatting characters — Change the color and gradient of text
+# Formatting characters - Change the color and gradient of text
 
 The Swatches panel lets you assign colors and gradients to character strokes and fills. In a linked story, the available choices include the colors or gradients defined in the linked InDesign layout. In a stand-alone story, you can use the document defaults plus any new colors created in that document.
 

@@ -1,4 +1,4 @@
-# AEGP Suites — Communication With A Layer's Effects
+# AEGP Suites - Communication With A Layer's Effects
 
 Reach the effects that have been applied to a layer here. The suite opens up every parameter data stream as well.
 

@@ -1,4 +1,4 @@
-# Blur and Sharpen effects — Box Blur effect
+# Blur and Sharpen effects - Box Blur effect
 
 What distinguishes Box Blur from Fast Blur and Gaussian Blur is its Iterations property, a handle that lets you dial in the quality of the blur; otherwise the three are alike.
 

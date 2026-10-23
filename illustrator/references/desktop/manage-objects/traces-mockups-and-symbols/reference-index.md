@@ -1,4 +1,4 @@
-# Illustrator — Create traces mockups and symbols
+# Illustrator - Create traces mockups and symbols
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create and place symbols in Illustrator. [Create and place symbols](create-and-place-symbols.md).

@@ -1,4 +1,4 @@
-# InDesign — Insufficient system memory errors
+# InDesign - Insufficient system memory errors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Expand system memory in InDesign. [Expand system memory](expand-system-memory.md).

@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: changing parameter orders, the nice way
+# After Effects - C++ plugin SDK: changing parameter orders, the nice way
 
-Open when working with changing parameter orders, the nice way in After Effects — C++ plugin SDK.
+Open when working with changing parameter orders, the nice way in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-effect-details-changing-parameter-orders.json).
 

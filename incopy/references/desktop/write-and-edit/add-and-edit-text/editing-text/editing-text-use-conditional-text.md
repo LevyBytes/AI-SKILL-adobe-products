@@ -1,4 +1,4 @@
-# Editing text — Use conditional text
+# Editing text - Use conditional text
 
 Conditional text lets one document hold alternate versions of the same content. After conditions are created, they are assigned to ranges of text. Different document versions are produced by showing some conditions and hiding others. For example, a computer manual can have separate Mac OS and Windows conditions. To print the Mac OS user guide, show text carrying the "Mac" condition and hide text carrying the "Windows" condition. For the Windows user guide, reverse those visibility states.
 

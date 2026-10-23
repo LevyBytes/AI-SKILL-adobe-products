@@ -1,4 +1,4 @@
-# JavaScript APIs — colorConvertAction
+# JavaScript APIs - colorConvertAction
 
 A lone color conversion action is what this object captures.
 

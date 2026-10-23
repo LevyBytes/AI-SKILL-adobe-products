@@ -1,4 +1,4 @@
-# Illustrator — Proofread Translate Rephrase Text
+# Illustrator - Proofread Translate Rephrase Text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate or Rewrite selected text in Illustrator. [Generate or Rewrite selected text](generate-or-rewrite-selected-text.md).

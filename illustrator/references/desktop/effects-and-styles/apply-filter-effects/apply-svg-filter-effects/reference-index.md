@@ -1,4 +1,4 @@
-# Illustrator — Apply SVG filter effects
+# Illustrator - Apply SVG filter effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply a custom effect in Illustrator. [Apply a custom effect](apply-a-custom-effect.md).

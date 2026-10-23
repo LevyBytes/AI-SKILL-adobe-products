@@ -1,4 +1,4 @@
-# Premiere Pro — Edit metadata
+# Premiere Pro - Edit metadata
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create metadata schemas and properties in Premiere Pro. [Create metadata schemas and properties](create-metadata-schemas-and-properties.md).

@@ -1,6 +1,6 @@
-# InDesign — GraphicLine: application session and account
+# InDesign - GraphicLine: application session and account
 
-Open when checking application session and account in InDesign — GraphicLine.
+Open when checking application session and account in InDesign - GraphicLine.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

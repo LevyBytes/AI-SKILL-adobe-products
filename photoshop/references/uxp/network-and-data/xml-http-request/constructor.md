@@ -1,4 +1,4 @@
-# window.XMLHttpRequest — XMLHttpRequest()
+# window.XMLHttpRequest - XMLHttpRequest()
 
 XMLHttpRequest objects exchange data with servers.
 They can fetch data from a URL without requiring a full page refresh.

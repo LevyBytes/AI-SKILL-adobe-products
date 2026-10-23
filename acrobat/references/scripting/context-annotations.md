@@ -1,6 +1,6 @@
-# Acrobat — Scripting APIs: annotations, collaboration and links
+# Acrobat - Scripting APIs: annotations, collaboration and links
 
-Open when working with annotations, collaboration and links in Acrobat — Scripting APIs.
+Open when working with annotations, collaboration and links in Acrobat - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-annotations.json).
 

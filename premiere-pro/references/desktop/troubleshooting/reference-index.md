@@ -1,4 +1,4 @@
-# Premiere Pro — Troubleshooting
+# Premiere Pro - Troubleshooting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Audio issues in Premiere Pro. [Audio issues](audio-issues.md).

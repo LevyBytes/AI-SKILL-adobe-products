@@ -1,4 +1,4 @@
-# UxpPluginInfo — manifest ⇒ `JSON`
+# UxpPluginInfo - manifest ⇒ `JSON`
 
 Reads the plugin manifest.
 

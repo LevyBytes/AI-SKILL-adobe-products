@@ -1,4 +1,4 @@
-# Photoshop — Execute Actions — Complete V1 Migration Reference
+# Photoshop - Execute Actions - Complete V1 Migration Reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. V1 endpoint coverage in Photoshop. [1. V1 endpoint coverage](v1-endpoint-coverage.md).

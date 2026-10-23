@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/split-pdf-by-number-of-pages/Program.cs)
+- [split-pdf-by-number-of-pages setup and source](../examples/dotnet/split-pdf-by-number-of-pages/split-pdf-by-number-of-pages-setup.md)

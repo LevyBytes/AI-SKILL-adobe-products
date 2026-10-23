@@ -1,4 +1,4 @@
-# Automatic loudness correction — Applying loudness correction
+# Automatic loudness correction - Applying loudness correction
 
 Bring the media files into AME and place them in the Queue panel.
 

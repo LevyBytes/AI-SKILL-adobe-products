@@ -1,4 +1,4 @@
-# window.Event — Event(eventType, eventInit)
+# window.Event - Event(eventType, eventInit)
 
 Builds an Event instance.
 

@@ -1,4 +1,4 @@
-# Photoshop — Export To Cloud
+# Photoshop - Export To Cloud
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Export in Photoshop. [Export](export.md).

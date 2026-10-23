@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/insert-pdf-pages/Program.cs)
+- [insert-pdf-pages setup and source](../examples/dotnet/insert-pdf-pages/insert-pdf-pages-setup.md)

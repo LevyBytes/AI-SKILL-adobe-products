@@ -12,7 +12,7 @@ Shape the Overview experience if you need to:
 
 - Shuffle the order of items, or take some out
 - Revise the text or audio summaries that AI generated
-- Bring in supporting pieces — notes, text blocks, podcasts, or a logo for branding
+- Bring in supporting pieces: notes, text blocks, podcasts, or a logo for branding
 
 Note
 

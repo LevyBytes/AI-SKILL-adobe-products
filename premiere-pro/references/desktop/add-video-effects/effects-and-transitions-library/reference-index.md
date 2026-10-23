@@ -1,4 +1,4 @@
-# Premiere Pro — Effects and transitions library
+# Premiere Pro - Effects and transitions library
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Effects and transitions reorganization in Premiere Pro. [Effects and transitions reorganization](effects-and-transitions-reorganization.md).

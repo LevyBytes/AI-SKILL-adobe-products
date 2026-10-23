@@ -1,4 +1,4 @@
-# Illustrator — NonNativeItem
+# Illustrator - NonNativeItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up NonNativeItem.artworkKnockout in Illustrator. [NonNativeItem.artworkKnockout](artwork-knockout.md).

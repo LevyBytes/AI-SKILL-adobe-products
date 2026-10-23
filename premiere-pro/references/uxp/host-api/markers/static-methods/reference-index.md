@@ -1,4 +1,4 @@
-# Premiere Pro — Static methods
+# Premiere Pro - Static methods
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up createAddMarkerAction in Premiere Pro. [createAddMarkerAction](create-add-marker-action.md).

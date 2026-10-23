@@ -1,4 +1,4 @@
-# Old format — no distinct artboard type
+# Old format - no distinct artboard type
 
 In the earlier response, an artboard appears as an ordinary `layerSection` node and cannot be distinguished from a regular group:
 

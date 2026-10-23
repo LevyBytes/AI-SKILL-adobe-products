@@ -1,4 +1,4 @@
-# Illustrator — Datasets
+# Illustrator - Datasets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Datasets.add() in Illustrator. [Datasets.add()](add.md).

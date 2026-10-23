@@ -1,6 +1,6 @@
-# InDesign — TextBox: anchored object placement
+# InDesign - TextBox: anchored object placement
 
-Open when checking anchored object placement in InDesign — TextBox.
+Open when checking anchored object placement in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

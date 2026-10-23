@@ -1,4 +1,4 @@
-# Illustrator — Ink
+# Illustrator - Ink
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Ink.inkInfo in Illustrator. [Ink.inkInfo](ink-info.md).

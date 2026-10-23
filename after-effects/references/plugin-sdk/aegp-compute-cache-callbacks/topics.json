@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Compute Cache API — AEGP_ComputeCacheCallbacks", "file": "references/plugin-sdk/aegp-compute-cache-callbacks/compute-cache-api-aegp-compute-cache-callbacks.md", "summary": "Open when looking up Compute Cache API — AEGP_ComputeCacheCallbacks in After Effects.", "keywords": ["Compute Cache API — AEGP_ComputeCacheCallbacks"]},
+  {"topic": "Compute Cache API - AEGP_ComputeCacheCallbacks", "file": "references/plugin-sdk/aegp-compute-cache-callbacks/compute-cache-api-aegp-compute-cache-callbacks.md", "summary": "Open when looking up Compute Cache API - AEGP_ComputeCacheCallbacks in After Effects.", "keywords": ["Compute Cache API - AEGP_ComputeCacheCallbacks"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

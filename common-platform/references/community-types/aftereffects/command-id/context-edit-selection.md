@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: clipboard, selection and undo
+# Shared Adobe platform - _CommandID: clipboard, selection and undo
 
-Open when working with clipboard, selection and undo in Shared Adobe platform — _CommandID.
+Open when working with clipboard, selection and undo in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-edit-selection.json).
 

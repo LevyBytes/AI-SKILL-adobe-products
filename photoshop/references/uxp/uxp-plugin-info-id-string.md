@@ -1,4 +1,4 @@
-# UxpPluginInfo — id ⇒ `String`
+# UxpPluginInfo - id ⇒ `String`
 
 Retrieve the plugin id.
 

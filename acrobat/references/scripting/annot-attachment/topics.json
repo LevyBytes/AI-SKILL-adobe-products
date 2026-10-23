@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "contentStream", "file": "references/scripting/annot-attachment/content-stream.md", "summary": "Open when looking up contentStream in Acrobat.", "keywords": ["contentStream"]},
   {"topic": "creationDate", "file": "references/scripting/annot-attachment/creation-date.md", "summary": "Open when looking up creationDate in Acrobat.", "keywords": ["creationDate"]},
-  {"topic": "JavaScript APIs — annotAttachment", "file": "references/scripting/annot-attachment/java-script-apis-annot-attachment.md", "summary": "Open when looking up JavaScript APIs — annotAttachment in Acrobat.", "keywords": ["JavaScript APIs — annotAttachment"]},
+  {"topic": "JavaScript APIs - annotAttachment", "file": "references/scripting/annot-attachment/java-script-apis-annot-attachment.md", "summary": "Open when looking up JavaScript APIs - annotAttachment in Acrobat.", "keywords": ["JavaScript APIs - annotAttachment"]},
   {"topic": "MIMEtype", "file": "references/scripting/annot-attachment/mim-etype.md", "summary": "Open when looking up MIMEtype in Acrobat.", "keywords": ["MIMEtype"]},
   {"topic": "modDate", "file": "references/scripting/annot-attachment/mod-date.md", "summary": "Open when looking up modDate in Acrobat.", "keywords": ["modDate"]},
   {"topic": "name", "file": "references/scripting/annot-attachment/name.md", "summary": "Open when looking up name in Acrobat.", "keywords": ["name"]},

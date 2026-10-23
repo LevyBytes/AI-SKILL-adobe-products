@@ -1,4 +1,4 @@
-# Shared Adobe platform — TransformationMatrix
+# Shared Adobe platform - TransformationMatrix
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TransformationMatrix declaration in Shared Adobe platform. [TransformationMatrix declaration](declaration.md).

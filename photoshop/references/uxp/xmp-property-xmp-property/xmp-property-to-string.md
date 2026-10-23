@@ -1,4 +1,4 @@
-# XMPProperty — toString()
+# XMPProperty - toString()
 
 Returns the property value in string form
 

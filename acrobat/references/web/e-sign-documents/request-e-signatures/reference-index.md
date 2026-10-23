@@ -1,4 +1,4 @@
-# Acrobat — Request e-signatures
+# Acrobat - Request e-signatures
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Custom field validation overview in Acrobat. [Custom field validation overview](custom-field-validation-overview.md).

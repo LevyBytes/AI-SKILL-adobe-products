@@ -1,4 +1,4 @@
-# Text variables — Create or edit text variables
+# Text variables - Create or edit text variables
 
 The variable type you choose determines which creation options are available. With the Chapter Number type, for example, text can be placed before and after the number, and a numbering style can be set. Multiple variables can be based on the same type; one may display "Chapter 1" while another displays "Ch. 1."
 

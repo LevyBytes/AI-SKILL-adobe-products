@@ -1,4 +1,4 @@
-# Shared Adobe platform — Spreads
+# Shared Adobe platform - Spreads
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Spreads collection iteration in Shared Adobe platform. [Spreads collection iteration](collection-iteration.md).

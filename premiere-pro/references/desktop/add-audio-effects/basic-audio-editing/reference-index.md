@@ -1,4 +1,4 @@
-# Premiere Pro — Basic audio editing
+# Premiere Pro - Basic audio editing
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust audio clip properties in Premiere Pro. [Adjust audio clip properties](adjust-audio-clip-properties.md).

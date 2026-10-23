@@ -1,6 +1,6 @@
-# InDesign — Html item: layers, stacking and master overrides
+# InDesign - Html item: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in InDesign — Html item.
+Open when checking layers, stacking and master overrides in InDesign - Html item.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

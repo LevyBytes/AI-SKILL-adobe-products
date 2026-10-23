@@ -1,4 +1,4 @@
-# Premiere Pro — Intersection observer entry
+# Premiere Pro - Intersection observer entry
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up boundingClientRect : DOMRectReadOnly in Premiere Pro. [boundingClientRect : DOMRectReadOnly](bounding-client-rect-dom-rect-read-only.md).

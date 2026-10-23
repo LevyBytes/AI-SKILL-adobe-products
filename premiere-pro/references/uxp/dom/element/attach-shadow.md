@@ -1,4 +1,4 @@
-# window.Element — attachShadow(init)
+# window.Element - attachShadow(init)
 
 [ This feature requires the `enableSWCSupport` feature flag in the featureFlags section of plugin manifest. Enable it before using this member. ]
 

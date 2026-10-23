@@ -1,4 +1,4 @@
-# Using fonts in InCopy — Make missing fonts available
+# Using fonts in InCopy - Make missing fonts available
 
 Use any of these methods:
 

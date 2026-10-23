@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [html-to-pdf-from-url.cjs](../examples/node/html-to-pdf-from-url/html-to-pdf-from-url.cjs)
+- [html-to-pdf-from-url setup and source](../examples/node/html-to-pdf-from-url/html-to-pdf-from-url-setup.md)

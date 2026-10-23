@@ -1,4 +1,4 @@
-# Editing text — Use condition sets
+# Editing text - Use condition sets
 
 A condition set stores the visibility state of every condition, allowing different document renditions to be applied quickly. Example: a complex document might include platform conditions named Mac OS, Windows XP, Vista, and UNIX; language conditions named English, French, German, and Spanish; plus editorial conditions such as Editorial Review and Internal Comments. For a French review of the Vista version, create a set that shows Vista, French, and Editorial Review while hiding all other conditions.
 

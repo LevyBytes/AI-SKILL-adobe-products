@@ -1,6 +1,6 @@
-# InDesign — SplineItem: anchored object placement
+# InDesign - SplineItem: anchored object placement
 
-Open when checking anchored object placement in InDesign — SplineItem.
+Open when checking anchored object placement in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

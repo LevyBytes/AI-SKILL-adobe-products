@@ -1,4 +1,4 @@
-# Making your Plugin Theme-aware — How to Use CSS Variables
+# Making your Plugin Theme-aware - How to Use CSS Variables
 
 In your plugin panel CSS, reference the built-in CSS variables in this pattern:
 

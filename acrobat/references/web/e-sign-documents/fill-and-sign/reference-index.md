@@ -1,4 +1,4 @@
-# Acrobat — Fill and sign
+# Acrobat - Fill and sign
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up E-signatures legal compliance overview in Acrobat. [E-signatures legal compliance overview](e-signatures-legal-compliance-overview.md).

@@ -1,4 +1,4 @@
-# After Effects — Alpha channels and masks
+# After Effects - Alpha channels and masks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About masks in After Effects. [About masks](about-masks.md).

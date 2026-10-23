@@ -1,4 +1,4 @@
-# InDesign — AutoSizingTypeEnum
+# InDesign - AutoSizingTypeEnum
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HEIGHT_AND_WIDTH in InDesign. [HEIGHT_AND_WIDTH](heightandwidth.md).

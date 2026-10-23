@@ -1,4 +1,4 @@
-# Extract PDF — API limitations
+# Extract PDF - API limitations
 
 - **File size:** The maximum file size you can submit is 100MB.
 - **Number of Pages:** For PDFs that aren't scanned, the ceiling is 400 pages; scanned PDFs cap out at 150 pages or fewer. Files holding many tables may hit a lower ceiling. When a file is large or has an intricate layout, break it into smaller pieces before you process it.

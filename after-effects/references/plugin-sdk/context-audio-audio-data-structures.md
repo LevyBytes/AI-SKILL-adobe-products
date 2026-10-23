@@ -1,6 +1,6 @@
-# After Effects — C++ plugin SDK: audio data structures
+# After Effects - C++ plugin SDK: audio data structures
 
-Open when working with audio data structures in After Effects — C++ plugin SDK.
+Open when working with audio data structures in After Effects - C++ plugin SDK.
 
 Open when selecting an exact reference: [Topic catalog](context-audio-audio-data-structures.json).
 

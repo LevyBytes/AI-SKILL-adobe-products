@@ -1,4 +1,4 @@
-# Photoshop — Settings and preferences
+# Photoshop - Settings and preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust preferences in Photoshop. [Adjust preferences](adjust-preferences.md).

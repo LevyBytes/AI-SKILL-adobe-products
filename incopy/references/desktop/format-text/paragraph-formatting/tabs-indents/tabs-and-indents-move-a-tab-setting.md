@@ -1,4 +1,4 @@
-# Tabs and indents — Move a tab setting
+# Tabs and indents - Move a tab setting
 
 With the Type tool, put the insertion point inside the paragraph. In the Tabs dialog box, choose a tab from the tab ruler. Then use either method:
 

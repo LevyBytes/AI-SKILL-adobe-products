@@ -1,4 +1,4 @@
-# Photoshop — Apply actions in the Actions panel
+# Photoshop - Apply actions in the Actions panel
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply actions in Photoshop. [Apply actions](apply-actions.md).

@@ -1,6 +1,6 @@
-# InDesign — SplineItem: application session and account
+# InDesign - SplineItem: application session and account
 
-Open when checking application session and account in InDesign — SplineItem.
+Open when checking application session and account in InDesign - SplineItem.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

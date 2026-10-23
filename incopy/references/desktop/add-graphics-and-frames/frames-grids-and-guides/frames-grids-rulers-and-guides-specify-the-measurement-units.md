@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Specify the measurement units
+# Frames, grids, rulers, and guides - Specify the measurement units
 
 Custom measurement units can be set for on-screen rulers and for values used in panels and dialog boxes. These settings can be changed whenever needed, and a typed value can temporarily override the active measurement unit.
 

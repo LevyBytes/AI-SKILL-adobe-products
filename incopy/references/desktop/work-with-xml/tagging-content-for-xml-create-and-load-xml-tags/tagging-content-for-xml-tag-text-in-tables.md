@@ -1,4 +1,4 @@
-# Tagging content for XML — Tag text in tables
+# Tagging content for XML - Tag text in tables
 
 For XML export, tagging a table produces one table element plus automatically generated cell elements, one for each cell. Those cell elements are children of the table element.
 

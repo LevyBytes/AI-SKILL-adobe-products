@@ -1,4 +1,4 @@
-# Hyperlinks — Hyperlinks panel overview
+# Hyperlinks - Hyperlinks panel overview
 
 InDesign can export hyperlinks in Adobe PDF or SWF output so a viewer can click a link and move to another place in the same document, another document, or a website. Hyperlinks exported from InCopy to PDF or SWF are inactive.
 

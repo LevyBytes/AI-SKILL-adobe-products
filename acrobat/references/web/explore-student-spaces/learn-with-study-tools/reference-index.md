@@ -1,4 +1,4 @@
-# Acrobat — Learn with study tools
+# Acrobat - Learn with study tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Multimedia study tools in Acrobat. [Multimedia study tools](multimedia-study-tools.md).

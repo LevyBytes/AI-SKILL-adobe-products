@@ -1,4 +1,4 @@
-# Customizing workspaces — Display the status bar
+# Customizing workspaces - Display the status bar
 
 Across the bottom of the Adobe Audition work area, the status bar displays operational and file information. On the left, it reports the time needed to open, save, or process a file and shows the current transport state, such as Playing, Recording, or Stopped. On the right, it shows customizable status details.
 

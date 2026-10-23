@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: spectral and pitch displays
+# Shared Adobe platform - Application: spectral and pitch displays
 
-Open when working with spectral and pitch displays in Shared Adobe platform — Application.
+Open when working with spectral and pitch displays in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-view-spectrum.json).
 

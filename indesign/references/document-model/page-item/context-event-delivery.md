@@ -1,6 +1,6 @@
-# InDesign — PageItem: events and listeners
+# InDesign - PageItem: events and listeners
 
-Open when checking events and listeners in InDesign — PageItem.
+Open when checking events and listeners in InDesign - PageItem.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

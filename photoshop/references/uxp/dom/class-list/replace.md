@@ -1,4 +1,4 @@
-# window.ClassList — replace(oldToken, newToken)
+# window.ClassList - replace(oldToken, newToken)
 
 Substitutes `newToken` for `oldToken`. When `oldToken` is absent,
 the list stays unchanged and the method returns `false`.

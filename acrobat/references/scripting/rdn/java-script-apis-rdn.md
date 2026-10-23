@@ -1,4 +1,4 @@
-# JavaScript APIs — RDN
+# JavaScript APIs - RDN
 
 This catch-all object stands for a Relative Distinguished Name. securityHandler. newUser draws on it, as do the certificate. issuerDN and subjectCN properties.
 

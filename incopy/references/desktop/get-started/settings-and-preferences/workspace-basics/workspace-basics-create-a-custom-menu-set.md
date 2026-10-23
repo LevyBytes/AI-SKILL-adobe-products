@@ -1,4 +1,4 @@
-# Workspace basics — Create a custom menu set
+# Workspace basics - Create a custom menu set
 
 Choose Edit > Menus.
 

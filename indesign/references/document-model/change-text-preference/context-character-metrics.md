@@ -1,6 +1,6 @@
-# InDesign — Change text preference: character spacing and geometry
+# InDesign - Change text preference: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Change text preference.
+Open when checking character spacing and geometry in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

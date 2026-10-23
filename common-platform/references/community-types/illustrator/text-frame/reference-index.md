@@ -1,4 +1,4 @@
-# Shared Adobe platform — TextFrame
+# Shared Adobe platform - TextFrame
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextFrame declaration in Shared Adobe platform. [TextFrame declaration](declaration.md).

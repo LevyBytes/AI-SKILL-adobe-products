@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: editorial changes, comments and synchronization
+# Shared Adobe platform - Indesign: editorial changes, comments and synchronization
 
-Open when working with editorial changes, comments and synchronization in Shared Adobe platform — Indesign.
+Open when working with editorial changes, comments and synchronization in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-editorial-review.json).
 

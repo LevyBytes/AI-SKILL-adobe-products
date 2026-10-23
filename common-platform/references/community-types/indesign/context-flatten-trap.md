@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: transparency flattening and trapping
+# Shared Adobe platform - Indesign: transparency flattening and trapping
 
-Open when working with transparency flattening and trapping in Shared Adobe platform — Indesign.
+Open when working with transparency flattening and trapping in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-flatten-trap.json).
 

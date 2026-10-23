@@ -1,4 +1,4 @@
-# Premiere Pro — Use auto color
+# Premiere Pro - Use auto color
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Auto Color workflow acceleration for professional-grade color grading preparation in Premiere Pro. [Auto Color workflow acceleration for professional-grade color grading preparation](auto-color-grading-preparation.md).

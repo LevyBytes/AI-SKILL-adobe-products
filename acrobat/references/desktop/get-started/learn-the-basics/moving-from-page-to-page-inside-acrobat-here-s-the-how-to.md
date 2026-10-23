@@ -1,4 +1,4 @@
-# Moving from page to page inside Acrobat — here's the how-to.
+# Moving from page to page inside Acrobat - here's the how-to.
 
 Launch Acrobat and pick the document you'd like to read.
 

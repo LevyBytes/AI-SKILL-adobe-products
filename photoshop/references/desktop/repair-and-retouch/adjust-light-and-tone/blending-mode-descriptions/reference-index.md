@@ -1,4 +1,4 @@
-# Photoshop — Blending mode descriptions
+# Photoshop - Blending mode descriptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Blending modes availability in Photoshop. [Blending modes availability](blending-modes-availability.md).

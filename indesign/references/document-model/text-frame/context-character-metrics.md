@@ -1,6 +1,6 @@
-# InDesign — TextFrame: character spacing and geometry
+# InDesign - TextFrame: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — TextFrame.
+Open when checking character spacing and geometry in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

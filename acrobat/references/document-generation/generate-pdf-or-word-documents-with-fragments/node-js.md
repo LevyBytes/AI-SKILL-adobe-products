@@ -1,6 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [merge-document-to-docx-fragments.cjs](../../pdf-services/examples/node/merge-customer-fragments/merge-document-to-docx-fragments.cjs)
-- [dependencies.cjs](../../pdf-services/examples/node/merge-customer-fragments/dependencies.cjs)
-- [helpers.cjs](../../pdf-services/examples/node/merge-customer-fragments/helpers.cjs)
+- [merge-customer-fragments setup and source](../../pdf-services/examples/node/merge-customer-fragments/merge-customer-fragments-setup.md)

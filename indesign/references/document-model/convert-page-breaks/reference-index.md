@@ -1,4 +1,4 @@
-# InDesign — ConvertPageBreaks
+# InDesign - ConvertPageBreaks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up COLUMN_BREAK in InDesign. [COLUMN_BREAK](columnbreak.md).

@@ -1,4 +1,4 @@
-# Legacy Documentation — Gettingstarted
+# Legacy Documentation - Gettingstarted
 
 > Adobe Acrobat reference. Original prose; identifiers preserved verbatim.
 

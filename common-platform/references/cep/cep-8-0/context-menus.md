@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 8 0: context menus and flyout menus
+# Shared Adobe platform - Cep 8 0: context menus and flyout menus
 
-Open when working with context menus and flyout menus in Shared Adobe platform — Cep 8 0.
+Open when working with context menus and flyout menus in Shared Adobe platform - Cep 8 0.
 
 Open when selecting an exact reference: [Topic catalog](context-menus.json).
 

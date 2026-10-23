@@ -1,4 +1,4 @@
-# TimeDisplay — Properties
+# TimeDisplay - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

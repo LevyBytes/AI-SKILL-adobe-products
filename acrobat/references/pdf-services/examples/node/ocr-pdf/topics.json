@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Ocr pdf example setup", "file": "references/pdf-services/examples/node/ocr-pdf/ocr-pdf-setup.md", "summary": "Open when looking up Ocr pdf example setup in Acrobat.", "keywords": ["Ocr pdf example setup"]},
-  {"topic": "ocr-pdf", "file": "references/pdf-services/examples/node/ocr-pdf/ocr-pdf.cjs", "summary": "Open when looking up ocr-pdf in Acrobat.", "keywords": ["ocr-pdf"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

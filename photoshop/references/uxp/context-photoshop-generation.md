@@ -1,6 +1,6 @@
-# Photoshop — UXP plugins and APIs: photoshop generative processing
+# Photoshop - UXP plugins and APIs: photoshop generative processing
 
-Open when working with photoshop generative processing in Photoshop — UXP plugins and APIs.
+Open when working with photoshop generative processing in Photoshop - UXP plugins and APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-photoshop-generation.json).
 

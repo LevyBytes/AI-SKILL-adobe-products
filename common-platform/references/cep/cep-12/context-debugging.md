@@ -1,6 +1,6 @@
-# Shared Adobe platform — Cep 12: debugging and engine logs
+# Shared Adobe platform - Cep 12: debugging and engine logs
 
-Open when working with debugging and engine logs in Shared Adobe platform — Cep 12.
+Open when working with debugging and engine logs in Shared Adobe platform - Cep 12.
 
 Open when selecting an exact reference: [Topic catalog](context-debugging.json).
 

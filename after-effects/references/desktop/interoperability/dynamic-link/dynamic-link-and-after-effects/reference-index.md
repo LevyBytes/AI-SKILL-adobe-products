@@ -1,4 +1,4 @@
-# After Effects — Dynamic Link and After Effects
+# After Effects - Dynamic Link and After Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About Dynamic Link in After Effects. [About Dynamic Link](about-dynamic-link.md).

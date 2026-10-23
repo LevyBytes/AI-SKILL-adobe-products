@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: page items, groups, layers and plug-in artwork
+# Illustrator - Scripting APIs: page items, groups, layers and plug-in artwork
 
-Open when working with page items, groups, layers and plug-in artwork in Illustrator — Scripting APIs.
+Open when working with page items, groups, layers and plug-in artwork in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-page-items.json).
 

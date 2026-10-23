@@ -1,4 +1,4 @@
-# Debugging in the Toolkit — Tracking data
+# Debugging in the Toolkit - Tracking data
 
 The Data Browser panel exposes the JavaScript engine's live data. In the current context, it lists variables and their current values. When execution is stopped at a breakpoint, it shows variables declared with var in the current function, plus the function arguments. To view variables from the global scope or a calling scope, change context through the Call Stack (see The call stack).
 

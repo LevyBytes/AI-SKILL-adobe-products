@@ -1,4 +1,4 @@
-# Types of controls — User-interface controls
+# Types of controls - User-interface controls
 
 Control objects in ScriptUI live inside windows, panels, and groups, where each control supplies a particular display form or interaction pattern. To instantiate one, pass the matching type keyword to a Window or container add() method; see Control types and creation parameters.
 

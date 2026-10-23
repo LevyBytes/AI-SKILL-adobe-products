@@ -1,6 +1,6 @@
-# InDesign — WMF: hyperlinks, indexes and cross-references
+# InDesign - WMF: hyperlinks, indexes and cross-references
 
-Open when checking hyperlinks, indexes and cross-references in InDesign — WMF.
+Open when checking hyperlinks, indexes and cross-references in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-navigation-and-cross-references.json).
 

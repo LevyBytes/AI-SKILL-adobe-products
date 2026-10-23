@@ -1,4 +1,4 @@
-# InDesign — Preview and explore fonts
+# InDesign - Preview and explore fonts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Filter and organize fonts in InDesign. [Filter and organize fonts](filter-and-organize-fonts.md).

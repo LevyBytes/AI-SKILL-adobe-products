@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — EncoderHostScriptObject
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderHostScriptObject
 
 This object exposes utility methods, including commands that run, pause, or stop the batch.
 

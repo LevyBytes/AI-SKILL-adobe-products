@@ -1,4 +1,4 @@
-# After Effects — Iris
+# After Effects - Iris
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Camera Layer Match Names — Iris in After Effects. [Camera Layer Match Names — Iris](camera-layer-match-names-iris.md).
+- Open when looking up Camera Layer Match Names - Iris in After Effects. [Camera Layer Match Names - Iris](camera-layer-match-names-iris.md).

@@ -1,4 +1,4 @@
-# Glyphs and special characters — Insert special characters
+# Glyphs and special characters - Insert special characters
 
 Characters you can insert include em dashes, en dashes, registered trademark symbols, and ellipses.
 

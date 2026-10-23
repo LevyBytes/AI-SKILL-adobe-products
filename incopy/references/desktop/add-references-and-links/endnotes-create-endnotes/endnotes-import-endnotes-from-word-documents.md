@@ -1,4 +1,4 @@
-# Endnotes — Import endnotes from Word documents
+# Endnotes - Import endnotes from Word documents
 
 Microsoft Word Import Options can bring in endnotes from a Word document that contains them. The default setting enables endnote import.
 

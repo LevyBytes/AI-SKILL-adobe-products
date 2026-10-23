@@ -1,6 +1,6 @@
-# InDesign — Movie: output color, screening and overprint
+# InDesign - Movie: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — Movie.
+Open when checking output color, screening and overprint in InDesign - Movie.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

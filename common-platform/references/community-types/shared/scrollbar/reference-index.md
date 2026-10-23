@@ -1,4 +1,4 @@
-# Shared Adobe platform — Scrollbar
+# Shared Adobe platform - Scrollbar
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Scrollbar declaration in Shared Adobe platform. [Scrollbar declaration](declaration.md).

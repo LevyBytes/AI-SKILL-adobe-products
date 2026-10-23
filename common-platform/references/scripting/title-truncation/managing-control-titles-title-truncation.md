@@ -1,4 +1,4 @@
-# Managing control titles — Title truncation
+# Managing control titles - Title truncation
 
 When the reserved title area cannot show the full string, set truncate to choose how ScriptUI draws the shortened text. With truncate set to middle, ScriptUI removes characters from the center of the string and inserts an ellipsis (...). With the value end, it cuts characters from the end and inserts an ellipsis. If truncate is none or is omitted, ScriptUI cuts from the end without adding an ellipsis character.
 

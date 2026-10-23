@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: application and document lifecycle
+# Shared Adobe platform - Application: application and document lifecycle
 
-Open when working with application and document lifecycle in Shared Adobe platform — Application.
+Open when working with application and document lifecycle in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-document-session.json).
 

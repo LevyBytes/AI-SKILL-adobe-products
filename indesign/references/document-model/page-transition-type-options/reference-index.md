@@ -1,4 +1,4 @@
-# InDesign — PageTransitionTypeOptions
+# InDesign - PageTransitionTypeOptions
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BLINDS_TRANSITION in InDesign. [BLINDS_TRANSITION](blindstransition.md).

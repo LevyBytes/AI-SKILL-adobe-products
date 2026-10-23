@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: footnotes, endnotes and notes
+# Shared Adobe platform - Indesign: footnotes, endnotes and notes
 
-Open when working with footnotes, endnotes and notes in Shared Adobe platform — Indesign.
+Open when working with footnotes, endnotes and notes in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-notes.json).
 

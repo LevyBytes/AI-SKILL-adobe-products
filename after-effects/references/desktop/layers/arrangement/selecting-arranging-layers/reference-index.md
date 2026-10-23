@@ -1,4 +1,4 @@
-# After Effects — Selecting Arranging Layers
+# After Effects - Selecting Arranging Layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Align or distribute layers in 2D space in After Effects. [Align or distribute layers in 2D space](align-or-distribute-layers-in-2-d-space.md).

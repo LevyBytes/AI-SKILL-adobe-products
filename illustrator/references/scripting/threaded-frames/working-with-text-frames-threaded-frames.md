@@ -1,4 +1,4 @@
-# Working with text frames — Threaded frames
+# Working with text frames - Threaded frames
 
 Illustrator supports threading area text frames and path text frames, and scripts can do the same.
 

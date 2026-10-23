@@ -1,4 +1,4 @@
-# Photoshop — Getting started with Smart Objects
+# Photoshop - Getting started with Smart Objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Creating a Smart Object in Photoshop. [Creating a Smart Object](creating-a-smart-object.md).

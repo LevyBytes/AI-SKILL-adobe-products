@@ -1,4 +1,4 @@
-# ComponentParam — Properties
+# ComponentParam - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

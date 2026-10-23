@@ -1,4 +1,4 @@
-# Frames, grids, rulers, and guides — Show or hide grids
+# Frames, grids, rulers, and guides - Show or hide grids
 
 For the baseline grid, use View > Grids & Guides > Show/Hide Baseline Grid to switch its visibility.
 

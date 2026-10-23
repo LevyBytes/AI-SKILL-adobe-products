@@ -1,4 +1,4 @@
-# Firefly — Generate vectors using partner models
+# Firefly - Generate vectors using partner models
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Generate a vector file using GPT Image in Firefly. [Generate a vector file using GPT Image](generate-a-vector-file-using-gpt-image.md).

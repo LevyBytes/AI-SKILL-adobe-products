@@ -12,7 +12,7 @@ Note
 
 palindrome goes unsupported by most media players, which simply ignore the setting.
 
-Example — view the clip through QuickTime, one of the players that honors palindrome.
+Example: view the clip through QuickTime, one of the players that honors palindrome.
 
 ```javascript
 var playerList = app.media.getPlayers().select({ id: /quicktime/i });

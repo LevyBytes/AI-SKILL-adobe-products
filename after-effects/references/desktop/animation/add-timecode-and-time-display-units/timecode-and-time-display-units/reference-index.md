@@ -1,4 +1,4 @@
-# After Effects — Timecode and time display units
+# After Effects - Timecode and time display units
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change time-display units in After Effects. [Change time-display units](change-time-display-units.md).

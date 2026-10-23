@@ -1,4 +1,4 @@
-# Premiere Pro — Audio panning and balancing controls in Audio Track Mixer
+# Premiere Pro - Audio panning and balancing controls in Audio Track Mixer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Automation and keyframes in Premiere Pro. [Automation and keyframes](automation-and-keyframes.md).

@@ -1,8 +1,8 @@
-# Shared Adobe platform — Profiling options
+# Shared Adobe platform - Profiling options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add Timing Info in Shared Adobe platform. [Add Timing Info](add-timing-info.md).
-- Open when looking up Code profiling for optimization — Profiling Options in Shared Adobe platform. [Code profiling for optimization — Profiling Options](code-profiling-for-optimization-profiling-options.md).
+- Open when looking up Code profiling for optimization - Profiling Options in Shared Adobe platform. [Code profiling for optimization - Profiling Options](code-profiling-for-optimization-profiling-options.md).
 - Open when looking up Erase Profiler Data in Shared Adobe platform. [Erase Profiler Data](erase-profiler-data.md).
 - Open when looking up Functions in Shared Adobe platform. [Functions](functions.md).
 - Open when looking up Lines in Shared Adobe platform. [Lines](lines.md).

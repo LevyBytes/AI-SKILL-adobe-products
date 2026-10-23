@@ -1,4 +1,4 @@
-# Selecting and editing tables — Select table cells, rows, and columns
+# Selecting and editing tables - Select table cells, rows, and columns
 
 Selecting some or all text inside one cell looks like selecting text outside a table. When the selection crosses into multiple cells, both the cells and the cell contents become selected.
 

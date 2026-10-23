@@ -1,6 +1,6 @@
-# InDesign — SVG: object identity and lifecycle
+# InDesign - SVG: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — SVG.
+Open when checking object identity and lifecycle in InDesign - SVG.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

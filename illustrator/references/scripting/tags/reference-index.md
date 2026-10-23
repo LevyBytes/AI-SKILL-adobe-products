@@ -1,4 +1,4 @@
-# Illustrator — Tags
+# Illustrator - Tags
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Tags.add() in Illustrator. [Tags.add()](add.md).

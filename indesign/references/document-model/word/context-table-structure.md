@@ -1,6 +1,6 @@
-# InDesign — Word: table cells, rows and columns
+# InDesign - Word: table cells, rows and columns
 
-Open when checking table cells, rows and columns in InDesign — Word.
+Open when checking table cells, rows and columns in InDesign - Word.
 
 Open when selecting an exact API member: [Topic catalog](context-table-structure.json).
 

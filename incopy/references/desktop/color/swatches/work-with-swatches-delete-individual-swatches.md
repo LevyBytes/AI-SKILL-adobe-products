@@ -1,4 +1,4 @@
-# Work with swatches — Delete individual swatches
+# Work with swatches - Delete individual swatches
 
 When a document object uses a swatch you delete, InCopy asks what swatch should replace it. The replacement can be an existing swatch or an unnamed swatch. Deleting a swatch that supports a tint or mixed ink also triggers a replacement choice.
 

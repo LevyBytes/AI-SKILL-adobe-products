@@ -1,6 +1,6 @@
-# InDesign — Print preference: events and listeners
+# InDesign - Print preference: events and listeners
 
-Open when checking events and listeners in InDesign — Print preference.
+Open when checking events and listeners in InDesign - Print preference.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

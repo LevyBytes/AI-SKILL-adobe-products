@@ -1,4 +1,4 @@
-# Scripting Constants — PathPointSelection
+# Scripting Constants - PathPointSelection
 
 Indicates the selected path points, if any.
 

@@ -1,6 +1,6 @@
-# InDesign — Character: fill, stroke and transparency
+# InDesign - Character: fill, stroke and transparency
 
-Open when checking fill, stroke and transparency in InDesign — Character.
+Open when checking fill, stroke and transparency in InDesign - Character.
 
 Open when selecting an exact API member: [Topic catalog](context-fill-and-stroke.json).
 

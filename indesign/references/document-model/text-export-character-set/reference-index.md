@@ -1,4 +1,4 @@
-# InDesign — TextExportCharacterSet
+# InDesign - TextExportCharacterSet
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DEFAULT_PLATFORM in InDesign. [DEFAULT_PLATFORM](defaultplatform.md).

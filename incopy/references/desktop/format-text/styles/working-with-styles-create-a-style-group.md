@@ -1,4 +1,4 @@
-# Working with styles — Create a style group
+# Working with styles - Create a style group
 
 In the Styles panel, prepare the target:
 

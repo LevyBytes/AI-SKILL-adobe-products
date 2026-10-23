@@ -1,4 +1,4 @@
-# InDesign — DimensionsConstraints
+# InDesign - DimensionsConstraints
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up FIXED_DIMENSION in InDesign. [FIXED_DIMENSION](fixeddimension.md).

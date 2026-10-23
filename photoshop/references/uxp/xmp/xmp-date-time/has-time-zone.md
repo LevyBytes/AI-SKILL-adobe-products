@@ -1,4 +1,4 @@
-# require('uxp').xmp.XMPDateTime — hasTimeZone()
+# require('uxp').xmp.XMPDateTime - hasTimeZone()
 
 Checks whether a time-zone component is present.
 

@@ -1,4 +1,4 @@
 # Node JS
-Complete example files:
+Example setup and source:
 
-- [split-pdf-by-page-ranges.cjs](../examples/node/split-pdf-by-page-ranges/split-pdf-by-page-ranges.cjs)
+- [split-pdf-by-page-ranges setup and source](../examples/node/split-pdf-by-page-ranges/split-pdf-by-page-ranges-setup.md)

@@ -1,4 +1,4 @@
-# InDesign — Select nested or overlapping objects
+# InDesign - Select nested or overlapping objects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Select all objects in a group in InDesign. [Select all objects in a group](select-all-objects-in-a-group.md).

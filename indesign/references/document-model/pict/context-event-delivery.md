@@ -1,6 +1,6 @@
-# InDesign — PICT: events and listeners
+# InDesign - PICT: events and listeners
 
-Open when checking events and listeners in InDesign — PICT.
+Open when checking events and listeners in InDesign - PICT.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: project lifecycle and collection
+# Shared Adobe platform - _CommandID: project lifecycle and collection
 
-Open when working with project lifecycle and collection in Shared Adobe platform — _CommandID.
+Open when working with project lifecycle and collection in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-project.json).
 

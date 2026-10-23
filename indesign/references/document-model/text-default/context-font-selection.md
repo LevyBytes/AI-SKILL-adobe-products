@@ -1,6 +1,6 @@
-# InDesign — Text default: fonts and character forms
+# InDesign - Text default: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Text default.
+Open when checking fonts and character forms in InDesign - Text default.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

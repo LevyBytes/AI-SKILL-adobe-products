@@ -1,6 +1,6 @@
-# Shared Adobe platform — Photoshop: camera raw and raw input
+# Shared Adobe platform - Photoshop: camera raw and raw input
 
-Open when working with camera raw and raw input in Shared Adobe platform — Photoshop.
+Open when working with camera raw and raw input in Shared Adobe platform - Photoshop.
 
 Open when selecting an exact reference: [Topic catalog](context-camera-raw.json).
 

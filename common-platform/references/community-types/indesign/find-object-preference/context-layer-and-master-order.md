@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindObjectPreference: layers, stacking and master overrides
+# Shared Adobe platform - FindObjectPreference: layers, stacking and master overrides
 
-Open when checking layers, stacking and master overrides in Shared Adobe platform — FindObjectPreference.
+Open when checking layers, stacking and master overrides in Shared Adobe platform - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-layer-and-master-order.json).
 

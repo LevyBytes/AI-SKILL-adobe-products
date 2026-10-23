@@ -1,6 +1,6 @@
-# InDesign — Find transliterate preference: object identity and lifecycle
+# InDesign - Find transliterate preference: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — Find transliterate preference.
+Open when checking object identity and lifecycle in InDesign - Find transliterate preference.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

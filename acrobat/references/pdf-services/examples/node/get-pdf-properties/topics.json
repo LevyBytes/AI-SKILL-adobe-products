@@ -1,5 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Get pdf properties example setup", "file": "references/pdf-services/examples/node/get-pdf-properties/get-pdf-properties-setup.md", "summary": "Open when looking up Get pdf properties example setup in Acrobat.", "keywords": ["Get pdf properties example setup"]},
-  {"topic": "get-pdf-properties", "file": "references/pdf-services/examples/node/get-pdf-properties/get-pdf-properties.cjs", "summary": "Open when looking up get-pdf-properties in Acrobat.", "keywords": ["get-pdf-properties"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

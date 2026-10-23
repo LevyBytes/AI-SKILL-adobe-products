@@ -1,4 +1,4 @@
-# Scripting Constants — GradientType
+# Scripting Constants - GradientType
 
 This enum specifies the gradient type.
 

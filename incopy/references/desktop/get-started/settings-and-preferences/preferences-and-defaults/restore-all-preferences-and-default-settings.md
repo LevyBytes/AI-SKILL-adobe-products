@@ -1,4 +1,4 @@
-# Customizing preferences and defaults — Restore all preferences and default settings
+# Customizing preferences and defaults - Restore all preferences and default settings
 
 Use one of these actions:
 

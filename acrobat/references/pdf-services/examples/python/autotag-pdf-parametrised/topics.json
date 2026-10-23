@@ -1,6 +1,4 @@
 {"schema_version": 1, "owner": "acrobat", "topics": [
   {"topic": "Autotag pdf parametrised example setup", "file": "references/pdf-services/examples/python/autotag-pdf-parametrised/autotag-pdf-parametrised-setup.md", "summary": "Open when looking up Autotag pdf parametrised example setup in Acrobat.", "keywords": ["Autotag pdf parametrised example setup"]},
-  {"topic": "Python Autotag PDF Parameterised: SDK and runtime imports", "file": "references/pdf-services/examples/python/autotag-pdf-parametrised/dependencies.py", "summary": "Open when checking SDK and runtime imports for the Python Autotag PDF Parameterised example.", "keywords": ["AutotagPDFParameterised"]},
-  {"topic": "Python Autotag PDF Parameterised: job submission and result handling", "file": "references/pdf-services/examples/python/autotag-pdf-parametrised/autotag-pdf-parametrised.py", "summary": "Open when checking job submission and result handling for the Python Autotag PDF Parameterised example.", "keywords": ["AutotagPDFParameterised"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

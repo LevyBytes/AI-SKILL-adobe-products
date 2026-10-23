@@ -1,4 +1,4 @@
-# Acrobat — Accessibility features in PDFs
+# Acrobat - Accessibility features in PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About accessible PDFs in Acrobat. [About accessible PDFs](about-accessible-pdfs.md).

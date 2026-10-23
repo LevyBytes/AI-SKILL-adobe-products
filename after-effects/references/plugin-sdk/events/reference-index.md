@@ -1,7 +1,7 @@
-# After Effects — Events
+# After Effects - Events
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Effect UI & Events — Events in After Effects. [Effect UI & Events — Events](effect-ui-events-events.md).
+- Open when looking up Effect UI & Events - Events in After Effects. [Effect UI & Events - Events](effect-ui-events-events.md).
 - Open when looking up PF_Event_ACTIVATE in After Effects. [PF_Event_ACTIVATE](pf-event-activate.md).
 - Open when looking up PF_Event_ADJUST_CURSOR in After Effects. [PF_Event_ADJUST_CURSOR](pf-event-adjustcursor.md).
 - Open when looking up PF_Event_CLOSE_CONTEXT in After Effects. [PF_Event_CLOSE_CONTEXT](pf-event-closecontext.md).

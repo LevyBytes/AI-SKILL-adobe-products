@@ -1,6 +1,6 @@
-# Shared Adobe platform — Document: selection, clipboard and element access
+# Shared Adobe platform - Document: selection, clipboard and element access
 
-Open when working with selection, clipboard and element access in Shared Adobe platform — Document.
+Open when working with selection, clipboard and element access in Shared Adobe platform - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-selection.json).
 

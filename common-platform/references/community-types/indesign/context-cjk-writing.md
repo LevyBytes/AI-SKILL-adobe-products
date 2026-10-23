@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: cjk composition and emphasis
+# Shared Adobe platform - Indesign: cjk composition and emphasis
 
-Open when working with cjk composition and emphasis in Shared Adobe platform — Indesign.
+Open when working with cjk composition and emphasis in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-cjk-writing.json).
 

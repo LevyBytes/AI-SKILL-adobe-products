@@ -1,8 +1,8 @@
-# After Effects — Layer
+# After Effects - Layer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up AVLayer Match Names — Layer in After Effects. [AVLayer Match Names — Layer](av-layer-match-names-layer.md).
-- Open when looking up Camera Layer Match Names — Layer in After Effects. [Camera Layer Match Names — Layer](camera-layer-match-names-layer.md).
+- Open when looking up AVLayer Match Names - Layer in After Effects. [AVLayer Match Names - Layer](av-layer-match-names-layer.md).
+- Open when looking up Camera Layer Match Names - Layer in After Effects. [Camera Layer Match Names - Layer](camera-layer-match-names-layer.md).
 - Open when looking up Layer object in After Effects. [Layer object](layer-object.md).
 - Open when looking up Layer.activeAtTime() in After Effects. [Layer.activeAtTime()](active-at-time.md).
 - Open when looking up Layer.applyPreset() in After Effects. [Layer.applyPreset()](apply-preset.md).
@@ -34,6 +34,6 @@
 - Open when looking up Layer.startTime in After Effects. [Layer.startTime](start-time.md).
 - Open when looking up Layer.stretch in After Effects. [Layer.stretch](stretch.md).
 - Open when looking up Layer.time in After Effects. [Layer.time](time.md).
-- Open when looking up Light Layer Match Names — Layer in After Effects. [Light Layer Match Names — Layer](light-layer-match-names-layer.md).
-- Open when looking up Shape Layer Match Names — Layer in After Effects. [Shape Layer Match Names — Layer](shape-layer-match-names-layer.md).
-- Open when looking up Text Layer Match Names — Layer in After Effects. [Text Layer Match Names — Layer](text-layer-match-names-layer.md).
+- Open when looking up Light Layer Match Names - Layer in After Effects. [Light Layer Match Names - Layer](light-layer-match-names-layer.md).
+- Open when looking up Shape Layer Match Names - Layer in After Effects. [Shape Layer Match Names - Layer](shape-layer-match-names-layer.md).
+- Open when looking up Text Layer Match Names - Layer in After Effects. [Text Layer Match Names - Layer](text-layer-match-names-layer.md).

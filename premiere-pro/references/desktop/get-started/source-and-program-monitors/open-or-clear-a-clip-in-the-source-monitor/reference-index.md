@@ -1,4 +1,4 @@
-# Premiere Pro — Open or clear a clip in the Source Monitor
+# Premiere Pro - Open or clear a clip in the Source Monitor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Clear a clip in Premiere Pro. [Clear a clip](clear-a-clip.md).

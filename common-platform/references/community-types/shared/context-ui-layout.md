@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: ui sizing, layout and alignment
+# Shared Adobe platform - Shared: ui sizing, layout and alignment
 
-Open when working with ui sizing, layout and alignment in Shared Adobe platform — Shared.
+Open when working with ui sizing, layout and alignment in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-ui-layout.json).
 

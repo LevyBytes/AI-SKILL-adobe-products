@@ -1,4 +1,4 @@
-# Localizing ExtendScript strings — Locale names
+# Localizing ExtendScript strings - Locale names
 
 A locale name is an identifier string that includes an ISO 639 language specifier. It can also include an ISO 3166 region specifier, with an underscore between the language and region portions. ISO 639 supplies language codes of two letters, including en for English and de for German.
 

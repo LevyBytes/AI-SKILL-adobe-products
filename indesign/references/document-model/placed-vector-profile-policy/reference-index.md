@@ -1,4 +1,4 @@
-# InDesign — PlacedVectorProfilePolicy
+# InDesign - PlacedVectorProfilePolicy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HONOR_ALL_PROFILES in InDesign. [HONOR_ALL_PROFILES](honorallprofiles.md).

@@ -1,4 +1,4 @@
-# Working with managed files — Save changes (InCopy)
+# Working with managed files - Save changes (InCopy)
 
 Use one of these methods:
 

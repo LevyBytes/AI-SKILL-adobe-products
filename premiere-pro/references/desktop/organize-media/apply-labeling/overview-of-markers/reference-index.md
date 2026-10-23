@@ -1,4 +1,4 @@
-# Premiere Pro — Overview of markers
+# Premiere Pro - Overview of markers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Navigate the Markers panel in Premiere Pro. [Navigate the Markers panel](navigate-the-markers-panel.md).

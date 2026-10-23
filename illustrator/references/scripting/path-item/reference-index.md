@@ -1,4 +1,4 @@
-# Illustrator — PathItem
+# Illustrator - PathItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PathItem.area in Illustrator. [PathItem.area](area.md).

@@ -1,4 +1,4 @@
-# Premiere Pro — Overview of projects
+# Premiere Pro - Overview of projects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Components of a project folder in Premiere Pro. [Components of a project folder](components-of-a-project-folder.md).

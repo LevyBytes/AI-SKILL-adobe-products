@@ -1,4 +1,4 @@
-# InDesign — Apply Kenten to text
+# InDesign - Apply Kenten to text
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change Kenten color in InDesign. [Change Kenten color](change-kenten-color.md).

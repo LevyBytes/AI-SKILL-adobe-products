@@ -1,4 +1,4 @@
-# Acrobat — Received file conversion error
+# Acrobat - Received file conversion error
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Browser cache issues in Acrobat. [Browser cache issues](browser-cache-issues.md).

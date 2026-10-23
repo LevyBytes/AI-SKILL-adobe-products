@@ -1,4 +1,4 @@
-# AEGP Suites — Dynamic Streams
+# AEGP Suites - Dynamic Streams
 
 Reaching into and editing paint and text streams is the job of `AEGP_DynamicStreamSuite`.
 

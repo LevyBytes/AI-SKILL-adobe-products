@@ -1,4 +1,4 @@
-# Firefly — Frequently asked questions about translate audio and translate video
+# Firefly - Frequently asked questions about translate audio and translate video
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 1. How do Content Credentials appear in Translate video and Translate audio output? in Firefly. [1. How do Content Credentials appear in Translate video and Translate audio output?](translation-content-credentials.md).

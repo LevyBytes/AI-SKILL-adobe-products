@@ -1,4 +1,4 @@
-# InDesign — Creative Cloud add-on integrations
+# InDesign - Creative Cloud add-on integrations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Browse add-ons from InDesign in InDesign. [Browse add-ons from InDesign](browse-add-ons-from-in-design.md).

@@ -1,6 +1,6 @@
-# InDesign — Image: workspace, windows and menus
+# InDesign - Image: workspace, windows and menus
 
-Open when checking workspace, windows and menus in InDesign — Image.
+Open when checking workspace, windows and menus in InDesign - Image.
 
 Open when selecting an exact API member: [Topic catalog](context-workspace-controls.json).
 

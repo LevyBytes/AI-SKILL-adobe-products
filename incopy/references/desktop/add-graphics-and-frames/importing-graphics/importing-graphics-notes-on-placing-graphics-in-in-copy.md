@@ -1,4 +1,4 @@
-# Importing graphics — Notes on placing graphics in InCopy
+# Importing graphics - Notes on placing graphics in InCopy
 
 Keep these points in mind when bringing graphics into InCopy:
 

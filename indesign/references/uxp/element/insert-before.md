@@ -1,4 +1,4 @@
-# window.Element — insertBefore(child, before)
+# window.Element - insertBefore(child, before)
 
 **Returns**: `Node`
 

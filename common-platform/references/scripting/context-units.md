@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: measurement values and unit conversion
+# Shared Adobe platform - Scripting APIs: measurement values and unit conversion
 
-Open when working with measurement values and unit conversion in Shared Adobe platform — Scripting APIs.
+Open when working with measurement values and unit conversion in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-units.json).
 

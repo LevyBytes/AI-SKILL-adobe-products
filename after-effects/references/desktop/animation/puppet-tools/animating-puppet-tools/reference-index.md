@@ -1,4 +1,4 @@
-# After Effects — Animating Puppet Tools
+# After Effects - Animating Puppet Tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basics of Advanced Puppet Tool in After Effects. [Basics of Advanced Puppet Tool](basics-of-advanced-puppet-tool.md).

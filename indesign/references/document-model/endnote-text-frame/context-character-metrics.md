@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: character spacing and geometry
+# InDesign - EndnoteTextFrame: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — EndnoteTextFrame.
+Open when checking character spacing and geometry in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

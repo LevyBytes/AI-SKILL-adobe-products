@@ -1,4 +1,4 @@
-# Shared Adobe platform — Shared library function api
+# Shared Adobe platform - Shared library function api
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up addClass() in Shared Adobe platform. [addClass()](add-class.md).
@@ -7,7 +7,7 @@
 - Open when looking up addProperties() in Shared Adobe platform. [addProperties()](add-properties.md).
 - Open when looking up addProperty() in Shared Adobe platform. [addProperty()](add-property.md).
 - Open when looking up call() in Shared Adobe platform. [call()](call.md).
-- Open when looking up Defining entry points for indirect access — Shared-library function API in Shared Adobe platform. [Defining entry points for indirect access — Shared-library function API](shared-library-function-api.md).
+- Open when looking up Defining entry points for indirect access - Shared-library function API in Shared Adobe platform. [Defining entry points for indirect access - Shared-library function API](shared-library-function-api.md).
 - Open when looking up dumpObject() in Shared Adobe platform. [dumpObject()](dump-object.md).
 - Open when looking up dumpServer() in Shared Adobe platform. [dumpServer()](dump-server.md).
 - Open when looking up eval() in Shared Adobe platform. [eval()](eval.md).

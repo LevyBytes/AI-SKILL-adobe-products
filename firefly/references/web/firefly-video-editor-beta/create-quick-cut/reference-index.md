@@ -1,4 +1,4 @@
-# Firefly — Create quick cut
+# Firefly - Create quick cut
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create video quick cuts in Firefly. [Create video quick cuts](create-video-quick-cuts.md).

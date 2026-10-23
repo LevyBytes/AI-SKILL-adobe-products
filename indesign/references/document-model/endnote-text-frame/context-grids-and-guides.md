@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: baseline grids and layout guides
+# InDesign - EndnoteTextFrame: baseline grids and layout guides
 
-Open when checking baseline grids and layout guides in InDesign — EndnoteTextFrame.
+Open when checking baseline grids and layout guides in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-grids-and-guides.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Comp item
+# After Effects - Comp item
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CompItem object in After Effects. [CompItem object](comp-item-object.md).

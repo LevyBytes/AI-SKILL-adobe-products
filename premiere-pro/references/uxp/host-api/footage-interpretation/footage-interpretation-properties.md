@@ -1,4 +1,4 @@
-# FootageInterpretation — Properties
+# FootageInterpretation - Properties
 
 | Name | Type | Access | Min Version | Description |
 | --- | --- | --- | --- | --- |

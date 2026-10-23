@@ -1,4 +1,4 @@
-# Shared Adobe platform — MixedInks
+# Shared Adobe platform - MixedInks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MixedInks collection iteration in Shared Adobe platform. [MixedInks collection iteration](collection-iteration.md).

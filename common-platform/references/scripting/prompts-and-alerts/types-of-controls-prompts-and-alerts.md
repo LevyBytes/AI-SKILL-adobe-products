@@ -1,4 +1,4 @@
-# Types of controls — Prompts and alerts
+# Types of controls - Prompts and alerts
 
 Window class static functions are available globally for showing brief messages in standard dialogs.
 

@@ -1,4 +1,4 @@
-# Page-item positioning and dimensions — Art item bounds
+# Page-item positioning and dimensions - Art item bounds
 
 Three fixed-rectangle properties describe the total extent of every page item object:
 

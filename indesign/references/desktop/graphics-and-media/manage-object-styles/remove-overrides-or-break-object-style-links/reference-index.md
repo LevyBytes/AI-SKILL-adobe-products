@@ -1,4 +1,4 @@
-# InDesign — Remove overrides or break object style links
+# InDesign - Remove overrides or break object style links
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Break the link to an object style in InDesign. [Break the link to an object style](break-the-link-to-an-object-style.md).

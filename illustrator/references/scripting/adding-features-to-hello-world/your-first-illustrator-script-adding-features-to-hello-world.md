@@ -1,4 +1,4 @@
-# Your first Illustrator script — Adding features to "Hello World"
+# Your first Illustrator script - Adding features to "Hello World"
 
 Next, create another script that edits the Illustrator document produced by the first script. The second script demonstrates these tasks:
 

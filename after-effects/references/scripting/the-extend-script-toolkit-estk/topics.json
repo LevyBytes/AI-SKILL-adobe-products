@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "Overview — The ExtendScript Toolkit (ESTK)", "file": "references/scripting/the-extend-script-toolkit-estk/overview-the-extend-script-toolkit-estk.md", "summary": "Open when looking up Overview — The ExtendScript Toolkit (ESTK) in After Effects.", "keywords": ["Overview — The ExtendScript Toolkit (ESTK)"]},
+  {"topic": "Overview - The ExtendScript Toolkit (ESTK)", "file": "references/scripting/the-extend-script-toolkit-estk/overview-the-extend-script-toolkit-estk.md", "summary": "Open when looking up Overview - The ExtendScript Toolkit (ESTK) in After Effects.", "keywords": ["Overview - The ExtendScript Toolkit (ESTK)"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

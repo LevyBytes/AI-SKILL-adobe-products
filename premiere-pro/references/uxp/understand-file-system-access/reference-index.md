@@ -1,4 +1,4 @@
-# Premiere Pro — Understand file system access
+# Premiere Pro - Understand file system access
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up File System Permissions in Premiere Pro. [File System Permissions](file-system-permissions.md).

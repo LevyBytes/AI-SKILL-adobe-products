@@ -1,4 +1,4 @@
-# Acrobat — Protect documents
+# Acrobat - Protect documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Encrypt with certificates in Acrobat. [Encrypt with certificates](encrypt-with-certificates.md).

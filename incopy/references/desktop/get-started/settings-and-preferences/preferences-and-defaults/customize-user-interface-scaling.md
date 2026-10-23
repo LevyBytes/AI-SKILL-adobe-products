@@ -1,4 +1,4 @@
-# Customizing preferences and defaults — Customize user interface scaling
+# Customizing preferences and defaults - Customize user interface scaling
 
 Set InCopy scaling preferences to scale the user interface consistently according to screen resolution. User-interface elements scale with the setting, which improves viewing comfort on high-resolution monitors. When InCopy starts with new preference settings, it detects the screen resolution and applies UI scaling to match. Note: UI scaling is not available on low-resolution screens.
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: text stories, frames and ranges
+# Shared Adobe platform - Illustrator: text stories, frames and ranges
 
-Open when working with text stories, frames and ranges in Shared Adobe platform — Illustrator.
+Open when working with text stories, frames and ranges in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-text-content.json).
 

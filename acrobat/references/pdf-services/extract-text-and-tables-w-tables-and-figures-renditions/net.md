@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/extract-figure-table-renditions/Program.cs)
+- [extract-figure-table-renditions setup and source](../examples/dotnet/extract-figure-table-renditions/extract-renditions-setup.md)

@@ -1,4 +1,4 @@
-# After Effects — AEGP_MemorySuite1
+# After Effects - AEGP_MemorySuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_FreeMemHandle in After Effects. [AEGP_FreeMemHandle](aegp-free-mem-handle.md).

@@ -1,6 +1,6 @@
-# Shared Adobe platform — ParagraphStyle: kenten emphasis
+# Shared Adobe platform - ParagraphStyle: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — ParagraphStyle.
+Open when checking kenten emphasis in Shared Adobe platform - ParagraphStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

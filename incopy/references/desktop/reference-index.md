@@ -1,4 +1,4 @@
-# InCopy — Desktop workflows
+# InCopy - Desktop workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add graphics and frames in InCopy. [Add graphics and frames references](add-graphics-and-frames/reference-index.md).

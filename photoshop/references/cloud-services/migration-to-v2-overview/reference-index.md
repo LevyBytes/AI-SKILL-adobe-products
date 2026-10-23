@@ -1,4 +1,4 @@
-# Photoshop — Migration to v2 Overview
+# Photoshop - Migration to v2 Overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up How should I begin migrating? in Photoshop. [How should I begin migrating?](how-should-i-begin-migrating.md).

@@ -1,4 +1,4 @@
-# Acrobat — Complex Table Constructs
+# Acrobat - Complex Table Constructs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Conditions inside tables in Acrobat. [Conditions inside tables](conditions-inside-tables.md).

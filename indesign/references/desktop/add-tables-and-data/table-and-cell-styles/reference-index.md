@@ -1,4 +1,4 @@
-# InDesign — Table and cell styles
+# InDesign - Table and cell styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply table cell styles in InDesign. [Apply table cell styles](apply-table-cell-styles.md).

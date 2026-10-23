@@ -1,4 +1,4 @@
-# Exporting Symbols in Effects — Disabling Xcode Symbol Export
+# Exporting Symbols in Effects - Disabling Xcode Symbol Export
 
 Turning off symbol export in Xcode:
 

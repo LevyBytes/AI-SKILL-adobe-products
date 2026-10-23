@@ -1,4 +1,4 @@
-# Premiere Pro — Understanding Heads-Up Displays (HUDs)
+# Premiere Pro - Understanding Heads-Up Displays (HUDs)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Customizing the HUDs in Premiere Pro. [Customizing the HUDs](customizing-the-huds.md).

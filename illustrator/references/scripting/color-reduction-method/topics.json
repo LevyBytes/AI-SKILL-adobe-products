@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "Scripting Constants — ColorReductionMethod", "file": "references/scripting/color-reduction-method/scripting-constants-color-reduction-method.md", "summary": "Open when looking up Scripting Constants — ColorReductionMethod in Illustrator.", "keywords": ["Scripting Constants — ColorReductionMethod"]},
+  {"topic": "Scripting Constants - ColorReductionMethod", "file": "references/scripting/color-reduction-method/scripting-constants-color-reduction-method.md", "summary": "Open when looking up Scripting Constants - ColorReductionMethod in Illustrator.", "keywords": ["Scripting Constants - ColorReductionMethod"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

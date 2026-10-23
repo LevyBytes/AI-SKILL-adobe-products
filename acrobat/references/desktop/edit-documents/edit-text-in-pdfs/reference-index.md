@@ -1,4 +1,4 @@
-# Acrobat — Edit text in PDFs
+# Acrobat - Edit text in PDFs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add new text in Acrobat. [Add new text](add-new-text.md).

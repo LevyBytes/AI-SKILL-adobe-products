@@ -1,6 +1,6 @@
-# Shared Adobe platform — _CommandID: keyframes, expressions and animation presets
+# Shared Adobe platform - _CommandID: keyframes, expressions and animation presets
 
-Open when working with keyframes, expressions and animation presets in Shared Adobe platform — _CommandID.
+Open when working with keyframes, expressions and animation presets in Shared Adobe platform - _CommandID.
 
 Open when selecting an exact reference: [Topic catalog](context-animation.json).
 

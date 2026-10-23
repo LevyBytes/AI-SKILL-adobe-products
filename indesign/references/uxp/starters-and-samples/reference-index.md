@@ -1,4 +1,4 @@
-# InDesign — Starters and samples
+# InDesign - Starters and samples
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Git repo in InDesign. [Git repo](git-repo.md).

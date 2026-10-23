@@ -1,6 +1,6 @@
-# InDesign — Change text preference: paragraph alignment and spacing
+# InDesign - Change text preference: paragraph alignment and spacing
 
-Open when checking paragraph alignment and spacing in InDesign — Change text preference.
+Open when checking paragraph alignment and spacing in InDesign - Change text preference.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-layout.json).
 

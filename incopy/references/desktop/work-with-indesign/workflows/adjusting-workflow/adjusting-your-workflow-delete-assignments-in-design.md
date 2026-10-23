@@ -1,4 +1,4 @@
-# Adjusting your workflow — Delete assignments (InDesign)
+# Adjusting your workflow - Delete assignments (InDesign)
 
 Select one or more assignments in the Assignments panel, then choose Delete Assignment from the panel menu.
 

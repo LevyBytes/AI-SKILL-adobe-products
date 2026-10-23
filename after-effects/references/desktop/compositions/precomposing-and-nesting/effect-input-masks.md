@@ -1,4 +1,4 @@
-# Precomposing, nesting, and pre-rendering — Effects can include masks and effects of other layers
+# Precomposing, nesting, and pre-rendering - Effects can include masks and effects of other layers
 
 Certain effects, among them - Set Matte and Displacement Map, draw a layer in as input and reach for that input layer's masks and effects. There's no need to precompose those layers first just so an effect can reference them.
 

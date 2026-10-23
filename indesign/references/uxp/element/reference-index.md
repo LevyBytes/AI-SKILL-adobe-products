@@ -1,48 +1,48 @@
-# InDesign — Element
+# InDesign - Element
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up window.Element — addEventListener(eventName, callback, options) in InDesign. [window.Element — addEventListener(eventName, callback, options)](add-event-listener.md).
-- Open when looking up window.Element — append(...nodes) in InDesign. [window.Element — append(...nodes)](append.md).
-- Open when looking up window.Element — appendChild(child) in InDesign. [window.Element — appendChild(child)](append-child.md).
-- Open when looking up window.Element — assignedSlot : HTMLSlotElement in InDesign. [window.Element — assignedSlot : HTMLSlotElement](assigned-slot.md).
-- Open when looking up window.Element — attachShadow(init) in InDesign. [window.Element — attachShadow(init)](attach-shadow.md).
-- Open when looking up window.Element — autofocus : boolean in InDesign. [window.Element — autofocus : boolean](autofocus.md).
-- Open when looking up window.Element — before(...nodes) in InDesign. [window.Element — before(...nodes)](before.md).
-- Open when looking up window.Element — cloneNode(deep) in InDesign. [window.Element — cloneNode(deep)](clone-node.md).
-- Open when looking up window.Element — closest(selectorString) in InDesign. [window.Element — closest(selectorString)](closest.md).
-- Open when looking up window.Element — contains(node) in InDesign. [window.Element — contains(node)](contains.md).
-- Open when looking up window.Element — dispatchEvent(event) in InDesign. [window.Element — dispatchEvent(event)](dispatch-event.md).
-- Open when looking up window.Element — getAttribute(name) in InDesign. [window.Element — getAttribute(name)](get-attribute.md).
-- Open when looking up window.Element — getAttributeNames() in InDesign. [window.Element — getAttributeNames()](get-attribute-names.md).
-- Open when looking up window.Element — getAttributeNode(name) in InDesign. [window.Element — getAttributeNode(name)](get-attribute-node.md).
-- Open when looking up window.Element — getElementsByClassName(name) in InDesign. [window.Element — getElementsByClassName(name)](get-elements-by-class-name.md).
-- Open when looking up window.Element — getRootNode(options) in InDesign. [window.Element — getRootNode(options)](get-root-node.md).
-- Open when looking up window.Element — hasAttribute(name) in InDesign. [window.Element — hasAttribute(name)](has-attribute.md).
-- Open when looking up window.Element — hasAttributes() in InDesign. [window.Element — hasAttributes()](has-attributes.md).
-- Open when looking up window.Element — hasPointerCapture(pointerId) in InDesign. [window.Element — hasPointerCapture(pointerId)](has-pointer-capture.md).
-- Open when looking up window.Element — id : string in InDesign. [window.Element — id : string](id.md).
-- Open when looking up window.Element — innerHTML in InDesign. [window.Element — innerHTML](inner-html.md).
-- Open when looking up window.Element — insertAdjacentElement(position, node) in InDesign. [window.Element — insertAdjacentElement(position, node)](insert-adjacent-element.md).
-- Open when looking up window.Element — insertAdjacentHTML(position, value) in InDesign. [window.Element — insertAdjacentHTML(position, value)](insert-adjacent-html.md).
-- Open when looking up window.Element — insertAdjacentText(position, text) in InDesign. [window.Element — insertAdjacentText(position, text)](insert-adjacent-text.md).
-- Open when looking up window.Element — insertBefore(child, before) in InDesign. [window.Element — insertBefore(child, before)](insert-before.md).
-- Open when looking up window.Element — localName : string in InDesign. [window.Element — localName : string](local-name.md).
-- Open when looking up window.Element — matches(selectorString) in InDesign. [window.Element — matches(selectorString)](matches.md).
-- Open when looking up window.Element — namespaceURI : string in InDesign. [window.Element — namespaceURI : string](namespace-uri.md).
-- Open when looking up window.Element — prepend(...nodes) in InDesign. [window.Element — prepend(...nodes)](prepend.md).
-- Open when looking up window.Element — querySelector(selector) in InDesign. [window.Element — querySelector(selector)](query-selector.md).
-- Open when looking up window.Element — querySelectorAll(selector) in InDesign. [window.Element — querySelectorAll(selector)](query-selector-all.md).
-- Open when looking up window.Element — releasePointerCapture(pointerId) in InDesign. [window.Element — releasePointerCapture(pointerId)](release-pointer-capture.md).
-- Open when looking up window.Element — removeAttribute(name) in InDesign. [window.Element — removeAttribute(name)](remove-attribute.md).
-- Open when looking up window.Element — removeAttributeNode(oldAttr) in InDesign. [window.Element — removeAttributeNode(oldAttr)](remove-attribute-node.md).
-- Open when looking up window.Element — removeEventListener(eventName, callback, options) in InDesign. [window.Element — removeEventListener(eventName, callback, options)](remove-event-listener.md).
-- Open when looking up window.Element — replaceChild(newChild, oldChild) in InDesign. [window.Element — replaceChild(newChild, oldChild)](replace-child.md).
-- Open when looking up window.Element — replaceChildren(...nodes) in InDesign. [window.Element — replaceChildren(...nodes)](replace-children.md).
-- Open when looking up window.Element — scrollIntoView(alignToTop) in InDesign. [window.Element — scrollIntoView(alignToTop)](scroll-into-view.md).
-- Open when looking up window.Element — scrollTo(xOrOptions, y) in InDesign. [window.Element — scrollTo(xOrOptions, y)](scroll-to.md).
-- Open when looking up window.Element — setAttribute(name, value) in InDesign. [window.Element — setAttribute(name, value)](set-attribute.md).
-- Open when looking up window.Element — setAttributeNode(newAttr) in InDesign. [window.Element — setAttributeNode(newAttr)](set-attribute-node.md).
-- Open when looking up window.Element — setPointerCapture(pointerId) in InDesign. [window.Element — setPointerCapture(pointerId)](set-pointer-capture.md).
-- Open when looking up window.Element — shadowRoot : ShadowRoot in InDesign. [window.Element — shadowRoot : ShadowRoot](shadow-root.md).
-- Open when looking up window.Element — slot : string in InDesign. [window.Element — slot : string](slot.md).
-- Open when looking up window.Element — tagName : string in InDesign. [window.Element — tagName : string](tag-name.md).
+- Open when looking up window.Element - addEventListener(eventName, callback, options) in InDesign. [window.Element - addEventListener(eventName, callback, options)](add-event-listener.md).
+- Open when looking up window.Element - append(...nodes) in InDesign. [window.Element - append(...nodes)](append.md).
+- Open when looking up window.Element - appendChild(child) in InDesign. [window.Element - appendChild(child)](append-child.md).
+- Open when looking up window.Element - assignedSlot : HTMLSlotElement in InDesign. [window.Element - assignedSlot : HTMLSlotElement](assigned-slot.md).
+- Open when looking up window.Element - attachShadow(init) in InDesign. [window.Element - attachShadow(init)](attach-shadow.md).
+- Open when looking up window.Element - autofocus : boolean in InDesign. [window.Element - autofocus : boolean](autofocus.md).
+- Open when looking up window.Element - before(...nodes) in InDesign. [window.Element - before(...nodes)](before.md).
+- Open when looking up window.Element - cloneNode(deep) in InDesign. [window.Element - cloneNode(deep)](clone-node.md).
+- Open when looking up window.Element - closest(selectorString) in InDesign. [window.Element - closest(selectorString)](closest.md).
+- Open when looking up window.Element - contains(node) in InDesign. [window.Element - contains(node)](contains.md).
+- Open when looking up window.Element - dispatchEvent(event) in InDesign. [window.Element - dispatchEvent(event)](dispatch-event.md).
+- Open when looking up window.Element - getAttribute(name) in InDesign. [window.Element - getAttribute(name)](get-attribute.md).
+- Open when looking up window.Element - getAttributeNames() in InDesign. [window.Element - getAttributeNames()](get-attribute-names.md).
+- Open when looking up window.Element - getAttributeNode(name) in InDesign. [window.Element - getAttributeNode(name)](get-attribute-node.md).
+- Open when looking up window.Element - getElementsByClassName(name) in InDesign. [window.Element - getElementsByClassName(name)](get-elements-by-class-name.md).
+- Open when looking up window.Element - getRootNode(options) in InDesign. [window.Element - getRootNode(options)](get-root-node.md).
+- Open when looking up window.Element - hasAttribute(name) in InDesign. [window.Element - hasAttribute(name)](has-attribute.md).
+- Open when looking up window.Element - hasAttributes() in InDesign. [window.Element - hasAttributes()](has-attributes.md).
+- Open when looking up window.Element - hasPointerCapture(pointerId) in InDesign. [window.Element - hasPointerCapture(pointerId)](has-pointer-capture.md).
+- Open when looking up window.Element - id : string in InDesign. [window.Element - id : string](id.md).
+- Open when looking up window.Element - innerHTML in InDesign. [window.Element - innerHTML](inner-html.md).
+- Open when looking up window.Element - insertAdjacentElement(position, node) in InDesign. [window.Element - insertAdjacentElement(position, node)](insert-adjacent-element.md).
+- Open when looking up window.Element - insertAdjacentHTML(position, value) in InDesign. [window.Element - insertAdjacentHTML(position, value)](insert-adjacent-html.md).
+- Open when looking up window.Element - insertAdjacentText(position, text) in InDesign. [window.Element - insertAdjacentText(position, text)](insert-adjacent-text.md).
+- Open when looking up window.Element - insertBefore(child, before) in InDesign. [window.Element - insertBefore(child, before)](insert-before.md).
+- Open when looking up window.Element - localName : string in InDesign. [window.Element - localName : string](local-name.md).
+- Open when looking up window.Element - matches(selectorString) in InDesign. [window.Element - matches(selectorString)](matches.md).
+- Open when looking up window.Element - namespaceURI : string in InDesign. [window.Element - namespaceURI : string](namespace-uri.md).
+- Open when looking up window.Element - prepend(...nodes) in InDesign. [window.Element - prepend(...nodes)](prepend.md).
+- Open when looking up window.Element - querySelector(selector) in InDesign. [window.Element - querySelector(selector)](query-selector.md).
+- Open when looking up window.Element - querySelectorAll(selector) in InDesign. [window.Element - querySelectorAll(selector)](query-selector-all.md).
+- Open when looking up window.Element - releasePointerCapture(pointerId) in InDesign. [window.Element - releasePointerCapture(pointerId)](release-pointer-capture.md).
+- Open when looking up window.Element - removeAttribute(name) in InDesign. [window.Element - removeAttribute(name)](remove-attribute.md).
+- Open when looking up window.Element - removeAttributeNode(oldAttr) in InDesign. [window.Element - removeAttributeNode(oldAttr)](remove-attribute-node.md).
+- Open when looking up window.Element - removeEventListener(eventName, callback, options) in InDesign. [window.Element - removeEventListener(eventName, callback, options)](remove-event-listener.md).
+- Open when looking up window.Element - replaceChild(newChild, oldChild) in InDesign. [window.Element - replaceChild(newChild, oldChild)](replace-child.md).
+- Open when looking up window.Element - replaceChildren(...nodes) in InDesign. [window.Element - replaceChildren(...nodes)](replace-children.md).
+- Open when looking up window.Element - scrollIntoView(alignToTop) in InDesign. [window.Element - scrollIntoView(alignToTop)](scroll-into-view.md).
+- Open when looking up window.Element - scrollTo(xOrOptions, y) in InDesign. [window.Element - scrollTo(xOrOptions, y)](scroll-to.md).
+- Open when looking up window.Element - setAttribute(name, value) in InDesign. [window.Element - setAttribute(name, value)](set-attribute.md).
+- Open when looking up window.Element - setAttributeNode(newAttr) in InDesign. [window.Element - setAttributeNode(newAttr)](set-attribute-node.md).
+- Open when looking up window.Element - setPointerCapture(pointerId) in InDesign. [window.Element - setPointerCapture(pointerId)](set-pointer-capture.md).
+- Open when looking up window.Element - shadowRoot : ShadowRoot in InDesign. [window.Element - shadowRoot : ShadowRoot](shadow-root.md).
+- Open when looking up window.Element - slot : string in InDesign. [window.Element - slot : string](slot.md).
+- Open when looking up window.Element - tagName : string in InDesign. [window.Element - tagName : string](tag-name.md).

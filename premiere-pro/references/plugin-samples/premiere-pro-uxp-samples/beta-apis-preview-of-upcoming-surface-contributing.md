@@ -1,4 +1,4 @@
-# Beta APIs (preview of upcoming surface) — Contributing
+# Beta APIs (preview of upcoming surface) - Contributing
 
 Project contributions are accepted. Before sending a pull request, complete these items:
 

@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: pdf and photoshop import options
+# Illustrator - Scripting APIs: pdf and photoshop import options
 
-Open when working with pdf and photoshop import options in Illustrator — Scripting APIs.
+Open when working with pdf and photoshop import options in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-import-options.json).
 

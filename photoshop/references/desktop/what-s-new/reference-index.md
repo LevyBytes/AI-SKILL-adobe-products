@@ -1,4 +1,4 @@
-# Photoshop — What s new
+# Photoshop - What s new
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up List of technology preview features in Photoshop. [List of technology preview features](list-of-technology-preview-features.md).

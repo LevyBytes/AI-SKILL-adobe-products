@@ -1,4 +1,4 @@
-# Premiere Pro — Spectrum Web Component
+# Premiere Pro - Spectrum Web Component
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Command line Templates in Premiere Pro. [Command line Templates](command-line-templates.md).

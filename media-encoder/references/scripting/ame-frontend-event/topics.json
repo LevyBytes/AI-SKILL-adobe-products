@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "Adobe Media Encoder (AME) Scripting API Reference (A-Z) — AMEFrontendEvent", "file": "references/scripting/ame-frontend-event/ame-frontend-event.md", "summary": "Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) — AMEFrontendEvent in Media Encoder.", "keywords": ["Adobe Media Encoder (AME) Scripting API Reference (A-Z) — AMEFrontendEvent"]},
+  {"topic": "Adobe Media Encoder (AME) Scripting API Reference (A-Z) - AMEFrontendEvent", "file": "references/scripting/ame-frontend-event/ame-frontend-event.md", "summary": "Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - AMEFrontendEvent in Media Encoder.", "keywords": ["Adobe Media Encoder (AME) Scripting API Reference (A-Z) - AMEFrontendEvent"]},
   {"topic": "onItemAddedToBatch example", "file": "references/scripting/ame-frontend-event/on-item-added-to-batch-example.md", "summary": "Open when looking up onItemAddedToBatch example in Media Encoder.", "keywords": ["onItemAddedToBatch example"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

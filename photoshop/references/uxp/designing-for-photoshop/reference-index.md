@@ -1,4 +1,4 @@
-# Photoshop — Designing for Photoshop
+# Photoshop - Designing for Photoshop
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Plugins Dialog (blocking UI) in Photoshop. [Plugins Dialog (blocking UI)](plugins-dialog-blocking-ui.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — XML
+# Shared Adobe platform - XML
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up XML declaration in Shared Adobe platform. [XML declaration](declaration.md).

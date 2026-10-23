@@ -1,4 +1,4 @@
-# Shared Adobe platform — Xmp file
+# Shared Adobe platform - Xmp file
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Retrurns in Shared Adobe platform. [Retrurns](retrurns.md).
@@ -12,4 +12,4 @@
 - Open when looking up XMPFile.getPacketInfo() in Shared Adobe platform. [XMPFile.getPacketInfo()](get-packet-info.md).
 - Open when looking up XMPFile.getXMP() in Shared Adobe platform. [XMPFile.getXMP()](get-xmp.md).
 - Open when looking up XMPFile.putXMP() in Shared Adobe platform. [XMPFile.putXMP()](put-xmp.md).
-- Open when looking up XMPScript object reference — XMPFile object in Shared Adobe platform. [XMPScript object reference — XMPFile object](xmp-script-object-reference-xmp-file-object.md).
+- Open when looking up XMPScript object reference - XMPFile object in Shared Adobe platform. [XMPScript object reference - XMPFile object](xmp-script-object-reference-xmp-file-object.md).

@@ -1,6 +1,6 @@
-# InDesign — WMF: movie and sound playback
+# InDesign - WMF: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — WMF.
+Open when checking movie and sound playback in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

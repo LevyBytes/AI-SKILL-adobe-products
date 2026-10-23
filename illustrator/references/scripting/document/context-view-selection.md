@@ -1,6 +1,6 @@
-# Illustrator — Document: views, selection and window capture
+# Illustrator - Document: views, selection and window capture
 
-Open when working with views, selection and window capture in Illustrator — Document.
+Open when working with views, selection and window capture in Illustrator - Document.
 
 Open when selecting an exact reference: [Topic catalog](context-view-selection.json).
 

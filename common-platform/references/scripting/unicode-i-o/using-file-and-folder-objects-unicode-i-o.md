@@ -1,4 +1,4 @@
-# Using File and Folder objects — Unicode I/O
+# Using File and Folder objects - Unicode I/O
 
 During file I/O, Adobe applications translate 8-bit character encodings into Unicode. By default, the conversion assumes the system encoding, such as code page 1252 on Windows or Mac Roman on Mac OS. A File object's encoding property reports the current encoding. Scripts can set encoding to the desired encoding name, and File then asks the operating system for the matching encoder for later I/O. The name is one of the standard Internet encoding names used for HTML, such as ASCII, X-SJIS, or ISO-8859-1. For the full list, see File- and Folder-supported encoding names.
 

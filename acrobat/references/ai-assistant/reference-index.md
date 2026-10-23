@@ -1,4 +1,4 @@
-# Acrobat — Acrobat AI workflows
+# Acrobat - Acrobat AI workflows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About podcasts in Adobe Acrobat in Acrobat. [About podcasts in Adobe Acrobat](about-podcasts-in-adobe-acrobat.md).

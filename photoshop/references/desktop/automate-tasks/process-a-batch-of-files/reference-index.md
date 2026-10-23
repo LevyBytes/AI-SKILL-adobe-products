@@ -1,4 +1,4 @@
-# Photoshop — Process a batch of files
+# Photoshop - Process a batch of files
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Batch and droplet processing options in Photoshop. [Batch and droplet processing options](batch-and-droplet-processing-options.md).

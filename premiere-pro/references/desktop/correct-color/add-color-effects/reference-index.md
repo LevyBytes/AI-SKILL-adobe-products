@@ -1,4 +1,4 @@
-# Premiere Pro — Add color effects
+# Premiere Pro - Add color effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Apply Lumetri looks in Premiere Pro. [Apply Lumetri looks](apply-lumetri-looks.md).

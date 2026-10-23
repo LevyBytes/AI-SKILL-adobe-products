@@ -1,4 +1,4 @@
-# `PF_InData` — Point Controls And Buffer Expansion
+# `PF_InData` - Point Controls And Buffer Expansion
 
 Effects that grow the output buffer place the original layer's top-left corner by setting output*origin_x/y in `PF_InData` during `PF_Cmd_FRAME_SETUP`.
 

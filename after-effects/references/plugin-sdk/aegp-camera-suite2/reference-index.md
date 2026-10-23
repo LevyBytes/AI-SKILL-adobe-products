@@ -1,4 +1,4 @@
-# After Effects — AEGP_CameraSuite2
+# After Effects - AEGP_CameraSuite2
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_GetCamera in After Effects. [AEGP_GetCamera](aegp-get-camera.md).

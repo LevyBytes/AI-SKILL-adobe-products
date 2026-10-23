@@ -1,4 +1,4 @@
-# Navigate through pages — Automatically scroll through pages
+# Navigate through pages - Automatically scroll through pages
 
 Launch Acrobat and pick the document you'd like to read.
 

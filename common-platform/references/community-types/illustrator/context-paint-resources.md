@@ -1,6 +1,6 @@
-# Shared Adobe platform — Illustrator: colors, brushes, patterns and artwork styles
+# Shared Adobe platform - Illustrator: colors, brushes, patterns and artwork styles
 
-Open when working with colors, brushes, patterns and artwork styles in Shared Adobe platform — Illustrator.
+Open when working with colors, brushes, patterns and artwork styles in Shared Adobe platform - Illustrator.
 
 Open when selecting an exact reference: [Topic catalog](context-paint-resources.json).
 

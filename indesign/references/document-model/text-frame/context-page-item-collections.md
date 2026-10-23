@@ -1,6 +1,6 @@
-# InDesign — TextFrame: page item collections
+# InDesign - TextFrame: page item collections
 
-Open when checking page item collections in InDesign — TextFrame.
+Open when checking page item collections in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

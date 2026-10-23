@@ -1,7 +1,7 @@
-# Shared Adobe platform — Control event handling callbacks
+# Shared Adobe platform - Control event handling callbacks
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Control objects — Control event-handling callbacks in Shared Adobe platform. [Control objects — Control event-handling callbacks](control-objects-control-event-handling-callbacks.md).
+- Open when looking up Control objects - Control event-handling callbacks in Shared Adobe platform. [Control objects - Control event-handling callbacks](control-objects-control-event-handling-callbacks.md).
 - Open when looking up onActivate in Shared Adobe platform. [onActivate](on-activate.md).
 - Open when looking up onChange in Shared Adobe platform. [onChange](on-change.md).
 - Open when looking up onChanging in Shared Adobe platform. [onChanging](on-changing.md).

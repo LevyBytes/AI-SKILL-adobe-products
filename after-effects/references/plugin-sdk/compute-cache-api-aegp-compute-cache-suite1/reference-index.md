@@ -1,4 +1,4 @@
-# After Effects — Compute Cache API — AEGP_ComputeCacheSuite1
+# After Effects - Compute Cache API - AEGP_ComputeCacheSuite1
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AEGP_CheckinComputeReceipt in After Effects. [AEGP_CheckinComputeReceipt](aegp-checkin-compute-receipt.md).

@@ -1,4 +1,4 @@
-# Illustrator — Brushes
+# Illustrator - Brushes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Brushes.getByName() in Illustrator. [Brushes.getByName()](get-by-name.md).

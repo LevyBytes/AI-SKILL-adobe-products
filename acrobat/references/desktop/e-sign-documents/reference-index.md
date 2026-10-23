@@ -1,4 +1,4 @@
-# Acrobat — E sign documents
+# Acrobat - E sign documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Digital signatures in Acrobat. [Digital signatures references](digital-signatures/reference-index.md).

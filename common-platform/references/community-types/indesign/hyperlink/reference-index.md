@@ -1,4 +1,4 @@
-# Shared Adobe platform — Hyperlink
+# Shared Adobe platform - Hyperlink
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Hyperlink declaration in Shared Adobe platform. [Hyperlink declaration](declaration.md).

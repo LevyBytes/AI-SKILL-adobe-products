@@ -1,4 +1,4 @@
-# Illustrator — Adjust opacity
+# Illustrator - Adjust opacity
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust opacity for an object, object group, layer, Fill, or Stroke. in Illustrator. [Adjust opacity for an object, object group, layer, Fill, or Stroke.](object-layer-fill-and-stroke-opacity.md).

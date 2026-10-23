@@ -1,4 +1,4 @@
-# Scripting Constants — TextAntialias
+# Scripting Constants - TextAntialias
 
 Text art items can apply these anti-aliasing styles.
 

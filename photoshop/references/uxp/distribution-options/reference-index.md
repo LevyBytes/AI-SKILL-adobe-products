@@ -1,4 +1,4 @@
-# Photoshop — Distribution Options
+# Photoshop - Distribution Options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Direct distribution with .ccx files in Photoshop. [Direct distribution with .ccx files](direct-distribution-with-ccx-files.md).

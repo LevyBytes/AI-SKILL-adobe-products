@@ -1,6 +1,6 @@
-# InDesign — FindObjectPreference: footnotes and endnotes
+# InDesign - FindObjectPreference: footnotes and endnotes
 
-Open when checking footnotes and endnotes in InDesign — FindObjectPreference.
+Open when checking footnotes and endnotes in InDesign - FindObjectPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-notes-and-endnotes.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — Shared: flash player interoperability
+# Shared Adobe platform - Shared: flash player interoperability
 
-Open when working with flash player interoperability in Shared Adobe platform — Shared.
+Open when working with flash player interoperability in Shared Adobe platform - Shared.
 
 Open when selecting an exact reference: [Topic catalog](context-flash.json).
 

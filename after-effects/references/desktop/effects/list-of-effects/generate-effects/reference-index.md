@@ -1,4 +1,4 @@
-# After Effects — Generate Effects
+# After Effects - Generate Effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 4-Color Gradient effect in After Effects. [4-Color Gradient effect](4-color-gradient-effect.md).

@@ -1,4 +1,4 @@
-# Checking spelling — Change dictionary preferences
+# Checking spelling - Change dictionary preferences
 
 Dictionary preferences control how InCopy uses hyphenation dictionaries and spelling dictionaries. For most InCopy languages, Proximity dictionaries handle both spelling verification and word hyphenation. When spelling or hyphenation components from another company are installed, vendor choices can be assigned per installed language.
 

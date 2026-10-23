@@ -1,4 +1,4 @@
-# Acrobat — About podcasts in Adobe Acrobat
+# Acrobat - About podcasts in Adobe Acrobat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access and availability in Acrobat. [Access and availability](access-and-availability.md).

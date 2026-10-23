@@ -1,6 +1,6 @@
-# Shared Adobe platform — Scripting APIs: extendscript toolkit editing and debugging
+# Shared Adobe platform - Scripting APIs: extendscript toolkit editing and debugging
 
-Open when working with extendscript toolkit editing and debugging in Shared Adobe platform — Scripting APIs.
+Open when working with extendscript toolkit editing and debugging in Shared Adobe platform - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-toolkit.json).
 

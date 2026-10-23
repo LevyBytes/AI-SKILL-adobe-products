@@ -1,4 +1,4 @@
-# InDesign — Link and update content across documents
+# InDesign - Link and update content across documents
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Collect and place linked content in InDesign. [Collect and place linked content](collect-and-place-linked-content.md).

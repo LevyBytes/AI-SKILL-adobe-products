@@ -1,4 +1,4 @@
-# Audition — Selecting audio
+# Audition - Selecting audio
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust a selection to zero‑crossing points in Audition. [Adjust a selection to zero‑crossing points](adjust-a-selection-to-zero-crossing-points.md).

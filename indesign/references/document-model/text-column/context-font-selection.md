@@ -1,6 +1,6 @@
-# InDesign — Text column: fonts and character forms
+# InDesign - Text column: fonts and character forms
 
-Open when checking fonts and character forms in InDesign — Text column.
+Open when checking fonts and character forms in InDesign - Text column.
 
 Open when selecting an exact API member: [Topic catalog](context-font-selection.json).
 

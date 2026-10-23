@@ -1,4 +1,4 @@
-# Premiere Pro — Modify clip properties
+# Premiere Pro - Modify clip properties
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change the field order of a clip in Premiere Pro. [Change the field order of a clip](change-the-field-order-of-a-clip.md).

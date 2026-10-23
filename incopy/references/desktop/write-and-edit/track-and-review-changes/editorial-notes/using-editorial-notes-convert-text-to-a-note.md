@@ -1,4 +1,4 @@
-# Using editorial notes — Convert text to a note
+# Using editorial notes - Convert text to a note
 
 Select the text to place into a new note. Choose Notes > Convert To Note.
 

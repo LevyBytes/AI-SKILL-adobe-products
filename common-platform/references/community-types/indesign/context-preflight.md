@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: preflight processes, profiles and rules
+# Shared Adobe platform - Indesign: preflight processes, profiles and rules
 
-Open when working with preflight processes, profiles and rules in Shared Adobe platform — Indesign.
+Open when working with preflight processes, profiles and rules in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-preflight.json).
 

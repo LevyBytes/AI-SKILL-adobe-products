@@ -1,4 +1,4 @@
-# Scripting Constants — PrintFontDownloadMode
+# Scripting Constants - PrintFontDownloadMode
 
 | Value | Description |
 | --- | --- |

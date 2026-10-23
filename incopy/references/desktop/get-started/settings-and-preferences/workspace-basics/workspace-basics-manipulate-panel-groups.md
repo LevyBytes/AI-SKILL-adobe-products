@@ -1,4 +1,4 @@
-# Workspace basics — Manipulate panel groups
+# Workspace basics - Manipulate panel groups
 
 Use the highlighted drop zone inside the group to add the panel by its tab.
 

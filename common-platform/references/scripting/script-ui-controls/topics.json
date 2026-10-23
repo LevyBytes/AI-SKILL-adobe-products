@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
   {"topic": "button", "file": "references/scripting/script-ui-controls/button.md", "summary": "Open when looking up button in Shared Adobe platform.", "keywords": ["button"]},
   {"topic": "checkbox", "file": "references/scripting/script-ui-controls/checkbox.md", "summary": "Open when looking up checkbox in Shared Adobe platform.", "keywords": ["checkbox"]},
-  {"topic": "Control objects — Control types and creation parameters", "file": "references/scripting/script-ui-controls/control-objects-control-types-and-creation-parameters.md", "summary": "Open when looking up Control objects — Control types and creation parameters in Shared Adobe platform.", "keywords": ["Control objects — Control types and creation parameters"]},
+  {"topic": "Control objects - Control types and creation parameters", "file": "references/scripting/script-ui-controls/control-objects-control-types-and-creation-parameters.md", "summary": "Open when looking up Control objects - Control types and creation parameters in Shared Adobe platform.", "keywords": ["Control objects - Control types and creation parameters"]},
   {"topic": "dropdownlist", "file": "references/scripting/script-ui-controls/dropdownlist.md", "summary": "Open when looking up dropdownlist in Shared Adobe platform.", "keywords": ["dropdownlist"]},
   {"topic": "editnumber", "file": "references/scripting/script-ui-controls/editnumber.md", "summary": "Open when looking up editnumber in Shared Adobe platform.", "keywords": ["editnumber"]},
   {"topic": "edittext", "file": "references/scripting/script-ui-controls/edittext.md", "summary": "Open when looking up edittext in Shared Adobe platform.", "keywords": ["edittext"]},

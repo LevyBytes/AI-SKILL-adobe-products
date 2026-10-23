@@ -1,4 +1,4 @@
-# Premiere Pro — Scripting APIs
+# Premiere Pro - Scripting APIs
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3rd party scripting has moved to uxp in Premiere Pro. [3rd party scripting has moved to uxp references](3rd-party-scripting-has-moved-to-uxp/reference-index.md).
@@ -21,7 +21,6 @@
 - Open when looking up Encoder in Premiere Pro. [Encoder references](encoder/reference-index.md).
 - Open when looking up Example code in Premiere Pro. [Example code references](example-code/reference-index.md).
 - Open when looking up How to Execute ExtendScript in Premiere Pro in Premiere Pro. [How to Execute ExtendScript in Premiere Pro](how-to-execute-extend-script-in-premiere-pro.md).
-- Open when looking up Licensing ownership in Premiere Pro. [Licensing ownership references](licensing-ownership/reference-index.md).
 - Open when looking up Marker collection in Premiere Pro. [Marker collection references](marker-collection/reference-index.md).
 - Open when looking up Marker in Premiere Pro. [Marker references](marker/reference-index.md).
 - Open when looking up Metadata in Premiere Pro. [Metadata references](metadata/reference-index.md).

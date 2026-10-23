@@ -1,4 +1,4 @@
-# Importing and interpreting footage items — Alpha channel interpretation: premultiplied or straight
+# Importing and interpreting footage items - Alpha channel interpretation: premultiplied or straight
 
 Transparency information in image files with alpha channels is held one of two ways: straight or premultiplied. The alpha channels match in both; where they part ways is the color channels.
 

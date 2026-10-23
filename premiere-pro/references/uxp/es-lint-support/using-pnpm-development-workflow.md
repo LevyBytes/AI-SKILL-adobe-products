@@ -1,4 +1,4 @@
-# Using pnpm — Development workflow
+# Using pnpm - Development workflow
 
 A common development cycle looks like this:
 

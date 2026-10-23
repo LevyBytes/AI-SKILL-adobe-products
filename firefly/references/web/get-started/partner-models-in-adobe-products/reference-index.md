@@ -1,4 +1,4 @@
-# Firefly — Partner models in Adobe products
+# Firefly - Partner models in Adobe products
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Disclosure on Chinese models in Adobe products in Firefly. [Disclosure on Chinese models in Adobe products](disclosure-on-chinese-models-in-adobe-products.md).

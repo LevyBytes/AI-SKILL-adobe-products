@@ -1,3 +1,3 @@
-# SmartFX — The Way Things Were
+# SmartFX - The Way Things Were
 
 Picture a blur dropped onto an enormous layer that sits mostly off-screen, or is seen through a tiny region of interest, or has been masked down small. Only a modest slice of the output needs rendering, which the output extent_hint communicates to the effect. The slice of input needing the blur is likewise small — that output extent_hint grown by the blur radius. The legacy effects API, though, gives After Effects no means of knowing this, and so the whole layer goes to the plug-in. Computing those surplus pixels can prove wildly expensive and wasteful, particularly when prior effects or nested comps are involved.

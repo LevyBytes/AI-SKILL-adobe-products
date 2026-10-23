@@ -1,6 +1,6 @@
-# InDesign — TableStyle: object identity and lifecycle
+# InDesign - TableStyle: object identity and lifecycle
 
-Open when checking object identity and lifecycle in InDesign — TableStyle.
+Open when checking object identity and lifecycle in InDesign - TableStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-object-contract.json).
 

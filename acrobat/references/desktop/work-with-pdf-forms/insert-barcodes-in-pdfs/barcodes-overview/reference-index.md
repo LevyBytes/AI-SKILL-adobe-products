@@ -1,4 +1,4 @@
-# Acrobat — Barcodes overview
+# Acrobat - Barcodes overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Benefits of using barcodes in Acrobat. [Benefits of using barcodes](benefits-of-using-barcodes.md).

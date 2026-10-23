@@ -1,4 +1,4 @@
-# Premiere Pro — Transform effects
+# Premiere Pro - Transform effects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Auto Reframe in Premiere Pro. [Auto Reframe](auto-reframe.md).

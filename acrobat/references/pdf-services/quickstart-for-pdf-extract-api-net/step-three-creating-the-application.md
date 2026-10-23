@@ -2,12 +2,9 @@
 
 1. The first thing to pull in is the set of dependencies we rely on:
 
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/extract-first-level-headings/Program.cs)
-- [imports.cs](../examples/dotnet/extract-first-level-headings/imports.cs)
-- [print-heading-output.cs](../examples/dotnet/extract-first-level-headings/print-heading-output.cs)
-- [configure-logging.cs](../examples/dotnet/extract-first-level-headings/configure-logging.cs)
+- [extract-first-level-headings setup and source](../examples/dotnet/extract-first-level-headings/extract-first-level-headings-setup.md)
 
 2. Now let's define our main class and `Main` method:
 

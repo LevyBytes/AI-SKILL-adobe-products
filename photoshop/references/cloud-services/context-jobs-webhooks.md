@@ -1,6 +1,6 @@
-# Photoshop — Cloud service APIs: asynchronous jobs, status and webhooks
+# Photoshop - Cloud service APIs: asynchronous jobs, status and webhooks
 
-Open when working with asynchronous jobs, status and webhooks in Photoshop — Cloud service APIs.
+Open when working with asynchronous jobs, status and webhooks in Photoshop - Cloud service APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-jobs-webhooks.json).
 

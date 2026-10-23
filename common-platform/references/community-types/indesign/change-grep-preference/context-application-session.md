@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeGrepPreference: application session and account
+# Shared Adobe platform - ChangeGrepPreference: application session and account
 
-Open when checking application session and account in Shared Adobe platform — ChangeGrepPreference.
+Open when checking application session and account in Shared Adobe platform - ChangeGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

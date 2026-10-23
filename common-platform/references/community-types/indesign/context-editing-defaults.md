@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: clipboard, autocorrection and spelling
+# Shared Adobe platform - Indesign: clipboard, autocorrection and spelling
 
-Open when working with clipboard, autocorrection and spelling in Shared Adobe platform — Indesign.
+Open when working with clipboard, autocorrection and spelling in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-editing-defaults.json).
 

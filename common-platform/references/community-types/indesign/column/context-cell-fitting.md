@@ -1,6 +1,6 @@
-# Shared Adobe platform — Column: content fit, dimensions and overflow
+# Shared Adobe platform - Column: content fit, dimensions and overflow
 
-Open when checking content fit, dimensions and overflow in Shared Adobe platform — Column.
+Open when checking content fit, dimensions and overflow in Shared Adobe platform - Column.
 
 Open when selecting an exact API member: [Topic catalog](context-cell-fitting.json).
 

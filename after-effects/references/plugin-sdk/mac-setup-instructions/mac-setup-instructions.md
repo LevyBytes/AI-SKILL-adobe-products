@@ -1,4 +1,4 @@
-# GPU-Accelerated Effect Build Instructions — Mac Setup Instructions
+# GPU-Accelerated Effect Build Instructions - Mac Setup Instructions
 
 Because the SDK_Invert_ProcAmp plugin leans on Boost to handle GPU kernel files, Boost has to be present on your machine. Either grab it through homebrew or pull a direct download from boost.org.
 

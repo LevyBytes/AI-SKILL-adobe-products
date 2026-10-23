@@ -1,6 +1,6 @@
-# InDesign — TextBox: placement, bounds and transformations
+# InDesign - TextBox: placement, bounds and transformations
 
-Open when checking placement, bounds and transformations in InDesign — TextBox.
+Open when checking placement, bounds and transformations in InDesign - TextBox.
 
 Open when selecting an exact API member: [Topic catalog](context-object-layout.json).
 

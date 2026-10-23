@@ -1,4 +1,4 @@
-# Scripting Constants — CompressionQuality
+# Scripting Constants - CompressionQuality
 
 PDF saves use this enum to set bitmap compression quality.
 

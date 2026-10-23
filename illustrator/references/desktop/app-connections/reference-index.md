@@ -1,4 +1,4 @@
-# Illustrator — Connect with other apps and tools
+# Illustrator - Connect with other apps and tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About using desktop AI tools with Adobe Illustrator (Beta) in Illustrator. [About using desktop AI tools with Adobe Illustrator (Beta)](about-using-desktop-ai-tools-with-adobe-illustrator-beta.md).

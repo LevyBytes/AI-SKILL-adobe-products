@@ -1,4 +1,4 @@
-# Firefly — Known and fixed issues
+# Firefly - Known and fixed issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Copy-pasted artboards can create element name collisions in Firefly. [Copy-pasted artboards can create element name collisions](copy-pasted-artboards-can-create-element-name-collisions.md).

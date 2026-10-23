@@ -1,4 +1,4 @@
-# Shared Adobe platform — Community application declarations
+# Shared Adobe platform - Community application declarations
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Aftereffects in Shared Adobe platform. [Aftereffects references](aftereffects/reference-index.md).

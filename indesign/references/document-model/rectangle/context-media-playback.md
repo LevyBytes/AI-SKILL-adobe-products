@@ -1,6 +1,6 @@
-# InDesign — Rectangle: movie and sound playback
+# InDesign - Rectangle: movie and sound playback
 
-Open when checking movie and sound playback in InDesign — Rectangle.
+Open when checking movie and sound playback in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-media-playback.json).
 

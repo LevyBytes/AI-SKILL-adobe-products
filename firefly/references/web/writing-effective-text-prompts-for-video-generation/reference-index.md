@@ -1,4 +1,4 @@
-# Firefly — Writing effective text prompts for video generation
+# Firefly - Writing effective text prompts for video generation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add elements to existing videos in Firefly. [Add elements to existing videos](add-elements-to-existing-videos.md).

@@ -1,6 +1,6 @@
-# InDesign — EPS: page item collections
+# InDesign - EPS: page item collections
 
-Open when checking page item collections in InDesign — EPS.
+Open when checking page item collections in InDesign - EPS.
 
 Open when selecting an exact API member: [Topic catalog](context-page-item-collections.json).
 

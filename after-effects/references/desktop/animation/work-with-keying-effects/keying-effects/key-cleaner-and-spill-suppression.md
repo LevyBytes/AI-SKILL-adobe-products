@@ -1,4 +1,4 @@
-# Keying effects — Using Key Cleaner and Advanced Spill Suppressor effects with other keying effects
+# Keying effects - Using Key Cleaner and Advanced Spill Suppressor effects with other keying effects
 
 Work through the steps below to lay the Key Cleaner and Advanced Spill Suppressor effect onto a keying effect that isn't the Keylight effect:
 

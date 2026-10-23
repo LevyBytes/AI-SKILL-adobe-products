@@ -1,4 +1,4 @@
-# Photoshop — Select and manage fonts
+# Photoshop - Select and manage fonts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up About fonts in Photoshop. [About fonts](about-fonts.md).

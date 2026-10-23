@@ -1,4 +1,4 @@
-# window.Element — namespaceURI : `string`
+# window.Element - namespaceURI : `string`
 
 **Read only**
 Yields the element's namespace URI, or null when no namespace applies.

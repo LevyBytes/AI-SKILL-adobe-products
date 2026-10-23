@@ -1,4 +1,4 @@
-# Transforming graphics — Set Position tool options
+# Transforming graphics - Set Position tool options
 
 While moving a graphic with the Position tool, hold the mouse button down briefly to show a dynamic preview of the image area outside the frame; the preview appears as a ghosted-back image. The preview's visibility and delay can be adjusted.
 

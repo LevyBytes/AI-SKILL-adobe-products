@@ -1,4 +1,4 @@
-# Illustrator — TabStopInfo
+# Illustrator - TabStopInfo
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TabStopInfo.alignment in Illustrator. [TabStopInfo.alignment](alignment.md).

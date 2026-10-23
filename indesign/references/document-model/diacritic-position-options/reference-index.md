@@ -1,4 +1,4 @@
-# InDesign — Diacritic position options
+# InDesign - Diacritic position options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DEFAULT_POSITION in InDesign. [DEFAULT_POSITION](defaultposition.md).

@@ -1,7 +1,6 @@
 {"schema_version": 1, "owner": "photoshop", "topics": [
   {"topic": "Code Of Conduct", "file": "references/plugin-samples/contributing/code-of-conduct.md", "summary": "Open when looking up Code Of Conduct in Photoshop.", "keywords": ["Code Of Conduct"]},
   {"topic": "Code Reviews", "file": "references/plugin-samples/contributing/code-reviews.md", "summary": "Open when looking up Code Reviews in Photoshop.", "keywords": ["Code Reviews"]},
-  {"topic": "Contributor License Agreement", "file": "references/plugin-samples/contributing/contributor-license-agreement.md", "summary": "Open when looking up Contributor License Agreement in Photoshop.", "keywords": ["Contributor License Agreement"]},
   {"topic": "From Contributor To Committer", "file": "references/plugin-samples/contributing/from-contributor-to-committer.md", "summary": "Open when looking up From Contributor To Committer in Photoshop.", "keywords": ["From Contributor To Committer"]},
   {"topic": "Have A Question?", "file": "references/plugin-samples/contributing/have-a-question.md", "summary": "Open when looking up Have A Question? in Photoshop.", "keywords": ["Have A Question?"]},
   {"topic": "Security Issues", "file": "references/plugin-samples/contributing/security-issues.md", "summary": "Open when looking up Security Issues in Photoshop.", "keywords": ["Security Issues"]},

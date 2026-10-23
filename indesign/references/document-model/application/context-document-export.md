@@ -1,6 +1,6 @@
-# InDesign — Application: export documents and select formats
+# InDesign - Application: export documents and select formats
 
-Open when checking export documents and select formats in InDesign — Application.
+Open when checking export documents and select formats in InDesign - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-document-export.json).
 

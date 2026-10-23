@@ -1,4 +1,4 @@
-# Illustrator — TracingObject
+# Illustrator - TracingObject
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 

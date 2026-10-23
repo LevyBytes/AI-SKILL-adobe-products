@@ -1,6 +1,6 @@
-# Acrobat — Doc: submit forms, mail documents and fetch urls
+# Acrobat - Doc: submit forms, mail documents and fetch urls
 
-Open when working with submit forms, mail documents and fetch urls in Acrobat — Doc.
+Open when working with submit forms, mail documents and fetch urls in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-submit.json).
 

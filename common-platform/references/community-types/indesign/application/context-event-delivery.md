@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: events and listeners
+# Shared Adobe platform - Application: events and listeners
 
-Open when checking events and listeners in Shared Adobe platform — Application.
+Open when checking events and listeners in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-event-delivery.json).
 

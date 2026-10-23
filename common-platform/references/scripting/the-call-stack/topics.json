@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "common-platform", "topics": [
-  {"topic": "Debugging in the Toolkit — The call stack", "file": "references/scripting/the-call-stack/debugging-in-the-toolkit-the-call-stack.md", "summary": "Open when looking up Debugging in the Toolkit — The call stack in Shared Adobe platform.", "keywords": ["Debugging in the Toolkit — The call stack"]},
+  {"topic": "Debugging in the Toolkit - The call stack", "file": "references/scripting/the-call-stack/debugging-in-the-toolkit-the-call-stack.md", "summary": "Open when looking up Debugging in the Toolkit - The call stack in Shared Adobe platform.", "keywords": ["Debugging in the Toolkit - The call stack"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

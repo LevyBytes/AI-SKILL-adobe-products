@@ -1,4 +1,4 @@
-# InDesign — Cloud document management options
+# InDesign - Cloud document management options
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Document management options in InDesign. [Document management options](document-management-options.md).

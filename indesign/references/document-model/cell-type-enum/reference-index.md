@@ -1,4 +1,4 @@
-# InDesign — CellTypeEnum
+# InDesign - CellTypeEnum
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GRAPHIC_TYPE_CELL in InDesign. [GRAPHIC_TYPE_CELL](graphictypecell.md).

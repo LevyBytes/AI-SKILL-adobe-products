@@ -1,4 +1,4 @@
-# After Effects — Using the Expressions editor
+# After Effects - Using the Expressions editor
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Example 1: Display error in your code snippet in After Effects. [Example 1: Display error in your code snippet](example-1-display-error-in-your-code-snippet.md).

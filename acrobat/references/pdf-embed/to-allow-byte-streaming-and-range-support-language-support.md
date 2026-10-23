@@ -1,4 +1,4 @@
-# To allow byte-streaming and range support — Language support
+# To allow byte-streaming and range support - Language support
 
 A whole range of languages is available in the PDF Embed API. English (en-US) is what it falls back to, though you can pick a different one by handing in the locale-code variable as you construct the `AdobeDC.View object`.
 

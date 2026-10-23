@@ -1,4 +1,4 @@
-# Customizing workspaces — Change interface colors, brightness, and performance
+# Customizing workspaces - Change interface colors, brightness, and performance
 
 Choose Edit > Preferences > Appearance (Windows) or Audition > Preferences > Appearance (Mac OS).
 

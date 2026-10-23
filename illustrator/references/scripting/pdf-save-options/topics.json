@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "illustrator", "topics": [
-  {"topic": "PDFSaveOptions — Properties", "file": "references/scripting/pdf-save-options/pdf-save-options-properties.md", "summary": "Open when looking up PDFSaveOptions — Properties in Illustrator.", "keywords": ["PDFSaveOptions — Properties"]},
+  {"topic": "PDFSaveOptions - Properties", "file": "references/scripting/pdf-save-options/pdf-save-options-properties.md", "summary": "Open when looking up PDFSaveOptions - Properties in Illustrator.", "keywords": ["PDFSaveOptions - Properties"]},
   {"topic": "PDFSaveOptions.acrobatLayers", "file": "references/scripting/pdf-save-options/acrobat-layers.md", "summary": "Open when looking up PDFSaveOptions.acrobatLayers in Illustrator.", "keywords": ["PDFSaveOptions.acrobatLayers"]},
   {"topic": "PDFSaveOptions.artboardRange", "file": "references/scripting/pdf-save-options/artboard-range.md", "summary": "Open when looking up PDFSaveOptions.artboardRange in Illustrator.", "keywords": ["PDFSaveOptions.artboardRange"]},
   {"topic": "PDFSaveOptions.bleedLink", "file": "references/scripting/pdf-save-options/bleed-link.md", "summary": "Open when looking up PDFSaveOptions.bleedLink in Illustrator.", "keywords": ["PDFSaveOptions.bleedLink"]},

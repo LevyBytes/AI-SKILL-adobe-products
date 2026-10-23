@@ -1,4 +1,4 @@
-# InDesign — Developer Tools
+# InDesign - Developer Tools
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Code Editor in InDesign. [Code Editor](code-editor.md).

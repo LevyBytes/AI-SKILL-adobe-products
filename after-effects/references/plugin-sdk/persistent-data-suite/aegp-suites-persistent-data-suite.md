@@ -1,4 +1,4 @@
-# AEGP Suites — Persistent Data Suite
+# AEGP Suites - Persistent Data Suite
 
 Plug-ins are granted read and write access to data persisted in After Effects' preferences. With the suite below, AEGPs can register and look after persistent data of their own. Entries are keyed by (section key, value key) pairs. As a convention, a plug-in should adopt its matchname as the section key, or prefix its section keys with it when several are used.
 

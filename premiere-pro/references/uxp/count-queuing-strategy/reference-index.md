@@ -1,4 +1,4 @@
-# Premiere Pro — Count queuing strategy
+# Premiere Pro - Count queuing strategy
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up CountQueuingStrategy(init) in Premiere Pro. [CountQueuingStrategy(init)](count-queuing-strategy.md).

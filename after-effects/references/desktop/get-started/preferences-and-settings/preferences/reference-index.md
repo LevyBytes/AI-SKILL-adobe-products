@@ -1,4 +1,4 @@
-# After Effects — Preferences
+# After Effects - Preferences
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Cache in After Effects. [3D Cache](3-d-cache.md).

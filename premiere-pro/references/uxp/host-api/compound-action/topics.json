@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "premiere-pro", "topics": [
   {"topic": "addAction", "file": "references/uxp/host-api/compound-action/add-action.md", "summary": "Open when looking up addAction in Premiere Pro.", "keywords": ["addAction"]},
-  {"topic": "CompoundAction — Properties", "file": "references/uxp/host-api/compound-action/compound-action-properties.md", "summary": "Open when looking up CompoundAction — Properties in Premiere Pro.", "keywords": ["CompoundAction — Properties"]},
+  {"topic": "CompoundAction - Properties", "file": "references/uxp/host-api/compound-action/compound-action-properties.md", "summary": "Open when looking up CompoundAction - Properties in Premiere Pro.", "keywords": ["CompoundAction - Properties"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

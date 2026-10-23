@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: render, export and delivery
+# Premiere Pro - Desktop workflows: render, export and delivery
 
-Open when working with render, export and delivery in Premiere Pro — Desktop workflows.
+Open when working with render, export and delivery in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-export.json).
 

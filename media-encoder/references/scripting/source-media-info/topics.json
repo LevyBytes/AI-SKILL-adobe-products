@@ -1,5 +1,5 @@
 {"schema_version": 1, "owner": "media-encoder", "topics": [
-  {"topic": "Adobe Media Encoder (AME) Scripting API Reference (A-Z) — SourceMediaInfo", "file": "references/scripting/source-media-info/source-media-info.md", "summary": "Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) — SourceMediaInfo in Media Encoder.", "keywords": ["Adobe Media Encoder (AME) Scripting API Reference (A-Z) — SourceMediaInfo"]},
+  {"topic": "Adobe Media Encoder (AME) Scripting API Reference (A-Z) - SourceMediaInfo", "file": "references/scripting/source-media-info/source-media-info.md", "summary": "Open when looking up Adobe Media Encoder (AME) Scripting API Reference (A-Z) - SourceMediaInfo in Media Encoder.", "keywords": ["Adobe Media Encoder (AME) Scripting API Reference (A-Z) - SourceMediaInfo"]},
   {"topic": "Code Samples", "file": "references/scripting/source-media-info/code-samples.md", "summary": "Open when looking up Code Samples in Media Encoder.", "keywords": ["Code Samples"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

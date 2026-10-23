@@ -1,6 +1,6 @@
-# InDesign — Find grep preference: ruby annotations
+# InDesign - Find grep preference: ruby annotations
 
-Open when checking ruby annotations in InDesign — Find grep preference.
+Open when checking ruby annotations in InDesign - Find grep preference.
 
 Open when selecting an exact API member: [Topic catalog](context-ruby-annotations.json).
 

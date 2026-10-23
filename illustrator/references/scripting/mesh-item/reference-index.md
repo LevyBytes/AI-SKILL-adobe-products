@@ -1,4 +1,4 @@
-# Illustrator — MeshItem
+# Illustrator - MeshItem
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MeshItem.artworkKnockout in Illustrator. [MeshItem.artworkKnockout](artwork-knockout.md).

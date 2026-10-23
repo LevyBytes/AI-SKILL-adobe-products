@@ -1,4 +1,4 @@
-# Scripting Constants — PDFXStandard
+# Scripting Constants - PDFXStandard
 
 | Value | Description |
 | --- | --- |

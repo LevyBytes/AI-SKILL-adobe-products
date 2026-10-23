@@ -1,4 +1,4 @@
-# Shared Adobe platform — BackgroundTask
+# Shared Adobe platform - BackgroundTask
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up BackgroundTask declaration in Shared Adobe platform. [BackgroundTask declaration](declaration.md).

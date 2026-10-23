@@ -1,4 +1,4 @@
-# Firefly — Adobe Brand Intelligence overview
+# Firefly - Adobe Brand Intelligence overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Instruct to Assemble in Firefly. [Instruct to Assemble](instruct-to-assemble.md).

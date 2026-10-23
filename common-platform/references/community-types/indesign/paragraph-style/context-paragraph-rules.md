@@ -1,6 +1,6 @@
-# Shared Adobe platform — ParagraphStyle: paragraph rules
+# Shared Adobe platform - ParagraphStyle: paragraph rules
 
-Open when checking paragraph rules in Shared Adobe platform — ParagraphStyle.
+Open when checking paragraph rules in Shared Adobe platform - ParagraphStyle.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

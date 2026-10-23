@@ -1,6 +1,6 @@
-# InDesign — Text style range: character spacing and geometry
+# InDesign - Text style range: character spacing and geometry
 
-Open when checking character spacing and geometry in InDesign — Text style range.
+Open when checking character spacing and geometry in InDesign - Text style range.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

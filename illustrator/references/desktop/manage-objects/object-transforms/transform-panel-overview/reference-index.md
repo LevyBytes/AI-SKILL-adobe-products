@@ -1,4 +1,4 @@
-# Illustrator — Transform panel overview
+# Illustrator - Transform panel overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Transform panel features in Illustrator. [Transform panel features](transform-panel-features.md).

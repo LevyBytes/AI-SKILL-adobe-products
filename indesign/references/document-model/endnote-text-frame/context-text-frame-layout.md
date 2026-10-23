@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: text frame columns and autosizing
+# InDesign - EndnoteTextFrame: text frame columns and autosizing
 
-Open when checking text frame columns and autosizing in InDesign — EndnoteTextFrame.
+Open when checking text frame columns and autosizing in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-text-frame-layout.json).
 

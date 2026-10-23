@@ -1,16 +1,16 @@
-# Acrobat — PDF Services API: extract text, tables and markdown
+# Acrobat - PDF Services API: extract text, tables and markdown
 
-Open when working with extract text, tables and markdown in Acrobat — PDF Services API.
+Open when working with extract text, tables and markdown in Acrobat - PDF Services API.
 
 Open when selecting an exact reference: [Topic catalog](context-extract-content.json).
 
 - Open when looking up Choose Your Output Format in Acrobat [Choose Your Output Format](choose-your-output-format.md).
 - Open when looking up Extract Api in Acrobat [Extract Api](extract-api.md).
-- Open when looking up Extract PDF — API limitations in Acrobat [Extract PDF — API limitations](extract-pdf-api-limitations.md).
-- Open when looking up Extract PDF — Error codes in Acrobat [Extract PDF — Error codes](extract-pdf-error-codes.md).
-- Open when looking up Extract PDF — Extract Text from a PDF in Acrobat [Extract PDF — Extract Text from a PDF](extract-pdf-extract-text-from-a-pdf.md).
-- Open when looking up Extract PDF — Extract Text from a PDF in Acrobat [Extract PDF — Extract Text from a PDF references](extract-pdf-extract-text-from-a-pdf/reference-index.md).
-- Open when looking up Extract PDF — REST API in Acrobat [Extract PDF — REST API](extract-pdf-rest-api.md).
+- Open when looking up Extract PDF - API limitations in Acrobat [Extract PDF - API limitations](extract-pdf-api-limitations.md).
+- Open when looking up Extract PDF - Error codes in Acrobat [Extract PDF - Error codes](extract-pdf-error-codes.md).
+- Open when looking up Extract PDF - Extract Text from a PDF in Acrobat [Extract PDF - Extract Text from a PDF](extract-pdf-extract-text-from-a-pdf.md).
+- Open when looking up Extract PDF - Extract Text from a PDF in Acrobat [Extract PDF - Extract Text from a PDF references](extract-pdf-extract-text-from-a-pdf/reference-index.md).
+- Open when looking up Extract PDF - REST API in Acrobat [Extract PDF - REST API](extract-pdf-rest-api.md).
 - Open when looking up Extract Process in Acrobat [Extract Process](extract-process.md).
 - Open when looking up Extract Text and Tables in Acrobat [Extract Text and Tables](extract-text-and-tables.md).
 - Open when looking up Extract Text and Tables (w/ Tables and Figures Renditions) in Acrobat [Extract Text and Tables (w/ Tables and Figures Renditions)](extract-text-and-tables-w-tables-and-figures-renditions.md).
@@ -26,7 +26,7 @@ Open when selecting an exact reference: [Topic catalog](context-extract-content.
 - Open when looking up Extract Text and Tables in Acrobat [Extract Text and Tables references](extract-text-and-tables/reference-index.md).
 - Open when looking up JSON (Extract PDF) in Acrobat [JSON (Extract PDF)](json-extract-pdf.md).
 - Open when looking up Markdown (PDF to Markdown) in Acrobat [Markdown (PDF to Markdown)](markdown-pdf-to-markdown.md).
-- Open when looking up Pdf Extract Api — Gettingstarted in Acrobat [Pdf Extract Api — Gettingstarted](pdf-extract-api-gettingstarted.md).
+- Open when looking up Pdf Extract Api - Gettingstarted in Acrobat [Pdf Extract Api - Gettingstarted](pdf-extract-api-gettingstarted.md).
 - Open when looking up Pdf extract in Acrobat [Pdf extract references](pdf-extract/reference-index.md).
 - Open when looking up PDF to Markdown in Acrobat [PDF to Markdown](pdf-to-markdown.md).
 - Open when looking up PDF to Markdown in Acrobat [PDF to Markdown references](pdf-to-markdown/reference-index.md).

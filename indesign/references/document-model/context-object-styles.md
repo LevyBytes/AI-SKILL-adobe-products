@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: object styles and enabled attributes
+# InDesign - InDesign document object model: object styles and enabled attributes
 
-Open when working with object styles and enabled attributes in InDesign — InDesign document object model.
+Open when working with object styles and enabled attributes in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-object-styles.json).
 

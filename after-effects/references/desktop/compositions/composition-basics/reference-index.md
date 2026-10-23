@@ -1,4 +1,4 @@
-# After Effects — Composition Basics
+# After Effects - Composition Basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D renderer settings in After Effects. [3D renderer settings](3-d-renderer-settings.md).

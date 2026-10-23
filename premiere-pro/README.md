@@ -25,7 +25,7 @@ flowchart LR
 
 Adobe Premiere Pro references for editing workflows and application extensibility. Media, timeline, audio and delivery guidance is routed separately from scripting APIs and UXP plug-in development.
 
-Use when a task concerns Adobe Premiere Pro editing, timelines, media and proxies, text-based editing, graphics and captions, audio mixing, effects, masks, color management and grading, export, collaboration, troubleshooting, ExtendScript, Premiere UXP classes, or UXP plug-in development and runtime APIs. Preserve each reference's host, platform, and version conditions.
+Use when a task concerns Adobe Premiere Pro editing, timelines, media and proxies, text-based editing, graphics and captions, audio mixing, effects, masks, color management and grading, export, collaboration, troubleshooting, ExtendScript, Premiere UXP classes, or UXP plug-in development and runtime APIs.
 
 ## What this skill helps with
 
@@ -49,4 +49,4 @@ Select the interface supported by the target Premiere Pro version. Read [plug-in
 
 Skill reference documentation is interpreted content for use in open source projects. Check against [official documentation sources](https://helpx.adobe.com/premiere-pro.html) when dealing with defects or issues that may come up from interpreting this skill's references.
 
-Licensed under **AGPL-3.0**; see [LICENSE](../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.
+Licensed under **Apache-2.0**; see [LICENSE](../LICENSE). Part of the [Agent Kaizen](https://github.com/LevyBytes/agent-kaizen) skill library.

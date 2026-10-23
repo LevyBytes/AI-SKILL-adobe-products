@@ -1,4 +1,4 @@
-# InDesign — Text styles
+# InDesign - Text styles
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add and manage text styles from CC libraries in InDesign. [Add and manage text styles from CC libraries](add-and-manage-text-styles-from-cc-libraries.md).
@@ -22,8 +22,8 @@
 - Open when looking up Find and replace text styles in InDesign. [Find and replace text styles](find-and-replace-text-styles.md).
 - Open when looking up Manage style packs in InDesign. [Manage style packs](manage-style-packs.md).
 - Open when looking up Manage style packs in InDesign. [Manage style packs references](manage-style-packs/reference-index.md).
-- Open when looking up Map styles to export tags — Configure export tagging options for styles in InDesign. [Map styles to export tags — Configure export tagging options for styles](configure-export-tagging-options-for-styles.md).
-- Open when looking up Map styles to export tags — Configure export tagging options for styles in InDesign. [Map styles to export tags — Configure export tagging options for styles references](export-tagging/reference-index.md).
+- Open when looking up Map styles to export tags - Configure export tagging options for styles in InDesign. [Map styles to export tags - Configure export tagging options for styles](configure-export-tagging-options-for-styles.md).
+- Open when looking up Map styles to export tags - Configure export tagging options for styles in InDesign. [Map styles to export tags - Configure export tagging options for styles references](export-tagging/reference-index.md).
 - Open when looking up Map Word styles to InDesign text styles in InDesign. [Map Word styles to InDesign text styles](map-word-styles-to-in-design-text-styles.md).
 - Open when looking up Override text styles in InDesign. [Override text styles](override-text-styles.md).
 - Open when looking up Override text styles in InDesign. [Override text styles references](override-text-styles/reference-index.md).

@@ -1,4 +1,4 @@
-# Bullets and numbering — Format a bulleted or numbered list
+# Bullets and numbering - Format a bulleted or numbered list
 
 Using the Type tool , select the bulleted or numbered paragraphs that need new formatting. Open the Bullets And Numbering dialog box using either route:
 

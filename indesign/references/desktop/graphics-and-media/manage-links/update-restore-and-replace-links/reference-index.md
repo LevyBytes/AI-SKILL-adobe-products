@@ -1,4 +1,4 @@
-# InDesign — Update, restore, and replace links
+# InDesign - Update, restore, and replace links
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Replace a link with a different source file in InDesign. [Replace a link with a different source file](replace-a-link-with-a-different-source-file.md).

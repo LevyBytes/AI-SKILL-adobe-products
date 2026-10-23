@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../../pdf-services/examples/dotnet/merge-customer-data/Program.cs)
+- [merge-customer-data setup and source](../../pdf-services/examples/dotnet/merge-customer-data/merge-customer-data-setup.md)

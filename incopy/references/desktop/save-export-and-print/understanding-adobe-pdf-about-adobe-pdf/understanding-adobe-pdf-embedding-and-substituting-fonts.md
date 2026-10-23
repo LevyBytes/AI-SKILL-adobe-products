@@ -1,4 +1,4 @@
-# Understanding Adobe PDF — Embedding and substituting fonts
+# Understanding Adobe PDF - Embedding and substituting fonts
 
 InCopy embeds a font only when the font vendor has included a setting that allows embedding. Embedding keeps a reader's system from substituting another font during viewing or printing, so the text appears in its original typeface. File size rises only a little, except when the document uses CID (multibyte) fonts, a font format often used for Asian languages in which several characters combine into one glyph.
 

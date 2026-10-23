@@ -1,4 +1,4 @@
-# Firefly — Custom Models
+# Firefly - Custom Models
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Asset IDs in Firefly. [Asset IDs](asset-ids.md).

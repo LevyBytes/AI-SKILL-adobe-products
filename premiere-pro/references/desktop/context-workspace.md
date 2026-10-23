@@ -1,6 +1,6 @@
-# Premiere Pro — Desktop workflows: workspace, panels and keyboard interaction
+# Premiere Pro - Desktop workflows: workspace, panels and keyboard interaction
 
-Open when working with workspace, panels and keyboard interaction in Premiere Pro — Desktop workflows.
+Open when working with workspace, panels and keyboard interaction in Premiere Pro - Desktop workflows.
 
 Open when selecting an exact reference: [Topic catalog](context-workspace.json).
 

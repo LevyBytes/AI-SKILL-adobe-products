@@ -1,4 +1,4 @@
-# InDesign — Character formatting
+# InDesign - Character formatting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust line spacing with leading in InDesign. [Adjust line spacing with leading](adjust-line-spacing-with-leading.md).

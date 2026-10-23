@@ -1,6 +1,6 @@
-# Shared Adobe platform — ChangeGrepPreference: character spacing and geometry
+# Shared Adobe platform - ChangeGrepPreference: character spacing and geometry
 
-Open when checking character spacing and geometry in Shared Adobe platform — ChangeGrepPreference.
+Open when checking character spacing and geometry in Shared Adobe platform - ChangeGrepPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-character-metrics.json).
 

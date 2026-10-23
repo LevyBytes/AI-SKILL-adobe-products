@@ -1,6 +1,6 @@
-# InDesign — Story: text ranges and containers
+# InDesign - Story: text ranges and containers
 
-Open when checking text ranges and containers in InDesign — Story.
+Open when checking text ranges and containers in InDesign - Story.
 
 Open when selecting an exact API member: [Topic catalog](context-text-ranges.json).
 

@@ -1,4 +1,4 @@
-# Shared Adobe platform — Polygons
+# Shared Adobe platform - Polygons
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Polygons collection iteration in Shared Adobe platform. [Polygons collection iteration](collection-iteration.md).

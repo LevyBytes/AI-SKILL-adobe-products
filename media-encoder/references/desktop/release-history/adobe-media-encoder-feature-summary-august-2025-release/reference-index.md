@@ -1,4 +1,4 @@
-# Media Encoder — Adobe Media Encoder feature summary (August 2025 release)
+# Media Encoder - Adobe Media Encoder feature summary (August 2025 release)
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ARRIRAW HDE decoding support in Media Encoder. [ARRIRAW HDE decoding support](arriraw-hde-decoding-support.md).

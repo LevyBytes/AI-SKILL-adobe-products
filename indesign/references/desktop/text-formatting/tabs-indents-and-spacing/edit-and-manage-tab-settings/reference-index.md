@@ -1,4 +1,4 @@
-# InDesign — Edit and manage tab settings
+# InDesign - Edit and manage tab settings
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Change tab alignment in InDesign. [Change tab alignment](change-tab-alignment.md).

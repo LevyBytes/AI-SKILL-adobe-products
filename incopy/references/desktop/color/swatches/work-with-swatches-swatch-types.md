@@ -1,4 +1,4 @@
-# Work with swatches — Swatch types
+# Work with swatches - Swatch types
 
 The Swatches panel can hold these swatch categories:
 

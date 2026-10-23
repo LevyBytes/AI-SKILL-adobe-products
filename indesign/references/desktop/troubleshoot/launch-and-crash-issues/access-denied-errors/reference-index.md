@@ -1,4 +1,4 @@
-# InDesign — Access denied errors
+# InDesign - Access denied errors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access to the file, folder, or network location is restricted in InDesign. [Access to the file, folder, or network location is restricted](access-to-the-file-folder-or-network-location-is-restricted.md).

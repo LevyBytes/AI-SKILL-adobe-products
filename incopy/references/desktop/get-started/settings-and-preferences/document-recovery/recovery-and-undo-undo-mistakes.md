@@ -1,4 +1,4 @@
-# Recovery and undo — Undo mistakes
+# Recovery and undo - Undo mistakes
 
 For long-running commands, you can stop the operation before it finishes, reverse recent edits, or return to a saved version. InCopy can undo or redo several hundred recent actions, with the exact depth depending on available RAM and the action types involved. That action history is cleared when you use Save As, close the document, or quit the program.
 

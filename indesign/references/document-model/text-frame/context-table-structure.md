@@ -1,6 +1,6 @@
-# InDesign — TextFrame: table cells, rows and columns
+# InDesign - TextFrame: table cells, rows and columns
 
-Open when checking table cells, rows and columns in InDesign — TextFrame.
+Open when checking table cells, rows and columns in InDesign - TextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-table-structure.json).
 

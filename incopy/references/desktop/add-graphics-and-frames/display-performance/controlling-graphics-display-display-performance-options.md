@@ -1,4 +1,4 @@
-# Controlling graphics display — Display performance options
+# Controlling graphics display - Display performance options
 
 The settings below change only the on-screen presentation of graphics; they do not change print quality or exported output.
 

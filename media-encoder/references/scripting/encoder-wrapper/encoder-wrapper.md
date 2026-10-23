@@ -1,4 +1,4 @@
-# Adobe Media Encoder (AME) Scripting API Reference (A-Z) — EncoderWrapper
+# Adobe Media Encoder (AME) Scripting API Reference (A-Z) - EncoderWrapper
 
 Queue item object used to configure encode properties.
 

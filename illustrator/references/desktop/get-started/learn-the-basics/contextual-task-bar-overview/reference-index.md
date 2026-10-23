@@ -1,4 +1,4 @@
-# Illustrator — Contextual Task Bar overview
+# Illustrator - Contextual Task Bar overview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Basic shape tools in Illustrator. [Basic shape tools](basic-shape-tools.md).

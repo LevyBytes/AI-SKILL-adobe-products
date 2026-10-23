@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: cloud documents, libraries and collaboration
+# Shared Adobe platform - Application: cloud documents, libraries and collaboration
 
-Open when checking cloud documents, libraries and collaboration in Shared Adobe platform — Application.
+Open when checking cloud documents, libraries and collaboration in Shared Adobe platform - Application.
 
 Open when selecting an exact API member: [Topic catalog](context-cloud-and-collaboration.json).
 

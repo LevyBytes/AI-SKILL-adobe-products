@@ -1,6 +1,6 @@
-# InDesign — WMF: output color, screening and overprint
+# InDesign - WMF: output color, screening and overprint
 
-Open when checking output color, screening and overprint in InDesign — WMF.
+Open when checking output color, screening and overprint in InDesign - WMF.
 
 Open when selecting an exact API member: [Topic catalog](context-print-color.json).
 

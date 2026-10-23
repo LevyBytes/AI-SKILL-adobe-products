@@ -1,4 +1,4 @@
-# UXP for CEP Developers — Goodbye CEP
+# UXP for CEP Developers - Goodbye CEP
 
 The Common Extensibility Platform became the preferred route for plugin developers who needed more than a minimal UI. Photoshop will retain it for now, but the path is expected to move through deprecation and eventual removal.
 

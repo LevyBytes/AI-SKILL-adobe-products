@@ -1,4 +1,4 @@
-# Shared Adobe platform — PrintFormBehaviors
+# Shared Adobe platform - PrintFormBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up PrintFormBehaviors collection iteration in Shared Adobe platform. [PrintFormBehaviors collection iteration](collection-iteration.md).

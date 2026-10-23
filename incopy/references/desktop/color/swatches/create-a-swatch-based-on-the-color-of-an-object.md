@@ -1,4 +1,4 @@
-# Work with swatches — Create a swatch based on the color of an object
+# Work with swatches - Create a swatch based on the color of an object
 
 Choose the object. In either the Toolbox or the Swatches panel, activate the Fill box or Stroke box. From the Swatches panel, use one of these methods:
 

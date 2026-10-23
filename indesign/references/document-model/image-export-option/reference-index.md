@@ -1,4 +1,4 @@
-# InDesign — ImageExportOption
+# InDesign - ImageExportOption
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LINK_TO_SERVER in InDesign. [LINK_TO_SERVER](linktoserver.md).

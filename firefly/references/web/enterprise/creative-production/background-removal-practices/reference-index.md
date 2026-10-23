@@ -1,4 +1,4 @@
-# Firefly — Best practices for background removal in Creative Production
+# Firefly - Best practices for background removal in Creative Production
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Complex backgrounds in Firefly. [Complex backgrounds](complex-backgrounds.md).

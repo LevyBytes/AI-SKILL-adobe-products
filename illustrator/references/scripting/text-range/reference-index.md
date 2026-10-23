@@ -1,4 +1,4 @@
-# Illustrator — TextRange
+# Illustrator - TextRange
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up TextRange.changeCaseTo() in Illustrator. [TextRange.changeCaseTo()](change-case-to.md).

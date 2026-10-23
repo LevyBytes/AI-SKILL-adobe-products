@@ -1,4 +1,4 @@
-# InDesign — VersionState
+# InDesign - VersionState
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up LOCAL_NEWER in InDesign. [LOCAL_NEWER](localnewer.md).

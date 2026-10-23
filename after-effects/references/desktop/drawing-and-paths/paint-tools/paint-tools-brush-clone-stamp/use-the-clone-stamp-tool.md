@@ -18,7 +18,7 @@ To copy one entire cow—a job nearly impossible in a single unbroken stroke—t
 
 Turning on Lock Source Time clones just one source frame (taken at composition time Source Time); leave Lock Source Time off and successive frames are cloned, separated from the target frame by a time offset (Source Time Shift). Once the sampling point runs past the end of the source layer's duration, the clone source time wraps automatically back to the original sample point. That looping comes in handy when the target layer needs many frames repaired but the source layer offers only a handful of good ones.
 
-1. Open the composition holding both layers—source and target alike.
+1. Open the composition holding both layers: source and target alike.
    Bring the source layer up in a Layer panel and slide the current-time indicator to whichever frame should begin the sampling.
 
 In the Paint panel you steer where sampling starts, in both time and coordinates, by editing four values: Offset, Source Time Shift, Source Position, and Source Time. The Reset button returns them all to zero.

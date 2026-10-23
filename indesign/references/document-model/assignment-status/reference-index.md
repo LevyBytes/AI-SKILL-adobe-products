@@ -1,4 +1,4 @@
-# InDesign — AssignmentStatus
+# InDesign - AssignmentStatus
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up ASSIGNMENT_FILE_MISSING in InDesign. [ASSIGNMENT_FILE_MISSING](assignmentfilemissing.md).

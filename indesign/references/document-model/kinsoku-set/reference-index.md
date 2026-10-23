@@ -1,4 +1,4 @@
-# InDesign — KinsokuSet
+# InDesign - KinsokuSet
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up HARD_KINSOKU in InDesign. [HARD_KINSOKU](hardkinsoku.md).

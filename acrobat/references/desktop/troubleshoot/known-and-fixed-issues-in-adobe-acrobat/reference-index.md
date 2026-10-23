@@ -1,4 +1,4 @@
-# Acrobat — Known and fixed issues in Adobe Acrobat
+# Acrobat - Known and fixed issues in Adobe Acrobat
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat crashes while using an ImageRight plugin in Acrobat. [Acrobat crashes while using an ImageRight plugin](acrobat-crashes-while-using-an-image-right-plugin.md).

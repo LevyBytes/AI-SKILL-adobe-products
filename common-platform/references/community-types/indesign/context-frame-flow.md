@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: text frames, wrapping and autosizing
+# Shared Adobe platform - Indesign: text frames, wrapping and autosizing
 
-Open when working with text frames, wrapping and autosizing in Shared Adobe platform — Indesign.
+Open when working with text frames, wrapping and autosizing in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-frame-flow.json).
 

@@ -1,4 +1,4 @@
-# After Effects — Working with After Effects and other applications
+# After Effects - Working with After Effects and other applications
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Browse animation presets using Adobe Bridge in After Effects. [Browse animation presets using Adobe Bridge](browse-animation-presets-using-adobe-bridge.md).

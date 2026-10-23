@@ -1,4 +1,4 @@
-# InDesign — Add text, graphics, and headers to tables
+# InDesign - Add text, graphics, and headers to tables
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add graphics from CC Libraries in InDesign. [Add graphics from CC Libraries](add-graphics-from-cc-libraries.md).

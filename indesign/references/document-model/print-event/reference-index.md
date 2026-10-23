@@ -1,4 +1,4 @@
-# InDesign — PrintEvent
+# InDesign - PrintEvent
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up AFTER_PRINT in InDesign. [AFTER_PRINT](afterprint.md).

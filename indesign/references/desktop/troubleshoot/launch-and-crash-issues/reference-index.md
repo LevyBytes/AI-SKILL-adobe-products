@@ -1,4 +1,4 @@
-# InDesign — Launch and crash issues
+# InDesign - Launch and crash issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Access denied errors in InDesign. [Access denied errors](access-denied-errors.md).

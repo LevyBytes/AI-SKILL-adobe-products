@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: kenten emphasis
+# Shared Adobe platform - TextDefault: kenten emphasis
 
-Open when checking kenten emphasis in Shared Adobe platform — TextDefault.
+Open when checking kenten emphasis in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-kenten-emphasis.json).
 

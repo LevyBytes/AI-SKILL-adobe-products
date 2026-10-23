@@ -1,4 +1,4 @@
-# Work with swatches — Create a new color swatch
+# Work with swatches - Create a new color swatch
 
 Choose New Color Swatch from the Swatches panel menu. For Color Type, select the printing method used for document colors on a printing press. For Swatch Name, use the appropriate option:
 

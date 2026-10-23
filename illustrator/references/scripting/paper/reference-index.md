@@ -1,4 +1,4 @@
-# Illustrator — Paper
+# Illustrator - Paper
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Paper.name in Illustrator. [Paper.name](name.md).

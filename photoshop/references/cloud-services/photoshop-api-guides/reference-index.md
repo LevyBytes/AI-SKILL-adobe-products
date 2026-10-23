@@ -1,4 +1,4 @@
-# Photoshop — Photoshop API guides
+# Photoshop - Photoshop API guides
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Migration (v1 to v2) in Photoshop. [Migration (v1 to v2)](migration-v1-to-v2.md).

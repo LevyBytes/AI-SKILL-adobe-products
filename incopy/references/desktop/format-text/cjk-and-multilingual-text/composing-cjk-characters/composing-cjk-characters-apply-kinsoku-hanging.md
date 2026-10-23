@@ -1,4 +1,4 @@
-# Composing CJK characters — Apply kinsoku hanging
+# Composing CJK characters - Apply kinsoku hanging
 
 Hanging determines if Japanese punctuation marks, including periods and commas, can sit outside the margin while aligning to the text-frame edge. Define hanging characters through Hanging Punctuation in the Kinsoku Settings dialog box.
 

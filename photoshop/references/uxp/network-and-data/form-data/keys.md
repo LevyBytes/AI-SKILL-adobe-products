@@ -1,4 +1,4 @@
-# window.FormData — keys()
+# window.FormData - keys()
 
 Provides an iterator over every key in FormData.
 String values make up the keys.

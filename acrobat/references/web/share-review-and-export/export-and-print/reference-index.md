@@ -1,4 +1,4 @@
-# Acrobat — Export and print
+# Acrobat - Export and print
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Acrobat Export PDF subscription overview in Acrobat. [Acrobat Export PDF subscription overview](acrobat-export-pdf-subscription-overview.md).

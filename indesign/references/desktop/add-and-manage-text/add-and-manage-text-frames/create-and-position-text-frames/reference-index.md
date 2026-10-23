@@ -1,4 +1,4 @@
-# InDesign — Create and position text frames
+# InDesign - Create and position text frames
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Create a text frame in InDesign. [Create a text frame](create-a-text-frame.md).

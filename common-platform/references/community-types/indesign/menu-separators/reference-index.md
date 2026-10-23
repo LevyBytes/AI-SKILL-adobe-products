@@ -1,4 +1,4 @@
-# Shared Adobe platform — MenuSeparators
+# Shared Adobe platform - MenuSeparators
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up MenuSeparators collection iteration in Shared Adobe platform. [MenuSeparators collection iteration](collection-iteration.md).

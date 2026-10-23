@@ -1,7 +1,7 @@
-# Premiere Pro — Footage interpretation
+# Premiere Pro - Footage interpretation
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up FootageInterpretation — Properties in Premiere Pro. [FootageInterpretation — Properties](footage-interpretation-properties.md).
+- Open when looking up FootageInterpretation - Properties in Premiere Pro. [FootageInterpretation - Properties](footage-interpretation-properties.md).
 - Open when looking up getAlphaUsage in Premiere Pro. [getAlphaUsage](get-alpha-usage.md).
 - Open when looking up getFieldType in Premiere Pro. [getFieldType](get-field-type.md).
 - Open when looking up getFrameRate in Premiere Pro. [getFrameRate](get-frame-rate.md).

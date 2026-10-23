@@ -1,4 +1,4 @@
-# Shared Adobe platform — Bookmark
+# Shared Adobe platform - Bookmark
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Bookmark declaration in Shared Adobe platform. [Bookmark declaration](declaration.md).

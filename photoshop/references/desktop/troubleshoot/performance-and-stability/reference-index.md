@@ -1,4 +1,4 @@
-# Photoshop — Performance and stability issues
+# Photoshop - Performance and stability issues
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Known issues in Adobe Photoshop on desktop in Photoshop. [Known issues in Adobe Photoshop on desktop](known-issues-in-adobe-photoshop-on-desktop.md).

@@ -1,4 +1,4 @@
-# Checking spelling — Remove or edit words in dictionaries
+# Checking spelling - Remove or edit words in dictionaries
 
 Open Edit > Spelling > User Dictionary. In the Language menu, pick a language. In the Target menu, choose the dictionary that contains the word you want to remove. The Target menu can point to an external user dictionary or to any open document. In the Dictionary List menu, use one of these choices:
 

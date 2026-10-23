@@ -1,4 +1,4 @@
-# Glyphs and special characters — Insert a recently used glyph
+# Glyphs and special characters - Insert a recently used glyph
 
 InCopy keeps the last 35 unique glyphs you inserted and exposes them in Recently Used on the first row of the Glyphs panel; expand the panel to view all 35 entries in that row.
 

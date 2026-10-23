@@ -1,6 +1,6 @@
-# InDesign — Properties: flex layout and alignment
+# InDesign - Properties: flex layout and alignment
 
-Open when working with flex layout and alignment in InDesign — Properties.
+Open when working with flex layout and alignment in InDesign - Properties.
 
 Open when selecting an exact reference: [Topic catalog](context-flex-layout.json).
 

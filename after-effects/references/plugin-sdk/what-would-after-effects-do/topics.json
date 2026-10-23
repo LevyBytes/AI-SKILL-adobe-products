@@ -1,4 +1,4 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
-  {"topic": "AEIOs — What Would After Effects Do?", "file": "references/plugin-sdk/what-would-after-effects-do/aeios-what-would-after-effects-do.md", "summary": "Open when looking up AEIOs — What Would After Effects Do? in After Effects.", "keywords": ["AEIOs — What Would After Effects Do?"]},
+  {"topic": "AEIOs - What Would After Effects Do?", "file": "references/plugin-sdk/what-would-after-effects-do/aeios-what-would-after-effects-do.md", "summary": "Open when looking up AEIOs - What Would After Effects Do? in After Effects.", "keywords": ["AEIOs - What Would After Effects Do?"]},
   {"topic": "Reference Language Selection", "file": "references/languages.md", "summary": "Open when you need a language version of references other than English.", "keywords": ["reference language", "translated references"]}
 ]}

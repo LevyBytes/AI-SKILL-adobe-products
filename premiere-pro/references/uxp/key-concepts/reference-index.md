@@ -1,4 +1,4 @@
-# Premiere Pro — Key Concepts
+# Premiere Pro - Key Concepts
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up index.html in Premiere Pro. [index.html](index-html.md).

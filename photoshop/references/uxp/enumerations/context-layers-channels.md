@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: layers, channels and compositing
+# Photoshop - Enumerations: layers, channels and compositing
 
-Open when working with layers, channels and compositing in Photoshop — Enumerations.
+Open when working with layers, channels and compositing in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-layers-channels.json).
 

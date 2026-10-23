@@ -1,6 +1,6 @@
-# Photoshop — Enumerations: paragraphs and writing systems
+# Photoshop - Enumerations: paragraphs and writing systems
 
-Open when working with paragraphs and writing systems in Photoshop — Enumerations.
+Open when working with paragraphs and writing systems in Photoshop - Enumerations.
 
 Open when selecting an exact reference: [Topic catalog](context-paragraph-language.json).
 

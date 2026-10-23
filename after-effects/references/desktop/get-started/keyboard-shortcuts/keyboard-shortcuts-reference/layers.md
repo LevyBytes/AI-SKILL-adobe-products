@@ -41,7 +41,7 @@ After Effects layer shortcuts, part one. Bear in mind that a handful of these op
 | Step through blending modes forward or backward for the selected layers | Shift + - (hyphen) or Shift + = (equal sign) on the main keyboard | Shift + - (hyphen) or Shift + = (equal sign) on the main keyboard |
 | Search within the Timeline panel | Ctrl + F | Command + F |
 
-After Effects layer shortcuts, part two — the remaining rows from the layers table.
+After Effects layer shortcuts, part two: the remaining rows from the layers table.
 
 | Action | Windows | macOS |
 | --- | --- | --- |

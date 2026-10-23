@@ -1,6 +1,6 @@
-# InDesign — Eps text: generate qr codes
+# InDesign - Eps text: generate qr codes
 
-Open when checking generate qr codes in InDesign — Eps text.
+Open when checking generate qr codes in InDesign - Eps text.
 
 Open when selecting an exact API member: [Topic catalog](context-qr-codes.json).
 

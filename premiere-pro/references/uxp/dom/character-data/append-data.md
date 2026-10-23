@@ -1,4 +1,4 @@
-# window.CharacterData — appendData(arg)
+# window.CharacterData - appendData(arg)
 
 | Param | Type |
 | --- | --- |

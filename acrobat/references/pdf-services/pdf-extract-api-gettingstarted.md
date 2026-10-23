@@ -1,4 +1,4 @@
-# Pdf Extract Api — Gettingstarted
+# Pdf Extract Api - Gettingstarted
 
 > Adobe Acrobat reference. Original prose; identifiers preserved verbatim.
 

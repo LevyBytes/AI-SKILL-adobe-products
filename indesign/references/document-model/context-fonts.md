@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: fonts, glyphs and opentype
+# InDesign - InDesign document object model: fonts, glyphs and opentype
 
-Open when working with fonts, glyphs and opentype in InDesign — InDesign document object model.
+Open when working with fonts, glyphs and opentype in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-fonts.json).
 

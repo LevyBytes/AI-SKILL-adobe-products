@@ -1,4 +1,4 @@
-# Premiere Pro — Search options in Premiere
+# Premiere Pro - Search options in Premiere
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Filtering and columns in Premiere Pro. [Filtering and columns](filtering-and-columns.md).

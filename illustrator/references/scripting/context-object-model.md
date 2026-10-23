@@ -1,6 +1,6 @@
-# Illustrator — Scripting APIs: object model, collections and references
+# Illustrator - Scripting APIs: object model, collections and references
 
-Open when working with object model, collections and references in Illustrator — Scripting APIs.
+Open when working with object model, collections and references in Illustrator - Scripting APIs.
 
 Open when selecting an exact reference: [Topic catalog](context-object-model.json).
 

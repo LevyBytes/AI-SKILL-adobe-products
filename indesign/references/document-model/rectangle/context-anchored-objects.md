@@ -1,6 +1,6 @@
-# InDesign — Rectangle: anchored object placement
+# InDesign - Rectangle: anchored object placement
 
-Open when checking anchored object placement in InDesign — Rectangle.
+Open when checking anchored object placement in InDesign - Rectangle.
 
 Open when selecting an exact API member: [Topic catalog](context-anchored-objects.json).
 

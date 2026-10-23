@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: language and writing direction
+# Shared Adobe platform - Indesign: language and writing direction
 
-Open when working with language and writing direction in Shared Adobe platform — Indesign.
+Open when working with language and writing direction in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-language-direction.json).
 

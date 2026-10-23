@@ -1,4 +1,4 @@
-# Importing graphics — Bitmap import options
+# Importing graphics - Bitmap import options
 
 For individual imported graphics, color-management choices can be applied when the document is being handled with color-management tools. You can also bring in a clipping path or alpha channel stored with an image made in Photoshop. That allows direct selection of the image and path edits without changing the graphics frame.
 

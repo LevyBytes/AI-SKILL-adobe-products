@@ -1,4 +1,4 @@
-# Premiere Pro — Create projects
+# Premiere Pro - Create projects
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Backward compatibility of projects in Premiere Pro. [Backward compatibility of projects](backward-compatibility-of-projects.md).

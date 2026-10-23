@@ -1,6 +1,6 @@
-# Shared Adobe platform — CEP and ExtendScript integration: cep setup and development
+# Shared Adobe platform - CEP and ExtendScript integration: cep setup and development
 
-Open when working with cep setup and development in Shared Adobe platform — CEP and ExtendScript integration.
+Open when working with cep setup and development in Shared Adobe platform - CEP and ExtendScript integration.
 
 Open when selecting an exact reference: [Topic catalog](context-start.json).
 

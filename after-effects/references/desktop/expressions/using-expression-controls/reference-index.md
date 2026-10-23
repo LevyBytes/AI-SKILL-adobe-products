@@ -1,4 +1,4 @@
-# After Effects — Using expression controls
+# After Effects - Using expression controls
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 3D Point Control in After Effects. [3D Point Control](3-d-point-control.md).

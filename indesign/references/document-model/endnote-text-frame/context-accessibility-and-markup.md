@@ -1,6 +1,6 @@
-# InDesign — EndnoteTextFrame: accessibility, tagging and xml
+# InDesign - EndnoteTextFrame: accessibility, tagging and xml
 
-Open when checking accessibility, tagging and xml in InDesign — EndnoteTextFrame.
+Open when checking accessibility, tagging and xml in InDesign - EndnoteTextFrame.
 
 Open when selecting an exact API member: [Topic catalog](context-accessibility-and-markup.json).
 

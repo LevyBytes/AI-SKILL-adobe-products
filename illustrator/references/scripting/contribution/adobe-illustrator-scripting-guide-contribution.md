@@ -1,4 +1,4 @@
-# Adobe Illustrator Scripting Guide — Contribution
+# Adobe Illustrator Scripting Guide - Contribution
 
 The project is mainly operated and sustained by its community; contributors are invited to send fixes, refinements, notes/warnings, and other improvements that would benefit the project.
 

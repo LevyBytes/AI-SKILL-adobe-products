@@ -1,4 +1,4 @@
-# Stand-alone documents — Linking InCopy files to InDesign
+# Stand-alone documents - Linking InCopy files to InDesign
 
 After you connect a stand-alone InCopy story to an InDesign document, formatting from InDesign takes precedence over the story's own layout and design settings.
 

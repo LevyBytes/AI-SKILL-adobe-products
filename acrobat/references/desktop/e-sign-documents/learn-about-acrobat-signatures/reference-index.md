@@ -1,4 +1,4 @@
-# Acrobat — Learn about Acrobat signatures
+# Acrobat - Learn about Acrobat signatures
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Digital signatures overview in Acrobat. [Digital signatures overview](digital-signatures-overview.md).

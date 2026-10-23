@@ -1,6 +1,6 @@
-# InDesign — XmlStory: paragraph rules
+# InDesign - XmlStory: paragraph rules
 
-Open when checking paragraph rules in InDesign — XmlStory.
+Open when checking paragraph rules in InDesign - XmlStory.
 
 Open when selecting an exact API member: [Topic catalog](context-paragraph-rules.json).
 

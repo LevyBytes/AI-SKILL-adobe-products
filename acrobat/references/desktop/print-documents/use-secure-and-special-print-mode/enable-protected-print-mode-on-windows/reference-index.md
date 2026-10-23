@@ -1,4 +1,4 @@
-# Acrobat — Enable protected print mode on Windows
+# Acrobat - Enable protected print mode on Windows
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Enable WPP mode in Acrobat. [Enable WPP mode](enable-wpp-mode.md).

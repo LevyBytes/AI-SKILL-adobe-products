@@ -1,4 +1,4 @@
-# InDesign — Create lines and shapes
+# InDesign - Create lines and shapes
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Combine and convert paths in InDesign. [Combine and convert paths](combine-and-convert-paths.md).

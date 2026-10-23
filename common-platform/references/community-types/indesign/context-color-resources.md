@@ -1,6 +1,6 @@
-# Shared Adobe platform — Indesign: colors, swatches, inks and gradients
+# Shared Adobe platform - Indesign: colors, swatches, inks and gradients
 
-Open when working with colors, swatches, inks and gradients in Shared Adobe platform — Indesign.
+Open when working with colors, swatches, inks and gradients in Shared Adobe platform - Indesign.
 
 Open when selecting an exact reference: [Topic catalog](context-color-resources.json).
 

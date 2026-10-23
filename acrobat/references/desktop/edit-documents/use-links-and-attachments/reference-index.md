@@ -1,4 +1,4 @@
-# Acrobat — Use links and attachments
+# Acrobat - Use links and attachments
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add attachments to PDFs in Acrobat. [Add attachments to PDFs](add-attachments-to-pdfs.md).

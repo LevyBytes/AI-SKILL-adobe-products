@@ -1,4 +1,4 @@
-# Acrobat — Legacy to Modern Viewer
+# Acrobat - Legacy to Modern Viewer
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Deprecated Features in Acrobat. [Deprecated Features](deprecated-features.md).

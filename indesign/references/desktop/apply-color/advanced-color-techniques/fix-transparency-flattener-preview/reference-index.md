@@ -1,4 +1,4 @@
-# InDesign — Fix transparency flattener preview
+# InDesign - Fix transparency flattener preview
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Adjust preview settings to fix display issues in InDesign. [Adjust preview settings to fix display issues](adjust-preview-settings-to-fix-display-issues.md).

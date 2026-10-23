@@ -1,4 +1,4 @@
 # .NET
-Complete example files:
+Example setup and source:
 
-- [Program.cs](../examples/dotnet/dynamic-html-to-pdf/Program.cs)
+- [dynamic-html-to-pdf setup and source](../examples/dotnet/dynamic-html-to-pdf/dynamic-html-to-pdf-setup.md)

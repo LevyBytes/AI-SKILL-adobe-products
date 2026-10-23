@@ -1,4 +1,4 @@
-# Table and cell styles — Apply table and cell styles
+# Table and cell styles - Apply table and cell styles
 
 Paragraph and character styles behave differently from table and cell styles: table and cell styles do not share attributes. Applying a table style therefore leaves cell formatting intact, and applying a cell style leaves table formatting intact. By default, when you apply a cell style, formatting from any previous cell style is removed while local cell formatting remains. Applying a table style likewise removes formatting from any previous table style, but overrides made in the Table Options dialog box remain.
 

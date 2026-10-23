@@ -1,4 +1,4 @@
-# Acrobat — Manage PDF layers
+# Acrobat - Manage PDF layers
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Control layer visibility in Acrobat. [Control layer visibility](control-layer-visibility.md).

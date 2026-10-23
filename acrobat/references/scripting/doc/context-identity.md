@@ -1,6 +1,6 @@
-# Acrobat — Doc: document identity, metadata and state
+# Acrobat - Doc: document identity, metadata and state
 
-Open when working with document identity, metadata and state in Acrobat — Doc.
+Open when working with document identity, metadata and state in Acrobat - Doc.
 
 Open when selecting an exact reference: [Topic catalog](context-identity.json).
 
@@ -10,7 +10,7 @@ Open when selecting an exact reference: [Topic catalog](context-identity.json).
 - Open when looking up creator in Acrobat [creator](creator.md).
 - Open when looking up dirty in Acrobat [dirty](dirty.md).
 - Open when looking up disclosed in Acrobat [disclosed](disclosed.md).
-- Open when looking up Doc and Doc.Media APIs — Doc in Acrobat [Doc and Doc.Media APIs — Doc](doc-and-doc-media-apis-doc.md).
+- Open when looking up Doc and Doc.Media APIs - Doc in Acrobat [Doc and Doc.Media APIs - Doc](doc-and-doc-media-apis-doc.md).
 - Open when looking up docID in Acrobat [docID](doc-id.md).
 - Open when looking up documentFileName in Acrobat [documentFileName](document-file-name.md).
 - Open when looking up external in Acrobat [external](external.md).

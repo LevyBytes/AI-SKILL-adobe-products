@@ -1,4 +1,4 @@
-# Formatting CJK characters — Use tate-chu-yoko
+# Formatting CJK characters - Use tate-chu-yoko
 
 Tate-chu-yoko, also called kumimoji or renmoji, makes selected text run horizontally inside vertical text. In a vertical text frame, rotating half-width content, including numbers, dates, and short foreign words, makes it easier to read.
 

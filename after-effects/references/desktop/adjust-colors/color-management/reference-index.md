@@ -1,4 +1,4 @@
-# After Effects — Color management
+# After Effects - Color management
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Assign an output color profile in After Effects. [Assign an output color profile](assign-an-output-color-profile.md).

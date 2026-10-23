@@ -1,7 +1,7 @@
 {"schema_version": 1, "owner": "after-effects", "topics": [
   {"topic": "area_sample", "file": "references/plugin-sdk/sampling-images/areasample.md", "summary": "Open when looking up area_sample in After Effects.", "keywords": ["area_sample"]},
   {"topic": "area_sample16", "file": "references/plugin-sdk/sampling-images/areasample16.md", "summary": "Open when looking up area_sample16 in After Effects.", "keywords": ["area_sample16"]},
-  {"topic": "Graphics Utility Suites — Sampling Images", "file": "references/plugin-sdk/sampling-images/graphics-utility-suites-sampling-images.md", "summary": "Open when looking up Graphics Utility Suites — Sampling Images in After Effects.", "keywords": ["Graphics Utility Suites — Sampling Images"]},
+  {"topic": "Graphics Utility Suites - Sampling Images", "file": "references/plugin-sdk/sampling-images/graphics-utility-suites-sampling-images.md", "summary": "Open when looking up Graphics Utility Suites - Sampling Images in After Effects.", "keywords": ["Graphics Utility Suites - Sampling Images"]},
   {"topic": "nn_sample", "file": "references/plugin-sdk/sampling-images/nnsample.md", "summary": "Open when looking up nn_sample in After Effects.", "keywords": ["nn_sample"]},
   {"topic": "nn_sample16", "file": "references/plugin-sdk/sampling-images/nnsample16.md", "summary": "Open when looking up nn_sample16 in After Effects.", "keywords": ["nn_sample16"]},
   {"topic": "nn_sample_float", "file": "references/plugin-sdk/sampling-images/nnsamplefloat.md", "summary": "Open when looking up nn_sample_float in After Effects.", "keywords": ["nn_sample_float"]},

@@ -1,4 +1,4 @@
-# Editing text — Transpose characters
+# Editing text - Transpose characters
 
 The Transpose command fixes two neighboring characters that were typed in the wrong order. For instance, if 1243 was entered instead of 1234, Transpose swaps the 4 and the 3.
 

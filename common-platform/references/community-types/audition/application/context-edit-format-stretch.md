@@ -1,6 +1,6 @@
-# Shared Adobe platform — Application: sample formats, channels and time stretching
+# Shared Adobe platform - Application: sample formats, channels and time stretching
 
-Open when working with sample formats, channels and time stretching in Shared Adobe platform — Application.
+Open when working with sample formats, channels and time stretching in Shared Adobe platform - Application.
 
 Open when selecting an exact reference: [Topic catalog](context-edit-format-stretch.json).
 

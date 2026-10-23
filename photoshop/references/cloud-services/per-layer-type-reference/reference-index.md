@@ -1,4 +1,4 @@
-# Photoshop — 7. Per-layer-type reference
+# Photoshop - 7. Per-layer-type reference
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up 7a. Adjustment layers (adjustmentLayer → adjustment_layer) in Photoshop. [7a. Adjustment layers (adjustmentLayer → adjustment_layer)](7a-adjustment-layers-adjustment-layer-adjustmentlayer.md).

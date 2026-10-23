@@ -1,6 +1,6 @@
-# Shared Adobe platform — TextDefault: application session and account
+# Shared Adobe platform - TextDefault: application session and account
 
-Open when checking application session and account in Shared Adobe platform — TextDefault.
+Open when checking application session and account in Shared Adobe platform - TextDefault.
 
 Open when selecting an exact API member: [Topic catalog](context-application-session.json).
 

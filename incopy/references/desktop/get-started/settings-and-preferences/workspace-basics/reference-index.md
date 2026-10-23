@@ -1,39 +1,39 @@
-# InCopy — Workspace Basics
+# InCopy - Workspace Basics
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
-- Open when looking up Workspace basics — (Illustrator) Adjust panel brightness in InCopy. [Workspace basics — (Illustrator) Adjust panel brightness](workspace-basics-illustrator-adjust-panel-brightness.md).
-- Open when looking up Workspace basics — (Photoshop) Restore a saved workspace arrangement in InCopy. [Workspace basics — (Photoshop) Restore a saved workspace arrangement](photoshop-restore-a-saved-workspace-arrangement.md).
-- Open when looking up Workspace basics — Add and remove panels in InCopy. [Workspace basics — Add and remove panels](workspace-basics-add-and-remove-panels.md).
-- Open when looking up Workspace basics — Change Interface preferences in InCopy. [Workspace basics — Change Interface preferences](workspace-basics-change-interface-preferences.md).
-- Open when looking up Workspace basics — Change the active shortcut set in InCopy. [Workspace basics — Change the active shortcut set](workspace-basics-change-the-active-shortcut-set.md).
-- Open when looking up Workspace basics — Collapse and expand panel icons in InCopy. [Workspace basics — Collapse and expand panel icons](workspace-basics-collapse-and-expand-panel-icons.md).
-- Open when looking up Workspace basics — Create a custom menu set in InCopy. [Workspace basics — Create a custom menu set](workspace-basics-create-a-custom-menu-set.md).
-- Open when looking up Workspace basics — Create a new shortcut set in InCopy. [Workspace basics — Create a new shortcut set](workspace-basics-create-a-new-shortcut-set.md).
-- Open when looking up Workspace basics — Create or redefine a shortcut in InCopy. [Workspace basics — Create or redefine a shortcut](workspace-basics-create-or-redefine-a-shortcut.md).
-- Open when looking up Workspace basics — Customize a toolbar in InCopy. [Workspace basics — Customize a toolbar](workspace-basics-customize-a-toolbar.md).
-- Open when looking up Workspace basics — Customize menus in InCopy. [Workspace basics — Customize menus](workspace-basics-customize-menus.md).
-- Open when looking up Workspace basics — Delete a custom workspace in InCopy. [Workspace basics — Delete a custom workspace](workspace-basics-delete-a-custom-workspace.md).
-- Open when looking up Workspace basics — Display or switch workspaces in InCopy. [Workspace basics — Display or switch workspaces](workspace-basics-display-or-switch-workspaces.md).
-- Open when looking up Workspace basics — Display panel options in InCopy. [Workspace basics — Display panel options](workspace-basics-display-panel-options.md).
-- Open when looking up Workspace basics — Dock and undock panels in InCopy. [Workspace basics — Dock and undock panels](workspace-basics-dock-and-undock-panels.md).
-- Open when looking up Workspace basics — Edit or delete a custom menu set in InCopy. [Workspace basics — Edit or delete a custom menu set](workspace-basics-edit-or-delete-a-custom-menu-set.md).
-- Open when looking up Workspace basics — Generate a list of shortcuts in InCopy. [Workspace basics — Generate a list of shortcuts](workspace-basics-generate-a-list-of-shortcuts.md).
-- Open when looking up Workspace basics — Hide or show all panels in InCopy. [Workspace basics — Hide or show all panels](workspace-basics-hide-or-show-all-panels.md).
-- Open when looking up Workspace basics — Manage windows and panels in InCopy. [Workspace basics — Manage windows and panels](workspace-basics-manage-windows-and-panels.md).
-- Open when looking up Workspace basics — Manipulate panel groups in InCopy. [Workspace basics — Manipulate panel groups](workspace-basics-manipulate-panel-groups.md).
-- Open when looking up Workspace basics — Move panels in InCopy. [Workspace basics — Move panels](workspace-basics-move-panels.md).
-- Open when looking up Workspace basics — Rearrange, dock, or float document windows in InCopy. [Workspace basics — Rearrange, dock, or float document windows](workspace-basics-rearrange-dock-or-float-document-windows.md).
-- Open when looking up Workspace basics — Reconfigure the Tools panel in InCopy. [Workspace basics — Reconfigure the Tools panel](workspace-basics-reconfigure-the-tools-panel.md).
-- Open when looking up Workspace basics — Resize panels in InCopy. [Workspace basics — Resize panels](workspace-basics-resize-panels.md).
-- Open when looking up Workspace basics — Restore the default workspace in InCopy. [Workspace basics — Restore the default workspace](workspace-basics-restore-the-default-workspace.md).
-- Open when looking up Workspace basics — Save a custom workspace in InCopy. [Workspace basics — Save a custom workspace](workspace-basics-save-a-custom-workspace.md).
-- Open when looking up Workspace basics — Save and switch workspaces in InCopy. [Workspace basics — Save and switch workspaces](workspace-basics-save-and-switch-workspaces.md).
-- Open when looking up Workspace basics — Select a custom menu set in InCopy. [Workspace basics — Select a custom menu set](workspace-basics-select-a-custom-menu-set.md).
-- Open when looking up Workspace basics — Show hidden menu items in InCopy. [Workspace basics — Show hidden menu items](workspace-basics-show-hidden-menu-items.md).
-- Open when looking up Workspace basics — Show or hide a toolbar in InCopy. [Workspace basics — Show or hide a toolbar](workspace-basics-show-or-hide-a-toolbar.md).
-- Open when looking up Workspace basics — Stack floating panels in InCopy. [Workspace basics — Stack floating panels](workspace-basics-stack-floating-panels.md).
-- Open when looking up Workspace basics — Use context menus in InCopy. [Workspace basics — Use context menus](workspace-basics-use-context-menus.md).
-- Open when looking up Workspace basics — Use keyboard shortcut sets in InCopy. [Workspace basics — Use keyboard shortcut sets](workspace-basics-use-keyboard-shortcut-sets.md).
-- Open when looking up Workspace basics — Use toolbars in InCopy. [Workspace basics — Use toolbars](workspace-basics-use-toolbars.md).
-- Open when looking up Workspace basics — View shortcuts in InCopy. [Workspace basics — View shortcuts](workspace-basics-view-shortcuts.md).
-- Open when looking up Workspace basics — View tool hints in InCopy. [Workspace basics — View tool hints](workspace-basics-view-tool-hints.md).
+- Open when looking up Workspace basics - (Illustrator) Adjust panel brightness in InCopy. [Workspace basics - (Illustrator) Adjust panel brightness](workspace-basics-illustrator-adjust-panel-brightness.md).
+- Open when looking up Workspace basics - (Photoshop) Restore a saved workspace arrangement in InCopy. [Workspace basics - (Photoshop) Restore a saved workspace arrangement](photoshop-restore-a-saved-workspace-arrangement.md).
+- Open when looking up Workspace basics - Add and remove panels in InCopy. [Workspace basics - Add and remove panels](workspace-basics-add-and-remove-panels.md).
+- Open when looking up Workspace basics - Change Interface preferences in InCopy. [Workspace basics - Change Interface preferences](workspace-basics-change-interface-preferences.md).
+- Open when looking up Workspace basics - Change the active shortcut set in InCopy. [Workspace basics - Change the active shortcut set](workspace-basics-change-the-active-shortcut-set.md).
+- Open when looking up Workspace basics - Collapse and expand panel icons in InCopy. [Workspace basics - Collapse and expand panel icons](workspace-basics-collapse-and-expand-panel-icons.md).
+- Open when looking up Workspace basics - Create a custom menu set in InCopy. [Workspace basics - Create a custom menu set](workspace-basics-create-a-custom-menu-set.md).
+- Open when looking up Workspace basics - Create a new shortcut set in InCopy. [Workspace basics - Create a new shortcut set](workspace-basics-create-a-new-shortcut-set.md).
+- Open when looking up Workspace basics - Create or redefine a shortcut in InCopy. [Workspace basics - Create or redefine a shortcut](workspace-basics-create-or-redefine-a-shortcut.md).
+- Open when looking up Workspace basics - Customize a toolbar in InCopy. [Workspace basics - Customize a toolbar](workspace-basics-customize-a-toolbar.md).
+- Open when looking up Workspace basics - Customize menus in InCopy. [Workspace basics - Customize menus](workspace-basics-customize-menus.md).
+- Open when looking up Workspace basics - Delete a custom workspace in InCopy. [Workspace basics - Delete a custom workspace](workspace-basics-delete-a-custom-workspace.md).
+- Open when looking up Workspace basics - Display or switch workspaces in InCopy. [Workspace basics - Display or switch workspaces](workspace-basics-display-or-switch-workspaces.md).
+- Open when looking up Workspace basics - Display panel options in InCopy. [Workspace basics - Display panel options](workspace-basics-display-panel-options.md).
+- Open when looking up Workspace basics - Dock and undock panels in InCopy. [Workspace basics - Dock and undock panels](workspace-basics-dock-and-undock-panels.md).
+- Open when looking up Workspace basics - Edit or delete a custom menu set in InCopy. [Workspace basics - Edit or delete a custom menu set](workspace-basics-edit-or-delete-a-custom-menu-set.md).
+- Open when looking up Workspace basics - Generate a list of shortcuts in InCopy. [Workspace basics - Generate a list of shortcuts](workspace-basics-generate-a-list-of-shortcuts.md).
+- Open when looking up Workspace basics - Hide or show all panels in InCopy. [Workspace basics - Hide or show all panels](workspace-basics-hide-or-show-all-panels.md).
+- Open when looking up Workspace basics - Manage windows and panels in InCopy. [Workspace basics - Manage windows and panels](workspace-basics-manage-windows-and-panels.md).
+- Open when looking up Workspace basics - Manipulate panel groups in InCopy. [Workspace basics - Manipulate panel groups](workspace-basics-manipulate-panel-groups.md).
+- Open when looking up Workspace basics - Move panels in InCopy. [Workspace basics - Move panels](workspace-basics-move-panels.md).
+- Open when looking up Workspace basics - Rearrange, dock, or float document windows in InCopy. [Workspace basics - Rearrange, dock, or float document windows](workspace-basics-rearrange-dock-or-float-document-windows.md).
+- Open when looking up Workspace basics - Reconfigure the Tools panel in InCopy. [Workspace basics - Reconfigure the Tools panel](workspace-basics-reconfigure-the-tools-panel.md).
+- Open when looking up Workspace basics - Resize panels in InCopy. [Workspace basics - Resize panels](workspace-basics-resize-panels.md).
+- Open when looking up Workspace basics - Restore the default workspace in InCopy. [Workspace basics - Restore the default workspace](workspace-basics-restore-the-default-workspace.md).
+- Open when looking up Workspace basics - Save a custom workspace in InCopy. [Workspace basics - Save a custom workspace](workspace-basics-save-a-custom-workspace.md).
+- Open when looking up Workspace basics - Save and switch workspaces in InCopy. [Workspace basics - Save and switch workspaces](workspace-basics-save-and-switch-workspaces.md).
+- Open when looking up Workspace basics - Select a custom menu set in InCopy. [Workspace basics - Select a custom menu set](workspace-basics-select-a-custom-menu-set.md).
+- Open when looking up Workspace basics - Show hidden menu items in InCopy. [Workspace basics - Show hidden menu items](workspace-basics-show-hidden-menu-items.md).
+- Open when looking up Workspace basics - Show or hide a toolbar in InCopy. [Workspace basics - Show or hide a toolbar](workspace-basics-show-or-hide-a-toolbar.md).
+- Open when looking up Workspace basics - Stack floating panels in InCopy. [Workspace basics - Stack floating panels](workspace-basics-stack-floating-panels.md).
+- Open when looking up Workspace basics - Use context menus in InCopy. [Workspace basics - Use context menus](workspace-basics-use-context-menus.md).
+- Open when looking up Workspace basics - Use keyboard shortcut sets in InCopy. [Workspace basics - Use keyboard shortcut sets](workspace-basics-use-keyboard-shortcut-sets.md).
+- Open when looking up Workspace basics - Use toolbars in InCopy. [Workspace basics - Use toolbars](workspace-basics-use-toolbars.md).
+- Open when looking up Workspace basics - View shortcuts in InCopy. [Workspace basics - View shortcuts](workspace-basics-view-shortcuts.md).
+- Open when looking up Workspace basics - View tool hints in InCopy. [Workspace basics - View tool hints](workspace-basics-view-tool-hints.md).

@@ -1,4 +1,4 @@
-# Shared Adobe platform — GotoAnchorBehaviors
+# Shared Adobe platform - GotoAnchorBehaviors
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up GotoAnchorBehaviors collection iteration in Shared Adobe platform. [GotoAnchorBehaviors collection iteration](collection-iteration.md).

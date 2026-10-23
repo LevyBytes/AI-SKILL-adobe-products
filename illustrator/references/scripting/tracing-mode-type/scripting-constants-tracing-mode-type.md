@@ -1,4 +1,4 @@
-# Scripting Constants — TracingModeType
+# Scripting Constants - TracingModeType
 
 | Value | Description |
 | --- | --- |

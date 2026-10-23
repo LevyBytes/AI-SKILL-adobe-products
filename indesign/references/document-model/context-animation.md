@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: animation and timing
+# InDesign - InDesign document object model: animation and timing
 
-Open when working with animation and timing in InDesign — InDesign document object model.
+Open when working with animation and timing in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-animation.json).
 

@@ -1,6 +1,6 @@
-# Shared Adobe platform — FindTextPreference: conditional text and editorial review
+# Shared Adobe platform - FindTextPreference: conditional text and editorial review
 
-Open when checking conditional text and editorial review in Shared Adobe platform — FindTextPreference.
+Open when checking conditional text and editorial review in Shared Adobe platform - FindTextPreference.
 
 Open when selecting an exact API member: [Topic catalog](context-conditions-and-review.json).
 

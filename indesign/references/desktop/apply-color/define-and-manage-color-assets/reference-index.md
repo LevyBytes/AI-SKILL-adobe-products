@@ -1,4 +1,4 @@
-# InDesign — Define and manage color assets
+# InDesign - Define and manage color assets
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up Add a new swatch to an existing mixed ink group in InDesign. [Add a new swatch to an existing mixed ink group](add-a-new-swatch-to-an-existing-mixed-ink-group.md).

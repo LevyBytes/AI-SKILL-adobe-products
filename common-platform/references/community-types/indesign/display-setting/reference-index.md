@@ -1,4 +1,4 @@
-# Shared Adobe platform — DisplaySetting
+# Shared Adobe platform - DisplaySetting
 
 - Open when navigating this context through structured topic metadata. [Topic catalog](topics.json).
 - Open when looking up DisplaySetting declaration in Shared Adobe platform. [DisplaySetting declaration](declaration.md).

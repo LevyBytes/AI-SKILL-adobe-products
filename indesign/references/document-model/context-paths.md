@@ -1,6 +1,6 @@
-# InDesign — InDesign document object model: paths, outlines and shapes
+# InDesign - InDesign document object model: paths, outlines and shapes
 
-Open when working with paths, outlines and shapes in InDesign — InDesign document object model.
+Open when working with paths, outlines and shapes in InDesign - InDesign document object model.
 
 Open when selecting an exact reference: [Topic catalog](context-paths.json).
 

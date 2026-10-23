@@ -1,4 +1,4 @@
-# Viewing stories — Working with ConnectNow
+# Viewing stories - Working with ConnectNow
 
 Adobe ConnectNow gives you a private, secure online meeting room for real-time web collaboration. ConnectNow supports screen sharing and annotation, chat messages, and integrated audio communication. It can also broadcast live video, share files, record meeting notes, and control an attendee's computer.
 

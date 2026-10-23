@@ -1,4 +1,4 @@
-# Scripting Constants — RulerUnits
+# Scripting Constants - RulerUnits
 
 Document ruler measurements use these default unit choices.
 

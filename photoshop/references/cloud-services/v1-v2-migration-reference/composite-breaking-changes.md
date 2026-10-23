@@ -1,4 +1,4 @@
-# Composite API (`/v2/create-composite`) — key breaking changes reference
+# Composite API (`/v2/create-composite`) - key breaking changes reference
 
 This reference groups the major breaking changes that affect the four V1 composite-family endpoints: `documentCreate`, `documentOperations`, `renditionCreate`, and `smartObject`.
 

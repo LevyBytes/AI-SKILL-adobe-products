@@ -6,7 +6,7 @@ Puts up a dialog box that poses a question alongside a field where the user can 
 
 Parameters
 
-Parameter — Description
+Parameter: Description
 
 cQuestion
 

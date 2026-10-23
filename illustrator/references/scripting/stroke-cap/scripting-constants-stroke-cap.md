@@ -1,4 +1,4 @@
-# Scripting Constants — StrokeCap
+# Scripting Constants - StrokeCap
 
 Path stroke endpoints can use these cap styles.
 

@@ -1,4 +1,4 @@
-# Changes Across Versions — Acrobat 7.0.5 changes
+# Changes Across Versions - Acrobat 7.0.5 changes
 
 Columns 5 and 6 on the quick bars are gone.
 

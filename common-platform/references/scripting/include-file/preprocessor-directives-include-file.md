@@ -1,4 +1,4 @@
-# Preprocessor directives — #include file
+# Preprocessor directives - #include file
 
 Includes a JavaScript source file located elsewhere. The named file's contents are inserted into the current file at the directive's position. The file argument uses an Adobe portable file specification. See Specifying paths.
 
